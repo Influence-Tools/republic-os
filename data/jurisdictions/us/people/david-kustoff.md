@@ -1,0 +1,42 @@
+---
+type: Person
+title: "David Kustoff"
+description: "U.S. House of Representatives - TN-8 — Congressional District 8"
+role: "U.S. House of Representatives - TN-8"
+party: "R"
+level: "federal"
+branch: "legislative"
+state: "TN"
+district: "Congressional District 8"
+tenure:
+  start: "2025-01-03"
+  current: true
+election:
+  next: 2026
+  term_length: 2
+  term_limit: "none"
+ids:
+  person: "1ea203a4-7471-4dc8-bf33-829e80bcffc5"
+  office: "2f8765f4-8780-456f-913d-02b30168f84b"
+  tenure: "325521ee-32c2-4293-9fcf-2e52397bd697"
+  jurisdiction: "7387ebfd-25c2-4577-a5cd-8322eb60aafc"
+sources:
+  - field: tenure
+    source: "House Clerk XML 2026-06-10"
+  - field: jurisdiction
+    source: "Census 119th CD 500k"
+confidence: official
+tags: [officeholder, federal, legislative, tn]
+timestamp: "2026-06-20"
+---
+
+# David Kustoff
+
+Current U.S. House of Representatives - TN-8 (Congressional District 8).
+
+## Sources
+
+- tenure: House Clerk XML 2026-06-10
+- jurisdiction: Census 119th CD 500k
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

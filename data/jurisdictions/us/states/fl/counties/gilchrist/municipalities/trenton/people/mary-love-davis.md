@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Mary Love Davis"
+description: "Trenton City Council — Trenton, FL"
+role: "Trenton City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "3bf1ff53-1ce5-4d2b-a2ab-f397c88569f3"
+  office: "0c327123-9467-43e9-9612-741dd94813dc"
+  tenure: "3344e953-360b-4e8b-ad48-0aaed92802d5"
+  jurisdiction: "9cbdfb12-0fbb-4bfc-8688-ab13176e66da"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Mary Love Davis
+
+Current Trenton City Council (Trenton, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

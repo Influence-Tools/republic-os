@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Anthony Vallee"
+description: "DeFuniak Springs City Council — DeFuniak Springs, FL"
+role: "DeFuniak Springs City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilman"
+ids:
+  person: "237212b5-e374-4ef5-90ec-6c7588612dfd"
+  office: "eaca4b8d-cc32-46a6-8cc1-71364c29ff84"
+  tenure: "d8b65bd3-e6aa-4102-92b4-dbbfca75505f"
+  jurisdiction: "fea6a3cb-0568-4e98-9494-469b78b905bc"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Anthony Vallee
+
+Current DeFuniak Springs City Council (DeFuniak Springs, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

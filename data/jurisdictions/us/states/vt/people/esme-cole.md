@@ -1,0 +1,41 @@
+---
+type: Person
+title: "Esme Cole"
+description: "VT House District Windsor-6 — VT State House of Representatives District Windsor-6"
+role: "VT House District Windsor-6"
+party: "D"
+level: "state"
+branch: "legislative"
+state: "VT"
+district: "VT State House of Representatives District Windsor-6"
+tenure:
+  start: "2023-01-04"
+  current: true
+election:
+  term_length: 2
+  term_limit: "varies"
+ids:
+  person: "ff37f43d-a173-4243-98a5-9efb3984835a"
+  office: "ac410ddd-2cde-4921-b369-6c95d9f48ee6"
+  tenure: "57ce2d22-722c-468a-a397-899bd231573c"
+  jurisdiction: "252bd36c-8d74-47b3-b606-7eb527c25fd2"
+sources:
+  - field: tenure
+    source: "OpenStates YAML via GitHub 2026-06-20"
+  - field: jurisdiction
+    source: "Geometry not found in SLD layer"
+confidence: official
+tags: [officeholder, state, legislative, vt]
+timestamp: "2026-06-20"
+---
+
+# Esme Cole
+
+Current VT House District Windsor-6 (VT State House of Representatives District Windsor-6).
+
+## Sources
+
+- tenure: OpenStates YAML via GitHub 2026-06-20
+- jurisdiction: Geometry not found in SLD layer
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

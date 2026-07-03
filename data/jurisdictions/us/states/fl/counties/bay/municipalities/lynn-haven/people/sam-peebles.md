@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Sam Peebles"
+description: "Lynn Haven City Council — Lynn Haven, FL"
+role: "Lynn Haven City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "6a580024-05ae-4af6-b2b7-f90e71c1872d"
+  office: "e1435140-24cd-426c-aa29-9764fba5892d"
+  tenure: "6e3183c5-c959-4a59-9cb6-1ab8827a5685"
+  jurisdiction: "774589b8-1c75-45ee-99f1-87882d1da35a"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Sam Peebles
+
+Current Lynn Haven City Council (Lynn Haven, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

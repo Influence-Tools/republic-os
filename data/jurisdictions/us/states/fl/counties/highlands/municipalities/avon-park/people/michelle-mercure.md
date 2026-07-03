@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Michelle Mercure"
+description: "Avon Park City Council — Avon Park, FL"
+role: "Avon Park City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilwoman"
+ids:
+  person: "589ef7f9-e77d-421d-8f1b-15fe8e38fa62"
+  office: "7ae83428-ea61-41d2-974e-6c2a47c544e6"
+  tenure: "d0e7a52e-87af-443a-8db8-2dc0c10f5b59"
+  jurisdiction: "b111115c-a467-4fc0-8c3f-ee942a47bae7"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Michelle Mercure
+
+Current Avon Park City Council (Avon Park, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

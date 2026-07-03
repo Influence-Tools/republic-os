@@ -1,0 +1,42 @@
+---
+type: Person
+title: "Morgan McGarvey"
+description: "U.S. House of Representatives - KY-3 — Congressional District 3"
+role: "U.S. House of Representatives - KY-3"
+party: "D"
+level: "federal"
+branch: "legislative"
+state: "KY"
+district: "Congressional District 3"
+tenure:
+  start: "2025-01-03"
+  current: true
+election:
+  next: 2026
+  term_length: 2
+  term_limit: "none"
+ids:
+  person: "925a9e58-5f69-4768-a9ab-53c4ec6f1793"
+  office: "286b2fdf-45f3-44e1-8490-69798c16db1a"
+  tenure: "197e8154-fd4a-4887-867e-c4e0cbbebd91"
+  jurisdiction: "bd6810c4-1f3f-4811-8d91-17782450050f"
+sources:
+  - field: tenure
+    source: "House Clerk XML 2026-06-10"
+  - field: jurisdiction
+    source: "Census 119th CD 500k"
+confidence: official
+tags: [officeholder, federal, legislative, ky]
+timestamp: "2026-06-20"
+---
+
+# Morgan McGarvey
+
+Current U.S. House of Representatives - KY-3 (Congressional District 3).
+
+## Sources
+
+- tenure: House Clerk XML 2026-06-10
+- jurisdiction: Census 119th CD 500k
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Paul Rolli"
+description: "Wilton Manors City Council — Wilton Manors, FL"
+role: "Wilton Manors City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "36ae9a62-4f16-4fb4-a603-21948efa88b6"
+  office: "959fbd1e-0af2-4e43-a370-78e75c7d2099"
+  tenure: "00994180-44a2-45f7-bd87-73653d63bc0e"
+  jurisdiction: "fb2536bc-1757-4c48-965a-69ee6ba2db62"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Paul Rolli
+
+Current Wilton Manors City Council (Wilton Manors, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Jeff Boddiford"
+description: "Oviedo City Council — Oviedo, FL"
+role: "Oviedo City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilmember"
+ids:
+  person: "9643ca4b-8c96-407c-842a-2410c0dde2d8"
+  office: "57e6297c-473f-40d1-9364-bb376904a516"
+  tenure: "51676b30-346a-4868-b894-f4ebea456182"
+  jurisdiction: "53efbbb9-d1f1-4816-95f4-e055d92a9193"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Jeff Boddiford
+
+Current Oviedo City Council (Oviedo, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

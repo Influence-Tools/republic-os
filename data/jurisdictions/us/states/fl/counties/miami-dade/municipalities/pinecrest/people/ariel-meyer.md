@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Ariel Meyer"
+description: "Pinecrest City Council — Pinecrest, FL"
+role: "Pinecrest City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilmember"
+ids:
+  person: "c873e230-abad-44a3-9df0-50e4568dcc16"
+  office: "df49a470-819b-4e81-93c2-e60532d99543"
+  tenure: "c62daf55-1e96-44c4-9789-4322ad3a4d74"
+  jurisdiction: "be8827ed-10e6-44ee-a555-dd20f76139c0"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Ariel Meyer
+
+Current Pinecrest City Council (Pinecrest, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

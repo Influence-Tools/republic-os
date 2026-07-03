@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Veronica Amsler"
+description: "Biscayne Park City Council — Biscayne Park, FL"
+role: "Biscayne Park City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "89c4d9de-e90f-4725-8411-e3400eb1f271"
+  office: "ae3f0cb8-9c1b-4f45-bb99-78f4b265811d"
+  tenure: "88dd9e58-778d-4c04-b24f-43ccaceccc03"
+  jurisdiction: "86d8236f-18ee-4f36-b8c1-1772ae9358c4"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Veronica Amsler
+
+Current Biscayne Park City Council (Biscayne Park, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Tuten, Chris"
+description: "Jefferson County Commission — Jefferson County, FL"
+role: "Jefferson County Commission"
+level: "county"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "c656b31a-76ce-4401-b298-9b73a438419c"
+  office: "d09ec655-8668-4c21-a7af-56be5d6823f2"
+  tenure: "a381fbb1-5ed2-449c-853d-e0057d16a0aa"
+  jurisdiction: "8fc89401-62ca-424a-90a6-80ecd3250c1a"
+sources:
+  - field: office
+    source: "fac-directory-scrape"
+  - field: tenure
+    source: "fac-directory-scrape"
+  - field: jurisdiction
+    source: "census-tiger-2024-county"
+confidence: official
+tags: [officeholder, county, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Tuten, Chris
+
+Current Jefferson County Commission (Jefferson County, FL).
+
+## Sources
+
+- office: fac-directory-scrape
+- tenure: fac-directory-scrape
+- jurisdiction: census-tiger-2024-county
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

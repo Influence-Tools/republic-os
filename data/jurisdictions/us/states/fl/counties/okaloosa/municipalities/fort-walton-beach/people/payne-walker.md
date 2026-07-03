@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Payne Walker"
+description: "Fort Walton Beach City Council — Fort Walton Beach, FL"
+role: "Fort Walton Beach City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilman"
+ids:
+  person: "6b43b7d2-e143-4b0e-81d4-77e328a854b3"
+  office: "f17cc803-9140-42fa-9084-0b0993b08e28"
+  tenure: "f27aff57-ef99-4a00-a30c-2dabfe59ceae"
+  jurisdiction: "c63c62a5-f2e7-4e03-adf7-77bba6d509b4"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Payne Walker
+
+Current Fort Walton Beach City Council (Fort Walton Beach, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

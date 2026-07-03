@@ -1,0 +1,42 @@
+---
+type: Person
+title: "Mike Flood"
+description: "U.S. House of Representatives - NE-1 — Congressional District 1"
+role: "U.S. House of Representatives - NE-1"
+party: "R"
+level: "federal"
+branch: "legislative"
+state: "NE"
+district: "Congressional District 1"
+tenure:
+  start: "2025-01-03"
+  current: true
+election:
+  next: 2026
+  term_length: 2
+  term_limit: "none"
+ids:
+  person: "76228bab-19c0-44d4-98ba-79da84adb1a4"
+  office: "8f4aea16-cdcd-4b9d-bcb6-2c1a07f9f32b"
+  tenure: "4579240c-34f2-43a0-a695-8d88700231a5"
+  jurisdiction: "78173c09-1e09-4fda-a5ca-d1d040d9d7f2"
+sources:
+  - field: tenure
+    source: "House Clerk XML 2026-06-10"
+  - field: jurisdiction
+    source: "Census 119th CD 500k"
+confidence: official
+tags: [officeholder, federal, legislative, ne]
+timestamp: "2026-06-20"
+---
+
+# Mike Flood
+
+Current U.S. House of Representatives - NE-1 (Congressional District 1).
+
+## Sources
+
+- tenure: House Clerk XML 2026-06-10
+- jurisdiction: Census 119th CD 500k
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

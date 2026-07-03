@@ -1,0 +1,39 @@
+---
+type: Person
+title: "John Lauser"
+description: "Largo City Council — Largo, FL"
+role: "Largo City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "cd0a209d-1e9c-4846-a5a6-6fa1f71e1cc0"
+  office: "ce31250d-6c03-47bf-87fd-9e0670a2954f"
+  tenure: "35a2e5de-3368-49b3-b435-64542a0dbee8"
+  jurisdiction: "5614c16b-717e-4b0e-ba0e-acc32a224a68"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# John Lauser
+
+Current Largo City Council (Largo, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

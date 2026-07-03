@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Dan Samaria"
+description: "Biscayne Park City Council — Biscayne Park, FL"
+role: "Biscayne Park City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Vice Mayor"
+ids:
+  person: "f3da0736-4295-4f9b-a76a-0ccc938dc05e"
+  office: "ae3f0cb8-9c1b-4f45-bb99-78f4b265811d"
+  tenure: "b870e0d9-c63a-408e-a1ff-7363b941508b"
+  jurisdiction: "86d8236f-18ee-4f36-b8c1-1772ae9358c4"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Dan Samaria
+
+Current Biscayne Park City Council (Biscayne Park, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

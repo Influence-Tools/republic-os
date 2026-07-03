@@ -1,0 +1,42 @@
+---
+type: Person
+title: "James Comer"
+description: "U.S. House of Representatives - KY-1 — Congressional District 1"
+role: "U.S. House of Representatives - KY-1"
+party: "R"
+level: "federal"
+branch: "legislative"
+state: "KY"
+district: "Congressional District 1"
+tenure:
+  start: "2025-01-03"
+  current: true
+election:
+  next: 2026
+  term_length: 2
+  term_limit: "none"
+ids:
+  person: "b8919e1b-9905-4a0c-b042-439f9e1ed3ee"
+  office: "cc515865-cad2-49a6-97e3-f35d465a01ec"
+  tenure: "4a70c71b-2549-4833-aac3-c8ea018deea0"
+  jurisdiction: "2342d2db-33aa-4765-a877-74c2ff322508"
+sources:
+  - field: tenure
+    source: "House Clerk XML 2026-06-10"
+  - field: jurisdiction
+    source: "Census 119th CD 500k"
+confidence: official
+tags: [officeholder, federal, legislative, ky]
+timestamp: "2026-06-20"
+---
+
+# James Comer
+
+Current U.S. House of Representatives - KY-1 (Congressional District 1).
+
+## Sources
+
+- tenure: House Clerk XML 2026-06-10
+- jurisdiction: Census 119th CD 500k
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

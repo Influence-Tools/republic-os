@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Larry Roth"
+description: "Homestead City Council — Homestead, FL"
+role: "Homestead City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilman"
+ids:
+  person: "3478ddc4-b4c2-457d-b998-8eb5cb6a0dd9"
+  office: "52e2a8ef-3f5a-4367-9e8b-6e0b312bc946"
+  tenure: "d4deb44f-3320-448a-9f29-738885cf0b2e"
+  jurisdiction: "b77fd16e-f96f-475e-9f02-9c12bb7661e5"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Larry Roth
+
+Current Homestead City Council (Homestead, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

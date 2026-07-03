@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Jorge Santin"
+description: "Miami Springs City Council — Miami Springs, FL"
+role: "Miami Springs City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilman"
+ids:
+  person: "850165b6-225a-49d2-833b-9f85a9011621"
+  office: "812af3be-cc10-4ead-af7e-c19383531b9f"
+  tenure: "712d4c0c-53c1-4c2c-926a-9e69513c2f81"
+  jurisdiction: "80fc1665-2647-409e-be84-d10c676a3005"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Jorge Santin
+
+Current Miami Springs City Council (Miami Springs, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

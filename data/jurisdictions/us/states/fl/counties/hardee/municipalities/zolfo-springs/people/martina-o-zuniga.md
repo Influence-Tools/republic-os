@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Martina O. Zuniga"
+description: "Zolfo Springs City Council — Zolfo Springs, FL"
+role: "Zolfo Springs City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Vice Mayor"
+ids:
+  person: "d6f33375-8148-4817-8aa8-d539eb82c9d0"
+  office: "4cf368e6-9943-4c1c-a3dd-3d26c71c43c9"
+  tenure: "638d1bf7-6e21-447d-bf5f-f802f5fbc4e8"
+  jurisdiction: "0ab34d0f-a8a9-4fec-a22f-6a5948bdcfa8"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Martina O. Zuniga
+
+Current Zolfo Springs City Council (Zolfo Springs, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

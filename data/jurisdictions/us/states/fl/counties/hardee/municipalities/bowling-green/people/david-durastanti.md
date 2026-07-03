@@ -1,0 +1,39 @@
+---
+type: Person
+title: "David Durastanti"
+description: "Bowling Green City Council — Bowling Green, FL"
+role: "Bowling Green City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "c65770ce-b2dd-4bf2-9834-536f02a1807b"
+  office: "00660632-64d9-42da-a390-a6a73e023b18"
+  tenure: "6a54654b-aa64-41ac-9132-99696b75d9df"
+  jurisdiction: "d6cbd2da-7813-43f3-88c0-b214d913ab92"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# David Durastanti
+
+Current Bowling Green City Council (Bowling Green, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

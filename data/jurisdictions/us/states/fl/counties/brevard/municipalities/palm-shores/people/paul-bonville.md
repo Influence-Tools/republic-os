@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Paul Bonville"
+description: "Palm Shores City Council — Palm Shores, FL"
+role: "Palm Shores City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilman"
+ids:
+  person: "85fb22ac-650a-4fca-9e91-15a2a309ed72"
+  office: "1b5b6eb2-a07c-4ab5-89cf-ffb6eb619aaf"
+  tenure: "c54ff99c-0370-44af-a123-dcb81c1ff91c"
+  jurisdiction: "b2a0bed4-d3b9-4993-b854-97ae4f59fe09"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Paul Bonville
+
+Current Palm Shores City Council (Palm Shores, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

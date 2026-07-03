@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Art Gonzalez"
+description: "Biscayne Park City Council — Biscayne Park, FL"
+role: "Biscayne Park City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "6eee60ee-f160-4990-ab58-1c040ef145c2"
+  office: "ae3f0cb8-9c1b-4f45-bb99-78f4b265811d"
+  tenure: "20df1147-aa5c-48e5-b4fb-55071502b126"
+  jurisdiction: "86d8236f-18ee-4f36-b8c1-1772ae9358c4"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Art Gonzalez
+
+Current Biscayne Park City Council (Biscayne Park, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

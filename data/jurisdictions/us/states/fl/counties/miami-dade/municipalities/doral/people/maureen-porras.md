@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Maureen Porras"
+description: "Doral City Council — Doral, FL"
+role: "Doral City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilwoman"
+ids:
+  person: "800781dd-f07f-4499-ac37-d61d621d676d"
+  office: "9dd5b302-8462-4a52-a06b-560b98893cc4"
+  tenure: "35b73ead-dddd-4913-8b5a-b10fcf0395ee"
+  jurisdiction: "d5538916-1d78-4f95-92e0-3d9c8e808544"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Maureen Porras
+
+Current Doral City Council (Doral, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

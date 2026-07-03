@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Annette Wilson"
+description: "Dundee City Council — Dundee, FL"
+role: "Dundee City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Commissioner"
+ids:
+  person: "7065bc27-ae32-407c-b715-7b12b64cb461"
+  office: "d24b89af-1f9d-444e-b9ab-d7b9cc07c83b"
+  tenure: "c68433a5-1106-4ee2-b896-d37118db2271"
+  jurisdiction: "28ad49bb-1887-4f91-ad7b-37406e0fa7da"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Annette Wilson
+
+Current Dundee City Council (Dundee, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

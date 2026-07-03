@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Kevin Putansu"
+description: "Micanopy City Council — Micanopy, FL"
+role: "Micanopy City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Mayor Pro Tem"
+ids:
+  person: "e6f598f9-fd7b-4e8f-88b0-788119adbd5d"
+  office: "55abdf5e-6b3c-40a9-9f0d-42df3a77d559"
+  tenure: "a8635761-74cc-47ab-affd-8521303ee5ba"
+  jurisdiction: "4cb38f1f-eaae-48bc-9008-20c7f2411ae0"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Kevin Putansu
+
+Current Micanopy City Council (Micanopy, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

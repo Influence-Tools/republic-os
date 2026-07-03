@@ -1,0 +1,42 @@
+---
+type: Person
+title: "Jennifer L. McClellan"
+description: "U.S. House of Representatives - VA-4 — Congressional District 4"
+role: "U.S. House of Representatives - VA-4"
+party: "D"
+level: "federal"
+branch: "legislative"
+state: "VA"
+district: "Congressional District 4"
+tenure:
+  start: "2025-01-03"
+  current: true
+election:
+  next: 2026
+  term_length: 2
+  term_limit: "none"
+ids:
+  person: "f7755997-d322-4ce6-8b4a-2bb230fe322c"
+  office: "1026a9b5-e06b-4048-b535-ddc49eb2e7e4"
+  tenure: "5136263e-7376-4041-b0f1-e4d1439f4f16"
+  jurisdiction: "55e4aca8-0603-4c98-804c-a8c48572012c"
+sources:
+  - field: tenure
+    source: "House Clerk XML 2026-06-10"
+  - field: jurisdiction
+    source: "Census 119th CD 500k"
+confidence: official
+tags: [officeholder, federal, legislative, va]
+timestamp: "2026-06-20"
+---
+
+# Jennifer L. McClellan
+
+Current U.S. House of Representatives - VA-4 (Congressional District 4).
+
+## Sources
+
+- tenure: House Clerk XML 2026-06-10
+- jurisdiction: Census 119th CD 500k
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

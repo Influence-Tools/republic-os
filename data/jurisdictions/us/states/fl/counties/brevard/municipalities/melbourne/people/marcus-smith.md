@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Marcus Smith"
+description: "Melbourne City Council — Melbourne, FL"
+role: "Melbourne City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilmember"
+ids:
+  person: "1052d4ec-a8ba-4aa3-afe8-26b8b357f12b"
+  office: "b764cc92-2a6d-4185-9a7a-33c89c9b7889"
+  tenure: "8642f5bf-555c-463f-b3e8-24ab39b053ad"
+  jurisdiction: "927f30a9-3e88-4561-ac18-bef01060a121"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Marcus Smith
+
+Current Melbourne City Council (Melbourne, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).

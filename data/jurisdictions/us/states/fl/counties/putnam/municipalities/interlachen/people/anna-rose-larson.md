@@ -1,0 +1,39 @@
+---
+type: Person
+title: "Anna Rose Larson"
+description: "Interlachen City Council — Interlachen, FL"
+role: "Interlachen City Council"
+level: "municipal"
+branch: "legislative"
+state: "FL"
+tenure:
+  current: true
+  notes: "Title: Councilmember"
+ids:
+  person: "535abd6e-af14-4993-8003-5614a1ba7d44"
+  office: "0965bae9-0155-40ef-8d67-786f46538760"
+  tenure: "4cfbcbab-bb11-4dff-8710-9b9b370447cf"
+  jurisdiction: "62366313-1734-4f5d-9169-f23b80d8f1d1"
+sources:
+  - field: office
+    source: "flcities-partner-api"
+  - field: tenure
+    source: "flcities-partner-api"
+  - field: jurisdiction
+    source: "census-tiger-2024"
+confidence: official
+tags: [officeholder, municipal, legislative, fl]
+timestamp: "2026-06-20"
+---
+
+# Anna Rose Larson
+
+Current Interlachen City Council (Interlachen, FL).
+
+## Sources
+
+- office: flcities-partner-api
+- tenure: flcities-partner-api
+- jurisdiction: census-tiger-2024
+
+Generated from the Atlas officeholders v2 export (2026-06-20).
