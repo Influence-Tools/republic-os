@@ -8,6 +8,19 @@ level: "federal"
 branch: "legislative"
 state: "TN"
 district: "Congressional District 1"
+committees:
+  - name: "House Committee on Energy and Commerce"
+    role: "member"
+    body: "us/bodies/house/committees/energy-and-commerce"
+  - name: "House Committee on Energy and Commerce - Energy"
+    role: "member"
+    body: "us/bodies/house/committees/energy-and-commerce/subcommittees/energy"
+  - name: "House Committee on Energy and Commerce - Health"
+    role: "vice-chair"
+    body: "us/bodies/house/committees/energy-and-commerce/subcommittees/health"
+  - name: "House Committee on Energy and Commerce - Oversight and Investigations"
+    role: "member"
+    body: "us/bodies/house/committees/energy-and-commerce/subcommittees/oversight-and-investigations"
 tenure:
   start: "2025-01-03"
   current: true
@@ -20,11 +33,14 @@ ids:
   office: "c8fd03d8-24e0-4af5-a831-0b9b0438005d"
   tenure: "12951467-3b2f-4a37-892a-42a6f5f60baf"
   jurisdiction: "035aba2e-ea9f-4623-8d46-23c0b742f754"
+  bioguide: "H001086"
 sources:
   - field: tenure
     source: "House Clerk XML 2026-06-10"
   - field: jurisdiction
     source: "Census 119th CD 500k"
+  - field: roles
+    source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, tn]
 timestamp: "2026-06-20"
@@ -34,9 +50,17 @@ timestamp: "2026-06-20"
 
 Current U.S. House of Representatives - TN-1 (Congressional District 1).
 
+## Committees
+
+- [House Committee on Energy and Commerce](/us/bodies/house/committees/energy-and-commerce.md)
+- [House Committee on Energy and Commerce - Energy](/us/bodies/house/committees/energy-and-commerce/subcommittees/energy.md)
+- [House Committee on Energy and Commerce - Health](/us/bodies/house/committees/energy-and-commerce/subcommittees/health.md) — **vice-chair**
+- [House Committee on Energy and Commerce - Oversight and Investigations](/us/bodies/house/committees/energy-and-commerce/subcommittees/oversight-and-investigations.md)
+
 ## Sources
 
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
+- roles: congress-legislators (unitedstates project)
 
 Generated from the Atlas officeholders v2 export (2026-06-20).

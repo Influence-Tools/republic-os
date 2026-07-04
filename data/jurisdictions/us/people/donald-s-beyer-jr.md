@@ -8,6 +8,19 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 8"
+committees:
+  - name: "House Committee on Ways and Means"
+    role: "member"
+    body: "us/bodies/house/committees/ways-and-means"
+  - name: "House Committee on Ways and Means - Tax"
+    role: "member"
+    body: "us/bodies/house/committees/ways-and-means/subcommittees/tax"
+  - name: "House Committee on Ways and Means - Trade"
+    role: "member"
+    body: "us/bodies/house/committees/ways-and-means/subcommittees/trade"
+  - name: "Joint Economic Committee"
+    role: "member"
+    body: "us/bodies/joint/committees/joint-economic-committee"
 tenure:
   start: "2025-01-03"
   current: true
@@ -20,11 +33,14 @@ ids:
   office: "10cd0171-aa5a-473c-bed0-80213aee4a71"
   tenure: "99f31e41-7dcc-4efa-9048-85d47b30f96e"
   jurisdiction: "520d0858-6918-4e58-a8a5-4c003fc7b41c"
+  bioguide: "B001292"
 sources:
   - field: tenure
     source: "House Clerk XML 2026-06-10"
   - field: jurisdiction
     source: "Census 119th CD 500k"
+  - field: roles
+    source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, va]
 timestamp: "2026-06-20"
@@ -34,9 +50,17 @@ timestamp: "2026-06-20"
 
 Current U.S. House of Representatives - VA-8 (Congressional District 8).
 
+## Committees
+
+- [House Committee on Ways and Means](/us/bodies/house/committees/ways-and-means.md)
+- [House Committee on Ways and Means - Tax](/us/bodies/house/committees/ways-and-means/subcommittees/tax.md)
+- [House Committee on Ways and Means - Trade](/us/bodies/house/committees/ways-and-means/subcommittees/trade.md)
+- [Joint Economic Committee](/us/bodies/joint/committees/joint-economic-committee.md)
+
 ## Sources
 
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
+- roles: congress-legislators (unitedstates project)
 
 Generated from the Atlas officeholders v2 export (2026-06-20).

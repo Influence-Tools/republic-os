@@ -8,6 +8,13 @@ level: "federal"
 branch: "legislative"
 state: "MO"
 district: "Congressional District 8"
+committees:
+  - name: "House Committee on Ways and Means"
+    role: "chair"
+    body: "us/bodies/house/committees/ways-and-means"
+  - name: "Joint Committee on Taxation"
+    role: "vice-chair"
+    body: "us/bodies/joint/committees/taxation"
 tenure:
   start: "2025-01-03"
   current: true
@@ -20,11 +27,14 @@ ids:
   office: "0cc46062-e2f0-4019-a84b-fe9554f756c2"
   tenure: "57de2f9c-a46b-4c47-b126-a02f60bd3bb5"
   jurisdiction: "65d77e16-fcd5-45dc-9417-dd0a401a9eae"
+  bioguide: "S001195"
 sources:
   - field: tenure
     source: "House Clerk XML 2026-06-10"
   - field: jurisdiction
     source: "Census 119th CD 500k"
+  - field: roles
+    source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, mo]
 timestamp: "2026-06-20"
@@ -34,9 +44,15 @@ timestamp: "2026-06-20"
 
 Current U.S. House of Representatives - MO-8 (Congressional District 8).
 
+## Committees
+
+- [House Committee on Ways and Means](/us/bodies/house/committees/ways-and-means.md) — **chair**
+- [Joint Committee on Taxation](/us/bodies/joint/committees/taxation.md) — **vice-chair**
+
 ## Sources
 
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
+- roles: congress-legislators (unitedstates project)
 
 Generated from the Atlas officeholders v2 export (2026-06-20).

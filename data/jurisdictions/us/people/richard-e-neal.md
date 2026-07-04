@@ -8,6 +8,13 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 1"
+committees:
+  - name: "House Committee on Ways and Means"
+    role: "ranking-member"
+    body: "us/bodies/house/committees/ways-and-means"
+  - name: "Joint Committee on Taxation"
+    role: "member"
+    body: "us/bodies/joint/committees/taxation"
 tenure:
   start: "2025-01-03"
   current: true
@@ -20,11 +27,14 @@ ids:
   office: "7aa62281-2b56-486b-9793-da8e35383902"
   tenure: "c19d6256-6df5-4034-aa54-7f72bb97767d"
   jurisdiction: "74cd64a1-a06f-4b67-ad78-5587d629ce60"
+  bioguide: "N000015"
 sources:
   - field: tenure
     source: "House Clerk XML 2026-06-10"
   - field: jurisdiction
     source: "Census 119th CD 500k"
+  - field: roles
+    source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, ma]
 timestamp: "2026-06-20"
@@ -34,9 +44,15 @@ timestamp: "2026-06-20"
 
 Current U.S. House of Representatives - MA-1 (Congressional District 1).
 
+## Committees
+
+- [House Committee on Ways and Means](/us/bodies/house/committees/ways-and-means.md) — **ranking-member**
+- [Joint Committee on Taxation](/us/bodies/joint/committees/taxation.md)
+
 ## Sources
 
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
+- roles: congress-legislators (unitedstates project)
 
 Generated from the Atlas officeholders v2 export (2026-06-20).

@@ -1,0 +1,233 @@
+{"code": "JCSE", "name": "Commission on Security and Cooperation in Europe", "type": "committee", "chamber": "joint", "labels": ["Committee"]}
+{"code": "HSAG", "name": "House Committee on Agriculture", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSAP", "name": "House Committee on Appropriations", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSAS", "name": "House Committee on Armed Services", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSED", "name": "House Committee on Education and Workforce", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSIF", "name": "House Committee on Energy and Commerce", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSSO", "name": "House Committee on Ethics", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSBA", "name": "House Committee on Financial Services", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSFA", "name": "House Committee on Foreign Affairs", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSHM", "name": "House Committee on Homeland Security", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSHA", "name": "House Committee on House Administration", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSII", "name": "House Committee on Natural Resources", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSGO", "name": "House Committee on Oversight and Government Reform", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSRU", "name": "House Committee on Rules", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSSY", "name": "House Committee on Science, Space, and Technology", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSSM", "name": "House Committee on Small Business", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSPW", "name": "House Committee on Transportation and Infrastructure", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSVR", "name": "House Committee on Veterans' Affairs", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSWM", "name": "House Committee on Ways and Means", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSBU", "name": "House Committee on the Budget", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSJU", "name": "House Committee on the Judiciary", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HLIG", "name": "House Permanent Select Committee on Intelligence", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSZS", "name": "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "HSQJ", "name": "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021", "type": "committee", "chamber": "house", "labels": ["Committee"]}
+{"code": "JSLC", "name": "Joint Committee of Congress on the Library", "type": "committee", "chamber": "joint", "labels": ["Committee"]}
+{"code": "JSPR", "name": "Joint Committee on Printing", "type": "committee", "chamber": "joint", "labels": ["Committee"]}
+{"code": "JSTX", "name": "Joint Committee on Taxation", "type": "committee", "chamber": "joint", "labels": ["Committee"]}
+{"code": "JSEC", "name": "Joint Economic Committee", "type": "committee", "chamber": "joint", "labels": ["Committee"]}
+{"code": "SSAF", "name": "Senate Committee on Agriculture, Nutrition, and Forestry", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSAP", "name": "Senate Committee on Appropriations", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSAS", "name": "Senate Committee on Armed Services", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSBK", "name": "Senate Committee on Banking, Housing, and Urban Affairs", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSCM", "name": "Senate Committee on Commerce, Science, and Transportation", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSEG", "name": "Senate Committee on Energy and Natural Resources", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSEV", "name": "Senate Committee on Environment and Public Works", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSFI", "name": "Senate Committee on Finance", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSFR", "name": "Senate Committee on Foreign Relations", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSHR", "name": "Senate Committee on Health, Education, Labor, and Pensions", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSGA", "name": "Senate Committee on Homeland Security and Governmental Affairs", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SLIA", "name": "Senate Committee on Indian Affairs", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSRA", "name": "Senate Committee on Rules and Administration", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSSB", "name": "Senate Committee on Small Business and Entrepreneurship", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSVA", "name": "Senate Committee on Veterans' Affairs", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSBU", "name": "Senate Committee on the Budget", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SSJU", "name": "Senate Committee on the Judiciary", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SLET", "name": "Senate Select Committee on Ethics", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SLIN", "name": "Senate Select Committee on Intelligence", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SPAG", "name": "Senate Special Committee on Aging", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "SCNC", "name": "United States Senate Caucus on International Narcotics Control", "type": "committee", "chamber": "senate", "labels": ["Committee"]}
+{"code": "EO", "name": "Executive Office of the President of the United States", "type": "executive", "chamber": "executive", "labels": ["ExecutiveOffice"]}
+{"code": "H", "name": "United States House of Representatives", "type": "house", "chamber": "house", "labels": ["Institution"]}
+{"code": "S", "name": "United States Senate", "type": "senate", "chamber": "senate", "labels": ["Institution"]}
+{"code": "HSAG22", "name": "House Committee on Agriculture - Commodity Markets, Digital Assets, and Rural Development", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAG14", "name": "House Committee on Agriculture - Conservation, Research, and Biotechnology", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAG15", "name": "House Committee on Agriculture - Forestry and Horticulture", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAG16", "name": "House Committee on Agriculture - General Farm Commodities, Risk Management, and Credit", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAG29", "name": "House Committee on Agriculture - Livestock, Dairy, and Poultry", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAG03", "name": "House Committee on Agriculture - Nutrition and Foreign Agriculture", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP01", "name": "House Committee on Appropriations - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP19", "name": "House Committee on Appropriations - Commerce, Justice, Science, and Related Agencies", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP02", "name": "House Committee on Appropriations - Defense", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP10", "name": "House Committee on Appropriations - Energy and Water Development and Related Agencies", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP23", "name": "House Committee on Appropriations - Financial Services and General Government", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP15", "name": "House Committee on Appropriations - Homeland Security", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP06", "name": "House Committee on Appropriations - Interior, Environment, and Related Agencies", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP07", "name": "House Committee on Appropriations - Labor, Health and Human Services, Education, and Related Agencies", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP24", "name": "House Committee on Appropriations - Legislative Branch", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP18", "name": "House Committee on Appropriations - Military Construction, Veterans Affairs, and Related Agencies", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP04", "name": "House Committee on Appropriations - National Security, Department of State, and Related Programs", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAP20", "name": "House Committee on Appropriations - Transportation, Housing and Urban Development, and Related Agencies", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAS35", "name": "House Committee on Armed Services - Cyber, Information Technologies, and Innovation", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAS26", "name": "House Committee on Armed Services - Intelligence and Special Operations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAS02", "name": "House Committee on Armed Services - Military Personnel", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAS03", "name": "House Committee on Armed Services - Readiness", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAS28", "name": "House Committee on Armed Services - Seapower and Projection Forces", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAS29", "name": "House Committee on Armed Services - Strategic Forces", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSAS25", "name": "House Committee on Armed Services - Tactical Air and Land Forces", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSED14", "name": "House Committee on Education and Workforce - Early Childhood, Elementary, and Secondary Education", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSED02", "name": "House Committee on Education and Workforce - Health, Employment, Labor, and Pensions", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSED13", "name": "House Committee on Education and Workforce - Higher Education and Workforce Development", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSED10", "name": "House Committee on Education and Workforce - Workforce Protections", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSIF17", "name": "House Committee on Energy and Commerce - Commerce, Manufacturing, and Trade", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSIF16", "name": "House Committee on Energy and Commerce - Communications and Technology", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSIF03", "name": "House Committee on Energy and Commerce - Energy", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSIF18", "name": "House Committee on Energy and Commerce - Environment", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSIF14", "name": "House Committee on Energy and Commerce - Health", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSIF02", "name": "House Committee on Energy and Commerce - Oversight and Investigations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSBA16", "name": "House Committee on Financial Services - Capital Markets", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSBA21", "name": "House Committee on Financial Services - Digital Assets, Financial Technology, and Artificial Intelligence", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSBA20", "name": "House Committee on Financial Services - Financial Institutions", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSBA04", "name": "House Committee on Financial Services - Housing and Insurance", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSBA10", "name": "House Committee on Financial Services - National Security, Illicit Finance, and International Financial Institutions", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSBA09", "name": "House Committee on Financial Services - Oversight and Investigations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSFA16", "name": "House Committee on Foreign Affairs - Africa", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSFA05", "name": "House Committee on Foreign Affairs - East Asia and Pacific", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSFA14", "name": "House Committee on Foreign Affairs - Europe", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSFA13", "name": "House Committee on Foreign Affairs - Middle East and North Africa", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSFA17", "name": "House Committee on Foreign Affairs - Oversight and Intelligence", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSFA19", "name": "House Committee on Foreign Affairs - South and Central Asia", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSFA07", "name": "House Committee on Foreign Affairs - Western Hemisphere", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHM11", "name": "House Committee on Homeland Security - Border Security and Enforcement", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHM05", "name": "House Committee on Homeland Security - Counterterrorism and Intelligence", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHM08", "name": "House Committee on Homeland Security - Cybersecurity and Infrastructure Protection", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHM12", "name": "House Committee on Homeland Security - Emergency Management and Technology", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHM09", "name": "House Committee on Homeland Security - Oversight, Investigations, and Accountability", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHM07", "name": "House Committee on Homeland Security - Transportation and Maritime Security", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHA08", "name": "House Committee on House Administration - Elections", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSHA27", "name": "House Committee on House Administration - Modernization and Innovation", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSII06", "name": "House Committee on Natural Resources - Energy and Mineral Resources", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSII10", "name": "House Committee on Natural Resources - Federal Lands", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSII24", "name": "House Committee on Natural Resources - Indian and Insular Affairs", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSII15", "name": "House Committee on Natural Resources - Oversight and Investigations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSII13", "name": "House Committee on Natural Resources - Water, Wildlife and Fisheries", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSGO12", "name": "House Committee on Oversight and Government Reform - Cybersecurity, Information Technology, and Government Innovation", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSGO16", "name": "House Committee on Oversight and Government Reform - Delivering on Government Efficiency", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSGO05", "name": "House Committee on Oversight and Government Reform - Economic Growth, Energy Policy, and Regulatory Affairs", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSGO33", "name": "House Committee on Oversight and Government Reform - Federal Law Enforcement", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSGO24", "name": "House Committee on Oversight and Government Reform - Government Operations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSGO27", "name": "House Committee on Oversight and Government Reform - Health Care and Financial Services", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSGO06", "name": "House Committee on Oversight and Government Reform - Military and Foreign Affairs", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSRU02", "name": "House Committee on Rules - Legislative and Budget Process", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSRU04", "name": "House Committee on Rules - Rules and Organization of the House", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSY20", "name": "House Committee on Science, Space, and Technology - Energy", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSY18", "name": "House Committee on Science, Space, and Technology - Environment", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSY21", "name": "House Committee on Science, Space, and Technology - Investigations and Oversight", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSY15", "name": "House Committee on Science, Space, and Technology - Research and Technology", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSY16", "name": "House Committee on Science, Space, and Technology - Space and Aeronautics", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSM23", "name": "House Committee on Small Business - Contracting and Infrastructure", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSM27", "name": "House Committee on Small Business - Economic Growth, Tax, and Capital Access", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSM22", "name": "House Committee on Small Business - Innovation, Entrepreneurship, and Workforce Development", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSM24", "name": "House Committee on Small Business - Oversight, Investigations, and Regulations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSSM21", "name": "House Committee on Small Business - Rural Development, Energy, and Supply Chains", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSPW05", "name": "House Committee on Transportation and Infrastructure - Aviation", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSPW07", "name": "House Committee on Transportation and Infrastructure - Coast Guard and Maritime Transportation", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSPW13", "name": "House Committee on Transportation and Infrastructure - Economic Development, Public Buildings, and Emergency Management", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSPW12", "name": "House Committee on Transportation and Infrastructure - Highways and Transit", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSPW14", "name": "House Committee on Transportation and Infrastructure - Railroads, Pipelines, and Hazardous Materials", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSPW02", "name": "House Committee on Transportation and Infrastructure - Water Resources and Environment", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSVR09", "name": "House Committee on Veterans' Affairs - Disability Assistance and Memorial Affairs", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSVR10", "name": "House Committee on Veterans' Affairs - Economic Opportunity", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSVR03", "name": "House Committee on Veterans' Affairs - Health", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSVR08", "name": "House Committee on Veterans' Affairs - Oversight and Investigations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSVR11", "name": "House Committee on Veterans' Affairs - Technology Modernization", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSWM02", "name": "House Committee on Ways and Means - Health", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSWM06", "name": "House Committee on Ways and Means - Oversight", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSWM01", "name": "House Committee on Ways and Means - Social Security", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSWM05", "name": "House Committee on Ways and Means - Tax", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSWM04", "name": "House Committee on Ways and Means - Trade", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSWM03", "name": "House Committee on Ways and Means - Work and Welfare", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSJU03", "name": "House Committee on the Judiciary - Courts, Intellectual Property, Artificial Intelligence, and the Internet", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSJU08", "name": "House Committee on the Judiciary - Crime and Federal Government Surveillance", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSJU01", "name": "House Committee on the Judiciary - Immigration Integrity, Security, and Enforcement", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSJU13", "name": "House Committee on the Judiciary - Oversight", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSJU05", "name": "House Committee on the Judiciary - The Administrative State, Regulatory Reform, and Antitrust", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HSJU10", "name": "House Committee on the Judiciary - The Constitution and Limited Government", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HLIG01", "name": "House Permanent Select Committee on Intelligence - Central Intelligence Agency", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HLIG04", "name": "House Permanent Select Committee on Intelligence - Defense Intelligence and Overhead Architecture", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HLIG06", "name": "House Permanent Select Committee on Intelligence - National Intelligence Enterprise", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HLIG02", "name": "House Permanent Select Committee on Intelligence - National Security Agency and Cyber", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HLIG11", "name": "House Permanent Select Committee on Intelligence - Open Source Intelligence", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "HLIG09", "name": "House Permanent Select Committee on Intelligence - Oversight and Investigations", "type": "subcommittee", "chamber": "house", "labels": ["Subcommittee"]}
+{"code": "SSAF13", "name": "Senate Committee on Agriculture, Nutrition, and Forestry - Commodities, Derivatives, Risk Management, and Trade", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAF14", "name": "Senate Committee on Agriculture, Nutrition, and Forestry - Conservation, Forestry, Natural Resources, and Biotechnology", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAF16", "name": "Senate Committee on Agriculture, Nutrition, and Forestry - Food and Nutrition, Specialty Crops, Organics, and Research", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAF17", "name": "Senate Committee on Agriculture, Nutrition, and Forestry - Livestock, Dairy, Poultry, and Food Safety", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAF15", "name": "Senate Committee on Agriculture, Nutrition, and Forestry - Rural Development, Energy, and Credit", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP01", "name": "Senate Committee on Appropriations - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP16", "name": "Senate Committee on Appropriations - Commerce, Justice, Science, and Related Agencies", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP02", "name": "Senate Committee on Appropriations - Department of Defense", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP14", "name": "Senate Committee on Appropriations - Department of Homeland Security", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP17", "name": "Senate Committee on Appropriations - Department of Interior, Environment, and Related Agencies", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP18", "name": "Senate Committee on Appropriations - Departments of Labor, Health and Human Services, and Education, and Related Agencies", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP22", "name": "Senate Committee on Appropriations - Energy and Water Development", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP23", "name": "Senate Committee on Appropriations - Financial Services and General Government", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP08", "name": "Senate Committee on Appropriations - Legislative Branch", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP19", "name": "Senate Committee on Appropriations - Military Construction, Veterans Affairs, and Related Agencies", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP20", "name": "Senate Committee on Appropriations - State, Foreign Operations, and Related Programs", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAP24", "name": "Senate Committee on Appropriations - Transportation, Housing and Urban Development, and Related Agencies", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAS14", "name": "Senate Committee on Armed Services - Airland", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAS21", "name": "Senate Committee on Armed Services - Cybersecurity", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAS20", "name": "Senate Committee on Armed Services - Emerging Threats and Capabilities", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAS17", "name": "Senate Committee on Armed Services - Personnel", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAS15", "name": "Senate Committee on Armed Services - Readiness and Management Support", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAS13", "name": "Senate Committee on Armed Services - Seapower", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSAS16", "name": "Senate Committee on Armed Services - Strategic Forces", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSBK13", "name": "Senate Committee on Banking, Housing, and Urban Affairs - Digital Assets", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSBK12", "name": "Senate Committee on Banking, Housing, and Urban Affairs - Economic Policy", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSBK08", "name": "Senate Committee on Banking, Housing, and Urban Affairs - Financial Institutions and Consumer Protection", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSBK09", "name": "Senate Committee on Banking, Housing, and Urban Affairs - Housing, Transportation, and Community Development", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSBK05", "name": "Senate Committee on Banking, Housing, and Urban Affairs - National Security and International Trade and Finance", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSBK04", "name": "Senate Committee on Banking, Housing, and Urban Affairs - Securities, Insurance, and Investment", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSCM33", "name": "Senate Committee on Commerce, Science, and Transportation - Aviation, Space, and Innovation", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSCM36", "name": "Senate Committee on Commerce, Science, and Transportation - Coast Guard, Maritime, and Fisheries", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSCM35", "name": "Senate Committee on Commerce, Science, and Transportation - Consumer Protection, Technology, and Data Privacy", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSCM37", "name": "Senate Committee on Commerce, Science, and Transportation - Science, Manufacturing, and Competitiveness", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSCM38", "name": "Senate Committee on Commerce, Science, and Transportation - Surface Transportation, Freight, Pipelines, and Safety", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSCM34", "name": "Senate Committee on Commerce, Science, and Transportation - Telecommunications and Media", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSCM39", "name": "Senate Committee on Commerce, Science, and Transportation - Tourism, Trade, and Export Promotion", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEG01", "name": "Senate Committee on Energy and Natural Resources - Energy", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEG04", "name": "Senate Committee on Energy and Natural Resources - National Parks", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEG03", "name": "Senate Committee on Energy and Natural Resources - Public Lands, Forests, and Mining", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEG07", "name": "Senate Committee on Energy and Natural Resources - Water and Power", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEV09", "name": "Senate Committee on Environment and Public Works - Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEV10", "name": "Senate Committee on Environment and Public Works - Clean Air, Climate, and Nuclear Innovation and Safety", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEV15", "name": "Senate Committee on Environment and Public Works - Fisheries, Wildlife, and Water", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSEV08", "name": "Senate Committee on Environment and Public Works - Transportation and Infrastructure", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFI12", "name": "Senate Committee on Finance - Energy, Natural Resources, and Infrastructure", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFI14", "name": "Senate Committee on Finance - Fiscal Responsibility and Economic Growth", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFI10", "name": "Senate Committee on Finance - Health Care", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFI13", "name": "Senate Committee on Finance - International Trade, Customs, and Global Competitiveness", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFI02", "name": "Senate Committee on Finance - Social Security, Pensions, and Family Policy", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFI11", "name": "Senate Committee on Finance - Taxation and IRS Oversight", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFR09", "name": "Senate Committee on Foreign Relations - Africa and Global Health Policy", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFR02", "name": "Senate Committee on Foreign Relations - East Asia, the Pacific, and International Cybersecurity Policy", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFR01", "name": "Senate Committee on Foreign Relations - Europe and Regional Security Cooperation", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFR15", "name": "Senate Committee on Foreign Relations - Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFR07", "name": "Senate Committee on Foreign Relations - Near East, South Asia, Central Asia, and Counterterrorism", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFR14", "name": "Senate Committee on Foreign Relations - State Department and USAID Management, International Operations, and Bilateral International Development", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSFR06", "name": "Senate Committee on Foreign Relations - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSHR09", "name": "Senate Committee on Health, Education, Labor, and Pensions - Education and the American Family", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSHR11", "name": "Senate Committee on Health, Education, Labor, and Pensions - Employment and Workplace Safety", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSHR12", "name": "Senate Committee on Health, Education, Labor, and Pensions - Primary Health and Retirement Security", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSGA22", "name": "Senate Committee on Homeland Security and Governmental Affairs - Border Management, Federal Workforce, and Regulatory Affairs", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSGA20", "name": "Senate Committee on Homeland Security and Governmental Affairs - Disaster Management, District of Columbia, and Census", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSGA01", "name": "Senate Committee on Homeland Security and Governmental Affairs - Permanent Subcommittee on Investigations", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU01", "name": "Senate Committee on the Judiciary - Antitrust, Competition Policy, and Consumer Rights", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU04", "name": "Senate Committee on the Judiciary - Border Security and Immigration", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU22", "name": "Senate Committee on the Judiciary - Crime and Counterterrorism", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU25", "name": "Senate Committee on the Judiciary - Federal Courts, Oversight, Agency Action, and Federal Rights", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU27", "name": "Senate Committee on the Judiciary - Human Rights and the Law", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU26", "name": "Senate Committee on the Judiciary - Intellectual Property", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU28", "name": "Senate Committee on the Judiciary - Privacy, Technology, and the Law", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}
+{"code": "SSJU21", "name": "Senate Committee on the Judiciary - the Constitution", "type": "subcommittee", "chamber": "senate", "labels": ["Subcommittee"]}

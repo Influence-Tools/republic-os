@@ -8,6 +8,10 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 8"
+committees:
+  - name: "House Committee on the Judiciary"
+    role: "ranking-member"
+    body: "us/bodies/house/committees/the-judiciary"
 tenure:
   start: "2025-01-03"
   current: true
@@ -20,11 +24,14 @@ ids:
   office: "7e347d89-3795-48bf-a006-2185705793e2"
   tenure: "a8e60ce2-3b7d-4aef-bbec-67b809019387"
   jurisdiction: "9c104ed8-ead4-4131-ba3d-306cff6c7847"
+  bioguide: "R000606"
 sources:
   - field: tenure
     source: "House Clerk XML 2026-06-10"
   - field: jurisdiction
     source: "Census 119th CD 500k"
+  - field: roles
+    source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, md]
 timestamp: "2026-06-20"
@@ -34,9 +41,14 @@ timestamp: "2026-06-20"
 
 Current U.S. House of Representatives - MD-8 (Congressional District 8).
 
+## Committees
+
+- [House Committee on the Judiciary](/us/bodies/house/committees/the-judiciary.md) — **ranking-member**
+
 ## Sources
 
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
+- roles: congress-legislators (unitedstates project)
 
 Generated from the Atlas officeholders v2 export (2026-06-20).

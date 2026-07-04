@@ -8,6 +8,19 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 29"
+committees:
+  - name: "House Committee on Ethics"
+    role: "member"
+    body: "us/bodies/house/committees/ethics"
+  - name: "House Committee on Financial Services"
+    role: "member"
+    body: "us/bodies/house/committees/financial-services"
+  - name: "House Committee on Financial Services - Digital Assets, Financial Technology, and Artificial Intelligence"
+    role: "member"
+    body: "us/bodies/house/committees/financial-services/subcommittees/digital-assets-financial-technology-and-artificial-intelligence"
+  - name: "House Committee on Financial Services - Housing and Insurance"
+    role: "member"
+    body: "us/bodies/house/committees/financial-services/subcommittees/housing-and-insurance"
 tenure:
   start: "2025-01-03"
   current: true
@@ -20,11 +33,14 @@ ids:
   office: "e2c1d8a5-c333-434a-ab3e-74cc01a6fa56"
   tenure: "0b8b84a3-e001-452c-8b08-e91277e4e93c"
   jurisdiction: "2b839b1e-cd1c-41bc-adca-d6f1975cf300"
+  bioguide: "G000587"
 sources:
   - field: tenure
     source: "House Clerk XML 2026-06-10"
   - field: jurisdiction
     source: "Census 119th CD 500k"
+  - field: roles
+    source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, tx]
 timestamp: "2026-06-20"
@@ -34,9 +50,17 @@ timestamp: "2026-06-20"
 
 Current U.S. House of Representatives - TX-29 (Congressional District 29).
 
+## Committees
+
+- [House Committee on Ethics](/us/bodies/house/committees/ethics.md)
+- [House Committee on Financial Services](/us/bodies/house/committees/financial-services.md)
+- [House Committee on Financial Services - Digital Assets, Financial Technology, and Artificial Intelligence](/us/bodies/house/committees/financial-services/subcommittees/digital-assets-financial-technology-and-artificial-intelligence.md)
+- [House Committee on Financial Services - Housing and Insurance](/us/bodies/house/committees/financial-services/subcommittees/housing-and-insurance.md)
+
 ## Sources
 
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
+- roles: congress-legislators (unitedstates project)
 
 Generated from the Atlas officeholders v2 export (2026-06-20).

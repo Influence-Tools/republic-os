@@ -8,6 +8,10 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 2"
+committees:
+  - name: "House Committee on Transportation and Infrastructure"
+    role: "ranking-member"
+    body: "us/bodies/house/committees/transportation-and-infrastructure"
 tenure:
   start: "2025-01-03"
   current: true
@@ -20,11 +24,14 @@ ids:
   office: "b822fb39-6d9c-4059-bc49-875ae6f017c7"
   tenure: "0a38a885-a21b-486b-953e-f7f294b8eab9"
   jurisdiction: "9b3968dd-2f93-4339-901e-b5a9c4816874"
+  bioguide: "L000560"
 sources:
   - field: tenure
     source: "House Clerk XML 2026-06-10"
   - field: jurisdiction
     source: "Census 119th CD 500k"
+  - field: roles
+    source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, wa]
 timestamp: "2026-06-20"
@@ -34,9 +41,14 @@ timestamp: "2026-06-20"
 
 Current U.S. House of Representatives - WA-2 (Congressional District 2).
 
+## Committees
+
+- [House Committee on Transportation and Infrastructure](/us/bodies/house/committees/transportation-and-infrastructure.md) — **ranking-member**
+
 ## Sources
 
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
+- roles: congress-legislators (unitedstates project)
 
 Generated from the Atlas officeholders v2 export (2026-06-20).
