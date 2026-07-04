@@ -2,13 +2,63 @@
 
 An open, version-controlled mirror of public power in the United States.
 
-Government is already software: statutes are code, agencies are processes, elections change the maintainers, and a bill is a pull request against the law. What government has never had is a changelog. This repository is that changelog.
+Government is already software: statutes are code, agencies are processes, elections change the maintainers, and a bill is a pull request against the law. What government has never had is a **changelog**. This repository is that changelog.
 
-**The diff is the product.** Every file here mirrors the observable public state of a government entity — people, offices, bodies, meetings, organizations, money, issues — as deterministic, sourced, human-readable records. When government changes, the files change, and git makes the change visible, permanent, and inspectable.
+**The diff is the product.** Every file here mirrors the observable public state of a government entity as a deterministic, sourced, human-readable record. When government changes, the files change, and git makes the change visible, permanent, and inspectable.
 
-- **Founding document:** [Technical Brief — Government as Software](Technical%20Brief%20—%20Government%20as%20Software.md)
-- **Format:** Markdown + YAML frontmatter ([OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)-conformant), validated by JSON Schema
-- **Data:** raw source exports land in `data/` first; refinement into structured entity files is itself a visible diff
-- **Substrate for:** [influence.tools](https://influence.tools)
+## What's in here today
 
-Three disciplines govern everything here: never overwrite, never rewrite history, always push off-box.
+17,506 entity files, every one schema-validated:
+
+| Entity | Count | What it is |
+|---|---:|---|
+| **Person** | 11,285 | Current officeholders — federal, all 50 state legislatures, and Florida down to the municipal level. Federal members carry their bioguide ID, leadership roles, and committee seats. |
+| **Body** | 233 | The institutions themselves — the U.S. House, the Senate, 49 committees, 181 subcommittees, each with its leadership. |
+| **Candidate** | 2,494 | Everyone running for federal office in 2026, from FEC filings. |
+| **Jurisdiction** | 3,494 | Every U.S. county (3,131) and 363 congressional districts, each carrying Census demographics — the nationwide skeleton, filled with data. |
+
+The mirror answers, with receipts: *who holds power, who runs the institution, who's running,* and *what each place is made of* — and, through git, *what changed.*
+
+## How it works
+
+```
+raw source exports         deterministic build          validated tree
+data/*.jsonl        ──►    scripts/build.py      ──►    data/jurisdictions/**
+(committed as-is)          (7 inputs, one pass)         (OKF markdown + YAML)
+```
+
+- **Format** — Markdown with YAML frontmatter, [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)-conformant, validated by JSON Schema in [`/schemas`](schemas). Human-readable in any editor or on GitHub; machine-readable by any agent.
+- **Deterministic** — `make build` twice yields a byte-identical tree. Entity files change only when the government changes, so every diff is signal.
+- **Sourced** — every record carries field-level provenance and a confidence level. This repo is a *mirror*, never the authority; official sources remain the source of truth.
+- **Raw-first** — source exports land in `data/*.jsonl` untouched before any transformation, so the origin is always recoverable.
+
+## Commands
+
+```bash
+make build       # regenerate the entity tree from the raw exports
+make validate    # OKF + schema + link-integrity checks on all 17,506 files
+make changelog   # what changed in the government since the last commit
+make check       # build, then validate — the full gate
+```
+
+Everything runs on the Python standard library. No dependencies to install.
+
+## Documentation
+
+- [Government as Code](docs/government-as-code.md) — the philosophy: why git, and what its primitives mean for government
+- [Data Model](docs/data-model.md) — entity types, IDs, the file format, the jurisdiction tree
+- [Sources](docs/sources.md) — where every fact comes from, and how current it is
+- [Roadmap](docs/roadmap.md) — what exists, what's next
+- [Contributing](docs/contributing.md) — the disciplines, and how to add a source
+- [Technical Brief — Government as Software](Technical%20Brief%20—%20Government%20as%20Software.md) — the founding document
+- [CHANGELOG.md](CHANGELOG.md) — the civic changelog, generated from git history
+
+## The disciplines
+
+Three rules govern everything here, and they are won by subtraction:
+
+1. **Never overwrite** — a change is a new commit, not a clobbered file. Deletes are diffs.
+2. **Never rewrite history** — no force-push, no squash. The past is load-bearing.
+3. **Always push off-box** — one copy is a single point of failure; more is not.
+
+Substrate for [influence.tools](https://influence.tools).

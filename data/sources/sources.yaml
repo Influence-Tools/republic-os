@@ -1,0 +1,77 @@
+# Republic OS — source registry.
+# Machine-readable index of the public sources feeding the mirror.
+# Prose companion: docs/sources.md
+
+sources:
+  - id: atlas
+    name: Atlas / influence.tools
+    url: https://influence.tools
+    type: aggregator
+    authority_level: aggregator
+    requires_api_key: false
+    refresh_frequency: on-demand
+    feeds: [Person]
+    raw: [officeholders-v2.jsonl]
+    notes: >
+      Draws from official upstreams (House Clerk XML, Senate.gov XML,
+      OpenStates, Census TIGER/Line, FL Cities partner API) and records the
+      specific upstream per field. Officeholders at federal, state, and
+      Florida county/municipal levels.
+
+  - id: congress-legislators
+    name: unitedstates/congress-legislators
+    url: https://github.com/unitedstates/congress-legislators
+    type: dataset
+    authority_level: authoritative-community
+    requires_api_key: false
+    refresh_frequency: continuous
+    feeds: [Body, Person]
+    raw: [bodies.jsonl, leadership.jsonl, committee_memberships.jsonl]
+    notes: >
+      Structured YAML for chambers, committees, subcommittees, current
+      leadership, and committee membership. Keyed by bioguide ID.
+
+  - id: fec
+    name: Federal Election Commission
+    url: https://www.fec.gov/data/
+    type: api
+    authority_level: official
+    requires_api_key: true
+    refresh_frequency: daily
+    feeds: [Candidate]
+    raw: [fec_candidates.jsonl]
+    notes: 2026 federal candidate filings; keyed by fec_id and committee_id.
+
+  - id: census-acs
+    name: Census American Community Survey (2023)
+    url: https://www.census.gov/programs-surveys/acs
+    type: dataset
+    authority_level: official
+    requires_api_key: false
+    refresh_frequency: annual
+    feeds: [Jurisdiction]
+    raw: [acs_county.jsonl, acs_cd.jsonl]
+    notes: County and congressional-district demographics; keyed by FIPS.
+
+# Prepared but not yet ingested — see docs/roadmap.md
+planned:
+  - id: govinfo
+    name: GovInfo
+    url: https://www.govinfo.gov/
+    authority_level: official
+  - id: federal-register
+    name: Federal Register
+    url: https://www.federalregister.gov/
+    authority_level: official
+  - id: usaspending
+    name: USAspending.gov
+    url: https://www.usaspending.gov/
+    authority_level: official
+  - id: legistar
+    name: Legistar / Granicus / CivicPlus (local agenda portals)
+    url: https://webapi.legistar.com/
+    authority_level: official
+  - id: census-tiger
+    name: Census TIGER/Line (geometry)
+    url: https://www.census.gov/geographies/mapping-files.html
+    authority_level: official
