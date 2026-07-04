@@ -1,0 +1,61 @@
+---
+type: Jurisdiction
+title: "Big Stone County, MN"
+classification: county
+fips: "27011"
+state: "MN"
+demographics:
+  population: 5127
+  population_under_18: 1127
+  population_18_64: 2622
+  population_65_plus: 1378
+  median_household_income: 70400
+  poverty_rate: 12.94
+  homeownership_rate: 79.73
+  unemployment_rate: 1.79
+  median_home_value: 169100
+  gini_index: 0.4629
+  vacancy_rate: 28.82
+  race_white: 4823
+  race_black: 14
+  race_asian: 38
+  race_native: 12
+  hispanic: 137
+  bachelors_plus: 1315
+sources:
+  - field: demographics
+    source: Census ACS 2023
+confidence: official
+tags: [jurisdiction, county, mn]
+timestamp: "2026-07-03"
+---
+
+# Big Stone County, MN
+
+County jurisdiction.
+
+## Demographics (ACS 2023)
+
+| Measure | Value |
+| --- | --- |
+| Population | 5127 |
+| Under 18 | 1127 |
+| 18–64 | 2622 |
+| 65+ | 1378 |
+| Median household income | 70400 |
+| Poverty rate | 12.94 |
+| Homeownership rate | 79.73 |
+| Unemployment rate | 1.79 |
+| Median home value | 169100 |
+| Gini index | 0.4629 |
+| Vacancy rate | 28.82 |
+| White | 4823 |
+| Black | 14 |
+| Asian | 38 |
+| Native | 12 |
+| Hispanic/Latino | 137 |
+| Bachelor's or higher | 1315 |
+
+## Source
+
+- demographics: Census ACS 2023

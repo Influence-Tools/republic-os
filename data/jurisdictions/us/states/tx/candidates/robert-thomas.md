@@ -1,0 +1,37 @@
+---
+type: Candidate
+title: "Robert Thomas"
+description: "U.S. House candidate, TX-22 (2026)"
+office: "U.S. House"
+state: "TX"
+district: "TX-22"
+party: "DEM"
+stance: "open-seat"
+election_year: 2026
+status: "statutory candidate"
+committee:
+  name: "ROBERT THOMAS FOR U. S. CONGRESS, DISTRICT 22"
+  id: "C00913129"
+ids:
+  fec: "H0TX14184"
+sources:
+  - field: filing
+    source: FEC (Federal Election Commission)
+confidence: official
+tags: [candidate, federal, house, tx]
+timestamp: "2026-07-03"
+---
+
+# Robert Thomas
+
+Democratic open-seat for U.S. House (TX-22), 2026.
+
+## Campaign Committee
+
+- ROBERT THOMAS FOR U. S. CONGRESS, DISTRICT 22 (C00913129)
+
+## Source
+
+- filing: FEC (Federal Election Commission)
+
+Federal candidate filing; not yet linked to an officeholder record.

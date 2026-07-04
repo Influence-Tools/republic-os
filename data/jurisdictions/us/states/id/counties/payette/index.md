@@ -1,0 +1,61 @@
+---
+type: Jurisdiction
+title: "Payette County, ID"
+classification: county
+fips: "16075"
+state: "ID"
+demographics:
+  population: 26771
+  population_under_18: 6826
+  population_18_64: 14657
+  population_65_plus: 5288
+  median_household_income: 67673
+  poverty_rate: 10.19
+  homeownership_rate: 74.5
+  unemployment_rate: 3.2
+  median_home_value: 341800
+  gini_index: 0.3909
+  vacancy_rate: 4.43
+  race_white: 21960
+  race_black: 30
+  race_asian: 196
+  race_native: 223
+  hispanic: 4790
+  bachelors_plus: 4085
+sources:
+  - field: demographics
+    source: Census ACS 2023
+confidence: official
+tags: [jurisdiction, county, id]
+timestamp: "2026-07-03"
+---
+
+# Payette County, ID
+
+County jurisdiction.
+
+## Demographics (ACS 2023)
+
+| Measure | Value |
+| --- | --- |
+| Population | 26771 |
+| Under 18 | 6826 |
+| 18–64 | 14657 |
+| 65+ | 5288 |
+| Median household income | 67673 |
+| Poverty rate | 10.19 |
+| Homeownership rate | 74.5 |
+| Unemployment rate | 3.2 |
+| Median home value | 341800 |
+| Gini index | 0.3909 |
+| Vacancy rate | 4.43 |
+| White | 21960 |
+| Black | 30 |
+| Asian | 196 |
+| Native | 223 |
+| Hispanic/Latino | 4790 |
+| Bachelor's or higher | 4085 |
+
+## Source
+
+- demographics: Census ACS 2023

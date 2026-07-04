@@ -1,0 +1,37 @@
+---
+type: Candidate
+title: "Michael Charles Echols"
+description: "U.S. House candidate, LA-05 (2026)"
+office: "U.S. House"
+state: "LA"
+district: "LA-05"
+party: "REP"
+stance: "open-seat"
+election_year: 2026
+status: "statutory candidate"
+committee:
+  name: "ECHOLS FOR CONGRESS"
+  id: "C00938654"
+ids:
+  fec: "H6LA05242"
+sources:
+  - field: filing
+    source: FEC (Federal Election Commission)
+confidence: official
+tags: [candidate, federal, house, la]
+timestamp: "2026-07-03"
+---
+
+# Michael Charles Echols
+
+Republican open-seat for U.S. House (LA-05), 2026.
+
+## Campaign Committee
+
+- ECHOLS FOR CONGRESS (C00938654)
+
+## Source
+
+- filing: FEC (Federal Election Commission)
+
+Federal candidate filing; not yet linked to an officeholder record.

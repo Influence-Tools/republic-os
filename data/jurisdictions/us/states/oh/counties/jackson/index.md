@@ -1,0 +1,61 @@
+---
+type: Jurisdiction
+title: "Jackson County, OH"
+classification: county
+fips: "39079"
+state: "OH"
+demographics:
+  population: 32650
+  population_under_18: 7767
+  population_18_64: 19026
+  population_65_plus: 5857
+  median_household_income: 57106
+  poverty_rate: 18.46
+  homeownership_rate: 73.93
+  unemployment_rate: 3.8
+  median_home_value: 150700
+  gini_index: 0.4784
+  vacancy_rate: 11.1
+  race_white: 31250
+  race_black: 250
+  race_asian: 171
+  race_native: 111
+  hispanic: 332
+  bachelors_plus: 4806
+sources:
+  - field: demographics
+    source: Census ACS 2023
+confidence: official
+tags: [jurisdiction, county, oh]
+timestamp: "2026-07-03"
+---
+
+# Jackson County, OH
+
+County jurisdiction.
+
+## Demographics (ACS 2023)
+
+| Measure | Value |
+| --- | --- |
+| Population | 32650 |
+| Under 18 | 7767 |
+| 18–64 | 19026 |
+| 65+ | 5857 |
+| Median household income | 57106 |
+| Poverty rate | 18.46 |
+| Homeownership rate | 73.93 |
+| Unemployment rate | 3.8 |
+| Median home value | 150700 |
+| Gini index | 0.4784 |
+| Vacancy rate | 11.1 |
+| White | 31250 |
+| Black | 250 |
+| Asian | 171 |
+| Native | 111 |
+| Hispanic/Latino | 332 |
+| Bachelor's or higher | 4806 |
+
+## Source
+
+- demographics: Census ACS 2023

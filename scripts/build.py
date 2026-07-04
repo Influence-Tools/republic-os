@@ -353,6 +353,182 @@ def body_file(b, bid, bodies_by_code, comm_codes, leaders_of, members_count):
 
 
 # --------------------------------------------------------------------------- #
+# Candidate files (FEC)
+# --------------------------------------------------------------------------- #
+
+STANCE = {"I": "incumbent", "C": "challenger", "O": "open-seat"}
+CAND_STATUS = {"C": "statutory candidate", "N": "not yet a candidate",
+               "P": "prior candidate", "F": "future candidate"}
+PARTY_FULL = {"REP": "Republican", "DEM": "Democratic", "IND": "Independent",
+              "LIB": "Libertarian", "GRE": "Green",
+              "DFL": "Democratic-Farmer-Labor"}
+
+
+def candidate_name(raw):
+    """'CARL, JERRY LEE, JR' -> 'Jerry Lee Carl Jr'."""
+    parts = [p.strip() for p in raw.split(",")]
+    last = parts[0] if parts else raw
+    first = parts[1] if len(parts) > 1 else ""
+    suffix = parts[2] if len(parts) > 2 else ""
+    return " ".join(x for x in (first, last, suffix) if x).title()
+
+
+def candidate_office(rec):
+    return "U.S. Senate" if rec.get("office") == "S" else "U.S. House"
+
+
+def candidate_seat(rec):
+    st = rec.get("state") or ""
+    if rec.get("office") == "H" and rec.get("district"):
+        return f"{st}-{rec['district']}"
+    return st
+
+
+def candidate_frontmatter(rec, disp):
+    office, seat, yr = candidate_office(rec), candidate_seat(rec), rec.get("election_year")
+    lines = ["type: Candidate", f"title: {yval(disp)}",
+             f"description: {yval(f'{office} candidate, {seat} ({yr})')}",
+             f"office: {yval(office)}"]
+    if rec.get("state"):
+        lines.append(f"state: {yval(rec['state'])}")
+    if rec.get("office") == "H" and rec.get("district"):
+        lines.append(f"district: {yval(seat)}")
+    if rec.get("party"):
+        lines.append(f"party: {yval(rec['party'])}")
+    if rec.get("incumbent_challenge") in STANCE:
+        lines.append(f"stance: {yval(STANCE[rec['incumbent_challenge']])}")
+    if yr:
+        lines.append(f"election_year: {yr}")
+    if rec.get("candidate_status") in CAND_STATUS:
+        lines.append(f"status: {yval(CAND_STATUS[rec['candidate_status']])}")
+    if rec.get("committee_name"):
+        lines.append("committee:")
+        lines.append(f"  name: {yval(rec['committee_name'])}")
+        if rec.get("committee_id"):
+            lines.append(f"  id: {yval(rec['committee_id'])}")
+    lines.append("ids:")
+    lines.append(f"  fec: {yval(rec['fec_id'])}")
+    lines.append("sources:")
+    lines.append("  - field: filing")
+    lines.append("    source: FEC (Federal Election Commission)")
+    lines.append("confidence: official")
+    tags = ["candidate", "federal",
+            "senate" if rec.get("office") == "S" else "house"]
+    if rec.get("state"):
+        tags.append(rec["state"].lower())
+    lines.append("tags: [" + ", ".join(tags) + "]")
+    lines.append(f"timestamp: {yval(CONGRESS_DATE)}")
+    return lines
+
+
+def candidate_body(rec, disp):
+    office, seat = candidate_office(rec), candidate_seat(rec)
+    stance = STANCE.get(rec.get("incumbent_challenge"), "candidate")
+    party = PARTY_FULL.get(rec.get("party"), rec.get("party") or "")
+    out = [f"# {disp}", "",
+           f"{party} {stance} for {office} ({seat}), {rec.get('election_year')}.", ""]
+    if rec.get("committee_name"):
+        cid = f" ({rec['committee_id']})" if rec.get("committee_id") else ""
+        out += ["## Campaign Committee", "", f"- {rec['committee_name']}{cid}", ""]
+    out += ["## Source", "", "- filing: FEC (Federal Election Commission)", "",
+            "Federal candidate filing; not yet linked to an officeholder record."]
+    return out
+
+
+# --------------------------------------------------------------------------- #
+# Jurisdiction demographic nodes (ACS)
+# --------------------------------------------------------------------------- #
+
+def numify(v):
+    if v is None or v == "":
+        return None
+    if isinstance(v, (int, float)):
+        return v
+    try:
+        f = float(v)
+        return int(f) if "." not in str(v) and f == int(f) else round(f, 4)
+    except (ValueError, TypeError):
+        return v
+
+
+def canonical_fips(fips):
+    return re.sub(r"\D", "", str(fips))[-5:]
+
+
+DEMOG_LABELS = {
+    "population": "Population", "population_under_18": "Under 18",
+    "population_18_64": "18–64", "population_65_plus": "65+",
+    "median_household_income": "Median household income",
+    "poverty_rate": "Poverty rate", "homeownership_rate": "Homeownership rate",
+    "unemployment_rate": "Unemployment rate", "median_home_value": "Median home value",
+    "gini_index": "Gini index", "vacancy_rate": "Vacancy rate",
+    "race_white": "White", "race_black": "Black", "race_asian": "Asian",
+    "race_native": "Native", "hispanic": "Hispanic/Latino",
+    "bachelors_plus": "Bachelor's or higher",
+}
+
+
+def normalize_demog(row):
+    def pick(*cols):
+        for c in cols:
+            if row.get(c) not in (None, ""):
+                return numify(row.get(c))
+        return None
+    d = {
+        "population": pick("total_population"),
+        "population_under_18": pick("population_under_18"),
+        "population_18_64": pick("population_18_64"),
+        "population_65_plus": pick("population_65_plus"),
+        "median_household_income": pick("median_household_income"),
+        "poverty_rate": pick("poverty_rate"),
+        "homeownership_rate": pick("homeownership_rate"),
+        "unemployment_rate": pick("unemployment_rate"),
+        "median_home_value": pick("median_home_value"),
+        "gini_index": pick("gini_index"),
+        "vacancy_rate": pick("vacancy_rate"),
+        "race_white": pick("race_white"), "race_black": pick("race_black"),
+        "race_asian": pick("race_asian"), "race_native": pick("race_native"),
+        "hispanic": pick("hispanic_latino", "hispanic"),
+    }
+    bp = pick("edu_bachelors_plus")
+    if bp is None:
+        bp = (pick("edu_bachelors") or 0) + (pick("edu_graduate") or 0) or None
+    d["bachelors_plus"] = bp
+    return {k: v for k, v in d.items() if v is not None}
+
+
+def demog_yaml(demog):
+    lines = ["demographics:"]
+    for k, v in demog.items():
+        lines.append(f"  {k}: {yval(v) if isinstance(v, str) else v}")
+    return lines
+
+
+def demog_table(demog):
+    out = ["## Demographics (ACS 2023)", "", "| Measure | Value |", "| --- | --- |"]
+    for k, v in demog.items():
+        out.append(f"| {DEMOG_LABELS.get(k, k)} | {v} |")
+    return out + [""]
+
+
+def jurisdiction_file(title, classification, extra_fm, demog, st, body_intro):
+    lines = ["type: Jurisdiction", f"title: {yval(title)}",
+             f"classification: {classification}"]
+    lines += extra_fm
+    if demog:
+        lines += demog_yaml(demog)
+    lines += ["sources:", "  - field: demographics",
+              "    source: Census ACS 2023", "confidence: official",
+              f"tags: [jurisdiction, {classification}, {st}]",
+              f"timestamp: {yval(CONGRESS_DATE)}"]
+    body = [f"# {title}", "", body_intro, ""]
+    if demog:
+        body += demog_table(demog)
+    body += ["## Source", "", "- demographics: Census ACS 2023"]
+    return "---\n" + "\n".join(lines) + "\n---\n\n" + "\n".join(body) + "\n"
+
+
+# --------------------------------------------------------------------------- #
 # main
 # --------------------------------------------------------------------------- #
 
@@ -365,6 +541,9 @@ def main():
     bodies = load("bodies.jsonl")
     leadership = load("leadership.jsonl")
     memberships = load("committee_memberships.jsonl")
+    candidates = load("fec_candidates.jsonl")
+    acs_county = load("acs_county.jsonl")
+    acs_cd = load("acs_cd.jsonl")
 
     bodies_by_code = {b["code"]: b for b in bodies}
     comm_codes = committee_codes(bodies)
@@ -424,6 +603,69 @@ def main():
                                   leaders_of, members_count.get(b["code"], 0)),
                         encoding="utf-8")
 
+    # ---- candidates (FEC) ----
+    cand_plan = {}
+    for rec in sorted(candidates, key=lambda r: r["fec_id"]):
+        d = OUT / "us" / "states" / (rec.get("state") or "xx").lower() / "candidates"
+        cand_plan.setdefault((d, slugify(candidate_name(rec["candidate_name"]))), []).append(rec)
+    n_cand = 0
+    for (d, base), group in sorted(cand_plan.items(), key=lambda kv: str(kv[0][0]) + kv[0][1]):
+        for rec in group:
+            slug = base if len(group) == 1 else f"{base}-{rec['fec_id'][-4:].lower()}"
+            disp = candidate_name(rec["candidate_name"])
+            path = d / f"{slug}.md"
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text("---\n" + "\n".join(candidate_frontmatter(rec, disp))
+                            + "\n---\n\n" + "\n".join(candidate_body(rec, disp)) + "\n",
+                            encoding="utf-8")
+            n_cand += 1
+
+    # ---- county jurisdictions (ACS, deduped by canonical fips) ----
+    oh_count = {}
+    for rec in officeholders:
+        if rec["level"] in ("county", "municipal"):
+            key = ((rec.get("state_abbr") or "").lower(), county_slug(rec))
+            oh_count[key] = oh_count.get(key, 0) + 1
+    seen_fips, n_county = set(), 0
+    for row in sorted(acs_county, key=lambda r: canonical_fips(r["county_fips"])):
+        cf = canonical_fips(row["county_fips"])
+        if cf in seen_fips:
+            continue
+        seen_fips.add(cf)
+        st = row.get("state_abbr")
+        if not st:
+            continue
+        base = re.sub(r",\s*[A-Z]{2}$", "", row.get("county_name") or "")
+        cslug = slugify(norm_county(re.sub(r"\s+County$", "", base)))
+        title = f"{base}, {st}"
+        demog = normalize_demog(row)
+        ohc = oh_count.get((st.lower(), cslug), 0)
+        intro = (f"County jurisdiction — {ohc} officeholders mapped."
+                 if ohc else "County jurisdiction.")
+        extra = [f"fips: {yval(cf)}", f"state: {yval(st)}"]
+        path = OUT / "us" / "states" / st.lower() / "counties" / cslug / "index.md"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(jurisdiction_file(title, "county", extra, demog,
+                                          st.lower(), intro), encoding="utf-8")
+        n_county += 1
+
+    # ---- congressional-district jurisdictions (ACS) ----
+    n_cd = 0
+    for row in sorted(acs_cd, key=lambda r: (r["state_abbr"], r["district"])):
+        st, dist = row["state_abbr"], row["district"]
+        title = f"{st}-{dist}"
+        demog = normalize_demog(row)
+        extra = [f"state: {yval(st)}", f"district: {yval(title)}"]
+        path = OUT / "us" / "states" / st.lower() / "districts" / f"{dist}.md"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(jurisdiction_file(title, "congressional-district", extra,
+                                          demog, st.lower(),
+                                          f"Congressional district {title}."),
+                        encoding="utf-8")
+        n_cd += 1
+
+    print(f"candidate files: {n_cand}   county jurisdictions: {n_county}   "
+          f"district jurisdictions: {n_cd}")
     print(f"person files: {len(person_files)}  "
           f"(federal enriched: {matched}/{sum(1 for r in officeholders if r['level']=='federal')})")
     print(f"body files: {len(bodies)}  "

@@ -1,0 +1,37 @@
+---
+type: Candidate
+title: "Matthew William Fonken"
+description: "U.S. House candidate, NV-02 (2026)"
+office: "U.S. House"
+state: "NV"
+district: "NV-02"
+party: "DEM"
+stance: "open-seat"
+election_year: 2026
+status: "statutory candidate"
+committee:
+  name: "MATTHEW FONKEN FOR NEVADA"
+  id: "C00928960"
+ids:
+  fec: "H6NV02297"
+sources:
+  - field: filing
+    source: FEC (Federal Election Commission)
+confidence: official
+tags: [candidate, federal, house, nv]
+timestamp: "2026-07-03"
+---
+
+# Matthew William Fonken
+
+Democratic open-seat for U.S. House (NV-02), 2026.
+
+## Campaign Committee
+
+- MATTHEW FONKEN FOR NEVADA (C00928960)
+
+## Source
+
+- filing: FEC (Federal Election Commission)
+
+Federal candidate filing; not yet linked to an officeholder record.
