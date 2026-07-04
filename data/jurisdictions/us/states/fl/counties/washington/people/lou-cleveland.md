@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "0f231ad5-56b2-4fc5-a410-a0db7e095fcc"
-  office: "daa1f7cf-48dc-477c-a6bc-022210744679"
-  tenure: "8a3df280-7962-44ee-a0cb-f93187ae894a"
-  jurisdiction: "d62c7279-6db8-431a-b33b-bd1f46571136"
+  person: "6e12876e-b7b4-478c-8ea3-50423e8bf757"
+  office: "bd99634f-239c-4d92-ac81-f49754a75875"
+  tenure: "5c847889-b375-4c41-bc7a-f7d1d11ef8cd"
+  jurisdiction: "4b518319-8d19-4bd1-bb5f-bf5532842bb1"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Lou Cleveland
@@ -32,8 +32,8 @@ Current Washington County School Board (Washington County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

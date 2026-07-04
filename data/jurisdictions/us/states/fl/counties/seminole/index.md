@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Seminole County, FL
 
-County jurisdiction — 47 officeholders mapped.
+County jurisdiction — 52 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

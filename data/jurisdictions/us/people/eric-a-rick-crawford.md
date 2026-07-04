@@ -1,6 +1,6 @@
 ---
 type: Person
-title: "Eric A. 'Rick' Crawford"
+title: "Eric A. \"Rick\" Crawford"
 description: "U.S. House of Representatives - AR-1 — Congressional District 1"
 role: "U.S. House of Representatives - AR-1"
 party: "R"
@@ -49,10 +49,10 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, ar]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Eric A. 'Rick' Crawford
+# Eric A. "Rick" Crawford
 
 Current U.S. House of Representatives - AR-1 (Congressional District 1).
 
@@ -71,4 +71,4 @@ Current U.S. House of Representatives - AR-1 (Congressional District 1).
 - jurisdiction: Census 119th CD 500k
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

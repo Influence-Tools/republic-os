@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Leon County, FL
 
-County jurisdiction — 22 officeholders mapped.
+County jurisdiction — 27 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

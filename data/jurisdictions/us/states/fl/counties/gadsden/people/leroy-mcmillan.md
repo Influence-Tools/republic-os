@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 3"
 ids:
-  person: "bb85ad26-d4c3-4325-af91-eb67d0924d82"
-  office: "6fbdc8da-6cbd-404c-9f04-1489edf0c787"
-  tenure: "bf62284d-7168-4298-a122-b7ffa5dba562"
-  jurisdiction: "168fa511-ad20-45f7-8855-2138980c65f7"
+  person: "56045c1a-4915-486e-8386-0bd472d3b002"
+  office: "ba7ae9e1-0853-40b9-acfa-4757b87265e3"
+  tenure: "589fe68a-e3fa-4f90-a1fe-ea5dccc2ff05"
+  jurisdiction: "9dd61985-521c-4d98-8de4-2ae33907b752"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Leroy McMillan
@@ -32,8 +32,8 @@ Current Gadsden County School Board (Gadsden County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

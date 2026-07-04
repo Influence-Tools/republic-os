@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 2"
 ids:
-  person: "e3506853-f2e1-40b5-9ba5-565ee0ddc4a2"
-  office: "f2f89012-3d56-4846-9738-6b7820f78d19"
-  tenure: "7dddd27f-7ca2-4c3f-811f-392b5df99de1"
-  jurisdiction: "464e8c76-9412-4145-af24-97aa88936ace"
+  person: "32b56ac9-b83f-4818-8c76-65f764702121"
+  office: "87b76e20-d51b-46ec-ad73-0bcdec184b06"
+  tenure: "eb3af3ad-dc49-481d-bf45-b5316ca8df91"
+  jurisdiction: "7abdb4fb-7854-4fd4-b734-219c4e3017f6"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jack Baker Jr.
@@ -32,8 +32,8 @@ Current Baker County School Board (Baker County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

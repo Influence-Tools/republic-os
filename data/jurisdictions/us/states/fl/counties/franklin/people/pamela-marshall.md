@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Member"
 ids:
-  person: "8e95af95-b722-45dd-958c-f0efb2103ac0"
-  office: "c9dacea6-77fd-4956-9861-db864d4329a9"
-  tenure: "03b5d93b-03a1-4e34-b95d-7e18b7a152d9"
-  jurisdiction: "36e63c39-65ab-42d9-a7f8-0d53ec384697"
+  person: "6155c20a-653b-4613-bc1e-e4fbeeff53d1"
+  office: "bfbe5a3b-f551-41d7-b722-fda2caa8b501"
+  tenure: "4ac9e0c9-57b6-4788-886c-f7b4fd98f726"
+  jurisdiction: "20b688f2-0b29-4fb6-aef9-73640da0663c"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Pamela Marshall
@@ -32,8 +32,8 @@ Current Franklin County School Board (Franklin County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

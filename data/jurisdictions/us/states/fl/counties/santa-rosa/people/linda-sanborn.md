@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 1"
 ids:
-  person: "bdee7221-aa36-4830-81c8-a7e3abfdfe6f"
-  office: "7c1a44e9-dc6f-471d-b6ea-4ff6927e8136"
-  tenure: "0ea66e71-8f30-48b2-bab1-0532e352c4a1"
-  jurisdiction: "52bb31e3-7601-4415-b048-2f1dcc6a65c6"
+  person: "2081c2b0-f80b-4460-b15b-5fd28d9c8744"
+  office: "e48b573e-6b67-4d6e-b3f0-7e7fa1121d58"
+  tenure: "0fe3a07b-5511-4732-a0bc-3816cf4a9f77"
+  jurisdiction: "3f6cc374-8dc7-4bb1-9b4a-b6b2df5a33bc"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Linda Sanborn
@@ -32,8 +32,8 @@ Current Santa Rosa County School Board (Santa Rosa County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -1,0 +1,42 @@
+---
+type: Person
+title: "Ken Naker"
+description: "Tax Collector, Washington County — Washington County, FL"
+role: "Tax Collector, Washington County"
+party: "R"
+level: "county"
+branch: "executive"
+state: "FL"
+contact:
+  phone: "(850) 638-6275"
+tenure:
+  start: "2025-01-01"
+  current: true
+ids:
+  person: "0c2ecd2c-3ffb-410a-b836-1e44c3761b21"
+  office: "ac8f8c9e-1cda-480f-839c-f9c383cccdea"
+  tenure: "f8cc55ec-f10d-4b60-a1c5-9b3cb6f9cb67"
+  jurisdiction: "021c034b-0e85-46ae-914b-154248909fe2"
+sources:
+  - field: office
+    source: "Florida Association of Counties"
+  - field: tenure
+    source: "Florida Association of Counties"
+  - field: jurisdiction
+    source: "Census TIGER 2024"
+confidence: official
+tags: [officeholder, county, executive, fl]
+timestamp: "2026-07-04"
+---
+
+# Ken Naker
+
+Current Tax Collector, Washington County (Washington County, FL).
+
+## Sources
+
+- office: Florida Association of Counties
+- tenure: Florida Association of Counties
+- jurisdiction: Census TIGER 2024
+
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Member"
 ids:
-  person: "dccd9c9a-53a9-4e2b-a472-aec3c3dc59cd"
-  office: "32e30779-039d-4e88-8b85-32377cfc04e2"
-  tenure: "beb42f76-d7b9-4094-b2ae-624a5f916f1b"
-  jurisdiction: "b3573625-552c-4e96-92b7-8ce91cb84a2b"
+  person: "6505d8f0-7457-4d3a-8e80-41860ab4f01c"
+  office: "415d189f-0804-43fb-806a-ce5d4a54b54d"
+  tenure: "4b55039d-0e8b-4ba7-9135-469ec717a69e"
+  jurisdiction: "793ecdd9-93c7-4f1d-9a74-faa24d190db6"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Asena Mott
@@ -32,8 +32,8 @@ Current DeSoto County School Board (DeSoto County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

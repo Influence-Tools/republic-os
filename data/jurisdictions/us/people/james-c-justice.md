@@ -60,7 +60,7 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, wv]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # James C. Justice
@@ -86,4 +86,4 @@ Current U.S. Senate - WV (State of West Virginia).
 - jurisdiction: Derived from governor jurisdiction
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -22,10 +22,35 @@ from collections import defaultdict
 
 PREFIX = "data/jurisdictions/"
 
+# Lines that are pure build bookkeeping, not government facts. A file whose only
+# change is one of these (the dataset-vintage stamp) did NOT change as a mirror
+# of government — it was just re-exported — so it must not surface as a "change".
+# See build.py: the frontmatter `timestamp` and the "Generated from ..." footer.
+BOOKKEEPING = re.compile(
+    r'^\s*timestamp:\s*".*"\s*$'
+    r'|^Generated from the Atlas officeholders v\d+ export \(.*\)\.\s*$')
+
 
 def git(*args):
     return subprocess.run(["git", *args], capture_output=True, text=True,
                           check=True).stdout
+
+
+def bookkeeping_only_files(base, head):
+    """Paths modified ONLY in bookkeeping lines (vintage stamp), to be ignored."""
+    diff = git("diff", "--unified=0", f"{base}..{head}", "--", PREFIX)
+    changed = defaultdict(list)   # path -> list of changed content lines
+    path = None
+    for line in diff.splitlines():
+        if line.startswith("+++ b/"):
+            path = line[6:]
+        elif line.startswith("--- ") or line.startswith("diff ") \
+                or line.startswith("@@") or line.startswith("index "):
+            continue
+        elif path and line and line[0] in "+-":
+            changed[path].append(line[1:])
+    return {p for p, lines in changed.items()
+            if lines and all(BOOKKEEPING.match(ln) for ln in lines)}
 
 
 def classify(path):
@@ -84,6 +109,8 @@ def main():
     per_state = defaultdict(lambda: defaultdict(int))
     added_bodies = []
     added_by_state = defaultdict(lambda: defaultdict(int))  # state -> etype -> n added
+    ignore = bookkeeping_only_files(base, head)
+    skipped = 0
 
     for line in status.splitlines():
         parts = line.split("\t")
@@ -91,6 +118,9 @@ def main():
         path = parts[-1]                        # new path for renames
         op = {"A": "added", "M": "modified", "D": "removed", "R": "modified"}.get(code)
         if not op:
+            continue
+        if op == "modified" and path in ignore:
+            skipped += 1
             continue
         etype, juris = classify(path)
         if etype is None:
@@ -111,6 +141,10 @@ def main():
     out.append("")
     if total == 0:
         out.append("No entity changes in this range — the government, as mirrored, held still.")
+        if skipped:
+            out.append("")
+            out.append(f"*({skipped} files were re-exported with a new vintage stamp "
+                       f"but no government change.)*")
         emit(out, write)
         return 0
 
@@ -155,6 +189,10 @@ def main():
         out.append(f"- **{juris}**: {' '.join(b for b in bits if b)}{types}")
     out.append("")
     out.append(f"*{total} entity changes total.*")
+    if skipped:
+        out.append("")
+        out.append(f"*(Ignored {skipped} files whose only change was the "
+                   f"dataset-vintage stamp — re-export, not a government change.)*")
 
     emit(out, write)
     return 0

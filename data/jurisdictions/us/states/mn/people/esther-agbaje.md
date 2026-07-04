@@ -3,7 +3,7 @@ type: Person
 title: "Esther Agbaje"
 description: "MN House District 59B — MN State House of Representatives District 59B"
 role: "MN House District 59B"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "MN"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, mn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Esther Agbaje
@@ -38,4 +38,4 @@ Current MN House District 59B (MN State House of Representatives District 59B).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

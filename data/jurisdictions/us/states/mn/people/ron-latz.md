@@ -3,7 +3,7 @@ type: Person
 title: "Ron Latz"
 description: "MN Senate District 46 — MN State Senate District 46"
 role: "MN Senate District 46"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "MN"
@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, mn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Ron Latz
@@ -38,4 +38,4 @@ Current MN Senate District 46 (MN State Senate District 46).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

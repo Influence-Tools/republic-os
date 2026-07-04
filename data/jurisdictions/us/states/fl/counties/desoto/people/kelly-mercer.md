@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Member"
 ids:
-  person: "21ba23d5-942b-4eae-a00a-8f824db6c9ce"
-  office: "32e30779-039d-4e88-8b85-32377cfc04e2"
-  tenure: "d2c2152c-db05-4020-8519-1c540be12f8c"
-  jurisdiction: "b3573625-552c-4e96-92b7-8ce91cb84a2b"
+  person: "1f8a7b3c-a6ed-4162-a8d2-5cdc287e1e83"
+  office: "97cda83a-4095-418d-a2cc-211c3da67118"
+  tenure: "1ec34d39-fe89-4c24-b670-2ea089e5cb5b"
+  jurisdiction: "aff45ee8-3160-4e21-987a-d77bf1a077d6"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Kelly Mercer
@@ -32,8 +32,8 @@ Current DeSoto County School Board (DeSoto County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

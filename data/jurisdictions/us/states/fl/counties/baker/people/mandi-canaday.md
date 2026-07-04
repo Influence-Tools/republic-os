@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 4"
 ids:
-  person: "0e736af2-6e84-4636-becf-f5264c36b9d5"
-  office: "f2f89012-3d56-4846-9738-6b7820f78d19"
-  tenure: "25103bb5-e4fb-4f41-901f-1a746220000f"
-  jurisdiction: "464e8c76-9412-4145-af24-97aa88936ace"
+  person: "448be7ea-5e11-43e2-9165-560fa89eb525"
+  office: "af4ac3a3-7f02-4500-9b53-338b3762a968"
+  tenure: "2c6fead7-c39f-42a8-aafd-c791a0336d90"
+  jurisdiction: "ca1e649c-bcec-4488-a34b-06a294da784f"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Mandi Canaday
@@ -32,8 +32,8 @@ Current Baker County School Board (Baker County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

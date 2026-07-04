@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Member"
 ids:
-  person: "b51556c0-fbee-4199-a92c-80d19c5a0f19"
-  office: "c9dacea6-77fd-4956-9861-db864d4329a9"
-  tenure: "d115b96a-f9cd-4ddb-ad1a-6ed2f7217117"
-  jurisdiction: "36e63c39-65ab-42d9-a7f8-0d53ec384697"
+  person: "cc6d21a1-6342-4bb0-85a6-d2af98aeab37"
+  office: "c7c8a46c-8661-4dbb-b4cf-ba44ed31cfef"
+  tenure: "4e99cf25-2cc7-4e43-a145-8265d017dd7d"
+  jurisdiction: "205bc985-0ad8-4c13-80f2-fdf6109b2fe8"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jared Mock
@@ -32,8 +32,8 @@ Current Franklin County School Board (Franklin County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

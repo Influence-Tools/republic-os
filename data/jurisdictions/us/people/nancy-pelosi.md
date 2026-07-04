@@ -27,7 +27,7 @@ sources:
     source: "Census 119th CD 500k"
 confidence: official
 tags: [officeholder, federal, legislative, ca]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Nancy Pelosi
@@ -39,4 +39,4 @@ Current U.S. House of Representatives - CA-11 (Congressional District 11).
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair"
 ids:
-  person: "2d04cb3b-4b81-4062-adc0-79aed1358f84"
-  office: "e437578d-5ece-434f-811f-757a23e6b57c"
-  tenure: "f2cee3b4-53f6-475f-accd-818557974884"
-  jurisdiction: "68f900e8-d286-412e-8ff6-7f9f5cd0289c"
+  person: "e6dbc097-9d9e-4e60-aa3a-c54aa25ea1f9"
+  office: "0ae5a170-4d1f-4e63-a1a8-f9f065ffbc77"
+  tenure: "009b6504-d19b-42b5-a0c6-73acc623e41e"
+  jurisdiction: "657e7f69-d13b-4909-99ad-5caa65be84cd"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Kayce Hawkins
@@ -32,8 +32,8 @@ Current Hernando County School Board (Hernando County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -3,7 +3,7 @@ type: Person
 title: "Foung Hawj"
 description: "MN Senate District 67 — MN State Senate District 67"
 role: "MN Senate District 67"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "MN"
@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, mn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Foung Hawj
@@ -38,4 +38,4 @@ Current MN Senate District 67 (MN State Senate District 67).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

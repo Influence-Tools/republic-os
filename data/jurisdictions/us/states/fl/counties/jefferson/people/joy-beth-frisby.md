@@ -1,39 +1,39 @@
 ---
 type: Person
-title: "Joy Beth Frisby"
+title: "\"Joy Beth\" Frisby"
 description: "Jefferson County School Board — Jefferson County, FL"
 role: "Jefferson County School Board"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 1"
 ids:
-  person: "64eae50a-a145-4897-b2ef-b1bf0030e71d"
-  office: "76ce89fe-9c03-4fee-981c-8be626aaa27c"
-  tenure: "afb0da58-53bc-49af-a2b9-e6c267d802e5"
-  jurisdiction: "17fb433a-376a-45a0-943c-69c30f332695"
+  person: "02ad5fa6-8f8c-41c7-90a6-0d32189a417e"
+  office: "6f1ceb37-42eb-4edd-8090-7508521c44c2"
+  tenure: "5f907b71-4f29-4443-84ed-63776651afb0"
+  jurisdiction: "d081a7c8-c106-4e5c-868e-29e24d3c5075"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Joy Beth Frisby
+# "Joy Beth" Frisby
 
 Current Jefferson County School Board (Jefferson County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "0119ccc4-78dc-430a-bb8a-97c6ab03dedb"
-  office: "ec29e88c-f2bb-4817-8404-0b43dabb9364"
-  tenure: "bef8f9bc-ae8a-48e6-bd54-9d1a3704759c"
-  jurisdiction: "ed27ba19-a91d-44cc-af1a-7476782a41fa"
+  person: "d5316104-77e4-4eab-bd4d-291057156cfa"
+  office: "8c460e74-e8ab-4418-9e1c-8d01bda04fc4"
+  tenure: "c3894c6e-1bb4-44cb-84c9-a01bf52a6be0"
+  jurisdiction: "2b5aaf62-e555-4b96-aa52-188ac0f30f29"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Lucas Rollison
@@ -32,8 +32,8 @@ Current Dixie County School Board (Dixie County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

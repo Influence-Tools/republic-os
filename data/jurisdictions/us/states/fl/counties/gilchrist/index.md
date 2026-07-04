@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Gilchrist County, FL
 
-County jurisdiction — 20 officeholders mapped.
+County jurisdiction — 25 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

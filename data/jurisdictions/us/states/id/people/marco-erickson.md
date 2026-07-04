@@ -26,7 +26,7 @@ sources:
     source: "Geometry not found in SLD layer"
 confidence: official
 tags: [officeholder, state, legislative, id]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Marco Erickson
@@ -38,4 +38,4 @@ Current ID House District 33B (ID State House of Representatives District 33B).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Geometry not found in SLD layer
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

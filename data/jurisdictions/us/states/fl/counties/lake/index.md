@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Lake County, FL
 
-County jurisdiction — 79 officeholders mapped.
+County jurisdiction — 84 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

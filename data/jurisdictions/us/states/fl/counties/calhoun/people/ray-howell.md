@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 2"
 ids:
-  person: "53f8a6ee-9629-42b8-96e2-3db0036847b0"
-  office: "8ec7fa73-c368-43cd-bc1b-ffebaf74e43e"
-  tenure: "11e3d3e8-c31f-4055-8f52-eaf4cffd2677"
-  jurisdiction: "b28b9ca7-4b70-451d-976b-d544f91781ec"
+  person: "6db69ef6-3b56-4315-bd35-4cb50f120c36"
+  office: "4df57635-03cb-4759-801c-170ce9cd9211"
+  tenure: "0b5000ec-09bc-48af-bb9e-d9dc5b98a46f"
+  jurisdiction: "d7492ae9-db34-47da-813a-3bb16f76ba55"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Ray Howell
@@ -32,8 +32,8 @@ Current Calhoun County School Board (Calhoun County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

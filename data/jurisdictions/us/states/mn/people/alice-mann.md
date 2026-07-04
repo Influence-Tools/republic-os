@@ -3,7 +3,7 @@ type: Person
 title: "Alice Mann"
 description: "MN Senate District 50 — MN State Senate District 50"
 role: "MN Senate District 50"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "MN"
@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, mn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Alice Mann
@@ -38,4 +38,4 @@ Current MN Senate District 50 (MN State Senate District 50).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

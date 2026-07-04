@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 7"
 ids:
-  person: "3358e576-6309-4703-b971-9652f57d02d8"
-  office: "ffe9a6be-e2fb-45b1-99ed-c67ec78d5d6f"
-  tenure: "51a45829-c4ae-4256-9124-ccbaf6847303"
-  jurisdiction: "e91c28e1-4e2b-4f90-ad84-f62bcf8b622a"
+  person: "345a1044-c4f5-4b7b-bf6a-daaadb0608e6"
+  office: "7994fa44-deec-4896-96d3-d2dcde908b1a"
+  tenure: "298bcfcf-dc21-4aad-ab91-16867c3942f8"
+  jurisdiction: "f664b5b2-ed90-49a5-a114-d6d78fa8fc39"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Edwin Ferguson
@@ -32,8 +32,8 @@ Current Palm Beach County School Board (Palm Beach County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

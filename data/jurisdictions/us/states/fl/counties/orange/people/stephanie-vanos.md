@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 6"
 ids:
-  person: "e3e776a9-19b4-4363-9e0b-56ac2de55af6"
-  office: "2f4c38b9-3c60-4767-8c21-44304629db50"
-  tenure: "320fe824-356a-41ab-9536-5afa885aba49"
-  jurisdiction: "4d30f99e-d323-43f1-a771-5c31307af01c"
+  person: "1252f80f-696f-4a1b-ad1f-f6683d0ef19e"
+  office: "ceafe2e6-0e69-40f0-be45-90cb9e200f69"
+  tenure: "15b9fa55-d6b0-47eb-9338-529a03c6b8b5"
+  jurisdiction: "26db4288-9692-4ffe-b169-08a460fe6189"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Stephanie Vanos
@@ -32,8 +32,8 @@ Current Orange County School Board (Orange County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 4"
 ids:
-  person: "909b1f9e-802a-428f-854d-6a47f9b43bf2"
-  office: "571d6177-e5f3-4d0b-9c64-0ceb4ff60c05"
-  tenure: "c8804ed5-7c15-4c2a-8248-905f765dda5c"
-  jurisdiction: "87a5a20a-4c15-47dc-b7cc-62e3be75942e"
+  person: "661de561-ff38-4ec5-8805-92f379d60c94"
+  office: "821b2437-ef50-417b-a564-5b12d736a4f8"
+  tenure: "bfd43736-b434-490d-8276-0edc7f921c57"
+  jurisdiction: "e7b3df63-260d-4d6b-8b08-9caa986169ef"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Lori Alhadeff
@@ -32,8 +32,8 @@ Current Broward County School Board (Broward County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

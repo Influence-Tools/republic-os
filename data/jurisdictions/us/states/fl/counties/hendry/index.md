@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Hendry County, FL
 
-County jurisdiction — 23 officeholders mapped.
+County jurisdiction — 28 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

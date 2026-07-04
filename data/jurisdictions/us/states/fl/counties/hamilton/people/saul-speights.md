@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 3"
 ids:
-  person: "45609066-254e-47a0-8c93-ab1585338cd9"
-  office: "11248930-22dc-4d82-b3fe-8ae5e5a1a3c8"
-  tenure: "81f4d9e8-7923-4de0-a09f-da7707f6642c"
-  jurisdiction: "00fbb132-de02-44b2-9c91-723b4bfaae9c"
+  person: "52a953ca-b8cb-405b-823e-e5b31673422b"
+  office: "b7e47766-742d-48b6-b933-fd1ce21022c8"
+  tenure: "89767258-1276-4cd0-8c68-16a04da3671e"
+  jurisdiction: "5c6fcb15-fc69-4364-bded-5b127d72b95b"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Saul Speights
@@ -32,8 +32,8 @@ Current Hamilton County School Board (Hamilton County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

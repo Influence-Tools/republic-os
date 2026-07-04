@@ -2,7 +2,7 @@
 """Build the OKF entity tree from the raw source exports in data/.
 
 Inputs (committed raw, one JSON object per line):
-  officeholders-v2.jsonl        Atlas — person->seat records          (11,285)
+  officeholders-v3.jsonl        Atlas — person->seat records          (13,329)
   bodies.jsonl                  congress-legislators — institutions      (233)
   leadership.jsonl              current federal leadership roles          (28)
   committee_memberships.jsonl   person->committee edges                (3,879)
@@ -27,7 +27,7 @@ REPO = Path(__file__).resolve().parent.parent
 DATA = REPO / "data"
 OUT = DATA / "jurisdictions"
 BODIES_OUT = OUT / "us" / "bodies"
-DATASET_DATE = "2026-06-20"          # officeholders v2 build date
+DATASET_DATE = "2026-07-04"          # officeholders v3 export date
 CONGRESS_DATE = "2026-07-03"         # congress-legislators ingest date
 
 
@@ -304,7 +304,7 @@ def person_body(rec, enr):
         any_src = True
     if not any_src:
         out.append("- (no field-level source recorded)")
-    out += ["", f"Generated from the Atlas officeholders v2 export ({DATASET_DATE})."]
+    out += ["", f"Generated from the Atlas officeholders v3 export ({DATASET_DATE})."]
     return out
 
 
@@ -537,7 +537,7 @@ def load(name):
 
 
 def main():
-    officeholders = load("officeholders-v2.jsonl")
+    officeholders = load("officeholders-v3.jsonl")
     bodies = load("bodies.jsonl")
     leadership = load("leadership.jsonl")
     memberships = load("committee_memberships.jsonl")

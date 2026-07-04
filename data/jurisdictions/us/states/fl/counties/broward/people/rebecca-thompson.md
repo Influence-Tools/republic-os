@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "9569eb1a-2152-4af9-a250-e42cb18a6483"
-  office: "571d6177-e5f3-4d0b-9c64-0ceb4ff60c05"
-  tenure: "866442a6-05f3-41ff-968c-e236087e8c7e"
-  jurisdiction: "87a5a20a-4c15-47dc-b7cc-62e3be75942e"
+  person: "5a584d70-18b3-4a1f-b6dd-0509562b3c04"
+  office: "3408eae3-def3-454e-b20d-00dca46bc4e1"
+  tenure: "49533a99-1831-45e0-83d4-8b8d1dff4de2"
+  jurisdiction: "af7068d1-18e2-47e1-96d3-a2227640e53f"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Rebecca Thompson
@@ -32,8 +32,8 @@ Current Broward County School Board (Broward County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

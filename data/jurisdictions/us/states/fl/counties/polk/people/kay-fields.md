@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "cdf378bd-5ce9-4cfa-a3cb-a8c74b1f8d1e"
-  office: "4f7a19e3-5250-4edf-ad29-c73d63b7cfcc"
-  tenure: "cb1c0fbc-b2d8-411f-b5c2-af1674c41599"
-  jurisdiction: "b3c4979a-2dcd-4674-b578-886e52ddc733"
+  person: "fb6fbece-9596-4c06-aef4-9019c6098af2"
+  office: "907e9467-122d-46cc-bf03-056d8d9a90ea"
+  tenure: "4fb3ec21-4fae-4135-9a2c-893e94593bae"
+  jurisdiction: "06b916ec-9c09-460e-a0da-06c11b5a2fcd"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Kay Fields
@@ -32,8 +32,8 @@ Current Polk County School Board (Polk County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

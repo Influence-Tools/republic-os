@@ -26,7 +26,7 @@ sources:
     source: "Natural Earth via eric.clst.org"
 confidence: official
 tags: [officeholder, state, executive, az]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Katie Hobbs
@@ -38,4 +38,4 @@ Current Governor of Arizona.
 - tenure: Stateside Associates 2026-01-20
 - jurisdiction: Natural Earth via eric.clst.org
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

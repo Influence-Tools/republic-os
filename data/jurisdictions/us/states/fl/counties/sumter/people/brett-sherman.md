@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "a35511c1-89b7-4239-b418-c71728a37688"
-  office: "8d018a04-3571-4df7-85a6-c17f4f77c987"
-  tenure: "1cea36d6-1aac-4ba2-8e57-6820a0a42250"
-  jurisdiction: "719cf0b2-e2ea-4610-848b-c4b0603e0c10"
+  person: "68d61cfb-d861-4fb5-9180-732cee3bcaa3"
+  office: "a2173f98-4c88-4577-88e8-63be9a719f67"
+  tenure: "890d038d-93e6-4b99-912c-c9791a86d44a"
+  jurisdiction: "8ec9866a-5b01-493b-b4f8-3173debe9123"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Brett Sherman
@@ -32,8 +32,8 @@ Current Sumter County School Board (Sumter County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

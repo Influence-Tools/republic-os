@@ -3,7 +3,7 @@ type: Person
 title: "Aaron Dana"
 description: "ME House District Passamaquoddy Tribe — ME State House of Representatives District Passamaquoddy Tribe"
 role: "ME House District Passamaquoddy Tribe"
-party: "IND"
+party: "I"
 level: "state"
 branch: "legislative"
 state: "ME"
@@ -26,7 +26,7 @@ sources:
     source: "Geometry not found in SLD layer"
 confidence: official
 tags: [officeholder, state, legislative, me]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Aaron Dana
@@ -38,4 +38,4 @@ Current ME House District Passamaquoddy Tribe (ME State House of Representatives
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Geometry not found in SLD layer
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

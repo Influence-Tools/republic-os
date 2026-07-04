@@ -1,39 +1,39 @@
 ---
 type: Person
-title: "Melisa W. Giovannelli"
+title: "Melisa W Giovannelli"
 description: "Lee County School Board — Lee County, FL"
 role: "Lee County School Board"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "15430e0f-b319-4b74-ae39-58754ec1b31e"
-  office: "f5a5a51a-feb2-43dd-a285-4db73d2c373e"
-  tenure: "0cd6b0ed-eec9-4729-bd4e-1aa85a4af861"
-  jurisdiction: "88794eb9-acbb-4bb2-93ff-3725da94f753"
+  person: "12626060-3d67-4f82-b650-8c3a0e9b07bb"
+  office: "85bfcbf5-aad1-4272-9fe8-d6cbb7633058"
+  tenure: "ec1be54a-57fe-4e50-9cf7-3bfcd8c097e0"
+  jurisdiction: "211c7b61-e599-4014-b6f4-129ecc09ad1f"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Melisa W. Giovannelli
+# Melisa W Giovannelli
 
 Current Lee County School Board (Lee County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

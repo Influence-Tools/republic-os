@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 7"
 ids:
-  person: "151c3cdc-df35-4f7b-9f37-33c8cb6b7836"
-  office: "571d6177-e5f3-4d0b-9c64-0ceb4ff60c05"
-  tenure: "b14b9042-1904-4b67-98c8-696902c5c093"
-  jurisdiction: "87a5a20a-4c15-47dc-b7cc-62e3be75942e"
+  person: "e8257d51-d0c7-48b9-ad3b-7930c9258534"
+  office: "f91f414d-7e37-495e-9207-0e6e55339cd8"
+  tenure: "efb925e3-7e33-41fe-9da2-a91a502f82f9"
+  jurisdiction: "afe26757-42bd-4457-be0a-1bb9a62bb643"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Nora Rupert
@@ -32,8 +32,8 @@ Current Broward County School Board (Broward County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Levy County, FL
 
-County jurisdiction — 55 officeholders mapped.
+County jurisdiction — 54 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

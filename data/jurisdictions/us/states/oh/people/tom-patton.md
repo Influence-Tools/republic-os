@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, oh]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Tom Patton
@@ -38,4 +38,4 @@ Current OH Senate District 24 (OH State Senate District 24).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

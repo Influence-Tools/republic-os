@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 5"
 ids:
-  person: "d3f7935d-9ff6-4a02-97c9-8c56083d9708"
-  office: "e09fbed3-aa66-4b57-ade3-6ddaefa56aff"
-  tenure: "d7c4c743-7716-46dd-ad3c-9dbacfd4c7f5"
-  jurisdiction: "67b6d252-15b9-4969-9262-a752f83ef0f9"
+  person: "cf8b9b7d-1be2-4a11-8844-0e4689c4d0de"
+  office: "19fbe78a-6cce-4f20-b84c-9cc6067dadb3"
+  tenure: "7f3dd9de-1de4-426e-96d0-75a6469fa212"
+  jurisdiction: "82dfe6ce-f31f-45c3-8b8f-4f10bca3195b"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Wendy Atkinson
@@ -32,8 +32,8 @@ Current Charlotte County School Board (Charlotte County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ia]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Austin Harris
@@ -38,4 +38,4 @@ Current IA House District 26 (IA State House of Representatives District 26).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

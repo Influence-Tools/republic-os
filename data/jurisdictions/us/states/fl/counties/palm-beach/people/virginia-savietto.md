@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "f0e8131c-9bf6-4943-b98b-eaa28176164e"
-  office: "ffe9a6be-e2fb-45b1-99ed-c67ec78d5d6f"
-  tenure: "1a793068-b0bb-486b-9544-2790de1b99cd"
-  jurisdiction: "e91c28e1-4e2b-4f90-ad84-f62bcf8b622a"
+  person: "80ee8a1e-6e63-4517-8640-c7fefe2bcb33"
+  office: "6a221eb7-4268-40a7-8f55-001f5ed2bdba"
+  tenure: "36424f9e-62c1-42d4-b812-e12b9fc3576f"
+  jurisdiction: "8513eb52-87c7-4aa3-a326-d7d2453dae18"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Virginia Savietto
@@ -32,8 +32,8 @@ Current Palm Beach County School Board (Palm Beach County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

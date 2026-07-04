@@ -1,6 +1,6 @@
 ---
 type: Person
-title: "Jesús G. 'Chuy' García"
+title: "Jesús G. \"Chuy\" García"
 description: "U.S. House of Representatives - IL-4 — Congressional District 4"
 role: "U.S. House of Representatives - IL-4"
 party: "D"
@@ -52,10 +52,10 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, il]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Jesús G. 'Chuy' García
+# Jesús G. "Chuy" García
 
 Current U.S. House of Representatives - IL-4 (Congressional District 4).
 
@@ -75,4 +75,4 @@ Current U.S. House of Representatives - IL-4 (Congressional District 4).
 - jurisdiction: Census 119th CD 500k
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

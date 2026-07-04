@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 1"
 ids:
-  person: "14e9a3c6-7939-421d-9167-a688bfcc94f1"
-  office: "c6579021-6cc6-43a4-8ad0-f7251902f295"
-  tenure: "00e9c647-5d60-4c0c-a080-3ba3ddd68ba6"
-  jurisdiction: "8a92b1f2-c4fb-420f-ab9b-059f82815958"
+  person: "6f62e494-9272-4915-8e02-0f7a804d0f3b"
+  office: "b34973d8-63df-46af-a4c7-ea40d7d5165a"
+  tenure: "7112ef15-8959-429b-a1ff-8d32b6fdb111"
+  jurisdiction: "382ebccc-981b-4561-9462-5dddf91bc241"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Debbie Hawley
@@ -32,8 +32,8 @@ Current St. Lucie County School Board (St. Lucie County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

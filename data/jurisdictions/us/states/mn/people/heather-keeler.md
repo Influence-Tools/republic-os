@@ -3,7 +3,7 @@ type: Person
 title: "Heather Keeler"
 description: "MN House District 4A — MN State House of Representatives District 4A"
 role: "MN House District 4A"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "MN"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, mn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Heather Keeler
@@ -38,4 +38,4 @@ Current MN House District 4A (MN State House of Representatives District 4A).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

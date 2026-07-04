@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "aebe274e-18ba-43ed-a146-ec96a5dd7b5a"
-  office: "2e2832ad-9f86-4c02-97d2-60dd0ebd26ef"
-  tenure: "d2bc1f6d-f20f-40ee-bec1-11b8996a91b5"
-  jurisdiction: "e6622379-f14f-48f6-9da8-5058472dbf27"
+  person: "892901be-da75-48e8-bf97-2fe6824a5dc7"
+  office: "3fbe6b08-93bd-4663-9c9d-8d8ce7959b55"
+  tenure: "5c161141-1e8c-41ed-8ba4-0ba846b2344f"
+  jurisdiction: "15c42032-1c7a-4b40-b1c0-cbd93ca773e2"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Ken Frink
@@ -32,8 +32,8 @@ Current Citrus County School Board (Citrus County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

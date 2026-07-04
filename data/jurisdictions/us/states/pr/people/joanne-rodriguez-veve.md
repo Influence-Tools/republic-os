@@ -3,7 +3,7 @@ type: Person
 title: "Joanne Rodríguez Veve"
 description: "PR Senate District At-Large — PR State Senate District At-Large"
 role: "PR Senate District At-Large"
-party: "IND"
+party: "I"
 level: "state"
 branch: "legislative"
 state: "PR"
@@ -26,7 +26,7 @@ sources:
     source: "Geometry not found in SLD layer"
 confidence: official
 tags: [officeholder, state, legislative, pr]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Joanne Rodríguez Veve
@@ -38,4 +38,4 @@ Current PR Senate District At-Large (PR State Senate District At-Large).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Geometry not found in SLD layer
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Volusia County, FL
 
-County jurisdiction — 101 officeholders mapped.
+County jurisdiction — 100 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

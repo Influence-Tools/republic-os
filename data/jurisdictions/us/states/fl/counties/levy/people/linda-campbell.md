@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 4"
 ids:
-  person: "ef90a4b1-2712-48b2-819e-183461f6e563"
-  office: "cf0f3e39-5a4b-4d0d-96de-1116787378f6"
-  tenure: "fb5281d5-dc19-44ec-b3ec-dc9b00cb05f0"
-  jurisdiction: "877fc806-8a1f-42db-9aff-663421da748b"
+  person: "a4b3fad2-8547-44d5-9135-ed26b2c21df0"
+  office: "05e7f1a8-42cd-4cc3-a76f-40abb6e482e6"
+  tenure: "635ba598-5f2e-4acf-a7d3-d4f4a54976b6"
+  jurisdiction: "04be4cd5-52a2-4ff8-b4a4-8ec49985a0ef"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Linda Campbell
@@ -32,8 +32,8 @@ Current Levy County School Board (Levy County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

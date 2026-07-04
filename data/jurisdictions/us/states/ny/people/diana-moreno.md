@@ -3,7 +3,7 @@ type: Person
 title: "Diana Moreno"
 description: "NY House District 36 — NY State House of Representatives District 36"
 role: "NY House District 36"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "NY"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ny]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Diana Moreno
@@ -38,4 +38,4 @@ Current NY House District 36 (NY State House of Representatives District 36).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

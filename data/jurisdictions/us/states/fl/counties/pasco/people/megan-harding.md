@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "cc62b982-7121-4ba1-8d4e-7b1556e5e50d"
-  office: "a9da5c75-c68d-46b2-a353-482070b8611b"
-  tenure: "21fd9494-4dcf-4856-8496-acda01d0fff8"
-  jurisdiction: "9ed17297-a772-40d9-b514-f3bbafd351fe"
+  person: "30105f60-9a77-40f1-bc42-086d6d6947e8"
+  office: "a9ac17e2-8375-455c-b4b6-39506ca131bb"
+  tenure: "421bb634-6ba5-459b-9d14-b0bfe79a6f6a"
+  jurisdiction: "202ef83a-cc5c-4e80-bd6b-6613a42cadae"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Megan Harding
@@ -32,8 +32,8 @@ Current Pasco County School Board (Pasco County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

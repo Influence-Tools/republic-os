@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # St. Johns County, FL
 
-County jurisdiction — 30 officeholders mapped.
+County jurisdiction — 28 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

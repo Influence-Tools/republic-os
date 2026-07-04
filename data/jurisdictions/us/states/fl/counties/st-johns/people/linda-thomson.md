@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "6054efbd-fce2-4e07-b09b-2fcae811679a"
-  office: "d1d4abde-3fa6-448b-a336-407f72ef0e2f"
-  tenure: "3bb876aa-db41-493e-a863-ffc8fd1582ba"
-  jurisdiction: "b4f7447f-4933-42de-9a18-b2cf3ab91a82"
+  person: "2ff51094-06f8-41f6-b831-6c83d4a44049"
+  office: "9508940e-2000-4755-a1fb-9db87a79698c"
+  tenure: "67f55a27-ad33-4cf8-8de9-8f278f409e41"
+  jurisdiction: "78ee4976-5db3-431e-a1e7-a87542036171"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Linda Thomson
@@ -32,8 +32,8 @@ Current St. Johns County School Board (St. Johns County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -1,39 +1,39 @@
 ---
 type: Person
-title: "Ruben Colón"
+title: "Ruben Colon"
 description: "Volusia County School Board — Volusia County, FL"
 role: "Volusia County School Board"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 5"
 ids:
-  person: "a01ea605-0040-4d4c-834f-960b50730655"
-  office: "6d576851-a320-4cd3-80ef-691021a9d930"
-  tenure: "2d0d39b1-628d-40a8-8297-4fc0b89f7a83"
-  jurisdiction: "784e45f4-70df-4fab-a8ab-7eaa39425d1e"
+  person: "edade620-063a-4581-9f53-f8dd1e2ae18c"
+  office: "ff1500bf-635e-4f40-8db9-722dc0815e69"
+  tenure: "bf944929-9ca6-45c2-bd85-402a5c99aeeb"
+  jurisdiction: "d36b0d65-c2e0-4060-86d0-b7b787587f7e"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Ruben Colón
+# Ruben Colon
 
 Current Volusia County School Board (Volusia County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

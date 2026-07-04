@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Polk County, FL
 
-County jurisdiction — 105 officeholders mapped.
+County jurisdiction — 108 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

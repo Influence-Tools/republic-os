@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 1"
 ids:
-  person: "c4590f74-8104-4481-9a42-4d2a41b304a3"
-  office: "a42181bf-f3b4-4e59-a63e-fc14447fbd95"
-  tenure: "88513415-033a-4e7e-929d-7f286c8415ee"
-  jurisdiction: "39ce4223-5010-4824-8990-71249ad19342"
+  person: "6419431d-734b-4af5-8437-46d0701c40ef"
+  office: "acdfbe92-a34d-4490-a73b-592e52b59685"
+  tenure: "14d2c6c4-f517-4836-886c-13f3e7b3ba4c"
+  jurisdiction: "36973733-2836-4612-a4cd-bbbadbbcd9ff"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Tammy Smith
@@ -32,8 +32,8 @@ Current Walton County School Board (Walton County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 1"
 ids:
-  person: "c57feaea-0e79-459a-aaca-a7dea5fc4da5"
-  office: "8ec7fa73-c368-43cd-bc1b-ffebaf74e43e"
-  tenure: "d7a10adb-73c5-4059-8919-147af6514991"
-  jurisdiction: "b28b9ca7-4b70-451d-976b-d544f91781ec"
+  person: "66fae821-df73-4311-a4ea-0cd6c027b43b"
+  office: "20c840f5-47a6-4865-90c3-f2685846d234"
+  tenure: "48bd213b-aa20-4dc0-bb74-0d2ed8e18610"
+  jurisdiction: "09700575-7ed0-4115-b032-9a5a74f28515"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Danny Ryals
@@ -32,8 +32,8 @@ Current Calhoun County School Board (Calhoun County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

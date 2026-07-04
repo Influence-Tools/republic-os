@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 1"
 ids:
-  person: "ca7ac6b7-5565-44a4-b0f1-218262e0c3b4"
-  office: "f2f89012-3d56-4846-9738-6b7820f78d19"
-  tenure: "dbe1b589-1809-4595-8c35-dfa6b2dfd99f"
-  jurisdiction: "464e8c76-9412-4145-af24-97aa88936ace"
+  person: "4a1f3b8a-0b62-45f3-9e14-449af1159d53"
+  office: "68c5faaf-87b9-4b03-b2b6-129822adf640"
+  tenure: "dfe81334-ff4b-4b92-950e-2e1b224220d2"
+  jurisdiction: "873f55c4-4e78-4d97-bf45-812e3e1868bd"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Tiffany McInarnay
@@ -32,8 +32,8 @@ Current Baker County School Board (Baker County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

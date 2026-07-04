@@ -3,7 +3,7 @@ type: Person
 title: "Peggy Flanagan"
 description: "MN Lt Governor — State of Minnesota"
 role: "MN Lt Governor"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "executive"
 state: "MN"
@@ -24,7 +24,7 @@ sources:
     source: "Derived from governor jurisdiction"
 confidence: official
 tags: [officeholder, state, executive, mn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Peggy Flanagan
@@ -36,4 +36,4 @@ Current MN Lt Governor (State of Minnesota).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Derived from governor jurisdiction
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Member"
 ids:
-  person: "26012ef9-5c59-4e66-a036-85f3f364566a"
-  office: "c1be6197-ea6a-467c-b5cc-227b42d01377"
-  tenure: "cc15052e-00cb-48a2-86b2-0a7483a9ba48"
-  jurisdiction: "2a9c1ec5-ce96-4695-a31a-8fbaef139467"
+  person: "bbbcf4a2-6718-45d2-b66a-b340159e3ce1"
+  office: "d379390f-bd4a-4c73-b82a-6d3792248dd8"
+  tenure: "4a4acb03-560b-49d1-8b9a-e95cc47f61d6"
+  jurisdiction: "1cb65cf1-8e00-4d85-854b-b64213b9de54"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Hunter Peeler
@@ -32,8 +32,8 @@ Current Columbia County School Board (Columbia County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

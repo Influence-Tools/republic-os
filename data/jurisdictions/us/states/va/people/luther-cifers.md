@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, va]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Luther Cifers
@@ -38,4 +38,4 @@ Current VA Senate District 10 (VA State Senate District 10).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

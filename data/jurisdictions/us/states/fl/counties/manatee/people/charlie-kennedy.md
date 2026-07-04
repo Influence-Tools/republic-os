@@ -3,27 +3,28 @@ type: Person
 title: "Charlie Kennedy"
 description: "Manatee County School Board — Manatee County, FL"
 role: "Manatee County School Board"
+party: "R"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 3"
 ids:
-  person: "5beba557-e856-49b9-b576-d71989c2a0c9"
-  office: "5d2305b0-d9cd-4992-925a-4970e79db56c"
-  tenure: "04495a68-5ddd-4757-9571-5673e59dc37b"
-  jurisdiction: "611ba14e-9673-49ef-9eb5-9a43424f76da"
+  person: "39c9d14c-7207-47f4-92cf-1a1812e36a04"
+  office: "4f50ffb3-18bc-4510-8729-f405b29c330e"
+  tenure: "73820ab3-1afb-45eb-a117-36d92807aa66"
+  jurisdiction: "fe5fc04b-5471-4cbf-8f52-fa6368b2ec27"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Charlie Kennedy
@@ -32,8 +33,8 @@ Current Manatee County School Board (Manatee County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

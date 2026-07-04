@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 1"
 ids:
-  person: "f5b2ef28-8cd1-4880-843a-0fc133730807"
-  office: "ec29e88c-f2bb-4817-8404-0b43dabb9364"
-  tenure: "16e35d1f-4bc6-4d69-95b2-e6651ba43c77"
-  jurisdiction: "ed27ba19-a91d-44cc-af1a-7476782a41fa"
+  person: "5a53eb30-dd1f-44b2-b56d-0fb4b31a3b0d"
+  office: "d3361ecd-a500-45b2-aebb-85ac4dd37b5e"
+  tenure: "ba75ca3f-460d-4922-b8c2-13e80883672b"
+  jurisdiction: "f8b4b255-cb5a-4d1c-a0dd-a1c4665d6617"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Cheryl Pridgeon
@@ -32,8 +32,8 @@ Current Dixie County School Board (Dixie County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 1"
 ids:
-  person: "f5f9b21e-fdb7-4eef-ae99-92dfcaf4edea"
-  office: "8d018a04-3571-4df7-85a6-c17f4f77c987"
-  tenure: "aad9d3b1-b29a-4cab-b375-4ba4dc492adc"
-  jurisdiction: "719cf0b2-e2ea-4610-848b-c4b0603e0c10"
+  person: "d5b4557d-6c66-4dfa-aa83-2b0fa8184377"
+  office: "a04dab6f-d89a-4b89-9cc7-3ac1b8ab5eef"
+  tenure: "386509f2-f3c4-4bb3-8fe5-6da41c2dfd5b"
+  jurisdiction: "53961b9c-b8fb-4128-a3d7-bc4920345bb3"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Sally Moss
@@ -32,8 +32,8 @@ Current Sumter County School Board (Sumter County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

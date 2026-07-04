@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Jackson County, FL
 
-County jurisdiction — 61 officeholders mapped.
+County jurisdiction — 66 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

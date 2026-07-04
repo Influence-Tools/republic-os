@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Okeechobee County, FL
 
-County jurisdiction — 17 officeholders mapped.
+County jurisdiction — 21 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

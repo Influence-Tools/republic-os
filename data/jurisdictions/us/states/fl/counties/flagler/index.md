@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Flagler County, FL
 
-County jurisdiction — 34 officeholders mapped.
+County jurisdiction — 39 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

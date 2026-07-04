@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, sd]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jana Hunt
@@ -38,4 +38,4 @@ Current SD House District 28A (SD State House of Representatives District 28A).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

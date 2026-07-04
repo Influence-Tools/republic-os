@@ -1,6 +1,6 @@
 ---
 type: Person
-title: "Charles J. 'Chuck' Fleischmann"
+title: "Charles J. \"Chuck\" Fleischmann"
 description: "U.S. House of Representatives - TN-3 — Congressional District 3"
 role: "U.S. House of Representatives - TN-3"
 party: "R"
@@ -49,10 +49,10 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, tn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Charles J. 'Chuck' Fleischmann
+# Charles J. "Chuck" Fleischmann
 
 Current U.S. House of Representatives - TN-3 (Congressional District 3).
 
@@ -71,4 +71,4 @@ Current U.S. House of Representatives - TN-3 (Congressional District 3).
 - jurisdiction: Census 119th CD 500k
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

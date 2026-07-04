@@ -1,39 +1,39 @@
 ---
 type: Person
 title: "Tim Moshier"
-description: "Collier County School Board — Collier County, FL"
-role: "Collier County School Board"
+description: "Collier County School Board - District 5 — Collier County, FL"
+role: "Collier County School Board - District 5"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "c0bc665c-f9f2-411b-9a18-72b2bb7d3d12"
-  office: "ab11ddb0-fd98-433b-beff-ee8678c11402"
-  tenure: "035fcb5d-ae9f-4797-a339-89661dd2a110"
-  jurisdiction: "beeb376e-a853-4386-8814-3188304b151e"
+  person: "1fbb7946-b50b-4c4c-a3f0-76065304d2b9"
+  office: "e00d8f4c-ca4d-4e8f-a29a-369afbfb707a"
+  tenure: "c1bc3abe-10bf-4c2c-bcd4-6e03ab4a639e"
+  jurisdiction: "267e7fa4-53c7-46bc-b8b7-dfb493fc1efc"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "Collier County Schools website"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "Collier County Schools"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Tim Moshier
 
-Current Collier County School Board (Collier County, FL).
+Current Collier County School Board - District 5 (Collier County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: Collier County Schools website
+- tenure: Collier County Schools
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

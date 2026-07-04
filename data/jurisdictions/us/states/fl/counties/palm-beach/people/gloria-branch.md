@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "9849afd7-db20-4a1f-bfdd-e549bfa27f9d"
-  office: "ffe9a6be-e2fb-45b1-99ed-c67ec78d5d6f"
-  tenure: "b8b5d663-40b7-4232-96b4-8517918379c5"
-  jurisdiction: "e91c28e1-4e2b-4f90-ad84-f62bcf8b622a"
+  person: "bf21e250-ef6a-41c3-b431-e66c2cacda78"
+  office: "9435dc68-fbf3-444d-8246-4a719e28dec2"
+  tenure: "c4f572de-a9b6-4866-b86f-3634086e0229"
+  jurisdiction: "8c2913b5-9fa4-4ab7-99af-33ecf47615a4"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Gloria Branch
@@ -32,8 +32,8 @@ Current Palm Beach County School Board (Palm Beach County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

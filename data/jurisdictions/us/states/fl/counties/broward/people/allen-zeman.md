@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: At-Large Seat 8"
 ids:
-  person: "61220d24-05fe-447b-914c-dbc0f15f873f"
-  office: "571d6177-e5f3-4d0b-9c64-0ceb4ff60c05"
-  tenure: "f851dee2-09e6-4df9-9ad5-1eb0c108d43e"
-  jurisdiction: "87a5a20a-4c15-47dc-b7cc-62e3be75942e"
+  person: "37f6d22e-36f3-4a6e-a7b4-da6e00897bce"
+  office: "6af866b8-5f36-4a08-bf11-a1ac8aba11d8"
+  tenure: "207923c3-47d3-48ec-b6b2-17e2a80bafe9"
+  jurisdiction: "15e8ad8a-a3a4-4784-9db9-59cf427aa675"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Allen Zeman
@@ -32,8 +32,8 @@ Current Broward County School Board (Broward County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

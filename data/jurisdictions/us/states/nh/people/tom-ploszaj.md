@@ -3,7 +3,7 @@ type: Person
 title: "Tom Ploszaj"
 description: "NH House District Belknap 1 — NH State House of Representatives District Belknap 1"
 role: "NH House District Belknap 1"
-party: "IND"
+party: "I"
 level: "state"
 branch: "legislative"
 state: "NH"
@@ -26,7 +26,7 @@ sources:
     source: "Geometry not found in SLD layer"
 confidence: official
 tags: [officeholder, state, legislative, nh]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Tom Ploszaj
@@ -38,4 +38,4 @@ Current NH House District Belknap 1 (NH State House of Representatives District 
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Geometry not found in SLD layer
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ms]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # John Faulkner
@@ -38,4 +38,4 @@ Current MS House District 5 (MS State House of Representatives District 5).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

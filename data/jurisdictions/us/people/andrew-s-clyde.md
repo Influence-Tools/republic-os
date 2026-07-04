@@ -43,7 +43,7 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, ga]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Andrew S. Clyde
@@ -63,4 +63,4 @@ Current U.S. House of Representatives - GA-9 (Congressional District 9).
 - jurisdiction: Census 119th CD 500k
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

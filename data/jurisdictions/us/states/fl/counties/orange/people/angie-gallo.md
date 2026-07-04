@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 1"
 ids:
-  person: "bb4e5042-6634-4e89-a667-24ecbf4e199b"
-  office: "2f4c38b9-3c60-4767-8c21-44304629db50"
-  tenure: "6c65486c-a9e8-4f43-b943-f357365eac1a"
-  jurisdiction: "4d30f99e-d323-43f1-a771-5c31307af01c"
+  person: "9e506995-f8be-4be5-9284-c9e2137998e5"
+  office: "b231b317-b744-41a7-8329-0d21af80ce74"
+  tenure: "d36145c1-9cae-4382-881b-77c2d1225787"
+  jurisdiction: "775ade8c-80c8-4df7-acbc-10dc1943d18a"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Angie Gallo
@@ -32,8 +32,8 @@ Current Orange County School Board (Orange County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Pinellas County, FL
 
-County jurisdiction — 146 officeholders mapped.
+County jurisdiction — 152 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

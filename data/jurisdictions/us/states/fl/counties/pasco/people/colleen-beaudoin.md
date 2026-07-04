@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 2"
 ids:
-  person: "0946910e-a27a-4f24-90d8-660ca536906c"
-  office: "a9da5c75-c68d-46b2-a353-482070b8611b"
-  tenure: "43b95ddb-9dcb-4d2c-8ea8-a98c7d42ab65"
-  jurisdiction: "9ed17297-a772-40d9-b514-f3bbafd351fe"
+  person: "c977d87e-c87d-4e23-893b-664137262b99"
+  office: "1cb4faea-db2a-4a15-b008-45745cd34c4f"
+  tenure: "ee6c594d-9aa5-4ac4-a5ab-283e7c5d92d6"
+  jurisdiction: "31bbb508-c1ee-4454-9ba2-783e2e8d284f"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Colleen Beaudoin
@@ -32,8 +32,8 @@ Current Pasco County School Board (Pasco County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

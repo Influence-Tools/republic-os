@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Member"
 ids:
-  person: "a7bd7815-6e44-4b8d-9c8f-d521723d0348"
-  office: "a08ae72f-2786-4672-8a62-e01a77f4e161"
-  tenure: "9afa96ab-4185-43a9-b22c-bcd157168e24"
-  jurisdiction: "880a5aa9-51d1-44d0-9912-644d4324d343"
+  person: "b4b9a591-aa9c-4de3-8dde-67fb1019eb42"
+  office: "beb04e92-51f7-428f-99c0-9a23068dd30d"
+  tenure: "2a14594d-b3a6-4782-8638-5753388db096"
+  jurisdiction: "2a5726fd-1f7f-47d1-8730-1eaaf8249423"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Liz Barker
@@ -32,8 +32,8 @@ Current Sarasota County School Board (Sarasota County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

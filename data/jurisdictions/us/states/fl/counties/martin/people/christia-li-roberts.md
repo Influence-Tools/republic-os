@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 1"
 ids:
-  person: "f417385d-4f99-4904-b246-11da32e3fe9a"
-  office: "b76a74f2-a122-4c0f-84d5-3de1ab286f72"
-  tenure: "3da010b1-52d0-44b8-ac95-5e15d901d098"
-  jurisdiction: "f5748dec-51c5-4c1e-b2bc-082f42485e1e"
+  person: "032d2e2e-599a-4b4d-9edb-ec41f34aa591"
+  office: "6efc2eb0-646b-403b-8416-db2c9d81eaa4"
+  tenure: "304dd18d-36f4-4124-b726-464b0053492a"
+  jurisdiction: "62a08ff1-eca0-423c-a9e3-3b94063c3708"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Christia Li Roberts
@@ -32,8 +32,8 @@ Current Martin County School Board (Martin County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 1"
 ids:
-  person: "be4361d8-e7c9-4703-af9d-d7460ba7269a"
-  office: "d1d4abde-3fa6-448b-a336-407f72ef0e2f"
-  tenure: "743b565e-87d6-4115-8401-cc54bf0ef184"
-  jurisdiction: "b4f7447f-4933-42de-9a18-b2cf3ab91a82"
+  person: "1c5a8815-ad35-49f2-9adb-d426fb602902"
+  office: "5b27634a-e566-4a2d-9c9c-2c7209036e21"
+  tenure: "621c0f96-d69b-4cbf-a981-5f00e8471a36"
+  jurisdiction: "255f69ff-e83f-40f9-a783-b4834df55bb7"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Beverly Slough
@@ -32,8 +32,8 @@ Current St. Johns County School Board (St. Johns County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

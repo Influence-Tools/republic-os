@@ -24,7 +24,7 @@ sources:
     source: "Derived from governor jurisdiction"
 confidence: official
 tags: [officeholder, state, executive, al]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Andrew Sorrell
@@ -36,4 +36,4 @@ Current AL Auditor (State of Alabama).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Derived from governor jurisdiction
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

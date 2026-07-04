@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Pasco County, FL
 
-County jurisdiction — 48 officeholders mapped.
+County jurisdiction — 47 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

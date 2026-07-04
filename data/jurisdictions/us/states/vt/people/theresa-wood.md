@@ -26,7 +26,7 @@ sources:
     source: "Geometry not found in SLD layer"
 confidence: official
 tags: [officeholder, state, legislative, vt]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Theresa Wood
@@ -38,4 +38,4 @@ Current VT House District Washington-Chittenden (VT State House of Representativ
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Geometry not found in SLD layer
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

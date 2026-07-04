@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 3"
 ids:
-  person: "d52de827-b1d5-40f6-9ecb-a40e5d695fe4"
-  office: "ffe9a6be-e2fb-45b1-99ed-c67ec78d5d6f"
-  tenure: "05ab988d-92fa-47ed-8f7c-827857c8314e"
-  jurisdiction: "e91c28e1-4e2b-4f90-ad84-f62bcf8b622a"
+  person: "789424e4-3a77-4209-95d8-780a70dee2cd"
+  office: "cd8c868c-30ee-49d3-8a51-2eb3c4b55444"
+  tenure: "6caed999-a8de-49fc-bf37-7dbfdb063b56"
+  jurisdiction: "ff8acb2d-3186-437e-b5d7-3bbb6b7fa487"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Karen Brill
@@ -32,8 +32,8 @@ Current Palm Beach County School Board (Palm Beach County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

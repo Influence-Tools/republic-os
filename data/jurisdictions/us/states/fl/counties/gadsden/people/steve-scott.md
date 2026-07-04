@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "4a703c96-8b0b-4043-9fc4-7fb97a96706f"
-  office: "6fbdc8da-6cbd-404c-9f04-1489edf0c787"
-  tenure: "4016c2ff-2006-40b9-9f78-125184519988"
-  jurisdiction: "168fa511-ad20-45f7-8855-2138980c65f7"
+  person: "c8b08486-06bb-4e56-a0d0-f7ab262e22a2"
+  office: "b9e56532-fcf4-47f6-9ec7-bb00b753609f"
+  tenure: "7aadfc5b-feb6-4a1f-916f-34a220e397a5"
+  jurisdiction: "f42d2793-1b46-4338-8ad6-4fc77b6c40cf"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Steve Scott
@@ -32,8 +32,8 @@ Current Gadsden County School Board (Gadsden County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

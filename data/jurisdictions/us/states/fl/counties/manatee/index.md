@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Manatee County, FL
 
-County jurisdiction — 45 officeholders mapped.
+County jurisdiction — 43 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

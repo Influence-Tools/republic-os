@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 3"
 ids:
-  person: "38f40bac-9ca7-4644-9a48-f3b4c4de52fd"
-  office: "b76a74f2-a122-4c0f-84d5-3de1ab286f72"
-  tenure: "d120c211-660e-4677-8afe-275d1c8386c4"
-  jurisdiction: "f5748dec-51c5-4c1e-b2bc-082f42485e1e"
+  person: "c795e3bd-700f-4171-87c5-4c79265fc4ee"
+  office: "922f8ded-9e6b-428c-a570-ddfb81bf5de8"
+  tenure: "3508e299-b2a0-4173-9eac-8b6d78c8932d"
+  jurisdiction: "676fdd7b-4aa4-465c-b843-c0fc3e36b4c9"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jennifer Russell
@@ -32,8 +32,8 @@ Current Martin County School Board (Martin County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

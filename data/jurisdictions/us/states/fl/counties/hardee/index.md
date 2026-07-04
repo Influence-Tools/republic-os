@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Hardee County, FL
 
-County jurisdiction — 26 officeholders mapped.
+County jurisdiction — 31 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

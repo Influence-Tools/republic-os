@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 5"
 ids:
-  person: "1bea36fc-c340-4ba4-82c6-bf0e6862197b"
-  office: "cf0f3e39-5a4b-4d0d-96de-1116787378f6"
-  tenure: "a731f6f9-fcad-4e3d-a7ca-87536491d775"
-  jurisdiction: "877fc806-8a1f-42db-9aff-663421da748b"
+  person: "5e43efc5-3810-4574-b8b4-808a58e02bdf"
+  office: "c49b88fa-8f8f-42ba-9941-e3916f9d7654"
+  tenure: "fbe24314-79c9-4018-aa66-02da2a114775"
+  jurisdiction: "c8f87604-fce4-4ab0-8be0-26db9096febb"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Devin Whitehurst
@@ -32,8 +32,8 @@ Current Levy County School Board (Levy County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

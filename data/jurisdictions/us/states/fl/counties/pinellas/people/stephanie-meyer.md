@@ -1,39 +1,39 @@
 ---
 type: Person
 title: "Stephanie Meyer"
-description: "Pinellas County School Board — Pinellas County, FL"
-role: "Pinellas County School Board"
+description: "Pinellas County School Board - District 6 — Pinellas County, FL"
+role: "Pinellas County School Board - District 6"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 6"
 ids:
-  person: "eefd5bdc-2743-4739-b0e6-9bf0302a1c4e"
-  office: "31a20454-b004-4fd9-afab-909898b64c72"
-  tenure: "5ded4cb7-1958-4ca0-95f4-dc6fe613f0cb"
-  jurisdiction: "530d8378-5e89-4548-8cae-6913672c65dd"
+  person: "22000e6b-2972-43a9-967e-b134da8786b5"
+  office: "6a8b0e13-3b01-48ed-ae95-6d6bc715451d"
+  tenure: "b4c14733-cf84-4e83-b230-8f5f2a813d16"
+  jurisdiction: "c76189a9-2314-4ed2-bfc5-27e0cb5226c1"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "Pinellas County Schools website"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "Pinellas County Schools"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Stephanie Meyer
 
-Current Pinellas County School Board (Pinellas County, FL).
+Current Pinellas County School Board - District 6 (Pinellas County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: Pinellas County Schools website
+- tenure: Pinellas County Schools
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

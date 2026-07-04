@@ -1,39 +1,39 @@
 ---
 type: Person
 title: "Kelly Mason"
-description: "Collier County School Board — Collier County, FL"
-role: "Collier County School Board"
+description: "Collier County School Board - District 3 — Collier County, FL"
+role: "Collier County School Board - District 3"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 3"
 ids:
-  person: "10c38cc9-63aa-408e-bdfa-0eb2da67ffda"
-  office: "ab11ddb0-fd98-433b-beff-ee8678c11402"
-  tenure: "bf9882ad-284b-4007-8999-d1f5e6308ac6"
-  jurisdiction: "beeb376e-a853-4386-8814-3188304b151e"
+  person: "39b18fbc-9139-4a99-8d3c-03584a86736a"
+  office: "043abeb4-5146-4cfe-8bd2-60fd133644d2"
+  tenure: "53baef46-09d4-4e53-b21c-d5415fc2c182"
+  jurisdiction: "54743bd2-0628-4523-9c0f-2faec3e0e510"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "Collier County Schools website"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "Collier County Schools"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Kelly Mason
 
-Current Collier County School Board (Collier County, FL).
+Current Collier County School Board - District 3 (Collier County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: Collier County Schools website
+- tenure: Collier County Schools
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

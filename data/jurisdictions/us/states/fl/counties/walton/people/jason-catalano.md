@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 5"
 ids:
-  person: "a0e739ef-c5f6-417f-b25c-cfa6365c7e55"
-  office: "a42181bf-f3b4-4e59-a63e-fc14447fbd95"
-  tenure: "d20e09de-a415-4f2f-94d3-881759c82599"
-  jurisdiction: "39ce4223-5010-4824-8990-71249ad19342"
+  person: "4d7d2789-c287-48ee-bc36-f29d534e0c67"
+  office: "06db3655-cde2-46f5-9019-724f58b93947"
+  tenure: "c35264bd-ee63-4f2b-9403-eddbc61d8782"
+  jurisdiction: "180ba462-1934-4b0c-840c-3f174a8c41fe"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jason Catalano
@@ -32,8 +32,8 @@ Current Walton County School Board (Walton County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

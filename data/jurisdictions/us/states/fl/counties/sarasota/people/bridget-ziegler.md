@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair"
 ids:
-  person: "e7d38553-8010-4541-b952-b41425fe9fa9"
-  office: "a08ae72f-2786-4672-8a62-e01a77f4e161"
-  tenure: "682d2b3b-6da2-483b-9979-52cb84828191"
-  jurisdiction: "880a5aa9-51d1-44d0-9912-644d4324d343"
+  person: "e3993a74-33bc-4788-80ee-4a1239f749f7"
+  office: "a30067a9-1bee-418b-8308-5a39a3638fec"
+  tenure: "ab98794e-4e2c-4cce-843c-58795440171c"
+  jurisdiction: "56fbdc55-998d-4d16-b41e-2004d20893af"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Bridget Ziegler
@@ -32,8 +32,8 @@ Current Sarasota County School Board (Sarasota County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

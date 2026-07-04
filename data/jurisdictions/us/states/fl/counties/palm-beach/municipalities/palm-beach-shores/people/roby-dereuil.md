@@ -7,6 +7,7 @@ level: "municipal"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
   notes: "Title: Commissioner"
 ids:
@@ -23,7 +24,7 @@ sources:
     source: "census-tiger-2024"
 confidence: official
 tags: [officeholder, municipal, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Roby DeReuil
@@ -36,4 +37,4 @@ Current Palm Beach Shores City Council (Palm Beach Shores, FL).
 - tenure: flcities-partner-api
 - jurisdiction: census-tiger-2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

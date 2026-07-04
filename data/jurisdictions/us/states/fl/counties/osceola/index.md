@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Osceola County, FL
 
-County jurisdiction — 21 officeholders mapped.
+County jurisdiction — 26 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

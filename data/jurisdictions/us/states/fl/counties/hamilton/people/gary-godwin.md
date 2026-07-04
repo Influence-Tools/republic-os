@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "6c4aa369-edc6-4209-ac3e-4bc108600acb"
-  office: "11248930-22dc-4d82-b3fe-8ae5e5a1a3c8"
-  tenure: "376075fe-5b54-4daa-8503-19480dff91d7"
-  jurisdiction: "00fbb132-de02-44b2-9c91-723b4bfaae9c"
+  person: "35449615-e5e4-4748-9658-0101be4ae7b3"
+  office: "4b174c51-8763-4e49-87f0-8156f759a313"
+  tenure: "6d539062-92c4-47d8-9be9-6862e35e82f5"
+  jurisdiction: "eeb31878-77ca-4f27-8fef-0604b9051ab6"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Gary Godwin
@@ -32,8 +32,8 @@ Current Hamilton County School Board (Hamilton County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

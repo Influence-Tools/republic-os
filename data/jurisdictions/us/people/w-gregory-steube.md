@@ -52,7 +52,7 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # W. Gregory Steube
@@ -75,4 +75,4 @@ Current U.S. House of Representatives - FL-17 (Congressional District 17).
 - jurisdiction: Census 119th CD 500k
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

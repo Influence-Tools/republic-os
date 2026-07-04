@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "aae9ac31-4d7e-4689-9b00-eba42453a829"
-  office: "c6579021-6cc6-43a4-8ad0-f7251902f295"
-  tenure: "ac35d534-ba46-4f91-b1de-7e80dd72d02d"
-  jurisdiction: "8a92b1f2-c4fb-420f-ab9b-059f82815958"
+  person: "430c519e-4101-4ebf-8ad2-4d9b86a180e9"
+  office: "3bec8b7f-dbc8-49d0-b203-861752f99981"
+  tenure: "b137bd32-f11a-4d22-9cf6-47448f1a9ff8"
+  jurisdiction: "58bd56b1-0622-485d-a26a-7daebdd4ec75"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Terissa Aronson
@@ -32,8 +32,8 @@ Current St. Lucie County School Board (St. Lucie County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

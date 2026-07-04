@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 5"
 ids:
-  person: "2f9945e1-3c2a-4105-813d-0ed2b7a0622c"
-  office: "f5a5a51a-feb2-43dd-a285-4db73d2c373e"
-  tenure: "ff01d3b1-0093-4430-aa01-f985a6edfbb8"
-  jurisdiction: "88794eb9-acbb-4bb2-93ff-3725da94f753"
+  person: "af21cdbf-1979-4ed5-9383-42cee191bc2a"
+  office: "4cc5160e-1fb7-4836-a0f2-a43e222d9d8c"
+  tenure: "79dcd21a-5007-4aa0-94f2-a4a9a897551d"
+  jurisdiction: "0e32ae68-d518-4b2f-8e7b-15ef1d127be7"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Armor Persons
@@ -32,8 +32,8 @@ Current Lee County School Board (Lee County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

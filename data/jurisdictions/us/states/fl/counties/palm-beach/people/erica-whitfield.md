@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 4"
 ids:
-  person: "9c375dfa-de09-44a2-9c75-81889006aa74"
-  office: "ffe9a6be-e2fb-45b1-99ed-c67ec78d5d6f"
-  tenure: "e655087d-c7d9-44d5-9594-580e03a0a42e"
-  jurisdiction: "e91c28e1-4e2b-4f90-ad84-f62bcf8b622a"
+  person: "e0faa478-61e8-4ace-b452-7fd9fd5180f5"
+  office: "27d021db-4d74-4fd0-9a90-ef7db199ccad"
+  tenure: "a96a8d70-d66d-4162-842e-6be8f286378c"
+  jurisdiction: "784b1da6-fd4c-481c-8604-b07a4eefbaa3"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Erica Whitfield
@@ -32,8 +32,8 @@ Current Palm Beach County School Board (Palm Beach County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

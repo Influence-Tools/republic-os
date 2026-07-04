@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Member"
 ids:
-  person: "f3f5351e-313c-4862-a87f-bc83ed419a2d"
-  office: "a08ae72f-2786-4672-8a62-e01a77f4e161"
-  tenure: "84777e04-c412-4eb7-95ff-79f276d6df72"
-  jurisdiction: "880a5aa9-51d1-44d0-9912-644d4324d343"
+  person: "5b5c20ca-a88c-44e3-91dc-922a6449b44f"
+  office: "f4cca28b-b25c-4110-81df-db48ccf47532"
+  tenure: "779557fc-d7a8-47ab-b896-50a311e61f45"
+  jurisdiction: "b450e79b-e488-4965-96cd-098a6c51cedf"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Tom Edwards
@@ -32,8 +32,8 @@ Current Sarasota County School Board (Sarasota County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

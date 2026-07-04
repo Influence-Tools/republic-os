@@ -1,6 +1,6 @@
 ---
 type: Person
-title: "Earl L. 'Buddy' Carter"
+title: "Earl L. \"Buddy\" Carter"
 description: "U.S. House of Representatives - GA-1 — Congressional District 1"
 role: "U.S. House of Representatives - GA-1"
 party: "R"
@@ -46,10 +46,10 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, ga]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Earl L. 'Buddy' Carter
+# Earl L. "Buddy" Carter
 
 Current U.S. House of Representatives - GA-1 (Congressional District 1).
 
@@ -67,4 +67,4 @@ Current U.S. House of Representatives - GA-1 (Congressional District 1).
 - jurisdiction: Census 119th CD 500k
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

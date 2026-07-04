@@ -3,7 +3,7 @@ type: Person
 title: "Ed Crockett"
 description: "ME House District 112 — ME State House of Representatives District 112"
 role: "ME House District 112"
-party: "IND"
+party: "I"
 level: "state"
 branch: "legislative"
 state: "ME"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, me]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Ed Crockett
@@ -38,4 +38,4 @@ Current ME House District 112 (ME State House of Representatives District 112).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

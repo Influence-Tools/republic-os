@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "ce270cd2-b134-4a75-ac25-5f45527711d8"
-  office: "8ec7fa73-c368-43cd-bc1b-ffebaf74e43e"
-  tenure: "76da6863-2dd4-41e9-951c-3ca71e94a176"
-  jurisdiction: "b28b9ca7-4b70-451d-976b-d544f91781ec"
+  person: "2e23bf79-88f7-49d6-aab9-09579926c6c4"
+  office: "c7228db8-930c-4139-9eb8-191e9c0dca60"
+  tenure: "1dee969d-dae5-450a-adef-fddef12331f5"
+  jurisdiction: "45c56c80-dedf-47ca-8252-d58c76360166"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Danny Hassig
@@ -32,8 +32,8 @@ Current Calhoun County School Board (Calhoun County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

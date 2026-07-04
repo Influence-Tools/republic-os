@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Monroe County, FL
 
-County jurisdiction — 37 officeholders mapped.
+County jurisdiction — 40 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

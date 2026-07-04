@@ -7,6 +7,7 @@ level: "municipal"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
   notes: "Title: Commissioner"
 ids:
@@ -20,7 +21,7 @@ sources:
     source: "flcities-partner-api"
 confidence: official
 tags: [officeholder, municipal, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Raquel A. Regalado
@@ -32,4 +33,4 @@ Current Miami-Dade County City Council.
 - office: flcities-partner-api
 - tenure: flcities-partner-api
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

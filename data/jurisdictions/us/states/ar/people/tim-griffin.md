@@ -24,7 +24,7 @@ sources:
     source: "Derived from governor jurisdiction"
 confidence: official
 tags: [officeholder, state, executive, ar]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Tim Griffin
@@ -36,4 +36,4 @@ Current AR Attorney General (State of Arkansas).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Derived from governor jurisdiction
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 4"
 ids:
-  person: "1e879339-3607-4082-b8ae-a32a28af55f3"
-  office: "6d576851-a320-4cd3-80ef-691021a9d930"
-  tenure: "1c199255-1ee9-49cc-8518-88c04fa38385"
-  jurisdiction: "784e45f4-70df-4fab-a8ab-7eaa39425d1e"
+  person: "0d32ca45-a37f-4c7a-a525-7c50402cb34b"
+  office: "c8caaed3-4abb-471e-aeb3-e9a157006d98"
+  tenure: "65a552b8-fb07-45c8-9476-31c627daf460"
+  jurisdiction: "861e0e1a-788b-402b-87c7-c7e086d7bf9b"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Donna Brosemer
@@ -32,8 +32,8 @@ Current Volusia County School Board (Volusia County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

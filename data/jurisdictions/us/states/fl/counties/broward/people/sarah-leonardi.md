@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 3"
 ids:
-  person: "5edfb108-dcac-4143-854a-7f83f74b52a2"
-  office: "571d6177-e5f3-4d0b-9c64-0ceb4ff60c05"
-  tenure: "770c411a-e608-4805-ba0e-17574ac9ce79"
-  jurisdiction: "87a5a20a-4c15-47dc-b7cc-62e3be75942e"
+  person: "f17bfef7-28ea-433a-8210-9ad5c2b2cfdc"
+  office: "5a93f890-7ee4-4858-8df8-8aa5d6cd0b0f"
+  tenure: "4b91f151-6a19-46be-8aa1-822e3ef9ae0b"
+  jurisdiction: "7bdc43fb-f9bf-413d-bd7e-bdbe7b260d0b"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Sarah Leonardi
@@ -32,8 +32,8 @@ Current Broward County School Board (Broward County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

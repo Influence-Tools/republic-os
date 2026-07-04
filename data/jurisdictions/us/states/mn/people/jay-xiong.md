@@ -3,7 +3,7 @@ type: Person
 title: "Jay Xiong"
 description: "MN House District 67B — MN State House of Representatives District 67B"
 role: "MN House District 67B"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "MN"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, mn]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jay Xiong
@@ -38,4 +38,4 @@ Current MN House District 67B (MN State House of Representatives District 67B).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

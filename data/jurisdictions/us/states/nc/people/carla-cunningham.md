@@ -3,7 +3,7 @@ type: Person
 title: "Carla Cunningham"
 description: "NC House District 106 — NC State House of Representatives District 106"
 role: "NC House District 106"
-party: "IND"
+party: "I"
 level: "state"
 branch: "legislative"
 state: "NC"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, nc]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Carla Cunningham
@@ -38,4 +38,4 @@ Current NC House District 106 (NC State House of Representatives District 106).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -1,6 +1,6 @@
 ---
 type: Person
-title: "Jerrauld C. 'Jay' Jones"
+title: "Jerrauld C. \"Jay\" Jones"
 description: "VA Attorney General — State of Virginia"
 role: "VA Attorney General"
 party: "D"
@@ -24,10 +24,10 @@ sources:
     source: "Derived from governor jurisdiction"
 confidence: official
 tags: [officeholder, state, executive, va]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
-# Jerrauld C. 'Jay' Jones
+# Jerrauld C. "Jay" Jones
 
 Current VA Attorney General (State of Virginia).
 
@@ -36,4 +36,4 @@ Current VA Attorney General (State of Virginia).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Derived from governor jurisdiction
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Calhoun County, FL
 
-County jurisdiction — 28 officeholders mapped.
+County jurisdiction — 27 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

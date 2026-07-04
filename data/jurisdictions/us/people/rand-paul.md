@@ -69,7 +69,7 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, ky]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Rand Paul
@@ -98,4 +98,4 @@ Current U.S. Senate - KY (State of Kentucky).
 - jurisdiction: Derived from governor jurisdiction
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

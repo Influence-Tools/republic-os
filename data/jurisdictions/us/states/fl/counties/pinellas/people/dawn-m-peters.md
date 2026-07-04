@@ -1,39 +1,39 @@
 ---
 type: Person
 title: "Dawn M. Peters"
-description: "Pinellas County School Board — Pinellas County, FL"
-role: "Pinellas County School Board"
+description: "Pinellas County School Board - Vice Chair, At Large 3 — Pinellas County, FL"
+role: "Pinellas County School Board - Vice Chair, At Large 3"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, At-Large 3"
 ids:
-  person: "f6c8392d-9519-483b-8251-cdb47474fa49"
-  office: "31a20454-b004-4fd9-afab-909898b64c72"
-  tenure: "10bc8b4f-b801-48dc-ac98-027df711da8f"
-  jurisdiction: "530d8378-5e89-4548-8cae-6913672c65dd"
+  person: "22a80dde-70cd-427f-a1fe-45b249117e25"
+  office: "76e29980-0ae5-4b4a-aa48-172a454d5fd8"
+  tenure: "fe2530ca-c016-422c-9574-69ebd5ea78b5"
+  jurisdiction: "f65c7a0b-b54e-4528-a6b3-ee0a5448815d"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "Pinellas County Schools website"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "Pinellas County Schools"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Dawn M. Peters
 
-Current Pinellas County School Board (Pinellas County, FL).
+Current Pinellas County School Board - Vice Chair, At Large 3 (Pinellas County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: Pinellas County Schools website
+- tenure: Pinellas County Schools
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

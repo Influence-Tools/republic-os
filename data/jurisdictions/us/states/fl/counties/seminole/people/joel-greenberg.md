@@ -1,0 +1,42 @@
+---
+type: Person
+title: "Joel Greenberg"
+description: "Tax Collector, Seminole County — Seminole County, FL"
+role: "Tax Collector, Seminole County"
+level: "county"
+branch: "executive"
+state: "FL"
+contact:
+  email: "jgreenberg@seminoletax.org"
+  phone: "(407) 665-1000"
+tenure:
+  start: "2025-01-01"
+  current: true
+ids:
+  person: "c9ce1861-8fe0-40ba-81af-820686b2d90e"
+  office: "e69cc814-3bb2-4012-b985-cca8474f9495"
+  tenure: "e92de63a-e340-418d-aa5c-6f0f38b75342"
+  jurisdiction: "75f5b524-aac3-4453-881c-fc8230050a4e"
+sources:
+  - field: office
+    source: "Florida Association of Counties"
+  - field: tenure
+    source: "Florida Association of Counties"
+  - field: jurisdiction
+    source: "Census TIGER 2024"
+confidence: official
+tags: [officeholder, county, executive, fl]
+timestamp: "2026-07-04"
+---
+
+# Joel Greenberg
+
+Current Tax Collector, Seminole County (Seminole County, FL).
+
+## Sources
+
+- office: Florida Association of Counties
+- tenure: Florida Association of Counties
+- jurisdiction: Census TIGER 2024
+
+Generated from the Atlas officeholders v3 export (2026-07-04).

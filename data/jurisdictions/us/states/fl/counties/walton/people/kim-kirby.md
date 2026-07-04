@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "6dcae0bc-2f01-4c15-b1a3-4ac7a4ae0c45"
-  office: "a42181bf-f3b4-4e59-a63e-fc14447fbd95"
-  tenure: "0c47d87f-1b55-46db-be40-839af33610c1"
-  jurisdiction: "39ce4223-5010-4824-8990-71249ad19342"
+  person: "afe4cec3-8e2d-4af4-854f-2bd257b02394"
+  office: "19a687d7-d87f-4543-9cb6-740fca8e6d2a"
+  tenure: "5a8b4fcd-3174-4a13-b573-5f74b1b0edd2"
+  jurisdiction: "922f2e3c-2d4f-4235-95ae-df7e1b3c99f2"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Kim Kirby
@@ -32,8 +32,8 @@ Current Walton County School Board (Walton County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

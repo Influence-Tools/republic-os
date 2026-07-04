@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair"
 ids:
-  person: "7950b8b9-9336-4fb4-8bf1-d5e0c9a60558"
-  office: "e437578d-5ece-434f-811f-757a23e6b57c"
-  tenure: "911044b9-01ee-4a83-84e4-51fef67808e2"
-  jurisdiction: "68f900e8-d286-412e-8ff6-7f9f5cd0289c"
+  person: "001b533c-b6cb-4d91-acf6-64cc19066f3c"
+  office: "fa3e44d8-3093-4c0b-80a3-f21587de278f"
+  tenure: "a9df3d42-e4b5-48c0-a8fa-8abca8f45422"
+  jurisdiction: "93b6b5ab-0bac-4a35-88c1-79b3165cd18a"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Shannon Rodriguez
@@ -32,8 +32,8 @@ Current Hernando County School Board (Hernando County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

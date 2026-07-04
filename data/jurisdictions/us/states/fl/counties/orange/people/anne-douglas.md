@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 4"
 ids:
-  person: "b886b17e-cc9f-422a-b110-2c3f125fbfa9"
-  office: "2f4c38b9-3c60-4767-8c21-44304629db50"
-  tenure: "03e34c4d-2b55-4a7e-8549-3ebe19ccb44a"
-  jurisdiction: "4d30f99e-d323-43f1-a771-5c31307af01c"
+  person: "b23d2b3c-30ee-4d85-9094-449a0a679f71"
+  office: "abffc60a-0912-4be2-b279-184253ad47b7"
+  tenure: "ec5ccd8d-1d1e-43bb-9a55-654bf1e7b338"
+  jurisdiction: "20fa9a4e-153f-47ce-a0f1-8102b06f41d8"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Anne Douglas
@@ -32,8 +32,8 @@ Current Orange County School Board (Orange County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

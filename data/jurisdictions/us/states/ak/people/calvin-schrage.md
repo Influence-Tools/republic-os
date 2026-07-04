@@ -3,7 +3,7 @@ type: Person
 title: "Calvin Schrage"
 description: "AK House District 12 — AK State House of Representatives District 12"
 role: "AK House District 12"
-party: "IND"
+party: "I"
 level: "state"
 branch: "legislative"
 state: "AK"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ak]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Calvin Schrage
@@ -38,4 +38,4 @@ Current AK House District 12 (AK State House of Representatives District 12).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

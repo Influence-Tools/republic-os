@@ -3,7 +3,7 @@ type: Person
 title: "Jon Brien"
 description: "RI House District 49 — RI State House of Representatives District 49"
 role: "RI House District 49"
-party: "IND"
+party: "I"
 level: "state"
 branch: "legislative"
 state: "RI"
@@ -26,7 +26,7 @@ sources:
     source: "SLDL (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ri]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jon Brien
@@ -38,4 +38,4 @@ Current RI House District 49 (RI State House of Representatives District 49).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDL (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

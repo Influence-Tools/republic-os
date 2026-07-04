@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Brevard County, FL
 
-County jurisdiction — 97 officeholders mapped.
+County jurisdiction — 102 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Collier County, FL
 
-County jurisdiction — 38 officeholders mapped.
+County jurisdiction — 43 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

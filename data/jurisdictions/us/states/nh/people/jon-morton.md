@@ -26,7 +26,7 @@ sources:
     source: "Geometry not found in SLD layer"
 confidence: official
 tags: [officeholder, state, legislative, nh]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jon Morton
@@ -38,4 +38,4 @@ Current NH House District Hillsborough 39 (NH State House of Representatives Dis
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: Geometry not found in SLD layer
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

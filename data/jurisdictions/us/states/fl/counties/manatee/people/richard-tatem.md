@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 5"
 ids:
-  person: "43a02eb6-9364-48cc-99f5-60fedb2be485"
-  office: "5d2305b0-d9cd-4992-925a-4970e79db56c"
-  tenure: "f1fa21c8-e930-4e67-8745-2206674d97c0"
-  jurisdiction: "611ba14e-9673-49ef-9eb5-9a43424f76da"
+  person: "d2b9366d-694e-4f9c-97dd-73c756935596"
+  office: "4105c0f8-ac22-428a-9a53-73336bc11172"
+  tenure: "16010ff3-ce29-4e58-a75b-1de6cc7d11e9"
+  jurisdiction: "2486c3e8-2be8-4e2d-948c-7aeac1c83fbf"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Richard Tatem
@@ -32,8 +32,8 @@ Current Manatee County School Board (Manatee County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

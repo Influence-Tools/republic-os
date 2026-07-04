@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Indian River County, FL
 
-County jurisdiction — 35 officeholders mapped.
+County jurisdiction — 38 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

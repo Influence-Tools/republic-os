@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Holmes County, FL
 
-County jurisdiction — 36 officeholders mapped.
+County jurisdiction — 39 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

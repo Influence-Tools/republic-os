@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 4"
 ids:
-  person: "88993941-6366-4ab6-b867-7cbe69d9bbb2"
-  office: "a42181bf-f3b4-4e59-a63e-fc14447fbd95"
-  tenure: "7c293a77-d9af-40b4-ae59-96be70581fe1"
-  jurisdiction: "39ce4223-5010-4824-8990-71249ad19342"
+  person: "cec56513-bcf6-4c6a-ae34-afd762c3ba04"
+  office: "dd287fea-3244-42d6-b711-c2dcff2b399f"
+  tenure: "d6019541-629d-4764-92a9-d236b042186f"
+  jurisdiction: "75e48c13-deff-4d11-8fb2-b456c0357b9c"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jeri Michie
@@ -32,8 +32,8 @@ Current Walton County School Board (Walton County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

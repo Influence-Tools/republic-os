@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 2"
 ids:
-  person: "f4123489-3391-4871-8cc6-08e7ecddd8d9"
-  office: "e072839e-e0b6-4fa6-a693-dbb55a596ecb"
-  tenure: "b28ad2ce-55f0-4986-8bb5-d1f3474325a2"
-  jurisdiction: "b2bdaa91-b5c1-4c5f-a19a-9c1921f6b544"
+  person: "b7710450-aaf1-419a-adda-2a987dbc9561"
+  office: "4343c220-2c39-480e-9f5d-57c04e04928c"
+  tenure: "e5a4b77f-49f4-433d-84a4-3ecbfa881560"
+  jurisdiction: "3a626295-b039-47b2-99c8-b388f5496b4c"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Lori Conrad
@@ -32,8 +32,8 @@ Current Marion County School Board (Marion County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

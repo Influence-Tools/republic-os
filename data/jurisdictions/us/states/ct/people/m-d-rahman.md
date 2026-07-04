@@ -3,7 +3,7 @@ type: Person
 title: "M.D. Rahman"
 description: "CT Senate District 4 — CT State Senate District 4"
 role: "CT Senate District 4"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "CT"
@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ct]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # M.D. Rahman
@@ -38,4 +38,4 @@ Current CT Senate District 4 (CT State Senate District 4).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

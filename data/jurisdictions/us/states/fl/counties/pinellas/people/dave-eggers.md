@@ -1,0 +1,42 @@
+---
+type: Person
+title: "Dave Eggers"
+description: "Commissioner, Pinellas County — Pinellas County, FL"
+role: "Commissioner, Pinellas County"
+level: "county"
+branch: "legislative"
+state: "FL"
+contact:
+  email: "deggers@pinellas.gov"
+  phone: "(727) 464-3276"
+tenure:
+  start: "2025-01-01"
+  current: true
+ids:
+  person: "df304e58-6ee4-4b6b-b002-1e3c7650dedd"
+  office: "ad9286c2-d3ad-4519-93da-62ad00b32cf9"
+  tenure: "123682cb-386b-40eb-a8e6-01a9680668ee"
+  jurisdiction: "61399934-d4c5-430d-9e10-bad4bd2f7831"
+sources:
+  - field: office
+    source: "Florida Association of Counties"
+  - field: tenure
+    source: "Florida Association of Counties"
+  - field: jurisdiction
+    source: "Census TIGER 2024"
+confidence: official
+tags: [officeholder, county, legislative, fl]
+timestamp: "2026-07-04"
+---
+
+# Dave Eggers
+
+Current Commissioner, Pinellas County (Pinellas County, FL).
+
+## Sources
+
+- office: Florida Association of Counties
+- tenure: Florida Association of Counties
+- jurisdiction: Census TIGER 2024
+
+Generated from the Atlas officeholders v3 export (2026-07-04).

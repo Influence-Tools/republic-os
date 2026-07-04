@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Bay County, FL
 
-County jurisdiction — 46 officeholders mapped.
+County jurisdiction — 50 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

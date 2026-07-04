@@ -27,7 +27,7 @@ sources:
     source: "Census 119th CD 500k"
 confidence: official
 tags: [officeholder, federal, legislative, ga]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Clay Fuller
@@ -39,4 +39,4 @@ Current U.S. House of Representatives - GA-14 (Congressional District 14).
 - tenure: House Clerk XML 2026-06-10
 - jurisdiction: Census 119th CD 500k
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

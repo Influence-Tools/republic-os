@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 5"
 ids:
-  person: "c3504656-8694-45be-9741-3ee3c4b0b20c"
-  office: "6fbdc8da-6cbd-404c-9f04-1489edf0c787"
-  tenure: "c4abaf42-2149-4eea-93b8-7ea1ae2d933a"
-  jurisdiction: "168fa511-ad20-45f7-8855-2138980c65f7"
+  person: "428944f0-ac9d-4530-ae53-eb3584dedff9"
+  office: "dff387f8-02e3-4f4a-a3f8-e7af577d4568"
+  tenure: "144e9541-8a23-44d3-97da-1a25be1c8ffb"
+  jurisdiction: "209984a1-73b5-4e5c-aab5-f48036874342"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Stacey Hannigon
@@ -32,8 +32,8 @@ Current Gadsden County School Board (Gadsden County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

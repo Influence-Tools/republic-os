@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 3"
 ids:
-  person: "49ceb727-720b-4022-b94a-22d746ef8bfe"
-  office: "b5c90647-6562-43cc-bfff-894bc56b6e6e"
-  tenure: "ab54d5fe-9343-47de-9abd-74a6729239f2"
-  jurisdiction: "bd81f8bd-bd56-4ab3-aa68-59b1a7c7509f"
+  person: "d82b7f10-ac14-403c-9416-2c8c434ef8d1"
+  office: "0dc1f49c-f6f9-4087-ba99-c0c69b648bd5"
+  tenure: "d0a5dcae-3118-4650-9d64-b8e3f4957705"
+  jurisdiction: "1cd0b9ad-2698-404f-86ed-e0ad95d454ee"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Wilburn Baker
@@ -32,8 +32,8 @@ Current Holmes County School Board (Holmes County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

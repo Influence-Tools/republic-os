@@ -1,39 +1,39 @@
 ---
 type: Person
 title: "Jerry Rutherford"
-description: "Collier County School Board — Collier County, FL"
-role: "Collier County School Board"
+description: "Collier County School Board - District 1 — Collier County, FL"
+role: "Collier County School Board - District 1"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 1"
 ids:
-  person: "49e57aae-db95-4363-91db-e69de07e59bd"
-  office: "ab11ddb0-fd98-433b-beff-ee8678c11402"
-  tenure: "10c74095-95c2-4b33-9a86-2247f5f10446"
-  jurisdiction: "beeb376e-a853-4386-8814-3188304b151e"
+  person: "fd82312b-5a7c-4215-8e3e-9edd6a032140"
+  office: "57a9c8ef-a21d-4719-b7b5-f1666e81816d"
+  tenure: "c119c660-3a6e-42ed-9c6c-0060598788a7"
+  jurisdiction: "12003e11-b10e-4a74-9a40-c2ae0e9dde2c"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "Collier County Schools website"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "Collier County Schools"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jerry Rutherford
 
-Current Collier County School Board (Collier County, FL).
+Current Collier County School Board - District 1 (Collier County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: Collier County Schools website
+- tenure: Collier County Schools
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

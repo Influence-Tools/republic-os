@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 4"
 ids:
-  person: "cb2b0a83-f338-434c-9440-e0e9b5b7ccab"
-  office: "e072839e-e0b6-4fa6-a693-dbb55a596ecb"
-  tenure: "4f5024e3-2480-466b-ada5-6445d7d0e327"
-  jurisdiction: "b2bdaa91-b5c1-4c5f-a19a-9c1921f6b544"
+  person: "ac08daf0-4715-4b72-a760-c0e4fc8f37d1"
+  office: "b3feaa32-565e-416e-846b-faf92763747b"
+  tenure: "00e13a48-275e-47ea-834d-cf5d311e5d14"
+  jurisdiction: "5bc62c6e-7b88-4877-bdb4-3c631c8b87a0"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Nancy Thrower
@@ -32,8 +32,8 @@ Current Marion County School Board (Marion County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -1,39 +1,39 @@
 ---
 type: Person
 title: "Travis L. Keyes"
-description: "Polk County School Board — Polk County, FL"
-role: "Polk County School Board"
+description: "Polk County School Board - Vice Chair, District 2 — Polk County, FL"
+role: "Polk County School Board - Vice Chair, District 2"
 level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 2"
 ids:
-  person: "426772d8-e899-4638-9146-ecd21049b105"
-  office: "4f7a19e3-5250-4edf-ad29-c73d63b7cfcc"
-  tenure: "94fbb885-f804-4c7d-8abd-1f6d59e45a5a"
-  jurisdiction: "b3c4979a-2dcd-4674-b578-886e52ddc733"
+  person: "dc8b016e-263c-49c9-a53f-ab40a523aecc"
+  office: "6e16003c-61ab-425a-b098-b96f075e5771"
+  tenure: "9b5aeb56-a839-4747-bc6b-c887156806c4"
+  jurisdiction: "6896b50b-feec-4c7f-8007-d827f2f59f7a"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "Polk County Schools website"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "Polk County Schools"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Travis L. Keyes
 
-Current Polk County School Board (Polk County, FL).
+Current Polk County School Board - Vice Chair, District 2 (Polk County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: Polk County Schools website
+- tenure: Polk County Schools
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

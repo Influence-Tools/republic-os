@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Marion County, FL
 
-County jurisdiction — 43 officeholders mapped.
+County jurisdiction — 42 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

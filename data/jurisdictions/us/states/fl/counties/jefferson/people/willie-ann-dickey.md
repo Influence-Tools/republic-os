@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 2"
 ids:
-  person: "3a1a7869-24ed-4829-acfa-f0f0fd30686a"
-  office: "76ce89fe-9c03-4fee-981c-8be626aaa27c"
-  tenure: "9ead0586-0f06-4f43-b379-8fea8c8c3f49"
-  jurisdiction: "17fb433a-376a-45a0-943c-69c30f332695"
+  person: "08c25980-3f41-458d-9bc0-c31f2a3740e7"
+  office: "1b3b0fd1-7e01-4903-84f7-5722e20a339e"
+  tenure: "277134c2-08ae-43c3-b09c-4ed789198a4d"
+  jurisdiction: "ee58765a-de78-4670-a0c6-3e65cb2bfb43"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Willie Ann Dickey
@@ -32,8 +32,8 @@ Current Jefferson County School Board (Jefferson County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

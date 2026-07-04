@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 6"
 ids:
-  person: "36f2e9be-76c6-4864-b7ce-369dac924243"
-  office: "f5a5a51a-feb2-43dd-a285-4db73d2c373e"
-  tenure: "f33574c3-0ef4-478f-b011-63cc9907a6aa"
-  jurisdiction: "88794eb9-acbb-4bb2-93ff-3725da94f753"
+  person: "0a5dc21e-2455-4484-a342-16951b6c64df"
+  office: "2a0601f4-e780-4f48-b187-32bf8b80d271"
+  tenure: "d332a6df-ccb9-4592-bf6c-b90b34262db6"
+  jurisdiction: "ad0161b7-94b9-4ee3-8dc8-5163e24e1814"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jada Langford Fleming
@@ -32,8 +32,8 @@ Current Lee County School Board (Lee County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

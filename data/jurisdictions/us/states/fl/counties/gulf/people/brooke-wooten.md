@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 2"
 ids:
-  person: "377b87ac-0c65-44e3-913b-9bb6953ccb26"
-  office: "475ca75b-5a64-4602-b80f-5b418f2378bf"
-  tenure: "cb533a31-6dda-4015-895b-85ec07533d03"
-  jurisdiction: "50844689-35ce-4ce4-a17c-6f6bbbe36fff"
+  person: "6c812435-e8bc-42e5-a9c3-10374712ad5b"
+  office: "2b55b165-f17a-4e45-95f1-285e028a75b4"
+  tenure: "0f504540-252b-4473-9a7a-31775a5f2e03"
+  jurisdiction: "646020e6-5704-40f0-9a2c-03d21f1ff330"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Brooke Wooten
@@ -32,8 +32,8 @@ Current Gulf County School Board (Gulf County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

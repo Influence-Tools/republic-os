@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 3"
 ids:
-  person: "4a784a86-67df-47f2-ae73-8446d608e882"
-  office: "2f4c38b9-3c60-4767-8c21-44304629db50"
-  tenure: "109b5565-97c0-4497-81a4-0e84110ccabe"
-  jurisdiction: "4d30f99e-d323-43f1-a771-5c31307af01c"
+  person: "97afb4cd-69e5-4733-a872-8b0fdc743bb0"
+  office: "802f8bc1-ce05-4610-be13-bfd9840e48f8"
+  tenure: "7d118a87-4cf1-469f-8869-61f96bbe129c"
+  jurisdiction: "575a5d17-8cd6-4e8c-8cc9-996f6a0109ee"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Alicia Farrant
@@ -32,8 +32,8 @@ Current Orange County School Board (Orange County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

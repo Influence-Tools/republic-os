@@ -3,7 +3,7 @@ type: Person
 title: "Gustavo Rivera"
 description: "NY Senate District 33 — NY State Senate District 33"
 role: "NY Senate District 33"
-party: "DEM"
+party: "D"
 level: "state"
 branch: "legislative"
 state: "NY"
@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ny]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Gustavo Rivera
@@ -38,4 +38,4 @@ Current NY Senate District 33 (NY State Senate District 33).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 4"
 ids:
-  person: "93b1b948-5834-4cf5-87e5-2f45503590d6"
-  office: "d1d4abde-3fa6-448b-a336-407f72ef0e2f"
-  tenure: "e5f67434-f9ce-4e12-8dff-f51111ab0cb0"
-  jurisdiction: "b4f7447f-4933-42de-9a18-b2cf3ab91a82"
+  person: "7c47ac99-26c8-404e-9388-ca2bffa0c90b"
+  office: "ee4bb9d2-6240-4b8f-9366-b964706f2442"
+  tenure: "7b7d2a4c-6499-4da9-a7e3-ff3b6643ce2e"
+  jurisdiction: "65ee6fbf-c952-48aa-b337-c1ffa398b5fa"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Kelly Barrera
@@ -32,8 +32,8 @@ Current St. Johns County School Board (St. Johns County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

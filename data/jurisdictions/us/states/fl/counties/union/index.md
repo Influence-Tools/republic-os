@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Union County, FL
 
-County jurisdiction — 25 officeholders mapped.
+County jurisdiction — 30 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

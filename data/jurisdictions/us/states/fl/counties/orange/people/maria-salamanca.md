@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 2"
 ids:
-  person: "329c86b3-8d48-450b-95c4-343a2f59a476"
-  office: "2f4c38b9-3c60-4767-8c21-44304629db50"
-  tenure: "479aed3e-4fd2-4c10-a867-895515d7ad8d"
-  jurisdiction: "4d30f99e-d323-43f1-a771-5c31307af01c"
+  person: "6a484df2-82d3-4c8a-a184-90c05a0869ea"
+  office: "e7ce0c42-55f5-4a0f-9a59-6862e2eacef1"
+  tenure: "37977f2f-b75a-4817-a43c-338a481e9c3f"
+  jurisdiction: "c0f5886f-3b33-4a81-aa00-b85aee0653aa"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Maria Salamanca
@@ -32,8 +32,8 @@ Current Orange County School Board (Orange County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Chair, District 3"
 ids:
-  person: "5fadfed7-9783-49b4-a312-f57c7ebeafb0"
-  office: "d1d4abde-3fa6-448b-a336-407f72ef0e2f"
-  tenure: "fa9f4ad3-067f-4a38-9392-c165200cb980"
-  jurisdiction: "b4f7447f-4933-42de-9a18-b2cf3ab91a82"
+  person: "c3ebcb86-50fc-46b5-a98c-303fbc4345cf"
+  office: "e32c6745-e949-4618-b07c-46b2452c8703"
+  tenure: "f3db68d0-8b84-4a0d-93e3-ce7ab73bb7ec"
+  jurisdiction: "feb1e1c8-4950-46a2-bfbe-7965960f0c21"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Jennifer Collins
@@ -32,8 +32,8 @@ Current St. Johns County School Board (St. Johns County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

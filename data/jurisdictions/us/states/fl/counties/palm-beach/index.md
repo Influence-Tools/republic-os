@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Palm Beach County, FL
 
-County jurisdiction — 211 officeholders mapped.
+County jurisdiction — 210 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

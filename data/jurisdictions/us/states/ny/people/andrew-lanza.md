@@ -3,7 +3,7 @@ type: Person
 title: "Andrew Lanza"
 description: "NY Senate District 24 — NY State Senate District 24"
 role: "NY Senate District 24"
-party: "REP"
+party: "R"
 level: "state"
 branch: "legislative"
 state: "NY"
@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, ny]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Andrew Lanza
@@ -38,4 +38,4 @@ Current NY Senate District 24 (NY State Senate District 24).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

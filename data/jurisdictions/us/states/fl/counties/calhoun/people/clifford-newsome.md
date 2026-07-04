@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: District 3"
 ids:
-  person: "4bae7f92-2654-45c4-ada0-d1047cef811c"
-  office: "8ec7fa73-c368-43cd-bc1b-ffebaf74e43e"
-  tenure: "c5a9e153-82fa-4060-bedf-f55239290a12"
-  jurisdiction: "b28b9ca7-4b70-451d-976b-d544f91781ec"
+  person: "724d4ff4-783b-4f61-82dc-6d617d5da511"
+  office: "60cc3e90-0400-4463-aee1-be40c8314204"
+  tenure: "7b1fd258-8f1e-475e-8c6d-37ecf850cf60"
+  jurisdiction: "287821d9-c663-4578-bdc5-b6aa2b1645d3"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Clifford Newsome
@@ -32,8 +32,8 @@ Current Calhoun County School Board (Calhoun County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

@@ -63,7 +63,7 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, ks]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Roger Marshall
@@ -90,4 +90,4 @@ Current U.S. Senate - KS (State of Kansas).
 - jurisdiction: Derived from governor jurisdiction
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

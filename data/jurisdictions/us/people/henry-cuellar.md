@@ -43,7 +43,7 @@ sources:
     source: "congress-legislators (unitedstates project)"
 confidence: official
 tags: [officeholder, federal, legislative, tx]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Henry Cuellar
@@ -63,4 +63,4 @@ Current U.S. House of Representatives - TX-28 (Congressional District 28).
 - jurisdiction: Census 119th CD 500k
 - roles: congress-legislators (unitedstates project)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

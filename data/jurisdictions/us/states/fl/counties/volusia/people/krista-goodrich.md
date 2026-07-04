@@ -7,23 +7,23 @@ level: "county"
 branch: "legislative"
 state: "FL"
 tenure:
+  start: "2025-01-01"
   current: true
-  notes: "Role: Vice Chair, District 2"
 ids:
-  person: "c7b3f139-8cd9-4d2a-b9dc-f6a8a720f61b"
-  office: "6d576851-a320-4cd3-80ef-691021a9d930"
-  tenure: "5831b2f7-ecb8-43af-9bc9-312e58d566bc"
-  jurisdiction: "784e45f4-70df-4fab-a8ab-7eaa39425d1e"
+  person: "a94a6049-3598-44e4-983b-3ce50d8cc6fb"
+  office: "0bee6646-3a10-4aed-b9aa-45f91eae1b08"
+  tenure: "d7571c8d-8d70-48be-84a1-4d35e8957a0f"
+  jurisdiction: "74c544c3-3cbe-4f5d-9d62-3ffac66d5ccf"
 sources:
   - field: office
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: tenure
-    source: "school-board-scrape-2026-06"
+    source: "FL Division of Elections"
   - field: jurisdiction
-    source: "census-tiger-2024-county"
+    source: "Census TIGER 2024"
 confidence: official
 tags: [officeholder, county, legislative, fl]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Krista Goodrich
@@ -32,8 +32,8 @@ Current Volusia County School Board (Volusia County, FL).
 
 ## Sources
 
-- office: school-board-scrape-2026-06
-- tenure: school-board-scrape-2026-06
-- jurisdiction: census-tiger-2024-county
+- office: FL Division of Elections
+- tenure: FL Division of Elections
+- jurisdiction: Census TIGER 2024
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

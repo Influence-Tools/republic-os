@@ -25,7 +25,7 @@ sources:
     source: "Natural Earth via eric.clst.org"
 confidence: official
 tags: [officeholder, federal, executive]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Donald Trump
@@ -37,4 +37,4 @@ Current President of the United States.
 - tenure: Stateside Associates 2026-01-20
 - jurisdiction: Natural Earth via eric.clst.org
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).

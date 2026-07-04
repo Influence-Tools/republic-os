@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Columbia County, FL
 
-County jurisdiction — 25 officeholders mapped.
+County jurisdiction — 26 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

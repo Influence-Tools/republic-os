@@ -26,7 +26,7 @@ sources:
     source: "SLDU (Census 2025)"
 confidence: official
 tags: [officeholder, state, legislative, nj]
-timestamp: "2026-06-20"
+timestamp: "2026-07-04"
 ---
 
 # Benjie Wimberly
@@ -38,4 +38,4 @@ Current NJ Senate District 35 (NJ State Senate District 35).
 - tenure: OpenStates YAML via GitHub 2026-06-20
 - jurisdiction: SLDU (Census 2025)
 
-Generated from the Atlas officeholders v2 export (2026-06-20).
+Generated from the Atlas officeholders v3 export (2026-07-04).
