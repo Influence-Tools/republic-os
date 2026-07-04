@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Candidate",
+  "description": "A candidate for public office — someone running, distinct from a current officeholder. Sourced from FEC filings.",
+  "type": "object",
+  "required": ["type", "title", "office", "state", "confidence", "tags", "timestamp", "ids"],
+  "properties": {
+    "type": { "type": "string", "enum": ["Candidate"] },
+    "title": { "type": "string" },
+    "office": { "type": "string", "enum": ["U.S. House", "U.S. Senate"] },
+    "state": { "type": "string" },
+    "district": { "type": "string" },
+    "party": { "type": "string" },
+    "stance": { "type": "string", "enum": ["incumbent", "challenger", "open-seat"] },
+    "election_year": { "type": "integer" },
+    "status": { "type": "string" },
+    "committee": { "type": "object" },
+    "ids": { "type": "object" },
+    "sources": { "type": "array" },
+    "confidence": { "type": "string", "enum": ["official", "reported", "inferred", "unverified"] },
+    "tags": { "type": "array" },
+    "timestamp": { "type": "string" }
+  }
+}

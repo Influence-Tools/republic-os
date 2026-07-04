@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Person",
+  "description": "An officeholder — a person holding a public office at any level. OKF-conformant: only `type` is strictly required by OKF; this profile adds the fields Republic OS relies on. Unknown keys are tolerated.",
+  "type": "object",
+  "required": ["type", "title", "level", "confidence", "tags", "timestamp", "ids"],
+  "properties": {
+    "type": { "type": "string", "enum": ["Person"] },
+    "title": { "type": "string" },
+    "role": { "type": "string" },
+    "party": { "type": "string" },
+    "level": { "type": "string", "enum": ["federal", "state", "county", "municipal"] },
+    "branch": { "type": "string", "enum": ["executive", "legislative", "judicial"] },
+    "state": { "type": "string" },
+    "leadership": { "type": "array" },
+    "committees": { "type": "array" },
+    "ids": { "type": "object" },
+    "sources": { "type": "array" },
+    "confidence": { "type": "string", "enum": ["official", "reported", "inferred", "unverified"] },
+    "tags": { "type": "array" },
+    "timestamp": { "type": "string" }
+  }
+}

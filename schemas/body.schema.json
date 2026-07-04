@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Body",
+  "description": "A government body or institution — a chamber, committee, or subcommittee. The 'repos' of the government-as-code model.",
+  "type": "object",
+  "required": ["type", "title", "classification", "chamber", "code", "confidence", "tags", "timestamp"],
+  "properties": {
+    "type": { "type": "string", "enum": ["Body"] },
+    "title": { "type": "string" },
+    "classification": { "type": "string", "enum": ["house", "senate", "executive", "committee", "subcommittee"] },
+    "chamber": { "type": "string", "enum": ["house", "senate", "joint", "executive"] },
+    "code": { "type": "string" },
+    "parent": { "type": "string" },
+    "leadership": { "type": "array" },
+    "sources": { "type": "array" },
+    "confidence": { "type": "string", "enum": ["official", "reported", "inferred", "unverified"] },
+    "tags": { "type": "array" },
+    "timestamp": { "type": "string" }
+  }
+}
