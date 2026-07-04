@@ -1,3 +1,73 @@
+# Government Changelog — 2026-07-04
+
+*Diff `092e54ae..7a2cc643` over the mirror.*
+
+## Summary
+
+- **Person**: +2979 ~2506 −935
+- **Jurisdiction**: ~48
+
+## By jurisdiction
+
+- **FL**: +1129 ~2300 −931 (1129 people)
+- **TX**: +260 (260 people)
+- **IA**: +178 (178 people)
+- **OH**: +176 (176 people)
+- **NY**: +41 ~86 (41 people)
+- **MN**: +21 ~102 (21 people)
+- **CA**: +114 (114 people)
+- **WA**: +96 (96 people)
+- **NC**: +91 ~2 (91 people)
+- **WI**: +68 (68 people)
+- **KY**: +67 (67 people)
+- **GA**: +52 (52 people)
+- **NJ**: +44 (44 people)
+- **MS**: +40 ~2 (40 people)
+- **UT**: +41 (41 people)
+- **AL**: +39 (39 people)
+- **VA**: +37 ~1 (37 people)
+- **TN**: +37 (37 people)
+- **CT**: +10 ~26 (10 people)
+- **PA**: +34 (34 people)
+- **OR**: +29 ~1 (29 people)
+- **MA**: +27 ~1 (27 people)
+- **KS**: +27 (27 people)
+- **MI**: +27 (27 people)
+- **MO**: +26 (26 people)
+- **SC**: +23 ~1 (23 people)
+- **SD**: +24 (24 people)
+- **AZ**: +21 (21 people)
+- **IL**: +18 (18 people)
+- **LA**: +17 (17 people)
+- **ME**: +10 ~6 (10 people)
+- **VT**: +7 ~9 (7 people)
+- **AR**: +15 (15 people)
+- **NH**: +13 ~2 (13 people)
+- **US (federal)**: +4 ~7 −4 (4 people)
+- **WV**: +15 (15 people)
+- **CO**: +13 (13 people)
+- **MT**: +11 (11 people)
+- **WY**: +11 (11 people)
+- **OK**: +10 (10 people)
+- **RI**: +8 ~1 (8 people)
+- **IN**: +7 ~1 (7 people)
+- **ID**: +7 (7 people)
+- **MD**: +7 (7 people)
+- **DE**: +6 (6 people)
+- **AK**: +1 ~4 (1 person)
+- **ND**: +5 (5 people)
+- **NM**: +5 (5 people)
+- **NV**: +5 (5 people)
+- **NE**: +4 (4 people)
+- **PR**: ~2
+- **HI**: +1 (1 person)
+
+*6468 entity changes total.*
+
+*(Ignored 7844 files whose only change was the dataset-vintage stamp — re-export, not a government change.)*
+
+---
+
 # Government Changelog — 2026-07-03
 
 *Diff `6b3249ec..5b0712c3` over the mirror.*
