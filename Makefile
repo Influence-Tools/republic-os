@@ -9,4 +9,7 @@ build:        ## Regenerate the entity tree from raw exports in data/
 validate:     ## Check every entity file: OKF, schema, and link integrity
 	python3 scripts/validate.py
 
+changelog:    ## What changed in the government since the last commit (BASE/HEAD overridable)
+	python3 scripts/generate_changelog.py $(BASE) $(HEAD)
+
 check: build validate  ## Build, then validate — the full gate
