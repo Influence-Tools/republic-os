@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "52 U.S.C. § 20904"
+description: "Authorization of appropriations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 52
+title_name: "VOTING AND ELECTIONS"
+chapter_number: "209"
+chapter_name: "ELECTION ADMINISTRATION IMPROVEMENT"
+section: "20904"
+citation: "52 U.S.C. § 20904"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc52@119-100.zip"
+source_identifier: "/us/usc/t52/s20904"
+source_file: "data/legal/raw/us/code/title-52/usc52.xml"
+source_hash: "b128556bb564d445c7d1a56aabcffecd2a5157e037ead2355038d1859704fa56"
+raw_snapshot_hash: "5600bd7cd3d8c74d24829ef745020a0f713944161d1d371581a369704150a87a"
+text_hash: "d825688e9e2e50f693886d9a37637add6cb7c481e609cc593020298a41419a7a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code", "elections"]
+---
+
+# 52 U.S.C. § 20904 - Authorization of appropriations
+
+## Text
+
+(a) In general There are authorized to be appropriated for payments under this subchapter $650,000,000, of which—
+
+(1) 50 percent shall be for payments under section 20901 of this title; and
+
+(2) 50 percent shall be for payments under section 20902 of this title.
+
+(b) Continuing availability of funds after appropriation Any payment made to a State under this subchapter shall be available to the State without fiscal year limitation (subject to subsection (c)(2)(B)).
+
+(c) Use of returned funds and funds remaining unexpended for requirements payments (1) In general The amounts described in paragraph (2) shall be transferred to the Election Assistance Commission (established under subchapter II) and used by the Commission to make requirements payments under subpart 1 of part D of subchapter II.
+
+(2) Amounts described The amounts referred to in this paragraph are as follows:
+
+(A) Any amounts paid to the Administrator by a State under section 20902(d)(1) of this title.
+
+(B) Any amounts appropriated for payments under this subchapter which remain unobligated as of September 1, 2003.
+
+(d) Deposit of amounts in State election fund When a State has established an election fund described in section 21004(b) of this title, the State shall ensure that any funds provided to the State under this subchapter are deposited and maintained in such fund.
+
+(e) Authorization of appropriations for Administrator In addition to the amounts authorized under subsection (a), there are authorized to be appropriated to the Administrator such sums as may be necessary to administer the programs under this subchapter.
+
+(Pub. L. 107–252, title I, § 104, Oct. 29, 2002, 116 Stat. 1672.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 15304 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

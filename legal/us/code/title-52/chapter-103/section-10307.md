@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "52 U.S.C. § 10307"
+description: "Prohibited acts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 52
+title_name: "VOTING AND ELECTIONS"
+chapter_number: "103"
+chapter_name: "ENFORCEMENT OF VOTING RIGHTS"
+section: "10307"
+citation: "52 U.S.C. § 10307"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc52@119-100.zip"
+source_identifier: "/us/usc/t52/s10307"
+source_file: "data/legal/raw/us/code/title-52/usc52.xml"
+source_hash: "13b2d37605e9a3fca459fa3bee97d18166d19fe7b6f1fbe5e548781a3e1da3e3"
+raw_snapshot_hash: "5600bd7cd3d8c74d24829ef745020a0f713944161d1d371581a369704150a87a"
+text_hash: "2ea9bdeb2d9a5745fafbf1d7ace7c67f2aeb749a17c6c74eb613d42233266b0f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code", "elections"]
+---
+
+# 52 U.S.C. § 10307 - Prohibited acts
+
+## Text
+
+(a) Failure or refusal to permit casting or tabulation of vote No person acting under color of law shall fail or refuse to permit any person to vote who is entitled to vote under any provision of chapters 103 to 107 of this title or is otherwise qualified to vote, or willfully fail or refuse to tabulate, count, and report such person’s vote.
+
+(b) Intimidation, threats, or coercion No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for voting or attempting to vote, or intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce any person for urging or aiding any person to vote or attempt to vote, or intimidate, threaten, or coerce any person for exercising any powers or duties under section 10302(a), 10305, 10306, or 10308(e) of this title or section 1973d or 1973g of title 42.11 See References in Text note below.
+
+(c) False information in registering or voting; penalties Whoever knowingly or willfully gives false information as to his name, address or period of residence in the voting district for the purpose of establishing his eligibility to register or vote, or conspires with another individual for the purpose of encouraging his false registration to vote or illegal voting, or pays or offers to pay or accepts payment either for registration to vote or for voting shall be fined not more than $10,000 or imprisoned not more than five years, or both: Provided, however, That this provision shall be applicable only to general, special, or primary elections held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
+
+(d) Falsification or concealment of material facts or giving of false statements in matters within jurisdiction of examiners or hearing officers; penalties Whoever, in any matter within the jurisdiction of an examiner or hearing officer knowingly and willfully falsifies or conceals a material fact, or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined not more than $10,000 or imprisoned not more than five years, or both.
+
+(e) Voting more than once (1) Whoever votes more than once in an election referred to in paragraph (2) shall be fined not more than $10,000 or imprisoned not more than five years, or both.
+
+(2) The prohibition of this subsection applies with respect to any general, special, or primary election held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
+
+(3) As used in this subsection, the term “votes more than once” does not include the casting of an additional ballot if all prior ballots of that voter were invalidated, nor does it include the voting in two jurisdictions under section 10502 of this title, to the extent two ballots are not cast for an election to the same candidacy or office.
+
+(Pub. L. 89–110, title I, § 11, Aug. 6, 1965, 79 Stat. 443; renumbered title I, Pub. L. 91–285, § 2, June 22, 1970, 84 Stat. 314; amended Pub. L. 91–405, title II, § 204(e), Sept. 22, 1970, 84 Stat. 853; Pub. L. 94–73, title IV, §§ 404, 409, Aug. 6, 1975, 89 Stat. 404, 405.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSections 1973d and 1973g of title 42, referred to in subsec. (b), were repealed by Pub. L. 109–246, § 3(c), July 27, 2006, 120 Stat. 580.
+
+Codification Section was formerly classified to section 1973i of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments1975—Subsec. (c). Pub. L. 94–73, § 404, inserted reference to Guam and Virgin Islands. Subsec. (e). Pub. L. 94–73, § 409, added subsec. (e). 1970—Subsec. (c). Pub. L. 91–405 substituted reference to Delegate from District of Columbia for Delegates or Commissioners from territories or possessions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pub. L. 91–405, set out as an Effective Date note under section 25a of Title 2, The Congress.

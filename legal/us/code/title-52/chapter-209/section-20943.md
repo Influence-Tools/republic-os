@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "52 U.S.C. § 20943"
+description: "Membership of Standards Board"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 52
+title_name: "VOTING AND ELECTIONS"
+chapter_number: "209"
+chapter_name: "ELECTION ADMINISTRATION IMPROVEMENT"
+section: "20943"
+citation: "52 U.S.C. § 20943"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc52@119-100.zip"
+source_identifier: "/us/usc/t52/s20943"
+source_file: "data/legal/raw/us/code/title-52/usc52.xml"
+source_hash: "7c99c7b0fbb8c953f710bc36ba5620932bb7d01c6acd89530e5f5eeeef3d7d07"
+raw_snapshot_hash: "5600bd7cd3d8c74d24829ef745020a0f713944161d1d371581a369704150a87a"
+text_hash: "d342641c60cf4b50c995943fb03fdb37f677e94ddba184626fe12b261aaabc83"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code", "elections"]
+---
+
+# 52 U.S.C. § 20943 - Membership of Standards Board
+
+## Text
+
+(a) Composition (1) In general Subject to certification by the chair of the Federal Election Commission under subsection (b), the Standards Board shall be composed of 110 members as follows:
+
+(A) Fifty-five shall be State election officials selected by the chief State election official of each State.
+
+(B) Fifty-five shall be local election officials selected in accordance with paragraph (2).
+
+(2) List of local election officials Each State’s local election officials, including the local election officials of Puerto Rico and the United States Virgin Islands, shall select (under a process supervised by the chief election official of the State) a representative local election official from the State for purposes of paragraph (1)(B). In the case of the District of Columbia, Guam, and American Samoa, the chief election official shall establish a procedure for selecting an individual to serve as a local election official for purposes of such paragraph, except that under such a procedure the individual selected may not be a member of the same political party as the chief election official.
+
+(3) Requiring mix of political parties represented The two members of the Standards Board who represent the same State may not be members of the same political party.
+
+(b) Procedures for notice and certification of appointment (1) Notice to chair of Federal Election Commission Not later than 90 days after October 29, 2002, the chief State election official of the State shall transmit a notice to the chair of the Federal Election Commission containing—
+
+(A) the name of the State election official who agrees to serve on the Standards Board under this subchapter; and
+
+(B) the name of the representative local election official from the State selected under subsection (a)(2) who agrees to serve on the Standards Board under this subchapter.
+
+(2) Certification Upon receiving a notice from a State under paragraph (1), the chair of the Federal Election Commission shall publish a certification that the selected State election official and the representative local election official are appointed as members of the Standards Board under this subchapter.
+
+(3) Effect of failure to provide notice If a State does not transmit a notice to the chair of the Federal Election Commission under paragraph (1) within the deadline described in such paragraph, no representative from the State may participate in the selection of the initial Executive Board under subsection (c).
+
+(4) Role of Commission Upon the appointment of the members of the Election Assistance Commission, the Election Assistance Commission shall carry out the duties of the Federal Election Commission under this subsection.
+
+(c) Executive Board (1) In general Not later than 60 days after the last day on which the appointment of any of its members may be certified under subsection (b), the Standards Board shall select nine of its members to serve as the Executive Board of the Standards Board, of whom—
+
+(A) not more than five may be State election officials;
+
+(B) not more than five may be local election officials; and
+
+(C) not more than five may be members of the same political party.
+
+(2) Terms Except as provided in paragraph (3), members of the Executive Board of the Standards Board shall serve for a term of 2 years and may not serve for more than 3 consecutive terms.
+
+(3) Staggering of initial terms Of the members first selected to serve on the Executive Board of the Standards Board—
+
+(A) three shall serve for 1 term;
+
+(B) three shall serve for 2 consecutive terms; and
+
+(C) three shall serve for 3 consecutive terms,
+
+as determined by lot at the time the members are first appointed.
+
+(4) Duties In addition to any other duties assigned under this subchapter, the Executive Board of the Standards Board may carry out such duties of the Standards Board as the Standards Board may delegate.
+
+(Pub. L. 107–252, title II, § 213, Oct. 29, 2002, 116 Stat. 1678.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 15343 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

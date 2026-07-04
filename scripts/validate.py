@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate every entity file in the mirror.
+"""Validate every entity and legal text file in the mirror.
 
 Three checks, no third-party dependencies:
   1. OKF conformance — every non-reserved .md has YAML frontmatter with a
@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-TREE = REPO / "data" / "jurisdictions"
+TREES = [REPO / "data" / "jurisdictions", REPO / "legal"]
 SCHEMAS = REPO / "schemas"
 MAX_REPORT = 25
 
@@ -140,11 +140,20 @@ def main():
         print("no schemas found in /schemas", file=sys.stderr)
         return 1
 
-    files = sorted(TREE.rglob("*.md"))
+    files = []
+    for tree in TREES:
+        if tree.exists():
+            files.extend(sorted(tree.rglob("*.md")))
     counts = {t: 0 for t in schemas}
     counts["(untyped)"] = 0
     okf_fail, schema_fail, link_fail = [], [], []
-    existing = {("/" + str(p.relative_to(TREE))) for p in files}
+    existing = set()
+    jurisdiction_tree = REPO / "data" / "jurisdictions"
+    for p in files:
+        if p.is_relative_to(jurisdiction_tree):
+            existing.add("/" + str(p.relative_to(jurisdiction_tree)))
+        else:
+            existing.add("/" + str(p.relative_to(REPO)))
 
     for p in files:
         rel = p.relative_to(REPO)
@@ -173,7 +182,7 @@ def main():
 
     # ---- report ----
     total = len(files)
-    print(f"validated {total} entity files")
+    print(f"validated {total} markdown records")
     for t in sorted(counts):
         if counts[t]:
             print(f"  {t}: {counts[t]}")

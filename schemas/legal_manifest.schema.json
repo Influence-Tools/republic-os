@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LegalManifest",
+  "description": "Audit manifest for a deterministic legal corpus import.",
+  "type": "object",
+  "required": [
+    "type",
+    "corpus",
+    "jurisdiction",
+    "release_point",
+    "source",
+    "source_url",
+    "source_file_sha256",
+    "section_count",
+    "files"
+  ],
+  "properties": {
+    "type": { "type": "string", "enum": ["LegalManifest"] },
+    "corpus": { "type": "string", "enum": ["united_states_code"] },
+    "jurisdiction": { "type": "string" },
+    "title_number": { "type": "integer" },
+    "title_name": { "type": "string" },
+    "release_point": { "type": "string" },
+    "release_date": { "type": "string" },
+    "retrieved_at": { "type": "string" },
+    "source": { "type": "string", "enum": ["official"] },
+    "source_url": { "type": "string" },
+    "source_file": { "type": "string" },
+    "source_file_sha256": { "type": "string" },
+    "xml_file": { "type": "string" },
+    "xml_file_sha256": { "type": "string" },
+    "section_count": { "type": "integer" },
+    "files": { "type": "array" }
+  }
+}
