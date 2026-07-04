@@ -123,28 +123,35 @@ function pathFor(g){let d="";(g.type==="Polygon"?[g.coordinates]:g.coordinates).
 // ---- lenses ----
 const LENSES={
   coverage:{label:"Coverage", kind:"cov"},
-  pop:{label:"Population", field:"pop", scale:"sqrt", fmt:fmtN, hi:[67,214,196]},
-  income:{label:"Median income", field:"income", scale:"lin", fmt:fmt$, hi:[122,208,140]},
-  poverty:{label:"Poverty rate", field:"poverty", scale:"lin", fmt:fmtP, hi:[244,120,90]},
+  pop:{label:"Population", field:"pop", fmt:fmtN, lo:[22,48,60], hi:[96,236,244]},
+  income:{label:"Median income", field:"income", fmt:fmt$, lo:[28,54,42], hi:[150,246,142]},
+  poverty:{label:"Poverty rate", field:"poverty", fmt:fmtP, lo:[48,40,36], hi:[252,150,96]},
 };
 const ORDER=["coverage","pop","income","poverty"];
-const BASE=[20,27,37];               // --dark-terr-ish
-let cur="coverage", domains={}, maxOH=0;
+const BASE=[26,34,46];               // --dark-terr-ish
+let cur="income", domains={}, maxOH=0;
 
 Object.values(D).forEach(v=>{ if(v.oh>maxOH)maxOH=v.oh; });
+const ranks={};   // sorted value arrays, for percentile (rank) coloring
 for(const key of ORDER){ const L=LENSES[key]; if(!L.field)continue;
-  let lo=1e15,hi=-1e15; Object.values(D).forEach(v=>{const x=v[L.field]; if(x!=null){if(x<lo)lo=x;if(x>hi)hi=x;}});
+  let lo=1e15,hi=-1e15; const vals=[];
+  Object.values(D).forEach(v=>{const x=v[L.field]; if(x!=null){vals.push(x); if(x<lo)lo=x;if(x>hi)hi=x;}});
   domains[key]=[lo,hi];
+  ranks[key]=vals.sort((a,b)=>a-b);
 }
+function rankT(key,x){ const a=ranks[key]; let lo=0,hi=a.length;
+  while(lo<hi){const m=(lo+hi)>>1; if(a[m]<x)lo=m+1; else hi=m;}
+  return a.length>1 ? lo/(a.length-1) : 0.5; }
 function mix(a,b,t){return `rgb(${a.map((x,i)=>Math.round(x+(b[i]-x)*t)).join(",")})`;}
 function colorFor(fips){
   const v=D[fips]; const L=LENSES[cur];
-  if(!v) return "#0d1219";
-  if(L.kind==="cov") return v.oh>0 ? mix([60,44,20],[244,178,78],Math.sqrt(v.oh/maxOH)) : "#141b25";
-  const x=v[L.field]; if(x==null) return "#141b25";
-  const[lo,hi]=domains[cur]; let t=(x-lo)/(hi-lo||1);
-  if(L.scale==="sqrt") t=Math.sqrt(t);
-  return mix(BASE,L.hi,Math.max(0,Math.min(1,t)));
+  if(!v) return "#101720";
+  if(L.kind==="cov"){
+    if(!(v.oh>0)) return "#18212e";
+    return mix([120,82,34],[250,201,105], 0.45+0.55*Math.sqrt(v.oh/maxOH));
+  }
+  const x=v[L.field]; if(x==null) return "#18212e";
+  return mix(L.lo, L.hi, 0.14+0.86*rankT(cur,x));   // percentile spread, per-lens ramp
 }
 
 // ---- render (single innerHTML string; event delegation for hover) ----
@@ -190,7 +197,7 @@ function renderLegend(){
   }else{
     const[lo,hi]=domains[cur];
     el.innerHTML=`
-      <div class="scalebar" style="background:linear-gradient(90deg,rgb(${BASE}),rgb(${L.hi}))"></div>
+      <div class="scalebar" style="background:linear-gradient(90deg,rgb(${L.lo}),rgb(${L.hi}))"></div>
       <div class="scaleends"><span>${L.fmt(lo)}</span><span>${L.fmt(hi)}</span></div>
       <div class="lgrow" style="margin-top:9px"><span class="sw" style="background:#141b25"></span>no data</div>`;
   }
@@ -223,6 +230,6 @@ document.getElementById("t-people").textContent="11,285";
 document.getElementById("t-counties").textContent=Object.keys(D).length.toLocaleString();
 document.getElementById("t-lit").textContent=nLit;
 
-render(); renderLegend(); document.getElementById("stagefoot").textContent=foot.coverage;
+render(); renderLegend(); document.getElementById("stagefoot").textContent=foot[cur];
 requestAnimationFrame(()=>requestAnimationFrame(()=>document.getElementById("board").classList.remove("booting")));
 </script>
