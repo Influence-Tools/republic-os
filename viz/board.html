@@ -69,7 +69,7 @@
     padding-top:11px; line-height:1.6}
 </style>
 
-<div class="board booting" id="board">
+<div class="board" id="board">
   <section class="stage">
     <div class="eyebrow">Republic OS · the board</div>
     <h1 id="title">Every county in America, and what it's made of.</h1>
@@ -90,10 +90,10 @@
         <div class="tile t"><div class="n" id="t-people">—</div><div class="k">Officeholders</div></div>
         <div class="tile"><div class="n" id="t-cand">2,494</div><div class="k">Candidates</div></div>
         <div class="tile"><div class="n" id="t-counties">—</div><div class="k">Counties</div></div>
-        <div class="tile a"><div class="n" id="t-lit">—</div><div class="k">Counties lit</div></div>
+        <div class="tile a"><div class="n" id="t-districts">363</div><div class="k">Districts</div></div>
       </div>
     </div>
-    <div class="ledger" id="ledger">Coverage is the fog of war: a county is <b>lit</b> once its officeholders are mirrored. Today that is Florida — 67 counties. The other 3,000+ are demographic nodes waiting to be filled. Switch lenses to read what each place is made of.</div>
+    <div class="ledger" id="ledger">Every one of 3,131 counties carries Census demographics — switch lenses to read income, population, or poverty across the whole country. Hover any county for its full profile; every value resolves to a sourced <b>Jurisdiction</b> file.</div>
   </aside>
 </div>
 
@@ -122,16 +122,13 @@ function pathFor(g){let d="";(g.type==="Polygon"?[g.coordinates]:g.coordinates).
 
 // ---- lenses ----
 const LENSES={
-  coverage:{label:"Coverage", kind:"cov"},
-  pop:{label:"Population", field:"pop", fmt:fmtN, lo:[22,48,60], hi:[96,236,244]},
   income:{label:"Median income", field:"income", fmt:fmt$, lo:[28,54,42], hi:[150,246,142]},
+  pop:{label:"Population", field:"pop", fmt:fmtN, lo:[22,48,60], hi:[96,236,244]},
   poverty:{label:"Poverty rate", field:"poverty", fmt:fmtP, lo:[48,40,36], hi:[252,150,96]},
 };
-const ORDER=["coverage","pop","income","poverty"];
-const BASE=[26,34,46];               // --dark-terr-ish
-let cur="income", domains={}, maxOH=0;
+const ORDER=["income","pop","poverty"];
+let cur="income", domains={};
 
-Object.values(D).forEach(v=>{ if(v.oh>maxOH)maxOH=v.oh; });
 const ranks={};   // sorted value arrays, for percentile (rank) coloring
 for(const key of ORDER){ const L=LENSES[key]; if(!L.field)continue;
   let lo=1e15,hi=-1e15; const vals=[];
@@ -144,13 +141,9 @@ function rankT(key,x){ const a=ranks[key]; let lo=0,hi=a.length;
   return a.length>1 ? lo/(a.length-1) : 0.5; }
 function mix(a,b,t){return `rgb(${a.map((x,i)=>Math.round(x+(b[i]-x)*t)).join(",")})`;}
 function colorFor(fips){
-  const v=D[fips]; const L=LENSES[cur];
-  if(!v) return "#101720";
-  if(L.kind==="cov"){
-    if(!(v.oh>0)) return "#18212e";
-    return mix([120,82,34],[250,201,105], 0.45+0.55*Math.sqrt(v.oh/maxOH));
-  }
-  const x=v[L.field]; if(x==null) return "#18212e";
+  const v=D[fips]; if(!v) return "#101720";
+  const L=LENSES[cur]; const x=v[L.field];
+  if(x==null) return "#18212e";
   return mix(L.lo, L.hi, 0.14+0.86*rankT(cur,x));   // percentile spread, per-lens ramp
 }
 
@@ -171,7 +164,7 @@ function show(fips){
   const v=D[fips]; if(!v)return;
   readout.innerHTML=`
     <div class="ro-name">${v.name}</div>
-    <div class="ro-sub">${v.state} · ${v.oh>0?`<span style="color:var(--amber)">${v.oh} officeholders mapped</span>`:"not yet mapped"}</div>
+    <div class="ro-sub">${v.state}${v.oh>0?` · <span style="color:var(--amber)">${v.oh} officeholders</span>`:""}</div>
     <div class="ro-rows">
       <div class="ro-row"><span>Population</span><span class="v">${fmtN(v.pop)}</span></div>
       <div class="ro-row"><span>Median household income</span><span class="v">${fmt$(v.income)}</span></div>
@@ -188,24 +181,16 @@ map.addEventListener("mousemove",e=>{
 
 // ---- legend ----
 function renderLegend(){
-  const L=LENSES[cur]; const el=document.getElementById("legend");
+  const L=LENSES[cur]; const[lo,hi]=domains[cur];
   document.getElementById("legend-title").textContent=L.label;
-  if(L.kind==="cov"){
-    el.innerHTML=`
-      <div class="lgrow"><span class="sw" style="background:#141b25"></span>Not yet mapped — no officeholders</div>
-      <div class="lgrow"><span class="sw" style="background:linear-gradient(90deg,#3c2c14,#f4b24e)"></span>Lit — officeholders mirrored (few → many)</div>`;
-  }else{
-    const[lo,hi]=domains[cur];
-    el.innerHTML=`
-      <div class="scalebar" style="background:linear-gradient(90deg,rgb(${L.lo}),rgb(${L.hi}))"></div>
-      <div class="scaleends"><span>${L.fmt(lo)}</span><span>${L.fmt(hi)}</span></div>
-      <div class="lgrow" style="margin-top:9px"><span class="sw" style="background:#141b25"></span>no data</div>`;
-  }
+  document.getElementById("legend").innerHTML=`
+    <div class="scalebar" style="background:linear-gradient(90deg,rgb(${L.lo}),rgb(${L.hi}))"></div>
+    <div class="scaleends"><span>${L.fmt(lo)}</span><span>${L.fmt(hi)}</span></div>
+    <div class="lgrow" style="margin-top:9px"><span class="sw" style="background:#141b25"></span>no data</div>`;
 }
 
 // ---- lens buttons ----
 const foot={
-  coverage:"3,109 contiguous counties shown (AK, HI & territories omitted from the projection). Lit counties resolve to sourced officeholder files; the rest are demographic nodes on the frontier.",
   pop:"Population by county, Census ACS 2023. Darkest are the least populous; brightest the metropolitan cores.",
   income:"Median household income by county, ACS 2023. Every value resolves to a sourced Jurisdiction file.",
   poverty:"Poverty rate by county, ACS 2023. Brighter is higher — the map of where need concentrates.",
@@ -224,11 +209,8 @@ function setLens(k){
 }
 
 // ---- totals ----
-const nLit=Object.values(D).filter(v=>v.oh>0).length;
-const nOH=Object.values(D).reduce((a,v)=>a+(v.oh||0),0);
 document.getElementById("t-people").textContent="11,285";
 document.getElementById("t-counties").textContent=Object.keys(D).length.toLocaleString();
-document.getElementById("t-lit").textContent=nLit;
 
 render(); renderLegend(); document.getElementById("stagefoot").textContent=foot[cur];
 requestAnimationFrame(()=>requestAnimationFrame(()=>document.getElementById("board").classList.remove("booting")));
