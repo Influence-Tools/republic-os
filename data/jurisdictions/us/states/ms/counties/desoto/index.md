@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # DeSoto County, MS
 
-County jurisdiction.
+County jurisdiction — 4 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

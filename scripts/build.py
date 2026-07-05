@@ -6,6 +6,7 @@ Inputs (committed raw, one JSON object per line):
   bodies.jsonl                  congress-legislators — institutions      (233)
   leadership.jsonl              current federal leadership roles          (28)
   committee_memberships.jsonl   person->committee edges                (3,879)
+  place_county_crosswalk.jsonl  Census place -> county (PostGIS join)  (32,041)
 
 Outputs (fully regenerated each run):
   data/jurisdictions/**         Person files (federal ones enriched with
@@ -58,6 +59,19 @@ def norm_name(n):
 
 def norm_county(name):
     return re.sub(r"\bSaint\b", "St", name)
+
+
+def norm_place(s):
+    """Normalize a Census place name for crosswalk lookup (bare, ascii, alnum)."""
+    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
+def acs_cslug(row):
+    """County directory slug derived from an ACS county row (the authority for
+    county node names — municipals must nest under the same slug)."""
+    base = re.sub(r",\s*[A-Z]{2}$", "", row.get("county_name") or "")
+    return slugify(norm_county(re.sub(r"\s+County$", "", base)))
 
 
 # committee_title (source) -> normalized role on the committee
@@ -149,7 +163,7 @@ def build_enrichment(leadership, memberships, bodies_by_code, comm_codes):
 # Person files
 # --------------------------------------------------------------------------- #
 
-def county_slug(rec):
+def county_slug(rec, place_to_cslug=None):
     label = norm_county(rec.get("jurisdiction_label") or "")
     m = re.match(r"(.+?) County, FL$", label)
     if m:
@@ -162,29 +176,42 @@ def county_slug(rec):
     m = re.search(r"\bof\s+(.+?)\s+County\b", title) or re.match(r"(.+?)\s+County\b", title)
     if m:
         return slugify(norm_county(m.group(1)))
+    # Census place -> county via the committed crosswalk (place_county_crosswalk).
+    # Only unique name matches whose county has an ACS node are resolved here;
+    # ambiguous names, label-less rows, and CT planning regions fall through.
+    if place_to_cslug and rec["level"] == "municipal":
+        jl = rec.get("jurisdiction_label") or ""
+        pm = re.match(r"(.+?),\s*[A-Z]{2}$", jl)          # "Tampa, FL" -> "Tampa"
+        placename = pm.group(1) if pm else jl             # "Elgin" -> "Elgin"
+        cslug = place_to_cslug.get((norm_place(placename), rec.get("state_abbr")))
+        if cslug:
+            return cslug
     return "_unresolved"
 
 
 def city_slug(rec):
-    m = re.match(r"(.+?), FL$", rec.get("jurisdiction_label") or "")
+    jl = rec.get("jurisdiction_label") or ""
+    m = re.match(r"(.+?),\s*[A-Z]{2}$", jl)          # "Elgin, TX" / "Naples, FL"
     if m:
         return slugify(m.group(1))
+    if jl:                                           # bare "Elgin"
+        return slugify(jl)
     m = re.match(r"Mayor of (.+)$", rec.get("title") or "")
     if m:
         return slugify(m.group(1))
     return "_unresolved"
 
 
-def person_dir(rec):
+def person_dir(rec, place_to_cslug=None):
     lvl, st = rec["level"], (rec.get("state_abbr") or "").lower()
     if lvl == "federal":
         return OUT / "us" / "people"
     if lvl == "state":
         return OUT / "us" / "states" / st / "people"
     if lvl == "county":
-        return OUT / "us" / "states" / st / "counties" / county_slug(rec) / "people"
+        return OUT / "us" / "states" / st / "counties" / county_slug(rec, place_to_cslug) / "people"
     if lvl == "municipal":
-        return (OUT / "us" / "states" / st / "counties" / county_slug(rec)
+        return (OUT / "us" / "states" / st / "counties" / county_slug(rec, place_to_cslug)
                 / "municipalities" / city_slug(rec) / "people")
     return OUT / "_unresolved" / "people"
 
@@ -544,6 +571,22 @@ def main():
     candidates = load("fec_candidates.jsonl")
     acs_county = load("acs_county.jsonl")
     acs_cd = load("acs_cd.jsonl")
+    crosswalk = load("place_county_crosswalk.jsonl")
+
+    # place -> county resolver: (normalized place name, state) -> county dir slug.
+    # county_geoid is the stable key; the slug is taken from the ACS county node
+    # (the same source that names county dirs) so municipals nest correctly.
+    fips_to_cslug = {canonical_fips(r["county_fips"]): acs_cslug(r) for r in acs_county}
+    _place_geoids = {}
+    for x in crosswalk:
+        _place_geoids.setdefault(
+            (norm_place(x["place_name"]), x["state_code"]), set()).add(x["county_geoid"])
+    place_to_cslug = {}
+    for key, geos in _place_geoids.items():
+        if len(geos) == 1:
+            cf = canonical_fips(next(iter(geos)))
+            if cf in fips_to_cslug:
+                place_to_cslug[key] = fips_to_cslug[cf]
 
     bodies_by_code = {b["code"]: b for b in bodies}
     comm_codes = committee_codes(bodies)
@@ -569,7 +612,7 @@ def main():
     # ---- plan person paths (disambiguate deterministically) ----
     planned = {}
     for rec in sorted(officeholders, key=lambda r: r["person_id"]):
-        planned.setdefault((person_dir(rec), slugify(display_name(rec))), []).append(rec)
+        planned.setdefault((person_dir(rec, place_to_cslug), slugify(display_name(rec))), []).append(rec)
     person_files = {}
     for (d, base), group in planned.items():
         by_person = {}
@@ -624,7 +667,7 @@ def main():
     oh_count = {}
     for rec in officeholders:
         if rec["level"] in ("county", "municipal"):
-            key = ((rec.get("state_abbr") or "").lower(), county_slug(rec))
+            key = ((rec.get("state_abbr") or "").lower(), county_slug(rec, place_to_cslug))
             oh_count[key] = oh_count.get(key, 0) + 1
     seen_fips, n_county = set(), 0
     for row in sorted(acs_county, key=lambda r: canonical_fips(r["county_fips"])):
@@ -636,7 +679,7 @@ def main():
         if not st:
             continue
         base = re.sub(r",\s*[A-Z]{2}$", "", row.get("county_name") or "")
-        cslug = slugify(norm_county(re.sub(r"\s+County$", "", base)))
+        cslug = acs_cslug(row)
         title = f"{base}, {st}"
         demog = normalize_demog(row)
         ohc = oh_count.get((st.lower(), cslug), 0)

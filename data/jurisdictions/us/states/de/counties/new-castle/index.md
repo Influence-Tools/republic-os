@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # New Castle County, DE
 
-County jurisdiction.
+County jurisdiction — 3 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

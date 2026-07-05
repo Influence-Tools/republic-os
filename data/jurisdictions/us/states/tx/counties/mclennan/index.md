@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # McLennan County, TX
 
-County jurisdiction.
+County jurisdiction — 5 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

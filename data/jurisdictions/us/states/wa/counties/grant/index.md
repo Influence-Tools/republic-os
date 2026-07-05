@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Grant County, WA
 
-County jurisdiction.
+County jurisdiction — 5 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

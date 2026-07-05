@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Duval County, FL
 
-County jurisdiction — 77 officeholders mapped.
+County jurisdiction — 96 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Hinds County, MS
 
-County jurisdiction.
+County jurisdiction — 3 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

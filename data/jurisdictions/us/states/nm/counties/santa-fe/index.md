@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Santa Fe County, NM
 
-County jurisdiction.
+County jurisdiction — 1 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

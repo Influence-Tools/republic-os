@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Bergen County, NJ
 
-County jurisdiction.
+County jurisdiction — 2 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

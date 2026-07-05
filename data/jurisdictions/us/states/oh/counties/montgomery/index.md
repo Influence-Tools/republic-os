@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Montgomery County, OH
 
-County jurisdiction.
+County jurisdiction — 10 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

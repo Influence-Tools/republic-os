@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Riverside County, CA
 
-County jurisdiction.
+County jurisdiction — 8 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

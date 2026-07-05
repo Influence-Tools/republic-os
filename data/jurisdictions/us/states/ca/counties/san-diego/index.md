@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # San Diego County, CA
 
-County jurisdiction.
+County jurisdiction — 9 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

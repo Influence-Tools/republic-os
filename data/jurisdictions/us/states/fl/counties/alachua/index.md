@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Alachua County, FL
 
-County jurisdiction — 61 officeholders mapped.
+County jurisdiction — 67 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Johnson County, KS
 
-County jurisdiction.
+County jurisdiction — 4 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Stark County, OH
 
-County jurisdiction.
+County jurisdiction — 6 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

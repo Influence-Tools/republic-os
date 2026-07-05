@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Maricopa County, AZ
 
-County jurisdiction.
+County jurisdiction — 12 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

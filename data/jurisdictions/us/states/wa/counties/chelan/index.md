@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Chelan County, WA
 
-County jurisdiction.
+County jurisdiction — 3 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

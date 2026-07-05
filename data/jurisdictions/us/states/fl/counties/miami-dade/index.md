@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Miami-Dade County, FL
 
-County jurisdiction — 222 officeholders mapped.
+County jurisdiction — 223 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

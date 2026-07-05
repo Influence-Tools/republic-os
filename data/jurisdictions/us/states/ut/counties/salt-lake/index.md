@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Salt Lake County, UT
 
-County jurisdiction.
+County jurisdiction — 11 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

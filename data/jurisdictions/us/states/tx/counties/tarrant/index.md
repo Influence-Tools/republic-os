@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Tarrant County, TX
 
-County jurisdiction.
+County jurisdiction — 17 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

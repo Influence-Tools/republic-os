@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Harris County, TX
 
-County jurisdiction.
+County jurisdiction — 10 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Chautauqua County, NY
 
-County jurisdiction.
+County jurisdiction — 2 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

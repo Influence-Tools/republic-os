@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Dallas County, TX
 
-County jurisdiction.
+County jurisdiction — 15 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

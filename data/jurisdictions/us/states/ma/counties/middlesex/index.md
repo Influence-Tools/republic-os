@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Middlesex County, MA
 
-County jurisdiction.
+County jurisdiction — 7 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

@@ -32,7 +32,7 @@ timestamp: "2026-07-03"
 
 # Atlantic County, NJ
 
-County jurisdiction.
+County jurisdiction — 13 officeholders mapped.
 
 ## Demographics (ACS 2023)
 

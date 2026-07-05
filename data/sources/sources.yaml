@@ -53,6 +53,21 @@ sources:
     raw: [acs_county.jsonl, acs_cd.jsonl]
     notes: County and congressional-district demographics; keyed by FIPS.
 
+  - id: place-county-crosswalk
+    name: Census place → county crosswalk (Atlas PostGIS)
+    url: https://www.census.gov/geographies/mapping-files.html
+    type: dataset
+    authority_level: official
+    requires_api_key: false
+    refresh_frequency: on-demand
+    feeds: [Person]
+    raw: [place_county_crosswalk.jsonl]
+    notes: >
+      Atlas PostGIS spatial join of Census TIGER 2024 places against county
+      geometries — 32,041 places, one primary county each. Resolves municipal
+      officeholders to their county. Join key is county_geoid (5-digit FIPS);
+      the sibling county_fips column is the 3-digit county code only.
+
 # Prepared but not yet ingested — see docs/roadmap.md
 planned:
   - id: govinfo
