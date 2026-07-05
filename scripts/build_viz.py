@@ -102,20 +102,43 @@ def main():
             "oh": oh_count.get(key, 0),
         }
 
-    # ---- county_detail.json (only counties with resolved officials) ----
-    county_detail = {}
-    keys_with_people = set(county_roster) | set(muni_roster)
-    for key in keys_with_people:
-        cf = slug_to_fips.get(key)
-        if cf is None:
+    # ---- district representation per county (fips -> {cd, ss, sh}) ----
+    rep_by_node = defaultdict(list)               # district node id -> current rep name(s)
+    for rec in officeholders:
+        if not rec.get("is_current"):
             continue
-        county = [{"n": n, "r": r} for n, r in sorted(county_roster.get(key, []))]
+        nid = build.person_district_node(rec)
+        if nid:
+            rep_by_node[nid].append(rec.get("full_name") or "?")
+    KEYMAP = {"CD": "cd", "SS": "ss", "SH": "sh"}
+    districts_by_fips = defaultdict(lambda: {"cd": [], "ss": [], "sh": []})
+    for e in sorted(build.load("county_district_edges.jsonl"),
+                    key=lambda x: (x["county_geoid"], build.DTYPE_RANK[x["type"]], -x["area_weight"])):
+        dt = e["type"]
+        ident = build.cd_ident(e["district_label"]) if dt == "CD" else build.leg_ident(e["district_label"])
+        reps = sorted(set(rep_by_node.get(build.edge_node_id(e), [])))
+        districts_by_fips[build.canonical_fips(e["county_geoid"])][KEYMAP[dt]].append(
+            {"d": build.district_title(dt, e["district_state"], ident),
+             "w": round(e["area_weight"], 3), "rep": ", ".join(reps) or None})
+
+    # ---- county_detail.json (any county with officials OR districts) ----
+    fips_to_key = {cf: key for key, cf in slug_to_fips.items()}
+    fips_with_people = {slug_to_fips[k] for k in (set(county_roster) | set(muni_roster))
+                        if k in slug_to_fips}
+    county_detail = {}
+    for cf in sorted(fips_with_people | set(districts_by_fips)):
+        key = fips_to_key.get(cf)
+        county = [{"n": n, "r": r} for n, r in sorted(county_roster.get(key, []))] if key else []
         munis = []
-        for city in sorted(muni_roster.get(key, {})):
-            people = [{"n": n, "r": r} for n, r in sorted(muni_roster[key][city])]
-            munis.append({"m": city, "p": people})
-        county_detail[cf] = {"slug": key[1], "county": county, "munis": munis}
-    county_detail = {k: county_detail[k] for k in sorted(county_detail)}
+        if key:
+            for city in sorted(muni_roster.get(key, {})):
+                munis.append({"m": city, "p": [{"n": n, "r": r}
+                                               for n, r in sorted(muni_roster[key][city])]})
+        entry = {"slug": (county_meta.get(cf) or {}).get("slug") or (key[1] if key else ""),
+                 "county": county, "munis": munis}
+        if cf in districts_by_fips:
+            entry["districts"] = districts_by_fips[cf]
+        county_detail[cf] = entry
 
     totals = {
         "people": len(officeholders),
@@ -138,7 +161,8 @@ def main():
     total_oh = sum(oh_count.values())
     print(f"county_data.json:   {len(county_data)} counties, "
           f"{sum(1 for v in county_data.values() if v['oh'])} with officeholders")
-    print(f"county_detail.json: {len(county_detail)} counties with rosters")
+    print(f"county_detail.json: {len(county_detail)} counties "
+          f"({len(districts_by_fips)} with district representation)")
     print(f"officials mapped: {total_oh - unresolved}/{total_oh}  "
           f"(county-unresolvable, tree-only: {unresolved})")
     print(f"board.html injected: totals={totals}")
