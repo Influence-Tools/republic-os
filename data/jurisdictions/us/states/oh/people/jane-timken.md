@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 29"
+represents: "us/states/oh/districts/senate/29"
 tenure:
   start: "2025-01-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jane Timken
 
 Current OH Senate District 29 (OH State Senate District 29).
+
+Represents [OH State Senate District 29](/us/states/oh/districts/senate/29.md).
 
 ## Sources
 

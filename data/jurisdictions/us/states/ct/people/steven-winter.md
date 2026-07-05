@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 94"
+represents: "us/states/ct/districts/house/94"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Winter
 
 Current CT House District 94 (CT State House of Representatives District 94).
+
+Represents [CT State House of Representatives District 94](/us/states/ct/districts/house/94.md).
 
 ## Sources
 

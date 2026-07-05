@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 70"
+represents: "us/states/sc/districts/house/70"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Reese
 
 Current SC House District 70 (SC State House of Representatives District 70).
+
+Represents [SC State House of Representatives District 70](/us/states/sc/districts/house/70.md).
 
 ## Sources
 

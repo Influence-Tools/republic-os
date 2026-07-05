@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 46"
+represents: "us/states/mt/districts/house/46"
 tenure:
   start: "2024-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Joy
 
 Current MT House District 46 (MT State House of Representatives District 46).
+
+Represents [MT State House of Representatives District 46](/us/states/mt/districts/house/46.md).
 
 ## Sources
 

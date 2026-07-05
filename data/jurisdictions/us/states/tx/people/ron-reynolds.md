@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 27"
+represents: "us/states/tx/districts/house/27"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Reynolds
 
 Current TX House District 27 (TX State House of Representatives District 27).
+
+Represents [TX State House of Representatives District 27](/us/states/tx/districts/house/27.md).
 
 ## Sources
 

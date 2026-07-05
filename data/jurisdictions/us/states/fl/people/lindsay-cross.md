@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 60"
+represents: "us/states/fl/districts/house/60"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsay Cross
 
 Current FL House District 60 (FL State House of Representatives District 60).
+
+Represents [FL State House of Representatives District 60](/us/states/fl/districts/house/60.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 13th Suffolk"
+represents: "us/states/ma/districts/house/13th-suffolk"
 tenure:
   start: "2014-04-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Hunt
 
 Current MA House District 13th Suffolk (MA State House of Representatives District 13th Suffolk).
+
+Represents [MA State House of Representatives District 13th Suffolk](/us/states/ma/districts/house/13th-suffolk.md).
 
 ## Sources
 

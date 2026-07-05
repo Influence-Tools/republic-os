@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 22"
+represents: "us/states/wy/districts/senate/22"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barry Crago
 
 Current WY Senate District 22 (WY State Senate District 22).
+
+Represents [WY State Senate District 22](/us/states/wy/districts/senate/22.md).
 
 ## Sources
 

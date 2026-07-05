@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 106"
+represents: "us/states/ms/districts/house/106"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jansen Owen
 
 Current MS House District 106 (MS State House of Representatives District 106).
+
+Represents [MS State House of Representatives District 106](/us/states/ms/districts/house/106.md).
 
 ## Sources
 

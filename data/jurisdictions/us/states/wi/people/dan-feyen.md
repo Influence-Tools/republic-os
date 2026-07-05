@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 20"
+represents: "us/states/wi/districts/senate/20"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Feyen
 
 Current WI Senate District 20 (WI State Senate District 20).
+
+Represents [WI State Senate District 20](/us/states/wi/districts/senate/20.md).
 
 ## Sources
 

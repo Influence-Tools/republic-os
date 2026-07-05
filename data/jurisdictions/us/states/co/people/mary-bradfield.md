@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 21"
+represents: "us/states/co/districts/house/21"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Bradfield
 
 Current CO House District 21 (CO State House of Representatives District 21).
+
+Represents [CO State House of Representatives District 21](/us/states/co/districts/house/21.md).
 
 ## Sources
 

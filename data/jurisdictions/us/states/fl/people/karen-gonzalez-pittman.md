@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 65"
+represents: "us/states/fl/districts/house/65"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Gonzalez Pittman
 
 Current FL House District 65 (FL State House of Representatives District 65).
+
+Represents [FL State House of Representatives District 65](/us/states/fl/districts/house/65.md).
 
 ## Sources
 

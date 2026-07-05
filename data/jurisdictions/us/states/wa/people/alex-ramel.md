@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 40"
+represents: "us/states/wa/districts/house/40"
 tenure:
   start: "2020-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Ramel
 
 Current WA House District 40 (WA State House of Representatives District 40).
+
+Represents [WA State House of Representatives District 40](/us/states/wa/districts/house/40.md).
 
 ## Sources
 

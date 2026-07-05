@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 25"
+represents: "us/states/wa/districts/house/25"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cyndy Jacobsen
 
 Current WA House District 25 (WA State House of Representatives District 25).
+
+Represents [WA State House of Representatives District 25](/us/states/wa/districts/house/25.md).
 
 ## Sources
 

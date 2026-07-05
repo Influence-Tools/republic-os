@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 18"
+represents: "us/states/md/districts/senate/18"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Waldstreicher
 
 Current MD Senate District 18 (MD State Senate District 18).
+
+Represents [MD State Senate District 18](/us/states/md/districts/senate/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 16"
+represents: "us/states/me/districts/senate/16"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Cyrway
 
 Current ME Senate District 16 (ME State Senate District 16).
+
+Represents [ME State Senate District 16](/us/states/me/districts/senate/16.md).
 
 ## Sources
 

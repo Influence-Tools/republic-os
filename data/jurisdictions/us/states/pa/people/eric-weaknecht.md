@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 5"
+represents: "us/states/pa/districts/house/5"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Weaknecht
 
 Current PA House District 5 (PA State House of Representatives District 5).
+
+Represents [PA State House of Representatives District 5](/us/states/pa/districts/house/5.md).
 
 ## Sources
 

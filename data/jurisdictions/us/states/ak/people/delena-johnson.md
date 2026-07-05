@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 25"
+represents: "us/states/ak/districts/house/25"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # DeLena Johnson
 
 Current AK House District 25 (AK State House of Representatives District 25).
+
+Represents [AK State House of Representatives District 25](/us/states/ak/districts/house/25.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 39"
+represents: "us/states/nj/districts/senate/39"
 tenure:
   start: "2021-03-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Holly Schepisi
 
 Current NJ Senate District 39 (NJ State Senate District 39).
+
+Represents [NJ State Senate District 39](/us/states/nj/districts/senate/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 6A"
+represents: "us/states/id/districts/house/6a"
 tenure:
   start: "2021-05-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori McCann
 
 Current ID House District 6A (ID State House of Representatives District 6A).
+
+Represents [ID State House of Representatives District 6A](/us/states/id/districts/house/6a.md).
 
 ## Sources
 

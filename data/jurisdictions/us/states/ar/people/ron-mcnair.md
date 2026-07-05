@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 5"
+represents: "us/states/ar/districts/house/5"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron McNair
 
 Current AR House District 5 (AR State House of Representatives District 5).
+
+Represents [AR State House of Representatives District 5](/us/states/ar/districts/house/5.md).
 
 ## Sources
 

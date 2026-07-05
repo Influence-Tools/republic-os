@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 11"
+represents: "us/states/nh/districts/house/strafford-11"
 tenure:
   start: "2024-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erik Johnson
 
 Current NH House District Strafford 11 (NH State House of Representatives District Strafford 11).
+
+Represents [NH State House of Representatives District Strafford 11](/us/states/nh/districts/house/strafford-11.md).
 
 ## Sources
 

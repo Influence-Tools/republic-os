@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 39"
+represents: "us/states/il/districts/senate/39"
 tenure:
   start: "2003-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Harmon
 
 Current IL Senate District 39 (IL State Senate District 39).
+
+Represents [IL State Senate District 39](/us/states/il/districts/senate/39.md).
 
 ## Sources
 

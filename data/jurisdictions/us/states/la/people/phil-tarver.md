@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 36"
+represents: "us/states/la/districts/house/36"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Tarver
 
 Current LA House District 36 (LA State House of Representatives District 36).
+
+Represents [LA State House of Representatives District 36](/us/states/la/districts/house/36.md).
 
 ## Sources
 

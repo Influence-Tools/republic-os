@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "LA"
 district: "Congressional District 3"
+represents: "us/states/la/districts/03"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Clay Higgins
 
 Current U.S. House of Representatives - LA-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/la/districts/03.md).
 
 ## Committees
 

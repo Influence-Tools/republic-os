@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 27"
+represents: "us/states/nd/districts/house/27"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Stemen
 
 Current ND House District 27 (ND State House of Representatives District 27).
+
+Represents [ND State House of Representatives District 27](/us/states/nd/districts/house/27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 56"
+represents: "us/states/wi/districts/house/56"
 tenure:
   start: "2013-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Murphy
 
 Current WI House District 56 (WI State House of Representatives District 56).
+
+Represents [WI State House of Representatives District 56](/us/states/wi/districts/house/56.md).
 
 ## Sources
 

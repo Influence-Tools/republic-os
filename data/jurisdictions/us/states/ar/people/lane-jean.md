@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 99"
+represents: "us/states/ar/districts/house/99"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lane Jean
 
 Current AR House District 99 (AR State House of Representatives District 99).
+
+Represents [AR State House of Representatives District 99](/us/states/ar/districts/house/99.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 10"
+represents: "us/states/or/districts/house/10"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Gomberg
 
 Current OR House District 10 (OR State House of Representatives District 10).
+
+Represents [OR State House of Representatives District 10](/us/states/or/districts/house/10.md).
 
 ## Sources
 

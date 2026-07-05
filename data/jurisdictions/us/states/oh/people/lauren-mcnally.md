@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 58"
+represents: "us/states/oh/districts/house/58"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren McNally
 
 Current OH House District 58 (OH State House of Representatives District 58).
+
+Represents [OH State House of Representatives District 58](/us/states/oh/districts/house/58.md).
 
 ## Sources
 

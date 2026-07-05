@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 27"
+represents: "us/states/nd/districts/senate/27"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Roers
 
 Current ND Senate District 27 (ND State Senate District 27).
+
+Represents [ND State Senate District 27](/us/states/nd/districts/senate/27.md).
 
 ## Sources
 

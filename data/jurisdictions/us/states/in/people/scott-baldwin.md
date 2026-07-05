@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 20"
+represents: "us/states/in/districts/senate/20"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Baldwin
 
 Current IN Senate District 20 (IN State Senate District 20).
+
+Represents [IN State Senate District 20](/us/states/in/districts/senate/20.md).
 
 ## Sources
 

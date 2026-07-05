@@ -22,9 +22,39 @@ demographics:
   race_native: 687
   hispanic: 46266
   bachelors_plus: 10121
+districts:
+  - to: "us/states/nm/districts/03"
+    rel: in-district
+    area_weight: 0.5346
+  - to: "us/states/nm/districts/02"
+    rel: in-district
+    area_weight: 0.4653
+  - to: "us/states/nm/districts/senate/41"
+    rel: in-district
+    area_weight: 0.5444
+  - to: "us/states/nm/districts/senate/27"
+    rel: in-district
+    area_weight: 0.272
+  - to: "us/states/nm/districts/senate/42"
+    rel: in-district
+    area_weight: 0.1835
+  - to: "us/states/nm/districts/house/66"
+    rel: in-district
+    area_weight: 0.4043
+  - to: "us/states/nm/districts/house/55"
+    rel: in-district
+    area_weight: 0.3188
+  - to: "us/states/nm/districts/house/61"
+    rel: in-district
+    area_weight: 0.2255
+  - to: "us/states/nm/districts/house/62"
+    rel: in-district
+    area_weight: 0.0513
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nm]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction.
 | Hispanic/Latino | 46266 |
 | Bachelor's or higher | 10121 |
 
+## Districts
+
+- [NM-03](/us/states/nm/districts/03.md) — 53% (congressional)
+- [NM-02](/us/states/nm/districts/02.md) — 47% (congressional)
+- [NM Senate District 41](/us/states/nm/districts/senate/41.md) — 54% (state senate)
+- [NM Senate District 27](/us/states/nm/districts/senate/27.md) — 27% (state senate)
+- [NM Senate District 42](/us/states/nm/districts/senate/42.md) — 18% (state senate)
+- [NM House District 66](/us/states/nm/districts/house/66.md) — 40% (state house)
+- [NM House District 55](/us/states/nm/districts/house/55.md) — 32% (state house)
+- [NM House District 61](/us/states/nm/districts/house/61.md) — 23% (state house)
+- [NM House District 62](/us/states/nm/districts/house/62.md) — 5% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

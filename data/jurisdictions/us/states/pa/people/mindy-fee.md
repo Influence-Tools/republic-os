@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 37"
+represents: "us/states/pa/districts/house/37"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mindy Fee
 
 Current PA House District 37 (PA State House of Representatives District 37).
+
+Represents [PA State House of Representatives District 37](/us/states/pa/districts/house/37.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 66"
+represents: "us/states/ia/districts/house/66"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Bradley
 
 Current IA House District 66 (IA State House of Representatives District 66).
+
+Represents [IA State House of Representatives District 66](/us/states/ia/districts/house/66.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 102"
+represents: "us/states/la/districts/house/102"
 tenure:
   start: "2021-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Delisha Boyd
 
 Current LA House District 102 (LA State House of Representatives District 102).
+
+Represents [LA State House of Representatives District 102](/us/states/la/districts/house/102.md).
 
 ## Sources
 

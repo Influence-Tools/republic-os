@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 25"
+represents: "us/states/de/districts/house/25"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cyndie Romer
 
 Current DE House District 25 (DE State House of Representatives District 25).
+
+Represents [DE State House of Representatives District 25](/us/states/de/districts/house/25.md).
 
 ## Sources
 

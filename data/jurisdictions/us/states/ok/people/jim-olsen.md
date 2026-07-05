@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 2"
+represents: "us/states/ok/districts/house/2"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Olsen
 
 Current OK House District 2 (OK State House of Representatives District 2).
+
+Represents [OK State House of Representatives District 2](/us/states/ok/districts/house/2.md).
 
 ## Sources
 

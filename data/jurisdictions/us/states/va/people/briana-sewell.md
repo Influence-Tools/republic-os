@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 25"
+represents: "us/states/va/districts/house/25"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Briana Sewell
 
 Current VA House District 25 (VA State House of Representatives District 25).
+
+Represents [VA State House of Representatives District 25](/us/states/va/districts/house/25.md).
 
 ## Sources
 

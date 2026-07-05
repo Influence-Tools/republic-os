@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 14"
+represents: "us/states/wv/districts/senate/14"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Smith
 
 Current WV Senate District 14 (WV State Senate District 14).
+
+Represents [WV State Senate District 14](/us/states/wv/districts/senate/14.md).
 
 ## Sources
 

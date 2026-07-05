@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 15"
+represents: "us/states/oh/districts/15"
 committees:
   - name: "House Committee on House Administration"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Mike Carey
 
 Current U.S. House of Representatives - OH-15 (Congressional District 15).
+
+Represents [Congressional District 15](/us/states/oh/districts/15.md).
 
 ## Committees
 

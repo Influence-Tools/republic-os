@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 17"
+represents: "us/states/ny/districts/senate/17"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Chan
 
 Current NY Senate District 17 (NY State Senate District 17).
+
+Represents [NY State Senate District 17](/us/states/ny/districts/senate/17.md).
 
 ## Sources
 

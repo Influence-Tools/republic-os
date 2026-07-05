@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 2"
+represents: "us/states/ms/districts/house/2"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Mattox
 
 Current MS House District 2 (MS State House of Representatives District 2).
+
+Represents [MS State House of Representatives District 2](/us/states/ms/districts/house/2.md).
 
 ## Sources
 

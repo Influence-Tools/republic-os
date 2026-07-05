@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 37"
+represents: "us/states/nd/districts/house/37"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Lefor
 
 Current ND House District 37 (ND State House of Representatives District 37).
+
+Represents [ND State House of Representatives District 37](/us/states/nd/districts/house/37.md).
 
 ## Sources
 

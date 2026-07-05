@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 24"
+represents: "us/states/nj/districts/house/24"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Inganamort
 
 Current NJ House District 24 (NJ State House of Representatives District 24).
+
+Represents [NJ State House of Representatives District 24](/us/states/nj/districts/house/24.md).
 
 ## Sources
 

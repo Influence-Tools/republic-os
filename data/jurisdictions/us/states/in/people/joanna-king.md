@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 49"
+represents: "us/states/in/districts/house/49"
 tenure:
   start: "2020-12-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joanna King
 
 Current IN House District 49 (IN State House of Representatives District 49).
+
+Represents [IN State House of Representatives District 49](/us/states/in/districts/house/49.md).
 
 ## Sources
 

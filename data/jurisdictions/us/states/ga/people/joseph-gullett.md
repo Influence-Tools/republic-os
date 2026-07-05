@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 19"
+represents: "us/states/ga/districts/house/19"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph Gullett
 
 Current GA House District 19 (GA State House of Representatives District 19).
+
+Represents [GA State House of Representatives District 19](/us/states/ga/districts/house/19.md).
 
 ## Sources
 

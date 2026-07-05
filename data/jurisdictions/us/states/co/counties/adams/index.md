@@ -22,9 +22,60 @@ demographics:
   race_native: 8817
   hispanic: 226823
   bachelors_plus: 133904
+districts:
+  - to: "us/states/co/districts/04"
+    rel: in-district
+    area_weight: 0.7097
+  - to: "us/states/co/districts/08"
+    rel: in-district
+    area_weight: 0.2099
+  - to: "us/states/co/districts/06"
+    rel: in-district
+    area_weight: 0.0792
+  - to: "us/states/co/districts/senate/28"
+    rel: in-district
+    area_weight: 0.11
+  - to: "us/states/co/districts/senate/24"
+    rel: in-district
+    area_weight: 0.0497
+  - to: "us/states/co/districts/senate/13"
+    rel: in-district
+    area_weight: 0.0312
+  - to: "us/states/co/districts/senate/25"
+    rel: in-district
+    area_weight: 0.0184
+  - to: "us/states/co/districts/house/56"
+    rel: in-district
+    area_weight: 0.7219
+  - to: "us/states/co/districts/house/36"
+    rel: in-district
+    area_weight: 0.0771
+  - to: "us/states/co/districts/house/32"
+    rel: in-district
+    area_weight: 0.0763
+  - to: "us/states/co/districts/house/48"
+    rel: in-district
+    area_weight: 0.0529
+  - to: "us/states/co/districts/house/31"
+    rel: in-district
+    area_weight: 0.0174
+  - to: "us/states/co/districts/house/34"
+    rel: in-district
+    area_weight: 0.015
+  - to: "us/states/co/districts/house/33"
+    rel: in-district
+    area_weight: 0.0142
+  - to: "us/states/co/districts/house/35"
+    rel: in-district
+    area_weight: 0.0128
+  - to: "us/states/co/districts/house/29"
+    rel: in-district
+    area_weight: 0.0117
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, co]
 timestamp: "2026-07-03"
@@ -56,6 +107,26 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 226823 |
 | Bachelor's or higher | 133904 |
 
+## Districts
+
+- [CO-04](/us/states/co/districts/04.md) — 71% (congressional)
+- [CO-08](/us/states/co/districts/08.md) — 21% (congressional)
+- [CO-06](/us/states/co/districts/06.md) — 8% (congressional)
+- [CO Senate District 28](/us/states/co/districts/senate/28.md) — 11% (state senate)
+- [CO Senate District 24](/us/states/co/districts/senate/24.md) — 5% (state senate)
+- [CO Senate District 13](/us/states/co/districts/senate/13.md) — 3% (state senate)
+- [CO Senate District 25](/us/states/co/districts/senate/25.md) — 2% (state senate)
+- [CO House District 56](/us/states/co/districts/house/56.md) — 72% (state house)
+- [CO House District 36](/us/states/co/districts/house/36.md) — 8% (state house)
+- [CO House District 32](/us/states/co/districts/house/32.md) — 8% (state house)
+- [CO House District 48](/us/states/co/districts/house/48.md) — 5% (state house)
+- [CO House District 31](/us/states/co/districts/house/31.md) — 2% (state house)
+- [CO House District 34](/us/states/co/districts/house/34.md) — 2% (state house)
+- [CO House District 33](/us/states/co/districts/house/33.md) — 1% (state house)
+- [CO House District 35](/us/states/co/districts/house/35.md) — 1% (state house)
+- [CO House District 29](/us/states/co/districts/house/29.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 64"
+represents: "us/states/tn/districts/house/64"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Cepicky
 
 Current TN House District 64 (TN State House of Representatives District 64).
+
+Represents [TN State House of Representatives District 64](/us/states/tn/districts/house/64.md).
 
 ## Sources
 

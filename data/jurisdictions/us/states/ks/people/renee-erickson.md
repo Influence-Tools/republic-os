@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 30"
+represents: "us/states/ks/districts/senate/30"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Renee Erickson
 
 Current KS Senate District 30 (KS State Senate District 30).
+
+Represents [KS State Senate District 30](/us/states/ks/districts/senate/30.md).
 
 ## Sources
 

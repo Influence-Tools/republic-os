@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 18"
+represents: "us/states/il/districts/senate/18"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Cunningham
 
 Current IL Senate District 18 (IL State Senate District 18).
+
+Represents [IL State Senate District 18](/us/states/il/districts/senate/18.md).
 
 ## Sources
 

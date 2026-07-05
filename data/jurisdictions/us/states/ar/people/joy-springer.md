@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 76"
+represents: "us/states/ar/districts/house/76"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joy Springer
 
 Current AR House District 76 (AR State House of Representatives District 76).
+
+Represents [AR State House of Representatives District 76](/us/states/ar/districts/house/76.md).
 
 ## Sources
 

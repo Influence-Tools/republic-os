@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 54"
+represents: "us/states/tx/districts/house/54"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Buckley
 
 Current TX House District 54 (TX State House of Representatives District 54).
+
+Represents [TX State House of Representatives District 54](/us/states/tx/districts/house/54.md).
 
 ## Sources
 

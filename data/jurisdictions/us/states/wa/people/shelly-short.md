@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 7"
+represents: "us/states/wa/districts/senate/7"
 tenure:
   start: "2017-02-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelly Short
 
 Current WA Senate District 7 (WA State Senate District 7).
+
+Represents [WA State Senate District 7](/us/states/wa/districts/senate/7.md).
 
 ## Sources
 

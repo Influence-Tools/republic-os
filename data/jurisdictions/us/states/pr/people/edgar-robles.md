@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 14"
+represents: "us/states/pr/districts/house/14"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Edgar Robles
 
 Current PR House District 14 (PR State House of Representatives District 14).
+
+Represents [PR State House of Representatives District 14](/us/states/pr/districts/house/14.md).
 
 ## Sources
 

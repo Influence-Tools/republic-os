@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 63"
+represents: "us/states/ri/districts/house/63"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Kazarian
 
 Current RI House District 63 (RI State House of Representatives District 63).
+
+Represents [RI State House of Representatives District 63](/us/states/ri/districts/house/63.md).
 
 ## Sources
 

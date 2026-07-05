@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 5"
+represents: "us/states/mo/districts/senate/5"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Roberts
 
 Current MO Senate District 5 (MO State Senate District 5).
+
+Represents [MO State Senate District 5](/us/states/mo/districts/senate/5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 99"
+represents: "us/states/la/districts/house/99"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Candace Newell
 
 Current LA House District 99 (LA State House of Representatives District 99).
+
+Represents [LA State House of Representatives District 99](/us/states/la/districts/house/99.md).
 
 ## Sources
 

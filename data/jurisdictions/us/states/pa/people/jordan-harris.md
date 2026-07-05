@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 186"
+represents: "us/states/pa/districts/house/186"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jordan Harris
 
 Current PA House District 186 (PA State House of Representatives District 186).
+
+Represents [PA State House of Representatives District 186](/us/states/pa/districts/house/186.md).
 
 ## Sources
 

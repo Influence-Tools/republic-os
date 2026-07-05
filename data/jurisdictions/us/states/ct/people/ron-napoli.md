@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 73"
+represents: "us/states/ct/districts/house/73"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Napoli
 
 Current CT House District 73 (CT State House of Representatives District 73).
+
+Represents [CT State House of Representatives District 73](/us/states/ct/districts/house/73.md).
 
 ## Sources
 

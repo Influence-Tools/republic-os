@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 42"
+represents: "us/states/ny/districts/house/42"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rodneyse Bichotte Hermelyn
 
 Current NY House District 42 (NY State House of Representatives District 42).
+
+Represents [NY State House of Representatives District 42](/us/states/ny/districts/house/42.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 10"
+represents: "us/states/ks/districts/senate/10"
 tenure:
   start: "2020-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Thompson
 
 Current KS Senate District 10 (KS State Senate District 10).
+
+Represents [KS State Senate District 10](/us/states/ks/districts/senate/10.md).
 
 ## Sources
 

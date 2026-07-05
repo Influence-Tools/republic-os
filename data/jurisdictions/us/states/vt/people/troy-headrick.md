@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-15"
+represents: "us/states/vt/districts/house/chittenden-15"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Troy Headrick
 
 Current VT House District Chittenden-15 (VT State House of Representatives District Chittenden-15).
+
+Represents [VT State House of Representatives District Chittenden-15](/us/states/vt/districts/house/chittenden-15.md).
 
 ## Sources
 

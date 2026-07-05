@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 13"
+represents: "us/states/ok/districts/senate/13"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Wingard
 
 Current OK Senate District 13 (OK State Senate District 13).
+
+Represents [OK State Senate District 13](/us/states/ok/districts/senate/13.md).
 
 ## Sources
 

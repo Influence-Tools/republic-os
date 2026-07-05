@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 25"
+represents: "us/states/ks/districts/house/25"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rui Xu
 
 Current KS House District 25 (KS State House of Representatives District 25).
+
+Represents [KS State House of Representatives District 25](/us/states/ks/districts/house/25.md).
 
 ## Sources
 

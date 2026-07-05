@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District K"
+represents: "us/states/ak/districts/senate/k"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Wielechowski
 
 Current AK Senate District K (AK State Senate District K).
+
+Represents [AK State Senate District K](/us/states/ak/districts/senate/k.md).
 
 ## Sources
 

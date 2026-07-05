@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 1B"
+represents: "us/states/mn/districts/house/1b"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Gander
 
 Current MN House District 1B (MN State House of Representatives District 1B).
+
+Represents [MN State House of Representatives District 1B](/us/states/mn/districts/house/1b.md).
 
 ## Sources
 

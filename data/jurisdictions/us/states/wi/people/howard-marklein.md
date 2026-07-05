@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 17"
+represents: "us/states/wi/districts/senate/17"
 tenure:
   start: "2015-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Howard Marklein
 
 Current WI Senate District 17 (WI State Senate District 17).
+
+Represents [WI State Senate District 17](/us/states/wi/districts/senate/17.md).
 
 ## Sources
 

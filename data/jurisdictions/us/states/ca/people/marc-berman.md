@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 23"
+represents: "us/states/ca/districts/house/23"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marc Berman
 
 Current CA House District 23 (CA State House of Representatives District 23).
+
+Represents [CA State House of Representatives District 23](/us/states/ca/districts/house/23.md).
 
 ## Sources
 

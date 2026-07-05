@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 136"
+represents: "us/states/ct/districts/house/136"
 tenure:
   start: "2011-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Steinberg
 
 Current CT House District 136 (CT State House of Representatives District 136).
+
+Represents [CT State House of Representatives District 136](/us/states/ct/districts/house/136.md).
 
 ## Sources
 

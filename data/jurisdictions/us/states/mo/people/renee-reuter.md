@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 112"
+represents: "us/states/mo/districts/house/112"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Renee Reuter
 
 Current MO House District 112 (MO State House of Representatives District 112).
+
+Represents [MO State House of Representatives District 112](/us/states/mo/districts/house/112.md).
 
 ## Sources
 

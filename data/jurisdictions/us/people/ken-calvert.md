@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 41"
+represents: "us/states/ca/districts/41"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Ken Calvert
 
 Current U.S. House of Representatives - CA-41 (Congressional District 41).
+
+Represents [Congressional District 41](/us/states/ca/districts/41.md).
 
 ## Committees
 

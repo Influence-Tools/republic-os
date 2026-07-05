@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 26"
+represents: "us/states/az/districts/house/26"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cesar Aguilar
 
 Current AZ House District 26 (AZ State House of Representatives District 26).
+
+Represents [AZ State House of Representatives District 26](/us/states/az/districts/house/26.md).
 
 ## Sources
 

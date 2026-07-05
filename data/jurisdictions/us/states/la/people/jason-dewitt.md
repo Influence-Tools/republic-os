@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 25"
+represents: "us/states/la/districts/house/25"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason DeWitt
 
 Current LA House District 25 (LA State House of Representatives District 25).
+
+Represents [LA State House of Representatives District 25](/us/states/la/districts/house/25.md).
 
 ## Sources
 

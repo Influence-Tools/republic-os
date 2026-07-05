@@ -22,9 +22,36 @@ demographics:
   race_native: 202
   hispanic: 20367
   bachelors_plus: 52232
+districts:
+  - to: "us/states/in/districts/01"
+    rel: in-district
+    area_weight: 0.8036
+  - to: "us/states/in/districts/senate/5"
+    rel: in-district
+    area_weight: 0.5225
+  - to: "us/states/in/districts/senate/4"
+    rel: in-district
+    area_weight: 0.2815
+  - to: "us/states/in/districts/house/4"
+    rel: in-district
+    area_weight: 0.3461
+  - to: "us/states/in/districts/house/9"
+    rel: in-district
+    area_weight: 0.142
+  - to: "us/states/in/districts/house/10"
+    rel: in-district
+    area_weight: 0.1395
+  - to: "us/states/in/districts/house/19"
+    rel: in-district
+    area_weight: 0.1227
+  - to: "us/states/in/districts/house/11"
+    rel: in-district
+    area_weight: 0.0537
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, in]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction.
 | Hispanic/Latino | 20367 |
 | Bachelor's or higher | 52232 |
 
+## Districts
+
+- [IN-01](/us/states/in/districts/01.md) — 80% (congressional)
+- [IN Senate District 5](/us/states/in/districts/senate/5.md) — 52% (state senate)
+- [IN Senate District 4](/us/states/in/districts/senate/4.md) — 28% (state senate)
+- [IN House District 4](/us/states/in/districts/house/4.md) — 35% (state house)
+- [IN House District 9](/us/states/in/districts/house/9.md) — 14% (state house)
+- [IN House District 10](/us/states/in/districts/house/10.md) — 14% (state house)
+- [IN House District 19](/us/states/in/districts/house/19.md) — 12% (state house)
+- [IN House District 11](/us/states/in/districts/house/11.md) — 5% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

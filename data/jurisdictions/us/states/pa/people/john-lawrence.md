@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 13"
+represents: "us/states/pa/districts/house/13"
 tenure:
   start: "2010-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lawrence
 
 Current PA House District 13 (PA State House of Representatives District 13).
+
+Represents [PA State House of Representatives District 13](/us/states/pa/districts/house/13.md).
 
 ## Sources
 

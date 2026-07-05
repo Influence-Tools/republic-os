@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 15"
+represents: "us/states/ks/districts/senate/15"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Virgil Peck
 
 Current KS Senate District 15 (KS State Senate District 15).
+
+Represents [KS State Senate District 15](/us/states/ks/districts/senate/15.md).
 
 ## Sources
 

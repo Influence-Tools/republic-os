@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 11"
+represents: "us/states/or/districts/house/11"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jami Cate
 
 Current OR House District 11 (OR State House of Representatives District 11).
+
+Represents [OR State House of Representatives District 11](/us/states/or/districts/house/11.md).
 
 ## Sources
 

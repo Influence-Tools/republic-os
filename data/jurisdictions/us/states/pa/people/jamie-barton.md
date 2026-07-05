@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 124"
+represents: "us/states/pa/districts/house/124"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Barton
 
 Current PA House District 124 (PA State House of Representatives District 124).
+
+Represents [PA State House of Representatives District 124](/us/states/pa/districts/house/124.md).
 
 ## Sources
 

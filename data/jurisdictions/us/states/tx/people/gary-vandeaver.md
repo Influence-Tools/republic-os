@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 1"
+represents: "us/states/tx/districts/house/1"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary VanDeaver
 
 Current TX House District 1 (TX State House of Representatives District 1).
+
+Represents [TX State House of Representatives District 1](/us/states/tx/districts/house/1.md).
 
 ## Sources
 

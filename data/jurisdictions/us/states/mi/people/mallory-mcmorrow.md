@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 8"
+represents: "us/states/mi/districts/senate/8"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mallory McMorrow
 
 Current MI Senate District 8 (MI State Senate District 8).
+
+Represents [MI State Senate District 8](/us/states/mi/districts/senate/8.md).
 
 ## Sources
 

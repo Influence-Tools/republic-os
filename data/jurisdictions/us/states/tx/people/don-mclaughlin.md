@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 80"
+represents: "us/states/tx/districts/house/80"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don McLaughlin
 
 Current TX House District 80 (TX State House of Representatives District 80).
+
+Represents [TX State House of Representatives District 80](/us/states/tx/districts/house/80.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 24"
+represents: "us/states/id/districts/senate/24"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Glenneda Zuiderveld
 
 Current ID Senate District 24 (ID State Senate District 24).
+
+Represents [ID State Senate District 24](/us/states/id/districts/senate/24.md).
 
 ## Sources
 

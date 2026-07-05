@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 11"
+represents: "us/states/wv/districts/senate/11"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robbie Morris
 
 Current WV Senate District 11 (WV State Senate District 11).
+
+Represents [WV State Senate District 11](/us/states/wv/districts/senate/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 8th Norfolk"
+represents: "us/states/ma/districts/house/8th-norfolk"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ted Philips
 
 Current MA House District 8th Norfolk (MA State House of Representatives District 8th Norfolk).
+
+Represents [MA State House of Representatives District 8th Norfolk](/us/states/ma/districts/house/8th-norfolk.md).
 
 ## Sources
 

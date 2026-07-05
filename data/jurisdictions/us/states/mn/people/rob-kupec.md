@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 4"
+represents: "us/states/mn/districts/senate/4"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Kupec
 
 Current MN Senate District 4 (MN State Senate District 4).
+
+Represents [MN State Senate District 4](/us/states/mn/districts/senate/4.md).
 
 ## Sources
 

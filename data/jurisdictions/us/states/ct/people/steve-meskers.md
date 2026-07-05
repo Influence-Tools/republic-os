@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 150"
+represents: "us/states/ct/districts/house/150"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Meskers
 
 Current CT House District 150 (CT State House of Representatives District 150).
+
+Represents [CT State House of Representatives District 150](/us/states/ct/districts/house/150.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 3"
+represents: "us/states/pr/districts/house/3"
 tenure:
   start: "2022-12-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cheíto Hernández
 
 Current PR House District 3 (PR State House of Representatives District 3).
+
+Represents [PR State House of Representatives District 3](/us/states/pr/districts/house/3.md).
 
 ## Sources
 

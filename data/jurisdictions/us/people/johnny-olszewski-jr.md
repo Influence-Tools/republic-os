@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 2"
+represents: "us/states/md/districts/02"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Johnny Olszewski, Jr.
 
 Current U.S. House of Representatives - MD-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/md/districts/02.md).
 
 ## Committees
 

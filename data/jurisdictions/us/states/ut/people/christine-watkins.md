@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 67"
+represents: "us/states/ut/districts/house/67"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christine Watkins
 
 Current UT House District 67 (UT State House of Representatives District 67).
+
+Represents [UT State House of Representatives District 67](/us/states/ut/districts/house/67.md).
 
 ## Sources
 

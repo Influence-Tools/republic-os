@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 118"
+represents: "us/states/me/districts/house/118"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yusuf Yusuf
 
 Current ME House District 118 (ME State House of Representatives District 118).
+
+Represents [ME State House of Representatives District 118](/us/states/me/districts/house/118.md).
 
 ## Sources
 

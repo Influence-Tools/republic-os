@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 21"
+represents: "us/states/ct/districts/senate/21"
 tenure:
   start: "2025-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Perillo
 
 Current CT Senate District 21 (CT State Senate District 21).
+
+Represents [CT State Senate District 21](/us/states/ct/districts/senate/21.md).
 
 ## Sources
 

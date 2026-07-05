@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 5"
+represents: "us/states/ks/districts/senate/5"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Klemp
 
 Current KS Senate District 5 (KS State Senate District 5).
+
+Represents [KS State Senate District 5](/us/states/ks/districts/senate/5.md).
 
 ## Sources
 

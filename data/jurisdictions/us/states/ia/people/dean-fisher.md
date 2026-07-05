@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 53"
+represents: "us/states/ia/districts/house/53"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dean Fisher
 
 Current IA House District 53 (IA State House of Representatives District 53).
+
+Represents [IA State House of Representatives District 53](/us/states/ia/districts/house/53.md).
 
 ## Sources
 

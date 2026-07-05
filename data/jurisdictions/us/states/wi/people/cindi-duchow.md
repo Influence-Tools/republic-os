@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 97"
+represents: "us/states/wi/districts/house/97"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindi Duchow
 
 Current WI House District 97 (WI State House of Representatives District 97).
+
+Represents [WI State House of Representatives District 97](/us/states/wi/districts/house/97.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 89"
+represents: "us/states/mo/districts/house/89"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Hruza
 
 Current MO House District 89 (MO State House of Representatives District 89).
+
+Represents [MO State House of Representatives District 89](/us/states/mo/districts/house/89.md).
 
 ## Sources
 

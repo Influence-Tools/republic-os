@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 36"
+represents: "us/states/wa/districts/house/36"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julia Reed
 
 Current WA House District 36 (WA State House of Representatives District 36).
+
+Represents [WA State House of Representatives District 36](/us/states/wa/districts/house/36.md).
 
 ## Sources
 

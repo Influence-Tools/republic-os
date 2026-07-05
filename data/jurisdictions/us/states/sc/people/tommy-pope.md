@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 47"
+represents: "us/states/sc/districts/house/47"
 tenure:
   start: "2010-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tommy Pope
 
 Current SC House District 47 (SC State House of Representatives District 47).
+
+Represents [SC State House of Representatives District 47](/us/states/sc/districts/house/47.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 21"
+represents: "us/states/pr/districts/house/21"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Omayra Martínez
 
 Current PR House District 21 (PR State House of Representatives District 21).
+
+Represents [PR State House of Representatives District 21](/us/states/pr/districts/house/21.md).
 
 ## Sources
 

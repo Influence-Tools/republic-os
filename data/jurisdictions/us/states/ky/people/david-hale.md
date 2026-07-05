@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 74"
+represents: "us/states/ky/districts/house/74"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Hale
 
 Current KY House District 74 (KY State House of Representatives District 74).
+
+Represents [KY State House of Representatives District 74](/us/states/ky/districts/house/74.md).
 
 ## Sources
 

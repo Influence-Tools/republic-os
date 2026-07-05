@@ -22,9 +22,33 @@ demographics:
   race_native: 238
   hispanic: 7273
   bachelors_plus: 25948
+districts:
+  - to: "us/states/ky/districts/02"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ky/districts/senate/10"
+    rel: in-district
+    area_weight: 0.9995
+  - to: "us/states/ky/districts/house/18"
+    rel: in-district
+    area_weight: 0.4165
+  - to: "us/states/ky/districts/house/10"
+    rel: in-district
+    area_weight: 0.2477
+  - to: "us/states/ky/districts/house/25"
+    rel: in-district
+    area_weight: 0.1663
+  - to: "us/states/ky/districts/house/26"
+    rel: in-district
+    area_weight: 0.1549
+  - to: "us/states/ky/districts/house/27"
+    rel: in-district
+    area_weight: 0.0145
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ky]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 7273 |
 | Bachelor's or higher | 25948 |
 
+## Districts
+
+- [KY-02](/us/states/ky/districts/02.md) — 100% (congressional)
+- [KY Senate District 10](/us/states/ky/districts/senate/10.md) — 100% (state senate)
+- [KY House District 18](/us/states/ky/districts/house/18.md) — 42% (state house)
+- [KY House District 10](/us/states/ky/districts/house/10.md) — 25% (state house)
+- [KY House District 25](/us/states/ky/districts/house/25.md) — 17% (state house)
+- [KY House District 26](/us/states/ky/districts/house/26.md) — 15% (state house)
+- [KY House District 27](/us/states/ky/districts/house/27.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 33"
+represents: "us/states/ny/districts/senate/33"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gustavo Rivera
 
 Current NY Senate District 33 (NY State Senate District 33).
+
+Represents [NY State Senate District 33](/us/states/ny/districts/senate/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 37"
+represents: "us/states/ia/districts/house/37"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barb Kniff McCulla
 
 Current IA House District 37 (IA State House of Representatives District 37).
+
+Represents [IA State House of Representatives District 37](/us/states/ia/districts/house/37.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 80"
+represents: "us/states/il/districts/house/80"
 tenure:
   start: "2009-03-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony DeLuca
 
 Current IL House District 80 (IL State House of Representatives District 80).
+
+Represents [IL State House of Representatives District 80](/us/states/il/districts/house/80.md).
 
 ## Sources
 

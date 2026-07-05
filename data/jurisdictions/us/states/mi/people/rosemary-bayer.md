@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 13"
+represents: "us/states/mi/districts/senate/13"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rosemary Bayer
 
 Current MI Senate District 13 (MI State Senate District 13).
+
+Represents [MI State Senate District 13](/us/states/mi/districts/senate/13.md).
 
 ## Sources
 

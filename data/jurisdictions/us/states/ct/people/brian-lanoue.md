@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 45"
+represents: "us/states/ct/districts/house/45"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Lanoue
 
 Current CT House District 45 (CT State House of Representatives District 45).
+
+Represents [CT State House of Representatives District 45](/us/states/ct/districts/house/45.md).
 
 ## Sources
 

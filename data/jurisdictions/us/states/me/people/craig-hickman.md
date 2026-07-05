@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 14"
+represents: "us/states/me/districts/senate/14"
 tenure:
   start: "2021-03-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Hickman
 
 Current ME Senate District 14 (ME State Senate District 14).
+
+Represents [ME State Senate District 14](/us/states/me/districts/senate/14.md).
 
 ## Sources
 

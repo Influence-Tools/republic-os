@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Grand Isle-Chittenden"
+represents: "us/states/vt/districts/house/grand-isle-chittenden"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Morgan
 
 Current VT House District Grand Isle-Chittenden (VT State House of Representatives District Grand Isle-Chittenden).
+
+Represents [VT State House of Representatives District Grand Isle-Chittenden](/us/states/vt/districts/house/grand-isle-chittenden.md).
 
 ## Sources
 

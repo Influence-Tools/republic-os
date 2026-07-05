@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 4"
+represents: "us/states/nc/districts/senate/4"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Buck Newton
 
 Current NC Senate District 4 (NC State Senate District 4).
+
+Represents [NC State Senate District 4](/us/states/nc/districts/senate/4.md).
 
 ## Sources
 

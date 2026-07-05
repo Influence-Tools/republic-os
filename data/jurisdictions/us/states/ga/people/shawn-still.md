@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 48"
+represents: "us/states/ga/districts/senate/48"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shawn Still
 
 Current GA Senate District 48 (GA State Senate District 48).
+
+Represents [GA State Senate District 48](/us/states/ga/districts/senate/48.md).
 
 ## Sources
 

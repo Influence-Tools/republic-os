@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 34"
+represents: "us/states/sd/districts/senate/34"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Taffy Howard
 
 Current SD Senate District 34 (SD State Senate District 34).
+
+Represents [SD State Senate District 34](/us/states/sd/districts/senate/34.md).
 
 ## Sources
 

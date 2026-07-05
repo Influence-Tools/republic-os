@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 3A"
+represents: "us/states/id/districts/house/3a"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vito Barbieri
 
 Current ID House District 3A (ID State House of Representatives District 3A).
+
+Represents [ID State House of Representatives District 3A](/us/states/id/districts/house/3a.md).
 
 ## Sources
 

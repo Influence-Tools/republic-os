@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 33"
+represents: "us/states/ca/districts/33"
 leadership:
   - role: "House Democratic Caucus Chair"
     body: "H"
@@ -50,6 +51,8 @@ timestamp: "2026-07-04"
 # Pete Aguilar
 
 Current U.S. House of Representatives - CA-33 (Congressional District 33).
+
+Represents [Congressional District 33](/us/states/ca/districts/33.md).
 
 ## Leadership
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 35"
+represents: "us/states/la/districts/senate/35"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Morris
 
 Current LA Senate District 35 (LA State Senate District 35).
+
+Represents [LA State Senate District 35](/us/states/la/districts/senate/35.md).
 
 ## Sources
 

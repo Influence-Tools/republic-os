@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 118"
+represents: "us/states/pa/districts/house/118"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Haddock
 
 Current PA House District 118 (PA State House of Representatives District 118).
+
+Represents [PA State House of Representatives District 118](/us/states/pa/districts/house/118.md).
 
 ## Sources
 

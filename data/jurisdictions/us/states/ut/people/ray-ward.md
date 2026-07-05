@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 19"
+represents: "us/states/ut/districts/house/19"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Ward
 
 Current UT House District 19 (UT State House of Representatives District 19).
+
+Represents [UT State House of Representatives District 19](/us/states/ut/districts/house/19.md).
 
 ## Sources
 

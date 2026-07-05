@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 30"
+represents: "us/states/nj/districts/senate/30"
 tenure:
   start: "1993-10-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Singer
 
 Current NJ Senate District 30 (NJ State Senate District 30).
+
+Represents [NJ State Senate District 30](/us/states/nj/districts/senate/30.md).
 
 ## Sources
 

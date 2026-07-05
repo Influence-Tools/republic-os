@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 6"
+represents: "us/states/ga/districts/06"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Lucy McBath
 
 Current U.S. House of Representatives - GA-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/ga/districts/06.md).
 
 ## Committees
 

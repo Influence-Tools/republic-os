@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 36B"
+represents: "us/states/mn/districts/house/36b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brion Curran
 
 Current MN House District 36B (MN State House of Representatives District 36B).
+
+Represents [MN State House of Representatives District 36B](/us/states/mn/districts/house/36b.md).
 
 ## Sources
 

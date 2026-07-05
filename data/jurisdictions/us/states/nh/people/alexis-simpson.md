@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 33"
+represents: "us/states/nh/districts/house/rockingham-33"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alexis Simpson
 
 Current NH House District Rockingham 33 (NH State House of Representatives District Rockingham 33).
+
+Represents [NH State House of Representatives District Rockingham 33](/us/states/nh/districts/house/rockingham-33.md).
 
 ## Sources
 

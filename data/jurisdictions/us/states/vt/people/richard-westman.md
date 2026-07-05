@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Lamoille"
+represents: "us/states/vt/districts/senate/lamoille"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Westman
 
 Current VT Senate District Lamoille (VT State Senate District Lamoille).
+
+Represents [VT State Senate District Lamoille](/us/states/vt/districts/senate/lamoille.md).
 
 ## Sources
 

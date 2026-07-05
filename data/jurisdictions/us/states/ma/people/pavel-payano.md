@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District First Essex"
+represents: "us/states/ma/districts/senate/first-essex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pavel Payano
 
 Current MA Senate District First Essex (MA State Senate District First Essex).
+
+Represents [MA State Senate District First Essex](/us/states/ma/districts/senate/first-essex.md).
 
 ## Sources
 

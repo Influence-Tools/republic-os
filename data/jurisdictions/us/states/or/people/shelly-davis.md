@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 15"
+represents: "us/states/or/districts/house/15"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelly Davis
 
 Current OR House District 15 (OR State House of Representatives District 15).
+
+Represents [OR State House of Representatives District 15](/us/states/or/districts/house/15.md).
 
 ## Sources
 

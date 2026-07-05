@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 89"
+represents: "us/states/ga/districts/house/89"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Omari Crawford
 
 Current GA House District 89 (GA State House of Representatives District 89).
+
+Represents [GA State House of Representatives District 89](/us/states/ga/districts/house/89.md).
 
 ## Sources
 

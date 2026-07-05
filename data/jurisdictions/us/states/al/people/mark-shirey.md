@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 100"
+represents: "us/states/al/districts/house/100"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Shirey
 
 Current AL House District 100 (AL State House of Representatives District 100).
+
+Represents [AL State House of Representatives District 100](/us/states/al/districts/house/100.md).
 
 ## Sources
 

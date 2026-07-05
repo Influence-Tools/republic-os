@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 4"
+represents: "us/states/wa/districts/house/4"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Suzanne Schmidt
 
 Current WA House District 4 (WA State House of Representatives District 4).
+
+Represents [WA State House of Representatives District 4](/us/states/wa/districts/house/4.md).
 
 ## Sources
 

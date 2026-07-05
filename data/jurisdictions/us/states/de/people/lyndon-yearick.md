@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 34"
+represents: "us/states/de/districts/house/34"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lyndon Yearick
 
 Current DE House District 34 (DE State House of Representatives District 34).
+
+Represents [DE State House of Representatives District 34](/us/states/de/districts/house/34.md).
 
 ## Sources
 

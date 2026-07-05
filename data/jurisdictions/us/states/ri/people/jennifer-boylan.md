@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 66"
+represents: "us/states/ri/districts/house/66"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Boylan
 
 Current RI House District 66 (RI State House of Representatives District 66).
+
+Represents [RI State House of Representatives District 66](/us/states/ri/districts/house/66.md).
 
 ## Sources
 

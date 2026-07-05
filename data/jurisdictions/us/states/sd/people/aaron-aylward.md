@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 6"
+represents: "us/states/sd/districts/house/6"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Aylward
 
 Current SD House District 6 (SD State House of Representatives District 6).
+
+Represents [SD State House of Representatives District 6](/us/states/sd/districts/house/6.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 75"
+represents: "us/states/ct/districts/house/75"
 tenure:
   start: "2016-04-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Geraldo Reyes
 
 Current CT House District 75 (CT State House of Representatives District 75).
+
+Represents [CT State House of Representatives District 75](/us/states/ct/districts/house/75.md).
 
 ## Sources
 

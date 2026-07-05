@@ -22,9 +22,30 @@ demographics:
   race_native: 625
   hispanic: 13270
   bachelors_plus: 58582
+districts:
+  - to: "us/states/ny/districts/20"
+    rel: in-district
+    area_weight: 0.9962
+  - to: "us/states/ny/districts/senate/46"
+    rel: in-district
+    area_weight: 0.8756
+  - to: "us/states/ny/districts/senate/44"
+    rel: in-district
+    area_weight: 0.1242
+  - to: "us/states/ny/districts/house/111"
+    rel: in-district
+    area_weight: 0.6815
+  - to: "us/states/ny/districts/house/112"
+    rel: in-district
+    area_weight: 0.2325
+  - to: "us/states/ny/districts/house/110"
+    rel: in-district
+    area_weight: 0.0859
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ny]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 13270 |
 | Bachelor's or higher | 58582 |
 
+## Districts
+
+- [NY-20](/us/states/ny/districts/20.md) — 100% (congressional)
+- [NY Senate District 46](/us/states/ny/districts/senate/46.md) — 88% (state senate)
+- [NY Senate District 44](/us/states/ny/districts/senate/44.md) — 12% (state senate)
+- [NY House District 111](/us/states/ny/districts/house/111.md) — 68% (state house)
+- [NY House District 112](/us/states/ny/districts/house/112.md) — 23% (state house)
+- [NY House District 110](/us/states/ny/districts/house/110.md) — 9% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 27"
+represents: "us/states/il/districts/senate/27"
 tenure:
   start: "2024-05-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Walker
 
 Current IL Senate District 27 (IL State Senate District 27).
+
+Represents [IL State Senate District 27](/us/states/il/districts/senate/27.md).
 
 ## Sources
 

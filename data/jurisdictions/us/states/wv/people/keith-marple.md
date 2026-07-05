@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 69"
+represents: "us/states/wv/districts/house/69"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Marple
 
 Current WV House District 69 (WV State House of Representatives District 69).
+
+Represents [WV State House of Representatives District 69](/us/states/wv/districts/house/69.md).
 
 ## Sources
 

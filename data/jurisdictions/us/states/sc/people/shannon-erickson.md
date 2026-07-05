@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 124"
+represents: "us/states/sc/districts/house/124"
 tenure:
   start: "2007-10-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shannon Erickson
 
 Current SC House District 124 (SC State House of Representatives District 124).
+
+Represents [SC State House of Representatives District 124](/us/states/sc/districts/house/124.md).
 
 ## Sources
 

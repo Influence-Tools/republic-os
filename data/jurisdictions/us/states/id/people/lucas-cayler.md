@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 11B"
+represents: "us/states/id/districts/house/11b"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lucas Cayler
 
 Current ID House District 11B (ID State House of Representatives District 11B).
+
+Represents [ID State House of Representatives District 11B](/us/states/id/districts/house/11b.md).
 
 ## Sources
 

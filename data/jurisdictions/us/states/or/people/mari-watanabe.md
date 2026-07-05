@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 34"
+represents: "us/states/or/districts/house/34"
 tenure:
   start: "2025-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mari Watanabe
 
 Current OR House District 34 (OR State House of Representatives District 34).
+
+Represents [OR State House of Representatives District 34](/us/states/or/districts/house/34.md).
 
 ## Sources
 

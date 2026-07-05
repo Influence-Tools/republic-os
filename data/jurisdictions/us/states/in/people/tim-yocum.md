@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 42"
+represents: "us/states/in/districts/house/42"
 tenure:
   start: "2025-01-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Yocum
 
 Current IN House District 42 (IN State House of Representatives District 42).
+
+Represents [IN State House of Representatives District 42](/us/states/in/districts/house/42.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 62"
+represents: "us/states/al/districts/house/62"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Lamb
 
 Current AL House District 62 (AL State House of Representatives District 62).
+
+Represents [AL State House of Representatives District 62](/us/states/al/districts/house/62.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 1"
+represents: "us/states/or/districts/senate/1"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Smith
 
 Current OR Senate District 1 (OR State Senate District 1).
+
+Represents [OR State Senate District 1](/us/states/or/districts/senate/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OK"
 district: "Congressional District 4"
+represents: "us/states/ok/districts/04"
 committees:
   - name: "House Committee on Appropriations"
     role: "chair"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Tom Cole
 
 Current U.S. House of Representatives - OK-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ok/districts/04.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 71"
+represents: "us/states/mo/districts/house/71"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # LaDonna Appelbaum
 
 Current MO House District 71 (MO State House of Representatives District 71).
+
+Represents [MO State House of Representatives District 71](/us/states/mo/districts/house/71.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 15"
+represents: "us/states/pa/districts/house/15"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Kail
 
 Current PA House District 15 (PA State House of Representatives District 15).
+
+Represents [PA State House of Representatives District 15](/us/states/pa/districts/house/15.md).
 
 ## Sources
 

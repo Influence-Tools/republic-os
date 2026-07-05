@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 36"
+represents: "us/states/fl/districts/house/36"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rachel Plakon
 
 Current FL House District 36 (FL State House of Representatives District 36).
+
+Represents [FL State House of Representatives District 36](/us/states/fl/districts/house/36.md).
 
 ## Sources
 

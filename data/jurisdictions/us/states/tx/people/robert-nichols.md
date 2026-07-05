@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 3"
+represents: "us/states/tx/districts/senate/3"
 tenure:
   start: "2007-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Nichols
 
 Current TX Senate District 3 (TX State Senate District 3).
+
+Represents [TX State Senate District 3](/us/states/tx/districts/senate/3.md).
 
 ## Sources
 

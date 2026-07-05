@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 59"
+represents: "us/states/sc/districts/house/59"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Alexander
 
 Current SC House District 59 (SC State House of Representatives District 59).
+
+Represents [SC State House of Representatives District 59](/us/states/sc/districts/house/59.md).
 
 ## Sources
 

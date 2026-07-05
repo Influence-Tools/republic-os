@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 81"
+represents: "us/states/ar/districts/house/81"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # R.J. Hawk
 
 Current AR House District 81 (AR State House of Representatives District 81).
+
+Represents [AR State House of Representatives District 81](/us/states/ar/districts/house/81.md).
 
 ## Sources
 

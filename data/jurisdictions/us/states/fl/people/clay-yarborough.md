@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 4"
+represents: "us/states/fl/districts/senate/4"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clay Yarborough
 
 Current FL Senate District 4 (FL State Senate District 4).
+
+Represents [FL State Senate District 4](/us/states/fl/districts/senate/4.md).
 
 ## Sources
 

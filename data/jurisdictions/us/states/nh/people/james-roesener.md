@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 22"
+represents: "us/states/nh/districts/house/merrimack-22"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Roesener
 
 Current NH House District Merrimack 22 (NH State House of Representatives District Merrimack 22).
+
+Represents [NH State House of Representatives District Merrimack 22](/us/states/nh/districts/house/merrimack-22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 71"
+represents: "us/states/ny/districts/house/71"
 tenure:
   start: "2017-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Taylor
 
 Current NY House District 71 (NY State House of Representatives District 71).
+
+Represents [NY State House of Representatives District 71](/us/states/ny/districts/house/71.md).
 
 ## Sources
 

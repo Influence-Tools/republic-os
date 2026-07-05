@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 18"
+represents: "us/states/in/districts/senate/18"
 tenure:
   start: "2019-09-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacey Donato
 
 Current IN Senate District 18 (IN State Senate District 18).
+
+Represents [IN State Senate District 18](/us/states/in/districts/senate/18.md).
 
 ## Sources
 

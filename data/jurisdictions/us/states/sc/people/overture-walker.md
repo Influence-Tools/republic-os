@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 22"
+represents: "us/states/sc/districts/senate/22"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Overture Walker
 
 Current SC Senate District 22 (SC State Senate District 22).
+
+Represents [SC State Senate District 22](/us/states/sc/districts/senate/22.md).
 
 ## Sources
 

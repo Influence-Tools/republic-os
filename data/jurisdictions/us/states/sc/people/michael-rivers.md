@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 121"
+represents: "us/states/sc/districts/house/121"
 tenure:
   start: "2016-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Rivers
 
 Current SC House District 121 (SC State House of Representatives District 121).
+
+Represents [SC State House of Representatives District 121](/us/states/sc/districts/house/121.md).
 
 ## Sources
 

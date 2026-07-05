@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 14"
+represents: "us/states/il/districts/14"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Lauren Underwood
 
 Current U.S. House of Representatives - IL-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/il/districts/14.md).
 
 ## Committees
 

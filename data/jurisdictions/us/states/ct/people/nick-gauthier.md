@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 38"
+represents: "us/states/ct/districts/house/38"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Gauthier
 
 Current CT House District 38 (CT State House of Representatives District 38).
+
+Represents [CT State House of Representatives District 38](/us/states/ct/districts/house/38.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 66"
+represents: "us/states/mn/districts/senate/66"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clare Oumou Verbeten
 
 Current MN Senate District 66 (MN State Senate District 66).
+
+Represents [MN State Senate District 66](/us/states/mn/districts/senate/66.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 97"
+represents: "us/states/oh/districts/house/97"
 tenure:
   start: "2019-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Holmes
 
 Current OH House District 97 (OH State House of Representatives District 97).
+
+Represents [OH State House of Representatives District 97](/us/states/oh/districts/house/97.md).
 
 ## Sources
 

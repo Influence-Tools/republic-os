@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 25"
+represents: "us/states/tx/districts/senate/25"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Campbell
 
 Current TX Senate District 25 (TX State Senate District 25).
+
+Represents [TX State Senate District 25](/us/states/tx/districts/senate/25.md).
 
 ## Sources
 

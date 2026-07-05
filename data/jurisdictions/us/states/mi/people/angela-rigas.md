@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 79"
+represents: "us/states/mi/districts/house/79"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Rigas
 
 Current MI House District 79 (MI State House of Representatives District 79).
+
+Represents [MI State House of Representatives District 79](/us/states/mi/districts/house/79.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 12"
+represents: "us/states/ok/districts/senate/12"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Gollihare
 
 Current OK Senate District 12 (OK State Senate District 12).
+
+Represents [OK State Senate District 12](/us/states/ok/districts/senate/12.md).
 
 ## Sources
 

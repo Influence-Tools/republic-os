@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 92"
+represents: "us/states/ms/districts/house/92"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Currie
 
 Current MS House District 92 (MS State House of Representatives District 92).
+
+Represents [MS State House of Representatives District 92](/us/states/ms/districts/house/92.md).
 
 ## Sources
 

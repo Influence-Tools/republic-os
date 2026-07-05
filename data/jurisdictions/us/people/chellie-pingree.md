@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "ME"
 district: "Congressional District 1"
+represents: "us/states/me/districts/01"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Chellie Pingree
 
 Current U.S. House of Representatives - ME-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/me/districts/01.md).
 
 ## Committees
 

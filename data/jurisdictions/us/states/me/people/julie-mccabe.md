@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 93"
+represents: "us/states/me/districts/house/93"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie McCabe
 
 Current ME House District 93 (ME State House of Representatives District 93).
+
+Represents [ME State House of Representatives District 93](/us/states/me/districts/house/93.md).
 
 ## Sources
 

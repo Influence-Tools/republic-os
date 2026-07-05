@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 24"
+represents: "us/states/ut/districts/house/24"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Grant Miller
 
 Current UT House District 24 (UT State House of Representatives District 24).
+
+Represents [UT State House of Representatives District 24](/us/states/ut/districts/house/24.md).
 
 ## Sources
 

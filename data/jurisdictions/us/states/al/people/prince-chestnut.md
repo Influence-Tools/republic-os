@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 67"
+represents: "us/states/al/districts/house/67"
 tenure:
   start: "2017-04-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Prince Chestnut
 
 Current AL House District 67 (AL State House of Representatives District 67).
+
+Represents [AL State House of Representatives District 67](/us/states/al/districts/house/67.md).
 
 ## Sources
 

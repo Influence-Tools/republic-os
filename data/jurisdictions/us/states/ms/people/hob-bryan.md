@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 7"
+represents: "us/states/ms/districts/senate/7"
 tenure:
   start: "1984-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hob Bryan
 
 Current MS Senate District 7 (MS State Senate District 7).
+
+Represents [MS State Senate District 7](/us/states/ms/districts/senate/7.md).
 
 ## Sources
 

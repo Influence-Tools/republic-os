@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 30"
+represents: "us/states/al/districts/house/30"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Lipscomb
 
 Current AL House District 30 (AL State House of Representatives District 30).
+
+Represents [AL State House of Representatives District 30](/us/states/al/districts/house/30.md).
 
 ## Sources
 

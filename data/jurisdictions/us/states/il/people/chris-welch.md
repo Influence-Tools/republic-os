@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 7"
+represents: "us/states/il/districts/house/7"
 tenure:
   start: "2013-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Welch
 
 Current IL House District 7 (IL State House of Representatives District 7).
+
+Represents [IL State House of Representatives District 7](/us/states/il/districts/house/7.md).
 
 ## Sources
 

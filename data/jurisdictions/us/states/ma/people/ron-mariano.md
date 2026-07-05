@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Norfolk"
+represents: "us/states/ma/districts/house/3rd-norfolk"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Mariano
 
 Current MA House District 3rd Norfolk (MA State House of Representatives District 3rd Norfolk).
+
+Represents [MA State House of Representatives District 3rd Norfolk](/us/states/ma/districts/house/3rd-norfolk.md).
 
 ## Sources
 

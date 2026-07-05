@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 6"
+represents: "us/states/id/districts/senate/6"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Foreman
 
 Current ID Senate District 6 (ID State Senate District 6).
+
+Represents [ID State Senate District 6](/us/states/id/districts/senate/6.md).
 
 ## Sources
 

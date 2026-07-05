@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 91"
+represents: "us/states/ny/districts/house/91"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Otis
 
 Current NY House District 91 (NY State House of Representatives District 91).
+
+Represents [NY State House of Representatives District 91](/us/states/ny/districts/house/91.md).
 
 ## Sources
 

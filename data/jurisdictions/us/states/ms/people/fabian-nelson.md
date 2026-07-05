@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 66"
+represents: "us/states/ms/districts/house/66"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fabian Nelson
 
 Current MS House District 66 (MS State House of Representatives District 66).
+
+Represents [MS State House of Representatives District 66](/us/states/ms/districts/house/66.md).
 
 ## Sources
 

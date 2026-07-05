@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 40"
+represents: "us/states/ks/districts/senate/40"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Billinger
 
 Current KS Senate District 40 (KS State Senate District 40).
+
+Represents [KS State Senate District 40](/us/states/ks/districts/senate/40.md).
 
 ## Sources
 

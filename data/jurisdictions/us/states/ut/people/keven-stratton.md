@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 24"
+represents: "us/states/ut/districts/senate/24"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keven Stratton
 
 Current UT Senate District 24 (UT State Senate District 24).
+
+Represents [UT State Senate District 24](/us/states/ut/districts/senate/24.md).
 
 ## Sources
 

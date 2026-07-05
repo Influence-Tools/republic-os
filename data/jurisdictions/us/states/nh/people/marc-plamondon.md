@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 3"
+represents: "us/states/nh/districts/house/hillsborough-3"
 tenure:
   start: "2023-05-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marc Plamondon
 
 Current NH House District Hillsborough 3 (NH State House of Representatives District Hillsborough 3).
+
+Represents [NH State House of Representatives District Hillsborough 3](/us/states/nh/districts/house/hillsborough-3.md).
 
 ## Sources
 

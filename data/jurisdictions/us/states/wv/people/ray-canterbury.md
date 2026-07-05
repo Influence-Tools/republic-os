@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 47"
+represents: "us/states/wv/districts/house/47"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Canterbury
 
 Current WV House District 47 (WV State House of Representatives District 47).
+
+Represents [WV State House of Representatives District 47](/us/states/wv/districts/house/47.md).
 
 ## Sources
 

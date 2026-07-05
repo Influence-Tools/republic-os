@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 25"
+represents: "us/states/mo/districts/senate/25"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Bean
 
 Current MO Senate District 25 (MO State Senate District 25).
+
+Represents [MO State Senate District 25](/us/states/mo/districts/senate/25.md).
 
 ## Sources
 

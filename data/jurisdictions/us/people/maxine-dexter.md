@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OR"
 district: "Congressional District 3"
+represents: "us/states/or/districts/03"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Maxine Dexter
 
 Current U.S. House of Representatives - OR-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/or/districts/03.md).
 
 ## Committees
 

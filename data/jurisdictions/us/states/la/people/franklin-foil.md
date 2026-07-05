@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 16"
+represents: "us/states/la/districts/senate/16"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Franklin Foil
 
 Current LA Senate District 16 (LA State Senate District 16).
+
+Represents [LA State Senate District 16](/us/states/la/districts/senate/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 5"
+represents: "us/states/ok/districts/senate/5"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Burns
 
 Current OK Senate District 5 (OK State Senate District 5).
+
+Represents [OK State Senate District 5](/us/states/ok/districts/senate/5.md).
 
 ## Sources
 

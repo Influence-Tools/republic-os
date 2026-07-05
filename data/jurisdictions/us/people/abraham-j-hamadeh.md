@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AZ"
 district: "Congressional District 8"
+represents: "us/states/az/districts/08"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Abraham J. Hamadeh
 
 Current U.S. House of Representatives - AZ-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/az/districts/08.md).
 
 ## Committees
 

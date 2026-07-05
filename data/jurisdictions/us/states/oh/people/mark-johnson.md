@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 92"
+represents: "us/states/oh/districts/house/92"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Johnson
 
 Current OH House District 92 (OH State House of Representatives District 92).
+
+Represents [OH State House of Representatives District 92](/us/states/oh/districts/house/92.md).
 
 ## Sources
 

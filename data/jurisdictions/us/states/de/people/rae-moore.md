@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 8"
+represents: "us/states/de/districts/house/8"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rae Moore
 
 Current DE House District 8 (DE State House of Representatives District 8).
+
+Represents [DE State House of Representatives District 8](/us/states/de/districts/house/8.md).
 
 ## Sources
 

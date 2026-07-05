@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 8"
+represents: "us/states/sc/districts/house/8"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Chapman
 
 Current SC House District 8 (SC State House of Representatives District 8).
+
+Represents [SC State House of Representatives District 8](/us/states/sc/districts/house/8.md).
 
 ## Sources
 

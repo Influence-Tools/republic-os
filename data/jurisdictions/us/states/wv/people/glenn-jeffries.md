@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 8"
+represents: "us/states/wv/districts/senate/8"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Glenn Jeffries
 
 Current WV Senate District 8 (WV State Senate District 8).
+
+Represents [WV State Senate District 8](/us/states/wv/districts/senate/8.md).
 
 ## Sources
 

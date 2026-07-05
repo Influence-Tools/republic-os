@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 37"
+represents: "us/states/pa/districts/senate/37"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Devlin Robinson
 
 Current PA Senate District 37 (PA State Senate District 37).
+
+Represents [PA State Senate District 37](/us/states/pa/districts/senate/37.md).
 
 ## Sources
 

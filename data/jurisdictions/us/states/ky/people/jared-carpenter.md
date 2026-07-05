@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 34"
+represents: "us/states/ky/districts/senate/34"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Carpenter
 
 Current KY Senate District 34 (KY State Senate District 34).
+
+Represents [KY State Senate District 34](/us/states/ky/districts/senate/34.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 18"
+represents: "us/states/in/districts/house/18"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Abbott
 
 Current IN House District 18 (IN State House of Representatives District 18).
+
+Represents [IN State House of Representatives District 18](/us/states/in/districts/house/18.md).
 
 ## Sources
 

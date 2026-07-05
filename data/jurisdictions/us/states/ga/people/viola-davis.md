@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 87"
+represents: "us/states/ga/districts/house/87"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Viola Davis
 
 Current GA House District 87 (GA State House of Representatives District 87).
+
+Represents [GA State House of Representatives District 87](/us/states/ga/districts/house/87.md).
 
 ## Sources
 

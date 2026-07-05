@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 53A"
+represents: "us/states/mn/districts/house/53a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Clardy
 
 Current MN House District 53A (MN State House of Representatives District 53A).
+
+Represents [MN State House of Representatives District 53A](/us/states/mn/districts/house/53a.md).
 
 ## Sources
 

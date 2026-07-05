@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 31"
+represents: "us/states/fl/districts/senate/31"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gayle Harrell
 
 Current FL Senate District 31 (FL State Senate District 31).
+
+Represents [FL State Senate District 31](/us/states/fl/districts/senate/31.md).
 
 ## Sources
 

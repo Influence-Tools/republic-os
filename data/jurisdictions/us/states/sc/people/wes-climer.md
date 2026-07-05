@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 15"
+represents: "us/states/sc/districts/senate/15"
 tenure:
   start: "2016-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wes Climer
 
 Current SC Senate District 15 (SC State Senate District 15).
+
+Represents [SC State Senate District 15](/us/states/sc/districts/senate/15.md).
 
 ## Sources
 

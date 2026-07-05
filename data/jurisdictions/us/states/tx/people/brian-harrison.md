@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 10"
+represents: "us/states/tx/districts/house/10"
 tenure:
   start: "2021-10-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Harrison
 
 Current TX House District 10 (TX State House of Representatives District 10).
+
+Represents [TX State House of Representatives District 10](/us/states/tx/districts/house/10.md).
 
 ## Sources
 

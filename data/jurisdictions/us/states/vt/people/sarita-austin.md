@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-19"
+represents: "us/states/vt/districts/house/chittenden-19"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarita Austin
 
 Current VT House District Chittenden-19 (VT State House of Representatives District Chittenden-19).
+
+Represents [VT State House of Representatives District Chittenden-19](/us/states/vt/districts/house/chittenden-19.md).
 
 ## Sources
 

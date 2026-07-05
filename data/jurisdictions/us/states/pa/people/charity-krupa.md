@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 51"
+represents: "us/states/pa/districts/house/51"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charity Krupa
 
 Current PA House District 51 (PA State House of Representatives District 51).
+
+Represents [PA State House of Representatives District 51](/us/states/pa/districts/house/51.md).
 
 ## Sources
 

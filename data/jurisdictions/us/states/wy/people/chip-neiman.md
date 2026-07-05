@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 1"
+represents: "us/states/wy/districts/house/1"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chip Neiman
 
 Current WY House District 1 (WY State House of Representatives District 1).
+
+Represents [WY State House of Representatives District 1](/us/states/wy/districts/house/1.md).
 
 ## Sources
 

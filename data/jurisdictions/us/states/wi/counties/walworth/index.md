@@ -22,9 +22,36 @@ demographics:
   race_native: 392
   hispanic: 12821
   bachelors_plus: 31136
+districts:
+  - to: "us/states/wi/districts/01"
+    rel: in-district
+    area_weight: 0.9376
+  - to: "us/states/wi/districts/05"
+    rel: in-district
+    area_weight: 0.0623
+  - to: "us/states/wi/districts/senate/11"
+    rel: in-district
+    area_weight: 0.8719
+  - to: "us/states/wi/districts/senate/15"
+    rel: in-district
+    area_weight: 0.1247
+  - to: "us/states/wi/districts/house/31"
+    rel: in-district
+    area_weight: 0.5362
+  - to: "us/states/wi/districts/house/33"
+    rel: in-district
+    area_weight: 0.2735
+  - to: "us/states/wi/districts/house/43"
+    rel: in-district
+    area_weight: 0.1247
+  - to: "us/states/wi/districts/house/32"
+    rel: in-district
+    area_weight: 0.0623
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wi]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 12821 |
 | Bachelor's or higher | 31136 |
 
+## Districts
+
+- [WI-01](/us/states/wi/districts/01.md) — 94% (congressional)
+- [WI-05](/us/states/wi/districts/05.md) — 6% (congressional)
+- [WI Senate District 11](/us/states/wi/districts/senate/11.md) — 87% (state senate)
+- [WI Senate District 15](/us/states/wi/districts/senate/15.md) — 12% (state senate)
+- [WI House District 31](/us/states/wi/districts/house/31.md) — 54% (state house)
+- [WI House District 33](/us/states/wi/districts/house/33.md) — 27% (state house)
+- [WI House District 43](/us/states/wi/districts/house/43.md) — 12% (state house)
+- [WI House District 32](/us/states/wi/districts/house/32.md) — 6% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

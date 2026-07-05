@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 4"
+represents: "us/states/wi/districts/04"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Gwen Moore
 
 Current U.S. House of Representatives - WI-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/wi/districts/04.md).
 
 ## Committees
 

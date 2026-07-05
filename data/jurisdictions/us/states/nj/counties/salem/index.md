@@ -22,9 +22,21 @@ demographics:
   race_native: 122
   hispanic: 7362
   bachelors_plus: 15284
+districts:
+  - to: "us/states/nj/districts/02"
+    rel: in-district
+    area_weight: 0.9354
+  - to: "us/states/nj/districts/senate/3"
+    rel: in-district
+    area_weight: 0.9352
+  - to: "us/states/nj/districts/house/3"
+    rel: in-district
+    area_weight: 0.9352
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nj]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 7362 |
 | Bachelor's or higher | 15284 |
 
+## Districts
+
+- [NJ-02](/us/states/nj/districts/02.md) — 94% (congressional)
+- [NJ Senate District 3](/us/states/nj/districts/senate/3.md) — 94% (state senate)
+- [NJ House District 3](/us/states/nj/districts/house/3.md) — 94% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

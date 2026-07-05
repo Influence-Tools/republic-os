@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 17"
+represents: "us/states/ak/districts/house/17"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zack Fields
 
 Current AK House District 17 (AK State House of Representatives District 17).
+
+Represents [AK State House of Representatives District 17](/us/states/ak/districts/house/17.md).
 
 ## Sources
 

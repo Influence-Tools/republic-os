@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 28"
+represents: "us/states/mi/districts/senate/28"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Singh
 
 Current MI Senate District 28 (MI State Senate District 28).
+
+Represents [MI State Senate District 28](/us/states/mi/districts/senate/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 98"
+represents: "us/states/mo/districts/house/98"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaclyn Zimmermann
 
 Current MO House District 98 (MO State House of Representatives District 98).
+
+Represents [MO State House of Representatives District 98](/us/states/mo/districts/house/98.md).
 
 ## Sources
 

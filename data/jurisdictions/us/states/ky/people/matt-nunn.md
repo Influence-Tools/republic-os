@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 17"
+represents: "us/states/ky/districts/senate/17"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Nunn
 
 Current KY Senate District 17 (KY State Senate District 17).
+
+Represents [KY State Senate District 17](/us/states/ky/districts/senate/17.md).
 
 ## Sources
 

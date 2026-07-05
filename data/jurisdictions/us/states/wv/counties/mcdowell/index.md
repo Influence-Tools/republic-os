@@ -22,9 +22,24 @@ demographics:
   race_native: 17
   hispanic: 373
   bachelors_plus: 1216
+districts:
+  - to: "us/states/wv/districts/01"
+    rel: in-district
+    area_weight: 0.9991
+  - to: "us/states/wv/districts/senate/6"
+    rel: in-district
+    area_weight: 0.999
+  - to: "us/states/wv/districts/house/36"
+    rel: in-district
+    area_weight: 0.9732
+  - to: "us/states/wv/districts/house/34"
+    rel: in-district
+    area_weight: 0.0258
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wv]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 373 |
 | Bachelor's or higher | 1216 |
 
+## Districts
+
+- [WV-01](/us/states/wv/districts/01.md) — 100% (congressional)
+- [WV Senate District 6](/us/states/wv/districts/senate/6.md) — 100% (state senate)
+- [WV House District 36](/us/states/wv/districts/house/36.md) — 97% (state house)
+- [WV House District 34](/us/states/wv/districts/house/34.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

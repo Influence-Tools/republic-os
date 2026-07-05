@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 53"
+represents: "us/states/oh/districts/house/53"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Miller
 
 Current OH House District 53 (OH State House of Representatives District 53).
+
+Represents [OH State House of Representatives District 53](/us/states/oh/districts/house/53.md).
 
 ## Sources
 

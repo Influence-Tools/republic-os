@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 41"
+represents: "us/states/mo/districts/house/41"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doyle Justus
 
 Current MO House District 41 (MO State House of Representatives District 41).
+
+Represents [MO State House of Representatives District 41](/us/states/mo/districts/house/41.md).
 
 ## Sources
 

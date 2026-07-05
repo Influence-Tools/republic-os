@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 16"
+represents: "us/states/va/districts/house/16"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Krizek
 
 Current VA House District 16 (VA State House of Representatives District 16).
+
+Represents [VA State House of Representatives District 16](/us/states/va/districts/house/16.md).
 
 ## Sources
 

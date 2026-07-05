@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 23"
+represents: "us/states/fl/districts/senate/23"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Burgess
 
 Current FL Senate District 23 (FL State Senate District 23).
+
+Represents [FL State Senate District 23](/us/states/fl/districts/senate/23.md).
 
 ## Sources
 

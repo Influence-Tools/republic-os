@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 7th Middlesex"
+represents: "us/states/ma/districts/house/7th-middlesex"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Lewis
 
 Current MA House District 7th Middlesex (MA State House of Representatives District 7th Middlesex).
+
+Represents [MA State House of Representatives District 7th Middlesex](/us/states/ma/districts/house/7th-middlesex.md).
 
 ## Sources
 

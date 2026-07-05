@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 30"
+represents: "us/states/ct/districts/house/30"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Veach
 
 Current CT House District 30 (CT State House of Representatives District 30).
+
+Represents [CT State House of Representatives District 30](/us/states/ct/districts/house/30.md).
 
 ## Sources
 

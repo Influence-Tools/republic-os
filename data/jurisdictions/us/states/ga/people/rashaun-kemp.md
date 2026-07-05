@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 38"
+represents: "us/states/ga/districts/senate/38"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # RaShaun Kemp
 
 Current GA Senate District 38 (GA State Senate District 38).
+
+Represents [GA State Senate District 38](/us/states/ga/districts/senate/38.md).
 
 ## Sources
 

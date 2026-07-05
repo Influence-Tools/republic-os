@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 4"
+represents: "us/states/wv/districts/house/4"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Flanigan
 
 Current WV House District 4 (WV State House of Representatives District 4).
+
+Represents [WV State House of Representatives District 4](/us/states/wv/districts/house/4.md).
 
 ## Sources
 

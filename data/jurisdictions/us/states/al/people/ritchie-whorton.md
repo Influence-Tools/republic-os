@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 22"
+represents: "us/states/al/districts/house/22"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ritchie Whorton
 
 Current AL House District 22 (AL State House of Representatives District 22).
+
+Represents [AL State House of Representatives District 22](/us/states/al/districts/house/22.md).
 
 ## Sources
 

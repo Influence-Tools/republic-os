@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 30"
+represents: "us/states/wa/districts/senate/30"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Claire Wilson
 
 Current WA Senate District 30 (WA State Senate District 30).
+
+Represents [WA State Senate District 30](/us/states/wa/districts/senate/30.md).
 
 ## Sources
 

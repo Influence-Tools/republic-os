@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 88"
+represents: "us/states/sc/districts/house/88"
 tenure:
   start: "2026-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lastinger
 
 Current SC House District 88 (SC State House of Representatives District 88).
+
+Represents [SC State House of Representatives District 88](/us/states/sc/districts/house/88.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 52"
+represents: "us/states/wv/districts/house/52"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tresa Howell
 
 Current WV House District 52 (WV State House of Representatives District 52).
+
+Represents [WV State House of Representatives District 52](/us/states/wv/districts/house/52.md).
 
 ## Sources
 

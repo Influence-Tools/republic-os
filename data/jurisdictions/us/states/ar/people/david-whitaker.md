@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 22"
+represents: "us/states/ar/districts/house/22"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Whitaker
 
 Current AR House District 22 (AR State House of Representatives District 22).
+
+Represents [AR State House of Representatives District 22](/us/states/ar/districts/house/22.md).
 
 ## Sources
 

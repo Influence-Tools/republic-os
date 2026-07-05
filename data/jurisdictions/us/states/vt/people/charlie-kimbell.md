@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-5"
+represents: "us/states/vt/districts/house/windsor-5"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlie Kimbell
 
 Current VT House District Windsor-5 (VT State House of Representatives District Windsor-5).
+
+Represents [VT State House of Representatives District Windsor-5](/us/states/vt/districts/house/windsor-5.md).
 
 ## Sources
 

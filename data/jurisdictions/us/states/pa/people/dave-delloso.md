@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 162"
+represents: "us/states/pa/districts/house/162"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Delloso
 
 Current PA House District 162 (PA State House of Representatives District 162).
+
+Represents [PA State House of Representatives District 162](/us/states/pa/districts/house/162.md).
 
 ## Sources
 

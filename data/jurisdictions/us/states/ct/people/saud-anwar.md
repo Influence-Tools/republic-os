@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 3"
+represents: "us/states/ct/districts/senate/3"
 tenure:
   start: "2019-03-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Saud Anwar
 
 Current CT Senate District 3 (CT State Senate District 3).
+
+Represents [CT State Senate District 3](/us/states/ct/districts/senate/3.md).
 
 ## Sources
 

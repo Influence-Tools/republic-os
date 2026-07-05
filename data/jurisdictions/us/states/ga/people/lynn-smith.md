@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 70"
+represents: "us/states/ga/districts/house/70"
 tenure:
   start: "1997-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynn Smith
 
 Current GA House District 70 (GA State House of Representatives District 70).
+
+Represents [GA State House of Representatives District 70](/us/states/ga/districts/house/70.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 19"
+represents: "us/states/wy/districts/senate/19"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Laursen
 
 Current WY Senate District 19 (WY State Senate District 19).
+
+Represents [WY State Senate District 19](/us/states/wy/districts/senate/19.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 46"
+represents: "us/states/ok/districts/house/46"
 tenure:
   start: "2017-09-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jacob Rosecrants
 
 Current OK House District 46 (OK State House of Representatives District 46).
+
+Represents [OK State House of Representatives District 46](/us/states/ok/districts/house/46.md).
 
 ## Sources
 

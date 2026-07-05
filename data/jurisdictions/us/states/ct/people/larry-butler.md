@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 72"
+represents: "us/states/ct/districts/house/72"
 tenure:
   start: "2007-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Butler
 
 Current CT House District 72 (CT State House of Representatives District 72).
+
+Represents [CT State House of Representatives District 72](/us/states/ct/districts/house/72.md).
 
 ## Sources
 

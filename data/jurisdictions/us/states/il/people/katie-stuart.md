@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 112"
+represents: "us/states/il/districts/house/112"
 tenure:
   start: "2017-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Stuart
 
 Current IL House District 112 (IL State House of Representatives District 112).
+
+Represents [IL State House of Representatives District 112](/us/states/il/districts/house/112.md).
 
 ## Sources
 

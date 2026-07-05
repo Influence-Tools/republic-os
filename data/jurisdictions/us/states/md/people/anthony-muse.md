@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 26"
+represents: "us/states/md/districts/senate/26"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony Muse
 
 Current MD Senate District 26 (MD State Senate District 26).
+
+Represents [MD State Senate District 26](/us/states/md/districts/senate/26.md).
 
 ## Sources
 

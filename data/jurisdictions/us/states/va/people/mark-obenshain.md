@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 2"
+represents: "us/states/va/districts/senate/2"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Obenshain
 
 Current VA Senate District 2 (VA State Senate District 2).
+
+Represents [VA State Senate District 2](/us/states/va/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 39"
+represents: "us/states/de/districts/house/39"
 tenure:
   start: "2007-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Short
 
 Current DE House District 39 (DE State House of Representatives District 39).
+
+Represents [DE State House of Representatives District 39](/us/states/de/districts/house/39.md).
 
 ## Sources
 

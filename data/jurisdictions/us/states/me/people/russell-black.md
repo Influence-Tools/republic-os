@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 5"
+represents: "us/states/me/districts/senate/5"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russell Black
 
 Current ME Senate District 5 (ME State Senate District 5).
+
+Represents [ME State Senate District 5](/us/states/me/districts/senate/5.md).
 
 ## Sources
 

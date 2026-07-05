@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 34"
+represents: "us/states/ca/districts/senate/34"
 tenure:
   start: "2018-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Umberg
 
 Current CA Senate District 34 (CA State Senate District 34).
+
+Represents [CA State Senate District 34](/us/states/ca/districts/senate/34.md).
 
 ## Sources
 

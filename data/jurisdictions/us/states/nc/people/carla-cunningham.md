@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 106"
+represents: "us/states/nc/districts/house/106"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carla Cunningham
 
 Current NC House District 106 (NC State House of Representatives District 106).
+
+Represents [NC State House of Representatives District 106](/us/states/nc/districts/house/106.md).
 
 ## Sources
 

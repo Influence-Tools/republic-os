@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 134"
+represents: "us/states/ct/districts/house/134"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Keitt
 
 Current CT House District 134 (CT State House of Representatives District 134).
+
+Represents [CT State House of Representatives District 134](/us/states/ct/districts/house/134.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 3"
+represents: "us/states/mo/districts/senate/3"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Henderson
 
 Current MO Senate District 3 (MO State Senate District 3).
+
+Represents [MO State Senate District 3](/us/states/mo/districts/senate/3.md).
 
 ## Sources
 

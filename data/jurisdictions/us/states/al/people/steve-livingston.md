@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 8"
+represents: "us/states/al/districts/senate/8"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Livingston
 
 Current AL Senate District 8 (AL State Senate District 8).
+
+Represents [AL State Senate District 8](/us/states/al/districts/senate/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 101"
+represents: "us/states/mo/districts/house/101"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Keathley
 
 Current MO House District 101 (MO State House of Representatives District 101).
+
+Represents [MO State House of Representatives District 101](/us/states/mo/districts/house/101.md).
 
 ## Sources
 

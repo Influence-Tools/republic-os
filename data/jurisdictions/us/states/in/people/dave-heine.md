@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 85"
+represents: "us/states/in/districts/house/85"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Heine
 
 Current IN House District 85 (IN State House of Representatives District 85).
+
+Represents [IN State House of Representatives District 85](/us/states/in/districts/house/85.md).
 
 ## Sources
 

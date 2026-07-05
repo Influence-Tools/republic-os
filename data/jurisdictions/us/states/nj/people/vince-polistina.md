@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 2"
+represents: "us/states/nj/districts/senate/2"
 tenure:
   start: "2021-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vince Polistina
 
 Current NJ Senate District 2 (NJ State Senate District 2).
+
+Represents [NJ State Senate District 2](/us/states/nj/districts/senate/2.md).
 
 ## Sources
 

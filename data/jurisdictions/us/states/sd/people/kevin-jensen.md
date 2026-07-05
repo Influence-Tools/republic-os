@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 16"
+represents: "us/states/sd/districts/senate/16"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Jensen
 
 Current SD Senate District 16 (SD State Senate District 16).
+
+Represents [SD State Senate District 16](/us/states/sd/districts/senate/16.md).
 
 ## Sources
 

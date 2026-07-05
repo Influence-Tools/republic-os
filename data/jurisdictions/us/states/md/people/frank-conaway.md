@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 40"
+represents: "us/states/md/districts/house/40"
 tenure:
   start: "2007-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Conaway
 
 Current MD House District 40 (MD State House of Representatives District 40).
+
+Represents [MD State House of Representatives District 40](/us/states/md/districts/house/40.md).
 
 ## Sources
 

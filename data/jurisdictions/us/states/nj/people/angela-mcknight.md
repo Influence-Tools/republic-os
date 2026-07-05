@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 31"
+represents: "us/states/nj/districts/senate/31"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela McKnight
 
 Current NJ Senate District 31 (NJ State Senate District 31).
+
+Represents [NJ State Senate District 31](/us/states/nj/districts/senate/31.md).
 
 ## Sources
 

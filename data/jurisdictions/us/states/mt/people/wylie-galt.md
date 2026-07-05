@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 39"
+represents: "us/states/mt/districts/senate/39"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wylie Galt
 
 Current MT Senate District 39 (MT State Senate District 39).
+
+Represents [MT State Senate District 39](/us/states/mt/districts/senate/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 94"
+represents: "us/states/la/districts/house/94"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Hilferty
 
 Current LA House District 94 (LA State House of Representatives District 94).
+
+Represents [LA State House of Representatives District 94](/us/states/la/districts/house/94.md).
 
 ## Sources
 

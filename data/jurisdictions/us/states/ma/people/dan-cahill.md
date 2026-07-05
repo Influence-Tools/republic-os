@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 10th Essex"
+represents: "us/states/ma/districts/house/10th-essex"
 tenure:
   start: "2016-05-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Cahill
 
 Current MA House District 10th Essex (MA State House of Representatives District 10th Essex).
+
+Represents [MA State House of Representatives District 10th Essex](/us/states/ma/districts/house/10th-essex.md).
 
 ## Sources
 

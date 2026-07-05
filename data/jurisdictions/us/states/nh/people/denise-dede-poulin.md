@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 6"
+represents: "us/states/nh/districts/house/strafford-6"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise DeDe-Poulin
 
 Current NH House District Strafford 6 (NH State House of Representatives District Strafford 6).
+
+Represents [NH State House of Representatives District Strafford 6](/us/states/nh/districts/house/strafford-6.md).
 
 ## Sources
 

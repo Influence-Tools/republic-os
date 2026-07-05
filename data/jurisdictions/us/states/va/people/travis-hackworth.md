@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 5"
+represents: "us/states/va/districts/senate/5"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Hackworth
 
 Current VA Senate District 5 (VA State Senate District 5).
+
+Represents [VA State Senate District 5](/us/states/va/districts/senate/5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KS"
 district: "Congressional District 1"
+represents: "us/states/ks/districts/01"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Tracey Mann
 
 Current U.S. House of Representatives - KS-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ks/districts/01.md).
 
 ## Committees
 

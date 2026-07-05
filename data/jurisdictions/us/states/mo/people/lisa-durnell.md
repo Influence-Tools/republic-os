@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 154"
+represents: "us/states/mo/districts/house/154"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Durnell
 
 Current MO House District 154 (MO State House of Representatives District 154).
+
+Represents [MO State House of Representatives District 154](/us/states/mo/districts/house/154.md).
 
 ## Sources
 

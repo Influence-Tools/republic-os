@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-4"
+represents: "us/states/vt/districts/house/chittenden-4"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Pouech
 
 Current VT House District Chittenden-4 (VT State House of Representatives District Chittenden-4).
+
+Represents [VT State House of Representatives District Chittenden-4](/us/states/vt/districts/house/chittenden-4.md).
 
 ## Sources
 

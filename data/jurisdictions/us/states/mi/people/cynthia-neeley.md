@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 70"
+represents: "us/states/mi/districts/house/70"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cynthia Neeley
 
 Current MI House District 70 (MI State House of Representatives District 70).
+
+Represents [MI State House of Representatives District 70](/us/states/mi/districts/house/70.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 51"
+represents: "us/states/ky/districts/house/51"
 tenure:
   start: "2021-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarge Pollock
 
 Current KY House District 51 (KY State House of Representatives District 51).
+
+Represents [KY State House of Representatives District 51](/us/states/ky/districts/house/51.md).
 
 ## Sources
 

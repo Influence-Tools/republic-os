@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 16th Worcester"
+represents: "us/states/ma/districts/house/16th-worcester"
 tenure:
   start: "2013-09-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Donahue
 
 Current MA House District 16th Worcester (MA State House of Representatives District 16th Worcester).
+
+Represents [MA State House of Representatives District 16th Worcester](/us/states/ma/districts/house/16th-worcester.md).
 
 ## Sources
 

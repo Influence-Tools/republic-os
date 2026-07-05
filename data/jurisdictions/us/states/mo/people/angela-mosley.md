@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 13"
+represents: "us/states/mo/districts/senate/13"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Mosley
 
 Current MO Senate District 13 (MO State Senate District 13).
+
+Represents [MO State Senate District 13](/us/states/mo/districts/senate/13.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 27A"
+represents: "us/states/id/districts/house/27a"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Pickett
 
 Current ID House District 27A (ID State House of Representatives District 27A).
+
+Represents [ID State House of Representatives District 27A](/us/states/id/districts/house/27a.md).
 
 ## Sources
 

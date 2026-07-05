@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 38"
+represents: "us/states/ri/districts/senate/38"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Victoria Gu
 
 Current RI Senate District 38 (RI State Senate District 38).
+
+Represents [RI State Senate District 38](/us/states/ri/districts/senate/38.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 39"
+represents: "us/states/wv/districts/house/39"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Smith
 
 Current WV House District 39 (WV State House of Representatives District 39).
+
+Represents [WV State House of Representatives District 39](/us/states/wv/districts/house/39.md).
 
 ## Sources
 

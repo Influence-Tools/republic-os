@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 34th Middlesex"
+represents: "us/states/ma/districts/house/34th-middlesex"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christine Barber
 
 Current MA House District 34th Middlesex (MA State House of Representatives District 34th Middlesex).
+
+Represents [MA State House of Representatives District 34th Middlesex](/us/states/ma/districts/house/34th-middlesex.md).
 
 ## Sources
 

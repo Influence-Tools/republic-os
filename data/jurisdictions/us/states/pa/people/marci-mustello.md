@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 11"
+represents: "us/states/pa/districts/house/11"
 tenure:
   start: "2019-06-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marci Mustello
 
 Current PA House District 11 (PA State House of Representatives District 11).
+
+Represents [PA State House of Representatives District 11](/us/states/pa/districts/house/11.md).
 
 ## Sources
 

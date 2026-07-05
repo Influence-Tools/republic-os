@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 1"
+represents: "us/states/ky/districts/house/1"
 tenure:
   start: "2005-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Rudy
 
 Current KY House District 1 (KY State House of Representatives District 1).
+
+Represents [KY State House of Representatives District 1](/us/states/ky/districts/house/1.md).
 
 ## Sources
 

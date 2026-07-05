@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 80"
+represents: "us/states/wv/districts/house/80"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Williams
 
 Current WV House District 80 (WV State House of Representatives District 80).
+
+Represents [WV State House of Representatives District 80](/us/states/wv/districts/house/80.md).
 
 ## Sources
 

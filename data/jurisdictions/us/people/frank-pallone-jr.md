@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 6"
+represents: "us/states/nj/districts/06"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "ranking-member"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Frank Pallone, Jr.
 
 Current U.S. House of Representatives - NJ-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/nj/districts/06.md).
 
 ## Committees
 

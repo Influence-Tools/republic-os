@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 28"
+represents: "us/states/fl/districts/28"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Carlos A. Gimenez
 
 Current U.S. House of Representatives - FL-28 (Congressional District 28).
+
+Represents [Congressional District 28](/us/states/fl/districts/28.md).
 
 ## Committees
 

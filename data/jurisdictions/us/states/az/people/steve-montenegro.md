@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 29"
+represents: "us/states/az/districts/house/29"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Montenegro
 
 Current AZ House District 29 (AZ State House of Representatives District 29).
+
+Represents [AZ State House of Representatives District 29](/us/states/az/districts/house/29.md).
 
 ## Sources
 

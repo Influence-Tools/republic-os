@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 87"
+represents: "us/states/ct/districts/house/87"
 tenure:
   start: "2011-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Yaccarino
 
 Current CT House District 87 (CT State House of Representatives District 87).
+
+Represents [CT State House of Representatives District 87](/us/states/ct/districts/house/87.md).
 
 ## Sources
 

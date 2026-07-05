@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 48"
+represents: "us/states/nm/districts/house/48"
 tenure:
   start: "2020-07-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tara Luján
 
 Current NM House District 48 (NM State House of Representatives District 48).
+
+Represents [NM State House of Representatives District 48](/us/states/nm/districts/house/48.md).
 
 ## Sources
 

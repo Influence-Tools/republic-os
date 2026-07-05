@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 9"
+represents: "us/states/pr/districts/house/9"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Félix Pacheco
 
 Current PR House District 9 (PR State House of Representatives District 9).
+
+Represents [PR State House of Representatives District 9](/us/states/pr/districts/house/9.md).
 
 ## Sources
 

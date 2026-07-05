@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 4"
+represents: "us/states/ca/districts/04"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Mike Thompson
 
 Current U.S. House of Representatives - CA-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ca/districts/04.md).
 
 ## Committees
 

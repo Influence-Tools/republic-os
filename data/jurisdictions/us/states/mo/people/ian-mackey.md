@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 99"
+represents: "us/states/mo/districts/house/99"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ian Mackey
 
 Current MO House District 99 (MO State House of Representatives District 99).
+
+Represents [MO State House of Representatives District 99](/us/states/mo/districts/house/99.md).
 
 ## Sources
 

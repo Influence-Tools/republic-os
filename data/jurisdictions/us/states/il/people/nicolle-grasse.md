@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 53"
+represents: "us/states/il/districts/house/53"
 tenure:
   start: "2024-06-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicolle Grasse
 
 Current IL House District 53 (IL State House of Representatives District 53).
+
+Represents [IL State House of Representatives District 53](/us/states/il/districts/house/53.md).
 
 ## Sources
 

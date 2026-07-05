@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 92"
+represents: "us/states/nc/districts/house/92"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Brown
 
 Current NC House District 92 (NC State House of Representatives District 92).
+
+Represents [NC State House of Representatives District 92](/us/states/nc/districts/house/92.md).
 
 ## Sources
 

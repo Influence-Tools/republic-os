@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 47"
+represents: "us/states/ok/districts/senate/47"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Hines
 
 Current OK Senate District 47 (OK State Senate District 47).
+
+Represents [OK State Senate District 47](/us/states/ok/districts/senate/47.md).
 
 ## Sources
 

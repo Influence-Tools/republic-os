@@ -22,9 +22,39 @@ demographics:
   race_native: 635
   hispanic: 49253
   bachelors_plus: 108520
+districts:
+  - to: "us/states/pa/districts/07"
+    rel: in-district
+    area_weight: 0.9995
+  - to: "us/states/pa/districts/senate/18"
+    rel: in-district
+    area_weight: 0.6537
+  - to: "us/states/pa/districts/senate/14"
+    rel: in-district
+    area_weight: 0.346
+  - to: "us/states/pa/districts/house/138"
+    rel: in-district
+    area_weight: 0.4651
+  - to: "us/states/pa/districts/house/183"
+    rel: in-district
+    area_weight: 0.2117
+  - to: "us/states/pa/districts/house/137"
+    rel: in-district
+    area_weight: 0.1259
+  - to: "us/states/pa/districts/house/136"
+    rel: in-district
+    area_weight: 0.1141
+  - to: "us/states/pa/districts/house/135"
+    rel: in-district
+    area_weight: 0.054
+  - to: "us/states/pa/districts/house/131"
+    rel: in-district
+    area_weight: 0.0289
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, pa]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 49253 |
 | Bachelor's or higher | 108520 |
 
+## Districts
+
+- [PA-07](/us/states/pa/districts/07.md) — 100% (congressional)
+- [PA Senate District 18](/us/states/pa/districts/senate/18.md) — 65% (state senate)
+- [PA Senate District 14](/us/states/pa/districts/senate/14.md) — 35% (state senate)
+- [PA House District 138](/us/states/pa/districts/house/138.md) — 47% (state house)
+- [PA House District 183](/us/states/pa/districts/house/183.md) — 21% (state house)
+- [PA House District 137](/us/states/pa/districts/house/137.md) — 13% (state house)
+- [PA House District 136](/us/states/pa/districts/house/136.md) — 11% (state house)
+- [PA House District 135](/us/states/pa/districts/house/135.md) — 5% (state house)
+- [PA House District 131](/us/states/pa/districts/house/131.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 16"
+represents: "us/states/tx/districts/senate/16"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathan Johnson
 
 Current TX Senate District 16 (TX State Senate District 16).
+
+Represents [TX State Senate District 16](/us/states/tx/districts/senate/16.md).
 
 ## Sources
 

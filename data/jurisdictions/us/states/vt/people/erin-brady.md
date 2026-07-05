@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-2"
+represents: "us/states/vt/districts/house/chittenden-2"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Brady
 
 Current VT House District Chittenden-2 (VT State House of Representatives District Chittenden-2).
+
+Represents [VT State House of Representatives District Chittenden-2](/us/states/vt/districts/house/chittenden-2.md).
 
 ## Sources
 

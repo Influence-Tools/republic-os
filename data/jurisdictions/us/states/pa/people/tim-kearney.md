@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 26"
+represents: "us/states/pa/districts/senate/26"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Kearney
 
 Current PA Senate District 26 (PA State Senate District 26).
+
+Represents [PA State Senate District 26](/us/states/pa/districts/senate/26.md).
 
 ## Sources
 

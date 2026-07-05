@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 3"
+represents: "us/states/nm/districts/senate/3"
 tenure:
   start: "2019-07-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shannon Pinto
 
 Current NM Senate District 3 (NM State Senate District 3).
+
+Represents [NM State Senate District 3](/us/states/nm/districts/senate/3.md).
 
 ## Sources
 

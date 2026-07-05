@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 2"
+represents: "us/states/tn/districts/house/2"
 tenure:
   start: "2014-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bud Hulsey
 
 Current TN House District 2 (TN State House of Representatives District 2).
+
+Represents [TN State House of Representatives District 2](/us/states/tn/districts/house/2.md).
 
 ## Sources
 

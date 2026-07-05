@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 58"
+represents: "us/states/fl/districts/house/58"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Berfield
 
 Current FL House District 58 (FL State House of Representatives District 58).
+
+Represents [FL State House of Representatives District 58](/us/states/fl/districts/house/58.md).
 
 ## Sources
 

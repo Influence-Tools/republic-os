@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 61"
+represents: "us/states/in/districts/house/61"
 tenure:
   start: "2002-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Pierce
 
 Current IN House District 61 (IN State House of Representatives District 61).
+
+Represents [IN State House of Representatives District 61](/us/states/in/districts/house/61.md).
 
 ## Sources
 

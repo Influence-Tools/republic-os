@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District First Worcester"
+represents: "us/states/ma/districts/senate/first-worcester"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robyn Kennedy
 
 Current MA Senate District First Worcester (MA State Senate District First Worcester).
+
+Represents [MA State Senate District First Worcester](/us/states/ma/districts/senate/first-worcester.md).
 
 ## Sources
 

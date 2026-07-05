@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 76"
+represents: "us/states/mo/districts/house/76"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marlon Anderson
 
 Current MO House District 76 (MO State House of Representatives District 76).
+
+Represents [MO State House of Representatives District 76](/us/states/mo/districts/house/76.md).
 
 ## Sources
 

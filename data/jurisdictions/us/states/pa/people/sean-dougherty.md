@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 172"
+represents: "us/states/pa/districts/house/172"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Dougherty
 
 Current PA House District 172 (PA State House of Representatives District 172).
+
+Represents [PA State House of Representatives District 172](/us/states/pa/districts/house/172.md).
 
 ## Sources
 

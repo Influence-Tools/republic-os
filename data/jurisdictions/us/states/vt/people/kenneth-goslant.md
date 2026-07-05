@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Washington-1"
+represents: "us/states/vt/districts/house/washington-1"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kenneth Goslant
 
 Current VT House District Washington-1 (VT State House of Representatives District Washington-1).
+
+Represents [VT State House of Representatives District Washington-1](/us/states/vt/districts/house/washington-1.md).
 
 ## Sources
 

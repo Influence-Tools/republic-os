@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 16"
+represents: "us/states/tn/districts/house/16"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michele Carringer
 
 Current TN House District 16 (TN State House of Representatives District 16).
+
+Represents [TN State House of Representatives District 16](/us/states/tn/districts/house/16.md).
 
 ## Sources
 

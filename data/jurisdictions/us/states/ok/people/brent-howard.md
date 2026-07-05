@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 38"
+represents: "us/states/ok/districts/senate/38"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Howard
 
 Current OK Senate District 38 (OK State Senate District 38).
+
+Represents [OK State Senate District 38](/us/states/ok/districts/senate/38.md).
 
 ## Sources
 

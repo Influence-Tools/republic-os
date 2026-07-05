@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 137"
+represents: "us/states/mo/districts/house/137"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darin Chappell
 
 Current MO House District 137 (MO State House of Representatives District 137).
+
+Represents [MO State House of Representatives District 137](/us/states/mo/districts/house/137.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 156"
+represents: "us/states/pa/districts/house/156"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Pielli
 
 Current PA House District 156 (PA State House of Representatives District 156).
+
+Represents [PA State House of Representatives District 156](/us/states/pa/districts/house/156.md).
 
 ## Sources
 

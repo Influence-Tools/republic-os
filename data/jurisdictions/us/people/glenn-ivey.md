@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 4"
+represents: "us/states/md/districts/04"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Glenn Ivey
 
 Current U.S. House of Representatives - MD-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/md/districts/04.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 11"
+represents: "us/states/wy/districts/senate/11"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Hicks
 
 Current WY Senate District 11 (WY State Senate District 11).
+
+Represents [WY State Senate District 11](/us/states/wy/districts/senate/11.md).
 
 ## Sources
 

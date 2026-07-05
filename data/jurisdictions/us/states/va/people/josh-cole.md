@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 65"
+represents: "us/states/va/districts/house/65"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Cole
 
 Current VA House District 65 (VA State House of Representatives District 65).
+
+Represents [VA State House of Representatives District 65](/us/states/va/districts/house/65.md).
 
 ## Sources
 

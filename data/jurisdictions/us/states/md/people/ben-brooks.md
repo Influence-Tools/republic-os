@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 10"
+represents: "us/states/md/districts/senate/10"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Brooks
 
 Current MD Senate District 10 (MD State Senate District 10).
+
+Represents [MD State Senate District 10](/us/states/md/districts/senate/10.md).
 
 ## Sources
 

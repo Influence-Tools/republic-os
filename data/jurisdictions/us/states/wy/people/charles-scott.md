@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 30"
+represents: "us/states/wy/districts/senate/30"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charles Scott
 
 Current WY Senate District 30 (WY State Senate District 30).
+
+Represents [WY State Senate District 30](/us/states/wy/districts/senate/30.md).
 
 ## Sources
 

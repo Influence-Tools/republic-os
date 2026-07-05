@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 51"
+represents: "us/states/oh/districts/house/51"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jodi Salvo
 
 Current OH House District 51 (OH State House of Representatives District 51).
+
+Represents [OH State House of Representatives District 51](/us/states/oh/districts/house/51.md).
 
 ## Sources
 

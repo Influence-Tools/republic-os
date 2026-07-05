@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 38"
+represents: "us/states/wa/districts/house/38"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Fosse
 
 Current WA House District 38 (WA State House of Representatives District 38).
+
+Represents [WA State House of Representatives District 38](/us/states/wa/districts/house/38.md).
 
 ## Sources
 

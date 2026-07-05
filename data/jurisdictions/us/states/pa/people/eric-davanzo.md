@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 58"
+represents: "us/states/pa/districts/house/58"
 tenure:
   start: "2020-04-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Davanzo
 
 Current PA House District 58 (PA State House of Representatives District 58).
+
+Represents [PA State House of Representatives District 58](/us/states/pa/districts/house/58.md).
 
 ## Sources
 

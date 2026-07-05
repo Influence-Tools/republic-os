@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 30"
+represents: "us/states/ga/districts/senate/30"
 tenure:
   start: "2024-02-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Bearden
 
 Current GA Senate District 30 (GA State Senate District 30).
+
+Represents [GA State Senate District 30](/us/states/ga/districts/senate/30.md).
 
 ## Sources
 

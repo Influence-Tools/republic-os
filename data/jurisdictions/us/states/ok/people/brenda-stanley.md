@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 42"
+represents: "us/states/ok/districts/senate/42"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brenda Stanley
 
 Current OK Senate District 42 (OK State Senate District 42).
+
+Represents [OK State Senate District 42](/us/states/ok/districts/senate/42.md).
 
 ## Sources
 

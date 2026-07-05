@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 47"
+represents: "us/states/ny/districts/house/47"
 tenure:
   start: "1997-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # William Colton
 
 Current NY House District 47 (NY State House of Representatives District 47).
+
+Represents [NY State House of Representatives District 47](/us/states/ny/districts/house/47.md).
 
 ## Sources
 

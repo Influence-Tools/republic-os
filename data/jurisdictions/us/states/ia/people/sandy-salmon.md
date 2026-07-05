@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 29"
+represents: "us/states/ia/districts/senate/29"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandy Salmon
 
 Current IA Senate District 29 (IA State Senate District 29).
+
+Represents [IA State Senate District 29](/us/states/ia/districts/senate/29.md).
 
 ## Sources
 

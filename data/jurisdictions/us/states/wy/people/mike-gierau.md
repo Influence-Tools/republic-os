@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 17"
+represents: "us/states/wy/districts/senate/17"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Gierau
 
 Current WY Senate District 17 (WY State Senate District 17).
+
+Represents [WY State Senate District 17](/us/states/wy/districts/senate/17.md).
 
 ## Sources
 

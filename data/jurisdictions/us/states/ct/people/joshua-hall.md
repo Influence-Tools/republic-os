@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 7"
+represents: "us/states/ct/districts/house/7"
 tenure:
   start: "2017-04-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joshua Hall
 
 Current CT House District 7 (CT State House of Representatives District 7).
+
+Represents [CT State House of Representatives District 7](/us/states/ct/districts/house/7.md).
 
 ## Sources
 

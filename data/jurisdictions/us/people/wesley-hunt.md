@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 38"
+represents: "us/states/tx/districts/38"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Wesley Hunt
 
 Current U.S. House of Representatives - TX-38 (Congressional District 38).
+
+Represents [Congressional District 38](/us/states/tx/districts/38.md).
 
 ## Committees
 

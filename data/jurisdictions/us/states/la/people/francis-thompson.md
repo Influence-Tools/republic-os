@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 19"
+represents: "us/states/la/districts/house/19"
 tenure:
   start: "2023-03-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Francis Thompson
 
 Current LA House District 19 (LA State House of Representatives District 19).
+
+Represents [LA State House of Representatives District 19](/us/states/la/districts/house/19.md).
 
 ## Sources
 

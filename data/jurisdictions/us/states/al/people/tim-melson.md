@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 1"
+represents: "us/states/al/districts/senate/1"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Melson
 
 Current AL Senate District 1 (AL State Senate District 1).
+
+Represents [AL State Senate District 1](/us/states/al/districts/senate/1.md).
 
 ## Sources
 

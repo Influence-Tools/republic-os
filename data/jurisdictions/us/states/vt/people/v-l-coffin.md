@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-2"
+represents: "us/states/vt/districts/house/windsor-2"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # V.L. Coffin
 
 Current VT House District Windsor-2 (VT State House of Representatives District Windsor-2).
+
+Represents [VT State House of Representatives District Windsor-2](/us/states/vt/districts/house/windsor-2.md).
 
 ## Sources
 

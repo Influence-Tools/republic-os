@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 79"
+represents: "us/states/nc/districts/house/79"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Kidwell
 
 Current NC House District 79 (NC State House of Representatives District 79).
+
+Represents [NC State House of Representatives District 79](/us/states/nc/districts/house/79.md).
 
 ## Sources
 

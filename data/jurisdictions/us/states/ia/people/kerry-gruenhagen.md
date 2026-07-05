@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 41"
+represents: "us/states/ia/districts/senate/41"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kerry Gruenhagen
 
 Current IA Senate District 41 (IA State Senate District 41).
+
+Represents [IA State Senate District 41](/us/states/ia/districts/senate/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 42"
+represents: "us/states/ms/districts/house/42"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Mickens
 
 Current MS House District 42 (MS State House of Representatives District 42).
+
+Represents [MS State House of Representatives District 42](/us/states/ms/districts/house/42.md).
 
 ## Sources
 

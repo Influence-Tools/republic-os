@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 82"
+represents: "us/states/ct/districts/house/82"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Quinn
 
 Current CT House District 82 (CT State House of Representatives District 82).
+
+Represents [CT State House of Representatives District 82](/us/states/ct/districts/house/82.md).
 
 ## Sources
 

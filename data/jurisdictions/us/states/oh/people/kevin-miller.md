@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 69"
+represents: "us/states/oh/districts/house/69"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Miller
 
 Current OH House District 69 (OH State House of Representatives District 69).
+
+Represents [OH State House of Representatives District 69](/us/states/oh/districts/house/69.md).
 
 ## Sources
 

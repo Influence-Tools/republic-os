@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 34"
+represents: "us/states/ms/districts/house/34"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Horan
 
 Current MS House District 34 (MS State House of Representatives District 34).
+
+Represents [MS State House of Representatives District 34](/us/states/ms/districts/house/34.md).
 
 ## Sources
 

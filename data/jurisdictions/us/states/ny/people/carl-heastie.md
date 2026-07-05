@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 83"
+represents: "us/states/ny/districts/house/83"
 tenure:
   start: "2001-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Heastie
 
 Current NY House District 83 (NY State House of Representatives District 83).
+
+Represents [NY State House of Representatives District 83](/us/states/ny/districts/house/83.md).
 
 ## Sources
 

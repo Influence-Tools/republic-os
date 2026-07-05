@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 29"
+represents: "us/states/wi/districts/senate/29"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cory Tomczyk
 
 Current WI Senate District 29 (WI State Senate District 29).
+
+Represents [WI State Senate District 29](/us/states/wi/districts/senate/29.md).
 
 ## Sources
 

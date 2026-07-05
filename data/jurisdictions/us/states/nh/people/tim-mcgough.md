@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 11"
+represents: "us/states/nh/districts/senate/11"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim McGough
 
 Current NH Senate District 11 (NH State Senate District 11).
+
+Represents [NH State Senate District 11](/us/states/nh/districts/senate/11.md).
 
 ## Sources
 

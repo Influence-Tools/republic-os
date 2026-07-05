@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 3"
+represents: "us/states/wa/districts/senate/3"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcus Riccelli
 
 Current WA Senate District 3 (WA State Senate District 3).
+
+Represents [WA State Senate District 3](/us/states/wa/districts/senate/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 10"
+represents: "us/states/ms/districts/senate/10"
 tenure:
   start: "2017-12-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neil Whaley
 
 Current MS Senate District 10 (MS State Senate District 10).
+
+Represents [MS State Senate District 10](/us/states/ms/districts/senate/10.md).
 
 ## Sources
 

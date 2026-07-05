@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District M"
+represents: "us/states/ak/districts/senate/m"
 tenure:
   start: "2025-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cathy Tilton
 
 Current AK Senate District M (AK State Senate District M).
+
+Represents [AK State Senate District M](/us/states/ak/districts/senate/m.md).
 
 ## Sources
 

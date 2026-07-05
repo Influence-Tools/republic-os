@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 26"
+represents: "us/states/nc/districts/house/26"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna White
 
 Current NC House District 26 (NC State House of Representatives District 26).
+
+Represents [NC State House of Representatives District 26](/us/states/nc/districts/house/26.md).
 
 ## Sources
 

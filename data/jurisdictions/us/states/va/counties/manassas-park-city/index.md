@@ -22,9 +22,21 @@ demographics:
   race_native: 845
   hispanic: 7867
   bachelors_plus: 4359
+districts:
+  - to: "us/states/va/districts/10"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/va/districts/senate/30"
+    rel: in-district
+    area_weight: 0.9911
+  - to: "us/states/va/districts/senate/29"
+    rel: in-district
+    area_weight: 0.0089
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, va]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 7867 |
 | Bachelor's or higher | 4359 |
 
+## Districts
+
+- [VA-10](/us/states/va/districts/10.md) — 100% (congressional)
+- [VA Senate District 30](/us/states/va/districts/senate/30.md) — 99% (state senate)
+- [VA Senate District 29](/us/states/va/districts/senate/29.md) — 1% (state senate)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

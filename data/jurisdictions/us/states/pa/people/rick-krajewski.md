@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 188"
+represents: "us/states/pa/districts/house/188"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Krajewski
 
 Current PA House District 188 (PA State House of Representatives District 188).
+
+Represents [PA State House of Representatives District 188](/us/states/pa/districts/house/188.md).
 
 ## Sources
 

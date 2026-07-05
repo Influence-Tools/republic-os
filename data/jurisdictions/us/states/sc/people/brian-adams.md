@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 44"
+represents: "us/states/sc/districts/senate/44"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Adams
 
 Current SC Senate District 44 (SC State Senate District 44).
+
+Represents [SC State Senate District 44](/us/states/sc/districts/senate/44.md).
 
 ## Sources
 

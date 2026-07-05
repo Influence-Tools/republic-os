@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 6"
+represents: "us/states/sc/districts/house/6"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # April Cromer
 
 Current SC House District 6 (SC State House of Representatives District 6).
+
+Represents [SC State House of Representatives District 6](/us/states/sc/districts/house/6.md).
 
 ## Sources
 

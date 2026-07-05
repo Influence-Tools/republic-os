@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 3"
+represents: "us/states/ut/districts/senate/3"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Johnson
 
 Current UT Senate District 3 (UT State Senate District 3).
+
+Represents [UT State Senate District 3](/us/states/ut/districts/senate/3.md).
 
 ## Sources
 

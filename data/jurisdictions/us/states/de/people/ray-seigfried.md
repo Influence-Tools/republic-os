@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 5"
+represents: "us/states/de/districts/senate/5"
 tenure:
   start: "2025-02-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Seigfried
 
 Current DE Senate District 5 (DE State Senate District 5).
+
+Represents [DE State Senate District 5](/us/states/de/districts/senate/5.md).
 
 ## Sources
 

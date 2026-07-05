@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 2"
+represents: "us/states/wy/districts/senate/2"
 tenure:
   start: "2015-03-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Boner
 
 Current WY Senate District 2 (WY State Senate District 2).
+
+Represents [WY State Senate District 2](/us/states/wy/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 3"
+represents: "us/states/nc/districts/03"
 committees:
   - name: "House Committee on House Administration"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Gregory F. Murphy
 
 Current U.S. House of Representatives - NC-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/nc/districts/03.md).
 
 ## Committees
 

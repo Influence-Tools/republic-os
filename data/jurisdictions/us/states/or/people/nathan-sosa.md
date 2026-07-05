@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 30"
+represents: "us/states/or/districts/house/30"
 tenure:
   start: "2022-02-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathan Sosa
 
 Current OR House District 30 (OR State House of Representatives District 30).
+
+Represents [OR State House of Representatives District 30](/us/states/or/districts/house/30.md).
 
 ## Sources
 

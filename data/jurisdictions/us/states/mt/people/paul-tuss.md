@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 27"
+represents: "us/states/mt/districts/house/27"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Tuss
 
 Current MT House District 27 (MT State House of Representatives District 27).
+
+Represents [MT State House of Representatives District 27](/us/states/mt/districts/house/27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 3"
+represents: "us/states/ny/districts/03"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Thomas R. Suozzi
 
 Current U.S. House of Representatives - NY-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ny/districts/03.md).
 
 ## Committees
 

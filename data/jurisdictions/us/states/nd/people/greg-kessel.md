@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 39"
+represents: "us/states/nd/districts/senate/39"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Kessel
 
 Current ND Senate District 39 (ND State Senate District 39).
+
+Represents [ND State Senate District 39](/us/states/nd/districts/senate/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 45"
+represents: "us/states/co/districts/house/45"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Max Brooks
 
 Current CO House District 45 (CO State House of Representatives District 45).
+
+Represents [CO State House of Representatives District 45](/us/states/co/districts/house/45.md).
 
 ## Sources
 

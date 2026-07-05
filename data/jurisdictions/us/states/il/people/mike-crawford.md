@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 31"
+represents: "us/states/il/districts/house/31"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Crawford
 
 Current IL House District 31 (IL State House of Representatives District 31).
+
+Represents [IL State House of Representatives District 31](/us/states/il/districts/house/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 3"
+represents: "us/states/fl/districts/senate/3"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Corey Simon
 
 Current FL Senate District 3 (FL State Senate District 3).
+
+Represents [FL State Senate District 3](/us/states/fl/districts/senate/3.md).
 
 ## Sources
 

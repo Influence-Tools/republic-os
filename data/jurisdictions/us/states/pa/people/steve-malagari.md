@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 53"
+represents: "us/states/pa/districts/house/53"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Malagari
 
 Current PA House District 53 (PA State House of Representatives District 53).
+
+Represents [PA State House of Representatives District 53](/us/states/pa/districts/house/53.md).
 
 ## Sources
 

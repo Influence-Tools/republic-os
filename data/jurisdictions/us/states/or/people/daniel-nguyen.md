@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 38"
+represents: "us/states/or/districts/house/38"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Nguyen
 
 Current OR House District 38 (OR State House of Representatives District 38).
+
+Represents [OR State House of Representatives District 38](/us/states/or/districts/house/38.md).
 
 ## Sources
 

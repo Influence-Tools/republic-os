@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 41"
+represents: "us/states/or/districts/house/41"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Gamba
 
 Current OR House District 41 (OR State House of Representatives District 41).
+
+Represents [OR State House of Representatives District 41](/us/states/or/districts/house/41.md).
 
 ## Sources
 

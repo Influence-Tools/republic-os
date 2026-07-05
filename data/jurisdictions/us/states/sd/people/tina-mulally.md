@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 35"
+represents: "us/states/sd/districts/house/35"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Mulally
 
 Current SD House District 35 (SD State House of Representatives District 35).
+
+Represents [SD State House of Representatives District 35](/us/states/sd/districts/house/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OR"
 district: "Congressional District 5"
+represents: "us/states/or/districts/05"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Janelle S. Bynum
 
 Current U.S. House of Representatives - OR-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/or/districts/05.md).
 
 ## Committees
 

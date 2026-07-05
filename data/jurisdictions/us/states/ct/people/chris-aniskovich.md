@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 35"
+represents: "us/states/ct/districts/house/35"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Aniskovich
 
 Current CT House District 35 (CT State House of Representatives District 35).
+
+Represents [CT State House of Representatives District 35](/us/states/ct/districts/house/35.md).
 
 ## Sources
 

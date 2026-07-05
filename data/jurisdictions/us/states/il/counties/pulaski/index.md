@@ -22,9 +22,18 @@ demographics:
   race_native: 0
   hispanic: 52
   bachelors_plus: 610
+districts:
+  - to: "us/states/il/districts/12"
+    rel: in-district
+    area_weight: 0.9972
+  - to: "us/states/il/districts/house/118"
+    rel: in-district
+    area_weight: 0.9994
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, il]
 timestamp: "2026-07-03"
@@ -56,6 +65,12 @@ County jurisdiction.
 | Hispanic/Latino | 52 |
 | Bachelor's or higher | 610 |
 
+## Districts
+
+- [IL-12](/us/states/il/districts/12.md) — 100% (congressional)
+- [IL House District 118](/us/states/il/districts/house/118.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

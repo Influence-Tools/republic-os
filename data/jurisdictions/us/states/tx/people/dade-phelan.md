@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 21"
+represents: "us/states/tx/districts/house/21"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dade Phelan
 
 Current TX House District 21 (TX State House of Representatives District 21).
+
+Represents [TX State House of Representatives District 21](/us/states/tx/districts/house/21.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 103"
+represents: "us/states/ny/districts/house/103"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarahana Shrestha
 
 Current NY House District 103 (NY State House of Representatives District 103).
+
+Represents [NY State House of Representatives District 103](/us/states/ny/districts/house/103.md).
 
 ## Sources
 

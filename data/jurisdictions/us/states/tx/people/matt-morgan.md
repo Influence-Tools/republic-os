@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 26"
+represents: "us/states/tx/districts/house/26"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Morgan
 
 Current TX House District 26 (TX State House of Representatives District 26).
+
+Represents [TX State House of Representatives District 26](/us/states/tx/districts/house/26.md).
 
 ## Sources
 

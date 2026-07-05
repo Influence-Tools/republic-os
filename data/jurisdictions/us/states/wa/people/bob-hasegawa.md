@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 11"
+represents: "us/states/wa/districts/senate/11"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Hasegawa
 
 Current WA Senate District 11 (WA State Senate District 11).
+
+Represents [WA State Senate District 11](/us/states/wa/districts/senate/11.md).
 
 ## Sources
 

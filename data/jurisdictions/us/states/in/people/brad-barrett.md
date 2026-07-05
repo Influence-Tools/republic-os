@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 56"
+represents: "us/states/in/districts/house/56"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Barrett
 
 Current IN House District 56 (IN State House of Representatives District 56).
+
+Represents [IN State House of Representatives District 56](/us/states/in/districts/house/56.md).
 
 ## Sources
 

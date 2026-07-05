@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 43"
+represents: "us/states/wv/districts/house/43"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Toney
 
 Current WV House District 43 (WV State House of Representatives District 43).
+
+Represents [WV State House of Representatives District 43](/us/states/wv/districts/house/43.md).
 
 ## Sources
 

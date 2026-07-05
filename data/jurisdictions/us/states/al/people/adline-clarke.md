@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 97"
+represents: "us/states/al/districts/house/97"
 tenure:
   start: "2013-05-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adline Clarke
 
 Current AL House District 97 (AL State House of Representatives District 97).
+
+Represents [AL State House of Representatives District 97](/us/states/al/districts/house/97.md).
 
 ## Sources
 

@@ -22,9 +22,36 @@ demographics:
   race_native: 188
   hispanic: 8454
   bachelors_plus: 85571
+districts:
+  - to: "us/states/mo/districts/04"
+    rel: in-district
+    area_weight: 0.579
+  - to: "us/states/mo/districts/03"
+    rel: in-district
+    area_weight: 0.4209
+  - to: "us/states/mo/districts/senate/19"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/mo/districts/house/44"
+    rel: in-district
+    area_weight: 0.5305
+  - to: "us/states/mo/districts/house/47"
+    rel: in-district
+    area_weight: 0.3791
+  - to: "us/states/mo/districts/house/50"
+    rel: in-district
+    area_weight: 0.0373
+  - to: "us/states/mo/districts/house/46"
+    rel: in-district
+    area_weight: 0.0367
+  - to: "us/states/mo/districts/house/45"
+    rel: in-district
+    area_weight: 0.0159
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mo]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 8454 |
 | Bachelor's or higher | 85571 |
 
+## Districts
+
+- [MO-04](/us/states/mo/districts/04.md) — 58% (congressional)
+- [MO-03](/us/states/mo/districts/03.md) — 42% (congressional)
+- [MO Senate District 19](/us/states/mo/districts/senate/19.md) — 100% (state senate)
+- [MO House District 44](/us/states/mo/districts/house/44.md) — 53% (state house)
+- [MO House District 47](/us/states/mo/districts/house/47.md) — 38% (state house)
+- [MO House District 50](/us/states/mo/districts/house/50.md) — 4% (state house)
+- [MO House District 46](/us/states/mo/districts/house/46.md) — 4% (state house)
+- [MO House District 45](/us/states/mo/districts/house/45.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

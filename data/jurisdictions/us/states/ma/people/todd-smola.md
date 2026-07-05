@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Hampden"
+represents: "us/states/ma/districts/house/1st-hampden"
 tenure:
   start: "2005-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Smola
 
 Current MA House District 1st Hampden (MA State House of Representatives District 1st Hampden).
+
+Represents [MA State House of Representatives District 1st Hampden](/us/states/ma/districts/house/1st-hampden.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 12"
+represents: "us/states/nc/districts/house/12"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Humphrey
 
 Current NC House District 12 (NC State House of Representatives District 12).
+
+Represents [NC State House of Representatives District 12](/us/states/nc/districts/house/12.md).
 
 ## Sources
 

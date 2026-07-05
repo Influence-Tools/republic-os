@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 62"
+represents: "us/states/il/districts/house/62"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Faver Dias
 
 Current IL House District 62 (IL State House of Representatives District 62).
+
+Represents [IL State House of Representatives District 62](/us/states/il/districts/house/62.md).
 
 ## Sources
 

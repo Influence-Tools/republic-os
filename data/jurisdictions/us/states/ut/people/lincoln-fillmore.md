@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 17"
+represents: "us/states/ut/districts/senate/17"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lincoln Fillmore
 
 Current UT Senate District 17 (UT State Senate District 17).
+
+Represents [UT State Senate District 17](/us/states/ut/districts/senate/17.md).
 
 ## Sources
 

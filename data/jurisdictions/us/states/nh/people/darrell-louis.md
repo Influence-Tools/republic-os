@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 1"
+represents: "us/states/nh/districts/house/grafton-1"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darrell Louis
 
 Current NH House District Grafton 1 (NH State House of Representatives District Grafton 1).
+
+Represents [NH State House of Representatives District Grafton 1](/us/states/nh/districts/house/grafton-1.md).
 
 ## Sources
 

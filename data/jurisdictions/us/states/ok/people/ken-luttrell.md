@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 37"
+represents: "us/states/ok/districts/house/37"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Luttrell
 
 Current OK House District 37 (OK State House of Representatives District 37).
+
+Represents [OK State House of Representatives District 37](/us/states/ok/districts/house/37.md).
 
 ## Sources
 

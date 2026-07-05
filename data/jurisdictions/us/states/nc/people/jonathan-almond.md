@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 73"
+represents: "us/states/nc/districts/house/73"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Almond
 
 Current NC House District 73 (NC State House of Representatives District 73).
+
+Represents [NC State House of Representatives District 73](/us/states/nc/districts/house/73.md).
 
 ## Sources
 

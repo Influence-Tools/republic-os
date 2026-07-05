@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 13"
+represents: "us/states/ok/districts/house/13"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neil Hays
 
 Current OK House District 13 (OK State House of Representatives District 13).
+
+Represents [OK State House of Representatives District 13](/us/states/ok/districts/house/13.md).
 
 ## Sources
 

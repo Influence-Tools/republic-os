@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 48"
+represents: "us/states/mi/districts/house/48"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Conlin
 
 Current MI House District 48 (MI State House of Representatives District 48).
+
+Represents [MI State House of Representatives District 48](/us/states/mi/districts/house/48.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 8"
+represents: "us/states/ks/districts/senate/8"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Holscher
 
 Current KS Senate District 8 (KS State Senate District 8).
+
+Represents [KS State Senate District 8](/us/states/ks/districts/senate/8.md).
 
 ## Sources
 

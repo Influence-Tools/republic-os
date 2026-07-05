@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MS"
 district: "Congressional District 2"
+represents: "us/states/ms/districts/02"
 committees:
   - name: "House Committee on Homeland Security"
     role: "ranking-member"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Bennie G. Thompson
 
 Current U.S. House of Representatives - MS-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ms/districts/02.md).
 
 ## Committees
 

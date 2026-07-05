@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 28"
+represents: "us/states/la/districts/senate/28"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Cloud
 
 Current LA Senate District 28 (LA State Senate District 28).
+
+Represents [LA State Senate District 28](/us/states/la/districts/senate/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 24"
+represents: "us/states/in/districts/senate/24"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brett Clark
 
 Current IN Senate District 24 (IN State Senate District 24).
+
+Represents [IN State Senate District 24](/us/states/in/districts/senate/24.md).
 
 ## Sources
 

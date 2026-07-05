@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 64"
+represents: "us/states/al/districts/house/64"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Givens
 
 Current AL House District 64 (AL State House of Representatives District 64).
+
+Represents [AL State House of Representatives District 64](/us/states/al/districts/house/64.md).
 
 ## Sources
 

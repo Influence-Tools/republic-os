@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 9"
+represents: "us/states/id/districts/senate/9"
 tenure:
   start: "2024-07-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Shippy
 
 Current ID Senate District 9 (ID State Senate District 9).
+
+Represents [ID State Senate District 9](/us/states/id/districts/senate/9.md).
 
 ## Sources
 

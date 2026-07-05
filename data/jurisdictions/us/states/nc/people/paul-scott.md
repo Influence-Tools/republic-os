@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 111"
+represents: "us/states/nc/districts/house/111"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Scott
 
 Current NC House District 111 (NC State House of Representatives District 111).
+
+Represents [NC State House of Representatives District 111](/us/states/nc/districts/house/111.md).
 
 ## Sources
 

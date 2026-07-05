@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 10"
+represents: "us/states/ga/districts/10"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Mike Collins
 
 Current U.S. House of Representatives - GA-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/ga/districts/10.md).
 
 ## Committees
 

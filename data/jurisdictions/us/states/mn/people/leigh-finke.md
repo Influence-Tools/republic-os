@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 66A"
+represents: "us/states/mn/districts/house/66a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leigh Finke
 
 Current MN House District 66A (MN State House of Representatives District 66A).
+
+Represents [MN State House of Representatives District 66A](/us/states/mn/districts/house/66a.md).
 
 ## Sources
 

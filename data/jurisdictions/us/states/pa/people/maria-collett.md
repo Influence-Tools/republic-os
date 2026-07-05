@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 12"
+represents: "us/states/pa/districts/senate/12"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maria Collett
 
 Current PA Senate District 12 (PA State Senate District 12).
+
+Represents [PA State Senate District 12](/us/states/pa/districts/senate/12.md).
 
 ## Sources
 

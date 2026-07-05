@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Second Bristol and Plymouth"
+represents: "us/states/ma/districts/senate/second-bristol-and-plymouth"
 tenure:
   start: "1993-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Montigny
 
 Current MA Senate District Second Bristol and Plymouth (MA State Senate District Second Bristol and Plymouth).
+
+Represents [MA State Senate District Second Bristol and Plymouth](/us/states/ma/districts/senate/second-bristol-and-plymouth.md).
 
 ## Sources
 

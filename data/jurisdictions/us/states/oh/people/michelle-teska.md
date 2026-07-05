@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 55"
+represents: "us/states/oh/districts/house/55"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Teska
 
 Current OH House District 55 (OH State House of Representatives District 55).
+
+Represents [OH State House of Representatives District 55](/us/states/oh/districts/house/55.md).
 
 ## Sources
 

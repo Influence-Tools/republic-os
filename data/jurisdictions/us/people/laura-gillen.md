@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 4"
+represents: "us/states/ny/districts/04"
 committees:
   - name: "House Committee on Science, Space, and Technology"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Laura Gillen
 
 Current U.S. House of Representatives - NY-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ny/districts/04.md).
 
 ## Committees
 

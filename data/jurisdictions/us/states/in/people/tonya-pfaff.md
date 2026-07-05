@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 43"
+represents: "us/states/in/districts/house/43"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tonya Pfaff
 
 Current IN House District 43 (IN State House of Representatives District 43).
+
+Represents [IN State House of Representatives District 43](/us/states/in/districts/house/43.md).
 
 ## Sources
 

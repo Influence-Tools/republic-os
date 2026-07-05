@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 12"
+represents: "us/states/mn/districts/senate/12"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Torrey Westrom
 
 Current MN Senate District 12 (MN State Senate District 12).
+
+Represents [MN State Senate District 12](/us/states/mn/districts/senate/12.md).
 
 ## Sources
 

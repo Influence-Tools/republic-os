@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 23"
+represents: "us/states/tx/districts/senate/23"
 tenure:
   start: "1993-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Royce West
 
 Current TX Senate District 23 (TX State Senate District 23).
+
+Represents [TX State Senate District 23](/us/states/tx/districts/senate/23.md).
 
 ## Sources
 

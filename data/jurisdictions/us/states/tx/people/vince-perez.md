@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 77"
+represents: "us/states/tx/districts/house/77"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vince Perez
 
 Current TX House District 77 (TX State House of Representatives District 77).
+
+Represents [TX State House of Representatives District 77](/us/states/tx/districts/house/77.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Hampshire"
+represents: "us/states/ma/districts/house/3rd-hampshire"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mindy Domb
 
 Current MA House District 3rd Hampshire (MA State House of Representatives District 3rd Hampshire).
+
+Represents [MA State House of Representatives District 3rd Hampshire](/us/states/ma/districts/house/3rd-hampshire.md).
 
 ## Sources
 

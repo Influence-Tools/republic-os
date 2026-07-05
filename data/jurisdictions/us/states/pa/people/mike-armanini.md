@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 75"
+represents: "us/states/pa/districts/house/75"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Armanini
 
 Current PA House District 75 (PA State House of Representatives District 75).
+
+Represents [PA State House of Representatives District 75](/us/states/pa/districts/house/75.md).
 
 ## Sources
 

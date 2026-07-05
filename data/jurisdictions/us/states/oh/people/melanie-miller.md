@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 67"
+represents: "us/states/oh/districts/house/67"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melanie Miller
 
 Current OH House District 67 (OH State House of Representatives District 67).
+
+Represents [OH State House of Representatives District 67](/us/states/oh/districts/house/67.md).
 
 ## Sources
 

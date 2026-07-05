@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 32"
+represents: "us/states/mo/districts/house/32"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Coleman
 
 Current MO House District 32 (MO State House of Representatives District 32).
+
+Represents [MO State House of Representatives District 32](/us/states/mo/districts/house/32.md).
 
 ## Sources
 

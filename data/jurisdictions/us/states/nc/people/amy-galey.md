@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 25"
+represents: "us/states/nc/districts/senate/25"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Galey
 
 Current NC Senate District 25 (NC State Senate District 25).
+
+Represents [NC State Senate District 25](/us/states/nc/districts/senate/25.md).
 
 ## Sources
 

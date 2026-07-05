@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 50"
+represents: "us/states/il/districts/senate/50"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jil Tracy
 
 Current IL Senate District 50 (IL State Senate District 50).
+
+Represents [IL State Senate District 50](/us/states/il/districts/senate/50.md).
 
 ## Sources
 

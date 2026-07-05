@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 21"
+represents: "us/states/pa/districts/senate/21"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Hutchinson
 
 Current PA Senate District 21 (PA State Senate District 21).
+
+Represents [PA State Senate District 21](/us/states/pa/districts/senate/21.md).
 
 ## Sources
 

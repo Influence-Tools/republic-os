@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 40"
+represents: "us/states/wy/districts/house/40"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marilyn Connolly
 
 Current WY House District 40 (WY State House of Representatives District 40).
+
+Represents [WY State House of Representatives District 40](/us/states/wy/districts/house/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Caledonia"
+represents: "us/states/vt/districts/senate/caledonia"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Beck
 
 Current VT Senate District Caledonia (VT State Senate District Caledonia).
+
+Represents [VT State Senate District Caledonia](/us/states/vt/districts/senate/caledonia.md).
 
 ## Sources
 

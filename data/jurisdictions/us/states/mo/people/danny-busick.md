@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 3"
+represents: "us/states/mo/districts/house/3"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Busick
 
 Current MO House District 3 (MO State House of Representatives District 3).
+
+Represents [MO State House of Representatives District 3](/us/states/mo/districts/house/3.md).
 
 ## Sources
 

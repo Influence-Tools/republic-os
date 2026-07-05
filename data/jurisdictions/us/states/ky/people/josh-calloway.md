@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 10"
+represents: "us/states/ky/districts/house/10"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Calloway
 
 Current KY House District 10 (KY State House of Representatives District 10).
+
+Represents [KY State House of Representatives District 10](/us/states/ky/districts/house/10.md).
 
 ## Sources
 

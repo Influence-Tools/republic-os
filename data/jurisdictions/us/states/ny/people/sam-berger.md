@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 27"
+represents: "us/states/ny/districts/house/27"
 tenure:
   start: "2023-09-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Berger
 
 Current NY House District 27 (NY State House of Representatives District 27).
+
+Represents [NY State House of Representatives District 27](/us/states/ny/districts/house/27.md).
 
 ## Sources
 

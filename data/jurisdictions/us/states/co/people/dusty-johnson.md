@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 63"
+represents: "us/states/co/districts/house/63"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dusty Johnson
 
 Current CO House District 63 (CO State House of Representatives District 63).
+
+Represents [CO State House of Representatives District 63](/us/states/co/districts/house/63.md).
 
 ## Sources
 

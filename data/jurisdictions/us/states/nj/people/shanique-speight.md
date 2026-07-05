@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 29"
+represents: "us/states/nj/districts/house/29"
 tenure:
   start: "2018-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shanique Speight
 
 Current NJ House District 29 (NJ State House of Representatives District 29).
+
+Represents [NJ State House of Representatives District 29](/us/states/nj/districts/house/29.md).
 
 ## Sources
 

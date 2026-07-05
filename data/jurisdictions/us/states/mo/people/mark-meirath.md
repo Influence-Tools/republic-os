@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 39"
+represents: "us/states/mo/districts/house/39"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Meirath
 
 Current MO House District 39 (MO State House of Representatives District 39).
+
+Represents [MO State House of Representatives District 39](/us/states/mo/districts/house/39.md).
 
 ## Sources
 

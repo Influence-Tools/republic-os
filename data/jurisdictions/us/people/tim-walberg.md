@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 5"
+represents: "us/states/mi/districts/05"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "chair"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Tim Walberg
 
 Current U.S. House of Representatives - MI-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/mi/districts/05.md).
 
 ## Committees
 

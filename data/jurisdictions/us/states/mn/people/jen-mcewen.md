@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 8"
+represents: "us/states/mn/districts/senate/8"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jen McEwen
 
 Current MN Senate District 8 (MN State Senate District 8).
+
+Represents [MN State Senate District 8](/us/states/mn/districts/senate/8.md).
 
 ## Sources
 

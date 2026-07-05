@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 100"
+represents: "us/states/mo/districts/house/100"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Philip Oehlerking
 
 Current MO House District 100 (MO State House of Representatives District 100).
+
+Represents [MO State House of Representatives District 100](/us/states/mo/districts/house/100.md).
 
 ## Sources
 

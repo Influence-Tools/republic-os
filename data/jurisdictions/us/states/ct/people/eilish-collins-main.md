@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 146"
+represents: "us/states/ct/districts/house/146"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eilish Collins Main
 
 Current CT House District 146 (CT State House of Representatives District 146).
+
+Represents [CT State House of Representatives District 146](/us/states/ct/districts/house/146.md).
 
 ## Sources
 

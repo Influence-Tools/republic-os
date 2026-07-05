@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 8"
+represents: "us/states/wi/districts/house/8"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sylvia Ortiz-Velez
 
 Current WI House District 8 (WI State House of Representatives District 8).
+
+Represents [WI State House of Representatives District 8](/us/states/wi/districts/house/8.md).
 
 ## Sources
 

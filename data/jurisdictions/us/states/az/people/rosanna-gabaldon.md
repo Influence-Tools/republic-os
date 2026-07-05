@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 21"
+represents: "us/states/az/districts/senate/21"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rosanna Gabaldón
 
 Current AZ Senate District 21 (AZ State Senate District 21).
+
+Represents [AZ State Senate District 21](/us/states/az/districts/senate/21.md).
 
 ## Sources
 

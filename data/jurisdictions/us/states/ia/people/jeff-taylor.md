@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 2"
+represents: "us/states/ia/districts/senate/2"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Taylor
 
 Current IA Senate District 2 (IA State Senate District 2).
+
+Represents [IA State Senate District 2](/us/states/ia/districts/senate/2.md).
 
 ## Sources
 

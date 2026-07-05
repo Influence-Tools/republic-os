@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 23"
+represents: "us/states/or/districts/house/23"
 tenure:
   start: "2021-07-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anna Scharf
 
 Current OR House District 23 (OR State House of Representatives District 23).
+
+Represents [OR State House of Representatives District 23](/us/states/or/districts/house/23.md).
 
 ## Sources
 

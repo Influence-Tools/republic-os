@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 25"
+represents: "us/states/ky/districts/house/25"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Bratcher
 
 Current KY House District 25 (KY State House of Representatives District 25).
+
+Represents [KY State House of Representatives District 25](/us/states/ky/districts/house/25.md).
 
 ## Sources
 

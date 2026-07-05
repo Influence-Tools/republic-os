@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 83"
+represents: "us/states/in/districts/house/83"
 tenure:
   start: "2014-09-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Judy
 
 Current IN House District 83 (IN State House of Representatives District 83).
+
+Represents [IN State House of Representatives District 83](/us/states/in/districts/house/83.md).
 
 ## Sources
 

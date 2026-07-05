@@ -22,9 +22,21 @@ demographics:
   race_native: 1889
   hispanic: 1885
   bachelors_plus: 10678
+districts:
+  - to: "us/states/id/districts/01"
+    rel: in-district
+    area_weight: 0.9986
+  - to: "us/states/id/districts/senate/6"
+    rel: in-district
+    area_weight: 0.623
+  - to: "us/states/id/districts/senate/7"
+    rel: in-district
+    area_weight: 0.3766
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, id]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 1885 |
 | Bachelor's or higher | 10678 |
 
+## Districts
+
+- [ID-01](/us/states/id/districts/01.md) — 100% (congressional)
+- [ID Senate District 6](/us/states/id/districts/senate/6.md) — 62% (state senate)
+- [ID Senate District 7](/us/states/id/districts/senate/7.md) — 38% (state senate)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

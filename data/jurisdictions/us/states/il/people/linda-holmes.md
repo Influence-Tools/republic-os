@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 42"
+represents: "us/states/il/districts/senate/42"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Holmes
 
 Current IL Senate District 42 (IL State Senate District 42).
+
+Represents [IL State Senate District 42](/us/states/il/districts/senate/42.md).
 
 ## Sources
 

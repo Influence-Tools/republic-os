@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 24"
+represents: "us/states/va/districts/senate/24"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Diggs
 
 Current VA Senate District 24 (VA State Senate District 24).
+
+Represents [VA State Senate District 24](/us/states/va/districts/senate/24.md).
 
 ## Sources
 

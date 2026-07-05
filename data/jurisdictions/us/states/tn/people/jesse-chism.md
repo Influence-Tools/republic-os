@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 85"
+represents: "us/states/tn/districts/house/85"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Chism
 
 Current TN House District 85 (TN State House of Representatives District 85).
+
+Represents [TN State House of Representatives District 85](/us/states/tn/districts/house/85.md).
 
 ## Sources
 

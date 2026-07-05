@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District N"
+represents: "us/states/ak/districts/senate/n"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Yundt
 
 Current AK Senate District N (AK State Senate District N).
+
+Represents [AK State Senate District N](/us/states/ak/districts/senate/n.md).
 
 ## Sources
 

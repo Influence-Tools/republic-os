@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 81"
+represents: "us/states/tx/districts/house/81"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brooks Landgraf
 
 Current TX House District 81 (TX State House of Representatives District 81).
+
+Represents [TX State House of Representatives District 81](/us/states/tx/districts/house/81.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 8"
+represents: "us/states/va/districts/senate/8"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Peake
 
 Current VA Senate District 8 (VA State Senate District 8).
+
+Represents [VA State Senate District 8](/us/states/va/districts/senate/8.md).
 
 ## Sources
 

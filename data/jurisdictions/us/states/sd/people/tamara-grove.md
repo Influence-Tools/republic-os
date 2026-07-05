@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 26"
+represents: "us/states/sd/districts/senate/26"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tamara Grove
 
 Current SD Senate District 26 (SD State Senate District 26).
+
+Represents [SD State Senate District 26](/us/states/sd/districts/senate/26.md).
 
 ## Sources
 

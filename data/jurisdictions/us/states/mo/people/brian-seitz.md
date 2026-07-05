@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 156"
+represents: "us/states/mo/districts/house/156"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Seitz
 
 Current MO House District 156 (MO State House of Representatives District 156).
+
+Represents [MO State House of Representatives District 156](/us/states/mo/districts/house/156.md).
 
 ## Sources
 

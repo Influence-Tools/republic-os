@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 18"
+represents: "us/states/ny/districts/senate/18"
 tenure:
   start: "2020-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julia Salazar
 
 Current NY Senate District 18 (NY State Senate District 18).
+
+Represents [NY State Senate District 18](/us/states/ny/districts/senate/18.md).
 
 ## Sources
 

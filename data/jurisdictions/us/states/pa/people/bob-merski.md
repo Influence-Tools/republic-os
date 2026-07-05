@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 2"
+represents: "us/states/pa/districts/house/2"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Merski
 
 Current PA House District 2 (PA State House of Representatives District 2).
+
+Represents [PA State House of Representatives District 2](/us/states/pa/districts/house/2.md).
 
 ## Sources
 

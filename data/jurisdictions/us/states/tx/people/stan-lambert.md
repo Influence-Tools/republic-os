@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 71"
+represents: "us/states/tx/districts/house/71"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stan Lambert
 
 Current TX House District 71 (TX State House of Representatives District 71).
+
+Represents [TX State House of Representatives District 71](/us/states/tx/districts/house/71.md).
 
 ## Sources
 

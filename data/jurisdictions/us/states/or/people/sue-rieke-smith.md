@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 26"
+represents: "us/states/or/districts/house/26"
 tenure:
   start: "2025-06-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Rieke Smith
 
 Current OR House District 26 (OR State House of Representatives District 26).
+
+Represents [OR State House of Representatives District 26](/us/states/or/districts/house/26.md).
 
 ## Sources
 

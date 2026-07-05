@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 1"
+represents: "us/states/nc/districts/house/1"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Goodwin
 
 Current NC House District 1 (NC State House of Representatives District 1).
+
+Represents [NC State House of Representatives District 1](/us/states/nc/districts/house/1.md).
 
 ## Sources
 

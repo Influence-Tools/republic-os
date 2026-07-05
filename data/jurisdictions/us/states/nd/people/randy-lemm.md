@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 20"
+represents: "us/states/nd/districts/senate/20"
 tenure:
   start: "2019-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Lemm
 
 Current ND Senate District 20 (ND State Senate District 20).
+
+Represents [ND State Senate District 20](/us/states/nd/districts/senate/20.md).
 
 ## Sources
 

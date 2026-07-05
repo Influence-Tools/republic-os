@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 81"
+represents: "us/states/ia/districts/house/81"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Gosa
 
 Current IA House District 81 (IA State House of Representatives District 81).
+
+Represents [IA State House of Representatives District 81](/us/states/ia/districts/house/81.md).
 
 ## Sources
 

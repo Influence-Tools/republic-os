@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 8th Suffolk"
+represents: "us/states/ma/districts/house/8th-suffolk"
 tenure:
   start: "2013-07-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Livingstone
 
 Current MA House District 8th Suffolk (MA State House of Representatives District 8th Suffolk).
+
+Represents [MA State House of Representatives District 8th Suffolk](/us/states/ma/districts/house/8th-suffolk.md).
 
 ## Sources
 

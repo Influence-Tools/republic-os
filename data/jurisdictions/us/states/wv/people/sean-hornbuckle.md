@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 25"
+represents: "us/states/wv/districts/house/25"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Hornbuckle
 
 Current WV House District 25 (WV State House of Representatives District 25).
+
+Represents [WV State House of Representatives District 25](/us/states/wv/districts/house/25.md).
 
 ## Sources
 

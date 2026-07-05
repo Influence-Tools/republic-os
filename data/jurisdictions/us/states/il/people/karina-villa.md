@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 25"
+represents: "us/states/il/districts/senate/25"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karina Villa
 
 Current IL Senate District 25 (IL State Senate District 25).
+
+Represents [IL State Senate District 25](/us/states/il/districts/senate/25.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 17"
+represents: "us/states/tn/districts/house/17"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Farmer
 
 Current TN House District 17 (TN State House of Representatives District 17).
+
+Represents [TN State House of Representatives District 17](/us/states/tn/districts/house/17.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 32"
+represents: "us/states/nj/districts/house/32"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Brennan
 
 Current NJ House District 32 (NJ State House of Representatives District 32).
+
+Represents [NJ State House of Representatives District 32](/us/states/nj/districts/house/32.md).
 
 ## Sources
 

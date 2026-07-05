@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 58"
+represents: "us/states/il/districts/house/58"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Morgan
 
 Current IL House District 58 (IL State House of Representatives District 58).
+
+Represents [IL State House of Representatives District 58](/us/states/il/districts/house/58.md).
 
 ## Sources
 

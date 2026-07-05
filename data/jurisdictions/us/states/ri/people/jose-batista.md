@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 12"
+represents: "us/states/ri/districts/house/12"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jose Batista
 
 Current RI House District 12 (RI State House of Representatives District 12).
+
+Represents [RI State House of Representatives District 12](/us/states/ri/districts/house/12.md).
 
 ## Sources
 

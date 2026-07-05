@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 3"
+represents: "us/states/mi/districts/03"
 committees:
   - name: "House Committee on Small Business"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Hillary J. Scholten
 
 Current U.S. House of Representatives - MI-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/mi/districts/03.md).
 
 ## Committees
 

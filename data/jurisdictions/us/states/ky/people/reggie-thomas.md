@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 13"
+represents: "us/states/ky/districts/senate/13"
 tenure:
   start: "2014-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reggie Thomas
 
 Current KY Senate District 13 (KY State Senate District 13).
+
+Represents [KY State Senate District 13](/us/states/ky/districts/senate/13.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 65"
+represents: "us/states/ar/districts/house/65"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Glenn Barnes
 
 Current AR House District 65 (AR State House of Representatives District 65).
+
+Represents [AR State House of Representatives District 65](/us/states/ar/districts/house/65.md).
 
 ## Sources
 

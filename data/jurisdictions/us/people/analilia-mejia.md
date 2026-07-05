@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 11"
+represents: "us/states/nj/districts/11"
 tenure:
   start: "2026-04-20"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Analilia Mejia
 
 Current U.S. House of Representatives - NJ-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/nj/districts/11.md).
 
 ## Sources
 

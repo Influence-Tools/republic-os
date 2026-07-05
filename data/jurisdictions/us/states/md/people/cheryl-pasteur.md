@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 11A"
+represents: "us/states/md/districts/house/11a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cheryl Pasteur
 
 Current MD House District 11A (MD State House of Representatives District 11A).
+
+Represents [MD State House of Representatives District 11A](/us/states/md/districts/house/11a.md).
 
 ## Sources
 

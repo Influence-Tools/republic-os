@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 11"
+represents: "us/states/nm/districts/senate/11"
 tenure:
   start: "1997-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda López
 
 Current NM Senate District 11 (NM State Senate District 11).
+
+Represents [NM State Senate District 11](/us/states/nm/districts/senate/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 57"
+represents: "us/states/co/districts/house/57"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elizabeth Velasco
 
 Current CO House District 57 (CO State House of Representatives District 57).
+
+Represents [CO State House of Representatives District 57](/us/states/co/districts/house/57.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 5A"
+represents: "us/states/id/districts/house/5a"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Mendive
 
 Current ID House District 5A (ID State House of Representatives District 5A).
+
+Represents [ID State House of Representatives District 5A](/us/states/id/districts/house/5a.md).
 
 ## Sources
 

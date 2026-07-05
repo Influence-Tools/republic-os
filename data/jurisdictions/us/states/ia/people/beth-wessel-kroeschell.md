@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 49"
+represents: "us/states/ia/districts/house/49"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Wessel-Kroeschell
 
 Current IA House District 49 (IA State House of Representatives District 49).
+
+Represents [IA State House of Representatives District 49](/us/states/ia/districts/house/49.md).
 
 ## Sources
 

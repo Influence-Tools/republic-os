@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 12"
+represents: "us/states/nj/districts/12"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Bonnie Watson Coleman
 
 Current U.S. House of Representatives - NJ-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/nj/districts/12.md).
 
 ## Committees
 

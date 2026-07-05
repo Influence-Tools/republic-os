@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 10"
+represents: "us/states/ca/districts/senate/10"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aisha Wahab
 
 Current CA Senate District 10 (CA State Senate District 10).
+
+Represents [CA State Senate District 10](/us/states/ca/districts/senate/10.md).
 
 ## Sources
 

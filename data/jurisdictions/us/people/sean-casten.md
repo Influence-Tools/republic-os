@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 6"
+represents: "us/states/il/districts/06"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Sean Casten
 
 Current U.S. House of Representatives - IL-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/il/districts/06.md).
 
 ## Committees
 

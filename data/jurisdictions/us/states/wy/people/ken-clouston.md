@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 32"
+represents: "us/states/wy/districts/house/32"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Clouston
 
 Current WY House District 32 (WY State House of Representatives District 32).
+
+Represents [WY State House of Representatives District 32](/us/states/wy/districts/house/32.md).
 
 ## Sources
 

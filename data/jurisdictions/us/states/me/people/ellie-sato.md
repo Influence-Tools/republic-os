@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 109"
+represents: "us/states/me/districts/house/109"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ellie Sato
 
 Current ME House District 109 (ME State House of Representatives District 109).
+
+Represents [ME State House of Representatives District 109](/us/states/me/districts/house/109.md).
 
 ## Sources
 

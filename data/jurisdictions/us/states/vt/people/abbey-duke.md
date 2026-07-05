@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-17"
+represents: "us/states/vt/districts/house/chittenden-17"
 tenure:
   start: "2024-05-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Abbey Duke
 
 Current VT House District Chittenden-17 (VT State House of Representatives District Chittenden-17).
+
+Represents [VT State House of Representatives District Chittenden-17](/us/states/vt/districts/house/chittenden-17.md).
 
 ## Sources
 

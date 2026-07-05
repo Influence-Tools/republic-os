@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 27"
+represents: "us/states/md/districts/senate/27"
 tenure:
   start: "2025-12-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Harris
 
 Current MD Senate District 27 (MD State Senate District 27).
+
+Represents [MD State Senate District 27](/us/states/md/districts/senate/27.md).
 
 ## Sources
 

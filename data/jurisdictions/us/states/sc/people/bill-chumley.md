@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 35"
+represents: "us/states/sc/districts/house/35"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Chumley
 
 Current SC House District 35 (SC State House of Representatives District 35).
+
+Represents [SC State House of Representatives District 35](/us/states/sc/districts/house/35.md).
 
 ## Sources
 

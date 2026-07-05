@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 53"
+represents: "us/states/ky/districts/house/53"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Tipton
 
 Current KY House District 53 (KY State House of Representatives District 53).
+
+Represents [KY State House of Representatives District 53](/us/states/ky/districts/house/53.md).
 
 ## Sources
 

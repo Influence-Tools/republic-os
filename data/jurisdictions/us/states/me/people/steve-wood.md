@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 92"
+represents: "us/states/me/districts/house/92"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Wood
 
 Current ME House District 92 (ME State House of Representatives District 92).
+
+Represents [ME State House of Representatives District 92](/us/states/me/districts/house/92.md).
 
 ## Sources
 

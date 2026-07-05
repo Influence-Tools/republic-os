@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Norfolk, Plymouth and Bristol"
+represents: "us/states/ma/districts/senate/norfolk-plymouth-and-bristol"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Driscoll
 
 Current MA Senate District Norfolk, Plymouth and Bristol (MA State Senate District Norfolk, Plymouth and Bristol).
+
+Represents [MA State Senate District Norfolk, Plymouth and Bristol](/us/states/ma/districts/senate/norfolk-plymouth-and-bristol.md).
 
 ## Sources
 

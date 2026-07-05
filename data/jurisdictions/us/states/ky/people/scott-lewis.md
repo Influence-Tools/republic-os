@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 14"
+represents: "us/states/ky/districts/house/14"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Lewis
 
 Current KY House District 14 (KY State House of Representatives District 14).
+
+Represents [KY State House of Representatives District 14](/us/states/ky/districts/house/14.md).
 
 ## Sources
 

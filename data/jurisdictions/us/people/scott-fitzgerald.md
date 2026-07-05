@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 5"
+represents: "us/states/wi/districts/05"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Scott Fitzgerald
 
 Current U.S. House of Representatives - WI-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/wi/districts/05.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 17"
+represents: "us/states/sd/districts/house/17"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # William Shorma
 
 Current SD House District 17 (SD State House of Representatives District 17).
+
+Represents [SD State House of Representatives District 17](/us/states/sd/districts/house/17.md).
 
 ## Sources
 

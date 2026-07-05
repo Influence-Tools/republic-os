@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 51"
+represents: "us/states/ut/districts/house/51"
 tenure:
   start: "2025-08-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leah Hansen
 
 Current UT House District 51 (UT State House of Representatives District 51).
+
+Represents [UT State House of Representatives District 51](/us/states/ut/districts/house/51.md).
 
 ## Sources
 

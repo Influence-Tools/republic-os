@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 8"
+represents: "us/states/nd/districts/senate/8"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Magrum
 
 Current ND Senate District 8 (ND State Senate District 8).
+
+Represents [ND State Senate District 8](/us/states/nd/districts/senate/8.md).
 
 ## Sources
 

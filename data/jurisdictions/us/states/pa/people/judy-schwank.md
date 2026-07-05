@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 11"
+represents: "us/states/pa/districts/senate/11"
 tenure:
   start: "2011-04-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judy Schwank
 
 Current PA Senate District 11 (PA State Senate District 11).
+
+Represents [PA State Senate District 11](/us/states/pa/districts/senate/11.md).
 
 ## Sources
 

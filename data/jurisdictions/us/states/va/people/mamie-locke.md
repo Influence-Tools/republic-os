@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 23"
+represents: "us/states/va/districts/senate/23"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mamie Locke
 
 Current VA Senate District 23 (VA State Senate District 23).
+
+Represents [VA State Senate District 23](/us/states/va/districts/senate/23.md).
 
 ## Sources
 

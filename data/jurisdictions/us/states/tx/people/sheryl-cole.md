@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 46"
+represents: "us/states/tx/districts/house/46"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sheryl Cole
 
 Current TX House District 46 (TX State House of Representatives District 46).
+
+Represents [TX State House of Representatives District 46](/us/states/tx/districts/house/46.md).
 
 ## Sources
 

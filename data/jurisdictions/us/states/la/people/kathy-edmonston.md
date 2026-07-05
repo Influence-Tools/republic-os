@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 88"
+represents: "us/states/la/districts/house/88"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Edmonston
 
 Current LA House District 88 (LA State House of Representatives District 88).
+
+Represents [LA State House of Representatives District 88](/us/states/la/districts/house/88.md).
 
 ## Sources
 

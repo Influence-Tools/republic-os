@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 11"
+represents: "us/states/ok/districts/senate/11"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Regina Goodwin
 
 Current OK Senate District 11 (OK State Senate District 11).
+
+Represents [OK State Senate District 11](/us/states/ok/districts/senate/11.md).
 
 ## Sources
 

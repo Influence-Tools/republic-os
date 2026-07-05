@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 32"
+represents: "us/states/ny/districts/senate/32"
 tenure:
   start: "2018-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Luis Sepúlveda
 
 Current NY Senate District 32 (NY State Senate District 32).
+
+Represents [NY State Senate District 32](/us/states/ny/districts/senate/32.md).
 
 ## Sources
 

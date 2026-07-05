@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 101"
+represents: "us/states/sc/districts/house/101"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Kirby
 
 Current SC House District 101 (SC State House of Representatives District 101).
+
+Represents [SC State House of Representatives District 101](/us/states/sc/districts/house/101.md).
 
 ## Sources
 

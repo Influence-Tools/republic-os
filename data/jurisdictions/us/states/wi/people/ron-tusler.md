@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 3"
+represents: "us/states/wi/districts/house/3"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Tusler
 
 Current WI House District 3 (WI State House of Representatives District 3).
+
+Represents [WI State House of Representatives District 3](/us/states/wi/districts/house/3.md).
 
 ## Sources
 

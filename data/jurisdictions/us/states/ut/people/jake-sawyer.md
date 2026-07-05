@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 9"
+represents: "us/states/ut/districts/house/9"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Sawyer
 
 Current UT House District 9 (UT State House of Representatives District 9).
+
+Represents [UT State House of Representatives District 9](/us/states/ut/districts/house/9.md).
 
 ## Sources
 

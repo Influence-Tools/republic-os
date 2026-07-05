@@ -22,9 +22,60 @@ demographics:
   race_native: 2472
   hispanic: 6096
   bachelors_plus: 54955
+districts:
+  - to: "us/states/mt/districts/01"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/mt/districts/senate/46"
+    rel: in-district
+    area_weight: 0.5226
+  - to: "us/states/mt/districts/senate/45"
+    rel: in-district
+    area_weight: 0.2776
+  - to: "us/states/mt/districts/senate/47"
+    rel: in-district
+    area_weight: 0.1179
+  - to: "us/states/mt/districts/senate/50"
+    rel: in-district
+    area_weight: 0.0378
+  - to: "us/states/mt/districts/senate/48"
+    rel: in-district
+    area_weight: 0.0228
+  - to: "us/states/mt/districts/senate/38"
+    rel: in-district
+    area_weight: 0.0126
+  - to: "us/states/mt/districts/senate/49"
+    rel: in-district
+    area_weight: 0.0086
+  - to: "us/states/mt/districts/house/92"
+    rel: in-district
+    area_weight: 0.4233
+  - to: "us/states/mt/districts/house/90"
+    rel: in-district
+    area_weight: 0.2677
+  - to: "us/states/mt/districts/house/93"
+    rel: in-district
+    area_weight: 0.1151
+  - to: "us/states/mt/districts/house/91"
+    rel: in-district
+    area_weight: 0.0993
+  - to: "us/states/mt/districts/house/99"
+    rel: in-district
+    area_weight: 0.0369
+  - to: "us/states/mt/districts/house/96"
+    rel: in-district
+    area_weight: 0.022
+  - to: "us/states/mt/districts/house/76"
+    rel: in-district
+    area_weight: 0.0126
+  - to: "us/states/mt/districts/house/89"
+    rel: in-district
+    area_weight: 0.0099
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mt]
 timestamp: "2026-07-03"
@@ -56,6 +107,26 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 6096 |
 | Bachelor's or higher | 54955 |
 
+## Districts
+
+- [MT-01](/us/states/mt/districts/01.md) — 100% (congressional)
+- [MT Senate District 46](/us/states/mt/districts/senate/46.md) — 52% (state senate)
+- [MT Senate District 45](/us/states/mt/districts/senate/45.md) — 28% (state senate)
+- [MT Senate District 47](/us/states/mt/districts/senate/47.md) — 12% (state senate)
+- [MT Senate District 50](/us/states/mt/districts/senate/50.md) — 4% (state senate)
+- [MT Senate District 48](/us/states/mt/districts/senate/48.md) — 2% (state senate)
+- [MT Senate District 38](/us/states/mt/districts/senate/38.md) — 1% (state senate)
+- [MT Senate District 49](/us/states/mt/districts/senate/49.md) — 1% (state senate)
+- [MT House District 92](/us/states/mt/districts/house/92.md) — 42% (state house)
+- [MT House District 90](/us/states/mt/districts/house/90.md) — 27% (state house)
+- [MT House District 93](/us/states/mt/districts/house/93.md) — 12% (state house)
+- [MT House District 91](/us/states/mt/districts/house/91.md) — 10% (state house)
+- [MT House District 99](/us/states/mt/districts/house/99.md) — 4% (state house)
+- [MT House District 96](/us/states/mt/districts/house/96.md) — 2% (state house)
+- [MT House District 76](/us/states/mt/districts/house/76.md) — 1% (state house)
+- [MT House District 89](/us/states/mt/districts/house/89.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

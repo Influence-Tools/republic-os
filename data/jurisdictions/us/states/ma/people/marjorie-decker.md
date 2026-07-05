@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 25th Middlesex"
+represents: "us/states/ma/districts/house/25th-middlesex"
 tenure:
   start: "2013-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marjorie Decker
 
 Current MA House District 25th Middlesex (MA State House of Representatives District 25th Middlesex).
+
+Represents [MA State House of Representatives District 25th Middlesex](/us/states/ma/districts/house/25th-middlesex.md).
 
 ## Sources
 

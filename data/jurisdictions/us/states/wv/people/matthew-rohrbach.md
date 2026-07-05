@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 26"
+represents: "us/states/wv/districts/house/26"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthew Rohrbach
 
 Current WV House District 26 (WV State House of Representatives District 26).
+
+Represents [WV State House of Representatives District 26](/us/states/wv/districts/house/26.md).
 
 ## Sources
 

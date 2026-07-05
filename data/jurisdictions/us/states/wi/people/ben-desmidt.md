@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 65"
+represents: "us/states/wi/districts/house/65"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben DeSmidt
 
 Current WI House District 65 (WI State House of Representatives District 65).
+
+Represents [WI State House of Representatives District 65](/us/states/wi/districts/house/65.md).
 
 ## Sources
 

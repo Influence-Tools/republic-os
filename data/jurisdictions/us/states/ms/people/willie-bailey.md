@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 49"
+represents: "us/states/ms/districts/house/49"
 tenure:
   start: "1995-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Willie Bailey
 
 Current MS House District 49 (MS State House of Representatives District 49).
+
+Represents [MS State House of Representatives District 49](/us/states/ms/districts/house/49.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windham-3"
+represents: "us/states/vt/districts/house/windham-3"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leslie Goldman
 
 Current VT House District Windham-3 (VT State House of Representatives District Windham-3).
+
+Represents [VT State House of Representatives District Windham-3](/us/states/vt/districts/house/windham-3.md).
 
 ## Sources
 

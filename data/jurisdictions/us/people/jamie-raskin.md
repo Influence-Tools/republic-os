@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 8"
+represents: "us/states/md/districts/08"
 committees:
   - name: "House Committee on the Judiciary"
     role: "ranking-member"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Jamie Raskin
 
 Current U.S. House of Representatives - MD-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/md/districts/08.md).
 
 ## Committees
 

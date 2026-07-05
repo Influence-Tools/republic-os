@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 9"
+represents: "us/states/va/districts/house/9"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karrie Delaney
 
 Current VA House District 9 (VA State House of Representatives District 9).
+
+Represents [VA State House of Representatives District 9](/us/states/va/districts/house/9.md).
 
 ## Sources
 

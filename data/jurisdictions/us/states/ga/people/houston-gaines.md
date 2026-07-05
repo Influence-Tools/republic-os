@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 120"
+represents: "us/states/ga/districts/house/120"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Houston Gaines
 
 Current GA House District 120 (GA State House of Representatives District 120).
+
+Represents [GA State House of Representatives District 120](/us/states/ga/districts/house/120.md).
 
 ## Sources
 

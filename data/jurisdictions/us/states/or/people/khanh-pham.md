@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 23"
+represents: "us/states/or/districts/senate/23"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Khanh Pham
 
 Current OR Senate District 23 (OR State Senate District 23).
+
+Represents [OR State Senate District 23](/us/states/or/districts/senate/23.md).
 
 ## Sources
 

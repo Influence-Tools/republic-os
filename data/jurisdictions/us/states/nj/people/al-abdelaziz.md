@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 35"
+represents: "us/states/nj/districts/house/35"
 tenure:
   start: "2025-01-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Abdelaziz
 
 Current NJ House District 35 (NJ State House of Representatives District 35).
+
+Represents [NJ State House of Representatives District 35](/us/states/nj/districts/house/35.md).
 
 ## Sources
 

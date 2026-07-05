@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 61"
+represents: "us/states/il/districts/house/61"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joyce Mason
 
 Current IL House District 61 (IL State House of Representatives District 61).
+
+Represents [IL State House of Representatives District 61](/us/states/il/districts/house/61.md).
 
 ## Sources
 

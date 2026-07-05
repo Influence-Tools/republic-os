@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 12th Bristol"
+represents: "us/states/ma/districts/house/12th-bristol"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Norm Orrall
 
 Current MA House District 12th Bristol (MA State House of Representatives District 12th Bristol).
+
+Represents [MA State House of Representatives District 12th Bristol](/us/states/ma/districts/house/12th-bristol.md).
 
 ## Sources
 

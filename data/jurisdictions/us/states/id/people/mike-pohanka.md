@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 26A"
+represents: "us/states/id/districts/house/26a"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Pohanka
 
 Current ID House District 26A (ID State House of Representatives District 26A).
+
+Represents [ID State House of Representatives District 26A](/us/states/id/districts/house/26a.md).
 
 ## Sources
 

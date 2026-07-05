@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 16"
+represents: "us/states/wi/districts/house/16"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kalan Haywood
 
 Current WI House District 16 (WI State House of Representatives District 16).
+
+Represents [WI State House of Representatives District 16](/us/states/wi/districts/house/16.md).
 
 ## Sources
 

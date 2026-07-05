@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 21"
+represents: "us/states/nd/districts/house/21"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Schneider
 
 Current ND House District 21 (ND State House of Representatives District 21).
+
+Represents [ND State House of Representatives District 21](/us/states/nd/districts/house/21.md).
 
 ## Sources
 

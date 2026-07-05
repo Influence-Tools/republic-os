@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 49"
+represents: "us/states/ks/districts/house/49"
 tenure:
   start: "2023-12-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nikki McDonald
 
 Current KS House District 49 (KS State House of Representatives District 49).
+
+Represents [KS State House of Representatives District 49](/us/states/ks/districts/house/49.md).
 
 ## Sources
 

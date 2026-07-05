@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 20B"
+represents: "us/states/id/districts/house/20b"
 tenure:
   start: "2012-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Holtzclaw
 
 Current ID House District 20B (ID State House of Representatives District 20B).
+
+Represents [ID State House of Representatives District 20B](/us/states/id/districts/house/20b.md).
 
 ## Sources
 

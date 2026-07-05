@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 23"
+represents: "us/states/nh/districts/house/merrimack-23"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Merryl Gibbs
 
 Current NH House District Merrimack 23 (NH State House of Representatives District Merrimack 23).
+
+Represents [NH State House of Representatives District Merrimack 23](/us/states/nh/districts/house/merrimack-23.md).
 
 ## Sources
 

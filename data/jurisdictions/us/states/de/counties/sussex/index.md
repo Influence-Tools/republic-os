@@ -22,9 +22,60 @@ demographics:
   race_native: 583
   hispanic: 32807
   bachelors_plus: 99838
+districts:
+  - to: "us/states/de/districts/00"
+    rel: in-district
+    area_weight: 0.8183
+  - to: "us/states/de/districts/senate/21"
+    rel: in-district
+    area_weight: 0.2455
+  - to: "us/states/de/districts/senate/18"
+    rel: in-district
+    area_weight: 0.2177
+  - to: "us/states/de/districts/senate/19"
+    rel: in-district
+    area_weight: 0.1386
+  - to: "us/states/de/districts/senate/6"
+    rel: in-district
+    area_weight: 0.1087
+  - to: "us/states/de/districts/senate/20"
+    rel: in-district
+    area_weight: 0.1069
+  - to: "us/states/de/districts/house/35"
+    rel: in-district
+    area_weight: 0.1654
+  - to: "us/states/de/districts/house/40"
+    rel: in-district
+    area_weight: 0.1303
+  - to: "us/states/de/districts/house/41"
+    rel: in-district
+    area_weight: 0.1116
+  - to: "us/states/de/districts/house/36"
+    rel: in-district
+    area_weight: 0.1031
+  - to: "us/states/de/districts/house/37"
+    rel: in-district
+    area_weight: 0.075
+  - to: "us/states/de/districts/house/39"
+    rel: in-district
+    area_weight: 0.059
+  - to: "us/states/de/districts/house/20"
+    rel: in-district
+    area_weight: 0.0483
+  - to: "us/states/de/districts/house/38"
+    rel: in-district
+    area_weight: 0.0452
+  - to: "us/states/de/districts/house/4"
+    rel: in-district
+    area_weight: 0.0436
+  - to: "us/states/de/districts/house/14"
+    rel: in-district
+    area_weight: 0.0358
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, de]
 timestamp: "2026-07-03"
@@ -56,6 +107,26 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 32807 |
 | Bachelor's or higher | 99838 |
 
+## Districts
+
+- [DE-00](/us/states/de/districts/00.md) — 82% (congressional)
+- [DE Senate District 21](/us/states/de/districts/senate/21.md) — 25% (state senate)
+- [DE Senate District 18](/us/states/de/districts/senate/18.md) — 22% (state senate)
+- [DE Senate District 19](/us/states/de/districts/senate/19.md) — 14% (state senate)
+- [DE Senate District 6](/us/states/de/districts/senate/6.md) — 11% (state senate)
+- [DE Senate District 20](/us/states/de/districts/senate/20.md) — 11% (state senate)
+- [DE House District 35](/us/states/de/districts/house/35.md) — 17% (state house)
+- [DE House District 40](/us/states/de/districts/house/40.md) — 13% (state house)
+- [DE House District 41](/us/states/de/districts/house/41.md) — 11% (state house)
+- [DE House District 36](/us/states/de/districts/house/36.md) — 10% (state house)
+- [DE House District 37](/us/states/de/districts/house/37.md) — 8% (state house)
+- [DE House District 39](/us/states/de/districts/house/39.md) — 6% (state house)
+- [DE House District 20](/us/states/de/districts/house/20.md) — 5% (state house)
+- [DE House District 38](/us/states/de/districts/house/38.md) — 5% (state house)
+- [DE House District 4](/us/states/de/districts/house/4.md) — 4% (state house)
+- [DE House District 14](/us/states/de/districts/house/14.md) — 4% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

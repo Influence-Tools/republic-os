@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 6"
+represents: "us/states/in/districts/house/6"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maureen Bauer
 
 Current IN House District 6 (IN State House of Representatives District 6).
+
+Represents [IN State House of Representatives District 6](/us/states/in/districts/house/6.md).
 
 ## Sources
 

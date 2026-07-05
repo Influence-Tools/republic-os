@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 18"
+represents: "us/states/ks/districts/senate/18"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kenny Titus
 
 Current KS Senate District 18 (KS State Senate District 18).
+
+Represents [KS State Senate District 18](/us/states/ks/districts/senate/18.md).
 
 ## Sources
 

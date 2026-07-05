@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 23"
+represents: "us/states/nh/districts/senate/23"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Gannon
 
 Current NH Senate District 23 (NH State Senate District 23).
+
+Represents [NH State Senate District 23](/us/states/nh/districts/senate/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 94"
+represents: "us/states/ia/districts/house/94"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Vondran
 
 Current IA House District 94 (IA State House of Representatives District 94).
+
+Represents [IA State House of Representatives District 94](/us/states/ia/districts/house/94.md).
 
 ## Sources
 

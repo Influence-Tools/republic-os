@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 12"
+represents: "us/states/nm/districts/house/12"
 tenure:
   start: "2022-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Art De La Cruz
 
 Current NM House District 12 (NM State House of Representatives District 12).
+
+Represents [NM State House of Representatives District 12](/us/states/nm/districts/house/12.md).
 
 ## Sources
 

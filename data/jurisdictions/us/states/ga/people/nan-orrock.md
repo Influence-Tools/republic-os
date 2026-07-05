@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 36"
+represents: "us/states/ga/districts/senate/36"
 tenure:
   start: "2007-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nan Orrock
 
 Current GA Senate District 36 (GA State Senate District 36).
+
+Represents [GA State Senate District 36](/us/states/ga/districts/senate/36.md).
 
 ## Sources
 

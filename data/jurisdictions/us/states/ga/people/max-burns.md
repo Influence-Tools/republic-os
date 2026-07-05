@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 23"
+represents: "us/states/ga/districts/senate/23"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Max Burns
 
 Current GA Senate District 23 (GA State Senate District 23).
+
+Represents [GA State Senate District 23](/us/states/ga/districts/senate/23.md).
 
 ## Sources
 

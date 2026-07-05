@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 6"
+represents: "us/states/ks/districts/senate/6"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Pettey
 
 Current KS Senate District 6 (KS State Senate District 6).
+
+Represents [KS State Senate District 6](/us/states/ks/districts/senate/6.md).
 
 ## Sources
 

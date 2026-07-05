@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 89"
+represents: "us/states/ky/districts/house/89"
 tenure:
   start: "2021-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Timmy Truett
 
 Current KY House District 89 (KY State House of Representatives District 89).
+
+Represents [KY State House of Representatives District 89](/us/states/ky/districts/house/89.md).
 
 ## Sources
 

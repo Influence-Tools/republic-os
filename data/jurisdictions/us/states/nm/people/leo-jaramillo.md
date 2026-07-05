@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 5"
+represents: "us/states/nm/districts/senate/5"
 tenure:
   start: "2020-12-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leo Jaramillo
 
 Current NM Senate District 5 (NM State Senate District 5).
+
+Represents [NM State Senate District 5](/us/states/nm/districts/senate/5.md).
 
 ## Sources
 

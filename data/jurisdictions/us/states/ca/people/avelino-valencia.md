@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 68"
+represents: "us/states/ca/districts/house/68"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Avelino Valencia
 
 Current CA House District 68 (CA State House of Representatives District 68).
+
+Represents [CA State House of Representatives District 68](/us/states/ca/districts/house/68.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 21"
+represents: "us/states/ky/districts/senate/21"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Storm
 
 Current KY Senate District 21 (KY State Senate District 21).
+
+Represents [KY State Senate District 21](/us/states/ky/districts/senate/21.md).
 
 ## Sources
 

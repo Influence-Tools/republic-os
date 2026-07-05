@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 17"
+represents: "us/states/nj/districts/senate/17"
 tenure:
   start: "2002-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Smith
 
 Current NJ Senate District 17 (NJ State Senate District 17).
+
+Represents [NJ State Senate District 17](/us/states/nj/districts/senate/17.md).
 
 ## Sources
 

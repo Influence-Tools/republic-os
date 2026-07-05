@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 3"
+represents: "us/states/sd/districts/house/3"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandei Schaefbauer
 
 Current SD House District 3 (SD State House of Representatives District 3).
+
+Represents [SD State House of Representatives District 3](/us/states/sd/districts/house/3.md).
 
 ## Sources
 

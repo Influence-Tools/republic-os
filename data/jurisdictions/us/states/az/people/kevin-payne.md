@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 27"
+represents: "us/states/az/districts/senate/27"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Payne
 
 Current AZ Senate District 27 (AZ State Senate District 27).
+
+Represents [AZ State Senate District 27](/us/states/az/districts/senate/27.md).
 
 ## Sources
 

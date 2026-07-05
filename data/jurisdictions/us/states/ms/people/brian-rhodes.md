@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 36"
+represents: "us/states/ms/districts/senate/36"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Rhodes
 
 Current MS Senate District 36 (MS State Senate District 36).
+
+Represents [MS State Senate District 36](/us/states/ms/districts/senate/36.md).
 
 ## Sources
 

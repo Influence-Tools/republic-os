@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 29"
+represents: "us/states/nh/districts/house/rockingham-29"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Muns
 
 Current NH House District Rockingham 29 (NH State House of Representatives District Rockingham 29).
+
+Represents [NH State House of Representatives District Rockingham 29](/us/states/nh/districts/house/rockingham-29.md).
 
 ## Sources
 

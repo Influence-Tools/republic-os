@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 24"
+represents: "us/states/me/districts/house/24"
 tenure:
   start: "2025-02-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Faircloth
 
 Current ME House District 24 (ME State House of Representatives District 24).
+
+Represents [ME State House of Representatives District 24](/us/states/me/districts/house/24.md).
 
 ## Sources
 

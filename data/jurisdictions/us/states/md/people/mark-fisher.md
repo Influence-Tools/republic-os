@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 27C"
+represents: "us/states/md/districts/house/27c"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Fisher
 
 Current MD House District 27C (MD State House of Representatives District 27C).
+
+Represents [MD State House of Representatives District 27C](/us/states/md/districts/house/27c.md).
 
 ## Sources
 

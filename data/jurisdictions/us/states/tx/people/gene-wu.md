@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 137"
+represents: "us/states/tx/districts/house/137"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gene Wu
 
 Current TX House District 137 (TX State House of Representatives District 137).
+
+Represents [TX State House of Representatives District 137](/us/states/tx/districts/house/137.md).
 
 ## Sources
 

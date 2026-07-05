@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 6"
+represents: "us/states/nv/districts/senate/6"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Cannizzaro
 
 Current NV Senate District 6 (NV State Senate District 6).
+
+Represents [NV State Senate District 6](/us/states/nv/districts/senate/6.md).
 
 ## Sources
 

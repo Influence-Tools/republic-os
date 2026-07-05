@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 61"
+represents: "us/states/mt/districts/house/61"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Edwards
 
 Current MT House District 61 (MT State House of Representatives District 61).
+
+Represents [MT State House of Representatives District 61](/us/states/mt/districts/house/61.md).
 
 ## Sources
 

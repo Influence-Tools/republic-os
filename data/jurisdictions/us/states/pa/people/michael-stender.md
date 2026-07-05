@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 108"
+represents: "us/states/pa/districts/house/108"
 tenure:
   start: "2023-06-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Stender
 
 Current PA House District 108 (PA State House of Representatives District 108).
+
+Represents [PA State House of Representatives District 108](/us/states/pa/districts/house/108.md).
 
 ## Sources
 

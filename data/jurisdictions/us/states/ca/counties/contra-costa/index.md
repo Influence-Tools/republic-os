@@ -22,9 +22,42 @@ demographics:
   race_native: 11438
   hispanic: 321749
   bachelors_plus: 513781
+districts:
+  - to: "us/states/ca/districts/10"
+    rel: in-district
+    area_weight: 0.6818
+  - to: "us/states/ca/districts/08"
+    rel: in-district
+    area_weight: 0.2132
+  - to: "us/states/ca/districts/09"
+    rel: in-district
+    area_weight: 0.0488
+  - to: "us/states/ca/districts/senate/9"
+    rel: in-district
+    area_weight: 0.6822
+  - to: "us/states/ca/districts/senate/3"
+    rel: in-district
+    area_weight: 0.1808
+  - to: "us/states/ca/districts/senate/7"
+    rel: in-district
+    area_weight: 0.0826
+  - to: "us/states/ca/districts/house/15"
+    rel: in-district
+    area_weight: 0.4314
+  - to: "us/states/ca/districts/house/16"
+    rel: in-district
+    area_weight: 0.2897
+  - to: "us/states/ca/districts/house/11"
+    rel: in-district
+    area_weight: 0.134
+  - to: "us/states/ca/districts/house/14"
+    rel: in-district
+    area_weight: 0.0904
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ca]
 timestamp: "2026-07-03"
@@ -56,6 +89,20 @@ County jurisdiction — 7 officeholders mapped.
 | Hispanic/Latino | 321749 |
 | Bachelor's or higher | 513781 |
 
+## Districts
+
+- [CA-10](/us/states/ca/districts/10.md) — 68% (congressional)
+- [CA-08](/us/states/ca/districts/08.md) — 21% (congressional)
+- [CA-09](/us/states/ca/districts/09.md) — 5% (congressional)
+- [CA Senate District 9](/us/states/ca/districts/senate/9.md) — 68% (state senate)
+- [CA Senate District 3](/us/states/ca/districts/senate/3.md) — 18% (state senate)
+- [CA Senate District 7](/us/states/ca/districts/senate/7.md) — 8% (state senate)
+- [CA House District 15](/us/states/ca/districts/house/15.md) — 43% (state house)
+- [CA House District 16](/us/states/ca/districts/house/16.md) — 29% (state house)
+- [CA House District 11](/us/states/ca/districts/house/11.md) — 13% (state house)
+- [CA House District 14](/us/states/ca/districts/house/14.md) — 9% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

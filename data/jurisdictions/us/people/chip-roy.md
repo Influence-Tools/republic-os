@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 21"
+represents: "us/states/tx/districts/21"
 committees:
   - name: "House Committee on Rules"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Chip Roy
 
 Current U.S. House of Representatives - TX-21 (Congressional District 21).
+
+Represents [Congressional District 21](/us/states/tx/districts/21.md).
 
 ## Committees
 

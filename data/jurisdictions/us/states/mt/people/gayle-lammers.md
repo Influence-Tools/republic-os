@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 21"
+represents: "us/states/mt/districts/senate/21"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gayle Lammers
 
 Current MT Senate District 21 (MT State Senate District 21).
+
+Represents [MT State Senate District 21](/us/states/mt/districts/senate/21.md).
 
 ## Sources
 

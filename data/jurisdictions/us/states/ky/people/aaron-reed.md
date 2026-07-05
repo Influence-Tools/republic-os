@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 7"
+represents: "us/states/ky/districts/senate/7"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Reed
 
 Current KY Senate District 7 (KY State Senate District 7).
+
+Represents [KY State Senate District 7](/us/states/ky/districts/senate/7.md).
 
 ## Sources
 

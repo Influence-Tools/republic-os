@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 47"
+represents: "us/states/in/districts/senate/47"
 tenure:
   start: "2022-02-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Byrne
 
 Current IN Senate District 47 (IN State Senate District 47).
+
+Represents [IN State Senate District 47](/us/states/in/districts/senate/47.md).
 
 ## Sources
 

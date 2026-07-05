@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 14"
+represents: "us/states/tx/districts/house/14"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Dyson
 
 Current TX House District 14 (TX State House of Representatives District 14).
+
+Represents [TX State House of Representatives District 14](/us/states/tx/districts/house/14.md).
 
 ## Sources
 

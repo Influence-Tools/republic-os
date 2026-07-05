@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 80"
+represents: "us/states/pa/districts/house/80"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Barger
 
 Current PA House District 80 (PA State House of Representatives District 80).
+
+Represents [PA State House of Representatives District 80](/us/states/pa/districts/house/80.md).
 
 ## Sources
 

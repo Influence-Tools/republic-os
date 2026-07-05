@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 87"
+represents: "us/states/pa/districts/house/87"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Kutz
 
 Current PA House District 87 (PA State House of Representatives District 87).
+
+Represents [PA State House of Representatives District 87](/us/states/pa/districts/house/87.md).
 
 ## Sources
 

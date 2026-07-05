@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 67"
+represents: "us/states/mt/districts/house/67"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jedediah Hinkle
 
 Current MT House District 67 (MT State House of Representatives District 67).
+
+Represents [MT State House of Representatives District 67](/us/states/mt/districts/house/67.md).
 
 ## Sources
 

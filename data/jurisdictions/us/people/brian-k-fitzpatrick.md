@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 1"
+represents: "us/states/pa/districts/01"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Brian K. Fitzpatrick
 
 Current U.S. House of Representatives - PA-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/pa/districts/01.md).
 
 ## Committees
 

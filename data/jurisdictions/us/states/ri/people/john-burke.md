@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 9"
+represents: "us/states/ri/districts/senate/9"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Burke
 
 Current RI Senate District 9 (RI State Senate District 9).
+
+Represents [RI State Senate District 9](/us/states/ri/districts/senate/9.md).
 
 ## Sources
 

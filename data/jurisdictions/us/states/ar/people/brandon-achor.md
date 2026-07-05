@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 71"
+represents: "us/states/ar/districts/house/71"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Achor
 
 Current AR House District 71 (AR State House of Representatives District 71).
+
+Represents [AR State House of Representatives District 71](/us/states/ar/districts/house/71.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 42"
+represents: "us/states/mt/districts/senate/42"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Ann Dunwell
 
 Current MT Senate District 42 (MT State Senate District 42).
+
+Represents [MT State Senate District 42](/us/states/mt/districts/senate/42.md).
 
 ## Sources
 

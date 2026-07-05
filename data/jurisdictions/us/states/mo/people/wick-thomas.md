@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 19"
+represents: "us/states/mo/districts/house/19"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wick Thomas
 
 Current MO House District 19 (MO State House of Representatives District 19).
+
+Represents [MO State House of Representatives District 19](/us/states/mo/districts/house/19.md).
 
 ## Sources
 

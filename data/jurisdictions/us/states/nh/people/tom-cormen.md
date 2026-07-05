@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 15"
+represents: "us/states/nh/districts/house/grafton-15"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Cormen
 
 Current NH House District Grafton 15 (NH State House of Representatives District Grafton 15).
+
+Represents [NH State House of Representatives District Grafton 15](/us/states/nh/districts/house/grafton-15.md).
 
 ## Sources
 

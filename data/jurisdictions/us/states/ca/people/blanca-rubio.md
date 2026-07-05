@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 48"
+represents: "us/states/ca/districts/house/48"
 tenure:
   start: "2016-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blanca Rubio
 
 Current CA House District 48 (CA State House of Representatives District 48).
+
+Represents [CA State House of Representatives District 48](/us/states/ca/districts/house/48.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 5"
+represents: "us/states/co/districts/senate/5"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marc Catlin
 
 Current CO Senate District 5 (CO State Senate District 5).
+
+Represents [CO State Senate District 5](/us/states/co/districts/senate/5.md).
 
 ## Sources
 

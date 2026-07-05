@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 32"
+represents: "us/states/pa/districts/house/32"
 tenure:
   start: "2023-02-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe McAndrew
 
 Current PA House District 32 (PA State House of Representatives District 32).
+
+Represents [PA State House of Representatives District 32](/us/states/pa/districts/house/32.md).
 
 ## Sources
 

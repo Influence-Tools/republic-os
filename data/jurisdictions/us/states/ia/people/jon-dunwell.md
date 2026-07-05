@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 38"
+represents: "us/states/ia/districts/house/38"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Dunwell
 
 Current IA House District 38 (IA State House of Representatives District 38).
+
+Represents [IA State House of Representatives District 38](/us/states/ia/districts/house/38.md).
 
 ## Sources
 

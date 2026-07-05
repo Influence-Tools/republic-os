@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 6"
+represents: "us/states/wy/districts/house/6"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tomi Strock
 
 Current WY House District 6 (WY State House of Representatives District 6).
+
+Represents [WY State House of Representatives District 6](/us/states/wy/districts/house/6.md).
 
 ## Sources
 

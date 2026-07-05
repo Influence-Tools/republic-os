@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 14"
+represents: "us/states/ga/districts/senate/14"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh McLaurin
 
 Current GA Senate District 14 (GA State Senate District 14).
+
+Represents [GA State Senate District 14](/us/states/ga/districts/senate/14.md).
 
 ## Sources
 

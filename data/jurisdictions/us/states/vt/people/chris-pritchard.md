@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Rutland-Bennington"
+represents: "us/states/vt/districts/house/rutland-bennington"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Pritchard
 
 Current VT House District Rutland-Bennington (VT State House of Representatives District Rutland-Bennington).
+
+Represents [VT State House of Representatives District Rutland-Bennington](/us/states/vt/districts/house/rutland-bennington.md).
 
 ## Sources
 

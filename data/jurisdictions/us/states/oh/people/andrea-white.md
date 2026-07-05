@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 36"
+represents: "us/states/oh/districts/house/36"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea White
 
 Current OH House District 36 (OH State House of Representatives District 36).
+
+Represents [OH State House of Representatives District 36](/us/states/oh/districts/house/36.md).
 
 ## Sources
 

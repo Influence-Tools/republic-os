@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 24"
+represents: "us/states/hi/districts/senate/24"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jarrett Keohokalole
 
 Current HI Senate District 24 (HI State Senate District 24).
+
+Represents [HI State Senate District 24](/us/states/hi/districts/senate/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 9"
+represents: "us/states/va/districts/09"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # H. Morgan Griffith
 
 Current U.S. House of Representatives - VA-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/va/districts/09.md).
 
 ## Committees
 

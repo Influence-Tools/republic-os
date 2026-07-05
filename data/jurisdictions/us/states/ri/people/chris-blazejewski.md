@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 2"
+represents: "us/states/ri/districts/house/2"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Blazejewski
 
 Current RI House District 2 (RI State House of Representatives District 2).
+
+Represents [RI State House of Representatives District 2](/us/states/ri/districts/house/2.md).
 
 ## Sources
 

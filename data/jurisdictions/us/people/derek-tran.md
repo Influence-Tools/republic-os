@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 45"
+represents: "us/states/ca/districts/45"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Derek Tran
 
 Current U.S. House of Representatives - CA-45 (Congressional District 45).
+
+Represents [Congressional District 45](/us/states/ca/districts/45.md).
 
 ## Committees
 

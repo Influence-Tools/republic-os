@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 57"
+represents: "us/states/nc/districts/house/57"
 tenure:
   start: "2024-08-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Clark
 
 Current NC House District 57 (NC State House of Representatives District 57).
+
+Represents [NC State House of Representatives District 57](/us/states/nc/districts/house/57.md).
 
 ## Sources
 

@@ -22,9 +22,39 @@ demographics:
   race_native: 2935
   hispanic: 166454
   bachelors_plus: 303533
+districts:
+  - to: "us/states/tx/districts/31"
+    rel: in-district
+    area_weight: 0.7816
+  - to: "us/states/tx/districts/17"
+    rel: in-district
+    area_weight: 0.1867
+  - to: "us/states/tx/districts/10"
+    rel: in-district
+    area_weight: 0.0175
+  - to: "us/states/tx/districts/37"
+    rel: in-district
+    area_weight: 0.0142
+  - to: "us/states/tx/districts/senate/5"
+    rel: in-district
+    area_weight: 0.9007
+  - to: "us/states/tx/districts/senate/24"
+    rel: in-district
+    area_weight: 0.0992
+  - to: "us/states/tx/districts/house/52"
+    rel: in-district
+    area_weight: 0.6081
+  - to: "us/states/tx/districts/house/20"
+    rel: in-district
+    area_weight: 0.3396
+  - to: "us/states/tx/districts/house/136"
+    rel: in-district
+    area_weight: 0.0522
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, tx]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 5 officeholders mapped.
 | Hispanic/Latino | 166454 |
 | Bachelor's or higher | 303533 |
 
+## Districts
+
+- [TX-31](/us/states/tx/districts/31.md) — 78% (congressional)
+- [TX-17](/us/states/tx/districts/17.md) — 19% (congressional)
+- [TX-10](/us/states/tx/districts/10.md) — 2% (congressional)
+- [TX-37](/us/states/tx/districts/37.md) — 1% (congressional)
+- [TX Senate District 5](/us/states/tx/districts/senate/5.md) — 90% (state senate)
+- [TX Senate District 24](/us/states/tx/districts/senate/24.md) — 10% (state senate)
+- [TX House District 52](/us/states/tx/districts/house/52.md) — 61% (state house)
+- [TX House District 20](/us/states/tx/districts/house/20.md) — 34% (state house)
+- [TX House District 136](/us/states/tx/districts/house/136.md) — 5% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

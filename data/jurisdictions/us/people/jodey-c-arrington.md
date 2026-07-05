@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 19"
+represents: "us/states/tx/districts/19"
 committees:
   - name: "House Committee on the Budget"
     role: "chair"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Jodey C. Arrington
 
 Current U.S. House of Representatives - TX-19 (Congressional District 19).
+
+Represents [Congressional District 19](/us/states/tx/districts/19.md).
 
 ## Committees
 

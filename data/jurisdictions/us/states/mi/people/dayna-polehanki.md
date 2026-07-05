@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 5"
+represents: "us/states/mi/districts/senate/5"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dayna Polehanki
 
 Current MI Senate District 5 (MI State Senate District 5).
+
+Represents [MI State Senate District 5](/us/states/mi/districts/senate/5.md).
 
 ## Sources
 

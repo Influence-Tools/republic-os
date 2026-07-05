@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 2"
+represents: "us/states/va/districts/02"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -67,6 +68,8 @@ timestamp: "2026-07-04"
 # Jennifer A. Kiggans
 
 Current U.S. House of Representatives - VA-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/va/districts/02.md).
 
 ## Committees
 

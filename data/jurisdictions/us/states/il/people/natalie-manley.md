@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 98"
+represents: "us/states/il/districts/house/98"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natalie Manley
 
 Current IL House District 98 (IL State House of Representatives District 98).
+
+Represents [IL State House of Representatives District 98](/us/states/il/districts/house/98.md).
 
 ## Sources
 

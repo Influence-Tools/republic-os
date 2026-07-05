@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 132"
+represents: "us/states/pa/districts/house/132"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Schlossberg
 
 Current PA House District 132 (PA State House of Representatives District 132).
+
+Represents [PA State House of Representatives District 132](/us/states/pa/districts/house/132.md).
 
 ## Sources
 

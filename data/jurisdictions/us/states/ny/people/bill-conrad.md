@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 140"
+represents: "us/states/ny/districts/house/140"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Conrad
 
 Current NY House District 140 (NY State House of Representatives District 140).
+
+Represents [NY State House of Representatives District 140](/us/states/ny/districts/house/140.md).
 
 ## Sources
 

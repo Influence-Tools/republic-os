@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 12"
+represents: "us/states/va/districts/senate/12"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Glen Sturtevant
 
 Current VA Senate District 12 (VA State Senate District 12).
+
+Represents [VA State Senate District 12](/us/states/va/districts/senate/12.md).
 
 ## Sources
 

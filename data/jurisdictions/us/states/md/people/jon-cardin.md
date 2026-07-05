@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 11B"
+represents: "us/states/md/districts/house/11b"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Cardin
 
 Current MD House District 11B (MD State House of Representatives District 11B).
+
+Represents [MD State House of Representatives District 11B](/us/states/md/districts/house/11b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 86"
+represents: "us/states/tx/districts/house/86"
 tenure:
   start: "1985-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Smithee
 
 Current TX House District 86 (TX State House of Representatives District 86).
+
+Represents [TX State House of Representatives District 86](/us/states/tx/districts/house/86.md).
 
 ## Sources
 

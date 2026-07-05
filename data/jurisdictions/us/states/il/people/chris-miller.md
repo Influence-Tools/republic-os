@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 101"
+represents: "us/states/il/districts/house/101"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Miller
 
 Current IL House District 101 (IL State House of Representatives District 101).
+
+Represents [IL State House of Representatives District 101](/us/states/il/districts/house/101.md).
 
 ## Sources
 

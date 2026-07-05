@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 85"
+represents: "us/states/il/districts/house/85"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dee Avelar
 
 Current IL House District 85 (IL State House of Representatives District 85).
+
+Represents [IL State House of Representatives District 85](/us/states/il/districts/house/85.md).
 
 ## Sources
 

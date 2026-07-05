@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 35"
+represents: "us/states/wa/districts/senate/35"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Drew MacEwen
 
 Current WA Senate District 35 (WA State Senate District 35).
+
+Represents [WA State Senate District 35](/us/states/wa/districts/senate/35.md).
 
 ## Sources
 

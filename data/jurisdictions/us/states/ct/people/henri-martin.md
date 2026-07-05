@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 31"
+represents: "us/states/ct/districts/senate/31"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Henri Martin
 
 Current CT Senate District 31 (CT State Senate District 31).
+
+Represents [CT State Senate District 31](/us/states/ct/districts/senate/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 31"
+represents: "us/states/hi/districts/house/31"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Ichiyama
 
 Current HI House District 31 (HI State House of Representatives District 31).
+
+Represents [HI State House of Representatives District 31](/us/states/hi/districts/house/31.md).
 
 ## Sources
 

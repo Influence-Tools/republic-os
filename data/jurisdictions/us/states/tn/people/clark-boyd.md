@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 46"
+represents: "us/states/tn/districts/house/46"
 tenure:
   start: "2018-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clark Boyd
 
 Current TN House District 46 (TN State House of Representatives District 46).
+
+Represents [TN State House of Representatives District 46](/us/states/tn/districts/house/46.md).
 
 ## Sources
 

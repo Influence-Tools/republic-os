@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 40"
+represents: "us/states/ga/districts/senate/40"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sally Harrell
 
 Current GA Senate District 40 (GA State Senate District 40).
+
+Represents [GA State Senate District 40](/us/states/ga/districts/senate/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 28"
+represents: "us/states/or/districts/senate/28"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Diane Linthicum
 
 Current OR Senate District 28 (OR State Senate District 28).
+
+Represents [OR State Senate District 28](/us/states/or/districts/senate/28.md).
 
 ## Sources
 

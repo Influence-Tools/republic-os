@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 45"
+represents: "us/states/mo/districts/house/45"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Steinhoff
 
 Current MO House District 45 (MO State House of Representatives District 45).
+
+Represents [MO State House of Representatives District 45](/us/states/mo/districts/house/45.md).
 
 ## Sources
 

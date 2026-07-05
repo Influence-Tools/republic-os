@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 44"
+represents: "us/states/wa/districts/house/44"
 tenure:
   start: "2021-12-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandy Donaghy
 
 Current WA House District 44 (WA State House of Representatives District 44).
+
+Represents [WA State House of Representatives District 44](/us/states/wa/districts/house/44.md).
 
 ## Sources
 

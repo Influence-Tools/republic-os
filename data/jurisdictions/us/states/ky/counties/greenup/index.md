@@ -22,9 +22,21 @@ demographics:
   race_native: 29
   hispanic: 420
   bachelors_plus: 7073
+districts:
+  - to: "us/states/ky/districts/04"
+    rel: in-district
+    area_weight: 0.9986
+  - to: "us/states/ky/districts/senate/18"
+    rel: in-district
+    area_weight: 0.9994
+  - to: "us/states/ky/districts/house/98"
+    rel: in-district
+    area_weight: 0.9989
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ky]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 420 |
 | Bachelor's or higher | 7073 |
 
+## Districts
+
+- [KY-04](/us/states/ky/districts/04.md) — 100% (congressional)
+- [KY Senate District 18](/us/states/ky/districts/senate/18.md) — 100% (state senate)
+- [KY House District 98](/us/states/ky/districts/house/98.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

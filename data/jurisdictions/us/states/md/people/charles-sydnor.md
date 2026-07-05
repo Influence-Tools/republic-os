@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 44"
+represents: "us/states/md/districts/senate/44"
 tenure:
   start: "2020-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charles Sydnor
 
 Current MD Senate District 44 (MD State Senate District 44).
+
+Represents [MD State Senate District 44](/us/states/md/districts/senate/44.md).
 
 ## Sources
 

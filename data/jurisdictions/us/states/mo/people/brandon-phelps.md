@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 54"
+represents: "us/states/mo/districts/house/54"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Phelps
 
 Current MO House District 54 (MO State House of Representatives District 54).
+
+Represents [MO State House of Representatives District 54](/us/states/mo/districts/house/54.md).
 
 ## Sources
 

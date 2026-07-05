@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Plymouth"
+represents: "us/states/ma/districts/house/3rd-plymouth"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joan Meschino
 
 Current MA House District 3rd Plymouth (MA State House of Representatives District 3rd Plymouth).
+
+Represents [MA State House of Representatives District 3rd Plymouth](/us/states/ma/districts/house/3rd-plymouth.md).
 
 ## Sources
 

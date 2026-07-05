@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 12"
+represents: "us/states/nj/districts/senate/12"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Owen Henry
 
 Current NJ Senate District 12 (NJ State Senate District 12).
+
+Represents [NJ State Senate District 12](/us/states/nj/districts/senate/12.md).
 
 ## Sources
 

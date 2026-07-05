@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 149"
+represents: "us/states/ga/districts/house/149"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Floyd Griffin
 
 Current GA House District 149 (GA State House of Representatives District 149).
+
+Represents [GA State House of Representatives District 149](/us/states/ga/districts/house/149.md).
 
 ## Sources
 

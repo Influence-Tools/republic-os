@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windham-Windsor-Bennington"
+represents: "us/states/vt/districts/house/windham-windsor-bennington"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Morrow
 
 Current VT House District Windham-Windsor-Bennington (VT State House of Representatives District Windham-Windsor-Bennington).
+
+Represents [VT State House of Representatives District Windham-Windsor-Bennington](/us/states/vt/districts/house/windham-windsor-bennington.md).
 
 ## Sources
 

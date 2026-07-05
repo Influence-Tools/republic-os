@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 22"
+represents: "us/states/az/districts/senate/22"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eva Diaz
 
 Current AZ Senate District 22 (AZ State Senate District 22).
+
+Represents [AZ State Senate District 22](/us/states/az/districts/senate/22.md).
 
 ## Sources
 

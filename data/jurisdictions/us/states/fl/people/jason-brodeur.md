@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 10"
+represents: "us/states/fl/districts/senate/10"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Brodeur
 
 Current FL Senate District 10 (FL State Senate District 10).
+
+Represents [FL State Senate District 10](/us/states/fl/districts/senate/10.md).
 
 ## Sources
 

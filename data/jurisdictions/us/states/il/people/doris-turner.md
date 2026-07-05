@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 48"
+represents: "us/states/il/districts/senate/48"
 tenure:
   start: "2021-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doris Turner
 
 Current IL Senate District 48 (IL State Senate District 48).
+
+Represents [IL State Senate District 48](/us/states/il/districts/senate/48.md).
 
 ## Sources
 

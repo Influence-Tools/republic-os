@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 57"
+represents: "us/states/wi/districts/house/57"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Petersen
 
 Current WI House District 57 (WI State House of Representatives District 57).
+
+Represents [WI State House of Representatives District 57](/us/states/wi/districts/house/57.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 17"
+represents: "us/states/sc/districts/senate/17"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Everett Stubbs
 
 Current SC Senate District 17 (SC State Senate District 17).
+
+Represents [SC State Senate District 17](/us/states/sc/districts/senate/17.md).
 
 ## Sources
 

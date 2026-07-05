@@ -22,9 +22,39 @@ demographics:
   race_native: 110
   hispanic: 13809
   bachelors_plus: 104961
+districts:
+  - to: "us/states/pa/districts/10"
+    rel: in-district
+    area_weight: 0.7019
+  - to: "us/states/pa/districts/13"
+    rel: in-district
+    area_weight: 0.2981
+  - to: "us/states/pa/districts/senate/34"
+    rel: in-district
+    area_weight: 0.946
+  - to: "us/states/pa/districts/senate/31"
+    rel: in-district
+    area_weight: 0.0539
+  - to: "us/states/pa/districts/house/199"
+    rel: in-district
+    area_weight: 0.4194
+  - to: "us/states/pa/districts/house/193"
+    rel: in-district
+    area_weight: 0.2946
+  - to: "us/states/pa/districts/house/87"
+    rel: in-district
+    area_weight: 0.2064
+  - to: "us/states/pa/districts/house/88"
+    rel: in-district
+    area_weight: 0.0512
+  - to: "us/states/pa/districts/house/103"
+    rel: in-district
+    area_weight: 0.0281
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, pa]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction.
 | Hispanic/Latino | 13809 |
 | Bachelor's or higher | 104961 |
 
+## Districts
+
+- [PA-10](/us/states/pa/districts/10.md) — 70% (congressional)
+- [PA-13](/us/states/pa/districts/13.md) — 30% (congressional)
+- [PA Senate District 34](/us/states/pa/districts/senate/34.md) — 95% (state senate)
+- [PA Senate District 31](/us/states/pa/districts/senate/31.md) — 5% (state senate)
+- [PA House District 199](/us/states/pa/districts/house/199.md) — 42% (state house)
+- [PA House District 193](/us/states/pa/districts/house/193.md) — 29% (state house)
+- [PA House District 87](/us/states/pa/districts/house/87.md) — 21% (state house)
+- [PA House District 88](/us/states/pa/districts/house/88.md) — 5% (state house)
+- [PA House District 103](/us/states/pa/districts/house/103.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

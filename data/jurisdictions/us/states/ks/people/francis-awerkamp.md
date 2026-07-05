@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 61"
+represents: "us/states/ks/districts/house/61"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Francis Awerkamp
 
 Current KS House District 61 (KS State House of Representatives District 61).
+
+Represents [KS State House of Representatives District 61](/us/states/ks/districts/house/61.md).
 
 ## Sources
 

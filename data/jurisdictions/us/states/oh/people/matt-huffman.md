@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 78"
+represents: "us/states/oh/districts/house/78"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Huffman
 
 Current OH House District 78 (OH State House of Representatives District 78).
+
+Represents [OH State House of Representatives District 78](/us/states/oh/districts/house/78.md).
 
 ## Sources
 

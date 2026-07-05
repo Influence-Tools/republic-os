@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 79"
+represents: "us/states/sc/districts/house/79"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hamilton Grant
 
 Current SC House District 79 (SC State House of Representatives District 79).
+
+Represents [SC State House of Representatives District 79](/us/states/sc/districts/house/79.md).
 
 ## Sources
 

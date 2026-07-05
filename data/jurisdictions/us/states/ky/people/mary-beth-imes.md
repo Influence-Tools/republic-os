@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 5"
+represents: "us/states/ky/districts/house/5"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Beth Imes
 
 Current KY House District 5 (KY State House of Representatives District 5).
+
+Represents [KY State House of Representatives District 5](/us/states/ky/districts/house/5.md).
 
 ## Sources
 

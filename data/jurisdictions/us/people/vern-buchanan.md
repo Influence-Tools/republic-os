@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 16"
+represents: "us/states/fl/districts/16"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Vern Buchanan
 
 Current U.S. House of Representatives - FL-16 (Congressional District 16).
+
+Represents [Congressional District 16](/us/states/fl/districts/16.md).
 
 ## Committees
 

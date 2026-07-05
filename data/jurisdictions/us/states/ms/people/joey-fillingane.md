@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 41"
+represents: "us/states/ms/districts/senate/41"
 tenure:
   start: "2006-12-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joey Fillingane
 
 Current MS Senate District 41 (MS State Senate District 41).
+
+Represents [MS State Senate District 41](/us/states/ms/districts/senate/41.md).
 
 ## Sources
 

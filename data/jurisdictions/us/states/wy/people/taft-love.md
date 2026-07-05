@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 6"
+represents: "us/states/wy/districts/senate/6"
 tenure:
   start: "2025-09-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Taft Love
 
 Current WY Senate District 6 (WY State Senate District 6).
+
+Represents [WY State Senate District 6](/us/states/wy/districts/senate/6.md).
 
 ## Sources
 

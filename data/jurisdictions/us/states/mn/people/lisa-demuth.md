@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 13A"
+represents: "us/states/mn/districts/house/13a"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Demuth
 
 Current MN House District 13A (MN State House of Representatives District 13A).
+
+Represents [MN State House of Representatives District 13A](/us/states/mn/districts/house/13a.md).
 
 ## Sources
 

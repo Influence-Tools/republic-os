@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 26"
+represents: "us/states/oh/districts/house/26"
 tenure:
   start: "2025-10-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ashley Bryant Bailey
 
 Current OH House District 26 (OH State House of Representatives District 26).
+
+Represents [OH State House of Representatives District 26](/us/states/oh/districts/house/26.md).
 
 ## Sources
 

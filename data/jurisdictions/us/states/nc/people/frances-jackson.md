@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 45"
+represents: "us/states/nc/districts/house/45"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frances Jackson
 
 Current NC House District 45 (NC State House of Representatives District 45).
+
+Represents [NC State House of Representatives District 45](/us/states/nc/districts/house/45.md).
 
 ## Sources
 

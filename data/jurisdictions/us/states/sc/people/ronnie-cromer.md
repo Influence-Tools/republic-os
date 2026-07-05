@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 18"
+represents: "us/states/sc/districts/senate/18"
 tenure:
   start: "2003-04-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ronnie Cromer
 
 Current SC Senate District 18 (SC State Senate District 18).
+
+Represents [SC State Senate District 18](/us/states/sc/districts/senate/18.md).
 
 ## Sources
 

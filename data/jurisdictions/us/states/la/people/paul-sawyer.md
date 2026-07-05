@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 69"
+represents: "us/states/la/districts/house/69"
 tenure:
   start: "2026-03-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Sawyer
 
 Current LA House District 69 (LA State House of Representatives District 69).
+
+Represents [LA State House of Representatives District 69](/us/states/la/districts/house/69.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 14"
+represents: "us/states/nj/districts/senate/14"
 tenure:
   start: "2010-12-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Greenstein
 
 Current NJ Senate District 14 (NJ State Senate District 14).
+
+Represents [NJ State Senate District 14](/us/states/nj/districts/senate/14.md).
 
 ## Sources
 

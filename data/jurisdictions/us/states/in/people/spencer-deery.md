@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 23"
+represents: "us/states/in/districts/senate/23"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Spencer Deery
 
 Current IN Senate District 23 (IN State Senate District 23).
+
+Represents [IN State Senate District 23](/us/states/in/districts/senate/23.md).
 
 ## Sources
 

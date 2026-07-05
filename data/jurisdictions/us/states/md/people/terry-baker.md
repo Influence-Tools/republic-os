@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 1C"
+represents: "us/states/md/districts/house/1c"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Baker
 
 Current MD House District 1C (MD State House of Representatives District 1C).
+
+Represents [MD State House of Representatives District 1C](/us/states/md/districts/house/1c.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 25"
+represents: "us/states/co/districts/senate/25"
 tenure:
   start: "2025-12-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # William Lindstedt
 
 Current CO Senate District 25 (CO State Senate District 25).
+
+Represents [CO State Senate District 25](/us/states/co/districts/senate/25.md).
 
 ## Sources
 

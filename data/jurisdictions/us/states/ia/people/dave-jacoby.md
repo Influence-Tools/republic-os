@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 86"
+represents: "us/states/ia/districts/house/86"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Jacoby
 
 Current IA House District 86 (IA State House of Representatives District 86).
+
+Represents [IA State House of Representatives District 86](/us/states/ia/districts/house/86.md).
 
 ## Sources
 

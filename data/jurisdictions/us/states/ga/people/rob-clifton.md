@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 131"
+represents: "us/states/ga/districts/house/131"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Clifton
 
 Current GA House District 131 (GA State House of Representatives District 131).
+
+Represents [GA State House of Representatives District 131](/us/states/ga/districts/house/131.md).
 
 ## Sources
 

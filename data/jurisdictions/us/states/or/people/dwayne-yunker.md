@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 3"
+represents: "us/states/or/districts/house/3"
 tenure:
   start: "2023-12-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dwayne Yunker
 
 Current OR House District 3 (OR State House of Representatives District 3).
+
+Represents [OR State House of Representatives District 3](/us/states/or/districts/house/3.md).
 
 ## Sources
 

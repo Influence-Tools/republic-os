@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 149"
+represents: "us/states/tx/districts/house/149"
 tenure:
   start: "2005-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hubert Vo
 
 Current TX House District 149 (TX State House of Representatives District 149).
+
+Represents [TX State House of Representatives District 149](/us/states/tx/districts/house/149.md).
 
 ## Sources
 

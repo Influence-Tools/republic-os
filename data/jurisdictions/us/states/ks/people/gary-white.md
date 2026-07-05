@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 115"
+represents: "us/states/ks/districts/house/115"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary White
 
 Current KS House District 115 (KS State House of Representatives District 115).
+
+Represents [KS State House of Representatives District 115](/us/states/ks/districts/house/115.md).
 
 ## Sources
 

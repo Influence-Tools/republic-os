@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 68"
+represents: "us/states/ms/districts/house/68"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zakiya Summers
 
 Current MS House District 68 (MS State House of Representatives District 68).
+
+Represents [MS State House of Representatives District 68](/us/states/ms/districts/house/68.md).
 
 ## Sources
 

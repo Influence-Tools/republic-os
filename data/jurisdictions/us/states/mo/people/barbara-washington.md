@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 9"
+represents: "us/states/mo/districts/senate/9"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Washington
 
 Current MO Senate District 9 (MO State Senate District 9).
+
+Represents [MO State Senate District 9](/us/states/mo/districts/senate/9.md).
 
 ## Sources
 

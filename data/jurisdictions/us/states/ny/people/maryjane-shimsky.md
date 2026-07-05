@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 92"
+represents: "us/states/ny/districts/house/92"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # MaryJane Shimsky
 
 Current NY House District 92 (NY State House of Representatives District 92).
+
+Represents [NY State House of Representatives District 92](/us/states/ny/districts/house/92.md).
 
 ## Sources
 

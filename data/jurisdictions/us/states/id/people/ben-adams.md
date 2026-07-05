@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 12"
+represents: "us/states/id/districts/senate/12"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Adams
 
 Current ID Senate District 12 (ID State Senate District 12).
+
+Represents [ID State Senate District 12](/us/states/id/districts/senate/12.md).
 
 ## Sources
 

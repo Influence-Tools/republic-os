@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 31"
+represents: "us/states/ca/districts/house/31"
 tenure:
   start: "2016-04-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joaquin Arambula
 
 Current CA House District 31 (CA State House of Representatives District 31).
+
+Represents [CA State House of Representatives District 31](/us/states/ca/districts/house/31.md).
 
 ## Sources
 

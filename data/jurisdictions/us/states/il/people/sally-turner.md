@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 44"
+represents: "us/states/il/districts/senate/44"
 tenure:
   start: "2021-01-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sally Turner
 
 Current IL Senate District 44 (IL State Senate District 44).
+
+Represents [IL State Senate District 44](/us/states/il/districts/senate/44.md).
 
 ## Sources
 

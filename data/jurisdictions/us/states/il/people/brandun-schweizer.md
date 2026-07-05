@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 104"
+represents: "us/states/il/districts/house/104"
 tenure:
   start: "2023-12-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandun Schweizer
 
 Current IL House District 104 (IL State House of Representatives District 104).
+
+Represents [IL State House of Representatives District 104](/us/states/il/districts/house/104.md).
 
 ## Sources
 

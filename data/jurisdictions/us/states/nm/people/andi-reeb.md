@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 64"
+represents: "us/states/nm/districts/house/64"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andi Reeb
 
 Current NM House District 64 (NM State House of Representatives District 64).
+
+Represents [NM State House of Representatives District 64](/us/states/nm/districts/house/64.md).
 
 ## Sources
 

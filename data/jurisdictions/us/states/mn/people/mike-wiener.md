@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 5B"
+represents: "us/states/mn/districts/house/5b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Wiener
 
 Current MN House District 5B (MN State House of Representatives District 5B).
+
+Represents [MN State House of Representatives District 5B](/us/states/mn/districts/house/5b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 27"
+represents: "us/states/or/districts/house/27"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Helm
 
 Current OR House District 27 (OR State House of Representatives District 27).
+
+Represents [OR State House of Representatives District 27](/us/states/or/districts/house/27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 82"
+represents: "us/states/tx/districts/house/82"
 tenure:
   start: "1993-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Craddick
 
 Current TX House District 82 (TX State House of Representatives District 82).
+
+Represents [TX State House of Representatives District 82](/us/states/tx/districts/house/82.md).
 
 ## Sources
 

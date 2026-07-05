@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 23"
+represents: "us/states/ga/districts/house/23"
 tenure:
   start: "2026-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Fincher
 
 Current GA House District 23 (GA State House of Representatives District 23).
+
+Represents [GA State House of Representatives District 23](/us/states/ga/districts/house/23.md).
 
 ## Sources
 

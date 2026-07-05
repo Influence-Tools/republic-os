@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 13"
+represents: "us/states/nj/districts/house/13"
 tenure:
   start: "2020-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerry Scharfenberger
 
 Current NJ House District 13 (NJ State House of Representatives District 13).
+
+Represents [NJ State House of Representatives District 13](/us/states/nj/districts/house/13.md).
 
 ## Sources
 

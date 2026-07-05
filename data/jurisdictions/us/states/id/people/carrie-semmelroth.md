@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 17"
+represents: "us/states/id/districts/senate/17"
 tenure:
   start: "2021-11-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carrie Semmelroth
 
 Current ID Senate District 17 (ID State Senate District 17).
+
+Represents [ID State Senate District 17](/us/states/id/districts/senate/17.md).
 
 ## Sources
 

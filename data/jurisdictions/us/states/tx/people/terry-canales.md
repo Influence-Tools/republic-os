@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 40"
+represents: "us/states/tx/districts/house/40"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Canales
 
 Current TX House District 40 (TX State House of Representatives District 40).
+
+Represents [TX State House of Representatives District 40](/us/states/tx/districts/house/40.md).
 
 ## Sources
 

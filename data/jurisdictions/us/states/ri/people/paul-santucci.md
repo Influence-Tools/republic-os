@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 53"
+represents: "us/states/ri/districts/house/53"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Santucci
 
 Current RI House District 53 (RI State House of Representatives District 53).
+
+Represents [RI State House of Representatives District 53](/us/states/ri/districts/house/53.md).
 
 ## Sources
 

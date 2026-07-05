@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 8"
+represents: "us/states/tn/districts/senate/8"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessie Seal
 
 Current TN Senate District 8 (TN State Senate District 8).
+
+Represents [TN State Senate District 8](/us/states/tn/districts/senate/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 46"
+represents: "us/states/nd/districts/house/46"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Desiree Morton
 
 Current ND House District 46 (ND State House of Representatives District 46).
+
+Represents [ND State House of Representatives District 46](/us/states/nd/districts/house/46.md).
 
 ## Sources
 

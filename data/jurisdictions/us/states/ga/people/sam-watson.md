@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 11"
+represents: "us/states/ga/districts/senate/11"
 tenure:
   start: "2023-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Watson
 
 Current GA Senate District 11 (GA State Senate District 11).
+
+Represents [GA State Senate District 11](/us/states/ga/districts/senate/11.md).
 
 ## Sources
 

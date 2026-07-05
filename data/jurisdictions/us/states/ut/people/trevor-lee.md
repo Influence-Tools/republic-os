@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 16"
+represents: "us/states/ut/districts/house/16"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trevor Lee
 
 Current UT House District 16 (UT State House of Representatives District 16).
+
+Represents [UT State House of Representatives District 16](/us/states/ut/districts/house/16.md).
 
 ## Sources
 

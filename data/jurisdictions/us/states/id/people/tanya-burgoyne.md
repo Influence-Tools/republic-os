@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 29B"
+represents: "us/states/id/districts/house/29b"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tanya Burgoyne
 
 Current ID House District 29B (ID State House of Representatives District 29B).
+
+Represents [ID State House of Representatives District 29B](/us/states/id/districts/house/29b.md).
 
 ## Sources
 

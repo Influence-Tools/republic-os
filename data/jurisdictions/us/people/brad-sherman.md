@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 32"
+represents: "us/states/ca/districts/32"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Brad Sherman
 
 Current U.S. House of Representatives - CA-32 (Congressional District 32).
+
+Represents [Congressional District 32](/us/states/ca/districts/32.md).
 
 ## Committees
 

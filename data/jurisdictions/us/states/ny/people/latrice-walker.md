@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 55"
+represents: "us/states/ny/districts/house/55"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Latrice Walker
 
 Current NY House District 55 (NY State House of Representatives District 55).
+
+Represents [NY State House of Representatives District 55](/us/states/ny/districts/house/55.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 5"
+represents: "us/states/nd/districts/senate/5"
 tenure:
   start: "2010-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Burckhard
 
 Current ND Senate District 5 (ND State Senate District 5).
+
+Represents [ND State Senate District 5](/us/states/nd/districts/senate/5.md).
 
 ## Sources
 

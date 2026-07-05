@@ -24,7 +24,7 @@ demographics:
   bachelors_plus: 520414
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
 confidence: official
 tags: [jurisdiction, county, dc]
 timestamp: "2026-07-03"

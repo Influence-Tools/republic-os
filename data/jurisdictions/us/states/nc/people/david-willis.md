@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 68"
+represents: "us/states/nc/districts/house/68"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Willis
 
 Current NC House District 68 (NC State House of Representatives District 68).
+
+Represents [NC State House of Representatives District 68](/us/states/nc/districts/house/68.md).
 
 ## Sources
 

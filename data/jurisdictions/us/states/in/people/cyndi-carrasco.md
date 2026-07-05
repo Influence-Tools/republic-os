@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 36"
+represents: "us/states/in/districts/senate/36"
 tenure:
   start: "2023-11-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cyndi Carrasco
 
 Current IN Senate District 36 (IN State Senate District 36).
+
+Represents [IN State Senate District 36](/us/states/in/districts/senate/36.md).
 
 ## Sources
 

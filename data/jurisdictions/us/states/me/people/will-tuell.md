@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 10"
+represents: "us/states/me/districts/house/10"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Tuell
 
 Current ME House District 10 (ME State House of Representatives District 10).
+
+Represents [ME State House of Representatives District 10](/us/states/me/districts/house/10.md).
 
 ## Sources
 

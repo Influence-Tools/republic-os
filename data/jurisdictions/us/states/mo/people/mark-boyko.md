@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 90"
+represents: "us/states/mo/districts/house/90"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Boyko
 
 Current MO House District 90 (MO State House of Representatives District 90).
+
+Represents [MO State House of Representatives District 90](/us/states/mo/districts/house/90.md).
 
 ## Sources
 

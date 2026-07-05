@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 108"
+represents: "us/states/mi/districts/house/108"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Prestin
 
 Current MI House District 108 (MI State House of Representatives District 108).
+
+Represents [MI State House of Representatives District 108](/us/states/mi/districts/house/108.md).
 
 ## Sources
 

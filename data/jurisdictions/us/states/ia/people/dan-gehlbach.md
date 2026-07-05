@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 46"
+represents: "us/states/ia/districts/house/46"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Gehlbach
 
 Current IA House District 46 (IA State House of Representatives District 46).
+
+Represents [IA State House of Representatives District 46](/us/states/ia/districts/house/46.md).
 
 ## Sources
 

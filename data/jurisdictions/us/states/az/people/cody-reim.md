@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 3"
+represents: "us/states/az/districts/house/3"
 tenure:
   start: "2026-03-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cody Reim
 
 Current AZ House District 3 (AZ State House of Representatives District 3).
+
+Represents [AZ State House of Representatives District 3](/us/states/az/districts/house/3.md).
 
 ## Sources
 

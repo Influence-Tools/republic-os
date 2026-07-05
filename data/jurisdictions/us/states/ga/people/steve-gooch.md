@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 51"
+represents: "us/states/ga/districts/senate/51"
 tenure:
   start: "2011-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Gooch
 
 Current GA Senate District 51 (GA State Senate District 51).
+
+Represents [GA State Senate District 51](/us/states/ga/districts/senate/51.md).
 
 ## Sources
 

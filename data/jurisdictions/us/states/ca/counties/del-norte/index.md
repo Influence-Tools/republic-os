@@ -22,9 +22,21 @@ demographics:
   race_native: 1659
   hispanic: 5396
   bachelors_plus: 5818
+districts:
+  - to: "us/states/ca/districts/02"
+    rel: in-district
+    area_weight: 0.8231
+  - to: "us/states/ca/districts/senate/2"
+    rel: in-district
+    area_weight: 0.8253
+  - to: "us/states/ca/districts/house/2"
+    rel: in-district
+    area_weight: 0.8253
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ca]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 5396 |
 | Bachelor's or higher | 5818 |
 
+## Districts
+
+- [CA-02](/us/states/ca/districts/02.md) — 82% (congressional)
+- [CA Senate District 2](/us/states/ca/districts/senate/2.md) — 83% (state senate)
+- [CA House District 2](/us/states/ca/districts/house/2.md) — 83% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

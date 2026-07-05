@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 94"
+represents: "us/states/va/districts/house/94"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Hernandez
 
 Current VA House District 94 (VA State House of Representatives District 94).
+
+Represents [VA State House of Representatives District 94](/us/states/va/districts/house/94.md).
 
 ## Sources
 

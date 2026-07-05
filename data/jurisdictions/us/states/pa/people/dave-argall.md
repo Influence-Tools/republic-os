@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 29"
+represents: "us/states/pa/districts/senate/29"
 tenure:
   start: "2009-03-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Argall
 
 Current PA Senate District 29 (PA State Senate District 29).
+
+Represents [PA State Senate District 29](/us/states/pa/districts/senate/29.md).
 
 ## Sources
 

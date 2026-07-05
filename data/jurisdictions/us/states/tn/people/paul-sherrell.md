@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 43"
+represents: "us/states/tn/districts/house/43"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Sherrell
 
 Current TN House District 43 (TN State House of Representatives District 43).
+
+Represents [TN State House of Representatives District 43](/us/states/tn/districts/house/43.md).
 
 ## Sources
 

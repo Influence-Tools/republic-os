@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 37"
+represents: "us/states/la/districts/house/37"
 tenure:
   start: "2026-02-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Skip Broussard
 
 Current LA House District 37 (LA State House of Representatives District 37).
+
+Represents [LA State House of Representatives District 37](/us/states/la/districts/house/37.md).
 
 ## Sources
 

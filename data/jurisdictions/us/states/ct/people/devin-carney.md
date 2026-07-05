@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 23"
+represents: "us/states/ct/districts/house/23"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Devin Carney
 
 Current CT House District 23 (CT State House of Representatives District 23).
+
+Represents [CT State House of Representatives District 23](/us/states/ct/districts/house/23.md).
 
 ## Sources
 

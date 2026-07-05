@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 28A"
+represents: "us/states/sd/districts/house/28a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jana Hunt
 
 Current SD House District 28A (SD State House of Representatives District 28A).
+
+Represents [SD State House of Representatives District 28A](/us/states/sd/districts/house/28a.md).
 
 ## Sources
 

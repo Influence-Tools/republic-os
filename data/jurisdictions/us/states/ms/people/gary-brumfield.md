@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 38"
+represents: "us/states/ms/districts/senate/38"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Brumfield
 
 Current MS Senate District 38 (MS State Senate District 38).
+
+Represents [MS State Senate District 38](/us/states/ms/districts/senate/38.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 34"
+represents: "us/states/ia/districts/house/34"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Johnson
 
 Current IA House District 34 (IA State House of Representatives District 34).
+
+Represents [IA State House of Representatives District 34](/us/states/ia/districts/house/34.md).
 
 ## Sources
 

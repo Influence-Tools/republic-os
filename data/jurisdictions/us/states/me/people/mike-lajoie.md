@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 96"
+represents: "us/states/me/districts/house/96"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Lajoie
 
 Current ME House District 96 (ME State House of Representatives District 96).
+
+Represents [ME State House of Representatives District 96](/us/states/me/districts/house/96.md).
 
 ## Sources
 

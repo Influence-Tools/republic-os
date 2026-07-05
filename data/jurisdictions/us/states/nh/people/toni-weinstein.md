@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 10"
+represents: "us/states/nh/districts/house/rockingham-10"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Toni Weinstein
 
 Current NH House District Rockingham 10 (NH State House of Representatives District Rockingham 10).
+
+Represents [NH State House of Representatives District Rockingham 10](/us/states/nh/districts/house/rockingham-10.md).
 
 ## Sources
 

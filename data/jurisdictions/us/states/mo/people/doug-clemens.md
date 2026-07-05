@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 72"
+represents: "us/states/mo/districts/house/72"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Clemens
 
 Current MO House District 72 (MO State House of Representatives District 72).
+
+Represents [MO State House of Representatives District 72](/us/states/mo/districts/house/72.md).
 
 ## Sources
 

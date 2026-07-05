@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 92"
+represents: "us/states/ks/districts/house/92"
 tenure:
   start: "2013-10-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Carmichael
 
 Current KS House District 92 (KS State House of Representatives District 92).
+
+Represents [KS State House of Representatives District 92](/us/states/ks/districts/house/92.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 20"
+represents: "us/states/sc/districts/house/20"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephen Frank
 
 Current SC House District 20 (SC State House of Representatives District 20).
+
+Represents [SC State House of Representatives District 20](/us/states/sc/districts/house/20.md).
 
 ## Sources
 

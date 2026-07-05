@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 25A"
+represents: "us/states/id/districts/house/25a"
 tenure:
   start: "2025-12-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Hall
 
 Current ID House District 25A (ID State House of Representatives District 25A).
+
+Represents [ID State House of Representatives District 25A](/us/states/id/districts/house/25a.md).
 
 ## Sources
 

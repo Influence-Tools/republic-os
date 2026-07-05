@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 9"
+represents: "us/states/wy/districts/senate/9"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Rothfuss
 
 Current WY Senate District 9 (WY State Senate District 9).
+
+Represents [WY State Senate District 9](/us/states/wy/districts/senate/9.md).
 
 ## Sources
 

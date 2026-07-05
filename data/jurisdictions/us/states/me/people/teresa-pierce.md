@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 25"
+represents: "us/states/me/districts/senate/25"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Teresa Pierce
 
 Current ME Senate District 25 (ME State Senate District 25).
+
+Represents [ME State Senate District 25](/us/states/me/districts/senate/25.md).
 
 ## Sources
 

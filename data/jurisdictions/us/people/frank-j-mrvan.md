@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IN"
 district: "Congressional District 1"
+represents: "us/states/in/districts/01"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Frank J. Mrvan
 
 Current U.S. House of Representatives - IN-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/in/districts/01.md).
 
 ## Committees
 

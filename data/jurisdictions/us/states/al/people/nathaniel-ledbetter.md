@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 24"
+represents: "us/states/al/districts/house/24"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathaniel Ledbetter
 
 Current AL House District 24 (AL State House of Representatives District 24).
+
+Represents [AL State House of Representatives District 24](/us/states/al/districts/house/24.md).
 
 ## Sources
 

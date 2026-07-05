@@ -22,9 +22,24 @@ demographics:
   race_native: 22
   hispanic: 320
   bachelors_plus: 3788
+districts:
+  - to: "us/states/me/districts/02"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/me/districts/senate/4"
+    rel: in-district
+    area_weight: 0.9996
+  - to: "us/states/me/districts/house/30"
+    rel: in-district
+    area_weight: 0.9266
+  - to: "us/states/me/districts/house/31"
+    rel: in-district
+    area_weight: 0.073
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, me]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 320 |
 | Bachelor's or higher | 3788 |
 
+## Districts
+
+- [ME-02](/us/states/me/districts/02.md) — 100% (congressional)
+- [ME Senate District 4](/us/states/me/districts/senate/4.md) — 100% (state senate)
+- [ME House District 30](/us/states/me/districts/house/30.md) — 93% (state house)
+- [ME House District 31](/us/states/me/districts/house/31.md) — 7% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

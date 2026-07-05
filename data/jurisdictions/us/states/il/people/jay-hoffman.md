@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 113"
+represents: "us/states/il/districts/house/113"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Hoffman
 
 Current IL House District 113 (IL State House of Representatives District 113).
+
+Represents [IL State House of Representatives District 113](/us/states/il/districts/house/113.md).
 
 ## Sources
 

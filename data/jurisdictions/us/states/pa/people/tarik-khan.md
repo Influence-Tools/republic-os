@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 194"
+represents: "us/states/pa/districts/house/194"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tarik Khan
 
 Current PA House District 194 (PA State House of Representatives District 194).
+
+Represents [PA State House of Representatives District 194](/us/states/pa/districts/house/194.md).
 
 ## Sources
 

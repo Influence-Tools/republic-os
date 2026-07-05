@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 7"
+represents: "us/states/ks/districts/senate/7"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ethan Corson
 
 Current KS Senate District 7 (KS State Senate District 7).
+
+Represents [KS State Senate District 7](/us/states/ks/districts/senate/7.md).
 
 ## Sources
 

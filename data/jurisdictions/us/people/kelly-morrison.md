@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MN"
 district: "Congressional District 3"
+represents: "us/states/mn/districts/03"
 committees:
   - name: "House Committee on Small Business"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Kelly Morrison
 
 Current U.S. House of Representatives - MN-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/mn/districts/03.md).
 
 ## Committees
 

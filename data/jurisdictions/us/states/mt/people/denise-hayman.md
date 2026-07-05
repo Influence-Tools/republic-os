@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 32"
+represents: "us/states/mt/districts/senate/32"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Hayman
 
 Current MT Senate District 32 (MT State Senate District 32).
+
+Represents [MT State Senate District 32](/us/states/mt/districts/senate/32.md).
 
 ## Sources
 

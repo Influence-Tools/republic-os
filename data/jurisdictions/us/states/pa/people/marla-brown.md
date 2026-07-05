@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 9"
+represents: "us/states/pa/districts/house/9"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marla Brown
 
 Current PA House District 9 (PA State House of Representatives District 9).
+
+Represents [PA State House of Representatives District 9](/us/states/pa/districts/house/9.md).
 
 ## Sources
 

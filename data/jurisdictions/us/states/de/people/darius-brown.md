@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 2"
+represents: "us/states/de/districts/senate/2"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darius Brown
 
 Current DE Senate District 2 (DE State Senate District 2).
+
+Represents [DE State Senate District 2](/us/states/de/districts/senate/2.md).
 
 ## Sources
 

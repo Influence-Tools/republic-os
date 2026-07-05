@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 1"
+represents: "us/states/wy/districts/senate/1"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ogden Driskill
 
 Current WY Senate District 1 (WY State Senate District 1).
+
+Represents [WY State Senate District 1](/us/states/wy/districts/senate/1.md).
 
 ## Sources
 

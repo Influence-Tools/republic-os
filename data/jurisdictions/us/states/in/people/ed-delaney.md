@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 86"
+represents: "us/states/in/districts/house/86"
 tenure:
   start: "2008-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed DeLaney
 
 Current IN House District 86 (IN State House of Representatives District 86).
+
+Represents [IN State House of Representatives District 86](/us/states/in/districts/house/86.md).
 
 ## Sources
 

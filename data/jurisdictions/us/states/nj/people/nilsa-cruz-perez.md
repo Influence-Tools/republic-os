@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 5"
+represents: "us/states/nj/districts/senate/5"
 tenure:
   start: "2014-12-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nilsa Cruz-Perez
 
 Current NJ Senate District 5 (NJ State Senate District 5).
+
+Represents [NJ State Senate District 5](/us/states/nj/districts/senate/5.md).
 
 ## Sources
 

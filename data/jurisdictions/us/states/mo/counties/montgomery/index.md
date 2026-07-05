@@ -22,9 +22,24 @@ demographics:
   race_native: 71
   hispanic: 266
   bachelors_plus: 1817
+districts:
+  - to: "us/states/mo/districts/03"
+    rel: in-district
+    area_weight: 0.999
+  - to: "us/states/mo/districts/senate/10"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/mo/districts/house/61"
+    rel: in-district
+    area_weight: 0.6659
+  - to: "us/states/mo/districts/house/42"
+    rel: in-district
+    area_weight: 0.334
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mo]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 266 |
 | Bachelor's or higher | 1817 |
 
+## Districts
+
+- [MO-03](/us/states/mo/districts/03.md) — 100% (congressional)
+- [MO Senate District 10](/us/states/mo/districts/senate/10.md) — 100% (state senate)
+- [MO House District 61](/us/states/mo/districts/house/61.md) — 67% (state house)
+- [MO House District 42](/us/states/mo/districts/house/42.md) — 33% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

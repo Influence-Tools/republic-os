@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 49"
+represents: "us/states/ky/districts/house/49"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Huff
 
 Current KY House District 49 (KY State House of Representatives District 49).
+
+Represents [KY State House of Representatives District 49](/us/states/ky/districts/house/49.md).
 
 ## Sources
 

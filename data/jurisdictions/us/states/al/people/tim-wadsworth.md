@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 14"
+represents: "us/states/al/districts/house/14"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Wadsworth
 
 Current AL House District 14 (AL State House of Representatives District 14).
+
+Represents [AL State House of Representatives District 14](/us/states/al/districts/house/14.md).
 
 ## Sources
 

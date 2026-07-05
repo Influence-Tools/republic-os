@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 97"
+represents: "us/states/mi/districts/house/97"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Bierlein
 
 Current MI House District 97 (MI State House of Representatives District 97).
+
+Represents [MI State House of Representatives District 97](/us/states/mi/districts/house/97.md).
 
 ## Sources
 

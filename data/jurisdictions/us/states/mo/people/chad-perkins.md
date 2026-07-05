@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 40"
+represents: "us/states/mo/districts/house/40"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Perkins
 
 Current MO House District 40 (MO State House of Representatives District 40).
+
+Represents [MO State House of Representatives District 40](/us/states/mo/districts/house/40.md).
 
 ## Sources
 

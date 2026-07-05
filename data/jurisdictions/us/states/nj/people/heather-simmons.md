@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 3"
+represents: "us/states/nj/districts/house/3"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Simmons
 
 Current NJ House District 3 (NJ State House of Representatives District 3).
+
+Represents [NJ State House of Representatives District 3](/us/states/nj/districts/house/3.md).
 
 ## Sources
 

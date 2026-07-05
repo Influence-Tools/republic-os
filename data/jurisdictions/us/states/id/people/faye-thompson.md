@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 8B"
+represents: "us/states/id/districts/house/8b"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Faye Thompson
 
 Current ID House District 8B (ID State House of Representatives District 8B).
+
+Represents [ID State House of Representatives District 8B](/us/states/id/districts/house/8b.md).
 
 ## Sources
 

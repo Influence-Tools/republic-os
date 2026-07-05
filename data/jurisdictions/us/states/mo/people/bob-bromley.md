@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 162"
+represents: "us/states/mo/districts/house/162"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Bromley
 
 Current MO House District 162 (MO State House of Representatives District 162).
+
+Represents [MO State House of Representatives District 162](/us/states/mo/districts/house/162.md).
 
 ## Sources
 

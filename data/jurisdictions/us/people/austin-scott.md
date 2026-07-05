@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 8"
+represents: "us/states/ga/districts/08"
 committees:
   - name: "House Committee on Agriculture"
     role: "vice-chair"
@@ -76,6 +77,8 @@ timestamp: "2026-07-04"
 # Austin Scott
 
 Current U.S. House of Representatives - GA-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/ga/districts/08.md).
 
 ## Committees
 

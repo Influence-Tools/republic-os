@@ -22,9 +22,36 @@ demographics:
   race_native: 357
   hispanic: 22986
   bachelors_plus: 148336
+districts:
+  - to: "us/states/ny/districts/20"
+    rel: in-district
+    area_weight: 0.9992
+  - to: "us/states/ny/districts/senate/46"
+    rel: in-district
+    area_weight: 0.8788
+  - to: "us/states/ny/districts/senate/43"
+    rel: in-district
+    area_weight: 0.1211
+  - to: "us/states/ny/districts/house/102"
+    rel: in-district
+    area_weight: 0.5542
+  - to: "us/states/ny/districts/house/109"
+    rel: in-district
+    area_weight: 0.2333
+  - to: "us/states/ny/districts/house/110"
+    rel: in-district
+    area_weight: 0.1357
+  - to: "us/states/ny/districts/house/107"
+    rel: in-district
+    area_weight: 0.0643
+  - to: "us/states/ny/districts/house/108"
+    rel: in-district
+    area_weight: 0.0125
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ny]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 4 officeholders mapped.
 | Hispanic/Latino | 22986 |
 | Bachelor's or higher | 148336 |
 
+## Districts
+
+- [NY-20](/us/states/ny/districts/20.md) — 100% (congressional)
+- [NY Senate District 46](/us/states/ny/districts/senate/46.md) — 88% (state senate)
+- [NY Senate District 43](/us/states/ny/districts/senate/43.md) — 12% (state senate)
+- [NY House District 102](/us/states/ny/districts/house/102.md) — 55% (state house)
+- [NY House District 109](/us/states/ny/districts/house/109.md) — 23% (state house)
+- [NY House District 110](/us/states/ny/districts/house/110.md) — 14% (state house)
+- [NY House District 107](/us/states/ny/districts/house/107.md) — 6% (state house)
+- [NY House District 108](/us/states/ny/districts/house/108.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

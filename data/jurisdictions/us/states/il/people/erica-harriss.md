@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 56"
+represents: "us/states/il/districts/senate/56"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erica Harriss
 
 Current IL Senate District 56 (IL State Senate District 56).
+
+Represents [IL State Senate District 56](/us/states/il/districts/senate/56.md).
 
 ## Sources
 

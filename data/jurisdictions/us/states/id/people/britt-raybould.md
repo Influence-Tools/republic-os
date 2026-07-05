@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 34B"
+represents: "us/states/id/districts/house/34b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Britt Raybould
 
 Current ID House District 34B (ID State House of Representatives District 34B).
+
+Represents [ID State House of Representatives District 34B](/us/states/id/districts/house/34b.md).
 
 ## Sources
 

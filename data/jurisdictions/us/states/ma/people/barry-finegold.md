@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Second Essex and Middlesex"
+represents: "us/states/ma/districts/senate/second-essex-and-middlesex"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barry Finegold
 
 Current MA Senate District Second Essex and Middlesex (MA State Senate District Second Essex and Middlesex).
+
+Represents [MA State Senate District Second Essex and Middlesex](/us/states/ma/districts/senate/second-essex-and-middlesex.md).
 
 ## Sources
 

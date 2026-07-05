@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 27"
+represents: "us/states/la/districts/house/27"
 tenure:
   start: "2019-03-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Johnson
 
 Current LA House District 27 (LA State House of Representatives District 27).
+
+Represents [LA State House of Representatives District 27](/us/states/la/districts/house/27.md).
 
 ## Sources
 

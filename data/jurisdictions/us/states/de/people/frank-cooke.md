@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 16"
+represents: "us/states/de/districts/house/16"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Cooke
 
 Current DE House District 16 (DE State House of Representatives District 16).
+
+Represents [DE State House of Representatives District 16](/us/states/de/districts/house/16.md).
 
 ## Sources
 

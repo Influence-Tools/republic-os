@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 10"
+represents: "us/states/wy/districts/senate/10"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Crum
 
 Current WY Senate District 10 (WY State Senate District 10).
+
+Represents [WY State Senate District 10](/us/states/wy/districts/senate/10.md).
 
 ## Sources
 

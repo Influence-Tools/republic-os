@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 73"
+represents: "us/states/ny/districts/house/73"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Bores
 
 Current NY House District 73 (NY State House of Representatives District 73).
+
+Represents [NY State House of Representatives District 73](/us/states/ny/districts/house/73.md).
 
 ## Sources
 

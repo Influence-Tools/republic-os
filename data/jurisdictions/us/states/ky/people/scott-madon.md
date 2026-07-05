@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 29"
+represents: "us/states/ky/districts/senate/29"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Madon
 
 Current KY Senate District 29 (KY State Senate District 29).
+
+Represents [KY State Senate District 29](/us/states/ky/districts/senate/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 5"
+represents: "us/states/pr/districts/house/5"
 tenure:
   start: "2005-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jorge Navarro Suárez
 
 Current PR House District 5 (PR State House of Representatives District 5).
+
+Represents [PR State House of Representatives District 5](/us/states/pr/districts/house/5.md).
 
 ## Sources
 

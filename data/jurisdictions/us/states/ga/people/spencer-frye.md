@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 122"
+represents: "us/states/ga/districts/house/122"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Spencer Frye
 
 Current GA House District 122 (GA State House of Representatives District 122).
+
+Represents [GA State House of Representatives District 122](/us/states/ga/districts/house/122.md).
 
 ## Sources
 

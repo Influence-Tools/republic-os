@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 26"
+represents: "us/states/ky/districts/house/26"
 tenure:
   start: "2024-03-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peyton Griffee
 
 Current KY House District 26 (KY State House of Representatives District 26).
+
+Represents [KY State House of Representatives District 26](/us/states/ky/districts/house/26.md).
 
 ## Sources
 

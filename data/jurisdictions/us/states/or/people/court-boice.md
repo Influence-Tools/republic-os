@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 1"
+represents: "us/states/or/districts/house/1"
 tenure:
   start: "2023-02-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Court Boice
 
 Current OR House District 1 (OR State House of Representatives District 1).
+
+Represents [OR State House of Representatives District 1](/us/states/or/districts/house/1.md).
 
 ## Sources
 

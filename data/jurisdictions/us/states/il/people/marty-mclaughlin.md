@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 52"
+represents: "us/states/il/districts/house/52"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty McLaughlin
 
 Current IL House District 52 (IL State House of Representatives District 52).
+
+Represents [IL State House of Representatives District 52](/us/states/il/districts/house/52.md).
 
 ## Sources
 

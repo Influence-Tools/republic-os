@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 50"
+represents: "us/states/nc/districts/senate/50"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Corbin
 
 Current NC Senate District 50 (NC State Senate District 50).
+
+Represents [NC State Senate District 50](/us/states/nc/districts/senate/50.md).
 
 ## Sources
 

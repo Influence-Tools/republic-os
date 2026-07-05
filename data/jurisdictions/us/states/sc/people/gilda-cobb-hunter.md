@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 95"
+represents: "us/states/sc/districts/house/95"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gilda Cobb-Hunter
 
 Current SC House District 95 (SC State House of Representatives District 95).
+
+Represents [SC State House of Representatives District 95](/us/states/sc/districts/house/95.md).
 
 ## Sources
 

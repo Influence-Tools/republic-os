@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 18"
+represents: "us/states/oh/districts/senate/18"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry Cirino
 
 Current OH Senate District 18 (OH State Senate District 18).
+
+Represents [OH State Senate District 18](/us/states/oh/districts/senate/18.md).
 
 ## Sources
 

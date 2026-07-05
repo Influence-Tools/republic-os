@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 44B"
+represents: "us/states/md/districts/house/44b"
 tenure:
   start: "2020-01-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sheila Ruth
 
 Current MD House District 44B (MD State House of Representatives District 44B).
+
+Represents [MD State House of Representatives District 44B](/us/states/md/districts/house/44b.md).
 
 ## Sources
 

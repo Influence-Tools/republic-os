@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 115"
+represents: "us/states/ny/districts/house/115"
 tenure:
   start: "2025-11-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Cashman
 
 Current NY House District 115 (NY State House of Representatives District 115).
+
+Represents [NY State House of Representatives District 115](/us/states/ny/districts/house/115.md).
 
 ## Sources
 

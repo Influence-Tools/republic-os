@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 45"
+represents: "us/states/tx/districts/house/45"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Zwiener
 
 Current TX House District 45 (TX State House of Representatives District 45).
+
+Represents [TX State House of Representatives District 45](/us/states/tx/districts/house/45.md).
 
 ## Sources
 

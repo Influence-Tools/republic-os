@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 106"
+represents: "us/states/tx/districts/house/106"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Patterson
 
 Current TX House District 106 (TX State House of Representatives District 106).
+
+Represents [TX State House of Representatives District 106](/us/states/tx/districts/house/106.md).
 
 ## Sources
 

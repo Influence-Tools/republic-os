@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 24"
+represents: "us/states/tx/districts/24"
 committees:
   - name: "House Committee on Small Business"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Beth Van Duyne
 
 Current U.S. House of Representatives - TX-24 (Congressional District 24).
+
+Represents [Congressional District 24](/us/states/tx/districts/24.md).
 
 ## Committees
 

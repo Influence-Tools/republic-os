@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 20"
+represents: "us/states/tn/districts/senate/20"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heidi Campbell
 
 Current TN Senate District 20 (TN State Senate District 20).
+
+Represents [TN State Senate District 20](/us/states/tn/districts/senate/20.md).
 
 ## Sources
 

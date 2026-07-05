@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 4"
+represents: "us/states/de/districts/house/4"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Hilovsky
 
 Current DE House District 4 (DE State House of Representatives District 4).
+
+Represents [DE State House of Representatives District 4](/us/states/de/districts/house/4.md).
 
 ## Sources
 

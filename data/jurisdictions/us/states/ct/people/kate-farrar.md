@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 20"
+represents: "us/states/ct/districts/house/20"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Farrar
 
 Current CT House District 20 (CT State House of Representatives District 20).
+
+Represents [CT State House of Representatives District 20](/us/states/ct/districts/house/20.md).
 
 ## Sources
 

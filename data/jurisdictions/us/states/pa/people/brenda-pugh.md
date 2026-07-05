@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 120"
+represents: "us/states/pa/districts/house/120"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brenda Pugh
 
 Current PA House District 120 (PA State House of Representatives District 120).
+
+Represents [PA State House of Representatives District 120](/us/states/pa/districts/house/120.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 22"
+represents: "us/states/mo/districts/house/22"
 tenure:
   start: "2020-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yolanda Young
 
 Current MO House District 22 (MO State House of Representatives District 22).
+
+Represents [MO State House of Representatives District 22](/us/states/mo/districts/house/22.md).
 
 ## Sources
 

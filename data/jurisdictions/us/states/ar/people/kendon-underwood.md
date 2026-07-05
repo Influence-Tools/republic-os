@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 16"
+represents: "us/states/ar/districts/house/16"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kendon Underwood
 
 Current AR House District 16 (AR State House of Representatives District 16).
+
+Represents [AR State House of Representatives District 16](/us/states/ar/districts/house/16.md).
 
 ## Sources
 

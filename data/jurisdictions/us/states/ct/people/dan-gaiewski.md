@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 40"
+represents: "us/states/ct/districts/house/40"
 tenure:
   start: "2025-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Gaiewski
 
 Current CT House District 40 (CT State House of Representatives District 40).
+
+Represents [CT State House of Representatives District 40](/us/states/ct/districts/house/40.md).
 
 ## Sources
 

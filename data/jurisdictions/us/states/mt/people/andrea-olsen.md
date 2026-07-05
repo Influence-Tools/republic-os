@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 48"
+represents: "us/states/mt/districts/senate/48"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea Olsen
 
 Current MT Senate District 48 (MT State Senate District 48).
+
+Represents [MT State Senate District 48](/us/states/mt/districts/senate/48.md).
 
 ## Sources
 

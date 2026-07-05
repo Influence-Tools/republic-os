@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 13"
+represents: "us/states/md/districts/house/13"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jen Terrasa
 
 Current MD House District 13 (MD State House of Representatives District 13).
+
+Represents [MD State House of Representatives District 13](/us/states/md/districts/house/13.md).
 
 ## Sources
 

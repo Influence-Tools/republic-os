@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 18"
+represents: "us/states/co/districts/senate/18"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judy Amabile
 
 Current CO Senate District 18 (CO State Senate District 18).
+
+Represents [CO State Senate District 18](/us/states/co/districts/senate/18.md).
 
 ## Sources
 

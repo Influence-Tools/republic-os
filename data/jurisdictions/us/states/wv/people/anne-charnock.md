@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 17"
+represents: "us/states/wv/districts/senate/17"
 tenure:
   start: "2025-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Charnock
 
 Current WV Senate District 17 (WV State Senate District 17).
+
+Represents [WV State Senate District 17](/us/states/wv/districts/senate/17.md).
 
 ## Sources
 

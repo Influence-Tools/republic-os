@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 35"
+represents: "us/states/ok/districts/house/35"
 tenure:
   start: "2026-02-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dillon Travis
 
 Current OK House District 35 (OK State House of Representatives District 35).
+
+Represents [OK State House of Representatives District 35](/us/states/ok/districts/house/35.md).
 
 ## Sources
 

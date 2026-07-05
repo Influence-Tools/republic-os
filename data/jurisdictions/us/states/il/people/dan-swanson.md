@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 71"
+represents: "us/states/il/districts/house/71"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Swanson
 
 Current IL House District 71 (IL State House of Representatives District 71).
+
+Represents [IL State House of Representatives District 71](/us/states/il/districts/house/71.md).
 
 ## Sources
 

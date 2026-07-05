@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 13"
+represents: "us/states/il/districts/senate/13"
 tenure:
   start: "2019-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Peters
 
 Current IL Senate District 13 (IL State Senate District 13).
+
+Represents [IL State Senate District 13](/us/states/il/districts/senate/13.md).
 
 ## Sources
 

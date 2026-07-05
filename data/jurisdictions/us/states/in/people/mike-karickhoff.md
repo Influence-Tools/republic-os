@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 30"
+represents: "us/states/in/districts/house/30"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Karickhoff
 
 Current IN House District 30 (IN State House of Representatives District 30).
+
+Represents [IN State House of Representatives District 30](/us/states/in/districts/house/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 25"
+represents: "us/states/fl/districts/senate/25"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristen Arrington
 
 Current FL Senate District 25 (FL State Senate District 25).
+
+Represents [FL State Senate District 25](/us/states/fl/districts/senate/25.md).
 
 ## Sources
 

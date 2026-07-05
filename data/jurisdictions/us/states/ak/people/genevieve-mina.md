@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 19"
+represents: "us/states/ak/districts/house/19"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Genevieve Mina
 
 Current AK House District 19 (AK State House of Representatives District 19).
+
+Represents [AK State House of Representatives District 19](/us/states/ak/districts/house/19.md).
 
 ## Sources
 

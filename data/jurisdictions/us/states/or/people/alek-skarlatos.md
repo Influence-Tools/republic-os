@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 4"
+represents: "us/states/or/districts/house/4"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alek Skarlatos
 
 Current OR House District 4 (OR State House of Representatives District 4).
+
+Represents [OR State House of Representatives District 4](/us/states/or/districts/house/4.md).
 
 ## Sources
 

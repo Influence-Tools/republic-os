@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 32"
+represents: "us/states/ct/districts/senate/32"
 tenure:
   start: "2017-03-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Berthel
 
 Current CT Senate District 32 (CT State Senate District 32).
+
+Represents [CT State Senate District 32](/us/states/ct/districts/senate/32.md).
 
 ## Sources
 

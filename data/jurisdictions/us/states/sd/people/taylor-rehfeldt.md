@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 14"
+represents: "us/states/sd/districts/house/14"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Taylor Rehfeldt
 
 Current SD House District 14 (SD State House of Representatives District 14).
+
+Represents [SD State House of Representatives District 14](/us/states/sd/districts/house/14.md).
 
 ## Sources
 

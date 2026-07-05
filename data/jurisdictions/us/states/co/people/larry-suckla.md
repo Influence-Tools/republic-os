@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 58"
+represents: "us/states/co/districts/house/58"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Suckla
 
 Current CO House District 58 (CO State House of Representatives District 58).
+
+Represents [CO State House of Representatives District 58](/us/states/co/districts/house/58.md).
 
 ## Sources
 

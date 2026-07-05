@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 118"
+represents: "us/states/nc/districts/house/118"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Pless
 
 Current NC House District 118 (NC State House of Representatives District 118).
+
+Represents [NC State House of Representatives District 118](/us/states/nc/districts/house/118.md).
 
 ## Sources
 

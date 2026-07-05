@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 23"
+represents: "us/states/nh/districts/house/hillsborough-23"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jean Jeudy
 
 Current NH House District Hillsborough 23 (NH State House of Representatives District Hillsborough 23).
+
+Represents [NH State House of Representatives District Hillsborough 23](/us/states/nh/districts/house/hillsborough-23.md).
 
 ## Sources
 

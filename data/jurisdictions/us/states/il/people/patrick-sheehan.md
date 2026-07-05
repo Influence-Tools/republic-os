@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 37"
+represents: "us/states/il/districts/house/37"
 tenure:
   start: "2024-04-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Sheehan
 
 Current IL House District 37 (IL State House of Representatives District 37).
+
+Represents [IL State House of Representatives District 37](/us/states/il/districts/house/37.md).
 
 ## Sources
 

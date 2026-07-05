@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 41"
+represents: "us/states/ut/districts/house/41"
 tenure:
   start: "2025-12-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Arthur
 
 Current UT House District 41 (UT State House of Representatives District 41).
+
+Represents [UT State House of Representatives District 41](/us/states/ut/districts/house/41.md).
 
 ## Sources
 

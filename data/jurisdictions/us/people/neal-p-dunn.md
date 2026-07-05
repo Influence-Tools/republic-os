@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 2"
+represents: "us/states/fl/districts/02"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "vice-chair"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Neal P. Dunn
 
 Current U.S. House of Representatives - FL-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/fl/districts/02.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 39A"
+represents: "us/states/mn/districts/house/39a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Koegel
 
 Current MN House District 39A (MN State House of Representatives District 39A).
+
+Represents [MN State House of Representatives District 39A](/us/states/mn/districts/house/39a.md).
 
 ## Sources
 

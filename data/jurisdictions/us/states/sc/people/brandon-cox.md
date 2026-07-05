@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 92"
+represents: "us/states/sc/districts/house/92"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Cox
 
 Current SC House District 92 (SC State House of Representatives District 92).
+
+Represents [SC State House of Representatives District 92](/us/states/sc/districts/house/92.md).
 
 ## Sources
 

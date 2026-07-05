@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 90"
+represents: "us/states/nc/districts/house/90"
 tenure:
   start: "2009-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Stevens
 
 Current NC House District 90 (NC State House of Representatives District 90).
+
+Represents [NC State House of Representatives District 90](/us/states/nc/districts/house/90.md).
 
 ## Sources
 

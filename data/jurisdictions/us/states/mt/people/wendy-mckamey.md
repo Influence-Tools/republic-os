@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 12"
+represents: "us/states/mt/districts/senate/12"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy McKamey
 
 Current MT Senate District 12 (MT State Senate District 12).
+
+Represents [MT State Senate District 12](/us/states/mt/districts/senate/12.md).
 
 ## Sources
 

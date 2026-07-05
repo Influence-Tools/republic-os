@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 47"
+represents: "us/states/pa/districts/senate/47"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elder Vogel
 
 Current PA Senate District 47 (PA State Senate District 47).
+
+Represents [PA State Senate District 47](/us/states/pa/districts/senate/47.md).
 
 ## Sources
 

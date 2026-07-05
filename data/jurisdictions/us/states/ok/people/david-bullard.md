@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 6"
+represents: "us/states/ok/districts/senate/6"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Bullard
 
 Current OK Senate District 6 (OK State Senate District 6).
+
+Represents [OK State Senate District 6](/us/states/ok/districts/senate/6.md).
 
 ## Sources
 

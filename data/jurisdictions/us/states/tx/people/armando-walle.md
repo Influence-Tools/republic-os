@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 140"
+represents: "us/states/tx/districts/house/140"
 tenure:
   start: "2009-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Armando Walle
 
 Current TX House District 140 (TX State House of Representatives District 140).
+
+Represents [TX State House of Representatives District 140](/us/states/tx/districts/house/140.md).
 
 ## Sources
 

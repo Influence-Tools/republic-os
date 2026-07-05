@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 41"
+represents: "us/states/il/districts/house/41"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janet Yang Rohr
 
 Current IL House District 41 (IL State House of Representatives District 41).
+
+Represents [IL State House of Representatives District 41](/us/states/il/districts/house/41.md).
 
 ## Sources
 

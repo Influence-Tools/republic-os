@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 31"
+represents: "us/states/wy/districts/senate/31"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Evie Brennan
 
 Current WY Senate District 31 (WY State Senate District 31).
+
+Represents [WY State Senate District 31](/us/states/wy/districts/senate/31.md).
 
 ## Sources
 

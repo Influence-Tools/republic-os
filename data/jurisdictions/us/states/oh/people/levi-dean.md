@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 71"
+represents: "us/states/oh/districts/house/71"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Levi Dean
 
 Current OH House District 71 (OH State House of Representatives District 71).
+
+Represents [OH State House of Representatives District 71](/us/states/oh/districts/house/71.md).
 
 ## Sources
 

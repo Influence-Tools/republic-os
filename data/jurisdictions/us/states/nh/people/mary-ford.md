@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 3"
+represents: "us/states/nh/districts/house/rockingham-3"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Ford
 
 Current NH House District Rockingham 3 (NH State House of Representatives District Rockingham 3).
+
+Represents [NH State House of Representatives District Rockingham 3](/us/states/nh/districts/house/rockingham-3.md).
 
 ## Sources
 

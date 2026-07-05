@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 143"
+represents: "us/states/ct/districts/house/143"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dominique Johnson
 
 Current CT House District 143 (CT State House of Representatives District 143).
+
+Represents [CT State House of Representatives District 143](/us/states/ct/districts/house/143.md).
 
 ## Sources
 

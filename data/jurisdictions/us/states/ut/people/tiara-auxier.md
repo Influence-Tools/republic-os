@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 4"
+represents: "us/states/ut/districts/house/4"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tiara Auxier
 
 Current UT House District 4 (UT State House of Representatives District 4).
+
+Represents [UT State House of Representatives District 4](/us/states/ut/districts/house/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 100"
+represents: "us/states/ny/districts/house/100"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paula Kay
 
 Current NY House District 100 (NY State House of Representatives District 100).
+
+Represents [NY State House of Representatives District 100](/us/states/ny/districts/house/100.md).
 
 ## Sources
 

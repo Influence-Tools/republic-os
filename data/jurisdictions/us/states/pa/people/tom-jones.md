@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 98"
+represents: "us/states/pa/districts/house/98"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Jones
 
 Current PA House District 98 (PA State House of Representatives District 98).
+
+Represents [PA State House of Representatives District 98](/us/states/pa/districts/house/98.md).
 
 ## Sources
 

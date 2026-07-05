@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 18"
+represents: "us/states/va/districts/senate/18"
 tenure:
   start: "1992-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Louise Lucas
 
 Current VA Senate District 18 (VA State Senate District 18).
+
+Represents [VA State Senate District 18](/us/states/va/districts/senate/18.md).
 
 ## Sources
 

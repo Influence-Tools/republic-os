@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CO"
 district: "Congressional District 2"
+represents: "us/states/co/districts/02"
 leadership:
   - role: "Assistant House Minority Leader"
     body: "H"
@@ -65,6 +66,8 @@ timestamp: "2026-07-04"
 # Joe Neguse
 
 Current U.S. House of Representatives - CO-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/co/districts/02.md).
 
 ## Leadership
 

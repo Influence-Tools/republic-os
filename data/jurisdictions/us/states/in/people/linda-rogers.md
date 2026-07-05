@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 11"
+represents: "us/states/in/districts/senate/11"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Rogers
 
 Current IN Senate District 11 (IN State Senate District 11).
+
+Represents [IN State Senate District 11](/us/states/in/districts/senate/11.md).
 
 ## Sources
 

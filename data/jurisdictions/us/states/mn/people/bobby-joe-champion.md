@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 59"
+represents: "us/states/mn/districts/senate/59"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Joe Champion
 
 Current MN Senate District 59 (MN State Senate District 59).
+
+Represents [MN State Senate District 59](/us/states/mn/districts/senate/59.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 60"
+represents: "us/states/in/districts/house/60"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peggy Mayfield
 
 Current IN House District 60 (IN State House of Representatives District 60).
+
+Represents [IN State House of Representatives District 60](/us/states/in/districts/house/60.md).
 
 ## Sources
 

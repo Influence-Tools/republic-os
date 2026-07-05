@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 3"
+represents: "us/states/wi/districts/03"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Derrick Van Orden
 
 Current U.S. House of Representatives - WI-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/wi/districts/03.md).
 
 ## Committees
 

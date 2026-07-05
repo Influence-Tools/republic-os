@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 179"
+represents: "us/states/ga/districts/house/179"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Townsend
 
 Current GA House District 179 (GA State House of Representatives District 179).
+
+Represents [GA State House of Representatives District 179](/us/states/ga/districts/house/179.md).
 
 ## Sources
 

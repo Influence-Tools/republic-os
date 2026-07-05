@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 69"
+represents: "us/states/ca/districts/house/69"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Lowenthal
 
 Current CA House District 69 (CA State House of Representatives District 69).
+
+Represents [CA State House of Representatives District 69](/us/states/ca/districts/house/69.md).
 
 ## Sources
 

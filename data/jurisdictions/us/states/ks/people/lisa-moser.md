@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 106"
+represents: "us/states/ks/districts/house/106"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Moser
 
 Current KS House District 106 (KS State House of Representatives District 106).
+
+Represents [KS State House of Representatives District 106](/us/states/ks/districts/house/106.md).
 
 ## Sources
 

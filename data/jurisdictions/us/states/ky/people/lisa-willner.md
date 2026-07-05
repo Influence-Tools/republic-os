@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 35"
+represents: "us/states/ky/districts/house/35"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Willner
 
 Current KY House District 35 (KY State House of Representatives District 35).
+
+Represents [KY State House of Representatives District 35](/us/states/ky/districts/house/35.md).
 
 ## Sources
 

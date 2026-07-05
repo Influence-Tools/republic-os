@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 148"
+represents: "us/states/tx/districts/house/148"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Penny Morales Shaw
 
 Current TX House District 148 (TX State House of Representatives District 148).
+
+Represents [TX State House of Representatives District 148](/us/states/tx/districts/house/148.md).
 
 ## Sources
 

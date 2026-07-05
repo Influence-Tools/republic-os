@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 44"
+represents: "us/states/wv/districts/house/44"
 tenure:
   start: "2024-08-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Roop
 
 Current WV House District 44 (WV State House of Representatives District 44).
+
+Represents [WV State House of Representatives District 44](/us/states/wv/districts/house/44.md).
 
 ## Sources
 

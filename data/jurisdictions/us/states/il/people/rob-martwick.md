@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 10"
+represents: "us/states/il/districts/senate/10"
 tenure:
   start: "2019-06-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Martwick
 
 Current IL Senate District 10 (IL State Senate District 10).
+
+Represents [IL State Senate District 10](/us/states/il/districts/senate/10.md).
 
 ## Sources
 

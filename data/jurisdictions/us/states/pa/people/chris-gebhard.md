@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 48"
+represents: "us/states/pa/districts/senate/48"
 tenure:
   start: "2021-06-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Gebhard
 
 Current PA Senate District 48 (PA State Senate District 48).
+
+Represents [PA State Senate District 48](/us/states/pa/districts/senate/48.md).
 
 ## Sources
 

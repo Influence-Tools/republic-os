@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 15"
+represents: "us/states/la/districts/senate/15"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Regina Barrow
 
 Current LA Senate District 15 (LA State Senate District 15).
+
+Represents [LA State Senate District 15](/us/states/la/districts/senate/15.md).
 
 ## Sources
 

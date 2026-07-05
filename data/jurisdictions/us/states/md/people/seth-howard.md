@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 30B"
+represents: "us/states/md/districts/house/30b"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Seth Howard
 
 Current MD House District 30B (MD State House of Representatives District 30B).
+
+Represents [MD State House of Representatives District 30B](/us/states/md/districts/house/30b.md).
 
 ## Sources
 

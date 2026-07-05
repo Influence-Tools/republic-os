@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 41"
+represents: "us/states/ks/districts/house/41"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Proctor
 
 Current KS House District 41 (KS State House of Representatives District 41).
+
+Represents [KS State House of Representatives District 41](/us/states/ks/districts/house/41.md).
 
 ## Sources
 

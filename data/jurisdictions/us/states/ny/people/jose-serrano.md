@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 29"
+represents: "us/states/ny/districts/senate/29"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jose Serrano
 
 Current NY Senate District 29 (NY State Senate District 29).
+
+Represents [NY State Senate District 29](/us/states/ny/districts/senate/29.md).
 
 ## Sources
 

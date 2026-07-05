@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 164"
+represents: "us/states/ga/districts/house/164"
 tenure:
   start: "1997-07-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Stephens
 
 Current GA House District 164 (GA State House of Representatives District 164).
+
+Represents [GA State House of Representatives District 164](/us/states/ga/districts/house/164.md).
 
 ## Sources
 

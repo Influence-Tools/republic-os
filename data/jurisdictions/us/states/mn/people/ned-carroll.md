@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 42A"
+represents: "us/states/mn/districts/house/42a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ned Carroll
 
 Current MN House District 42A (MN State House of Representatives District 42A).
+
+Represents [MN State House of Representatives District 42A](/us/states/mn/districts/house/42a.md).
 
 ## Sources
 

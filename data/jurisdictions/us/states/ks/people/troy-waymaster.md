@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 109"
+represents: "us/states/ks/districts/house/109"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Troy Waymaster
 
 Current KS House District 109 (KS State House of Representatives District 109).
+
+Represents [KS State House of Representatives District 109](/us/states/ks/districts/house/109.md).
 
 ## Sources
 

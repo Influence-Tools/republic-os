@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 17"
+represents: "us/states/wa/districts/senate/17"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Harris
 
 Current WA Senate District 17 (WA State Senate District 17).
+
+Represents [WA State Senate District 17](/us/states/wa/districts/senate/17.md).
 
 ## Sources
 

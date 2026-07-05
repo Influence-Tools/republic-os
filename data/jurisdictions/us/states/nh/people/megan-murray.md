@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 37"
+represents: "us/states/nh/districts/house/hillsborough-37"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Megan Murray
 
 Current NH House District Hillsborough 37 (NH State House of Representatives District Hillsborough 37).
+
+Represents [NH State House of Representatives District Hillsborough 37](/us/states/nh/districts/house/hillsborough-37.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 36th Middlesex"
+represents: "us/states/ma/districts/house/36th-middlesex"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Colleen Garry
 
 Current MA House District 36th Middlesex (MA State House of Representatives District 36th Middlesex).
+
+Represents [MA State House of Representatives District 36th Middlesex](/us/states/ma/districts/house/36th-middlesex.md).
 
 ## Sources
 

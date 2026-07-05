@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 6"
+represents: "us/states/tx/districts/06"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jake Ellzey
 
 Current U.S. House of Representatives - TX-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/tx/districts/06.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 22"
+represents: "us/states/md/districts/house/22"
 tenure:
   start: "2023-02-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ashanti Martínez
 
 Current MD House District 22 (MD State House of Representatives District 22).
+
+Represents [MD State House of Representatives District 22](/us/states/md/districts/house/22.md).
 
 ## Sources
 

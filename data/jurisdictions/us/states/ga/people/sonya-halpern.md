@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 39"
+represents: "us/states/ga/districts/senate/39"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sonya Halpern
 
 Current GA Senate District 39 (GA State Senate District 39).
+
+Represents [GA State Senate District 39](/us/states/ga/districts/senate/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 34"
+represents: "us/states/co/districts/senate/34"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Gonzales
 
 Current CO Senate District 34 (CO State Senate District 34).
+
+Represents [CO State Senate District 34](/us/states/co/districts/senate/34.md).
 
 ## Sources
 

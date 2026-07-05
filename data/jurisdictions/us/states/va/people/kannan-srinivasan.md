@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 32"
+represents: "us/states/va/districts/senate/32"
 tenure:
   start: "2025-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kannan Srinivasan
 
 Current VA Senate District 32 (VA State Senate District 32).
+
+Represents [VA State Senate District 32](/us/states/va/districts/senate/32.md).
 
 ## Sources
 

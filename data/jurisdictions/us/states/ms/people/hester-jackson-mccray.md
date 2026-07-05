@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 40"
+represents: "us/states/ms/districts/house/40"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hester Jackson-McCray
 
 Current MS House District 40 (MS State House of Representatives District 40).
+
+Represents [MS State House of Representatives District 40](/us/states/ms/districts/house/40.md).
 
 ## Sources
 

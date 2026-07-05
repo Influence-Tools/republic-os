@@ -22,9 +22,33 @@ demographics:
   race_native: 481
   hispanic: 9201
   bachelors_plus: 21310
+districts:
+  - to: "us/states/ga/districts/09"
+    rel: in-district
+    area_weight: 0.9952
+  - to: "us/states/ga/districts/senate/47"
+    rel: in-district
+    area_weight: 0.6403
+  - to: "us/states/ga/districts/senate/50"
+    rel: in-district
+    area_weight: 0.3596
+  - to: "us/states/ga/districts/house/31"
+    rel: in-district
+    area_weight: 0.4781
+  - to: "us/states/ga/districts/house/120"
+    rel: in-district
+    area_weight: 0.3152
+  - to: "us/states/ga/districts/house/32"
+    rel: in-district
+    area_weight: 0.1904
+  - to: "us/states/ga/districts/house/119"
+    rel: in-district
+    area_weight: 0.0162
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ga]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction.
 | Hispanic/Latino | 9201 |
 | Bachelor's or higher | 21310 |
 
+## Districts
+
+- [GA-09](/us/states/ga/districts/09.md) — 100% (congressional)
+- [GA Senate District 47](/us/states/ga/districts/senate/47.md) — 64% (state senate)
+- [GA Senate District 50](/us/states/ga/districts/senate/50.md) — 36% (state senate)
+- [GA House District 31](/us/states/ga/districts/house/31.md) — 48% (state house)
+- [GA House District 120](/us/states/ga/districts/house/120.md) — 32% (state house)
+- [GA House District 32](/us/states/ga/districts/house/32.md) — 19% (state house)
+- [GA House District 119](/us/states/ga/districts/house/119.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

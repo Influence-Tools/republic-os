@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 58"
+represents: "us/states/ok/districts/house/58"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Newton
 
 Current OK House District 58 (OK State House of Representatives District 58).
+
+Represents [OK State House of Representatives District 58](/us/states/ok/districts/house/58.md).
 
 ## Sources
 

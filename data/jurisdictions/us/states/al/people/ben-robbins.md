@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 33"
+represents: "us/states/al/districts/house/33"
 tenure:
   start: "2021-01-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Robbins
 
 Current AL House District 33 (AL State House of Representatives District 33).
+
+Represents [AL State House of Representatives District 33](/us/states/al/districts/house/33.md).
 
 ## Sources
 

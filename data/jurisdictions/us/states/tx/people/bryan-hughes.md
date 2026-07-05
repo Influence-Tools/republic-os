@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 1"
+represents: "us/states/tx/districts/senate/1"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Hughes
 
 Current TX Senate District 1 (TX State Senate District 1).
+
+Represents [TX State Senate District 1](/us/states/tx/districts/senate/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 21"
+represents: "us/states/or/districts/senate/21"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathleen Taylor
 
 Current OR Senate District 21 (OR State Senate District 21).
+
+Represents [OR State Senate District 21](/us/states/or/districts/senate/21.md).
 
 ## Sources
 

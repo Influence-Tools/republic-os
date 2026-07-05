@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 2"
+represents: "us/states/tx/districts/02"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Dan Crenshaw
 
 Current U.S. House of Representatives - TX-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/tx/districts/02.md).
 
 ## Committees
 

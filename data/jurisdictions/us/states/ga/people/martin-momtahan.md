@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 17"
+represents: "us/states/ga/districts/house/17"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martin Momtahan
 
 Current GA House District 17 (GA State House of Representatives District 17).
+
+Represents [GA State House of Representatives District 17](/us/states/ga/districts/house/17.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 51"
+represents: "us/states/ct/districts/house/51"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Stewart
 
 Current CT House District 51 (CT State House of Representatives District 51).
+
+Represents [CT State House of Representatives District 51](/us/states/ct/districts/house/51.md).
 
 ## Sources
 

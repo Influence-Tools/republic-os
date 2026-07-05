@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 62"
+represents: "us/states/ks/districts/house/62"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Willcott
 
 Current KS House District 62 (KS State House of Representatives District 62).
+
+Represents [KS State House of Representatives District 62](/us/states/ks/districts/house/62.md).
 
 ## Sources
 

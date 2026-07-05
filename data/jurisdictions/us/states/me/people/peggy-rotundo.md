@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 21"
+represents: "us/states/me/districts/senate/21"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peggy Rotundo
 
 Current ME Senate District 21 (ME State Senate District 21).
+
+Represents [ME State Senate District 21](/us/states/me/districts/senate/21.md).
 
 ## Sources
 

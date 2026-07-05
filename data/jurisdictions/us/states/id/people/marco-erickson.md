@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 33B"
+represents: "us/states/id/districts/house/33b"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marco Erickson
 
 Current ID House District 33B (ID State House of Representatives District 33B).
+
+Represents [ID State House of Representatives District 33B](/us/states/id/districts/house/33b.md).
 
 ## Sources
 

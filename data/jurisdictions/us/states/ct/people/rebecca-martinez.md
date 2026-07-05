@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 22"
+represents: "us/states/ct/districts/house/22"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Martinez
 
 Current CT House District 22 (CT State House of Representatives District 22).
+
+Represents [CT State House of Representatives District 22](/us/states/ct/districts/house/22.md).
 
 ## Sources
 

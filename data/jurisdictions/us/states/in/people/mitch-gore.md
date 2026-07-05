@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 89"
+represents: "us/states/in/districts/house/89"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mitch Gore
 
 Current IN House District 89 (IN State House of Representatives District 89).
+
+Represents [IN State House of Representatives District 89](/us/states/in/districts/house/89.md).
 
 ## Sources
 

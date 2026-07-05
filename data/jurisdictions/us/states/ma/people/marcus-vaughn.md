@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 9th Norfolk"
+represents: "us/states/ma/districts/house/9th-norfolk"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcus Vaughn
 
 Current MA House District 9th Norfolk (MA State House of Representatives District 9th Norfolk).
+
+Represents [MA State House of Representatives District 9th Norfolk](/us/states/ma/districts/house/9th-norfolk.md).
 
 ## Sources
 

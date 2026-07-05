@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 96"
+represents: "us/states/il/districts/house/96"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Scherer
 
 Current IL House District 96 (IL State House of Representatives District 96).
+
+Represents [IL State House of Representatives District 96](/us/states/il/districts/house/96.md).
 
 ## Sources
 

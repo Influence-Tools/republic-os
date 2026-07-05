@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 15"
+represents: "us/states/ga/districts/senate/15"
 tenure:
   start: "1993-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Harbison
 
 Current GA Senate District 15 (GA State Senate District 15).
+
+Represents [GA State Senate District 15](/us/states/ga/districts/senate/15.md).
 
 ## Sources
 

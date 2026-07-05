@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 4"
+represents: "us/states/ca/districts/senate/4"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marie Alvarado-Gil
 
 Current CA Senate District 4 (CA State Senate District 4).
+
+Represents [CA State Senate District 4](/us/states/ca/districts/senate/4.md).
 
 ## Sources
 

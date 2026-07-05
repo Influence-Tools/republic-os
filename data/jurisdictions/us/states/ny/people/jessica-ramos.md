@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 13"
+represents: "us/states/ny/districts/senate/13"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica Ramos
 
 Current NY Senate District 13 (NY State Senate District 13).
+
+Represents [NY State Senate District 13](/us/states/ny/districts/senate/13.md).
 
 ## Sources
 

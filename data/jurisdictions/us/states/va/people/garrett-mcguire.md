@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 17"
+represents: "us/states/va/districts/house/17"
 tenure:
   start: "2026-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Garrett McGuire
 
 Current VA House District 17 (VA State House of Representatives District 17).
+
+Represents [VA State House of Representatives District 17](/us/states/va/districts/house/17.md).
 
 ## Sources
 

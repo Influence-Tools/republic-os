@@ -22,9 +22,18 @@ demographics:
   race_native: 55
   hispanic: 384
   bachelors_plus: 2221
+districts:
+  - to: "us/states/mn/districts/01"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/mn/districts/senate/21"
+    rel: in-district
+    area_weight: 0.9999
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mn]
 timestamp: "2026-07-03"
@@ -56,6 +65,12 @@ County jurisdiction.
 | Hispanic/Latino | 384 |
 | Bachelor's or higher | 2221 |
 
+## Districts
+
+- [MN-01](/us/states/mn/districts/01.md) — 100% (congressional)
+- [MN Senate District 21](/us/states/mn/districts/senate/21.md) — 100% (state senate)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

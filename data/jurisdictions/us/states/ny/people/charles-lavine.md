@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 13"
+represents: "us/states/ny/districts/house/13"
 tenure:
   start: "2005-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charles Lavine
 
 Current NY House District 13 (NY State House of Representatives District 13).
+
+Represents [NY State House of Representatives District 13](/us/states/ny/districts/house/13.md).
 
 ## Sources
 

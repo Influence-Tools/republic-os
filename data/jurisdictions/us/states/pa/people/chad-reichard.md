@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 90"
+represents: "us/states/pa/districts/house/90"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Reichard
 
 Current PA House District 90 (PA State House of Representatives District 90).
+
+Represents [PA State House of Representatives District 90](/us/states/pa/districts/house/90.md).
 
 ## Sources
 

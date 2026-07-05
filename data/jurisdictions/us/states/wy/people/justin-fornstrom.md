@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 10"
+represents: "us/states/wy/districts/house/10"
 tenure:
   start: "2025-12-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Fornstrom
 
 Current WY House District 10 (WY State House of Representatives District 10).
+
+Represents [WY State House of Representatives District 10](/us/states/wy/districts/house/10.md).
 
 ## Sources
 

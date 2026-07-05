@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 96"
+represents: "us/states/ks/districts/house/96"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Kessler
 
 Current KS House District 96 (KS State House of Representatives District 96).
+
+Represents [KS State House of Representatives District 96](/us/states/ks/districts/house/96.md).
 
 ## Sources
 

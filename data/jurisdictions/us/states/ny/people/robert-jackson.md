@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 31"
+represents: "us/states/ny/districts/senate/31"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Jackson
 
 Current NY Senate District 31 (NY State Senate District 31).
+
+Represents [NY State Senate District 31](/us/states/ny/districts/senate/31.md).
 
 ## Sources
 

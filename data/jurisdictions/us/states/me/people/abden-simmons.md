@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 45"
+represents: "us/states/me/districts/house/45"
 tenure:
   start: "2023-06-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Abden Simmons
 
 Current ME House District 45 (ME State House of Representatives District 45).
+
+Represents [ME State House of Representatives District 45](/us/states/me/districts/house/45.md).
 
 ## Sources
 

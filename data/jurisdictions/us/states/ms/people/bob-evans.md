@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 91"
+represents: "us/states/ms/districts/house/91"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Evans
 
 Current MS House District 91 (MS State House of Representatives District 91).
+
+Represents [MS State House of Representatives District 91](/us/states/ms/districts/house/91.md).
 
 ## Sources
 

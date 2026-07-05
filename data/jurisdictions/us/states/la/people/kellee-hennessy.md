@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 64"
+represents: "us/states/la/districts/house/64"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kellee Hennessy
 
 Current LA House District 64 (LA State House of Representatives District 64).
+
+Represents [LA State House of Representatives District 64](/us/states/la/districts/house/64.md).
 
 ## Sources
 

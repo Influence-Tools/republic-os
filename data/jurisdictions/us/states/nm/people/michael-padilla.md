@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 14"
+represents: "us/states/nm/districts/senate/14"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Padilla
 
 Current NM Senate District 14 (NM State Senate District 14).
+
+Represents [NM State Senate District 14](/us/states/nm/districts/senate/14.md).
 
 ## Sources
 

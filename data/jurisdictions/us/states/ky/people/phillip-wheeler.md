@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 31"
+represents: "us/states/ky/districts/senate/31"
 tenure:
   start: "2019-03-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phillip Wheeler
 
 Current KY Senate District 31 (KY State Senate District 31).
+
+Represents [KY State Senate District 31](/us/states/ky/districts/senate/31.md).
 
 ## Sources
 

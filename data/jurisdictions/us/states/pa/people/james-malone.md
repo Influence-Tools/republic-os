@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 36"
+represents: "us/states/pa/districts/senate/36"
 tenure:
   start: "2025-05-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Malone
 
 Current PA Senate District 36 (PA State Senate District 36).
+
+Represents [PA State Senate District 36](/us/states/pa/districts/senate/36.md).
 
 ## Sources
 

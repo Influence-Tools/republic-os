@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 18"
+represents: "us/states/nj/districts/house/18"
 tenure:
   start: "2016-05-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Karabinchak
 
 Current NJ House District 18 (NJ State House of Representatives District 18).
+
+Represents [NJ State House of Representatives District 18](/us/states/nj/districts/house/18.md).
 
 ## Sources
 

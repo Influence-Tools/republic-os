@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 3"
+represents: "us/states/il/districts/senate/3"
 tenure:
   start: "2003-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mattie Hunter
 
 Current IL Senate District 3 (IL State Senate District 3).
+
+Represents [IL State Senate District 3](/us/states/il/districts/senate/3.md).
 
 ## Sources
 

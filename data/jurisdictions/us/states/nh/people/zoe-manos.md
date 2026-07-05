@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 12"
+represents: "us/states/nh/districts/house/rockingham-12"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zoe Manos
 
 Current NH House District Rockingham 12 (NH State House of Representatives District Rockingham 12).
+
+Represents [NH State House of Representatives District Rockingham 12](/us/states/nh/districts/house/rockingham-12.md).
 
 ## Sources
 

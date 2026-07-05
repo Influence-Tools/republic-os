@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Plymouth and Barnstable"
+represents: "us/states/ma/districts/senate/plymouth-and-barnstable"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dylan Fernandes
 
 Current MA Senate District Plymouth and Barnstable (MA State Senate District Plymouth and Barnstable).
+
+Represents [MA State Senate District Plymouth and Barnstable](/us/states/ma/districts/senate/plymouth-and-barnstable.md).
 
 ## Sources
 

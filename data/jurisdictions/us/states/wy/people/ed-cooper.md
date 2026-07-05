@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 20"
+represents: "us/states/wy/districts/senate/20"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Cooper
 
 Current WY Senate District 20 (WY State Senate District 20).
+
+Represents [WY State Senate District 20](/us/states/wy/districts/senate/20.md).
 
 ## Sources
 

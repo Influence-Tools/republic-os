@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 54"
+represents: "us/states/ny/districts/house/54"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erik Dilan
 
 Current NY House District 54 (NY State House of Representatives District 54).
+
+Represents [NY State House of Representatives District 54](/us/states/ny/districts/house/54.md).
 
 ## Sources
 

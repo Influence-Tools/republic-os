@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 64"
+represents: "us/states/fl/districts/house/64"
 tenure:
   start: "2024-12-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Valdés
 
 Current FL House District 64 (FL State House of Representatives District 64).
+
+Represents [FL State House of Representatives District 64](/us/states/fl/districts/house/64.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 8"
+represents: "us/states/va/districts/08"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Donald S. Beyer, Jr.
 
 Current U.S. House of Representatives - VA-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/va/districts/08.md).
 
 ## Committees
 

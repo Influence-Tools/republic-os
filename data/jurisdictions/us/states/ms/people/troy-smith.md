@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 84"
+represents: "us/states/ms/districts/house/84"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Troy Smith
 
 Current MS House District 84 (MS State House of Representatives District 84).
+
+Represents [MS State House of Representatives District 84](/us/states/ms/districts/house/84.md).
 
 ## Sources
 

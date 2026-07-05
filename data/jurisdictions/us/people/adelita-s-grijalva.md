@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AZ"
 district: "Congressional District 7"
+represents: "us/states/az/districts/07"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Adelita S. Grijalva
 
 Current U.S. House of Representatives - AZ-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/az/districts/07.md).
 
 ## Committees
 

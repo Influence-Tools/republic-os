@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 33"
+represents: "us/states/ia/districts/house/33"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ruth Ann Gaines
 
 Current IA House District 33 (IA State House of Representatives District 33).
+
+Represents [IA State House of Representatives District 33](/us/states/ia/districts/house/33.md).
 
 ## Sources
 

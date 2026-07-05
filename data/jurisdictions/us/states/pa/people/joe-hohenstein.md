@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 177"
+represents: "us/states/pa/districts/house/177"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Hohenstein
 
 Current PA House District 177 (PA State House of Representatives District 177).
+
+Represents [PA State House of Representatives District 177](/us/states/pa/districts/house/177.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 15"
+represents: "us/states/nd/districts/senate/15"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kent Weston
 
 Current ND Senate District 15 (ND State Senate District 15).
+
+Represents [ND State Senate District 15](/us/states/nd/districts/senate/15.md).
 
 ## Sources
 

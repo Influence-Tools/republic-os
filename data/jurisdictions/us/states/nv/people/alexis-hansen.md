@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 32"
+represents: "us/states/nv/districts/house/32"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alexis Hansen
 
 Current NV House District 32 (NV State House of Representatives District 32).
+
+Represents [NV State House of Representatives District 32](/us/states/nv/districts/house/32.md).
 
 ## Sources
 

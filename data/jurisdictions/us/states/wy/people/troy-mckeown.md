@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 24"
+represents: "us/states/wy/districts/senate/24"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Troy McKeown
 
 Current WY Senate District 24 (WY State Senate District 24).
+
+Represents [WY State Senate District 24](/us/states/wy/districts/senate/24.md).
 
 ## Sources
 

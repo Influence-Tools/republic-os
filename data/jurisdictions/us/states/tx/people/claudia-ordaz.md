@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 79"
+represents: "us/states/tx/districts/house/79"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Claudia Ordaz
 
 Current TX House District 79 (TX State House of Representatives District 79).
+
+Represents [TX State House of Representatives District 79](/us/states/tx/districts/house/79.md).
 
 ## Sources
 

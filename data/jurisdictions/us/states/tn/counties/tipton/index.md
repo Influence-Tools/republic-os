@@ -22,9 +22,24 @@ demographics:
   race_native: 150
   hispanic: 1916
   bachelors_plus: 11757
+districts:
+  - to: "us/states/tn/districts/09"
+    rel: in-district
+    area_weight: 0.56
+  - to: "us/states/tn/districts/08"
+    rel: in-district
+    area_weight: 0.4382
+  - to: "us/states/tn/districts/senate/32"
+    rel: in-district
+    area_weight: 0.9996
+  - to: "us/states/tn/districts/house/81"
+    rel: in-district
+    area_weight: 0.9991
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, tn]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 1916 |
 | Bachelor's or higher | 11757 |
 
+## Districts
+
+- [TN-09](/us/states/tn/districts/09.md) — 56% (congressional)
+- [TN-08](/us/states/tn/districts/08.md) — 44% (congressional)
+- [TN Senate District 32](/us/states/tn/districts/senate/32.md) — 100% (state senate)
+- [TN House District 81](/us/states/tn/districts/house/81.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

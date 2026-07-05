@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 10"
+represents: "us/states/pr/districts/house/10"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pellé Santiago
 
 Current PR House District 10 (PR State House of Representatives District 10).
+
+Represents [PR State House of Representatives District 10](/us/states/pr/districts/house/10.md).
 
 ## Sources
 

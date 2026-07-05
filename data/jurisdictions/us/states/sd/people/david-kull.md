@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 2"
+represents: "us/states/sd/districts/house/2"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Kull
 
 Current SD House District 2 (SD State House of Representatives District 2).
+
+Represents [SD State House of Representatives District 2](/us/states/sd/districts/house/2.md).
 
 ## Sources
 

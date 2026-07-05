@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 112"
+represents: "us/states/pa/districts/house/112"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Mullins
 
 Current PA House District 112 (PA State House of Representatives District 112).
+
+Represents [PA State House of Representatives District 112](/us/states/pa/districts/house/112.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 45"
+represents: "us/states/md/districts/senate/45"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cory McCray
 
 Current MD Senate District 45 (MD State Senate District 45).
+
+Represents [MD State Senate District 45](/us/states/md/districts/senate/45.md).
 
 ## Sources
 

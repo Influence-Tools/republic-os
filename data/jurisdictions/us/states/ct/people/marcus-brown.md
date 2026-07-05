@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 127"
+represents: "us/states/ct/districts/house/127"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcus Brown
 
 Current CT House District 127 (CT State House of Representatives District 127).
+
+Represents [CT State House of Representatives District 127](/us/states/ct/districts/house/127.md).
 
 ## Sources
 

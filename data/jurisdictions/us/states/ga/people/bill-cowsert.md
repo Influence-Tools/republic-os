@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 46"
+represents: "us/states/ga/districts/senate/46"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Cowsert
 
 Current GA Senate District 46 (GA State Senate District 46).
+
+Represents [GA State Senate District 46](/us/states/ga/districts/senate/46.md).
 
 ## Sources
 

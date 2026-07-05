@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 32"
+represents: "us/states/tn/districts/senate/32"
 tenure:
   start: "2019-03-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Rose
 
 Current TN Senate District 32 (TN State Senate District 32).
+
+Represents [TN State Senate District 32](/us/states/tn/districts/senate/32.md).
 
 ## Sources
 

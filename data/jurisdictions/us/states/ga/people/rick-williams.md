@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 25"
+represents: "us/states/ga/districts/senate/25"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Williams
 
 Current GA Senate District 25 (GA State Senate District 25).
+
+Represents [GA State Senate District 25](/us/states/ga/districts/senate/25.md).
 
 ## Sources
 

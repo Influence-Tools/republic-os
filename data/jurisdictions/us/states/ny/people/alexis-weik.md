@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 8"
+represents: "us/states/ny/districts/senate/8"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alexis Weik
 
 Current NY Senate District 8 (NY State Senate District 8).
+
+Represents [NY State Senate District 8](/us/states/ny/districts/senate/8.md).
 
 ## Sources
 

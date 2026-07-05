@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 89"
+represents: "us/states/va/districts/house/89"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kacey Carnegie
 
 Current VA House District 89 (VA State House of Representatives District 89).
+
+Represents [VA State House of Representatives District 89](/us/states/va/districts/house/89.md).
 
 ## Sources
 

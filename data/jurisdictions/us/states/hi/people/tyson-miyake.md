@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 10"
+represents: "us/states/hi/districts/house/10"
 tenure:
   start: "2023-12-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tyson Miyake
 
 Current HI House District 10 (HI State House of Representatives District 10).
+
+Represents [HI State House of Representatives District 10](/us/states/hi/districts/house/10.md).
 
 ## Sources
 

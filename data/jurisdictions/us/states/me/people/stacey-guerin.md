@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 4"
+represents: "us/states/me/districts/senate/4"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacey Guerin
 
 Current ME Senate District 4 (ME State Senate District 4).
+
+Represents [ME State Senate District 4](/us/states/me/districts/senate/4.md).
 
 ## Sources
 

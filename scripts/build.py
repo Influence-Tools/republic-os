@@ -7,6 +7,7 @@ Inputs (committed raw, one JSON object per line):
   leadership.jsonl              current federal leadership roles          (28)
   committee_memberships.jsonl   person->committee edges                (3,879)
   place_county_crosswalk.jsonl  Census place -> county (PostGIS join)  (32,041)
+  county_district_edges.jsonl   county -> district area-overlap edges  (16,328)
 
 Outputs (fully regenerated each run):
   data/jurisdictions/**         Person files (federal ones enriched with
@@ -262,6 +263,9 @@ def person_frontmatter(rec, enr):
         lines.append(f"state: {yval(rec['state_abbr'])}")
     if rec.get("jurisdiction_type") == "district" and jl:
         lines.append(f"district: {yval(jl)}")
+    dnode = person_district_node(rec)
+    if dnode:
+        lines.append(f"represents: {yval(dnode)}")
     if enr and enr["leadership"]:
         lines.append("leadership:")
         for r in enr["leadership"]:
@@ -330,6 +334,9 @@ def person_body(rec, enr):
     where = f" ({jl})" if jl and jl not in role else ""
     cur = "Current" if rec.get("is_current") else "Former"
     out = [f"# {name}", "", f"{cur} {role}{where}.", ""]
+    dnode = person_district_node(rec)
+    if dnode:
+        out += [f"Represents [{rec.get('jurisdiction_label')}](/{dnode}.md).", ""]
     if enr and enr["leadership"]:
         out += ["## Leadership", ""]
         for r in enr["leadership"]:
@@ -561,20 +568,109 @@ def demog_table(demog):
     return out + [""]
 
 
-def jurisdiction_file(title, classification, extra_fm, demog, st, body_intro):
+# --------------------------------------------------------------------------- #
+# District nodes + county->district edges (the geographic authority layer)
+# --------------------------------------------------------------------------- #
+
+DTYPE_CLASS = {"CD": "congressional-district",
+               "SS": "state-senate-district", "SH": "state-house-district"}
+DTYPE_RANK = {"CD": 0, "SS": 1, "SH": 2}
+DTYPE_WORD = {"CD": "congressional", "SS": "state senate", "SH": "state house"}
+DISTRICT_SOURCE = "PostGIS area-intersection over Census TIGER 2024 boundaries"
+
+
+def cd_ident(label):
+    """'Congressional District 5' -> '05'; at-large -> '00'."""
+    if re.search(r"at.?large", label, re.I):
+        return "00"
+    m = re.search(r"(\d+)", label)
+    return f"{int(m.group(1)):02d}" if m else "00"
+
+
+def leg_ident(label):
+    """State-leg identifier: text after 'District '. 'GA State Senate District 10A' -> '10A'."""
+    m = re.search(r"\bDistrict\s+(.+)$", label.strip())
+    return (m.group(1).strip() if m else label.strip())
+
+
+def district_node_id(dtype, state, ident):
+    """Concept id (path under data/jurisdictions) for a district node."""
+    st = (state or "").lower()
+    if dtype == "CD":
+        return f"us/states/{st}/districts/{ident}"
+    sub = "senate" if dtype == "SS" else "house"
+    return f"us/states/{st}/districts/{sub}/{slugify(ident)}"
+
+
+def edge_node_id(e):
+    """District node id for a county_district_edges row."""
+    dt = e["type"]
+    ident = cd_ident(e["district_label"]) if dt == "CD" else leg_ident(e["district_label"])
+    return district_node_id(dt, e["district_state"], ident)
+
+
+def district_title(dtype, state, ident):
+    if dtype == "CD":
+        return f"{state}-{ident}"
+    return f"{state} {'Senate' if dtype == 'SS' else 'House'} District {ident}"
+
+
+def person_district_parts(rec):
+    """(dtype, state, ident) of the district a legislator / US House member holds, else None."""
+    jl = rec.get("jurisdiction_label") or ""
+    if rec["level"] == "federal" and re.search(r"congressional district", jl, re.I):
+        return ("CD", rec.get("state_abbr"), cd_ident(jl))
+    if rec["level"] == "state" and rec.get("branch") == "legislative":
+        m = re.match(r"^([A-Z]{2})\s", jl)
+        st = m.group(1) if m else rec.get("state_abbr")
+        dt = ("SS" if re.search(r"state senate", jl, re.I)
+              else "SH" if re.search(r"state house|house of rep", jl, re.I) else None)
+        if dt and st:
+            return (dt, st, leg_ident(jl))
+    return None
+
+
+def person_district_node(rec):
+    """District node id a legislator / US House member represents, else None."""
+    p = person_district_parts(rec)
+    return district_node_id(*p) if p else None
+
+
+def jurisdiction_file(title, classification, extra_fm, demog, st, body_intro,
+                      district_edges=None):
+    """district_edges: sorted list of (node_id, dtype, title, area_weight)."""
     lines = ["type: Jurisdiction", f"title: {yval(title)}",
              f"classification: {classification}"]
     lines += extra_fm
     if demog:
         lines += demog_yaml(demog)
-    lines += ["sources:", "  - field: demographics",
-              "    source: Census ACS 2023", "confidence: official",
+    if district_edges:
+        lines.append("districts:")
+        for nid, dt, dtitle, w in district_edges:
+            lines += [f"  - to: {yval(nid)}", "    rel: in-district",
+                      f"    area_weight: {w}"]
+    src = []
+    if demog:
+        src.append(("demographics", "Census ACS 2023"))
+    if district_edges:
+        src.append(("districts", DISTRICT_SOURCE))
+    if not src:                                   # sparse district node
+        src.append(("boundary", "Census TIGER 2024"))
+    lines.append("sources:")
+    for f, s in src:
+        lines += [f"  - field: {f}", f"    source: {yval(s)}"]
+    lines += ["confidence: official",
               f"tags: [jurisdiction, {classification}, {st}]",
               f"timestamp: {yval(CONGRESS_DATE)}"]
     body = [f"# {title}", "", body_intro, ""]
     if demog:
         body += demog_table(demog)
-    body += ["## Source", "", "- demographics: Census ACS 2023"]
+    if district_edges:
+        body += ["## Districts", ""]
+        for nid, dt, dtitle, w in district_edges:
+            body.append(f"- [{dtitle}](/{nid}.md) — {round(w * 100)}% ({DTYPE_WORD[dt]})")
+        body.append("")
+    body += ["## Source", ""] + [f"- {f}: {s}" for f, s in src]
     return "---\n" + "\n".join(lines) + "\n---\n\n" + "\n".join(body) + "\n"
 
 
@@ -596,6 +692,31 @@ def main():
     acs_cd = load("acs_cd.jsonl")
     crosswalk = load("place_county_crosswalk.jsonl")
     place_to_cslug = place_resolver(acs_county, crosswalk)
+    county_district_edges = load("county_district_edges.jsonl")
+
+    # --- geographic edge layer: county fips -> district edges, and the full
+    #     district node set (edge targets + districts legislators represent) ---
+    district_nodes = {}                 # node_id -> (dtype, state, ident)
+
+    def reg_district(dt, state, ident):
+        district_nodes.setdefault(district_node_id(dt, state, ident), (dt, state, ident))
+
+    edges_by_county = {}
+    for e in county_district_edges:
+        dt = e["type"]
+        ident = cd_ident(e["district_label"]) if dt == "CD" else leg_ident(e["district_label"])
+        reg_district(dt, e["district_state"], ident)
+        edges_by_county.setdefault(canonical_fips(e["county_geoid"]), []).append(
+            (edge_node_id(e), dt, district_title(dt, e["district_state"], ident),
+             e["area_weight"]))
+    for lst in edges_by_county.values():
+        lst.sort(key=lambda x: (DTYPE_RANK[x[1]], -x[3], x[0]))
+    for row in acs_cd:                              # keep every existing ACS CD node
+        reg_district("CD", row["state_abbr"], row["district"])
+    for rec in officeholders:                       # ensure represents targets exist
+        p = person_district_parts(rec)
+        if p:
+            reg_district(*p)
 
     bodies_by_code = {b["code"]: b for b in bodies}
     comm_codes = committee_codes(bodies)
@@ -697,27 +818,39 @@ def main():
         extra = [f"fips: {yval(cf)}", f"state: {yval(st)}"]
         path = OUT / "us" / "states" / st.lower() / "counties" / cslug / "index.md"
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(jurisdiction_file(title, "county", extra, demog,
-                                          st.lower(), intro), encoding="utf-8")
+        path.write_text(jurisdiction_file(title, "county", extra, demog, st.lower(),
+                                          intro, district_edges=edges_by_county.get(cf)),
+                        encoding="utf-8")
         n_county += 1
 
-    # ---- congressional-district jurisdictions (ACS) ----
-    n_cd = 0
-    for row in sorted(acs_cd, key=lambda r: (r["state_abbr"], r["district"])):
-        st, dist = row["state_abbr"], row["district"]
-        title = f"{st}-{dist}"
-        demog = normalize_demog(row)
-        extra = [f"state: {yval(st)}", f"district: {yval(title)}"]
-        path = OUT / "us" / "states" / st.lower() / "districts" / f"{dist}.md"
+    # ---- district jurisdictions (CD demographics from ACS; state-leg + gap CDs sparse) ----
+    acs_cd_by_key = {(r["state_abbr"], r["district"]): r for r in acs_cd}
+    n_cd = n_sld = 0
+    for nid in sorted(district_nodes):
+        dt, st, ident = district_nodes[nid]
+        title = district_title(dt, st, ident)
+        cls = DTYPE_CLASS[dt]
+        if dt == "CD":
+            row = acs_cd_by_key.get((st, ident))
+            demog = normalize_demog(row) if row else None
+            extra = [f"state: {yval(st)}", f"district: {yval(title)}"]
+            intro = f"Congressional district {title}."
+            n_cd += 1
+        else:
+            demog = None
+            extra = [f"state: {yval(st)}",
+                     f"chamber: {yval('senate' if dt == 'SS' else 'house')}",
+                     f"district: {yval(ident)}"]
+            intro = f"{DTYPE_WORD[dt].title()} district {ident} ({st})."
+            n_sld += 1
+        path = OUT / (nid + ".md")
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(jurisdiction_file(title, "congressional-district", extra,
-                                          demog, st.lower(),
-                                          f"Congressional district {title}."),
+        path.write_text(jurisdiction_file(title, cls, extra, demog, st.lower(), intro),
                         encoding="utf-8")
-        n_cd += 1
 
     print(f"candidate files: {n_cand}   county jurisdictions: {n_county}   "
-          f"district jurisdictions: {n_cd}")
+          f"CD nodes: {n_cd}   state-leg district nodes: {n_sld}   "
+          f"county->district edges: {len(county_district_edges)}")
     print(f"person files: {len(person_files)}  "
           f"(federal enriched: {matched}/{sum(1 for r in officeholders if r['level']=='federal')})")
     print(f"body files: {len(bodies)}  "

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 36"
+represents: "us/states/hi/districts/house/36"
 tenure:
   start: "2026-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daisy Hartsfield
 
 Current HI House District 36 (HI State House of Representatives District 36).
+
+Represents [HI State House of Representatives District 36](/us/states/hi/districts/house/36.md).
 
 ## Sources
 

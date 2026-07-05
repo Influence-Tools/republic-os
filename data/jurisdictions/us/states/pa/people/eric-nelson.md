@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 57"
+represents: "us/states/pa/districts/house/57"
 tenure:
   start: "2016-04-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Nelson
 
 Current PA House District 57 (PA State House of Representatives District 57).
+
+Represents [PA State House of Representatives District 57](/us/states/pa/districts/house/57.md).
 
 ## Sources
 

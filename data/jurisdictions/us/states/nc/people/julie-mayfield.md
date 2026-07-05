@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 49"
+represents: "us/states/nc/districts/senate/49"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Mayfield
 
 Current NC Senate District 49 (NC State Senate District 49).
+
+Represents [NC State Senate District 49](/us/states/nc/districts/senate/49.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 16"
+represents: "us/states/ca/districts/house/16"
 tenure:
   start: "2018-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Bauer-Kahan
 
 Current CA House District 16 (CA State House of Representatives District 16).
+
+Represents [CA State House of Representatives District 16](/us/states/ca/districts/house/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 10"
+represents: "us/states/ct/districts/house/10"
 tenure:
   start: "2006-02-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Henry Genga
 
 Current CT House District 10 (CT State House of Representatives District 10).
+
+Represents [CT State House of Representatives District 10](/us/states/ct/districts/house/10.md).
 
 ## Sources
 

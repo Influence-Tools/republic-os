@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 22"
+represents: "us/states/ks/districts/house/22"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsay Vaughn
 
 Current KS House District 22 (KS State House of Representatives District 22).
+
+Represents [KS State House of Representatives District 22](/us/states/ks/districts/house/22.md).
 
 ## Sources
 

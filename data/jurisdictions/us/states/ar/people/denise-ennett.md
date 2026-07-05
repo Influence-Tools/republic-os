@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 80"
+represents: "us/states/ar/districts/house/80"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Ennett
 
 Current AR House District 80 (AR State House of Representatives District 80).
+
+Represents [AR State House of Representatives District 80](/us/states/ar/districts/house/80.md).
 
 ## Sources
 

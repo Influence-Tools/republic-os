@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 7"
+represents: "us/states/wy/districts/house/7"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Nicholas
 
 Current WY House District 7 (WY State House of Representatives District 7).
+
+Represents [WY State House of Representatives District 7](/us/states/wy/districts/house/7.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 3"
+represents: "us/states/nh/districts/house/merrimack-3"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Morse
 
 Current NH House District Merrimack 3 (NH State House of Representatives District Merrimack 3).
+
+Represents [NH State House of Representatives District Merrimack 3](/us/states/nh/districts/house/merrimack-3.md).
 
 ## Sources
 

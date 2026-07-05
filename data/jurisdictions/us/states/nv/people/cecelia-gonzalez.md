@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 16"
+represents: "us/states/nv/districts/house/16"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cecelia González
 
 Current NV House District 16 (NV State House of Representatives District 16).
+
+Represents [NV State House of Representatives District 16](/us/states/nv/districts/house/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 105"
+represents: "us/states/il/districts/house/105"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Tipsword
 
 Current IL House District 105 (IL State House of Representatives District 105).
+
+Represents [IL State House of Representatives District 105](/us/states/il/districts/house/105.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 105"
+represents: "us/states/pa/districts/house/105"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Fleming
 
 Current PA House District 105 (PA State House of Representatives District 105).
+
+Represents [PA State House of Representatives District 105](/us/states/pa/districts/house/105.md).
 
 ## Sources
 

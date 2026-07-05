@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 28"
+represents: "us/states/mt/districts/house/28"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Albus
 
 Current MT House District 28 (MT State House of Representatives District 28).
+
+Represents [MT State House of Representatives District 28](/us/states/mt/districts/house/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 46"
+represents: "us/states/ar/districts/house/46"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Eubanks
 
 Current AR House District 46 (AR State House of Representatives District 46).
+
+Represents [AR State House of Representatives District 46](/us/states/ar/districts/house/46.md).
 
 ## Sources
 

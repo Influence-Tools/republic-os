@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 40"
+represents: "us/states/ut/districts/house/40"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Stoddard
 
 Current UT House District 40 (UT State House of Representatives District 40).
+
+Represents [UT State House of Representatives District 40](/us/states/ut/districts/house/40.md).
 
 ## Sources
 

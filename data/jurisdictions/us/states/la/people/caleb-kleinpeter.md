@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 17"
+represents: "us/states/la/districts/senate/17"
 tenure:
   start: "2022-12-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Caleb Kleinpeter
 
 Current LA Senate District 17 (LA State Senate District 17).
+
+Represents [LA State Senate District 17](/us/states/la/districts/senate/17.md).
 
 ## Sources
 

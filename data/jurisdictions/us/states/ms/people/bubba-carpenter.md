@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 1"
+represents: "us/states/ms/districts/house/1"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bubba Carpenter
 
 Current MS House District 1 (MS State House of Representatives District 1).
+
+Represents [MS State House of Representatives District 1](/us/states/ms/districts/house/1.md).
 
 ## Sources
 

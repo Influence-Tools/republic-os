@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 5"
+represents: "us/states/ca/districts/senate/5"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry McNerney
 
 Current CA Senate District 5 (CA State Senate District 5).
+
+Represents [CA State Senate District 5](/us/states/ca/districts/senate/5.md).
 
 ## Sources
 

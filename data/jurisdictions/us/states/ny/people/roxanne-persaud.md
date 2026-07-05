@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 19"
+represents: "us/states/ny/districts/senate/19"
 tenure:
   start: "2015-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roxanne Persaud
 
 Current NY Senate District 19 (NY State Senate District 19).
+
+Represents [NY State Senate District 19](/us/states/ny/districts/senate/19.md).
 
 ## Sources
 

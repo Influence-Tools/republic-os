@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 17"
+represents: "us/states/co/districts/house/17"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Regina English
 
 Current CO House District 17 (CO State House of Representatives District 17).
+
+Represents [CO State House of Representatives District 17](/us/states/co/districts/house/17.md).
 
 ## Sources
 

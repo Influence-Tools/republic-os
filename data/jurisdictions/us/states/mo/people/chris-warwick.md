@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 128"
+represents: "us/states/mo/districts/house/128"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Warwick
 
 Current MO House District 128 (MO State House of Representatives District 128).
+
+Represents [MO State House of Representatives District 128](/us/states/mo/districts/house/128.md).
 
 ## Sources
 

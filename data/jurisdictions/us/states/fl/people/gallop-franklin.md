@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 8"
+represents: "us/states/fl/districts/house/8"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gallop Franklin
 
 Current FL House District 8 (FL State House of Representatives District 8).
+
+Represents [FL State House of Representatives District 8](/us/states/fl/districts/house/8.md).
 
 ## Sources
 

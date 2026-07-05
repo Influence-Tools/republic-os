@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 81"
+represents: "us/states/in/districts/house/81"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martin Carbaugh
 
 Current IN House District 81 (IN State House of Representatives District 81).
+
+Represents [IN State House of Representatives District 81](/us/states/in/districts/house/81.md).
 
 ## Sources
 

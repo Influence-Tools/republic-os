@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 73"
+represents: "us/states/in/districts/house/73"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jenny Meltzer
 
 Current IN House District 73 (IN State House of Representatives District 73).
+
+Represents [IN State House of Representatives District 73](/us/states/in/districts/house/73.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 104"
+represents: "us/states/pa/districts/house/104"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Madsen
 
 Current PA House District 104 (PA State House of Representatives District 104).
+
+Represents [PA State House of Representatives District 104](/us/states/pa/districts/house/104.md).
 
 ## Sources
 

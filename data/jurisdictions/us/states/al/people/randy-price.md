@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 13"
+represents: "us/states/al/districts/senate/13"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Price
 
 Current AL Senate District 13 (AL State Senate District 13).
+
+Represents [AL State Senate District 13](/us/states/al/districts/senate/13.md).
 
 ## Sources
 

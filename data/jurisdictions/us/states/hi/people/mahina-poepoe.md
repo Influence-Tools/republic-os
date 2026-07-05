@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 13"
+represents: "us/states/hi/districts/house/13"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mahina Poepoe
 
 Current HI House District 13 (HI State House of Representatives District 13).
+
+Represents [HI State House of Representatives District 13](/us/states/hi/districts/house/13.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 16"
+represents: "us/states/tx/districts/16"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Veronica Escobar
 
 Current U.S. House of Representatives - TX-16 (Congressional District 16).
+
+Represents [Congressional District 16](/us/states/tx/districts/16.md).
 
 ## Committees
 

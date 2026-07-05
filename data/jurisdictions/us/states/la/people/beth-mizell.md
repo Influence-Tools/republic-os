@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 12"
+represents: "us/states/la/districts/senate/12"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Mizell
 
 Current LA Senate District 12 (LA State Senate District 12).
+
+Represents [LA State Senate District 12](/us/states/la/districts/senate/12.md).
 
 ## Sources
 

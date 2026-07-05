@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 87"
+represents: "us/states/mt/districts/house/87"
 tenure:
   start: "2025-03-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Nelson
 
 Current MT House District 87 (MT State House of Representatives District 87).
+
+Represents [MT State House of Representatives District 87](/us/states/mt/districts/house/87.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 60"
+represents: "us/states/nc/districts/house/60"
 tenure:
   start: "2025-11-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amanda Cook
 
 Current NC House District 60 (NC State House of Representatives District 60).
+
+Represents [NC State House of Representatives District 60](/us/states/nc/districts/house/60.md).
 
 ## Sources
 

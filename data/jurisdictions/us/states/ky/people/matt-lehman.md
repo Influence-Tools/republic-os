@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 67"
+represents: "us/states/ky/districts/house/67"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Lehman
 
 Current KY House District 67 (KY State House of Representatives District 67).
+
+Represents [KY State House of Representatives District 67](/us/states/ky/districts/house/67.md).
 
 ## Sources
 

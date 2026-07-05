@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 12"
+represents: "us/states/ky/districts/senate/12"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amanda Bledsoe
 
 Current KY Senate District 12 (KY State Senate District 12).
+
+Represents [KY State Senate District 12](/us/states/ky/districts/senate/12.md).
 
 ## Sources
 

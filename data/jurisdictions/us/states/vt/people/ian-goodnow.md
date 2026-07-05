@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windham-9"
+represents: "us/states/vt/districts/house/windham-9"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ian Goodnow
 
 Current VT House District Windham-9 (VT State House of Representatives District Windham-9).
+
+Represents [VT State House of Representatives District Windham-9](/us/states/vt/districts/house/windham-9.md).
 
 ## Sources
 

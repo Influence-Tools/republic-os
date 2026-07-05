@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 34"
+represents: "us/states/ri/districts/house/34"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Teresa Tanzi
 
 Current RI House District 34 (RI State House of Representatives District 34).
+
+Represents [RI State House of Representatives District 34](/us/states/ri/districts/house/34.md).
 
 ## Sources
 

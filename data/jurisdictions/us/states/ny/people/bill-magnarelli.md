@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 129"
+represents: "us/states/ny/districts/house/129"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Magnarelli
 
 Current NY House District 129 (NY State House of Representatives District 129).
+
+Represents [NY State House of Representatives District 129](/us/states/ny/districts/house/129.md).
 
 ## Sources
 

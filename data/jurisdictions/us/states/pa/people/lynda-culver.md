@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 27"
+represents: "us/states/pa/districts/senate/27"
 tenure:
   start: "2023-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynda Culver
 
 Current PA Senate District 27 (PA State Senate District 27).
+
+Represents [PA State Senate District 27](/us/states/pa/districts/senate/27.md).
 
 ## Sources
 

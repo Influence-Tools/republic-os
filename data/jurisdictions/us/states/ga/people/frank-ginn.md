@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 47"
+represents: "us/states/ga/districts/senate/47"
 tenure:
   start: "2011-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Ginn
 
 Current GA Senate District 47 (GA State Senate District 47).
+
+Represents [GA State Senate District 47](/us/states/ga/districts/senate/47.md).
 
 ## Sources
 

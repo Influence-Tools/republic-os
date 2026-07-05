@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 81"
+represents: "us/states/mi/districts/house/81"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephen Wooden
 
 Current MI House District 81 (MI State House of Representatives District 81).
+
+Represents [MI State House of Representatives District 81](/us/states/mi/districts/house/81.md).
 
 ## Sources
 

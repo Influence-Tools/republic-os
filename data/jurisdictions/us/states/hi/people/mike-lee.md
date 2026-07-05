@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 50"
+represents: "us/states/hi/districts/house/50"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Lee
 
 Current HI House District 50 (HI State House of Representatives District 50).
+
+Represents [HI State House of Representatives District 50](/us/states/hi/districts/house/50.md).
 
 ## Sources
 

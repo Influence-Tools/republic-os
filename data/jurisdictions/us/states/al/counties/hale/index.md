@@ -22,9 +22,21 @@ demographics:
   race_native: 60
   hispanic: 195
   bachelors_plus: 2400
+districts:
+  - to: "us/states/al/districts/07"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/al/districts/senate/24"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/al/districts/house/72"
+    rel: in-district
+    area_weight: 0.9997
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, al]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 195 |
 | Bachelor's or higher | 2400 |
 
+## Districts
+
+- [AL-07](/us/states/al/districts/07.md) — 100% (congressional)
+- [AL Senate District 24](/us/states/al/districts/senate/24.md) — 100% (state senate)
+- [AL House District 72](/us/states/al/districts/house/72.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

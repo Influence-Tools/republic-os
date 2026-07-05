@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 60"
+represents: "us/states/me/districts/house/60"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Bridgeo
 
 Current ME House District 60 (ME State House of Representatives District 60).
+
+Represents [ME State House of Representatives District 60](/us/states/me/districts/house/60.md).
 
 ## Sources
 

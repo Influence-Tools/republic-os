@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 108"
+represents: "us/states/ms/districts/house/108"
 tenure:
   start: "2017-08-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacey Hobgood-Wilkes
 
 Current MS House District 108 (MS State House of Representatives District 108).
+
+Represents [MS State House of Representatives District 108](/us/states/ms/districts/house/108.md).
 
 ## Sources
 

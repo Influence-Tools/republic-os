@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Franklin"
+represents: "us/states/ma/districts/house/2nd-franklin"
 tenure:
   start: "2017-08-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susannah Whipps
 
 Current MA House District 2nd Franklin (MA State House of Representatives District 2nd Franklin).
+
+Represents [MA State House of Representatives District 2nd Franklin](/us/states/ma/districts/house/2nd-franklin.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 98"
+represents: "us/states/ky/districts/house/98"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Thompson
 
 Current KY House District 98 (KY State House of Representatives District 98).
+
+Represents [KY State House of Representatives District 98](/us/states/ky/districts/house/98.md).
 
 ## Sources
 

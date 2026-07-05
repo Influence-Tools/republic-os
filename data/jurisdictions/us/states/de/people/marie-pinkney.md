@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 13"
+represents: "us/states/de/districts/senate/13"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marie Pinkney
 
 Current DE Senate District 13 (DE State Senate District 13).
+
+Represents [DE State Senate District 13](/us/states/de/districts/senate/13.md).
 
 ## Sources
 

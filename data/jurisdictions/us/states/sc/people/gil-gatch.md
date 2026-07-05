@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 94"
+represents: "us/states/sc/districts/house/94"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gil Gatch
 
 Current SC House District 94 (SC State House of Representatives District 94).
+
+Represents [SC State House of Representatives District 94](/us/states/sc/districts/house/94.md).
 
 ## Sources
 

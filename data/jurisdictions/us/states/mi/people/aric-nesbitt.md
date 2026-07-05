@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 20"
+represents: "us/states/mi/districts/senate/20"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aric Nesbitt
 
 Current MI Senate District 20 (MI State Senate District 20).
+
+Represents [MI State Senate District 20](/us/states/mi/districts/senate/20.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 35"
+represents: "us/states/nh/districts/house/hillsborough-35"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kat McGhee
 
 Current NH House District Hillsborough 35 (NH State House of Representatives District Hillsborough 35).
+
+Represents [NH State House of Representatives District Hillsborough 35](/us/states/nh/districts/house/hillsborough-35.md).
 
 ## Sources
 

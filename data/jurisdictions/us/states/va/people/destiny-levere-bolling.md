@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 80"
+represents: "us/states/va/districts/house/80"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Destiny LeVere Bolling
 
 Current VA House District 80 (VA State House of Representatives District 80).
+
+Represents [VA State House of Representatives District 80](/us/states/va/districts/house/80.md).
 
 ## Sources
 

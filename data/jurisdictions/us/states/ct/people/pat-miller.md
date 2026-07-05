@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 27"
+represents: "us/states/ct/districts/senate/27"
 tenure:
   start: "2021-03-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Miller
 
 Current CT Senate District 27 (CT State Senate District 27).
+
+Represents [CT State Senate District 27](/us/states/ct/districts/senate/27.md).
 
 ## Sources
 

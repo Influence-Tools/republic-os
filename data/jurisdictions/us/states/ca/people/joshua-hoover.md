@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 7"
+represents: "us/states/ca/districts/house/7"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joshua Hoover
 
 Current CA House District 7 (CA State House of Representatives District 7).
+
+Represents [CA State House of Representatives District 7](/us/states/ca/districts/house/7.md).
 
 ## Sources
 

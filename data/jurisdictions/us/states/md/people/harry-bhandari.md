@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 8"
+represents: "us/states/md/districts/house/8"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harry Bhandari
 
 Current MD House District 8 (MD State House of Representatives District 8).
+
+Represents [MD State House of Representatives District 8](/us/states/md/districts/house/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 42"
+represents: "us/states/nc/districts/senate/42"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Woodson Bradley
 
 Current NC Senate District 42 (NC State Senate District 42).
+
+Represents [NC State Senate District 42](/us/states/nc/districts/senate/42.md).
 
 ## Sources
 

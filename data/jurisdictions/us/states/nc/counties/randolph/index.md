@@ -22,9 +22,30 @@ demographics:
   race_native: 508
   hispanic: 20523
   bachelors_plus: 23346
+districts:
+  - to: "us/states/nc/districts/09"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/nc/districts/senate/29"
+    rel: in-district
+    area_weight: 0.7693
+  - to: "us/states/nc/districts/senate/25"
+    rel: in-district
+    area_weight: 0.2306
+  - to: "us/states/nc/districts/house/78"
+    rel: in-district
+    area_weight: 0.6281
+  - to: "us/states/nc/districts/house/70"
+    rel: in-district
+    area_weight: 0.303
+  - to: "us/states/nc/districts/house/54"
+    rel: in-district
+    area_weight: 0.0688
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nc]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 20523 |
 | Bachelor's or higher | 23346 |
 
+## Districts
+
+- [NC-09](/us/states/nc/districts/09.md) — 100% (congressional)
+- [NC Senate District 29](/us/states/nc/districts/senate/29.md) — 77% (state senate)
+- [NC Senate District 25](/us/states/nc/districts/senate/25.md) — 23% (state senate)
+- [NC House District 78](/us/states/nc/districts/house/78.md) — 63% (state house)
+- [NC House District 70](/us/states/nc/districts/house/70.md) — 30% (state house)
+- [NC House District 54](/us/states/nc/districts/house/54.md) — 7% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

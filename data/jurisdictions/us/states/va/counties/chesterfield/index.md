@@ -22,9 +22,45 @@ demographics:
   race_native: 1276
   hispanic: 44796
   bachelors_plus: 155630
+districts:
+  - to: "us/states/va/districts/01"
+    rel: in-district
+    area_weight: 0.5107
+  - to: "us/states/va/districts/04"
+    rel: in-district
+    area_weight: 0.4861
+  - to: "us/states/va/districts/senate/12"
+    rel: in-district
+    area_weight: 0.7211
+  - to: "us/states/va/districts/senate/15"
+    rel: in-district
+    area_weight: 0.2783
+  - to: "us/states/va/districts/house/73"
+    rel: in-district
+    area_weight: 0.3552
+  - to: "us/states/va/districts/house/74"
+    rel: in-district
+    area_weight: 0.3087
+  - to: "us/states/va/districts/house/75"
+    rel: in-district
+    area_weight: 0.1278
+  - to: "us/states/va/districts/house/76"
+    rel: in-district
+    area_weight: 0.0984
+  - to: "us/states/va/districts/house/72"
+    rel: in-district
+    area_weight: 0.0434
+  - to: "us/states/va/districts/house/77"
+    rel: in-district
+    area_weight: 0.0364
+  - to: "us/states/va/districts/house/81"
+    rel: in-district
+    area_weight: 0.03
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, va]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction.
 | Hispanic/Latino | 44796 |
 | Bachelor's or higher | 155630 |
 
+## Districts
+
+- [VA-01](/us/states/va/districts/01.md) — 51% (congressional)
+- [VA-04](/us/states/va/districts/04.md) — 49% (congressional)
+- [VA Senate District 12](/us/states/va/districts/senate/12.md) — 72% (state senate)
+- [VA Senate District 15](/us/states/va/districts/senate/15.md) — 28% (state senate)
+- [VA House District 73](/us/states/va/districts/house/73.md) — 36% (state house)
+- [VA House District 74](/us/states/va/districts/house/74.md) — 31% (state house)
+- [VA House District 75](/us/states/va/districts/house/75.md) — 13% (state house)
+- [VA House District 76](/us/states/va/districts/house/76.md) — 10% (state house)
+- [VA House District 72](/us/states/va/districts/house/72.md) — 4% (state house)
+- [VA House District 77](/us/states/va/districts/house/77.md) — 4% (state house)
+- [VA House District 81](/us/states/va/districts/house/81.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

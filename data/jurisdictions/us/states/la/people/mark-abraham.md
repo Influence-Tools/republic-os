@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 25"
+represents: "us/states/la/districts/senate/25"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Abraham
 
 Current LA Senate District 25 (LA State Senate District 25).
+
+Represents [LA State Senate District 25](/us/states/la/districts/senate/25.md).
 
 ## Sources
 

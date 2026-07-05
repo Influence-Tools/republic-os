@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 16"
+represents: "us/states/md/districts/house/16"
 tenure:
   start: "2024-08-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Teresa Woorman
 
 Current MD House District 16 (MD State House of Representatives District 16).
+
+Represents [MD State House of Representatives District 16](/us/states/md/districts/house/16.md).
 
 ## Sources
 

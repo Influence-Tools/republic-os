@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 36"
+represents: "us/states/nj/districts/house/36"
 tenure:
   start: "2018-02-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clinton Calabrese
 
 Current NJ House District 36 (NJ State House of Representatives District 36).
+
+Represents [NJ State House of Representatives District 36](/us/states/nj/districts/house/36.md).
 
 ## Sources
 

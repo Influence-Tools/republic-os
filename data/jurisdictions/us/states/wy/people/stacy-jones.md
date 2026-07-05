@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 13"
+represents: "us/states/wy/districts/senate/13"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacy Jones
 
 Current WY Senate District 13 (WY State Senate District 13).
+
+Represents [WY State Senate District 13](/us/states/wy/districts/senate/13.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Coos 7"
+represents: "us/states/nh/districts/house/coos-7"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Korzen
 
 Current NH House District Coos 7 (NH State House of Representatives District Coos 7).
+
+Represents [NH State House of Representatives District Coos 7](/us/states/nh/districts/house/coos-7.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 39"
+represents: "us/states/pr/districts/house/39"
 tenure:
   start: "2001-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roberto Rivera Ruiz de Porras
 
 Current PR House District 39 (PR State House of Representatives District 39).
+
+Represents [PR State House of Representatives District 39](/us/states/pr/districts/house/39.md).
 
 ## Sources
 

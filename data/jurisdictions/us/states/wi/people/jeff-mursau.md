@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 36"
+represents: "us/states/wi/districts/house/36"
 tenure:
   start: "2005-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Mursau
 
 Current WI House District 36 (WI State House of Representatives District 36).
+
+Represents [WI State House of Representatives District 36](/us/states/wi/districts/house/36.md).
 
 ## Sources
 

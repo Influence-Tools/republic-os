@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 33"
+represents: "us/states/nv/districts/house/33"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bert Gurr
 
 Current NV House District 33 (NV State House of Representatives District 33).
+
+Represents [NV State House of Representatives District 33](/us/states/nv/districts/house/33.md).
 
 ## Sources
 

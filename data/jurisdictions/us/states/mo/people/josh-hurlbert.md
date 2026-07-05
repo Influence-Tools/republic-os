@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 8"
+represents: "us/states/mo/districts/house/8"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Hurlbert
 
 Current MO House District 8 (MO State House of Representatives District 8).
+
+Represents [MO State House of Representatives District 8](/us/states/mo/districts/house/8.md).
 
 ## Sources
 

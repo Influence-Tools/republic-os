@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 72"
+represents: "us/states/ny/districts/house/72"
 tenure:
   start: "2022-02-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Manny De Los Santos
 
 Current NY House District 72 (NY State House of Representatives District 72).
+
+Represents [NY State House of Representatives District 72](/us/states/ny/districts/house/72.md).
 
 ## Sources
 

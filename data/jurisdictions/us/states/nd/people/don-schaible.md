@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 31"
+represents: "us/states/nd/districts/senate/31"
 tenure:
   start: "2010-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Schaible
 
 Current ND Senate District 31 (ND State Senate District 31).
+
+Represents [ND State Senate District 31](/us/states/nd/districts/senate/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 27"
+represents: "us/states/pa/districts/house/27"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Deasy
 
 Current PA House District 27 (PA State House of Representatives District 27).
+
+Represents [PA State House of Representatives District 27](/us/states/pa/districts/house/27.md).
 
 ## Sources
 

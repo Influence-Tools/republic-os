@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 10"
+represents: "us/states/wa/districts/house/10"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Paul
 
 Current WA House District 10 (WA State House of Representatives District 10).
+
+Represents [WA State House of Representatives District 10](/us/states/wa/districts/house/10.md).
 
 ## Sources
 

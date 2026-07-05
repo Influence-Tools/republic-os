@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 2"
+represents: "us/states/ca/districts/02"
 committees:
   - name: "House Committee on Natural Resources"
     role: "ranking-member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Jared Huffman
 
 Current U.S. House of Representatives - CA-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ca/districts/02.md).
 
 ## Committees
 

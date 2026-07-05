@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 109"
+represents: "us/states/sc/districts/house/109"
 tenure:
   start: "2024-04-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tiffany Spann-Wilder
 
 Current SC House District 109 (SC State House of Representatives District 109).
+
+Represents [SC State House of Representatives District 109](/us/states/sc/districts/house/109.md).
 
 ## Sources
 

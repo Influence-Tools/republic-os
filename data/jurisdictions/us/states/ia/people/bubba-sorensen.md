@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 23"
+represents: "us/states/ia/districts/house/23"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bubba Sorensen
 
 Current IA House District 23 (IA State House of Representatives District 23).
+
+Represents [IA State House of Representatives District 23](/us/states/ia/districts/house/23.md).
 
 ## Sources
 

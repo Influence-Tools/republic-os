@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 18"
+represents: "us/states/ky/districts/house/18"
 tenure:
   start: "2019-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Samara Heavrin
 
 Current KY House District 18 (KY State House of Representatives District 18).
+
+Represents [KY State House of Representatives District 18](/us/states/ky/districts/house/18.md).
 
 ## Sources
 

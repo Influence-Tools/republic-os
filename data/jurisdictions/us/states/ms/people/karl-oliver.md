@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 46"
+represents: "us/states/ms/districts/house/46"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karl Oliver
 
 Current MS House District 46 (MS State House of Representatives District 46).
+
+Represents [MS State House of Representatives District 46](/us/states/ms/districts/house/46.md).
 
 ## Sources
 

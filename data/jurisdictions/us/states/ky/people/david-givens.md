@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 9"
+represents: "us/states/ky/districts/senate/9"
 tenure:
   start: "2009-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Givens
 
 Current KY Senate District 9 (KY State Senate District 9).
+
+Represents [KY State Senate District 9](/us/states/ky/districts/senate/9.md).
 
 ## Sources
 

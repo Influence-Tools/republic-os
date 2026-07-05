@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 82"
+represents: "us/states/oh/districts/house/82"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roy Klopfenstein
 
 Current OH House District 82 (OH State House of Representatives District 82).
+
+Represents [OH State House of Representatives District 82](/us/states/oh/districts/house/82.md).
 
 ## Sources
 

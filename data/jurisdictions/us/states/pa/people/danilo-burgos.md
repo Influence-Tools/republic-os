@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 197"
+represents: "us/states/pa/districts/house/197"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danilo Burgos
 
 Current PA House District 197 (PA State House of Representatives District 197).
+
+Represents [PA State House of Representatives District 197](/us/states/pa/districts/house/197.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 25"
+represents: "us/states/ms/districts/senate/25"
 tenure:
   start: "2016-03-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Walter Michel
 
 Current MS Senate District 25 (MS State Senate District 25).
+
+Represents [MS State Senate District 25](/us/states/ms/districts/senate/25.md).
 
 ## Sources
 

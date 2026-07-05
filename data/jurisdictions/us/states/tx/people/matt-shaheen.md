@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 66"
+represents: "us/states/tx/districts/house/66"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Shaheen
 
 Current TX House District 66 (TX State House of Representatives District 66).
+
+Represents [TX State House of Representatives District 66](/us/states/tx/districts/house/66.md).
 
 ## Sources
 

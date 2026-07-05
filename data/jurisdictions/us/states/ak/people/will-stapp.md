@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 32"
+represents: "us/states/ak/districts/house/32"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Stapp
 
 Current AK House District 32 (AK State House of Representatives District 32).
+
+Represents [AK State House of Representatives District 32](/us/states/ak/districts/house/32.md).
 
 ## Sources
 

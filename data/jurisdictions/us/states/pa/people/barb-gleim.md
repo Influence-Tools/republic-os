@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 199"
+represents: "us/states/pa/districts/house/199"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barb Gleim
 
 Current PA House District 199 (PA State House of Representatives District 199).
+
+Represents [PA State House of Representatives District 199](/us/states/pa/districts/house/199.md).
 
 ## Sources
 

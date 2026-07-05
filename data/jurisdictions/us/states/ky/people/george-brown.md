@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 77"
+represents: "us/states/ky/districts/house/77"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Brown
 
 Current KY House District 77 (KY State House of Representatives District 77).
+
+Represents [KY State House of Representatives District 77](/us/states/ky/districts/house/77.md).
 
 ## Sources
 

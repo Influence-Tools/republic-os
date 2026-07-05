@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Middlesex"
+represents: "us/states/ma/districts/house/3rd-middlesex"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Hogan
 
 Current MA House District 3rd Middlesex (MA State House of Representatives District 3rd Middlesex).
+
+Represents [MA State House of Representatives District 3rd Middlesex](/us/states/ma/districts/house/3rd-middlesex.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 26"
+represents: "us/states/fl/districts/house/26"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nan Cobb
 
 Current FL House District 26 (FL State House of Representatives District 26).
+
+Represents [FL State House of Representatives District 26](/us/states/fl/districts/house/26.md).
 
 ## Sources
 

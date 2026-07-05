@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 9"
+represents: "us/states/nh/districts/house/grafton-9"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Oppel
 
 Current NH House District Grafton 9 (NH State House of Representatives District Grafton 9).
+
+Represents [NH State House of Representatives District Grafton 9](/us/states/nh/districts/house/grafton-9.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TN"
 district: "Congressional District 3"
+represents: "us/states/tn/districts/03"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Charles J. "Chuck" Fleischmann
 
 Current U.S. House of Representatives - TN-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/tn/districts/03.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 88"
+represents: "us/states/tx/districts/house/88"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken King
 
 Current TX House District 88 (TX State House of Representatives District 88).
+
+Represents [TX State House of Representatives District 88](/us/states/tx/districts/house/88.md).
 
 ## Sources
 

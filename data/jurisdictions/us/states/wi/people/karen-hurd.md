@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 69"
+represents: "us/states/wi/districts/house/69"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Hurd
 
 Current WI House District 69 (WI State House of Representatives District 69).
+
+Represents [WI State House of Representatives District 69](/us/states/wi/districts/house/69.md).
 
 ## Sources
 

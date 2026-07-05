@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 43"
+represents: "us/states/tx/districts/house/43"
 tenure:
   start: "2012-03-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.M. Lozano
 
 Current TX House District 43 (TX State House of Representatives District 43).
+
+Represents [TX State House of Representatives District 43](/us/states/tx/districts/house/43.md).
 
 ## Sources
 

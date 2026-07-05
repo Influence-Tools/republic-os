@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 151"
+represents: "us/states/pa/districts/house/151"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Missy Cerrato
 
 Current PA House District 151 (PA State House of Representatives District 151).
+
+Represents [PA State House of Representatives District 151](/us/states/pa/districts/house/151.md).
 
 ## Sources
 

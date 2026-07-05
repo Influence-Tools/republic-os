@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 18"
+represents: "us/states/ca/districts/house/18"
 tenure:
   start: "2021-09-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mia Bonta
 
 Current CA House District 18 (CA State House of Representatives District 18).
+
+Represents [CA State House of Representatives District 18](/us/states/ca/districts/house/18.md).
 
 ## Sources
 

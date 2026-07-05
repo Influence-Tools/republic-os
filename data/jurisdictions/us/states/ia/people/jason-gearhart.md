@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 64"
+represents: "us/states/ia/districts/house/64"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Gearhart
 
 Current IA House District 64 (IA State House of Representatives District 64).
+
+Represents [IA State House of Representatives District 64](/us/states/ia/districts/house/64.md).
 
 ## Sources
 

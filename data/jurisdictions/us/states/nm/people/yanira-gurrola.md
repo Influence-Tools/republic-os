@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 16"
+represents: "us/states/nm/districts/house/16"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yanira Gurrola
 
 Current NM House District 16 (NM State House of Representatives District 16).
+
+Represents [NM State House of Representatives District 16](/us/states/nm/districts/house/16.md).
 
 ## Sources
 

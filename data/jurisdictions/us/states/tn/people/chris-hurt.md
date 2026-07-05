@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 82"
+represents: "us/states/tn/districts/house/82"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Hurt
 
 Current TN House District 82 (TN State House of Representatives District 82).
+
+Represents [TN State House of Representatives District 82](/us/states/tn/districts/house/82.md).
 
 ## Sources
 

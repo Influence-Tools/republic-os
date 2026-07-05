@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 119"
+represents: "us/states/nc/districts/house/119"
 tenure:
   start: "2026-04-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anna Ferguson
 
 Current NC House District 119 (NC State House of Representatives District 119).
+
+Represents [NC State House of Representatives District 119](/us/states/nc/districts/house/119.md).
 
 ## Sources
 

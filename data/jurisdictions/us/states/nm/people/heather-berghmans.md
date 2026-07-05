@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 15"
+represents: "us/states/nm/districts/senate/15"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Berghmans
 
 Current NM Senate District 15 (NM State Senate District 15).
+
+Represents [NM State Senate District 15](/us/states/nm/districts/senate/15.md).
 
 ## Sources
 

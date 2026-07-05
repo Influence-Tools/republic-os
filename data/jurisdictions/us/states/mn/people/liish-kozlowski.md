@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 8B"
+represents: "us/states/mn/districts/house/8b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liish Kozlowski
 
 Current MN House District 8B (MN State House of Representatives District 8B).
+
+Represents [MN State House of Representatives District 8B](/us/states/mn/districts/house/8b.md).
 
 ## Sources
 

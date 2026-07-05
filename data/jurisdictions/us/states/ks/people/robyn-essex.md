@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 78"
+represents: "us/states/ks/districts/house/78"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robyn Essex
 
 Current KS House District 78 (KS State House of Representatives District 78).
+
+Represents [KS State House of Representatives District 78](/us/states/ks/districts/house/78.md).
 
 ## Sources
 

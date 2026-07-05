@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 45"
+represents: "us/states/ia/districts/house/45"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Lohse
 
 Current IA House District 45 (IA State House of Representatives District 45).
+
+Represents [IA State House of Representatives District 45](/us/states/ia/districts/house/45.md).
 
 ## Sources
 

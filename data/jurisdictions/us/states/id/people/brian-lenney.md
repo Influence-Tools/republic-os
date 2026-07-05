@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 13"
+represents: "us/states/id/districts/senate/13"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Lenney
 
 Current ID Senate District 13 (ID State Senate District 13).
+
+Represents [ID State Senate District 13](/us/states/id/districts/senate/13.md).
 
 ## Sources
 

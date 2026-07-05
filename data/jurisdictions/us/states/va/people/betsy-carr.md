@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 78"
+represents: "us/states/va/districts/house/78"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Betsy Carr
 
 Current VA House District 78 (VA State House of Representatives District 78).
+
+Represents [VA State House of Representatives District 78](/us/states/va/districts/house/78.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 6"
+represents: "us/states/ri/districts/house/6"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Raymond Hull
 
 Current RI House District 6 (RI State House of Representatives District 6).
+
+Represents [RI State House of Representatives District 6](/us/states/ri/districts/house/6.md).
 
 ## Sources
 

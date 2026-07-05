@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 29"
+represents: "us/states/nj/districts/senate/29"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Teresa Ruiz
 
 Current NJ Senate District 29 (NJ State Senate District 29).
+
+Represents [NJ State Senate District 29](/us/states/nj/districts/senate/29.md).
 
 ## Sources
 

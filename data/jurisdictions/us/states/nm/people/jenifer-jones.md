@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 32"
+represents: "us/states/nm/districts/house/32"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jenifer Jones
 
 Current NM House District 32 (NM State House of Representatives District 32).
+
+Represents [NM State House of Representatives District 32](/us/states/nm/districts/house/32.md).
 
 ## Sources
 

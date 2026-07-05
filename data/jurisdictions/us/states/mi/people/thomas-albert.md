@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 18"
+represents: "us/states/mi/districts/senate/18"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Albert
 
 Current MI Senate District 18 (MI State Senate District 18).
+
+Represents [MI State Senate District 18](/us/states/mi/districts/senate/18.md).
 
 ## Sources
 

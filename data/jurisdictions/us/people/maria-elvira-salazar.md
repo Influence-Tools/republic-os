@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 27"
+represents: "us/states/fl/districts/27"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Maria Elvira Salazar
 
 Current U.S. House of Representatives - FL-27 (Congressional District 27).
+
+Represents [Congressional District 27](/us/states/fl/districts/27.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 42"
+represents: "us/states/oh/districts/house/42"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elgin Rogers
 
 Current OH House District 42 (OH State House of Representatives District 42).
+
+Represents [OH State House of Representatives District 42](/us/states/oh/districts/house/42.md).
 
 ## Sources
 

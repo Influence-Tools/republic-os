@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 54"
+represents: "us/states/ar/districts/house/54"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Bentley
 
 Current AR House District 54 (AR State House of Representatives District 54).
+
+Represents [AR State House of Representatives District 54](/us/states/ar/districts/house/54.md).
 
 ## Sources
 

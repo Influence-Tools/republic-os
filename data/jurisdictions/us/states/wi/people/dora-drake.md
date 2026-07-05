@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 4"
+represents: "us/states/wi/districts/senate/4"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dora Drake
 
 Current WI Senate District 4 (WI State Senate District 4).
+
+Represents [WI State Senate District 4](/us/states/wi/districts/senate/4.md).
 
 ## Sources
 

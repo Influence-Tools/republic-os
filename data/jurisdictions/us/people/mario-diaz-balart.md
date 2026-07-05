@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 26"
+represents: "us/states/fl/districts/26"
 committees:
   - name: "House Committee on Appropriations"
     role: "vice-chair"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Mario Diaz-Balart
 
 Current U.S. House of Representatives - FL-26 (Congressional District 26).
+
+Represents [Congressional District 26](/us/states/fl/districts/26.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 21"
+represents: "us/states/wy/districts/house/21"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # McKay Erickson
 
 Current WY House District 21 (WY State House of Representatives District 21).
+
+Represents [WY State House of Representatives District 21](/us/states/wy/districts/house/21.md).
 
 ## Sources
 

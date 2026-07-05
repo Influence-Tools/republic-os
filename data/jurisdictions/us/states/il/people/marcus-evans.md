@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 33"
+represents: "us/states/il/districts/house/33"
 tenure:
   start: "2012-04-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcus Evans
 
 Current IL House District 33 (IL State House of Representatives District 33).
+
+Represents [IL State House of Representatives District 33](/us/states/il/districts/house/33.md).
 
 ## Sources
 

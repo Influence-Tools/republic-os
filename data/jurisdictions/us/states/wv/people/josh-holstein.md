@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 32"
+represents: "us/states/wv/districts/house/32"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Holstein
 
 Current WV House District 32 (WV State House of Representatives District 32).
+
+Represents [WV State House of Representatives District 32](/us/states/wv/districts/house/32.md).
 
 ## Sources
 

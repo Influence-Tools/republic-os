@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 50"
+represents: "us/states/in/districts/house/50"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lorissa Sweet
 
 Current IN House District 50 (IN State House of Representatives District 50).
+
+Represents [IN State House of Representatives District 50](/us/states/in/districts/house/50.md).
 
 ## Sources
 

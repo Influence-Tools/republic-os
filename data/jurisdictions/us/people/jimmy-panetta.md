@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 19"
+represents: "us/states/ca/districts/19"
 committees:
   - name: "House Committee on the Budget"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Jimmy Panetta
 
 Current U.S. House of Representatives - CA-19 (Congressional District 19).
+
+Represents [Congressional District 19](/us/states/ca/districts/19.md).
 
 ## Committees
 

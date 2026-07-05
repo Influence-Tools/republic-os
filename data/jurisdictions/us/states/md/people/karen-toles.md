@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 25"
+represents: "us/states/md/districts/house/25"
 tenure:
   start: "2022-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Toles
 
 Current MD House District 25 (MD State House of Representatives District 25).
+
+Represents [MD State House of Representatives District 25](/us/states/md/districts/house/25.md).
 
 ## Sources
 

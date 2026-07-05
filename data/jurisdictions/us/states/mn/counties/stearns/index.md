@@ -22,9 +22,45 @@ demographics:
   race_native: 188
   hispanic: 7700
   bachelors_plus: 38462
+districts:
+  - to: "us/states/mn/districts/07"
+    rel: in-district
+    area_weight: 0.8107
+  - to: "us/states/mn/districts/06"
+    rel: in-district
+    area_weight: 0.1893
+  - to: "us/states/mn/districts/senate/13"
+    rel: in-district
+    area_weight: 0.5135
+  - to: "us/states/mn/districts/senate/12"
+    rel: in-district
+    area_weight: 0.43
+  - to: "us/states/mn/districts/senate/14"
+    rel: in-district
+    area_weight: 0.0563
+  - to: "us/states/mn/districts/house/13a"
+    rel: in-district
+    area_weight: 0.4053
+  - to: "us/states/mn/districts/house/12a"
+    rel: in-district
+    area_weight: 0.313
+  - to: "us/states/mn/districts/house/12b"
+    rel: in-district
+    area_weight: 0.117
+  - to: "us/states/mn/districts/house/13b"
+    rel: in-district
+    area_weight: 0.1082
+  - to: "us/states/mn/districts/house/14a"
+    rel: in-district
+    area_weight: 0.0491
+  - to: "us/states/mn/districts/house/14b"
+    rel: in-district
+    area_weight: 0.0072
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mn]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 7700 |
 | Bachelor's or higher | 38462 |
 
+## Districts
+
+- [MN-07](/us/states/mn/districts/07.md) — 81% (congressional)
+- [MN-06](/us/states/mn/districts/06.md) — 19% (congressional)
+- [MN Senate District 13](/us/states/mn/districts/senate/13.md) — 51% (state senate)
+- [MN Senate District 12](/us/states/mn/districts/senate/12.md) — 43% (state senate)
+- [MN Senate District 14](/us/states/mn/districts/senate/14.md) — 6% (state senate)
+- [MN House District 13A](/us/states/mn/districts/house/13a.md) — 41% (state house)
+- [MN House District 12A](/us/states/mn/districts/house/12a.md) — 31% (state house)
+- [MN House District 12B](/us/states/mn/districts/house/12b.md) — 12% (state house)
+- [MN House District 13B](/us/states/mn/districts/house/13b.md) — 11% (state house)
+- [MN House District 14A](/us/states/mn/districts/house/14a.md) — 5% (state house)
+- [MN House District 14B](/us/states/mn/districts/house/14b.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

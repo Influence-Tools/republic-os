@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 55"
+represents: "us/states/ks/districts/house/55"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tobias Schlingensiepen
 
 Current KS House District 55 (KS State House of Representatives District 55).
+
+Represents [KS State House of Representatives District 55](/us/states/ks/districts/house/55.md).
 
 ## Sources
 

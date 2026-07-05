@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 7"
+represents: "us/states/co/districts/senate/7"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janice Rich
 
 Current CO Senate District 7 (CO State Senate District 7).
+
+Represents [CO State Senate District 7](/us/states/co/districts/senate/7.md).
 
 ## Sources
 

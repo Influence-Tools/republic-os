@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 17"
+represents: "us/states/nd/districts/house/17"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Landon Bahl
 
 Current ND House District 17 (ND State House of Representatives District 17).
+
+Represents [ND State House of Representatives District 17](/us/states/nd/districts/house/17.md).
 
 ## Sources
 

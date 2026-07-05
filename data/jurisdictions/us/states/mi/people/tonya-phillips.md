@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 7"
+represents: "us/states/mi/districts/house/7"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tonya Phillips
 
 Current MI House District 7 (MI State House of Representatives District 7).
+
+Represents [MI State House of Representatives District 7](/us/states/mi/districts/house/7.md).
 
 ## Sources
 

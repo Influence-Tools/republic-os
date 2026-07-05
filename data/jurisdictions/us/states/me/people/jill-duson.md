@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 27"
+represents: "us/states/me/districts/senate/27"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jill Duson
 
 Current ME Senate District 27 (ME State Senate District 27).
+
+Represents [ME State Senate District 27](/us/states/me/districts/senate/27.md).
 
 ## Sources
 

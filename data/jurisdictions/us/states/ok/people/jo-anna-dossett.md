@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 35"
+represents: "us/states/ok/districts/senate/35"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jo Anna Dossett
 
 Current OK Senate District 35 (OK State Senate District 35).
+
+Represents [OK State Senate District 35](/us/states/ok/districts/senate/35.md).
 
 ## Sources
 

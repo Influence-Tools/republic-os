@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 29"
+represents: "us/states/ar/districts/house/29"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick McClure
 
 Current AR House District 29 (AR State House of Representatives District 29).
+
+Represents [AR State House of Representatives District 29](/us/states/ar/districts/house/29.md).
 
 ## Sources
 

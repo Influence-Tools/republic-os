@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 136"
+represents: "us/states/ny/districts/house/136"
 tenure:
   start: "2020-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Clark
 
 Current NY House District 136 (NY State House of Representatives District 136).
+
+Represents [NY State House of Representatives District 136](/us/states/ny/districts/house/136.md).
 
 ## Sources
 

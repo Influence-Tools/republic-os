@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 30"
+represents: "us/states/id/districts/senate/30"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie VanOrden
 
 Current ID Senate District 30 (ID State Senate District 30).
+
+Represents [ID State Senate District 30](/us/states/id/districts/senate/30.md).
 
 ## Sources
 

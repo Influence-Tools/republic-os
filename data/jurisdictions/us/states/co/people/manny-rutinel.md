@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 32"
+represents: "us/states/co/districts/house/32"
 tenure:
   start: "2023-10-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Manny Rutinel
 
 Current CO House District 32 (CO State House of Representatives District 32).
+
+Represents [CO State House of Representatives District 32](/us/states/co/districts/house/32.md).
 
 ## Sources
 

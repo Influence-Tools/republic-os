@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 14"
+represents: "us/states/nm/districts/house/14"
 tenure:
   start: "1997-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Miguel García
 
 Current NM House District 14 (NM State House of Representatives District 14).
+
+Represents [NM State House of Representatives District 14](/us/states/nm/districts/house/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 152"
+represents: "us/states/mo/districts/house/152"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hardy Billington
 
 Current MO House District 152 (MO State House of Representatives District 152).
+
+Represents [MO State House of Representatives District 152](/us/states/mo/districts/house/152.md).
 
 ## Sources
 

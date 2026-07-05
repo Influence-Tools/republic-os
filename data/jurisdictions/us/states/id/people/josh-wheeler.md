@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 35B"
+represents: "us/states/id/districts/house/35b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Wheeler
 
 Current ID House District 35B (ID State House of Representatives District 35B).
+
+Represents [ID State House of Representatives District 35B](/us/states/id/districts/house/35b.md).
 
 ## Sources
 

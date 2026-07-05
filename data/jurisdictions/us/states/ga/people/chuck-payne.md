@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 54"
+represents: "us/states/ga/districts/senate/54"
 tenure:
   start: "2017-01-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Payne
 
 Current GA Senate District 54 (GA State Senate District 54).
+
+Represents [GA State Senate District 54](/us/states/ga/districts/senate/54.md).
 
 ## Sources
 

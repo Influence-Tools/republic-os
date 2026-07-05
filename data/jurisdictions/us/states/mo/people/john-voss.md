@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 147"
+represents: "us/states/mo/districts/house/147"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Voss
 
 Current MO House District 147 (MO State House of Representatives District 147).
+
+Represents [MO State House of Representatives District 147](/us/states/mo/districts/house/147.md).
 
 ## Sources
 

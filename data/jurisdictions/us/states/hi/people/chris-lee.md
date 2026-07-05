@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 25"
+represents: "us/states/hi/districts/senate/25"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Lee
 
 Current HI Senate District 25 (HI State Senate District 25).
+
+Represents [HI State Senate District 25](/us/states/hi/districts/senate/25.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 51"
+represents: "us/states/wy/districts/house/51"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laurie Bratten
 
 Current WY House District 51 (WY State House of Representatives District 51).
+
+Represents [WY State House of Representatives District 51](/us/states/wy/districts/house/51.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 125"
+represents: "us/states/me/districts/house/125"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Murphy
 
 Current ME House District 125 (ME State House of Representatives District 125).
+
+Represents [ME State House of Representatives District 125](/us/states/me/districts/house/125.md).
 
 ## Sources
 

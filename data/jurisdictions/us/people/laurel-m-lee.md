@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 15"
+represents: "us/states/fl/districts/15"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Laurel M. Lee
 
 Current U.S. House of Representatives - FL-15 (Congressional District 15).
+
+Represents [Congressional District 15](/us/states/fl/districts/15.md).
 
 ## Committees
 

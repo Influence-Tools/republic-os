@@ -22,9 +22,24 @@ demographics:
   race_native: 35
   hispanic: 32
   bachelors_plus: 726
+districts:
+  - to: "us/states/sd/districts/00"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/sd/districts/senate/28"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/sd/districts/house/28a"
+    rel: in-district
+    area_weight: 0.6729
+  - to: "us/states/sd/districts/house/28b"
+    rel: in-district
+    area_weight: 0.327
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, sd]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 32 |
 | Bachelor's or higher | 726 |
 
+## Districts
+
+- [SD-00](/us/states/sd/districts/00.md) — 100% (congressional)
+- [SD Senate District 28](/us/states/sd/districts/senate/28.md) — 100% (state senate)
+- [SD House District 28A](/us/states/sd/districts/house/28a.md) — 67% (state house)
+- [SD House District 28B](/us/states/sd/districts/house/28b.md) — 33% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

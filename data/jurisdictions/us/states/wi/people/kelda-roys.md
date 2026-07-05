@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 26"
+represents: "us/states/wi/districts/senate/26"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelda Roys
 
 Current WI Senate District 26 (WI State Senate District 26).
+
+Represents [WI State Senate District 26](/us/states/wi/districts/senate/26.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 87"
+represents: "us/states/ks/districts/house/87"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Estes
 
 Current KS House District 87 (KS State House of Representatives District 87).
+
+Represents [KS State House of Representatives District 87](/us/states/ks/districts/house/87.md).
 
 ## Sources
 

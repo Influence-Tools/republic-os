@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 52"
+represents: "us/states/or/districts/house/52"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Helfrich
 
 Current OR House District 52 (OR State House of Representatives District 52).
+
+Represents [OR State House of Representatives District 52](/us/states/or/districts/house/52.md).
 
 ## Sources
 

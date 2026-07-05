@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 16"
+represents: "us/states/az/districts/house/16"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Teresa Martinez
 
 Current AZ House District 16 (AZ State House of Representatives District 16).
+
+Represents [AZ State House of Representatives District 16](/us/states/az/districts/house/16.md).
 
 ## Sources
 

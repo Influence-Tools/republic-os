@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 47"
+represents: "us/states/ca/districts/house/47"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Wallis
 
 Current CA House District 47 (CA State House of Representatives District 47).
+
+Represents [CA State House of Representatives District 47](/us/states/ca/districts/house/47.md).
 
 ## Sources
 

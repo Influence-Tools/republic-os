@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 132"
+represents: "us/states/me/districts/house/132"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Fecteau
 
 Current ME House District 132 (ME State House of Representatives District 132).
+
+Represents [ME State House of Representatives District 132](/us/states/me/districts/house/132.md).
 
 ## Sources
 

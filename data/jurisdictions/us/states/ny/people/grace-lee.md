@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 65"
+represents: "us/states/ny/districts/house/65"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Grace Lee
 
 Current NY House District 65 (NY State House of Representatives District 65).
+
+Represents [NY State House of Representatives District 65](/us/states/ny/districts/house/65.md).
 
 ## Sources
 

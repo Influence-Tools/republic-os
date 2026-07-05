@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 170"
+represents: "us/states/ga/districts/house/170"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaclyn Ford
 
 Current GA House District 170 (GA State House of Representatives District 170).
+
+Represents [GA State House of Representatives District 170](/us/states/ga/districts/house/170.md).
 
 ## Sources
 

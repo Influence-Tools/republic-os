@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 44"
+represents: "us/states/la/districts/house/44"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tehmi Chassion
 
 Current LA House District 44 (LA State House of Representatives District 44).
+
+Represents [LA State House of Representatives District 44](/us/states/la/districts/house/44.md).
 
 ## Sources
 

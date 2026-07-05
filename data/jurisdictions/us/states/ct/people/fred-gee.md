@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 126"
+represents: "us/states/ct/districts/house/126"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fred Gee
 
 Current CT House District 126 (CT State House of Representatives District 126).
+
+Represents [CT State House of Representatives District 126](/us/states/ct/districts/house/126.md).
 
 ## Sources
 

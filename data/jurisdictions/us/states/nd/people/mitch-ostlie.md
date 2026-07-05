@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 12"
+represents: "us/states/nd/districts/house/12"
 tenure:
   start: "2020-02-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mitch Ostlie
 
 Current ND House District 12 (ND State House of Representatives District 12).
+
+Represents [ND State House of Representatives District 12](/us/states/nd/districts/house/12.md).
 
 ## Sources
 

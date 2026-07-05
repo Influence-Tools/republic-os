@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 92"
+represents: "us/states/il/districts/house/92"
 tenure:
   start: "2009-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jehan Gordon-Booth
 
 Current IL House District 92 (IL State House of Representatives District 92).
+
+Represents [IL State House of Representatives District 92](/us/states/il/districts/house/92.md).
 
 ## Sources
 

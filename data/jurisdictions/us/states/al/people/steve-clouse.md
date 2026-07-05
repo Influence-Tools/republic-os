@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 93"
+represents: "us/states/al/districts/house/93"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Clouse
 
 Current AL House District 93 (AL State House of Representatives District 93).
+
+Represents [AL State House of Representatives District 93](/us/states/al/districts/house/93.md).
 
 ## Sources
 

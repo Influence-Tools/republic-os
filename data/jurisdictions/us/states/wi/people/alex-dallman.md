@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 39"
+represents: "us/states/wi/districts/house/39"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Dallman
 
 Current WI House District 39 (WI State House of Representatives District 39).
+
+Represents [WI State House of Representatives District 39](/us/states/wi/districts/house/39.md).
 
 ## Sources
 

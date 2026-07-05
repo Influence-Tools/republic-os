@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 2"
+represents: "us/states/sc/districts/senate/2"
 tenure:
   start: "2016-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rex Rice
 
 Current SC Senate District 2 (SC State Senate District 2).
+
+Represents [SC State Senate District 2](/us/states/sc/districts/senate/2.md).
 
 ## Sources
 

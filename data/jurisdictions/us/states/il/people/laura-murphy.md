@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 28"
+represents: "us/states/il/districts/senate/28"
 tenure:
   start: "2015-10-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Murphy
 
 Current IL Senate District 28 (IL State Senate District 28).
+
+Represents [IL State Senate District 28](/us/states/il/districts/senate/28.md).
 
 ## Sources
 

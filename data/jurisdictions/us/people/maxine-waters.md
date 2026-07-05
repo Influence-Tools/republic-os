@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 43"
+represents: "us/states/ca/districts/43"
 committees:
   - name: "House Committee on Financial Services"
     role: "ranking-member"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Maxine Waters
 
 Current U.S. House of Representatives - CA-43 (Congressional District 43).
+
+Represents [Congressional District 43](/us/states/ca/districts/43.md).
 
 ## Committees
 

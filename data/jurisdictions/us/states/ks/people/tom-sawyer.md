@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 95"
+represents: "us/states/ks/districts/house/95"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Sawyer
 
 Current KS House District 95 (KS State House of Representatives District 95).
+
+Represents [KS State House of Representatives District 95](/us/states/ks/districts/house/95.md).
 
 ## Sources
 

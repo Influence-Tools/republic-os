@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 20"
+represents: "us/states/oh/districts/senate/20"
 tenure:
   start: "2019-05-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Schaffer
 
 Current OH Senate District 20 (OH State Senate District 20).
+
+Represents [OH State Senate District 20](/us/states/oh/districts/senate/20.md).
 
 ## Sources
 

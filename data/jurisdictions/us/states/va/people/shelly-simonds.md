@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 70"
+represents: "us/states/va/districts/house/70"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelly Simonds
 
 Current VA House District 70 (VA State House of Representatives District 70).
+
+Represents [VA State House of Representatives District 70](/us/states/va/districts/house/70.md).
 
 ## Sources
 

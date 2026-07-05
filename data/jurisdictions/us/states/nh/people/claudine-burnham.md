@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 2"
+represents: "us/states/nh/districts/house/strafford-2"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Claudine Burnham
 
 Current NH House District Strafford 2 (NH State House of Representatives District Strafford 2).
+
+Represents [NH State House of Representatives District Strafford 2](/us/states/nh/districts/house/strafford-2.md).
 
 ## Sources
 

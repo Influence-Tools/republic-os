@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 84"
+represents: "us/states/ct/districts/house/84"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hilda Santiago
 
 Current CT House District 84 (CT State House of Representatives District 84).
+
+Represents [CT State House of Representatives District 84](/us/states/ct/districts/house/84.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 62"
+represents: "us/states/nm/districts/house/62"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elaine Sena Cortez
 
 Current NM House District 62 (NM State House of Representatives District 62).
+
+Represents [NM State House of Representatives District 62](/us/states/nm/districts/house/62.md).
 
 ## Sources
 

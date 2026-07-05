@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 70"
+represents: "us/states/ca/districts/house/70"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tri Ta
 
 Current CA House District 70 (CA State House of Representatives District 70).
+
+Represents [CA State House of Representatives District 70](/us/states/ca/districts/house/70.md).
 
 ## Sources
 

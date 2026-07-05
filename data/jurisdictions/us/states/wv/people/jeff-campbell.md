@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 46"
+represents: "us/states/wv/districts/house/46"
 tenure:
   start: "2023-09-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Campbell
 
 Current WV House District 46 (WV State House of Representatives District 46).
+
+Represents [WV State House of Representatives District 46](/us/states/wv/districts/house/46.md).
 
 ## Sources
 

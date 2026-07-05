@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 4"
+represents: "us/states/ms/districts/house/4"
 tenure:
   start: "2015-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jody Steverson
 
 Current MS House District 4 (MS State House of Representatives District 4).
+
+Represents [MS State House of Representatives District 4](/us/states/ms/districts/house/4.md).
 
 ## Sources
 

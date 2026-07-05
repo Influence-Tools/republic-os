@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 152"
+represents: "us/states/pa/districts/house/152"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nancy Guenst
 
 Current PA House District 152 (PA State House of Representatives District 152).
+
+Represents [PA State House of Representatives District 152](/us/states/pa/districts/house/152.md).
 
 ## Sources
 

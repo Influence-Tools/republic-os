@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 37A"
+represents: "us/states/mn/districts/house/37a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Robbins
 
 Current MN House District 37A (MN State House of Representatives District 37A).
+
+Represents [MN State House of Representatives District 37A](/us/states/mn/districts/house/37a.md).
 
 ## Sources
 

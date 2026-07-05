@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 108"
+represents: "us/states/nc/districts/house/108"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Torbett
 
 Current NC House District 108 (NC State House of Representatives District 108).
+
+Represents [NC State House of Representatives District 108](/us/states/nc/districts/house/108.md).
 
 ## Sources
 

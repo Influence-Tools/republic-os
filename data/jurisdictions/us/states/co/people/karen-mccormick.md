@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 11"
+represents: "us/states/co/districts/house/11"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen McCormick
 
 Current CO House District 11 (CO State House of Representatives District 11).
+
+Represents [CO State House of Representatives District 11](/us/states/co/districts/house/11.md).
 
 ## Sources
 

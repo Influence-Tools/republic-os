@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 32"
+represents: "us/states/oh/districts/senate/32"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandy O'Brien
 
 Current OH Senate District 32 (OH State Senate District 32).
+
+Represents [OH State Senate District 32](/us/states/oh/districts/senate/32.md).
 
 ## Sources
 

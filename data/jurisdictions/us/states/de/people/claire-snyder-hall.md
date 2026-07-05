@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 14"
+represents: "us/states/de/districts/house/14"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Claire Snyder-Hall
 
 Current DE House District 14 (DE State House of Representatives District 14).
+
+Represents [DE State House of Representatives District 14](/us/states/de/districts/house/14.md).
 
 ## Sources
 

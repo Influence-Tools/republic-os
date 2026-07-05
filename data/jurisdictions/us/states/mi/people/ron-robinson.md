@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 58"
+represents: "us/states/mi/districts/house/58"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Robinson
 
 Current MI House District 58 (MI State House of Representatives District 58).
+
+Represents [MI State House of Representatives District 58](/us/states/mi/districts/house/58.md).
 
 ## Sources
 

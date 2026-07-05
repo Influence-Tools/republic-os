@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 4"
+represents: "us/states/nc/districts/04"
 committees:
   - name: "House Committee on Science, Space, and Technology"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Valerie P. Foushee
 
 Current U.S. House of Representatives - NC-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/nc/districts/04.md).
 
 ## Committees
 

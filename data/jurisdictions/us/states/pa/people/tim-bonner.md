@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 17"
+represents: "us/states/pa/districts/house/17"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Bonner
 
 Current PA House District 17 (PA State House of Representatives District 17).
+
+Represents [PA State House of Representatives District 17](/us/states/pa/districts/house/17.md).
 
 ## Sources
 

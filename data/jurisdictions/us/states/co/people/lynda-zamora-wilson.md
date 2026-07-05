@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 9"
+represents: "us/states/co/districts/senate/9"
 tenure:
   start: "2025-07-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynda Zamora Wilson
 
 Current CO Senate District 9 (CO State Senate District 9).
+
+Represents [CO State Senate District 9](/us/states/co/districts/senate/9.md).
 
 ## Sources
 

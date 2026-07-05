@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 126"
+represents: "us/states/ny/districts/house/126"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lemondes
 
 Current NY House District 126 (NY State House of Representatives District 126).
+
+Represents [NY State House of Representatives District 126](/us/states/ny/districts/house/126.md).
 
 ## Sources
 

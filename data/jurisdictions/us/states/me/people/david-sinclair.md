@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 50"
+represents: "us/states/me/districts/house/50"
 tenure:
   start: "2023-11-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Sinclair
 
 Current ME House District 50 (ME State House of Representatives District 50).
+
+Represents [ME State House of Representatives District 50](/us/states/me/districts/house/50.md).
 
 ## Sources
 

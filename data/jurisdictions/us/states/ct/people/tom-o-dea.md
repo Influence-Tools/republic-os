@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 125"
+represents: "us/states/ct/districts/house/125"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom O'Dea
 
 Current CT House District 125 (CT State House of Representatives District 125).
+
+Represents [CT State House of Representatives District 125](/us/states/ct/districts/house/125.md).
 
 ## Sources
 

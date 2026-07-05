@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 41"
+represents: "us/states/nm/districts/house/41"
 tenure:
   start: "2019-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Herrera
 
 Current NM House District 41 (NM State House of Representatives District 41).
+
+Represents [NM State House of Representatives District 41](/us/states/nm/districts/house/41.md).
 
 ## Sources
 

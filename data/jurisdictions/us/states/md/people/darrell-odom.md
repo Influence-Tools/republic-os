@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 27A"
+represents: "us/states/md/districts/house/27a"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darrell Odom
 
 Current MD House District 27A (MD State House of Representatives District 27A).
+
+Represents [MD State House of Representatives District 27A](/us/states/md/districts/house/27a.md).
 
 ## Sources
 

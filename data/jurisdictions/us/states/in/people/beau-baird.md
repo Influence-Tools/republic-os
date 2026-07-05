@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 44"
+represents: "us/states/in/districts/house/44"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beau Baird
 
 Current IN House District 44 (IN State House of Representatives District 44).
+
+Represents [IN State House of Representatives District 44](/us/states/in/districts/house/44.md).
 
 ## Sources
 

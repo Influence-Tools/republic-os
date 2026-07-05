@@ -7,6 +7,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 20"
+represents: "us/states/fl/districts/20"
 tenure:
   start: "2025-01-03"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Vacant
 
 Current U.S. House of Representatives - FL-20 (Congressional District 20).
+
+Represents [Congressional District 20](/us/states/fl/districts/20.md).
 
 ## Sources
 

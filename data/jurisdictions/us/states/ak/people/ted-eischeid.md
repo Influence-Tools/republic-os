@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 22"
+represents: "us/states/ak/districts/house/22"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ted Eischeid
 
 Current AK House District 22 (AK State House of Representatives District 22).
+
+Represents [AK State House of Representatives District 22](/us/states/ak/districts/house/22.md).
 
 ## Sources
 

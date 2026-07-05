@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 21"
+represents: "us/states/wi/districts/senate/21"
 tenure:
   start: "2015-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Van Wanggaard
 
 Current WI Senate District 21 (WI State Senate District 21).
+
+Represents [WI State Senate District 21](/us/states/wi/districts/senate/21.md).
 
 ## Sources
 

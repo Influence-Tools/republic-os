@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IN"
 district: "Congressional District 5"
+represents: "us/states/in/districts/05"
 committees:
   - name: "Joint Economic Committee"
     role: "member"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Victoria Spartz
 
 Current U.S. House of Representatives - IN-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/in/districts/05.md).
 
 ## Committees
 

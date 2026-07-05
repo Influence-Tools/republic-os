@@ -22,9 +22,15 @@ demographics:
   race_native: 8
   hispanic: 2467
   bachelors_plus: 8240
+districts:
+  - to: "us/states/ma/districts/09"
+    rel: in-district
+    area_weight: 0.1959
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ma]
 timestamp: "2026-07-03"
@@ -56,6 +62,11 @@ County jurisdiction.
 | Hispanic/Latino | 2467 |
 | Bachelor's or higher | 8240 |
 
+## Districts
+
+- [MA-09](/us/states/ma/districts/09.md) — 20% (congressional)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

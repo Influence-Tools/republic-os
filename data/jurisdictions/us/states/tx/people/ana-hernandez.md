@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 143"
+represents: "us/states/tx/districts/house/143"
 tenure:
   start: "2005-12-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ana Hernandez
 
 Current TX House District 143 (TX State House of Representatives District 143).
+
+Represents [TX State House of Representatives District 143](/us/states/tx/districts/house/143.md).
 
 ## Sources
 

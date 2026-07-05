@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 69"
+represents: "us/states/ia/districts/house/69"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Determann
 
 Current IA House District 69 (IA State House of Representatives District 69).
+
+Represents [IA State House of Representatives District 69](/us/states/ia/districts/house/69.md).
 
 ## Sources
 

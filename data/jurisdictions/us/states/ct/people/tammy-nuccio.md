@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 53"
+represents: "us/states/ct/districts/house/53"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tammy Nuccio
 
 Current CT House District 53 (CT State House of Representatives District 53).
+
+Represents [CT State House of Representatives District 53](/us/states/ct/districts/house/53.md).
 
 ## Sources
 

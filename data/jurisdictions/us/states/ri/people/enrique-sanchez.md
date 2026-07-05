@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 9"
+represents: "us/states/ri/districts/house/9"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Enrique Sanchez
 
 Current RI House District 9 (RI State House of Representatives District 9).
+
+Represents [RI State House of Representatives District 9](/us/states/ri/districts/house/9.md).
 
 ## Sources
 

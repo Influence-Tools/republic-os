@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 127"
+represents: "us/states/ga/districts/house/127"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Newton
 
 Current GA House District 127 (GA State House of Representatives District 127).
+
+Represents [GA State House of Representatives District 127](/us/states/ga/districts/house/127.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 64A"
+represents: "us/states/mn/districts/house/64a"
 tenure:
   start: "2026-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meg Luger-Nikolai
 
 Current MN House District 64A (MN State House of Representatives District 64A).
+
+Represents [MN State House of Representatives District 64A](/us/states/mn/districts/house/64a.md).
 
 ## Sources
 

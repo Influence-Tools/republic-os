@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MO"
 district: "Congressional District 8"
+represents: "us/states/mo/districts/08"
 committees:
   - name: "House Committee on Ways and Means"
     role: "chair"
@@ -43,6 +44,8 @@ timestamp: "2026-07-04"
 # Jason Smith
 
 Current U.S. House of Representatives - MO-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/mo/districts/08.md).
 
 ## Committees
 

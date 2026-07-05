@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 18"
+represents: "us/states/mo/districts/senate/18"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy O'Laughlin
 
 Current MO Senate District 18 (MO State Senate District 18).
+
+Represents [MO State Senate District 18](/us/states/mo/districts/senate/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 61"
+represents: "us/states/ny/districts/house/61"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charles Fall
 
 Current NY House District 61 (NY State House of Representatives District 61).
+
+Represents [NY State House of Representatives District 61](/us/states/ny/districts/house/61.md).
 
 ## Sources
 

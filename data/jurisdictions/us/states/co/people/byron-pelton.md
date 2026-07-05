@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 1"
+represents: "us/states/co/districts/senate/1"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Byron Pelton
 
 Current CO Senate District 1 (CO State Senate District 1).
+
+Represents [CO State Senate District 1](/us/states/co/districts/senate/1.md).
 
 ## Sources
 

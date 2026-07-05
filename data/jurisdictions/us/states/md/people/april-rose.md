@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 5"
+represents: "us/states/md/districts/house/5"
 tenure:
   start: "2015-03-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # April Rose
 
 Current MD House District 5 (MD State House of Representatives District 5).
+
+Represents [MD State House of Representatives District 5](/us/states/md/districts/house/5.md).
 
 ## Sources
 

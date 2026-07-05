@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 4"
+represents: "us/states/wi/districts/house/4"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Steffen
 
 Current WI House District 4 (WI State House of Representatives District 4).
+
+Represents [WI State House of Representatives District 4](/us/states/wi/districts/house/4.md).
 
 ## Sources
 

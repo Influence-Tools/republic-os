@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 47"
+represents: "us/states/tx/districts/house/47"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vikki Goodwin
 
 Current TX House District 47 (TX State House of Representatives District 47).
+
+Represents [TX State House of Representatives District 47](/us/states/tx/districts/house/47.md).
 
 ## Sources
 

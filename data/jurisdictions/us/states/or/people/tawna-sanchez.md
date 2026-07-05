@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 43"
+represents: "us/states/or/districts/house/43"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tawna Sanchez
 
 Current OR House District 43 (OR State House of Representatives District 43).
+
+Represents [OR State House of Representatives District 43](/us/states/or/districts/house/43.md).
 
 ## Sources
 

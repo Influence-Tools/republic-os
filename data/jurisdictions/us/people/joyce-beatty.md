@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 3"
+represents: "us/states/oh/districts/03"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Joyce Beatty
 
 Current U.S. House of Representatives - OH-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/oh/districts/03.md).
 
 ## Committees
 

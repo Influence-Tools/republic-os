@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 99"
+represents: "us/states/pa/districts/house/99"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Zimmerman
 
 Current PA House District 99 (PA State House of Representatives District 99).
+
+Represents [PA State House of Representatives District 99](/us/states/pa/districts/house/99.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 47"
+represents: "us/states/md/districts/senate/47"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Malcolm Augustine
 
 Current MD Senate District 47 (MD State Senate District 47).
+
+Represents [MD State Senate District 47](/us/states/md/districts/senate/47.md).
 
 ## Sources
 

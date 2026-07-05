@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 8"
+represents: "us/states/nv/districts/house/8"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Duy Nguyen
 
 Current NV House District 8 (NV State House of Representatives District 8).
+
+Represents [NV State House of Representatives District 8](/us/states/nv/districts/house/8.md).
 
 ## Sources
 

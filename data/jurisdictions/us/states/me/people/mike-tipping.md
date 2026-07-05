@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 8"
+represents: "us/states/me/districts/senate/8"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Tipping
 
 Current ME Senate District 8 (ME State Senate District 8).
+
+Represents [ME State Senate District 8](/us/states/me/districts/senate/8.md).
 
 ## Sources
 

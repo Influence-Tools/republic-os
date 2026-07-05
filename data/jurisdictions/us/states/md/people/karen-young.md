@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 3"
+represents: "us/states/md/districts/senate/3"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Young
 
 Current MD Senate District 3 (MD State Senate District 3).
+
+Represents [MD State Senate District 3](/us/states/md/districts/senate/3.md).
 
 ## Sources
 

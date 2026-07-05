@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 17"
+represents: "us/states/wv/districts/senate/17"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Takubo
 
 Current WV Senate District 17 (WV State Senate District 17).
+
+Represents [WV State Senate District 17](/us/states/wv/districts/senate/17.md).
 
 ## Sources
 

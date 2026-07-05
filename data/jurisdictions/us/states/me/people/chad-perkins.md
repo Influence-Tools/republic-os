@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 31"
+represents: "us/states/me/districts/house/31"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Perkins
 
 Current ME House District 31 (ME State House of Representatives District 31).
+
+Represents [ME State House of Representatives District 31](/us/states/me/districts/house/31.md).
 
 ## Sources
 

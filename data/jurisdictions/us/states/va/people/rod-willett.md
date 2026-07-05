@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 58"
+represents: "us/states/va/districts/house/58"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rod Willett
 
 Current VA House District 58 (VA State House of Representatives District 58).
+
+Represents [VA State House of Representatives District 58](/us/states/va/districts/house/58.md).
 
 ## Sources
 

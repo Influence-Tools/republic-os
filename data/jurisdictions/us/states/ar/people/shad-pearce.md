@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 40"
+represents: "us/states/ar/districts/house/40"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shad Pearce
 
 Current AR House District 40 (AR State House of Representatives District 40).
+
+Represents [AR State House of Representatives District 40](/us/states/ar/districts/house/40.md).
 
 ## Sources
 

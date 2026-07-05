@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 3"
+represents: "us/states/va/districts/senate/3"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Head
 
 Current VA Senate District 3 (VA State Senate District 3).
+
+Represents [VA State Senate District 3](/us/states/va/districts/senate/3.md).
 
 ## Sources
 

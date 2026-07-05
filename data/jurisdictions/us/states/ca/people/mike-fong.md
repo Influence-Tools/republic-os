@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 49"
+represents: "us/states/ca/districts/house/49"
 tenure:
   start: "2022-02-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Fong
 
 Current CA House District 49 (CA State House of Representatives District 49).
+
+Represents [CA State House of Representatives District 49](/us/states/ca/districts/house/49.md).
 
 ## Sources
 

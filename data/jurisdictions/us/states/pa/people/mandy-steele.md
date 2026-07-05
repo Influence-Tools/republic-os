@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 33"
+represents: "us/states/pa/districts/house/33"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mandy Steele
 
 Current PA House District 33 (PA State House of Representatives District 33).
+
+Represents [PA State House of Representatives District 33](/us/states/pa/districts/house/33.md).
 
 ## Sources
 

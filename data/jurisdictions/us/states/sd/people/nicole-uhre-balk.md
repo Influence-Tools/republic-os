@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 32"
+represents: "us/states/sd/districts/house/32"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Uhre-Balk
 
 Current SD House District 32 (SD State House of Representatives District 32).
+
+Represents [SD State House of Representatives District 32](/us/states/sd/districts/house/32.md).
 
 ## Sources
 

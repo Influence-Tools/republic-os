@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 137"
+represents: "us/states/ct/districts/house/137"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kadeem Roberts
 
 Current CT House District 137 (CT State House of Representatives District 137).
+
+Represents [CT State House of Representatives District 137](/us/states/ct/districts/house/137.md).
 
 ## Sources
 

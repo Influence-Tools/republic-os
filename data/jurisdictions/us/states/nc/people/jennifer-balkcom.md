@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 117"
+represents: "us/states/nc/districts/house/117"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Balkcom
 
 Current NC House District 117 (NC State House of Representatives District 117).
+
+Represents [NC State House of Representatives District 117](/us/states/nc/districts/house/117.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 27"
+represents: "us/states/va/districts/house/27"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Atoosa Reaser
 
 Current VA House District 27 (VA State House of Representatives District 27).
+
+Represents [VA State House of Representatives District 27](/us/states/va/districts/house/27.md).
 
 ## Sources
 

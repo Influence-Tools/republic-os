@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 8"
+represents: "us/states/ny/districts/08"
 leadership:
   - role: "House Minority Leader"
     body: "H"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Hakeem S. Jeffries
 
 Current U.S. House of Representatives - NY-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/ny/districts/08.md).
 
 ## Leadership
 

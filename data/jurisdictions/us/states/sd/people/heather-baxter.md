@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 34"
+represents: "us/states/sd/districts/house/34"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Baxter
 
 Current SD House District 34 (SD State House of Representatives District 34).
+
+Represents [SD State House of Representatives District 34](/us/states/sd/districts/house/34.md).
 
 ## Sources
 

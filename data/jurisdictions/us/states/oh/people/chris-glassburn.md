@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 15"
+represents: "us/states/oh/districts/house/15"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Glassburn
 
 Current OH House District 15 (OH State House of Representatives District 15).
+
+Represents [OH State House of Representatives District 15](/us/states/oh/districts/house/15.md).
 
 ## Sources
 

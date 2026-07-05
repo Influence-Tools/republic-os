@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Third Bristol and Plymouth"
+represents: "us/states/ma/districts/senate/third-bristol-and-plymouth"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Dooner
 
 Current MA Senate District Third Bristol and Plymouth (MA State Senate District Third Bristol and Plymouth).
+
+Represents [MA State Senate District Third Bristol and Plymouth](/us/states/ma/districts/senate/third-bristol-and-plymouth.md).
 
 ## Sources
 

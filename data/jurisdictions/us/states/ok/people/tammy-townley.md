@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 48"
+represents: "us/states/ok/districts/house/48"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tammy Townley
 
 Current OK House District 48 (OK State House of Representatives District 48).
+
+Represents [OK State House of Representatives District 48](/us/states/ok/districts/house/48.md).
 
 ## Sources
 

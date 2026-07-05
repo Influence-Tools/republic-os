@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 51"
+represents: "us/states/co/districts/house/51"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Weinberg
 
 Current CO House District 51 (CO State House of Representatives District 51).
+
+Represents [CO State House of Representatives District 51](/us/states/co/districts/house/51.md).
 
 ## Sources
 

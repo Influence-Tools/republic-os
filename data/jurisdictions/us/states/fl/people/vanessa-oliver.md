@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 76"
+represents: "us/states/fl/districts/house/76"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vanessa Oliver
 
 Current FL House District 76 (FL State House of Representatives District 76).
+
+Represents [FL State House of Representatives District 76](/us/states/fl/districts/house/76.md).
 
 ## Sources
 

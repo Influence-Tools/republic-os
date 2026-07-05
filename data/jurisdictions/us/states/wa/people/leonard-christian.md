@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 4"
+represents: "us/states/wa/districts/senate/4"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leonard Christian
 
 Current WA Senate District 4 (WA State Senate District 4).
+
+Represents [WA State Senate District 4](/us/states/wa/districts/senate/4.md).
 
 ## Sources
 

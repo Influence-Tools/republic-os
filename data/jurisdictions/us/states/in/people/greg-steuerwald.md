@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 40"
+represents: "us/states/in/districts/house/40"
 tenure:
   start: "2007-08-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Steuerwald
 
 Current IN House District 40 (IN State House of Representatives District 40).
+
+Represents [IN State House of Representatives District 40](/us/states/in/districts/house/40.md).
 
 ## Sources
 

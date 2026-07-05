@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 15"
+represents: "us/states/az/districts/house/15"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Way
 
 Current AZ House District 15 (AZ State House of Representatives District 15).
+
+Represents [AZ State House of Representatives District 15](/us/states/az/districts/house/15.md).
 
 ## Sources
 

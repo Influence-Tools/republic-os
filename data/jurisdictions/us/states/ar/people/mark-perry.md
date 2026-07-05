@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 66"
+represents: "us/states/ar/districts/house/66"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Perry
 
 Current AR House District 66 (AR State House of Representatives District 66).
+
+Represents [AR State House of Representatives District 66](/us/states/ar/districts/house/66.md).
 
 ## Sources
 

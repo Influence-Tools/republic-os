@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 20"
+represents: "us/states/ky/districts/house/20"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Jackson
 
 Current KY House District 20 (KY State House of Representatives District 20).
+
+Represents [KY State House of Representatives District 20](/us/states/ky/districts/house/20.md).
 
 ## Sources
 

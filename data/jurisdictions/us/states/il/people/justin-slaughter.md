@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 27"
+represents: "us/states/il/districts/house/27"
 tenure:
   start: "2017-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Slaughter
 
 Current IL House District 27 (IL State House of Representatives District 27).
+
+Represents [IL State House of Representatives District 27](/us/states/il/districts/house/27.md).
 
 ## Sources
 

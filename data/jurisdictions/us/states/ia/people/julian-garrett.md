@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 11"
+represents: "us/states/ia/districts/senate/11"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julian Garrett
 
 Current IA Senate District 11 (IA State Senate District 11).
+
+Represents [IA State Senate District 11](/us/states/ia/districts/senate/11.md).
 
 ## Sources
 

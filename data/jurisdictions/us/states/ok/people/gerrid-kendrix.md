@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 52"
+represents: "us/states/ok/districts/house/52"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerrid Kendrix
 
 Current OK House District 52 (OK State House of Representatives District 52).
+
+Represents [OK State House of Representatives District 52](/us/states/ok/districts/house/52.md).
 
 ## Sources
 

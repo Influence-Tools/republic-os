@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 12"
+represents: "us/states/ca/districts/senate/12"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shannon Grove
 
 Current CA Senate District 12 (CA State Senate District 12).
+
+Represents [CA State Senate District 12](/us/states/ca/districts/senate/12.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 69"
+represents: "us/states/sc/districts/house/69"
 tenure:
   start: "2018-05-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Wooten
 
 Current SC House District 69 (SC State House of Representatives District 69).
+
+Represents [SC State House of Representatives District 69](/us/states/sc/districts/house/69.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 42"
+represents: "us/states/in/districts/senate/42"
 tenure:
   start: "2008-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jean Leising
 
 Current IN Senate District 42 (IN State Senate District 42).
+
+Represents [IN State Senate District 42](/us/states/in/districts/senate/42.md).
 
 ## Sources
 

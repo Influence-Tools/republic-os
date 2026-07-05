@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 35"
+represents: "us/states/in/districts/senate/35"
 tenure:
   start: "2022-07-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Young
 
 Current IN Senate District 35 (IN State Senate District 35).
+
+Represents [IN State Senate District 35](/us/states/in/districts/senate/35.md).
 
 ## Sources
 

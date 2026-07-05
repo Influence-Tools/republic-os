@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 19th Worcester"
+represents: "us/states/ma/districts/house/19th-worcester"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Donaghue
 
 Current MA House District 19th Worcester (MA State House of Representatives District 19th Worcester).
+
+Represents [MA State House of Representatives District 19th Worcester](/us/states/ma/districts/house/19th-worcester.md).
 
 ## Sources
 

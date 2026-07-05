@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 150"
+represents: "us/states/tx/districts/house/150"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Valoree Swanson
 
 Current TX House District 150 (TX State House of Representatives District 150).
+
+Represents [TX State House of Representatives District 150](/us/states/tx/districts/house/150.md).
 
 ## Sources
 

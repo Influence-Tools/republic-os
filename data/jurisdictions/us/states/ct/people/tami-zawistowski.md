@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 61"
+represents: "us/states/ct/districts/house/61"
 tenure:
   start: "2014-04-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tami Zawistowski
 
 Current CT House District 61 (CT State House of Representatives District 61).
+
+Represents [CT State House of Representatives District 61](/us/states/ct/districts/house/61.md).
 
 ## Sources
 

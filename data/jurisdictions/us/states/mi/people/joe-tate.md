@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 9"
+represents: "us/states/mi/districts/house/9"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Tate
 
 Current MI House District 9 (MI State House of Representatives District 9).
+
+Represents [MI State House of Representatives District 9](/us/states/mi/districts/house/9.md).
 
 ## Sources
 

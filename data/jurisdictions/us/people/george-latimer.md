@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 16"
+represents: "us/states/ny/districts/16"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # George Latimer
 
 Current U.S. House of Representatives - NY-16 (Congressional District 16).
+
+Represents [Congressional District 16](/us/states/ny/districts/16.md).
 
 ## Committees
 

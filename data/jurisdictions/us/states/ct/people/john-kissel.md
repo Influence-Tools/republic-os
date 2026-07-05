@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 7"
+represents: "us/states/ct/districts/senate/7"
 tenure:
   start: "1993-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Kissel
 
 Current CT Senate District 7 (CT State Senate District 7).
+
+Represents [CT State Senate District 7](/us/states/ct/districts/senate/7.md).
 
 ## Sources
 

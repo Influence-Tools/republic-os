@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 52"
+represents: "us/states/mo/districts/house/52"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Pollitt
 
 Current MO House District 52 (MO State House of Representatives District 52).
+
+Represents [MO State House of Representatives District 52](/us/states/mo/districts/house/52.md).
 
 ## Sources
 

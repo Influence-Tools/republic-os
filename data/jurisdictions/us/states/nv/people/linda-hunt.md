@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 17"
+represents: "us/states/nv/districts/house/17"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Hunt
 
 Current NV House District 17 (NV State House of Representatives District 17).
+
+Represents [NV State House of Representatives District 17](/us/states/nv/districts/house/17.md).
 
 ## Sources
 

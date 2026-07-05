@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 19"
+represents: "us/states/or/districts/senate/19"
 tenure:
   start: "2018-01-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Wagner
 
 Current OR Senate District 19 (OR State Senate District 19).
+
+Represents [OR State Senate District 19](/us/states/or/districts/senate/19.md).
 
 ## Sources
 

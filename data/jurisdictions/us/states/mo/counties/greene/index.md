@@ -22,9 +22,45 @@ demographics:
   race_native: 866
   hispanic: 15605
   bachelors_plus: 93385
+districts:
+  - to: "us/states/mo/districts/07"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/mo/districts/senate/20"
+    rel: in-district
+    area_weight: 0.8635
+  - to: "us/states/mo/districts/senate/30"
+    rel: in-district
+    area_weight: 0.1365
+  - to: "us/states/mo/districts/house/131"
+    rel: in-district
+    area_weight: 0.5508
+  - to: "us/states/mo/districts/house/137"
+    rel: in-district
+    area_weight: 0.2532
+  - to: "us/states/mo/districts/house/130"
+    rel: in-district
+    area_weight: 0.0797
+  - to: "us/states/mo/districts/house/135"
+    rel: in-district
+    area_weight: 0.031
+  - to: "us/states/mo/districts/house/134"
+    rel: in-district
+    area_weight: 0.0266
+  - to: "us/states/mo/districts/house/136"
+    rel: in-district
+    area_weight: 0.023
+  - to: "us/states/mo/districts/house/133"
+    rel: in-district
+    area_weight: 0.0186
+  - to: "us/states/mo/districts/house/132"
+    rel: in-district
+    area_weight: 0.0171
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mo]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 15605 |
 | Bachelor's or higher | 93385 |
 
+## Districts
+
+- [MO-07](/us/states/mo/districts/07.md) — 100% (congressional)
+- [MO Senate District 20](/us/states/mo/districts/senate/20.md) — 86% (state senate)
+- [MO Senate District 30](/us/states/mo/districts/senate/30.md) — 14% (state senate)
+- [MO House District 131](/us/states/mo/districts/house/131.md) — 55% (state house)
+- [MO House District 137](/us/states/mo/districts/house/137.md) — 25% (state house)
+- [MO House District 130](/us/states/mo/districts/house/130.md) — 8% (state house)
+- [MO House District 135](/us/states/mo/districts/house/135.md) — 3% (state house)
+- [MO House District 134](/us/states/mo/districts/house/134.md) — 3% (state house)
+- [MO House District 136](/us/states/mo/districts/house/136.md) — 2% (state house)
+- [MO House District 133](/us/states/mo/districts/house/133.md) — 2% (state house)
+- [MO House District 132](/us/states/mo/districts/house/132.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

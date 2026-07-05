@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 12"
+represents: "us/states/hi/districts/senate/12"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Moriwaki
 
 Current HI Senate District 12 (HI State Senate District 12).
+
+Represents [HI State Senate District 12](/us/states/hi/districts/senate/12.md).
 
 ## Sources
 

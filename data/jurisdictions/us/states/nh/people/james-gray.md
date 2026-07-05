@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 6"
+represents: "us/states/nh/districts/senate/6"
 tenure:
   start: "2016-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Gray
 
 Current NH Senate District 6 (NH State Senate District 6).
+
+Represents [NH State Senate District 6](/us/states/nh/districts/senate/6.md).
 
 ## Sources
 

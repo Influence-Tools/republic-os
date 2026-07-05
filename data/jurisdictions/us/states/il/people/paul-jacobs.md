@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 118"
+represents: "us/states/il/districts/house/118"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Jacobs
 
 Current IL House District 118 (IL State House of Representatives District 118).
+
+Represents [IL State House of Representatives District 118](/us/states/il/districts/house/118.md).
 
 ## Sources
 

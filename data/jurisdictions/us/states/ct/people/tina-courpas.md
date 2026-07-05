@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 149"
+represents: "us/states/ct/districts/house/149"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Courpas
 
 Current CT House District 149 (CT State House of Representatives District 149).
+
+Represents [CT State House of Representatives District 149](/us/states/ct/districts/house/149.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 16"
+represents: "us/states/nv/districts/senate/16"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Krasner
 
 Current NV Senate District 16 (NV State Senate District 16).
+
+Represents [NV State Senate District 16](/us/states/nv/districts/senate/16.md).
 
 ## Sources
 

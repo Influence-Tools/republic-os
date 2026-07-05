@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 100"
+represents: "us/states/tx/districts/house/100"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Venton Jones
 
 Current TX House District 100 (TX State House of Representatives District 100).
+
+Represents [TX State House of Representatives District 100](/us/states/tx/districts/house/100.md).
 
 ## Sources
 

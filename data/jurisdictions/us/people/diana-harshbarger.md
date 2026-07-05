@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TN"
 district: "Congressional District 1"
+represents: "us/states/tn/districts/01"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Diana Harshbarger
 
 Current U.S. House of Representatives - TN-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/tn/districts/01.md).
 
 ## Committees
 

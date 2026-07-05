@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 50"
+represents: "us/states/al/districts/house/50"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Hill
 
 Current AL House District 50 (AL State House of Representatives District 50).
+
+Represents [AL State House of Representatives District 50](/us/states/al/districts/house/50.md).
 
 ## Sources
 

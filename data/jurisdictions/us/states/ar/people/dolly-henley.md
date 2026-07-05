@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 88"
+represents: "us/states/ar/districts/house/88"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dolly Henley
 
 Current AR House District 88 (AR State House of Representatives District 88).
+
+Represents [AR State House of Representatives District 88](/us/states/ar/districts/house/88.md).
 
 ## Sources
 

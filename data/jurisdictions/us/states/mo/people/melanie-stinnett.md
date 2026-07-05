@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 133"
+represents: "us/states/mo/districts/house/133"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melanie Stinnett
 
 Current MO House District 133 (MO State House of Representatives District 133).
+
+Represents [MO State House of Representatives District 133](/us/states/mo/districts/house/133.md).
 
 ## Sources
 

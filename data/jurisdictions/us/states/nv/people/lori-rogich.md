@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 11"
+represents: "us/states/nv/districts/senate/11"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Rogich
 
 Current NV Senate District 11 (NV State Senate District 11).
+
+Represents [NV State Senate District 11](/us/states/nv/districts/senate/11.md).
 
 ## Sources
 

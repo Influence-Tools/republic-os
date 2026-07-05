@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 112"
+represents: "us/states/ct/districts/house/112"
 tenure:
   start: "2021-04-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Scott
 
 Current CT House District 112 (CT State House of Representatives District 112).
+
+Represents [CT State House of Representatives District 112](/us/states/ct/districts/house/112.md).
 
 ## Sources
 

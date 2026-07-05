@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 25"
+represents: "us/states/ms/districts/house/25"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Eubanks
 
 Current MS House District 25 (MS State House of Representatives District 25).
+
+Represents [MS State House of Representatives District 25](/us/states/ms/districts/house/25.md).
 
 ## Sources
 

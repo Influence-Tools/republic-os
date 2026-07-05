@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 38"
+represents: "us/states/tx/districts/house/38"
 tenure:
   start: "2022-03-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Gámez
 
 Current TX House District 38 (TX State House of Representatives District 38).
+
+Represents [TX State House of Representatives District 38](/us/states/tx/districts/house/38.md).
 
 ## Sources
 

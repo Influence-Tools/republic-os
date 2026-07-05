@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District Passamaquoddy Tribe"
+represents: "us/states/me/districts/house/passamaquoddy-tribe"
 tenure:
   start: "2022-10-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Dana
 
 Current ME House District Passamaquoddy Tribe (ME State House of Representatives District Passamaquoddy Tribe).
+
+Represents [ME State House of Representatives District Passamaquoddy Tribe](/us/states/me/districts/house/passamaquoddy-tribe.md).
 
 ## Sources
 

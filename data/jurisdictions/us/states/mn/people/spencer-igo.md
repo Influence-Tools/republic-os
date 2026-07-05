@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 7A"
+represents: "us/states/mn/districts/house/7a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Spencer Igo
 
 Current MN House District 7A (MN State House of Representatives District 7A).
+
+Represents [MN State House of Representatives District 7A](/us/states/mn/districts/house/7a.md).
 
 ## Sources
 

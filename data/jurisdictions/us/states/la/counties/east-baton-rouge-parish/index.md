@@ -22,9 +22,69 @@ demographics:
   race_native: 795
   hispanic: 31085
   bachelors_plus: 154362
+districts:
+  - to: "us/states/la/districts/06"
+    rel: in-district
+    area_weight: 0.5538
+  - to: "us/states/la/districts/05"
+    rel: in-district
+    area_weight: 0.4455
+  - to: "us/states/la/districts/senate/6"
+    rel: in-district
+    area_weight: 0.4204
+  - to: "us/states/la/districts/senate/15"
+    rel: in-district
+    area_weight: 0.2772
+  - to: "us/states/la/districts/senate/14"
+    rel: in-district
+    area_weight: 0.145
+  - to: "us/states/la/districts/senate/16"
+    rel: in-district
+    area_weight: 0.1092
+  - to: "us/states/la/districts/senate/17"
+    rel: in-district
+    area_weight: 0.0478
+  - to: "us/states/la/districts/house/63"
+    rel: in-district
+    area_weight: 0.2212
+  - to: "us/states/la/districts/house/64"
+    rel: in-district
+    area_weight: 0.1642
+  - to: "us/states/la/districts/house/65"
+    rel: in-district
+    area_weight: 0.153
+  - to: "us/states/la/districts/house/62"
+    rel: in-district
+    area_weight: 0.1001
+  - to: "us/states/la/districts/house/66"
+    rel: in-district
+    area_weight: 0.0887
+  - to: "us/states/la/districts/house/67"
+    rel: in-district
+    area_weight: 0.059
+  - to: "us/states/la/districts/house/70"
+    rel: in-district
+    area_weight: 0.0436
+  - to: "us/states/la/districts/house/101"
+    rel: in-district
+    area_weight: 0.0365
+  - to: "us/states/la/districts/house/68"
+    rel: in-district
+    area_weight: 0.0362
+  - to: "us/states/la/districts/house/69"
+    rel: in-district
+    area_weight: 0.0341
+  - to: "us/states/la/districts/house/29"
+    rel: in-district
+    area_weight: 0.0328
+  - to: "us/states/la/districts/house/61"
+    rel: in-district
+    area_weight: 0.0302
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, la]
 timestamp: "2026-07-03"
@@ -56,6 +116,29 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 31085 |
 | Bachelor's or higher | 154362 |
 
+## Districts
+
+- [LA-06](/us/states/la/districts/06.md) — 55% (congressional)
+- [LA-05](/us/states/la/districts/05.md) — 45% (congressional)
+- [LA Senate District 6](/us/states/la/districts/senate/6.md) — 42% (state senate)
+- [LA Senate District 15](/us/states/la/districts/senate/15.md) — 28% (state senate)
+- [LA Senate District 14](/us/states/la/districts/senate/14.md) — 14% (state senate)
+- [LA Senate District 16](/us/states/la/districts/senate/16.md) — 11% (state senate)
+- [LA Senate District 17](/us/states/la/districts/senate/17.md) — 5% (state senate)
+- [LA House District 63](/us/states/la/districts/house/63.md) — 22% (state house)
+- [LA House District 64](/us/states/la/districts/house/64.md) — 16% (state house)
+- [LA House District 65](/us/states/la/districts/house/65.md) — 15% (state house)
+- [LA House District 62](/us/states/la/districts/house/62.md) — 10% (state house)
+- [LA House District 66](/us/states/la/districts/house/66.md) — 9% (state house)
+- [LA House District 67](/us/states/la/districts/house/67.md) — 6% (state house)
+- [LA House District 70](/us/states/la/districts/house/70.md) — 4% (state house)
+- [LA House District 101](/us/states/la/districts/house/101.md) — 4% (state house)
+- [LA House District 68](/us/states/la/districts/house/68.md) — 4% (state house)
+- [LA House District 69](/us/states/la/districts/house/69.md) — 3% (state house)
+- [LA House District 29](/us/states/la/districts/house/29.md) — 3% (state house)
+- [LA House District 61](/us/states/la/districts/house/61.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

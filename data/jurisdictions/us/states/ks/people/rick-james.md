@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 4"
+represents: "us/states/ks/districts/house/4"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick James
 
 Current KS House District 4 (KS State House of Representatives District 4).
+
+Represents [KS State House of Representatives District 4](/us/states/ks/districts/house/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 71"
+represents: "us/states/ok/districts/house/71"
 tenure:
   start: "2025-06-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amanda Clinton
 
 Current OK House District 71 (OK State House of Representatives District 71).
+
+Represents [OK State House of Representatives District 71](/us/states/ok/districts/house/71.md).
 
 ## Sources
 

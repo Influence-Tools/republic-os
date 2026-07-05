@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 73"
+represents: "us/states/al/districts/house/73"
 tenure:
   start: "2021-07-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kenneth Paschal
 
 Current AL House District 73 (AL State House of Representatives District 73).
+
+Represents [AL State House of Representatives District 73](/us/states/al/districts/house/73.md).
 
 ## Sources
 

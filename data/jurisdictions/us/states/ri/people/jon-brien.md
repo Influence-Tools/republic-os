@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 49"
+represents: "us/states/ri/districts/house/49"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Brien
 
 Current RI House District 49 (RI State House of Representatives District 49).
+
+Represents [RI State House of Representatives District 49](/us/states/ri/districts/house/49.md).
 
 ## Sources
 

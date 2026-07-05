@@ -22,9 +22,48 @@ demographics:
   race_native: 171
   hispanic: 5701
   bachelors_plus: 49077
+districts:
+  - to: "us/states/ri/districts/01"
+    rel: in-district
+    area_weight: 0.3621
+  - to: "us/states/ri/districts/senate/12"
+    rel: in-district
+    area_weight: 0.1843
+  - to: "us/states/ri/districts/senate/11"
+    rel: in-district
+    area_weight: 0.0789
+  - to: "us/states/ri/districts/senate/13"
+    rel: in-district
+    area_weight: 0.0562
+  - to: "us/states/ri/districts/senate/10"
+    rel: in-district
+    area_weight: 0.0301
+  - to: "us/states/ri/districts/house/71"
+    rel: in-district
+    area_weight: 0.1208
+  - to: "us/states/ri/districts/house/70"
+    rel: in-district
+    area_weight: 0.0719
+  - to: "us/states/ri/districts/house/72"
+    rel: in-district
+    area_weight: 0.0575
+  - to: "us/states/ri/districts/house/74"
+    rel: in-district
+    area_weight: 0.0476
+  - to: "us/states/ri/districts/house/69"
+    rel: in-district
+    area_weight: 0.0211
+  - to: "us/states/ri/districts/house/75"
+    rel: in-district
+    area_weight: 0.0194
+  - to: "us/states/ri/districts/house/73"
+    rel: in-district
+    area_weight: 0.0112
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ri]
 timestamp: "2026-07-03"
@@ -56,6 +95,22 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 5701 |
 | Bachelor's or higher | 49077 |
 
+## Districts
+
+- [RI-01](/us/states/ri/districts/01.md) — 36% (congressional)
+- [RI Senate District 12](/us/states/ri/districts/senate/12.md) — 18% (state senate)
+- [RI Senate District 11](/us/states/ri/districts/senate/11.md) — 8% (state senate)
+- [RI Senate District 13](/us/states/ri/districts/senate/13.md) — 6% (state senate)
+- [RI Senate District 10](/us/states/ri/districts/senate/10.md) — 3% (state senate)
+- [RI House District 71](/us/states/ri/districts/house/71.md) — 12% (state house)
+- [RI House District 70](/us/states/ri/districts/house/70.md) — 7% (state house)
+- [RI House District 72](/us/states/ri/districts/house/72.md) — 6% (state house)
+- [RI House District 74](/us/states/ri/districts/house/74.md) — 5% (state house)
+- [RI House District 69](/us/states/ri/districts/house/69.md) — 2% (state house)
+- [RI House District 75](/us/states/ri/districts/house/75.md) — 2% (state house)
+- [RI House District 73](/us/states/ri/districts/house/73.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

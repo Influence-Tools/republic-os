@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 12"
+represents: "us/states/ia/districts/house/12"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Holt
 
 Current IA House District 12 (IA State House of Representatives District 12).
+
+Represents [IA State House of Representatives District 12](/us/states/ia/districts/house/12.md).
 
 ## Sources
 

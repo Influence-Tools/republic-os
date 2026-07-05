@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 21st Middlesex"
+represents: "us/states/ma/districts/house/21st-middlesex"
 tenure:
   start: "2013-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Gordon
 
 Current MA House District 21st Middlesex (MA State House of Representatives District 21st Middlesex).
+
+Represents [MA State House of Representatives District 21st Middlesex](/us/states/ma/districts/house/21st-middlesex.md).
 
 ## Sources
 

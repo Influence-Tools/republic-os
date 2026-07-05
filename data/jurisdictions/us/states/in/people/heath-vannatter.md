@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 38"
+represents: "us/states/in/districts/house/38"
 tenure:
   start: "2010-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heath VanNatter
 
 Current IN House District 38 (IN State House of Representatives District 38).
+
+Represents [IN State House of Representatives District 38](/us/states/in/districts/house/38.md).
 
 ## Sources
 

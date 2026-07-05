@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 69"
+represents: "us/states/nc/districts/house/69"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dean Arp
 
 Current NC House District 69 (NC State House of Representatives District 69).
+
+Represents [NC State House of Representatives District 69](/us/states/nc/districts/house/69.md).
 
 ## Sources
 

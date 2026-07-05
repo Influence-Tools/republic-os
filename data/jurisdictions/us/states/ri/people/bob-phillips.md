@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 51"
+represents: "us/states/ri/districts/house/51"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Phillips
 
 Current RI House District 51 (RI State House of Representatives District 51).
+
+Represents [RI State House of Representatives District 51](/us/states/ri/districts/house/51.md).
 
 ## Sources
 

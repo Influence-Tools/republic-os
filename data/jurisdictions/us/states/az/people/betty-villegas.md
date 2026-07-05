@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 20"
+represents: "us/states/az/districts/house/20"
 tenure:
   start: "2023-07-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Betty Villegas
 
 Current AZ House District 20 (AZ State House of Representatives District 20).
+
+Represents [AZ State House of Representatives District 20](/us/states/az/districts/house/20.md).
 
 ## Sources
 

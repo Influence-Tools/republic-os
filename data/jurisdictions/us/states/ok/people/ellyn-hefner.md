@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 87"
+represents: "us/states/ok/districts/house/87"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ellyn Hefner
 
 Current OK House District 87 (OK State House of Representatives District 87).
+
+Represents [OK State House of Representatives District 87](/us/states/ok/districts/house/87.md).
 
 ## Sources
 

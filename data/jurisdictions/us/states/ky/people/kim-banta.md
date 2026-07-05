@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 63"
+represents: "us/states/ky/districts/house/63"
 tenure:
   start: "2019-11-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Banta
 
 Current KY House District 63 (KY State House of Representatives District 63).
+
+Represents [KY State House of Representatives District 63](/us/states/ky/districts/house/63.md).
 
 ## Sources
 

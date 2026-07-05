@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 25"
+represents: "us/states/sd/districts/senate/25"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Pischke
 
 Current SD Senate District 25 (SD State Senate District 25).
+
+Represents [SD State Senate District 25](/us/states/sd/districts/senate/25.md).
 
 ## Sources
 

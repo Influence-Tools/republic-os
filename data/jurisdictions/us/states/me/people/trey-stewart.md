@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 2"
+represents: "us/states/me/districts/senate/2"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Stewart
 
 Current ME Senate District 2 (ME State Senate District 2).
+
+Represents [ME State Senate District 2](/us/states/me/districts/senate/2.md).
 
 ## Sources
 

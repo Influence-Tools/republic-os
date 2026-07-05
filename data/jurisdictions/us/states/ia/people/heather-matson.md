@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 42"
+represents: "us/states/ia/districts/house/42"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Matson
 
 Current IA House District 42 (IA State House of Representatives District 42).
+
+Represents [IA State House of Representatives District 42](/us/states/ia/districts/house/42.md).
 
 ## Sources
 

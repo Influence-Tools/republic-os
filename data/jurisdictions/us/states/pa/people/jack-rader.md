@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 176"
+represents: "us/states/pa/districts/house/176"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Rader
 
 Current PA House District 176 (PA State House of Representatives District 176).
+
+Represents [PA State House of Representatives District 176](/us/states/pa/districts/house/176.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 48"
+represents: "us/states/wa/districts/house/48"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Osman Salahuddin
 
 Current WA House District 48 (WA State House of Representatives District 48).
+
+Represents [WA State House of Representatives District 48](/us/states/wa/districts/house/48.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 85"
+represents: "us/states/nc/districts/house/85"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dudley Greene
 
 Current NC House District 85 (NC State House of Representatives District 85).
+
+Represents [NC State House of Representatives District 85](/us/states/nc/districts/house/85.md).
 
 ## Sources
 

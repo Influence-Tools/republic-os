@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 75"
+represents: "us/states/ri/districts/house/75"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Carson
 
 Current RI House District 75 (RI State House of Representatives District 75).
+
+Represents [RI State House of Representatives District 75](/us/states/ri/districts/house/75.md).
 
 ## Sources
 

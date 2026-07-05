@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 52"
+represents: "us/states/ar/districts/house/52"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcus Richmond
 
 Current AR House District 52 (AR State House of Representatives District 52).
+
+Represents [AR State House of Representatives District 52](/us/states/ar/districts/house/52.md).
 
 ## Sources
 

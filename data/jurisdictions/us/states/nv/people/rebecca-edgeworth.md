@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 35"
+represents: "us/states/nv/districts/house/35"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Edgeworth
 
 Current NV House District 35 (NV State House of Representatives District 35).
+
+Represents [NV State House of Representatives District 35](/us/states/nv/districts/house/35.md).
 
 ## Sources
 

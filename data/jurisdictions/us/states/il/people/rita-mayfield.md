@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 60"
+represents: "us/states/il/districts/house/60"
 tenure:
   start: "2010-07-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rita Mayfield
 
 Current IL House District 60 (IL State House of Representatives District 60).
+
+Represents [IL State House of Representatives District 60](/us/states/il/districts/house/60.md).
 
 ## Sources
 

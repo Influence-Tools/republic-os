@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 5"
+represents: "us/states/ms/districts/senate/5"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Sparks
 
 Current MS Senate District 5 (MS State Senate District 5).
+
+Represents [MS State Senate District 5](/us/states/ms/districts/senate/5.md).
 
 ## Sources
 

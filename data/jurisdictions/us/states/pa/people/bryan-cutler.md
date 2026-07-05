@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 100"
+represents: "us/states/pa/districts/house/100"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Cutler
 
 Current PA House District 100 (PA State House of Representatives District 100).
+
+Represents [PA State House of Representatives District 100](/us/states/pa/districts/house/100.md).
 
 ## Sources
 

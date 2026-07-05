@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 7"
+represents: "us/states/ri/districts/house/7"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Morales
 
 Current RI House District 7 (RI State House of Representatives District 7).
+
+Represents [RI State House of Representatives District 7](/us/states/ri/districts/house/7.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 21"
+represents: "us/states/ca/districts/senate/21"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Monique Limón
 
 Current CA Senate District 21 (CA State Senate District 21).
+
+Represents [CA State Senate District 21](/us/states/ca/districts/senate/21.md).
 
 ## Sources
 

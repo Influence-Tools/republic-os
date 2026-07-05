@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 13"
+represents: "us/states/la/districts/senate/13"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Valarie Hodges
 
 Current LA Senate District 13 (LA State Senate District 13).
+
+Represents [LA State Senate District 13](/us/states/la/districts/senate/13.md).
 
 ## Sources
 

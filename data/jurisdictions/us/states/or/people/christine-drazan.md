@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 26"
+represents: "us/states/or/districts/senate/26"
 tenure:
   start: "2025-10-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christine Drazan
 
 Current OR Senate District 26 (OR State Senate District 26).
+
+Represents [OR State Senate District 26](/us/states/or/districts/senate/26.md).
 
 ## Sources
 

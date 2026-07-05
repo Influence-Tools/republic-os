@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 48"
+represents: "us/states/mn/districts/senate/48"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julia Coleman
 
 Current MN Senate District 48 (MN State Senate District 48).
+
+Represents [MN State Senate District 48](/us/states/mn/districts/senate/48.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 61"
+represents: "us/states/mi/districts/house/61"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Mentzer
 
 Current MI House District 61 (MI State House of Representatives District 61).
+
+Represents [MI State House of Representatives District 61](/us/states/mi/districts/house/61.md).
 
 ## Sources
 

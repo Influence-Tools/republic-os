@@ -22,9 +22,21 @@ demographics:
   race_native: 1492
   hispanic: 5623
   bachelors_plus: 7270
+districts:
+  - to: "us/states/ok/districts/03"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ok/districts/senate/26"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/ok/districts/house/57"
+    rel: in-district
+    area_weight: 0.9999
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ok]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 5623 |
 | Bachelor's or higher | 7270 |
 
+## Districts
+
+- [OK-03](/us/states/ok/districts/03.md) — 100% (congressional)
+- [OK Senate District 26](/us/states/ok/districts/senate/26.md) — 100% (state senate)
+- [OK House District 57](/us/states/ok/districts/house/57.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

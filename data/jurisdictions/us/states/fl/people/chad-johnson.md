@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 22"
+represents: "us/states/fl/districts/house/22"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Johnson
 
 Current FL House District 22 (FL State House of Representatives District 22).
+
+Represents [FL State House of Representatives District 22](/us/states/fl/districts/house/22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 51B"
+represents: "us/states/mn/districts/house/51b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathan Coulter
 
 Current MN House District 51B (MN State House of Representatives District 51B).
+
+Represents [MN State House of Representatives District 51B](/us/states/mn/districts/house/51b.md).
 
 ## Sources
 

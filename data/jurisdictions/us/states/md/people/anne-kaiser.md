@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 14"
+represents: "us/states/md/districts/house/14"
 tenure:
   start: "2003-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Kaiser
 
 Current MD House District 14 (MD State House of Representatives District 14).
+
+Represents [MD State House of Representatives District 14](/us/states/md/districts/house/14.md).
 
 ## Sources
 

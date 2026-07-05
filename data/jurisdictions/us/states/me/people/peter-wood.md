@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 81"
+represents: "us/states/me/districts/house/81"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Wood
 
 Current ME House District 81 (ME State House of Representatives District 81).
+
+Represents [ME State House of Representatives District 81](/us/states/me/districts/house/81.md).
 
 ## Sources
 

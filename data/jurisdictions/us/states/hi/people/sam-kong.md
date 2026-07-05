@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 33"
+represents: "us/states/hi/districts/house/33"
 tenure:
   start: "2014-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Kong
 
 Current HI House District 33 (HI State House of Representatives District 33).
+
+Represents [HI State House of Representatives District 33](/us/states/hi/districts/house/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 6"
+represents: "us/states/ny/districts/senate/6"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Siela Bynoe
 
 Current NY Senate District 6 (NY State Senate District 6).
+
+Represents [NY State Senate District 6](/us/states/ny/districts/senate/6.md).
 
 ## Sources
 

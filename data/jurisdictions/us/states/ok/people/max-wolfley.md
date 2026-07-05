@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 95"
+represents: "us/states/ok/districts/house/95"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Max Wolfley
 
 Current OK House District 95 (OK State House of Representatives District 95).
+
+Represents [OK State House of Representatives District 95](/us/states/ok/districts/house/95.md).
 
 ## Sources
 

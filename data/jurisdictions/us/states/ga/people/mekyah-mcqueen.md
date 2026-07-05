@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 61"
+represents: "us/states/ga/districts/house/61"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mekyah McQueen
 
 Current GA House District 61 (GA State House of Representatives District 61).
+
+Represents [GA State House of Representatives District 61](/us/states/ga/districts/house/61.md).
 
 ## Sources
 

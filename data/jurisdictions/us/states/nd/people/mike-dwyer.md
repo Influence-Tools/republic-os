@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 47"
+represents: "us/states/nd/districts/senate/47"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Dwyer
 
 Current ND Senate District 47 (ND State Senate District 47).
+
+Represents [ND State Senate District 47](/us/states/nd/districts/senate/47.md).
 
 ## Sources
 

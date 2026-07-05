@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 76"
+represents: "us/states/al/districts/house/76"
 tenure:
   start: "2021-11-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Penni McClammy
 
 Current AL House District 76 (AL State House of Representatives District 76).
+
+Represents [AL State House of Representatives District 76](/us/states/al/districts/house/76.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 131"
+represents: "us/states/mo/districts/house/131"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Owen
 
 Current MO House District 131 (MO State House of Representatives District 131).
+
+Represents [MO State House of Representatives District 131](/us/states/mo/districts/house/131.md).
 
 ## Sources
 

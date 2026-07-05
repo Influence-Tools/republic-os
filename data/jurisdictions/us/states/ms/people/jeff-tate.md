@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 33"
+represents: "us/states/ms/districts/senate/33"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Tate
 
 Current MS Senate District 33 (MS State Senate District 33).
+
+Represents [MS State Senate District 33](/us/states/ms/districts/senate/33.md).
 
 ## Sources
 

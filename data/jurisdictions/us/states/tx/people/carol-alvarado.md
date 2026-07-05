@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 6"
+represents: "us/states/tx/districts/senate/6"
 tenure:
   start: "2018-12-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Alvarado
 
 Current TX Senate District 6 (TX State Senate District 6).
+
+Represents [TX State Senate District 6](/us/states/tx/districts/senate/6.md).
 
 ## Sources
 

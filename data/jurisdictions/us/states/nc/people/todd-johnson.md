@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 35"
+represents: "us/states/nc/districts/senate/35"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Johnson
 
 Current NC Senate District 35 (NC State Senate District 35).
+
+Represents [NC State Senate District 35](/us/states/nc/districts/senate/35.md).
 
 ## Sources
 

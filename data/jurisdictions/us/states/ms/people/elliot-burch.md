@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 105"
+represents: "us/states/ms/districts/house/105"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elliot Burch
 
 Current MS House District 105 (MS State House of Representatives District 105).
+
+Represents [MS State House of Representatives District 105](/us/states/ms/districts/house/105.md).
 
 ## Sources
 

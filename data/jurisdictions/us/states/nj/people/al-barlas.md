@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 40"
+represents: "us/states/nj/districts/house/40"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Barlas
 
 Current NJ House District 40 (NJ State House of Representatives District 40).
+
+Represents [NJ State House of Representatives District 40](/us/states/nj/districts/house/40.md).
 
 ## Sources
 

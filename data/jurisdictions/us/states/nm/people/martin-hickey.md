@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 20"
+represents: "us/states/nm/districts/senate/20"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martin Hickey
 
 Current NM Senate District 20 (NM State Senate District 20).
+
+Represents [NM State Senate District 20](/us/states/nm/districts/senate/20.md).
 
 ## Sources
 

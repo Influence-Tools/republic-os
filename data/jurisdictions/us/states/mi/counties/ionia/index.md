@@ -22,9 +22,30 @@ demographics:
   race_native: 398
   hispanic: 3539
   bachelors_plus: 11128
+districts:
+  - to: "us/states/mi/districts/02"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/mi/districts/senate/33"
+    rel: in-district
+    area_weight: 0.814
+  - to: "us/states/mi/districts/senate/18"
+    rel: in-district
+    area_weight: 0.1859
+  - to: "us/states/mi/districts/house/78"
+    rel: in-district
+    area_weight: 0.748
+  - to: "us/states/mi/districts/house/91"
+    rel: in-district
+    area_weight: 0.1262
+  - to: "us/states/mi/districts/house/93"
+    rel: in-district
+    area_weight: 0.1258
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mi]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 3539 |
 | Bachelor's or higher | 11128 |
 
+## Districts
+
+- [MI-02](/us/states/mi/districts/02.md) — 100% (congressional)
+- [MI Senate District 33](/us/states/mi/districts/senate/33.md) — 81% (state senate)
+- [MI Senate District 18](/us/states/mi/districts/senate/18.md) — 19% (state senate)
+- [MI House District 78](/us/states/mi/districts/house/78.md) — 75% (state house)
+- [MI House District 91](/us/states/mi/districts/house/91.md) — 13% (state house)
+- [MI House District 93](/us/states/mi/districts/house/93.md) — 13% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

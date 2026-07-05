@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 3"
+represents: "us/states/mn/districts/senate/3"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Grant Hauschild
 
 Current MN Senate District 3 (MN State Senate District 3).
+
+Represents [MN State Senate District 3](/us/states/mn/districts/senate/3.md).
 
 ## Sources
 

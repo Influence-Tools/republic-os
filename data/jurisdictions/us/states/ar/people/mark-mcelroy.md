@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 62"
+represents: "us/states/ar/districts/house/62"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark McElroy
 
 Current AR House District 62 (AR State House of Representatives District 62).
+
+Represents [AR State House of Representatives District 62](/us/states/ar/districts/house/62.md).
 
 ## Sources
 

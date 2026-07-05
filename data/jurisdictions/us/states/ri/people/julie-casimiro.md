@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 31"
+represents: "us/states/ri/districts/house/31"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Casimiro
 
 Current RI House District 31 (RI State House of Representatives District 31).
+
+Represents [RI State House of Representatives District 31](/us/states/ri/districts/house/31.md).
 
 ## Sources
 

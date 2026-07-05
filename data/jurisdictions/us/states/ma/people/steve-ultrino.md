@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 33rd Middlesex"
+represents: "us/states/ma/districts/house/33rd-middlesex"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Ultrino
 
 Current MA House District 33rd Middlesex (MA State House of Representatives District 33rd Middlesex).
+
+Represents [MA State House of Representatives District 33rd Middlesex](/us/states/ma/districts/house/33rd-middlesex.md).
 
 ## Sources
 

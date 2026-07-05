@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 4"
+represents: "us/states/pa/districts/04"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Madeleine Dean
 
 Current U.S. House of Representatives - PA-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/pa/districts/04.md).
 
 ## Committees
 

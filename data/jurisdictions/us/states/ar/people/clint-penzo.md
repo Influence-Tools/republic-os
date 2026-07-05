@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 31"
+represents: "us/states/ar/districts/senate/31"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clint Penzo
 
 Current AR Senate District 31 (AR State Senate District 31).
+
+Represents [AR State Senate District 31](/us/states/ar/districts/senate/31.md).
 
 ## Sources
 

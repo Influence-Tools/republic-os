@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 7"
+represents: "us/states/co/districts/house/7"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Bacon
 
 Current CO House District 7 (CO State House of Representatives District 7).
+
+Represents [CO State House of Representatives District 7](/us/states/co/districts/house/7.md).
 
 ## Sources
 

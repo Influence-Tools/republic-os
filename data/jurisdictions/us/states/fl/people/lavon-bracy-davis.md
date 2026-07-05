@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 15"
+represents: "us/states/fl/districts/senate/15"
 tenure:
   start: "2025-09-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # LaVon Bracy Davis
 
 Current FL Senate District 15 (FL State Senate District 15).
+
+Represents [FL State Senate District 15](/us/states/fl/districts/senate/15.md).
 
 ## Sources
 

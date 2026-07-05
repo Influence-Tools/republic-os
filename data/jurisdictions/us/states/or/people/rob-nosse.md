@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 42"
+represents: "us/states/or/districts/house/42"
 tenure:
   start: "2014-07-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Nosse
 
 Current OR House District 42 (OR State House of Representatives District 42).
+
+Represents [OR State House of Representatives District 42](/us/states/or/districts/house/42.md).
 
 ## Sources
 

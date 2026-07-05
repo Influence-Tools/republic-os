@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 31"
+represents: "us/states/wy/districts/house/31"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Bear
 
 Current WY House District 31 (WY State House of Representatives District 31).
+
+Represents [WY State House of Representatives District 31](/us/states/wy/districts/house/31.md).
 
 ## Sources
 

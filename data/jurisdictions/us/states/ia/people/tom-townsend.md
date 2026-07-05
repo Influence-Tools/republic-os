@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 36"
+represents: "us/states/ia/districts/senate/36"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Townsend
 
 Current IA Senate District 36 (IA State Senate District 36).
+
+Represents [IA State Senate District 36](/us/states/ia/districts/senate/36.md).
 
 ## Sources
 

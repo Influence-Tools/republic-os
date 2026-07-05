@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 10"
+represents: "us/states/sd/districts/house/10"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Healy
 
 Current SD House District 10 (SD State House of Representatives District 10).
+
+Represents [SD State House of Representatives District 10](/us/states/sd/districts/house/10.md).
 
 ## Sources
 

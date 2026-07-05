@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 14"
+represents: "us/states/tn/districts/house/14"
 tenure:
   start: "2015-08-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Zachary
 
 Current TN House District 14 (TN State House of Representatives District 14).
+
+Represents [TN State House of Representatives District 14](/us/states/tn/districts/house/14.md).
 
 ## Sources
 

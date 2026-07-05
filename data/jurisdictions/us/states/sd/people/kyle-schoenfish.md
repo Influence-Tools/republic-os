@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 19"
+represents: "us/states/sd/districts/senate/19"
 tenure:
   start: "2020-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Schoenfish
 
 Current SD Senate District 19 (SD State Senate District 19).
+
+Represents [SD State Senate District 19](/us/states/sd/districts/senate/19.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 6"
+represents: "us/states/wi/districts/06"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Glenn Grothman
 
 Current U.S. House of Representatives - WI-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/wi/districts/06.md).
 
 ## Committees
 

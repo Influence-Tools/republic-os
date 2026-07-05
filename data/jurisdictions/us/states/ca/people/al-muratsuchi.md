@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 66"
+represents: "us/states/ca/districts/house/66"
 tenure:
   start: "2016-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Muratsuchi
 
 Current CA House District 66 (CA State House of Representatives District 66).
+
+Represents [CA State House of Representatives District 66](/us/states/ca/districts/house/66.md).
 
 ## Sources
 

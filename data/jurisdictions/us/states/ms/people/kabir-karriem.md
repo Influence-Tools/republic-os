@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 41"
+represents: "us/states/ms/districts/house/41"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kabir Karriem
 
 Current MS House District 41 (MS State House of Representatives District 41).
+
+Represents [MS State House of Representatives District 41](/us/states/ms/districts/house/41.md).
 
 ## Sources
 

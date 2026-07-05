@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 63"
+represents: "us/states/ct/districts/house/63"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Case
 
 Current CT House District 63 (CT State House of Representatives District 63).
+
+Represents [CT State House of Representatives District 63](/us/states/ct/districts/house/63.md).
 
 ## Sources
 

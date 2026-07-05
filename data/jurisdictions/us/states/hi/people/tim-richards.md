@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 4"
+represents: "us/states/hi/districts/senate/4"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Richards
 
 Current HI Senate District 4 (HI State Senate District 4).
+
+Represents [HI State Senate District 4](/us/states/hi/districts/senate/4.md).
 
 ## Sources
 

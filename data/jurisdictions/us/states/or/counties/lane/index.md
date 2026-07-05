@@ -22,9 +22,45 @@ demographics:
   race_native: 4718
   hispanic: 40225
   bachelors_plus: 128549
+districts:
+  - to: "us/states/or/districts/04"
+    rel: in-district
+    area_weight: 0.9767
+  - to: "us/states/or/districts/senate/6"
+    rel: in-district
+    area_weight: 0.6555
+  - to: "us/states/or/districts/senate/5"
+    rel: in-district
+    area_weight: 0.2631
+  - to: "us/states/or/districts/senate/4"
+    rel: in-district
+    area_weight: 0.0312
+  - to: "us/states/or/districts/senate/7"
+    rel: in-district
+    area_weight: 0.0284
+  - to: "us/states/or/districts/house/12"
+    rel: in-district
+    area_weight: 0.6554
+  - to: "us/states/or/districts/house/9"
+    rel: in-district
+    area_weight: 0.1683
+  - to: "us/states/or/districts/house/10"
+    rel: in-district
+    area_weight: 0.0948
+  - to: "us/states/or/districts/house/8"
+    rel: in-district
+    area_weight: 0.0246
+  - to: "us/states/or/districts/house/14"
+    rel: in-district
+    area_weight: 0.0237
+  - to: "us/states/or/districts/house/7"
+    rel: in-district
+    area_weight: 0.0066
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, or]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 3 officeholders mapped.
 | Hispanic/Latino | 40225 |
 | Bachelor's or higher | 128549 |
 
+## Districts
+
+- [OR-04](/us/states/or/districts/04.md) — 98% (congressional)
+- [OR Senate District 6](/us/states/or/districts/senate/6.md) — 66% (state senate)
+- [OR Senate District 5](/us/states/or/districts/senate/5.md) — 26% (state senate)
+- [OR Senate District 4](/us/states/or/districts/senate/4.md) — 3% (state senate)
+- [OR Senate District 7](/us/states/or/districts/senate/7.md) — 3% (state senate)
+- [OR House District 12](/us/states/or/districts/house/12.md) — 66% (state house)
+- [OR House District 9](/us/states/or/districts/house/9.md) — 17% (state house)
+- [OR House District 10](/us/states/or/districts/house/10.md) — 9% (state house)
+- [OR House District 8](/us/states/or/districts/house/8.md) — 2% (state house)
+- [OR House District 14](/us/states/or/districts/house/14.md) — 2% (state house)
+- [OR House District 7](/us/states/or/districts/house/7.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 26"
+represents: "us/states/id/districts/senate/26"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Taylor
 
 Current ID Senate District 26 (ID State Senate District 26).
+
+Represents [ID State Senate District 26](/us/states/id/districts/senate/26.md).
 
 ## Sources
 

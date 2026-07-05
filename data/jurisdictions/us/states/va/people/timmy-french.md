@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 1"
+represents: "us/states/va/districts/senate/1"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Timmy French
 
 Current VA Senate District 1 (VA State Senate District 1).
+
+Represents [VA State Senate District 1](/us/states/va/districts/senate/1.md).
 
 ## Sources
 

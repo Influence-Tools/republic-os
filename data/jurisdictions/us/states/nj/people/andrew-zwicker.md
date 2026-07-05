@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 16"
+represents: "us/states/nj/districts/senate/16"
 tenure:
   start: "2022-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Zwicker
 
 Current NJ Senate District 16 (NJ State Senate District 16).
+
+Represents [NJ State Senate District 16](/us/states/nj/districts/senate/16.md).
 
 ## Sources
 

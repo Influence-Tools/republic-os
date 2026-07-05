@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 75"
+represents: "us/states/ut/districts/house/75"
 tenure:
   start: "2016-09-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Walt Brooks
 
 Current UT House District 75 (UT State House of Representatives District 75).
+
+Represents [UT State House of Representatives District 75](/us/states/ut/districts/house/75.md).
 
 ## Sources
 

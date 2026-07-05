@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 130"
+represents: "us/states/mo/districts/house/130"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bishop Davidson
 
 Current MO House District 130 (MO State House of Representatives District 130).
+
+Represents [MO State House of Representatives District 130](/us/states/mo/districts/house/130.md).
 
 ## Sources
 

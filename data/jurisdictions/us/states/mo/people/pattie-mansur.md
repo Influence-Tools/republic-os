@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 25"
+represents: "us/states/mo/districts/house/25"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pattie Mansur
 
 Current MO House District 25 (MO State House of Representatives District 25).
+
+Represents [MO State House of Representatives District 25](/us/states/mo/districts/house/25.md).
 
 ## Sources
 

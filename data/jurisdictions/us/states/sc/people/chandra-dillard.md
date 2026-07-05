@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 23"
+represents: "us/states/sc/districts/house/23"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chandra Dillard
 
 Current SC House District 23 (SC State House of Representatives District 23).
+
+Represents [SC State House of Representatives District 23](/us/states/sc/districts/house/23.md).
 
 ## Sources
 

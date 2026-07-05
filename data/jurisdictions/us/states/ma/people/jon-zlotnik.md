@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Worcester"
+represents: "us/states/ma/districts/house/2nd-worcester"
 tenure:
   start: "2013-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Zlotnik
 
 Current MA House District 2nd Worcester (MA State House of Representatives District 2nd Worcester).
+
+Represents [MA State House of Representatives District 2nd Worcester](/us/states/ma/districts/house/2nd-worcester.md).
 
 ## Sources
 

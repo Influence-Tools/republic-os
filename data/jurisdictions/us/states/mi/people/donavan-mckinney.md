@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 11"
+represents: "us/states/mi/districts/house/11"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donavan McKinney
 
 Current MI House District 11 (MI State House of Representatives District 11).
+
+Represents [MI State House of Representatives District 11](/us/states/mi/districts/house/11.md).
 
 ## Sources
 

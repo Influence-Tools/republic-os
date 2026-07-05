@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 7B"
+represents: "us/states/md/districts/house/7b"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Arikan
 
 Current MD House District 7B (MD State House of Representatives District 7B).
+
+Represents [MD State House of Representatives District 7B](/us/states/md/districts/house/7b.md).
 
 ## Sources
 

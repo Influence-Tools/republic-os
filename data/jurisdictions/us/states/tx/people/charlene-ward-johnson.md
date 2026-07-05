@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 139"
+represents: "us/states/tx/districts/house/139"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlene Ward Johnson
 
 Current TX House District 139 (TX State House of Representatives District 139).
+
+Represents [TX State House of Representatives District 139](/us/states/tx/districts/house/139.md).
 
 ## Sources
 

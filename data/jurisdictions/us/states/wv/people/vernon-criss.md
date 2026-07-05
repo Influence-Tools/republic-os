@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 12"
+represents: "us/states/wv/districts/house/12"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vernon Criss
 
 Current WV House District 12 (WV State House of Representatives District 12).
+
+Represents [WV State House of Representatives District 12](/us/states/wv/districts/house/12.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 15"
+represents: "us/states/ms/districts/senate/15"
 tenure:
   start: "2020-10-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bart Williams
 
 Current MS Senate District 15 (MS State Senate District 15).
+
+Represents [MS State Senate District 15](/us/states/ms/districts/senate/15.md).
 
 ## Sources
 

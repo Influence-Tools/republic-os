@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 11"
+represents: "us/states/wv/districts/senate/11"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Hamilton
 
 Current WV Senate District 11 (WV State Senate District 11).
+
+Represents [WV State Senate District 11](/us/states/wv/districts/senate/11.md).
 
 ## Sources
 

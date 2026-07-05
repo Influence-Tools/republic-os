@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 19"
+represents: "us/states/wa/districts/senate/19"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Wilson
 
 Current WA Senate District 19 (WA State Senate District 19).
+
+Represents [WA State Senate District 19](/us/states/wa/districts/senate/19.md).
 
 ## Sources
 

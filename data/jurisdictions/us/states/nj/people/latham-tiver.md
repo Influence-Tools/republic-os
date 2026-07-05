@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 8"
+represents: "us/states/nj/districts/senate/8"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Latham Tiver
 
 Current NJ Senate District 8 (NJ State Senate District 8).
+
+Represents [NJ State Senate District 8](/us/states/nj/districts/senate/8.md).
 
 ## Sources
 

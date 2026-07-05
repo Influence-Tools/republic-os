@@ -22,9 +22,51 @@ demographics:
   race_native: 4603
   hispanic: 217167
   bachelors_plus: 326308
+districts:
+  - to: "us/states/nj/districts/11"
+    rel: in-district
+    area_weight: 0.5868
+  - to: "us/states/nj/districts/10"
+    rel: in-district
+    area_weight: 0.3652
+  - to: "us/states/nj/districts/08"
+    rel: in-district
+    area_weight: 0.0465
+  - to: "us/states/nj/districts/senate/27"
+    rel: in-district
+    area_weight: 0.3552
+  - to: "us/states/nj/districts/senate/40"
+    rel: in-district
+    area_weight: 0.2184
+  - to: "us/states/nj/districts/senate/34"
+    rel: in-district
+    area_weight: 0.1512
+  - to: "us/states/nj/districts/senate/29"
+    rel: in-district
+    area_weight: 0.1496
+  - to: "us/states/nj/districts/senate/28"
+    rel: in-district
+    area_weight: 0.1157
+  - to: "us/states/nj/districts/house/27"
+    rel: in-district
+    area_weight: 0.3552
+  - to: "us/states/nj/districts/house/40"
+    rel: in-district
+    area_weight: 0.2184
+  - to: "us/states/nj/districts/house/34"
+    rel: in-district
+    area_weight: 0.1512
+  - to: "us/states/nj/districts/house/29"
+    rel: in-district
+    area_weight: 0.1496
+  - to: "us/states/nj/districts/house/28"
+    rel: in-district
+    area_weight: 0.1157
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nj]
 timestamp: "2026-07-03"
@@ -56,6 +98,23 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 217167 |
 | Bachelor's or higher | 326308 |
 
+## Districts
+
+- [NJ-11](/us/states/nj/districts/11.md) — 59% (congressional)
+- [NJ-10](/us/states/nj/districts/10.md) — 37% (congressional)
+- [NJ-08](/us/states/nj/districts/08.md) — 5% (congressional)
+- [NJ Senate District 27](/us/states/nj/districts/senate/27.md) — 36% (state senate)
+- [NJ Senate District 40](/us/states/nj/districts/senate/40.md) — 22% (state senate)
+- [NJ Senate District 34](/us/states/nj/districts/senate/34.md) — 15% (state senate)
+- [NJ Senate District 29](/us/states/nj/districts/senate/29.md) — 15% (state senate)
+- [NJ Senate District 28](/us/states/nj/districts/senate/28.md) — 12% (state senate)
+- [NJ House District 27](/us/states/nj/districts/house/27.md) — 36% (state house)
+- [NJ House District 40](/us/states/nj/districts/house/40.md) — 22% (state house)
+- [NJ House District 34](/us/states/nj/districts/house/34.md) — 15% (state house)
+- [NJ House District 29](/us/states/nj/districts/house/29.md) — 15% (state house)
+- [NJ House District 28](/us/states/nj/districts/house/28.md) — 12% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

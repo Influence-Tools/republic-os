@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 64"
+represents: "us/states/nc/districts/house/64"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Riddell
 
 Current NC House District 64 (NC State House of Representatives District 64).
+
+Represents [NC State House of Representatives District 64](/us/states/nc/districts/house/64.md).
 
 ## Sources
 

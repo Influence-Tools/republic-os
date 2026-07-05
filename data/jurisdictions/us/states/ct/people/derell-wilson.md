@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 46"
+represents: "us/states/ct/districts/house/46"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derell Wilson
 
 Current CT House District 46 (CT State House of Representatives District 46).
+
+Represents [CT State House of Representatives District 46](/us/states/ct/districts/house/46.md).
 
 ## Sources
 

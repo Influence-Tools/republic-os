@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 35"
+represents: "us/states/nm/districts/house/35"
 tenure:
   start: "2017-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angelica Rubio
 
 Current NM House District 35 (NM State House of Representatives District 35).
+
+Represents [NM State House of Representatives District 35](/us/states/nm/districts/house/35.md).
 
 ## Sources
 

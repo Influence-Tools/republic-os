@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 53"
+represents: "us/states/nc/districts/house/53"
 tenure:
   start: "2020-09-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Howard Penny
 
 Current NC House District 53 (NC State House of Representatives District 53).
+
+Represents [NC State House of Representatives District 53](/us/states/nc/districts/house/53.md).
 
 ## Sources
 

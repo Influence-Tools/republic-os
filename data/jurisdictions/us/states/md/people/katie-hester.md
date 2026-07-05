@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 9"
+represents: "us/states/md/districts/senate/9"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Hester
 
 Current MD Senate District 9 (MD State Senate District 9).
+
+Represents [MD State Senate District 9](/us/states/md/districts/senate/9.md).
 
 ## Sources
 

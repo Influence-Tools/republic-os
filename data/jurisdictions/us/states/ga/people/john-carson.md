@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 46"
+represents: "us/states/ga/districts/house/46"
 tenure:
   start: "2011-11-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Carson
 
 Current GA House District 46 (GA State House of Representatives District 46).
+
+Represents [GA State House of Representatives District 46](/us/states/ga/districts/house/46.md).
 
 ## Sources
 

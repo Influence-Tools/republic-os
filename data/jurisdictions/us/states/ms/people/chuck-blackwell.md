@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 88"
+represents: "us/states/ms/districts/house/88"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Blackwell
 
 Current MS House District 88 (MS State House of Representatives District 88).
+
+Represents [MS State House of Representatives District 88](/us/states/ms/districts/house/88.md).
 
 ## Sources
 

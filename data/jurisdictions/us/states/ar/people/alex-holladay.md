@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 70"
+represents: "us/states/ar/districts/house/70"
 tenure:
   start: "2026-03-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Holladay
 
 Current AR House District 70 (AR State House of Representatives District 70).
+
+Represents [AR State House of Representatives District 70](/us/states/ar/districts/house/70.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 24"
+represents: "us/states/ca/districts/senate/24"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Allen
 
 Current CA Senate District 24 (CA State Senate District 24).
+
+Represents [CA State Senate District 24](/us/states/ca/districts/senate/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 27B"
+represents: "us/states/mn/districts/house/27b"
 tenure:
   start: "2024-04-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Lawrence
 
 Current MN House District 27B (MN State House of Representatives District 27B).
+
+Represents [MN State House of Representatives District 27B](/us/states/mn/districts/house/27b.md).
 
 ## Sources
 

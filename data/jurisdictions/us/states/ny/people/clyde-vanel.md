@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 33"
+represents: "us/states/ny/districts/house/33"
 tenure:
   start: "2016-12-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clyde Vanel
 
 Current NY House District 33 (NY State House of Representatives District 33).
+
+Represents [NY State House of Representatives District 33](/us/states/ny/districts/house/33.md).
 
 ## Sources
 

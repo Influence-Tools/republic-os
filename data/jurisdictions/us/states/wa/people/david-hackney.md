@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 11"
+represents: "us/states/wa/districts/house/11"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Hackney
 
 Current WA House District 11 (WA State House of Representatives District 11).
+
+Represents [WA State House of Representatives District 11](/us/states/wa/districts/house/11.md).
 
 ## Sources
 

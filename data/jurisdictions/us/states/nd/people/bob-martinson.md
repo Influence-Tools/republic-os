@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 35"
+represents: "us/states/nd/districts/house/35"
 tenure:
   start: "2000-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Martinson
 
 Current ND House District 35 (ND State House of Representatives District 35).
+
+Represents [ND State House of Representatives District 35](/us/states/nd/districts/house/35.md).
 
 ## Sources
 

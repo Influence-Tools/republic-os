@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 16"
+represents: "us/states/sd/districts/house/16"
 tenure:
   start: "2025-09-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Shubeck
 
 Current SD House District 16 (SD State House of Representatives District 16).
+
+Represents [SD State House of Representatives District 16](/us/states/sd/districts/house/16.md).
 
 ## Sources
 

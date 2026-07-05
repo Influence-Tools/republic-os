@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 31"
+represents: "us/states/pa/districts/house/31"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Perry Warren
 
 Current PA House District 31 (PA State House of Representatives District 31).
+
+Represents [PA State House of Representatives District 31](/us/states/pa/districts/house/31.md).
 
 ## Sources
 

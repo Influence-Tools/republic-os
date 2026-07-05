@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 41"
+represents: "us/states/sc/districts/senate/41"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Leber
 
 Current SC Senate District 41 (SC State Senate District 41).
+
+Represents [SC State Senate District 41](/us/states/sc/districts/senate/41.md).
 
 ## Sources
 

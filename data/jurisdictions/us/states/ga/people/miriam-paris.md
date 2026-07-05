@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 142"
+represents: "us/states/ga/districts/house/142"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Miriam Paris
 
 Current GA House District 142 (GA State House of Representatives District 142).
+
+Represents [GA State House of Representatives District 142](/us/states/ga/districts/house/142.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 53"
+represents: "us/states/or/districts/house/53"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Em Levy
 
 Current OR House District 53 (OR State House of Representatives District 53).
+
+Represents [OR State House of Representatives District 53](/us/states/or/districts/house/53.md).
 
 ## Sources
 

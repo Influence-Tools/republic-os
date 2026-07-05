@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 71"
+represents: "us/states/wi/districts/house/71"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vinnie Miresse
 
 Current WI House District 71 (WI State House of Representatives District 71).
+
+Represents [WI State House of Representatives District 71](/us/states/wi/districts/house/71.md).
 
 ## Sources
 

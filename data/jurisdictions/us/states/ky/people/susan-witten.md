@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 31"
+represents: "us/states/ky/districts/house/31"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Witten
 
 Current KY House District 31 (KY State House of Representatives District 31).
+
+Represents [KY State House of Representatives District 31](/us/states/ky/districts/house/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 41"
+represents: "us/states/wv/districts/house/41"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jordan Maynor
 
 Current WV House District 41 (WV State House of Representatives District 41).
+
+Represents [WV State House of Representatives District 41](/us/states/wv/districts/house/41.md).
 
 ## Sources
 

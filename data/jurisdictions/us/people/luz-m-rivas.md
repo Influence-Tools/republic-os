@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 29"
+represents: "us/states/ca/districts/29"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Luz M. Rivas
 
 Current U.S. House of Representatives - CA-29 (Congressional District 29).
+
+Represents [Congressional District 29](/us/states/ca/districts/29.md).
 
 ## Committees
 

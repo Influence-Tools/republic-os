@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 70"
+represents: "us/states/wi/districts/house/70"
 tenure:
   start: "2015-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nancy VanderMeer
 
 Current WI House District 70 (WI State House of Representatives District 70).
+
+Represents [WI State House of Representatives District 70](/us/states/wi/districts/house/70.md).
 
 ## Sources
 

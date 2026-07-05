@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 86"
+represents: "us/states/ar/districts/house/86"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Maddox
 
 Current AR House District 86 (AR State House of Representatives District 86).
+
+Represents [AR State House of Representatives District 86](/us/states/ar/districts/house/86.md).
 
 ## Sources
 

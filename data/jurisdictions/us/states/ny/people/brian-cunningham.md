@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 43"
+represents: "us/states/ny/districts/house/43"
 tenure:
   start: "2022-03-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Cunningham
 
 Current NY House District 43 (NY State House of Representatives District 43).
+
+Represents [NY State House of Representatives District 43](/us/states/ny/districts/house/43.md).
 
 ## Sources
 

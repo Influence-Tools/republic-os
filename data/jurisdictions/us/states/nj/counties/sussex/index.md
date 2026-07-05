@@ -22,9 +22,24 @@ demographics:
   race_native: 396
   hispanic: 17355
   bachelors_plus: 58169
+districts:
+  - to: "us/states/nj/districts/05"
+    rel: in-district
+    area_weight: 0.6882
+  - to: "us/states/nj/districts/07"
+    rel: in-district
+    area_weight: 0.3108
+  - to: "us/states/nj/districts/senate/24"
+    rel: in-district
+    area_weight: 0.9993
+  - to: "us/states/nj/districts/house/24"
+    rel: in-district
+    area_weight: 0.9993
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nj]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 17355 |
 | Bachelor's or higher | 58169 |
 
+## Districts
+
+- [NJ-05](/us/states/nj/districts/05.md) — 69% (congressional)
+- [NJ-07](/us/states/nj/districts/07.md) — 31% (congressional)
+- [NJ Senate District 24](/us/states/nj/districts/senate/24.md) — 100% (state senate)
+- [NJ House District 24](/us/states/nj/districts/house/24.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

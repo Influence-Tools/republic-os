@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 28"
+represents: "us/states/pa/districts/senate/28"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Phillips-Hill
 
 Current PA Senate District 28 (PA State Senate District 28).
+
+Represents [PA State Senate District 28](/us/states/pa/districts/senate/28.md).
 
 ## Sources
 

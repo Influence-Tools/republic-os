@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 10"
+represents: "us/states/mo/districts/house/10"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Falkner
 
 Current MO House District 10 (MO State House of Representatives District 10).
+
+Represents [MO State House of Representatives District 10](/us/states/mo/districts/house/10.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 91"
+represents: "us/states/in/districts/house/91"
 tenure:
   start: "1992-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Behning
 
 Current IN House District 91 (IN State House of Representatives District 91).
+
+Represents [IN State House of Representatives District 91](/us/states/in/districts/house/91.md).
 
 ## Sources
 

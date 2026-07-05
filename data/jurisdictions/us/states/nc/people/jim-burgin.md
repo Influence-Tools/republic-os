@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 12"
+represents: "us/states/nc/districts/senate/12"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Burgin
 
 Current NC Senate District 12 (NC State Senate District 12).
+
+Represents [NC State Senate District 12](/us/states/nc/districts/senate/12.md).
 
 ## Sources
 

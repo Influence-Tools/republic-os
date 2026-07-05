@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 6"
+represents: "us/states/mo/districts/senate/6"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Bernskoetter
 
 Current MO Senate District 6 (MO State Senate District 6).
+
+Represents [MO State Senate District 6](/us/states/mo/districts/senate/6.md).
 
 ## Sources
 

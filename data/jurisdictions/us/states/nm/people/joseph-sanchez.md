@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 40"
+represents: "us/states/nm/districts/house/40"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph Sanchez
 
 Current NM House District 40 (NM State House of Representatives District 40).
+
+Represents [NM State House of Representatives District 40](/us/states/nm/districts/house/40.md).
 
 ## Sources
 

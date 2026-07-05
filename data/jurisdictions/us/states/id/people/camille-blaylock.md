@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 11"
+represents: "us/states/id/districts/senate/11"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Camille Blaylock
 
 Current ID Senate District 11 (ID State Senate District 11).
+
+Represents [ID State Senate District 11](/us/states/id/districts/senate/11.md).
 
 ## Sources
 

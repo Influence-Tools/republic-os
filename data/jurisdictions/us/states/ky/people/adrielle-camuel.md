@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 93"
+represents: "us/states/ky/districts/house/93"
 tenure:
   start: "2023-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adrielle Camuel
 
 Current KY House District 93 (KY State House of Representatives District 93).
+
+Represents [KY State House of Representatives District 93](/us/states/ky/districts/house/93.md).
 
 ## Sources
 

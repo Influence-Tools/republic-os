@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 3"
+represents: "us/states/me/districts/senate/3"
 tenure:
   start: "2018-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Farrin
 
 Current ME Senate District 3 (ME State Senate District 3).
+
+Represents [ME State Senate District 3](/us/states/me/districts/senate/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 8"
+represents: "us/states/pa/districts/senate/8"
 tenure:
   start: "1999-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Williams
 
 Current PA Senate District 8 (PA State Senate District 8).
+
+Represents [PA State Senate District 8](/us/states/pa/districts/senate/8.md).
 
 ## Sources
 

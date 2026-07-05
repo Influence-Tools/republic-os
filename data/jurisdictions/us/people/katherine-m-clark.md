@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 5"
+represents: "us/states/ma/districts/05"
 leadership:
   - role: "House Minority Whip"
     body: "H"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Katherine M. Clark
 
 Current U.S. House of Representatives - MA-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/ma/districts/05.md).
 
 ## Leadership
 

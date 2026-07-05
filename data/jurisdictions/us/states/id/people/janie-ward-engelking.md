@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 18"
+represents: "us/states/id/districts/senate/18"
 tenure:
   start: "2013-12-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janie Ward-Engelking
 
 Current ID Senate District 18 (ID State Senate District 18).
+
+Represents [ID State Senate District 18](/us/states/id/districts/senate/18.md).
 
 ## Sources
 

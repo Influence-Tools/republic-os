@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 36"
+represents: "us/states/ga/districts/house/36"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ginny Ehrhart
 
 Current GA House District 36 (GA State House of Representatives District 36).
+
+Represents [GA State House of Representatives District 36](/us/states/ga/districts/house/36.md).
 
 ## Sources
 

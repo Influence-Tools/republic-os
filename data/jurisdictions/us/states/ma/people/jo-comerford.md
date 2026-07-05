@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Hampshire, Franklin and Worcester"
+represents: "us/states/ma/districts/senate/hampshire-franklin-and-worcester"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jo Comerford
 
 Current MA Senate District Hampshire, Franklin and Worcester (MA State Senate District Hampshire, Franklin and Worcester).
+
+Represents [MA State Senate District Hampshire, Franklin and Worcester](/us/states/ma/districts/senate/hampshire-franklin-and-worcester.md).
 
 ## Sources
 

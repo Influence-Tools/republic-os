@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 28"
+represents: "us/states/in/districts/senate/28"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Crider
 
 Current IN Senate District 28 (IN State Senate District 28).
+
+Represents [IN State Senate District 28](/us/states/in/districts/senate/28.md).
 
 ## Sources
 

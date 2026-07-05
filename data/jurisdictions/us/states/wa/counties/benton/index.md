@@ -22,9 +22,39 @@ demographics:
   race_native: 2237
   hispanic: 54546
   bachelors_plus: 64110
+districts:
+  - to: "us/states/wa/districts/04"
+    rel: in-district
+    area_weight: 0.9993
+  - to: "us/states/wa/districts/senate/16"
+    rel: in-district
+    area_weight: 0.3543
+  - to: "us/states/wa/districts/senate/8"
+    rel: in-district
+    area_weight: 0.2886
+  - to: "us/states/wa/districts/senate/14"
+    rel: in-district
+    area_weight: 0.2461
+  - to: "us/states/wa/districts/senate/15"
+    rel: in-district
+    area_weight: 0.111
+  - to: "us/states/wa/districts/house/16"
+    rel: in-district
+    area_weight: 0.3543
+  - to: "us/states/wa/districts/house/8"
+    rel: in-district
+    area_weight: 0.2886
+  - to: "us/states/wa/districts/house/14"
+    rel: in-district
+    area_weight: 0.2461
+  - to: "us/states/wa/districts/house/15"
+    rel: in-district
+    area_weight: 0.111
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wa]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 54546 |
 | Bachelor's or higher | 64110 |
 
+## Districts
+
+- [WA-04](/us/states/wa/districts/04.md) — 100% (congressional)
+- [WA Senate District 16](/us/states/wa/districts/senate/16.md) — 35% (state senate)
+- [WA Senate District 8](/us/states/wa/districts/senate/8.md) — 29% (state senate)
+- [WA Senate District 14](/us/states/wa/districts/senate/14.md) — 25% (state senate)
+- [WA Senate District 15](/us/states/wa/districts/senate/15.md) — 11% (state senate)
+- [WA House District 16](/us/states/wa/districts/house/16.md) — 35% (state house)
+- [WA House District 8](/us/states/wa/districts/house/8.md) — 29% (state house)
+- [WA House District 14](/us/states/wa/districts/house/14.md) — 25% (state house)
+- [WA House District 15](/us/states/wa/districts/house/15.md) — 11% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

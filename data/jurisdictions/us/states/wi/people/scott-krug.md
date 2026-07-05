@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 72"
+represents: "us/states/wi/districts/house/72"
 tenure:
   start: "2011-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Krug
 
 Current WI House District 72 (WI State House of Representatives District 72).
+
+Represents [WI State House of Representatives District 72](/us/states/wi/districts/house/72.md).
 
 ## Sources
 

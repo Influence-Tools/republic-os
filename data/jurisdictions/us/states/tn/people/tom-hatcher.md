@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 2"
+represents: "us/states/tn/districts/senate/2"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Hatcher
 
 Current TN Senate District 2 (TN State Senate District 2).
+
+Represents [TN State Senate District 2](/us/states/tn/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 9A"
+represents: "us/states/id/districts/house/9a"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Shirts
 
 Current ID House District 9A (ID State House of Representatives District 9A).
+
+Represents [ID State House of Representatives District 9A](/us/states/id/districts/house/9a.md).
 
 ## Sources
 

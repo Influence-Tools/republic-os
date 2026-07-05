@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 44"
+represents: "us/states/oh/districts/house/44"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Williams
 
 Current OH House District 44 (OH State House of Representatives District 44).
+
+Represents [OH State House of Representatives District 44](/us/states/oh/districts/house/44.md).
 
 ## Sources
 

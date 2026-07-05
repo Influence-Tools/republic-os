@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 80"
+represents: "us/states/nc/districts/house/80"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Watford
 
 Current NC House District 80 (NC State House of Representatives District 80).
+
+Represents [NC State House of Representatives District 80](/us/states/nc/districts/house/80.md).
 
 ## Sources
 

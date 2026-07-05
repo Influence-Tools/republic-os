@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 74"
+represents: "us/states/mi/districts/house/74"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kara Hope
 
 Current MI House District 74 (MI State House of Representatives District 74).
+
+Represents [MI State House of Representatives District 74](/us/states/mi/districts/house/74.md).
 
 ## Sources
 

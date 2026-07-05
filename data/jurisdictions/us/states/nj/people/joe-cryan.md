@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 20"
+represents: "us/states/nj/districts/senate/20"
 tenure:
   start: "2018-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Cryan
 
 Current NJ Senate District 20 (NJ State Senate District 20).
+
+Represents [NJ State Senate District 20](/us/states/nj/districts/senate/20.md).
 
 ## Sources
 

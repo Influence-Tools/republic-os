@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 93"
+represents: "us/states/wv/districts/house/93"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Hornby
 
 Current WV House District 93 (WV State House of Representatives District 93).
+
+Represents [WV State House of Representatives District 93](/us/states/wv/districts/house/93.md).
 
 ## Sources
 

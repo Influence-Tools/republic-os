@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 35"
+represents: "us/states/il/districts/house/35"
 tenure:
   start: "2023-03-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Gill
 
 Current IL House District 35 (IL State House of Representatives District 35).
+
+Represents [IL State House of Representatives District 35](/us/states/il/districts/house/35.md).
 
 ## Sources
 

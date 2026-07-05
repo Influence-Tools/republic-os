@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 34"
+represents: "us/states/nc/districts/house/34"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Longest
 
 Current NC House District 34 (NC State House of Representatives District 34).
+
+Represents [NC State House of Representatives District 34](/us/states/nc/districts/house/34.md).
 
 ## Sources
 

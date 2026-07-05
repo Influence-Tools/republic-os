@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 31"
+represents: "us/states/wa/districts/house/31"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Penner
 
 Current WA House District 31 (WA State House of Representatives District 31).
+
+Represents [WA State House of Representatives District 31](/us/states/wa/districts/house/31.md).
 
 ## Sources
 

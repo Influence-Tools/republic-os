@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 18"
+represents: "us/states/sd/districts/senate/18"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Nelson
 
 Current SD Senate District 18 (SD State Senate District 18).
+
+Represents [SD State Senate District 18](/us/states/sd/districts/senate/18.md).
 
 ## Sources
 

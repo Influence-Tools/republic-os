@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 19"
+represents: "us/states/md/districts/senate/19"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Kramer
 
 Current MD Senate District 19 (MD State Senate District 19).
+
+Represents [MD State Senate District 19](/us/states/md/districts/senate/19.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 94"
+represents: "us/states/ms/districts/house/94"
 tenure:
   start: "2004-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Johnson
 
 Current MS House District 94 (MS State House of Representatives District 94).
+
+Represents [MS State House of Representatives District 94](/us/states/ms/districts/house/94.md).
 
 ## Sources
 

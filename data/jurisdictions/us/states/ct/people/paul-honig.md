@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 8"
+represents: "us/states/ct/districts/senate/8"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Honig
 
 Current CT Senate District 8 (CT State Senate District 8).
+
+Represents [CT State Senate District 8](/us/states/ct/districts/senate/8.md).
 
 ## Sources
 

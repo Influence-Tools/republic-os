@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 26"
+represents: "us/states/va/districts/house/26"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.J. Singh
 
 Current VA House District 26 (VA State House of Representatives District 26).
+
+Represents [VA State House of Representatives District 26](/us/states/va/districts/house/26.md).
 
 ## Sources
 

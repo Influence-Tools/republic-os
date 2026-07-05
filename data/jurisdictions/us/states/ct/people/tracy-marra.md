@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 141"
+represents: "us/states/ct/districts/house/141"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Marra
 
 Current CT House District 141 (CT State House of Representatives District 141).
+
+Represents [CT State House of Representatives District 141](/us/states/ct/districts/house/141.md).
 
 ## Sources
 

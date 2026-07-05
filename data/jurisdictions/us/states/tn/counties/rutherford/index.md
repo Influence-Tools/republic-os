@@ -22,9 +22,39 @@ demographics:
   race_native: 667
   hispanic: 43964
   bachelors_plus: 109128
+districts:
+  - to: "us/states/tn/districts/04"
+    rel: in-district
+    area_weight: 0.992
+  - to: "us/states/tn/districts/05"
+    rel: in-district
+    area_weight: 0.007
+  - to: "us/states/tn/districts/senate/13"
+    rel: in-district
+    area_weight: 0.568
+  - to: "us/states/tn/districts/senate/14"
+    rel: in-district
+    area_weight: 0.4318
+  - to: "us/states/tn/districts/house/48"
+    rel: in-district
+    area_weight: 0.4243
+  - to: "us/states/tn/districts/house/13"
+    rel: in-district
+    area_weight: 0.1948
+  - to: "us/states/tn/districts/house/34"
+    rel: in-district
+    area_weight: 0.162
+  - to: "us/states/tn/districts/house/37"
+    rel: in-district
+    area_weight: 0.1271
+  - to: "us/states/tn/districts/house/49"
+    rel: in-district
+    area_weight: 0.0914
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, tn]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 43964 |
 | Bachelor's or higher | 109128 |
 
+## Districts
+
+- [TN-04](/us/states/tn/districts/04.md) — 99% (congressional)
+- [TN-05](/us/states/tn/districts/05.md) — 1% (congressional)
+- [TN Senate District 13](/us/states/tn/districts/senate/13.md) — 57% (state senate)
+- [TN Senate District 14](/us/states/tn/districts/senate/14.md) — 43% (state senate)
+- [TN House District 48](/us/states/tn/districts/house/48.md) — 42% (state house)
+- [TN House District 13](/us/states/tn/districts/house/13.md) — 19% (state house)
+- [TN House District 34](/us/states/tn/districts/house/34.md) — 16% (state house)
+- [TN House District 37](/us/states/tn/districts/house/37.md) — 13% (state house)
+- [TN House District 49](/us/states/tn/districts/house/49.md) — 9% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

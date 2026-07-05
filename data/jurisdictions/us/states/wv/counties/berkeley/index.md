@@ -22,9 +22,45 @@ demographics:
   race_native: 151
   hispanic: 8294
   bachelors_plus: 30467
+districts:
+  - to: "us/states/wv/districts/02"
+    rel: in-district
+    area_weight: 0.9995
+  - to: "us/states/wv/districts/senate/15"
+    rel: in-district
+    area_weight: 0.6556
+  - to: "us/states/wv/districts/senate/16"
+    rel: in-district
+    area_weight: 0.3438
+  - to: "us/states/wv/districts/house/91"
+    rel: in-district
+    area_weight: 0.2434
+  - to: "us/states/wv/districts/house/90"
+    rel: in-district
+    area_weight: 0.1607
+  - to: "us/states/wv/districts/house/92"
+    rel: in-district
+    area_weight: 0.1573
+  - to: "us/states/wv/districts/house/97"
+    rel: in-district
+    area_weight: 0.1083
+  - to: "us/states/wv/districts/house/93"
+    rel: in-district
+    area_weight: 0.1054
+  - to: "us/states/wv/districts/house/96"
+    rel: in-district
+    area_weight: 0.0876
+  - to: "us/states/wv/districts/house/94"
+    rel: in-district
+    area_weight: 0.0686
+  - to: "us/states/wv/districts/house/95"
+    rel: in-district
+    area_weight: 0.0681
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wv]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 8294 |
 | Bachelor's or higher | 30467 |
 
+## Districts
+
+- [WV-02](/us/states/wv/districts/02.md) — 100% (congressional)
+- [WV Senate District 15](/us/states/wv/districts/senate/15.md) — 66% (state senate)
+- [WV Senate District 16](/us/states/wv/districts/senate/16.md) — 34% (state senate)
+- [WV House District 91](/us/states/wv/districts/house/91.md) — 24% (state house)
+- [WV House District 90](/us/states/wv/districts/house/90.md) — 16% (state house)
+- [WV House District 92](/us/states/wv/districts/house/92.md) — 16% (state house)
+- [WV House District 97](/us/states/wv/districts/house/97.md) — 11% (state house)
+- [WV House District 93](/us/states/wv/districts/house/93.md) — 11% (state house)
+- [WV House District 96](/us/states/wv/districts/house/96.md) — 9% (state house)
+- [WV House District 94](/us/states/wv/districts/house/94.md) — 7% (state house)
+- [WV House District 95](/us/states/wv/districts/house/95.md) — 7% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

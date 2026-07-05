@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 93"
+represents: "us/states/ok/districts/house/93"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mickey Dollens
 
 Current OK House District 93 (OK State House of Representatives District 93).
+
+Represents [OK State House of Representatives District 93](/us/states/ok/districts/house/93.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 11"
+represents: "us/states/fl/districts/senate/11"
 tenure:
   start: "2025-12-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ralph Massullo
 
 Current FL Senate District 11 (FL State Senate District 11).
+
+Represents [FL State Senate District 11](/us/states/fl/districts/senate/11.md).
 
 ## Sources
 

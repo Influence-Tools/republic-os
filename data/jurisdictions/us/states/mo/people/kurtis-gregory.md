@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 21"
+represents: "us/states/mo/districts/senate/21"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kurtis Gregory
 
 Current MO Senate District 21 (MO State Senate District 21).
+
+Represents [MO State Senate District 21](/us/states/mo/districts/senate/21.md).
 
 ## Sources
 

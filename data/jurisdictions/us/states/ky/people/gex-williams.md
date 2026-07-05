@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 20"
+represents: "us/states/ky/districts/senate/20"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gex Williams
 
 Current KY Senate District 20 (KY State Senate District 20).
+
+Represents [KY State Senate District 20](/us/states/ky/districts/senate/20.md).
 
 ## Sources
 

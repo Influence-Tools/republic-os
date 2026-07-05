@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 4"
+represents: "us/states/ky/districts/senate/4"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robby Mills
 
 Current KY Senate District 4 (KY State Senate District 4).
+
+Represents [KY State Senate District 4](/us/states/ky/districts/senate/4.md).
 
 ## Sources
 

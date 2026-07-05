@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 36"
+represents: "us/states/ri/districts/senate/36"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alana DiMario
 
 Current RI Senate District 36 (RI State Senate District 36).
+
+Represents [RI State Senate District 36](/us/states/ri/districts/senate/36.md).
 
 ## Sources
 

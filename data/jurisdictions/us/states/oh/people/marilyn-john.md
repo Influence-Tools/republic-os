@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 76"
+represents: "us/states/oh/districts/house/76"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marilyn John
 
 Current OH House District 76 (OH State House of Representatives District 76).
+
+Represents [OH State House of Representatives District 76](/us/states/oh/districts/house/76.md).
 
 ## Sources
 

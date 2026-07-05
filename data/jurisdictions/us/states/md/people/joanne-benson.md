@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 24"
+represents: "us/states/md/districts/senate/24"
 tenure:
   start: "2011-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joanne Benson
 
 Current MD Senate District 24 (MD State Senate District 24).
+
+Represents [MD State Senate District 24](/us/states/md/districts/senate/24.md).
 
 ## Sources
 

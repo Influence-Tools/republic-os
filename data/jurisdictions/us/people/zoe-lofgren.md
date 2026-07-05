@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 18"
+represents: "us/states/ca/districts/18"
 committees:
   - name: "House Committee on Science, Space, and Technology"
     role: "ranking-member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Zoe Lofgren
 
 Current U.S. House of Representatives - CA-18 (Congressional District 18).
+
+Represents [Congressional District 18](/us/states/ca/districts/18.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 21"
+represents: "us/states/ar/districts/senate/21"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blake Johnson
 
 Current AR Senate District 21 (AR State Senate District 21).
+
+Represents [AR State Senate District 21](/us/states/ar/districts/senate/21.md).
 
 ## Sources
 

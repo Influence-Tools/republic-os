@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 65"
+represents: "us/states/mn/districts/senate/65"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandy Pappas
 
 Current MN Senate District 65 (MN State Senate District 65).
+
+Represents [MN State Senate District 65](/us/states/mn/districts/senate/65.md).
 
 ## Sources
 

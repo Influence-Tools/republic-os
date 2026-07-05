@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 27"
+represents: "us/states/ok/districts/house/27"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Sterling
 
 Current OK House District 27 (OK State House of Representatives District 27).
+
+Represents [OK State House of Representatives District 27](/us/states/ok/districts/house/27.md).
 
 ## Sources
 

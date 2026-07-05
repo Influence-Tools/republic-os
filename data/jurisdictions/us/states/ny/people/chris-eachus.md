@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 99"
+represents: "us/states/ny/districts/house/99"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Eachus
 
 Current NY House District 99 (NY State House of Representatives District 99).
+
+Represents [NY State House of Representatives District 99](/us/states/ny/districts/house/99.md).
 
 ## Sources
 

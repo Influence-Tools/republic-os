@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 32"
+represents: "us/states/nd/districts/senate/32"
 tenure:
   start: "2000-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dick Dever
 
 Current ND Senate District 32 (ND State Senate District 32).
+
+Represents [ND State Senate District 32](/us/states/nd/districts/senate/32.md).
 
 ## Sources
 

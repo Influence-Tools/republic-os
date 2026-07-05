@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 32"
+represents: "us/states/nh/districts/house/rockingham-32"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Litchfield
 
 Current NH House District Rockingham 32 (NH State House of Representatives District Rockingham 32).
+
+Represents [NH State House of Representatives District Rockingham 32](/us/states/nh/districts/house/rockingham-32.md).
 
 ## Sources
 

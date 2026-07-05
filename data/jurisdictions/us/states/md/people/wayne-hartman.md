@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 38C"
+represents: "us/states/md/districts/house/38c"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wayne Hartman
 
 Current MD House District 38C (MD State House of Representatives District 38C).
+
+Represents [MD State House of Representatives District 38C](/us/states/md/districts/house/38c.md).
 
 ## Sources
 

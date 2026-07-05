@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 20"
+represents: "us/states/pa/districts/house/20"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Kinkead
 
 Current PA House District 20 (PA State House of Representatives District 20).
+
+Represents [PA State House of Representatives District 20](/us/states/pa/districts/house/20.md).
 
 ## Sources
 

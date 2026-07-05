@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 89"
+represents: "us/states/nc/districts/house/89"
 tenure:
   start: "2003-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mitchell Setzer
 
 Current NC House District 89 (NC State House of Representatives District 89).
+
+Represents [NC State House of Representatives District 89](/us/states/nc/districts/house/89.md).
 
 ## Sources
 

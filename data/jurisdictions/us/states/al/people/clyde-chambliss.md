@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 30"
+represents: "us/states/al/districts/senate/30"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clyde Chambliss
 
 Current AL Senate District 30 (AL State Senate District 30).
+
+Represents [AL State Senate District 30](/us/states/al/districts/senate/30.md).
 
 ## Sources
 

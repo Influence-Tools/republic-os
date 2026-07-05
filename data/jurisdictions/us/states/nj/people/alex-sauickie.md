@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 12"
+represents: "us/states/nj/districts/house/12"
 tenure:
   start: "2022-09-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Sauickie
 
 Current NJ House District 12 (NJ State House of Representatives District 12).
+
+Represents [NJ State House of Representatives District 12](/us/states/nj/districts/house/12.md).
 
 ## Sources
 

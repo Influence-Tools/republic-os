@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 111"
+represents: "us/states/mo/districts/house/111"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cecelie Williams
 
 Current MO House District 111 (MO State House of Representatives District 111).
+
+Represents [MO State House of Representatives District 111](/us/states/mo/districts/house/111.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 36"
+represents: "us/states/md/districts/house/36"
 tenure:
   start: "2013-11-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Arentz
 
 Current MD House District 36 (MD State House of Representatives District 36).
+
+Represents [MD State House of Representatives District 36](/us/states/md/districts/house/36.md).
 
 ## Sources
 

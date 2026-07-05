@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 148"
+represents: "us/states/pa/districts/house/148"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Jo Daley
 
 Current PA House District 148 (PA State House of Representatives District 148).
+
+Represents [PA State House of Representatives District 148](/us/states/pa/districts/house/148.md).
 
 ## Sources
 

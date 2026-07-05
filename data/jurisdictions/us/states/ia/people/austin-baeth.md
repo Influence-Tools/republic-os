@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 36"
+represents: "us/states/ia/districts/house/36"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Austin Baeth
 
 Current IA House District 36 (IA State House of Representatives District 36).
+
+Represents [IA State House of Representatives District 36](/us/states/ia/districts/house/36.md).
 
 ## Sources
 

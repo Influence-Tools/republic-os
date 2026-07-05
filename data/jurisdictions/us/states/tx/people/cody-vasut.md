@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 25"
+represents: "us/states/tx/districts/house/25"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cody Vasut
 
 Current TX House District 25 (TX State House of Representatives District 25).
+
+Represents [TX State House of Representatives District 25](/us/states/tx/districts/house/25.md).
 
 ## Sources
 

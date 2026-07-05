@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 43"
+represents: "us/states/va/districts/house/43"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Morefield
 
 Current VA House District 43 (VA State House of Representatives District 43).
+
+Represents [VA State House of Representatives District 43](/us/states/va/districts/house/43.md).
 
 ## Sources
 

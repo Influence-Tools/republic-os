@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 11th Hampden"
+represents: "us/states/ma/districts/house/11th-hampden"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bud Williams
 
 Current MA House District 11th Hampden (MA State House of Representatives District 11th Hampden).
+
+Represents [MA State House of Representatives District 11th Hampden](/us/states/ma/districts/house/11th-hampden.md).
 
 ## Sources
 

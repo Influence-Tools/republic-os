@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 10"
+represents: "us/states/wa/districts/10"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Marilyn Strickland
 
 Current U.S. House of Representatives - WA-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/wa/districts/10.md).
 
 ## Committees
 

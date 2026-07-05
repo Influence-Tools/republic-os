@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 34"
+represents: "us/states/ga/districts/house/34"
 tenure:
   start: "2021-07-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Devan Seabaugh
 
 Current GA House District 34 (GA State House of Representatives District 34).
+
+Represents [GA State House of Representatives District 34](/us/states/ga/districts/house/34.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 23"
+represents: "us/states/mn/districts/senate/23"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gene Dornink
 
 Current MN Senate District 23 (MN State Senate District 23).
+
+Represents [MN State Senate District 23](/us/states/mn/districts/senate/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 52"
+represents: "us/states/nc/districts/house/52"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Moss
 
 Current NC House District 52 (NC State House of Representatives District 52).
+
+Represents [NC State House of Representatives District 52](/us/states/nc/districts/house/52.md).
 
 ## Sources
 

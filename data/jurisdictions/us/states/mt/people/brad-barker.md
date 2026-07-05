@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 55"
+represents: "us/states/mt/districts/house/55"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Barker
 
 Current MT House District 55 (MT State House of Representatives District 55).
+
+Represents [MT State House of Representatives District 55](/us/states/mt/districts/house/55.md).
 
 ## Sources
 

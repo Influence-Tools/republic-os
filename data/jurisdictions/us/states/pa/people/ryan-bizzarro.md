@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 3"
+represents: "us/states/pa/districts/house/3"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Bizzarro
 
 Current PA House District 3 (PA State House of Representatives District 3).
+
+Represents [PA State House of Representatives District 3](/us/states/pa/districts/house/3.md).
 
 ## Sources
 

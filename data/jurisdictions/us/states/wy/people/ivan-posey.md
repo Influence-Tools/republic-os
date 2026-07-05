@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 33"
+represents: "us/states/wy/districts/house/33"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ivan Posey
 
 Current WY House District 33 (WY State House of Representatives District 33).
+
+Represents [WY State House of Representatives District 33](/us/states/wy/districts/house/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 62"
+represents: "us/states/in/districts/house/62"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Hall
 
 Current IN House District 62 (IN State House of Representatives District 62).
+
+Represents [IN State House of Representatives District 62](/us/states/in/districts/house/62.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 33"
+represents: "us/states/ar/districts/senate/33"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bart Hester
 
 Current AR Senate District 33 (AR State Senate District 33).
+
+Represents [AR State Senate District 33](/us/states/ar/districts/senate/33.md).
 
 ## Sources
 

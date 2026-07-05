@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 33"
+represents: "us/states/ca/districts/senate/33"
 tenure:
   start: "2019-06-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lena Gonzalez
 
 Current CA Senate District 33 (CA State Senate District 33).
+
+Represents [CA State Senate District 33](/us/states/ca/districts/senate/33.md).
 
 ## Sources
 

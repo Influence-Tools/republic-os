@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 45"
+represents: "us/states/ia/districts/senate/45"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janice Weiner
 
 Current IA Senate District 45 (IA State Senate District 45).
+
+Represents [IA State Senate District 45](/us/states/ia/districts/senate/45.md).
 
 ## Sources
 

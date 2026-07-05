@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 36"
+represents: "us/states/nm/districts/senate/36"
 tenure:
   start: "2017-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Steinborn
 
 Current NM Senate District 36 (NM State Senate District 36).
+
+Represents [NM State Senate District 36](/us/states/nm/districts/senate/36.md).
 
 ## Sources
 

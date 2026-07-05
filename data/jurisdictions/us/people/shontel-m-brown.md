@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 11"
+represents: "us/states/oh/districts/11"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Shontel M. Brown
 
 Current U.S. House of Representatives - OH-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/oh/districts/11.md).
 
 ## Committees
 

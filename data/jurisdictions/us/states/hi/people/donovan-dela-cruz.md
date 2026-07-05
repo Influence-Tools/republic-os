@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 17"
+represents: "us/states/hi/districts/senate/17"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donovan Dela Cruz
 
 Current HI Senate District 17 (HI State Senate District 17).
+
+Represents [HI State Senate District 17](/us/states/hi/districts/senate/17.md).
 
 ## Sources
 

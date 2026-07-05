@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 12th Middlesex"
+represents: "us/states/ma/districts/house/12th-middlesex"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Schwartz
 
 Current MA House District 12th Middlesex (MA State House of Representatives District 12th Middlesex).
+
+Represents [MA State House of Representatives District 12th Middlesex](/us/states/ma/districts/house/12th-middlesex.md).
 
 ## Sources
 

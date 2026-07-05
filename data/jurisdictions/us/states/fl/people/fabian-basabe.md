@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 106"
+represents: "us/states/fl/districts/house/106"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fabián Basabe
 
 Current FL House District 106 (FL State House of Representatives District 106).
+
+Represents [FL State House of Representatives District 106](/us/states/fl/districts/house/106.md).
 
 ## Sources
 

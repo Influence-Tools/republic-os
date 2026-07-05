@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 135"
+represents: "us/states/ny/districts/house/135"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jen Lunsford
 
 Current NY House District 135 (NY State House of Representatives District 135).
+
+Represents [NY State House of Representatives District 135](/us/states/ny/districts/house/135.md).
 
 ## Sources
 

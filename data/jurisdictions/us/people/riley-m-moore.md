@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WV"
 district: "Congressional District 2"
+represents: "us/states/wv/districts/02"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Riley M. Moore
 
 Current U.S. House of Representatives - WV-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/wv/districts/02.md).
 
 ## Committees
 

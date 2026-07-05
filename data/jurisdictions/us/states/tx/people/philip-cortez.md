@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 117"
+represents: "us/states/tx/districts/house/117"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Philip Cortez
 
 Current TX House District 117 (TX State House of Representatives District 117).
+
+Represents [TX State House of Representatives District 117](/us/states/tx/districts/house/117.md).
 
 ## Sources
 

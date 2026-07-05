@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 4"
+represents: "us/states/oh/districts/house/4"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beryl Piccolantonio
 
 Current OH House District 4 (OH State House of Representatives District 4).
+
+Represents [OH State House of Representatives District 4](/us/states/oh/districts/house/4.md).
 
 ## Sources
 

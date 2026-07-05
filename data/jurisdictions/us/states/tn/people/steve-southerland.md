@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 9"
+represents: "us/states/tn/districts/senate/9"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Southerland
 
 Current TN Senate District 9 (TN State Senate District 9).
+
+Represents [TN State Senate District 9](/us/states/tn/districts/senate/9.md).
 
 ## Sources
 

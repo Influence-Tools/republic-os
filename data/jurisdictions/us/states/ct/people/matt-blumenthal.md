@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 147"
+represents: "us/states/ct/districts/house/147"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Blumenthal
 
 Current CT House District 147 (CT State House of Representatives District 147).
+
+Represents [CT State House of Representatives District 147](/us/states/ct/districts/house/147.md).
 
 ## Sources
 

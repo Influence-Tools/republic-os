@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 89"
+represents: "us/states/al/districts/house/89"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcus Paramore
 
 Current AL House District 89 (AL State House of Representatives District 89).
+
+Represents [AL State House of Representatives District 89](/us/states/al/districts/house/89.md).
 
 ## Sources
 

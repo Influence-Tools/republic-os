@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 99"
+represents: "us/states/ct/districts/house/99"
 tenure:
   start: "2019-03-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Zullo
 
 Current CT House District 99 (CT State House of Representatives District 99).
+
+Represents [CT State House of Representatives District 99](/us/states/ct/districts/house/99.md).
 
 ## Sources
 

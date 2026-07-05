@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 49"
+represents: "us/states/wa/districts/senate/49"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Annette Cleveland
 
 Current WA Senate District 49 (WA State Senate District 49).
+
+Represents [WA State Senate District 49](/us/states/wa/districts/senate/49.md).
 
 ## Sources
 

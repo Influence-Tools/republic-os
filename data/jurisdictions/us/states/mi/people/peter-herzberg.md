@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 25"
+represents: "us/states/mi/districts/house/25"
 tenure:
   start: "2024-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Herzberg
 
 Current MI House District 25 (MI State House of Representatives District 25).
+
+Represents [MI State House of Representatives District 25](/us/states/mi/districts/house/25.md).
 
 ## Sources
 

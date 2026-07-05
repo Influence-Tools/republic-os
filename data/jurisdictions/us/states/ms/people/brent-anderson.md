@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 122"
+represents: "us/states/ms/districts/house/122"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Anderson
 
 Current MS House District 122 (MS State House of Representatives District 122).
+
+Represents [MS State House of Representatives District 122](/us/states/ms/districts/house/122.md).
 
 ## Sources
 

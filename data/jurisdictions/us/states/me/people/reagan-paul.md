@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 37"
+represents: "us/states/me/districts/house/37"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reagan Paul
 
 Current ME House District 37 (ME State House of Representatives District 37).
+
+Represents [ME State House of Representatives District 37](/us/states/me/districts/house/37.md).
 
 ## Sources
 

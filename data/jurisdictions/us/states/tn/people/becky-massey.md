@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 6"
+represents: "us/states/tn/districts/senate/6"
 tenure:
   start: "2011-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Massey
 
 Current TN Senate District 6 (TN State Senate District 6).
+
+Represents [TN State Senate District 6](/us/states/tn/districts/senate/6.md).
 
 ## Sources
 

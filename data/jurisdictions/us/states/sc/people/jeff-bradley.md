@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 123"
+represents: "us/states/sc/districts/house/123"
 tenure:
   start: "2014-11-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Bradley
 
 Current SC House District 123 (SC State House of Representatives District 123).
+
+Represents [SC State House of Representatives District 123](/us/states/sc/districts/house/123.md).
 
 ## Sources
 

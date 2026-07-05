@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 10"
+represents: "us/states/wi/districts/house/10"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darrin Madison
 
 Current WI House District 10 (WI State House of Representatives District 10).
+
+Represents [WI State House of Representatives District 10](/us/states/wi/districts/house/10.md).
 
 ## Sources
 

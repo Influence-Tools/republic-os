@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 19"
+represents: "us/states/mn/districts/senate/19"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Jasinski
 
 Current MN Senate District 19 (MN State Senate District 19).
+
+Represents [MN State Senate District 19](/us/states/mn/districts/senate/19.md).
 
 ## Sources
 

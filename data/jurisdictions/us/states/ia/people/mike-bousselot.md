@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 21"
+represents: "us/states/ia/districts/senate/21"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Bousselot
 
 Current IA Senate District 21 (IA State Senate District 21).
+
+Represents [IA State Senate District 21](/us/states/ia/districts/senate/21.md).
 
 ## Sources
 

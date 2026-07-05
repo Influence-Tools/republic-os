@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 9"
+represents: "us/states/pa/districts/09"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Daniel Meuser
 
 Current U.S. House of Representatives - PA-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/pa/districts/09.md).
 
 ## Committees
 

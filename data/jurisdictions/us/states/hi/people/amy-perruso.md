@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 46"
+represents: "us/states/hi/districts/house/46"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Perruso
 
 Current HI House District 46 (HI State House of Representatives District 46).
+
+Represents [HI State House of Representatives District 46](/us/states/hi/districts/house/46.md).
 
 ## Sources
 

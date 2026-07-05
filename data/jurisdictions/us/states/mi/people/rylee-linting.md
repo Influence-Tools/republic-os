@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 27"
+represents: "us/states/mi/districts/house/27"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rylee Linting
 
 Current MI House District 27 (MI State House of Representatives District 27).
+
+Represents [MI State House of Representatives District 27](/us/states/mi/districts/house/27.md).
 
 ## Sources
 

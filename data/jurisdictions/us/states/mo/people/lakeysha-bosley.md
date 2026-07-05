@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 79"
+represents: "us/states/mo/districts/house/79"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # LaKeySha Bosley
 
 Current MO House District 79 (MO State House of Representatives District 79).
+
+Represents [MO State House of Representatives District 79](/us/states/mo/districts/house/79.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 91"
+represents: "us/states/tn/districts/house/91"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Torrey Harris
 
 Current TN House District 91 (TN State House of Representatives District 91).
+
+Represents [TN State House of Representatives District 91](/us/states/tn/districts/house/91.md).
 
 ## Sources
 

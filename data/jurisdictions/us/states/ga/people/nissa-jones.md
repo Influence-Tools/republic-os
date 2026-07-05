@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 143"
+represents: "us/states/ga/districts/house/143"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nissa Jones
 
 Current GA House District 143 (GA State House of Representatives District 143).
+
+Represents [GA State House of Representatives District 143](/us/states/ga/districts/house/143.md).
 
 ## Sources
 

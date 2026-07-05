@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 39"
+represents: "us/states/ia/districts/senate/39"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Bennett
 
 Current IA Senate District 39 (IA State Senate District 39).
+
+Represents [IA State Senate District 39](/us/states/ia/districts/senate/39.md).
 
 ## Sources
 

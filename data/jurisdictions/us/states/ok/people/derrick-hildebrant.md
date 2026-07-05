@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 23"
+represents: "us/states/ok/districts/house/23"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derrick Hildebrant
 
 Current OK House District 23 (OK State House of Representatives District 23).
+
+Represents [OK State House of Representatives District 23](/us/states/ok/districts/house/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 121"
+represents: "us/states/pa/districts/house/121"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Pashinski
 
 Current PA House District 121 (PA State House of Representatives District 121).
+
+Represents [PA State House of Representatives District 121](/us/states/pa/districts/house/121.md).
 
 ## Sources
 

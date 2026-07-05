@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 32"
+represents: "us/states/sd/districts/senate/32"
 tenure:
   start: "2019-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Helene Duhamel
 
 Current SD Senate District 32 (SD State Senate District 32).
+
+Represents [SD State Senate District 32](/us/states/sd/districts/senate/32.md).
 
 ## Sources
 

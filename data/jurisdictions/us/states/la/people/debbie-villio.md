@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 79"
+represents: "us/states/la/districts/house/79"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debbie Villio
 
 Current LA House District 79 (LA State House of Representatives District 79).
+
+Represents [LA State House of Representatives District 79](/us/states/la/districts/house/79.md).
 
 ## Sources
 

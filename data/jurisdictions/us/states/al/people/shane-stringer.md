@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 102"
+represents: "us/states/al/districts/house/102"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shane Stringer
 
 Current AL House District 102 (AL State House of Representatives District 102).
+
+Represents [AL State House of Representatives District 102](/us/states/al/districts/house/102.md).
 
 ## Sources
 

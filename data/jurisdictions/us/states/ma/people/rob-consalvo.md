@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 14th Suffolk"
+represents: "us/states/ma/districts/house/14th-suffolk"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Consalvo
 
 Current MA House District 14th Suffolk (MA State House of Representatives District 14th Suffolk).
+
+Represents [MA State House of Representatives District 14th Suffolk](/us/states/ma/districts/house/14th-suffolk.md).
 
 ## Sources
 

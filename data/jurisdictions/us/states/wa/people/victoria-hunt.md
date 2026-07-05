@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 5"
+represents: "us/states/wa/districts/senate/5"
 tenure:
   start: "2025-06-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Victoria Hunt
 
 Current WA Senate District 5 (WA State Senate District 5).
+
+Represents [WA State Senate District 5](/us/states/wa/districts/senate/5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 49"
+represents: "us/states/ca/districts/49"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Mike Levin
 
 Current U.S. House of Representatives - CA-49 (Congressional District 49).
+
+Represents [Congressional District 49](/us/states/ca/districts/49.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 12"
+represents: "us/states/al/districts/house/12"
 tenure:
   start: "2025-10-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Myrex
 
 Current AL House District 12 (AL State House of Representatives District 12).
+
+Represents [AL State House of Representatives District 12](/us/states/al/districts/house/12.md).
 
 ## Sources
 

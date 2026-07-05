@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 146"
+represents: "us/states/me/districts/house/146"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerry Runte
 
 Current ME House District 146 (ME State House of Representatives District 146).
+
+Represents [ME State House of Representatives District 146](/us/states/me/districts/house/146.md).
 
 ## Sources
 

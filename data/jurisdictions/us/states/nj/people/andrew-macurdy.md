@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 21"
+represents: "us/states/nj/districts/house/21"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Macurdy
 
 Current NJ House District 21 (NJ State House of Representatives District 21).
+
+Represents [NJ State House of Representatives District 21](/us/states/nj/districts/house/21.md).
 
 ## Sources
 

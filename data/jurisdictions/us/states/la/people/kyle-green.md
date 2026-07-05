@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 83"
+represents: "us/states/la/districts/house/83"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Green
 
 Current LA House District 83 (LA State House of Representatives District 83).
+
+Represents [LA State House of Representatives District 83](/us/states/la/districts/house/83.md).
 
 ## Sources
 

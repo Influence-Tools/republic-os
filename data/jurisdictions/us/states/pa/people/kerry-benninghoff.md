@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 171"
+represents: "us/states/pa/districts/house/171"
 tenure:
   start: "1997-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kerry Benninghoff
 
 Current PA House District 171 (PA State House of Representatives District 171).
+
+Represents [PA State House of Representatives District 171](/us/states/pa/districts/house/171.md).
 
 ## Sources
 

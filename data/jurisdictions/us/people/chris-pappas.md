@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NH"
 district: "Congressional District 1"
+represents: "us/states/nh/districts/01"
 committees:
   - name: "House Committee on Transportation and Infrastructure"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Chris Pappas
 
 Current U.S. House of Representatives - NH-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/nh/districts/01.md).
 
 ## Committees
 

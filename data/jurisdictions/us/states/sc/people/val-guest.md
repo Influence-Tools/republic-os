@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 106"
+represents: "us/states/sc/districts/house/106"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Val Guest
 
 Current SC House District 106 (SC State House of Representatives District 106).
+
+Represents [SC State House of Representatives District 106](/us/states/sc/districts/house/106.md).
 
 ## Sources
 

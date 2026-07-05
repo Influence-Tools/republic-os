@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 4"
+represents: "us/states/tx/districts/senate/4"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brett Ligon
 
 Current TX Senate District 4 (TX State Senate District 4).
+
+Represents [TX State Senate District 4](/us/states/tx/districts/senate/4.md).
 
 ## Sources
 

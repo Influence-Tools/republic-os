@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 20"
+represents: "us/states/co/districts/senate/20"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Cutter
 
 Current CO Senate District 20 (CO State Senate District 20).
+
+Represents [CO State Senate District 20](/us/states/co/districts/senate/20.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-10"
+represents: "us/states/vt/districts/house/chittenden-10"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Nugent
 
 Current VT House District Chittenden-10 (VT State House of Representatives District Chittenden-10).
+
+Represents [VT State House of Representatives District Chittenden-10](/us/states/vt/districts/house/chittenden-10.md).
 
 ## Sources
 

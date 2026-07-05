@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 25"
+represents: "us/states/me/districts/house/25"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laurie Osher
 
 Current ME House District 25 (ME State House of Representatives District 25).
+
+Represents [ME State House of Representatives District 25](/us/states/me/districts/house/25.md).
 
 ## Sources
 

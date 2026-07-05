@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 28"
+represents: "us/states/de/districts/house/28"
 tenure:
   start: "2009-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Carson
 
 Current DE House District 28 (DE State House of Representatives District 28).
+
+Represents [DE State House of Representatives District 28](/us/states/de/districts/house/28.md).
 
 ## Sources
 

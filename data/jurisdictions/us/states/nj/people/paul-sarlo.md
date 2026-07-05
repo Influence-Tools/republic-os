@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 36"
+represents: "us/states/nj/districts/senate/36"
 tenure:
   start: "2003-05-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Sarlo
 
 Current NJ Senate District 36 (NJ State Senate District 36).
+
+Represents [NJ State Senate District 36](/us/states/nj/districts/senate/36.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 41"
+represents: "us/states/va/districts/house/41"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lily Franklin
 
 Current VA House District 41 (VA State House of Representatives District 41).
+
+Represents [VA State House of Representatives District 41](/us/states/va/districts/house/41.md).
 
 ## Sources
 

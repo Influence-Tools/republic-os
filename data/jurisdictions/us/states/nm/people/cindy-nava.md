@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 9"
+represents: "us/states/nm/districts/senate/9"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Nava
 
 Current NM Senate District 9 (NM State Senate District 9).
+
+Represents [NM State Senate District 9](/us/states/nm/districts/senate/9.md).
 
 ## Sources
 

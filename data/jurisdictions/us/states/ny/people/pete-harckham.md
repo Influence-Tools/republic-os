@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 40"
+represents: "us/states/ny/districts/senate/40"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pete Harckham
 
 Current NY Senate District 40 (NY State Senate District 40).
+
+Represents [NY State Senate District 40](/us/states/ny/districts/senate/40.md).
 
 ## Sources
 

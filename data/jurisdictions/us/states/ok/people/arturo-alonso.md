@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 89"
+represents: "us/states/ok/districts/house/89"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arturo Alonso
 
 Current OK House District 89 (OK State House of Representatives District 89).
+
+Represents [OK State House of Representatives District 89](/us/states/ok/districts/house/89.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 22"
+represents: "us/states/nj/districts/house/22"
 tenure:
   start: "2018-05-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Carter
 
 Current NJ House District 22 (NJ State House of Representatives District 22).
+
+Represents [NJ State House of Representatives District 22](/us/states/nj/districts/house/22.md).
 
 ## Sources
 

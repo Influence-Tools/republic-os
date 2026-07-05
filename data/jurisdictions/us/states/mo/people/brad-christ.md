@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 96"
+represents: "us/states/mo/districts/house/96"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Christ
 
 Current MO House District 96 (MO State House of Representatives District 96).
+
+Represents [MO State House of Representatives District 96](/us/states/mo/districts/house/96.md).
 
 ## Sources
 

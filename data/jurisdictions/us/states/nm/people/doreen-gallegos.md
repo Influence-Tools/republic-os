@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 52"
+represents: "us/states/nm/districts/house/52"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doreen Gallegos
 
 Current NM House District 52 (NM State House of Representatives District 52).
+
+Represents [NM State House of Representatives District 52](/us/states/nm/districts/house/52.md).
 
 ## Sources
 

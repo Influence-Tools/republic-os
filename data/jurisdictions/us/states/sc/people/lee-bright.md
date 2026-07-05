@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 12"
+represents: "us/states/sc/districts/senate/12"
 tenure:
   start: "2026-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lee Bright
 
 Current SC Senate District 12 (SC State Senate District 12).
+
+Represents [SC State Senate District 12](/us/states/sc/districts/senate/12.md).
 
 ## Sources
 

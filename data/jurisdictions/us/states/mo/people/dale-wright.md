@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 116"
+represents: "us/states/mo/districts/house/116"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dale Wright
 
 Current MO House District 116 (MO State House of Representatives District 116).
+
+Represents [MO State House of Representatives District 116](/us/states/mo/districts/house/116.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 29"
+represents: "us/states/la/districts/house/29"
 tenure:
   start: "2016-05-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Edmond Jordan
 
 Current LA House District 29 (LA State House of Representatives District 29).
+
+Represents [LA State House of Representatives District 29](/us/states/la/districts/house/29.md).
 
 ## Sources
 

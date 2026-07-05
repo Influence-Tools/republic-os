@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 14"
+represents: "us/states/nc/districts/house/14"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wyatt Gable
 
 Current NC House District 14 (NC State House of Representatives District 14).
+
+Represents [NC State House of Representatives District 14](/us/states/nc/districts/house/14.md).
 
 ## Sources
 

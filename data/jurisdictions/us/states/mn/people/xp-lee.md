@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 34B"
+represents: "us/states/mn/districts/house/34b"
 tenure:
   start: "2025-09-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Xp Lee
 
 Current MN House District 34B (MN State House of Representatives District 34B).
+
+Represents [MN State House of Representatives District 34B](/us/states/mn/districts/house/34b.md).
 
 ## Sources
 

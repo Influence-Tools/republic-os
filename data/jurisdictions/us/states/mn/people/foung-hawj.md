@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 67"
+represents: "us/states/mn/districts/senate/67"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Foung Hawj
 
 Current MN Senate District 67 (MN State Senate District 67).
+
+Represents [MN State Senate District 67](/us/states/mn/districts/senate/67.md).
 
 ## Sources
 

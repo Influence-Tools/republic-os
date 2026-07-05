@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 9"
+represents: "us/states/nh/districts/senate/9"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Ricciardi
 
 Current NH Senate District 9 (NH State Senate District 9).
+
+Represents [NH State Senate District 9](/us/states/nh/districts/senate/9.md).
 
 ## Sources
 

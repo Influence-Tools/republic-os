@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 120"
+represents: "us/states/sc/districts/house/120"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Weston Newton
 
 Current SC House District 120 (SC State House of Representatives District 120).
+
+Represents [SC State House of Representatives District 120](/us/states/sc/districts/house/120.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 91"
+represents: "us/states/va/districts/house/91"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cliff Hayes
 
 Current VA House District 91 (VA State House of Representatives District 91).
+
+Represents [VA State House of Representatives District 91](/us/states/va/districts/house/91.md).
 
 ## Sources
 

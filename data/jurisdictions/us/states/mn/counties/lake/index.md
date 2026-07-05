@@ -22,9 +22,24 @@ demographics:
   race_native: 46
   hispanic: 164
   bachelors_plus: 3017
+districts:
+  - to: "us/states/mn/districts/08"
+    rel: in-district
+    area_weight: 0.7661
+  - to: "us/states/mn/districts/senate/3"
+    rel: in-district
+    area_weight: 0.7664
+  - to: "us/states/mn/districts/house/3a"
+    rel: in-district
+    area_weight: 0.7541
+  - to: "us/states/mn/districts/house/3b"
+    rel: in-district
+    area_weight: 0.0124
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mn]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 164 |
 | Bachelor's or higher | 3017 |
 
+## Districts
+
+- [MN-08](/us/states/mn/districts/08.md) — 77% (congressional)
+- [MN Senate District 3](/us/states/mn/districts/senate/3.md) — 77% (state senate)
+- [MN House District 3A](/us/states/mn/districts/house/3a.md) — 75% (state house)
+- [MN House District 3B](/us/states/mn/districts/house/3b.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

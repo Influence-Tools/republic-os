@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 96"
+represents: "us/states/la/districts/house/96"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcus Bryant
 
 Current LA House District 96 (LA State House of Representatives District 96).
+
+Represents [LA State House of Representatives District 96](/us/states/la/districts/house/96.md).
 
 ## Sources
 

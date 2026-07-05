@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 84"
+represents: "us/states/ia/districts/house/84"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Gerhold
 
 Current IA House District 84 (IA State House of Representatives District 84).
+
+Represents [IA State House of Representatives District 84](/us/states/ia/districts/house/84.md).
 
 ## Sources
 

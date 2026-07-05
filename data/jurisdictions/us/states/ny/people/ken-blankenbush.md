@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 117"
+represents: "us/states/ny/districts/house/117"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Blankenbush
 
 Current NY House District 117 (NY State House of Representatives District 117).
+
+Represents [NY State House of Representatives District 117](/us/states/ny/districts/house/117.md).
 
 ## Sources
 

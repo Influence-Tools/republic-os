@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 34"
+represents: "us/states/ny/districts/house/34"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica González-Rojas
 
 Current NY House District 34 (NY State House of Representatives District 34).
+
+Represents [NY State House of Representatives District 34](/us/states/ny/districts/house/34.md).
 
 ## Sources
 

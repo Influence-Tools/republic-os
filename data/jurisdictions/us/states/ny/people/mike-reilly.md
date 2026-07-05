@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 62"
+represents: "us/states/ny/districts/house/62"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Reilly
 
 Current NY House District 62 (NY State House of Representatives District 62).
+
+Represents [NY State House of Representatives District 62](/us/states/ny/districts/house/62.md).
 
 ## Sources
 

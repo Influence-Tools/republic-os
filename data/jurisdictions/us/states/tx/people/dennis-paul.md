@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 129"
+represents: "us/states/tx/districts/house/129"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Paul
 
 Current TX House District 129 (TX State House of Representatives District 129).
+
+Represents [TX State House of Representatives District 129](/us/states/tx/districts/house/129.md).
 
 ## Sources
 

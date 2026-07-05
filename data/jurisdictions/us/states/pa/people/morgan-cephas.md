@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 192"
+represents: "us/states/pa/districts/house/192"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Morgan Cephas
 
 Current PA House District 192 (PA State House of Representatives District 192).
+
+Represents [PA State House of Representatives District 192](/us/states/pa/districts/house/192.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 26"
+represents: "us/states/nc/districts/senate/26"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Berger
 
 Current NC Senate District 26 (NC State Senate District 26).
+
+Represents [NC State Senate District 26](/us/states/nc/districts/senate/26.md).
 
 ## Sources
 

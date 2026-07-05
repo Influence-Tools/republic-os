@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 15"
+represents: "us/states/va/districts/senate/15"
 tenure:
   start: "2026-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Jones
 
 Current VA Senate District 15 (VA State Senate District 15).
+
+Represents [VA State Senate District 15](/us/states/va/districts/senate/15.md).
 
 ## Sources
 

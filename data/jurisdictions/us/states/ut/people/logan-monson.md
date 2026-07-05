@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 69"
+represents: "us/states/ut/districts/house/69"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Logan Monson
 
 Current UT House District 69 (UT State House of Representatives District 69).
+
+Represents [UT State House of Representatives District 69](/us/states/ut/districts/house/69.md).
 
 ## Sources
 

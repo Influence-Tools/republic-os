@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 27"
+represents: "us/states/ky/districts/house/27"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nancy Tate
 
 Current KY House District 27 (KY State House of Representatives District 27).
+
+Represents [KY State House of Representatives District 27](/us/states/ky/districts/house/27.md).
 
 ## Sources
 

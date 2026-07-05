@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 32"
+represents: "us/states/la/districts/house/32"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dewith Carrier
 
 Current LA House District 32 (LA State House of Representatives District 32).
+
+Represents [LA State House of Representatives District 32](/us/states/la/districts/house/32.md).
 
 ## Sources
 

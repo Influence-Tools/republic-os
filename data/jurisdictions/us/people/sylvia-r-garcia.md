@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 29"
+represents: "us/states/tx/districts/29"
 committees:
   - name: "House Committee on Ethics"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Sylvia R. Garcia
 
 Current U.S. House of Representatives - TX-29 (Congressional District 29).
+
+Represents [Congressional District 29](/us/states/tx/districts/29.md).
 
 ## Committees
 

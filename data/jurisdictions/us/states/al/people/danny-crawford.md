@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 5"
+represents: "us/states/al/districts/house/5"
 tenure:
   start: "2016-02-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Crawford
 
 Current AL House District 5 (AL State House of Representatives District 5).
+
+Represents [AL State House of Representatives District 5](/us/states/al/districts/house/5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 91"
+represents: "us/states/ks/districts/house/91"
 tenure:
   start: "2018-01-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emil Bergquist
 
 Current KS House District 91 (KS State House of Representatives District 91).
+
+Represents [KS State House of Representatives District 91](/us/states/ks/districts/house/91.md).
 
 ## Sources
 

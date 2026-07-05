@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 13"
+represents: "us/states/in/districts/senate/13"
 tenure:
   start: "2010-12-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Glick
 
 Current IN Senate District 13 (IN State Senate District 13).
+
+Represents [IN State Senate District 13](/us/states/in/districts/senate/13.md).
 
 ## Sources
 

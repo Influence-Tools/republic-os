@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MO"
 district: "Congressional District 2"
+represents: "us/states/mo/districts/02"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Ann Wagner
 
 Current U.S. House of Representatives - MO-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/mo/districts/02.md).
 
 ## Committees
 

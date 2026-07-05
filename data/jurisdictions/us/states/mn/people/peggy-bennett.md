@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 23A"
+represents: "us/states/mn/districts/house/23a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peggy Bennett
 
 Current MN House District 23A (MN State House of Representatives District 23A).
+
+Represents [MN State House of Representatives District 23A](/us/states/mn/districts/house/23a.md).
 
 ## Sources
 

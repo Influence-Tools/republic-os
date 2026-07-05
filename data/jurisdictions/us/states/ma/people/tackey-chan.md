@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Norfolk"
+represents: "us/states/ma/districts/house/2nd-norfolk"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tackey Chan
 
 Current MA House District 2nd Norfolk (MA State House of Representatives District 2nd Norfolk).
+
+Represents [MA State House of Representatives District 2nd Norfolk](/us/states/ma/districts/house/2nd-norfolk.md).
 
 ## Sources
 

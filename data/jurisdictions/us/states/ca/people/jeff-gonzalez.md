@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 36"
+represents: "us/states/ca/districts/house/36"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Gonzalez
 
 Current CA House District 36 (CA State House of Representatives District 36).
+
+Represents [CA State House of Representatives District 36](/us/states/ca/districts/house/36.md).
 
 ## Sources
 

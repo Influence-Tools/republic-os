@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 77"
+represents: "us/states/pa/districts/house/77"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Conklin
 
 Current PA House District 77 (PA State House of Representatives District 77).
+
+Represents [PA State House of Representatives District 77](/us/states/pa/districts/house/77.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 36"
+represents: "us/states/sc/districts/senate/36"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Zell
 
 Current SC Senate District 36 (SC State Senate District 36).
+
+Represents [SC State Senate District 36](/us/states/sc/districts/senate/36.md).
 
 ## Sources
 

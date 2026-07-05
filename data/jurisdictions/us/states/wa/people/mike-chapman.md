@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 24"
+represents: "us/states/wa/districts/senate/24"
 tenure:
   start: "2024-12-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Chapman
 
 Current WA Senate District 24 (WA State Senate District 24).
+
+Represents [WA State Senate District 24](/us/states/wa/districts/senate/24.md).
 
 ## Sources
 

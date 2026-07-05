@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 22"
+represents: "us/states/pa/districts/senate/22"
 tenure:
   start: "2021-06-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Flynn
 
 Current PA Senate District 22 (PA State Senate District 22).
+
+Represents [PA State Senate District 22](/us/states/pa/districts/senate/22.md).
 
 ## Sources
 

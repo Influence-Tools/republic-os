@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Chittenden Southeast"
+represents: "us/states/vt/districts/senate/chittenden-southeast"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Chittenden
 
 Current VT Senate District Chittenden Southeast (VT State Senate District Chittenden Southeast).
+
+Represents [VT State Senate District Chittenden Southeast](/us/states/vt/districts/senate/chittenden-southeast.md).
 
 ## Sources
 

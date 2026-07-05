@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "SC"
 district: "Congressional District 6"
+represents: "us/states/sc/districts/06"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # James E. Clyburn
 
 Current U.S. House of Representatives - SC-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/sc/districts/06.md).
 
 ## Committees
 

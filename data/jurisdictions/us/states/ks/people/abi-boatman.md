@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 86"
+represents: "us/states/ks/districts/house/86"
 tenure:
   start: "2026-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Abi Boatman
 
 Current KS House District 86 (KS State House of Representatives District 86).
+
+Represents [KS State House of Representatives District 86](/us/states/ks/districts/house/86.md).
 
 ## Sources
 

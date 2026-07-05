@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 15"
+represents: "us/states/va/districts/house/15"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Jane Cohen
 
 Current VA House District 15 (VA State House of Representatives District 15).
+
+Represents [VA State House of Representatives District 15](/us/states/va/districts/house/15.md).
 
 ## Sources
 

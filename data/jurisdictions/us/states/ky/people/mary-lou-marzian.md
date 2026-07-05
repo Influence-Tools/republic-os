@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 41"
+represents: "us/states/ky/districts/house/41"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Lou Marzian
 
 Current KY House District 41 (KY State House of Representatives District 41).
+
+Represents [KY State House of Representatives District 41](/us/states/ky/districts/house/41.md).
 
 ## Sources
 

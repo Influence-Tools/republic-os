@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 60"
+represents: "us/states/wi/districts/house/60"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry O'Connor
 
 Current WI House District 60 (WI State House of Representatives District 60).
+
+Represents [WI State House of Representatives District 60](/us/states/wi/districts/house/60.md).
 
 ## Sources
 

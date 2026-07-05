@@ -22,9 +22,24 @@ demographics:
   race_native: 925
   hispanic: 3928
   bachelors_plus: 3996
+districts:
+  - to: "us/states/nv/districts/02"
+    rel: in-district
+    area_weight: 0.9863
+  - to: "us/states/nv/districts/04"
+    rel: in-district
+    area_weight: 0.0137
+  - to: "us/states/nv/districts/senate/17"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/nv/districts/house/38"
+    rel: in-district
+    area_weight: 0.9999
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nv]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 3928 |
 | Bachelor's or higher | 3996 |
 
+## Districts
+
+- [NV-02](/us/states/nv/districts/02.md) — 99% (congressional)
+- [NV-04](/us/states/nv/districts/04.md) — 1% (congressional)
+- [NV Senate District 17](/us/states/nv/districts/senate/17.md) — 100% (state senate)
+- [NV House District 38](/us/states/nv/districts/house/38.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

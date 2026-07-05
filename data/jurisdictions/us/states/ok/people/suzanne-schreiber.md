@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 70"
+represents: "us/states/ok/districts/house/70"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Suzanne Schreiber
 
 Current OK House District 70 (OK State House of Representatives District 70).
+
+Represents [OK State House of Representatives District 70](/us/states/ok/districts/house/70.md).
 
 ## Sources
 

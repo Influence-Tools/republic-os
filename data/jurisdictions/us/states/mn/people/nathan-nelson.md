@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 11B"
+represents: "us/states/mn/districts/house/11b"
 tenure:
   start: "2019-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathan Nelson
 
 Current MN House District 11B (MN State House of Representatives District 11B).
+
+Represents [MN State House of Representatives District 11B](/us/states/mn/districts/house/11b.md).
 
 ## Sources
 

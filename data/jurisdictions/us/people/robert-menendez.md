@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 8"
+represents: "us/states/nj/districts/08"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Robert Menendez
 
 Current U.S. House of Representatives - NJ-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/nj/districts/08.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 36"
+represents: "us/states/ny/districts/house/36"
 tenure:
   start: "2026-02-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Diana Moreno
 
 Current NY House District 36 (NY State House of Representatives District 36).
+
+Represents [NY State House of Representatives District 36](/us/states/ny/districts/house/36.md).
 
 ## Sources
 

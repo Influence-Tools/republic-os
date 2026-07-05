@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 18"
+represents: "us/states/sc/districts/house/18"
 tenure:
   start: "2022-06-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alan Morgan
 
 Current SC House District 18 (SC State House of Representatives District 18).
+
+Represents [SC State House of Representatives District 18](/us/states/sc/districts/house/18.md).
 
 ## Sources
 

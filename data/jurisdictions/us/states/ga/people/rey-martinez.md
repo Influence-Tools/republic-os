@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 111"
+represents: "us/states/ga/districts/house/111"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rey Martinez
 
 Current GA House District 111 (GA State House of Representatives District 111).
+
+Represents [GA State House of Representatives District 111](/us/states/ga/districts/house/111.md).
 
 ## Sources
 

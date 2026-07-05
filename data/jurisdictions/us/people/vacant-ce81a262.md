@@ -7,6 +7,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 14"
+represents: "us/states/ca/districts/14"
 tenure:
   start: "2025-01-03"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Vacant
 
 Current U.S. House of Representatives - CA-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/ca/districts/14.md).
 
 ## Sources
 

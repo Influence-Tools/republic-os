@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 33"
+represents: "us/states/oh/districts/house/33"
 tenure:
   start: "2024-02-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Veronica Sims
 
 Current OH House District 33 (OH State House of Representatives District 33).
+
+Represents [OH State House of Representatives District 33](/us/states/oh/districts/house/33.md).
 
 ## Sources
 

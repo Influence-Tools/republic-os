@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Third Essex"
+represents: "us/states/ma/districts/senate/third-essex"
 tenure:
   start: "2018-03-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brendan Crighton
 
 Current MA Senate District Third Essex (MA State Senate District Third Essex).
+
+Represents [MA State Senate District Third Essex](/us/states/ma/districts/senate/third-essex.md).
 
 ## Sources
 

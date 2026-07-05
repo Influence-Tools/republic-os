@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 82"
+represents: "us/states/al/districts/house/82"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pebblin Warren
 
 Current AL House District 82 (AL State House of Representatives District 82).
+
+Represents [AL State House of Representatives District 82](/us/states/al/districts/house/82.md).
 
 ## Sources
 

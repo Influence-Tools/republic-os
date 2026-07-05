@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 47"
+represents: "us/states/ky/districts/house/47"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Felicia Rabourn
 
 Current KY House District 47 (KY State House of Representatives District 47).
+
+Represents [KY State House of Representatives District 47](/us/states/ky/districts/house/47.md).
 
 ## Sources
 

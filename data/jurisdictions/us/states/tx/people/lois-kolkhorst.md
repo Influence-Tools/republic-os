@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 18"
+represents: "us/states/tx/districts/senate/18"
 tenure:
   start: "2014-12-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lois Kolkhorst
 
 Current TX Senate District 18 (TX State Senate District 18).
+
+Represents [TX State Senate District 18](/us/states/tx/districts/senate/18.md).
 
 ## Sources
 

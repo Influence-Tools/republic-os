@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 31"
+represents: "us/states/tn/districts/senate/31"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Taylor
 
 Current TN Senate District 31 (TN State Senate District 31).
+
+Represents [TN State Senate District 31](/us/states/tn/districts/senate/31.md).
 
 ## Sources
 

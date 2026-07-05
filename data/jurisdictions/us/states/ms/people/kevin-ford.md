@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 54"
+represents: "us/states/ms/districts/house/54"
 tenure:
   start: "2017-12-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Ford
 
 Current MS House District 54 (MS State House of Representatives District 54).
+
+Represents [MS State House of Representatives District 54](/us/states/ms/districts/house/54.md).
 
 ## Sources
 

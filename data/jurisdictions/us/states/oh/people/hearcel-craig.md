@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 15"
+represents: "us/states/oh/districts/senate/15"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hearcel Craig
 
 Current OH Senate District 15 (OH State Senate District 15).
+
+Represents [OH State Senate District 15](/us/states/oh/districts/senate/15.md).
 
 ## Sources
 

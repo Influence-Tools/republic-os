@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 18"
+represents: "us/states/la/districts/senate/18"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Lambert
 
 Current LA Senate District 18 (LA State Senate District 18).
+
+Represents [LA State Senate District 18](/us/states/la/districts/senate/18.md).
 
 ## Sources
 

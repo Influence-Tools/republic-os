@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 30"
+represents: "us/states/tn/districts/senate/30"
 tenure:
   start: "2014-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sara Kyle
 
 Current TN Senate District 30 (TN State Senate District 30).
+
+Represents [TN State Senate District 30](/us/states/tn/districts/senate/30.md).
 
 ## Sources
 

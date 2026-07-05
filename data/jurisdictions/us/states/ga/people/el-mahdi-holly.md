@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 116"
+represents: "us/states/ga/districts/house/116"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # El-Mahdi Holly
 
 Current GA House District 116 (GA State House of Representatives District 116).
+
+Represents [GA State House of Representatives District 116](/us/states/ga/districts/house/116.md).
 
 ## Sources
 

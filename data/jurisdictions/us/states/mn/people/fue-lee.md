@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 59A"
+represents: "us/states/mn/districts/house/59a"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fue Lee
 
 Current MN House District 59A (MN State House of Representatives District 59A).
+
+Represents [MN State House of Representatives District 59A](/us/states/mn/districts/house/59a.md).
 
 ## Sources
 

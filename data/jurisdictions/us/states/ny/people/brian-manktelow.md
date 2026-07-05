@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 130"
+represents: "us/states/ny/districts/house/130"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Manktelow
 
 Current NY House District 130 (NY State House of Representatives District 130).
+
+Represents [NY State House of Representatives District 130](/us/states/ny/districts/house/130.md).
 
 ## Sources
 

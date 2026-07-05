@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 13"
+represents: "us/states/ca/districts/13"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Adam Gray
 
 Current U.S. House of Representatives - CA-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/ca/districts/13.md).
 
 ## Committees
 

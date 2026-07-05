@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 117"
+represents: "us/states/il/districts/house/117"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Windhorst
 
 Current IL House District 117 (IL State House of Representatives District 117).
+
+Represents [IL State House of Representatives District 117](/us/states/il/districts/house/117.md).
 
 ## Sources
 

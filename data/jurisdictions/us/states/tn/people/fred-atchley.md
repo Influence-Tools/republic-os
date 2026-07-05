@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 12"
+represents: "us/states/tn/districts/house/12"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fred Atchley
 
 Current TN House District 12 (TN State House of Representatives District 12).
+
+Represents [TN State House of Representatives District 12](/us/states/tn/districts/house/12.md).
 
 ## Sources
 

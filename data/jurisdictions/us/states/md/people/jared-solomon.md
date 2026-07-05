@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 18"
+represents: "us/states/md/districts/house/18"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Solomon
 
 Current MD House District 18 (MD State House of Representatives District 18).
+
+Represents [MD State House of Representatives District 18](/us/states/md/districts/house/18.md).
 
 ## Sources
 

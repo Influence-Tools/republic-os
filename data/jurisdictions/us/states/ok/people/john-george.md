@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 36"
+represents: "us/states/ok/districts/house/36"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John George
 
 Current OK House District 36 (OK State House of Representatives District 36).
+
+Represents [OK State House of Representatives District 36](/us/states/ok/districts/house/36.md).
 
 ## Sources
 

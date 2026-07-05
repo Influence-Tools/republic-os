@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 57"
+represents: "us/states/il/districts/house/57"
 tenure:
   start: "2024-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Katz Muhl
 
 Current IL House District 57 (IL State House of Representatives District 57).
+
+Represents [IL State House of Representatives District 57](/us/states/il/districts/house/57.md).
 
 ## Sources
 

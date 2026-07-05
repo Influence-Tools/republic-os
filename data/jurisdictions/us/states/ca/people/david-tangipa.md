@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 8"
+represents: "us/states/ca/districts/house/8"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Tangipa
 
 Current CA House District 8 (CA State House of Representatives District 8).
+
+Represents [CA State House of Representatives District 8](/us/states/ca/districts/house/8.md).
 
 ## Sources
 

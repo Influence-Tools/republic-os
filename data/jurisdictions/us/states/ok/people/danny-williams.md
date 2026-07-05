@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 28"
+represents: "us/states/ok/districts/house/28"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Williams
 
 Current OK House District 28 (OK State House of Representatives District 28).
+
+Represents [OK State House of Representatives District 28](/us/states/ok/districts/house/28.md).
 
 ## Sources
 

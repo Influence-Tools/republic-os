@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 76"
+represents: "us/states/ms/districts/house/76"
 tenure:
   start: "2000-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Holloway
 
 Current MS House District 76 (MS State House of Representatives District 76).
+
+Represents [MS State House of Representatives District 76](/us/states/ms/districts/house/76.md).
 
 ## Sources
 

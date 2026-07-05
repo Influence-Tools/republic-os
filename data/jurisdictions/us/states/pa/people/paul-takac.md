@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 82"
+represents: "us/states/pa/districts/house/82"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Takac
 
 Current PA House District 82 (PA State House of Representatives District 82).
+
+Represents [PA State House of Representatives District 82](/us/states/pa/districts/house/82.md).
 
 ## Sources
 

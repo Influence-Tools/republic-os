@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 27"
+represents: "us/states/de/districts/house/27"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Morrison
 
 Current DE House District 27 (DE State House of Representatives District 27).
+
+Represents [DE State House of Representatives District 27](/us/states/de/districts/house/27.md).
 
 ## Sources
 

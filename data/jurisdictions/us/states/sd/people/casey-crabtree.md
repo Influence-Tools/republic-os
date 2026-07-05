@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 8"
+represents: "us/states/sd/districts/senate/8"
 tenure:
   start: "2020-07-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Casey Crabtree
 
 Current SD Senate District 8 (SD State Senate District 8).
+
+Represents [SD State Senate District 8](/us/states/sd/districts/senate/8.md).
 
 ## Sources
 

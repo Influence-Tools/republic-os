@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 15"
+represents: "us/states/ks/districts/house/15"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Bohi
 
 Current KS House District 15 (KS State House of Representatives District 15).
+
+Represents [KS State House of Representatives District 15](/us/states/ks/districts/house/15.md).
 
 ## Sources
 

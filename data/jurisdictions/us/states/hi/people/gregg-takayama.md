@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 34"
+represents: "us/states/hi/districts/house/34"
 tenure:
   start: "2013-01-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregg Takayama
 
 Current HI House District 34 (HI State House of Representatives District 34).
+
+Represents [HI State House of Representatives District 34](/us/states/hi/districts/house/34.md).
 
 ## Sources
 

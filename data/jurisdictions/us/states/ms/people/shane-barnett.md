@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 86"
+represents: "us/states/ms/districts/house/86"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shane Barnett
 
 Current MS House District 86 (MS State House of Representatives District 86).
+
+Represents [MS State House of Representatives District 86](/us/states/ms/districts/house/86.md).
 
 ## Sources
 

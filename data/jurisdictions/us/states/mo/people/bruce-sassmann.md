@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 61"
+represents: "us/states/mo/districts/house/61"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Sassmann
 
 Current MO House District 61 (MO State House of Representatives District 61).
+
+Represents [MO State House of Representatives District 61](/us/states/mo/districts/house/61.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 38"
+represents: "us/states/oh/districts/house/38"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Desireè Tims
 
 Current OH House District 38 (OH State House of Representatives District 38).
+
+Represents [OH State House of Representatives District 38](/us/states/oh/districts/house/38.md).
 
 ## Sources
 

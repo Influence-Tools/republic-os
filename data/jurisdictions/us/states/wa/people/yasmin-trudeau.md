@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 27"
+represents: "us/states/wa/districts/senate/27"
 tenure:
   start: "2021-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yasmin Trudeau
 
 Current WA Senate District 27 (WA State Senate District 27).
+
+Represents [WA State Senate District 27](/us/states/wa/districts/senate/27.md).
 
 ## Sources
 

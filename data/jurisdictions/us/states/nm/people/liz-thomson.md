@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 24"
+represents: "us/states/nm/districts/house/24"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Thomson
 
 Current NM House District 24 (NM State House of Representatives District 24).
+
+Represents [NM State House of Representatives District 24](/us/states/nm/districts/house/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 41"
+represents: "us/states/nc/districts/senate/41"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Caleb Theodros
 
 Current NC Senate District 41 (NC State Senate District 41).
+
+Represents [NC State Senate District 41](/us/states/nc/districts/senate/41.md).
 
 ## Sources
 

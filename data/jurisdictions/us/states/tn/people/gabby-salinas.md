@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 96"
+represents: "us/states/tn/districts/house/96"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gabby Salinas
 
 Current TN House District 96 (TN State House of Representatives District 96).
+
+Represents [TN State House of Representatives District 96](/us/states/tn/districts/house/96.md).
 
 ## Sources
 

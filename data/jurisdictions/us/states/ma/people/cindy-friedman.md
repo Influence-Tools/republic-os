@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Fourth Middlesex"
+represents: "us/states/ma/districts/senate/fourth-middlesex"
 tenure:
   start: "2017-07-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Friedman
 
 Current MA Senate District Fourth Middlesex (MA State Senate District Fourth Middlesex).
+
+Represents [MA State Senate District Fourth Middlesex](/us/states/ma/districts/senate/fourth-middlesex.md).
 
 ## Sources
 

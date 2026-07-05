@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 20B"
+represents: "us/states/mn/districts/house/20b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Jacob
 
 Current MN House District 20B (MN State House of Representatives District 20B).
+
+Represents [MN State House of Representatives District 20B](/us/states/mn/districts/house/20b.md).
 
 ## Sources
 

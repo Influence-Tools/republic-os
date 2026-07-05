@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 20"
+represents: "us/states/or/districts/senate/20"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Meek
 
 Current OR Senate District 20 (OR State Senate District 20).
+
+Represents [OR State Senate District 20](/us/states/or/districts/senate/20.md).
 
 ## Sources
 

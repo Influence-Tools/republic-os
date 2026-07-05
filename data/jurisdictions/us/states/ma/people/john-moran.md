@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 9th Suffolk"
+represents: "us/states/ma/districts/house/9th-suffolk"
 tenure:
   start: "2023-06-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Moran
 
 Current MA House District 9th Suffolk (MA State House of Representatives District 9th Suffolk).
+
+Represents [MA State House of Representatives District 9th Suffolk](/us/states/ma/districts/house/9th-suffolk.md).
 
 ## Sources
 

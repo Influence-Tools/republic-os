@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 113"
+represents: "us/states/ms/districts/house/113"
 tenure:
   start: "2000-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hank Zuber
 
 Current MS House District 113 (MS State House of Representatives District 113).
+
+Represents [MS State House of Representatives District 113](/us/states/ms/districts/house/113.md).
 
 ## Sources
 

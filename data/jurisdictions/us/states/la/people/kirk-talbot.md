@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 10"
+represents: "us/states/la/districts/senate/10"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kirk Talbot
 
 Current LA Senate District 10 (LA State Senate District 10).
+
+Represents [LA State Senate District 10](/us/states/la/districts/senate/10.md).
 
 ## Sources
 

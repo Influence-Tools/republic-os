@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 40"
+represents: "us/states/ak/districts/house/40"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robyn Frier
 
 Current AK House District 40 (AK State House of Representatives District 40).
+
+Represents [AK State House of Representatives District 40](/us/states/ak/districts/house/40.md).
 
 ## Sources
 

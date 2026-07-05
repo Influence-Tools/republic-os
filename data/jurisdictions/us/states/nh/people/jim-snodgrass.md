@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 28"
+represents: "us/states/nh/districts/house/merrimack-28"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Snodgrass
 
 Current NH House District Merrimack 28 (NH State House of Representatives District Merrimack 28).
+
+Represents [NH State House of Representatives District Merrimack 28](/us/states/nh/districts/house/merrimack-28.md).
 
 ## Sources
 

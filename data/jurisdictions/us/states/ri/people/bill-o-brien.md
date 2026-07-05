@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 54"
+represents: "us/states/ri/districts/house/54"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill O'Brien
 
 Current RI House District 54 (RI State House of Representatives District 54).
+
+Represents [RI State House of Representatives District 54](/us/states/ri/districts/house/54.md).
 
 ## Sources
 

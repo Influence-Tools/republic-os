@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 73"
+represents: "us/states/ks/districts/house/73"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Wilborn
 
 Current KS House District 73 (KS State House of Representatives District 73).
+
+Represents [KS State House of Representatives District 73](/us/states/ks/districts/house/73.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 3"
+represents: "us/states/la/districts/senate/3"
 tenure:
   start: "2026-03-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sidney Barthelemy
 
 Current LA Senate District 3 (LA State Senate District 3).
+
+Represents [LA State Senate District 3](/us/states/la/districts/senate/3.md).
 
 ## Sources
 

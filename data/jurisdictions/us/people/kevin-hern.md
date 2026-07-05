@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OK"
 district: "Congressional District 1"
+represents: "us/states/ok/districts/01"
 leadership:
   - role: "House Republican Policy Committee Chair"
     body: "H"
@@ -50,6 +51,8 @@ timestamp: "2026-07-04"
 # Kevin Hern
 
 Current U.S. House of Representatives - OK-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ok/districts/01.md).
 
 ## Leadership
 

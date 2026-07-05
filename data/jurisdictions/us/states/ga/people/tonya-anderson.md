@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 43"
+represents: "us/states/ga/districts/senate/43"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tonya Anderson
 
 Current GA Senate District 43 (GA State Senate District 43).
+
+Represents [GA State Senate District 43](/us/states/ga/districts/senate/43.md).
 
 ## Sources
 

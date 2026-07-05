@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 35th Middlesex"
+represents: "us/states/ma/districts/house/35th-middlesex"
 tenure:
   start: "2001-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Donato
 
 Current MA House District 35th Middlesex (MA State House of Representatives District 35th Middlesex).
+
+Represents [MA State House of Representatives District 35th Middlesex](/us/states/ma/districts/house/35th-middlesex.md).
 
 ## Sources
 

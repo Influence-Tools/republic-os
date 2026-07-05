@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 28"
+represents: "us/states/ms/districts/house/28"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doc Harris
 
 Current MS House District 28 (MS State House of Representatives District 28).
+
+Represents [MS State House of Representatives District 28](/us/states/ms/districts/house/28.md).
 
 ## Sources
 

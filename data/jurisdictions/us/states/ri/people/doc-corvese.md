@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 55"
+represents: "us/states/ri/districts/house/55"
 tenure:
   start: "2003-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doc Corvese
 
 Current RI House District 55 (RI State House of Representatives District 55).
+
+Represents [RI State House of Representatives District 55](/us/states/ri/districts/house/55.md).
 
 ## Sources
 

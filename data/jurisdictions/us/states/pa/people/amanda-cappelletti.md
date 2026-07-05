@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 17"
+represents: "us/states/pa/districts/senate/17"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amanda Cappelletti
 
 Current PA Senate District 17 (PA State Senate District 17).
+
+Represents [PA State Senate District 17](/us/states/pa/districts/senate/17.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 47"
+represents: "us/states/nc/districts/senate/47"
 tenure:
   start: "2011-01-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ralph Hise
 
 Current NC Senate District 47 (NC State Senate District 47).
+
+Represents [NC State Senate District 47](/us/states/nc/districts/senate/47.md).
 
 ## Sources
 

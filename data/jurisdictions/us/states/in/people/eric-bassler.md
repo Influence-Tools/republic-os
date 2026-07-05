@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 39"
+represents: "us/states/in/districts/senate/39"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Bassler
 
 Current IN Senate District 39 (IN State Senate District 39).
+
+Represents [IN State Senate District 39](/us/states/in/districts/senate/39.md).
 
 ## Sources
 

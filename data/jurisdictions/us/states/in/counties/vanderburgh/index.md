@@ -22,9 +22,36 @@ demographics:
   race_native: 445
   hispanic: 6830
   bachelors_plus: 46203
+districts:
+  - to: "us/states/in/districts/08"
+    rel: in-district
+    area_weight: 0.9946
+  - to: "us/states/ky/districts/01"
+    rel: in-district
+    area_weight: 0.0054
+  - to: "us/states/in/districts/senate/49"
+    rel: in-district
+    area_weight: 0.7899
+  - to: "us/states/in/districts/senate/50"
+    rel: in-district
+    area_weight: 0.2093
+  - to: "us/states/in/districts/house/76"
+    rel: in-district
+    area_weight: 0.3827
+  - to: "us/states/in/districts/house/64"
+    rel: in-district
+    area_weight: 0.3014
+  - to: "us/states/in/districts/house/78"
+    rel: in-district
+    area_weight: 0.1896
+  - to: "us/states/in/districts/house/77"
+    rel: in-district
+    area_weight: 0.1254
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, in]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 6830 |
 | Bachelor's or higher | 46203 |
 
+## Districts
+
+- [IN-08](/us/states/in/districts/08.md) — 99% (congressional)
+- [KY-01](/us/states/ky/districts/01.md) — 1% (congressional)
+- [IN Senate District 49](/us/states/in/districts/senate/49.md) — 79% (state senate)
+- [IN Senate District 50](/us/states/in/districts/senate/50.md) — 21% (state senate)
+- [IN House District 76](/us/states/in/districts/house/76.md) — 38% (state house)
+- [IN House District 64](/us/states/in/districts/house/64.md) — 30% (state house)
+- [IN House District 78](/us/states/in/districts/house/78.md) — 19% (state house)
+- [IN House District 77](/us/states/in/districts/house/77.md) — 13% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

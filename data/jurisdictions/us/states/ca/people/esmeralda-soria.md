@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 27"
+represents: "us/states/ca/districts/house/27"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Esmeralda Soria
 
 Current CA House District 27 (CA State House of Representatives District 27).
+
+Represents [CA State House of Representatives District 27](/us/states/ca/districts/house/27.md).
 
 ## Sources
 

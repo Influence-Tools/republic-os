@@ -22,9 +22,15 @@ demographics:
   race_native: 141
   hispanic: 1016
   bachelors_plus: 14698
+districts:
+  - to: "us/states/vt/districts/00"
+    rel: in-district
+    area_weight: 0.9997
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, vt]
 timestamp: "2026-07-03"
@@ -56,6 +62,11 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 1016 |
 | Bachelor's or higher | 14698 |
 
+## Districts
+
+- [VT-00](/us/states/vt/districts/00.md) — 100% (congressional)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

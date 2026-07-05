@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 1"
+represents: "us/states/ut/districts/house/1"
 tenure:
   start: "2022-09-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Peterson
 
 Current UT House District 1 (UT State House of Representatives District 1).
+
+Represents [UT State House of Representatives District 1](/us/states/ut/districts/house/1.md).
 
 ## Sources
 

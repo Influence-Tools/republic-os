@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 4B"
+represents: "us/states/mn/districts/house/4b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Joy
 
 Current MN House District 4B (MN State House of Representatives District 4B).
+
+Represents [MN State House of Representatives District 4B](/us/states/mn/districts/house/4b.md).
 
 ## Sources
 

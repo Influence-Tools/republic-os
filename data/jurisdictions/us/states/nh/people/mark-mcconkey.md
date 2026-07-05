@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 3"
+represents: "us/states/nh/districts/senate/3"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark McConkey
 
 Current NH Senate District 3 (NH State Senate District 3).
+
+Represents [NH State Senate District 3](/us/states/nh/districts/senate/3.md).
 
 ## Sources
 

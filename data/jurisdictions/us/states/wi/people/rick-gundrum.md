@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 58"
+represents: "us/states/wi/districts/house/58"
 tenure:
   start: "2018-01-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Gundrum
 
 Current WI House District 58 (WI State House of Representatives District 58).
+
+Represents [WI State House of Representatives District 58](/us/states/wi/districts/house/58.md).
 
 ## Sources
 

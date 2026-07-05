@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 29"
+represents: "us/states/ok/districts/senate/29"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Daniels
 
 Current OK Senate District 29 (OK State Senate District 29).
+
+Represents [OK State Senate District 29](/us/states/ok/districts/senate/29.md).
 
 ## Sources
 

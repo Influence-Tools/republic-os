@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 11"
+represents: "us/states/va/districts/senate/11"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Creigh Deeds
 
 Current VA Senate District 11 (VA State Senate District 11).
+
+Represents [VA State Senate District 11](/us/states/va/districts/senate/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MN"
 district: "Congressional District 7"
+represents: "us/states/mn/districts/07"
 committees:
   - name: "House Committee on Rules"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Michelle Fischbach
 
 Current U.S. House of Representatives - MN-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/mn/districts/07.md).
 
 ## Committees
 

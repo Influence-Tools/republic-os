@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 3"
+represents: "us/states/ca/districts/03"
 tenure:
   start: "2025-01-03"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Kevin Kiley
 
 Current U.S. House of Representatives - CA-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ca/districts/03.md).
 
 ## Sources
 

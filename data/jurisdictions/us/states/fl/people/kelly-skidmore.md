@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 92"
+represents: "us/states/fl/districts/house/92"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Skidmore
 
 Current FL House District 92 (FL State House of Representatives District 92).
+
+Represents [FL State House of Representatives District 92](/us/states/fl/districts/house/92.md).
 
 ## Sources
 

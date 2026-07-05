@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 19B"
+represents: "us/states/id/districts/house/19b"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Mathias
 
 Current ID House District 19B (ID State House of Representatives District 19B).
+
+Represents [ID State House of Representatives District 19B](/us/states/id/districts/house/19b.md).
 
 ## Sources
 

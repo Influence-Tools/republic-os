@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 24"
+represents: "us/states/mi/districts/house/24"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ranjeev Puri
 
 Current MI House District 24 (MI State House of Representatives District 24).
+
+Represents [MI State House of Representatives District 24](/us/states/mi/districts/house/24.md).
 
 ## Sources
 

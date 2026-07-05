@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 11"
+represents: "us/states/mn/districts/senate/11"
 tenure:
   start: "2019-02-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Rarick
 
 Current MN Senate District 11 (MN State Senate District 11).
+
+Represents [MN State Senate District 11](/us/states/mn/districts/senate/11.md).
 
 ## Sources
 

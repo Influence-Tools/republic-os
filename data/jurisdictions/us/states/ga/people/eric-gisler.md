@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 121"
+represents: "us/states/ga/districts/house/121"
 tenure:
   start: "2026-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Gisler
 
 Current GA House District 121 (GA State House of Representatives District 121).
+
+Represents [GA State House of Representatives District 121](/us/states/ga/districts/house/121.md).
 
 ## Sources
 

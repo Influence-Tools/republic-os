@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 8"
+represents: "us/states/va/districts/house/8"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Irene Shin
 
 Current VA House District 8 (VA State House of Representatives District 8).
+
+Represents [VA State House of Representatives District 8](/us/states/va/districts/house/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 32"
+represents: "us/states/mn/districts/senate/32"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Kreun
 
 Current MN Senate District 32 (MN State Senate District 32).
+
+Represents [MN State Senate District 32](/us/states/mn/districts/senate/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Orleans"
+represents: "us/states/vt/districts/senate/orleans"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Douglass
 
 Current VT Senate District Orleans (VT State Senate District Orleans).
+
+Represents [VT State Senate District Orleans](/us/states/vt/districts/senate/orleans.md).
 
 ## Sources
 

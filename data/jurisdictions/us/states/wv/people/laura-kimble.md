@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 71"
+represents: "us/states/wv/districts/house/71"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Kimble
 
 Current WV House District 71 (WV State House of Representatives District 71).
+
+Represents [WV State House of Representatives District 71](/us/states/wv/districts/house/71.md).
 
 ## Sources
 

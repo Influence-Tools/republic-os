@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 28"
+represents: "us/states/wi/districts/house/28"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Kreibich
 
 Current WI House District 28 (WI State House of Representatives District 28).
+
+Represents [WI State House of Representatives District 28](/us/states/wi/districts/house/28.md).
 
 ## Sources
 

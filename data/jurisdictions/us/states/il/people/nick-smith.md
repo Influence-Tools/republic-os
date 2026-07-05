@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 34"
+represents: "us/states/il/districts/house/34"
 tenure:
   start: "2018-01-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Smith
 
 Current IL House District 34 (IL State House of Representatives District 34).
+
+Represents [IL State House of Representatives District 34](/us/states/il/districts/house/34.md).
 
 ## Sources
 

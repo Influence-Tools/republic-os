@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 46"
+represents: "us/states/mo/districts/house/46"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Smith
 
 Current MO House District 46 (MO State House of Representatives District 46).
+
+Represents [MO State House of Representatives District 46](/us/states/mo/districts/house/46.md).
 
 ## Sources
 

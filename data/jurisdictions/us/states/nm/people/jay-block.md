@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 12"
+represents: "us/states/nm/districts/senate/12"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Block
 
 Current NM Senate District 12 (NM State Senate District 12).
+
+Represents [NM State Senate District 12](/us/states/nm/districts/senate/12.md).
 
 ## Sources
 

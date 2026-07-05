@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 37"
+represents: "us/states/fl/districts/house/37"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Plasencia
 
 Current FL House District 37 (FL State House of Representatives District 37).
+
+Represents [FL State House of Representatives District 37](/us/states/fl/districts/house/37.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 13"
+represents: "us/states/nh/districts/house/rockingham-13"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katherine Prudhomme-O'Brien
 
 Current NH House District Rockingham 13 (NH State House of Representatives District Rockingham 13).
+
+Represents [NH State House of Representatives District Rockingham 13](/us/states/nh/districts/house/rockingham-13.md).
 
 ## Sources
 

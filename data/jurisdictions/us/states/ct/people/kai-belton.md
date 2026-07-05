@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 100"
+represents: "us/states/ct/districts/house/100"
 tenure:
   start: "2023-03-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kai Belton
 
 Current CT House District 100 (CT State House of Representatives District 100).
+
+Represents [CT State House of Representatives District 100](/us/states/ct/districts/house/100.md).
 
 ## Sources
 

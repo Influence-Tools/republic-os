@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 10"
+represents: "us/states/wi/districts/senate/10"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Stafsholt
 
 Current WI Senate District 10 (WI State Senate District 10).
+
+Represents [WI State Senate District 10](/us/states/wi/districts/senate/10.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 97"
+represents: "us/states/ny/districts/house/97"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aron Wieder
 
 Current NY House District 97 (NY State House of Representatives District 97).
+
+Represents [NY State House of Representatives District 97](/us/states/ny/districts/house/97.md).
 
 ## Sources
 

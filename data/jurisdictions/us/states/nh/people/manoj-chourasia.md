@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 11"
+represents: "us/states/nh/districts/house/hillsborough-11"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Manoj Chourasia
 
 Current NH House District Hillsborough 11 (NH State House of Representatives District Hillsborough 11).
+
+Represents [NH State House of Representatives District Hillsborough 11](/us/states/nh/districts/house/hillsborough-11.md).
 
 ## Sources
 

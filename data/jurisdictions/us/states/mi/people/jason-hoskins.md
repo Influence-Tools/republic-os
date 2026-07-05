@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 18"
+represents: "us/states/mi/districts/house/18"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Hoskins
 
 Current MI House District 18 (MI State House of Representatives District 18).
+
+Represents [MI State House of Representatives District 18](/us/states/mi/districts/house/18.md).
 
 ## Sources
 

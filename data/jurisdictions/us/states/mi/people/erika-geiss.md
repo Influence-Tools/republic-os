@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 1"
+represents: "us/states/mi/districts/senate/1"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erika Geiss
 
 Current MI Senate District 1 (MI State Senate District 1).
+
+Represents [MI State Senate District 1](/us/states/mi/districts/senate/1.md).
 
 ## Sources
 

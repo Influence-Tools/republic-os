@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 8"
+represents: "us/states/il/districts/08"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Raja Krishnamoorthi
 
 Current U.S. House of Representatives - IL-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/il/districts/08.md).
 
 ## Committees
 

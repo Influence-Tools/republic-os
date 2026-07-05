@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 65A"
+represents: "us/states/mn/districts/house/65a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Samakab Hussein
 
 Current MN House District 65A (MN State House of Representatives District 65A).
+
+Represents [MN State House of Representatives District 65A](/us/states/mn/districts/house/65a.md).
 
 ## Sources
 

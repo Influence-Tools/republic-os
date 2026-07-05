@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 67"
+represents: "us/states/wi/districts/house/67"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Armstrong
 
 Current WI House District 67 (WI State House of Representatives District 67).
+
+Represents [WI State House of Representatives District 67](/us/states/wi/districts/house/67.md).
 
 ## Sources
 

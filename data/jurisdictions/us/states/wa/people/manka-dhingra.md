@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 45"
+represents: "us/states/wa/districts/senate/45"
 tenure:
   start: "2017-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Manka Dhingra
 
 Current WA Senate District 45 (WA State Senate District 45).
+
+Represents [WA State Senate District 45](/us/states/wa/districts/senate/45.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 169"
+represents: "us/states/pa/districts/house/169"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Klunk
 
 Current PA House District 169 (PA State House of Representatives District 169).
+
+Represents [PA State House of Representatives District 169](/us/states/pa/districts/house/169.md).
 
 ## Sources
 

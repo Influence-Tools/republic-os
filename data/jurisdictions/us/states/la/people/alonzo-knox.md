@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 93"
+represents: "us/states/la/districts/house/93"
 tenure:
   start: "2023-04-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alonzo Knox
 
 Current LA House District 93 (LA State House of Representatives District 93).
+
+Represents [LA State House of Representatives District 93](/us/states/la/districts/house/93.md).
 
 ## Sources
 

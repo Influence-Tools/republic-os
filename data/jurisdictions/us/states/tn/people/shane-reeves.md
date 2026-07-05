@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 14"
+represents: "us/states/tn/districts/senate/14"
 tenure:
   start: "2018-03-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shane Reeves
 
 Current TN Senate District 14 (TN State Senate District 14).
+
+Represents [TN State Senate District 14](/us/states/tn/districts/senate/14.md).
 
 ## Sources
 

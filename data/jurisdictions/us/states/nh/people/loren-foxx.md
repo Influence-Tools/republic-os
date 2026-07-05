@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 2"
+represents: "us/states/nh/districts/house/hillsborough-2"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Loren Foxx
 
 Current NH House District Hillsborough 2 (NH State House of Representatives District Hillsborough 2).
+
+Represents [NH State House of Representatives District Hillsborough 2](/us/states/nh/districts/house/hillsborough-2.md).
 
 ## Sources
 

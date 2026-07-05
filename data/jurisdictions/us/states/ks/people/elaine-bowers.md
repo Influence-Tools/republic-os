@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 36"
+represents: "us/states/ks/districts/senate/36"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elaine Bowers
 
 Current KS Senate District 36 (KS State Senate District 36).
+
+Represents [KS State Senate District 36](/us/states/ks/districts/senate/36.md).
 
 ## Sources
 

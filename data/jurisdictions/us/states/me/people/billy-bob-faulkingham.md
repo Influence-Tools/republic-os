@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 12"
+represents: "us/states/me/districts/house/12"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy Bob Faulkingham
 
 Current ME House District 12 (ME State House of Representatives District 12).
+
+Represents [ME State House of Representatives District 12](/us/states/me/districts/house/12.md).
 
 ## Sources
 

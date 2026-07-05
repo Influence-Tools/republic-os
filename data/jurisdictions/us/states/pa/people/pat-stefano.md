@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 32"
+represents: "us/states/pa/districts/senate/32"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Stefano
 
 Current PA Senate District 32 (PA State Senate District 32).
+
+Represents [PA State Senate District 32](/us/states/pa/districts/senate/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 184"
+represents: "us/states/pa/districts/house/184"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elizabeth Fiedler
 
 Current PA House District 184 (PA State House of Representatives District 184).
+
+Represents [PA State House of Representatives District 184](/us/states/pa/districts/house/184.md).
 
 ## Sources
 

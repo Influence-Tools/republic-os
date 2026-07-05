@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 18"
+represents: "us/states/az/districts/house/18"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Mathis
 
 Current AZ House District 18 (AZ State House of Representatives District 18).
+
+Represents [AZ State House of Representatives District 18](/us/states/az/districts/house/18.md).
 
 ## Sources
 

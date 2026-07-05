@@ -22,9 +22,30 @@ demographics:
   race_native: 119
   hispanic: 2011
   bachelors_plus: 9542
+districts:
+  - to: "us/states/ga/districts/07"
+    rel: in-district
+    area_weight: 0.9897
+  - to: "us/states/ga/districts/09"
+    rel: in-district
+    area_weight: 0.0103
+  - to: "us/states/ga/districts/senate/51"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ga/districts/house/9"
+    rel: in-district
+    area_weight: 0.9185
+  - to: "us/states/ga/districts/house/27"
+    rel: in-district
+    area_weight: 0.0759
+  - to: "us/states/ga/districts/house/8"
+    rel: in-district
+    area_weight: 0.0056
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ga]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 2011 |
 | Bachelor's or higher | 9542 |
 
+## Districts
+
+- [GA-07](/us/states/ga/districts/07.md) — 99% (congressional)
+- [GA-09](/us/states/ga/districts/09.md) — 1% (congressional)
+- [GA Senate District 51](/us/states/ga/districts/senate/51.md) — 100% (state senate)
+- [GA House District 9](/us/states/ga/districts/house/9.md) — 92% (state house)
+- [GA House District 27](/us/states/ga/districts/house/27.md) — 8% (state house)
+- [GA House District 8](/us/states/ga/districts/house/8.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

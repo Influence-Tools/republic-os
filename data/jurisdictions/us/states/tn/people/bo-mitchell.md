@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 50"
+represents: "us/states/tn/districts/house/50"
 tenure:
   start: "2012-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bo Mitchell
 
 Current TN House District 50 (TN State House of Representatives District 50).
+
+Represents [TN State House of Representatives District 50](/us/states/tn/districts/house/50.md).
 
 ## Sources
 

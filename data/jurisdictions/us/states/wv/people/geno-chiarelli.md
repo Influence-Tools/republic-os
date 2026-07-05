@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 78"
+represents: "us/states/wv/districts/house/78"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Geno Chiarelli
 
 Current WV House District 78 (WV State House of Representatives District 78).
+
+Represents [WV State House of Representatives District 78](/us/states/wv/districts/house/78.md).
 
 ## Sources
 

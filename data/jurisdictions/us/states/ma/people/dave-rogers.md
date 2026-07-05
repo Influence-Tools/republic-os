@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 24th Middlesex"
+represents: "us/states/ma/districts/house/24th-middlesex"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Rogers
 
 Current MA House District 24th Middlesex (MA State House of Representatives District 24th Middlesex).
+
+Represents [MA State House of Representatives District 24th Middlesex](/us/states/ma/districts/house/24th-middlesex.md).
 
 ## Sources
 

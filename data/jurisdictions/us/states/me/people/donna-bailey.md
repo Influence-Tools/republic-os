@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 31"
+represents: "us/states/me/districts/senate/31"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Bailey
 
 Current ME Senate District 31 (ME State Senate District 31).
+
+Represents [ME State Senate District 31](/us/states/me/districts/senate/31.md).
 
 ## Sources
 

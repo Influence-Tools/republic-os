@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 30"
+represents: "us/states/ar/districts/senate/30"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Leding
 
 Current AR Senate District 30 (AR State Senate District 30).
+
+Represents [AR State Senate District 30](/us/states/ar/districts/senate/30.md).
 
 ## Sources
 

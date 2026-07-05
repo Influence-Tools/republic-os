@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 32"
+represents: "us/states/in/districts/senate/32"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Freeman
 
 Current IN Senate District 32 (IN State Senate District 32).
+
+Represents [IN State Senate District 32](/us/states/in/districts/senate/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 17"
+represents: "us/states/nh/districts/house/rockingham-17"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katelyn Kuttab
 
 Current NH House District Rockingham 17 (NH State House of Representatives District Rockingham 17).
+
+Represents [NH State House of Representatives District Rockingham 17](/us/states/nh/districts/house/rockingham-17.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 21"
+represents: "us/states/wy/districts/senate/21"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bo Biteman
 
 Current WY Senate District 21 (WY State Senate District 21).
+
+Represents [WY State Senate District 21](/us/states/wy/districts/senate/21.md).
 
 ## Sources
 

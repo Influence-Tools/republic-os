@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 3"
+represents: "us/states/ca/districts/senate/3"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christopher Cabaldon
 
 Current CA Senate District 3 (CA State Senate District 3).
+
+Represents [CA State Senate District 3](/us/states/ca/districts/senate/3.md).
 
 ## Sources
 

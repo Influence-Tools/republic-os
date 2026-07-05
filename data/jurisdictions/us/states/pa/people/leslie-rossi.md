@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 59"
+represents: "us/states/pa/districts/house/59"
 tenure:
   start: "2021-06-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leslie Rossi
 
 Current PA House District 59 (PA State House of Representatives District 59).
+
+Represents [PA State House of Representatives District 59](/us/states/pa/districts/house/59.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 41"
+represents: "us/states/ok/districts/house/41"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Crosswhite Hader
 
 Current OK House District 41 (OK State House of Representatives District 41).
+
+Represents [OK State House of Representatives District 41](/us/states/ok/districts/house/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 21"
+represents: "us/states/me/districts/house/21"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ambureen Rana
 
 Current ME House District 21 (ME State House of Representatives District 21).
+
+Represents [ME State House of Representatives District 21](/us/states/me/districts/house/21.md).
 
 ## Sources
 

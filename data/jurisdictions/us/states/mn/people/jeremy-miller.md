@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 26"
+represents: "us/states/mn/districts/senate/26"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Miller
 
 Current MN Senate District 26 (MN State Senate District 26).
+
+Represents [MN State Senate District 26](/us/states/mn/districts/senate/26.md).
 
 ## Sources
 

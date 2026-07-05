@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 29"
+represents: "us/states/ok/districts/house/29"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Hilbert
 
 Current OK House District 29 (OK State House of Representatives District 29).
+
+Represents [OK State House of Representatives District 29](/us/states/ok/districts/house/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 73"
+represents: "us/states/oh/districts/house/73"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff LaRe
 
 Current OH House District 73 (OH State House of Representatives District 73).
+
+Represents [OH State House of Representatives District 73](/us/states/oh/districts/house/73.md).
 
 ## Sources
 

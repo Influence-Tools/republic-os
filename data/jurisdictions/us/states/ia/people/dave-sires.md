@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 38"
+represents: "us/states/ia/districts/senate/38"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Sires
 
 Current IA Senate District 38 (IA State Senate District 38).
+
+Represents [IA State Senate District 38](/us/states/ia/districts/senate/38.md).
 
 ## Sources
 

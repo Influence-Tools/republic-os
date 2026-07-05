@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 145"
+represents: "us/states/ga/districts/house/145"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tangie Herring
 
 Current GA House District 145 (GA State House of Representatives District 145).
+
+Represents [GA State House of Representatives District 145](/us/states/ga/districts/house/145.md).
 
 ## Sources
 

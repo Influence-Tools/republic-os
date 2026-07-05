@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MN"
 district: "Congressional District 8"
+represents: "us/states/mn/districts/08"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Pete Stauber
 
 Current U.S. House of Representatives - MN-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/mn/districts/08.md).
 
 ## Committees
 

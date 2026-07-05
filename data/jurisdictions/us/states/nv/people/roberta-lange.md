@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 7"
+represents: "us/states/nv/districts/senate/7"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roberta Lange
 
 Current NV Senate District 7 (NV State Senate District 7).
+
+Represents [NV State Senate District 7](/us/states/nv/districts/senate/7.md).
 
 ## Sources
 

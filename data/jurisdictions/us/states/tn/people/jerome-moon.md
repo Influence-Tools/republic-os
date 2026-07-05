@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 8"
+represents: "us/states/tn/districts/house/8"
 tenure:
   start: "2017-12-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerome Moon
 
 Current TN House District 8 (TN State House of Representatives District 8).
+
+Represents [TN State House of Representatives District 8](/us/states/tn/districts/house/8.md).
 
 ## Sources
 

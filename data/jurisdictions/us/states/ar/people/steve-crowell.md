@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 3"
+represents: "us/states/ar/districts/senate/3"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Crowell
 
 Current AR Senate District 3 (AR State Senate District 3).
+
+Represents [AR State Senate District 3](/us/states/ar/districts/senate/3.md).
 
 ## Sources
 

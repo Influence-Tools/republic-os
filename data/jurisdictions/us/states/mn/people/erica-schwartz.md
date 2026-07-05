@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 18A"
+represents: "us/states/mn/districts/house/18a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erica Schwartz
 
 Current MN House District 18A (MN State House of Representatives District 18A).
+
+Represents [MN State House of Representatives District 18A](/us/states/mn/districts/house/18a.md).
 
 ## Sources
 

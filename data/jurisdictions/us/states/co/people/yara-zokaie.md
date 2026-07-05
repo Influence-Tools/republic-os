@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 52"
+represents: "us/states/co/districts/house/52"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yara Zokaie
 
 Current CO House District 52 (CO State House of Representatives District 52).
+
+Represents [CO State House of Representatives District 52](/us/states/co/districts/house/52.md).
 
 ## Sources
 

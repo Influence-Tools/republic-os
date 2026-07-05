@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 34"
+represents: "us/states/fl/districts/house/34"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robbie Brackett
 
 Current FL House District 34 (FL State House of Representatives District 34).
+
+Represents [FL State House of Representatives District 34](/us/states/fl/districts/house/34.md).
 
 ## Sources
 

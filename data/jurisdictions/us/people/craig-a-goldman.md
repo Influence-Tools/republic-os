@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 12"
+represents: "us/states/tx/districts/12"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Craig A. Goldman
 
 Current U.S. House of Representatives - TX-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/tx/districts/12.md).
 
 ## Committees
 

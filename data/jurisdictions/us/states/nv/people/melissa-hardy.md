@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 22"
+represents: "us/states/nv/districts/house/22"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Hardy
 
 Current NV House District 22 (NV State House of Representatives District 22).
+
+Represents [NV State House of Representatives District 22](/us/states/nv/districts/house/22.md).
 
 ## Sources
 

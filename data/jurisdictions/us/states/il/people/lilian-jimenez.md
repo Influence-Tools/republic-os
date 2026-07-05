@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 4"
+represents: "us/states/il/districts/house/4"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lilian Jiménez
 
 Current IL House District 4 (IL State House of Representatives District 4).
+
+Represents [IL State House of Representatives District 4](/us/states/il/districts/house/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 28"
+represents: "us/states/md/districts/house/28"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debra Davis
 
 Current MD House District 28 (MD State House of Representatives District 28).
+
+Represents [MD State House of Representatives District 28](/us/states/md/districts/house/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 24"
+represents: "us/states/la/districts/senate/24"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerald Boudreaux
 
 Current LA Senate District 24 (LA State Senate District 24).
+
+Represents [LA State Senate District 24](/us/states/la/districts/senate/24.md).
 
 ## Sources
 

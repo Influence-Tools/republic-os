@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 74"
+represents: "us/states/tn/districts/house/74"
 tenure:
   start: "2014-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Reedy
 
 Current TN House District 74 (TN State House of Representatives District 74).
+
+Represents [TN State House of Representatives District 74](/us/states/tn/districts/house/74.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 16"
+represents: "us/states/sc/districts/house/16"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Willis
 
 Current SC House District 16 (SC State House of Representatives District 16).
+
+Represents [SC State House of Representatives District 16](/us/states/sc/districts/house/16.md).
 
 ## Sources
 

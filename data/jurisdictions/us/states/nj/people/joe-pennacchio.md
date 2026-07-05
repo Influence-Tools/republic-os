@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 26"
+represents: "us/states/nj/districts/senate/26"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Pennacchio
 
 Current NJ Senate District 26 (NJ State Senate District 26).
+
+Represents [NJ State Senate District 26](/us/states/nj/districts/senate/26.md).
 
 ## Sources
 

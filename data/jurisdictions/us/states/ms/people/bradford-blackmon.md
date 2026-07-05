@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 21"
+represents: "us/states/ms/districts/senate/21"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bradford Blackmon
 
 Current MS Senate District 21 (MS State Senate District 21).
+
+Represents [MS State Senate District 21](/us/states/ms/districts/senate/21.md).
 
 ## Sources
 

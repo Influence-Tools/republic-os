@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 12"
+represents: "us/states/ga/districts/12"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Rick W. Allen
 
 Current U.S. House of Representatives - GA-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/ga/districts/12.md).
 
 ## Committees
 

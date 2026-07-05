@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 10"
+represents: "us/states/ri/districts/senate/10"
 tenure:
   start: "2003-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Walter Felag
 
 Current RI Senate District 10 (RI State Senate District 10).
+
+Represents [RI State Senate District 10](/us/states/ri/districts/senate/10.md).
 
 ## Sources
 

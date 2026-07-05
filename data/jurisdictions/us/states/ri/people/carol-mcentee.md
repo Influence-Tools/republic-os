@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 33"
+represents: "us/states/ri/districts/house/33"
 tenure:
   start: "2015-06-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol McEntee
 
 Current RI House District 33 (RI State House of Representatives District 33).
+
+Represents [RI State House of Representatives District 33](/us/states/ri/districts/house/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 34"
+represents: "us/states/tx/districts/34"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Vicente Gonzalez
 
 Current U.S. House of Representatives - TX-34 (Congressional District 34).
+
+Represents [Congressional District 34](/us/states/tx/districts/34.md).
 
 ## Committees
 

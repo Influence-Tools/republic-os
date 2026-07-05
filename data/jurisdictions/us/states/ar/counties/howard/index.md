@@ -22,9 +22,27 @@ demographics:
   race_native: 12
   hispanic: 1582
   bachelors_plus: 1807
+districts:
+  - to: "us/states/ar/districts/04"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ar/districts/senate/4"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/ar/districts/house/86"
+    rel: in-district
+    area_weight: 0.6247
+  - to: "us/states/ar/districts/house/88"
+    rel: in-district
+    area_weight: 0.3047
+  - to: "us/states/ar/districts/house/87"
+    rel: in-district
+    area_weight: 0.0706
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ar]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 1582 |
 | Bachelor's or higher | 1807 |
 
+## Districts
+
+- [AR-04](/us/states/ar/districts/04.md) — 100% (congressional)
+- [AR Senate District 4](/us/states/ar/districts/senate/4.md) — 100% (state senate)
+- [AR House District 86](/us/states/ar/districts/house/86.md) — 62% (state house)
+- [AR House District 88](/us/states/ar/districts/house/88.md) — 30% (state house)
+- [AR House District 87](/us/states/ar/districts/house/87.md) — 7% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -22,9 +22,63 @@ demographics:
   race_native: 9941
   hispanic: 119500
   bachelors_plus: 268021
+districts:
+  - to: "us/states/wa/districts/08"
+    rel: in-district
+    area_weight: 0.6946
+  - to: "us/states/wa/districts/10"
+    rel: in-district
+    area_weight: 0.1554
+  - to: "us/states/wa/districts/06"
+    rel: in-district
+    area_weight: 0.1009
+  - to: "us/states/wa/districts/senate/2"
+    rel: in-district
+    area_weight: 0.4119
+  - to: "us/states/wa/districts/senate/31"
+    rel: in-district
+    area_weight: 0.293
+  - to: "us/states/wa/districts/senate/28"
+    rel: in-district
+    area_weight: 0.0902
+  - to: "us/states/wa/districts/senate/26"
+    rel: in-district
+    area_weight: 0.0636
+  - to: "us/states/wa/districts/senate/25"
+    rel: in-district
+    area_weight: 0.0367
+  - to: "us/states/wa/districts/senate/27"
+    rel: in-district
+    area_weight: 0.0249
+  - to: "us/states/wa/districts/senate/29"
+    rel: in-district
+    area_weight: 0.0193
+  - to: "us/states/wa/districts/house/2"
+    rel: in-district
+    area_weight: 0.4119
+  - to: "us/states/wa/districts/house/31"
+    rel: in-district
+    area_weight: 0.293
+  - to: "us/states/wa/districts/house/28"
+    rel: in-district
+    area_weight: 0.0902
+  - to: "us/states/wa/districts/house/26"
+    rel: in-district
+    area_weight: 0.0636
+  - to: "us/states/wa/districts/house/25"
+    rel: in-district
+    area_weight: 0.0367
+  - to: "us/states/wa/districts/house/27"
+    rel: in-district
+    area_weight: 0.0249
+  - to: "us/states/wa/districts/house/29"
+    rel: in-district
+    area_weight: 0.0193
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wa]
 timestamp: "2026-07-03"
@@ -56,6 +110,27 @@ County jurisdiction — 7 officeholders mapped.
 | Hispanic/Latino | 119500 |
 | Bachelor's or higher | 268021 |
 
+## Districts
+
+- [WA-08](/us/states/wa/districts/08.md) — 69% (congressional)
+- [WA-10](/us/states/wa/districts/10.md) — 16% (congressional)
+- [WA-06](/us/states/wa/districts/06.md) — 10% (congressional)
+- [WA Senate District 2](/us/states/wa/districts/senate/2.md) — 41% (state senate)
+- [WA Senate District 31](/us/states/wa/districts/senate/31.md) — 29% (state senate)
+- [WA Senate District 28](/us/states/wa/districts/senate/28.md) — 9% (state senate)
+- [WA Senate District 26](/us/states/wa/districts/senate/26.md) — 6% (state senate)
+- [WA Senate District 25](/us/states/wa/districts/senate/25.md) — 4% (state senate)
+- [WA Senate District 27](/us/states/wa/districts/senate/27.md) — 2% (state senate)
+- [WA Senate District 29](/us/states/wa/districts/senate/29.md) — 2% (state senate)
+- [WA House District 2](/us/states/wa/districts/house/2.md) — 41% (state house)
+- [WA House District 31](/us/states/wa/districts/house/31.md) — 29% (state house)
+- [WA House District 28](/us/states/wa/districts/house/28.md) — 9% (state house)
+- [WA House District 26](/us/states/wa/districts/house/26.md) — 6% (state house)
+- [WA House District 25](/us/states/wa/districts/house/25.md) — 4% (state house)
+- [WA House District 27](/us/states/wa/districts/house/27.md) — 2% (state house)
+- [WA House District 29](/us/states/wa/districts/house/29.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 60"
+represents: "us/states/oh/districts/house/60"
 tenure:
   start: "2023-05-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Lorenz
 
 Current OH House District 60 (OH State House of Representatives District 60).
+
+Represents [OH State House of Representatives District 60](/us/states/oh/districts/house/60.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 24"
+represents: "us/states/wy/districts/house/24"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nina Webber
 
 Current WY House District 24 (WY State House of Representatives District 24).
+
+Represents [WY State House of Representatives District 24](/us/states/wy/districts/house/24.md).
 
 ## Sources
 

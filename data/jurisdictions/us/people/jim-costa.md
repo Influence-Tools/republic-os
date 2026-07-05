@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 21"
+represents: "us/states/ca/districts/21"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Jim Costa
 
 Current U.S. House of Representatives - CA-21 (Congressional District 21).
+
+Represents [Congressional District 21](/us/states/ca/districts/21.md).
 
 ## Committees
 

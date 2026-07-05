@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 25"
+represents: "us/states/in/districts/house/25"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Cash
 
 Current IN House District 25 (IN State House of Representatives District 25).
+
+Represents [IN State House of Representatives District 25](/us/states/in/districts/house/25.md).
 
 ## Sources
 

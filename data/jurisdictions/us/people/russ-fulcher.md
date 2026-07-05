@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "ID"
 district: "Congressional District 1"
+represents: "us/states/id/districts/01"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Russ Fulcher
 
 Current U.S. House of Representatives - ID-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/id/districts/01.md).
 
 ## Committees
 

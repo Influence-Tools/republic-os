@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 17"
+represents: "us/states/me/districts/house/17"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Bishop
 
 Current ME House District 17 (ME State House of Representatives District 17).
+
+Represents [ME State House of Representatives District 17](/us/states/me/districts/house/17.md).
 
 ## Sources
 

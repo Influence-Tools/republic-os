@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 75"
+represents: "us/states/ms/districts/house/75"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Celeste Hurst
 
 Current MS House District 75 (MS State House of Representatives District 75).
+
+Represents [MS State House of Representatives District 75](/us/states/ms/districts/house/75.md).
 
 ## Sources
 

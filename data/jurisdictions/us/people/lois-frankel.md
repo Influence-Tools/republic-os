@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 22"
+represents: "us/states/fl/districts/22"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Lois Frankel
 
 Current U.S. House of Representatives - FL-22 (Congressional District 22).
+
+Represents [Congressional District 22](/us/states/fl/districts/22.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 11"
+represents: "us/states/co/districts/senate/11"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Exum
 
 Current CO Senate District 11 (CO State Senate District 11).
+
+Represents [CO State Senate District 11](/us/states/co/districts/senate/11.md).
 
 ## Sources
 

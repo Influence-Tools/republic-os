@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 70"
+represents: "us/states/tn/districts/house/70"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clay Doggett
 
 Current TN House District 70 (TN State House of Representatives District 70).
+
+Represents [TN State House of Representatives District 70](/us/states/tn/districts/house/70.md).
 
 ## Sources
 

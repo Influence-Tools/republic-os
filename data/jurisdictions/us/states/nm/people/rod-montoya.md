@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 1"
+represents: "us/states/nm/districts/house/1"
 tenure:
   start: "2015-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rod Montoya
 
 Current NM House District 1 (NM State House of Representatives District 1).
+
+Represents [NM State House of Representatives District 1](/us/states/nm/districts/house/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 27"
+represents: "us/states/sc/districts/house/27"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Vaughan
 
 Current SC House District 27 (SC State House of Representatives District 27).
+
+Represents [SC State House of Representatives District 27](/us/states/sc/districts/house/27.md).
 
 ## Sources
 

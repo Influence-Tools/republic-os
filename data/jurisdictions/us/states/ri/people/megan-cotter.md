@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 39"
+represents: "us/states/ri/districts/house/39"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Megan Cotter
 
 Current RI House District 39 (RI State House of Representatives District 39).
+
+Represents [RI State House of Representatives District 39](/us/states/ri/districts/house/39.md).
 
 ## Sources
 

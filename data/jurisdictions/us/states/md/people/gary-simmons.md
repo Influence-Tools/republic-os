@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 12B"
+represents: "us/states/md/districts/house/12b"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Simmons
 
 Current MD House District 12B (MD State House of Representatives District 12B).
+
+Represents [MD State House of Representatives District 12B](/us/states/md/districts/house/12b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 82"
+represents: "us/states/wv/districts/house/82"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave McCormick
 
 Current WV House District 82 (WV State House of Representatives District 82).
+
+Represents [WV State House of Representatives District 82](/us/states/wv/districts/house/82.md).
 
 ## Sources
 

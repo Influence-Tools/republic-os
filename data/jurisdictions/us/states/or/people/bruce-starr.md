@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 12"
+represents: "us/states/or/districts/senate/12"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Starr
 
 Current OR Senate District 12 (OR State Senate District 12).
+
+Represents [OR State Senate District 12](/us/states/or/districts/senate/12.md).
 
 ## Sources
 

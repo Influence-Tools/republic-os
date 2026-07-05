@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 50"
+represents: "us/states/nc/districts/house/50"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Renée Price
 
 Current NC House District 50 (NC State House of Representatives District 50).
+
+Represents [NC State House of Representatives District 50](/us/states/nc/districts/house/50.md).
 
 ## Sources
 

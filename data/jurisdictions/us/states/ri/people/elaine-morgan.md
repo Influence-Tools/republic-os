@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 34"
+represents: "us/states/ri/districts/senate/34"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elaine Morgan
 
 Current RI Senate District 34 (RI State Senate District 34).
+
+Represents [RI State Senate District 34](/us/states/ri/districts/senate/34.md).
 
 ## Sources
 

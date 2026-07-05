@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 118"
+represents: "us/states/ks/districts/house/118"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Minnix
 
 Current KS House District 118 (KS State House of Representatives District 118).
+
+Represents [KS State House of Representatives District 118](/us/states/ks/districts/house/118.md).
 
 ## Sources
 

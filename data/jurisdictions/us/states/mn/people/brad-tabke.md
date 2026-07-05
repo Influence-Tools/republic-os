@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 54A"
+represents: "us/states/mn/districts/house/54a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Tabke
 
 Current MN House District 54A (MN State House of Representatives District 54A).
+
+Represents [MN State House of Representatives District 54A](/us/states/mn/districts/house/54a.md).
 
 ## Sources
 

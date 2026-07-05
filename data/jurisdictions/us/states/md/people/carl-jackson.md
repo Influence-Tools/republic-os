@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 8"
+represents: "us/states/md/districts/senate/8"
 tenure:
   start: "2025-02-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Jackson
 
 Current MD Senate District 8 (MD State Senate District 8).
+
+Represents [MD State Senate District 8](/us/states/md/districts/senate/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 96"
+represents: "us/states/ok/districts/house/96"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Preston Stinson
 
 Current OK House District 96 (OK State House of Representatives District 96).
+
+Represents [OK State House of Representatives District 96](/us/states/ok/districts/house/96.md).
 
 ## Sources
 

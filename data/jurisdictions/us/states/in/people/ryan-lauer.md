@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 59"
+represents: "us/states/in/districts/house/59"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Lauer
 
 Current IN House District 59 (IN State House of Representatives District 59).
+
+Represents [IN State House of Representatives District 59](/us/states/in/districts/house/59.md).
 
 ## Sources
 

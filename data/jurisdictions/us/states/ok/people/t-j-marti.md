@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 75"
+represents: "us/states/ok/districts/house/75"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # T.J. Marti
 
 Current OK House District 75 (OK State House of Representatives District 75).
+
+Represents [OK State House of Representatives District 75](/us/states/ok/districts/house/75.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 28A"
+represents: "us/states/mn/districts/house/28a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jimmy Gordon
 
 Current MN House District 28A (MN State House of Representatives District 28A).
+
+Represents [MN State House of Representatives District 28A](/us/states/mn/districts/house/28a.md).
 
 ## Sources
 

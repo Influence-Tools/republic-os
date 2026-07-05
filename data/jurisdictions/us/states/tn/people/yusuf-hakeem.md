@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 28"
+represents: "us/states/tn/districts/house/28"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yusuf Hakeem
 
 Current TN House District 28 (TN State House of Representatives District 28).
+
+Represents [TN State House of Representatives District 28](/us/states/tn/districts/house/28.md).
 
 ## Sources
 

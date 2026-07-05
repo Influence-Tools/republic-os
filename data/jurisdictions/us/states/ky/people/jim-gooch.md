@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 12"
+represents: "us/states/ky/districts/house/12"
 tenure:
   start: "2015-12-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Gooch
 
 Current KY House District 12 (KY State House of Representatives District 12).
+
+Represents [KY State House of Representatives District 12](/us/states/ky/districts/house/12.md).
 
 ## Sources
 

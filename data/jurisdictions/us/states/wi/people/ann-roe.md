@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 44"
+represents: "us/states/wi/districts/house/44"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Roe
 
 Current WI House District 44 (WI State House of Representatives District 44).
+
+Represents [WI State House of Representatives District 44](/us/states/wi/districts/house/44.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 190"
+represents: "us/states/pa/districts/house/190"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roni Green
 
 Current PA House District 190 (PA State House of Representatives District 190).
+
+Represents [PA State House of Representatives District 190](/us/states/pa/districts/house/190.md).
 
 ## Sources
 

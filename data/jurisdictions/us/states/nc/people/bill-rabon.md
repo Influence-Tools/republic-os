@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 8"
+represents: "us/states/nc/districts/senate/8"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Rabon
 
 Current NC Senate District 8 (NC State Senate District 8).
+
+Represents [NC State Senate District 8](/us/states/nc/districts/senate/8.md).
 
 ## Sources
 

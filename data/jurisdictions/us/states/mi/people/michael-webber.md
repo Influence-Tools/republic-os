@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 9"
+represents: "us/states/mi/districts/senate/9"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Webber
 
 Current MI Senate District 9 (MI State Senate District 9).
+
+Represents [MI State Senate District 9](/us/states/mi/districts/senate/9.md).
 
 ## Sources
 

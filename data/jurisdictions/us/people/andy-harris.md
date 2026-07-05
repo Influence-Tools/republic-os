@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 1"
+represents: "us/states/md/districts/01"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Andy Harris
 
 Current U.S. House of Representatives - MD-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/md/districts/01.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 13"
+represents: "us/states/il/districts/13"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Nikki Budzinski
 
 Current U.S. House of Representatives - IL-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/il/districts/13.md).
 
 ## Committees
 

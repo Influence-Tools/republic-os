@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 68"
+represents: "us/states/ny/districts/house/68"
 tenure:
   start: "2022-01-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Gibbs
 
 Current NY House District 68 (NY State House of Representatives District 68).
+
+Represents [NY State House of Representatives District 68](/us/states/ny/districts/house/68.md).
 
 ## Sources
 

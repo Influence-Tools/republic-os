@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 10"
+represents: "us/states/wv/districts/senate/10"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vince Deeds
 
 Current WV Senate District 10 (WV State Senate District 10).
+
+Represents [WV State Senate District 10](/us/states/wv/districts/senate/10.md).
 
 ## Sources
 

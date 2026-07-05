@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "SC"
 district: "Congressional District 1"
+represents: "us/states/sc/districts/01"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # Nancy Mace
 
 Current U.S. House of Representatives - SC-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/sc/districts/01.md).
 
 ## Committees
 

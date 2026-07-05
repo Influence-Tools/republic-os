@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 94"
+represents: "us/states/al/districts/house/94"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Fidler
 
 Current AL House District 94 (AL State House of Representatives District 94).
+
+Represents [AL State House of Representatives District 94](/us/states/al/districts/house/94.md).
 
 ## Sources
 

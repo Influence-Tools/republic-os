@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 124"
+represents: "us/states/me/districts/house/124"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sophie Warren
 
 Current ME House District 124 (ME State House of Representatives District 124).
+
+Represents [ME State House of Representatives District 124](/us/states/me/districts/house/124.md).
 
 ## Sources
 

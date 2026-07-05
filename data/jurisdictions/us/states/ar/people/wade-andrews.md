@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 98"
+represents: "us/states/ar/districts/house/98"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wade Andrews
 
 Current AR House District 98 (AR State House of Representatives District 98).
+
+Represents [AR State House of Representatives District 98](/us/states/ar/districts/house/98.md).
 
 ## Sources
 

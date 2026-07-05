@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OK"
 district: "Congressional District 3"
+represents: "us/states/ok/districts/03"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Frank D. Lucas
 
 Current U.S. House of Representatives - OK-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ok/districts/03.md).
 
 ## Committees
 

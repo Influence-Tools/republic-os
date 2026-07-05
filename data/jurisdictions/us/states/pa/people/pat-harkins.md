@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 1"
+represents: "us/states/pa/districts/house/1"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Harkins
 
 Current PA House District 1 (PA State House of Representatives District 1).
+
+Represents [PA State House of Representatives District 1](/us/states/pa/districts/house/1.md).
 
 ## Sources
 

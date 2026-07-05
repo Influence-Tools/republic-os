@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 8"
+represents: "us/states/hi/districts/house/8"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Tarnas
 
 Current HI House District 8 (HI State House of Representatives District 8).
+
+Represents [HI State House of Representatives District 8](/us/states/hi/districts/house/8.md).
 
 ## Sources
 

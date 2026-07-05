@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 17th Suffolk"
+represents: "us/states/ma/districts/house/17th-suffolk"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Honan
 
 Current MA House District 17th Suffolk (MA State House of Representatives District 17th Suffolk).
+
+Represents [MA State House of Representatives District 17th Suffolk](/us/states/ma/districts/house/17th-suffolk.md).
 
 ## Sources
 

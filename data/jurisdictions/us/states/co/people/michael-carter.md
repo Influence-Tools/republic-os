@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 36"
+represents: "us/states/co/districts/house/36"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Carter
 
 Current CO House District 36 (CO State House of Representatives District 36).
+
+Represents [CO State House of Representatives District 36](/us/states/co/districts/house/36.md).
 
 ## Sources
 

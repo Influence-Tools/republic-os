@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 32"
+represents: "us/states/mt/districts/house/32"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Fox
 
 Current MT House District 32 (MT State House of Representatives District 32).
+
+Represents [MT State House of Representatives District 32](/us/states/mt/districts/house/32.md).
 
 ## Sources
 

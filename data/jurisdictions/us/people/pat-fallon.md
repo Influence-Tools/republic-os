@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 4"
+represents: "us/states/tx/districts/04"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Pat Fallon
 
 Current U.S. House of Representatives - TX-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/tx/districts/04.md).
 
 ## Committees
 

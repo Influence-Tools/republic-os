@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 11"
+represents: "us/states/ny/districts/senate/11"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Toby Stavisky
 
 Current NY Senate District 11 (NY State Senate District 11).
+
+Represents [NY State Senate District 11](/us/states/ny/districts/senate/11.md).
 
 ## Sources
 

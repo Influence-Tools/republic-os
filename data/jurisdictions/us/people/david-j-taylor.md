@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 2"
+represents: "us/states/oh/districts/02"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # David J. Taylor
 
 Current U.S. House of Representatives - OH-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/oh/districts/02.md).
 
 ## Committees
 

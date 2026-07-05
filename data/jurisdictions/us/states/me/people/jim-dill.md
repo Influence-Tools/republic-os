@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 26"
+represents: "us/states/me/districts/house/26"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Dill
 
 Current ME House District 26 (ME State House of Representatives District 26).
+
+Represents [ME State House of Representatives District 26](/us/states/me/districts/house/26.md).
 
 ## Sources
 

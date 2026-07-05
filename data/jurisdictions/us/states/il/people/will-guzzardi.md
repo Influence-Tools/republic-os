@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 39"
+represents: "us/states/il/districts/house/39"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Guzzardi
 
 Current IL House District 39 (IL State House of Representatives District 39).
+
+Represents [IL State House of Representatives District 39](/us/states/il/districts/house/39.md).
 
 ## Sources
 

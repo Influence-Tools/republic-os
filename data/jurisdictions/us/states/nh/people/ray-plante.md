@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 27"
+represents: "us/states/nh/districts/house/merrimack-27"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Plante
 
 Current NH House District Merrimack 27 (NH State House of Representatives District Merrimack 27).
+
+Represents [NH State House of Representatives District Merrimack 27](/us/states/nh/districts/house/merrimack-27.md).
 
 ## Sources
 

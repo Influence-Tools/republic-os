@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 21"
+represents: "us/states/ut/districts/senate/21"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brady Brammer
 
 Current UT Senate District 21 (UT State Senate District 21).
+
+Represents [UT State Senate District 21](/us/states/ut/districts/senate/21.md).
 
 ## Sources
 

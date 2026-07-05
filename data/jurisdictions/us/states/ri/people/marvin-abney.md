@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 73"
+represents: "us/states/ri/districts/house/73"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marvin Abney
 
 Current RI House District 73 (RI State House of Representatives District 73).
+
+Represents [RI State House of Representatives District 73](/us/states/ri/districts/house/73.md).
 
 ## Sources
 

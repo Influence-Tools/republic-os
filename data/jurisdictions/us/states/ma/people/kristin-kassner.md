@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Essex"
+represents: "us/states/ma/districts/house/2nd-essex"
 tenure:
   start: "2023-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Kassner
 
 Current MA House District 2nd Essex (MA State House of Representatives District 2nd Essex).
+
+Represents [MA State House of Representatives District 2nd Essex](/us/states/ma/districts/house/2nd-essex.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 14"
+represents: "us/states/mi/districts/senate/14"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Shink
 
 Current MI Senate District 14 (MI State Senate District 14).
+
+Represents [MI State Senate District 14](/us/states/mi/districts/senate/14.md).
 
 ## Sources
 

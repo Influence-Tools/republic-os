@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 8"
+represents: "us/states/wi/districts/08"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # Tony Wied
 
 Current U.S. House of Representatives - WI-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/wi/districts/08.md).
 
 ## Committees
 

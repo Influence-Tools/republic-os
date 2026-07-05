@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 32"
+represents: "us/states/fl/districts/senate/32"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rosalind Osgood
 
 Current FL Senate District 32 (FL State Senate District 32).
+
+Represents [FL State Senate District 32](/us/states/fl/districts/senate/32.md).
 
 ## Sources
 

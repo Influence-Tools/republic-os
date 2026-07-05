@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 23"
+represents: "us/states/ar/districts/senate/23"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Flippo
 
 Current AR Senate District 23 (AR State Senate District 23).
+
+Represents [AR State Senate District 23](/us/states/ar/districts/senate/23.md).
 
 ## Sources
 

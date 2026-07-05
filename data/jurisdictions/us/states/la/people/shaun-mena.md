@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 23"
+represents: "us/states/la/districts/house/23"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shaun Mena
 
 Current LA House District 23 (LA State House of Representatives District 23).
+
+Represents [LA State House of Representatives District 23](/us/states/la/districts/house/23.md).
 
 ## Sources
 

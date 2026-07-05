@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 57"
+represents: "us/states/ct/districts/house/57"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaime Foster
 
 Current CT House District 57 (CT State House of Representatives District 57).
+
+Represents [CT State House of Representatives District 57](/us/states/ct/districts/house/57.md).
 
 ## Sources
 

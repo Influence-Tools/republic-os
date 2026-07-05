@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 58"
+represents: "us/states/ny/districts/house/58"
 tenure:
   start: "2022-05-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Monique Chandler-Waterman
 
 Current NY House District 58 (NY State House of Representatives District 58).
+
+Represents [NY State House of Representatives District 58](/us/states/ny/districts/house/58.md).
 
 ## Sources
 

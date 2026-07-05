@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 32"
+represents: "us/states/ky/districts/senate/32"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Wilson
 
 Current KY Senate District 32 (KY State Senate District 32).
+
+Represents [KY State Senate District 32](/us/states/ky/districts/senate/32.md).
 
 ## Sources
 

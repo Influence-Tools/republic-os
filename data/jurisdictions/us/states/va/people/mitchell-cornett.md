@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 46"
+represents: "us/states/va/districts/house/46"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mitchell Cornett
 
 Current VA House District 46 (VA State House of Representatives District 46).
+
+Represents [VA State House of Representatives District 46](/us/states/va/districts/house/46.md).
 
 ## Sources
 

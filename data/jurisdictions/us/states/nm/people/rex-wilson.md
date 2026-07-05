@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 33"
+represents: "us/states/nm/districts/senate/33"
 tenure:
   start: "2026-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rex Wilson
 
 Current NM Senate District 33 (NM State Senate District 33).
+
+Represents [NM State Senate District 33](/us/states/nm/districts/senate/33.md).
 
 ## Sources
 

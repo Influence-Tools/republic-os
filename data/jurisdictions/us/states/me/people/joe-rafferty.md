@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 34"
+represents: "us/states/me/districts/senate/34"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Rafferty
 
 Current ME Senate District 34 (ME State Senate District 34).
+
+Represents [ME State Senate District 34](/us/states/me/districts/senate/34.md).
 
 ## Sources
 

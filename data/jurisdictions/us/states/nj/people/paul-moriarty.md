@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 4"
+represents: "us/states/nj/districts/senate/4"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Moriarty
 
 Current NJ Senate District 4 (NJ State Senate District 4).
+
+Represents [NJ State Senate District 4](/us/states/nj/districts/senate/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 24"
+represents: "us/states/ia/districts/senate/24"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Green
 
 Current IA Senate District 24 (IA State Senate District 24).
+
+Represents [IA State Senate District 24](/us/states/ia/districts/senate/24.md).
 
 ## Sources
 

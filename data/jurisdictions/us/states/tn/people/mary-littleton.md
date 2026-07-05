@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 78"
+represents: "us/states/tn/districts/house/78"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Littleton
 
 Current TN House District 78 (TN State House of Representatives District 78).
+
+Represents [TN State House of Representatives District 78](/us/states/tn/districts/house/78.md).
 
 ## Sources
 

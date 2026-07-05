@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 49"
+represents: "us/states/mi/districts/house/49"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Bollin
 
 Current MI House District 49 (MI State House of Representatives District 49).
+
+Represents [MI State House of Representatives District 49](/us/states/mi/districts/house/49.md).
 
 ## Sources
 

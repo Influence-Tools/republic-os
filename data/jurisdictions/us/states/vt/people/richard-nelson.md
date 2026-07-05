@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Orleans-1"
+represents: "us/states/vt/districts/house/orleans-1"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Nelson
 
 Current VT House District Orleans-1 (VT State House of Representatives District Orleans-1).
+
+Represents [VT State House of Representatives District Orleans-1](/us/states/vt/districts/house/orleans-1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 56"
+represents: "us/states/co/districts/house/56"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Richardson
 
 Current CO House District 56 (CO State House of Representatives District 56).
+
+Represents [CO State House of Representatives District 56](/us/states/co/districts/house/56.md).
 
 ## Sources
 

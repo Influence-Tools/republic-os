@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 43"
+represents: "us/states/md/districts/senate/43"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Washington
 
 Current MD Senate District 43 (MD State Senate District 43).
+
+Represents [MD State Senate District 43](/us/states/md/districts/senate/43.md).
 
 ## Sources
 

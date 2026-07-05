@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 67"
+represents: "us/states/ct/districts/house/67"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy Buckbee
 
 Current CT House District 67 (CT State House of Representatives District 67).
+
+Represents [CT State House of Representatives District 67](/us/states/ct/districts/house/67.md).
 
 ## Sources
 

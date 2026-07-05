@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 84"
+represents: "us/states/va/districts/house/84"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nadarius Clark
 
 Current VA House District 84 (VA State House of Representatives District 84).
+
+Represents [VA State House of Representatives District 84](/us/states/va/districts/house/84.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 20"
+represents: "us/states/ri/districts/senate/20"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Thompson
 
 Current RI Senate District 20 (RI State Senate District 20).
+
+Represents [RI State Senate District 20](/us/states/ri/districts/senate/20.md).
 
 ## Sources
 

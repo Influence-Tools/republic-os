@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 74"
+represents: "us/states/ks/districts/house/74"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike King
 
 Current KS House District 74 (KS State House of Representatives District 74).
+
+Represents [KS State House of Representatives District 74](/us/states/ks/districts/house/74.md).
 
 ## Sources
 

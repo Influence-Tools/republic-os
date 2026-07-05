@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 24"
+represents: "us/states/ny/districts/senate/24"
 tenure:
   start: "2007-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Lanza
 
 Current NY Senate District 24 (NY State Senate District 24).
+
+Represents [NY State Senate District 24](/us/states/ny/districts/senate/24.md).
 
 ## Sources
 

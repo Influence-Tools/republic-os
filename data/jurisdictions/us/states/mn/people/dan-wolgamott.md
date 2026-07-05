@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 14B"
+represents: "us/states/mn/districts/house/14b"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Wolgamott
 
 Current MN House District 14B (MN State House of Representatives District 14B).
+
+Represents [MN State House of Representatives District 14B](/us/states/mn/districts/house/14b.md).
 
 ## Sources
 

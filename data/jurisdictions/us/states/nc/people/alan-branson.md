@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 59"
+represents: "us/states/nc/districts/house/59"
 tenure:
   start: "2024-04-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alan Branson
 
 Current NC House District 59 (NC State House of Representatives District 59).
+
+Represents [NC State House of Representatives District 59](/us/states/nc/districts/house/59.md).
 
 ## Sources
 

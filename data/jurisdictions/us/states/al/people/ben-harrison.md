@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 2"
+represents: "us/states/al/districts/house/2"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Harrison
 
 Current AL House District 2 (AL State House of Representatives District 2).
+
+Represents [AL State House of Representatives District 2](/us/states/al/districts/house/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 23"
+represents: "us/states/ia/districts/senate/23"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Whitver
 
 Current IA Senate District 23 (IA State Senate District 23).
+
+Represents [IA State Senate District 23](/us/states/ia/districts/senate/23.md).
 
 ## Sources
 

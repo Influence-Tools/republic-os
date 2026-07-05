@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 28"
+represents: "us/states/az/districts/senate/28"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Carroll
 
 Current AZ Senate District 28 (AZ State Senate District 28).
+
+Represents [AZ State Senate District 28](/us/states/az/districts/senate/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 20"
+represents: "us/states/nh/districts/house/strafford-20"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Allan Howland
 
 Current NH House District Strafford 20 (NH State House of Representatives District Strafford 20).
+
+Represents [NH State House of Representatives District Strafford 20](/us/states/nh/districts/house/strafford-20.md).
 
 ## Sources
 

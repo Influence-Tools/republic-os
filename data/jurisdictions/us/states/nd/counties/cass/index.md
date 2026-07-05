@@ -22,9 +22,33 @@ demographics:
   race_native: 1881
   hispanic: 6953
   bachelors_plus: 69217
+districts:
+  - to: "us/states/nd/districts/00"
+    rel: in-district
+    area_weight: 0.9986
+  - to: "us/states/nd/districts/senate/22"
+    rel: in-district
+    area_weight: 0.793
+  - to: "us/states/nd/districts/senate/45"
+    rel: in-district
+    area_weight: 0.1404
+  - to: "us/states/nd/districts/senate/27"
+    rel: in-district
+    area_weight: 0.0429
+  - to: "us/states/nd/districts/house/22"
+    rel: in-district
+    area_weight: 0.793
+  - to: "us/states/nd/districts/house/45"
+    rel: in-district
+    area_weight: 0.1404
+  - to: "us/states/nd/districts/house/27"
+    rel: in-district
+    area_weight: 0.0429
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nd]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 6953 |
 | Bachelor's or higher | 69217 |
 
+## Districts
+
+- [ND-00](/us/states/nd/districts/00.md) — 100% (congressional)
+- [ND Senate District 22](/us/states/nd/districts/senate/22.md) — 79% (state senate)
+- [ND Senate District 45](/us/states/nd/districts/senate/45.md) — 14% (state senate)
+- [ND Senate District 27](/us/states/nd/districts/senate/27.md) — 4% (state senate)
+- [ND House District 22](/us/states/nd/districts/house/22.md) — 79% (state house)
+- [ND House District 45](/us/states/nd/districts/house/45.md) — 14% (state house)
+- [ND House District 27](/us/states/nd/districts/house/27.md) — 4% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

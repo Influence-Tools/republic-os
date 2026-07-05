@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 27"
+represents: "us/states/or/districts/senate/27"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony Broadman
 
 Current OR Senate District 27 (OR State Senate District 27).
+
+Represents [OR State Senate District 27](/us/states/or/districts/senate/27.md).
 
 ## Sources
 

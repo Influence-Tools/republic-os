@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 24"
+represents: "us/states/ny/districts/house/24"
 tenure:
   start: "2010-02-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Weprin
 
 Current NY House District 24 (NY State House of Representatives District 24).
+
+Represents [NY State House of Representatives District 24](/us/states/ny/districts/house/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 3"
+represents: "us/states/co/districts/senate/3"
 tenure:
   start: "2022-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Hinrichsen
 
 Current CO Senate District 3 (CO State Senate District 3).
+
+Represents [CO State Senate District 3](/us/states/co/districts/senate/3.md).
 
 ## Sources
 

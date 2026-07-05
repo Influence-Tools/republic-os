@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 8"
+represents: "us/states/tx/districts/08"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Morgan Luttrell
 
 Current U.S. House of Representatives - TX-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/tx/districts/08.md).
 
 ## Committees
 

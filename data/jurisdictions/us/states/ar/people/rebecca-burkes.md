@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 11"
+represents: "us/states/ar/districts/house/11"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Burkes
 
 Current AR House District 11 (AR State House of Representatives District 11).
+
+Represents [AR State House of Representatives District 11](/us/states/ar/districts/house/11.md).
 
 ## Sources
 

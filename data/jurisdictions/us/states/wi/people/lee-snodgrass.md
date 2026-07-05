@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 52"
+represents: "us/states/wi/districts/house/52"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lee Snodgrass
 
 Current WI House District 52 (WI State House of Representatives District 52).
+
+Represents [WI State House of Representatives District 52](/us/states/wi/districts/house/52.md).
 
 ## Sources
 

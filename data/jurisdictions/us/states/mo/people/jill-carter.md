@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 32"
+represents: "us/states/mo/districts/senate/32"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jill Carter
 
 Current MO Senate District 32 (MO State Senate District 32).
+
+Represents [MO State Senate District 32](/us/states/mo/districts/senate/32.md).
 
 ## Sources
 

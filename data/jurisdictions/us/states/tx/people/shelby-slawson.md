@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 59"
+represents: "us/states/tx/districts/house/59"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelby Slawson
 
 Current TX House District 59 (TX State House of Representatives District 59).
+
+Represents [TX State House of Representatives District 59](/us/states/tx/districts/house/59.md).
 
 ## Sources
 

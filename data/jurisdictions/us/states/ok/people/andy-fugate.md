@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 94"
+represents: "us/states/ok/districts/house/94"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andy Fugate
 
 Current OK House District 94 (OK State House of Representatives District 94).
+
+Represents [OK State House of Representatives District 94](/us/states/ok/districts/house/94.md).
 
 ## Sources
 

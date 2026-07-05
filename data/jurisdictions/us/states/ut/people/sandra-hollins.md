@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 21"
+represents: "us/states/ut/districts/house/21"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandra Hollins
 
 Current UT House District 21 (UT State House of Representatives District 21).
+
+Represents [UT State House of Representatives District 21](/us/states/ut/districts/house/21.md).
 
 ## Sources
 

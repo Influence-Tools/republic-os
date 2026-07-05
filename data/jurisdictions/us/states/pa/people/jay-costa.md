@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 43"
+represents: "us/states/pa/districts/senate/43"
 tenure:
   start: "1996-05-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Costa
 
 Current PA Senate District 43 (PA State Senate District 43).
+
+Represents [PA State Senate District 43](/us/states/pa/districts/senate/43.md).
 
 ## Sources
 

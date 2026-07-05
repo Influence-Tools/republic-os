@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 24"
+represents: "us/states/tn/districts/house/24"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Raper
 
 Current TN House District 24 (TN State House of Representatives District 24).
+
+Represents [TN State House of Representatives District 24](/us/states/tn/districts/house/24.md).
 
 ## Sources
 

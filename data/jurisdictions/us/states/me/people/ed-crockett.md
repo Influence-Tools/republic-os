@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 112"
+represents: "us/states/me/districts/house/112"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Crockett
 
 Current ME House District 112 (ME State House of Representatives District 112).
+
+Represents [ME State House of Representatives District 112](/us/states/me/districts/house/112.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 9"
+represents: "us/states/va/districts/senate/9"
 tenure:
   start: "2024-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tammy Mulchi
 
 Current VA Senate District 9 (VA State Senate District 9).
+
+Represents [VA State Senate District 9](/us/states/va/districts/senate/9.md).
 
 ## Sources
 

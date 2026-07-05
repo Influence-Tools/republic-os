@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 87"
+represents: "us/states/ky/districts/house/87"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Bowling
 
 Current KY House District 87 (KY State House of Representatives District 87).
+
+Represents [KY State House of Representatives District 87](/us/states/ky/districts/house/87.md).
 
 ## Sources
 

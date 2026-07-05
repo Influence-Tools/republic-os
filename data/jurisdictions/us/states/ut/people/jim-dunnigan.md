@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 36"
+represents: "us/states/ut/districts/house/36"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Dunnigan
 
 Current UT House District 36 (UT State House of Representatives District 36).
+
+Represents [UT State House of Representatives District 36](/us/states/ut/districts/house/36.md).
 
 ## Sources
 

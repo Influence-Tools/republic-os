@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 5"
+represents: "us/states/va/districts/05"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # John J. McGuire III
 
 Current U.S. House of Representatives - VA-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/va/districts/05.md).
 
 ## Committees
 

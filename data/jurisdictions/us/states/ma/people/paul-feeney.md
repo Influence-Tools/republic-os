@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Bristol and Norfolk"
+represents: "us/states/ma/districts/senate/bristol-and-norfolk"
 tenure:
   start: "2017-11-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Feeney
 
 Current MA Senate District Bristol and Norfolk (MA State Senate District Bristol and Norfolk).
+
+Represents [MA State Senate District Bristol and Norfolk](/us/states/ma/districts/senate/bristol-and-norfolk.md).
 
 ## Sources
 

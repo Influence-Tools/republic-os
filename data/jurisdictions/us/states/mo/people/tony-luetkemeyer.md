@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 34"
+represents: "us/states/mo/districts/senate/34"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Luetkemeyer
 
 Current MO Senate District 34 (MO State Senate District 34).
+
+Represents [MO State Senate District 34](/us/states/mo/districts/senate/34.md).
 
 ## Sources
 

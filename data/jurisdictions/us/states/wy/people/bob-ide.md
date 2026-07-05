@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 29"
+represents: "us/states/wy/districts/senate/29"
 tenure:
   start: "2022-12-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Ide
 
 Current WY Senate District 29 (WY State Senate District 29).
+
+Represents [WY State Senate District 29](/us/states/wy/districts/senate/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 3"
+represents: "us/states/ks/districts/senate/3"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Kloos
 
 Current KS Senate District 3 (KS State Senate District 3).
+
+Represents [KS State Senate District 3](/us/states/ks/districts/senate/3.md).
 
 ## Sources
 

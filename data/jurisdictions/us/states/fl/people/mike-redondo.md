@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 118"
+represents: "us/states/fl/districts/house/118"
 tenure:
   start: "2023-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Redondo
 
 Current FL House District 118 (FL State House of Representatives District 118).
+
+Represents [FL State House of Representatives District 118](/us/states/fl/districts/house/118.md).
 
 ## Sources
 

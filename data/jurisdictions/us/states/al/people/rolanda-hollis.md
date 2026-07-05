@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 58"
+represents: "us/states/al/districts/house/58"
 tenure:
   start: "2017-03-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rolanda Hollis
 
 Current AL House District 58 (AL State House of Representatives District 58).
+
+Represents [AL State House of Representatives District 58](/us/states/al/districts/house/58.md).
 
 ## Sources
 

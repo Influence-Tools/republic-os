@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 34"
+represents: "us/states/mi/districts/senate/34"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Hauck
 
 Current MI Senate District 34 (MI State Senate District 34).
+
+Represents [MI State Senate District 34](/us/states/mi/districts/senate/34.md).
 
 ## Sources
 

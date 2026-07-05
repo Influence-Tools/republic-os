@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 93"
+represents: "us/states/nc/districts/house/93"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Pickett
 
 Current NC House District 93 (NC State House of Representatives District 93).
+
+Represents [NC State House of Representatives District 93](/us/states/nc/districts/house/93.md).
 
 ## Sources
 

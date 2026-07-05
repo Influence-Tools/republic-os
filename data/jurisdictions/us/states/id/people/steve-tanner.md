@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 13B"
+represents: "us/states/id/districts/house/13b"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Tanner
 
 Current ID House District 13B (ID State House of Representatives District 13B).
+
+Represents [ID State House of Representatives District 13B](/us/states/id/districts/house/13b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 49"
+represents: "us/states/wi/districts/house/49"
 tenure:
   start: "2011-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Tranel
 
 Current WI House District 49 (WI State House of Representatives District 49).
+
+Represents [WI State House of Representatives District 49](/us/states/wi/districts/house/49.md).
 
 ## Sources
 

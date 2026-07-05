@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 17"
+represents: "us/states/ri/districts/house/17"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jackie Baginski
 
 Current RI House District 17 (RI State House of Representatives District 17).
+
+Represents [RI State House of Representatives District 17](/us/states/ri/districts/house/17.md).
 
 ## Sources
 

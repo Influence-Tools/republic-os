@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 36"
+represents: "us/states/nh/districts/house/hillsborough-36"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Diane Pauer
 
 Current NH House District Hillsborough 36 (NH State House of Representatives District Hillsborough 36).
+
+Represents [NH State House of Representatives District Hillsborough 36](/us/states/nh/districts/house/hillsborough-36.md).
 
 ## Sources
 

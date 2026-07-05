@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 130"
+represents: "us/states/tx/districts/house/130"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Oliverson
 
 Current TX House District 130 (TX State House of Representatives District 130).
+
+Represents [TX State House of Representatives District 130](/us/states/tx/districts/house/130.md).
 
 ## Sources
 

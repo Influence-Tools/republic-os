@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 107"
+represents: "us/states/ct/districts/house/107"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Foncello
 
 Current CT House District 107 (CT State House of Representatives District 107).
+
+Represents [CT State House of Representatives District 107](/us/states/ct/districts/house/107.md).
 
 ## Sources
 

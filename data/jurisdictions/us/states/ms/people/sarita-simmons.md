@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 13"
+represents: "us/states/ms/districts/senate/13"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarita Simmons
 
 Current MS Senate District 13 (MS State Senate District 13).
+
+Represents [MS State Senate District 13](/us/states/ms/districts/senate/13.md).
 
 ## Sources
 

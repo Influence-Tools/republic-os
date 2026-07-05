@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KS"
 district: "Congressional District 3"
+represents: "us/states/ks/districts/03"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Sharice Davids
 
 Current U.S. House of Representatives - KS-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ks/districts/03.md).
 
 ## Committees
 

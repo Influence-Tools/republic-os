@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 38"
+represents: "us/states/il/districts/senate/38"
 tenure:
   start: "2010-12-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Rezin
 
 Current IL Senate District 38 (IL State Senate District 38).
+
+Represents [IL State Senate District 38](/us/states/il/districts/senate/38.md).
 
 ## Sources
 

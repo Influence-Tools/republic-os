@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 3"
+represents: "us/states/ok/districts/house/3"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick West
 
 Current OK House District 3 (OK State House of Representatives District 3).
+
+Represents [OK State House of Representatives District 3](/us/states/ok/districts/house/3.md).
 
 ## Sources
 

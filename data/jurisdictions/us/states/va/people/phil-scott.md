@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 63"
+represents: "us/states/va/districts/house/63"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Scott
 
 Current VA House District 63 (VA State House of Representatives District 63).
+
+Represents [VA State House of Representatives District 63](/us/states/va/districts/house/63.md).
 
 ## Sources
 

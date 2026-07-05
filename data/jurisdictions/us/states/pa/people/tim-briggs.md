@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 149"
+represents: "us/states/pa/districts/house/149"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Briggs
 
 Current PA House District 149 (PA State House of Representatives District 149).
+
+Represents [PA State House of Representatives District 149](/us/states/pa/districts/house/149.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 11"
+represents: "us/states/tx/districts/senate/11"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mayes Middleton
 
 Current TX Senate District 11 (TX State Senate District 11).
+
+Represents [TX State Senate District 11](/us/states/tx/districts/senate/11.md).
 
 ## Sources
 

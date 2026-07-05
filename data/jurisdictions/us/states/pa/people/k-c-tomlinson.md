@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 18"
+represents: "us/states/pa/districts/house/18"
 tenure:
   start: "2020-04-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # K.C. Tomlinson
 
 Current PA House District 18 (PA State House of Representatives District 18).
+
+Represents [PA State House of Representatives District 18](/us/states/pa/districts/house/18.md).
 
 ## Sources
 

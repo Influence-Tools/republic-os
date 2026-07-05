@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-13"
+represents: "us/states/vt/districts/house/chittenden-13"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bram Kleppner
 
 Current VT House District Chittenden-13 (VT State House of Representatives District Chittenden-13).
+
+Represents [VT State House of Representatives District Chittenden-13](/us/states/vt/districts/house/chittenden-13.md).
 
 ## Sources
 

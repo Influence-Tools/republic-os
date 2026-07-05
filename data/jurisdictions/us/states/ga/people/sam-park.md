@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 107"
+represents: "us/states/ga/districts/house/107"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Park
 
 Current GA House District 107 (GA State House of Representatives District 107).
+
+Represents [GA State House of Representatives District 107](/us/states/ga/districts/house/107.md).
 
 ## Sources
 

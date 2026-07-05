@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 14"
+represents: "us/states/or/districts/house/14"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Fahey
 
 Current OR House District 14 (OR State House of Representatives District 14).
+
+Represents [OR State House of Representatives District 14](/us/states/or/districts/house/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 34"
+represents: "us/states/ms/districts/senate/34"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Juan Barnett
 
 Current MS Senate District 34 (MS State Senate District 34).
+
+Represents [MS State Senate District 34](/us/states/ms/districts/senate/34.md).
 
 ## Sources
 

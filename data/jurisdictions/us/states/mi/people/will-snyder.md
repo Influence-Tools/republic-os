@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 87"
+represents: "us/states/mi/districts/house/87"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Snyder
 
 Current MI House District 87 (MI State House of Representatives District 87).
+
+Represents [MI State House of Representatives District 87](/us/states/mi/districts/house/87.md).
 
 ## Sources
 

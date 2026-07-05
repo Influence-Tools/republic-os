@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 63"
+represents: "us/states/ks/districts/house/63"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Allen Reavis
 
 Current KS House District 63 (KS State House of Representatives District 63).
+
+Represents [KS State House of Representatives District 63](/us/states/ks/districts/house/63.md).
 
 ## Sources
 

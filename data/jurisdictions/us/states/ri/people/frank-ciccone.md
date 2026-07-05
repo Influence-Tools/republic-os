@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 7"
+represents: "us/states/ri/districts/senate/7"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Ciccone
 
 Current RI Senate District 7 (RI State Senate District 7).
+
+Represents [RI State Senate District 7](/us/states/ri/districts/senate/7.md).
 
 ## Sources
 

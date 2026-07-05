@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 9"
+represents: "us/states/nv/districts/house/9"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Yeager
 
 Current NV House District 9 (NV State House of Representatives District 9).
+
+Represents [NV State House of Representatives District 9](/us/states/nv/districts/house/9.md).
 
 ## Sources
 

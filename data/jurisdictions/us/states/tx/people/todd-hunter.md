@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 32"
+represents: "us/states/tx/districts/house/32"
 tenure:
   start: "2009-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Hunter
 
 Current TX House District 32 (TX State House of Representatives District 32).
+
+Represents [TX State House of Representatives District 32](/us/states/tx/districts/house/32.md).
 
 ## Sources
 

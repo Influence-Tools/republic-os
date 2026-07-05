@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 14"
+represents: "us/states/tx/districts/14"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Randy K. Weber, Sr.
 
 Current U.S. House of Representatives - TX-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/tx/districts/14.md).
 
 ## Committees
 

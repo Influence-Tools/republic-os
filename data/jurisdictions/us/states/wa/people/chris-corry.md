@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 15"
+represents: "us/states/wa/districts/house/15"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Corry
 
 Current WA House District 15 (WA State House of Representatives District 15).
+
+Represents [WA State House of Representatives District 15](/us/states/wa/districts/house/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 10"
+represents: "us/states/nm/districts/senate/10"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katy Duhigg
 
 Current NM Senate District 10 (NM State Senate District 10).
+
+Represents [NM State Senate District 10](/us/states/nm/districts/senate/10.md).
 
 ## Sources
 

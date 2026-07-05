@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 53"
+represents: "us/states/ny/districts/house/53"
 tenure:
   start: "2013-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maritza Davila
 
 Current NY House District 53 (NY State House of Representatives District 53).
+
+Represents [NY State House of Representatives District 53](/us/states/ny/districts/house/53.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 45"
+represents: "us/states/mi/districts/house/45"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Lightner
 
 Current MI House District 45 (MI State House of Representatives District 45).
+
+Represents [MI State House of Representatives District 45](/us/states/mi/districts/house/45.md).
 
 ## Sources
 

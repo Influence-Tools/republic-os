@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 13"
+represents: "us/states/wa/districts/senate/13"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judy Warnick
 
 Current WA Senate District 13 (WA State Senate District 13).
+
+Represents [WA State Senate District 13](/us/states/wa/districts/senate/13.md).
 
 ## Sources
 

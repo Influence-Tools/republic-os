@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 43"
+represents: "us/states/hi/districts/house/43"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kanani Souza
 
 Current HI House District 43 (HI State House of Representatives District 43).
+
+Represents [HI State House of Representatives District 43](/us/states/hi/districts/house/43.md).
 
 ## Sources
 

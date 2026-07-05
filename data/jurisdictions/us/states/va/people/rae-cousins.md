@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 79"
+represents: "us/states/va/districts/house/79"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rae Cousins
 
 Current VA House District 79 (VA State House of Representatives District 79).
+
+Represents [VA State House of Representatives District 79](/us/states/va/districts/house/79.md).
 
 ## Sources
 

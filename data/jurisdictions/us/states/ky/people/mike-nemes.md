@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 38"
+represents: "us/states/ky/districts/senate/38"
 tenure:
   start: "2020-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Nemes
 
 Current KY Senate District 38 (KY State Senate District 38).
+
+Represents [KY State Senate District 38](/us/states/ky/districts/senate/38.md).
 
 ## Sources
 

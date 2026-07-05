@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Orange"
+represents: "us/states/vt/districts/senate/orange"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Hart
 
 Current VT Senate District Orange (VT State Senate District Orange).
+
+Represents [VT State Senate District Orange](/us/states/vt/districts/senate/orange.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 95"
+represents: "us/states/ar/districts/house/95"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Howard Beaty
 
 Current AR House District 95 (AR State House of Representatives District 95).
+
+Represents [AR State House of Representatives District 95](/us/states/ar/districts/house/95.md).
 
 ## Sources
 

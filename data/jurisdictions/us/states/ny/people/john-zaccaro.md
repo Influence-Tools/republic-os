@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 80"
+represents: "us/states/ny/districts/house/80"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Zaccaro
 
 Current NY House District 80 (NY State House of Representatives District 80).
+
+Represents [NY State House of Representatives District 80](/us/states/ny/districts/house/80.md).
 
 ## Sources
 

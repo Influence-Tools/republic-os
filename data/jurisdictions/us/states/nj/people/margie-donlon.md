@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 11"
+represents: "us/states/nj/districts/house/11"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Margie Donlon
 
 Current NJ House District 11 (NJ State House of Representatives District 11).
+
+Represents [NJ State House of Representatives District 11](/us/states/nj/districts/house/11.md).
 
 ## Sources
 

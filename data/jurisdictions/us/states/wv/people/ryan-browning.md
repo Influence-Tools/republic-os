@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 28"
+represents: "us/states/wv/districts/house/28"
 tenure:
   start: "2024-07-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Browning
 
 Current WV House District 28 (WV State House of Representatives District 28).
+
+Represents [WV State House of Representatives District 28](/us/states/wv/districts/house/28.md).
 
 ## Sources
 

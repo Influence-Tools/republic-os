@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 13"
+represents: "us/states/ut/districts/senate/13"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nate Blouin
 
 Current UT Senate District 13 (UT State Senate District 13).
+
+Represents [UT State Senate District 13](/us/states/ut/districts/senate/13.md).
 
 ## Sources
 

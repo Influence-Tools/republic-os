@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 12"
+represents: "us/states/ga/districts/house/12"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Lumsden
 
 Current GA House District 12 (GA State House of Representatives District 12).
+
+Represents [GA State House of Representatives District 12](/us/states/ga/districts/house/12.md).
 
 ## Sources
 

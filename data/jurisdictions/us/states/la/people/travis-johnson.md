@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 21"
+represents: "us/states/la/districts/house/21"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Johnson
 
 Current LA House District 21 (LA State House of Representatives District 21).
+
+Represents [LA State House of Representatives District 21](/us/states/la/districts/house/21.md).
 
 ## Sources
 

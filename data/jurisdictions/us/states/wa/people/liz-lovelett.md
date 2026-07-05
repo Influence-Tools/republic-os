@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 40"
+represents: "us/states/wa/districts/senate/40"
 tenure:
   start: "2019-02-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Lovelett
 
 Current WA Senate District 40 (WA State Senate District 40).
+
+Represents [WA State Senate District 40](/us/states/wa/districts/senate/40.md).
 
 ## Sources
 

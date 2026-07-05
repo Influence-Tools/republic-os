@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 4th Plymouth"
+represents: "us/states/ma/districts/house/4th-plymouth"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Kearney
 
 Current MA House District 4th Plymouth (MA State House of Representatives District 4th Plymouth).
+
+Represents [MA State House of Representatives District 4th Plymouth](/us/states/ma/districts/house/4th-plymouth.md).
 
 ## Sources
 

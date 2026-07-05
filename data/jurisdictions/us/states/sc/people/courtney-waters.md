@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 113"
+represents: "us/states/sc/districts/house/113"
 tenure:
   start: "2025-04-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Courtney Waters
 
 Current SC House District 113 (SC State House of Representatives District 113).
+
+Represents [SC State House of Representatives District 113](/us/states/sc/districts/house/113.md).
 
 ## Sources
 

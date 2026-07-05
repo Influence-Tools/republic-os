@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 33"
+represents: "us/states/fl/districts/senate/33"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Martin
 
 Current FL Senate District 33 (FL State Senate District 33).
+
+Represents [FL State Senate District 33](/us/states/fl/districts/senate/33.md).
 
 ## Sources
 

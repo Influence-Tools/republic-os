@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 21B"
+represents: "us/states/mn/districts/house/21b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marj Fogelman
 
 Current MN House District 21B (MN State House of Representatives District 21B).
+
+Represents [MN State House of Representatives District 21B](/us/states/mn/districts/house/21b.md).
 
 ## Sources
 

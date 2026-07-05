@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 116"
+represents: "us/states/ms/districts/house/116"
 tenure:
   start: "2011-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Casey Eure
 
 Current MS House District 116 (MS State House of Representatives District 116).
+
+Represents [MS State House of Representatives District 116](/us/states/ms/districts/house/116.md).
 
 ## Sources
 

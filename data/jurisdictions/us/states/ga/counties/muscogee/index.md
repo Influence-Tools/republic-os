@@ -22,9 +22,39 @@ demographics:
   race_native: 355
   hispanic: 17357
   bachelors_plus: 57606
+districts:
+  - to: "us/states/ga/districts/02"
+    rel: in-district
+    area_weight: 0.8319
+  - to: "us/states/ga/districts/03"
+    rel: in-district
+    area_weight: 0.161
+  - to: "us/states/ga/districts/senate/15"
+    rel: in-district
+    area_weight: 0.5973
+  - to: "us/states/ga/districts/senate/29"
+    rel: in-district
+    area_weight: 0.4018
+  - to: "us/states/ga/districts/house/137"
+    rel: in-district
+    area_weight: 0.4791
+  - to: "us/states/ga/districts/house/141"
+    rel: in-district
+    area_weight: 0.1496
+  - to: "us/states/ga/districts/house/139"
+    rel: in-district
+    area_weight: 0.1283
+  - to: "us/states/ga/districts/house/140"
+    rel: in-district
+    area_weight: 0.1224
+  - to: "us/states/ga/districts/house/138"
+    rel: in-district
+    area_weight: 0.1192
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ga]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 17357 |
 | Bachelor's or higher | 57606 |
 
+## Districts
+
+- [GA-02](/us/states/ga/districts/02.md) — 83% (congressional)
+- [GA-03](/us/states/ga/districts/03.md) — 16% (congressional)
+- [GA Senate District 15](/us/states/ga/districts/senate/15.md) — 60% (state senate)
+- [GA Senate District 29](/us/states/ga/districts/senate/29.md) — 40% (state senate)
+- [GA House District 137](/us/states/ga/districts/house/137.md) — 48% (state house)
+- [GA House District 141](/us/states/ga/districts/house/141.md) — 15% (state house)
+- [GA House District 139](/us/states/ga/districts/house/139.md) — 13% (state house)
+- [GA House District 140](/us/states/ga/districts/house/140.md) — 12% (state house)
+- [GA House District 138](/us/states/ga/districts/house/138.md) — 12% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

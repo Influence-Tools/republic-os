@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 25"
+represents: "us/states/ny/districts/house/25"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nily Rozic
 
 Current NY House District 25 (NY State House of Representatives District 25).
+
+Represents [NY State House of Representatives District 25](/us/states/ny/districts/house/25.md).
 
 ## Sources
 

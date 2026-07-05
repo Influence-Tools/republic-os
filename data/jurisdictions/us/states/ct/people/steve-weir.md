@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 55"
+represents: "us/states/ct/districts/house/55"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Weir
 
 Current CT House District 55 (CT State House of Representatives District 55).
+
+Represents [CT State House of Representatives District 55](/us/states/ct/districts/house/55.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 63"
+represents: "us/states/ca/districts/house/63"
 tenure:
   start: "2025-09-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natasha Johnson
 
 Current CA House District 63 (CA State House of Representatives District 63).
+
+Represents [CA State House of Representatives District 63](/us/states/ca/districts/house/63.md).
 
 ## Sources
 

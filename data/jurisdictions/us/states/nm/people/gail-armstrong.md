@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 49"
+represents: "us/states/nm/districts/house/49"
 tenure:
   start: "2017-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gail Armstrong
 
 Current NM House District 49 (NM State House of Representatives District 49).
+
+Represents [NM State House of Representatives District 49](/us/states/nm/districts/house/49.md).
 
 ## Sources
 

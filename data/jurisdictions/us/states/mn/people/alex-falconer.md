@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 49A"
+represents: "us/states/mn/districts/house/49a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Falconer
 
 Current MN House District 49A (MN State House of Representatives District 49A).
+
+Represents [MN State House of Representatives District 49A](/us/states/mn/districts/house/49a.md).
 
 ## Sources
 

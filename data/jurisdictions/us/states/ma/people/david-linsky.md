@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 5th Middlesex"
+represents: "us/states/ma/districts/house/5th-middlesex"
 tenure:
   start: "1999-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Linsky
 
 Current MA House District 5th Middlesex (MA State House of Representatives District 5th Middlesex).
+
+Represents [MA State House of Representatives District 5th Middlesex](/us/states/ma/districts/house/5th-middlesex.md).
 
 ## Sources
 

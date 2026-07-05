@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 26"
+represents: "us/states/fl/districts/senate/26"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Berman
 
 Current FL Senate District 26 (FL State Senate District 26).
+
+Represents [FL State Senate District 26](/us/states/fl/districts/senate/26.md).
 
 ## Sources
 

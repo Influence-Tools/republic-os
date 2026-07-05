@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 26"
+represents: "us/states/co/districts/senate/26"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Bridges
 
 Current CO Senate District 26 (CO State Senate District 26).
+
+Represents [CO State Senate District 26](/us/states/co/districts/senate/26.md).
 
 ## Sources
 

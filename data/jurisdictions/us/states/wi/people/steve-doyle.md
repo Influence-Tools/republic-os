@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 94"
+represents: "us/states/wi/districts/house/94"
 tenure:
   start: "2011-05-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Doyle
 
 Current WI House District 94 (WI State House of Representatives District 94).
+
+Represents [WI State House of Representatives District 94](/us/states/wi/districts/house/94.md).
 
 ## Sources
 

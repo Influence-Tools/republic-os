@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 27"
+represents: "us/states/oh/districts/senate/27"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristina Roegner
 
 Current OH Senate District 27 (OH State Senate District 27).
+
+Represents [OH State Senate District 27](/us/states/oh/districts/senate/27.md).
 
 ## Sources
 

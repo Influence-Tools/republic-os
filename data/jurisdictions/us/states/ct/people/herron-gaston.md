@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 23"
+represents: "us/states/ct/districts/senate/23"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Herron Gaston
 
 Current CT Senate District 23 (CT State Senate District 23).
+
+Represents [CT State Senate District 23](/us/states/ct/districts/senate/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 9th Middlesex"
+represents: "us/states/ma/districts/house/9th-middlesex"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Stanley
 
 Current MA House District 9th Middlesex (MA State House of Representatives District 9th Middlesex).
+
+Represents [MA State House of Representatives District 9th Middlesex](/us/states/ma/districts/house/9th-middlesex.md).
 
 ## Sources
 

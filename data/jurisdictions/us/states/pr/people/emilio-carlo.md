@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 20"
+represents: "us/states/pr/districts/house/20"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emilio Carlo
 
 Current PR House District 20 (PR State House of Representatives District 20).
+
+Represents [PR State House of Representatives District 20](/us/states/pr/districts/house/20.md).
 
 ## Sources
 

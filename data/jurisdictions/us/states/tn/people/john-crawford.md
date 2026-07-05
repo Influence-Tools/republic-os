@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 1"
+represents: "us/states/tn/districts/house/1"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Crawford
 
 Current TN House District 1 (TN State House of Representatives District 1).
+
+Represents [TN State House of Representatives District 1](/us/states/tn/districts/house/1.md).
 
 ## Sources
 

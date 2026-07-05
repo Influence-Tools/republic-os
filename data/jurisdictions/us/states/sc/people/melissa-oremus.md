@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 84"
+represents: "us/states/sc/districts/house/84"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Oremus
 
 Current SC House District 84 (SC State House of Representatives District 84).
+
+Represents [SC State House of Representatives District 84](/us/states/sc/districts/house/84.md).
 
 ## Sources
 

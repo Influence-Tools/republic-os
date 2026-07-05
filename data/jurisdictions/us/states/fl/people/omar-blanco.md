@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 115"
+represents: "us/states/fl/districts/house/115"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Omar Blanco
 
 Current FL House District 115 (FL State House of Representatives District 115).
+
+Represents [FL State House of Representatives District 115](/us/states/fl/districts/house/115.md).
 
 ## Sources
 

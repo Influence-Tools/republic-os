@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 39"
+represents: "us/states/md/districts/senate/39"
 tenure:
   start: "2007-09-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nancy King
 
 Current MD Senate District 39 (MD State Senate District 39).
+
+Represents [MD State Senate District 39](/us/states/md/districts/senate/39.md).
 
 ## Sources
 

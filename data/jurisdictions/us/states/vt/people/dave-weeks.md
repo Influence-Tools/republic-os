@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Rutland"
+represents: "us/states/vt/districts/senate/rutland"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Weeks
 
 Current VT Senate District Rutland (VT State Senate District Rutland).
+
+Represents [VT State Senate District Rutland](/us/states/vt/districts/senate/rutland.md).
 
 ## Sources
 

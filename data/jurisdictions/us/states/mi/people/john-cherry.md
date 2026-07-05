@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 27"
+represents: "us/states/mi/districts/senate/27"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Cherry
 
 Current MI Senate District 27 (MI State Senate District 27).
+
+Represents [MI State Senate District 27](/us/states/mi/districts/senate/27.md).
 
 ## Sources
 

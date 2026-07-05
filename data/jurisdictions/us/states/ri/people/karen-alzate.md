@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 60"
+represents: "us/states/ri/districts/house/60"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Alzate
 
 Current RI House District 60 (RI State House of Representatives District 60).
+
+Represents [RI State House of Representatives District 60](/us/states/ri/districts/house/60.md).
 
 ## Sources
 

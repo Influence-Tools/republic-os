@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 34"
+represents: "us/states/in/districts/house/34"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Errington
 
 Current IN House District 34 (IN State House of Representatives District 34).
+
+Represents [IN State House of Representatives District 34](/us/states/in/districts/house/34.md).
 
 ## Sources
 

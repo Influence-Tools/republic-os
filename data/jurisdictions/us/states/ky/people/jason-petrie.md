@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 16"
+represents: "us/states/ky/districts/house/16"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Petrie
 
 Current KY House District 16 (KY State House of Representatives District 16).
+
+Represents [KY State House of Representatives District 16](/us/states/ky/districts/house/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 25"
+represents: "us/states/ga/districts/house/25"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Jones
 
 Current GA House District 25 (GA State House of Representatives District 25).
+
+Represents [GA State House of Representatives District 25](/us/states/ga/districts/house/25.md).
 
 ## Sources
 

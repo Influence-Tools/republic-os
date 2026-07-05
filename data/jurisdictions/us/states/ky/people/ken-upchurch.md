@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 52"
+represents: "us/states/ky/districts/house/52"
 tenure:
   start: "2013-02-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Upchurch
 
 Current KY House District 52 (KY State House of Representatives District 52).
+
+Represents [KY State House of Representatives District 52](/us/states/ky/districts/house/52.md).
 
 ## Sources
 

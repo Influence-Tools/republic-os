@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 45"
+represents: "us/states/nc/districts/senate/45"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Hollo
 
 Current NC Senate District 45 (NC State Senate District 45).
+
+Represents [NC State Senate District 45](/us/states/nc/districts/senate/45.md).
 
 ## Sources
 

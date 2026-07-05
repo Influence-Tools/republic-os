@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 13"
+represents: "us/states/sd/districts/house/13"
 tenure:
   start: "2025-02-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Kolbeck
 
 Current SD House District 13 (SD State House of Representatives District 13).
+
+Represents [SD State House of Representatives District 13](/us/states/sd/districts/house/13.md).
 
 ## Sources
 

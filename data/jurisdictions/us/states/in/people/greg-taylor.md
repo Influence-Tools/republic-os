@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 33"
+represents: "us/states/in/districts/senate/33"
 tenure:
   start: "2008-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Taylor
 
 Current IN Senate District 33 (IN State Senate District 33).
+
+Represents [IN State Senate District 33](/us/states/in/districts/senate/33.md).
 
 ## Sources
 

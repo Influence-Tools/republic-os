@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 1"
+represents: "us/states/hi/districts/senate/1"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lorraine Inouye
 
 Current HI Senate District 1 (HI State Senate District 1).
+
+Represents [HI State Senate District 1](/us/states/hi/districts/senate/1.md).
 
 ## Sources
 

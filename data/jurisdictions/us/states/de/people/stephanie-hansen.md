@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 10"
+represents: "us/states/de/districts/senate/10"
 tenure:
   start: "2017-03-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Hansen
 
 Current DE Senate District 10 (DE State Senate District 10).
+
+Represents [DE State Senate District 10](/us/states/de/districts/senate/10.md).
 
 ## Sources
 

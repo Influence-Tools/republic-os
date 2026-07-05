@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 100"
+represents: "us/states/me/districts/house/100"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Ankeles
 
 Current ME House District 100 (ME State House of Representatives District 100).
+
+Represents [ME State House of Representatives District 100](/us/states/me/districts/house/100.md).
 
 ## Sources
 

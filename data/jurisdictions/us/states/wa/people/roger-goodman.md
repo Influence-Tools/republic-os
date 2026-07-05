@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 45"
+represents: "us/states/wa/districts/house/45"
 tenure:
   start: "2007-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Goodman
 
 Current WA House District 45 (WA State House of Representatives District 45).
+
+Represents [WA State House of Representatives District 45](/us/states/wa/districts/house/45.md).
 
 ## Sources
 

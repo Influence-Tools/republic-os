@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 41"
+represents: "us/states/ny/districts/senate/41"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Hinchey
 
 Current NY Senate District 41 (NY State Senate District 41).
+
+Represents [NY State Senate District 41](/us/states/ny/districts/senate/41.md).
 
 ## Sources
 

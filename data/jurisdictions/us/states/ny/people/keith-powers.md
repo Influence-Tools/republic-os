@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 74"
+represents: "us/states/ny/districts/house/74"
 tenure:
   start: "2026-02-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Powers
 
 Current NY House District 74 (NY State House of Representatives District 74).
+
+Represents [NY State House of Representatives District 74](/us/states/ny/districts/house/74.md).
 
 ## Sources
 

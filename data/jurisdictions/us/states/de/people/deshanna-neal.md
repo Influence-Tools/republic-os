@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 13"
+represents: "us/states/de/districts/house/13"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # DeShanna Neal
 
 Current DE House District 13 (DE State House of Representatives District 13).
+
+Represents [DE State House of Representatives District 13](/us/states/de/districts/house/13.md).
 
 ## Sources
 

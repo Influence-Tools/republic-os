@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Bristol"
+represents: "us/states/ma/districts/house/3rd-bristol"
 tenure:
   start: "2025-07-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Field
 
 Current MA House District 3rd Bristol (MA State House of Representatives District 3rd Bristol).
+
+Represents [MA State House of Representatives District 3rd Bristol](/us/states/ma/districts/house/3rd-bristol.md).
 
 ## Sources
 

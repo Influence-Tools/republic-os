@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 2"
+represents: "us/states/wi/districts/house/2"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shae Sortwell
 
 Current WI House District 2 (WI State House of Representatives District 2).
+
+Represents [WI State House of Representatives District 2](/us/states/wi/districts/house/2.md).
 
 ## Sources
 

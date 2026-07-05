@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-Orange-2"
+represents: "us/states/vt/districts/house/windsor-orange-2"
 tenure:
   start: "1999-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Masland
 
 Current VT House District Windsor-Orange-2 (VT State House of Representatives District Windsor-Orange-2).
+
+Represents [VT State House of Representatives District Windsor-Orange-2](/us/states/vt/districts/house/windsor-orange-2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 12"
+represents: "us/states/nd/districts/senate/12"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cole Conley
 
 Current ND Senate District 12 (ND State Senate District 12).
+
+Represents [ND State Senate District 12](/us/states/nd/districts/senate/12.md).
 
 ## Sources
 

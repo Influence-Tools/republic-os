@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 32"
+represents: "us/states/ok/districts/house/32"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Shaw
 
 Current OK House District 32 (OK State House of Representatives District 32).
+
+Represents [OK State House of Representatives District 32](/us/states/ok/districts/house/32.md).
 
 ## Sources
 

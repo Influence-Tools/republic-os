@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 71"
+represents: "us/states/in/districts/house/71"
 tenure:
   start: "2024-06-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy Dant Chesser
 
 Current IN House District 71 (IN State House of Representatives District 71).
+
+Represents [IN State House of Representatives District 71](/us/states/in/districts/house/71.md).
 
 ## Sources
 

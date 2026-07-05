@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 2"
+represents: "us/states/ok/districts/senate/2"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ally Seifried
 
 Current OK Senate District 2 (OK State Senate District 2).
+
+Represents [OK State Senate District 2](/us/states/ok/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 47"
+represents: "us/states/mi/districts/house/47"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carrie Rheingans
 
 Current MI House District 47 (MI State House of Representatives District 47).
+
+Represents [MI State House of Representatives District 47](/us/states/mi/districts/house/47.md).
 
 ## Sources
 

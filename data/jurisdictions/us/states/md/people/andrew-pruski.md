@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 33A"
+represents: "us/states/md/districts/house/33a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Pruski
 
 Current MD House District 33A (MD State House of Representatives District 33A).
+
+Represents [MD State House of Representatives District 33A](/us/states/md/districts/house/33a.md).
 
 ## Sources
 

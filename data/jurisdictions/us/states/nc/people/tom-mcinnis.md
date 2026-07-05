@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 21"
+represents: "us/states/nc/districts/senate/21"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom McInnis
 
 Current NC Senate District 21 (NC State Senate District 21).
+
+Represents [NC State Senate District 21](/us/states/nc/districts/senate/21.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 30"
+represents: "us/states/ia/districts/senate/30"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Campbell
 
 Current IA Senate District 30 (IA State Senate District 30).
+
+Represents [IA State Senate District 30](/us/states/ia/districts/senate/30.md).
 
 ## Sources
 

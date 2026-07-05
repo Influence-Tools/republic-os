@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 27"
+represents: "us/states/az/districts/house/27"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Rivero
 
 Current AZ House District 27 (AZ State House of Representatives District 27).
+
+Represents [AZ State House of Representatives District 27](/us/states/az/districts/house/27.md).
 
 ## Sources
 

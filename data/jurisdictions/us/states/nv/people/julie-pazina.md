@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 12"
+represents: "us/states/nv/districts/senate/12"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Pazina
 
 Current NV Senate District 12 (NV State Senate District 12).
+
+Represents [NV State Senate District 12](/us/states/nv/districts/senate/12.md).
 
 ## Sources
 

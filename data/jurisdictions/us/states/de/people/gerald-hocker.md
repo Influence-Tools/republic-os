@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 20"
+represents: "us/states/de/districts/senate/20"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerald Hocker
 
 Current DE Senate District 20 (DE State Senate District 20).
+
+Represents [DE State Senate District 20](/us/states/de/districts/senate/20.md).
 
 ## Sources
 

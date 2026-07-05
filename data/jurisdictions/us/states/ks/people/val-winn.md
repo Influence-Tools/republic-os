@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 34"
+represents: "us/states/ks/districts/house/34"
 tenure:
   start: "2001-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Val Winn
 
 Current KS House District 34 (KS State House of Representatives District 34).
+
+Represents [KS State House of Representatives District 34](/us/states/ks/districts/house/34.md).
 
 ## Sources
 

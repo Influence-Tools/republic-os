@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 110"
+represents: "us/states/nc/districts/house/110"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Hastings
 
 Current NC House District 110 (NC State House of Representatives District 110).
+
+Represents [NC State House of Representatives District 110](/us/states/nc/districts/house/110.md).
 
 ## Sources
 

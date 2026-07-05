@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 22"
+represents: "us/states/mo/districts/senate/22"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Elizabeth Coleman
 
 Current MO Senate District 22 (MO State Senate District 22).
+
+Represents [MO State Senate District 22](/us/states/mo/districts/senate/22.md).
 
 ## Sources
 

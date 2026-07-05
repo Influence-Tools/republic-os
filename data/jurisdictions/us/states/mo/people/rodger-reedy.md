@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 57"
+represents: "us/states/mo/districts/house/57"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rodger Reedy
 
 Current MO House District 57 (MO State House of Representatives District 57).
+
+Represents [MO State House of Representatives District 57](/us/states/mo/districts/house/57.md).
 
 ## Sources
 

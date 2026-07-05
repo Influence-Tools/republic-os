@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KY"
 district: "Congressional District 6"
+represents: "us/states/ky/districts/06"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Andy Barr
 
 Current U.S. House of Representatives - KY-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/ky/districts/06.md).
 
 ## Committees
 

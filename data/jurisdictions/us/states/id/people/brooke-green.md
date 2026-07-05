@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 18B"
+represents: "us/states/id/districts/house/18b"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brooke Green
 
 Current ID House District 18B (ID State House of Representatives District 18B).
+
+Represents [ID State House of Representatives District 18B](/us/states/id/districts/house/18b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 86"
+represents: "us/states/ct/districts/house/86"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vin Candelora
 
 Current CT House District 86 (CT State House of Representatives District 86).
+
+Represents [CT State House of Representatives District 86](/us/states/ct/districts/house/86.md).
 
 ## Sources
 

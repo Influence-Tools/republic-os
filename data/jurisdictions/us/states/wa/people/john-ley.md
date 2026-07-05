@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 18"
+represents: "us/states/wa/districts/house/18"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Ley
 
 Current WA House District 18 (WA State House of Representatives District 18).
+
+Represents [WA State House of Representatives District 18](/us/states/wa/districts/house/18.md).
 
 ## Sources
 

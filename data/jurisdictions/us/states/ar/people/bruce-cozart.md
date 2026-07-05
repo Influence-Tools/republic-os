@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 91"
+represents: "us/states/ar/districts/house/91"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Cozart
 
 Current AR House District 91 (AR State House of Representatives District 91).
+
+Represents [AR State House of Representatives District 91](/us/states/ar/districts/house/91.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 23"
+represents: "us/states/co/districts/senate/23"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Kirkmeyer
 
 Current CO Senate District 23 (CO State Senate District 23).
+
+Represents [CO State Senate District 23](/us/states/co/districts/senate/23.md).
 
 ## Sources
 

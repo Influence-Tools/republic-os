@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 7"
+represents: "us/states/wy/districts/senate/7"
 tenure:
   start: "2015-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephan Pappas
 
 Current WY Senate District 7 (WY State Senate District 7).
+
+Represents [WY State Senate District 7](/us/states/wy/districts/senate/7.md).
 
 ## Sources
 

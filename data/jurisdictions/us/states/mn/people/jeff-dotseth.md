@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 11A"
+represents: "us/states/mn/districts/house/11a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Dotseth
 
 Current MN House District 11A (MN State House of Representatives District 11A).
+
+Represents [MN State House of Representatives District 11A](/us/states/mn/districts/house/11a.md).
 
 ## Sources
 

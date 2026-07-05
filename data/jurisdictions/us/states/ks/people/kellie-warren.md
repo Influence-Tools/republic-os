@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 11"
+represents: "us/states/ks/districts/senate/11"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kellie Warren
 
 Current KS Senate District 11 (KS State Senate District 11).
+
+Represents [KS State Senate District 11](/us/states/ks/districts/senate/11.md).
 
 ## Sources
 

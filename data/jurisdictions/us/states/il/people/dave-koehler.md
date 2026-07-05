@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 46"
+represents: "us/states/il/districts/senate/46"
 tenure:
   start: "2006-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Koehler
 
 Current IL Senate District 46 (IL State Senate District 46).
+
+Represents [IL State Senate District 46](/us/states/il/districts/senate/46.md).
 
 ## Sources
 

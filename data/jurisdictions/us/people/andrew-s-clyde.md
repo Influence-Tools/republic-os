@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 9"
+represents: "us/states/ga/districts/09"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Andrew S. Clyde
 
 Current U.S. House of Representatives - GA-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/ga/districts/09.md).
 
 ## Committees
 

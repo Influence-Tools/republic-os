@@ -22,9 +22,39 @@ demographics:
   race_native: 1190
   hispanic: 7444
   bachelors_plus: 21982
+districts:
+  - to: "us/states/or/districts/02"
+    rel: in-district
+    area_weight: 0.558
+  - to: "us/states/or/districts/04"
+    rel: in-district
+    area_weight: 0.4295
+  - to: "us/states/or/districts/senate/1"
+    rel: in-district
+    area_weight: 0.7211
+  - to: "us/states/or/districts/senate/2"
+    rel: in-district
+    area_weight: 0.1649
+  - to: "us/states/or/districts/senate/5"
+    rel: in-district
+    area_weight: 0.1015
+  - to: "us/states/or/districts/house/2"
+    rel: in-district
+    area_weight: 0.6188
+  - to: "us/states/or/districts/house/4"
+    rel: in-district
+    area_weight: 0.1649
+  - to: "us/states/or/districts/house/1"
+    rel: in-district
+    area_weight: 0.1024
+  - to: "us/states/or/districts/house/9"
+    rel: in-district
+    area_weight: 0.1015
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, or]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 7444 |
 | Bachelor's or higher | 21982 |
 
+## Districts
+
+- [OR-02](/us/states/or/districts/02.md) — 56% (congressional)
+- [OR-04](/us/states/or/districts/04.md) — 43% (congressional)
+- [OR Senate District 1](/us/states/or/districts/senate/1.md) — 72% (state senate)
+- [OR Senate District 2](/us/states/or/districts/senate/2.md) — 16% (state senate)
+- [OR Senate District 5](/us/states/or/districts/senate/5.md) — 10% (state senate)
+- [OR House District 2](/us/states/or/districts/house/2.md) — 62% (state house)
+- [OR House District 4](/us/states/or/districts/house/4.md) — 16% (state house)
+- [OR House District 1](/us/states/or/districts/house/1.md) — 10% (state house)
+- [OR House District 9](/us/states/or/districts/house/9.md) — 10% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

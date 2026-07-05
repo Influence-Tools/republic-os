@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 20"
+represents: "us/states/ny/districts/senate/20"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zellnor Myrie
 
 Current NY Senate District 20 (NY State Senate District 20).
+
+Represents [NY State Senate District 20](/us/states/ny/districts/senate/20.md).
 
 ## Sources
 

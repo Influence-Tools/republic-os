@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 73"
+represents: "us/states/tx/districts/house/73"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carrie Isaac
 
 Current TX House District 73 (TX State House of Representatives District 73).
+
+Represents [TX State House of Representatives District 73](/us/states/tx/districts/house/73.md).
 
 ## Sources
 

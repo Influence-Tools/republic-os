@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 69"
+represents: "us/states/va/districts/house/69"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Downey
 
 Current VA House District 69 (VA State House of Representatives District 69).
+
+Represents [VA State House of Representatives District 69](/us/states/va/districts/house/69.md).
 
 ## Sources
 

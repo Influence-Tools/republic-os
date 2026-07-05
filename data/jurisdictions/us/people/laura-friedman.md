@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 30"
+represents: "us/states/ca/districts/30"
 committees:
   - name: "House Committee on Science, Space, and Technology"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Laura Friedman
 
 Current U.S. House of Representatives - CA-30 (Congressional District 30).
+
+Represents [Congressional District 30](/us/states/ca/districts/30.md).
 
 ## Committees
 

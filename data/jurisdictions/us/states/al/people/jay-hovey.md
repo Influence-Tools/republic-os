@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 27"
+represents: "us/states/al/districts/senate/27"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Hovey
 
 Current AL Senate District 27 (AL State Senate District 27).
+
+Represents [AL State Senate District 27](/us/states/al/districts/senate/27.md).
 
 ## Sources
 

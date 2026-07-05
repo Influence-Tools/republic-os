@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 24"
+represents: "us/states/nh/districts/house/hillsborough-24"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Herbert
 
 Current NH House District Hillsborough 24 (NH State House of Representatives District Hillsborough 24).
+
+Represents [NH State House of Representatives District Hillsborough 24](/us/states/nh/districts/house/hillsborough-24.md).
 
 ## Sources
 

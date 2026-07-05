@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 31"
+represents: "us/states/ri/districts/senate/31"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt LaMountain
 
 Current RI Senate District 31 (RI State Senate District 31).
+
+Represents [RI State Senate District 31](/us/states/ri/districts/senate/31.md).
 
 ## Sources
 

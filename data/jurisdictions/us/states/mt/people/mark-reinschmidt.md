@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 75"
+represents: "us/states/mt/districts/house/75"
 tenure:
   start: "2025-07-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Reinschmidt
 
 Current MT House District 75 (MT State House of Representatives District 75).
+
+Represents [MT State House of Representatives District 75](/us/states/mt/districts/house/75.md).
 
 ## Sources
 

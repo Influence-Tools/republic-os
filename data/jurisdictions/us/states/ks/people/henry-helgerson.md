@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 83"
+represents: "us/states/ks/districts/house/83"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Henry Helgerson
 
 Current KS House District 83 (KS State House of Representatives District 83).
+
+Represents [KS State House of Representatives District 83](/us/states/ks/districts/house/83.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 159"
+represents: "us/states/ga/districts/house/159"
 tenure:
   start: "2005-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Burns
 
 Current GA House District 159 (GA State House of Representatives District 159).
+
+Represents [GA State House of Representatives District 159](/us/states/ga/districts/house/159.md).
 
 ## Sources
 

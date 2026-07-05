@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 25"
+represents: "us/states/sd/districts/house/25"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Les Heinemann
 
 Current SD House District 25 (SD State House of Representatives District 25).
+
+Represents [SD State House of Representatives District 25](/us/states/sd/districts/house/25.md).
 
 ## Sources
 

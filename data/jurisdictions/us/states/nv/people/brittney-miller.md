@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 5"
+represents: "us/states/nv/districts/house/5"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brittney Miller
 
 Current NV House District 5 (NV State House of Representatives District 5).
+
+Represents [NV State House of Representatives District 5](/us/states/nv/districts/house/5.md).
 
 ## Sources
 

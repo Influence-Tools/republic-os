@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 44"
+represents: "us/states/tn/districts/house/44"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # William Lamberth
 
 Current TN House District 44 (TN State House of Representatives District 44).
+
+Represents [TN State House of Representatives District 44](/us/states/tn/districts/house/44.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 45"
+represents: "us/states/nh/districts/house/hillsborough-45"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Flanagan
 
 Current NH House District Hillsborough 45 (NH State House of Representatives District Hillsborough 45).
+
+Represents [NH State House of Representatives District Hillsborough 45](/us/states/nh/districts/house/hillsborough-45.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 2"
+represents: "us/states/wa/districts/house/2"
 tenure:
   start: "2016-02-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Barkis
 
 Current WA House District 2 (WA State House of Representatives District 2).
+
+Represents [WA State House of Representatives District 2](/us/states/wa/districts/house/2.md).
 
 ## Sources
 

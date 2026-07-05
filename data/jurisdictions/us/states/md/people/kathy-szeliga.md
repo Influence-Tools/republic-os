@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 7A"
+represents: "us/states/md/districts/house/7a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Szeliga
 
 Current MD House District 7A (MD State House of Representatives District 7A).
+
+Represents [MD State House of Representatives District 7A](/us/states/md/districts/house/7a.md).
 
 ## Sources
 

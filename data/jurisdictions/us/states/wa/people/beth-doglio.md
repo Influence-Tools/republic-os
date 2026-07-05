@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 22"
+represents: "us/states/wa/districts/house/22"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Doglio
 
 Current WA House District 22 (WA State House of Representatives District 22).
+
+Represents [WA State House of Representatives District 22](/us/states/wa/districts/house/22.md).
 
 ## Sources
 

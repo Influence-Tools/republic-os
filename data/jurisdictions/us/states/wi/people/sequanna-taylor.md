@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 11"
+represents: "us/states/wi/districts/house/11"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sequanna Taylor
 
 Current WI House District 11 (WI State House of Representatives District 11).
+
+Represents [WI State House of Representatives District 11](/us/states/wi/districts/house/11.md).
 
 ## Sources
 

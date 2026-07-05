@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 46"
+represents: "us/states/fl/districts/house/46"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jose Alvarez
 
 Current FL House District 46 (FL State House of Representatives District 46).
+
+Represents [FL State House of Representatives District 46](/us/states/fl/districts/house/46.md).
 
 ## Sources
 

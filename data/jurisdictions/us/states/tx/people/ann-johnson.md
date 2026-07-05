@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 134"
+represents: "us/states/tx/districts/house/134"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Johnson
 
 Current TX House District 134 (TX State House of Representatives District 134).
+
+Represents [TX State House of Representatives District 134](/us/states/tx/districts/house/134.md).
 
 ## Sources
 

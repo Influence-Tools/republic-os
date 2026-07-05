@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 1"
+represents: "us/states/sd/districts/house/1"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Logan Manhart
 
 Current SD House District 1 (SD State House of Representatives District 1).
+
+Represents [SD State House of Representatives District 1](/us/states/sd/districts/house/1.md).
 
 ## Sources
 

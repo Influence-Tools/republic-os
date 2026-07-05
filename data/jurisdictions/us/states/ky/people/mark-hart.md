@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 78"
+represents: "us/states/ky/districts/house/78"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Hart
 
 Current KY House District 78 (KY State House of Representatives District 78).
+
+Represents [KY State House of Representatives District 78](/us/states/ky/districts/house/78.md).
 
 ## Sources
 

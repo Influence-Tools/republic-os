@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 50"
+represents: "us/states/ny/districts/house/50"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Gallagher
 
 Current NY House District 50 (NY State House of Representatives District 50).
+
+Represents [NY State House of Representatives District 50](/us/states/ny/districts/house/50.md).
 
 ## Sources
 

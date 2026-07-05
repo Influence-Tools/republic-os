@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 10"
+represents: "us/states/sc/districts/house/10"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Beach
 
 Current SC House District 10 (SC State House of Representatives District 10).
+
+Represents [SC State House of Representatives District 10](/us/states/sc/districts/house/10.md).
 
 ## Sources
 

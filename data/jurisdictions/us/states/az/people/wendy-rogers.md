@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 7"
+represents: "us/states/az/districts/senate/7"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy Rogers
 
 Current AZ Senate District 7 (AZ State Senate District 7).
+
+Represents [AZ State Senate District 7](/us/states/az/districts/senate/7.md).
 
 ## Sources
 

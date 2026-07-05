@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 14"
+represents: "us/states/ut/districts/house/14"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karianne Lisonbee
 
 Current UT House District 14 (UT State House of Representatives District 14).
+
+Represents [UT State House of Representatives District 14](/us/states/ut/districts/house/14.md).
 
 ## Sources
 

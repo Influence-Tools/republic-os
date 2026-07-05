@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 49"
+represents: "us/states/me/districts/house/49"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Allison Hepler
 
 Current ME House District 49 (ME State House of Representatives District 49).
+
+Represents [ME State House of Representatives District 49](/us/states/me/districts/house/49.md).
 
 ## Sources
 

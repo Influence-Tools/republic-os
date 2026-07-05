@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 1"
+represents: "us/states/ct/districts/senate/1"
 tenure:
   start: "1997-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Fonfara
 
 Current CT Senate District 1 (CT State Senate District 1).
+
+Represents [CT State Senate District 1](/us/states/ct/districts/senate/1.md).
 
 ## Sources
 

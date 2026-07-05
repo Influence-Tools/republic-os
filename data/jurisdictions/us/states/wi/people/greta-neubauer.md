@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 66"
+represents: "us/states/wi/districts/house/66"
 tenure:
   start: "2018-01-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greta Neubauer
 
 Current WI House District 66 (WI State House of Representatives District 66).
+
+Represents [WI State House of Representatives District 66](/us/states/wi/districts/house/66.md).
 
 ## Sources
 

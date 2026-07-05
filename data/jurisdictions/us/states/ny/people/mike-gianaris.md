@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 12"
+represents: "us/states/ny/districts/senate/12"
 tenure:
   start: "2019-03-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Gianaris
 
 Current NY Senate District 12 (NY State Senate District 12).
+
+Represents [NY State Senate District 12](/us/states/ny/districts/senate/12.md).
 
 ## Sources
 

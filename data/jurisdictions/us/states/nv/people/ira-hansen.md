@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 14"
+represents: "us/states/nv/districts/senate/14"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ira Hansen
 
 Current NV Senate District 14 (NV State Senate District 14).
+
+Represents [NV State Senate District 14](/us/states/nv/districts/senate/14.md).
 
 ## Sources
 

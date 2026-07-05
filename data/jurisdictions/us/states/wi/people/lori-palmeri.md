@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 54"
+represents: "us/states/wi/districts/house/54"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Palmeri
 
 Current WI House District 54 (WI State House of Representatives District 54).
+
+Represents [WI State House of Representatives District 54](/us/states/wi/districts/house/54.md).
 
 ## Sources
 

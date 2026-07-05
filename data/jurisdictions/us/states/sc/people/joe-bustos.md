@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 112"
+represents: "us/states/sc/districts/house/112"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Bustos
 
 Current SC House District 112 (SC State House of Representatives District 112).
+
+Represents [SC State House of Representatives District 112](/us/states/sc/districts/house/112.md).
 
 ## Sources
 

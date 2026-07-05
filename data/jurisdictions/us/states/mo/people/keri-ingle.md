@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 35"
+represents: "us/states/mo/districts/house/35"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keri Ingle
 
 Current MO House District 35 (MO State House of Representatives District 35).
+
+Represents [MO State House of Representatives District 35](/us/states/mo/districts/house/35.md).
 
 ## Sources
 

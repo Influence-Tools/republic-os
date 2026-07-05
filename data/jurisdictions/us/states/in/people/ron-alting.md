@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 22"
+represents: "us/states/in/districts/senate/22"
 tenure:
   start: "1998-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Alting
 
 Current IN Senate District 22 (IN State Senate District 22).
+
+Represents [IN State Senate District 22](/us/states/in/districts/senate/22.md).
 
 ## Sources
 

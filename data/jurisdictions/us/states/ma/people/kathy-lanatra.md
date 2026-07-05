@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 12th Plymouth"
+represents: "us/states/ma/districts/house/12th-plymouth"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy LaNatra
 
 Current MA House District 12th Plymouth (MA State House of Representatives District 12th Plymouth).
+
+Represents [MA State House of Representatives District 12th Plymouth](/us/states/ma/districts/house/12th-plymouth.md).
 
 ## Sources
 

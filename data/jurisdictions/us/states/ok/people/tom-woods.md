@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 4"
+represents: "us/states/ok/districts/senate/4"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Woods
 
 Current OK Senate District 4 (OK State Senate District 4).
+
+Represents [OK State Senate District 4](/us/states/ok/districts/senate/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 53"
+represents: "us/states/ms/districts/house/53"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vince Mangold
 
 Current MS House District 53 (MS State House of Representatives District 53).
+
+Represents [MS State House of Representatives District 53](/us/states/ms/districts/house/53.md).
 
 ## Sources
 

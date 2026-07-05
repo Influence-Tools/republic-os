@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 28A"
+represents: "us/states/id/districts/house/28a"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Cheatum
 
 Current ID House District 28A (ID State House of Representatives District 28A).
+
+Represents [ID State House of Representatives District 28A](/us/states/id/districts/house/28a.md).
 
 ## Sources
 

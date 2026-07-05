@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 31"
+represents: "us/states/id/districts/senate/31"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Van Burtenshaw
 
 Current ID Senate District 31 (ID State Senate District 31).
+
+Represents [ID State Senate District 31](/us/states/id/districts/senate/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 35"
+represents: "us/states/il/districts/senate/35"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Syverson
 
 Current IL Senate District 35 (IL State Senate District 35).
+
+Represents [IL State Senate District 35](/us/states/il/districts/senate/35.md).
 
 ## Sources
 

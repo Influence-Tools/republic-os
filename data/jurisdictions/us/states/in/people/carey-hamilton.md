@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 87"
+represents: "us/states/in/districts/house/87"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carey Hamilton
 
 Current IN House District 87 (IN State House of Representatives District 87).
+
+Represents [IN State House of Representatives District 87](/us/states/in/districts/house/87.md).
 
 ## Sources
 

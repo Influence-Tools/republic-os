@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 179"
+represents: "us/states/pa/districts/house/179"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Dawkins
 
 Current PA House District 179 (PA State House of Representatives District 179).
+
+Represents [PA State House of Representatives District 179](/us/states/pa/districts/house/179.md).
 
 ## Sources
 

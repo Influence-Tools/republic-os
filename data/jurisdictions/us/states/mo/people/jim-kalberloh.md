@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 126"
+represents: "us/states/mo/districts/house/126"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Kalberloh
 
 Current MO House District 126 (MO State House of Representatives District 126).
+
+Represents [MO State House of Representatives District 126](/us/states/mo/districts/house/126.md).
 
 ## Sources
 

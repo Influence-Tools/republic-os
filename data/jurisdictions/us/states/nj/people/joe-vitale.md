@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 19"
+represents: "us/states/nj/districts/senate/19"
 tenure:
   start: "1998-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Vitale
 
 Current NJ Senate District 19 (NJ State Senate District 19).
+
+Represents [NJ State Senate District 19](/us/states/nj/districts/senate/19.md).
 
 ## Sources
 

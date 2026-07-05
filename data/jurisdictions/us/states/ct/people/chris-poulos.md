@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 81"
+represents: "us/states/ct/districts/house/81"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Poulos
 
 Current CT House District 81 (CT State House of Representatives District 81).
+
+Represents [CT State House of Representatives District 81](/us/states/ct/districts/house/81.md).
 
 ## Sources
 

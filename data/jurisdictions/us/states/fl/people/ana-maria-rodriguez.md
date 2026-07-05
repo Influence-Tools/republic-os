@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 40"
+represents: "us/states/fl/districts/senate/40"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ana Maria Rodriguez
 
 Current FL Senate District 40 (FL State Senate District 40).
+
+Represents [FL State Senate District 40](/us/states/fl/districts/senate/40.md).
 
 ## Sources
 

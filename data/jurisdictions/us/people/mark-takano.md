@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 39"
+represents: "us/states/ca/districts/39"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Mark Takano
 
 Current U.S. House of Representatives - CA-39 (Congressional District 39).
+
+Represents [Congressional District 39](/us/states/ca/districts/39.md).
 
 ## Committees
 

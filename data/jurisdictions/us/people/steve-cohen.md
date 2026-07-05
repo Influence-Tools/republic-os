@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TN"
 district: "Congressional District 9"
+represents: "us/states/tn/districts/09"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Steve Cohen
 
 Current U.S. House of Representatives - TN-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/tn/districts/09.md).
 
 ## Committees
 

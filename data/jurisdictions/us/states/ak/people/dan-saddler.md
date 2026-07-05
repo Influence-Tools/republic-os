@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 24"
+represents: "us/states/ak/districts/house/24"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Saddler
 
 Current AK House District 24 (AK State House of Representatives District 24).
+
+Represents [AK State House of Representatives District 24](/us/states/ak/districts/house/24.md).
 
 ## Sources
 

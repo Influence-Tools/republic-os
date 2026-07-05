@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 85"
+represents: "us/states/ks/districts/house/85"
 tenure:
   start: "2025-06-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Brunk
 
 Current KS House District 85 (KS State House of Representatives District 85).
+
+Represents [KS State House of Representatives District 85](/us/states/ks/districts/house/85.md).
 
 ## Sources
 

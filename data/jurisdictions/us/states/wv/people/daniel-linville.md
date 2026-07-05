@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 22"
+represents: "us/states/wv/districts/house/22"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Linville
 
 Current WV House District 22 (WV State House of Representatives District 22).
+
+Represents [WV State House of Representatives District 22](/us/states/wv/districts/house/22.md).
 
 ## Sources
 

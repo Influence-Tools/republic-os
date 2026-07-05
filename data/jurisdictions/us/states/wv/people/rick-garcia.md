@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 76"
+represents: "us/states/wv/districts/house/76"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Garcia
 
 Current WV House District 76 (WV State House of Representatives District 76).
+
+Represents [WV State House of Representatives District 76](/us/states/wv/districts/house/76.md).
 
 ## Sources
 

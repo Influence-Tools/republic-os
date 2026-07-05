@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 8"
+represents: "us/states/il/districts/senate/8"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ram Villivalam
 
 Current IL Senate District 8 (IL State Senate District 8).
+
+Represents [IL State Senate District 8](/us/states/il/districts/senate/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 1"
+represents: "us/states/mt/districts/house/1"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neil Duram
 
 Current MT House District 1 (MT State House of Representatives District 1).
+
+Represents [MT State House of Representatives District 1](/us/states/mt/districts/house/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 84"
+represents: "us/states/ar/districts/house/84"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Les Warren
 
 Current AR House District 84 (AR State House of Representatives District 84).
+
+Represents [AR State House of Representatives District 84](/us/states/ar/districts/house/84.md).
 
 ## Sources
 

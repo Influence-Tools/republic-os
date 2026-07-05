@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 125"
+represents: "us/states/tx/districts/house/125"
 tenure:
   start: "2019-03-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Lopez
 
 Current TX House District 125 (TX State House of Representatives District 125).
+
+Represents [TX State House of Representatives District 125](/us/states/tx/districts/house/125.md).
 
 ## Sources
 

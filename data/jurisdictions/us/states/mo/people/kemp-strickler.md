@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 34"
+represents: "us/states/mo/districts/house/34"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kemp Strickler
 
 Current MO House District 34 (MO State House of Representatives District 34).
+
+Represents [MO State House of Representatives District 34](/us/states/mo/districts/house/34.md).
 
 ## Sources
 

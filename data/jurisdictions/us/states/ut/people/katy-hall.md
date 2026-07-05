@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 11"
+represents: "us/states/ut/districts/house/11"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katy Hall
 
 Current UT House District 11 (UT State House of Representatives District 11).
+
+Represents [UT State House of Representatives District 11](/us/states/ut/districts/house/11.md).
 
 ## Sources
 

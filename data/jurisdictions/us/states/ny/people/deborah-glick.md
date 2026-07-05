@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 66"
+represents: "us/states/ny/districts/house/66"
 tenure:
   start: "1991-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deborah Glick
 
 Current NY House District 66 (NY State House of Representatives District 66).
+
+Represents [NY State House of Representatives District 66](/us/states/ny/districts/house/66.md).
 
 ## Sources
 

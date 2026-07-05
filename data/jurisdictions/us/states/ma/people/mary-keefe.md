@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 15th Worcester"
+represents: "us/states/ma/districts/house/15th-worcester"
 tenure:
   start: "2013-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Keefe
 
 Current MA House District 15th Worcester (MA State House of Representatives District 15th Worcester).
+
+Represents [MA State House of Representatives District 15th Worcester](/us/states/ma/districts/house/15th-worcester.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 27"
+represents: "us/states/tx/districts/senate/27"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Hinojosa
 
 Current TX Senate District 27 (TX State Senate District 27).
+
+Represents [TX State Senate District 27](/us/states/tx/districts/senate/27.md).
 
 ## Sources
 

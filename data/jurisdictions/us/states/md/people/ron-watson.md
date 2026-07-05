@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 23"
+represents: "us/states/md/districts/senate/23"
 tenure:
   start: "2021-08-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Watson
 
 Current MD Senate District 23 (MD State Senate District 23).
+
+Represents [MD State Senate District 23](/us/states/md/districts/senate/23.md).
 
 ## Sources
 

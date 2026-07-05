@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 3"
+represents: "us/states/fl/districts/house/3"
 tenure:
   start: "2025-06-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathan Boyles
 
 Current FL House District 3 (FL State House of Representatives District 3).
+
+Represents [FL State House of Representatives District 3](/us/states/fl/districts/house/3.md).
 
 ## Sources
 

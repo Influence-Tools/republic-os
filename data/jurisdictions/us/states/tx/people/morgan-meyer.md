@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 108"
+represents: "us/states/tx/districts/house/108"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Morgan Meyer
 
 Current TX House District 108 (TX State House of Representatives District 108).
+
+Represents [TX State House of Representatives District 108](/us/states/tx/districts/house/108.md).
 
 ## Sources
 

@@ -22,9 +22,21 @@ demographics:
   race_native: 9181
   hispanic: 213992
   bachelors_plus: 143776
+districts:
+  - to: "us/states/ca/districts/24"
+    rel: in-district
+    area_weight: 0.7265
+  - to: "us/states/ca/districts/senate/21"
+    rel: in-district
+    area_weight: 0.7271
+  - to: "us/states/ca/districts/house/37"
+    rel: in-district
+    area_weight: 0.727
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ca]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 213992 |
 | Bachelor's or higher | 143776 |
 
+## Districts
+
+- [CA-24](/us/states/ca/districts/24.md) — 73% (congressional)
+- [CA Senate District 21](/us/states/ca/districts/senate/21.md) — 73% (state senate)
+- [CA House District 37](/us/states/ca/districts/house/37.md) — 73% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

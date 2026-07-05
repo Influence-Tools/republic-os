@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 24"
+represents: "us/states/nc/districts/senate/24"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Britt
 
 Current NC Senate District 24 (NC State Senate District 24).
+
+Represents [NC State Senate District 24](/us/states/nc/districts/senate/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 120"
+represents: "us/states/ct/districts/house/120"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kaitlyn Shake
 
 Current CT House District 120 (CT State House of Representatives District 120).
+
+Represents [CT State House of Representatives District 120](/us/states/ct/districts/house/120.md).
 
 ## Sources
 

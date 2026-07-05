@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 21"
+represents: "us/states/ca/districts/house/21"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Diane Papan
 
 Current CA House District 21 (CA State House of Representatives District 21).
+
+Represents [CA State House of Representatives District 21](/us/states/ca/districts/house/21.md).
 
 ## Sources
 

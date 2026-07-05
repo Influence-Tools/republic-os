@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 61"
+represents: "us/states/pa/districts/house/61"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Hanbidge
 
 Current PA House District 61 (PA State House of Representatives District 61).
+
+Represents [PA State House of Representatives District 61](/us/states/pa/districts/house/61.md).
 
 ## Sources
 

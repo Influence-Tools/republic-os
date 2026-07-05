@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 144"
+represents: "us/states/ny/districts/house/144"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Bologna
 
 Current NY House District 144 (NY State House of Representatives District 144).
+
+Represents [NY State House of Representatives District 144](/us/states/ny/districts/house/144.md).
 
 ## Sources
 

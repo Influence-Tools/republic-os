@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 22"
+represents: "us/states/co/districts/house/22"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken DeGraaf
 
 Current CO House District 22 (CO State House of Representatives District 22).
+
+Represents [CO State House of Representatives District 22](/us/states/co/districts/house/22.md).
 
 ## Sources
 

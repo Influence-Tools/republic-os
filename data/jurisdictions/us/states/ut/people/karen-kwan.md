@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 12"
+represents: "us/states/ut/districts/senate/12"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Kwan
 
 Current UT Senate District 12 (UT State Senate District 12).
+
+Represents [UT State Senate District 12](/us/states/ut/districts/senate/12.md).
 
 ## Sources
 

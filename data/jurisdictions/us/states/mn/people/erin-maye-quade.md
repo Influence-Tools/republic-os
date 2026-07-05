@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 56"
+represents: "us/states/mn/districts/senate/56"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Maye Quade
 
 Current MN Senate District 56 (MN State Senate District 56).
+
+Represents [MN State Senate District 56](/us/states/mn/districts/senate/56.md).
 
 ## Sources
 

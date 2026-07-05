@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 38"
+represents: "us/states/va/districts/house/38"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Rasoul
 
 Current VA House District 38 (VA State House of Representatives District 38).
+
+Represents [VA State House of Representatives District 38](/us/states/va/districts/house/38.md).
 
 ## Sources
 

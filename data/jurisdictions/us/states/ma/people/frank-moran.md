@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 17th Essex"
+represents: "us/states/ma/districts/house/17th-essex"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Moran
 
 Current MA House District 17th Essex (MA State House of Representatives District 17th Essex).
+
+Represents [MA State House of Representatives District 17th Essex](/us/states/ma/districts/house/17th-essex.md).
 
 ## Sources
 

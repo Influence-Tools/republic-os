@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 49"
+represents: "us/states/tn/districts/house/49"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Sparks
 
 Current TN House District 49 (TN State House of Representatives District 49).
+
+Represents [TN State House of Representatives District 49](/us/states/tn/districts/house/49.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 11"
+represents: "us/states/ny/districts/house/11"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kwani O'Pharrow
 
 Current NY House District 11 (NY State House of Representatives District 11).
+
+Represents [NY State House of Representatives District 11](/us/states/ny/districts/house/11.md).
 
 ## Sources
 

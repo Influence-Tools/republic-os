@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 43"
+represents: "us/states/wi/districts/house/43"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brienne Brown
 
 Current WI House District 43 (WI State House of Representatives District 43).
+
+Represents [WI State House of Representatives District 43](/us/states/wi/districts/house/43.md).
 
 ## Sources
 

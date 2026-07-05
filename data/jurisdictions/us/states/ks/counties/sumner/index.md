@@ -22,9 +22,30 @@ demographics:
   race_native: 278
   hispanic: 1366
   bachelors_plus: 5123
+districts:
+  - to: "us/states/ks/districts/04"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/ks/districts/senate/32"
+    rel: in-district
+    area_weight: 0.997
+  - to: "us/states/ks/districts/house/79"
+    rel: in-district
+    area_weight: 0.3834
+  - to: "us/states/ks/districts/house/80"
+    rel: in-district
+    area_weight: 0.3244
+  - to: "us/states/ks/districts/house/116"
+    rel: in-district
+    area_weight: 0.2829
+  - to: "us/states/ks/districts/house/82"
+    rel: in-district
+    area_weight: 0.0091
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ks]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 1366 |
 | Bachelor's or higher | 5123 |
 
+## Districts
+
+- [KS-04](/us/states/ks/districts/04.md) — 100% (congressional)
+- [KS Senate District 32](/us/states/ks/districts/senate/32.md) — 100% (state senate)
+- [KS House District 79](/us/states/ks/districts/house/79.md) — 38% (state house)
+- [KS House District 80](/us/states/ks/districts/house/80.md) — 32% (state house)
+- [KS House District 116](/us/states/ks/districts/house/116.md) — 28% (state house)
+- [KS House District 82](/us/states/ks/districts/house/82.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

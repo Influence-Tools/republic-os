@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Washington-Chittenden"
+represents: "us/states/vt/districts/house/washington-chittenden"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Stevens
 
 Current VT House District Washington-Chittenden (VT State House of Representatives District Washington-Chittenden).
+
+Represents [VT State House of Representatives District Washington-Chittenden](/us/states/vt/districts/house/washington-chittenden.md).
 
 ## Sources
 

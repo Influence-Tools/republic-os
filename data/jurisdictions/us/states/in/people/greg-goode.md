@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 38"
+represents: "us/states/in/districts/senate/38"
 tenure:
   start: "2023-11-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Goode
 
 Current IN Senate District 38 (IN State Senate District 38).
+
+Represents [IN State Senate District 38](/us/states/in/districts/senate/38.md).
 
 ## Sources
 

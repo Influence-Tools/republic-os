@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 111"
+represents: "us/states/ct/districts/house/111"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aimee Berger-Girvalo
 
 Current CT House District 111 (CT State House of Representatives District 111).
+
+Represents [CT State House of Representatives District 111](/us/states/ct/districts/house/111.md).
 
 ## Sources
 

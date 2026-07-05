@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 5th Barnstable"
+represents: "us/states/ma/districts/house/5th-barnstable"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Xiarhos
 
 Current MA House District 5th Barnstable (MA State House of Representatives District 5th Barnstable).
+
+Represents [MA State House of Representatives District 5th Barnstable](/us/states/ma/districts/house/5th-barnstable.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 5"
+represents: "us/states/ny/districts/senate/5"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Rhoads
 
 Current NY Senate District 5 (NY State Senate District 5).
+
+Represents [NY State Senate District 5](/us/states/ny/districts/senate/5.md).
 
 ## Sources
 

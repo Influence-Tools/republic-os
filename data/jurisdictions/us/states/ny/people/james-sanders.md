@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 10"
+represents: "us/states/ny/districts/senate/10"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Sanders
 
 Current NY Senate District 10 (NY State Senate District 10).
+
+Represents [NY State Senate District 10](/us/states/ny/districts/senate/10.md).
 
 ## Sources
 

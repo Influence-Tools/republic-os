@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 7"
+represents: "us/states/tx/districts/07"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Lizzie Fletcher
 
 Current U.S. House of Representatives - TX-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/tx/districts/07.md).
 
 ## Committees
 

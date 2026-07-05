@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 41"
+represents: "us/states/al/districts/house/41"
 tenure:
   start: "2017-02-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Corley Ellis
 
 Current AL House District 41 (AL State House of Representatives District 41).
+
+Represents [AL State House of Representatives District 41](/us/states/al/districts/house/41.md).
 
 ## Sources
 

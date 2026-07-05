@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 37"
+represents: "us/states/ky/districts/senate/37"
 tenure:
   start: "2026-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Clemons
 
 Current KY Senate District 37 (KY State Senate District 37).
+
+Represents [KY State Senate District 37](/us/states/ky/districts/senate/37.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 105"
+represents: "us/states/la/districts/house/105"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jacob Braud
 
 Current LA House District 105 (LA State House of Representatives District 105).
+
+Represents [LA State House of Representatives District 105](/us/states/la/districts/house/105.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 2"
+represents: "us/states/co/districts/house/2"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Woodrow
 
 Current CO House District 2 (CO State House of Representatives District 2).
+
+Represents [CO State House of Representatives District 2](/us/states/co/districts/house/2.md).
 
 ## Sources
 

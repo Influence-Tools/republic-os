@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 161"
+represents: "us/states/ga/districts/house/161"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Hitchens
 
 Current GA House District 161 (GA State House of Representatives District 161).
+
+Represents [GA State House of Representatives District 161](/us/states/ga/districts/house/161.md).
 
 ## Sources
 

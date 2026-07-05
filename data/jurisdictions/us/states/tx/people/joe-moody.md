@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 78"
+represents: "us/states/tx/districts/house/78"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Moody
 
 Current TX House District 78 (TX State House of Representatives District 78).
+
+Represents [TX State House of Representatives District 78](/us/states/tx/districts/house/78.md).
 
 ## Sources
 

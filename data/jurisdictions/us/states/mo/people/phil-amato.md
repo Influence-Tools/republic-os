@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 113"
+represents: "us/states/mo/districts/house/113"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Amato
 
 Current MO House District 113 (MO State House of Representatives District 113).
+
+Represents [MO State House of Representatives District 113](/us/states/mo/districts/house/113.md).
 
 ## Sources
 

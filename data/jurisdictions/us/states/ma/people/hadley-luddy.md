@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 4th Barnstable"
+represents: "us/states/ma/districts/house/4th-barnstable"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hadley Luddy
 
 Current MA House District 4th Barnstable (MA State House of Representatives District 4th Barnstable).
+
+Represents [MA State House of Representatives District 4th Barnstable](/us/states/ma/districts/house/4th-barnstable.md).
 
 ## Sources
 

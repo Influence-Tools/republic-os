@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 31"
+represents: "us/states/sc/districts/house/31"
 tenure:
   start: "2017-09-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rosalyn Henderson-Myers
 
 Current SC House District 31 (SC State House of Representatives District 31).
+
+Represents [SC State House of Representatives District 31](/us/states/sc/districts/house/31.md).
 
 ## Sources
 

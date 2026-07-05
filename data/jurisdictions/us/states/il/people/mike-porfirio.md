@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 11"
+represents: "us/states/il/districts/senate/11"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Porfirio
 
 Current IL Senate District 11 (IL State Senate District 11).
+
+Represents [IL State Senate District 11](/us/states/il/districts/senate/11.md).
 
 ## Sources
 

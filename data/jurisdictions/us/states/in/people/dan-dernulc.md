@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 1"
+represents: "us/states/in/districts/senate/1"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Dernulc
 
 Current IN Senate District 1 (IN State Senate District 1).
+
+Represents [IN State Senate District 1](/us/states/in/districts/senate/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 17"
+represents: "us/states/mo/districts/house/17"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Allen
 
 Current MO House District 17 (MO State House of Representatives District 17).
+
+Represents [MO State House of Representatives District 17](/us/states/mo/districts/house/17.md).
 
 ## Sources
 

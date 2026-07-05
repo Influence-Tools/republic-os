@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 18"
+represents: "us/states/ky/districts/senate/18"
 tenure:
   start: "2025-05-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robin Webb
 
 Current KY Senate District 18 (KY State Senate District 18).
+
+Represents [KY State Senate District 18](/us/states/ky/districts/senate/18.md).
 
 ## Sources
 

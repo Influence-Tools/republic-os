@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 16"
+represents: "us/states/mo/districts/house/16"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Brown
 
 Current MO House District 16 (MO State House of Representatives District 16).
+
+Represents [MO State House of Representatives District 16](/us/states/mo/districts/house/16.md).
 
 ## Sources
 

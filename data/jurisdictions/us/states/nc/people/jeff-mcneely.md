@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 84"
+represents: "us/states/nc/districts/house/84"
 tenure:
   start: "2019-07-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff McNeely
 
 Current NC House District 84 (NC State House of Representatives District 84).
+
+Represents [NC State House of Representatives District 84](/us/states/nc/districts/house/84.md).
 
 ## Sources
 

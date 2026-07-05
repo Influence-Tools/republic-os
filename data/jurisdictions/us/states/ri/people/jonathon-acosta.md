@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 16"
+represents: "us/states/ri/districts/senate/16"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathon Acosta
 
 Current RI Senate District 16 (RI State Senate District 16).
+
+Represents [RI State Senate District 16](/us/states/ri/districts/senate/16.md).
 
 ## Sources
 

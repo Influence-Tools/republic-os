@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 16"
+represents: "us/states/id/districts/senate/16"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ali Rabe
 
 Current ID Senate District 16 (ID State Senate District 16).
+
+Represents [ID State Senate District 16](/us/states/id/districts/senate/16.md).
 
 ## Sources
 

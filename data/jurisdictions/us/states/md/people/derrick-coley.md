@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 24"
+represents: "us/states/md/districts/house/24"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derrick Coley
 
 Current MD House District 24 (MD State House of Representatives District 24).
+
+Represents [MD State House of Representatives District 24](/us/states/md/districts/house/24.md).
 
 ## Sources
 

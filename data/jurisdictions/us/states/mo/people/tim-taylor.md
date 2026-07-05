@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 48"
+represents: "us/states/mo/districts/house/48"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Taylor
 
 Current MO House District 48 (MO State House of Representatives District 48).
+
+Represents [MO State House of Representatives District 48](/us/states/mo/districts/house/48.md).
 
 ## Sources
 

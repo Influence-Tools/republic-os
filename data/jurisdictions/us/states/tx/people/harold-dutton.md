@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 142"
+represents: "us/states/tx/districts/house/142"
 tenure:
   start: "1985-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harold Dutton
 
 Current TX House District 142 (TX State House of Representatives District 142).
+
+Represents [TX State House of Representatives District 142](/us/states/tx/districts/house/142.md).
 
 ## Sources
 

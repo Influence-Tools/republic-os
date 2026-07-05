@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 145"
+represents: "us/states/ct/districts/house/145"
 tenure:
   start: "2021-05-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Corey Paris
 
 Current CT House District 145 (CT State House of Representatives District 145).
+
+Represents [CT State House of Representatives District 145](/us/states/ct/districts/house/145.md).
 
 ## Sources
 

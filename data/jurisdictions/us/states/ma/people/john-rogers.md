@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 12th Norfolk"
+represents: "us/states/ma/districts/house/12th-norfolk"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Rogers
 
 Current MA House District 12th Norfolk (MA State House of Representatives District 12th Norfolk).
+
+Represents [MA State House of Representatives District 12th Norfolk](/us/states/ma/districts/house/12th-norfolk.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 11"
+represents: "us/states/sc/districts/senate/11"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Kimbrell
 
 Current SC Senate District 11 (SC State Senate District 11).
+
+Represents [SC State Senate District 11](/us/states/sc/districts/senate/11.md).
 
 ## Sources
 

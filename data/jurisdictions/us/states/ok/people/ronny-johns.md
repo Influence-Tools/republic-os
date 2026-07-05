@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 25"
+represents: "us/states/ok/districts/house/25"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ronny Johns
 
 Current OK House District 25 (OK State House of Representatives District 25).
+
+Represents [OK State House of Representatives District 25](/us/states/ok/districts/house/25.md).
 
 ## Sources
 

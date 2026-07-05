@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 7"
+represents: "us/states/ar/districts/house/7"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brit McKenzie
 
 Current AR House District 7 (AR State House of Representatives District 7).
+
+Represents [AR State House of Representatives District 7](/us/states/ar/districts/house/7.md).
 
 ## Sources
 

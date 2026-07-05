@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 30"
+represents: "us/states/ri/districts/senate/30"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark McKenney
 
 Current RI Senate District 30 (RI State Senate District 30).
+
+Represents [RI State Senate District 30](/us/states/ri/districts/senate/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 67"
+represents: "us/states/nm/districts/house/67"
 tenure:
   start: "2019-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Chatfield
 
 Current NM House District 67 (NM State House of Representatives District 67).
+
+Represents [NM State House of Representatives District 67](/us/states/nm/districts/house/67.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 11"
+represents: "us/states/ca/districts/11"
 tenure:
   start: "2025-01-03"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Nancy Pelosi
 
 Current U.S. House of Representatives - CA-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/ca/districts/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 39"
+represents: "us/states/co/districts/house/39"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandi Bradley
 
 Current CO House District 39 (CO State House of Representatives District 39).
+
+Represents [CO State House of Representatives District 39](/us/states/co/districts/house/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 40"
+represents: "us/states/nd/districts/house/40"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Macy Bolinske
 
 Current ND House District 40 (ND State House of Representatives District 40).
+
+Represents [ND State House of Representatives District 40](/us/states/nd/districts/house/40.md).
 
 ## Sources
 

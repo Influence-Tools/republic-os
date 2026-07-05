@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 16"
+represents: "us/states/pa/districts/house/16"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Matzie
 
 Current PA House District 16 (PA State House of Representatives District 16).
+
+Represents [PA State House of Representatives District 16](/us/states/pa/districts/house/16.md).
 
 ## Sources
 

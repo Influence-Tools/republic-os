@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CT"
 district: "Congressional District 2"
+represents: "us/states/ct/districts/02"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Joe Courtney
 
 Current U.S. House of Representatives - CT-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ct/districts/02.md).
 
 ## Committees
 

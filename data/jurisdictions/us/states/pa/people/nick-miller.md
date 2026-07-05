@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 14"
+represents: "us/states/pa/districts/senate/14"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Miller
 
 Current PA Senate District 14 (PA State Senate District 14).
+
+Represents [PA State Senate District 14](/us/states/pa/districts/senate/14.md).
 
 ## Sources
 

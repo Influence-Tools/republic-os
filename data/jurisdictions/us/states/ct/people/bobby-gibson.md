@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 15"
+represents: "us/states/ct/districts/house/15"
 tenure:
   start: "2018-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Gibson
 
 Current CT House District 15 (CT State House of Representatives District 15).
+
+Represents [CT State House of Representatives District 15](/us/states/ct/districts/house/15.md).
 
 ## Sources
 

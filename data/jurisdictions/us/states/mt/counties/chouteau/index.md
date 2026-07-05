@@ -22,9 +22,27 @@ demographics:
   race_native: 987
   hispanic: 183
   bachelors_plus: 1227
+districts:
+  - to: "us/states/mt/districts/02"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/mt/districts/senate/13"
+    rel: in-district
+    area_weight: 0.9827
+  - to: "us/states/mt/districts/senate/16"
+    rel: in-district
+    area_weight: 0.0171
+  - to: "us/states/mt/districts/house/26"
+    rel: in-district
+    area_weight: 0.9827
+  - to: "us/states/mt/districts/house/32"
+    rel: in-district
+    area_weight: 0.0171
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mt]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 183 |
 | Bachelor's or higher | 1227 |
 
+## Districts
+
+- [MT-02](/us/states/mt/districts/02.md) — 100% (congressional)
+- [MT Senate District 13](/us/states/mt/districts/senate/13.md) — 98% (state senate)
+- [MT Senate District 16](/us/states/mt/districts/senate/16.md) — 2% (state senate)
+- [MT House District 26](/us/states/mt/districts/house/26.md) — 98% (state house)
+- [MT House District 32](/us/states/mt/districts/house/32.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 3"
+represents: "us/states/id/districts/senate/3"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Okuniewicz
 
 Current ID Senate District 3 (ID State Senate District 3).
+
+Represents [ID State Senate District 3](/us/states/id/districts/senate/3.md).
 
 ## Sources
 

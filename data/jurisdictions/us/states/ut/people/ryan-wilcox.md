@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 7"
+represents: "us/states/ut/districts/house/7"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Wilcox
 
 Current UT House District 7 (UT State House of Representatives District 7).
+
+Represents [UT State House of Representatives District 7](/us/states/ut/districts/house/7.md).
 
 ## Sources
 

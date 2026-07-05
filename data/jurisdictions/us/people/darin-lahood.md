@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 16"
+represents: "us/states/il/districts/16"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Darin LaHood
 
 Current U.S. House of Representatives - IL-16 (Congressional District 16).
+
+Represents [Congressional District 16](/us/states/il/districts/16.md).
 
 ## Committees
 

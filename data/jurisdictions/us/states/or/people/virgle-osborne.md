@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 2"
+represents: "us/states/or/districts/house/2"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Virgle Osborne
 
 Current OR House District 2 (OR State House of Representatives District 2).
+
+Represents [OR State House of Representatives District 2](/us/states/or/districts/house/2.md).
 
 ## Sources
 

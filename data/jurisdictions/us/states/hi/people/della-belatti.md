@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 26"
+represents: "us/states/hi/districts/house/26"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Della Belatti
 
 Current HI House District 26 (HI State House of Representatives District 26).
+
+Represents [HI State House of Representatives District 26](/us/states/hi/districts/house/26.md).
 
 ## Sources
 

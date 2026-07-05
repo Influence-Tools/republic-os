@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 165"
+represents: "us/states/ga/districts/house/165"
 tenure:
   start: "2021-11-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Edna Jackson
 
 Current GA House District 165 (GA State House of Representatives District 165).
+
+Represents [GA State House of Representatives District 165](/us/states/ga/districts/house/165.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 21"
+represents: "us/states/in/districts/senate/21"
 tenure:
   start: "2008-04-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Buck
 
 Current IN Senate District 21 (IN State Senate District 21).
+
+Represents [IN State Senate District 21](/us/states/in/districts/senate/21.md).
 
 ## Sources
 

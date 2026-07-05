@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 74"
+represents: "us/states/wv/districts/house/74"
 tenure:
   start: "2026-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Guy Ward
 
 Current WV House District 74 (WV State House of Representatives District 74).
+
+Represents [WV State House of Representatives District 74](/us/states/wv/districts/house/74.md).
 
 ## Sources
 

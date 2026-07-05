@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 75"
+represents: "us/states/va/districts/house/75"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsey Dougherty
 
 Current VA House District 75 (VA State House of Representatives District 75).
+
+Represents [VA State House of Representatives District 75](/us/states/va/districts/house/75.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 3"
+represents: "us/states/ky/districts/house/3"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Bridges
 
 Current KY House District 3 (KY State House of Representatives District 3).
+
+Represents [KY State House of Representatives District 3](/us/states/ky/districts/house/3.md).
 
 ## Sources
 

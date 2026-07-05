@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 31"
+represents: "us/states/ga/districts/house/31"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emory Dunahoo
 
 Current GA House District 31 (GA State House of Representatives District 31).
+
+Represents [GA State House of Representatives District 31](/us/states/ga/districts/house/31.md).
 
 ## Sources
 

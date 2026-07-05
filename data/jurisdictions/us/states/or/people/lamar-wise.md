@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 48"
+represents: "us/states/or/districts/house/48"
 tenure:
   start: "2025-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lamar Wise
 
 Current OR House District 48 (OR State House of Representatives District 48).
+
+Represents [OR State House of Representatives District 48](/us/states/or/districts/house/48.md).
 
 ## Sources
 

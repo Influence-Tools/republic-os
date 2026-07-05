@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 11"
+represents: "us/states/ca/districts/house/11"
 tenure:
   start: "2022-04-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Wilson
 
 Current CA House District 11 (CA State House of Representatives District 11).
+
+Represents [CA State House of Representatives District 11](/us/states/ca/districts/house/11.md).
 
 ## Sources
 

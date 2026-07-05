@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 69"
+represents: "us/states/ok/districts/house/69"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Tedford
 
 Current OK House District 69 (OK State House of Representatives District 69).
+
+Represents [OK State House of Representatives District 69](/us/states/ok/districts/house/69.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 3"
+represents: "us/states/md/districts/house/3"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Kerr
 
 Current MD House District 3 (MD State House of Representatives District 3).
+
+Represents [MD State House of Representatives District 3](/us/states/md/districts/house/3.md).
 
 ## Sources
 

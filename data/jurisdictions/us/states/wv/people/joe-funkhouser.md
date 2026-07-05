@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 98"
+represents: "us/states/wv/districts/house/98"
 tenure:
   start: "2024-10-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Funkhouser
 
 Current WV House District 98 (WV State House of Representatives District 98).
+
+Represents [WV State House of Representatives District 98](/us/states/wv/districts/house/98.md).
 
 ## Sources
 

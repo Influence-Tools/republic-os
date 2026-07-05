@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 36"
+represents: "us/states/tn/districts/house/36"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Powers
 
 Current TN House District 36 (TN State House of Representatives District 36).
+
+Represents [TN State House of Representatives District 36](/us/states/tn/districts/house/36.md).
 
 ## Sources
 

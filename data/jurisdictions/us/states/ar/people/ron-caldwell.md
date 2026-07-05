@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 10"
+represents: "us/states/ar/districts/senate/10"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Caldwell
 
 Current AR Senate District 10 (AR State Senate District 10).
+
+Represents [AR State Senate District 10](/us/states/ar/districts/senate/10.md).
 
 ## Sources
 

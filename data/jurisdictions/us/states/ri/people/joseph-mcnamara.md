@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 19"
+represents: "us/states/ri/districts/house/19"
 tenure:
   start: "2003-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph McNamara
 
 Current RI House District 19 (RI State House of Representatives District 19).
+
+Represents [RI State House of Representatives District 19](/us/states/ri/districts/house/19.md).
 
 ## Sources
 

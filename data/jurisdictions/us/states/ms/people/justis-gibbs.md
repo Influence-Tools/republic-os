@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 72"
+represents: "us/states/ms/districts/house/72"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justis Gibbs
 
 Current MS House District 72 (MS State House of Representatives District 72).
+
+Represents [MS State House of Representatives District 72](/us/states/ms/districts/house/72.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 18"
+represents: "us/states/tn/districts/senate/18"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ferrell Haile
 
 Current TN Senate District 18 (TN State Senate District 18).
+
+Represents [TN State Senate District 18](/us/states/tn/districts/senate/18.md).
 
 ## Sources
 

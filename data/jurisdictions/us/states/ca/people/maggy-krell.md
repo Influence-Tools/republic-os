@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 6"
+represents: "us/states/ca/districts/house/6"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maggy Krell
 
 Current CA House District 6 (CA State House of Representatives District 6).
+
+Represents [CA State House of Representatives District 6](/us/states/ca/districts/house/6.md).
 
 ## Sources
 

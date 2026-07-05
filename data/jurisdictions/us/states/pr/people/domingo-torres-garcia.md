@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 25"
+represents: "us/states/pr/districts/house/25"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Domingo Torres García
 
 Current PR House District 25 (PR State House of Representatives District 25).
+
+Represents [PR State House of Representatives District 25](/us/states/pr/districts/house/25.md).
 
 ## Sources
 

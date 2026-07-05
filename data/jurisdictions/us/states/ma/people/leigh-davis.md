@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Berkshire"
+represents: "us/states/ma/districts/house/3rd-berkshire"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leigh Davis
 
 Current MA House District 3rd Berkshire (MA State House of Representatives District 3rd Berkshire).
+
+Represents [MA State House of Representatives District 3rd Berkshire](/us/states/ma/districts/house/3rd-berkshire.md).
 
 ## Sources
 

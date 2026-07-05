@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 73"
+represents: "us/states/mo/districts/house/73"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Raychel Proudie
 
 Current MO House District 73 (MO State House of Representatives District 73).
+
+Represents [MO State House of Representatives District 73](/us/states/mo/districts/house/73.md).
 
 ## Sources
 

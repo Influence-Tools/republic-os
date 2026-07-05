@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 55"
+represents: "us/states/tx/districts/house/55"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hillary Hickland
 
 Current TX House District 55 (TX State House of Representatives District 55).
+
+Represents [TX State House of Representatives District 55](/us/states/tx/districts/house/55.md).
 
 ## Sources
 

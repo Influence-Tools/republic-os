@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 178"
+represents: "us/states/pa/districts/house/178"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Marcell
 
 Current PA House District 178 (PA State House of Representatives District 178).
+
+Represents [PA State House of Representatives District 178](/us/states/pa/districts/house/178.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 12"
+represents: "us/states/ar/districts/senate/12"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Scott
 
 Current AR Senate District 12 (AR State Senate District 12).
+
+Represents [AR State Senate District 12](/us/states/ar/districts/senate/12.md).
 
 ## Sources
 

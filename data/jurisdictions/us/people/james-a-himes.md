@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CT"
 district: "Congressional District 4"
+represents: "us/states/ct/districts/04"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -43,6 +44,8 @@ timestamp: "2026-07-04"
 # James A. Himes
 
 Current U.S. House of Representatives - CT-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ct/districts/04.md).
 
 ## Committees
 

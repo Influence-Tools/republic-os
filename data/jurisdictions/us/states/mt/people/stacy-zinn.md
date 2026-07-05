@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 52"
+represents: "us/states/mt/districts/house/52"
 tenure:
   start: "2025-12-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacy Zinn
 
 Current MT House District 52 (MT State House of Representatives District 52).
+
+Represents [MT State House of Representatives District 52](/us/states/mt/districts/house/52.md).
 
 ## Sources
 

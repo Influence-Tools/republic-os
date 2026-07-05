@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 1"
+represents: "us/states/nd/districts/house/1"
 tenure:
   start: "2006-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Hatlestad
 
 Current ND House District 1 (ND State House of Representatives District 1).
+
+Represents [ND State House of Representatives District 1](/us/states/nd/districts/house/1.md).
 
 ## Sources
 

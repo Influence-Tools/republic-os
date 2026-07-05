@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 13"
+represents: "us/states/tn/districts/house/13"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Stevens
 
 Current TN House District 13 (TN State House of Representatives District 13).
+
+Represents [TN State House of Representatives District 13](/us/states/tn/districts/house/13.md).
 
 ## Sources
 

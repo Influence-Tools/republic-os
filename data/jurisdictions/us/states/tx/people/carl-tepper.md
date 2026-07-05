@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 84"
+represents: "us/states/tx/districts/house/84"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Tepper
 
 Current TX House District 84 (TX State House of Representatives District 84).
+
+Represents [TX State House of Representatives District 84](/us/states/tx/districts/house/84.md).
 
 ## Sources
 

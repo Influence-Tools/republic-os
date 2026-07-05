@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 38"
+represents: "us/states/tn/districts/house/38"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Keisling
 
 Current TN House District 38 (TN State House of Representatives District 38).
+
+Represents [TN State House of Representatives District 38](/us/states/tn/districts/house/38.md).
 
 ## Sources
 

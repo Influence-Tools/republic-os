@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 55"
+represents: "us/states/la/districts/house/55"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Fontenot
 
 Current LA House District 55 (LA State House of Representatives District 55).
+
+Represents [LA State House of Representatives District 55](/us/states/la/districts/house/55.md).
 
 ## Sources
 

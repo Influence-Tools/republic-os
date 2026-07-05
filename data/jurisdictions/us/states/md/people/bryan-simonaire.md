@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 31"
+represents: "us/states/md/districts/senate/31"
 tenure:
   start: "2007-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Simonaire
 
 Current MD Senate District 31 (MD State Senate District 31).
+
+Represents [MD State Senate District 31](/us/states/md/districts/senate/31.md).
 
 ## Sources
 

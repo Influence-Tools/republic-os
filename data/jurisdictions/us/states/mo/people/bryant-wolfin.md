@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 145"
+represents: "us/states/mo/districts/house/145"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryant Wolfin
 
 Current MO House District 145 (MO State House of Representatives District 145).
+
+Represents [MO State House of Representatives District 145](/us/states/mo/districts/house/145.md).
 
 ## Sources
 

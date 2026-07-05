@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 1"
+represents: "us/states/wi/districts/senate/1"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # André Jacque
 
 Current WI Senate District 1 (WI State Senate District 1).
+
+Represents [WI State Senate District 1](/us/states/wi/districts/senate/1.md).
 
 ## Sources
 

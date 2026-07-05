@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 6"
+represents: "us/states/ny/districts/06"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Grace Meng
 
 Current U.S. House of Representatives - NY-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/ny/districts/06.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 25"
+represents: "us/states/mt/districts/house/25"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Gist
 
 Current MT House District 25 (MT State House of Representatives District 25).
+
+Represents [MT State House of Representatives District 25](/us/states/mt/districts/house/25.md).
 
 ## Sources
 

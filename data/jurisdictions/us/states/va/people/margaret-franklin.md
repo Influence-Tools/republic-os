@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 23"
+represents: "us/states/va/districts/house/23"
 tenure:
   start: "2026-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Margaret Franklin
 
 Current VA House District 23 (VA State House of Representatives District 23).
+
+Represents [VA State House of Representatives District 23](/us/states/va/districts/house/23.md).
 
 ## Sources
 

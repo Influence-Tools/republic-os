@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 53"
+represents: "us/states/co/districts/house/53"
 tenure:
   start: "2021-04-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andy Boesenecker
 
 Current CO House District 53 (CO State House of Representatives District 53).
+
+Represents [CO State House of Representatives District 53](/us/states/co/districts/house/53.md).
 
 ## Sources
 

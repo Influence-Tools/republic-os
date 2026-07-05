@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 15"
+represents: "us/states/ny/districts/15"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Ritchie Torres
 
 Current U.S. House of Representatives - NY-15 (Congressional District 15).
+
+Represents [Congressional District 15](/us/states/ny/districts/15.md).
 
 ## Committees
 

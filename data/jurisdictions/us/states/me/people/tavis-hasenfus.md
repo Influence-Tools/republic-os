@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 57"
+represents: "us/states/me/districts/house/57"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tavis Hasenfus
 
 Current ME House District 57 (ME State House of Representatives District 57).
+
+Represents [ME State House of Representatives District 57](/us/states/me/districts/house/57.md).
 
 ## Sources
 

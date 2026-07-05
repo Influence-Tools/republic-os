@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 2"
+represents: "us/states/nj/districts/house/2"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maureen Rowan
 
 Current NJ House District 2 (NJ State House of Representatives District 2).
+
+Represents [NJ State House of Representatives District 2](/us/states/nj/districts/house/2.md).
 
 ## Sources
 

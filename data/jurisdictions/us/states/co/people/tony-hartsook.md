@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 44"
+represents: "us/states/co/districts/house/44"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Hartsook
 
 Current CO House District 44 (CO State House of Representatives District 44).
+
+Represents [CO State House of Representatives District 44](/us/states/co/districts/house/44.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 13"
+represents: "us/states/nm/districts/senate/13"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debbie O'Malley
 
 Current NM Senate District 13 (NM State Senate District 13).
+
+Represents [NM State Senate District 13](/us/states/nm/districts/senate/13.md).
 
 ## Sources
 

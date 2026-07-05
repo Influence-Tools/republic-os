@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 4"
+represents: "us/states/oh/districts/04"
 committees:
   - name: "House Committee on Oversight and Government Reform"
     role: "member"
@@ -43,6 +44,8 @@ timestamp: "2026-07-04"
 # Jim Jordan
 
 Current U.S. House of Representatives - OH-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/oh/districts/04.md).
 
 ## Committees
 

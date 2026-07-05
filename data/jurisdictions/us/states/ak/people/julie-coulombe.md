@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 11"
+represents: "us/states/ak/districts/house/11"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Coulombe
 
 Current AK House District 11 (AK State House of Representatives District 11).
+
+Represents [AK State House of Representatives District 11](/us/states/ak/districts/house/11.md).
 
 ## Sources
 

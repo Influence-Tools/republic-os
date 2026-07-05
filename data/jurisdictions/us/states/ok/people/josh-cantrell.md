@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 49"
+represents: "us/states/ok/districts/house/49"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Cantrell
 
 Current OK House District 49 (OK State House of Representatives District 49).
+
+Represents [OK State House of Representatives District 49](/us/states/ok/districts/house/49.md).
 
 ## Sources
 

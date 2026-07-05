@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 1"
+represents: "us/states/ok/districts/house/1"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddy Dempsey
 
 Current OK House District 1 (OK State House of Representatives District 1).
+
+Represents [OK State House of Representatives District 1](/us/states/ok/districts/house/1.md).
 
 ## Sources
 

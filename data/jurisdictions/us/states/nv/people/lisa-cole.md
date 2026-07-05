@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 4"
+represents: "us/states/nv/districts/house/4"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Cole
 
 Current NV House District 4 (NV State House of Representatives District 4).
+
+Represents [NV State House of Representatives District 4](/us/states/nv/districts/house/4.md).
 
 ## Sources
 

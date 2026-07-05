@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 18"
+represents: "us/states/al/districts/senate/18"
 tenure:
   start: "1995-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rodger Smitherman
 
 Current AL Senate District 18 (AL State Senate District 18).
+
+Represents [AL State Senate District 18](/us/states/al/districts/senate/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 21"
+represents: "us/states/nm/districts/senate/21"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Tobiassen
 
 Current NM Senate District 21 (NM State Senate District 21).
+
+Represents [NM State Senate District 21](/us/states/nm/districts/senate/21.md).
 
 ## Sources
 

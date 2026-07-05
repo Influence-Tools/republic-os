@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 53"
+represents: "us/states/me/districts/house/53"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Lemelin
 
 Current ME House District 53 (ME State House of Representatives District 53).
+
+Represents [ME State House of Representatives District 53](/us/states/me/districts/house/53.md).
 
 ## Sources
 

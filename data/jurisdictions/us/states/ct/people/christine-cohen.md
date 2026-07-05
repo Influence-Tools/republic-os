@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 12"
+represents: "us/states/ct/districts/senate/12"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christine Cohen
 
 Current CT Senate District 12 (CT State Senate District 12).
+
+Represents [CT State Senate District 12](/us/states/ct/districts/senate/12.md).
 
 ## Sources
 

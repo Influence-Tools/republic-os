@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 2"
+represents: "us/states/ga/districts/02"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Sanford D. Bishop, Jr.
 
 Current U.S. House of Representatives - GA-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ga/districts/02.md).
 
 ## Committees
 

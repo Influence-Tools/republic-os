@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 35"
+represents: "us/states/ms/districts/senate/35"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andy Berry
 
 Current MS Senate District 35 (MS State Senate District 35).
+
+Represents [MS State Senate District 35](/us/states/ms/districts/senate/35.md).
 
 ## Sources
 

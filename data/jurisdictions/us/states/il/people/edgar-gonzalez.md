@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 23"
+represents: "us/states/il/districts/house/23"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Edgar González
 
 Current IL House District 23 (IL State House of Representatives District 23).
+
+Represents [IL State House of Representatives District 23](/us/states/il/districts/house/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 29th Middlesex"
+represents: "us/states/ma/districts/house/29th-middlesex"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Owens
 
 Current MA House District 29th Middlesex (MA State House of Representatives District 29th Middlesex).
+
+Represents [MA State House of Representatives District 29th Middlesex](/us/states/ma/districts/house/29th-middlesex.md).
 
 ## Sources
 

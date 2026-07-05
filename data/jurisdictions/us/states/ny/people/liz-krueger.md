@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 28"
+represents: "us/states/ny/districts/senate/28"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Krueger
 
 Current NY Senate District 28 (NY State Senate District 28).
+
+Represents [NY State Senate District 28](/us/states/ny/districts/senate/28.md).
 
 ## Sources
 

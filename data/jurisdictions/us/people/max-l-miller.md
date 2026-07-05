@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 7"
+represents: "us/states/oh/districts/07"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Max L. Miller
 
 Current U.S. House of Representatives - OH-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/oh/districts/07.md).
 
 ## Committees
 

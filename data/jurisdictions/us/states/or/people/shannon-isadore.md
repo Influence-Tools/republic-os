@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 33"
+represents: "us/states/or/districts/house/33"
 tenure:
   start: "2024-09-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shannon Isadore
 
 Current OR House District 33 (OR State House of Representatives District 33).
+
+Represents [OR State House of Representatives District 33](/us/states/or/districts/house/33.md).
 
 ## Sources
 

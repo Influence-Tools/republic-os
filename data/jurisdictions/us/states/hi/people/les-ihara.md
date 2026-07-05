@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 10"
+represents: "us/states/hi/districts/senate/10"
 tenure:
   start: "2013-01-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Les Ihara
 
 Current HI Senate District 10 (HI State Senate District 10).
+
+Represents [HI State Senate District 10](/us/states/hi/districts/senate/10.md).
 
 ## Sources
 

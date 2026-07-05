@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 9"
+represents: "us/states/de/districts/house/9"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Hensley
 
 Current DE House District 9 (DE State House of Representatives District 9).
+
+Represents [DE State House of Representatives District 9](/us/states/de/districts/house/9.md).
 
 ## Sources
 

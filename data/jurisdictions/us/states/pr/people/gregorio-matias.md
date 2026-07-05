@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District At-Large"
+represents: "us/states/pr/districts/senate/at-large"
 tenure:
   start: "2020-05-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregorio Matías
 
 Current PR Senate District At-Large (PR State Senate District At-Large).
+
+Represents [PR State Senate District At-Large](/us/states/pr/districts/senate/at-large.md).
 
 ## Sources
 

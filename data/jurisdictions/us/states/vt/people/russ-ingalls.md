@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Essex"
+represents: "us/states/vt/districts/senate/essex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russ Ingalls
 
 Current VT Senate District Essex (VT State Senate District Essex).
+
+Represents [VT State Senate District Essex](/us/states/vt/districts/senate/essex.md).
 
 ## Sources
 

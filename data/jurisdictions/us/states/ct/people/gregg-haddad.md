@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 54"
+represents: "us/states/ct/districts/house/54"
 tenure:
   start: "2011-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregg Haddad
 
 Current CT House District 54 (CT State House of Representatives District 54).
+
+Represents [CT State House of Representatives District 54](/us/states/ct/districts/house/54.md).
 
 ## Sources
 

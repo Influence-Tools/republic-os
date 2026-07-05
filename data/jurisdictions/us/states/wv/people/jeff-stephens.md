@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 6"
+represents: "us/states/wv/districts/house/6"
 tenure:
   start: "2023-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Stephens
 
 Current WV House District 6 (WV State House of Representatives District 6).
+
+Represents [WV State House of Representatives District 6](/us/states/wv/districts/house/6.md).
 
 ## Sources
 

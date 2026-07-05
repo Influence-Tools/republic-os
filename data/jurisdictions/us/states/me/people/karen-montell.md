@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 54"
+represents: "us/states/me/districts/house/54"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Montell
 
 Current ME House District 54 (ME State House of Representatives District 54).
+
+Represents [ME State House of Representatives District 54](/us/states/me/districts/house/54.md).
 
 ## Sources
 

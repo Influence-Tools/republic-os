@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 26A"
+represents: "us/states/sd/districts/house/26a"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Emery
 
 Current SD House District 26A (SD State House of Representatives District 26A).
+
+Represents [SD State House of Representatives District 26A](/us/states/sd/districts/house/26a.md).
 
 ## Sources
 

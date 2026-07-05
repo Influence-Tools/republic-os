@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 55"
+represents: "us/states/va/districts/house/55"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Laufer
 
 Current VA House District 55 (VA State House of Representatives District 55).
+
+Represents [VA State House of Representatives District 55](/us/states/va/districts/house/55.md).
 
 ## Sources
 

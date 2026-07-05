@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 53"
+represents: "us/states/wy/districts/house/53"
 tenure:
   start: "2020-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Knapp
 
 Current WY House District 53 (WY State House of Representatives District 53).
+
+Represents [WY State House of Representatives District 53](/us/states/wy/districts/house/53.md).
 
 ## Sources
 

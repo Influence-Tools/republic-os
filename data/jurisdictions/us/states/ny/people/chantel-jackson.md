@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 79"
+represents: "us/states/ny/districts/house/79"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chantel Jackson
 
 Current NY House District 79 (NY State House of Representatives District 79).
+
+Represents [NY State House of Representatives District 79](/us/states/ny/districts/house/79.md).
 
 ## Sources
 

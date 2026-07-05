@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 64"
+represents: "us/states/ny/districts/house/64"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Tannousis
 
 Current NY House District 64 (NY State House of Representatives District 64).
+
+Represents [NY State House of Representatives District 64](/us/states/ny/districts/house/64.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 65"
+represents: "us/states/mi/districts/house/65"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaime Greene
 
 Current MI House District 65 (MI State House of Representatives District 65).
+
+Represents [MI State House of Representatives District 65](/us/states/mi/districts/house/65.md).
 
 ## Sources
 

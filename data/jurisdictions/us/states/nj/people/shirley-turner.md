@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 15"
+represents: "us/states/nj/districts/senate/15"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shirley Turner
 
 Current NJ Senate District 15 (NJ State Senate District 15).
+
+Represents [NJ State Senate District 15](/us/states/nj/districts/senate/15.md).
 
 ## Sources
 

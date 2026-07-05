@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 1"
+represents: "us/states/pr/districts/senate/1"
 tenure:
   start: "2022-09-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Juan Oscar Morales
 
 Current PR Senate District 1 (PR State Senate District 1).
+
+Represents [PR State Senate District 1](/us/states/pr/districts/senate/1.md).
 
 ## Sources
 

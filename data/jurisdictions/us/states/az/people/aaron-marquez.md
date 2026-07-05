@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 5"
+represents: "us/states/az/districts/house/5"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Marquez
 
 Current AZ House District 5 (AZ State House of Representatives District 5).
+
+Represents [AZ State House of Representatives District 5](/us/states/az/districts/house/5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 6"
+represents: "us/states/co/districts/house/6"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Camacho
 
 Current CO House District 6 (CO State House of Representatives District 6).
+
+Represents [CO State House of Representatives District 6](/us/states/co/districts/house/6.md).
 
 ## Sources
 

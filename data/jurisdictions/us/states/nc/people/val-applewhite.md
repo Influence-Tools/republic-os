@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 19"
+represents: "us/states/nc/districts/senate/19"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Val Applewhite
 
 Current NC Senate District 19 (NC State Senate District 19).
+
+Represents [NC State Senate District 19](/us/states/nc/districts/senate/19.md).
 
 ## Sources
 

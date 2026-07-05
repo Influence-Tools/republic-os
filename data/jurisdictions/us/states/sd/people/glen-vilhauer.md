@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 5"
+represents: "us/states/sd/districts/senate/5"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Glen Vilhauer
 
 Current SD Senate District 5 (SD State Senate District 5).
+
+Represents [SD State Senate District 5](/us/states/sd/districts/senate/5.md).
 
 ## Sources
 

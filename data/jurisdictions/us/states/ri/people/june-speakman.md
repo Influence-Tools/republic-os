@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 68"
+represents: "us/states/ri/districts/house/68"
 tenure:
   start: "2019-03-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # June Speakman
 
 Current RI House District 68 (RI State House of Representatives District 68).
+
+Represents [RI State House of Representatives District 68](/us/states/ri/districts/house/68.md).
 
 ## Sources
 

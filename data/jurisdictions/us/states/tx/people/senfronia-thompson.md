@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 141"
+represents: "us/states/tx/districts/house/141"
 tenure:
   start: "1983-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Senfronia Thompson
 
 Current TX House District 141 (TX State House of Representatives District 141).
+
+Represents [TX State House of Representatives District 141](/us/states/tx/districts/house/141.md).
 
 ## Sources
 

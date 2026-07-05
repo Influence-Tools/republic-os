@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AZ"
 district: "Congressional District 4"
+represents: "us/states/az/districts/04"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Greg Stanton
 
 Current U.S. House of Representatives - AZ-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/az/districts/04.md).
 
 ## Committees
 

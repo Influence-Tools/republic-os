@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 7"
+represents: "us/states/ga/districts/07"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Richard McCormick
 
 Current U.S. House of Representatives - GA-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/ga/districts/07.md).
 
 ## Committees
 

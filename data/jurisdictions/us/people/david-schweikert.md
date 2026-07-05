@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AZ"
 district: "Congressional District 1"
+represents: "us/states/az/districts/01"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # David Schweikert
 
 Current U.S. House of Representatives - AZ-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/az/districts/01.md).
 
 ## Committees
 

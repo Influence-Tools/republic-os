@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 10"
+represents: "us/states/tx/districts/10"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Michael T. McCaul
 
 Current U.S. House of Representatives - TX-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/tx/districts/10.md).
 
 ## Committees
 

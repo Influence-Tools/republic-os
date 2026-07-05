@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 66"
+represents: "us/states/mi/districts/house/66"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Schriver
 
 Current MI House District 66 (MI State House of Representatives District 66).
+
+Represents [MI State House of Representatives District 66](/us/states/mi/districts/house/66.md).
 
 ## Sources
 

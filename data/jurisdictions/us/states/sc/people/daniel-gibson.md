@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 12"
+represents: "us/states/sc/districts/house/12"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Gibson
 
 Current SC House District 12 (SC State House of Representatives District 12).
+
+Represents [SC State House of Representatives District 12](/us/states/sc/districts/house/12.md).
 
 ## Sources
 

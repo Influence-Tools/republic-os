@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 155"
+represents: "us/states/mo/districts/house/155"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthew Overcast
 
 Current MO House District 155 (MO State House of Representatives District 155).
+
+Represents [MO State House of Representatives District 155](/us/states/mo/districts/house/155.md).
 
 ## Sources
 

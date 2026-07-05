@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 19"
+represents: "us/states/fl/districts/19"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Byron Donalds
 
 Current U.S. House of Representatives - FL-19 (Congressional District 19).
+
+Represents [Congressional District 19](/us/states/fl/districts/19.md).
 
 ## Committees
 

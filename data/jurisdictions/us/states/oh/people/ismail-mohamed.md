@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 3"
+represents: "us/states/oh/districts/house/3"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ismail Mohamed
 
 Current OH House District 3 (OH State House of Representatives District 3).
+
+Represents [OH State House of Representatives District 3](/us/states/oh/districts/house/3.md).
 
 ## Sources
 

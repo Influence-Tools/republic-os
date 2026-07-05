@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 42"
+represents: "us/states/mi/districts/house/42"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Hall
 
 Current MI House District 42 (MI State House of Representatives District 42).
+
+Represents [MI State House of Representatives District 42](/us/states/mi/districts/house/42.md).
 
 ## Sources
 

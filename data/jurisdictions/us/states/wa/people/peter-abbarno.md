@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 20"
+represents: "us/states/wa/districts/house/20"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Abbarno
 
 Current WA House District 20 (WA State House of Representatives District 20).
+
+Represents [WA State House of Representatives District 20](/us/states/wa/districts/house/20.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 96"
+represents: "us/states/pa/districts/house/96"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nikki Rivera
 
 Current PA House District 96 (PA State House of Representatives District 96).
+
+Represents [PA State House of Representatives District 96](/us/states/pa/districts/house/96.md).
 
 ## Sources
 

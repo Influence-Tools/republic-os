@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 38"
+represents: "us/states/ca/districts/house/38"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Bennett
 
 Current CA House District 38 (CA State House of Representatives District 38).
+
+Represents [CA State House of Representatives District 38](/us/states/ca/districts/house/38.md).
 
 ## Sources
 

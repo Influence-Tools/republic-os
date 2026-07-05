@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 32"
+represents: "us/states/id/districts/senate/32"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Cook
 
 Current ID Senate District 32 (ID State Senate District 32).
+
+Represents [ID State Senate District 32](/us/states/id/districts/senate/32.md).
 
 ## Sources
 

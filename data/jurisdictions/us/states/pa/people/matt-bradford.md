@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 70"
+represents: "us/states/pa/districts/house/70"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Bradford
 
 Current PA House District 70 (PA State House of Representatives District 70).
+
+Represents [PA State House of Representatives District 70](/us/states/pa/districts/house/70.md).
 
 ## Sources
 

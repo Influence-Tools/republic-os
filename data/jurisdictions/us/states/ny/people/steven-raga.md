@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 30"
+represents: "us/states/ny/districts/house/30"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Raga
 
 Current NY House District 30 (NY State House of Representatives District 30).
+
+Represents [NY State House of Representatives District 30](/us/states/ny/districts/house/30.md).
 
 ## Sources
 

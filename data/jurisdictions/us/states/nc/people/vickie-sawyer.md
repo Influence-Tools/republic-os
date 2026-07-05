@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 37"
+represents: "us/states/nc/districts/senate/37"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vickie Sawyer
 
 Current NC Senate District 37 (NC State Senate District 37).
+
+Represents [NC State Senate District 37](/us/states/nc/districts/senate/37.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 92"
+represents: "us/states/wv/districts/house/92"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Hite
 
 Current WV House District 92 (WV State House of Representatives District 92).
+
+Represents [WV State House of Representatives District 92](/us/states/wv/districts/house/92.md).
 
 ## Sources
 

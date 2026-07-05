@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 9"
+represents: "us/states/tx/districts/09"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Al Green
 
 Current U.S. House of Representatives - TX-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/tx/districts/09.md).
 
 ## Committees
 

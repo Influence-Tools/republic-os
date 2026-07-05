@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 111"
+represents: "us/states/ms/districts/house/111"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jimmy Fondren
 
 Current MS House District 111 (MS State House of Representatives District 111).
+
+Represents [MS State House of Representatives District 111](/us/states/ms/districts/house/111.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 14"
+represents: "us/states/ms/districts/house/14"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Creekmore
 
 Current MS House District 14 (MS State House of Representatives District 14).
+
+Represents [MS State House of Representatives District 14](/us/states/ms/districts/house/14.md).
 
 ## Sources
 

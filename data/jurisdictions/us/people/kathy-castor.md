@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 14"
+represents: "us/states/fl/districts/14"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Kathy Castor
 
 Current U.S. House of Representatives - FL-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/fl/districts/14.md).
 
 ## Committees
 

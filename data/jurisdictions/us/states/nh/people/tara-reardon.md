@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 15"
+represents: "us/states/nh/districts/senate/15"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tara Reardon
 
 Current NH Senate District 15 (NH State Senate District 15).
+
+Represents [NH State Senate District 15](/us/states/nh/districts/senate/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 12"
+represents: "us/states/ny/districts/house/12"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Brown
 
 Current NY House District 12 (NY State House of Representatives District 12).
+
+Represents [NY State House of Representatives District 12](/us/states/ny/districts/house/12.md).
 
 ## Sources
 

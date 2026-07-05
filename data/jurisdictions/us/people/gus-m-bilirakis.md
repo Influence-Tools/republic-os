@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 12"
+represents: "us/states/fl/districts/12"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Gus M. Bilirakis
 
 Current U.S. House of Representatives - FL-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/fl/districts/12.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 23"
+represents: "us/states/ri/districts/senate/23"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica de la Cruz
 
 Current RI Senate District 23 (RI State Senate District 23).
+
+Represents [RI State Senate District 23](/us/states/ri/districts/senate/23.md).
 
 ## Sources
 

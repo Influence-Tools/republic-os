@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 24"
+represents: "us/states/va/districts/house/24"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Luke Torian
 
 Current VA House District 24 (VA State House of Representatives District 24).
+
+Represents [VA State House of Representatives District 24](/us/states/va/districts/house/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 86"
+represents: "us/states/ny/districts/house/86"
 tenure:
   start: "2021-11-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yudelka Tapia
 
 Current NY House District 86 (NY State House of Representatives District 86).
+
+Represents [NY State House of Representatives District 86](/us/states/ny/districts/house/86.md).
 
 ## Sources
 

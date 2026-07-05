@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 19"
+represents: "us/states/ok/districts/senate/19"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roland Pederson
 
 Current OK Senate District 19 (OK State Senate District 19).
+
+Represents [OK State Senate District 19](/us/states/ok/districts/senate/19.md).
 
 ## Sources
 

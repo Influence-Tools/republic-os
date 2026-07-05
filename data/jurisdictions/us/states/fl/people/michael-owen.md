@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 70"
+represents: "us/states/fl/districts/house/70"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Owen
 
 Current FL House District 70 (FL State House of Representatives District 70).
+
+Represents [FL State House of Representatives District 70](/us/states/fl/districts/house/70.md).
 
 ## Sources
 

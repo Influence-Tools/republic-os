@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 46"
+represents: "us/states/wa/districts/house/46"
 tenure:
   start: "2011-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerry Pollet
 
 Current WA House District 46 (WA State House of Representatives District 46).
+
+Represents [WA State House of Representatives District 46](/us/states/wa/districts/house/46.md).
 
 ## Sources
 

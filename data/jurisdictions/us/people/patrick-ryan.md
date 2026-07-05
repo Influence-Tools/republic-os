@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 18"
+represents: "us/states/ny/districts/18"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Patrick Ryan
 
 Current U.S. House of Representatives - NY-18 (Congressional District 18).
+
+Represents [Congressional District 18](/us/states/ny/districts/18.md).
 
 ## Committees
 

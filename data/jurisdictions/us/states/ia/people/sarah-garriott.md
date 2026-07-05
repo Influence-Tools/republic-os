@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 14"
+represents: "us/states/ia/districts/senate/14"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Garriott
 
 Current IA Senate District 14 (IA State Senate District 14).
+
+Represents [IA State Senate District 14](/us/states/ia/districts/senate/14.md).
 
 ## Sources
 

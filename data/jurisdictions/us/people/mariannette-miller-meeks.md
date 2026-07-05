@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IA"
 district: "Congressional District 1"
+represents: "us/states/ia/districts/01"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Mariannette Miller-Meeks
 
 Current U.S. House of Representatives - IA-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ia/districts/01.md).
 
 ## Committees
 

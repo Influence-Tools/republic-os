@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 20"
+represents: "us/states/va/districts/senate/20"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill DeSteph
 
 Current VA Senate District 20 (VA State Senate District 20).
+
+Represents [VA State Senate District 20](/us/states/va/districts/senate/20.md).
 
 ## Sources
 

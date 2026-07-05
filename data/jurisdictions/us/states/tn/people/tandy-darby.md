@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 76"
+represents: "us/states/tn/districts/house/76"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tandy Darby
 
 Current TN House District 76 (TN State House of Representatives District 76).
+
+Represents [TN State House of Representatives District 76](/us/states/tn/districts/house/76.md).
 
 ## Sources
 

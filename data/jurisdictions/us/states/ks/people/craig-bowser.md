@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 1"
+represents: "us/states/ks/districts/senate/1"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Bowser
 
 Current KS Senate District 1 (KS State Senate District 1).
+
+Represents [KS State Senate District 1](/us/states/ks/districts/senate/1.md).
 
 ## Sources
 

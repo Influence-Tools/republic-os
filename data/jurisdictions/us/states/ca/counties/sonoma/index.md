@@ -22,9 +22,33 @@ demographics:
   race_native: 6555
   hispanic: 145518
   bachelors_plus: 188117
+districts:
+  - to: "us/states/ca/districts/02"
+    rel: in-district
+    area_weight: 0.7182
+  - to: "us/states/ca/districts/04"
+    rel: in-district
+    area_weight: 0.1811
+  - to: "us/states/ca/districts/senate/2"
+    rel: in-district
+    area_weight: 0.8056
+  - to: "us/states/ca/districts/senate/3"
+    rel: in-district
+    area_weight: 0.0932
+  - to: "us/states/ca/districts/house/2"
+    rel: in-district
+    area_weight: 0.663
+  - to: "us/states/ca/districts/house/12"
+    rel: in-district
+    area_weight: 0.2212
+  - to: "us/states/ca/districts/house/4"
+    rel: in-district
+    area_weight: 0.0147
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ca]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 145518 |
 | Bachelor's or higher | 188117 |
 
+## Districts
+
+- [CA-02](/us/states/ca/districts/02.md) — 72% (congressional)
+- [CA-04](/us/states/ca/districts/04.md) — 18% (congressional)
+- [CA Senate District 2](/us/states/ca/districts/senate/2.md) — 81% (state senate)
+- [CA Senate District 3](/us/states/ca/districts/senate/3.md) — 9% (state senate)
+- [CA House District 2](/us/states/ca/districts/house/2.md) — 66% (state house)
+- [CA House District 12](/us/states/ca/districts/house/12.md) — 22% (state house)
+- [CA House District 4](/us/states/ca/districts/house/4.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

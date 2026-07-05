@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Berkshire"
+represents: "us/states/ma/districts/house/2nd-berkshire"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tricia Farley-Bouvier
 
 Current MA House District 2nd Berkshire (MA State House of Representatives District 2nd Berkshire).
+
+Represents [MA State House of Representatives District 2nd Berkshire](/us/states/ma/districts/house/2nd-berkshire.md).
 
 ## Sources
 

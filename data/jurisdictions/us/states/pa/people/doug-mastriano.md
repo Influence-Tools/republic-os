@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 33"
+represents: "us/states/pa/districts/senate/33"
 tenure:
   start: "2019-06-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Mastriano
 
 Current PA Senate District 33 (PA State Senate District 33).
+
+Represents [PA State Senate District 33](/us/states/pa/districts/senate/33.md).
 
 ## Sources
 

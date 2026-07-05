@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 4"
+represents: "us/states/fl/districts/house/4"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patt Maney
 
 Current FL House District 4 (FL State House of Representatives District 4).
+
+Represents [FL State House of Representatives District 4](/us/states/fl/districts/house/4.md).
 
 ## Sources
 

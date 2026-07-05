@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Suffolk and Middlesex"
+represents: "us/states/ma/districts/senate/suffolk-and-middlesex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Brownsberger
 
 Current MA Senate District Suffolk and Middlesex (MA State Senate District Suffolk and Middlesex).
+
+Represents [MA State Senate District Suffolk and Middlesex](/us/states/ma/districts/senate/suffolk-and-middlesex.md).
 
 ## Sources
 

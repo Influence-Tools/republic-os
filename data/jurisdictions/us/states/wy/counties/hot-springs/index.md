@@ -22,9 +22,21 @@ demographics:
   race_native: 25
   hispanic: 183
   bachelors_plus: 1194
+districts:
+  - to: "us/states/wy/districts/00"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/wy/districts/senate/20"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/wy/districts/house/28"
+    rel: in-district
+    area_weight: 0.9999
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wy]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 183 |
 | Bachelor's or higher | 1194 |
 
+## Districts
+
+- [WY-00](/us/states/wy/districts/00.md) — 100% (congressional)
+- [WY Senate District 20](/us/states/wy/districts/senate/20.md) — 100% (state senate)
+- [WY House District 28](/us/states/wy/districts/house/28.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 10"
+represents: "us/states/pa/districts/10"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -73,6 +74,8 @@ timestamp: "2026-07-04"
 # Scott Perry
 
 Current U.S. House of Representatives - PA-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/pa/districts/10.md).
 
 ## Committees
 

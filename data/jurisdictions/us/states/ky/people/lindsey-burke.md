@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 75"
+represents: "us/states/ky/districts/house/75"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsey Burke
 
 Current KY House District 75 (KY State House of Representatives District 75).
+
+Represents [KY State House of Representatives District 75](/us/states/ky/districts/house/75.md).
 
 ## Sources
 

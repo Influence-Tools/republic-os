@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 9"
+represents: "us/states/ms/districts/senate/9"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Boyd
 
 Current MS Senate District 9 (MS State Senate District 9).
+
+Represents [MS State Senate District 9](/us/states/ms/districts/senate/9.md).
 
 ## Sources
 

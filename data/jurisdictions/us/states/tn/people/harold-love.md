@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 58"
+represents: "us/states/tn/districts/house/58"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harold Love
 
 Current TN House District 58 (TN State House of Representatives District 58).
+
+Represents [TN State House of Representatives District 58](/us/states/tn/districts/house/58.md).
 
 ## Sources
 

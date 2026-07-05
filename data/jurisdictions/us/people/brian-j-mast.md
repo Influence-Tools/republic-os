@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 21"
+represents: "us/states/fl/districts/21"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "chair"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Brian J. Mast
 
 Current U.S. House of Representatives - FL-21 (Congressional District 21).
+
+Represents [Congressional District 21](/us/states/fl/districts/21.md).
 
 ## Committees
 

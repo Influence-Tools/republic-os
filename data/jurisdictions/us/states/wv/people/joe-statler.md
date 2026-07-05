@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 77"
+represents: "us/states/wv/districts/house/77"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Statler
 
 Current WV House District 77 (WV State House of Representatives District 77).
+
+Represents [WV State House of Representatives District 77](/us/states/wv/districts/house/77.md).
 
 ## Sources
 

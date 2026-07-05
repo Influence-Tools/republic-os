@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 76"
+represents: "us/states/nc/districts/house/76"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harry Warren
 
 Current NC House District 76 (NC State House of Representatives District 76).
+
+Represents [NC State House of Representatives District 76](/us/states/nc/districts/house/76.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 1"
+represents: "us/states/nc/districts/01"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Donald G. Davis
 
 Current U.S. House of Representatives - NC-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/nc/districts/01.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 4"
+represents: "us/states/nv/districts/senate/4"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dina Neal
 
 Current NV Senate District 4 (NV State Senate District 4).
+
+Represents [NV State Senate District 4](/us/states/nv/districts/senate/4.md).
 
 ## Sources
 

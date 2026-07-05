@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 85"
+represents: "us/states/ok/districts/house/85"
 tenure:
   start: "2015-09-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cyndi Munson
 
 Current OK House District 85 (OK State House of Representatives District 85).
+
+Represents [OK State House of Representatives District 85](/us/states/ok/districts/house/85.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 12"
+represents: "us/states/nc/districts/12"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Alma S. Adams
 
 Current U.S. House of Representatives - NC-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/nc/districts/12.md).
 
 ## Committees
 

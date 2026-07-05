@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 1"
+represents: "us/states/tn/districts/senate/1"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Lowe
 
 Current TN Senate District 1 (TN State Senate District 1).
+
+Represents [TN State Senate District 1](/us/states/tn/districts/senate/1.md).
 
 ## Sources
 

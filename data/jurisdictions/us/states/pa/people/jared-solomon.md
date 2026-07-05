@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 202"
+represents: "us/states/pa/districts/house/202"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Solomon
 
 Current PA House District 202 (PA State House of Representatives District 202).
+
+Represents [PA State House of Representatives District 202](/us/states/pa/districts/house/202.md).
 
 ## Sources
 

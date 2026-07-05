@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 13A"
+represents: "us/states/id/districts/house/13a"
 tenure:
   start: "2006-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Crane
 
 Current ID House District 13A (ID State House of Representatives District 13A).
+
+Represents [ID State House of Representatives District 13A](/us/states/id/districts/house/13a.md).
 
 ## Sources
 

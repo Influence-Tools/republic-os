@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 21"
+represents: "us/states/sd/districts/house/21"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Overweg
 
 Current SD House District 21 (SD State House of Representatives District 21).
+
+Represents [SD State House of Representatives District 21](/us/states/sd/districts/house/21.md).
 
 ## Sources
 

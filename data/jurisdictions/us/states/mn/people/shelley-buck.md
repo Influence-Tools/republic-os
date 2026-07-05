@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 47A"
+represents: "us/states/mn/districts/house/47a"
 tenure:
   start: "2026-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelley Buck
 
 Current MN House District 47A (MN State House of Representatives District 47A).
+
+Represents [MN State House of Representatives District 47A](/us/states/mn/districts/house/47a.md).
 
 ## Sources
 

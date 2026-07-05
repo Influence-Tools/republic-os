@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 54"
+represents: "us/states/nc/districts/house/54"
 tenure:
   start: "2014-01-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Reives
 
 Current NC House District 54 (NC State House of Representatives District 54).
+
+Represents [NC State House of Representatives District 54](/us/states/nc/districts/house/54.md).
 
 ## Sources
 

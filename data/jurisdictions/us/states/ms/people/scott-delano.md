@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 50"
+represents: "us/states/ms/districts/senate/50"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott DeLano
 
 Current MS Senate District 50 (MS State Senate District 50).
+
+Represents [MS State Senate District 50](/us/states/ms/districts/senate/50.md).
 
 ## Sources
 

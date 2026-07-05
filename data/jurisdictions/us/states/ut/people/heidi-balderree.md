@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 22"
+represents: "us/states/ut/districts/senate/22"
 tenure:
   start: "2023-10-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heidi Balderree
 
 Current UT Senate District 22 (UT State Senate District 22).
+
+Represents [UT State Senate District 22](/us/states/ut/districts/senate/22.md).
 
 ## Sources
 

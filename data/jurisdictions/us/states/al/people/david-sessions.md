@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 35"
+represents: "us/states/al/districts/senate/35"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Sessions
 
 Current AL Senate District 35 (AL State Senate District 35).
+
+Represents [AL State Senate District 35](/us/states/al/districts/senate/35.md).
 
 ## Sources
 

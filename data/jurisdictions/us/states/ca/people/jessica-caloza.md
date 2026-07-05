@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 52"
+represents: "us/states/ca/districts/house/52"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica Caloza
 
 Current CA House District 52 (CA State House of Representatives District 52).
+
+Represents [CA State House of Representatives District 52](/us/states/ca/districts/house/52.md).
 
 ## Sources
 

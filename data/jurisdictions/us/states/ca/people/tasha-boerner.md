@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 77"
+represents: "us/states/ca/districts/house/77"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tasha Boerner
 
 Current CA House District 77 (CA State House of Representatives District 77).
+
+Represents [CA State House of Representatives District 77](/us/states/ca/districts/house/77.md).
 
 ## Sources
 

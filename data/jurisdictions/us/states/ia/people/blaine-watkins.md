@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 100"
+represents: "us/states/ia/districts/house/100"
 tenure:
   start: "2025-03-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blaine Watkins
 
 Current IA House District 100 (IA State House of Representatives District 100).
+
+Represents [IA State House of Representatives District 100](/us/states/ia/districts/house/100.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 5"
+represents: "us/states/sc/districts/senate/5"
 tenure:
   start: "2012-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Corbin
 
 Current SC Senate District 5 (SC State Senate District 5).
+
+Represents [SC State Senate District 5](/us/states/sc/districts/senate/5.md).
 
 ## Sources
 

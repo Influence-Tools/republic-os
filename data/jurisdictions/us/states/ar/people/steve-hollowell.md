@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 37"
+represents: "us/states/ar/districts/house/37"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Hollowell
 
 Current AR House District 37 (AR State House of Representatives District 37).
+
+Represents [AR State House of Representatives District 37](/us/states/ar/districts/house/37.md).
 
 ## Sources
 

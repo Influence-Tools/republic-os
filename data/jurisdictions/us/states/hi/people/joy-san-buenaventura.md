@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 2"
+represents: "us/states/hi/districts/senate/2"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joy San Buenaventura
 
 Current HI Senate District 2 (HI State Senate District 2).
+
+Represents [HI State Senate District 2](/us/states/hi/districts/senate/2.md).
 
 ## Sources
 

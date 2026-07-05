@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 37"
+represents: "us/states/in/districts/house/37"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Huston
 
 Current IN House District 37 (IN State House of Representatives District 37).
+
+Represents [IN State House of Representatives District 37](/us/states/in/districts/house/37.md).
 
 ## Sources
 

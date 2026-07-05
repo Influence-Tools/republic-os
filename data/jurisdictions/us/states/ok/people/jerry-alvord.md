@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 14"
+represents: "us/states/ok/districts/senate/14"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry Alvord
 
 Current OK Senate District 14 (OK State Senate District 14).
+
+Represents [OK State Senate District 14](/us/states/ok/districts/senate/14.md).
 
 ## Sources
 

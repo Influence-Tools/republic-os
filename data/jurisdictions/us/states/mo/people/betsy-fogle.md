@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 135"
+represents: "us/states/mo/districts/house/135"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Betsy Fogle
 
 Current MO House District 135 (MO State House of Representatives District 135).
+
+Represents [MO State House of Representatives District 135](/us/states/mo/districts/house/135.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 13"
+represents: "us/states/tx/districts/13"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -76,6 +77,8 @@ timestamp: "2026-07-04"
 # Ronny Jackson
 
 Current U.S. House of Representatives - TX-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/tx/districts/13.md).
 
 ## Committees
 

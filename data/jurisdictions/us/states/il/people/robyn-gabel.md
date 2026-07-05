@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 18"
+represents: "us/states/il/districts/house/18"
 tenure:
   start: "2010-04-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robyn Gabel
 
 Current IL House District 18 (IL State House of Representatives District 18).
+
+Represents [IL State House of Representatives District 18](/us/states/il/districts/house/18.md).
 
 ## Sources
 

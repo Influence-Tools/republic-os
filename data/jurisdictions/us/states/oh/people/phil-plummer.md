@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 39"
+represents: "us/states/oh/districts/house/39"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Plummer
 
 Current OH House District 39 (OH State House of Representatives District 39).
+
+Represents [OH State House of Representatives District 39](/us/states/oh/districts/house/39.md).
 
 ## Sources
 

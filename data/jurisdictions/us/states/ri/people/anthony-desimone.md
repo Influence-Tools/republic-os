@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 5"
+represents: "us/states/ri/districts/house/5"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony DeSimone
 
 Current RI House District 5 (RI State House of Representatives District 5).
+
+Represents [RI State House of Representatives District 5](/us/states/ri/districts/house/5.md).
 
 ## Sources
 

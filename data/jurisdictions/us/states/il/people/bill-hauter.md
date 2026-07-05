@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 87"
+represents: "us/states/il/districts/house/87"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Hauter
 
 Current IL House District 87 (IL State House of Representatives District 87).
+
+Represents [IL State House of Representatives District 87](/us/states/il/districts/house/87.md).
 
 ## Sources
 

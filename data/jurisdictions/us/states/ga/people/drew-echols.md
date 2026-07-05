@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 49"
+represents: "us/states/ga/districts/senate/49"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Drew Echols
 
 Current GA Senate District 49 (GA State Senate District 49).
+
+Represents [GA State Senate District 49](/us/states/ga/districts/senate/49.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 45"
+represents: "us/states/fl/districts/house/45"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leonard Spencer
 
 Current FL House District 45 (FL State House of Representatives District 45).
+
+Represents [FL State House of Representatives District 45](/us/states/fl/districts/house/45.md).
 
 ## Sources
 

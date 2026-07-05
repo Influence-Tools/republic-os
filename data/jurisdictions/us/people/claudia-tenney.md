@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 24"
+represents: "us/states/ny/districts/24"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Claudia Tenney
 
 Current U.S. House of Representatives - NY-24 (Congressional District 24).
+
+Represents [Congressional District 24](/us/states/ny/districts/24.md).
 
 ## Committees
 

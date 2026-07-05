@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 24"
+represents: "us/states/az/districts/house/24"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anna Abeytia
 
 Current AZ House District 24 (AZ State House of Representatives District 24).
+
+Represents [AZ State House of Representatives District 24](/us/states/az/districts/house/24.md).
 
 ## Sources
 

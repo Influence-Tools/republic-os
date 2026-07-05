@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 9"
+represents: "us/states/nj/districts/house/9"
 tenure:
   start: "2003-06-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Rumpf
 
 Current NJ House District 9 (NJ State House of Representatives District 9).
+
+Represents [NJ State House of Representatives District 9](/us/states/nj/districts/house/9.md).
 
 ## Sources
 

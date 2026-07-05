@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 113"
+represents: "us/states/pa/districts/house/113"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Donahue
 
 Current PA House District 113 (PA State House of Representatives District 113).
+
+Represents [PA State House of Representatives District 113](/us/states/pa/districts/house/113.md).
 
 ## Sources
 

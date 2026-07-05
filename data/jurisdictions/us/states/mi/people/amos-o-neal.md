@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 94"
+represents: "us/states/mi/districts/house/94"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amos O'Neal
 
 Current MI House District 94 (MI State House of Representatives District 94).
+
+Represents [MI State House of Representatives District 94](/us/states/mi/districts/house/94.md).
 
 ## Sources
 

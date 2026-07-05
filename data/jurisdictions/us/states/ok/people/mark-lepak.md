@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 9"
+represents: "us/states/ok/districts/house/9"
 tenure:
   start: "2014-11-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Lepak
 
 Current OK House District 9 (OK State House of Representatives District 9).
+
+Represents [OK State House of Representatives District 9](/us/states/ok/districts/house/9.md).
 
 ## Sources
 

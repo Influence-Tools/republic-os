@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 94"
+represents: "us/states/tx/districts/house/94"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Tinderholt
 
 Current TX House District 94 (TX State House of Representatives District 94).
+
+Represents [TX State House of Representatives District 94](/us/states/tx/districts/house/94.md).
 
 ## Sources
 

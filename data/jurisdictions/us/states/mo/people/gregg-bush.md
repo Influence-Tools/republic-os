@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 50"
+represents: "us/states/mo/districts/house/50"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregg Bush
 
 Current MO House District 50 (MO State House of Representatives District 50).
+
+Represents [MO State House of Representatives District 50](/us/states/mo/districts/house/50.md).
 
 ## Sources
 

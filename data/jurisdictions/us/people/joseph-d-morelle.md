@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 25"
+represents: "us/states/ny/districts/25"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Joseph D. Morelle
 
 Current U.S. House of Representatives - NY-25 (Congressional District 25).
+
+Represents [Congressional District 25](/us/states/ny/districts/25.md).
 
 ## Committees
 

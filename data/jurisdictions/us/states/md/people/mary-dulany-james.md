@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 34"
+represents: "us/states/md/districts/senate/34"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary-Dulany James
 
 Current MD Senate District 34 (MD State Senate District 34).
+
+Represents [MD State Senate District 34](/us/states/md/districts/senate/34.md).
 
 ## Sources
 

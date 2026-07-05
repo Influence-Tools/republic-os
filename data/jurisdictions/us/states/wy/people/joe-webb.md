@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 19"
+represents: "us/states/wy/districts/house/19"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Webb
 
 Current WY House District 19 (WY State House of Representatives District 19).
+
+Represents [WY State House of Representatives District 19](/us/states/wy/districts/house/19.md).
 
 ## Sources
 

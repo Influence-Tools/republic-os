@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 19"
+represents: "us/states/nh/districts/house/strafford-19"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Walker
 
 Current NH House District Strafford 19 (NH State House of Representatives District Strafford 19).
+
+Represents [NH State House of Representatives District Strafford 19](/us/states/nh/districts/house/strafford-19.md).
 
 ## Sources
 

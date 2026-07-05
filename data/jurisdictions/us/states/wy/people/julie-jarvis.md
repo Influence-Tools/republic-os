@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 57"
+represents: "us/states/wy/districts/house/57"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Jarvis
 
 Current WY House District 57 (WY State House of Representatives District 57).
+
+Represents [WY State House of Representatives District 57](/us/states/wy/districts/house/57.md).
 
 ## Sources
 

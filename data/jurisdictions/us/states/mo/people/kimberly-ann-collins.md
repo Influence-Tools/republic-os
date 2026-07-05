@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 77"
+represents: "us/states/mo/districts/house/77"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kimberly-Ann Collins
 
 Current MO House District 77 (MO State House of Representatives District 77).
+
+Represents [MO State House of Representatives District 77](/us/states/mo/districts/house/77.md).
 
 ## Sources
 

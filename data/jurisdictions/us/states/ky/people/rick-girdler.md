@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 15"
+represents: "us/states/ky/districts/senate/15"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Girdler
 
 Current KY Senate District 15 (KY State Senate District 15).
+
+Represents [KY State Senate District 15](/us/states/ky/districts/senate/15.md).
 
 ## Sources
 

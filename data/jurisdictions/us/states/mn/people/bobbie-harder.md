@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 17B"
+represents: "us/states/mn/districts/house/17b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobbie Harder
 
 Current MN House District 17B (MN State House of Representatives District 17B).
+
+Represents [MN State House of Representatives District 17B](/us/states/mn/districts/house/17b.md).
 
 ## Sources
 

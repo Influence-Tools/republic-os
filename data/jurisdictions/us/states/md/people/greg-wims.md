@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 39"
+represents: "us/states/md/districts/house/39"
 tenure:
   start: "2023-05-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Wims
 
 Current MD House District 39 (MD State House of Representatives District 39).
+
+Represents [MD State House of Representatives District 39](/us/states/md/districts/house/39.md).
 
 ## Sources
 

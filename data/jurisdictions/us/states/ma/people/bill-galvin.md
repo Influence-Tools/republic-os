@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 6th Norfolk"
+represents: "us/states/ma/districts/house/6th-norfolk"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Galvin
 
 Current MA House District 6th Norfolk (MA State House of Representatives District 6th Norfolk).
+
+Represents [MA State House of Representatives District 6th Norfolk](/us/states/ma/districts/house/6th-norfolk.md).
 
 ## Sources
 

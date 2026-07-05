@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 148"
+represents: "us/states/me/districts/house/148"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Lavigne
 
 Current ME House District 148 (ME State House of Representatives District 148).
+
+Represents [ME State House of Representatives District 148](/us/states/me/districts/house/148.md).
 
 ## Sources
 

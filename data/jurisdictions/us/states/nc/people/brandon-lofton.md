@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 104"
+represents: "us/states/nc/districts/house/104"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Lofton
 
 Current NC House District 104 (NC State House of Representatives District 104).
+
+Represents [NC State House of Representatives District 104](/us/states/nc/districts/house/104.md).
 
 ## Sources
 

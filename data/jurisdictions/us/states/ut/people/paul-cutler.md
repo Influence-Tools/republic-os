@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 18"
+represents: "us/states/ut/districts/house/18"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Cutler
 
 Current UT House District 18 (UT State House of Representatives District 18).
+
+Represents [UT State House of Representatives District 18](/us/states/ut/districts/house/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 16"
+represents: "us/states/wv/districts/senate/16"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Barrett
 
 Current WV Senate District 16 (WV State Senate District 16).
+
+Represents [WV State Senate District 16](/us/states/wv/districts/senate/16.md).
 
 ## Sources
 

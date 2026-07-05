@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 25"
+represents: "us/states/ca/districts/25"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Raul Ruiz
 
 Current U.S. House of Representatives - CA-25 (Congressional District 25).
+
+Represents [Congressional District 25](/us/states/ca/districts/25.md).
 
 ## Committees
 

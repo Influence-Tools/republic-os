@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 89"
+represents: "us/states/ks/districts/house/89"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # K.C. Ohaebosim
 
 Current KS House District 89 (KS State House of Representatives District 89).
+
+Represents [KS State House of Representatives District 89](/us/states/ks/districts/house/89.md).
 
 ## Sources
 

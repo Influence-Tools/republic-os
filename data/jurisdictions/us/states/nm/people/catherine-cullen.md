@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 57"
+represents: "us/states/nm/districts/house/57"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Catherine Cullen
 
 Current NM House District 57 (NM State House of Representatives District 57).
+
+Represents [NM State House of Representatives District 57](/us/states/nm/districts/house/57.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 20"
+represents: "us/states/ct/districts/senate/20"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martha Marx
 
 Current CT Senate District 20 (CT State Senate District 20).
+
+Represents [CT State Senate District 20](/us/states/ct/districts/senate/20.md).
 
 ## Sources
 

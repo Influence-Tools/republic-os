@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 49"
+represents: "us/states/ct/districts/house/49"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Johnson
 
 Current CT House District 49 (CT State House of Representatives District 49).
+
+Represents [CT State House of Representatives District 49](/us/states/ct/districts/house/49.md).
 
 ## Sources
 

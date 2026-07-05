@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 18"
+represents: "us/states/ms/districts/senate/18"
 tenure:
   start: "2025-04-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lane Taylor
 
 Current MS Senate District 18 (MS State Senate District 18).
+
+Represents [MS State Senate District 18](/us/states/ms/districts/senate/18.md).
 
 ## Sources
 

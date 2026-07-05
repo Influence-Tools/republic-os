@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 25"
+represents: "us/states/nv/districts/house/25"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Selena La Rue Hatch
 
 Current NV House District 25 (NV State House of Representatives District 25).
+
+Represents [NV State House of Representatives District 25](/us/states/nv/districts/house/25.md).
 
 ## Sources
 

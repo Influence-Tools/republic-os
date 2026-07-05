@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 83"
+represents: "us/states/nc/districts/house/83"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Grant Campbell
 
 Current NC House District 83 (NC State House of Representatives District 83).
+
+Represents [NC State House of Representatives District 83](/us/states/nc/districts/house/83.md).
 
 ## Sources
 

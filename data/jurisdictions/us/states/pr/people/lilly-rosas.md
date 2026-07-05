@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 19"
+represents: "us/states/pr/districts/house/19"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lilly Rosas
 
 Current PR House District 19 (PR State House of Representatives District 19).
+
+Represents [PR State House of Representatives District 19](/us/states/pr/districts/house/19.md).
 
 ## Sources
 

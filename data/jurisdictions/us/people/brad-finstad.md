@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MN"
 district: "Congressional District 1"
+represents: "us/states/mn/districts/01"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # Brad Finstad
 
 Current U.S. House of Representatives - MN-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/mn/districts/01.md).
 
 ## Committees
 

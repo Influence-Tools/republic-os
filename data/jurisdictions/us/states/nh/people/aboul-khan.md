@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 30"
+represents: "us/states/nh/districts/house/rockingham-30"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aboul Khan
 
 Current NH House District Rockingham 30 (NH State House of Representatives District Rockingham 30).
+
+Represents [NH State House of Representatives District Rockingham 30](/us/states/nh/districts/house/rockingham-30.md).
 
 ## Sources
 

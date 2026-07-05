@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 7"
+represents: "us/states/hi/districts/senate/7"
 tenure:
   start: "2021-06-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynn DeCoite
 
 Current HI Senate District 7 (HI State Senate District 7).
+
+Represents [HI State Senate District 7](/us/states/hi/districts/senate/7.md).
 
 ## Sources
 

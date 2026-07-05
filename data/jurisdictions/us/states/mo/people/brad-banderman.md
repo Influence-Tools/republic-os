@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 119"
+represents: "us/states/mo/districts/house/119"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Banderman
 
 Current MO House District 119 (MO State House of Representatives District 119).
+
+Represents [MO State House of Representatives District 119](/us/states/mo/districts/house/119.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 48"
+represents: "us/states/va/districts/house/48"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Phillips
 
 Current VA House District 48 (VA State House of Representatives District 48).
+
+Represents [VA State House of Representatives District 48](/us/states/va/districts/house/48.md).
 
 ## Sources
 

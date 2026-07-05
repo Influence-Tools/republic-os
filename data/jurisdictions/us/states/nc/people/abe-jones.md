@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 38"
+represents: "us/states/nc/districts/house/38"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Abe Jones
 
 Current NC House District 38 (NC State House of Representatives District 38).
+
+Represents [NC State House of Representatives District 38](/us/states/nc/districts/house/38.md).
 
 ## Sources
 

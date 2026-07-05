@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 33"
+represents: "us/states/nc/districts/house/33"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Monika Johnson-Hostler
 
 Current NC House District 33 (NC State House of Representatives District 33).
+
+Represents [NC State House of Representatives District 33](/us/states/nc/districts/house/33.md).
 
 ## Sources
 

@@ -22,9 +22,21 @@ demographics:
   race_native: 111
   hispanic: 1409
   bachelors_plus: 11868
+districts:
+  - to: "us/states/wa/districts/02"
+    rel: in-district
+    area_weight: 0.4132
+  - to: "us/states/wa/districts/senate/40"
+    rel: in-district
+    area_weight: 0.3095
+  - to: "us/states/wa/districts/house/40"
+    rel: in-district
+    area_weight: 0.3095
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wa]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 1409 |
 | Bachelor's or higher | 11868 |
 
+## Districts
+
+- [WA-02](/us/states/wa/districts/02.md) — 41% (congressional)
+- [WA Senate District 40](/us/states/wa/districts/senate/40.md) — 31% (state senate)
+- [WA House District 40](/us/states/wa/districts/house/40.md) — 31% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

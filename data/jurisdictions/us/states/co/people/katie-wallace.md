@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 17"
+represents: "us/states/co/districts/senate/17"
 tenure:
   start: "2025-03-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Wallace
 
 Current CO Senate District 17 (CO State Senate District 17).
+
+Represents [CO State Senate District 17](/us/states/co/districts/senate/17.md).
 
 ## Sources
 

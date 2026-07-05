@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District I"
+represents: "us/states/ak/districts/senate/i"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Löki Tobin
 
 Current AK Senate District I (AK State Senate District I).
+
+Represents [AK State Senate District I](/us/states/ak/districts/senate/i.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 13"
+represents: "us/states/ks/districts/senate/13"
 tenure:
   start: "2023-01-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Shallenburger
 
 Current KS Senate District 13 (KS State Senate District 13).
+
+Represents [KS State Senate District 13](/us/states/ks/districts/senate/13.md).
 
 ## Sources
 

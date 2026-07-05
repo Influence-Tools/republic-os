@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 57"
+represents: "us/states/ny/districts/house/57"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phara Souffrant Forrest
 
 Current NY House District 57 (NY State House of Representatives District 57).
+
+Represents [NY State House of Representatives District 57](/us/states/ny/districts/house/57.md).
 
 ## Sources
 

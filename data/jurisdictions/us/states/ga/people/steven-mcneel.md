@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 18"
+represents: "us/states/ga/districts/senate/18"
 tenure:
   start: "2026-02-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven McNeel
 
 Current GA Senate District 18 (GA State Senate District 18).
+
+Represents [GA State Senate District 18](/us/states/ga/districts/senate/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 28"
+represents: "us/states/nj/districts/senate/28"
 tenure:
   start: "2022-09-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Renee Burgess
 
 Current NJ Senate District 28 (NJ State Senate District 28).
+
+Represents [NJ State Senate District 28](/us/states/nj/districts/senate/28.md).
 
 ## Sources
 

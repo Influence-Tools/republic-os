@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 81"
+represents: "us/states/ny/districts/house/81"
 tenure:
   start: "1994-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeffrey Dinowitz
 
 Current NY House District 81 (NY State House of Representatives District 81).
+
+Represents [NY State House of Representatives District 81](/us/states/ny/districts/house/81.md).
 
 ## Sources
 

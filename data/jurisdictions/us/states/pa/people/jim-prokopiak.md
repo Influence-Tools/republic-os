@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 140"
+represents: "us/states/pa/districts/house/140"
 tenure:
   start: "2024-03-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Prokopiak
 
 Current PA House District 140 (PA State House of Representatives District 140).
+
+Represents [PA State House of Representatives District 140](/us/states/pa/districts/house/140.md).
 
 ## Sources
 

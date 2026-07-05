@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 13"
+represents: "us/states/nd/districts/house/13"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Jonas
 
 Current ND House District 13 (ND State House of Representatives District 13).
+
+Represents [ND State House of Representatives District 13](/us/states/nd/districts/house/13.md).
 
 ## Sources
 

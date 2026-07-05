@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 8"
+represents: "us/states/ct/districts/house/8"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Ackert
 
 Current CT House District 8 (CT State House of Representatives District 8).
+
+Represents [CT State House of Representatives District 8](/us/states/ct/districts/house/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 11"
+represents: "us/states/ar/districts/senate/11"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ricky Hill
 
 Current AR Senate District 11 (AR State Senate District 11).
+
+Represents [AR State Senate District 11](/us/states/ar/districts/senate/11.md).
 
 ## Sources
 

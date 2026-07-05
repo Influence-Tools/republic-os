@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 15"
+represents: "us/states/md/districts/senate/15"
 tenure:
   start: "2013-09-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Feldman
 
 Current MD Senate District 15 (MD State Senate District 15).
+
+Represents [MD State Senate District 15](/us/states/md/districts/senate/15.md).
 
 ## Sources
 

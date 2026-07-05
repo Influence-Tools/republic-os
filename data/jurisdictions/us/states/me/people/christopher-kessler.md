@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 121"
+represents: "us/states/me/districts/house/121"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christopher Kessler
 
 Current ME House District 121 (ME State House of Representatives District 121).
+
+Represents [ME State House of Representatives District 121](/us/states/me/districts/house/121.md).
 
 ## Sources
 

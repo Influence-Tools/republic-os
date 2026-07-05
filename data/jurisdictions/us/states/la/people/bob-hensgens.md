@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 26"
+represents: "us/states/la/districts/senate/26"
 tenure:
   start: "2018-12-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Hensgens
 
 Current LA Senate District 26 (LA State Senate District 26).
+
+Represents [LA State Senate District 26](/us/states/la/districts/senate/26.md).
 
 ## Sources
 

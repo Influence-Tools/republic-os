@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 15"
+represents: "us/states/al/districts/house/15"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leigh Hulsey
 
 Current AL House District 15 (AL State House of Representatives District 15).
+
+Represents [AL State House of Representatives District 15](/us/states/al/districts/house/15.md).
 
 ## Sources
 

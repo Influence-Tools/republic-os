@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 31"
+represents: "us/states/pr/districts/house/31"
 tenure:
   start: "2025-10-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roberto López
 
 Current PR House District 31 (PR State House of Representatives District 31).
+
+Represents [PR State House of Representatives District 31](/us/states/pr/districts/house/31.md).
 
 ## Sources
 

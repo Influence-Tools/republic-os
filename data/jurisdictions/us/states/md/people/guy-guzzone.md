@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 13"
+represents: "us/states/md/districts/senate/13"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Guy Guzzone
 
 Current MD Senate District 13 (MD State Senate District 13).
+
+Represents [MD State Senate District 13](/us/states/md/districts/senate/13.md).
 
 ## Sources
 

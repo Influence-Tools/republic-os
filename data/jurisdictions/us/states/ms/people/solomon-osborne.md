@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 32"
+represents: "us/states/ms/districts/house/32"
 tenure:
   start: "2019-03-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Solomon Osborne
 
 Current MS House District 32 (MS State House of Representatives District 32).
+
+Represents [MS State House of Representatives District 32](/us/states/ms/districts/house/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 75"
+represents: "us/states/mo/districts/house/75"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chanel Mosley
 
 Current MO House District 75 (MO State House of Representatives District 75).
+
+Represents [MO State House of Representatives District 75](/us/states/mo/districts/house/75.md).
 
 ## Sources
 

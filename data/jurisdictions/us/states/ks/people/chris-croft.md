@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 8"
+represents: "us/states/ks/districts/house/8"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Croft
 
 Current KS House District 8 (KS State House of Representatives District 8).
+
+Represents [KS State House of Representatives District 8](/us/states/ks/districts/house/8.md).
 
 ## Sources
 

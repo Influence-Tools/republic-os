@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 79"
+represents: "us/states/tn/districts/house/79"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brock Martin
 
 Current TN House District 79 (TN State House of Representatives District 79).
+
+Represents [TN State House of Representatives District 79](/us/states/tn/districts/house/79.md).
 
 ## Sources
 

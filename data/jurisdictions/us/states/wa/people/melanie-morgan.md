@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 29"
+represents: "us/states/wa/districts/house/29"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melanie Morgan
 
 Current WA House District 29 (WA State House of Representatives District 29).
+
+Represents [WA State House of Representatives District 29](/us/states/wa/districts/house/29.md).
 
 ## Sources
 

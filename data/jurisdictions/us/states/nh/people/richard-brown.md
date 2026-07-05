@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Carroll 8"
+represents: "us/states/nh/districts/house/carroll-8"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Brown
 
 Current NH House District Carroll 8 (NH State House of Representatives District Carroll 8).
+
+Represents [NH State House of Representatives District Carroll 8](/us/states/nh/districts/house/carroll-8.md).
 
 ## Sources
 

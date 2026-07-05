@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 24"
+represents: "us/states/al/districts/senate/24"
 tenure:
   start: "2005-01-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Singleton
 
 Current AL Senate District 24 (AL State Senate District 24).
+
+Represents [AL State Senate District 24](/us/states/al/districts/senate/24.md).
 
 ## Sources
 

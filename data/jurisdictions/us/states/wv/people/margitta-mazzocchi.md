@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 31"
+represents: "us/states/wv/districts/house/31"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Margitta Mazzocchi
 
 Current WV House District 31 (WV State House of Representatives District 31).
+
+Represents [WV State House of Representatives District 31](/us/states/wv/districts/house/31.md).
 
 ## Sources
 

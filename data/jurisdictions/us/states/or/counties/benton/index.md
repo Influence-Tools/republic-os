@@ -22,9 +22,30 @@ demographics:
   race_native: 1011
   hispanic: 9031
   bachelors_plus: 48458
+districts:
+  - to: "us/states/or/districts/04"
+    rel: in-district
+    area_weight: 0.9966
+  - to: "us/states/or/districts/senate/5"
+    rel: in-district
+    area_weight: 0.8208
+  - to: "us/states/or/districts/senate/8"
+    rel: in-district
+    area_weight: 0.1791
+  - to: "us/states/or/districts/house/10"
+    rel: in-district
+    area_weight: 0.8208
+  - to: "us/states/or/districts/house/16"
+    rel: in-district
+    area_weight: 0.1682
+  - to: "us/states/or/districts/house/15"
+    rel: in-district
+    area_weight: 0.0108
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, or]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 9031 |
 | Bachelor's or higher | 48458 |
 
+## Districts
+
+- [OR-04](/us/states/or/districts/04.md) — 100% (congressional)
+- [OR Senate District 5](/us/states/or/districts/senate/5.md) — 82% (state senate)
+- [OR Senate District 8](/us/states/or/districts/senate/8.md) — 18% (state senate)
+- [OR House District 10](/us/states/or/districts/house/10.md) — 82% (state house)
+- [OR House District 16](/us/states/or/districts/house/16.md) — 17% (state house)
+- [OR House District 15](/us/states/or/districts/house/15.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

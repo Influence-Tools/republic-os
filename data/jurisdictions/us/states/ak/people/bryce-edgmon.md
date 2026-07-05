@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 37"
+represents: "us/states/ak/districts/house/37"
 tenure:
   start: "2019-02-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryce Edgmon
 
 Current AK House District 37 (AK State House of Representatives District 37).
+
+Represents [AK State House of Representatives District 37](/us/states/ak/districts/house/37.md).
 
 ## Sources
 

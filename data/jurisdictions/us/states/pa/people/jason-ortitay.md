@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 46"
+represents: "us/states/pa/districts/house/46"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Ortitay
 
 Current PA House District 46 (PA State House of Representatives District 46).
+
+Represents [PA State House of Representatives District 46](/us/states/pa/districts/house/46.md).
 
 ## Sources
 

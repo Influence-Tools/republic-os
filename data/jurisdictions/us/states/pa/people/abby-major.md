@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 60"
+represents: "us/states/pa/districts/house/60"
 tenure:
   start: "2021-06-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Abby Major
 
 Current PA House District 60 (PA State House of Representatives District 60).
+
+Represents [PA State House of Representatives District 60](/us/states/pa/districts/house/60.md).
 
 ## Sources
 

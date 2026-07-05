@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 72"
+represents: "us/states/va/districts/house/72"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lee Ware
 
 Current VA House District 72 (VA State House of Representatives District 72).
+
+Represents [VA State House of Representatives District 72](/us/states/va/districts/house/72.md).
 
 ## Sources
 

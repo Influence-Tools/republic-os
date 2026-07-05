@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 40"
+represents: "us/states/co/districts/house/40"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Naquetta Ricks
 
 Current CO House District 40 (CO State House of Representatives District 40).
+
+Represents [CO State House of Representatives District 40](/us/states/co/districts/house/40.md).
 
 ## Sources
 

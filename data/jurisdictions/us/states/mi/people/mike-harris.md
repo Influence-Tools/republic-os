@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 52"
+represents: "us/states/mi/districts/house/52"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Harris
 
 Current MI House District 52 (MI State House of Representatives District 52).
+
+Represents [MI State House of Representatives District 52](/us/states/mi/districts/house/52.md).
 
 ## Sources
 

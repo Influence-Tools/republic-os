@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 124"
+represents: "us/states/ks/districts/house/124"
 tenure:
   start: "2024-08-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Long
 
 Current KS House District 124 (KS State House of Representatives District 124).
+
+Represents [KS State House of Representatives District 124](/us/states/ks/districts/house/124.md).
 
 ## Sources
 

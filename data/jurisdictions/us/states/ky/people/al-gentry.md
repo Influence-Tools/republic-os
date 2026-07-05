@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 46"
+represents: "us/states/ky/districts/house/46"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Gentry
 
 Current KY House District 46 (KY State House of Representatives District 46).
+
+Represents [KY State House of Representatives District 46](/us/states/ky/districts/house/46.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 28"
+represents: "us/states/in/districts/house/28"
 tenure:
   start: "1998-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Thompson
 
 Current IN House District 28 (IN State House of Representatives District 28).
+
+Represents [IN State House of Representatives District 28](/us/states/in/districts/house/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 7"
+represents: "us/states/fl/districts/senate/7"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Leek
 
 Current FL Senate District 7 (FL State Senate District 7).
+
+Represents [FL State Senate District 7](/us/states/fl/districts/senate/7.md).
 
 ## Sources
 

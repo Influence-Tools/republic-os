@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 30"
+represents: "us/states/sd/districts/house/30"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Goodwin
 
 Current SD House District 30 (SD State House of Representatives District 30).
+
+Represents [SD State House of Representatives District 30](/us/states/sd/districts/house/30.md).
 
 ## Sources
 

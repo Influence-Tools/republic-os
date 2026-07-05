@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 95"
+represents: "us/states/wi/districts/house/95"
 tenure:
   start: "2012-01-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jill Billings
 
 Current WI House District 95 (WI State House of Representatives District 95).
+
+Represents [WI State House of Representatives District 95](/us/states/wi/districts/house/95.md).
 
 ## Sources
 

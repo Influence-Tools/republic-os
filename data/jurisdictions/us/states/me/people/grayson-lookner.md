@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 113"
+represents: "us/states/me/districts/house/113"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Grayson Lookner
 
 Current ME House District 113 (ME State House of Representatives District 113).
+
+Represents [ME State House of Representatives District 113](/us/states/me/districts/house/113.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 130"
+represents: "us/states/ct/districts/house/130"
 tenure:
   start: "2019-05-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tone Felipe
 
 Current CT House District 130 (CT State House of Representatives District 130).
+
+Represents [CT State House of Representatives District 130](/us/states/ct/districts/house/130.md).
 
 ## Sources
 

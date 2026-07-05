@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 21"
+represents: "us/states/pa/districts/house/21"
 tenure:
   start: "2023-10-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsay Powell
 
 Current PA House District 21 (PA State House of Representatives District 21).
+
+Represents [PA State House of Representatives District 21](/us/states/pa/districts/house/21.md).
 
 ## Sources
 

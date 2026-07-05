@@ -22,9 +22,21 @@ demographics:
   race_native: 41
   hispanic: 183
   bachelors_plus: 2280
+districts:
+  - to: "us/states/sc/districts/06"
+    rel: in-district
+    area_weight: 0.9967
+  - to: "us/states/sc/districts/senate/40"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/sc/districts/house/90"
+    rel: in-district
+    area_weight: 0.9994
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, sc]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 183 |
 | Bachelor's or higher | 2280 |
 
+## Districts
+
+- [SC-06](/us/states/sc/districts/06.md) — 100% (congressional)
+- [SC Senate District 40](/us/states/sc/districts/senate/40.md) — 100% (state senate)
+- [SC House District 90](/us/states/sc/districts/house/90.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

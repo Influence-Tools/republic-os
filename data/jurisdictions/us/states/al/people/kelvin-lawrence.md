@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 69"
+represents: "us/states/al/districts/house/69"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelvin Lawrence
 
 Current AL House District 69 (AL State House of Representatives District 69).
+
+Represents [AL State House of Representatives District 69](/us/states/al/districts/house/69.md).
 
 ## Sources
 

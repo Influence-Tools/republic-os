@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Bennington-Rutland"
+represents: "us/states/vt/districts/house/bennington-rutland"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandy Pinsonault
 
 Current VT House District Bennington-Rutland (VT State House of Representatives District Bennington-Rutland).
+
+Represents [VT State House of Representatives District Bennington-Rutland](/us/states/vt/districts/house/bennington-rutland.md).
 
 ## Sources
 

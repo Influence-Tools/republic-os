@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 79"
+represents: "us/states/ct/districts/house/79"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Fortier
 
 Current CT House District 79 (CT State House of Representatives District 79).
+
+Represents [CT State House of Representatives District 79](/us/states/ct/districts/house/79.md).
 
 ## Sources
 

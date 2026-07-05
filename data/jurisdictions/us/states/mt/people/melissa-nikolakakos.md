@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 20"
+represents: "us/states/mt/districts/house/20"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Nikolakakos
 
 Current MT House District 20 (MT State House of Representatives District 20).
+
+Represents [MT State House of Representatives District 20](/us/states/mt/districts/house/20.md).
 
 ## Sources
 

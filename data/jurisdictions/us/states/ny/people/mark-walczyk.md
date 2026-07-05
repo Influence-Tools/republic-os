@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 49"
+represents: "us/states/ny/districts/senate/49"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Walczyk
 
 Current NY Senate District 49 (NY State Senate District 49).
+
+Represents [NY State Senate District 49](/us/states/ny/districts/senate/49.md).
 
 ## Sources
 

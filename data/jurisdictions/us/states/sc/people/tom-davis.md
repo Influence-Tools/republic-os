@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 46"
+represents: "us/states/sc/districts/senate/46"
 tenure:
   start: "2009-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Davis
 
 Current SC Senate District 46 (SC State Senate District 46).
+
+Represents [SC State Senate District 46](/us/states/sc/districts/senate/46.md).
 
 ## Sources
 

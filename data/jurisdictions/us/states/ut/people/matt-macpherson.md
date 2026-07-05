@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 26"
+represents: "us/states/ut/districts/house/26"
 tenure:
   start: "2023-10-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt MacPherson
 
 Current UT House District 26 (UT State House of Representatives District 26).
+
+Represents [UT State House of Representatives District 26](/us/states/ut/districts/house/26.md).
 
 ## Sources
 

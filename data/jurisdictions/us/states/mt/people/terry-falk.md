@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 10"
+represents: "us/states/mt/districts/house/10"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Falk
 
 Current MT House District 10 (MT State House of Representatives District 10).
+
+Represents [MT State House of Representatives District 10](/us/states/mt/districts/house/10.md).
 
 ## Sources
 

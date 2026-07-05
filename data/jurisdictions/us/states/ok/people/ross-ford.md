@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 76"
+represents: "us/states/ok/districts/house/76"
 tenure:
   start: "2017-11-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ross Ford
 
 Current OK House District 76 (OK State House of Representatives District 76).
+
+Represents [OK State House of Representatives District 76](/us/states/ok/districts/house/76.md).
 
 ## Sources
 

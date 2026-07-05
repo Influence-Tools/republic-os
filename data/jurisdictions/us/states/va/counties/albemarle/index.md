@@ -22,9 +22,27 @@ demographics:
   race_native: 399
   hispanic: 8647
   bachelors_plus: 73129
+districts:
+  - to: "us/states/va/districts/05"
+    rel: in-district
+    area_weight: 0.9865
+  - to: "us/states/va/districts/07"
+    rel: in-district
+    area_weight: 0.0123
+  - to: "us/states/va/districts/senate/11"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/va/districts/house/55"
+    rel: in-district
+    area_weight: 0.9718
+  - to: "us/states/va/districts/house/54"
+    rel: in-district
+    area_weight: 0.0281
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, va]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 8647 |
 | Bachelor's or higher | 73129 |
 
+## Districts
+
+- [VA-05](/us/states/va/districts/05.md) — 99% (congressional)
+- [VA-07](/us/states/va/districts/07.md) — 1% (congressional)
+- [VA Senate District 11](/us/states/va/districts/senate/11.md) — 100% (state senate)
+- [VA House District 55](/us/states/va/districts/house/55.md) — 97% (state house)
+- [VA House District 54](/us/states/va/districts/house/54.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 31"
+represents: "us/states/va/districts/senate/31"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russet Perry
 
 Current VA Senate District 31 (VA State Senate District 31).
+
+Represents [VA State Senate District 31](/us/states/va/districts/senate/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 13th Essex"
+represents: "us/states/ma/districts/house/13th-essex"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sally Kerans
 
 Current MA House District 13th Essex (MA State House of Representatives District 13th Essex).
+
+Represents [MA State House of Representatives District 13th Essex](/us/states/ma/districts/house/13th-essex.md).
 
 ## Sources
 

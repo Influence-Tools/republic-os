@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 24"
+represents: "us/states/ct/districts/house/24"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Manny Sanchez
 
 Current CT House District 24 (CT State House of Representatives District 24).
+
+Represents [CT State House of Representatives District 24](/us/states/ct/districts/house/24.md).
 
 ## Sources
 

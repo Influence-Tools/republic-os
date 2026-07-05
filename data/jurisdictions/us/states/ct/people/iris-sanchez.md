@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 25"
+represents: "us/states/ct/districts/house/25"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Iris Sánchez
 
 Current CT House District 25 (CT State House of Representatives District 25).
+
+Represents [CT State House of Representatives District 25](/us/states/ct/districts/house/25.md).
 
 ## Sources
 

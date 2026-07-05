@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 84"
+represents: "us/states/pa/districts/house/84"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Hamm
 
 Current PA House District 84 (PA State House of Representatives District 84).
+
+Represents [PA State House of Representatives District 84](/us/states/pa/districts/house/84.md).
 
 ## Sources
 

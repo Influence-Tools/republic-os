@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 82"
+represents: "us/states/ks/districts/house/82"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leah Howell
 
 Current KS House District 82 (KS State House of Representatives District 82).
+
+Represents [KS State House of Representatives District 82](/us/states/ks/districts/house/82.md).
 
 ## Sources
 

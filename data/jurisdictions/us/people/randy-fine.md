@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 6"
+represents: "us/states/fl/districts/06"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Randy Fine
 
 Current U.S. House of Representatives - FL-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/fl/districts/06.md).
 
 ## Committees
 

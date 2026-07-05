@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 56A"
+represents: "us/states/mn/districts/house/56a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Bierman
 
 Current MN House District 56A (MN State House of Representatives District 56A).
+
+Represents [MN State House of Representatives District 56A](/us/states/mn/districts/house/56a.md).
 
 ## Sources
 

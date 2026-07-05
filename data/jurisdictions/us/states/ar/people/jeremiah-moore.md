@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 61"
+represents: "us/states/ar/districts/house/61"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremiah Moore
 
 Current AR House District 61 (AR State House of Representatives District 61).
+
+Represents [AR State House of Representatives District 61](/us/states/ar/districts/house/61.md).
 
 ## Sources
 

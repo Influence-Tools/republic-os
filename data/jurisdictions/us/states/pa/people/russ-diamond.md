@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 102"
+represents: "us/states/pa/districts/house/102"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russ Diamond
 
 Current PA House District 102 (PA State House of Representatives District 102).
+
+Represents [PA State House of Representatives District 102](/us/states/pa/districts/house/102.md).
 
 ## Sources
 

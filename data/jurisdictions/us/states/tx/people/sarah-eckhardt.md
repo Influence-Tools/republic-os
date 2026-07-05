@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 14"
+represents: "us/states/tx/districts/senate/14"
 tenure:
   start: "2020-07-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Eckhardt
 
 Current TX Senate District 14 (TX State Senate District 14).
+
+Represents [TX State Senate District 14](/us/states/tx/districts/senate/14.md).
 
 ## Sources
 

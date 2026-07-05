@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 25"
+represents: "us/states/al/districts/senate/25"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Barfoot
 
 Current AL Senate District 25 (AL State Senate District 25).
+
+Represents [AL State Senate District 25](/us/states/al/districts/senate/25.md).
 
 ## Sources
 

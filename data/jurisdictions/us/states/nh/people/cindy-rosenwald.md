@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 13"
+represents: "us/states/nh/districts/senate/13"
 tenure:
   start: "2018-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Rosenwald
 
 Current NH Senate District 13 (NH State Senate District 13).
+
+Represents [NH State Senate District 13](/us/states/nh/districts/senate/13.md).
 
 ## Sources
 

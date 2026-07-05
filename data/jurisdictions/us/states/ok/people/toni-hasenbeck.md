@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 65"
+represents: "us/states/ok/districts/house/65"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Toni Hasenbeck
 
 Current OK House District 65 (OK State House of Representatives District 65).
+
+Represents [OK State House of Representatives District 65](/us/states/ok/districts/house/65.md).
 
 ## Sources
 

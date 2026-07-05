@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 73"
+represents: "us/states/wv/districts/house/73"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Smith
 
 Current WV House District 73 (WV State House of Representatives District 73).
+
+Represents [WV State House of Representatives District 73](/us/states/wv/districts/house/73.md).
 
 ## Sources
 

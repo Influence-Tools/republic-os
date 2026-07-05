@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 126"
+represents: "us/states/pa/districts/house/126"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jacklyn Rusnock
 
 Current PA House District 126 (PA State House of Representatives District 126).
+
+Represents [PA State House of Representatives District 126](/us/states/pa/districts/house/126.md).
 
 ## Sources
 

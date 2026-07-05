@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 29"
+represents: "us/states/mi/districts/senate/29"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Winnie Brinks
 
 Current MI Senate District 29 (MI State Senate District 29).
+
+Represents [MI State Senate District 29](/us/states/mi/districts/senate/29.md).
 
 ## Sources
 

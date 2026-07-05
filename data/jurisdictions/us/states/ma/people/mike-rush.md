@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Norfolk and Suffolk"
+represents: "us/states/ma/districts/senate/norfolk-and-suffolk"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Rush
 
 Current MA Senate District Norfolk and Suffolk (MA State Senate District Norfolk and Suffolk).
+
+Represents [MA State Senate District Norfolk and Suffolk](/us/states/ma/districts/senate/norfolk-and-suffolk.md).
 
 ## Sources
 

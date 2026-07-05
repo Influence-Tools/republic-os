@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 18"
+represents: "us/states/de/districts/senate/18"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Wilson
 
 Current DE Senate District 18 (DE State Senate District 18).
+
+Represents [DE State Senate District 18](/us/states/de/districts/senate/18.md).
 
 ## Sources
 

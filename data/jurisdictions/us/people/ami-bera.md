@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 6"
+represents: "us/states/ca/districts/06"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Ami Bera
 
 Current U.S. House of Representatives - CA-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/ca/districts/06.md).
 
 ## Committees
 

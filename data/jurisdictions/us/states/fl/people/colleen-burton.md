@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 12"
+represents: "us/states/fl/districts/senate/12"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Colleen Burton
 
 Current FL Senate District 12 (FL State Senate District 12).
+
+Represents [FL State Senate District 12](/us/states/fl/districts/senate/12.md).
 
 ## Sources
 

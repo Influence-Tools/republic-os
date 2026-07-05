@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 37"
+represents: "us/states/sc/districts/senate/37"
 tenure:
   start: "1997-11-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Grooms
 
 Current SC Senate District 37 (SC State Senate District 37).
+
+Represents [SC State Senate District 37](/us/states/sc/districts/senate/37.md).
 
 ## Sources
 

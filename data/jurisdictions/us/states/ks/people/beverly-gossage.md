@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 9"
+represents: "us/states/ks/districts/senate/9"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beverly Gossage
 
 Current KS Senate District 9 (KS State Senate District 9).
+
+Represents [KS State Senate District 9](/us/states/ks/districts/senate/9.md).
 
 ## Sources
 

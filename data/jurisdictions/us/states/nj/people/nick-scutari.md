@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 22"
+represents: "us/states/nj/districts/senate/22"
 tenure:
   start: "2004-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Scutari
 
 Current NJ Senate District 22 (NJ State Senate District 22).
+
+Represents [NJ State Senate District 22](/us/states/nj/districts/senate/22.md).
 
 ## Sources
 

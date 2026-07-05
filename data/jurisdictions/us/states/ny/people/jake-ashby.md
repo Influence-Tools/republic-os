@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 43"
+represents: "us/states/ny/districts/senate/43"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Ashby
 
 Current NY Senate District 43 (NY State Senate District 43).
+
+Represents [NY State Senate District 43](/us/states/ny/districts/senate/43.md).
 
 ## Sources
 

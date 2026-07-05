@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 1"
+represents: "us/states/mo/districts/senate/1"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Beck
 
 Current MO Senate District 1 (MO State Senate District 1).
+
+Represents [MO State Senate District 1](/us/states/mo/districts/senate/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 141"
+represents: "us/states/ga/districts/house/141"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carolyn Hugley
 
 Current GA House District 141 (GA State House of Representatives District 141).
+
+Represents [GA State House of Representatives District 141](/us/states/ga/districts/house/141.md).
 
 ## Sources
 

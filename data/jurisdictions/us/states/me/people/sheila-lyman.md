@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 76"
+represents: "us/states/me/districts/house/76"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sheila Lyman
 
 Current ME House District 76 (ME State House of Representatives District 76).
+
+Represents [ME State House of Representatives District 76](/us/states/me/districts/house/76.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 16"
+represents: "us/states/pa/districts/senate/16"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jarrett Coleman
 
 Current PA Senate District 16 (PA State Senate District 16).
+
+Represents [PA State Senate District 16](/us/states/pa/districts/senate/16.md).
 
 ## Sources
 

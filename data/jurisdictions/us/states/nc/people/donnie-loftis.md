@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 109"
+represents: "us/states/nc/districts/house/109"
 tenure:
   start: "2021-10-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donnie Loftis
 
 Current NC House District 109 (NC State House of Representatives District 109).
+
+Represents [NC State House of Representatives District 109](/us/states/nc/districts/house/109.md).
 
 ## Sources
 

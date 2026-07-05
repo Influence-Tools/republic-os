@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CO"
 district: "Congressional District 4"
+represents: "us/states/co/districts/04"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Lauren Boebert
 
 Current U.S. House of Representatives - CO-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/co/districts/04.md).
 
 ## Committees
 

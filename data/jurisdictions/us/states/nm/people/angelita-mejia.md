@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 58"
+represents: "us/states/nm/districts/house/58"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angelita Mejia
 
 Current NM House District 58 (NM State House of Representatives District 58).
+
+Represents [NM State House of Representatives District 58](/us/states/nm/districts/house/58.md).
 
 ## Sources
 

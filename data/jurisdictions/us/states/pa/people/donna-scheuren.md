@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 147"
+represents: "us/states/pa/districts/house/147"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Scheuren
 
 Current PA House District 147 (PA State House of Representatives District 147).
+
+Represents [PA State House of Representatives District 147](/us/states/pa/districts/house/147.md).
 
 ## Sources
 

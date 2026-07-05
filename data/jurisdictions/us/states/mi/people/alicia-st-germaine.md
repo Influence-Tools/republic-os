@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 62"
+represents: "us/states/mi/districts/house/62"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alicia St. Germaine
 
 Current MI House District 62 (MI State House of Representatives District 62).
+
+Represents [MI State House of Representatives District 62](/us/states/mi/districts/house/62.md).
 
 ## Sources
 

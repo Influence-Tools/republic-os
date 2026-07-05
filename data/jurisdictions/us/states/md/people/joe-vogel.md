@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 17"
+represents: "us/states/md/districts/house/17"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Vogel
 
 Current MD House District 17 (MD State House of Representatives District 17).
+
+Represents [MD State House of Representatives District 17](/us/states/md/districts/house/17.md).
 
 ## Sources
 

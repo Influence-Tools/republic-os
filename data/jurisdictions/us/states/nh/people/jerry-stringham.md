@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 3"
+represents: "us/states/nh/districts/house/grafton-3"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry Stringham
 
 Current NH House District Grafton 3 (NH State House of Representatives District Grafton 3).
+
+Represents [NH State House of Representatives District Grafton 3](/us/states/nh/districts/house/grafton-3.md).
 
 ## Sources
 

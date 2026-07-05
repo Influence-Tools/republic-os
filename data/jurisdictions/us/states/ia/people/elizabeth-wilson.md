@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 73"
+represents: "us/states/ia/districts/house/73"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elizabeth Wilson
 
 Current IA House District 73 (IA State House of Representatives District 73).
+
+Represents [IA State House of Representatives District 73](/us/states/ia/districts/house/73.md).
 
 ## Sources
 

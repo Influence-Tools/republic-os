@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 36"
+represents: "us/states/wa/districts/house/36"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Berry
 
 Current WA House District 36 (WA State House of Representatives District 36).
+
+Represents [WA State House of Representatives District 36](/us/states/wa/districts/house/36.md).
 
 ## Sources
 

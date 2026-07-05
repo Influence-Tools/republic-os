@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 12"
+represents: "us/states/ks/districts/senate/12"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Caryn Tyson
 
 Current KS Senate District 12 (KS State Senate District 12).
+
+Represents [KS State Senate District 12](/us/states/ks/districts/senate/12.md).
 
 ## Sources
 

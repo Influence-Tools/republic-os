@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 9"
+represents: "us/states/tn/districts/house/9"
 tenure:
   start: "2016-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Hicks
 
 Current TN House District 9 (TN State House of Representatives District 9).
+
+Represents [TN State House of Representatives District 9](/us/states/tn/districts/house/9.md).
 
 ## Sources
 

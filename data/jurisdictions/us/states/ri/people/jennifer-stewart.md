@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 59"
+represents: "us/states/ri/districts/house/59"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Stewart
 
 Current RI House District 59 (RI State House of Representatives District 59).
+
+Represents [RI State House of Representatives District 59](/us/states/ri/districts/house/59.md).
 
 ## Sources
 

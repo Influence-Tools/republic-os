@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 33"
+represents: "us/states/tx/districts/33"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Marc A. Veasey
 
 Current U.S. House of Representatives - TX-33 (Congressional District 33).
+
+Represents [Congressional District 33](/us/states/tx/districts/33.md).
 
 ## Committees
 

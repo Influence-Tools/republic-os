@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 191"
+represents: "us/states/pa/districts/house/191"
 tenure:
   start: "2015-08-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joanna McClinton
 
 Current PA House District 191 (PA State House of Representatives District 191).
+
+Represents [PA State House of Representatives District 191](/us/states/pa/districts/house/191.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 28"
+represents: "us/states/al/districts/senate/28"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy Beasley
 
 Current AL Senate District 28 (AL State Senate District 28).
+
+Represents [AL State Senate District 28](/us/states/al/districts/senate/28.md).
 
 ## Sources
 

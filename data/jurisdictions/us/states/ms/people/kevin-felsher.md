@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 117"
+represents: "us/states/ms/districts/house/117"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Felsher
 
 Current MS House District 117 (MS State House of Representatives District 117).
+
+Represents [MS State House of Representatives District 117](/us/states/ms/districts/house/117.md).
 
 ## Sources
 

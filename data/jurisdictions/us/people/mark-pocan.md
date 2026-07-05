@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 2"
+represents: "us/states/wi/districts/02"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Mark Pocan
 
 Current U.S. House of Representatives - WI-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/wi/districts/02.md).
 
 ## Committees
 

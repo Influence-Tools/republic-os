@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Hampden, Hampshire and Worcester"
+represents: "us/states/ma/districts/senate/hampden-hampshire-and-worcester"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Oliveira
 
 Current MA Senate District Hampden, Hampshire and Worcester (MA State Senate District Hampden, Hampshire and Worcester).
+
+Represents [MA State Senate District Hampden, Hampshire and Worcester](/us/states/ma/districts/senate/hampden-hampshire-and-worcester.md).
 
 ## Sources
 

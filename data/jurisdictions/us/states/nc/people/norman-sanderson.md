@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 2"
+represents: "us/states/nc/districts/senate/2"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Norman Sanderson
 
 Current NC Senate District 2 (NC State Senate District 2).
+
+Represents [NC State Senate District 2](/us/states/nc/districts/senate/2.md).
 
 ## Sources
 

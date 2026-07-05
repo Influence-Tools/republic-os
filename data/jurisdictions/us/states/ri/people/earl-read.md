@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 26"
+represents: "us/states/ri/districts/house/26"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Earl Read
 
 Current RI House District 26 (RI State House of Representatives District 26).
+
+Represents [RI State House of Representatives District 26](/us/states/ri/districts/house/26.md).
 
 ## Sources
 

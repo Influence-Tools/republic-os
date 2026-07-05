@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 15"
+represents: "us/states/ri/districts/senate/15"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meghan Kallman
 
 Current RI Senate District 15 (RI State Senate District 15).
+
+Represents [RI State Senate District 15](/us/states/ri/districts/senate/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 60"
+represents: "us/states/ms/districts/house/60"
 tenure:
   start: "2018-03-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fred Shanks
 
 Current MS House District 60 (MS State House of Representatives District 60).
+
+Represents [MS State House of Representatives District 60](/us/states/ms/districts/house/60.md).
 
 ## Sources
 

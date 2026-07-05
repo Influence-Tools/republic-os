@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 17"
+represents: "us/states/ks/districts/house/17"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jo Ella Hoye
 
 Current KS House District 17 (KS State House of Representatives District 17).
+
+Represents [KS State House of Representatives District 17](/us/states/ks/districts/house/17.md).
 
 ## Sources
 

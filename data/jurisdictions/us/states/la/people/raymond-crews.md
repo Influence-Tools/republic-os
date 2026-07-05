@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 8"
+represents: "us/states/la/districts/house/8"
 tenure:
   start: "2017-05-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Raymond Crews
 
 Current LA House District 8 (LA State House of Representatives District 8).
+
+Represents [LA State House of Representatives District 8](/us/states/la/districts/house/8.md).
 
 ## Sources
 

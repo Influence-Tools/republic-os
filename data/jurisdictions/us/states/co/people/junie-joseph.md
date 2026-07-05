@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 10"
+represents: "us/states/co/districts/house/10"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Junie Joseph
 
 Current CO House District 10 (CO State House of Representatives District 10).
+
+Represents [CO State House of Representatives District 10](/us/states/co/districts/house/10.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 7"
+represents: "us/states/oh/districts/senate/7"
 tenure:
   start: "2017-01-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Wilson
 
 Current OH Senate District 7 (OH State Senate District 7).
+
+Represents [OH State Senate District 7](/us/states/oh/districts/senate/7.md).
 
 ## Sources
 

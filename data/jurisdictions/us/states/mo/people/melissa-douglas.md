@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 27"
+represents: "us/states/mo/districts/house/27"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Douglas
 
 Current MO House District 27 (MO State House of Representatives District 27).
+
+Represents [MO State House of Representatives District 27](/us/states/mo/districts/house/27.md).
 
 ## Sources
 

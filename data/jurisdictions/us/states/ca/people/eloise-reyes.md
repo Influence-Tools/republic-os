@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 29"
+represents: "us/states/ca/districts/senate/29"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eloise Reyes
 
 Current CA Senate District 29 (CA State Senate District 29).
+
+Represents [CA State Senate District 29](/us/states/ca/districts/senate/29.md).
 
 ## Sources
 

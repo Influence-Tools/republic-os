@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 26"
+represents: "us/states/az/districts/senate/26"
 tenure:
   start: "2023-05-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Flavio Bravo
 
 Current AZ Senate District 26 (AZ State Senate District 26).
+
+Represents [AZ State Senate District 26](/us/states/az/districts/senate/26.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 35"
+represents: "us/states/tx/districts/house/35"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Oscar Longoria
 
 Current TX House District 35 (TX State House of Representatives District 35).
+
+Represents [TX State House of Representatives District 35](/us/states/tx/districts/house/35.md).
 
 ## Sources
 

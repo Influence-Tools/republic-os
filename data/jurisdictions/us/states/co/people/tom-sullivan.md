@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 27"
+represents: "us/states/co/districts/senate/27"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Sullivan
 
 Current CO Senate District 27 (CO State Senate District 27).
+
+Represents [CO State Senate District 27](/us/states/co/districts/senate/27.md).
 
 ## Sources
 

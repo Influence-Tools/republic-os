@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 40"
+represents: "us/states/mn/districts/senate/40"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Marty
 
 Current MN Senate District 40 (MN State Senate District 40).
+
+Represents [MN State Senate District 40](/us/states/mn/districts/senate/40.md).
 
 ## Sources
 

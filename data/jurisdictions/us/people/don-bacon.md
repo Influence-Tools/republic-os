@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NE"
 district: "Congressional District 2"
+represents: "us/states/ne/districts/02"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Don Bacon
 
 Current U.S. House of Representatives - NE-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ne/districts/02.md).
 
 ## Committees
 

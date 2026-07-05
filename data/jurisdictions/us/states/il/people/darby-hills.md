@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 26"
+represents: "us/states/il/districts/senate/26"
 tenure:
   start: "2025-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darby Hills
 
 Current IL Senate District 26 (IL State Senate District 26).
+
+Represents [IL State Senate District 26](/us/states/il/districts/senate/26.md).
 
 ## Sources
 

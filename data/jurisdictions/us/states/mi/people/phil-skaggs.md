@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 80"
+represents: "us/states/mi/districts/house/80"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Skaggs
 
 Current MI House District 80 (MI State House of Representatives District 80).
+
+Represents [MI State House of Representatives District 80](/us/states/mi/districts/house/80.md).
 
 ## Sources
 

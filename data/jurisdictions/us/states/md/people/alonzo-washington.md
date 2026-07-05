@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 22"
+represents: "us/states/md/districts/senate/22"
 tenure:
   start: "2023-01-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alonzo Washington
 
 Current MD Senate District 22 (MD State Senate District 22).
+
+Represents [MD State Senate District 22](/us/states/md/districts/senate/22.md).
 
 ## Sources
 

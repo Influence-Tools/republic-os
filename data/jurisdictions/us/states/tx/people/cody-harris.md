@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 8"
+represents: "us/states/tx/districts/house/8"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cody Harris
 
 Current TX House District 8 (TX State House of Representatives District 8).
+
+Represents [TX State House of Representatives District 8](/us/states/tx/districts/house/8.md).
 
 ## Sources
 

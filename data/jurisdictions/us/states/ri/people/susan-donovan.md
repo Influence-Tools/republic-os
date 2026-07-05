@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 69"
+represents: "us/states/ri/districts/house/69"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Donovan
 
 Current RI House District 69 (RI State House of Representatives District 69).
+
+Represents [RI State House of Representatives District 69](/us/states/ri/districts/house/69.md).
 
 ## Sources
 

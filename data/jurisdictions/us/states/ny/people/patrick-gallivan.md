@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 60"
+represents: "us/states/ny/districts/senate/60"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Gallivan
 
 Current NY Senate District 60 (NY State Senate District 60).
+
+Represents [NY State Senate District 60](/us/states/ny/districts/senate/60.md).
 
 ## Sources
 

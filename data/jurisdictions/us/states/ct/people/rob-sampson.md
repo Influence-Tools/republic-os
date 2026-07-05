@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 16"
+represents: "us/states/ct/districts/senate/16"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Sampson
 
 Current CT Senate District 16 (CT State Senate District 16).
+
+Represents [CT State Senate District 16](/us/states/ct/districts/senate/16.md).
 
 ## Sources
 

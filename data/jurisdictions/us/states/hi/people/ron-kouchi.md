@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 8"
+represents: "us/states/hi/districts/senate/8"
 tenure:
   start: "2012-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Kouchi
 
 Current HI Senate District 8 (HI State Senate District 8).
+
+Represents [HI State Senate District 8](/us/states/hi/districts/senate/8.md).
 
 ## Sources
 

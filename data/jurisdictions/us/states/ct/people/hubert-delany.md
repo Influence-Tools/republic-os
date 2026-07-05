@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 144"
+represents: "us/states/ct/districts/house/144"
 tenure:
   start: "2022-02-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hubert Delany
 
 Current CT House District 144 (CT State House of Representatives District 144).
+
+Represents [CT State House of Representatives District 144](/us/states/ct/districts/house/144.md).
 
 ## Sources
 

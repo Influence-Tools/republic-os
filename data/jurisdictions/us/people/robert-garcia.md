@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 42"
+represents: "us/states/ca/districts/42"
 committees:
   - name: "House Committee on Oversight and Government Reform"
     role: "ranking-member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Robert Garcia
 
 Current U.S. House of Representatives - CA-42 (Congressional District 42).
+
+Represents [Congressional District 42](/us/states/ca/districts/42.md).
 
 ## Committees
 

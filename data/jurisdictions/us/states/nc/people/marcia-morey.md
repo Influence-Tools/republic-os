@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 30"
+represents: "us/states/nc/districts/house/30"
 tenure:
   start: "2017-04-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marcia Morey
 
 Current NC House District 30 (NC State House of Representatives District 30).
+
+Represents [NC State House of Representatives District 30](/us/states/nc/districts/house/30.md).
 
 ## Sources
 

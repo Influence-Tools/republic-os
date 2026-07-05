@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 34"
+represents: "us/states/ut/districts/house/34"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Moss
 
 Current UT House District 34 (UT State House of Representatives District 34).
+
+Represents [UT State House of Representatives District 34](/us/states/ut/districts/house/34.md).
 
 ## Sources
 

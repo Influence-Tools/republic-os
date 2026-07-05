@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 55"
+represents: "us/states/ny/districts/senate/55"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Samra Brouk
 
 Current NY Senate District 55 (NY State Senate District 55).
+
+Represents [NY State Senate District 55](/us/states/ny/districts/senate/55.md).
 
 ## Sources
 

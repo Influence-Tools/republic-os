@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 132"
+represents: "us/states/tx/districts/house/132"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Schofield
 
 Current TX House District 132 (TX State House of Representatives District 132).
+
+Represents [TX State House of Representatives District 132](/us/states/tx/districts/house/132.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 63"
+represents: "us/states/ny/districts/senate/63"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # April Baskin
 
 Current NY Senate District 63 (NY State Senate District 63).
+
+Represents [NY State Senate District 63](/us/states/ny/districts/senate/63.md).
 
 ## Sources
 

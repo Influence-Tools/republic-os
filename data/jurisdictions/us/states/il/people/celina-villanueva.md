@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 12"
+represents: "us/states/il/districts/senate/12"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Celina Villanueva
 
 Current IL Senate District 12 (IL State Senate District 12).
+
+Represents [IL State Senate District 12](/us/states/il/districts/senate/12.md).
 
 ## Sources
 

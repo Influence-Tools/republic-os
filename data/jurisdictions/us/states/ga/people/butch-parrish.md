@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 158"
+represents: "us/states/ga/districts/house/158"
 tenure:
   start: "1985-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Butch Parrish
 
 Current GA House District 158 (GA State House of Representatives District 158).
+
+Represents [GA State House of Representatives District 158](/us/states/ga/districts/house/158.md).
 
 ## Sources
 

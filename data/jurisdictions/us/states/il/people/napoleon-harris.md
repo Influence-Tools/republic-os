@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 15"
+represents: "us/states/il/districts/senate/15"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Napoleon Harris
 
 Current IL Senate District 15 (IL State Senate District 15).
+
+Represents [IL State Senate District 15](/us/states/il/districts/senate/15.md).
 
 ## Sources
 

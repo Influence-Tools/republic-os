@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 31"
+represents: "us/states/wa/districts/senate/31"
 tenure:
   start: "2017-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Fortunato
 
 Current WA Senate District 31 (WA State Senate District 31).
+
+Represents [WA State Senate District 31](/us/states/wa/districts/senate/31.md).
 
 ## Sources
 

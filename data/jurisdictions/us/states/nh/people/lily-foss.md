@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 41"
+represents: "us/states/nh/districts/house/hillsborough-41"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lily Foss
 
 Current NH House District Hillsborough 41 (NH State House of Representatives District Hillsborough 41).
+
+Represents [NH State House of Representatives District Hillsborough 41](/us/states/nh/districts/house/hillsborough-41.md).
 
 ## Sources
 

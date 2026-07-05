@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 39"
+represents: "us/states/al/districts/house/39"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ginny Shaver
 
 Current AL House District 39 (AL State House of Representatives District 39).
+
+Represents [AL State House of Representatives District 39](/us/states/al/districts/house/39.md).
 
 ## Sources
 

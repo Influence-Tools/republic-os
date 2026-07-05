@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 23"
+represents: "us/states/nd/districts/house/23"
 tenure:
   start: "2024-05-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Nehring
 
 Current ND House District 23 (ND State House of Representatives District 23).
+
+Represents [ND State House of Representatives District 23](/us/states/nd/districts/house/23.md).
 
 ## Sources
 

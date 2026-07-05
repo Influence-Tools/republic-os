@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 97"
+represents: "us/states/in/districts/house/97"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Moed
 
 Current IN House District 97 (IN State House of Representatives District 97).
+
+Represents [IN State House of Representatives District 97](/us/states/in/districts/house/97.md).
 
 ## Sources
 

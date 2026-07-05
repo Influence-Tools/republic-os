@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 20"
+represents: "us/states/sd/districts/house/20"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kaley Nolz
 
 Current SD House District 20 (SD State House of Representatives District 20).
+
+Represents [SD State House of Representatives District 20](/us/states/sd/districts/house/20.md).
 
 ## Sources
 

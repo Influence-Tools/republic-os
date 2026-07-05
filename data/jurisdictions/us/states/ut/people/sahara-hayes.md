@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 32"
+represents: "us/states/ut/districts/house/32"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sahara Hayes
 
 Current UT House District 32 (UT State House of Representatives District 32).
+
+Represents [UT State House of Representatives District 32](/us/states/ut/districts/house/32.md).
 
 ## Sources
 

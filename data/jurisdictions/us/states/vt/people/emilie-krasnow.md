@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-9"
+represents: "us/states/vt/districts/house/chittenden-9"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emilie Krasnow
 
 Current VT House District Chittenden-9 (VT State House of Representatives District Chittenden-9).
+
+Represents [VT State House of Representatives District Chittenden-9](/us/states/vt/districts/house/chittenden-9.md).
 
 ## Sources
 

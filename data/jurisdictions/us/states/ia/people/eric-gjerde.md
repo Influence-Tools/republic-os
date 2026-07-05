@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 74"
+represents: "us/states/ia/districts/house/74"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Gjerde
 
 Current IA House District 74 (IA State House of Representatives District 74).
+
+Represents [IA State House of Representatives District 74](/us/states/ia/districts/house/74.md).
 
 ## Sources
 

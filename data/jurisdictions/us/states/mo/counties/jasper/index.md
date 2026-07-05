@@ -22,9 +22,30 @@ demographics:
   race_native: 990
   hispanic: 12221
   bachelors_plus: 27388
+districts:
+  - to: "us/states/mo/districts/07"
+    rel: in-district
+    area_weight: 0.9996
+  - to: "us/states/mo/districts/senate/32"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/mo/districts/house/127"
+    rel: in-district
+    area_weight: 0.4523
+  - to: "us/states/mo/districts/house/163"
+    rel: in-district
+    area_weight: 0.3002
+  - to: "us/states/mo/districts/house/162"
+    rel: in-district
+    area_weight: 0.2201
+  - to: "us/states/mo/districts/house/161"
+    rel: in-district
+    area_weight: 0.0273
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mo]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 12221 |
 | Bachelor's or higher | 27388 |
 
+## Districts
+
+- [MO-07](/us/states/mo/districts/07.md) — 100% (congressional)
+- [MO Senate District 32](/us/states/mo/districts/senate/32.md) — 100% (state senate)
+- [MO House District 127](/us/states/mo/districts/house/127.md) — 45% (state house)
+- [MO House District 163](/us/states/mo/districts/house/163.md) — 30% (state house)
+- [MO House District 162](/us/states/mo/districts/house/162.md) — 22% (state house)
+- [MO House District 161](/us/states/mo/districts/house/161.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

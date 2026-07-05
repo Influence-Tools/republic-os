@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 104"
+represents: "us/states/ms/districts/house/104"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Byrd
 
 Current MS House District 104 (MS State House of Representatives District 104).
+
+Represents [MS State House of Representatives District 104](/us/states/ms/districts/house/104.md).
 
 ## Sources
 

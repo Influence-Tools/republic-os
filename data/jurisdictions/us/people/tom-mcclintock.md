@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 5"
+represents: "us/states/ca/districts/05"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Tom McClintock
 
 Current U.S. House of Representatives - CA-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/ca/districts/05.md).
 
 ## Committees
 

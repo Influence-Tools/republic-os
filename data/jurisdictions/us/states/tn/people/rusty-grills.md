@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 77"
+represents: "us/states/tn/districts/house/77"
 tenure:
   start: "2020-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rusty Grills
 
 Current TN House District 77 (TN State House of Representatives District 77).
+
+Represents [TN State House of Representatives District 77](/us/states/tn/districts/house/77.md).
 
 ## Sources
 

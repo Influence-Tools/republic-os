@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 19"
+represents: "us/states/nh/districts/senate/19"
 tenure:
   start: "2014-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Regina Birdsell
 
 Current NH Senate District 19 (NH State Senate District 19).
+
+Represents [NH State Senate District 19](/us/states/nh/districts/senate/19.md).
 
 ## Sources
 

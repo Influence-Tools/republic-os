@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 19"
+represents: "us/states/ct/districts/house/19"
 tenure:
   start: "2019-04-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tammy Exum
 
 Current CT House District 19 (CT State House of Representatives District 19).
+
+Represents [CT State House of Representatives District 19](/us/states/ct/districts/house/19.md).
 
 ## Sources
 

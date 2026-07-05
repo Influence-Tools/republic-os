@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 134"
+represents: "us/states/me/districts/house/134"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Traci Gere
 
 Current ME House District 134 (ME State House of Representatives District 134).
+
+Represents [ME State House of Representatives District 134](/us/states/me/districts/house/134.md).
 
 ## Sources
 

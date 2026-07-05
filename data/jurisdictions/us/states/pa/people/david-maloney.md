@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 130"
+represents: "us/states/pa/districts/house/130"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Maloney
 
 Current PA House District 130 (PA State House of Representatives District 130).
+
+Represents [PA State House of Representatives District 130](/us/states/pa/districts/house/130.md).
 
 ## Sources
 

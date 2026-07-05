@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 20"
+represents: "us/states/ks/districts/senate/20"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brenda Dietrich
 
 Current KS Senate District 20 (KS State Senate District 20).
+
+Represents [KS State Senate District 20](/us/states/ks/districts/senate/20.md).
 
 ## Sources
 

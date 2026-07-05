@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 43B"
+represents: "us/states/mn/districts/house/43b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Freiberg
 
 Current MN House District 43B (MN State House of Representatives District 43B).
+
+Represents [MN State House of Representatives District 43B](/us/states/mn/districts/house/43b.md).
 
 ## Sources
 

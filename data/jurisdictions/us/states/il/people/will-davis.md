@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 30"
+represents: "us/states/il/districts/house/30"
 tenure:
   start: "2003-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Davis
 
 Current IL House District 30 (IL State House of Representatives District 30).
+
+Represents [IL State House of Representatives District 30](/us/states/il/districts/house/30.md).
 
 ## Sources
 

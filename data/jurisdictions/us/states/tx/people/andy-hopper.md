@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 64"
+represents: "us/states/tx/districts/house/64"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andy Hopper
 
 Current TX House District 64 (TX State House of Representatives District 64).
+
+Represents [TX State House of Representatives District 64](/us/states/tx/districts/house/64.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 34"
+represents: "us/states/wy/districts/house/34"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pepper Ottman
 
 Current WY House District 34 (WY State House of Representatives District 34).
+
+Represents [WY State House of Representatives District 34](/us/states/wy/districts/house/34.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 2"
+represents: "us/states/ga/districts/senate/2"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derek Mallow
 
 Current GA Senate District 2 (GA State Senate District 2).
+
+Represents [GA State Senate District 2](/us/states/ga/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 11"
+represents: "us/states/fl/districts/11"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -67,6 +68,8 @@ timestamp: "2026-07-04"
 # Daniel Webster
 
 Current U.S. House of Representatives - FL-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/fl/districts/11.md).
 
 ## Committees
 

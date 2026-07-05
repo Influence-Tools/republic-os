@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 29"
+represents: "us/states/fl/districts/senate/29"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Grall
 
 Current FL Senate District 29 (FL State Senate District 29).
+
+Represents [FL State Senate District 29](/us/states/fl/districts/senate/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 33"
+represents: "us/states/sd/districts/house/33"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Jensen
 
 Current SD House District 33 (SD State House of Representatives District 33).
+
+Represents [SD State House of Representatives District 33](/us/states/sd/districts/house/33.md).
 
 ## Sources
 

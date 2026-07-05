@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 14"
+represents: "us/states/sd/districts/senate/14"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Zikmund
 
 Current SD Senate District 14 (SD State Senate District 14).
+
+Represents [SD State Senate District 14](/us/states/sd/districts/senate/14.md).
 
 ## Sources
 

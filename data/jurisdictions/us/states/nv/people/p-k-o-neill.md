@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 40"
+represents: "us/states/nv/districts/house/40"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # P.K. O'Neill
 
 Current NV House District 40 (NV State House of Representatives District 40).
+
+Represents [NV State House of Representatives District 40](/us/states/nv/districts/house/40.md).
 
 ## Sources
 

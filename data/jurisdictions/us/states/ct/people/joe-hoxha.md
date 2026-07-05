@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 78"
+represents: "us/states/ct/districts/house/78"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Hoxha
 
 Current CT House District 78 (CT State House of Representatives District 78).
+
+Represents [CT State House of Representatives District 78](/us/states/ct/districts/house/78.md).
 
 ## Sources
 

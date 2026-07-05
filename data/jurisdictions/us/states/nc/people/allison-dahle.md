@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 11"
+represents: "us/states/nc/districts/house/11"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Allison Dahle
 
 Current NC House District 11 (NC State House of Representatives District 11).
+
+Represents [NC State House of Representatives District 11](/us/states/nc/districts/house/11.md).
 
 ## Sources
 

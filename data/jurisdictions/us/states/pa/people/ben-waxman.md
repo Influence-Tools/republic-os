@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 182"
+represents: "us/states/pa/districts/house/182"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Waxman
 
 Current PA House District 182 (PA State House of Representatives District 182).
+
+Represents [PA State House of Representatives District 182](/us/states/pa/districts/house/182.md).
 
 ## Sources
 

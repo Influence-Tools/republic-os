@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 4"
+represents: "us/states/il/districts/senate/4"
 tenure:
   start: "1998-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kimberly Lightford
 
 Current IL Senate District 4 (IL State Senate District 4).
+
+Represents [IL State Senate District 4](/us/states/il/districts/senate/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 41"
+represents: "us/states/il/districts/senate/41"
 tenure:
   start: "2017-07-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Curran
 
 Current IL Senate District 41 (IL State Senate District 41).
+
+Represents [IL State Senate District 41](/us/states/il/districts/senate/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 60"
+represents: "us/states/nm/districts/house/60"
 tenure:
   start: "2021-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Hernandez
 
 Current NM House District 60 (NM State House of Representatives District 60).
+
+Represents [NM State House of Representatives District 60](/us/states/nm/districts/house/60.md).
 
 ## Sources
 

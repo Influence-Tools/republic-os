@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 38"
+represents: "us/states/nd/districts/house/38"
 tenure:
   start: "2000-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Ruby
 
 Current ND House District 38 (ND State House of Representatives District 38).
+
+Represents [ND State House of Representatives District 38](/us/states/nd/districts/house/38.md).
 
 ## Sources
 

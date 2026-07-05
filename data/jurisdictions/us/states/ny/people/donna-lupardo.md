@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 123"
+represents: "us/states/ny/districts/house/123"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Lupardo
 
 Current NY House District 123 (NY State House of Representatives District 123).
+
+Represents [NY State House of Representatives District 123](/us/states/ny/districts/house/123.md).
 
 ## Sources
 

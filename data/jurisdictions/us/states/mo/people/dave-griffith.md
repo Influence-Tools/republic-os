@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 60"
+represents: "us/states/mo/districts/house/60"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Griffith
 
 Current MO House District 60 (MO State House of Representatives District 60).
+
+Represents [MO State House of Representatives District 60](/us/states/mo/districts/house/60.md).
 
 ## Sources
 

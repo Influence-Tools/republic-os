@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 1"
+represents: "us/states/wa/districts/house/1"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelley Kloba
 
 Current WA House District 1 (WA State House of Representatives District 1).
+
+Represents [WA State House of Representatives District 1](/us/states/wa/districts/house/1.md).
 
 ## Sources
 

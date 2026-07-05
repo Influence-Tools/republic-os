@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 34"
+represents: "us/states/mi/districts/house/34"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nancy Jenkins-Arno
 
 Current MI House District 34 (MI State House of Representatives District 34).
+
+Represents [MI State House of Representatives District 34](/us/states/mi/districts/house/34.md).
 
 ## Sources
 

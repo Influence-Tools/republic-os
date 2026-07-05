@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 38"
+represents: "us/states/ri/districts/house/38"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Kennedy
 
 Current RI House District 38 (RI State House of Representatives District 38).
+
+Represents [RI State House of Representatives District 38](/us/states/ri/districts/house/38.md).
 
 ## Sources
 

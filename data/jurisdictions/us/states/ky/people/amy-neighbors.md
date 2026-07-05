@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 21"
+represents: "us/states/ky/districts/house/21"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Neighbors
 
 Current KY House District 21 (KY State House of Representatives District 21).
+
+Represents [KY State House of Representatives District 21](/us/states/ky/districts/house/21.md).
 
 ## Sources
 

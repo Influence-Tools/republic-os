@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 29"
+represents: "us/states/tn/districts/senate/29"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Raumesh Akbari
 
 Current TN Senate District 29 (TN State Senate District 29).
+
+Represents [TN State Senate District 29](/us/states/tn/districts/senate/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 14"
+represents: "us/states/ok/districts/house/14"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Sneed
 
 Current OK House District 14 (OK State House of Representatives District 14).
+
+Represents [OK State House of Representatives District 14](/us/states/ok/districts/house/14.md).
 
 ## Sources
 

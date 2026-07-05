@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 6"
+represents: "us/states/or/districts/house/6"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Wallan
 
 Current OR House District 6 (OR State House of Representatives District 6).
+
+Represents [OR State House of Representatives District 6](/us/states/or/districts/house/6.md).
 
 ## Sources
 

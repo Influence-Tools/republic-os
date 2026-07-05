@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 19"
+represents: "us/states/ia/districts/senate/19"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Rozenboom
 
 Current IA Senate District 19 (IA State Senate District 19).
+
+Represents [IA State Senate District 19](/us/states/ia/districts/senate/19.md).
 
 ## Sources
 

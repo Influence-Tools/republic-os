@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 69"
+represents: "us/states/in/districts/house/69"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Lucas
 
 Current IN House District 69 (IN State House of Representatives District 69).
+
+Represents [IN State House of Representatives District 69](/us/states/in/districts/house/69.md).
 
 ## Sources
 

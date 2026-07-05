@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 11"
+represents: "us/states/ks/districts/house/11"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Bryce
 
 Current KS House District 11 (KS State House of Representatives District 11).
+
+Represents [KS State House of Representatives District 11](/us/states/ks/districts/house/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 3"
+represents: "us/states/hi/districts/senate/3"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dru Kanuha
 
 Current HI Senate District 3 (HI State Senate District 3).
+
+Represents [HI State Senate District 3](/us/states/hi/districts/senate/3.md).
 
 ## Sources
 

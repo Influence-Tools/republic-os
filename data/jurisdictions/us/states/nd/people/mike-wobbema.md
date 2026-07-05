@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 24"
+represents: "us/states/nd/districts/senate/24"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Wobbema
 
 Current ND Senate District 24 (ND State Senate District 24).
+
+Represents [ND State Senate District 24](/us/states/nd/districts/senate/24.md).
 
 ## Sources
 

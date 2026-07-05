@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 78"
+represents: "us/states/ok/districts/house/78"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meloyde Blancett
 
 Current OK House District 78 (OK State House of Representatives District 78).
+
+Represents [OK State House of Representatives District 78](/us/states/ok/districts/house/78.md).
 
 ## Sources
 

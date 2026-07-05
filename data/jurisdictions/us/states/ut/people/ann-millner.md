@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 5"
+represents: "us/states/ut/districts/senate/5"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Millner
 
 Current UT Senate District 5 (UT State Senate District 5).
+
+Represents [UT State Senate District 5](/us/states/ut/districts/senate/5.md).
 
 ## Sources
 

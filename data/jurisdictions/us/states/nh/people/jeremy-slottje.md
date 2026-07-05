@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 13"
+represents: "us/states/nh/districts/house/hillsborough-13"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Slottje
 
 Current NH House District Hillsborough 13 (NH State House of Representatives District Hillsborough 13).
+
+Represents [NH State House of Representatives District Hillsborough 13](/us/states/nh/districts/house/hillsborough-13.md).
 
 ## Sources
 

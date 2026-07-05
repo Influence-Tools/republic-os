@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 57"
+represents: "us/states/ia/districts/house/57"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Grassley
 
 Current IA House District 57 (IA State House of Representatives District 57).
+
+Represents [IA State House of Representatives District 57](/us/states/ia/districts/house/57.md).
 
 ## Sources
 

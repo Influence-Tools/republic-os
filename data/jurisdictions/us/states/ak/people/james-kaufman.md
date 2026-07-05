@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District F"
+represents: "us/states/ak/districts/senate/f"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Kaufman
 
 Current AK Senate District F (AK State Senate District F).
+
+Represents [AK State Senate District F](/us/states/ak/districts/senate/f.md).
 
 ## Sources
 

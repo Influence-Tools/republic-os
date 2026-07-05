@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 26"
+represents: "us/states/nh/districts/house/merrimack-26"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alvin See
 
 Current NH House District Merrimack 26 (NH State House of Representatives District Merrimack 26).
+
+Represents [NH State House of Representatives District Merrimack 26](/us/states/nh/districts/house/merrimack-26.md).
 
 ## Sources
 

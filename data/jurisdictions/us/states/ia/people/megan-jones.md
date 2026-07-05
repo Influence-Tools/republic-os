@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 6"
+represents: "us/states/ia/districts/house/6"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Megan Jones
 
 Current IA House District 6 (IA State House of Representatives District 6).
+
+Represents [IA State House of Representatives District 6](/us/states/ia/districts/house/6.md).
 
 ## Sources
 

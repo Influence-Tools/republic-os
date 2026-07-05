@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 64"
+represents: "us/states/ms/districts/house/64"
 tenure:
   start: "2022-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shanda Yates
 
 Current MS House District 64 (MS State House of Representatives District 64).
+
+Represents [MS State House of Representatives District 64](/us/states/ms/districts/house/64.md).
 
 ## Sources
 

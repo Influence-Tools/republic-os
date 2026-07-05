@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 32"
+represents: "us/states/de/districts/house/32"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kerri Harris
 
 Current DE House District 32 (DE State House of Representatives District 32).
+
+Represents [DE State House of Representatives District 32](/us/states/de/districts/house/32.md).
 
 ## Sources
 

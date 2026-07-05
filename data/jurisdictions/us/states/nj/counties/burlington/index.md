@@ -22,9 +22,36 @@ demographics:
   race_native: 956
   hispanic: 44974
   bachelors_plus: 194840
+districts:
+  - to: "us/states/nj/districts/03"
+    rel: in-district
+    area_weight: 0.9892
+  - to: "us/states/nj/districts/01"
+    rel: in-district
+    area_weight: 0.0081
+  - to: "us/states/nj/districts/senate/8"
+    rel: in-district
+    area_weight: 0.8378
+  - to: "us/states/nj/districts/senate/7"
+    rel: in-district
+    area_weight: 0.1355
+  - to: "us/states/nj/districts/senate/12"
+    rel: in-district
+    area_weight: 0.0214
+  - to: "us/states/nj/districts/house/8"
+    rel: in-district
+    area_weight: 0.8378
+  - to: "us/states/nj/districts/house/7"
+    rel: in-district
+    area_weight: 0.1355
+  - to: "us/states/nj/districts/house/12"
+    rel: in-district
+    area_weight: 0.0214
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nj]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 44974 |
 | Bachelor's or higher | 194840 |
 
+## Districts
+
+- [NJ-03](/us/states/nj/districts/03.md) — 99% (congressional)
+- [NJ-01](/us/states/nj/districts/01.md) — 1% (congressional)
+- [NJ Senate District 8](/us/states/nj/districts/senate/8.md) — 84% (state senate)
+- [NJ Senate District 7](/us/states/nj/districts/senate/7.md) — 14% (state senate)
+- [NJ Senate District 12](/us/states/nj/districts/senate/12.md) — 2% (state senate)
+- [NJ House District 8](/us/states/nj/districts/house/8.md) — 84% (state house)
+- [NJ House District 7](/us/states/nj/districts/house/7.md) — 14% (state house)
+- [NJ House District 12](/us/states/nj/districts/house/12.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

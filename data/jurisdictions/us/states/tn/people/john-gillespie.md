@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 97"
+represents: "us/states/tn/districts/house/97"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Gillespie
 
 Current TN House District 97 (TN State House of Representatives District 97).
+
+Represents [TN State House of Representatives District 97](/us/states/tn/districts/house/97.md).
 
 ## Sources
 

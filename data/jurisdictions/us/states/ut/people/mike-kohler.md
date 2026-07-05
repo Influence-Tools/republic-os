@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 59"
+represents: "us/states/ut/districts/house/59"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Kohler
 
 Current UT House District 59 (UT State House of Representatives District 59).
+
+Represents [UT State House of Representatives District 59](/us/states/ut/districts/house/59.md).
 
 ## Sources
 

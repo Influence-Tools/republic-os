@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 37"
+represents: "us/states/ky/districts/house/37"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Callaway
 
 Current KY House District 37 (KY State House of Representatives District 37).
+
+Represents [KY State House of Representatives District 37](/us/states/ky/districts/house/37.md).
 
 ## Sources
 

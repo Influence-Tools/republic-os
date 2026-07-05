@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 16"
+represents: "us/states/pa/districts/16"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Mike Kelly
 
 Current U.S. House of Representatives - PA-16 (Congressional District 16).
+
+Represents [Congressional District 16](/us/states/pa/districts/16.md).
 
 ## Committees
 

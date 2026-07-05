@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 60"
+represents: "us/states/al/districts/house/60"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Juandalynn Givan
 
 Current AL House District 60 (AL State House of Representatives District 60).
+
+Represents [AL State House of Representatives District 60](/us/states/al/districts/house/60.md).
 
 ## Sources
 

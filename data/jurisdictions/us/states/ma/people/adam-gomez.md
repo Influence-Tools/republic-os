@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Hampden"
+represents: "us/states/ma/districts/senate/hampden"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Gómez
 
 Current MA Senate District Hampden (MA State Senate District Hampden).
+
+Represents [MA State Senate District Hampden](/us/states/ma/districts/senate/hampden.md).
 
 ## Sources
 

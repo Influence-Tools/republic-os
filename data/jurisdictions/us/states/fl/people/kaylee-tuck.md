@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 83"
+represents: "us/states/fl/districts/house/83"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kaylee Tuck
 
 Current FL House District 83 (FL State House of Representatives District 83).
+
+Represents [FL State House of Representatives District 83](/us/states/fl/districts/house/83.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 4"
+represents: "us/states/or/districts/senate/4"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Floyd Prozanski
 
 Current OR Senate District 4 (OR State Senate District 4).
+
+Represents [OR State Senate District 4](/us/states/or/districts/senate/4.md).
 
 ## Sources
 

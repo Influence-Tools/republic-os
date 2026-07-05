@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 18"
+represents: "us/states/al/districts/house/18"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Kiel
 
 Current AL House District 18 (AL State House of Representatives District 18).
+
+Represents [AL State House of Representatives District 18](/us/states/al/districts/house/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 40"
+represents: "us/states/nj/districts/senate/40"
 tenure:
   start: "2017-10-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Corrado
 
 Current NJ Senate District 40 (NJ State Senate District 40).
+
+Represents [NJ State Senate District 40](/us/states/nj/districts/senate/40.md).
 
 ## Sources
 

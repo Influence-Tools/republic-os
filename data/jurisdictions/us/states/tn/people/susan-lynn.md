@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 57"
+represents: "us/states/tn/districts/house/57"
 tenure:
   start: "2012-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Lynn
 
 Current TN House District 57 (TN State House of Representatives District 57).
+
+Represents [TN State House of Representatives District 57](/us/states/tn/districts/house/57.md).
 
 ## Sources
 

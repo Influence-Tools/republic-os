@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 30"
+represents: "us/states/az/districts/house/30"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leo Biasiucci
 
 Current AZ House District 30 (AZ State House of Representatives District 30).
+
+Represents [AZ State House of Representatives District 30](/us/states/az/districts/house/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 12"
+represents: "us/states/sd/districts/senate/12"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arch Beal
 
 Current SD Senate District 12 (SD State Senate District 12).
+
+Represents [SD State Senate District 12](/us/states/sd/districts/senate/12.md).
 
 ## Sources
 

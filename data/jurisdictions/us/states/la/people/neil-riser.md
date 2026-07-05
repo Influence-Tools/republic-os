@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 20"
+represents: "us/states/la/districts/house/20"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neil Riser
 
 Current LA House District 20 (LA State House of Representatives District 20).
+
+Represents [LA State House of Representatives District 20](/us/states/la/districts/house/20.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 76"
+represents: "us/states/ga/districts/house/76"
 tenure:
   start: "2011-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandra Scott
 
 Current GA House District 76 (GA State House of Representatives District 76).
+
+Represents [GA State House of Representatives District 76](/us/states/ga/districts/house/76.md).
 
 ## Sources
 

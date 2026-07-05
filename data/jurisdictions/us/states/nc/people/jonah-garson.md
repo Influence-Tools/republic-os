@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 23"
+represents: "us/states/nc/districts/senate/23"
 tenure:
   start: "2026-04-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonah Garson
 
 Current NC Senate District 23 (NC State Senate District 23).
+
+Represents [NC State Senate District 23](/us/states/nc/districts/senate/23.md).
 
 ## Sources
 

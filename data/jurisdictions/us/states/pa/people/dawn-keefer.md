@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 31"
+represents: "us/states/pa/districts/senate/31"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dawn Keefer
 
 Current PA Senate District 31 (PA State Senate District 31).
+
+Represents [PA State Senate District 31](/us/states/pa/districts/senate/31.md).
 
 ## Sources
 

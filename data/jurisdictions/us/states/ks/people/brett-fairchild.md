@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 113"
+represents: "us/states/ks/districts/house/113"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brett Fairchild
 
 Current KS House District 113 (KS State House of Representatives District 113).
+
+Represents [KS State House of Representatives District 113](/us/states/ks/districts/house/113.md).
 
 ## Sources
 

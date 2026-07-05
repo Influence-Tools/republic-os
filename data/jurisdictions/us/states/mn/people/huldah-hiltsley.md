@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 38A"
+represents: "us/states/mn/districts/house/38a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Huldah Hiltsley
 
 Current MN House District 38A (MN State House of Representatives District 38A).
+
+Represents [MN State House of Representatives District 38A](/us/states/mn/districts/house/38a.md).
 
 ## Sources
 

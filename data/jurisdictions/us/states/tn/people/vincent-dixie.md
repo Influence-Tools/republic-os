@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 54"
+represents: "us/states/tn/districts/house/54"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vincent Dixie
 
 Current TN House District 54 (TN State House of Representatives District 54).
+
+Represents [TN State House of Representatives District 54](/us/states/tn/districts/house/54.md).
 
 ## Sources
 

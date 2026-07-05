@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 20"
+represents: "us/states/nv/districts/senate/20"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Stone
 
 Current NV Senate District 20 (NV State Senate District 20).
+
+Represents [NV State Senate District 20](/us/states/nv/districts/senate/20.md).
 
 ## Sources
 

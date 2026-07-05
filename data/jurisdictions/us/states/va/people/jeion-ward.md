@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 87"
+represents: "us/states/va/districts/house/87"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeion Ward
 
 Current VA House District 87 (VA State House of Representatives District 87).
+
+Represents [VA State House of Representatives District 87](/us/states/va/districts/house/87.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 70"
+represents: "us/states/nc/districts/house/70"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Biggs
 
 Current NC House District 70 (NC State House of Representatives District 70).
+
+Represents [NC State House of Representatives District 70](/us/states/nc/districts/house/70.md).
 
 ## Sources
 

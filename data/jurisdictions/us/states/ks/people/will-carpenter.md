@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 75"
+represents: "us/states/ks/districts/house/75"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Carpenter
 
 Current KS House District 75 (KS State House of Representatives District 75).
+
+Represents [KS State House of Representatives District 75](/us/states/ks/districts/house/75.md).
 
 ## Sources
 

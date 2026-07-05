@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 10"
+represents: "us/states/sd/districts/house/10"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobbi Andera
 
 Current SD House District 10 (SD State House of Representatives District 10).
+
+Represents [SD State House of Representatives District 10](/us/states/sd/districts/house/10.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 35"
+represents: "us/states/wa/districts/house/35"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Couture
 
 Current WA House District 35 (WA State House of Representatives District 35).
+
+Represents [WA State House of Representatives District 35](/us/states/wa/districts/house/35.md).
 
 ## Sources
 

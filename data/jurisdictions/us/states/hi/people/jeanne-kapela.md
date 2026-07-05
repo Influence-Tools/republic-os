@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 5"
+represents: "us/states/hi/districts/house/5"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeanné Kapela
 
 Current HI House District 5 (HI State House of Representatives District 5).
+
+Represents [HI State House of Representatives District 5](/us/states/hi/districts/house/5.md).
 
 ## Sources
 

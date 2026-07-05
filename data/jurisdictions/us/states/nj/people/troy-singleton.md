@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 7"
+represents: "us/states/nj/districts/senate/7"
 tenure:
   start: "2018-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Troy Singleton
 
 Current NJ Senate District 7 (NJ State Senate District 7).
+
+Represents [NJ State Senate District 7](/us/states/nj/districts/senate/7.md).
 
 ## Sources
 

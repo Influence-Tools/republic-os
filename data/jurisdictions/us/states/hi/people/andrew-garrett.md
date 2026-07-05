@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 22"
+represents: "us/states/hi/districts/house/22"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Garrett
 
 Current HI House District 22 (HI State House of Representatives District 22).
+
+Represents [HI State House of Representatives District 22](/us/states/hi/districts/house/22.md).
 
 ## Sources
 

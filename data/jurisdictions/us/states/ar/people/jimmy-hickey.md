@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 4"
+represents: "us/states/ar/districts/senate/4"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jimmy Hickey
 
 Current AR Senate District 4 (AR State Senate District 4).
+
+Represents [AR State Senate District 4](/us/states/ar/districts/senate/4.md).
 
 ## Sources
 

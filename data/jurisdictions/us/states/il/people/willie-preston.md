@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 16"
+represents: "us/states/il/districts/senate/16"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Willie Preston
 
 Current IL Senate District 16 (IL State Senate District 16).
+
+Represents [IL State Senate District 16](/us/states/il/districts/senate/16.md).
 
 ## Sources
 

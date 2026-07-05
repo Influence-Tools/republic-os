@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 11"
+represents: "us/states/ky/districts/senate/11"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Rawlings
 
 Current KY Senate District 11 (KY State Senate District 11).
+
+Represents [KY State Senate District 11](/us/states/ky/districts/senate/11.md).
 
 ## Sources
 

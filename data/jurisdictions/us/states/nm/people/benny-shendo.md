@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 22"
+represents: "us/states/nm/districts/senate/22"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Benny Shendo
 
 Current NM Senate District 22 (NM State Senate District 22).
+
+Represents [NM State Senate District 22](/us/states/nm/districts/senate/22.md).
 
 ## Sources
 

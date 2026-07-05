@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 85"
+represents: "us/states/ga/districts/house/85"
 tenure:
   start: "2001-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karla Drenner
 
 Current GA House District 85 (GA State House of Representatives District 85).
+
+Represents [GA State House of Representatives District 85](/us/states/ga/districts/house/85.md).
 
 ## Sources
 

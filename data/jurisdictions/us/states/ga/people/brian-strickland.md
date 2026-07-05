@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 42"
+represents: "us/states/ga/districts/senate/42"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Strickland
 
 Current GA Senate District 42 (GA State Senate District 42).
+
+Represents [GA State Senate District 42](/us/states/ga/districts/senate/42.md).
 
 ## Sources
 

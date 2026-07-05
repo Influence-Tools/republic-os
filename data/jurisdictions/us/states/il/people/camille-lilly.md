@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 78"
+represents: "us/states/il/districts/house/78"
 tenure:
   start: "2010-04-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Camille Lilly
 
 Current IL House District 78 (IL State House of Representatives District 78).
+
+Represents [IL State House of Representatives District 78](/us/states/il/districts/house/78.md).
 
 ## Sources
 

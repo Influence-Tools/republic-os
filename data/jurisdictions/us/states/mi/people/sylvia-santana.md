@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 2"
+represents: "us/states/mi/districts/senate/2"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sylvia Santana
 
 Current MI Senate District 2 (MI State Senate District 2).
+
+Represents [MI State Senate District 2](/us/states/mi/districts/senate/2.md).
 
 ## Sources
 

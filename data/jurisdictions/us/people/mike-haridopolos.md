@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 8"
+represents: "us/states/fl/districts/08"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Mike Haridopolos
 
 Current U.S. House of Representatives - FL-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/fl/districts/08.md).
 
 ## Committees
 

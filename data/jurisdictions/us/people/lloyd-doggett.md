@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 37"
+represents: "us/states/tx/districts/37"
 committees:
   - name: "House Committee on the Budget"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Lloyd Doggett
 
 Current U.S. House of Representatives - TX-37 (Congressional District 37).
+
+Represents [Congressional District 37](/us/states/tx/districts/37.md).
 
 ## Committees
 

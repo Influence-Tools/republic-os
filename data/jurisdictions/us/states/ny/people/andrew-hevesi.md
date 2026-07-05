@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 28"
+represents: "us/states/ny/districts/house/28"
 tenure:
   start: "2005-05-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Hevesi
 
 Current NY House District 28 (NY State House of Representatives District 28).
+
+Represents [NY State House of Representatives District 28](/us/states/ny/districts/house/28.md).
 
 ## Sources
 

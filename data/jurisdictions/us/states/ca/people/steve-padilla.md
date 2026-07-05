@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 18"
+represents: "us/states/ca/districts/senate/18"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Padilla
 
 Current CA Senate District 18 (CA State Senate District 18).
+
+Represents [CA State Senate District 18](/us/states/ca/districts/senate/18.md).
 
 ## Sources
 

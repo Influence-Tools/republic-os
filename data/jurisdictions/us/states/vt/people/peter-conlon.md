@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Addison-2"
+represents: "us/states/vt/districts/house/addison-2"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Conlon
 
 Current VT House District Addison-2 (VT State House of Representatives District Addison-2).
+
+Represents [VT State House of Representatives District Addison-2](/us/states/vt/districts/house/addison-2.md).
 
 ## Sources
 

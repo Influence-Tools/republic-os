@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 66"
+represents: "us/states/ut/districts/house/66"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Troy Shelley
 
 Current UT House District 66 (UT State House of Representatives District 66).
+
+Represents [UT State House of Representatives District 66](/us/states/ut/districts/house/66.md).
 
 ## Sources
 

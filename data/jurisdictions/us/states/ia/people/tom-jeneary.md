@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 3"
+represents: "us/states/ia/districts/house/3"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Jeneary
 
 Current IA House District 3 (IA State House of Representatives District 3).
+
+Represents [IA State House of Representatives District 3](/us/states/ia/districts/house/3.md).
 
 ## Sources
 

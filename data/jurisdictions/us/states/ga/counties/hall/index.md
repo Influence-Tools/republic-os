@@ -22,9 +22,45 @@ demographics:
   race_native: 910
   hispanic: 61982
   bachelors_plus: 54020
+districts:
+  - to: "us/states/ga/districts/09"
+    rel: in-district
+    area_weight: 0.7331
+  - to: "us/states/ga/districts/07"
+    rel: in-district
+    area_weight: 0.2669
+  - to: "us/states/ga/districts/senate/49"
+    rel: in-district
+    area_weight: 0.8854
+  - to: "us/states/ga/districts/senate/50"
+    rel: in-district
+    area_weight: 0.1143
+  - to: "us/states/ga/districts/house/27"
+    rel: in-district
+    area_weight: 0.535
+  - to: "us/states/ga/districts/house/30"
+    rel: in-district
+    area_weight: 0.1802
+  - to: "us/states/ga/districts/house/29"
+    rel: in-district
+    area_weight: 0.1033
+  - to: "us/states/ga/districts/house/31"
+    rel: in-district
+    area_weight: 0.0721
+  - to: "us/states/ga/districts/house/28"
+    rel: in-district
+    area_weight: 0.0462
+  - to: "us/states/ga/districts/house/100"
+    rel: in-district
+    area_weight: 0.0397
+  - to: "us/states/ga/districts/house/103"
+    rel: in-district
+    area_weight: 0.0231
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ga]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 61982 |
 | Bachelor's or higher | 54020 |
 
+## Districts
+
+- [GA-09](/us/states/ga/districts/09.md) — 73% (congressional)
+- [GA-07](/us/states/ga/districts/07.md) — 27% (congressional)
+- [GA Senate District 49](/us/states/ga/districts/senate/49.md) — 89% (state senate)
+- [GA Senate District 50](/us/states/ga/districts/senate/50.md) — 11% (state senate)
+- [GA House District 27](/us/states/ga/districts/house/27.md) — 54% (state house)
+- [GA House District 30](/us/states/ga/districts/house/30.md) — 18% (state house)
+- [GA House District 29](/us/states/ga/districts/house/29.md) — 10% (state house)
+- [GA House District 31](/us/states/ga/districts/house/31.md) — 7% (state house)
+- [GA House District 28](/us/states/ga/districts/house/28.md) — 5% (state house)
+- [GA House District 100](/us/states/ga/districts/house/100.md) — 4% (state house)
+- [GA House District 103](/us/states/ga/districts/house/103.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

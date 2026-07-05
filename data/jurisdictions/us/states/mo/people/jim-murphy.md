@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 94"
+represents: "us/states/mo/districts/house/94"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Murphy
 
 Current MO House District 94 (MO State House of Representatives District 94).
+
+Represents [MO State House of Representatives District 94](/us/states/mo/districts/house/94.md).
 
 ## Sources
 

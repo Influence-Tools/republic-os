@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 18"
+represents: "us/states/nv/districts/senate/18"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Steinbeck
 
 Current NV Senate District 18 (NV State Senate District 18).
+
+Represents [NV State Senate District 18](/us/states/nv/districts/senate/18.md).
 
 ## Sources
 

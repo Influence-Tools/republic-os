@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 15"
+represents: "us/states/hi/districts/house/15"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nadine Nakamura
 
 Current HI House District 15 (HI State House of Representatives District 15).
+
+Represents [HI State House of Representatives District 15](/us/states/hi/districts/house/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 30"
+represents: "us/states/hi/districts/house/30"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shirley Templo
 
 Current HI House District 30 (HI State House of Representatives District 30).
+
+Represents [HI State House of Representatives District 30](/us/states/hi/districts/house/30.md).
 
 ## Sources
 

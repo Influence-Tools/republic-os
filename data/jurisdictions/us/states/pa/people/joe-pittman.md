@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 41"
+represents: "us/states/pa/districts/senate/41"
 tenure:
   start: "2019-06-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Pittman
 
 Current PA Senate District 41 (PA State Senate District 41).
+
+Represents [PA State Senate District 41](/us/states/pa/districts/senate/41.md).
 
 ## Sources
 

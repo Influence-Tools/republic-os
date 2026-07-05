@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 60"
+represents: "us/states/sc/districts/house/60"
 tenure:
   start: "2006-11-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phillip Lowe
 
 Current SC House District 60 (SC State House of Representatives District 60).
+
+Represents [SC State House of Representatives District 60](/us/states/sc/districts/house/60.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 85"
+represents: "us/states/ct/districts/house/85"
 tenure:
   start: "1981-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Mushinsky
 
 Current CT House District 85 (CT State House of Representatives District 85).
+
+Represents [CT State House of Representatives District 85](/us/states/ct/districts/house/85.md).
 
 ## Sources
 

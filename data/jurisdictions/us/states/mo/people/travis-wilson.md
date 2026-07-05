@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 106"
+represents: "us/states/mo/districts/house/106"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Wilson
 
 Current MO House District 106 (MO State House of Representatives District 106).
+
+Represents [MO State House of Representatives District 106](/us/states/mo/districts/house/106.md).
 
 ## Sources
 

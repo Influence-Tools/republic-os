@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 21"
+represents: "us/states/fl/districts/house/21"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yvonne Hinson
 
 Current FL House District 21 (FL State House of Representatives District 21).
+
+Represents [FL State House of Representatives District 21](/us/states/fl/districts/house/21.md).
 
 ## Sources
 

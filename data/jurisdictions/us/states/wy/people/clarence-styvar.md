@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 12"
+represents: "us/states/wy/districts/house/12"
 tenure:
   start: "2018-09-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clarence Styvar
 
 Current WY House District 12 (WY State House of Representatives District 12).
+
+Represents [WY State House of Representatives District 12](/us/states/wy/districts/house/12.md).
 
 ## Sources
 

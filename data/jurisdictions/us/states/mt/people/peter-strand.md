@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 63"
+represents: "us/states/mt/districts/house/63"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Strand
 
 Current MT House District 63 (MT State House of Representatives District 63).
+
+Represents [MT State House of Representatives District 63](/us/states/mt/districts/house/63.md).
 
 ## Sources
 

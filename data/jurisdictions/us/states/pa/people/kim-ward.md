@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 39"
+represents: "us/states/pa/districts/senate/39"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Ward
 
 Current PA Senate District 39 (PA State Senate District 39).
+
+Represents [PA State Senate District 39](/us/states/pa/districts/senate/39.md).
 
 ## Sources
 

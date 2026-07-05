@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 69"
+represents: "us/states/mt/districts/house/69"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Walsh
 
 Current MT House District 69 (MT State House of Representatives District 69).
+
+Represents [MT State House of Representatives District 69](/us/states/mt/districts/house/69.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 41"
+represents: "us/states/nd/districts/house/41"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jorin Johnson
 
 Current ND House District 41 (ND State House of Representatives District 41).
+
+Represents [ND State House of Representatives District 41](/us/states/nd/districts/house/41.md).
 
 ## Sources
 

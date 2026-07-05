@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 35"
+represents: "us/states/tx/districts/35"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Greg Casar
 
 Current U.S. House of Representatives - TX-35 (Congressional District 35).
+
+Represents [Congressional District 35](/us/states/tx/districts/35.md).
 
 ## Committees
 

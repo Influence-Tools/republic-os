@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 16"
+represents: "us/states/nc/districts/senate/16"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gale Adcock
 
 Current NC Senate District 16 (NC State Senate District 16).
+
+Represents [NC State Senate District 16](/us/states/nc/districts/senate/16.md).
 
 ## Sources
 

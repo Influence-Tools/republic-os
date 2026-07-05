@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 46"
+represents: "us/states/nc/districts/house/46"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brenden Jones
 
 Current NC House District 46 (NC State House of Representatives District 46).
+
+Represents [NC State House of Representatives District 46](/us/states/nc/districts/house/46.md).
 
 ## Sources
 

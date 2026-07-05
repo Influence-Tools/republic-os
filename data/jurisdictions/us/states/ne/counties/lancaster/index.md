@@ -22,9 +22,15 @@ demographics:
   race_native: 2194
   hispanic: 27767
   bachelors_plus: 117784
+districts:
+  - to: "us/states/ne/districts/01"
+    rel: in-district
+    area_weight: 0.9998
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ne]
 timestamp: "2026-07-03"
@@ -56,6 +62,11 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 27767 |
 | Bachelor's or higher | 117784 |
 
+## Districts
+
+- [NE-01](/us/states/ne/districts/01.md) — 100% (congressional)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

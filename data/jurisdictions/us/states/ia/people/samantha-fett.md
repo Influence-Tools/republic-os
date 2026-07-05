@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 22"
+represents: "us/states/ia/districts/house/22"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Samantha Fett
 
 Current IA House District 22 (IA State House of Representatives District 22).
+
+Represents [IA State House of Representatives District 22](/us/states/ia/districts/house/22.md).
 
 ## Sources
 

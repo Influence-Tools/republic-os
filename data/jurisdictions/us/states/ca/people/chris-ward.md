@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 78"
+represents: "us/states/ca/districts/house/78"
 tenure:
   start: "2020-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Ward
 
 Current CA House District 78 (CA State House of Representatives District 78).
+
+Represents [CA State House of Representatives District 78](/us/states/ca/districts/house/78.md).
 
 ## Sources
 

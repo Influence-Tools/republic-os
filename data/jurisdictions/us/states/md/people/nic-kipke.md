@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 31"
+represents: "us/states/md/districts/house/31"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nic Kipke
 
 Current MD House District 31 (MD State House of Representatives District 31).
+
+Represents [MD State House of Representatives District 31](/us/states/md/districts/house/31.md).
 
 ## Sources
 

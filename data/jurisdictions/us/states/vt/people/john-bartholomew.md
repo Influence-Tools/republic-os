@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-1"
+represents: "us/states/vt/districts/house/windsor-1"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Bartholomew
 
 Current VT House District Windsor-1 (VT State House of Representatives District Windsor-1).
+
+Represents [VT State House of Representatives District Windsor-1](/us/states/vt/districts/house/windsor-1.md).
 
 ## Sources
 

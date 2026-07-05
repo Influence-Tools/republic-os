@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 11"
+represents: "us/states/ut/districts/senate/11"
 tenure:
   start: "2025-12-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Buss
 
 Current UT Senate District 11 (UT State Senate District 11).
+
+Represents [UT State Senate District 11](/us/states/ut/districts/senate/11.md).
 
 ## Sources
 

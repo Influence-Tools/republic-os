@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 29"
+represents: "us/states/nd/districts/senate/29"
 tenure:
   start: "2006-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Wanzek
 
 Current ND Senate District 29 (ND State Senate District 29).
+
+Represents [ND State Senate District 29](/us/states/nd/districts/senate/29.md).
 
 ## Sources
 

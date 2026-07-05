@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 23"
+represents: "us/states/nm/districts/senate/23"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harold Pope
 
 Current NM Senate District 23 (NM State Senate District 23).
+
+Represents [NM State Senate District 23](/us/states/nm/districts/senate/23.md).
 
 ## Sources
 

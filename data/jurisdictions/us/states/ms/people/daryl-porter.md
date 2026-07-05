@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 98"
+represents: "us/states/ms/districts/house/98"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daryl Porter
 
 Current MS House District 98 (MS State House of Representatives District 98).
+
+Represents [MS State House of Representatives District 98](/us/states/ms/districts/house/98.md).
 
 ## Sources
 

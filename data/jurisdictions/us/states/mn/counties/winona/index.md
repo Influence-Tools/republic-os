@@ -22,9 +22,27 @@ demographics:
   race_native: 202
   hispanic: 1930
   bachelors_plus: 13651
+districts:
+  - to: "us/states/mn/districts/01"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/mn/districts/senate/26"
+    rel: in-district
+    area_weight: 0.6655
+  - to: "us/states/mn/districts/senate/20"
+    rel: in-district
+    area_weight: 0.3343
+  - to: "us/states/mn/districts/house/26a"
+    rel: in-district
+    area_weight: 0.6655
+  - to: "us/states/mn/districts/house/20b"
+    rel: in-district
+    area_weight: 0.3343
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mn]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 1930 |
 | Bachelor's or higher | 13651 |
 
+## Districts
+
+- [MN-01](/us/states/mn/districts/01.md) — 100% (congressional)
+- [MN Senate District 26](/us/states/mn/districts/senate/26.md) — 67% (state senate)
+- [MN Senate District 20](/us/states/mn/districts/senate/20.md) — 33% (state senate)
+- [MN House District 26A](/us/states/mn/districts/house/26a.md) — 67% (state house)
+- [MN House District 20B](/us/states/mn/districts/house/20b.md) — 33% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

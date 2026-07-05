@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 82"
+represents: "us/states/sc/districts/house/82"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Clyburn
 
 Current SC House District 82 (SC State House of Representatives District 82).
+
+Represents [SC State House of Representatives District 82](/us/states/sc/districts/house/82.md).
 
 ## Sources
 

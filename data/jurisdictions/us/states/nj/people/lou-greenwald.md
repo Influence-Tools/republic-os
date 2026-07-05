@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 6"
+represents: "us/states/nj/districts/house/6"
 tenure:
   start: "1996-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lou Greenwald
 
 Current NJ House District 6 (NJ State House of Representatives District 6).
+
+Represents [NJ State House of Representatives District 6](/us/states/nj/districts/house/6.md).
 
 ## Sources
 

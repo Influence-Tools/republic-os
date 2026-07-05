@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 48"
+represents: "us/states/al/districts/house/48"
 tenure:
   start: "2011-08-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Carns
 
 Current AL House District 48 (AL State House of Representatives District 48).
+
+Represents [AL State House of Representatives District 48](/us/states/al/districts/house/48.md).
 
 ## Sources
 

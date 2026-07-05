@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 13"
+represents: "us/states/ca/districts/senate/13"
 tenure:
   start: "2020-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Becker
 
 Current CA Senate District 13 (CA State Senate District 13).
+
+Represents [CA State Senate District 13](/us/states/ca/districts/senate/13.md).
 
 ## Sources
 

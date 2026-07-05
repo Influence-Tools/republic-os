@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 7"
+represents: "us/states/ut/districts/senate/7"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stuart Adams
 
 Current UT Senate District 7 (UT State Senate District 7).
+
+Represents [UT State Senate District 7](/us/states/ut/districts/senate/7.md).
 
 ## Sources
 

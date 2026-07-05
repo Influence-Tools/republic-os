@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 13"
+represents: "us/states/ga/districts/house/13"
 tenure:
   start: "2007-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Dempsey
 
 Current GA House District 13 (GA State House of Representatives District 13).
+
+Represents [GA State House of Representatives District 13](/us/states/ga/districts/house/13.md).
 
 ## Sources
 

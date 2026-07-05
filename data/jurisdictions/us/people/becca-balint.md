@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VT"
 district: "Congressional District (at Large)"
+represents: "us/states/vt/districts/00"
 committees:
   - name: "House Committee on the Budget"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Becca Balint
 
 Current U.S. House of Representatives - VT At-Large (Congressional District (at Large)).
+
+Represents [Congressional District (at Large)](/us/states/vt/districts/00.md).
 
 ## Committees
 

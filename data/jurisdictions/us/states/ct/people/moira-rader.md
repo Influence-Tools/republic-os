@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 98"
+represents: "us/states/ct/districts/house/98"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Moira Rader
 
 Current CT House District 98 (CT State House of Representatives District 98).
+
+Represents [CT State House of Representatives District 98](/us/states/ct/districts/house/98.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 8"
+represents: "us/states/il/districts/house/8"
 tenure:
   start: "2007-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # La Shawn Ford
 
 Current IL House District 8 (IL State House of Representatives District 8).
+
+Represents [IL State House of Representatives District 8](/us/states/il/districts/house/8.md).
 
 ## Sources
 

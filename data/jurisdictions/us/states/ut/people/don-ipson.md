@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 29"
+represents: "us/states/ut/districts/senate/29"
 tenure:
   start: "2016-09-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Ipson
 
 Current UT Senate District 29 (UT State Senate District 29).
+
+Represents [UT State Senate District 29](/us/states/ut/districts/senate/29.md).
 
 ## Sources
 

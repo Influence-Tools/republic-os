@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 6"
+represents: "us/states/va/districts/senate/6"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Pillion
 
 Current VA Senate District 6 (VA State Senate District 6).
+
+Represents [VA State Senate District 6](/us/states/va/districts/senate/6.md).
 
 ## Sources
 

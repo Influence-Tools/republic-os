@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 7"
+represents: "us/states/la/districts/house/7"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Bagley
 
 Current LA House District 7 (LA State House of Representatives District 7).
+
+Represents [LA State House of Representatives District 7](/us/states/la/districts/house/7.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 21"
+represents: "us/states/tx/districts/senate/21"
 tenure:
   start: "1987-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judith Zaffirini
 
 Current TX Senate District 21 (TX State Senate District 21).
+
+Represents [TX State Senate District 21](/us/states/tx/districts/senate/21.md).
 
 ## Sources
 

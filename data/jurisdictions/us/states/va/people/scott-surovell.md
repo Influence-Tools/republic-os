@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 34"
+represents: "us/states/va/districts/senate/34"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Surovell
 
 Current VA Senate District 34 (VA State Senate District 34).
+
+Represents [VA State Senate District 34](/us/states/va/districts/senate/34.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TN"
 district: "Congressional District 6"
+represents: "us/states/tn/districts/06"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # John W. Rose
 
 Current U.S. House of Representatives - TN-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/tn/districts/06.md).
 
 ## Committees
 

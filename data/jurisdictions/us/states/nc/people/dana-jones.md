@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 31"
+represents: "us/states/nc/districts/senate/31"
 tenure:
   start: "2024-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dana Jones
 
 Current NC Senate District 31 (NC State Senate District 31).
+
+Represents [NC State Senate District 31](/us/states/nc/districts/senate/31.md).
 
 ## Sources
 

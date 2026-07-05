@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 25"
+represents: "us/states/wy/districts/house/25"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Hoeft
 
 Current WY House District 25 (WY State House of Representatives District 25).
+
+Represents [WY State House of Representatives District 25](/us/states/wy/districts/house/25.md).
 
 ## Sources
 

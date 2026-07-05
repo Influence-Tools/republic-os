@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 81"
+represents: "us/states/wv/districts/house/81"
 tenure:
   start: "2023-05-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anitra Hamilton
 
 Current WV House District 81 (WV State House of Representatives District 81).
+
+Represents [WV State House of Representatives District 81](/us/states/wv/districts/house/81.md).
 
 ## Sources
 

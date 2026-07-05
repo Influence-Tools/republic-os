@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 44"
+represents: "us/states/ga/districts/house/44"
 tenure:
   start: "2013-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Parsons
 
 Current GA House District 44 (GA State House of Representatives District 44).
+
+Represents [GA State House of Representatives District 44](/us/states/ga/districts/house/44.md).
 
 ## Sources
 

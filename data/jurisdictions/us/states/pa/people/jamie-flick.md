@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 83"
+represents: "us/states/pa/districts/house/83"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Flick
 
 Current PA House District 83 (PA State House of Representatives District 83).
+
+Represents [PA State House of Representatives District 83](/us/states/pa/districts/house/83.md).
 
 ## Sources
 

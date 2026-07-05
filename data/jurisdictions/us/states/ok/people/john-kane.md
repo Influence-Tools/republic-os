@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 11"
+represents: "us/states/ok/districts/house/11"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Kane
 
 Current OK House District 11 (OK State House of Representatives District 11).
+
+Represents [OK State House of Representatives District 11](/us/states/ok/districts/house/11.md).
 
 ## Sources
 

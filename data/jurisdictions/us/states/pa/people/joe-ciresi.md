@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 146"
+represents: "us/states/pa/districts/house/146"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Ciresi
 
 Current PA House District 146 (PA State House of Representatives District 146).
+
+Represents [PA State House of Representatives District 146](/us/states/pa/districts/house/146.md).
 
 ## Sources
 

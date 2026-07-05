@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 30"
+represents: "us/states/mi/districts/senate/30"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Huizenga
 
 Current MI Senate District 30 (MI State Senate District 30).
+
+Represents [MI State Senate District 30](/us/states/mi/districts/senate/30.md).
 
 ## Sources
 

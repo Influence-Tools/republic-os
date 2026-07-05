@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 17"
+represents: "us/states/ks/districts/senate/17"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Argabright
 
 Current KS Senate District 17 (KS State Senate District 17).
+
+Represents [KS State Senate District 17](/us/states/ks/districts/senate/17.md).
 
 ## Sources
 

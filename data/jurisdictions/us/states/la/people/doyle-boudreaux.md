@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 39"
+represents: "us/states/la/districts/house/39"
 tenure:
   start: "2026-03-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doyle Boudreaux
 
 Current LA House District 39 (LA State House of Representatives District 39).
+
+Represents [LA State House of Representatives District 39](/us/states/la/districts/house/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 38"
+represents: "us/states/nj/districts/senate/38"
 tenure:
   start: "2018-04-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Lagana
 
 Current NJ Senate District 38 (NJ State Senate District 38).
+
+Represents [NJ State Senate District 38](/us/states/nj/districts/senate/38.md).
 
 ## Sources
 

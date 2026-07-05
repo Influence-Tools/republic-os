@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 47"
+represents: "us/states/co/districts/house/47"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ty Winter
 
 Current CO House District 47 (CO State House of Representatives District 47).
+
+Represents [CO State House of Representatives District 47](/us/states/co/districts/house/47.md).
 
 ## Sources
 

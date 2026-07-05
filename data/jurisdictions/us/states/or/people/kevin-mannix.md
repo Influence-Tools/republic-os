@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 21"
+represents: "us/states/or/districts/house/21"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Mannix
 
 Current OR House District 21 (OR State House of Representatives District 21).
+
+Represents [OR State House of Representatives District 21](/us/states/or/districts/house/21.md).
 
 ## Sources
 

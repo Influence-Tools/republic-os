@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 59"
+represents: "us/states/nm/districts/house/59"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Murphy
 
 Current NM House District 59 (NM State House of Representatives District 59).
+
+Represents [NM State House of Representatives District 59](/us/states/nm/districts/house/59.md).
 
 ## Sources
 

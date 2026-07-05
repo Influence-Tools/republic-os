@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 85"
+represents: "us/states/pa/districts/house/85"
 tenure:
   start: "2019-09-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Rowe
 
 Current PA House District 85 (PA State House of Representatives District 85).
+
+Represents [PA State House of Representatives District 85](/us/states/pa/districts/house/85.md).
 
 ## Sources
 

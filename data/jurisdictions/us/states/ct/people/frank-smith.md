@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 118"
+represents: "us/states/ct/districts/house/118"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Smith
 
 Current CT House District 118 (CT State House of Representatives District 118).
+
+Represents [CT State House of Representatives District 118](/us/states/ct/districts/house/118.md).
 
 ## Sources
 

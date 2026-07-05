@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 1"
+represents: "us/states/ny/districts/01"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Nick LaLota
 
 Current U.S. House of Representatives - NY-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ny/districts/01.md).
 
 ## Committees
 

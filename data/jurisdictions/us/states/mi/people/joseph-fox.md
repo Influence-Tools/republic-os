@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 101"
+represents: "us/states/mi/districts/house/101"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph Fox
 
 Current MI House District 101 (MI State House of Representatives District 101).
+
+Represents [MI State House of Representatives District 101](/us/states/mi/districts/house/101.md).
 
 ## Sources
 

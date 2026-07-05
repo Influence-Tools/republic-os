@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 119"
+represents: "us/states/ga/districts/house/119"
 tenure:
   start: "2023-03-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Holt Persinger
 
 Current GA House District 119 (GA State House of Representatives District 119).
+
+Represents [GA State House of Representatives District 119](/us/states/ga/districts/house/119.md).
 
 ## Sources
 

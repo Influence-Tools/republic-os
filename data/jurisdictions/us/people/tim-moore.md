@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 14"
+represents: "us/states/nc/districts/14"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Tim Moore
 
 Current U.S. House of Representatives - NC-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/nc/districts/14.md).
 
 ## Committees
 

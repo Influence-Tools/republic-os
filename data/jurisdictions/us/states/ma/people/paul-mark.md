@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Berkshire, Hampden, Franklin and Hampshire"
+represents: "us/states/ma/districts/senate/berkshire-hampden-franklin-and-hampshire"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Mark
 
 Current MA Senate District Berkshire, Hampden, Franklin and Hampshire (MA State Senate District Berkshire, Hampden, Franklin and Hampshire).
+
+Represents [MA State Senate District Berkshire, Hampden, Franklin and Hampshire](/us/states/ma/districts/senate/berkshire-hampden-franklin-and-hampshire.md).
 
 ## Sources
 

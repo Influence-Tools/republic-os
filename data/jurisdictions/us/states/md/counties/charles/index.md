@@ -22,9 +22,27 @@ demographics:
   race_native: 1053
   hispanic: 13500
   bachelors_plus: 55907
+districts:
+  - to: "us/states/md/districts/05"
+    rel: in-district
+    area_weight: 0.7551
+  - to: "us/states/md/districts/senate/28"
+    rel: in-district
+    area_weight: 0.6663
+  - to: "us/states/md/districts/senate/27"
+    rel: in-district
+    area_weight: 0.0872
+  - to: "us/states/md/districts/house/28"
+    rel: in-district
+    area_weight: 0.6663
+  - to: "us/states/md/districts/house/27a"
+    rel: in-district
+    area_weight: 0.0871
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 13500 |
 | Bachelor's or higher | 55907 |
 
+## Districts
+
+- [MD-05](/us/states/md/districts/05.md) — 76% (congressional)
+- [MD Senate District 28](/us/states/md/districts/senate/28.md) — 67% (state senate)
+- [MD Senate District 27](/us/states/md/districts/senate/27.md) — 9% (state senate)
+- [MD House District 28](/us/states/md/districts/house/28.md) — 67% (state house)
+- [MD House District 27A](/us/states/md/districts/house/27a.md) — 9% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

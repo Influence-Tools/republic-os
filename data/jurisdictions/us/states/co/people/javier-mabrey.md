@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 1"
+represents: "us/states/co/districts/house/1"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Javier Mabrey
 
 Current CO House District 1 (CO State House of Representatives District 1).
+
+Represents [CO State House of Representatives District 1](/us/states/co/districts/house/1.md).
 
 ## Sources
 

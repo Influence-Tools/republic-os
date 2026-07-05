@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OK"
 district: "Congressional District 2"
+represents: "us/states/ok/districts/02"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Josh Brecheen
 
 Current U.S. House of Representatives - OK-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ok/districts/02.md).
 
 ## Committees
 

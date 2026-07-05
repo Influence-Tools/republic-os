@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 17"
+represents: "us/states/oh/districts/senate/17"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shane Wilkin
 
 Current OH Senate District 17 (OH State Senate District 17).
+
+Represents [OH State Senate District 17](/us/states/oh/districts/senate/17.md).
 
 ## Sources
 

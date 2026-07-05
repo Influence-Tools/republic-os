@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 42"
+represents: "us/states/ga/districts/house/42"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gabriel Sanchez
 
 Current GA House District 42 (GA State House of Representatives District 42).
+
+Represents [GA State House of Representatives District 42](/us/states/ga/districts/house/42.md).
 
 ## Sources
 

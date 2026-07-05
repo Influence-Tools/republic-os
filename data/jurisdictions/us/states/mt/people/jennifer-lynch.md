@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 73"
+represents: "us/states/mt/districts/house/73"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Lynch
 
 Current MT House District 73 (MT State House of Representatives District 73).
+
+Represents [MT State House of Representatives District 73](/us/states/mt/districts/house/73.md).
 
 ## Sources
 

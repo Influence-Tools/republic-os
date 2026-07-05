@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 97"
+represents: "us/states/me/districts/house/97"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Mason
 
 Current ME House District 97 (ME State House of Representatives District 97).
+
+Represents [ME State House of Representatives District 97](/us/states/me/districts/house/97.md).
 
 ## Sources
 

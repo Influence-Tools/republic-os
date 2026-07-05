@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 40"
+represents: "us/states/sc/districts/house/40"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe White
 
 Current SC House District 40 (SC State House of Representatives District 40).
+
+Represents [SC State House of Representatives District 40](/us/states/sc/districts/house/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 31"
+represents: "us/states/oh/districts/senate/31"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Landis
 
 Current OH Senate District 31 (OH State Senate District 31).
+
+Represents [OH State Senate District 31](/us/states/oh/districts/senate/31.md).
 
 ## Sources
 

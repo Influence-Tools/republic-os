@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 28"
+represents: "us/states/wy/districts/house/28"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Winter
 
 Current WY House District 28 (WY State House of Representatives District 28).
+
+Represents [WY State House of Representatives District 28](/us/states/wy/districts/house/28.md).
 
 ## Sources
 

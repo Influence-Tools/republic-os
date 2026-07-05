@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-24"
+represents: "us/states/vt/districts/house/chittenden-24"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alyssa Black
 
 Current VT House District Chittenden-24 (VT State House of Representatives District Chittenden-24).
+
+Represents [VT State House of Representatives District Chittenden-24](/us/states/vt/districts/house/chittenden-24.md).
 
 ## Sources
 

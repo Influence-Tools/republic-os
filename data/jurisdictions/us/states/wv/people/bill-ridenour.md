@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 100"
+represents: "us/states/wv/districts/house/100"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Ridenour
 
 Current WV House District 100 (WV State House of Representatives District 100).
+
+Represents [WV State House of Representatives District 100](/us/states/wv/districts/house/100.md).
 
 ## Sources
 

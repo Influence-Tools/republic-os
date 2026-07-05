@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 88"
+represents: "us/states/tn/districts/house/88"
 tenure:
   start: "1994-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Miller
 
 Current TN House District 88 (TN State House of Representatives District 88).
+
+Represents [TN State House of Representatives District 88](/us/states/tn/districts/house/88.md).
 
 ## Sources
 

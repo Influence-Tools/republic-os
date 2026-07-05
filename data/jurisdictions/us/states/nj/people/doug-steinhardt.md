@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 23"
+represents: "us/states/nj/districts/senate/23"
 tenure:
   start: "2022-12-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Steinhardt
 
 Current NJ Senate District 23 (NJ State Senate District 23).
+
+Represents [NJ State Senate District 23](/us/states/nj/districts/senate/23.md).
 
 ## Sources
 

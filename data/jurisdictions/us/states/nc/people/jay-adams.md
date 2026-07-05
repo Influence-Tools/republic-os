@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 96"
+represents: "us/states/nc/districts/house/96"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Adams
 
 Current NC House District 96 (NC State House of Representatives District 96).
+
+Represents [NC State House of Representatives District 96](/us/states/nc/districts/house/96.md).
 
 ## Sources
 

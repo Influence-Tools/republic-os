@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 47"
+represents: "us/states/il/districts/senate/47"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neil Anderson
 
 Current IL Senate District 47 (IL State Senate District 47).
+
+Represents [IL State Senate District 47](/us/states/il/districts/senate/47.md).
 
 ## Sources
 

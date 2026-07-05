@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 69"
+represents: "us/states/mo/districts/house/69"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Miller
 
 Current MO House District 69 (MO State House of Representatives District 69).
+
+Represents [MO State House of Representatives District 69](/us/states/mo/districts/house/69.md).
 
 ## Sources
 

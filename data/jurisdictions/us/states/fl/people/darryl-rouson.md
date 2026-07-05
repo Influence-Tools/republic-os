@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 16"
+represents: "us/states/fl/districts/senate/16"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darryl Rouson
 
 Current FL Senate District 16 (FL State Senate District 16).
+
+Represents [FL State Senate District 16](/us/states/fl/districts/senate/16.md).
 
 ## Sources
 

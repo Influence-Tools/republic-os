@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 8"
+represents: "us/states/wy/districts/house/8"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Johnson
 
 Current WY House District 8 (WY State House of Representatives District 8).
+
+Represents [WY State House of Representatives District 8](/us/states/wy/districts/house/8.md).
 
 ## Sources
 

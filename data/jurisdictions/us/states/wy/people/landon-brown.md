@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 9"
+represents: "us/states/wy/districts/house/9"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Landon Brown
 
 Current WY House District 9 (WY State House of Representatives District 9).
+
+Represents [WY State House of Representatives District 9](/us/states/wy/districts/house/9.md).
 
 ## Sources
 

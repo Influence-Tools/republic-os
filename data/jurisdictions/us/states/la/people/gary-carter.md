@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 7"
+represents: "us/states/la/districts/senate/7"
 tenure:
   start: "2021-06-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Carter
 
 Current LA Senate District 7 (LA State Senate District 7).
+
+Represents [LA State Senate District 7](/us/states/la/districts/senate/7.md).
 
 ## Sources
 

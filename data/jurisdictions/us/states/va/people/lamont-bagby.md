@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 14"
+represents: "us/states/va/districts/senate/14"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lamont Bagby
 
 Current VA Senate District 14 (VA State Senate District 14).
+
+Represents [VA State Senate District 14](/us/states/va/districts/senate/14.md).
 
 ## Sources
 

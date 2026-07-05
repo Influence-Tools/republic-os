@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 134"
+represents: "us/states/mo/districts/house/134"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Riley
 
 Current MO House District 134 (MO State House of Representatives District 134).
+
+Represents [MO State House of Representatives District 134](/us/states/mo/districts/house/134.md).
 
 ## Sources
 

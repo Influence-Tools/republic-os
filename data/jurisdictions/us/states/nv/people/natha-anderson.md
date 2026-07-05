@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 30"
+represents: "us/states/nv/districts/house/30"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natha Anderson
 
 Current NV House District 30 (NV State House of Representatives District 30).
+
+Represents [NV State House of Representatives District 30](/us/states/nv/districts/house/30.md).
 
 ## Sources
 

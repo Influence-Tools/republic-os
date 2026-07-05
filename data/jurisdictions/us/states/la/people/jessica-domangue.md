@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 53"
+represents: "us/states/la/districts/house/53"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica Domangue
 
 Current LA House District 53 (LA State House of Representatives District 53).
+
+Represents [LA State House of Representatives District 53](/us/states/la/districts/house/53.md).
 
 ## Sources
 

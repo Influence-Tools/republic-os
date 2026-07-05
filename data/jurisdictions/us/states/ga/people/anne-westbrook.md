@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 163"
+represents: "us/states/ga/districts/house/163"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Westbrook
 
 Current GA House District 163 (GA State House of Representatives District 163).
+
+Represents [GA State House of Representatives District 163](/us/states/ga/districts/house/163.md).
 
 ## Sources
 

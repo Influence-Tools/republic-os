@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 62"
+represents: "us/states/wy/districts/house/62"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Campbell
 
 Current WY House District 62 (WY State House of Representatives District 62).
+
+Represents [WY State House of Representatives District 62](/us/states/wy/districts/house/62.md).
 
 ## Sources
 

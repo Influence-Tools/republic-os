@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 145"
+represents: "us/states/tx/districts/house/145"
 tenure:
   start: "2019-03-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christina Morales
 
 Current TX House District 145 (TX State House of Representatives District 145).
+
+Represents [TX State House of Representatives District 145](/us/states/tx/districts/house/145.md).
 
 ## Sources
 

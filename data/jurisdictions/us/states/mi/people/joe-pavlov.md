@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 64"
+represents: "us/states/mi/districts/house/64"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Pavlov
 
 Current MI House District 64 (MI State House of Representatives District 64).
+
+Represents [MI State House of Representatives District 64](/us/states/mi/districts/house/64.md).
 
 ## Sources
 

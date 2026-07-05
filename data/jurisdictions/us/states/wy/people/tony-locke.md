@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 35"
+represents: "us/states/wy/districts/house/35"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Locke
 
 Current WY House District 35 (WY State House of Representatives District 35).
+
+Represents [WY State House of Representatives District 35](/us/states/wy/districts/house/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 18"
+represents: "us/states/ct/districts/house/18"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jill Gilchrest
 
 Current CT House District 18 (CT State House of Representatives District 18).
+
+Represents [CT State House of Representatives District 18](/us/states/ct/districts/house/18.md).
 
 ## Sources
 

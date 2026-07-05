@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 45"
+represents: "us/states/ks/districts/house/45"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Amyx
 
 Current KS House District 45 (KS State House of Representatives District 45).
+
+Represents [KS State House of Representatives District 45](/us/states/ks/districts/house/45.md).
 
 ## Sources
 

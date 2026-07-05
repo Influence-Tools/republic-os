@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 44"
+represents: "us/states/pa/districts/senate/44"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Muth
 
 Current PA Senate District 44 (PA State Senate District 44).
+
+Represents [PA State Senate District 44](/us/states/pa/districts/senate/44.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 66"
+represents: "us/states/nc/districts/house/66"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Crawford
 
 Current NC House District 66 (NC State House of Representatives District 66).
+
+Represents [NC State House of Representatives District 66](/us/states/nc/districts/house/66.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 24"
+represents: "us/states/ar/districts/senate/24"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Missy Irvin
 
 Current AR Senate District 24 (AR State Senate District 24).
+
+Represents [AR State Senate District 24](/us/states/ar/districts/senate/24.md).
 
 ## Sources
 

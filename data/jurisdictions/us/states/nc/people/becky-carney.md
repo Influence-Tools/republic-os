@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 102"
+represents: "us/states/nc/districts/house/102"
 tenure:
   start: "2003-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Carney
 
 Current NC House District 102 (NC State House of Representatives District 102).
+
+Represents [NC State House of Representatives District 102](/us/states/nc/districts/house/102.md).
 
 ## Sources
 

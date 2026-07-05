@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 42"
+represents: "us/states/il/districts/house/42"
 tenure:
   start: "2025-10-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Margaret DeLaRosa
 
 Current IL House District 42 (IL State House of Representatives District 42).
+
+Represents [IL State House of Representatives District 42](/us/states/il/districts/house/42.md).
 
 ## Sources
 

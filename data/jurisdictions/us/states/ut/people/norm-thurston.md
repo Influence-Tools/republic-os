@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 62"
+represents: "us/states/ut/districts/house/62"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Norm Thurston
 
 Current UT House District 62 (UT State House of Representatives District 62).
+
+Represents [UT State House of Representatives District 62](/us/states/ut/districts/house/62.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 30"
+represents: "us/states/ms/districts/house/30"
 tenure:
   start: "2018-06-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracey Rosebud
 
 Current MS House District 30 (MS State House of Representatives District 30).
+
+Represents [MS State House of Representatives District 30](/us/states/ms/districts/house/30.md).
 
 ## Sources
 

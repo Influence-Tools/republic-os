@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 29"
+represents: "us/states/ks/districts/senate/29"
 tenure:
   start: "2009-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Oletha Faust-Goudeau
 
 Current KS Senate District 29 (KS State Senate District 29).
+
+Represents [KS State Senate District 29](/us/states/ks/districts/senate/29.md).
 
 ## Sources
 

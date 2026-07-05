@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 46"
+represents: "us/states/or/districts/house/46"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Willy Chotzen
 
 Current OR House District 46 (OR State House of Representatives District 46).
+
+Represents [OR State House of Representatives District 46](/us/states/or/districts/house/46.md).
 
 ## Sources
 

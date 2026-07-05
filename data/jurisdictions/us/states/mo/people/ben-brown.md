@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 26"
+represents: "us/states/mo/districts/senate/26"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Brown
 
 Current MO Senate District 26 (MO State Senate District 26).
+
+Represents [MO State Senate District 26](/us/states/mo/districts/senate/26.md).
 
 ## Sources
 

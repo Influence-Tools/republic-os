@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 24"
+represents: "us/states/wi/districts/senate/24"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Testin
 
 Current WI Senate District 24 (WI State Senate District 24).
+
+Represents [WI State Senate District 24](/us/states/wi/districts/senate/24.md).
 
 ## Sources
 

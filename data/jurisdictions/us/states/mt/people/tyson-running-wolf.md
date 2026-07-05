@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 16"
+represents: "us/states/mt/districts/house/16"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tyson Running Wolf
 
 Current MT House District 16 (MT State House of Representatives District 16).
+
+Represents [MT State House of Representatives District 16](/us/states/mt/districts/house/16.md).
 
 ## Sources
 

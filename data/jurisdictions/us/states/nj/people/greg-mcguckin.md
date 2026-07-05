@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 10"
+represents: "us/states/nj/districts/house/10"
 tenure:
   start: "2012-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg McGuckin
 
 Current NJ House District 10 (NJ State House of Representatives District 10).
+
+Represents [NJ State House of Representatives District 10](/us/states/nj/districts/house/10.md).
 
 ## Sources
 

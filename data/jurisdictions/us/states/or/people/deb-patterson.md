@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 10"
+represents: "us/states/or/districts/senate/10"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deb Patterson
 
 Current OR Senate District 10 (OR State Senate District 10).
+
+Represents [OR State Senate District 10](/us/states/or/districts/senate/10.md).
 
 ## Sources
 

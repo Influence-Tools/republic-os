@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 64"
+represents: "us/states/mt/districts/house/64"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Kortum
 
 Current MT House District 64 (MT State House of Representatives District 64).
+
+Represents [MT State House of Representatives District 64](/us/states/mt/districts/house/64.md).
 
 ## Sources
 

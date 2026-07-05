@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 2"
+represents: "us/states/ct/districts/senate/2"
 tenure:
   start: "2017-03-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug McCrory
 
 Current CT Senate District 2 (CT State Senate District 2).
+
+Represents [CT State Senate District 2](/us/states/ct/districts/senate/2.md).
 
 ## Sources
 

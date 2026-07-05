@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 5"
+represents: "us/states/wa/districts/05"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Michael Baumgartner
 
 Current U.S. House of Representatives - WA-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/wa/districts/05.md).
 
 ## Committees
 

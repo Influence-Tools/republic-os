@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 40"
+represents: "us/states/nc/districts/house/40"
 tenure:
   start: "2025-01-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Rubin
 
 Current NC House District 40 (NC State House of Representatives District 40).
+
+Represents [NC State House of Representatives District 40](/us/states/nc/districts/house/40.md).
 
 ## Sources
 

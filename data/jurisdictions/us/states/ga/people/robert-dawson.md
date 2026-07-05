@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 65"
+represents: "us/states/ga/districts/house/65"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Dawson
 
 Current GA House District 65 (GA State House of Representatives District 65).
+
+Represents [GA State House of Representatives District 65](/us/states/ga/districts/house/65.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 54"
+represents: "us/states/sc/districts/house/54"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Luck
 
 Current SC House District 54 (SC State House of Representatives District 54).
+
+Represents [SC State House of Representatives District 54](/us/states/sc/districts/house/54.md).
 
 ## Sources
 

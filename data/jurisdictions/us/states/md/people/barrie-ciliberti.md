@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 4"
+represents: "us/states/md/districts/house/4"
 tenure:
   start: "2015-02-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barrie Ciliberti
 
 Current MD House District 4 (MD State House of Representatives District 4).
+
+Represents [MD State House of Representatives District 4](/us/states/md/districts/house/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 63"
+represents: "us/states/nc/districts/house/63"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephen Ross
 
 Current NC House District 63 (NC State House of Representatives District 63).
+
+Represents [NC State House of Representatives District 63](/us/states/nc/districts/house/63.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-8"
+represents: "us/states/vt/districts/house/chittenden-8"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bridget Burkhardt
 
 Current VT House District Chittenden-8 (VT State House of Representatives District Chittenden-8).
+
+Represents [VT State House of Representatives District Chittenden-8](/us/states/vt/districts/house/chittenden-8.md).
 
 ## Sources
 

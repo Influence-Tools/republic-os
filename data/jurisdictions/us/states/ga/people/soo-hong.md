@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 103"
+represents: "us/states/ga/districts/house/103"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Soo Hong
 
 Current GA House District 103 (GA State House of Representatives District 103).
+
+Represents [GA State House of Representatives District 103](/us/states/ga/districts/house/103.md).
 
 ## Sources
 

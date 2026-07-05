@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 7th Hampden"
+represents: "us/states/ma/districts/house/7th-hampden"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Saunders
 
 Current MA House District 7th Hampden (MA State House of Representatives District 7th Hampden).
+
+Represents [MA State House of Representatives District 7th Hampden](/us/states/ma/districts/house/7th-hampden.md).
 
 ## Sources
 

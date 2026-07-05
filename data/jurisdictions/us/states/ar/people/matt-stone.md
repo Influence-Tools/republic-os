@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 2"
+represents: "us/states/ar/districts/senate/2"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Stone
 
 Current AR Senate District 2 (AR State Senate District 2).
+
+Represents [AR State Senate District 2](/us/states/ar/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District L"
+represents: "us/states/ak/districts/senate/l"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Merrick
 
 Current AK Senate District L (AK State Senate District L).
+
+Represents [AK State Senate District L](/us/states/ak/districts/senate/l.md).
 
 ## Sources
 

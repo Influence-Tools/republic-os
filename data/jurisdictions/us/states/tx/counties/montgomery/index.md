@@ -22,9 +22,39 @@ demographics:
   race_native: 3486
   hispanic: 191006
   bachelors_plus: 236051
+districts:
+  - to: "us/states/tx/districts/08"
+    rel: in-district
+    area_weight: 0.6675
+  - to: "us/states/tx/districts/02"
+    rel: in-district
+    area_weight: 0.3321
+  - to: "us/states/tx/districts/senate/4"
+    rel: in-district
+    area_weight: 0.7618
+  - to: "us/states/tx/districts/senate/18"
+    rel: in-district
+    area_weight: 0.1512
+  - to: "us/states/tx/districts/senate/7"
+    rel: in-district
+    area_weight: 0.0868
+  - to: "us/states/tx/districts/house/16"
+    rel: in-district
+    area_weight: 0.4969
+  - to: "us/states/tx/districts/house/3"
+    rel: in-district
+    area_weight: 0.3254
+  - to: "us/states/tx/districts/house/15"
+    rel: in-district
+    area_weight: 0.1003
+  - to: "us/states/tx/districts/house/18"
+    rel: in-district
+    area_weight: 0.0772
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, tx]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 191006 |
 | Bachelor's or higher | 236051 |
 
+## Districts
+
+- [TX-08](/us/states/tx/districts/08.md) — 67% (congressional)
+- [TX-02](/us/states/tx/districts/02.md) — 33% (congressional)
+- [TX Senate District 4](/us/states/tx/districts/senate/4.md) — 76% (state senate)
+- [TX Senate District 18](/us/states/tx/districts/senate/18.md) — 15% (state senate)
+- [TX Senate District 7](/us/states/tx/districts/senate/7.md) — 9% (state senate)
+- [TX House District 16](/us/states/tx/districts/house/16.md) — 50% (state house)
+- [TX House District 3](/us/states/tx/districts/house/3.md) — 33% (state house)
+- [TX House District 15](/us/states/tx/districts/house/15.md) — 10% (state house)
+- [TX House District 18](/us/states/tx/districts/house/18.md) — 8% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

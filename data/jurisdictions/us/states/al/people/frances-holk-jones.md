@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 95"
+represents: "us/states/al/districts/house/95"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frances Holk-Jones
 
 Current AL House District 95 (AL State House of Representatives District 95).
+
+Represents [AL State House of Representatives District 95](/us/states/al/districts/house/95.md).
 
 ## Sources
 

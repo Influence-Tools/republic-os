@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 6"
+represents: "us/states/or/districts/senate/6"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cedric Hayden
 
 Current OR Senate District 6 (OR State Senate District 6).
+
+Represents [OR State Senate District 6](/us/states/or/districts/senate/6.md).
 
 ## Sources
 

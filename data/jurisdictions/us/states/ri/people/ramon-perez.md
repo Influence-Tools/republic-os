@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 13"
+represents: "us/states/ri/districts/house/13"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ramon Perez
 
 Current RI House District 13 (RI State House of Representatives District 13).
+
+Represents [RI State House of Representatives District 13](/us/states/ri/districts/house/13.md).
 
 ## Sources
 

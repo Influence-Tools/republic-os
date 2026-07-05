@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 14"
+represents: "us/states/nv/districts/house/14"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erica Mosca
 
 Current NV House District 14 (NV State House of Representatives District 14).
+
+Represents [NV State House of Representatives District 14](/us/states/nv/districts/house/14.md).
 
 ## Sources
 

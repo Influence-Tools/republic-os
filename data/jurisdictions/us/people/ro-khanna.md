@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 17"
+represents: "us/states/ca/districts/17"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Ro Khanna
 
 Current U.S. House of Representatives - CA-17 (Congressional District 17).
+
+Represents [Congressional District 17](/us/states/ca/districts/17.md).
 
 ## Committees
 

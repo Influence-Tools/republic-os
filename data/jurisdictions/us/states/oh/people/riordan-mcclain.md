@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 87"
+represents: "us/states/oh/districts/house/87"
 tenure:
   start: "2018-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Riordan McClain
 
 Current OH House District 87 (OH State House of Representatives District 87).
+
+Represents [OH State House of Representatives District 87](/us/states/oh/districts/house/87.md).
 
 ## Sources
 

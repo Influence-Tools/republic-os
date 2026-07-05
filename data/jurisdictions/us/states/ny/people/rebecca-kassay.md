@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 4"
+represents: "us/states/ny/districts/house/4"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Kassay
 
 Current NY House District 4 (NY State House of Representatives District 4).
+
+Represents [NY State House of Representatives District 4](/us/states/ny/districts/house/4.md).
 
 ## Sources
 

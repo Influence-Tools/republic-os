@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 13"
+represents: "us/states/hi/districts/senate/13"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karl Rhoads
 
 Current HI Senate District 13 (HI State Senate District 13).
+
+Represents [HI State Senate District 13](/us/states/hi/districts/senate/13.md).
 
 ## Sources
 

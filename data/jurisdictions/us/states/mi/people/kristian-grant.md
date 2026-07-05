@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 82"
+represents: "us/states/mi/districts/house/82"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristian Grant
 
 Current MI House District 82 (MI State House of Representatives District 82).
+
+Represents [MI State House of Representatives District 82](/us/states/mi/districts/house/82.md).
 
 ## Sources
 

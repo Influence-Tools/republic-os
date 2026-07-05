@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 9"
+represents: "us/states/sd/districts/house/9"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tesa Schwans
 
 Current SD House District 9 (SD State House of Representatives District 9).
+
+Represents [SD State House of Representatives District 9](/us/states/sd/districts/house/9.md).
 
 ## Sources
 

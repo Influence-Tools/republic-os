@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 39"
+represents: "us/states/sc/districts/senate/39"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Fernandez
 
 Current SC Senate District 39 (SC State Senate District 39).
+
+Represents [SC State Senate District 39](/us/states/sc/districts/senate/39.md).
 
 ## Sources
 

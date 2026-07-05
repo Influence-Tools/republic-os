@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 173"
+represents: "us/states/ga/districts/house/173"
 tenure:
   start: "2011-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darlene Taylor
 
 Current GA House District 173 (GA State House of Representatives District 173).
+
+Represents [GA State House of Representatives District 173](/us/states/ga/districts/house/173.md).
 
 ## Sources
 

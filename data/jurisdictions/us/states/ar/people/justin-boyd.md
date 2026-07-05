@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 27"
+represents: "us/states/ar/districts/senate/27"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Boyd
 
 Current AR Senate District 27 (AR State Senate District 27).
+
+Represents [AR State Senate District 27](/us/states/ar/districts/senate/27.md).
 
 ## Sources
 

@@ -22,9 +22,24 @@ demographics:
   race_native: 58
   hispanic: 522
   bachelors_plus: 2099
+districts:
+  - to: "us/states/la/districts/04"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/la/districts/senate/35"
+    rel: in-district
+    area_weight: 0.9093
+  - to: "us/states/la/districts/senate/29"
+    rel: in-district
+    area_weight: 0.0907
+  - to: "us/states/la/districts/house/13"
+    rel: in-district
+    area_weight: 1.0
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, la]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 522 |
 | Bachelor's or higher | 2099 |
 
+## Districts
+
+- [LA-04](/us/states/la/districts/04.md) — 100% (congressional)
+- [LA Senate District 35](/us/states/la/districts/senate/35.md) — 91% (state senate)
+- [LA Senate District 29](/us/states/la/districts/senate/29.md) — 9% (state senate)
+- [LA House District 13](/us/states/la/districts/house/13.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

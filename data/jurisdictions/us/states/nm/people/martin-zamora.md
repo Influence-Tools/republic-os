@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 63"
+represents: "us/states/nm/districts/house/63"
 tenure:
   start: "2019-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martin Zamora
 
 Current NM House District 63 (NM State House of Representatives District 63).
+
+Represents [NM State House of Representatives District 63](/us/states/nm/districts/house/63.md).
 
 ## Sources
 

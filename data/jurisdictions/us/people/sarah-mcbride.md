@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "DE"
 district: "Congressional District (at Large)"
+represents: "us/states/de/districts/00"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Sarah McBride
 
 Current U.S. House of Representatives - DE At-Large (Congressional District (at Large)).
+
+Represents [Congressional District (at Large)](/us/states/de/districts/00.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 66"
+represents: "us/states/pa/districts/house/66"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Smith
 
 Current PA House District 66 (PA State House of Representatives District 66).
+
+Represents [PA State House of Representatives District 66](/us/states/pa/districts/house/66.md).
 
 ## Sources
 

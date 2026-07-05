@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 16"
+represents: "us/states/wa/districts/house/16"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Klicker
 
 Current WA House District 16 (WA State House of Representatives District 16).
+
+Represents [WA State House of Representatives District 16](/us/states/wa/districts/house/16.md).
 
 ## Sources
 

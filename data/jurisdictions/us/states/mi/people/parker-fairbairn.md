@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 107"
+represents: "us/states/mi/districts/house/107"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Parker Fairbairn
 
 Current MI House District 107 (MI State House of Representatives District 107).
+
+Represents [MI State House of Representatives District 107](/us/states/mi/districts/house/107.md).
 
 ## Sources
 

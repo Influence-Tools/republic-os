@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 94"
+represents: "us/states/oh/districts/house/94"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Ritter
 
 Current OH House District 94 (OH State House of Representatives District 94).
+
+Represents [OH State House of Representatives District 94](/us/states/oh/districts/house/94.md).
 
 ## Sources
 

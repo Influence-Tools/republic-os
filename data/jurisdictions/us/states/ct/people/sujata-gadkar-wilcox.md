@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 22"
+represents: "us/states/ct/districts/senate/22"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sujata Gadkar-Wilcox
 
 Current CT Senate District 22 (CT State Senate District 22).
+
+Represents [CT State Senate District 22](/us/states/ct/districts/senate/22.md).
 
 ## Sources
 

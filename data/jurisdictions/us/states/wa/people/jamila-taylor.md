@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 30"
+represents: "us/states/wa/districts/house/30"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamila Taylor
 
 Current WA House District 30 (WA State House of Representatives District 30).
+
+Represents [WA State House of Representatives District 30](/us/states/wa/districts/house/30.md).
 
 ## Sources
 

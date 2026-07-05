@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 5"
+represents: "us/states/tn/districts/senate/5"
 tenure:
   start: "1987-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy McNally
 
 Current TN Senate District 5 (TN State Senate District 5).
+
+Represents [TN State Senate District 5](/us/states/tn/districts/senate/5.md).
 
 ## Sources
 

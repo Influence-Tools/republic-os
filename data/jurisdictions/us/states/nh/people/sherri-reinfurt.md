@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 29"
+represents: "us/states/nh/districts/house/hillsborough-29"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sherri Reinfurt
 
 Current NH House District Hillsborough 29 (NH State House of Representatives District Hillsborough 29).
+
+Represents [NH State House of Representatives District Hillsborough 29](/us/states/nh/districts/house/hillsborough-29.md).
 
 ## Sources
 

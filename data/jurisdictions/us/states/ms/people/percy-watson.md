@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 103"
+represents: "us/states/ms/districts/house/103"
 tenure:
   start: "1980-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Percy Watson
 
 Current MS House District 103 (MS State House of Representatives District 103).
+
+Represents [MS State House of Representatives District 103](/us/states/ms/districts/house/103.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 58"
+represents: "us/states/il/districts/senate/58"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terri Bryant
 
 Current IL Senate District 58 (IL State Senate District 58).
+
+Represents [IL State Senate District 58](/us/states/il/districts/senate/58.md).
 
 ## Sources
 

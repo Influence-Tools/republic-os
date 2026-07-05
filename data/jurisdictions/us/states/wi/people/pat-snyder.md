@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 85"
+represents: "us/states/wi/districts/house/85"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Snyder
 
 Current WI House District 85 (WI State House of Representatives District 85).
+
+Represents [WI State House of Representatives District 85](/us/states/wi/districts/house/85.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 27"
+represents: "us/states/me/districts/house/27"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Drinkwater
 
 Current ME House District 27 (ME State House of Representatives District 27).
+
+Represents [ME State House of Representatives District 27](/us/states/me/districts/house/27.md).
 
 ## Sources
 

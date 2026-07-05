@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 42"
+represents: "us/states/mo/districts/house/42"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Myers
 
 Current MO House District 42 (MO State House of Representatives District 42).
+
+Represents [MO State House of Representatives District 42](/us/states/mo/districts/house/42.md).
 
 ## Sources
 

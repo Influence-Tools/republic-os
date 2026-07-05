@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 8"
+represents: "us/states/ms/districts/senate/8"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Suber
 
 Current MS Senate District 8 (MS State Senate District 8).
+
+Represents [MS State Senate District 8](/us/states/ms/districts/senate/8.md).
 
 ## Sources
 

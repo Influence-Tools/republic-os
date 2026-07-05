@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 69"
+represents: "us/states/mi/districts/house/69"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaz Martus
 
 Current MI House District 69 (MI State House of Representatives District 69).
+
+Represents [MI State House of Representatives District 69](/us/states/mi/districts/house/69.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 96"
+represents: "us/states/ct/districts/house/96"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roland Lemar
 
 Current CT House District 96 (CT State House of Representatives District 96).
+
+Represents [CT State House of Representatives District 96](/us/states/ct/districts/house/96.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 97"
+represents: "us/states/ok/districts/house/97"
 tenure:
   start: "2025-06-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aletia Timmons
 
 Current OK House District 97 (OK State House of Representatives District 97).
+
+Represents [OK State House of Representatives District 97](/us/states/ok/districts/house/97.md).
 
 ## Sources
 

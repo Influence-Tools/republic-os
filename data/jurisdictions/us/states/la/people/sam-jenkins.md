@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 39"
+represents: "us/states/la/districts/senate/39"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Jenkins
 
 Current LA Senate District 39 (LA State Senate District 39).
+
+Represents [LA State Senate District 39](/us/states/la/districts/senate/39.md).
 
 ## Sources
 

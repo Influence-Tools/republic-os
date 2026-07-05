@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 26"
+represents: "us/states/ia/districts/house/26"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Austin Harris
 
 Current IA House District 26 (IA State House of Representatives District 26).
+
+Represents [IA State House of Representatives District 26](/us/states/ia/districts/house/26.md).
 
 ## Sources
 

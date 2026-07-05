@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 25"
+represents: "us/states/ia/districts/house/25"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hans Wilz
 
 Current IA House District 25 (IA State House of Representatives District 25).
+
+Represents [IA State House of Representatives District 25](/us/states/ia/districts/house/25.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 28"
+represents: "us/states/ri/districts/senate/28"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lammis Vargas
 
 Current RI Senate District 28 (RI State Senate District 28).
+
+Represents [RI State Senate District 28](/us/states/ri/districts/senate/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 65"
+represents: "us/states/oh/districts/house/65"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Thomas
 
 Current OH House District 65 (OH State House of Representatives District 65).
+
+Represents [OH State House of Representatives District 65](/us/states/oh/districts/house/65.md).
 
 ## Sources
 

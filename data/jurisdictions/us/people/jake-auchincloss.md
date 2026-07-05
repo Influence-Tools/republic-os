@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 4"
+represents: "us/states/ma/districts/04"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Jake Auchincloss
 
 Current U.S. House of Representatives - MA-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ma/districts/04.md).
 
 ## Committees
 

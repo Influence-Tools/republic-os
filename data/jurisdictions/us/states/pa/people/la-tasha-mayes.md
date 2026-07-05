@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 24"
+represents: "us/states/pa/districts/house/24"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # La'Tasha Mayes
 
 Current PA House District 24 (PA State House of Representatives District 24).
+
+Represents [PA State House of Representatives District 24](/us/states/pa/districts/house/24.md).
 
 ## Sources
 

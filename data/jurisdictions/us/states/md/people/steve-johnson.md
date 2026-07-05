@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 34A"
+represents: "us/states/md/districts/house/34a"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Johnson
 
 Current MD House District 34A (MD State House of Representatives District 34A).
+
+Represents [MD State House of Representatives District 34A](/us/states/md/districts/house/34a.md).
 
 ## Sources
 

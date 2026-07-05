@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 9B"
+represents: "us/states/md/districts/house/9b"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Courtney Watson
 
 Current MD House District 9B (MD State House of Representatives District 9B).
+
+Represents [MD State House of Representatives District 9B](/us/states/md/districts/house/9b.md).
 
 ## Sources
 

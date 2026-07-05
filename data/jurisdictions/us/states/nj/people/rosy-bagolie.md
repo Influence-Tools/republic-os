@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 27"
+represents: "us/states/nj/districts/house/27"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rosy Bagolie
 
 Current NJ House District 27 (NJ State House of Representatives District 27).
+
+Represents [NJ State House of Representatives District 27](/us/states/nj/districts/house/27.md).
 
 ## Sources
 

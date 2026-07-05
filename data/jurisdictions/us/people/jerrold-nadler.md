@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 12"
+represents: "us/states/ny/districts/12"
 committees:
   - name: "House Committee on the Judiciary"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Jerrold Nadler
 
 Current U.S. House of Representatives - NY-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/ny/districts/12.md).
 
 ## Committees
 

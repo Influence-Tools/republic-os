@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 14"
+represents: "us/states/sc/districts/house/14"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Luke Rankin
 
 Current SC House District 14 (SC State House of Representatives District 14).
+
+Represents [SC State House of Representatives District 14](/us/states/sc/districts/house/14.md).
 
 ## Sources
 

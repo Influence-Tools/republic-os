@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 111"
+represents: "us/states/ks/districts/house/111"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barb Wasinger
 
 Current KS House District 111 (KS State House of Representatives District 111).
+
+Represents [KS State House of Representatives District 111](/us/states/ks/districts/house/111.md).
 
 ## Sources
 

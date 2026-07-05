@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 42"
+represents: "us/states/nm/districts/senate/42"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Scott
 
 Current NM Senate District 42 (NM State Senate District 42).
+
+Represents [NM State Senate District 42](/us/states/nm/districts/senate/42.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-Windham"
+represents: "us/states/vt/districts/house/windsor-windham"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Charlton
 
 Current VT House District Windsor-Windham (VT State House of Representatives District Windsor-Windham).
+
+Represents [VT State House of Representatives District Windsor-Windham](/us/states/vt/districts/house/windsor-windham.md).
 
 ## Sources
 

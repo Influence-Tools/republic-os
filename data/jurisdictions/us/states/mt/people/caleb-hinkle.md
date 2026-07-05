@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 68"
+represents: "us/states/mt/districts/house/68"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Caleb Hinkle
 
 Current MT House District 68 (MT State House of Representatives District 68).
+
+Represents [MT State House of Representatives District 68](/us/states/mt/districts/house/68.md).
 
 ## Sources
 

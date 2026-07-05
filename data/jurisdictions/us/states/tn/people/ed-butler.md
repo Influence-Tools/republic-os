@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 41"
+represents: "us/states/tn/districts/house/41"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Butler
 
 Current TN House District 41 (TN State House of Representatives District 41).
+
+Represents [TN State House of Representatives District 41](/us/states/tn/districts/house/41.md).
 
 ## Sources
 

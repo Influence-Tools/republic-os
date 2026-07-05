@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 112"
+represents: "us/states/tx/districts/house/112"
 tenure:
   start: "2009-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angie Button
 
 Current TX House District 112 (TX State House of Representatives District 112).
+
+Represents [TX State House of Representatives District 112](/us/states/tx/districts/house/112.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 6"
+represents: "us/states/ct/districts/house/6"
 tenure:
   start: "2023-03-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jimmy Sánchez
 
 Current CT House District 6 (CT State House of Representatives District 6).
+
+Represents [CT State House of Representatives District 6](/us/states/ct/districts/house/6.md).
 
 ## Sources
 

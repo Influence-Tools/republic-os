@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 148"
+represents: "us/states/mo/districts/house/148"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Dolan
 
 Current MO House District 148 (MO State House of Representatives District 148).
+
+Represents [MO State House of Representatives District 148](/us/states/mo/districts/house/148.md).
 
 ## Sources
 

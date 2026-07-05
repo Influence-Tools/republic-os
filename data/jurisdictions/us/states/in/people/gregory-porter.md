@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 96"
+represents: "us/states/in/districts/house/96"
 tenure:
   start: "1992-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregory Porter
 
 Current IN House District 96 (IN State House of Representatives District 96).
+
+Represents [IN State House of Representatives District 96](/us/states/in/districts/house/96.md).
 
 ## Sources
 

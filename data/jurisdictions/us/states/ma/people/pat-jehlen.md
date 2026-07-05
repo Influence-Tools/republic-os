@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Second Middlesex"
+represents: "us/states/ma/districts/senate/second-middlesex"
 tenure:
   start: "2005-10-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Jehlen
 
 Current MA Senate District Second Middlesex (MA State Senate District Second Middlesex).
+
+Represents [MA State Senate District Second Middlesex](/us/states/ma/districts/senate/second-middlesex.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 56"
+represents: "us/states/al/districts/house/56"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ontario Tillman
 
 Current AL House District 56 (AL State House of Representatives District 56).
+
+Represents [AL State House of Representatives District 56](/us/states/al/districts/house/56.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 1"
+represents: "us/states/ri/districts/house/1"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Edith Ajello
 
 Current RI House District 1 (RI State House of Representatives District 1).
+
+Represents [RI State House of Representatives District 1](/us/states/ri/districts/house/1.md).
 
 ## Sources
 

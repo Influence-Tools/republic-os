@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 11"
+represents: "us/states/ri/districts/house/11"
 tenure:
   start: "2005-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Grace Diaz
 
 Current RI House District 11 (RI State House of Representatives District 11).
+
+Represents [RI State House of Representatives District 11](/us/states/ri/districts/house/11.md).
 
 ## Sources
 

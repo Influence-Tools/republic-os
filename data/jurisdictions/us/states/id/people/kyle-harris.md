@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 7A"
+represents: "us/states/id/districts/house/7a"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Harris
 
 Current ID House District 7A (ID State House of Representatives District 7A).
+
+Represents [ID State House of Representatives District 7A](/us/states/id/districts/house/7a.md).
 
 ## Sources
 

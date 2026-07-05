@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 29"
+represents: "us/states/pa/districts/house/29"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Brennan
 
 Current PA House District 29 (PA State House of Representatives District 29).
+
+Represents [PA State House of Representatives District 29](/us/states/pa/districts/house/29.md).
 
 ## Sources
 

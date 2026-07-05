@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 1"
+represents: "us/states/tx/districts/01"
 committees:
   - name: "House Committee on Ethics"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Nathaniel Moran
 
 Current U.S. House of Representatives - TX-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/tx/districts/01.md).
 
 ## Committees
 

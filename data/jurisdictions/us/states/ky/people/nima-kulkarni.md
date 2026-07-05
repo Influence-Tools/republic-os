@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 40"
+represents: "us/states/ky/districts/house/40"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nima Kulkarni
 
 Current KY House District 40 (KY State House of Representatives District 40).
+
+Represents [KY State House of Representatives District 40](/us/states/ky/districts/house/40.md).
 
 ## Sources
 

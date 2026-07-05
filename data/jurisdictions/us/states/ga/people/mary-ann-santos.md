@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 117"
+represents: "us/states/ga/districts/house/117"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Ann Santos
 
 Current GA House District 117 (GA State House of Representatives District 117).
+
+Represents [GA State House of Representatives District 117](/us/states/ga/districts/house/117.md).
 
 ## Sources
 

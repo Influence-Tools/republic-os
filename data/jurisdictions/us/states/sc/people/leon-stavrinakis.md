@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 119"
+represents: "us/states/sc/districts/house/119"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leon Stavrinakis
 
 Current SC House District 119 (SC State House of Representatives District 119).
+
+Represents [SC State House of Representatives District 119](/us/states/sc/districts/house/119.md).
 
 ## Sources
 

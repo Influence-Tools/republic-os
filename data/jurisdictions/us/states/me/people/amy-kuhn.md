@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 111"
+represents: "us/states/me/districts/house/111"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Kuhn
 
 Current ME House District 111 (ME State House of Representatives District 111).
+
+Represents [ME State House of Representatives District 111](/us/states/me/districts/house/111.md).
 
 ## Sources
 

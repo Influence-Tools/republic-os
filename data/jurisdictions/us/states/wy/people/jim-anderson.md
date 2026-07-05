@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 28"
+represents: "us/states/wy/districts/senate/28"
 tenure:
   start: "2013-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Anderson
 
 Current WY Senate District 28 (WY State Senate District 28).
+
+Represents [WY State Senate District 28](/us/states/wy/districts/senate/28.md).
 
 ## Sources
 

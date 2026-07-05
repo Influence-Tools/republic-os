@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 7"
+represents: "us/states/pa/districts/senate/7"
 tenure:
   start: "1994-11-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vincent Hughes
 
 Current PA Senate District 7 (PA State Senate District 7).
+
+Represents [PA State Senate District 7](/us/states/pa/districts/senate/7.md).
 
 ## Sources
 

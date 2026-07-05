@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 43"
+represents: "us/states/nd/districts/senate/43"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Barta
 
 Current ND Senate District 43 (ND State Senate District 43).
+
+Represents [ND State Senate District 43](/us/states/nd/districts/senate/43.md).
 
 ## Sources
 

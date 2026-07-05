@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 11"
+represents: "us/states/me/districts/house/11"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tiffany Strout
 
 Current ME House District 11 (ME State House of Representatives District 11).
+
+Represents [ME State House of Representatives District 11](/us/states/me/districts/house/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 30"
+represents: "us/states/ky/districts/senate/30"
 tenure:
   start: "2008-02-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Smith
 
 Current KY Senate District 30 (KY State Senate District 30).
+
+Represents [KY State Senate District 30](/us/states/ky/districts/senate/30.md).
 
 ## Sources
 

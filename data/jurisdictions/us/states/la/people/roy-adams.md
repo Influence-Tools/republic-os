@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 62"
+represents: "us/states/la/districts/house/62"
 tenure:
   start: "2023-04-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roy Adams
 
 Current LA House District 62 (LA State House of Representatives District 62).
+
+Represents [LA State House of Representatives District 62](/us/states/la/districts/house/62.md).
 
 ## Sources
 

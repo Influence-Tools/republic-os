@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 9"
+represents: "us/states/ar/districts/senate/9"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reginald Murdock
 
 Current AR Senate District 9 (AR State Senate District 9).
+
+Represents [AR State Senate District 9](/us/states/ar/districts/senate/9.md).
 
 ## Sources
 

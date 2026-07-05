@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 23"
+represents: "us/states/wv/districts/house/23"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Evan Worrell
 
 Current WV House District 23 (WV State House of Representatives District 23).
+
+Represents [WV State House of Representatives District 23](/us/states/wv/districts/house/23.md).
 
 ## Sources
 

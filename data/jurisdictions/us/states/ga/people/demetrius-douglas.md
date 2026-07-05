@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 78"
+represents: "us/states/ga/districts/house/78"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Demetrius Douglas
 
 Current GA House District 78 (GA State House of Representatives District 78).
+
+Represents [GA State House of Representatives District 78](/us/states/ga/districts/house/78.md).
 
 ## Sources
 

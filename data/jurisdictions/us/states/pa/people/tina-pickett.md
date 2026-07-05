@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 110"
+represents: "us/states/pa/districts/house/110"
 tenure:
   start: "2001-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Pickett
 
 Current PA House District 110 (PA State House of Representatives District 110).
+
+Represents [PA State House of Representatives District 110](/us/states/pa/districts/house/110.md).
 
 ## Sources
 

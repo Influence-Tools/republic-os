@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 7"
+represents: "us/states/ms/districts/house/7"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kimberly Remak
 
 Current MS House District 7 (MS State House of Representatives District 7).
+
+Represents [MS State House of Representatives District 7](/us/states/ms/districts/house/7.md).
 
 ## Sources
 

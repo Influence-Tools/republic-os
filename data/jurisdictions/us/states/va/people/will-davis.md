@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 39"
+represents: "us/states/va/districts/house/39"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Davis
 
 Current VA House District 39 (VA State House of Representatives District 39).
+
+Represents [VA State House of Representatives District 39](/us/states/va/districts/house/39.md).
 
 ## Sources
 

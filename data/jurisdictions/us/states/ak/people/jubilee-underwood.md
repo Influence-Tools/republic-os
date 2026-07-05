@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 27"
+represents: "us/states/ak/districts/house/27"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jubilee Underwood
 
 Current AK House District 27 (AK State House of Representatives District 27).
+
+Represents [AK State House of Representatives District 27](/us/states/ak/districts/house/27.md).
 
 ## Sources
 

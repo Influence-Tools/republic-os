@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 26"
+represents: "us/states/ny/districts/26"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Timothy M. Kennedy
 
 Current U.S. House of Representatives - NY-26 (Congressional District 26).
+
+Represents [Congressional District 26](/us/states/ny/districts/26.md).
 
 ## Committees
 

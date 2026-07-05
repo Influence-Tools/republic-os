@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 134"
+represents: "us/states/ny/districts/house/134"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Jensen
 
 Current NY House District 134 (NY State House of Representatives District 134).
+
+Represents [NY State House of Representatives District 134](/us/states/ny/districts/house/134.md).
 
 ## Sources
 

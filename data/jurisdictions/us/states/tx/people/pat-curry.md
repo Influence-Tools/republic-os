@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 56"
+represents: "us/states/tx/districts/house/56"
 tenure:
   start: "2024-11-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Curry
 
 Current TX House District 56 (TX State House of Representatives District 56).
+
+Represents [TX State House of Representatives District 56](/us/states/tx/districts/house/56.md).
 
 ## Sources
 

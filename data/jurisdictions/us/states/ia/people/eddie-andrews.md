@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 43"
+represents: "us/states/ia/districts/house/43"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Andrews
 
 Current IA House District 43 (IA State House of Representatives District 43).
+
+Represents [IA State House of Representatives District 43](/us/states/ia/districts/house/43.md).
 
 ## Sources
 

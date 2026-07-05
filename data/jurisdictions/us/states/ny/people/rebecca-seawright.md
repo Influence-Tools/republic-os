@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 76"
+represents: "us/states/ny/districts/house/76"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Seawright
 
 Current NY House District 76 (NY State House of Representatives District 76).
+
+Represents [NY State House of Representatives District 76](/us/states/ny/districts/house/76.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 49"
+represents: "us/states/sc/districts/house/49"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John King
 
 Current SC House District 49 (SC State House of Representatives District 49).
+
+Represents [SC State House of Representatives District 49](/us/states/sc/districts/house/49.md).
 
 ## Sources
 

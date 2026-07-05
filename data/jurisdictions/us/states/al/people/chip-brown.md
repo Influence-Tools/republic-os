@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 105"
+represents: "us/states/al/districts/house/105"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chip Brown
 
 Current AL House District 105 (AL State House of Representatives District 105).
+
+Represents [AL State House of Representatives District 105](/us/states/al/districts/house/105.md).
 
 ## Sources
 

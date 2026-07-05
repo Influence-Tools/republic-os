@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 6"
+represents: "us/states/nm/districts/house/6"
 tenure:
   start: "2025-02-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martha Garcia
 
 Current NM House District 6 (NM State House of Representatives District 6).
+
+Represents [NM State House of Representatives District 6](/us/states/nm/districts/house/6.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 29"
+represents: "us/states/tn/districts/house/29"
 tenure:
   start: "2021-09-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Vital
 
 Current TN House District 29 (TN State House of Representatives District 29).
+
+Represents [TN State House of Representatives District 29](/us/states/tn/districts/house/29.md).
 
 ## Sources
 

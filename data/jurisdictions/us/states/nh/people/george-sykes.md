@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 14"
+represents: "us/states/nh/districts/house/grafton-14"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Sykes
 
 Current NH House District Grafton 14 (NH State House of Representatives District Grafton 14).
+
+Represents [NH State House of Representatives District Grafton 14](/us/states/nh/districts/house/grafton-14.md).
 
 ## Sources
 

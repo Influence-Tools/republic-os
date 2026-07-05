@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 13"
+represents: "us/states/nc/districts/house/13"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Celeste Cairns
 
 Current NC House District 13 (NC State House of Representatives District 13).
+
+Represents [NC State House of Representatives District 13](/us/states/nc/districts/house/13.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 28"
+represents: "us/states/tn/districts/senate/28"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joey Hensley
 
 Current TN Senate District 28 (TN State Senate District 28).
+
+Represents [TN State Senate District 28](/us/states/tn/districts/senate/28.md).
 
 ## Sources
 

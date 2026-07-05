@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 107"
+represents: "us/states/mo/districts/house/107"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Matthiesen
 
 Current MO House District 107 (MO State House of Representatives District 107).
+
+Represents [MO State House of Representatives District 107](/us/states/mo/districts/house/107.md).
 
 ## Sources
 

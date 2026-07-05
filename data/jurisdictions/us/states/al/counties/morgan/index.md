@@ -22,9 +22,30 @@ demographics:
   race_native: 770
   hispanic: 14293
   bachelors_plus: 29912
+districts:
+  - to: "us/states/al/districts/05"
+    rel: in-district
+    area_weight: 0.9995
+  - to: "us/states/al/districts/senate/3"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/al/districts/house/9"
+    rel: in-district
+    area_weight: 0.6762
+  - to: "us/states/al/districts/house/8"
+    rel: in-district
+    area_weight: 0.1594
+  - to: "us/states/al/districts/house/4"
+    rel: in-district
+    area_weight: 0.1307
+  - to: "us/states/al/districts/house/7"
+    rel: in-district
+    area_weight: 0.0336
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, al]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 14293 |
 | Bachelor's or higher | 29912 |
 
+## Districts
+
+- [AL-05](/us/states/al/districts/05.md) — 100% (congressional)
+- [AL Senate District 3](/us/states/al/districts/senate/3.md) — 100% (state senate)
+- [AL House District 9](/us/states/al/districts/house/9.md) — 68% (state house)
+- [AL House District 8](/us/states/al/districts/house/8.md) — 16% (state house)
+- [AL House District 4](/us/states/al/districts/house/4.md) — 13% (state house)
+- [AL House District 7](/us/states/al/districts/house/7.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

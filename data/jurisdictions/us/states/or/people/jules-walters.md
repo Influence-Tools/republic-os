@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 37"
+represents: "us/states/or/districts/house/37"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jules Walters
 
 Current OR House District 37 (OR State House of Representatives District 37).
+
+Represents [OR State House of Representatives District 37](/us/states/or/districts/house/37.md).
 
 ## Sources
 

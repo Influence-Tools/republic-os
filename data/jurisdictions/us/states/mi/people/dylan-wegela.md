@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 26"
+represents: "us/states/mi/districts/house/26"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dylan Wegela
 
 Current MI House District 26 (MI State House of Representatives District 26).
+
+Represents [MI State House of Representatives District 26](/us/states/mi/districts/house/26.md).
 
 ## Sources
 

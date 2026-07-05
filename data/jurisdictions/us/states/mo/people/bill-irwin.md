@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 55"
+represents: "us/states/mo/districts/house/55"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Irwin
 
 Current MO House District 55 (MO State House of Representatives District 55).
+
+Represents [MO State House of Representatives District 55](/us/states/mo/districts/house/55.md).
 
 ## Sources
 

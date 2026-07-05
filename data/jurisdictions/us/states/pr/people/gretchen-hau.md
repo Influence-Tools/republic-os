@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 29"
+represents: "us/states/pr/districts/house/29"
 tenure:
   start: "2023-05-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gretchen Hau
 
 Current PR House District 29 (PR State House of Representatives District 29).
+
+Represents [PR State House of Representatives District 29](/us/states/pr/districts/house/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 104"
+represents: "us/states/ga/districts/house/104"
 tenure:
   start: "2013-12-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Efstration
 
 Current GA House District 104 (GA State House of Representatives District 104).
+
+Represents [GA State House of Representatives District 104](/us/states/ga/districts/house/104.md).
 
 ## Sources
 

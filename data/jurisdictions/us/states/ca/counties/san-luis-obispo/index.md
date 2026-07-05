@@ -22,9 +22,30 @@ demographics:
   race_native: 2632
   hispanic: 70318
   bachelors_plus: 105623
+districts:
+  - to: "us/states/ca/districts/24"
+    rel: in-district
+    area_weight: 0.5546
+  - to: "us/states/ca/districts/19"
+    rel: in-district
+    area_weight: 0.3641
+  - to: "us/states/ca/districts/senate/17"
+    rel: in-district
+    area_weight: 0.541
+  - to: "us/states/ca/districts/senate/21"
+    rel: in-district
+    area_weight: 0.3779
+  - to: "us/states/ca/districts/house/30"
+    rel: in-district
+    area_weight: 0.8998
+  - to: "us/states/ca/districts/house/37"
+    rel: in-district
+    area_weight: 0.019
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ca]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 70318 |
 | Bachelor's or higher | 105623 |
 
+## Districts
+
+- [CA-24](/us/states/ca/districts/24.md) — 55% (congressional)
+- [CA-19](/us/states/ca/districts/19.md) — 36% (congressional)
+- [CA Senate District 17](/us/states/ca/districts/senate/17.md) — 54% (state senate)
+- [CA Senate District 21](/us/states/ca/districts/senate/21.md) — 38% (state senate)
+- [CA House District 30](/us/states/ca/districts/house/30.md) — 90% (state house)
+- [CA House District 37](/us/states/ca/districts/house/37.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

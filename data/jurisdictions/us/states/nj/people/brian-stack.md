@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 33"
+represents: "us/states/nj/districts/senate/33"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Stack
 
 Current NJ Senate District 33 (NJ State Senate District 33).
+
+Represents [NJ State Senate District 33](/us/states/nj/districts/senate/33.md).
 
 ## Sources
 

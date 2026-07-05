@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 50"
+represents: "us/states/ms/districts/house/50"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Hines
 
 Current MS House District 50 (MS State House of Representatives District 50).
+
+Represents [MS State House of Representatives District 50](/us/states/ms/districts/house/50.md).
 
 ## Sources
 

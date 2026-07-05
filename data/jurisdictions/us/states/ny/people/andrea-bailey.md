@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 133"
+represents: "us/states/ny/districts/house/133"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea Bailey
 
 Current NY House District 133 (NY State House of Representatives District 133).
+
+Represents [NY State House of Representatives District 133](/us/states/ny/districts/house/133.md).
 
 ## Sources
 

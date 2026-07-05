@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 41"
+represents: "us/states/md/districts/senate/41"
 tenure:
   start: "2025-01-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dalya Attar
 
 Current MD Senate District 41 (MD State Senate District 41).
+
+Represents [MD State Senate District 41](/us/states/md/districts/senate/41.md).
 
 ## Sources
 

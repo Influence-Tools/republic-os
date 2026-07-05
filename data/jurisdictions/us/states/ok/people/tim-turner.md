@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 15"
+represents: "us/states/ok/districts/house/15"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Turner
 
 Current OK House District 15 (OK State House of Representatives District 15).
+
+Represents [OK State House of Representatives District 15](/us/states/ok/districts/house/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 2"
+represents: "us/states/wa/districts/02"
 committees:
   - name: "House Committee on Transportation and Infrastructure"
     role: "ranking-member"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Rick Larsen
 
 Current U.S. House of Representatives - WA-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/wa/districts/02.md).
 
 ## Committees
 

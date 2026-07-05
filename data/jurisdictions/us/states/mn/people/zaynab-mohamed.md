@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 63"
+represents: "us/states/mn/districts/senate/63"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zaynab Mohamed
 
 Current MN Senate District 63 (MN State Senate District 63).
+
+Represents [MN State Senate District 63](/us/states/mn/districts/senate/63.md).
 
 ## Sources
 

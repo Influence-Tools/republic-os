@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 33"
+represents: "us/states/la/districts/senate/33"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stewart Cathey
 
 Current LA Senate District 33 (LA State Senate District 33).
+
+Represents [LA State Senate District 33](/us/states/la/districts/senate/33.md).
 
 ## Sources
 

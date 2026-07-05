@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 26"
+represents: "us/states/ms/districts/house/26"
 tenure:
   start: "2025-12-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Otha Williams
 
 Current MS House District 26 (MS State House of Representatives District 26).
+
+Represents [MS State House of Representatives District 26](/us/states/ms/districts/house/26.md).
 
 ## Sources
 

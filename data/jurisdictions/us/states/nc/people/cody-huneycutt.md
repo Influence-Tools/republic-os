@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 67"
+represents: "us/states/nc/districts/house/67"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cody Huneycutt
 
 Current NC House District 67 (NC State House of Representatives District 67).
+
+Represents [NC State House of Representatives District 67](/us/states/nc/districts/house/67.md).
 
 ## Sources
 

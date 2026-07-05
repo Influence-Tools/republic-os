@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 73"
+represents: "us/states/tn/districts/house/73"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Todd
 
 Current TN House District 73 (TN State House of Representatives District 73).
+
+Represents [TN State House of Representatives District 73](/us/states/tn/districts/house/73.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 33"
+represents: "us/states/nj/districts/house/33"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Wainstein
 
 Current NJ House District 33 (NJ State House of Representatives District 33).
+
+Represents [NJ State House of Representatives District 33](/us/states/nj/districts/house/33.md).
 
 ## Sources
 

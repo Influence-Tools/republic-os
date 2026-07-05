@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 40"
+represents: "us/states/ga/districts/house/40"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kimberly New
 
 Current GA House District 40 (GA State House of Representatives District 40).
+
+Represents [GA State House of Representatives District 40](/us/states/ga/districts/house/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 14A"
+represents: "us/states/mn/districts/house/14a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bernie Perryman
 
 Current MN House District 14A (MN State House of Representatives District 14A).
+
+Represents [MN State House of Representatives District 14A](/us/states/mn/districts/house/14a.md).
 
 ## Sources
 

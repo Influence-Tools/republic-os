@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 81"
+represents: "us/states/ga/districts/house/81"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Noelle Kahaian
 
 Current GA House District 81 (GA State House of Representatives District 81).
+
+Represents [GA State House of Representatives District 81](/us/states/ga/districts/house/81.md).
 
 ## Sources
 

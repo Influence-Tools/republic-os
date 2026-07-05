@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 4"
+represents: "us/states/co/districts/house/4"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cecelia Espenoza
 
 Current CO House District 4 (CO State House of Representatives District 4).
+
+Represents [CO State House of Representatives District 4](/us/states/co/districts/house/4.md).
 
 ## Sources
 

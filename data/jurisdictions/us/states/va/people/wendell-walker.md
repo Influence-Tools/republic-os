@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 52"
+represents: "us/states/va/districts/house/52"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendell Walker
 
 Current VA House District 52 (VA State House of Representatives District 52).
+
+Represents [VA State House of Representatives District 52](/us/states/va/districts/house/52.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AZ"
 district: "Congressional District 9"
+represents: "us/states/az/districts/09"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Paul A. Gosar
 
 Current U.S. House of Representatives - AZ-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/az/districts/09.md).
 
 ## Committees
 

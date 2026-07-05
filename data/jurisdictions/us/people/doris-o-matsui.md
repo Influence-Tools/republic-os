@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 7"
+represents: "us/states/ca/districts/07"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Doris O. Matsui
 
 Current U.S. House of Representatives - CA-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/ca/districts/07.md).
 
 ## Committees
 

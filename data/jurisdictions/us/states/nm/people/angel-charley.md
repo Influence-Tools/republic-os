@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 30"
+represents: "us/states/nm/districts/senate/30"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angel Charley
 
 Current NM Senate District 30 (NM State Senate District 30).
+
+Represents [NM State Senate District 30](/us/states/nm/districts/senate/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 22"
+represents: "us/states/nc/districts/house/22"
 tenure:
   start: "2007-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # William Brisson
 
 Current NC House District 22 (NC State House of Representatives District 22).
+
+Represents [NC State House of Representatives District 22](/us/states/nc/districts/house/22.md).
 
 ## Sources
 

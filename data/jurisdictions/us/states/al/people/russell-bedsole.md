@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 49"
+represents: "us/states/al/districts/house/49"
 tenure:
   start: "2020-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russell Bedsole
 
 Current AL House District 49 (AL State House of Representatives District 49).
+
+Represents [AL State House of Representatives District 49](/us/states/al/districts/house/49.md).
 
 ## Sources
 

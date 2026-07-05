@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 21"
+represents: "us/states/tn/districts/senate/21"
 tenure:
   start: "2014-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Yarbro
 
 Current TN Senate District 21 (TN State Senate District 21).
+
+Represents [TN State Senate District 21](/us/states/tn/districts/senate/21.md).
 
 ## Sources
 

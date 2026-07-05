@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 7"
+represents: "us/states/az/districts/house/7"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Walt Blackman
 
 Current AZ House District 7 (AZ State House of Representatives District 7).
+
+Represents [AZ State House of Representatives District 7](/us/states/az/districts/house/7.md).
 
 ## Sources
 

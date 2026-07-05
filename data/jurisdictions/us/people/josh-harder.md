@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 9"
+represents: "us/states/ca/districts/09"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Josh Harder
 
 Current U.S. House of Representatives - CA-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/ca/districts/09.md).
 
 ## Committees
 

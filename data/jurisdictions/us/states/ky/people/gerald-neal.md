@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 33"
+represents: "us/states/ky/districts/senate/33"
 tenure:
   start: "1989-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerald Neal
 
 Current KY Senate District 33 (KY State Senate District 33).
+
+Represents [KY State Senate District 33](/us/states/ky/districts/senate/33.md).
 
 ## Sources
 

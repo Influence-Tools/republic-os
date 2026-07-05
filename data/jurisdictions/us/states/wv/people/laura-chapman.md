@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 1"
+represents: "us/states/wv/districts/senate/1"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Chapman
 
 Current WV Senate District 1 (WV State Senate District 1).
+
+Represents [WV State Senate District 1](/us/states/wv/districts/senate/1.md).
 
 ## Sources
 

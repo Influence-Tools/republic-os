@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Lamoille-2"
+represents: "us/states/vt/districts/house/lamoille-2"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Noyes
 
 Current VT House District Lamoille-2 (VT State House of Representatives District Lamoille-2).
+
+Represents [VT State House of Representatives District Lamoille-2](/us/states/vt/districts/house/lamoille-2.md).
 
 ## Sources
 

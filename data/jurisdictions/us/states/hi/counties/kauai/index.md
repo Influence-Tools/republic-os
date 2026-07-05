@@ -22,9 +22,27 @@ demographics:
   race_native: 146
   hispanic: 7804
   bachelors_plus: 21597
+districts:
+  - to: "us/states/hi/districts/02"
+    rel: in-district
+    area_weight: 0.4937
+  - to: "us/states/hi/districts/senate/8"
+    rel: in-district
+    area_weight: 0.4972
+  - to: "us/states/hi/districts/house/17"
+    rel: in-district
+    area_weight: 0.2699
+  - to: "us/states/hi/districts/house/15"
+    rel: in-district
+    area_weight: 0.1482
+  - to: "us/states/hi/districts/house/16"
+    rel: in-district
+    area_weight: 0.0791
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, hi]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 7804 |
 | Bachelor's or higher | 21597 |
 
+## Districts
+
+- [HI-02](/us/states/hi/districts/02.md) — 49% (congressional)
+- [HI Senate District 8](/us/states/hi/districts/senate/8.md) — 50% (state senate)
+- [HI House District 17](/us/states/hi/districts/house/17.md) — 27% (state house)
+- [HI House District 15](/us/states/hi/districts/house/15.md) — 15% (state house)
+- [HI House District 16](/us/states/hi/districts/house/16.md) — 8% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

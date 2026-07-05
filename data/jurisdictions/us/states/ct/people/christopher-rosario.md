@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 128"
+represents: "us/states/ct/districts/house/128"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christopher Rosario
 
 Current CT House District 128 (CT State House of Representatives District 128).
+
+Represents [CT State House of Representatives District 128](/us/states/ct/districts/house/128.md).
 
 ## Sources
 

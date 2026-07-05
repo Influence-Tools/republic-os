@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 79"
+represents: "us/states/pa/districts/house/79"
 tenure:
   start: "2026-04-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea Verobish
 
 Current PA House District 79 (PA State House of Representatives District 79).
+
+Represents [PA State House of Representatives District 79](/us/states/pa/districts/house/79.md).
 
 ## Sources
 

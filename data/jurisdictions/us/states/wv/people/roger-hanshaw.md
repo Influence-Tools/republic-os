@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 62"
+represents: "us/states/wv/districts/house/62"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Hanshaw
 
 Current WV House District 62 (WV State House of Representatives District 62).
+
+Represents [WV State House of Representatives District 62](/us/states/wv/districts/house/62.md).
 
 ## Sources
 

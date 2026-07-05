@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 30th Middlesex"
+represents: "us/states/ma/districts/house/30th-middlesex"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rich Haggerty
 
 Current MA House District 30th Middlesex (MA State House of Representatives District 30th Middlesex).
+
+Represents [MA State House of Representatives District 30th Middlesex](/us/states/ma/districts/house/30th-middlesex.md).
 
 ## Sources
 

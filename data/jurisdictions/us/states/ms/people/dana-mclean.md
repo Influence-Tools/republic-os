@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 39"
+represents: "us/states/ms/districts/house/39"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dana McLean
 
 Current MS House District 39 (MS State House of Representatives District 39).
+
+Represents [MS State House of Representatives District 39](/us/states/ms/districts/house/39.md).
 
 ## Sources
 

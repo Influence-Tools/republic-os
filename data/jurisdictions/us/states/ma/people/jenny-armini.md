@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 8th Essex"
+represents: "us/states/ma/districts/house/8th-essex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jenny Armini
 
 Current MA House District 8th Essex (MA State House of Representatives District 8th Essex).
+
+Represents [MA State House of Representatives District 8th Essex](/us/states/ma/districts/house/8th-essex.md).
 
 ## Sources
 

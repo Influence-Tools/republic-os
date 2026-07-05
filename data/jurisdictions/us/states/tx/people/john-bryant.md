@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 114"
+represents: "us/states/tx/districts/house/114"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Bryant
 
 Current TX House District 114 (TX State House of Representatives District 114).
+
+Represents [TX State House of Representatives District 114](/us/states/tx/districts/house/114.md).
 
 ## Sources
 

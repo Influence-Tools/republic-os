@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 40"
+represents: "us/states/mt/districts/house/40"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Vinton
 
 Current MT House District 40 (MT State House of Representatives District 40).
+
+Represents [MT State House of Representatives District 40](/us/states/mt/districts/house/40.md).
 
 ## Sources
 

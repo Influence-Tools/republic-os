@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 25"
+represents: "us/states/nd/districts/house/25"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alisa Mitskog
 
 Current ND House District 25 (ND State House of Representatives District 25).
+
+Represents [ND State House of Representatives District 25](/us/states/nd/districts/house/25.md).
 
 ## Sources
 

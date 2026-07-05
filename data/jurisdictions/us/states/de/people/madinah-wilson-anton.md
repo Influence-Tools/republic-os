@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 26"
+represents: "us/states/de/districts/house/26"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Madinah Wilson-Anton
 
 Current DE House District 26 (DE State House of Representatives District 26).
+
+Represents [DE State House of Representatives District 26](/us/states/de/districts/house/26.md).
 
 ## Sources
 

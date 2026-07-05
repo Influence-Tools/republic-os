@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 48"
+represents: "us/states/ct/districts/house/48"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark DeCaprio
 
 Current CT House District 48 (CT State House of Representatives District 48).
+
+Represents [CT State House of Representatives District 48](/us/states/ct/districts/house/48.md).
 
 ## Sources
 

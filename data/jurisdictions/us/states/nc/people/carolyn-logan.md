@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 101"
+represents: "us/states/nc/districts/house/101"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carolyn Logan
 
 Current NC House District 101 (NC State House of Representatives District 101).
+
+Represents [NC State House of Representatives District 101](/us/states/nc/districts/house/101.md).
 
 ## Sources
 

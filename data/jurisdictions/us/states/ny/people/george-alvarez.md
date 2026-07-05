@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 78"
+represents: "us/states/ny/districts/house/78"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Alvarez
 
 Current NY House District 78 (NY State House of Representatives District 78).
+
+Represents [NY State House of Representatives District 78](/us/states/ny/districts/house/78.md).
 
 ## Sources
 

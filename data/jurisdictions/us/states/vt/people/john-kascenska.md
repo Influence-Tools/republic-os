@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Essex-Caledonia"
+represents: "us/states/vt/districts/house/essex-caledonia"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Kascenska
 
 Current VT House District Essex-Caledonia (VT State House of Representatives District Essex-Caledonia).
+
+Represents [VT State House of Representatives District Essex-Caledonia](/us/states/vt/districts/house/essex-caledonia.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 4B"
+represents: "us/states/nd/districts/house/4b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clayton Fegley
 
 Current ND House District 4B (ND State House of Representatives District 4B).
+
+Represents [ND State House of Representatives District 4B](/us/states/nd/districts/house/4b.md).
 
 ## Sources
 

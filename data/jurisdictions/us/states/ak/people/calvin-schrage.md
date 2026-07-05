@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 12"
+represents: "us/states/ak/districts/house/12"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Calvin Schrage
 
 Current AK House District 12 (AK State House of Representatives District 12).
+
+Represents [AK State House of Representatives District 12](/us/states/ak/districts/house/12.md).
 
 ## Sources
 

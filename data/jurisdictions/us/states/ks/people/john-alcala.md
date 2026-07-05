@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 57"
+represents: "us/states/ks/districts/house/57"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Alcala
 
 Current KS House District 57 (KS State House of Representatives District 57).
+
+Represents [KS State House of Representatives District 57](/us/states/ks/districts/house/57.md).
 
 ## Sources
 

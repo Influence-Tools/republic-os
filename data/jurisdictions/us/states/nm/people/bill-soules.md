@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 37"
+represents: "us/states/nm/districts/senate/37"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Soules
 
 Current NM Senate District 37 (NM State Senate District 37).
+
+Represents [NM State Senate District 37](/us/states/nm/districts/senate/37.md).
 
 ## Sources
 

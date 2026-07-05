@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 97"
+represents: "us/states/ky/districts/house/97"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby McCool
 
 Current KY House District 97 (KY State House of Representatives District 97).
+
+Represents [KY State House of Representatives District 97](/us/states/ky/districts/house/97.md).
 
 ## Sources
 

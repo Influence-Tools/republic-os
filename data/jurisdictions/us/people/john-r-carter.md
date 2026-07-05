@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 31"
+represents: "us/states/tx/districts/31"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # John R. Carter
 
 Current U.S. House of Representatives - TX-31 (Congressional District 31).
+
+Represents [Congressional District 31](/us/states/tx/districts/31.md).
 
 ## Committees
 

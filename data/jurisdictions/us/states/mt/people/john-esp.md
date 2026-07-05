@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 29"
+represents: "us/states/mt/districts/senate/29"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Esp
 
 Current MT Senate District 29 (MT State Senate District 29).
+
+Represents [MT State Senate District 29](/us/states/mt/districts/senate/29.md).
 
 ## Sources
 

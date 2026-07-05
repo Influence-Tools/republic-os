@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 38"
+represents: "us/states/sc/districts/senate/38"
 tenure:
   start: "2012-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Bennett
 
 Current SC Senate District 38 (SC State Senate District 38).
+
+Represents [SC State Senate District 38](/us/states/sc/districts/senate/38.md).
 
 ## Sources
 

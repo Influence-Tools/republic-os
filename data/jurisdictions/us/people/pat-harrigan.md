@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 10"
+represents: "us/states/nc/districts/10"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Pat Harrigan
 
 Current U.S. House of Representatives - NC-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/nc/districts/10.md).
 
 ## Committees
 

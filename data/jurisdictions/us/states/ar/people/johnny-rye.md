@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 36"
+represents: "us/states/ar/districts/house/36"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny Rye
 
 Current AR House District 36 (AR State House of Representatives District 36).
+
+Represents [AR State House of Representatives District 36](/us/states/ar/districts/house/36.md).
 
 ## Sources
 

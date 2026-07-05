@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 102"
+represents: "us/states/ms/districts/house/102"
 tenure:
   start: "2017-10-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Missy McGee
 
 Current MS House District 102 (MS State House of Representatives District 102).
+
+Represents [MS State House of Representatives District 102](/us/states/ms/districts/house/102.md).
 
 ## Sources
 

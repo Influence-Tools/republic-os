@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 98"
+represents: "us/states/tn/districts/house/98"
 tenure:
   start: "2011-03-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Antonio Parkinson
 
 Current TN House District 98 (TN State House of Representatives District 98).
+
+Represents [TN State House of Representatives District 98](/us/states/tn/districts/house/98.md).
 
 ## Sources
 

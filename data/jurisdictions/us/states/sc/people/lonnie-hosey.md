@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 91"
+represents: "us/states/sc/districts/house/91"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lonnie Hosey
 
 Current SC House District 91 (SC State House of Representatives District 91).
+
+Represents [SC State House of Representatives District 91](/us/states/sc/districts/house/91.md).
 
 ## Sources
 

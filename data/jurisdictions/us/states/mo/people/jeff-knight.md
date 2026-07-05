@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 142"
+represents: "us/states/mo/districts/house/142"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Knight
 
 Current MO House District 142 (MO State House of Representatives District 142).
+
+Represents [MO State House of Representatives District 142](/us/states/mo/districts/house/142.md).
 
 ## Sources
 

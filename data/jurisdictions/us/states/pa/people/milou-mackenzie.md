@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 131"
+represents: "us/states/pa/districts/house/131"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Milou Mackenzie
 
 Current PA House District 131 (PA State House of Representatives District 131).
+
+Represents [PA State House of Representatives District 131](/us/states/pa/districts/house/131.md).
 
 ## Sources
 

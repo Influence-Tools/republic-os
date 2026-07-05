@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 8"
+represents: "us/states/ga/districts/senate/8"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russ Goodman
 
 Current GA Senate District 8 (GA State Senate District 8).
+
+Represents [GA State Senate District 8](/us/states/ga/districts/senate/8.md).
 
 ## Sources
 

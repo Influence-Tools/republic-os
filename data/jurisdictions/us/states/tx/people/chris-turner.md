@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 101"
+represents: "us/states/tx/districts/house/101"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Turner
 
 Current TX House District 101 (TX State House of Representatives District 101).
+
+Represents [TX State House of Representatives District 101](/us/states/tx/districts/house/101.md).
 
 ## Sources
 

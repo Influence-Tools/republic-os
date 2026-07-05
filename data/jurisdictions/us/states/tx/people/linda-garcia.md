@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 107"
+represents: "us/states/tx/districts/house/107"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Garcia
 
 Current TX House District 107 (TX State House of Representatives District 107).
+
+Represents [TX State House of Representatives District 107](/us/states/tx/districts/house/107.md).
 
 ## Sources
 

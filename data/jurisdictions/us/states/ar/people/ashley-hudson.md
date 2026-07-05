@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 75"
+represents: "us/states/ar/districts/house/75"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ashley Hudson
 
 Current AR House District 75 (AR State House of Representatives District 75).
+
+Represents [AR State House of Representatives District 75](/us/states/ar/districts/house/75.md).
 
 ## Sources
 

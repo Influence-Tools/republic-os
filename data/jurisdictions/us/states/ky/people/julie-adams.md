@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 36"
+represents: "us/states/ky/districts/senate/36"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Adams
 
 Current KY Senate District 36 (KY State Senate District 36).
+
+Represents [KY State Senate District 36](/us/states/ky/districts/senate/36.md).
 
 ## Sources
 

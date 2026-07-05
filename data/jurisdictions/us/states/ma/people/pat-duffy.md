@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 5th Hampden"
+represents: "us/states/ma/districts/house/5th-hampden"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Duffy
 
 Current MA House District 5th Hampden (MA State House of Representatives District 5th Hampden).
+
+Represents [MA State House of Representatives District 5th Hampden](/us/states/ma/districts/house/5th-hampden.md).
 
 ## Sources
 

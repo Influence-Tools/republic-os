@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 109"
+represents: "us/states/ms/districts/house/109"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Manly Barton
 
 Current MS House District 109 (MS State House of Representatives District 109).
+
+Represents [MS State House of Representatives District 109](/us/states/ms/districts/house/109.md).
 
 ## Sources
 

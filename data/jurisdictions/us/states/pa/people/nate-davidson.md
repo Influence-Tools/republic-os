@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 103"
+represents: "us/states/pa/districts/house/103"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nate Davidson
 
 Current PA House District 103 (PA State House of Representatives District 103).
+
+Represents [PA State House of Representatives District 103](/us/states/pa/districts/house/103.md).
 
 ## Sources
 

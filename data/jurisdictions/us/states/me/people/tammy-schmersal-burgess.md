@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 77"
+represents: "us/states/me/districts/house/77"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tammy Schmersal-Burgess
 
 Current ME House District 77 (ME State House of Representatives District 77).
+
+Represents [ME State House of Representatives District 77](/us/states/me/districts/house/77.md).
 
 ## Sources
 

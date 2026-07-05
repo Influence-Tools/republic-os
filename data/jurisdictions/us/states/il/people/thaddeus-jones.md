@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 29"
+represents: "us/states/il/districts/house/29"
 tenure:
   start: "2011-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thaddeus Jones
 
 Current IL House District 29 (IL State House of Representatives District 29).
+
+Represents [IL State House of Representatives District 29](/us/states/il/districts/house/29.md).
 
 ## Sources
 

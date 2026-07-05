@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 13"
+represents: "us/states/co/districts/senate/13"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Bright
 
 Current CO Senate District 13 (CO State Senate District 13).
+
+Represents [CO State Senate District 13](/us/states/co/districts/senate/13.md).
 
 ## Sources
 

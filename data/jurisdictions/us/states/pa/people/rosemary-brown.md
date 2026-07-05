@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 40"
+represents: "us/states/pa/districts/senate/40"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rosemary Brown
 
 Current PA Senate District 40 (PA State Senate District 40).
+
+Represents [PA State Senate District 40](/us/states/pa/districts/senate/40.md).
 
 ## Sources
 

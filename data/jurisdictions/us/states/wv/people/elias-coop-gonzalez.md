@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 67"
+represents: "us/states/wv/districts/house/67"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elías Coop-González
 
 Current WV House District 67 (WV State House of Representatives District 67).
+
+Represents [WV State House of Representatives District 67](/us/states/wv/districts/house/67.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 142"
+represents: "us/states/pa/districts/house/142"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Hogan
 
 Current PA House District 142 (PA State House of Representatives District 142).
+
+Represents [PA State House of Representatives District 142](/us/states/pa/districts/house/142.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 23"
+represents: "us/states/co/districts/house/23"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Monica Duran
 
 Current CO House District 23 (CO State House of Representatives District 23).
+
+Represents [CO State House of Representatives District 23](/us/states/co/districts/house/23.md).
 
 ## Sources
 

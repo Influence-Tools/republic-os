@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 83"
+represents: "us/states/oh/districts/house/83"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ty Mathews
 
 Current OH House District 83 (OH State House of Representatives District 83).
+
+Represents [OH State House of Representatives District 83](/us/states/oh/districts/house/83.md).
 
 ## Sources
 

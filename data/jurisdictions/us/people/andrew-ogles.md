@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TN"
 district: "Congressional District 5"
+represents: "us/states/tn/districts/05"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Andrew Ogles
 
 Current U.S. House of Representatives - TN-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/tn/districts/05.md).
 
 ## Committees
 

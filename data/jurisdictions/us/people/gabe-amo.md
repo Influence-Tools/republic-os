@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "RI"
 district: "Congressional District 1"
+represents: "us/states/ri/districts/01"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Gabe Amo
 
 Current U.S. House of Representatives - RI-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ri/districts/01.md).
 
 ## Committees
 

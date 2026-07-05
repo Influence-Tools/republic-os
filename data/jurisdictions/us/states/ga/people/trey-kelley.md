@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 16"
+represents: "us/states/ga/districts/house/16"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Kelley
 
 Current GA House District 16 (GA State House of Representatives District 16).
+
+Represents [GA State House of Representatives District 16](/us/states/ga/districts/house/16.md).
 
 ## Sources
 

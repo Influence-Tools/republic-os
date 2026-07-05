@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 24"
+represents: "us/states/sd/districts/house/24"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Mortenson
 
 Current SD House District 24 (SD State House of Representatives District 24).
+
+Represents [SD State House of Representatives District 24](/us/states/sd/districts/house/24.md).
 
 ## Sources
 

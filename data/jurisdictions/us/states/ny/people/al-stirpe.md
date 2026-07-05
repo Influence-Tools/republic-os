@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 127"
+represents: "us/states/ny/districts/house/127"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Stirpe
 
 Current NY House District 127 (NY State House of Representatives District 127).
+
+Represents [NY State House of Representatives District 127](/us/states/ny/districts/house/127.md).
 
 ## Sources
 

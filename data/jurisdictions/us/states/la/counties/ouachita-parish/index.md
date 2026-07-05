@@ -22,9 +22,45 @@ demographics:
   race_native: 322
   hispanic: 5878
   bachelors_plus: 41597
+districts:
+  - to: "us/states/la/districts/04"
+    rel: in-district
+    area_weight: 0.5906
+  - to: "us/states/la/districts/05"
+    rel: in-district
+    area_weight: 0.4094
+  - to: "us/states/la/districts/senate/33"
+    rel: in-district
+    area_weight: 0.3133
+  - to: "us/states/la/districts/senate/34"
+    rel: in-district
+    area_weight: 0.26
+  - to: "us/states/la/districts/senate/35"
+    rel: in-district
+    area_weight: 0.2571
+  - to: "us/states/la/districts/senate/32"
+    rel: in-district
+    area_weight: 0.1696
+  - to: "us/states/la/districts/house/15"
+    rel: in-district
+    area_weight: 0.3656
+  - to: "us/states/la/districts/house/14"
+    rel: in-district
+    area_weight: 0.2267
+  - to: "us/states/la/districts/house/20"
+    rel: in-district
+    area_weight: 0.2033
+  - to: "us/states/la/districts/house/17"
+    rel: in-district
+    area_weight: 0.1305
+  - to: "us/states/la/districts/house/16"
+    rel: in-district
+    area_weight: 0.0737
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, la]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 5878 |
 | Bachelor's or higher | 41597 |
 
+## Districts
+
+- [LA-04](/us/states/la/districts/04.md) — 59% (congressional)
+- [LA-05](/us/states/la/districts/05.md) — 41% (congressional)
+- [LA Senate District 33](/us/states/la/districts/senate/33.md) — 31% (state senate)
+- [LA Senate District 34](/us/states/la/districts/senate/34.md) — 26% (state senate)
+- [LA Senate District 35](/us/states/la/districts/senate/35.md) — 26% (state senate)
+- [LA Senate District 32](/us/states/la/districts/senate/32.md) — 17% (state senate)
+- [LA House District 15](/us/states/la/districts/house/15.md) — 37% (state house)
+- [LA House District 14](/us/states/la/districts/house/14.md) — 23% (state house)
+- [LA House District 20](/us/states/la/districts/house/20.md) — 20% (state house)
+- [LA House District 17](/us/states/la/districts/house/17.md) — 13% (state house)
+- [LA House District 16](/us/states/la/districts/house/16.md) — 7% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

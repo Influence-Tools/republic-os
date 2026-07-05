@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 30"
+represents: "us/states/il/districts/senate/30"
 tenure:
   start: "2020-10-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adriane Johnson
 
 Current IL Senate District 30 (IL State Senate District 30).
+
+Represents [IL State Senate District 30](/us/states/il/districts/senate/30.md).
 
 ## Sources
 

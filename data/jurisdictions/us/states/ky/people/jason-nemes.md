@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 33"
+represents: "us/states/ky/districts/house/33"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Nemes
 
 Current KY House District 33 (KY State House of Representatives District 33).
+
+Represents [KY State House of Representatives District 33](/us/states/ky/districts/house/33.md).
 
 ## Sources
 

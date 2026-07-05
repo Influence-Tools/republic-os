@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 176"
+represents: "us/states/ga/districts/house/176"
 tenure:
   start: "2019-03-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Burchett
 
 Current GA House District 176 (GA State House of Representatives District 176).
+
+Represents [GA State House of Representatives District 176](/us/states/ga/districts/house/176.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 1A"
+represents: "us/states/mn/districts/house/1a"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Burkel
 
 Current MN House District 1A (MN State House of Representatives District 1A).
+
+Represents [MN State House of Representatives District 1A](/us/states/mn/districts/house/1a.md).
 
 ## Sources
 

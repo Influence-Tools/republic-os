@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 4"
+represents: "us/states/pr/districts/house/4"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Víctor Parés
 
 Current PR House District 4 (PR State House of Representatives District 4).
+
+Represents [PR State House of Representatives District 4](/us/states/pr/districts/house/4.md).
 
 ## Sources
 

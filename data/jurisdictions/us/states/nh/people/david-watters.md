@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 4"
+represents: "us/states/nh/districts/senate/4"
 tenure:
   start: "2012-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Watters
 
 Current NH Senate District 4 (NH State Senate District 4).
+
+Represents [NH State Senate District 4](/us/states/nh/districts/senate/4.md).
 
 ## Sources
 

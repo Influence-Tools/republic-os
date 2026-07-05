@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 34"
+represents: "us/states/la/districts/house/34"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wilford Carter
 
 Current LA House District 34 (LA State House of Representatives District 34).
+
+Represents [LA State House of Representatives District 34](/us/states/la/districts/house/34.md).
 
 ## Sources
 

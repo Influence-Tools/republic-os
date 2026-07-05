@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 51"
+represents: "us/states/ny/districts/senate/51"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Oberacker
 
 Current NY Senate District 51 (NY State Senate District 51).
+
+Represents [NY State Senate District 51](/us/states/ny/districts/senate/51.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 24"
+represents: "us/states/ky/districts/house/24"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Bivens
 
 Current KY House District 24 (KY State House of Representatives District 24).
+
+Represents [KY State House of Representatives District 24](/us/states/ky/districts/house/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 10"
+represents: "us/states/in/districts/house/10"
 tenure:
   start: "2008-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Moseley
 
 Current IN House District 10 (IN State House of Representatives District 10).
+
+Represents [IN State House of Representatives District 10](/us/states/in/districts/house/10.md).
 
 ## Sources
 

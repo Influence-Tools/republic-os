@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 52"
+represents: "us/states/ia/districts/house/52"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Blom
 
 Current IA House District 52 (IA State House of Representatives District 52).
+
+Represents [IA State House of Representatives District 52](/us/states/ia/districts/house/52.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 23"
+represents: "us/states/sc/districts/senate/23"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carlisle Kennedy
 
 Current SC Senate District 23 (SC State Senate District 23).
+
+Represents [SC State Senate District 23](/us/states/sc/districts/senate/23.md).
 
 ## Sources
 

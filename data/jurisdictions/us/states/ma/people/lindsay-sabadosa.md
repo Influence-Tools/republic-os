@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Hampshire"
+represents: "us/states/ma/districts/house/1st-hampshire"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsay Sabadosa
 
 Current MA House District 1st Hampshire (MA State House of Representatives District 1st Hampshire).
+
+Represents [MA State House of Representatives District 1st Hampshire](/us/states/ma/districts/house/1st-hampshire.md).
 
 ## Sources
 

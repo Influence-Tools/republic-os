@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 23"
+represents: "us/states/id/districts/senate/23"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Lakey
 
 Current ID Senate District 23 (ID State Senate District 23).
+
+Represents [ID State Senate District 23](/us/states/id/districts/senate/23.md).
 
 ## Sources
 

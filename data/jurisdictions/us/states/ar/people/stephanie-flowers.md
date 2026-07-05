@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 8"
+represents: "us/states/ar/districts/senate/8"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Flowers
 
 Current AR Senate District 8 (AR State Senate District 8).
+
+Represents [AR State Senate District 8](/us/states/ar/districts/senate/8.md).
 
 ## Sources
 

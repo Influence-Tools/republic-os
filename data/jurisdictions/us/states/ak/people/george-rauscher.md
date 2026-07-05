@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District O"
+represents: "us/states/ak/districts/senate/o"
 tenure:
   start: "2025-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Rauscher
 
 Current AK Senate District O (AK State Senate District O).
+
+Represents [AK State Senate District O](/us/states/ak/districts/senate/o.md).
 
 ## Sources
 

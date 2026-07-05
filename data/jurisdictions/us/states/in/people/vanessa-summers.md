@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 99"
+represents: "us/states/in/districts/house/99"
 tenure:
   start: "1991-06-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vanessa Summers
 
 Current IN House District 99 (IN State House of Representatives District 99).
+
+Represents [IN State House of Representatives District 99](/us/states/in/districts/house/99.md).
 
 ## Sources
 

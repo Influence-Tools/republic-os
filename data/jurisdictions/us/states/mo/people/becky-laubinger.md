@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 117"
+represents: "us/states/mo/districts/house/117"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Laubinger
 
 Current MO House District 117 (MO State House of Representatives District 117).
+
+Represents [MO State House of Representatives District 117](/us/states/mo/districts/house/117.md).
 
 ## Sources
 

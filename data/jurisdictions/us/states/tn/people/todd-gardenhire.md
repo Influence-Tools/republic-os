@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 10"
+represents: "us/states/tn/districts/senate/10"
 tenure:
   start: "2012-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Gardenhire
 
 Current TN Senate District 10 (TN State Senate District 10).
+
+Represents [TN State Senate District 10](/us/states/tn/districts/senate/10.md).
 
 ## Sources
 

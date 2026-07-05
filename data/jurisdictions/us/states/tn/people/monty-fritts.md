@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 32"
+represents: "us/states/tn/districts/house/32"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Monty Fritts
 
 Current TN House District 32 (TN State House of Representatives District 32).
+
+Represents [TN State House of Representatives District 32](/us/states/tn/districts/house/32.md).
 
 ## Sources
 

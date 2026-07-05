@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 17"
+represents: "us/states/va/districts/senate/17"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Jordan
 
 Current VA Senate District 17 (VA State Senate District 17).
+
+Represents [VA State Senate District 17](/us/states/va/districts/senate/17.md).
 
 ## Sources
 

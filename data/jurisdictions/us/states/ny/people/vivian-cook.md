@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 32"
+represents: "us/states/ny/districts/house/32"
 tenure:
   start: "1991-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vivian Cook
 
 Current NY House District 32 (NY State House of Representatives District 32).
+
+Represents [NY State House of Representatives District 32](/us/states/ny/districts/house/32.md).
 
 ## Sources
 

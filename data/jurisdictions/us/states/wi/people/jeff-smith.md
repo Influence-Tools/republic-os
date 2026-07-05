@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 31"
+represents: "us/states/wi/districts/senate/31"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Smith
 
 Current WI Senate District 31 (WI State Senate District 31).
+
+Represents [WI State Senate District 31](/us/states/wi/districts/senate/31.md).
 
 ## Sources
 

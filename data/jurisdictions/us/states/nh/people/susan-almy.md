@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 17"
+represents: "us/states/nh/districts/house/grafton-17"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Almy
 
 Current NH House District Grafton 17 (NH State House of Representatives District Grafton 17).
+
+Represents [NH State House of Representatives District Grafton 17](/us/states/nh/districts/house/grafton-17.md).
 
 ## Sources
 

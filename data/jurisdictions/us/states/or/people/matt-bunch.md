@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 51"
+represents: "us/states/or/districts/house/51"
 tenure:
   start: "2025-11-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Bunch
 
 Current OR House District 51 (OR State House of Representatives District 51).
+
+Represents [OR State House of Representatives District 51](/us/states/or/districts/house/51.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 21"
+represents: "us/states/de/districts/house/21"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Burns
 
 Current DE House District 21 (DE State House of Representatives District 21).
+
+Represents [DE State House of Representatives District 21](/us/states/de/districts/house/21.md).
 
 ## Sources
 

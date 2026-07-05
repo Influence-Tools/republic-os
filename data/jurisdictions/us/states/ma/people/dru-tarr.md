@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 5th Essex"
+represents: "us/states/ma/districts/house/5th-essex"
 tenure:
   start: "2026-04-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dru Tarr
 
 Current MA House District 5th Essex (MA State House of Representatives District 5th Essex).
+
+Represents [MA State House of Representatives District 5th Essex](/us/states/ma/districts/house/5th-essex.md).
 
 ## Sources
 

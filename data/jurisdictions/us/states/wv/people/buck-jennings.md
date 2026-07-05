@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 84"
+represents: "us/states/wv/districts/house/84"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Buck Jennings
 
 Current WV House District 84 (WV State House of Representatives District 84).
+
+Represents [WV State House of Representatives District 84](/us/states/wv/districts/house/84.md).
 
 ## Sources
 

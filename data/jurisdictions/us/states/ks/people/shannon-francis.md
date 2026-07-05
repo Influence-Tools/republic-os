@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 125"
+represents: "us/states/ks/districts/house/125"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shannon Francis
 
 Current KS House District 125 (KS State House of Representatives District 125).
+
+Represents [KS State House of Representatives District 125](/us/states/ks/districts/house/125.md).
 
 ## Sources
 

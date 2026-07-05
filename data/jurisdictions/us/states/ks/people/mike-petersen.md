@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 28"
+represents: "us/states/ks/districts/senate/28"
 tenure:
   start: "2005-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Petersen
 
 Current KS Senate District 28 (KS State Senate District 28).
+
+Represents [KS State Senate District 28](/us/states/ks/districts/senate/28.md).
 
 ## Sources
 

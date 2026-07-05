@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 59"
+represents: "us/states/il/districts/house/59"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Didech
 
 Current IL House District 59 (IL State House of Representatives District 59).
+
+Represents [IL State House of Representatives District 59](/us/states/il/districts/house/59.md).
 
 ## Sources
 

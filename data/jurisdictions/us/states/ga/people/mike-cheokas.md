@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 151"
+represents: "us/states/ga/districts/house/151"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Cheokas
 
 Current GA House District 151 (GA State House of Representatives District 151).
+
+Represents [GA State House of Representatives District 151](/us/states/ga/districts/house/151.md).
 
 ## Sources
 

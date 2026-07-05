@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Addison"
+represents: "us/states/vt/districts/senate/addison"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ruth Hardy
 
 Current VT Senate District Addison (VT State Senate District Addison).
+
+Represents [VT State Senate District Addison](/us/states/vt/districts/senate/addison.md).
 
 ## Sources
 

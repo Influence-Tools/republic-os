@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 82"
+represents: "us/states/il/districts/house/82"
 tenure:
   start: "2023-12-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole La Ha
 
 Current IL House District 82 (IL State House of Representatives District 82).
+
+Represents [IL State House of Representatives District 82](/us/states/il/districts/house/82.md).
 
 ## Sources
 

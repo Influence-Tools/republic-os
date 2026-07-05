@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 26"
+represents: "us/states/tn/districts/house/26"
 tenure:
   start: "2022-04-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Martin
 
 Current TN House District 26 (TN State House of Representatives District 26).
+
+Represents [TN State House of Representatives District 26](/us/states/tn/districts/house/26.md).
 
 ## Sources
 

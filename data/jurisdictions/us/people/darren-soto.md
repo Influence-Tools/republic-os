@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 9"
+represents: "us/states/fl/districts/09"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Darren Soto
 
 Current U.S. House of Representatives - FL-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/fl/districts/09.md).
 
 ## Committees
 

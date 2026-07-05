@@ -22,9 +22,39 @@ demographics:
   race_native: 50
   hispanic: 1631
   bachelors_plus: 28564
+districts:
+  - to: "us/states/wv/districts/01"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/wv/districts/senate/4"
+    rel: in-district
+    area_weight: 0.5678
+  - to: "us/states/wv/districts/senate/5"
+    rel: in-district
+    area_weight: 0.4317
+  - to: "us/states/wv/districts/house/22"
+    rel: in-district
+    area_weight: 0.5009
+  - to: "us/states/wv/districts/house/23"
+    rel: in-district
+    area_weight: 0.2598
+  - to: "us/states/wv/districts/house/26"
+    rel: in-district
+    area_weight: 0.0945
+  - to: "us/states/wv/districts/house/24"
+    rel: in-district
+    area_weight: 0.0734
+  - to: "us/states/wv/districts/house/27"
+    rel: in-district
+    area_weight: 0.0551
+  - to: "us/states/wv/districts/house/25"
+    rel: in-district
+    area_weight: 0.0156
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wv]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 1631 |
 | Bachelor's or higher | 28564 |
 
+## Districts
+
+- [WV-01](/us/states/wv/districts/01.md) — 100% (congressional)
+- [WV Senate District 4](/us/states/wv/districts/senate/4.md) — 57% (state senate)
+- [WV Senate District 5](/us/states/wv/districts/senate/5.md) — 43% (state senate)
+- [WV House District 22](/us/states/wv/districts/house/22.md) — 50% (state house)
+- [WV House District 23](/us/states/wv/districts/house/23.md) — 26% (state house)
+- [WV House District 26](/us/states/wv/districts/house/26.md) — 9% (state house)
+- [WV House District 24](/us/states/wv/districts/house/24.md) — 7% (state house)
+- [WV House District 27](/us/states/wv/districts/house/27.md) — 6% (state house)
+- [WV House District 25](/us/states/wv/districts/house/25.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

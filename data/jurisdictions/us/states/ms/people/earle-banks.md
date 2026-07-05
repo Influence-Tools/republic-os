@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 67"
+represents: "us/states/ms/districts/house/67"
 tenure:
   start: "1993-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Earle Banks
 
 Current MS House District 67 (MS State House of Representatives District 67).
+
+Represents [MS State House of Representatives District 67](/us/states/ms/districts/house/67.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 57"
+represents: "us/states/or/districts/house/57"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Smith
 
 Current OR House District 57 (OR State House of Representatives District 57).
+
+Represents [OR State House of Representatives District 57](/us/states/or/districts/house/57.md).
 
 ## Sources
 

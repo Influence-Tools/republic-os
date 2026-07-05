@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 101"
+represents: "us/states/la/districts/house/101"
 tenure:
   start: "2022-04-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vanessa LaFleur
 
 Current LA House District 101 (LA State House of Representatives District 101).
+
+Represents [LA State House of Representatives District 101](/us/states/la/districts/house/101.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 23"
+represents: "us/states/ny/districts/senate/23"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica Scarcella-Spanton
 
 Current NY Senate District 23 (NY State Senate District 23).
+
+Represents [NY State Senate District 23](/us/states/ny/districts/senate/23.md).
 
 ## Sources
 

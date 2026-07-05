@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 66"
+represents: "us/states/ok/districts/house/66"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clay Staires
 
 Current OK House District 66 (OK State House of Representatives District 66).
+
+Represents [OK State House of Representatives District 66](/us/states/ok/districts/house/66.md).
 
 ## Sources
 

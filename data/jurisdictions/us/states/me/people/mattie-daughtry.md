@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 23"
+represents: "us/states/me/districts/senate/23"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mattie Daughtry
 
 Current ME Senate District 23 (ME State Senate District 23).
+
+Represents [ME State Senate District 23](/us/states/me/districts/senate/23.md).
 
 ## Sources
 

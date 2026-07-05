@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Second Essex"
+represents: "us/states/ma/districts/senate/second-essex"
 tenure:
   start: "2013-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joan Lovely
 
 Current MA Senate District Second Essex (MA State Senate District Second Essex).
+
+Represents [MA State Senate District Second Essex](/us/states/ma/districts/senate/second-essex.md).
 
 ## Sources
 

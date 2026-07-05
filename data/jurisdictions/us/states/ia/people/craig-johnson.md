@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 67"
+represents: "us/states/ia/districts/house/67"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Johnson
 
 Current IA House District 67 (IA State House of Representatives District 67).
+
+Represents [IA State House of Representatives District 67](/us/states/ia/districts/house/67.md).
 
 ## Sources
 

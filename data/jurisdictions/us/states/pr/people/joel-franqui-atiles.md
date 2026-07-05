@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 15"
+represents: "us/states/pr/districts/house/15"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joel Franqui Atiles
 
 Current PR House District 15 (PR State House of Representatives District 15).
+
+Represents [PR State House of Representatives District 15](/us/states/pr/districts/house/15.md).
 
 ## Sources
 

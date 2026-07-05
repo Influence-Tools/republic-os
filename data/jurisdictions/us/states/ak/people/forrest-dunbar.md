@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District J"
+represents: "us/states/ak/districts/senate/j"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Forrest Dunbar
 
 Current AK Senate District J (AK State Senate District J).
+
+Represents [AK State Senate District J](/us/states/ak/districts/senate/j.md).
 
 ## Sources
 

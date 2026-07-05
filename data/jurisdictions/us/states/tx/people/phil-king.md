@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 10"
+represents: "us/states/tx/districts/senate/10"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil King
 
 Current TX Senate District 10 (TX State Senate District 10).
+
+Represents [TX State Senate District 10](/us/states/tx/districts/senate/10.md).
 
 ## Sources
 

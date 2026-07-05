@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 9"
+represents: "us/states/ia/districts/senate/9"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Shipley
 
 Current IA Senate District 9 (IA State Senate District 9).
+
+Represents [IA State Senate District 9](/us/states/ia/districts/senate/9.md).
 
 ## Sources
 

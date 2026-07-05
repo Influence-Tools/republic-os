@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 1"
+represents: "us/states/hi/districts/house/1"
 tenure:
   start: "2024-11-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthias Kusch
 
 Current HI House District 1 (HI State House of Representatives District 1).
+
+Represents [HI State House of Representatives District 1](/us/states/hi/districts/house/1.md).
 
 ## Sources
 

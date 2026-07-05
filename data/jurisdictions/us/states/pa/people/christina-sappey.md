@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 158"
+represents: "us/states/pa/districts/house/158"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christina Sappey
 
 Current PA House District 158 (PA State House of Representatives District 158).
+
+Represents [PA State House of Representatives District 158](/us/states/pa/districts/house/158.md).
 
 ## Sources
 

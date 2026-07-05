@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 16"
+represents: "us/states/md/districts/senate/16"
 tenure:
   start: "2024-06-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sara Love
 
 Current MD Senate District 16 (MD State Senate District 16).
+
+Represents [MD State Senate District 16](/us/states/md/districts/senate/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 28"
+represents: "us/states/ct/districts/house/28"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Morrin Bello
 
 Current CT House District 28 (CT State House of Representatives District 28).
+
+Represents [CT State House of Representatives District 28](/us/states/ct/districts/house/28.md).
 
 ## Sources
 

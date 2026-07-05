@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 110"
+represents: "us/states/ct/districts/house/110"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Godfrey
 
 Current CT House District 110 (CT State House of Representatives District 110).
+
+Represents [CT State House of Representatives District 110](/us/states/ct/districts/house/110.md).
 
 ## Sources
 

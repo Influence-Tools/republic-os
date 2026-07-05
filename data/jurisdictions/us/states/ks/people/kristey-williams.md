@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 77"
+represents: "us/states/ks/districts/house/77"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristey Williams
 
 Current KS House District 77 (KS State House of Representatives District 77).
+
+Represents [KS State House of Representatives District 77](/us/states/ks/districts/house/77.md).
 
 ## Sources
 

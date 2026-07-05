@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 163"
+represents: "us/states/pa/districts/house/163"
 tenure:
   start: "2023-06-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Boyd
 
 Current PA House District 163 (PA State House of Representatives District 163).
+
+Represents [PA State House of Representatives District 163](/us/states/pa/districts/house/163.md).
 
 ## Sources
 

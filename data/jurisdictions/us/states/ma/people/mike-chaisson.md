@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Bristol"
+represents: "us/states/ma/districts/house/1st-bristol"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Chaisson
 
 Current MA House District 1st Bristol (MA State House of Representatives District 1st Bristol).
+
+Represents [MA State House of Representatives District 1st Bristol](/us/states/ma/districts/house/1st-bristol.md).
 
 ## Sources
 

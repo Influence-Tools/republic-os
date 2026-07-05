@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Addison-3"
+represents: "us/states/vt/districts/house/addison-3"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Birong
 
 Current VT House District Addison-3 (VT State House of Representatives District Addison-3).
+
+Represents [VT State House of Representatives District Addison-3](/us/states/vt/districts/house/addison-3.md).
 
 ## Sources
 

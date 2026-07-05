@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 81"
+represents: "us/states/ms/districts/house/81"
 tenure:
   start: "2004-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Horne
 
 Current MS House District 81 (MS State House of Representatives District 81).
+
+Represents [MS State House of Representatives District 81](/us/states/ms/districts/house/81.md).
 
 ## Sources
 

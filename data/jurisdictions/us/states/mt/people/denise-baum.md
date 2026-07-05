@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 45"
+represents: "us/states/mt/districts/house/45"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Baum
 
 Current MT House District 45 (MT State House of Representatives District 45).
+
+Represents [MT State House of Representatives District 45](/us/states/mt/districts/house/45.md).
 
 ## Sources
 

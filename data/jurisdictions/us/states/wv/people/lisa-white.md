@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 96"
+represents: "us/states/wv/districts/house/96"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa White
 
 Current WV House District 96 (WV State House of Representatives District 96).
+
+Represents [WV State House of Representatives District 96](/us/states/wv/districts/house/96.md).
 
 ## Sources
 

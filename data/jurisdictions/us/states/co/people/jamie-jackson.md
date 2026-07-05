@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 41"
+represents: "us/states/co/districts/house/41"
 tenure:
   start: "2025-01-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Jackson
 
 Current CO House District 41 (CO State House of Representatives District 41).
+
+Represents [CO State House of Representatives District 41](/us/states/co/districts/house/41.md).
 
 ## Sources
 

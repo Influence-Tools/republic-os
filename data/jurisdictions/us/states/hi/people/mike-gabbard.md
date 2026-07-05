@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 21"
+represents: "us/states/hi/districts/senate/21"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Gabbard
 
 Current HI Senate District 21 (HI State Senate District 21).
+
+Represents [HI State Senate District 21](/us/states/hi/districts/senate/21.md).
 
 ## Sources
 

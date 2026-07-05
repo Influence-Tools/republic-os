@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 97"
+represents: "us/states/va/districts/house/97"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Feggans
 
 Current VA House District 97 (VA State House of Representatives District 97).
+
+Represents [VA State House of Representatives District 97](/us/states/va/districts/house/97.md).
 
 ## Sources
 

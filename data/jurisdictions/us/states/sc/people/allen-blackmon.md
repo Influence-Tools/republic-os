@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 27"
+represents: "us/states/sc/districts/senate/27"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Allen Blackmon
 
 Current SC Senate District 27 (SC State Senate District 27).
+
+Represents [SC State Senate District 27](/us/states/sc/districts/senate/27.md).
 
 ## Sources
 

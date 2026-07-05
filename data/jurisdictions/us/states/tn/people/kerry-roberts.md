@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 23"
+represents: "us/states/tn/districts/senate/23"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kerry Roberts
 
 Current TN Senate District 23 (TN State Senate District 23).
+
+Represents [TN State Senate District 23](/us/states/tn/districts/senate/23.md).
 
 ## Sources
 

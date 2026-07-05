@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 10"
+represents: "us/states/ia/districts/house/10"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Wills
 
 Current IA House District 10 (IA State House of Representatives District 10).
+
+Represents [IA State House of Representatives District 10](/us/states/ia/districts/house/10.md).
 
 ## Sources
 

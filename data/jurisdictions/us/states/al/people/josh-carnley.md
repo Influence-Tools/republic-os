@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 31"
+represents: "us/states/al/districts/senate/31"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Carnley
 
 Current AL Senate District 31 (AL State Senate District 31).
+
+Represents [AL State Senate District 31](/us/states/al/districts/senate/31.md).
 
 ## Sources
 

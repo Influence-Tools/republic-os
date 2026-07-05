@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 42"
+represents: "us/states/pa/districts/house/42"
 tenure:
   start: "2026-03-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jen Mazzocco
 
 Current PA House District 42 (PA State House of Representatives District 42).
+
+Represents [PA State House of Representatives District 42](/us/states/pa/districts/house/42.md).
 
 ## Sources
 

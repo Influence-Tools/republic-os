@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 110"
+represents: "us/states/tx/districts/house/110"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Toni Rose
 
 Current TX House District 110 (TX State House of Representatives District 110).
+
+Represents [TX State House of Representatives District 110](/us/states/tx/districts/house/110.md).
 
 ## Sources
 

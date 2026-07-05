@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 72"
+represents: "us/states/ok/districts/house/72"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle McCane
 
 Current OK House District 72 (OK State House of Representatives District 72).
+
+Represents [OK State House of Representatives District 72](/us/states/ok/districts/house/72.md).
 
 ## Sources
 

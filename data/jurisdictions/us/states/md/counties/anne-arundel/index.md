@@ -22,9 +22,63 @@ demographics:
   race_native: 3261
   hispanic: 62581
   bachelors_plus: 275283
+districts:
+  - to: "us/states/md/districts/03"
+    rel: in-district
+    area_weight: 0.4033
+  - to: "us/states/md/districts/05"
+    rel: in-district
+    area_weight: 0.369
+  - to: "us/states/md/districts/senate/30"
+    rel: in-district
+    area_weight: 0.2636
+  - to: "us/states/md/districts/senate/33"
+    rel: in-district
+    area_weight: 0.1924
+  - to: "us/states/md/districts/senate/31"
+    rel: in-district
+    area_weight: 0.1372
+  - to: "us/states/md/districts/senate/32"
+    rel: in-district
+    area_weight: 0.0919
+  - to: "us/states/md/districts/senate/21"
+    rel: in-district
+    area_weight: 0.0518
+  - to: "us/states/md/districts/senate/12"
+    rel: in-district
+    area_weight: 0.0276
+  - to: "us/states/md/districts/house/30b"
+    rel: in-district
+    area_weight: 0.192
+  - to: "us/states/md/districts/house/31"
+    rel: in-district
+    area_weight: 0.1372
+  - to: "us/states/md/districts/house/33b"
+    rel: in-district
+    area_weight: 0.127
+  - to: "us/states/md/districts/house/32"
+    rel: in-district
+    area_weight: 0.0919
+  - to: "us/states/md/districts/house/30a"
+    rel: in-district
+    area_weight: 0.0716
+  - to: "us/states/md/districts/house/21"
+    rel: in-district
+    area_weight: 0.0518
+  - to: "us/states/md/districts/house/33c"
+    rel: in-district
+    area_weight: 0.0438
+  - to: "us/states/md/districts/house/12b"
+    rel: in-district
+    area_weight: 0.0276
+  - to: "us/states/md/districts/house/33a"
+    rel: in-district
+    area_weight: 0.0216
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +110,27 @@ County jurisdiction.
 | Hispanic/Latino | 62581 |
 | Bachelor's or higher | 275283 |
 
+## Districts
+
+- [MD-03](/us/states/md/districts/03.md) — 40% (congressional)
+- [MD-05](/us/states/md/districts/05.md) — 37% (congressional)
+- [MD Senate District 30](/us/states/md/districts/senate/30.md) — 26% (state senate)
+- [MD Senate District 33](/us/states/md/districts/senate/33.md) — 19% (state senate)
+- [MD Senate District 31](/us/states/md/districts/senate/31.md) — 14% (state senate)
+- [MD Senate District 32](/us/states/md/districts/senate/32.md) — 9% (state senate)
+- [MD Senate District 21](/us/states/md/districts/senate/21.md) — 5% (state senate)
+- [MD Senate District 12](/us/states/md/districts/senate/12.md) — 3% (state senate)
+- [MD House District 30B](/us/states/md/districts/house/30b.md) — 19% (state house)
+- [MD House District 31](/us/states/md/districts/house/31.md) — 14% (state house)
+- [MD House District 33B](/us/states/md/districts/house/33b.md) — 13% (state house)
+- [MD House District 32](/us/states/md/districts/house/32.md) — 9% (state house)
+- [MD House District 30A](/us/states/md/districts/house/30a.md) — 7% (state house)
+- [MD House District 21](/us/states/md/districts/house/21.md) — 5% (state house)
+- [MD House District 33C](/us/states/md/districts/house/33c.md) — 4% (state house)
+- [MD House District 12B](/us/states/md/districts/house/12b.md) — 3% (state house)
+- [MD House District 33A](/us/states/md/districts/house/33a.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

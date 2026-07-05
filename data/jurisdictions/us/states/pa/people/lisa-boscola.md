@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 18"
+represents: "us/states/pa/districts/senate/18"
 tenure:
   start: "1999-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Boscola
 
 Current PA Senate District 18 (PA State Senate District 18).
+
+Represents [PA State Senate District 18](/us/states/pa/districts/senate/18.md).
 
 ## Sources
 

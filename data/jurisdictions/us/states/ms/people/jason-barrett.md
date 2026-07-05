@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 39"
+represents: "us/states/ms/districts/senate/39"
 tenure:
   start: "2020-10-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Barrett
 
 Current MS Senate District 39 (MS State Senate District 39).
+
+Represents [MS State Senate District 39](/us/states/ms/districts/senate/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 64"
+represents: "us/states/oh/districts/house/64"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Santucci
 
 Current OH House District 64 (OH State House of Representatives District 64).
+
+Represents [OH State House of Representatives District 64](/us/states/oh/districts/house/64.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 2"
+represents: "us/states/oh/districts/house/2"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Latyna Humphrey
 
 Current OH House District 2 (OH State House of Representatives District 2).
+
+Represents [OH State House of Representatives District 2](/us/states/oh/districts/house/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 4"
+represents: "us/states/wv/districts/senate/4"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Tarr
 
 Current WV Senate District 4 (WV State Senate District 4).
+
+Represents [WV State Senate District 4](/us/states/wv/districts/senate/4.md).
 
 ## Sources
 

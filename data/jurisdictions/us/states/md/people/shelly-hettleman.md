@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 11"
+represents: "us/states/md/districts/senate/11"
 tenure:
   start: "2020-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelly Hettleman
 
 Current MD Senate District 11 (MD State Senate District 11).
+
+Represents [MD State Senate District 11](/us/states/md/districts/senate/11.md).
 
 ## Sources
 

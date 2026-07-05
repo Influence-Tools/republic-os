@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 30"
+represents: "us/states/nh/districts/house/merrimack-30"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Woods
 
 Current NH House District Merrimack 30 (NH State House of Representatives District Merrimack 30).
+
+Represents [NH State House of Representatives District Merrimack 30](/us/states/nh/districts/house/merrimack-30.md).
 
 ## Sources
 

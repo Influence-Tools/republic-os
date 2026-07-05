@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 89"
+represents: "us/states/tx/districts/house/89"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Candy Noble
 
 Current TX House District 89 (TX State House of Representatives District 89).
+
+Represents [TX State House of Representatives District 89](/us/states/tx/districts/house/89.md).
 
 ## Sources
 

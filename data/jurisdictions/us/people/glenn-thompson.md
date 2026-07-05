@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 15"
+represents: "us/states/pa/districts/15"
 committees:
   - name: "House Committee on Agriculture"
     role: "chair"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Glenn Thompson
 
 Current U.S. House of Representatives - PA-15 (Congressional District 15).
+
+Represents [Congressional District 15](/us/states/pa/districts/15.md).
 
 ## Committees
 

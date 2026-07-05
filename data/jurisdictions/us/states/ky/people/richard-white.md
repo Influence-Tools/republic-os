@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 99"
+represents: "us/states/ky/districts/house/99"
 tenure:
   start: "2020-03-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard White
 
 Current KY House District 99 (KY State House of Representatives District 99).
+
+Represents [KY State House of Representatives District 99](/us/states/ky/districts/house/99.md).
 
 ## Sources
 

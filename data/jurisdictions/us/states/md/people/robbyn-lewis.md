@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 46"
+represents: "us/states/md/districts/house/46"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robbyn Lewis
 
 Current MD House District 46 (MD State House of Representatives District 46).
+
+Represents [MD State House of Representatives District 46](/us/states/md/districts/house/46.md).
 
 ## Sources
 

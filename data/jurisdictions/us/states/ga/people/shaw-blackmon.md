@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 146"
+represents: "us/states/ga/districts/house/146"
 tenure:
   start: "2015-08-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shaw Blackmon
 
 Current GA House District 146 (GA State House of Representatives District 146).
+
+Represents [GA State House of Representatives District 146](/us/states/ga/districts/house/146.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 10"
+represents: "us/states/ok/districts/senate/10"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Coleman
 
 Current OK Senate District 10 (OK State Senate District 10).
+
+Represents [OK State Senate District 10](/us/states/ok/districts/senate/10.md).
 
 ## Sources
 

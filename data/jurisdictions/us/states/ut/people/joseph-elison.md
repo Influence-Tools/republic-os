@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 72"
+represents: "us/states/ut/districts/house/72"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph Elison
 
 Current UT House District 72 (UT State House of Representatives District 72).
+
+Represents [UT State House of Representatives District 72](/us/states/ut/districts/house/72.md).
 
 ## Sources
 

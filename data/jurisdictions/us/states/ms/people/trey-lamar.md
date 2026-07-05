@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 8"
+represents: "us/states/ms/districts/house/8"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Lamar
 
 Current MS House District 8 (MS State House of Representatives District 8).
+
+Represents [MS State House of Representatives District 8](/us/states/ms/districts/house/8.md).
 
 ## Sources
 

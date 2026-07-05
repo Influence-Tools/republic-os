@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 7B"
+represents: "us/states/id/districts/house/7b"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlie Shepherd
 
 Current ID House District 7B (ID State House of Representatives District 7B).
+
+Represents [ID State House of Representatives District 7B](/us/states/id/districts/house/7b.md).
 
 ## Sources
 

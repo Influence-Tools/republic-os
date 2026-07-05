@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 3"
+represents: "us/states/ia/districts/senate/3"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynn Evans
 
 Current IA Senate District 3 (IA State Senate District 3).
+
+Represents [IA State Senate District 3](/us/states/ia/districts/senate/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 12"
+represents: "us/states/tn/districts/senate/12"
 tenure:
   start: "2009-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Yager
 
 Current TN Senate District 12 (TN State Senate District 12).
+
+Represents [TN State Senate District 12](/us/states/tn/districts/senate/12.md).
 
 ## Sources
 

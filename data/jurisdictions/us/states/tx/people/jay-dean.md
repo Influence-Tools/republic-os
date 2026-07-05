@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 7"
+represents: "us/states/tx/districts/house/7"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Dean
 
 Current TX House District 7 (TX State House of Representatives District 7).
+
+Represents [TX State House of Representatives District 7](/us/states/tx/districts/house/7.md).
 
 ## Sources
 

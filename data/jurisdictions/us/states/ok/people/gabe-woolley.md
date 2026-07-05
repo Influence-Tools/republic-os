@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 98"
+represents: "us/states/ok/districts/house/98"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gabe Woolley
 
 Current OK House District 98 (OK State House of Representatives District 98).
+
+Represents [OK State House of Representatives District 98](/us/states/ok/districts/house/98.md).
 
 ## Sources
 

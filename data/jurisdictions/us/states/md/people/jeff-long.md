@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 27B"
+represents: "us/states/md/districts/house/27b"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Long
 
 Current MD House District 27B (MD State House of Representatives District 27B).
+
+Represents [MD State House of Representatives District 27B](/us/states/md/districts/house/27b.md).
 
 ## Sources
 

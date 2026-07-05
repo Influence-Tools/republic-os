@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 117"
+represents: "us/states/pa/districts/house/117"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Walsh
 
 Current PA House District 117 (PA State House of Representatives District 117).
+
+Represents [PA State House of Representatives District 117](/us/states/pa/districts/house/117.md).
 
 ## Sources
 

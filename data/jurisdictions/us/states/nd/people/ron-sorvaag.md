@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 45"
+represents: "us/states/nd/districts/senate/45"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Sorvaag
 
 Current ND Senate District 45 (ND State Senate District 45).
+
+Represents [ND State Senate District 45](/us/states/nd/districts/senate/45.md).
 
 ## Sources
 

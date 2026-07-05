@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 2"
+represents: "us/states/fl/districts/house/2"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Andrade
 
 Current FL House District 2 (FL State House of Representatives District 2).
+
+Represents [FL State House of Representatives District 2](/us/states/fl/districts/house/2.md).
 
 ## Sources
 

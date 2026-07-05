@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 31"
+represents: "us/states/mo/districts/senate/31"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Brattin
 
 Current MO Senate District 31 (MO State Senate District 31).
+
+Represents [MO State Senate District 31](/us/states/mo/districts/senate/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 154"
+represents: "us/states/ga/districts/house/154"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerald Greene
 
 Current GA House District 154 (GA State House of Representatives District 154).
+
+Represents [GA State House of Representatives District 154](/us/states/ga/districts/house/154.md).
 
 ## Sources
 

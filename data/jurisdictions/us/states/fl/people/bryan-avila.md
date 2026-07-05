@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 39"
+represents: "us/states/fl/districts/senate/39"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Ávila
 
 Current FL Senate District 39 (FL State Senate District 39).
+
+Represents [FL State Senate District 39](/us/states/fl/districts/senate/39.md).
 
 ## Sources
 

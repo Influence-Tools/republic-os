@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 61"
+represents: "us/states/ri/districts/house/61"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leo Felix
 
 Current RI House District 61 (RI State House of Representatives District 61).
+
+Represents [RI State House of Representatives District 61](/us/states/ri/districts/house/61.md).
 
 ## Sources
 

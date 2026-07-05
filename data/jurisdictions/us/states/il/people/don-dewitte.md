@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 33"
+represents: "us/states/il/districts/senate/33"
 tenure:
   start: "2018-09-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don DeWitte
 
 Current IL Senate District 33 (IL State Senate District 33).
+
+Represents [IL State Senate District 33](/us/states/il/districts/senate/33.md).
 
 ## Sources
 

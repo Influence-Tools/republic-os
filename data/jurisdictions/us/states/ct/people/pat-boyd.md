@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 50"
+represents: "us/states/ct/districts/house/50"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Boyd
 
 Current CT House District 50 (CT State House of Representatives District 50).
+
+Represents [CT State House of Representatives District 50](/us/states/ct/districts/house/50.md).
 
 ## Sources
 

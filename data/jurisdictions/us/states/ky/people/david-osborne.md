@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 59"
+represents: "us/states/ky/districts/house/59"
 tenure:
   start: "2005-05-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Osborne
 
 Current KY House District 59 (KY State House of Representatives District 59).
+
+Represents [KY State House of Representatives District 59](/us/states/ky/districts/house/59.md).
 
 ## Sources
 

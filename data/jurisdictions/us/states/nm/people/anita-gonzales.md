@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 70"
+represents: "us/states/nm/districts/house/70"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anita Gonzales
 
 Current NM House District 70 (NM State House of Representatives District 70).
+
+Represents [NM State House of Representatives District 70](/us/states/nm/districts/house/70.md).
 
 ## Sources
 

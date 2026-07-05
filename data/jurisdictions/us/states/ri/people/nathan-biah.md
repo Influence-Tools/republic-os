@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 3"
+represents: "us/states/ri/districts/house/3"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathan Biah
 
 Current RI House District 3 (RI State House of Representatives District 3).
+
+Represents [RI State House of Representatives District 3](/us/states/ri/districts/house/3.md).
 
 ## Sources
 

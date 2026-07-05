@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AK"
 district: "Congressional District (at Large)"
+represents: "us/states/ak/districts/00"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # Nicholas J. Begich III
 
 Current U.S. House of Representatives - AK At-Large (Congressional District (at Large)).
+
+Represents [Congressional District (at Large)](/us/states/ak/districts/00.md).
 
 ## Committees
 

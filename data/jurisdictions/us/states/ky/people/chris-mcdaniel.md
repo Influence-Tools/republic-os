@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 23"
+represents: "us/states/ky/districts/senate/23"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris McDaniel
 
 Current KY Senate District 23 (KY State Senate District 23).
+
+Represents [KY State Senate District 23](/us/states/ky/districts/senate/23.md).
 
 ## Sources
 

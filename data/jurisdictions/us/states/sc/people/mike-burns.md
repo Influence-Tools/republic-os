@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 17"
+represents: "us/states/sc/districts/house/17"
 tenure:
   start: "2013-03-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Burns
 
 Current SC House District 17 (SC State House of Representatives District 17).
+
+Represents [SC State House of Representatives District 17](/us/states/sc/districts/house/17.md).
 
 ## Sources
 

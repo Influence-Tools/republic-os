@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 46"
+represents: "us/states/me/districts/house/46"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lydia Crafts
 
 Current ME House District 46 (ME State House of Representatives District 46).
+
+Represents [ME State House of Representatives District 46](/us/states/me/districts/house/46.md).
 
 ## Sources
 

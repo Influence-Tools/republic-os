@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 16"
+represents: "us/states/ga/districts/senate/16"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Harbin
 
 Current GA Senate District 16 (GA State Senate District 16).
+
+Represents [GA State Senate District 16](/us/states/ga/districts/senate/16.md).
 
 ## Sources
 

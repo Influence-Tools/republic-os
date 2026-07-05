@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 41"
+represents: "us/states/nc/districts/house/41"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maria Cervania
 
 Current NC House District 41 (NC State House of Representatives District 41).
+
+Represents [NC State House of Representatives District 41](/us/states/nc/districts/house/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 6"
+represents: "us/states/nh/districts/house/rockingham-6"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Turer
 
 Current NH House District Rockingham 6 (NH State House of Representatives District Rockingham 6).
+
+Represents [NH State House of Representatives District Rockingham 6](/us/states/nh/districts/house/rockingham-6.md).
 
 ## Sources
 

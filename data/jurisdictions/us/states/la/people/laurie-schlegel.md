@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 82"
+represents: "us/states/la/districts/house/82"
 tenure:
   start: "2021-05-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laurie Schlegel
 
 Current LA House District 82 (LA State House of Representatives District 82).
+
+Represents [LA State House of Representatives District 82](/us/states/la/districts/house/82.md).
 
 ## Sources
 

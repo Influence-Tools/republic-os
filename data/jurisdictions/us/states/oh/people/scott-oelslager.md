@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 48"
+represents: "us/states/oh/districts/house/48"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Oelslager
 
 Current OH House District 48 (OH State House of Representatives District 48).
+
+Represents [OH State House of Representatives District 48](/us/states/oh/districts/house/48.md).
 
 ## Sources
 

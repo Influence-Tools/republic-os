@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 35"
+represents: "us/states/ct/districts/senate/35"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Gordon
 
 Current CT Senate District 35 (CT State Senate District 35).
+
+Represents [CT State Senate District 35](/us/states/ct/districts/senate/35.md).
 
 ## Sources
 

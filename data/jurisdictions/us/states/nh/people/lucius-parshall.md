@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Cheshire 8"
+represents: "us/states/nh/districts/house/cheshire-8"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lucius Parshall
 
 Current NH House District Cheshire 8 (NH State House of Representatives District Cheshire 8).
+
+Represents [NH State House of Representatives District Cheshire 8](/us/states/nh/districts/house/cheshire-8.md).
 
 ## Sources
 

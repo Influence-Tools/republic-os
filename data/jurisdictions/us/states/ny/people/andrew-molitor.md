@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 150"
+represents: "us/states/ny/districts/house/150"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Molitor
 
 Current NY House District 150 (NY State House of Representatives District 150).
+
+Represents [NY State House of Representatives District 150](/us/states/ny/districts/house/150.md).
 
 ## Sources
 

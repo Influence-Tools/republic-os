@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 14"
+represents: "us/states/ks/districts/senate/14"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Fagg
 
 Current KS Senate District 14 (KS State Senate District 14).
+
+Represents [KS State Senate District 14](/us/states/ks/districts/senate/14.md).
 
 ## Sources
 

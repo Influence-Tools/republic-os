@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 68"
+represents: "us/states/pa/districts/house/68"
 tenure:
   start: "2018-06-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clint Owlett
 
 Current PA House District 68 (PA State House of Representatives District 68).
+
+Represents [PA State House of Representatives District 68](/us/states/pa/districts/house/68.md).
 
 ## Sources
 

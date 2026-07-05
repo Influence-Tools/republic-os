@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 62"
+represents: "us/states/wi/districts/house/62"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angelina Cruz
 
 Current WI House District 62 (WI State House of Representatives District 62).
+
+Represents [WI State House of Representatives District 62](/us/states/wi/districts/house/62.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 51"
+represents: "us/states/nc/districts/house/51"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Sauls
 
 Current NC House District 51 (NC State House of Representatives District 51).
+
+Represents [NC State House of Representatives District 51](/us/states/nc/districts/house/51.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MO"
 district: "Congressional District 6"
+represents: "us/states/mo/districts/06"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Sam Graves
 
 Current U.S. House of Representatives - MO-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/mo/districts/06.md).
 
 ## Committees
 

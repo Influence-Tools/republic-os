@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 18"
+represents: "us/states/wi/districts/senate/18"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Dassler-Alfheim
 
 Current WI Senate District 18 (WI State Senate District 18).
+
+Represents [WI State Senate District 18](/us/states/wi/districts/senate/18.md).
 
 ## Sources
 

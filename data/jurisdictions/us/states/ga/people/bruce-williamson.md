@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 112"
+represents: "us/states/ga/districts/house/112"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Williamson
 
 Current GA House District 112 (GA State House of Representatives District 112).
+
+Represents [GA State House of Representatives District 112](/us/states/ga/districts/house/112.md).
 
 ## Sources
 

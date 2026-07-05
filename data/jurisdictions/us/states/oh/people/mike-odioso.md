@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 30"
+represents: "us/states/oh/districts/house/30"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Odioso
 
 Current OH House District 30 (OH State House of Representatives District 30).
+
+Represents [OH State House of Representatives District 30](/us/states/oh/districts/house/30.md).
 
 ## Sources
 

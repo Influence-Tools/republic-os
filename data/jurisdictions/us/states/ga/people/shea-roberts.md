@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 52"
+represents: "us/states/ga/districts/house/52"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shea Roberts
 
 Current GA House District 52 (GA State House of Representatives District 52).
+
+Represents [GA State House of Representatives District 52](/us/states/ga/districts/house/52.md).
 
 ## Sources
 

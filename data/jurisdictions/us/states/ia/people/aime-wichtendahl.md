@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 80"
+represents: "us/states/ia/districts/house/80"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aime Wichtendahl
 
 Current IA House District 80 (IA State House of Representatives District 80).
+
+Represents [IA State House of Representatives District 80](/us/states/ia/districts/house/80.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 19"
+represents: "us/states/tn/districts/house/19"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Wright
 
 Current TN House District 19 (TN State House of Representatives District 19).
+
+Represents [TN State House of Representatives District 19](/us/states/tn/districts/house/19.md).
 
 ## Sources
 

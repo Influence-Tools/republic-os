@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Middlesex and Suffolk"
+represents: "us/states/ma/districts/senate/middlesex-and-suffolk"
 tenure:
   start: "2010-05-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sal DiDomenico
 
 Current MA Senate District Middlesex and Suffolk (MA State Senate District Middlesex and Suffolk).
+
+Represents [MA State Senate District Middlesex and Suffolk](/us/states/ma/districts/senate/middlesex-and-suffolk.md).
 
 ## Sources
 

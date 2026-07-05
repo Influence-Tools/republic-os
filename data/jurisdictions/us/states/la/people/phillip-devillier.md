@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 41"
+represents: "us/states/la/districts/house/41"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phillip DeVillier
 
 Current LA House District 41 (LA State House of Representatives District 41).
+
+Represents [LA State House of Representatives District 41](/us/states/la/districts/house/41.md).
 
 ## Sources
 

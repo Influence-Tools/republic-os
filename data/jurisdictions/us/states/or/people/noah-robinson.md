@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 2"
+represents: "us/states/or/districts/senate/2"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Noah Robinson
 
 Current OR Senate District 2 (OR State Senate District 2).
+
+Represents [OR State Senate District 2](/us/states/or/districts/senate/2.md).
 
 ## Sources
 

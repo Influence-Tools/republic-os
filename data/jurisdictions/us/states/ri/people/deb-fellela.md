@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 43"
+represents: "us/states/ri/districts/house/43"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deb Fellela
 
 Current RI House District 43 (RI State House of Representatives District 43).
+
+Represents [RI State House of Representatives District 43](/us/states/ri/districts/house/43.md).
 
 ## Sources
 

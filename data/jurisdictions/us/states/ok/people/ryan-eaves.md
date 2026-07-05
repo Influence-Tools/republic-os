@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 22"
+represents: "us/states/ok/districts/house/22"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Eaves
 
 Current OK House District 22 (OK State House of Representatives District 22).
+
+Represents [OK State House of Representatives District 22](/us/states/ok/districts/house/22.md).
 
 ## Sources
 

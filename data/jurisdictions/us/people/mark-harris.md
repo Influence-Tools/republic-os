@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 8"
+represents: "us/states/nc/districts/08"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -67,6 +68,8 @@ timestamp: "2026-07-04"
 # Mark Harris
 
 Current U.S. House of Representatives - NC-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/nc/districts/08.md).
 
 ## Committees
 

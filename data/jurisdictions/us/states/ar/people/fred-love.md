@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 15"
+represents: "us/states/ar/districts/senate/15"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fred Love
 
 Current AR Senate District 15 (AR State Senate District 15).
+
+Represents [AR State Senate District 15](/us/states/ar/districts/senate/15.md).
 
 ## Sources
 

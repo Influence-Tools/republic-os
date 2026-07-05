@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 145"
+represents: "us/states/ny/districts/house/145"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angelo Morinello
 
 Current NY House District 145 (NY State House of Representatives District 145).
+
+Represents [NY State House of Representatives District 145](/us/states/ny/districts/house/145.md).
 
 ## Sources
 

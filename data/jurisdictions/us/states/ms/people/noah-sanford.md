@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 90"
+represents: "us/states/ms/districts/house/90"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Noah Sanford
 
 Current MS House District 90 (MS State House of Representatives District 90).
+
+Represents [MS State House of Representatives District 90](/us/states/ms/districts/house/90.md).
 
 ## Sources
 

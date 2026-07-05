@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Hampden"
+represents: "us/states/ma/districts/house/2nd-hampden"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Ashe
 
 Current MA House District 2nd Hampden (MA State House of Representatives District 2nd Hampden).
+
+Represents [MA State House of Representatives District 2nd Hampden](/us/states/ma/districts/house/2nd-hampden.md).
 
 ## Sources
 

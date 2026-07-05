@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 68"
+represents: "us/states/fl/districts/house/68"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lawrence McClure
 
 Current FL House District 68 (FL State House of Representatives District 68).
+
+Represents [FL State House of Representatives District 68](/us/states/fl/districts/house/68.md).
 
 ## Sources
 

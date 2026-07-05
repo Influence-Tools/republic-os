@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 1"
+represents: "us/states/nv/districts/senate/1"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelly Crawford
 
 Current NV Senate District 1 (NV State Senate District 1).
+
+Represents [NV State Senate District 1](/us/states/nv/districts/senate/1.md).
 
 ## Sources
 

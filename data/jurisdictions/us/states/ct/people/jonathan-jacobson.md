@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 148"
+represents: "us/states/ct/districts/house/148"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Jacobson
 
 Current CT House District 148 (CT State House of Representatives District 148).
+
+Represents [CT State House of Representatives District 148](/us/states/ct/districts/house/148.md).
 
 ## Sources
 

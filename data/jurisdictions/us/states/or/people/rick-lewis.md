@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 18"
+represents: "us/states/or/districts/house/18"
 tenure:
   start: "2017-02-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Lewis
 
 Current OR House District 18 (OR State House of Representatives District 18).
+
+Represents [OR State House of Representatives District 18](/us/states/or/districts/house/18.md).
 
 ## Sources
 

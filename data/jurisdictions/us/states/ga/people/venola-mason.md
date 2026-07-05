@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 94"
+represents: "us/states/ga/districts/house/94"
 tenure:
   start: "2026-04-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Venola Mason
 
 Current GA House District 94 (GA State House of Representatives District 94).
+
+Represents [GA State House of Representatives District 94](/us/states/ga/districts/house/94.md).
 
 ## Sources
 

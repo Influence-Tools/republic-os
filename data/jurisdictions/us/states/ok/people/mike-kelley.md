@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 60"
+represents: "us/states/ok/districts/house/60"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Kelley
 
 Current OK House District 60 (OK State House of Representatives District 60).
+
+Represents [OK State House of Representatives District 60](/us/states/ok/districts/house/60.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 22B"
+represents: "us/states/mn/districts/house/22b"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Stier
 
 Current MN House District 22B (MN State House of Representatives District 22B).
+
+Represents [MN State House of Representatives District 22B](/us/states/mn/districts/house/22b.md).
 
 ## Sources
 

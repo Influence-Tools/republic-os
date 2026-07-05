@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 51"
+represents: "us/states/mo/districts/house/51"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Nolte
 
 Current MO House District 51 (MO State House of Representatives District 51).
+
+Represents [MO State House of Representatives District 51](/us/states/mo/districts/house/51.md).
 
 ## Sources
 

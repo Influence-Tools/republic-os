@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 46"
+represents: "us/states/ca/districts/house/46"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Gabriel
 
 Current CA House District 46 (CA State House of Representatives District 46).
+
+Represents [CA State House of Representatives District 46](/us/states/ca/districts/house/46.md).
 
 ## Sources
 

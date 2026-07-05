@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 22"
+represents: "us/states/pa/districts/house/22"
 tenure:
   start: "2026-03-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ana Tiburcio
 
 Current PA House District 22 (PA State House of Representatives District 22).
+
+Represents [PA State House of Representatives District 22](/us/states/pa/districts/house/22.md).
 
 ## Sources
 

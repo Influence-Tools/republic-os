@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 21"
+represents: "us/states/sc/districts/house/21"
 tenure:
   start: "2026-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dianne Mitchell
 
 Current SC House District 21 (SC State House of Representatives District 21).
+
+Represents [SC State House of Representatives District 21](/us/states/sc/districts/house/21.md).
 
 ## Sources
 

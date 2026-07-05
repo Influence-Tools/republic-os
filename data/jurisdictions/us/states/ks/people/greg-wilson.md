@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 70"
+represents: "us/states/ks/districts/house/70"
 tenure:
   start: "2025-08-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Wilson
 
 Current KS House District 70 (KS State House of Representatives District 70).
+
+Represents [KS State House of Representatives District 70](/us/states/ks/districts/house/70.md).
 
 ## Sources
 

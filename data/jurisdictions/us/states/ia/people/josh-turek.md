@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 20"
+represents: "us/states/ia/districts/house/20"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Turek
 
 Current IA House District 20 (IA State House of Representatives District 20).
+
+Represents [IA State House of Representatives District 20](/us/states/ia/districts/house/20.md).
 
 ## Sources
 

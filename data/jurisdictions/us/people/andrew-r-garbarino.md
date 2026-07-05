@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 2"
+represents: "us/states/ny/districts/02"
 committees:
   - name: "House Committee on Ethics"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Andrew R. Garbarino
 
 Current U.S. House of Representatives - NY-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ny/districts/02.md).
 
 ## Committees
 

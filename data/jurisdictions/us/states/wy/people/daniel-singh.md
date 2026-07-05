@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 61"
+represents: "us/states/wy/districts/house/61"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Singh
 
 Current WY House District 61 (WY State House of Representatives District 61).
+
+Represents [WY State House of Representatives District 61](/us/states/wy/districts/house/61.md).
 
 ## Sources
 

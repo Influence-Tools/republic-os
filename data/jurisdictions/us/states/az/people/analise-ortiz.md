@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 24"
+represents: "us/states/az/districts/senate/24"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Analise Ortiz
 
 Current AZ Senate District 24 (AZ State Senate District 24).
+
+Represents [AZ State Senate District 24](/us/states/az/districts/senate/24.md).
 
 ## Sources
 

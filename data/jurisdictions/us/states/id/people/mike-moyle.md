@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 10A"
+represents: "us/states/id/districts/house/10a"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Moyle
 
 Current ID House District 10A (ID State House of Representatives District 10A).
+
+Represents [ID State House of Representatives District 10A](/us/states/id/districts/house/10a.md).
 
 ## Sources
 

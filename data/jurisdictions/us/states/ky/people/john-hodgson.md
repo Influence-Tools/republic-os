@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 36"
+represents: "us/states/ky/districts/house/36"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Hodgson
 
 Current KY House District 36 (KY State House of Representatives District 36).
+
+Represents [KY State House of Representatives District 36](/us/states/ky/districts/house/36.md).
 
 ## Sources
 

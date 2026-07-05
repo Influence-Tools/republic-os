@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 2"
+represents: "us/states/id/districts/senate/2"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Hart
 
 Current ID Senate District 2 (ID State Senate District 2).
+
+Represents [ID State Senate District 2](/us/states/id/districts/senate/2.md).
 
 ## Sources
 

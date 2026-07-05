@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 28"
+represents: "us/states/sc/districts/house/28"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Huff
 
 Current SC House District 28 (SC State House of Representatives District 28).
+
+Represents [SC State House of Representatives District 28](/us/states/sc/districts/house/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 78"
+represents: "us/states/ar/districts/house/78"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Brooks
 
 Current AR House District 78 (AR State House of Representatives District 78).
+
+Represents [AR State House of Representatives District 78](/us/states/ar/districts/house/78.md).
 
 ## Sources
 

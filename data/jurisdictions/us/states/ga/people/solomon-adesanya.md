@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 43"
+represents: "us/states/ga/districts/house/43"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Solomon Adesanya
 
 Current GA House District 43 (GA State House of Representatives District 43).
+
+Represents [GA State House of Representatives District 43](/us/states/ga/districts/house/43.md).
 
 ## Sources
 

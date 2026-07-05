@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 36"
+represents: "us/states/ak/districts/house/36"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Schwanke
 
 Current AK House District 36 (AK State House of Representatives District 36).
+
+Represents [AK State House of Representatives District 36](/us/states/ak/districts/house/36.md).
 
 ## Sources
 

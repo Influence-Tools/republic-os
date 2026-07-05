@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 9th Worcester"
+represents: "us/states/ma/districts/house/9th-worcester"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Muradian
 
 Current MA House District 9th Worcester (MA State House of Representatives District 9th Worcester).
+
+Represents [MA State House of Representatives District 9th Worcester](/us/states/ma/districts/house/9th-worcester.md).
 
 ## Sources
 

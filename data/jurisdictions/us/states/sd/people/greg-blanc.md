@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 35"
+represents: "us/states/sd/districts/senate/35"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Blanc
 
 Current SD Senate District 35 (SD State Senate District 35).
+
+Represents [SD State Senate District 35](/us/states/sd/districts/senate/35.md).
 
 ## Sources
 

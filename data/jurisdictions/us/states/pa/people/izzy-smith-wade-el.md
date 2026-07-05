@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 49"
+represents: "us/states/pa/districts/house/49"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Izzy Smith-Wade-El
 
 Current PA House District 49 (PA State House of Representatives District 49).
+
+Represents [PA State House of Representatives District 49](/us/states/pa/districts/house/49.md).
 
 ## Sources
 

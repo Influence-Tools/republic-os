@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 105"
+represents: "us/states/mi/districts/house/105"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Borton
 
 Current MI House District 105 (MI State House of Representatives District 105).
+
+Represents [MI State House of Representatives District 105](/us/states/mi/districts/house/105.md).
 
 ## Sources
 

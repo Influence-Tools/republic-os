@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 10"
+represents: "us/states/nh/districts/senate/10"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donovan Fenton
 
 Current NH Senate District 10 (NH State Senate District 10).
+
+Represents [NH State Senate District 10](/us/states/nh/districts/senate/10.md).
 
 ## Sources
 

@@ -22,9 +22,30 @@ demographics:
   race_native: 8397
   hispanic: 1862
   bachelors_plus: 8038
+districts:
+  - to: "us/states/ok/districts/02"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/ok/districts/senate/4"
+    rel: in-district
+    area_weight: 0.8859
+  - to: "us/states/ok/districts/senate/1"
+    rel: in-district
+    area_weight: 0.114
+  - to: "us/states/ok/districts/house/5"
+    rel: in-district
+    area_weight: 0.6222
+  - to: "us/states/ok/districts/house/86"
+    rel: in-district
+    area_weight: 0.3207
+  - to: "us/states/ok/districts/house/7"
+    rel: in-district
+    area_weight: 0.0571
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ok]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 1862 |
 | Bachelor's or higher | 8038 |
 
+## Districts
+
+- [OK-02](/us/states/ok/districts/02.md) — 100% (congressional)
+- [OK Senate District 4](/us/states/ok/districts/senate/4.md) — 89% (state senate)
+- [OK Senate District 1](/us/states/ok/districts/senate/1.md) — 11% (state senate)
+- [OK House District 5](/us/states/ok/districts/house/5.md) — 62% (state house)
+- [OK House District 86](/us/states/ok/districts/house/86.md) — 32% (state house)
+- [OK House District 7](/us/states/ok/districts/house/7.md) — 6% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

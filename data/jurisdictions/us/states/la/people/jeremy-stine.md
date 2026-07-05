@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 27"
+represents: "us/states/la/districts/senate/27"
 tenure:
   start: "2022-02-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Stine
 
 Current LA Senate District 27 (LA State Senate District 27).
+
+Represents [LA State Senate District 27](/us/states/la/districts/senate/27.md).
 
 ## Sources
 

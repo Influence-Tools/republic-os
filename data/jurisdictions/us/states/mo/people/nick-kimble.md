@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 82"
+represents: "us/states/mo/districts/house/82"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Kimble
 
 Current MO House District 82 (MO State House of Representatives District 82).
+
+Represents [MO State House of Representatives District 82](/us/states/mo/districts/house/82.md).
 
 ## Sources
 

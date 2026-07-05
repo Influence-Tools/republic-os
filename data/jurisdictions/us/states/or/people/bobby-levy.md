@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 58"
+represents: "us/states/or/districts/house/58"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Levy
 
 Current OR House District 58 (OR State House of Representatives District 58).
+
+Represents [OR State House of Representatives District 58](/us/states/or/districts/house/58.md).
 
 ## Sources
 

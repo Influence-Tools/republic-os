@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 15B"
+represents: "us/states/id/districts/house/15b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dori Healey
 
 Current ID House District 15B (ID State House of Representatives District 15B).
+
+Represents [ID State House of Representatives District 15B](/us/states/id/districts/house/15b.md).
 
 ## Sources
 

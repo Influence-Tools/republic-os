@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 19A"
+represents: "us/states/id/districts/house/19a"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Monica Church
 
 Current ID House District 19A (ID State House of Representatives District 19A).
+
+Represents [ID State House of Representatives District 19A](/us/states/id/districts/house/19a.md).
 
 ## Sources
 

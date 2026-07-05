@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 28"
+represents: "us/states/wa/districts/senate/28"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # T'wina Nobles
 
 Current WA Senate District 28 (WA State Senate District 28).
+
+Represents [WA State Senate District 28](/us/states/wa/districts/senate/28.md).
 
 ## Sources
 

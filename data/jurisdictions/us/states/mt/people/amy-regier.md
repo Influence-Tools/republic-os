@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 6"
+represents: "us/states/mt/districts/house/6"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Regier
 
 Current MT House District 6 (MT State House of Representatives District 6).
+
+Represents [MT State House of Representatives District 6](/us/states/mt/districts/house/6.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 3"
+represents: "us/states/wa/districts/house/3"
 tenure:
   start: "2003-09-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Timm Ormsby
 
 Current WA House District 3 (WA State House of Representatives District 3).
+
+Represents [WA State House of Representatives District 3](/us/states/wa/districts/house/3.md).
 
 ## Sources
 

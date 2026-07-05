@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 13"
+represents: "us/states/ri/districts/senate/13"
 tenure:
   start: "2017-09-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dawn Euer
 
 Current RI Senate District 13 (RI State Senate District 13).
+
+Represents [RI State Senate District 13](/us/states/ri/districts/senate/13.md).
 
 ## Sources
 

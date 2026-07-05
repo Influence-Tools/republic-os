@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 3"
+represents: "us/states/nv/districts/senate/3"
 tenure:
   start: "2022-12-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rochelle Nguyen
 
 Current NV Senate District 3 (NV State Senate District 3).
+
+Represents [NV State Senate District 3](/us/states/nv/districts/senate/3.md).
 
 ## Sources
 

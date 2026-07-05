@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 91"
+represents: "us/states/pa/districts/house/91"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Moul
 
 Current PA House District 91 (PA State House of Representatives District 91).
+
+Represents [PA State House of Representatives District 91](/us/states/pa/districts/house/91.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 45"
+represents: "us/states/pa/districts/house/45"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anita Kulik
 
 Current PA House District 45 (PA State House of Representatives District 45).
+
+Represents [PA State House of Representatives District 45](/us/states/pa/districts/house/45.md).
 
 ## Sources
 

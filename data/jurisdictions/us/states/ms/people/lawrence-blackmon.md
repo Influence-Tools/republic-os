@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 57"
+represents: "us/states/ms/districts/house/57"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lawrence Blackmon
 
 Current MS House District 57 (MS State House of Representatives District 57).
+
+Represents [MS State House of Representatives District 57](/us/states/ms/districts/house/57.md).
 
 ## Sources
 

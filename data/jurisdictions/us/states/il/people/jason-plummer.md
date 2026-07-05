@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 55"
+represents: "us/states/il/districts/senate/55"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Plummer
 
 Current IL Senate District 55 (IL State Senate District 55).
+
+Represents [IL State Senate District 55](/us/states/il/districts/senate/55.md).
 
 ## Sources
 

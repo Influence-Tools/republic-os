@@ -22,9 +22,27 @@ demographics:
   race_native: 363
   hispanic: 696
   bachelors_plus: 4938
+districts:
+  - to: "us/states/nd/districts/00"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/nd/districts/senate/29"
+    rel: in-district
+    area_weight: 0.8228
+  - to: "us/states/nd/districts/senate/12"
+    rel: in-district
+    area_weight: 0.1771
+  - to: "us/states/nd/districts/house/29"
+    rel: in-district
+    area_weight: 0.8228
+  - to: "us/states/nd/districts/house/12"
+    rel: in-district
+    area_weight: 0.1771
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nd]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 696 |
 | Bachelor's or higher | 4938 |
 
+## Districts
+
+- [ND-00](/us/states/nd/districts/00.md) — 100% (congressional)
+- [ND Senate District 29](/us/states/nd/districts/senate/29.md) — 82% (state senate)
+- [ND Senate District 12](/us/states/nd/districts/senate/12.md) — 18% (state senate)
+- [ND House District 29](/us/states/nd/districts/house/29.md) — 82% (state house)
+- [ND House District 12](/us/states/nd/districts/house/12.md) — 18% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

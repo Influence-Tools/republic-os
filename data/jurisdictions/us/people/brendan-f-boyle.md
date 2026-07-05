@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 2"
+represents: "us/states/pa/districts/02"
 committees:
   - name: "House Committee on the Budget"
     role: "ranking-member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Brendan F. Boyle
 
 Current U.S. House of Representatives - PA-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/pa/districts/02.md).
 
 ## Committees
 

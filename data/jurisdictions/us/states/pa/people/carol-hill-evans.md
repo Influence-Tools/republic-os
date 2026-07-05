@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 95"
+represents: "us/states/pa/districts/house/95"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Hill-Evans
 
 Current PA House District 95 (PA State House of Representatives District 95).
+
+Represents [PA State House of Representatives District 95](/us/states/pa/districts/house/95.md).
 
 ## Sources
 

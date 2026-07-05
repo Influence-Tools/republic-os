@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 116"
+represents: "us/states/nc/districts/house/116"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Turner
 
 Current NC House District 116 (NC State House of Representatives District 116).
+
+Represents [NC State House of Representatives District 116](/us/states/nc/districts/house/116.md).
 
 ## Sources
 

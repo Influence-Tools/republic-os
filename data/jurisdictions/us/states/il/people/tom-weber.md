@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 64"
+represents: "us/states/il/districts/house/64"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Weber
 
 Current IL House District 64 (IL State House of Representatives District 64).
+
+Represents [IL State House of Representatives District 64](/us/states/il/districts/house/64.md).
 
 ## Sources
 

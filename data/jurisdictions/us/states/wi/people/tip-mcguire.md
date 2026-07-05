@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 64"
+represents: "us/states/wi/districts/house/64"
 tenure:
   start: "2019-05-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tip McGuire
 
 Current WI House District 64 (WI State House of Representatives District 64).
+
+Represents [WI State House of Representatives District 64](/us/states/wi/districts/house/64.md).
 
 ## Sources
 

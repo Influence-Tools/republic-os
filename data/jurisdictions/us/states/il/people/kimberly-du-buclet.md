@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 5"
+represents: "us/states/il/districts/house/5"
 tenure:
   start: "2023-05-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kimberly Du Buclet
 
 Current IL House District 5 (IL State House of Representatives District 5).
+
+Represents [IL State House of Representatives District 5](/us/states/il/districts/house/5.md).
 
 ## Sources
 

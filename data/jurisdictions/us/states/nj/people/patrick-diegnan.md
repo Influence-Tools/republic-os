@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 18"
+represents: "us/states/nj/districts/senate/18"
 tenure:
   start: "2016-05-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Diegnan
 
 Current NJ Senate District 18 (NJ State Senate District 18).
+
+Represents [NJ State Senate District 18](/us/states/nj/districts/senate/18.md).
 
 ## Sources
 

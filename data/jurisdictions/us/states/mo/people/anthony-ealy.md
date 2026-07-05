@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 36"
+represents: "us/states/mo/districts/house/36"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony Ealy
 
 Current MO House District 36 (MO State House of Representatives District 36).
+
+Represents [MO State House of Representatives District 36](/us/states/mo/districts/house/36.md).
 
 ## Sources
 

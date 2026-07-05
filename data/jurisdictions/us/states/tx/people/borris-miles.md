@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 13"
+represents: "us/states/tx/districts/senate/13"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Borris Miles
 
 Current TX Senate District 13 (TX State Senate District 13).
+
+Represents [TX State Senate District 13](/us/states/tx/districts/senate/13.md).
 
 ## Sources
 

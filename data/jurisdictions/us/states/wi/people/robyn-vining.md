@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 13"
+represents: "us/states/wi/districts/house/13"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robyn Vining
 
 Current WI House District 13 (WI State House of Representatives District 13).
+
+Represents [WI State House of Representatives District 13](/us/states/wi/districts/house/13.md).
 
 ## Sources
 

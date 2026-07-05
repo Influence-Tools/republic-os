@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 23"
+represents: "us/states/az/districts/house/23"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mariana Sandoval
 
 Current AZ House District 23 (AZ State House of Representatives District 23).
+
+Represents [AZ State House of Representatives District 23](/us/states/az/districts/house/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 30"
+represents: "us/states/sc/districts/senate/30"
 tenure:
   start: "2004-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kent Williams
 
 Current SC Senate District 30 (SC State Senate District 30).
+
+Represents [SC State Senate District 30](/us/states/sc/districts/senate/30.md).
 
 ## Sources
 

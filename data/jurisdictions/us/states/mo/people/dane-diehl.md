@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 125"
+represents: "us/states/mo/districts/house/125"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dane Diehl
 
 Current MO House District 125 (MO State House of Representatives District 125).
+
+Represents [MO State House of Representatives District 125](/us/states/mo/districts/house/125.md).
 
 ## Sources
 

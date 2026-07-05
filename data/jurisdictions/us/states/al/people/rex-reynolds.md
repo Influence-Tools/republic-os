@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 21"
+represents: "us/states/al/districts/house/21"
 tenure:
   start: "2018-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rex Reynolds
 
 Current AL House District 21 (AL State House of Representatives District 21).
+
+Represents [AL State House of Representatives District 21](/us/states/al/districts/house/21.md).
 
 ## Sources
 

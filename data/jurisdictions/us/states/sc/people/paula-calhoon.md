@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 87"
+represents: "us/states/sc/districts/house/87"
 tenure:
   start: "2018-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paula Calhoon
 
 Current SC House District 87 (SC State House of Representatives District 87).
+
+Represents [SC State House of Representatives District 87](/us/states/sc/districts/house/87.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 50"
+represents: "us/states/sc/districts/house/50"
 tenure:
   start: "2025-06-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keishan Scott
 
 Current SC House District 50 (SC State House of Representatives District 50).
+
+Represents [SC State House of Representatives District 50](/us/states/sc/districts/house/50.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MS"
 district: "Congressional District 1"
+represents: "us/states/ms/districts/01"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Trent Kelly
 
 Current U.S. House of Representatives - MS-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ms/districts/01.md).
 
 ## Committees
 

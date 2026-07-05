@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 16"
+represents: "us/states/de/districts/senate/16"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Buckson
 
 Current DE Senate District 16 (DE State Senate District 16).
+
+Represents [DE State Senate District 16](/us/states/de/districts/senate/16.md).
 
 ## Sources
 

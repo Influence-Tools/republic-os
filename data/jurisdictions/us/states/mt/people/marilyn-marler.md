@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 94"
+represents: "us/states/mt/districts/house/94"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marilyn Marler
 
 Current MT House District 94 (MT State House of Representatives District 94).
+
+Represents [MT State House of Representatives District 94](/us/states/mt/districts/house/94.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 2"
+represents: "us/states/in/districts/senate/2"
 tenure:
   start: "2008-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lonnie Randolph
 
 Current IN Senate District 2 (IN State Senate District 2).
+
+Represents [IN State Senate District 2](/us/states/in/districts/senate/2.md).
 
 ## Sources
 

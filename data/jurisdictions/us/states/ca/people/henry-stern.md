@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 27"
+represents: "us/states/ca/districts/senate/27"
 tenure:
   start: "2016-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Henry Stern
 
 Current CA Senate District 27 (CA State Senate District 27).
+
+Represents [CA State Senate District 27](/us/states/ca/districts/senate/27.md).
 
 ## Sources
 

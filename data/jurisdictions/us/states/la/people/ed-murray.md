@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 97"
+represents: "us/states/la/districts/house/97"
 tenure:
   start: "2026-02-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Murray
 
 Current LA House District 97 (LA State House of Representatives District 97).
+
+Represents [LA State House of Representatives District 97](/us/states/la/districts/house/97.md).
 
 ## Sources
 

@@ -22,9 +22,24 @@ demographics:
   race_native: 623
   hispanic: 3242
   bachelors_plus: 40297
+districts:
+  - to: "us/states/mi/districts/01"
+    rel: in-district
+    area_weight: 0.8153
+  - to: "us/states/mi/districts/senate/37"
+    rel: in-district
+    area_weight: 0.8149
+  - to: "us/states/mi/districts/house/104"
+    rel: in-district
+    area_weight: 0.5362
+  - to: "us/states/mi/districts/house/103"
+    rel: in-district
+    area_weight: 0.2788
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mi]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 3242 |
 | Bachelor's or higher | 40297 |
 
+## Districts
+
+- [MI-01](/us/states/mi/districts/01.md) — 82% (congressional)
+- [MI Senate District 37](/us/states/mi/districts/senate/37.md) — 81% (state senate)
+- [MI House District 104](/us/states/mi/districts/house/104.md) — 54% (state house)
+- [MI House District 103](/us/states/mi/districts/house/103.md) — 28% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

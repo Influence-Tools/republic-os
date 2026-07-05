@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Norfolk"
+represents: "us/states/ma/districts/house/1st-norfolk"
 tenure:
   start: "1999-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Ayers
 
 Current MA House District 1st Norfolk (MA State House of Representatives District 1st Norfolk).
+
+Represents [MA State House of Representatives District 1st Norfolk](/us/states/ma/districts/house/1st-norfolk.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 102"
+represents: "us/states/ks/districts/house/102"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyler Sweely
 
 Current KS House District 102 (KS State House of Representatives District 102).
+
+Represents [KS State House of Representatives District 102](/us/states/ks/districts/house/102.md).
 
 ## Sources
 

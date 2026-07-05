@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 1"
+represents: "us/states/ia/districts/house/1"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.D. Scholten
 
 Current IA House District 1 (IA State House of Representatives District 1).
+
+Represents [IA State House of Representatives District 1](/us/states/ia/districts/house/1.md).
 
 ## Sources
 

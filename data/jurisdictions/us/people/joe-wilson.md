@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "SC"
 district: "Congressional District 2"
+represents: "us/states/sc/districts/02"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Joe Wilson
 
 Current U.S. House of Representatives - SC-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/sc/districts/02.md).
 
 ## Committees
 

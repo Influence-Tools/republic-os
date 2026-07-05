@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 28"
+represents: "us/states/ar/districts/senate/28"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan King
 
 Current AR Senate District 28 (AR State Senate District 28).
+
+Represents [AR State Senate District 28](/us/states/ar/districts/senate/28.md).
 
 ## Sources
 

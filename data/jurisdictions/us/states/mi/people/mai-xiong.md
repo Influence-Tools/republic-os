@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 13"
+represents: "us/states/mi/districts/house/13"
 tenure:
   start: "2024-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mai Xiong
 
 Current MI House District 13 (MI State House of Representatives District 13).
+
+Represents [MI State House of Representatives District 13](/us/states/mi/districts/house/13.md).
 
 ## Sources
 

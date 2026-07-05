@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 41"
+represents: "us/states/nm/districts/senate/41"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Gallegos
 
 Current NM Senate District 41 (NM State Senate District 41).
+
+Represents [NM State Senate District 41](/us/states/nm/districts/senate/41.md).
 
 ## Sources
 

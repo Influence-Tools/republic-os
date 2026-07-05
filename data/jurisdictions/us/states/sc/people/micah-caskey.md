@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 89"
+represents: "us/states/sc/districts/house/89"
 tenure:
   start: "2016-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Micah Caskey
 
 Current SC House District 89 (SC State House of Representatives District 89).
+
+Represents [SC State House of Representatives District 89](/us/states/sc/districts/house/89.md).
 
 ## Sources
 

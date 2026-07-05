@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 11"
+represents: "us/states/la/districts/house/11"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rashid Young
 
 Current LA House District 11 (LA State House of Representatives District 11).
+
+Represents [LA State House of Representatives District 11](/us/states/la/districts/house/11.md).
 
 ## Sources
 

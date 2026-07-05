@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 34"
+represents: "us/states/nd/districts/house/34"
 tenure:
   start: "1998-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Porter
 
 Current ND House District 34 (ND State House of Representatives District 34).
+
+Represents [ND State House of Representatives District 34](/us/states/nd/districts/house/34.md).
 
 ## Sources
 

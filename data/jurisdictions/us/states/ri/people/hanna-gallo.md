@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 27"
+represents: "us/states/ri/districts/senate/27"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hanna Gallo
 
 Current RI Senate District 27 (RI State Senate District 27).
+
+Represents [RI State Senate District 27](/us/states/ri/districts/senate/27.md).
 
 ## Sources
 

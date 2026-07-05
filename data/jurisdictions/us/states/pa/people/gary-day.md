@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 187"
+represents: "us/states/pa/districts/house/187"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Day
 
 Current PA House District 187 (PA State House of Representatives District 187).
+
+Represents [PA State House of Representatives District 187](/us/states/pa/districts/house/187.md).
 
 ## Sources
 

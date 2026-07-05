@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 23"
+represents: "us/states/wa/districts/senate/23"
 tenure:
   start: "2023-09-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Drew Hansen
 
 Current WA Senate District 23 (WA State Senate District 23).
+
+Represents [WA State Senate District 23](/us/states/wa/districts/senate/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 39"
+represents: "us/states/pa/districts/house/39"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Kuzma
 
 Current PA House District 39 (PA State House of Representatives District 39).
+
+Represents [PA State House of Representatives District 39](/us/states/pa/districts/house/39.md).
 
 ## Sources
 

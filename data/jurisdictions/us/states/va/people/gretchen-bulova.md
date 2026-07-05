@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 11"
+represents: "us/states/va/districts/house/11"
 tenure:
   start: "2026-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gretchen Bulova
 
 Current VA House District 11 (VA State House of Representatives District 11).
+
+Represents [VA State House of Representatives District 11](/us/states/va/districts/house/11.md).
 
 ## Sources
 

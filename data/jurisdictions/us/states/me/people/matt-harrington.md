@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 33"
+represents: "us/states/me/districts/senate/33"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Harrington
 
 Current ME Senate District 33 (ME State Senate District 33).
+
+Represents [ME State Senate District 33](/us/states/me/districts/senate/33.md).
 
 ## Sources
 

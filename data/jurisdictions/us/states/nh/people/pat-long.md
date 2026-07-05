@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 20"
+represents: "us/states/nh/districts/senate/20"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Long
 
 Current NH Senate District 20 (NH State Senate District 20).
+
+Represents [NH State Senate District 20](/us/states/nh/districts/senate/20.md).
 
 ## Sources
 

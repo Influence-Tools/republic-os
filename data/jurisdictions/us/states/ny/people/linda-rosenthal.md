@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 67"
+represents: "us/states/ny/districts/house/67"
 tenure:
   start: "2006-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Rosenthal
 
 Current NY House District 67 (NY State House of Representatives District 67).
+
+Represents [NY State House of Representatives District 67](/us/states/ny/districts/house/67.md).
 
 ## Sources
 

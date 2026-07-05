@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 20"
+represents: "us/states/ok/districts/house/20"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Wilk
 
 Current OK House District 20 (OK State House of Representatives District 20).
+
+Represents [OK State House of Representatives District 20](/us/states/ok/districts/house/20.md).
 
 ## Sources
 

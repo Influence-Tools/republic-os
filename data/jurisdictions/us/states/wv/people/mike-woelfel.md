@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 5"
+represents: "us/states/wv/districts/senate/5"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Woelfel
 
 Current WV Senate District 5 (WV State Senate District 5).
+
+Represents [WV State Senate District 5](/us/states/wv/districts/senate/5.md).
 
 ## Sources
 

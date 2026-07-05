@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 60"
+represents: "us/states/mn/districts/senate/60"
 tenure:
   start: "2025-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doron Clark
 
 Current MN Senate District 60 (MN State Senate District 60).
+
+Represents [MN State Senate District 60](/us/states/mn/districts/senate/60.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 4"
+represents: "us/states/in/districts/senate/4"
 tenure:
   start: "2021-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rodney Pol
 
 Current IN Senate District 4 (IN State Senate District 4).
+
+Represents [IN State Senate District 4](/us/states/in/districts/senate/4.md).
 
 ## Sources
 

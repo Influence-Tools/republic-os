@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 115"
+represents: "us/states/tx/districts/house/115"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cas Garcia Hernandez
 
 Current TX House District 115 (TX State House of Representatives District 115).
+
+Represents [TX State House of Representatives District 115](/us/states/tx/districts/house/115.md).
 
 ## Sources
 

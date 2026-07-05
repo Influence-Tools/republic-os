@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 29"
+represents: "us/states/oh/districts/house/29"
 tenure:
   start: "2019-10-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Abrams
 
 Current OH House District 29 (OH State House of Representatives District 29).
+
+Represents [OH State House of Representatives District 29](/us/states/oh/districts/house/29.md).
 
 ## Sources
 

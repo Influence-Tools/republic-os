@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 52"
+represents: "us/states/ca/districts/52"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Juan Vargas
 
 Current U.S. House of Representatives - CA-52 (Congressional District 52).
+
+Represents [Congressional District 52](/us/states/ca/districts/52.md).
 
 ## Committees
 

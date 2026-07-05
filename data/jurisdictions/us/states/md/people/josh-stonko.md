@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 42C"
+represents: "us/states/md/districts/house/42c"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Stonko
 
 Current MD House District 42C (MD State House of Representatives District 42C).
+
+Represents [MD State House of Representatives District 42C](/us/states/md/districts/house/42c.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 11"
+represents: "us/states/hi/districts/senate/11"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Fukunaga
 
 Current HI Senate District 11 (HI State Senate District 11).
+
+Represents [HI State Senate District 11](/us/states/hi/districts/senate/11.md).
 
 ## Sources
 

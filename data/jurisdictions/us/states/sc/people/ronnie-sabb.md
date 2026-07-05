@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 32"
+represents: "us/states/sc/districts/senate/32"
 tenure:
   start: "2014-11-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ronnie Sabb
 
 Current SC Senate District 32 (SC State Senate District 32).
+
+Represents [SC State Senate District 32](/us/states/sc/districts/senate/32.md).
 
 ## Sources
 

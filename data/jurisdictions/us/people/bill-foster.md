@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 11"
+represents: "us/states/il/districts/11"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Bill Foster
 
 Current U.S. House of Representatives - IL-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/il/districts/11.md).
 
 ## Committees
 

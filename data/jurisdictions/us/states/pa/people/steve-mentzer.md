@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 97"
+represents: "us/states/pa/districts/house/97"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Mentzer
 
 Current PA House District 97 (PA State House of Representatives District 97).
+
+Represents [PA State House of Representatives District 97](/us/states/pa/districts/house/97.md).
 
 ## Sources
 

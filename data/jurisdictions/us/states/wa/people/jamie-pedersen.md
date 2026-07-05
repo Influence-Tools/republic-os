@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 43"
+represents: "us/states/wa/districts/senate/43"
 tenure:
   start: "2013-12-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Pedersen
 
 Current WA Senate District 43 (WA State Senate District 43).
+
+Represents [WA State Senate District 43](/us/states/wa/districts/senate/43.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 15"
+represents: "us/states/nv/districts/house/15"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Howard Watts
 
 Current NV House District 15 (NV State House of Representatives District 15).
+
+Represents [NV State House of Representatives District 15](/us/states/nv/districts/house/15.md).
 
 ## Sources
 

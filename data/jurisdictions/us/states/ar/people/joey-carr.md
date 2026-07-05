@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 34"
+represents: "us/states/ar/districts/house/34"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joey Carr
 
 Current AR House District 34 (AR State House of Representatives District 34).
+
+Represents [AR State House of Representatives District 34](/us/states/ar/districts/house/34.md).
 
 ## Sources
 

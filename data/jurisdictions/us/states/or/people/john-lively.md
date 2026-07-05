@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 7"
+represents: "us/states/or/districts/house/7"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lively
 
 Current OR House District 7 (OR State House of Representatives District 7).
+
+Represents [OR State House of Representatives District 7](/us/states/or/districts/house/7.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 5"
+represents: "us/states/tx/districts/senate/5"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charles Schwertner
 
 Current TX Senate District 5 (TX State Senate District 5).
+
+Represents [TX State Senate District 5](/us/states/tx/districts/senate/5.md).
 
 ## Sources
 

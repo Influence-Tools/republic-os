@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 54"
+represents: "us/states/nm/districts/house/54"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Henry
 
 Current NM House District 54 (NM State House of Representatives District 54).
+
+Represents [NM State House of Representatives District 54](/us/states/nm/districts/house/54.md).
 
 ## Sources
 

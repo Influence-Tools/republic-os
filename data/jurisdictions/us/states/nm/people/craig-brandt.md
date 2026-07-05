@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 40"
+represents: "us/states/nm/districts/senate/40"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Brandt
 
 Current NM Senate District 40 (NM State Senate District 40).
+
+Represents [NM State Senate District 40](/us/states/nm/districts/senate/40.md).
 
 ## Sources
 

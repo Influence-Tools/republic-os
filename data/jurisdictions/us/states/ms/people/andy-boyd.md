@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 37"
+represents: "us/states/ms/districts/house/37"
 tenure:
   start: "2022-11-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andy Boyd
 
 Current MS House District 37 (MS State House of Representatives District 37).
+
+Represents [MS State House of Representatives District 37](/us/states/ms/districts/house/37.md).
 
 ## Sources
 

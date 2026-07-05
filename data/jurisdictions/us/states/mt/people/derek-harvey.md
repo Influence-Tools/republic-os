@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 37"
+represents: "us/states/mt/districts/senate/37"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derek Harvey
 
 Current MT Senate District 37 (MT State Senate District 37).
+
+Represents [MT State Senate District 37](/us/states/mt/districts/senate/37.md).
 
 ## Sources
 

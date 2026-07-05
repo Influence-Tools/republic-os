@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 50"
+represents: "us/states/wy/districts/house/50"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rachel Rodriguez-Williams
 
 Current WY House District 50 (WY State House of Representatives District 50).
+
+Represents [WY State House of Representatives District 50](/us/states/wy/districts/house/50.md).
 
 ## Sources
 

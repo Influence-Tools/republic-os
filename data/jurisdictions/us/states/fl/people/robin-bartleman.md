@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 103"
+represents: "us/states/fl/districts/house/103"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robin Bartleman
 
 Current FL House District 103 (FL State House of Representatives District 103).
+
+Represents [FL State House of Representatives District 103](/us/states/fl/districts/house/103.md).
 
 ## Sources
 

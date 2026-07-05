@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Carroll 5"
+represents: "us/states/nh/districts/house/carroll-5"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Smith
 
 Current NH House District Carroll 5 (NH State House of Representatives District Carroll 5).
+
+Represents [NH State House of Representatives District Carroll 5](/us/states/nh/districts/house/carroll-5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 52"
+represents: "us/states/la/districts/house/52"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerome Zeringue
 
 Current LA House District 52 (LA State House of Representatives District 52).
+
+Represents [LA State House of Representatives District 52](/us/states/la/districts/house/52.md).
 
 ## Sources
 

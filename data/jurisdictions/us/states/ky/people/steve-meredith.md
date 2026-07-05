@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 5"
+represents: "us/states/ky/districts/senate/5"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Meredith
 
 Current KY Senate District 5 (KY State Senate District 5).
+
+Represents [KY State Senate District 5](/us/states/ky/districts/senate/5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 20"
+represents: "us/states/al/districts/senate/20"
 tenure:
   start: "2006-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Coleman-Madison
 
 Current AL Senate District 20 (AL State Senate District 20).
+
+Represents [AL State Senate District 20](/us/states/al/districts/senate/20.md).
 
 ## Sources
 

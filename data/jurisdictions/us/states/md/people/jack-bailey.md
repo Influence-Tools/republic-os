@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 29"
+represents: "us/states/md/districts/senate/29"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Bailey
 
 Current MD Senate District 29 (MD State Senate District 29).
+
+Represents [MD State Senate District 29](/us/states/md/districts/senate/29.md).
 
 ## Sources
 

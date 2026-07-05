@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 134"
+represents: "us/states/pa/districts/house/134"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pete Schweyer
 
 Current PA House District 134 (PA State House of Representatives District 134).
+
+Represents [PA State House of Representatives District 134](/us/states/pa/districts/house/134.md).
 
 ## Sources
 

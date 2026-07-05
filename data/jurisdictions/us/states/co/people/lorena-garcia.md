@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 35"
+represents: "us/states/co/districts/house/35"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lorena García
 
 Current CO House District 35 (CO State House of Representatives District 35).
+
+Represents [CO State House of Representatives District 35](/us/states/co/districts/house/35.md).
 
 ## Sources
 

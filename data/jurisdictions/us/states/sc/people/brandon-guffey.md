@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 48"
+represents: "us/states/sc/districts/house/48"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Guffey
 
 Current SC House District 48 (SC State House of Representatives District 48).
+
+Represents [SC State House of Representatives District 48](/us/states/sc/districts/house/48.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 68"
+represents: "us/states/tn/districts/house/68"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aron Maberry
 
 Current TN House District 68 (TN State House of Representatives District 68).
+
+Represents [TN State House of Representatives District 68](/us/states/tn/districts/house/68.md).
 
 ## Sources
 

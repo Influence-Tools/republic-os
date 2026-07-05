@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 48"
+represents: "us/states/co/districts/house/48"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carlos Barron
 
 Current CO House District 48 (CO State House of Representatives District 48).
+
+Represents [CO State House of Representatives District 48](/us/states/co/districts/house/48.md).
 
 ## Sources
 

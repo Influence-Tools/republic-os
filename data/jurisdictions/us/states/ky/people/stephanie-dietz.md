@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 65"
+represents: "us/states/ky/districts/house/65"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Dietz
 
 Current KY House District 65 (KY State House of Representatives District 65).
+
+Represents [KY State House of Representatives District 65](/us/states/ky/districts/house/65.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 13"
+represents: "us/states/fl/districts/13"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Anna Paulina Luna
 
 Current U.S. House of Representatives - FL-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/fl/districts/13.md).
 
 ## Committees
 

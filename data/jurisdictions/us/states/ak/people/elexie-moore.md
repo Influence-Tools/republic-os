@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 28"
+represents: "us/states/ak/districts/house/28"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elexie Moore
 
 Current AK House District 28 (AK State House of Representatives District 28).
+
+Represents [AK State House of Representatives District 28](/us/states/ak/districts/house/28.md).
 
 ## Sources
 

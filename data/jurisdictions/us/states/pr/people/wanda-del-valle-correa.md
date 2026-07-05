@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 38"
+represents: "us/states/pr/districts/house/38"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wanda Del Valle Correa
 
 Current PR House District 38 (PR State House of Representatives District 38).
+
+Represents [PR State House of Representatives District 38](/us/states/pr/districts/house/38.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 11"
+represents: "us/states/ct/districts/house/11"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Biggins
 
 Current CT House District 11 (CT State House of Representatives District 11).
+
+Represents [CT State House of Representatives District 11](/us/states/ct/districts/house/11.md).
 
 ## Sources
 

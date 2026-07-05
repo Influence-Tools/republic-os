@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 23"
+represents: "us/states/ms/districts/house/23"
 tenure:
   start: "2025-05-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Perry Bailey
 
 Current MS House District 23 (MS State House of Representatives District 23).
+
+Represents [MS State House of Representatives District 23](/us/states/ms/districts/house/23.md).
 
 ## Sources
 

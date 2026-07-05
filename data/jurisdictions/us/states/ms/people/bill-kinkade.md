@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 52"
+represents: "us/states/ms/districts/house/52"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Kinkade
 
 Current MS House District 52 (MS State House of Representatives District 52).
+
+Represents [MS State House of Representatives District 52](/us/states/ms/districts/house/52.md).
 
 ## Sources
 

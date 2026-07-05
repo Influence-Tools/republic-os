@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 31"
+represents: "us/states/ks/districts/senate/31"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephen Owens
 
 Current KS Senate District 31 (KS State Senate District 31).
+
+Represents [KS State Senate District 31](/us/states/ks/districts/senate/31.md).
 
 ## Sources
 

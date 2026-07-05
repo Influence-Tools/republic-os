@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 44"
+represents: "us/states/ok/districts/senate/44"
 tenure:
   start: "2017-07-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Brooks
 
 Current OK Senate District 44 (OK State Senate District 44).
+
+Represents [OK State Senate District 44](/us/states/ok/districts/senate/44.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 75"
+represents: "us/states/nc/districts/house/75"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donny Lambeth
 
 Current NC House District 75 (NC State House of Representatives District 75).
+
+Represents [NC State House of Representatives District 75](/us/states/nc/districts/house/75.md).
 
 ## Sources
 

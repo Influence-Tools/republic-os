@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 10"
+represents: "us/states/ga/districts/senate/10"
 tenure:
   start: "2005-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emanuel Jones
 
 Current GA Senate District 10 (GA State Senate District 10).
+
+Represents [GA State Senate District 10](/us/states/ga/districts/senate/10.md).
 
 ## Sources
 

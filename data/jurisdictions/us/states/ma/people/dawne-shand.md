@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Essex"
+represents: "us/states/ma/districts/house/1st-essex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dawne Shand
 
 Current MA House District 1st Essex (MA State House of Representatives District 1st Essex).
+
+Represents [MA State House of Representatives District 1st Essex](/us/states/ma/districts/house/1st-essex.md).
 
 ## Sources
 

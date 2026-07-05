@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 35"
+represents: "us/states/ri/districts/house/35"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathleen Fogarty
 
 Current RI House District 35 (RI State House of Representatives District 35).
+
+Represents [RI State House of Representatives District 35](/us/states/ri/districts/house/35.md).
 
 ## Sources
 

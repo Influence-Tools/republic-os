@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 22"
+represents: "us/states/nh/districts/house/rockingham-22"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Murray
 
 Current NH House District Rockingham 22 (NH State House of Representatives District Rockingham 22).
+
+Represents [NH State House of Representatives District Rockingham 22](/us/states/nh/districts/house/rockingham-22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 22"
+represents: "us/states/ny/districts/house/22"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michaelle Solages
 
 Current NY House District 22 (NY State House of Representatives District 22).
+
+Represents [NY State House of Representatives District 22](/us/states/ny/districts/house/22.md).
 
 ## Sources
 

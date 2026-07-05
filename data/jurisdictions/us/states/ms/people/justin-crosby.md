@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 22"
+represents: "us/states/ms/districts/house/22"
 tenure:
   start: "2026-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Crosby
 
 Current MS House District 22 (MS State House of Representatives District 22).
+
+Represents [MS State House of Representatives District 22](/us/states/ms/districts/house/22.md).
 
 ## Sources
 

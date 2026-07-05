@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 5"
+represents: "us/states/ga/districts/senate/5"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sheikh Rahman
 
 Current GA Senate District 5 (GA State Senate District 5).
+
+Represents [GA State Senate District 5](/us/states/ga/districts/senate/5.md).
 
 ## Sources
 

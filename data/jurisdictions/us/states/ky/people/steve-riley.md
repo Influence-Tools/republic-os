@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 23"
+represents: "us/states/ky/districts/house/23"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Riley
 
 Current KY House District 23 (KY State House of Representatives District 23).
+
+Represents [KY State House of Representatives District 23](/us/states/ky/districts/house/23.md).
 
 ## Sources
 

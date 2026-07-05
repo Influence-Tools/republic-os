@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 6"
+represents: "us/states/de/districts/senate/6"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russ Huxtable
 
 Current DE Senate District 6 (DE State Senate District 6).
+
+Represents [DE State Senate District 6](/us/states/de/districts/senate/6.md).
 
 ## Sources
 

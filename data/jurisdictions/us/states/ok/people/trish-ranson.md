@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 34"
+represents: "us/states/ok/districts/house/34"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trish Ranson
 
 Current OK House District 34 (OK State House of Representatives District 34).
+
+Represents [OK State House of Representatives District 34](/us/states/ok/districts/house/34.md).
 
 ## Sources
 

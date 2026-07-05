@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 6th Bristol"
+represents: "us/states/ma/districts/house/6th-bristol"
 tenure:
   start: "2013-09-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carole Fiola
 
 Current MA House District 6th Bristol (MA State House of Representatives District 6th Bristol).
+
+Represents [MA State House of Representatives District 6th Bristol](/us/states/ma/districts/house/6th-bristol.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 56"
+represents: "us/states/wy/districts/house/56"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elissa Campbell
 
 Current WY House District 56 (WY State House of Representatives District 56).
+
+Represents [WY State House of Representatives District 56](/us/states/wy/districts/house/56.md).
 
 ## Sources
 

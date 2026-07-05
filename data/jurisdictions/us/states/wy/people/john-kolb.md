@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 12"
+represents: "us/states/wy/districts/senate/12"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Kolb
 
 Current WY Senate District 12 (WY State Senate District 12).
+
+Represents [WY State Senate District 12](/us/states/wy/districts/senate/12.md).
 
 ## Sources
 

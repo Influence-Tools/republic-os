@@ -22,9 +22,42 @@ demographics:
   race_native: 1198
   hispanic: 12002
   bachelors_plus: 79213
+districts:
+  - to: "us/states/al/districts/02"
+    rel: in-district
+    area_weight: 0.9964
+  - to: "us/states/al/districts/senate/25"
+    rel: in-district
+    area_weight: 0.6332
+  - to: "us/states/al/districts/senate/26"
+    rel: in-district
+    area_weight: 0.3664
+  - to: "us/states/al/districts/house/90"
+    rel: in-district
+    area_weight: 0.3875
+  - to: "us/states/al/districts/house/75"
+    rel: in-district
+    area_weight: 0.2085
+  - to: "us/states/al/districts/house/76"
+    rel: in-district
+    area_weight: 0.1428
+  - to: "us/states/al/districts/house/78"
+    rel: in-district
+    area_weight: 0.1389
+  - to: "us/states/al/districts/house/69"
+    rel: in-district
+    area_weight: 0.0721
+  - to: "us/states/al/districts/house/74"
+    rel: in-district
+    area_weight: 0.0267
+  - to: "us/states/al/districts/house/77"
+    rel: in-district
+    area_weight: 0.0233
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, al]
 timestamp: "2026-07-03"
@@ -56,6 +89,20 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 12002 |
 | Bachelor's or higher | 79213 |
 
+## Districts
+
+- [AL-02](/us/states/al/districts/02.md) — 100% (congressional)
+- [AL Senate District 25](/us/states/al/districts/senate/25.md) — 63% (state senate)
+- [AL Senate District 26](/us/states/al/districts/senate/26.md) — 37% (state senate)
+- [AL House District 90](/us/states/al/districts/house/90.md) — 39% (state house)
+- [AL House District 75](/us/states/al/districts/house/75.md) — 21% (state house)
+- [AL House District 76](/us/states/al/districts/house/76.md) — 14% (state house)
+- [AL House District 78](/us/states/al/districts/house/78.md) — 14% (state house)
+- [AL House District 69](/us/states/al/districts/house/69.md) — 7% (state house)
+- [AL House District 74](/us/states/al/districts/house/74.md) — 3% (state house)
+- [AL House District 77](/us/states/al/districts/house/77.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

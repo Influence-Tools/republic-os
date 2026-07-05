@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 42"
+represents: "us/states/nh/districts/house/hillsborough-42"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Ammon
 
 Current NH House District Hillsborough 42 (NH State House of Representatives District Hillsborough 42).
+
+Represents [NH State House of Representatives District Hillsborough 42](/us/states/nh/districts/house/hillsborough-42.md).
 
 ## Sources
 

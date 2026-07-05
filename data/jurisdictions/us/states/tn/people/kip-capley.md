@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 71"
+represents: "us/states/tn/districts/house/71"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kip Capley
 
 Current TN House District 71 (TN State House of Representatives District 71).
+
+Represents [TN State House of Representatives District 71](/us/states/tn/districts/house/71.md).
 
 ## Sources
 

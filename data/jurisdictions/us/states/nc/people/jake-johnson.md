@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 113"
+represents: "us/states/nc/districts/house/113"
 tenure:
   start: "2019-08-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Johnson
 
 Current NC House District 113 (NC State House of Representatives District 113).
+
+Represents [NC State House of Representatives District 113](/us/states/nc/districts/house/113.md).
 
 ## Sources
 

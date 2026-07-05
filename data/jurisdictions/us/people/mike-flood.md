@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NE"
 district: "Congressional District 1"
+represents: "us/states/ne/districts/01"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Mike Flood
 
 Current U.S. House of Representatives - NE-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ne/districts/01.md).
 
 ## Committees
 

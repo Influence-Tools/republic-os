@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 24"
+represents: "us/states/nv/districts/house/24"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erica Roth
 
 Current NV House District 24 (NV State House of Representatives District 24).
+
+Represents [NV State House of Representatives District 24](/us/states/nv/districts/house/24.md).
 
 ## Sources
 

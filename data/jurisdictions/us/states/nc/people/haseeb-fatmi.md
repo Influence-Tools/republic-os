@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 18"
+represents: "us/states/nc/districts/senate/18"
 tenure:
   start: "2026-05-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Haseeb Fatmi
 
 Current NC Senate District 18 (NC State Senate District 18).
+
+Represents [NC State Senate District 18](/us/states/nc/districts/senate/18.md).
 
 ## Sources
 

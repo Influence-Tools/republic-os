@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 11"
+represents: "us/states/il/districts/house/11"
 tenure:
   start: "2011-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Williams
 
 Current IL House District 11 (IL State House of Representatives District 11).
+
+Represents [IL State House of Representatives District 11](/us/states/il/districts/house/11.md).
 
 ## Sources
 

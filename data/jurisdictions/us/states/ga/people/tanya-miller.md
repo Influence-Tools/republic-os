@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 62"
+represents: "us/states/ga/districts/house/62"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tanya Miller
 
 Current GA House District 62 (GA State House of Representatives District 62).
+
+Represents [GA State House of Representatives District 62](/us/states/ga/districts/house/62.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 13"
+represents: "us/states/nh/districts/house/strafford-13"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Bixby
 
 Current NH House District Strafford 13 (NH State House of Representatives District Strafford 13).
+
+Represents [NH State House of Representatives District Strafford 13](/us/states/nh/districts/house/strafford-13.md).
 
 ## Sources
 

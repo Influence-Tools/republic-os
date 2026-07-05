@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 43"
+represents: "us/states/ut/districts/house/43"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Eliason
 
 Current UT House District 43 (UT State House of Representatives District 43).
+
+Represents [UT State House of Representatives District 43](/us/states/ut/districts/house/43.md).
 
 ## Sources
 

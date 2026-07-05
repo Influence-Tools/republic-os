@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 46"
+represents: "us/states/wa/districts/house/46"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darya Farivar
 
 Current WA House District 46 (WA State House of Representatives District 46).
+
+Represents [WA State House of Representatives District 46](/us/states/wa/districts/house/46.md).
 
 ## Sources
 

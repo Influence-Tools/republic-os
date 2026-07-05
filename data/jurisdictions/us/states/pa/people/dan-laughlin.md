@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 49"
+represents: "us/states/pa/districts/senate/49"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Laughlin
 
 Current PA Senate District 49 (PA State Senate District 49).
+
+Represents [PA State Senate District 49](/us/states/pa/districts/senate/49.md).
 
 ## Sources
 

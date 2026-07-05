@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 9"
+represents: "us/states/sd/districts/house/9"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bethany Soye
 
 Current SD House District 9 (SD State House of Representatives District 9).
+
+Represents [SD State House of Representatives District 9](/us/states/sd/districts/house/9.md).
 
 ## Sources
 

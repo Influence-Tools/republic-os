@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 5"
+represents: "us/states/pa/districts/senate/5"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Picozzi
 
 Current PA Senate District 5 (PA State Senate District 5).
+
+Represents [PA State Senate District 5](/us/states/pa/districts/senate/5.md).
 
 ## Sources
 

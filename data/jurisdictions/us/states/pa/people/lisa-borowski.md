@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 168"
+represents: "us/states/pa/districts/house/168"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Borowski
 
 Current PA House District 168 (PA State House of Representatives District 168).
+
+Represents [PA State House of Representatives District 168](/us/states/pa/districts/house/168.md).
 
 ## Sources
 

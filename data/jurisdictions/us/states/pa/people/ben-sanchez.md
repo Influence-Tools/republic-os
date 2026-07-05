@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 153"
+represents: "us/states/pa/districts/house/153"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Sanchez
 
 Current PA House District 153 (PA State House of Representatives District 153).
+
+Represents [PA State House of Representatives District 153](/us/states/pa/districts/house/153.md).
 
 ## Sources
 

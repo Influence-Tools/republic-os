@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 23"
+represents: "us/states/mt/districts/house/23"
 tenure:
   start: "2024-07-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Tilleman
 
 Current MT House District 23 (MT State House of Representatives District 23).
+
+Represents [MT State House of Representatives District 23](/us/states/mt/districts/house/23.md).
 
 ## Sources
 

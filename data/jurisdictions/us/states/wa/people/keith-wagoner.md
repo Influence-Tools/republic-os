@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 39"
+represents: "us/states/wa/districts/senate/39"
 tenure:
   start: "2018-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Wagoner
 
 Current WA Senate District 39 (WA State Senate District 39).
+
+Represents [WA State Senate District 39](/us/states/wa/districts/senate/39.md).
 
 ## Sources
 

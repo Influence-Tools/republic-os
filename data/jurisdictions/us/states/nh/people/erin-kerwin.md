@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 40"
+represents: "us/states/nh/districts/house/hillsborough-40"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Kerwin
 
 Current NH House District Hillsborough 40 (NH State House of Representatives District Hillsborough 40).
+
+Represents [NH State House of Representatives District Hillsborough 40](/us/states/nh/districts/house/hillsborough-40.md).
 
 ## Sources
 

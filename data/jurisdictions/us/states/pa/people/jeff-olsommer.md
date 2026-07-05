@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 139"
+represents: "us/states/pa/districts/house/139"
 tenure:
   start: "2024-05-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Olsommer
 
 Current PA House District 139 (PA State House of Representatives District 139).
+
+Represents [PA State House of Representatives District 139](/us/states/pa/districts/house/139.md).
 
 ## Sources
 

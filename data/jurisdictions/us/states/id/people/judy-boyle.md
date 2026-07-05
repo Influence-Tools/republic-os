@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 9B"
+represents: "us/states/id/districts/house/9b"
 tenure:
   start: "2008-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judy Boyle
 
 Current ID House District 9B (ID State House of Representatives District 9B).
+
+Represents [ID State House of Representatives District 9B](/us/states/id/districts/house/9b.md).
 
 ## Sources
 

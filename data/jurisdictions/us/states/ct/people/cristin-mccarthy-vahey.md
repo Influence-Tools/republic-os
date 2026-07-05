@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 133"
+represents: "us/states/ct/districts/house/133"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cristin McCarthy Vahey
 
 Current CT House District 133 (CT State House of Representatives District 133).
+
+Represents [CT State House of Representatives District 133](/us/states/ct/districts/house/133.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 68"
+represents: "us/states/va/districts/house/68"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Hodges
 
 Current VA House District 68 (VA State House of Representatives District 68).
+
+Represents [VA State House of Representatives District 68](/us/states/va/districts/house/68.md).
 
 ## Sources
 

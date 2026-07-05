@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 34"
+represents: "us/states/in/districts/senate/34"
 tenure:
   start: "2024-04-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # La Keisha Jackson
 
 Current IN Senate District 34 (IN State Senate District 34).
+
+Represents [IN State Senate District 34](/us/states/in/districts/senate/34.md).
 
 ## Sources
 

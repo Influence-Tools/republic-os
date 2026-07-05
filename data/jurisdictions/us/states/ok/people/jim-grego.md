@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 17"
+represents: "us/states/ok/districts/house/17"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Grego
 
 Current OK House District 17 (OK State House of Representatives District 17).
+
+Represents [OK State House of Representatives District 17](/us/states/ok/districts/house/17.md).
 
 ## Sources
 

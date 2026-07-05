@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 44"
+represents: "us/states/ct/districts/house/44"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Dauphinais
 
 Current CT House District 44 (CT State House of Representatives District 44).
+
+Represents [CT State House of Representatives District 44](/us/states/ct/districts/house/44.md).
 
 ## Sources
 

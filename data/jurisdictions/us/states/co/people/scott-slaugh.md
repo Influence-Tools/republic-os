@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 64"
+represents: "us/states/co/districts/house/64"
 tenure:
   start: "2025-09-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Slaugh
 
 Current CO House District 64 (CO State House of Representatives District 64).
+
+Represents [CO State House of Representatives District 64](/us/states/co/districts/house/64.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 17"
+represents: "us/states/nm/districts/house/17"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cynthia Borrego
 
 Current NM House District 17 (NM State House of Representatives District 17).
+
+Represents [NM State House of Representatives District 17](/us/states/nm/districts/house/17.md).
 
 ## Sources
 

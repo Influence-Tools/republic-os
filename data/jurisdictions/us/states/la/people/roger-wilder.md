@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 71"
+represents: "us/states/la/districts/house/71"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Wilder
 
 Current LA House District 71 (LA State House of Representatives District 71).
+
+Represents [LA State House of Representatives District 71](/us/states/la/districts/house/71.md).
 
 ## Sources
 

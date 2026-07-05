@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 25"
+represents: "us/states/fl/districts/25"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Debbie Wasserman Schultz
 
 Current U.S. House of Representatives - FL-25 (Congressional District 25).
+
+Represents [Congressional District 25](/us/states/fl/districts/25.md).
 
 ## Committees
 

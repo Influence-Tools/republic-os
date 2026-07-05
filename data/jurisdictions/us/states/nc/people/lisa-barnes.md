@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 11"
+represents: "us/states/nc/districts/senate/11"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Barnes
 
 Current NC Senate District 11 (NC State Senate District 11).
+
+Represents [NC State Senate District 11](/us/states/nc/districts/senate/11.md).
 
 ## Sources
 

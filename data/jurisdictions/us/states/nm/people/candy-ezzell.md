@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 32"
+represents: "us/states/nm/districts/senate/32"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Candy Ezzell
 
 Current NM Senate District 32 (NM State Senate District 32).
+
+Represents [NM State Senate District 32](/us/states/nm/districts/senate/32.md).
 
 ## Sources
 

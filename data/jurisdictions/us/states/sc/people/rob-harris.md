@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 36"
+represents: "us/states/sc/districts/house/36"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Harris
 
 Current SC House District 36 (SC State House of Representatives District 36).
+
+Represents [SC State House of Representatives District 36](/us/states/sc/districts/house/36.md).
 
 ## Sources
 

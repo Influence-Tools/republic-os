@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 7"
+represents: "us/states/nm/districts/senate/7"
 tenure:
   start: "2012-10-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Woods
 
 Current NM Senate District 7 (NM State Senate District 7).
+
+Represents [NM State Senate District 7](/us/states/nm/districts/senate/7.md).
 
 ## Sources
 

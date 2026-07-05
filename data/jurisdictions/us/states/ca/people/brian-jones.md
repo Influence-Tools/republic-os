@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 40"
+represents: "us/states/ca/districts/senate/40"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Jones
 
 Current CA Senate District 40 (CA State Senate District 40).
+
+Represents [CA State Senate District 40](/us/states/ca/districts/senate/40.md).
 
 ## Sources
 

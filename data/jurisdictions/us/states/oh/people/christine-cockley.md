@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 6"
+represents: "us/states/oh/districts/house/6"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christine Cockley
 
 Current OH House District 6 (OH State House of Representatives District 6).
+
+Represents [OH State House of Representatives District 6](/us/states/oh/districts/house/6.md).
 
 ## Sources
 

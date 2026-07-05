@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 4"
+represents: "us/states/ar/districts/house/4"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Nazarenko
 
 Current AR House District 4 (AR State House of Representatives District 4).
+
+Represents [AR State House of Representatives District 4](/us/states/ar/districts/house/4.md).
 
 ## Sources
 

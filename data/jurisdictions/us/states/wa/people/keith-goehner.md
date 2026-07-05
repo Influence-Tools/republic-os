@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 12"
+represents: "us/states/wa/districts/senate/12"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Goehner
 
 Current WA Senate District 12 (WA State Senate District 12).
+
+Represents [WA State Senate District 12](/us/states/wa/districts/senate/12.md).
 
 ## Sources
 

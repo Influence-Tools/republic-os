@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 2"
+represents: "us/states/az/districts/senate/2"
 tenure:
   start: "2023-07-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shawnna Bolick
 
 Current AZ Senate District 2 (AZ State Senate District 2).
+
+Represents [AZ State Senate District 2](/us/states/az/districts/senate/2.md).
 
 ## Sources
 

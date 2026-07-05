@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 13"
+represents: "us/states/co/districts/house/13"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie McCluskie
 
 Current CO House District 13 (CO State House of Representatives District 13).
+
+Represents [CO State House of Representatives District 13](/us/states/co/districts/house/13.md).
 
 ## Sources
 

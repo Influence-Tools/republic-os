@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 110"
+represents: "us/states/fl/districts/house/110"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Fabricio
 
 Current FL House District 110 (FL State House of Representatives District 110).
+
+Represents [FL State House of Representatives District 110](/us/states/fl/districts/house/110.md).
 
 ## Sources
 

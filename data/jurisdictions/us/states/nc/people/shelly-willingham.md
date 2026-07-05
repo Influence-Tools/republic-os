@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 23"
+represents: "us/states/nc/districts/house/23"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelly Willingham
 
 Current NC House District 23 (NC State House of Representatives District 23).
+
+Represents [NC State House of Representatives District 23](/us/states/nc/districts/house/23.md).
 
 ## Sources
 

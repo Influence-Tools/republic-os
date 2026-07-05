@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 14"
+represents: "us/states/de/districts/senate/14"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyra Hoffner
 
 Current DE Senate District 14 (DE State Senate District 14).
+
+Represents [DE State Senate District 14](/us/states/de/districts/senate/14.md).
 
 ## Sources
 

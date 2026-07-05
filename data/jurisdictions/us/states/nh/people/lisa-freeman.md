@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Belknap 8"
+represents: "us/states/nh/districts/house/belknap-8"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Freeman
 
 Current NH House District Belknap 8 (NH State House of Representatives District Belknap 8).
+
+Represents [NH State House of Representatives District Belknap 8](/us/states/nh/districts/house/belknap-8.md).
 
 ## Sources
 

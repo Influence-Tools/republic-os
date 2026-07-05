@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 12"
+represents: "us/states/il/districts/12"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Mike Bost
 
 Current U.S. House of Representatives - IL-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/il/districts/12.md).
 
 ## Committees
 

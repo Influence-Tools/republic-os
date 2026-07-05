@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 110"
+represents: "us/states/ms/districts/house/110"
 tenure:
   start: "2013-11-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeramey Anderson
 
 Current MS House District 110 (MS State House of Representatives District 110).
+
+Represents [MS State House of Representatives District 110](/us/states/ms/districts/house/110.md).
 
 ## Sources
 

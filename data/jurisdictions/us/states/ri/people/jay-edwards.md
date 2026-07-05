@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 70"
+represents: "us/states/ri/districts/house/70"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Edwards
 
 Current RI House District 70 (RI State House of Representatives District 70).
+
+Represents [RI State House of Representatives District 70](/us/states/ri/districts/house/70.md).
 
 ## Sources
 

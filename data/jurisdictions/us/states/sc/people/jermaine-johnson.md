@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 52"
+represents: "us/states/sc/districts/house/52"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jermaine Johnson
 
 Current SC House District 52 (SC State House of Representatives District 52).
+
+Represents [SC State House of Representatives District 52](/us/states/sc/districts/house/52.md).
 
 ## Sources
 

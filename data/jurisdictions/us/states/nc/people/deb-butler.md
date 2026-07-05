@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 18"
+represents: "us/states/nc/districts/house/18"
 tenure:
   start: "2017-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deb Butler
 
 Current NC House District 18 (NC State House of Representatives District 18).
+
+Represents [NC State House of Representatives District 18](/us/states/nc/districts/house/18.md).
 
 ## Sources
 

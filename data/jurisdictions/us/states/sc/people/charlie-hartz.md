@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 81"
+represents: "us/states/sc/districts/house/81"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlie Hartz
 
 Current SC House District 81 (SC State House of Representatives District 81).
+
+Represents [SC State House of Representatives District 81](/us/states/sc/districts/house/81.md).
 
 ## Sources
 

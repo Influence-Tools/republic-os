@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 110"
+represents: "us/states/mi/districts/house/110"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Markkanen
 
 Current MI House District 110 (MI State House of Representatives District 110).
+
+Represents [MI State House of Representatives District 110](/us/states/mi/districts/house/110.md).
 
 ## Sources
 

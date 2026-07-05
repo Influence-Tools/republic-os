@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 30"
+represents: "us/states/tn/districts/house/30"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Esther Helton-Haynes
 
 Current TN House District 30 (TN State House of Representatives District 30).
+
+Represents [TN State House of Representatives District 30](/us/states/tn/districts/house/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 2"
+represents: "us/states/mi/districts/02"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # John R. Moolenaar
 
 Current U.S. House of Representatives - MI-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/mi/districts/02.md).
 
 ## Committees
 

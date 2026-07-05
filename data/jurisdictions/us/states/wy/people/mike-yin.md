@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 16"
+represents: "us/states/wy/districts/house/16"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Yin
 
 Current WY House District 16 (WY State House of Representatives District 16).
+
+Represents [WY State House of Representatives District 16](/us/states/wy/districts/house/16.md).
 
 ## Sources
 

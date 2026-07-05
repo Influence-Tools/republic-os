@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 32"
+represents: "us/states/nc/districts/senate/32"
 tenure:
   start: "2015-01-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Lowe
 
 Current NC Senate District 32 (NC State Senate District 32).
+
+Represents [NC State Senate District 32](/us/states/nc/districts/senate/32.md).
 
 ## Sources
 

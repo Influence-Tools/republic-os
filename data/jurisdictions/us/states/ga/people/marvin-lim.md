@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 98"
+represents: "us/states/ga/districts/house/98"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marvin Lim
 
 Current GA House District 98 (GA State House of Representatives District 98).
+
+Represents [GA State House of Representatives District 98](/us/states/ga/districts/house/98.md).
 
 ## Sources
 

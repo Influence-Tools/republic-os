@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 72"
+represents: "us/states/pa/districts/house/72"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Burns
 
 Current PA House District 72 (PA State House of Representatives District 72).
+
+Represents [PA State House of Representatives District 72](/us/states/pa/districts/house/72.md).
 
 ## Sources
 

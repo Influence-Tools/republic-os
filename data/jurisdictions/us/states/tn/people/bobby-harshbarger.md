@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 4"
+represents: "us/states/tn/districts/senate/4"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Harshbarger
 
 Current TN Senate District 4 (TN State Senate District 4).
+
+Represents [TN State Senate District 4](/us/states/tn/districts/senate/4.md).
 
 ## Sources
 

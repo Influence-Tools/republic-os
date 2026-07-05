@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 57"
+represents: "us/states/in/districts/house/57"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Haggard
 
 Current IN House District 57 (IN State House of Representatives District 57).
+
+Represents [IN State House of Representatives District 57](/us/states/in/districts/house/57.md).
 
 ## Sources
 

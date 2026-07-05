@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 100"
+represents: "us/states/in/districts/house/100"
 tenure:
   start: "2020-06-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blake Johnson
 
 Current IN House District 100 (IN State House of Representatives District 100).
+
+Represents [IN State House of Representatives District 100](/us/states/in/districts/house/100.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 117"
+represents: "us/states/sc/districts/house/117"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jordan Pace
 
 Current SC House District 117 (SC State House of Representatives District 117).
+
+Represents [SC State House of Representatives District 117](/us/states/sc/districts/house/117.md).
 
 ## Sources
 

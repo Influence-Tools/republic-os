@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 28th Middlesex"
+represents: "us/states/ma/districts/house/28th-middlesex"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe McGonagle
 
 Current MA House District 28th Middlesex (MA State House of Representatives District 28th Middlesex).
+
+Represents [MA State House of Representatives District 28th Middlesex](/us/states/ma/districts/house/28th-middlesex.md).
 
 ## Sources
 

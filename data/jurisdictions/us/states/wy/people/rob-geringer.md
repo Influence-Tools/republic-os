@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 42"
+represents: "us/states/wy/districts/house/42"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Geringer
 
 Current WY House District 42 (WY State House of Representatives District 42).
+
+Represents [WY State House of Representatives District 42](/us/states/wy/districts/house/42.md).
 
 ## Sources
 

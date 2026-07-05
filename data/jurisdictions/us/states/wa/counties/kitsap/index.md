@@ -22,9 +22,33 @@ demographics:
   race_native: 2796
   hispanic: 26018
   bachelors_plus: 103110
+districts:
+  - to: "us/states/wa/districts/06"
+    rel: in-district
+    area_weight: 0.7779
+  - to: "us/states/wa/districts/senate/23"
+    rel: in-district
+    area_weight: 0.3117
+  - to: "us/states/wa/districts/senate/35"
+    rel: in-district
+    area_weight: 0.2279
+  - to: "us/states/wa/districts/senate/26"
+    rel: in-district
+    area_weight: 0.1854
+  - to: "us/states/wa/districts/house/23"
+    rel: in-district
+    area_weight: 0.3117
+  - to: "us/states/wa/districts/house/35"
+    rel: in-district
+    area_weight: 0.2279
+  - to: "us/states/wa/districts/house/26"
+    rel: in-district
+    area_weight: 0.1854
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wa]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 26018 |
 | Bachelor's or higher | 103110 |
 
+## Districts
+
+- [WA-06](/us/states/wa/districts/06.md) — 78% (congressional)
+- [WA Senate District 23](/us/states/wa/districts/senate/23.md) — 31% (state senate)
+- [WA Senate District 35](/us/states/wa/districts/senate/35.md) — 23% (state senate)
+- [WA Senate District 26](/us/states/wa/districts/senate/26.md) — 19% (state senate)
+- [WA House District 23](/us/states/wa/districts/house/23.md) — 31% (state house)
+- [WA House District 35](/us/states/wa/districts/house/35.md) — 23% (state house)
+- [WA House District 26](/us/states/wa/districts/house/26.md) — 19% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

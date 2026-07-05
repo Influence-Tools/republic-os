@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 38"
+represents: "us/states/fl/districts/senate/38"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alexis Calatayud
 
 Current FL Senate District 38 (FL State Senate District 38).
+
+Represents [FL State Senate District 38](/us/states/fl/districts/senate/38.md).
 
 ## Sources
 

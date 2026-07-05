@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 49"
+represents: "us/states/wy/districts/house/49"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Wharff
 
 Current WY House District 49 (WY State House of Representatives District 49).
+
+Represents [WY State House of Representatives District 49](/us/states/wy/districts/house/49.md).
 
 ## Sources
 

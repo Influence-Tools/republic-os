@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Plymouth"
+represents: "us/states/ma/districts/house/2nd-plymouth"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Gaskey
 
 Current MA House District 2nd Plymouth (MA State House of Representatives District 2nd Plymouth).
+
+Represents [MA State House of Representatives District 2nd Plymouth](/us/states/ma/districts/house/2nd-plymouth.md).
 
 ## Sources
 

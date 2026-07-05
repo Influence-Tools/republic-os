@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 42"
+represents: "us/states/pa/districts/senate/42"
 tenure:
   start: "2005-06-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wayne Fontana
 
 Current PA Senate District 42 (PA State Senate District 42).
+
+Represents [PA State Senate District 42](/us/states/pa/districts/senate/42.md).
 
 ## Sources
 

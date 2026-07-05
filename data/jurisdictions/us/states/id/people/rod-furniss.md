@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 31B"
+represents: "us/states/id/districts/house/31b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rod Furniss
 
 Current ID House District 31B (ID State House of Representatives District 31B).
+
+Represents [ID State House of Representatives District 31B](/us/states/id/districts/house/31b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 6"
+represents: "us/states/ok/districts/house/6"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rusty Cornwell
 
 Current OK House District 6 (OK State House of Representatives District 6).
+
+Represents [OK State House of Representatives District 6](/us/states/ok/districts/house/6.md).
 
 ## Sources
 

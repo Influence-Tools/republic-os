@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 30"
+represents: "us/states/mn/districts/senate/30"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Lucero
 
 Current MN Senate District 30 (MN State Senate District 30).
+
+Represents [MN State Senate District 30](/us/states/mn/districts/senate/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 1"
+represents: "us/states/wv/districts/house/1"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat McGeehan
 
 Current WV House District 1 (WV State House of Representatives District 1).
+
+Represents [WV State House of Representatives District 1](/us/states/wv/districts/house/1.md).
 
 ## Sources
 

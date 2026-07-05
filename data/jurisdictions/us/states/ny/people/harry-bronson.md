@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 138"
+represents: "us/states/ny/districts/house/138"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harry Bronson
 
 Current NY House District 138 (NY State House of Representatives District 138).
+
+Represents [NY State House of Representatives District 138](/us/states/ny/districts/house/138.md).
 
 ## Sources
 

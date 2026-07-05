@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 25"
+represents: "us/states/oh/districts/house/25"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cecil Thomas
 
 Current OH House District 25 (OH State House of Representatives District 25).
+
+Represents [OH State House of Representatives District 25](/us/states/oh/districts/house/25.md).
 
 ## Sources
 

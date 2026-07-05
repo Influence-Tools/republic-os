@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 46"
+represents: "us/states/sc/districts/house/46"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heath Sessions
 
 Current SC House District 46 (SC State House of Representatives District 46).
+
+Represents [SC State House of Representatives District 46](/us/states/sc/districts/house/46.md).
 
 ## Sources
 

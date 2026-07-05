@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 4th Bristol"
+represents: "us/states/ma/districts/house/4th-bristol"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Howitt
 
 Current MA House District 4th Bristol (MA State House of Representatives District 4th Bristol).
+
+Represents [MA State House of Representatives District 4th Bristol](/us/states/ma/districts/house/4th-bristol.md).
 
 ## Sources
 

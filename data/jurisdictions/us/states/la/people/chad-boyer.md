@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 46"
+represents: "us/states/la/districts/house/46"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Boyer
 
 Current LA House District 46 (LA State House of Representatives District 46).
+
+Represents [LA State House of Representatives District 46](/us/states/la/districts/house/46.md).
 
 ## Sources
 

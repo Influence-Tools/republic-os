@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 136"
+represents: "us/states/tx/districts/house/136"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Bucy
 
 Current TX House District 136 (TX State House of Representatives District 136).
+
+Represents [TX State House of Representatives District 136](/us/states/tx/districts/house/136.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 51"
+represents: "us/states/in/districts/house/51"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Isa
 
 Current IN House District 51 (IN State House of Representatives District 51).
+
+Represents [IN State House of Representatives District 51](/us/states/in/districts/house/51.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 30"
+represents: "us/states/sc/districts/house/30"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Lawson
 
 Current SC House District 30 (SC State House of Representatives District 30).
+
+Represents [SC State House of Representatives District 30](/us/states/sc/districts/house/30.md).
 
 ## Sources
 

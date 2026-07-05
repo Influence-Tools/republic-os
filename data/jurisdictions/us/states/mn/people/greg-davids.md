@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 26B"
+represents: "us/states/mn/districts/house/26b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Davids
 
 Current MN House District 26B (MN State House of Representatives District 26B).
+
+Represents [MN State House of Representatives District 26B](/us/states/mn/districts/house/26b.md).
 
 ## Sources
 

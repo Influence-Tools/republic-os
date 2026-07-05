@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 80"
+represents: "us/states/oh/districts/house/80"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnathan Newman
 
 Current OH House District 80 (OH State House of Representatives District 80).
+
+Represents [OH State House of Representatives District 80](/us/states/oh/districts/house/80.md).
 
 ## Sources
 

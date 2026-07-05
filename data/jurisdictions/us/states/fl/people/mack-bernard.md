@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 24"
+represents: "us/states/fl/districts/senate/24"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mack Bernard
 
 Current FL Senate District 24 (FL State Senate District 24).
+
+Represents [FL State Senate District 24](/us/states/fl/districts/senate/24.md).
 
 ## Sources
 

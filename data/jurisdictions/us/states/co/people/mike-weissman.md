@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 28"
+represents: "us/states/co/districts/senate/28"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Weissman
 
 Current CO Senate District 28 (CO State Senate District 28).
+
+Represents [CO State Senate District 28](/us/states/co/districts/senate/28.md).
 
 ## Sources
 

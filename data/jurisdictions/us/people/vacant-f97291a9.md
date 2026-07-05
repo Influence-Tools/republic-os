@@ -7,6 +7,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 23"
+represents: "us/states/tx/districts/23"
 tenure:
   start: "2025-01-03"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Vacant
 
 Current U.S. House of Representatives - TX-23 (Congressional District 23).
+
+Represents [Congressional District 23](/us/states/tx/districts/23.md).
 
 ## Sources
 

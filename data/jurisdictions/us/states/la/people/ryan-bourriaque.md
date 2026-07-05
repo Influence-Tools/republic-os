@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 47"
+represents: "us/states/la/districts/house/47"
 tenure:
   start: "2019-03-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Bourriaque
 
 Current LA House District 47 (LA State House of Representatives District 47).
+
+Represents [LA State House of Representatives District 47](/us/states/la/districts/house/47.md).
 
 ## Sources
 

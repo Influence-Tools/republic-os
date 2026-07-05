@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 4th Essex"
+represents: "us/states/ma/districts/house/4th-essex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Estela Reyes
 
 Current MA House District 4th Essex (MA State House of Representatives District 4th Essex).
+
+Represents [MA State House of Representatives District 4th Essex](/us/states/ma/districts/house/4th-essex.md).
 
 ## Sources
 

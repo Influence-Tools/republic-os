@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 5"
+represents: "us/states/wy/districts/senate/5"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynn Hutchings
 
 Current WY Senate District 5 (WY State Senate District 5).
+
+Represents [WY State Senate District 5](/us/states/wy/districts/senate/5.md).
 
 ## Sources
 

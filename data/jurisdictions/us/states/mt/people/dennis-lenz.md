@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 25"
+represents: "us/states/mt/districts/senate/25"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Lenz
 
 Current MT Senate District 25 (MT State Senate District 25).
+
+Represents [MT State Senate District 25](/us/states/mt/districts/senate/25.md).
 
 ## Sources
 

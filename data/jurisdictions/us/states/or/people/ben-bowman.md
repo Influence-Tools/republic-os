@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 25"
+represents: "us/states/or/districts/house/25"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Bowman
 
 Current OR House District 25 (OR State House of Representatives District 25).
+
+Represents [OR State House of Representatives District 25](/us/states/or/districts/house/25.md).
 
 ## Sources
 

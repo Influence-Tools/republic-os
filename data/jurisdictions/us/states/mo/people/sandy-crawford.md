@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 28"
+represents: "us/states/mo/districts/senate/28"
 tenure:
   start: "2017-09-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandy Crawford
 
 Current MO Senate District 28 (MO State Senate District 28).
+
+Represents [MO State Senate District 28](/us/states/mo/districts/senate/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 30"
+represents: "us/states/la/districts/senate/30"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Reese
 
 Current LA Senate District 30 (LA State Senate District 30).
+
+Represents [LA State Senate District 30](/us/states/la/districts/senate/30.md).
 
 ## Sources
 

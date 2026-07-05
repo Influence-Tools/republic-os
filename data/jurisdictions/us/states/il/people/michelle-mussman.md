@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 56"
+represents: "us/states/il/districts/house/56"
 tenure:
   start: "2011-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Mussman
 
 Current IL House District 56 (IL State House of Representatives District 56).
+
+Represents [IL State House of Representatives District 56](/us/states/il/districts/house/56.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 14"
+represents: "us/states/ar/districts/senate/14"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clarke Tucker
 
 Current AR Senate District 14 (AR State Senate District 14).
+
+Represents [AR State Senate District 14](/us/states/ar/districts/senate/14.md).
 
 ## Sources
 

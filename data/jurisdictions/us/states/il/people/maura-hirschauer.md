@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 49"
+represents: "us/states/il/districts/house/49"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maura Hirschauer
 
 Current IL House District 49 (IL State House of Representatives District 49).
+
+Represents [IL State House of Representatives District 49](/us/states/il/districts/house/49.md).
 
 ## Sources
 

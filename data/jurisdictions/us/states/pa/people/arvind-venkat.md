@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 30"
+represents: "us/states/pa/districts/house/30"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arvind Venkat
 
 Current PA House District 30 (PA State House of Representatives District 30).
+
+Represents [PA State House of Representatives District 30](/us/states/pa/districts/house/30.md).
 
 ## Sources
 

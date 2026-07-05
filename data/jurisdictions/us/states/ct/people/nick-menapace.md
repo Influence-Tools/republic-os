@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 37"
+represents: "us/states/ct/districts/house/37"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Menapace
 
 Current CT House District 37 (CT State House of Representatives District 37).
+
+Represents [CT State House of Representatives District 37](/us/states/ct/districts/house/37.md).
 
 ## Sources
 

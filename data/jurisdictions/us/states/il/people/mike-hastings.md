@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 19"
+represents: "us/states/il/districts/senate/19"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Hastings
 
 Current IL Senate District 19 (IL State Senate District 19).
+
+Represents [IL State Senate District 19](/us/states/il/districts/senate/19.md).
 
 ## Sources
 

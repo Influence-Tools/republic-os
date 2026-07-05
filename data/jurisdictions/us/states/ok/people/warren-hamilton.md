@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 7"
+represents: "us/states/ok/districts/senate/7"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Warren Hamilton
 
 Current OK Senate District 7 (OK State Senate District 7).
+
+Represents [OK State Senate District 7](/us/states/ok/districts/senate/7.md).
 
 ## Sources
 

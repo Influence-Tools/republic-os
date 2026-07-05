@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 9A"
+represents: "us/states/md/districts/house/9a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natalie Ziegler
 
 Current MD House District 9A (MD State House of Representatives District 9A).
+
+Represents [MD State House of Representatives District 9A](/us/states/md/districts/house/9a.md).
 
 ## Sources
 

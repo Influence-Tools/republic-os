@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 114"
+represents: "us/states/sc/districts/house/114"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Brewer
 
 Current SC House District 114 (SC State House of Representatives District 114).
+
+Represents [SC State House of Representatives District 114](/us/states/sc/districts/house/114.md).
 
 ## Sources
 

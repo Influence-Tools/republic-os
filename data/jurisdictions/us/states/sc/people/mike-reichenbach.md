@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 31"
+represents: "us/states/sc/districts/senate/31"
 tenure:
   start: "2022-04-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Reichenbach
 
 Current SC Senate District 31 (SC State Senate District 31).
+
+Represents [SC State Senate District 31](/us/states/sc/districts/senate/31.md).
 
 ## Sources
 

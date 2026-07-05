@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 85"
+represents: "us/states/tx/districts/house/85"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stan Kitzman
 
 Current TX House District 85 (TX State House of Representatives District 85).
+
+Represents [TX State House of Representatives District 85](/us/states/tx/districts/house/85.md).
 
 ## Sources
 

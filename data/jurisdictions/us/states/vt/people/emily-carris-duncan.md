@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windham-6"
+represents: "us/states/vt/districts/house/windham-6"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Carris-Duncan
 
 Current VT House District Windham-6 (VT State House of Representatives District Windham-6).
+
+Represents [VT State House of Representatives District Windham-6](/us/states/vt/districts/house/windham-6.md).
 
 ## Sources
 

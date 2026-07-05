@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 79"
+represents: "us/states/ms/districts/house/79"
 tenure:
   start: "2016-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Tullos
 
 Current MS House District 79 (MS State House of Representatives District 79).
+
+Represents [MS State House of Representatives District 79](/us/states/ms/districts/house/79.md).
 
 ## Sources
 

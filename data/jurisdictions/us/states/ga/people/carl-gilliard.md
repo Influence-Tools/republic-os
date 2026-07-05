@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 162"
+represents: "us/states/ga/districts/house/162"
 tenure:
   start: "2016-05-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Gilliard
 
 Current GA House District 162 (GA State House of Representatives District 162).
+
+Represents [GA State House of Representatives District 162](/us/states/ga/districts/house/162.md).
 
 ## Sources
 

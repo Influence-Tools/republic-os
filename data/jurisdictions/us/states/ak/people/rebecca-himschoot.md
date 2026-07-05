@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 2"
+represents: "us/states/ak/districts/house/2"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Himschoot
 
 Current AK House District 2 (AK State House of Representatives District 2).
+
+Represents [AK State House of Representatives District 2](/us/states/ak/districts/house/2.md).
 
 ## Sources
 

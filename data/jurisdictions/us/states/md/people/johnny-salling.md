@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 6"
+represents: "us/states/md/districts/senate/6"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny Salling
 
 Current MD Senate District 6 (MD State Senate District 6).
+
+Represents [MD State Senate District 6](/us/states/md/districts/senate/6.md).
 
 ## Sources
 

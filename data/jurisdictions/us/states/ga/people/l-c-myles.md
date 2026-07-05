@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 126"
+represents: "us/states/ga/districts/house/126"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # L.C. Myles
 
 Current GA House District 126 (GA State House of Representatives District 126).
+
+Represents [GA State House of Representatives District 126](/us/states/ga/districts/house/126.md).
 
 ## Sources
 

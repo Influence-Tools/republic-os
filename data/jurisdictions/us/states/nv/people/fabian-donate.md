@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 10"
+represents: "us/states/nv/districts/senate/10"
 tenure:
   start: "2021-02-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fabian Doñate
 
 Current NV Senate District 10 (NV State Senate District 10).
+
+Represents [NV State Senate District 10](/us/states/nv/districts/senate/10.md).
 
 ## Sources
 

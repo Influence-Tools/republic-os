@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 81"
+represents: "us/states/ks/districts/house/81"
 tenure:
   start: "2022-05-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blake Carpenter
 
 Current KS House District 81 (KS State House of Representatives District 81).
+
+Represents [KS State House of Representatives District 81](/us/states/ks/districts/house/81.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 33"
+represents: "us/states/ak/districts/house/33"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Prax
 
 Current AK House District 33 (AK State House of Representatives District 33).
+
+Represents [AK State House of Representatives District 33](/us/states/ak/districts/house/33.md).
 
 ## Sources
 

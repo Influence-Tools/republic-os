@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 1"
+represents: "us/states/la/districts/house/1"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny McCormick
 
 Current LA House District 1 (LA State House of Representatives District 1).
+
+Represents [LA State House of Representatives District 1](/us/states/la/districts/house/1.md).
 
 ## Sources
 

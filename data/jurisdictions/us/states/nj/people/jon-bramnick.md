@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 21"
+represents: "us/states/nj/districts/senate/21"
 tenure:
   start: "2022-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Bramnick
 
 Current NJ Senate District 21 (NJ State Senate District 21).
+
+Represents [NJ State Senate District 21](/us/states/nj/districts/senate/21.md).
 
 ## Sources
 

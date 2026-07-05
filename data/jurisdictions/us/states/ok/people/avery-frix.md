@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 9"
+represents: "us/states/ok/districts/senate/9"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Avery Frix
 
 Current OK Senate District 9 (OK State Senate District 9).
+
+Represents [OK State Senate District 9](/us/states/ok/districts/senate/9.md).
 
 ## Sources
 

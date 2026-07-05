@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 16"
+represents: "us/states/nh/districts/house/merrimack-16"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Connie Lane
 
 Current NH House District Merrimack 16 (NH State House of Representatives District Merrimack 16).
+
+Represents [NH State House of Representatives District Merrimack 16](/us/states/nh/districts/house/merrimack-16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 49"
+represents: "us/states/nc/districts/house/49"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cynthia Ball
 
 Current NC House District 49 (NC State House of Representatives District 49).
+
+Represents [NC State House of Representatives District 49](/us/states/nc/districts/house/49.md).
 
 ## Sources
 

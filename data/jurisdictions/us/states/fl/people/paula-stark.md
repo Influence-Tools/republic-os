@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 47"
+represents: "us/states/fl/districts/house/47"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paula Stark
 
 Current FL House District 47 (FL State House of Representatives District 47).
+
+Represents [FL State House of Representatives District 47](/us/states/fl/districts/house/47.md).
 
 ## Sources
 

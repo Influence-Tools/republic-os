@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "LA"
 district: "Congressional District 6"
+represents: "us/states/la/districts/06"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Cleo Fields
 
 Current U.S. House of Representatives - LA-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/la/districts/06.md).
 
 ## Committees
 

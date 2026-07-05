@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 34"
+represents: "us/states/il/districts/senate/34"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Stadelman
 
 Current IL Senate District 34 (IL State Senate District 34).
+
+Represents [IL State Senate District 34](/us/states/il/districts/senate/34.md).
 
 ## Sources
 

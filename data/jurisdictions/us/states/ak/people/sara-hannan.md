@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 4"
+represents: "us/states/ak/districts/house/4"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sara Hannan
 
 Current AK House District 4 (AK State House of Representatives District 4).
+
+Represents [AK State House of Representatives District 4](/us/states/ak/districts/house/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 26"
+represents: "us/states/ok/districts/house/26"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dell Kerbs
 
 Current OK House District 26 (OK State House of Representatives District 26).
+
+Represents [OK State House of Representatives District 26](/us/states/ok/districts/house/26.md).
 
 ## Sources
 

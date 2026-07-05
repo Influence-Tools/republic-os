@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 71"
+represents: "us/states/ga/districts/house/71"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jutt Howard
 
 Current GA House District 71 (GA State House of Representatives District 71).
+
+Represents [GA State House of Representatives District 71](/us/states/ga/districts/house/71.md).
 
 ## Sources
 

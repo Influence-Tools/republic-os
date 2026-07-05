@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 45"
+represents: "us/states/wv/districts/house/45"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Brooks
 
 Current WV House District 45 (WV State House of Representatives District 45).
+
+Represents [WV State House of Representatives District 45](/us/states/wv/districts/house/45.md).
 
 ## Sources
 

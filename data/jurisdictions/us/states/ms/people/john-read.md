@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 112"
+represents: "us/states/ms/districts/house/112"
 tenure:
   start: "1993-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Read
 
 Current MS House District 112 (MS State House of Representatives District 112).
+
+Represents [MS State House of Representatives District 112](/us/states/ms/districts/house/112.md).
 
 ## Sources
 

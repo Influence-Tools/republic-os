@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 33"
+represents: "us/states/md/districts/senate/33"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dawn Gile
 
 Current MD Senate District 33 (MD State Senate District 33).
+
+Represents [MD State Senate District 33](/us/states/md/districts/senate/33.md).
 
 ## Sources
 

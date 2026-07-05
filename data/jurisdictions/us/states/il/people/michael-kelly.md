@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 15"
+represents: "us/states/il/districts/house/15"
 tenure:
   start: "2021-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Kelly
 
 Current IL House District 15 (IL State House of Representatives District 15).
+
+Represents [IL State House of Representatives District 15](/us/states/il/districts/house/15.md).
 
 ## Sources
 

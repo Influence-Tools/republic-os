@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 80"
+represents: "us/states/la/districts/house/80"
 tenure:
   start: "2016-08-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Polly Thomas
 
 Current LA House District 80 (LA State House of Representatives District 80).
+
+Represents [LA State House of Representatives District 80](/us/states/la/districts/house/80.md).
 
 ## Sources
 

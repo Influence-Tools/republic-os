@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 22"
+represents: "us/states/nc/districts/senate/22"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sophia Chitlik
 
 Current NC Senate District 22 (NC State Senate District 22).
+
+Represents [NC State Senate District 22](/us/states/nc/districts/senate/22.md).
 
 ## Sources
 

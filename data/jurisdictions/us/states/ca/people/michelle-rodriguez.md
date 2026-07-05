@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 53"
+represents: "us/states/ca/districts/house/53"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Rodriguez
 
 Current CA House District 53 (CA State House of Representatives District 53).
+
+Represents [CA State House of Representatives District 53](/us/states/ca/districts/house/53.md).
 
 ## Sources
 

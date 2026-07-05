@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Orleans-2"
+represents: "us/states/vt/districts/house/orleans-2"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Woody Page
 
 Current VT House District Orleans-2 (VT State House of Representatives District Orleans-2).
+
+Represents [VT State House of Representatives District Orleans-2](/us/states/vt/districts/house/orleans-2.md).
 
 ## Sources
 

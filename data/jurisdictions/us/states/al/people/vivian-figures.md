@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 33"
+represents: "us/states/al/districts/senate/33"
 tenure:
   start: "1997-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vivian Figures
 
 Current AL Senate District 33 (AL State Senate District 33).
+
+Represents [AL State Senate District 33](/us/states/al/districts/senate/33.md).
 
 ## Sources
 

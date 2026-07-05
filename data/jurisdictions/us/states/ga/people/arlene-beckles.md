@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 96"
+represents: "us/states/ga/districts/house/96"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arlene Beckles
 
 Current GA House District 96 (GA State House of Representatives District 96).
+
+Represents [GA State House of Representatives District 96](/us/states/ga/districts/house/96.md).
 
 ## Sources
 

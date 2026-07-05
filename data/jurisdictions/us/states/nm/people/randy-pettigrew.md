@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 61"
+represents: "us/states/nm/districts/house/61"
 tenure:
   start: "2021-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Pettigrew
 
 Current NM House District 61 (NM State House of Representatives District 61).
+
+Represents [NM State House of Representatives District 61](/us/states/nm/districts/house/61.md).
 
 ## Sources
 

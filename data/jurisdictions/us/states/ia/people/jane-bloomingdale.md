@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 60"
+represents: "us/states/ia/districts/house/60"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jane Bloomingdale
 
 Current IA House District 60 (IA State House of Representatives District 60).
+
+Represents [IA State House of Representatives District 60](/us/states/ia/districts/house/60.md).
 
 ## Sources
 

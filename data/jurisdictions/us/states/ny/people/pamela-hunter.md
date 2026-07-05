@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 128"
+represents: "us/states/ny/districts/house/128"
 tenure:
   start: "2015-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pamela Hunter
 
 Current NY House District 128 (NY State House of Representatives District 128).
+
+Represents [NY State House of Representatives District 128](/us/states/ny/districts/house/128.md).
 
 ## Sources
 

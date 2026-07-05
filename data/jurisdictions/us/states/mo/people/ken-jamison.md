@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 15"
+represents: "us/states/mo/districts/house/15"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Jamison
 
 Current MO House District 15 (MO State House of Representatives District 15).
+
+Represents [MO State House of Representatives District 15](/us/states/mo/districts/house/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 12"
+represents: "us/states/ks/districts/house/12"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Blex
 
 Current KS House District 12 (KS State House of Representatives District 12).
+
+Represents [KS State House of Representatives District 12](/us/states/ks/districts/house/12.md).
 
 ## Sources
 

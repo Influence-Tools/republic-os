@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 91"
+represents: "us/states/mo/districts/house/91"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jo Doll
 
 Current MO House District 91 (MO State House of Representatives District 91).
+
+Represents [MO State House of Representatives District 91](/us/states/mo/districts/house/91.md).
 
 ## Sources
 

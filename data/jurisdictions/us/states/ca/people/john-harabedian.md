@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 41"
+represents: "us/states/ca/districts/house/41"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Harabedian
 
 Current CA House District 41 (CA State House of Representatives District 41).
+
+Represents [CA State House of Representatives District 41](/us/states/ca/districts/house/41.md).
 
 ## Sources
 

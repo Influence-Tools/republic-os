@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 24"
+represents: "us/states/ar/districts/house/24"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Hall
 
 Current AR House District 24 (AR State House of Representatives District 24).
+
+Represents [AR State House of Representatives District 24](/us/states/ar/districts/house/24.md).
 
 ## Sources
 

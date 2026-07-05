@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 18"
+represents: "us/states/wv/districts/house/18"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Butler
 
 Current WV House District 18 (WV State House of Representatives District 18).
+
+Represents [WV State House of Representatives District 18](/us/states/wv/districts/house/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 77"
+represents: "us/states/ms/districts/house/77"
 tenure:
   start: "2018-08-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Price Wallace
 
 Current MS House District 77 (MS State House of Representatives District 77).
+
+Represents [MS State House of Representatives District 77](/us/states/ms/districts/house/77.md).
 
 ## Sources
 

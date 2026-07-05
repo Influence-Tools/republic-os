@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 15"
+represents: "us/states/ri/districts/house/15"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Paplauskas
 
 Current RI House District 15 (RI State House of Representatives District 15).
+
+Represents [RI State House of Representatives District 15](/us/states/ri/districts/house/15.md).
 
 ## Sources
 

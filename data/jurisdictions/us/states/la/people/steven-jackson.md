@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 2"
+represents: "us/states/la/districts/house/2"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Jackson
 
 Current LA House District 2 (LA State House of Representatives District 2).
+
+Represents [LA State House of Representatives District 2](/us/states/la/districts/house/2.md).
 
 ## Sources
 

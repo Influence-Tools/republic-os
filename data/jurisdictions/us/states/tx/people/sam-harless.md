@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 126"
+represents: "us/states/tx/districts/house/126"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Harless
 
 Current TX House District 126 (TX State House of Representatives District 126).
+
+Represents [TX State House of Representatives District 126](/us/states/tx/districts/house/126.md).
 
 ## Sources
 

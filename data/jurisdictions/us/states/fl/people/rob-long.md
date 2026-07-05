@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 90"
+represents: "us/states/fl/districts/house/90"
 tenure:
   start: "2025-12-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Long
 
 Current FL House District 90 (FL State House of Representatives District 90).
+
+Represents [FL State House of Representatives District 90](/us/states/fl/districts/house/90.md).
 
 ## Sources
 

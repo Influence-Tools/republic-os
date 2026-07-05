@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 19"
+represents: "us/states/ut/districts/senate/19"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kirk Cullimore
 
 Current UT Senate District 19 (UT State Senate District 19).
+
+Represents [UT State Senate District 19](/us/states/ut/districts/senate/19.md).
 
 ## Sources
 

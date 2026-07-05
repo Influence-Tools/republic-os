@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 36"
+represents: "us/states/ks/districts/house/36"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynn Melton
 
 Current KS House District 36 (KS State House of Representatives District 36).
+
+Represents [KS State House of Representatives District 36](/us/states/ks/districts/house/36.md).
 
 ## Sources
 

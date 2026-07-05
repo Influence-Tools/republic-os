@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Middlesex and Norfolk"
+represents: "us/states/ma/districts/senate/middlesex-and-norfolk"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Spilka
 
 Current MA Senate District Middlesex and Norfolk (MA State Senate District Middlesex and Norfolk).
+
+Represents [MA State Senate District Middlesex and Norfolk](/us/states/ma/districts/senate/middlesex-and-norfolk.md).
 
 ## Sources
 

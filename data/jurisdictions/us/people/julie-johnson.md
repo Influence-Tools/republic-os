@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 32"
+represents: "us/states/tx/districts/32"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Julie Johnson
 
 Current U.S. House of Representatives - TX-32 (Congressional District 32).
+
+Represents [Congressional District 32](/us/states/tx/districts/32.md).
 
 ## Committees
 

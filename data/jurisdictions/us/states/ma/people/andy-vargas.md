@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Essex"
+represents: "us/states/ma/districts/house/3rd-essex"
 tenure:
   start: "2017-11-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andy Vargas
 
 Current MA House District 3rd Essex (MA State House of Representatives District 3rd Essex).
+
+Represents [MA State House of Representatives District 3rd Essex](/us/states/ma/districts/house/3rd-essex.md).
 
 ## Sources
 

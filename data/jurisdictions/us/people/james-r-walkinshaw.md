@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 11"
+represents: "us/states/va/districts/11"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # James R. Walkinshaw
 
 Current U.S. House of Representatives - VA-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/va/districts/11.md).
 
 ## Committees
 

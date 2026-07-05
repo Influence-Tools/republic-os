@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 4"
+represents: "us/states/va/districts/04"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Jennifer L. McClellan
 
 Current U.S. House of Representatives - VA-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/va/districts/04.md).
 
 ## Committees
 

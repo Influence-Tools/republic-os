@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 1"
+represents: "us/states/ct/districts/house/1"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Ritter
 
 Current CT House District 1 (CT State House of Representatives District 1).
+
+Represents [CT State House of Representatives District 1](/us/states/ct/districts/house/1.md).
 
 ## Sources
 

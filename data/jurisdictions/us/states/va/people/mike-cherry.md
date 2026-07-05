@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 74"
+represents: "us/states/va/districts/house/74"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Cherry
 
 Current VA House District 74 (VA State House of Representatives District 74).
+
+Represents [VA State House of Representatives District 74](/us/states/va/districts/house/74.md).
 
 ## Sources
 

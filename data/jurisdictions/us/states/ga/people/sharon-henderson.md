@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 113"
+represents: "us/states/ga/districts/house/113"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Henderson
 
 Current GA House District 113 (GA State House of Representatives District 113).
+
+Represents [GA State House of Representatives District 113](/us/states/ga/districts/house/113.md).
 
 ## Sources
 

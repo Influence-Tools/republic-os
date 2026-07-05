@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 107"
+represents: "us/states/il/districts/house/107"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Halbrook
 
 Current IL House District 107 (IL State House of Representatives District 107).
+
+Represents [IL State House of Representatives District 107](/us/states/il/districts/house/107.md).
 
 ## Sources
 

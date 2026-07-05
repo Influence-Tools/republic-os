@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 56"
+represents: "us/states/fl/districts/house/56"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Yeager
 
 Current FL House District 56 (FL State House of Representatives District 56).
+
+Represents [FL State House of Representatives District 56](/us/states/fl/districts/house/56.md).
 
 ## Sources
 

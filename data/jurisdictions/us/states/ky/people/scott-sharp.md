@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 100"
+represents: "us/states/ky/districts/house/100"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Sharp
 
 Current KY House District 100 (KY State House of Representatives District 100).
+
+Represents [KY State House of Representatives District 100](/us/states/ky/districts/house/100.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 62"
+represents: "us/states/tn/districts/house/62"
 tenure:
   start: "2009-10-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Marsh
 
 Current TN House District 62 (TN State House of Representatives District 62).
+
+Represents [TN State House of Representatives District 62](/us/states/tn/districts/house/62.md).
 
 ## Sources
 

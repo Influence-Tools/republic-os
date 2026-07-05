@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 85"
+represents: "us/states/al/districts/house/85"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Rehm
 
 Current AL House District 85 (AL State House of Representatives District 85).
+
+Represents [AL State House of Representatives District 85](/us/states/al/districts/house/85.md).
 
 ## Sources
 

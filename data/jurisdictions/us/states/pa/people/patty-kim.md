@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 15"
+represents: "us/states/pa/districts/senate/15"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patty Kim
 
 Current PA Senate District 15 (PA State Senate District 15).
+
+Represents [PA State Senate District 15](/us/states/pa/districts/senate/15.md).
 
 ## Sources
 

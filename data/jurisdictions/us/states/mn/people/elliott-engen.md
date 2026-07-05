@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 36A"
+represents: "us/states/mn/districts/house/36a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elliott Engen
 
 Current MN House District 36A (MN State House of Representatives District 36A).
+
+Represents [MN State House of Representatives District 36A](/us/states/mn/districts/house/36a.md).
 
 ## Sources
 

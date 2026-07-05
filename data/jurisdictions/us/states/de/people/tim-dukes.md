@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 40"
+represents: "us/states/de/districts/house/40"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Dukes
 
 Current DE House District 40 (DE State House of Representatives District 40).
+
+Represents [DE State House of Representatives District 40](/us/states/de/districts/house/40.md).
 
 ## Sources
 

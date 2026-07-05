@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 35"
+represents: "us/states/ny/districts/senate/35"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea Stewart-Cousins
 
 Current NY Senate District 35 (NY State Senate District 35).
+
+Represents [NY State Senate District 35](/us/states/ny/districts/senate/35.md).
 
 ## Sources
 

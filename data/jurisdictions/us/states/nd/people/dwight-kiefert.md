@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 24"
+represents: "us/states/nd/districts/house/24"
 tenure:
   start: "2012-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dwight Kiefert
 
 Current ND House District 24 (ND State House of Representatives District 24).
+
+Represents [ND State House of Representatives District 24](/us/states/nd/districts/house/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 52"
+represents: "us/states/pa/districts/house/52"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Warner
 
 Current PA House District 52 (PA State House of Representatives District 52).
+
+Represents [PA State House of Representatives District 52](/us/states/pa/districts/house/52.md).
 
 ## Sources
 

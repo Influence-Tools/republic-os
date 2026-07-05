@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 70"
+represents: "us/states/mo/districts/house/70"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Boykin
 
 Current MO House District 70 (MO State House of Representatives District 70).
+
+Represents [MO State House of Representatives District 70](/us/states/mo/districts/house/70.md).
 
 ## Sources
 

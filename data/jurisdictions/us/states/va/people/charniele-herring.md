@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 4"
+represents: "us/states/va/districts/house/4"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charniele Herring
 
 Current VA House District 4 (VA State House of Representatives District 4).
+
+Represents [VA State House of Representatives District 4](/us/states/va/districts/house/4.md).
 
 ## Sources
 

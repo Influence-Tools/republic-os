@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 3"
+represents: "us/states/ut/districts/house/3"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Thompson
 
 Current UT House District 3 (UT State House of Representatives District 3).
+
+Represents [UT State House of Representatives District 3](/us/states/ut/districts/house/3.md).
 
 ## Sources
 

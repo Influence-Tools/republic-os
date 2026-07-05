@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 12"
+represents: "us/states/ms/districts/house/12"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clay Deweese
 
 Current MS House District 12 (MS State House of Representatives District 12).
+
+Represents [MS State House of Representatives District 12](/us/states/ms/districts/house/12.md).
 
 ## Sources
 

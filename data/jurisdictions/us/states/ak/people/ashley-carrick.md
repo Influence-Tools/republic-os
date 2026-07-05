@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 35"
+represents: "us/states/ak/districts/house/35"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ashley Carrick
 
 Current AK House District 35 (AK State House of Representatives District 35).
+
+Represents [AK State House of Representatives District 35](/us/states/ak/districts/house/35.md).
 
 ## Sources
 

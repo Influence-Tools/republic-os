@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 95"
+represents: "us/states/la/districts/house/95"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shane Mack
 
 Current LA House District 95 (LA State House of Representatives District 95).
+
+Represents [LA State House of Representatives District 95](/us/states/la/districts/house/95.md).
 
 ## Sources
 

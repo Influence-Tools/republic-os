@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 103"
+represents: "us/states/mi/districts/house/103"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Betsy Coffia
 
 Current MI House District 103 (MI State House of Representatives District 103).
+
+Represents [MI State House of Representatives District 103](/us/states/mi/districts/house/103.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 67"
+represents: "us/states/ri/districts/house/67"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Knight
 
 Current RI House District 67 (RI State House of Representatives District 67).
+
+Represents [RI State House of Representatives District 67](/us/states/ri/districts/house/67.md).
 
 ## Sources
 

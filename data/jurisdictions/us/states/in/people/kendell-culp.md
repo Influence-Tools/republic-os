@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 16"
+represents: "us/states/in/districts/house/16"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kendell Culp
 
 Current IN House District 16 (IN State House of Representatives District 16).
+
+Represents [IN State House of Representatives District 16](/us/states/in/districts/house/16.md).
 
 ## Sources
 

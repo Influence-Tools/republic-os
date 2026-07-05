@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 29C"
+represents: "us/states/md/districts/house/29c"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Morgan
 
 Current MD House District 29C (MD State House of Representatives District 29C).
+
+Represents [MD State House of Representatives District 29C](/us/states/md/districts/house/29c.md).
 
 ## Sources
 

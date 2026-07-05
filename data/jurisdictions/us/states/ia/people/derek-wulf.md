@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 76"
+represents: "us/states/ia/districts/house/76"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derek Wulf
 
 Current IA House District 76 (IA State House of Representatives District 76).
+
+Represents [IA State House of Representatives District 76](/us/states/ia/districts/house/76.md).
 
 ## Sources
 

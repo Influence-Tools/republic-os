@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 21"
+represents: "us/states/wa/districts/house/21"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Strom Peterson
 
 Current WA House District 21 (WA State House of Representatives District 21).
+
+Represents [WA State House of Representatives District 21](/us/states/wa/districts/house/21.md).
 
 ## Sources
 

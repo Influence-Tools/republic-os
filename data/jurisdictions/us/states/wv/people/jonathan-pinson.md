@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 17"
+represents: "us/states/wv/districts/house/17"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Pinson
 
 Current WV House District 17 (WV State House of Representatives District 17).
+
+Represents [WV State House of Representatives District 17](/us/states/wv/districts/house/17.md).
 
 ## Sources
 

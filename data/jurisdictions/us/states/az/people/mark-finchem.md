@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 1"
+represents: "us/states/az/districts/senate/1"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Finchem
 
 Current AZ Senate District 1 (AZ State Senate District 1).
+
+Represents [AZ State Senate District 1](/us/states/az/districts/senate/1.md).
 
 ## Sources
 

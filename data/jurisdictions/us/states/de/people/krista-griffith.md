@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 12"
+represents: "us/states/de/districts/house/12"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Krista Griffith
 
 Current DE House District 12 (DE State House of Representatives District 12).
+
+Represents [DE State House of Representatives District 12](/us/states/de/districts/house/12.md).
 
 ## Sources
 

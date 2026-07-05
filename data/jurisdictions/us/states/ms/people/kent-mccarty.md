@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 101"
+represents: "us/states/ms/districts/house/101"
 tenure:
   start: "2019-04-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kent McCarty
 
 Current MS House District 101 (MS State House of Representatives District 101).
+
+Represents [MS State House of Representatives District 101](/us/states/ms/districts/house/101.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 5"
+represents: "us/states/ny/districts/house/5"
 tenure:
   start: "2018-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Smith
 
 Current NY House District 5 (NY State House of Representatives District 5).
+
+Represents [NY State House of Representatives District 5](/us/states/ny/districts/house/5.md).
 
 ## Sources
 

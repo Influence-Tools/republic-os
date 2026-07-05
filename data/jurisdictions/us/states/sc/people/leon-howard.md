@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 76"
+represents: "us/states/sc/districts/house/76"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leon Howard
 
 Current SC House District 76 (SC State House of Representatives District 76).
+
+Represents [SC State House of Representatives District 76](/us/states/sc/districts/house/76.md).
 
 ## Sources
 

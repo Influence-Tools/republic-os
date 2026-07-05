@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 30"
+represents: "us/states/ct/districts/senate/30"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephen Harding
 
 Current CT Senate District 30 (CT State Senate District 30).
+
+Represents [CT State Senate District 30](/us/states/ct/districts/senate/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 9"
+represents: "us/states/ny/districts/senate/9"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patricia Canzoneri-Fitzpatrick
 
 Current NY Senate District 9 (NY State Senate District 9).
+
+Represents [NY State Senate District 9](/us/states/ny/districts/senate/9.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 39"
+represents: "us/states/nd/districts/house/39"
 tenure:
   start: "1992-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Kempenich
 
 Current ND House District 39 (ND State House of Representatives District 39).
+
+Represents [ND State House of Representatives District 39](/us/states/nd/districts/house/39.md).
 
 ## Sources
 

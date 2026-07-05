@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 53"
+represents: "us/states/fl/districts/house/53"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Holcomb
 
 Current FL House District 53 (FL State House of Representatives District 53).
+
+Represents [FL State House of Representatives District 53](/us/states/fl/districts/house/53.md).
 
 ## Sources
 

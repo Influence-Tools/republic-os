@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 21"
+represents: "us/states/tn/districts/house/21"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lowell Russell
 
 Current TN House District 21 (TN State House of Representatives District 21).
+
+Represents [TN State House of Representatives District 21](/us/states/tn/districts/house/21.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 134"
+represents: "us/states/ga/districts/house/134"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Dickey
 
 Current GA House District 134 (GA State House of Representatives District 134).
+
+Represents [GA State House of Representatives District 134](/us/states/ga/districts/house/134.md).
 
 ## Sources
 

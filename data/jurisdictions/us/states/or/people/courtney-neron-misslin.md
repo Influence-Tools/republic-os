@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 13"
+represents: "us/states/or/districts/senate/13"
 tenure:
   start: "2025-05-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Courtney Neron Misslin
 
 Current OR Senate District 13 (OR State Senate District 13).
+
+Represents [OR State Senate District 13](/us/states/or/districts/senate/13.md).
 
 ## Sources
 

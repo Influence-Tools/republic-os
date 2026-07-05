@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 14"
+represents: "us/states/in/districts/senate/14"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tyler Johnson
 
 Current IN Senate District 14 (IN State Senate District 14).
+
+Represents [IN State Senate District 14](/us/states/in/districts/senate/14.md).
 
 ## Sources
 

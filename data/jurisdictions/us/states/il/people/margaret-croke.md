@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 12"
+represents: "us/states/il/districts/house/12"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Margaret Croke
 
 Current IL House District 12 (IL State House of Representatives District 12).
+
+Represents [IL State House of Representatives District 12](/us/states/il/districts/house/12.md).
 
 ## Sources
 

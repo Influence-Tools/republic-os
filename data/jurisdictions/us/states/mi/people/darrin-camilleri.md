@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 4"
+represents: "us/states/mi/districts/senate/4"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darrin Camilleri
 
 Current MI Senate District 4 (MI State Senate District 4).
+
+Represents [MI State Senate District 4](/us/states/mi/districts/senate/4.md).
 
 ## Sources
 

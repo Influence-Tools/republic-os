@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 109"
+represents: "us/states/tx/districts/house/109"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aicha Davis
 
 Current TX House District 109 (TX State House of Representatives District 109).
+
+Represents [TX State House of Representatives District 109](/us/states/tx/districts/house/109.md).
 
 ## Sources
 

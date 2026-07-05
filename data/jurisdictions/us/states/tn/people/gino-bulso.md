@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 61"
+represents: "us/states/tn/districts/house/61"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gino Bulso
 
 Current TN House District 61 (TN State House of Representatives District 61).
+
+Represents [TN State House of Representatives District 61](/us/states/tn/districts/house/61.md).
 
 ## Sources
 

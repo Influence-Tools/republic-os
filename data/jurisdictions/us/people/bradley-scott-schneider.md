@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 10"
+represents: "us/states/il/districts/10"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Bradley Scott Schneider
 
 Current U.S. House of Representatives - IL-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/il/districts/10.md).
 
 ## Committees
 

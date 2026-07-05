@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 45"
+represents: "us/states/ms/districts/senate/45"
 tenure:
   start: "2026-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny DuPree
 
 Current MS Senate District 45 (MS State Senate District 45).
+
+Represents [MS State Senate District 45](/us/states/ms/districts/senate/45.md).
 
 ## Sources
 

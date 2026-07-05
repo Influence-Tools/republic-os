@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 30"
+represents: "us/states/nc/districts/senate/30"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Jarvis
 
 Current NC Senate District 30 (NC State Senate District 30).
+
+Represents [NC State Senate District 30](/us/states/nc/districts/senate/30.md).
 
 ## Sources
 

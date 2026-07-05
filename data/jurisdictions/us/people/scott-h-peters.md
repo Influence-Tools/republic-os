@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 50"
+represents: "us/states/ca/districts/50"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Scott H. Peters
 
 Current U.S. House of Representatives - CA-50 (Congressional District 50).
+
+Represents [Congressional District 50](/us/states/ca/districts/50.md).
 
 ## Committees
 

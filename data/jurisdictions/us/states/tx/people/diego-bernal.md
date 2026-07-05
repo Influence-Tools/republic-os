@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 123"
+represents: "us/states/tx/districts/house/123"
 tenure:
   start: "2015-03-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Diego Bernal
 
 Current TX House District 123 (TX State House of Representatives District 123).
+
+Represents [TX State House of Representatives District 123](/us/states/tx/districts/house/123.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 34B"
+represents: "us/states/md/districts/house/34b"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan McComas
 
 Current MD House District 34B (MD State House of Representatives District 34B).
+
+Represents [MD State House of Representatives District 34B](/us/states/md/districts/house/34b.md).
 
 ## Sources
 

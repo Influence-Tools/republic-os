@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 48"
+represents: "us/states/ia/districts/senate/48"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Lofgren
 
 Current IA Senate District 48 (IA State Senate District 48).
+
+Represents [IA State Senate District 48](/us/states/ia/districts/senate/48.md).
 
 ## Sources
 

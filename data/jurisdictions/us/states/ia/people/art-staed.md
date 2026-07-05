@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 40"
+represents: "us/states/ia/districts/senate/40"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Art Staed
 
 Current IA Senate District 40 (IA State Senate District 40).
+
+Represents [IA State Senate District 40](/us/states/ia/districts/senate/40.md).
 
 ## Sources
 

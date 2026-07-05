@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 21"
+represents: "us/states/ak/districts/house/21"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Mears
 
 Current AK House District 21 (AK State House of Representatives District 21).
+
+Represents [AK State House of Representatives District 21](/us/states/ak/districts/house/21.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 103"
+represents: "us/states/la/districts/house/103"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Bayham
 
 Current LA House District 103 (LA State House of Representatives District 103).
+
+Represents [LA State House of Representatives District 103](/us/states/la/districts/house/103.md).
 
 ## Sources
 

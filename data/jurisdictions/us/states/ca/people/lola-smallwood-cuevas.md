@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 28"
+represents: "us/states/ca/districts/senate/28"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lola Smallwood-Cuevas
 
 Current CA Senate District 28 (CA State Senate District 28).
+
+Represents [CA State Senate District 28](/us/states/ca/districts/senate/28.md).
 
 ## Sources
 

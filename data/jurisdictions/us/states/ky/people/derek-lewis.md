@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 90"
+represents: "us/states/ky/districts/house/90"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derek Lewis
 
 Current KY House District 90 (KY State House of Representatives District 90).
+
+Represents [KY State House of Representatives District 90](/us/states/ky/districts/house/90.md).
 
 ## Sources
 

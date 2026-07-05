@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 10th Middlesex"
+represents: "us/states/ma/districts/house/10th-middlesex"
 tenure:
   start: "2011-05-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lawn
 
 Current MA House District 10th Middlesex (MA State House of Representatives District 10th Middlesex).
+
+Represents [MA State House of Representatives District 10th Middlesex](/us/states/ma/districts/house/10th-middlesex.md).
 
 ## Sources
 

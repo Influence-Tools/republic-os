@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 6"
+represents: "us/states/ca/districts/senate/6"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Niello
 
 Current CA Senate District 6 (CA State Senate District 6).
+
+Represents [CA State Senate District 6](/us/states/ca/districts/senate/6.md).
 
 ## Sources
 

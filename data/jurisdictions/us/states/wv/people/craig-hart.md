@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 6"
+represents: "us/states/wv/districts/senate/6"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Hart
 
 Current WV Senate District 6 (WV State Senate District 6).
+
+Represents [WV State Senate District 6](/us/states/wv/districts/senate/6.md).
 
 ## Sources
 

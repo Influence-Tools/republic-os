@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 58"
+represents: "us/states/ut/districts/house/58"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Shallenberger
 
 Current UT House District 58 (UT State House of Representatives District 58).
+
+Represents [UT State House of Representatives District 58](/us/states/ut/districts/house/58.md).
 
 ## Sources
 

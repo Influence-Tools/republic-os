@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 72"
+represents: "us/states/il/districts/house/72"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregg Johnson
 
 Current IL House District 72 (IL State House of Representatives District 72).
+
+Represents [IL State House of Representatives District 72](/us/states/il/districts/house/72.md).
 
 ## Sources
 

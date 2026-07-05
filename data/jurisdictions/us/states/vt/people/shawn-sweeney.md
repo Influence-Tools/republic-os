@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-7"
+represents: "us/states/vt/districts/house/chittenden-7"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shawn Sweeney
 
 Current VT House District Chittenden-7 (VT State House of Representatives District Chittenden-7).
+
+Represents [VT State House of Representatives District Chittenden-7](/us/states/vt/districts/house/chittenden-7.md).
 
 ## Sources
 

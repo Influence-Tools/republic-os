@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 12"
+represents: "us/states/oh/districts/senate/12"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Manchester
 
 Current OH Senate District 12 (OH State Senate District 12).
+
+Represents [OH State Senate District 12](/us/states/oh/districts/senate/12.md).
 
 ## Sources
 

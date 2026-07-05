@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 28"
+represents: "us/states/nm/districts/house/28"
 tenure:
   start: "2021-06-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pamelya Herndon
 
 Current NM House District 28 (NM State House of Representatives District 28).
+
+Represents [NM State House of Representatives District 28](/us/states/nm/districts/house/28.md).
 
 ## Sources
 

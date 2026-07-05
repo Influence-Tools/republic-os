@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 115"
+represents: "us/states/nc/districts/house/115"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsey Prather
 
 Current NC House District 115 (NC State House of Representatives District 115).
+
+Represents [NC State House of Representatives District 115](/us/states/nc/districts/house/115.md).
 
 ## Sources
 

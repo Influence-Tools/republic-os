@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 14"
+represents: "us/states/wa/districts/senate/14"
 tenure:
   start: "2007-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Curtis King
 
 Current WA Senate District 14 (WA State Senate District 14).
+
+Represents [WA State Senate District 14](/us/states/wa/districts/senate/14.md).
 
 ## Sources
 

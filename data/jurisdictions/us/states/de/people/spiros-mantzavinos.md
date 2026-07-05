@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 7"
+represents: "us/states/de/districts/senate/7"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Spiros Mantzavinos
 
 Current DE Senate District 7 (DE State Senate District 7).
+
+Represents [DE State Senate District 7](/us/states/de/districts/senate/7.md).
 
 ## Sources
 

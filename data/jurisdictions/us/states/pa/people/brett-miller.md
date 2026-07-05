@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 41"
+represents: "us/states/pa/districts/house/41"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brett Miller
 
 Current PA House District 41 (PA State House of Representatives District 41).
+
+Represents [PA State House of Representatives District 41](/us/states/pa/districts/house/41.md).
 
 ## Sources
 

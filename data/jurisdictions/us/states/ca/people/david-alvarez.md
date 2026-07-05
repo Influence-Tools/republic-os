@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 80"
+represents: "us/states/ca/districts/house/80"
 tenure:
   start: "2022-06-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Alvarez
 
 Current CA House District 80 (CA State House of Representatives District 80).
+
+Represents [CA State House of Representatives District 80](/us/states/ca/districts/house/80.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NM"
 district: "Congressional District 1"
+represents: "us/states/nm/districts/01"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Melanie A. Stansbury
 
 Current U.S. House of Representatives - NM-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/nm/districts/01.md).
 
 ## Committees
 

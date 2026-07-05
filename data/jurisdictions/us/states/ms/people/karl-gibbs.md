@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 36"
+represents: "us/states/ms/districts/house/36"
 tenure:
   start: "2013-04-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karl Gibbs
 
 Current MS House District 36 (MS State House of Representatives District 36).
+
+Represents [MS State House of Representatives District 36](/us/states/ms/districts/house/36.md).
 
 ## Sources
 

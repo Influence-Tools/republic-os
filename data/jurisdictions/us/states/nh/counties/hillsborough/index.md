@@ -22,9 +22,54 @@ demographics:
   race_native: 598
   hispanic: 36414
   bachelors_plus: 177449
+districts:
+  - to: "us/states/nh/districts/02"
+    rel: in-district
+    area_weight: 0.8441
+  - to: "us/states/nh/districts/01"
+    rel: in-district
+    area_weight: 0.1556
+  - to: "us/states/nh/districts/senate/9"
+    rel: in-district
+    area_weight: 0.2113
+  - to: "us/states/nh/districts/senate/8"
+    rel: in-district
+    area_weight: 0.2002
+  - to: "us/states/nh/districts/senate/12"
+    rel: in-district
+    area_weight: 0.1483
+  - to: "us/states/nh/districts/senate/11"
+    rel: in-district
+    area_weight: 0.1333
+  - to: "us/states/nh/districts/senate/10"
+    rel: in-district
+    area_weight: 0.0781
+  - to: "us/states/nh/districts/senate/7"
+    rel: in-district
+    area_weight: 0.0504
+  - to: "us/states/nh/districts/senate/16"
+    rel: in-district
+    area_weight: 0.0458
+  - to: "us/states/nh/districts/senate/18"
+    rel: in-district
+    area_weight: 0.0377
+  - to: "us/states/nh/districts/senate/14"
+    rel: in-district
+    area_weight: 0.0327
+  - to: "us/states/nh/districts/senate/22"
+    rel: in-district
+    area_weight: 0.03
+  - to: "us/states/nh/districts/senate/13"
+    rel: in-district
+    area_weight: 0.017
+  - to: "us/states/nh/districts/senate/20"
+    rel: in-district
+    area_weight: 0.015
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nh]
 timestamp: "2026-07-03"
@@ -56,6 +101,24 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 36414 |
 | Bachelor's or higher | 177449 |
 
+## Districts
+
+- [NH-02](/us/states/nh/districts/02.md) — 84% (congressional)
+- [NH-01](/us/states/nh/districts/01.md) — 16% (congressional)
+- [NH Senate District 9](/us/states/nh/districts/senate/9.md) — 21% (state senate)
+- [NH Senate District 8](/us/states/nh/districts/senate/8.md) — 20% (state senate)
+- [NH Senate District 12](/us/states/nh/districts/senate/12.md) — 15% (state senate)
+- [NH Senate District 11](/us/states/nh/districts/senate/11.md) — 13% (state senate)
+- [NH Senate District 10](/us/states/nh/districts/senate/10.md) — 8% (state senate)
+- [NH Senate District 7](/us/states/nh/districts/senate/7.md) — 5% (state senate)
+- [NH Senate District 16](/us/states/nh/districts/senate/16.md) — 5% (state senate)
+- [NH Senate District 18](/us/states/nh/districts/senate/18.md) — 4% (state senate)
+- [NH Senate District 14](/us/states/nh/districts/senate/14.md) — 3% (state senate)
+- [NH Senate District 22](/us/states/nh/districts/senate/22.md) — 3% (state senate)
+- [NH Senate District 13](/us/states/nh/districts/senate/13.md) — 2% (state senate)
+- [NH Senate District 20](/us/states/nh/districts/senate/20.md) — 2% (state senate)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

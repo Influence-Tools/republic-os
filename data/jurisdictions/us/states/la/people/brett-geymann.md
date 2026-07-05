@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 35"
+represents: "us/states/la/districts/house/35"
 tenure:
   start: "2021-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brett Geymann
 
 Current LA House District 35 (LA State House of Representatives District 35).
+
+Represents [LA State House of Representatives District 35](/us/states/la/districts/house/35.md).
 
 ## Sources
 

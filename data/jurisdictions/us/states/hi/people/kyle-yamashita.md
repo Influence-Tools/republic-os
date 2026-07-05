@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 12"
+represents: "us/states/hi/districts/house/12"
 tenure:
   start: "2004-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Yamashita
 
 Current HI House District 12 (HI State House of Representatives District 12).
+
+Represents [HI State House of Representatives District 12](/us/states/hi/districts/house/12.md).
 
 ## Sources
 

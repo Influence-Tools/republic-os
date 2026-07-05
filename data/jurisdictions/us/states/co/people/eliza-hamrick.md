@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 61"
+represents: "us/states/co/districts/house/61"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eliza Hamrick
 
 Current CO House District 61 (CO State House of Representatives District 61).
+
+Represents [CO State House of Representatives District 61](/us/states/co/districts/house/61.md).
 
 ## Sources
 

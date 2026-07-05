@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 21"
+represents: "us/states/ks/districts/senate/21"
 tenure:
   start: "2018-12-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dinah Sykes
 
 Current KS Senate District 21 (KS State Senate District 21).
+
+Represents [KS State Senate District 21](/us/states/ks/districts/senate/21.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 41"
+represents: "us/states/nd/districts/senate/41"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Davison
 
 Current ND Senate District 41 (ND State Senate District 41).
+
+Represents [ND State Senate District 41](/us/states/nd/districts/senate/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 78"
+represents: "us/states/mo/districts/house/78"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Murray
 
 Current MO House District 78 (MO State House of Representatives District 78).
+
+Represents [MO State House of Representatives District 78](/us/states/mo/districts/house/78.md).
 
 ## Sources
 

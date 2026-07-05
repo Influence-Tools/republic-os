@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 16"
+represents: "us/states/or/districts/senate/16"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Suzanne Weber
 
 Current OR Senate District 16 (OR State Senate District 16).
+
+Represents [OR State Senate District 16](/us/states/or/districts/senate/16.md).
 
 ## Sources
 

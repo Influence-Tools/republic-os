@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 12B"
+represents: "us/states/id/districts/house/12b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaron Crane
 
 Current ID House District 12B (ID State House of Representatives District 12B).
+
+Represents [ID State House of Representatives District 12B](/us/states/id/districts/house/12b.md).
 
 ## Sources
 

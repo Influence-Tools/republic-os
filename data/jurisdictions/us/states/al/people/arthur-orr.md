@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 3"
+represents: "us/states/al/districts/senate/3"
 tenure:
   start: "2006-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arthur Orr
 
 Current AL Senate District 3 (AL State Senate District 3).
+
+Represents [AL State Senate District 3](/us/states/al/districts/senate/3.md).
 
 ## Sources
 

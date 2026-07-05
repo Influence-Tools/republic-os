@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 17"
+represents: "us/states/pa/districts/17"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Christopher R. Deluzio
 
 Current U.S. House of Representatives - PA-17 (Congressional District 17).
+
+Represents [Congressional District 17](/us/states/pa/districts/17.md).
 
 ## Committees
 

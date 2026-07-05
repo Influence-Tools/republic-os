@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 30"
+represents: "us/states/ut/districts/house/30"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Fitisemanu
 
 Current UT House District 30 (UT State House of Representatives District 30).
+
+Represents [UT State House of Representatives District 30](/us/states/ut/districts/house/30.md).
 
 ## Sources
 

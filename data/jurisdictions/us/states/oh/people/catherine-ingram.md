@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 9"
+represents: "us/states/oh/districts/senate/9"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Catherine Ingram
 
 Current OH Senate District 9 (OH State Senate District 9).
+
+Represents [OH State Senate District 9](/us/states/oh/districts/senate/9.md).
 
 ## Sources
 

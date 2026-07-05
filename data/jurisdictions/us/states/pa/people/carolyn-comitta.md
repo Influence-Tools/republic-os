@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 19"
+represents: "us/states/pa/districts/senate/19"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carolyn Comitta
 
 Current PA Senate District 19 (PA State Senate District 19).
+
+Represents [PA State Senate District 19](/us/states/pa/districts/senate/19.md).
 
 ## Sources
 

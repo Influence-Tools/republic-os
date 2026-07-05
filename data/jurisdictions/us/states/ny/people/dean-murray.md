@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 3"
+represents: "us/states/ny/districts/senate/3"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dean Murray
 
 Current NY Senate District 3 (NY State Senate District 3).
+
+Represents [NY State Senate District 3](/us/states/ny/districts/senate/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 37"
+represents: "us/states/md/districts/senate/37"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny Mautz
 
 Current MD Senate District 37 (MD State Senate District 37).
+
+Represents [MD State Senate District 37](/us/states/md/districts/senate/37.md).
 
 ## Sources
 

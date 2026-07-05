@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 35"
+represents: "us/states/mi/districts/house/35"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Wortz
 
 Current MI House District 35 (MI State House of Representatives District 35).
+
+Represents [MI State House of Representatives District 35](/us/states/mi/districts/house/35.md).
 
 ## Sources
 

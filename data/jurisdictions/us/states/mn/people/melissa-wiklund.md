@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 51"
+represents: "us/states/mn/districts/senate/51"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Wiklund
 
 Current MN Senate District 51 (MN State Senate District 51).
+
+Represents [MN State Senate District 51](/us/states/mn/districts/senate/51.md).
 
 ## Sources
 

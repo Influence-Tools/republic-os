@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 55"
+represents: "us/states/wi/districts/house/55"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gus Gustafson
 
 Current WI House District 55 (WI State House of Representatives District 55).
+
+Represents [WI State House of Representatives District 55](/us/states/wi/districts/house/55.md).
 
 ## Sources
 

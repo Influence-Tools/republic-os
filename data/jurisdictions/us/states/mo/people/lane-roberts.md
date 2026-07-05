@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 161"
+represents: "us/states/mo/districts/house/161"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lane Roberts
 
 Current MO House District 161 (MO State House of Representatives District 161).
+
+Represents [MO State House of Representatives District 161](/us/states/mo/districts/house/161.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 22"
+represents: "us/states/ks/districts/senate/22"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Starnes
 
 Current KS Senate District 22 (KS State Senate District 22).
+
+Represents [KS State Senate District 22](/us/states/ks/districts/senate/22.md).
 
 ## Sources
 

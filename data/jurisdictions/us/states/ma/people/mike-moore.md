@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Second Worcester"
+represents: "us/states/ma/districts/senate/second-worcester"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Moore
 
 Current MA Senate District Second Worcester (MA State Senate District Second Worcester).
+
+Represents [MA State Senate District Second Worcester](/us/states/ma/districts/senate/second-worcester.md).
 
 ## Sources
 

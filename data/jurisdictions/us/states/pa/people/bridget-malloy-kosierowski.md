@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 114"
+represents: "us/states/pa/districts/house/114"
 tenure:
   start: "2019-04-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bridget Malloy Kosierowski
 
 Current PA House District 114 (PA State House of Representatives District 114).
+
+Represents [PA State House of Representatives District 114](/us/states/pa/districts/house/114.md).
 
 ## Sources
 

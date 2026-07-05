@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 45"
+represents: "us/states/wy/districts/house/45"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karlee Provenza
 
 Current WY House District 45 (WY State House of Representatives District 45).
+
+Represents [WY State House of Representatives District 45](/us/states/wy/districts/house/45.md).
 
 ## Sources
 

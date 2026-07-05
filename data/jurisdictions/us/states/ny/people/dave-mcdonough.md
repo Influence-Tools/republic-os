@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 14"
+represents: "us/states/ny/districts/house/14"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave McDonough
 
 Current NY House District 14 (NY State House of Representatives District 14).
+
+Represents [NY State House of Representatives District 14](/us/states/ny/districts/house/14.md).
 
 ## Sources
 

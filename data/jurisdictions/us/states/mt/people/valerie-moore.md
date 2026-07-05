@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 29"
+represents: "us/states/mt/districts/house/29"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Valerie Moore
 
 Current MT House District 29 (MT State House of Representatives District 29).
+
+Represents [MT State House of Representatives District 29](/us/states/mt/districts/house/29.md).
 
 ## Sources
 

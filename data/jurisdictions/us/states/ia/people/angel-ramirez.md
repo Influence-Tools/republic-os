@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 78"
+represents: "us/states/ia/districts/house/78"
 tenure:
   start: "2025-05-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angel Ramirez
 
 Current IA House District 78 (IA State House of Representatives District 78).
+
+Represents [IA State House of Representatives District 78](/us/states/ia/districts/house/78.md).
 
 ## Sources
 

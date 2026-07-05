@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 124"
+represents: "us/states/ct/districts/house/124"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andre Baker
 
 Current CT House District 124 (CT State House of Representatives District 124).
+
+Represents [CT State House of Representatives District 124](/us/states/ct/districts/house/124.md).
 
 ## Sources
 

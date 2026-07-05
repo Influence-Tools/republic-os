@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Caledonia-Washington"
+represents: "us/states/vt/districts/house/caledonia-washington"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Burtt
 
 Current VT House District Caledonia-Washington (VT State House of Representatives District Caledonia-Washington).
+
+Represents [VT State House of Representatives District Caledonia-Washington](/us/states/vt/districts/house/caledonia-washington.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 12"
+represents: "us/states/me/districts/senate/12"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pinny Beebe-Center
 
 Current ME Senate District 12 (ME State Senate District 12).
+
+Represents [ME State Senate District 12](/us/states/me/districts/senate/12.md).
 
 ## Sources
 

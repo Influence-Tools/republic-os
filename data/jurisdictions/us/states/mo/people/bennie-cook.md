@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 143"
+represents: "us/states/mo/districts/house/143"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bennie Cook
 
 Current MO House District 143 (MO State House of Representatives District 143).
+
+Represents [MO State House of Representatives District 143](/us/states/mo/districts/house/143.md).
 
 ## Sources
 

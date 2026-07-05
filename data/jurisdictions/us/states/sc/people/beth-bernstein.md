@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 78"
+represents: "us/states/sc/districts/house/78"
 tenure:
   start: "2012-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Bernstein
 
 Current SC House District 78 (SC State House of Representatives District 78).
+
+Represents [SC State House of Representatives District 78](/us/states/sc/districts/house/78.md).
 
 ## Sources
 

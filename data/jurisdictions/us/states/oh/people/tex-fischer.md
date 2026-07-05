@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 59"
+represents: "us/states/oh/districts/house/59"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tex Fischer
 
 Current OH House District 59 (OH State House of Representatives District 59).
+
+Represents [OH State House of Representatives District 59](/us/states/oh/districts/house/59.md).
 
 ## Sources
 

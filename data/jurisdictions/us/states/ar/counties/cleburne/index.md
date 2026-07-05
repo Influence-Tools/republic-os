@@ -22,9 +22,33 @@ demographics:
   race_native: 123
   hispanic: 747
   bachelors_plus: 4726
+districts:
+  - to: "us/states/ar/districts/02"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/ar/districts/senate/22"
+    rel: in-district
+    area_weight: 0.5293
+  - to: "us/states/ar/districts/senate/18"
+    rel: in-district
+    area_weight: 0.2899
+  - to: "us/states/ar/districts/senate/24"
+    rel: in-district
+    area_weight: 0.1808
+  - to: "us/states/ar/districts/house/41"
+    rel: in-district
+    area_weight: 0.8904
+  - to: "us/states/ar/districts/house/40"
+    rel: in-district
+    area_weight: 0.081
+  - to: "us/states/ar/districts/house/42"
+    rel: in-district
+    area_weight: 0.0286
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ar]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction.
 | Hispanic/Latino | 747 |
 | Bachelor's or higher | 4726 |
 
+## Districts
+
+- [AR-02](/us/states/ar/districts/02.md) — 100% (congressional)
+- [AR Senate District 22](/us/states/ar/districts/senate/22.md) — 53% (state senate)
+- [AR Senate District 18](/us/states/ar/districts/senate/18.md) — 29% (state senate)
+- [AR Senate District 24](/us/states/ar/districts/senate/24.md) — 18% (state senate)
+- [AR House District 41](/us/states/ar/districts/house/41.md) — 89% (state house)
+- [AR House District 40](/us/states/ar/districts/house/40.md) — 8% (state house)
+- [AR House District 42](/us/states/ar/districts/house/42.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

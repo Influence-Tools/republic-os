@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 143"
+represents: "us/states/pa/districts/house/143"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelby Labs
 
 Current PA House District 143 (PA State House of Representatives District 143).
+
+Represents [PA State House of Representatives District 143](/us/states/pa/districts/house/143.md).
 
 ## Sources
 

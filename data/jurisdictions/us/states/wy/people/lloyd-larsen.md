@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 54"
+represents: "us/states/wy/districts/house/54"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lloyd Larsen
 
 Current WY House District 54 (WY State House of Representatives District 54).
+
+Represents [WY State House of Representatives District 54](/us/states/wy/districts/house/54.md).
 
 ## Sources
 

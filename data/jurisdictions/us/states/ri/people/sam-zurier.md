@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 3"
+represents: "us/states/ri/districts/senate/3"
 tenure:
   start: "2021-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Zurier
 
 Current RI Senate District 3 (RI State Senate District 3).
+
+Represents [RI State Senate District 3](/us/states/ri/districts/senate/3.md).
 
 ## Sources
 

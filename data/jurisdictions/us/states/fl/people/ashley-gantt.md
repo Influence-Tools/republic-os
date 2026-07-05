@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 109"
+represents: "us/states/fl/districts/house/109"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ashley Gantt
 
 Current FL House District 109 (FL State House of Representatives District 109).
+
+Represents [FL State House of Representatives District 109](/us/states/fl/districts/house/109.md).
 
 ## Sources
 

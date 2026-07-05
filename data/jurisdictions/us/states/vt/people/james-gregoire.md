@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Franklin-6"
+represents: "us/states/vt/districts/house/franklin-6"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Gregoire
 
 Current VT House District Franklin-6 (VT State House of Representatives District Franklin-6).
+
+Represents [VT State House of Representatives District Franklin-6](/us/states/vt/districts/house/franklin-6.md).
 
 ## Sources
 

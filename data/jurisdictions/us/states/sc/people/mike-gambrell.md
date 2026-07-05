@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 4"
+represents: "us/states/sc/districts/senate/4"
 tenure:
   start: "2016-05-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Gambrell
 
 Current SC Senate District 4 (SC State Senate District 4).
+
+Represents [SC State Senate District 4](/us/states/sc/districts/senate/4.md).
 
 ## Sources
 

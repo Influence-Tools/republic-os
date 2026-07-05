@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 43"
+represents: "us/states/wa/districts/house/43"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Macri
 
 Current WA House District 43 (WA State House of Representatives District 43).
+
+Represents [WA State House of Representatives District 43](/us/states/wa/districts/house/43.md).
 
 ## Sources
 

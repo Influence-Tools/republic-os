@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 5"
+represents: "us/states/tx/districts/05"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Lance Gooden
 
 Current U.S. House of Representatives - TX-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/tx/districts/05.md).
 
 ## Committees
 

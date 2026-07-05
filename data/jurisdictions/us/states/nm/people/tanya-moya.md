@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 7"
+represents: "us/states/nm/districts/house/7"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tanya Moya
 
 Current NM House District 7 (NM State House of Representatives District 7).
+
+Represents [NM State House of Representatives District 7](/us/states/nm/districts/house/7.md).
 
 ## Sources
 

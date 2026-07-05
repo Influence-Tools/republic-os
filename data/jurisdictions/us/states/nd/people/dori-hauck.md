@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 36"
+represents: "us/states/nd/districts/house/36"
 tenure:
   start: "2021-03-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dori Hauck
 
 Current ND House District 36 (ND State House of Representatives District 36).
+
+Represents [ND State House of Representatives District 36](/us/states/nd/districts/house/36.md).
 
 ## Sources
 

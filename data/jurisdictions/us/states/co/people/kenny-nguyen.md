@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 33"
+represents: "us/states/co/districts/house/33"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kenny Nguyen
 
 Current CO House District 33 (CO State House of Representatives District 33).
+
+Represents [CO State House of Representatives District 33](/us/states/co/districts/house/33.md).
 
 ## Sources
 

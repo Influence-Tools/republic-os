@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 34"
+represents: "us/states/tn/districts/house/34"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Rudd
 
 Current TN House District 34 (TN State House of Representatives District 34).
+
+Represents [TN State House of Representatives District 34](/us/states/tn/districts/house/34.md).
 
 ## Sources
 

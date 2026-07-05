@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 11"
+represents: "us/states/wv/districts/house/11"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Fehrenbacher
 
 Current WV House District 11 (WV State House of Representatives District 11).
+
+Represents [WV State House of Representatives District 11](/us/states/wv/districts/house/11.md).
 
 ## Sources
 

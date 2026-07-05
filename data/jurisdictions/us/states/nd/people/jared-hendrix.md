@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 10"
+represents: "us/states/nd/districts/house/10"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Hendrix
 
 Current ND House District 10 (ND State House of Representatives District 10).
+
+Represents [ND State House of Representatives District 10](/us/states/nd/districts/house/10.md).
 
 ## Sources
 

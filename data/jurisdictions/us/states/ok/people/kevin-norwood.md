@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 74"
+represents: "us/states/ok/districts/house/74"
 tenure:
   start: "2025-06-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Norwood
 
 Current OK House District 74 (OK State House of Representatives District 74).
+
+Represents [OK State House of Representatives District 74](/us/states/ok/districts/house/74.md).
 
 ## Sources
 

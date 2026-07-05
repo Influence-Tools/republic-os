@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Hampshire"
+represents: "us/states/ma/districts/house/2nd-hampshire"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Homar Gomez
 
 Current MA House District 2nd Hampshire (MA State House of Representatives District 2nd Hampshire).
+
+Represents [MA State House of Representatives District 2nd Hampshire](/us/states/ma/districts/house/2nd-hampshire.md).
 
 ## Sources
 

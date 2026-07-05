@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 19"
+represents: "us/states/in/districts/senate/19"
 tenure:
   start: "2008-04-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Holdman
 
 Current IN Senate District 19 (IN State Senate District 19).
+
+Represents [IN State Senate District 19](/us/states/in/districts/senate/19.md).
 
 ## Sources
 

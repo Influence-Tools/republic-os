@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 22"
+represents: "us/states/oh/districts/senate/22"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Romanchuk
 
 Current OH Senate District 22 (OH State Senate District 22).
+
+Represents [OH State Senate District 22](/us/states/oh/districts/senate/22.md).
 
 ## Sources
 

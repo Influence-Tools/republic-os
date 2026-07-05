@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 53"
+represents: "us/states/ut/districts/house/53"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kay Christofferson
 
 Current UT House District 53 (UT State House of Representatives District 53).
+
+Represents [UT State House of Representatives District 53](/us/states/ut/districts/house/53.md).
 
 ## Sources
 

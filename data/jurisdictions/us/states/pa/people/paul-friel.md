@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 26"
+represents: "us/states/pa/districts/house/26"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Friel
 
 Current PA House District 26 (PA State House of Representatives District 26).
+
+Represents [PA State House of Representatives District 26](/us/states/pa/districts/house/26.md).
 
 ## Sources
 

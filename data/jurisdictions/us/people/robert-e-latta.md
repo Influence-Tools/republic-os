@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 5"
+represents: "us/states/oh/districts/05"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Robert E. Latta
 
 Current U.S. House of Representatives - OH-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/oh/districts/05.md).
 
 ## Committees
 

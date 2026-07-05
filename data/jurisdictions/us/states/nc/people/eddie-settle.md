@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 36"
+represents: "us/states/nc/districts/senate/36"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Settle
 
 Current NC Senate District 36 (NC State Senate District 36).
+
+Represents [NC State Senate District 36](/us/states/nc/districts/senate/36.md).
 
 ## Sources
 

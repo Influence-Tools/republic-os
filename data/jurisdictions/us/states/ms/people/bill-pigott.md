@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 99"
+represents: "us/states/ms/districts/house/99"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Pigott
 
 Current MS House District 99 (MS State House of Representatives District 99).
+
+Represents [MS State House of Representatives District 99](/us/states/ms/districts/house/99.md).
 
 ## Sources
 

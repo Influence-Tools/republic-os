@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 4"
+represents: "us/states/mi/districts/04"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Bill Huizenga
 
 Current U.S. House of Representatives - MI-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/mi/districts/04.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 181"
+represents: "us/states/pa/districts/house/181"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Malcolm Kenyatta
 
 Current PA House District 181 (PA State House of Representatives District 181).
+
+Represents [PA State House of Representatives District 181](/us/states/pa/districts/house/181.md).
 
 ## Sources
 

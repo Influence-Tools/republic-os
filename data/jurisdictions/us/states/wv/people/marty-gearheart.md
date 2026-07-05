@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 37"
+represents: "us/states/wv/districts/house/37"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Gearheart
 
 Current WV House District 37 (WV State House of Representatives District 37).
+
+Represents [WV State House of Representatives District 37](/us/states/wv/districts/house/37.md).
 
 ## Sources
 

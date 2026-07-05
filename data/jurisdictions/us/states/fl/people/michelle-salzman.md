@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 1"
+represents: "us/states/fl/districts/house/1"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Salzman
 
 Current FL House District 1 (FL State House of Representatives District 1).
+
+Represents [FL State House of Representatives District 1](/us/states/fl/districts/house/1.md).
 
 ## Sources
 

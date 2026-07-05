@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 88"
+represents: "us/states/fl/districts/house/88"
 tenure:
   start: "2022-03-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tae Edmonds
 
 Current FL House District 88 (FL State House of Representatives District 88).
+
+Represents [FL State House of Representatives District 88](/us/states/fl/districts/house/88.md).
 
 ## Sources
 

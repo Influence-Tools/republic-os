@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 41"
+represents: "us/states/ny/districts/house/41"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kalman Yeger
 
 Current NY House District 41 (NY State House of Representatives District 41).
+
+Represents [NY State House of Representatives District 41](/us/states/ny/districts/house/41.md).
 
 ## Sources
 

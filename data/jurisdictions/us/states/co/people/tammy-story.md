@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 25"
+represents: "us/states/co/districts/house/25"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tammy Story
 
 Current CO House District 25 (CO State House of Representatives District 25).
+
+Represents [CO State House of Representatives District 25](/us/states/co/districts/house/25.md).
 
 ## Sources
 

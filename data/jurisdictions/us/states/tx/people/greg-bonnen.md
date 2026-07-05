@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 24"
+represents: "us/states/tx/districts/house/24"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Bonnen
 
 Current TX House District 24 (TX State House of Representatives District 24).
+
+Represents [TX State House of Representatives District 24](/us/states/tx/districts/house/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 20"
+represents: "us/states/mt/districts/senate/20"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Vinton
 
 Current MT Senate District 20 (MT State Senate District 20).
+
+Represents [MT State Senate District 20](/us/states/mt/districts/senate/20.md).
 
 ## Sources
 

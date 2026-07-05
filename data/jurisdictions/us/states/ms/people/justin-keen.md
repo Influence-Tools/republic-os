@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 6"
+represents: "us/states/ms/districts/house/6"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Keen
 
 Current MS House District 6 (MS State House of Representatives District 6).
+
+Represents [MS State House of Representatives District 6](/us/states/ms/districts/house/6.md).
 
 ## Sources
 

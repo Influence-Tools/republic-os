@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 8"
+represents: "us/states/pa/districts/08"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -67,6 +68,8 @@ timestamp: "2026-07-04"
 # Robert P. Bresnahan, Jr.
 
 Current U.S. House of Representatives - PA-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/pa/districts/08.md).
 
 ## Committees
 

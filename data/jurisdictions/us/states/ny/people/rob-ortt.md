@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 62"
+represents: "us/states/ny/districts/senate/62"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Ortt
 
 Current NY Senate District 62 (NY State Senate District 62).
+
+Represents [NY State Senate District 62](/us/states/ny/districts/senate/62.md).
 
 ## Sources
 

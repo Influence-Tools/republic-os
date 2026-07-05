@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 25"
+represents: "us/states/oh/districts/senate/25"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill DeMora
 
 Current OH Senate District 25 (OH State Senate District 25).
+
+Represents [OH State Senate District 25](/us/states/oh/districts/senate/25.md).
 
 ## Sources
 

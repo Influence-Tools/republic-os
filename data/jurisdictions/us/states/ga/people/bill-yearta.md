@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 152"
+represents: "us/states/ga/districts/house/152"
 tenure:
   start: "2019-12-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Yearta
 
 Current GA House District 152 (GA State House of Representatives District 152).
+
+Represents [GA State House of Representatives District 152](/us/states/ga/districts/house/152.md).
 
 ## Sources
 

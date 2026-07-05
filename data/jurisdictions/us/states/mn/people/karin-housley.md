@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 33"
+represents: "us/states/mn/districts/senate/33"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karin Housley
 
 Current MN Senate District 33 (MN State Senate District 33).
+
+Represents [MN State Senate District 33](/us/states/mn/districts/senate/33.md).
 
 ## Sources
 

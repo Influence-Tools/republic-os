@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 102"
+represents: "us/states/ct/districts/house/102"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robin Comey
 
 Current CT House District 102 (CT State House of Representatives District 102).
+
+Represents [CT State House of Representatives District 102](/us/states/ct/districts/house/102.md).
 
 ## Sources
 

@@ -22,9 +22,33 @@ demographics:
   race_native: 12
   hispanic: 919
   bachelors_plus: 14388
+districts:
+  - to: "us/states/wv/districts/02"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/wv/districts/senate/2"
+    rel: in-district
+    area_weight: 0.693
+  - to: "us/states/wv/districts/senate/13"
+    rel: in-district
+    area_weight: 0.3068
+  - to: "us/states/wv/districts/house/74"
+    rel: in-district
+    area_weight: 0.518
+  - to: "us/states/wv/districts/house/76"
+    rel: in-district
+    area_weight: 0.2344
+  - to: "us/states/wv/districts/house/75"
+    rel: in-district
+    area_weight: 0.188
+  - to: "us/states/wv/districts/house/73"
+    rel: in-district
+    area_weight: 0.0591
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wv]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 919 |
 | Bachelor's or higher | 14388 |
 
+## Districts
+
+- [WV-02](/us/states/wv/districts/02.md) — 100% (congressional)
+- [WV Senate District 2](/us/states/wv/districts/senate/2.md) — 69% (state senate)
+- [WV Senate District 13](/us/states/wv/districts/senate/13.md) — 31% (state senate)
+- [WV House District 74](/us/states/wv/districts/house/74.md) — 52% (state house)
+- [WV House District 76](/us/states/wv/districts/house/76.md) — 23% (state house)
+- [WV House District 75](/us/states/wv/districts/house/75.md) — 19% (state house)
+- [WV House District 73](/us/states/wv/districts/house/73.md) — 6% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

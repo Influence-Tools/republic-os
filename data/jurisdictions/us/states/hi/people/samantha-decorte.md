@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 22"
+represents: "us/states/hi/districts/senate/22"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Samantha DeCorte
 
 Current HI Senate District 22 (HI State Senate District 22).
+
+Represents [HI State Senate District 22](/us/states/hi/districts/senate/22.md).
 
 ## Sources
 

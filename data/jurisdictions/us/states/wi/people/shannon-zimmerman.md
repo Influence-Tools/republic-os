@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 30"
+represents: "us/states/wi/districts/house/30"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shannon Zimmerman
 
 Current WI House District 30 (WI State House of Representatives District 30).
+
+Represents [WI State House of Representatives District 30](/us/states/wi/districts/house/30.md).
 
 ## Sources
 

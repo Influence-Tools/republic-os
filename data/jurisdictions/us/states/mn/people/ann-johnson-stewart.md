@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 45"
+represents: "us/states/mn/districts/senate/45"
 tenure:
   start: "2024-11-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Johnson Stewart
 
 Current MN Senate District 45 (MN State Senate District 45).
+
+Represents [MN State Senate District 45](/us/states/mn/districts/senate/45.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 13B"
+represents: "us/states/mn/districts/house/13b"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim O'Driscoll
 
 Current MN House District 13B (MN State House of Representatives District 13B).
+
+Represents [MN State House of Representatives District 13B](/us/states/mn/districts/house/13b.md).
 
 ## Sources
 

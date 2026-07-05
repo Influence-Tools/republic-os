@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 8"
+represents: "us/states/pr/districts/house/8"
 tenure:
   start: "2014-10-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yashira Lebrón
 
 Current PR House District 8 (PR State House of Representatives District 8).
+
+Represents [PR State House of Representatives District 8](/us/states/pr/districts/house/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 132"
+represents: "us/states/ga/districts/house/132"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Prince
 
 Current GA House District 132 (GA State House of Representatives District 132).
+
+Represents [GA State House of Representatives District 132](/us/states/ga/districts/house/132.md).
 
 ## Sources
 

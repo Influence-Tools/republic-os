@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 29"
+represents: "us/states/or/districts/senate/29"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Nash
 
 Current OR Senate District 29 (OR State Senate District 29).
+
+Represents [OR State Senate District 29](/us/states/or/districts/senate/29.md).
 
 ## Sources
 

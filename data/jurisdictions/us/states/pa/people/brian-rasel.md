@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 56"
+represents: "us/states/pa/districts/house/56"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Rasel
 
 Current PA House District 56 (PA State House of Representatives District 56).
+
+Represents [PA State House of Representatives District 56](/us/states/pa/districts/house/56.md).
 
 ## Sources
 

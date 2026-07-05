@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 53"
+represents: "us/states/tn/districts/house/53"
 tenure:
   start: "2012-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Powell
 
 Current TN House District 53 (TN State House of Representatives District 53).
+
+Represents [TN State House of Representatives District 53](/us/states/tn/districts/house/53.md).
 
 ## Sources
 

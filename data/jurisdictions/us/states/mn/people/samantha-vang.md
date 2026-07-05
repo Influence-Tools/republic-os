@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 38B"
+represents: "us/states/mn/districts/house/38b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Samantha Vang
 
 Current MN House District 38B (MN State House of Representatives District 38B).
+
+Represents [MN State House of Representatives District 38B](/us/states/mn/districts/house/38b.md).
 
 ## Sources
 

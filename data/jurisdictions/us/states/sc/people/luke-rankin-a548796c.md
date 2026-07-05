@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 33"
+represents: "us/states/sc/districts/senate/33"
 tenure:
   start: "1992-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Luke Rankin
 
 Current SC Senate District 33 (SC State Senate District 33).
+
+Represents [SC State Senate District 33](/us/states/sc/districts/senate/33.md).
 
 ## Sources
 

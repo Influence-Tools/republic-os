@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 17"
+represents: "us/states/md/districts/senate/17"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cheryl Kagan
 
 Current MD Senate District 17 (MD State Senate District 17).
+
+Represents [MD State Senate District 17](/us/states/md/districts/senate/17.md).
 
 ## Sources
 

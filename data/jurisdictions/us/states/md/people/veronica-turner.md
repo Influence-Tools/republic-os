@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 26"
+represents: "us/states/md/districts/house/26"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Veronica Turner
 
 Current MD House District 26 (MD State House of Representatives District 26).
+
+Represents [MD State House of Representatives District 26](/us/states/md/districts/house/26.md).
 
 ## Sources
 

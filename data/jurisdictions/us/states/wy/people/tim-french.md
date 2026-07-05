@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 18"
+represents: "us/states/wy/districts/senate/18"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim French
 
 Current WY Senate District 18 (WY State Senate District 18).
+
+Represents [WY State Senate District 18](/us/states/wy/districts/senate/18.md).
 
 ## Sources
 

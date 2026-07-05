@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 53"
+represents: "us/states/wv/districts/house/53"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tristan Leavitt
 
 Current WV House District 53 (WV State House of Representatives District 53).
+
+Represents [WV State House of Representatives District 53](/us/states/wv/districts/house/53.md).
 
 ## Sources
 

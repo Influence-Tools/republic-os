@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 42"
+represents: "us/states/mn/districts/senate/42"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bonnie Westlin
 
 Current MN Senate District 42 (MN State Senate District 42).
+
+Represents [MN State Senate District 42](/us/states/mn/districts/senate/42.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 38"
+represents: "us/states/de/districts/house/38"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Gray
 
 Current DE House District 38 (DE State House of Representatives District 38).
+
+Represents [DE State House of Representatives District 38](/us/states/de/districts/house/38.md).
 
 ## Sources
 

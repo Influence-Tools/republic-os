@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 103"
+represents: "us/states/mo/districts/house/103"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Hinman
 
 Current MO House District 103 (MO State House of Representatives District 103).
+
+Represents [MO State House of Representatives District 103](/us/states/mo/districts/house/103.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 110"
+represents: "us/states/ny/districts/house/110"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Steck
 
 Current NY House District 110 (NY State House of Representatives District 110).
+
+Represents [NY State House of Representatives District 110](/us/states/ny/districts/house/110.md).
 
 ## Sources
 

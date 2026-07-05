@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 18"
+represents: "us/states/ri/districts/house/18"
 tenure:
   start: "2003-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arthur Handy
 
 Current RI House District 18 (RI State House of Representatives District 18).
+
+Represents [RI State House of Representatives District 18](/us/states/ri/districts/house/18.md).
 
 ## Sources
 

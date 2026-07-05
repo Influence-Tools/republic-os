@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 31"
+represents: "us/states/tn/districts/house/31"
 tenure:
   start: "2012-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Travis
 
 Current TN House District 31 (TN State House of Representatives District 31).
+
+Represents [TN State House of Representatives District 31](/us/states/tn/districts/house/31.md).
 
 ## Sources
 

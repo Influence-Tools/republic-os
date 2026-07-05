@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 20th Middlesex"
+represents: "us/states/ma/districts/house/20th-middlesex"
 tenure:
   start: "1995-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Jones
 
 Current MA House District 20th Middlesex (MA State House of Representatives District 20th Middlesex).
+
+Represents [MA State House of Representatives District 20th Middlesex](/us/states/ma/districts/house/20th-middlesex.md).
 
 ## Sources
 

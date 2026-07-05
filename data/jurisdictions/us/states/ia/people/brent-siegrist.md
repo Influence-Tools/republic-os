@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 19"
+represents: "us/states/ia/districts/house/19"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Siegrist
 
 Current IA House District 19 (IA State House of Representatives District 19).
+
+Represents [IA State House of Representatives District 19](/us/states/ia/districts/house/19.md).
 
 ## Sources
 

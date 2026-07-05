@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 25"
+represents: "us/states/nj/districts/senate/25"
 tenure:
   start: "2019-10-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Bucco
 
 Current NJ Senate District 25 (NJ State Senate District 25).
+
+Represents [NJ State Senate District 25](/us/states/nj/districts/senate/25.md).
 
 ## Sources
 

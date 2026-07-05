@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 48"
+represents: "us/states/il/districts/house/48"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Sanalitro
 
 Current IL House District 48 (IL State House of Representatives District 48).
+
+Represents [IL State House of Representatives District 48](/us/states/il/districts/house/48.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 72"
+represents: "us/states/mi/districts/house/72"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Mueller
 
 Current MI House District 72 (MI State House of Representatives District 72).
+
+Represents [MI State House of Representatives District 72](/us/states/mi/districts/house/72.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 2"
+represents: "us/states/mo/districts/senate/2"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Schroer
 
 Current MO Senate District 2 (MO State Senate District 2).
+
+Represents [MO State Senate District 2](/us/states/mo/districts/senate/2.md).
 
 ## Sources
 

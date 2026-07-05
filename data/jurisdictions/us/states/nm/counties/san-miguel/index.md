@@ -22,9 +22,33 @@ demographics:
   race_native: 620
   hispanic: 20192
   bachelors_plus: 7511
+districts:
+  - to: "us/states/nm/districts/03"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/nm/districts/senate/8"
+    rel: in-district
+    area_weight: 0.8038
+  - to: "us/states/nm/districts/senate/39"
+    rel: in-district
+    area_weight: 0.1962
+  - to: "us/states/nm/districts/house/70"
+    rel: in-district
+    area_weight: 0.7044
+  - to: "us/states/nm/districts/house/67"
+    rel: in-district
+    area_weight: 0.2257
+  - to: "us/states/nm/districts/house/40"
+    rel: in-district
+    area_weight: 0.0596
+  - to: "us/states/nm/districts/house/63"
+    rel: in-district
+    area_weight: 0.0102
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nm]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction.
 | Hispanic/Latino | 20192 |
 | Bachelor's or higher | 7511 |
 
+## Districts
+
+- [NM-03](/us/states/nm/districts/03.md) — 100% (congressional)
+- [NM Senate District 8](/us/states/nm/districts/senate/8.md) — 80% (state senate)
+- [NM Senate District 39](/us/states/nm/districts/senate/39.md) — 20% (state senate)
+- [NM House District 70](/us/states/nm/districts/house/70.md) — 70% (state house)
+- [NM House District 67](/us/states/nm/districts/house/67.md) — 23% (state house)
+- [NM House District 40](/us/states/nm/districts/house/40.md) — 6% (state house)
+- [NM House District 63](/us/states/nm/districts/house/63.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

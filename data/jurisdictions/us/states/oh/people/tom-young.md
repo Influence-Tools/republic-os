@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 37"
+represents: "us/states/oh/districts/house/37"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Young
 
 Current OH House District 37 (OH State House of Representatives District 37).
+
+Represents [OH State House of Representatives District 37](/us/states/oh/districts/house/37.md).
 
 ## Sources
 

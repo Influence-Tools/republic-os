@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 7"
+represents: "us/states/tx/districts/senate/7"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Bettencourt
 
 Current TX Senate District 7 (TX State Senate District 7).
+
+Represents [TX State Senate District 7](/us/states/tx/districts/senate/7.md).
 
 ## Sources
 

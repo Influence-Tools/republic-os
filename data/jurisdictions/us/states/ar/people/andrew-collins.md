@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 73"
+represents: "us/states/ar/districts/house/73"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Collins
 
 Current AR House District 73 (AR State House of Representatives District 73).
+
+Represents [AR State House of Representatives District 73](/us/states/ar/districts/house/73.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 20"
+represents: "us/states/or/districts/house/20"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Evans
 
 Current OR House District 20 (OR State House of Representatives District 20).
+
+Represents [OR State House of Representatives District 20](/us/states/or/districts/house/20.md).
 
 ## Sources
 

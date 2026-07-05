@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 6"
+represents: "us/states/co/districts/senate/6"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cleave Simpson
 
 Current CO Senate District 6 (CO State Senate District 6).
+
+Represents [CO State Senate District 6](/us/states/co/districts/senate/6.md).
 
 ## Sources
 

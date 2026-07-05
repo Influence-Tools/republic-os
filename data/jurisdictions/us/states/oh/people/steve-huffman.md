@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 5"
+represents: "us/states/oh/districts/senate/5"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Huffman
 
 Current OH Senate District 5 (OH State Senate District 5).
+
+Represents [OH State Senate District 5](/us/states/oh/districts/senate/5.md).
 
 ## Sources
 

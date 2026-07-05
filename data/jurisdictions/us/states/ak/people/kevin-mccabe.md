@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 30"
+represents: "us/states/ak/districts/house/30"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin McCabe
 
 Current AK House District 30 (AK State House of Representatives District 30).
+
+Represents [AK State House of Representatives District 30](/us/states/ak/districts/house/30.md).
 
 ## Sources
 

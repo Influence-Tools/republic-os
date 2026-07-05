@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Worcester and Middlesex"
+represents: "us/states/ma/districts/senate/worcester-and-middlesex"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Cronin
 
 Current MA Senate District Worcester and Middlesex (MA State Senate District Worcester and Middlesex).
+
+Represents [MA State Senate District Worcester and Middlesex](/us/states/ma/districts/senate/worcester-and-middlesex.md).
 
 ## Sources
 

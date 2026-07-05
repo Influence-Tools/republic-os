@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 3"
+represents: "us/states/az/districts/senate/3"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Kavanagh
 
 Current AZ Senate District 3 (AZ State Senate District 3).
+
+Represents [AZ State Senate District 3](/us/states/az/districts/senate/3.md).
 
 ## Sources
 

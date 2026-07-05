@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 24"
+represents: "us/states/ok/districts/senate/24"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darrell Weaver
 
 Current OK Senate District 24 (OK State Senate District 24).
+
+Represents [OK State Senate District 24](/us/states/ok/districts/senate/24.md).
 
 ## Sources
 

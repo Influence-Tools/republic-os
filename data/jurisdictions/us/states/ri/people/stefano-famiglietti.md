@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 4"
+represents: "us/states/ri/districts/senate/4"
 tenure:
   start: "2025-08-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stefano Famiglietti
 
 Current RI Senate District 4 (RI State Senate District 4).
+
+Represents [RI State Senate District 4](/us/states/ri/districts/senate/4.md).
 
 ## Sources
 

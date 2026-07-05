@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 13"
+represents: "us/states/ny/districts/13"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Adriano Espaillat
 
 Current U.S. House of Representatives - NY-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/ny/districts/13.md).
 
 ## Committees
 

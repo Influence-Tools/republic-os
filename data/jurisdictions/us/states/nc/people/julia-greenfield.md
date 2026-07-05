@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 100"
+represents: "us/states/nc/districts/house/100"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julia Greenfield
 
 Current NC House District 100 (NC State House of Representatives District 100).
+
+Represents [NC State House of Representatives District 100](/us/states/nc/districts/house/100.md).
 
 ## Sources
 

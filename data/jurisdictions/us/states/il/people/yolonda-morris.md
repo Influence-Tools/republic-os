@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 9"
+represents: "us/states/il/districts/house/9"
 tenure:
   start: "2023-09-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yolonda Morris
 
 Current IL House District 9 (IL State House of Representatives District 9).
+
+Represents [IL State House of Representatives District 9](/us/states/il/districts/house/9.md).
 
 ## Sources
 

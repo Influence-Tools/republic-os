@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 12"
+represents: "us/states/la/districts/house/12"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Turner
 
 Current LA House District 12 (LA State House of Representatives District 12).
+
+Represents [LA State House of Representatives District 12](/us/states/la/districts/house/12.md).
 
 ## Sources
 

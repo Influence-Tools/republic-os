@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 18"
+represents: "us/states/ct/districts/senate/18"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Somers
 
 Current CT Senate District 18 (CT State Senate District 18).
+
+Represents [CT State Senate District 18](/us/states/ct/districts/senate/18.md).
 
 ## Sources
 

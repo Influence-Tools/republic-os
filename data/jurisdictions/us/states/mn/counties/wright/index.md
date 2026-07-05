@@ -22,9 +22,39 @@ demographics:
   race_native: 390
   hispanic: 5389
   bachelors_plus: 42289
+districts:
+  - to: "us/states/mn/districts/06"
+    rel: in-district
+    area_weight: 0.9986
+  - to: "us/states/mn/districts/senate/29"
+    rel: in-district
+    area_weight: 0.7462
+  - to: "us/states/mn/districts/senate/30"
+    rel: in-district
+    area_weight: 0.1538
+  - to: "us/states/mn/districts/senate/17"
+    rel: in-district
+    area_weight: 0.0997
+  - to: "us/states/mn/districts/house/29a"
+    rel: in-district
+    area_weight: 0.5169
+  - to: "us/states/mn/districts/house/29b"
+    rel: in-district
+    area_weight: 0.2293
+  - to: "us/states/mn/districts/house/30a"
+    rel: in-district
+    area_weight: 0.1376
+  - to: "us/states/mn/districts/house/17a"
+    rel: in-district
+    area_weight: 0.0996
+  - to: "us/states/mn/districts/house/30b"
+    rel: in-district
+    area_weight: 0.0162
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mn]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 5389 |
 | Bachelor's or higher | 42289 |
 
+## Districts
+
+- [MN-06](/us/states/mn/districts/06.md) — 100% (congressional)
+- [MN Senate District 29](/us/states/mn/districts/senate/29.md) — 75% (state senate)
+- [MN Senate District 30](/us/states/mn/districts/senate/30.md) — 15% (state senate)
+- [MN Senate District 17](/us/states/mn/districts/senate/17.md) — 10% (state senate)
+- [MN House District 29A](/us/states/mn/districts/house/29a.md) — 52% (state house)
+- [MN House District 29B](/us/states/mn/districts/house/29b.md) — 23% (state house)
+- [MN House District 30A](/us/states/mn/districts/house/30a.md) — 14% (state house)
+- [MN House District 17A](/us/states/mn/districts/house/17a.md) — 10% (state house)
+- [MN House District 30B](/us/states/mn/districts/house/30b.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

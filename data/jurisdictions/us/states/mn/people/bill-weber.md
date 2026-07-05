@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 21"
+represents: "us/states/mn/districts/senate/21"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Weber
 
 Current MN Senate District 21 (MN State Senate District 21).
+
+Represents [MN State Senate District 21](/us/states/mn/districts/senate/21.md).
 
 ## Sources
 

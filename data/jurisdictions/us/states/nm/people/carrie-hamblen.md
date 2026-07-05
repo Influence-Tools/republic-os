@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 38"
+represents: "us/states/nm/districts/senate/38"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carrie Hamblen
 
 Current NM Senate District 38 (NM State Senate District 38).
+
+Represents [NM State Senate District 38](/us/states/nm/districts/senate/38.md).
 
 ## Sources
 

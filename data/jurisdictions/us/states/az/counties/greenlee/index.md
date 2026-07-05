@@ -22,9 +22,21 @@ demographics:
   race_native: 196
   hispanic: 4396
   bachelors_plus: 1802
+districts:
+  - to: "us/states/az/districts/06"
+    rel: in-district
+    area_weight: 0.9995
+  - to: "us/states/az/districts/senate/19"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/az/districts/house/19"
+    rel: in-district
+    area_weight: 0.9999
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, az]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 4396 |
 | Bachelor's or higher | 1802 |
 
+## Districts
+
+- [AZ-06](/us/states/az/districts/06.md) — 100% (congressional)
+- [AZ Senate District 19](/us/states/az/districts/senate/19.md) — 100% (state senate)
+- [AZ House District 19](/us/states/az/districts/house/19.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

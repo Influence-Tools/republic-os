@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 7"
+represents: "us/states/nc/districts/07"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -67,6 +68,8 @@ timestamp: "2026-07-04"
 # David Rouzer
 
 Current U.S. House of Representatives - NC-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/nc/districts/07.md).
 
 ## Committees
 

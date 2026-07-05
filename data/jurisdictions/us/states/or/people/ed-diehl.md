@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 17"
+represents: "us/states/or/districts/house/17"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Diehl
 
 Current OR House District 17 (OR State House of Representatives District 17).
+
+Represents [OR State House of Representatives District 17](/us/states/or/districts/house/17.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 93"
+represents: "us/states/mi/districts/house/93"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Kelly
 
 Current MI House District 93 (MI State House of Representatives District 93).
+
+Represents [MI State House of Representatives District 93](/us/states/mi/districts/house/93.md).
 
 ## Sources
 

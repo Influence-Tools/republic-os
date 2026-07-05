@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 120"
+represents: "us/states/fl/districts/house/120"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Mooney
 
 Current FL House District 120 (FL State House of Representatives District 120).
+
+Represents [FL State House of Representatives District 120](/us/states/fl/districts/house/120.md).
 
 ## Sources
 

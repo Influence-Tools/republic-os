@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 26"
+represents: "us/states/pr/districts/house/26"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josean Jiménez
 
 Current PR House District 26 (PR State House of Representatives District 26).
+
+Represents [PR State House of Representatives District 26](/us/states/pr/districts/house/26.md).
 
 ## Sources
 

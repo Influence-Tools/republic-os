@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 55"
+represents: "us/states/nm/districts/house/55"
 tenure:
   start: "2011-01-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cathrynn Brown
 
 Current NM House District 55 (NM State House of Representatives District 55).
+
+Represents [NM State House of Representatives District 55](/us/states/nm/districts/house/55.md).
 
 ## Sources
 

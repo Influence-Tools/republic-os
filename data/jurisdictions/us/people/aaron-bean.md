@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 4"
+represents: "us/states/fl/districts/04"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Aaron Bean
 
 Current U.S. House of Representatives - FL-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/fl/districts/04.md).
 
 ## Committees
 

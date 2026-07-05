@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 40"
+represents: "us/states/sc/districts/senate/40"
 tenure:
   start: "1996-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Hutto
 
 Current SC Senate District 40 (SC State Senate District 40).
+
+Represents [SC State Senate District 40](/us/states/sc/districts/senate/40.md).
 
 ## Sources
 

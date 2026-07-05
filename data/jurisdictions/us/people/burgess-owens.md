@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "UT"
 district: "Congressional District 4"
+represents: "us/states/ut/districts/04"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Burgess Owens
 
 Current U.S. House of Representatives - UT-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ut/districts/04.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 16B"
+represents: "us/states/id/districts/house/16b"
 tenure:
   start: "2025-07-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Annie Henderson Haws
 
 Current ID House District 16B (ID State House of Representatives District 16B).
+
+Represents [ID State House of Representatives District 16B](/us/states/id/districts/house/16b.md).
 
 ## Sources
 

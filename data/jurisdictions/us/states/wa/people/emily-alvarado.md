@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 34"
+represents: "us/states/wa/districts/senate/34"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Alvarado
 
 Current WA Senate District 34 (WA State Senate District 34).
+
+Represents [WA State Senate District 34](/us/states/wa/districts/senate/34.md).
 
 ## Sources
 

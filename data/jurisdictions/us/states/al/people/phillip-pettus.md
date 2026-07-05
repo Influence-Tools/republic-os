@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 1"
+represents: "us/states/al/districts/house/1"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phillip Pettus
 
 Current AL House District 1 (AL State House of Representatives District 1).
+
+Represents [AL State House of Representatives District 1](/us/states/al/districts/house/1.md).
 
 ## Sources
 

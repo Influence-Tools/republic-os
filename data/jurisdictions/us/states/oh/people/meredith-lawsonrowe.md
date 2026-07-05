@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 5"
+represents: "us/states/oh/districts/house/5"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meredith Lawson‐Rowe
 
 Current OH House District 5 (OH State House of Representatives District 5).
+
+Represents [OH State House of Representatives District 5](/us/states/oh/districts/house/5.md).
 
 ## Sources
 

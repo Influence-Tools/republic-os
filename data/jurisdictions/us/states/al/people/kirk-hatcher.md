@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 26"
+represents: "us/states/al/districts/senate/26"
 tenure:
   start: "2021-03-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kirk Hatcher
 
 Current AL Senate District 26 (AL State Senate District 26).
+
+Represents [AL State Senate District 26](/us/states/al/districts/senate/26.md).
 
 ## Sources
 

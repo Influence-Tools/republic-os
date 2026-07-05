@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 37"
+represents: "us/states/nm/districts/house/37"
 tenure:
   start: "2017-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joanne Ferrary
 
 Current NM House District 37 (NM State House of Representatives District 37).
+
+Represents [NM State House of Representatives District 37](/us/states/nm/districts/house/37.md).
 
 ## Sources
 

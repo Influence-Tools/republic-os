@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 65"
+represents: "us/states/ks/districts/house/65"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shawn Chauncey
 
 Current KS House District 65 (KS State House of Representatives District 65).
+
+Represents [KS State House of Representatives District 65](/us/states/ks/districts/house/65.md).
 
 ## Sources
 

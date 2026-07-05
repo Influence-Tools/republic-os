@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 14"
+represents: "us/states/pa/districts/house/14"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roman Kozak
 
 Current PA House District 14 (PA State House of Representatives District 14).
+
+Represents [PA State House of Representatives District 14](/us/states/pa/districts/house/14.md).
 
 ## Sources
 

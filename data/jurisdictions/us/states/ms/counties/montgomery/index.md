@@ -22,9 +22,24 @@ demographics:
   race_native: 0
   hispanic: 21
   bachelors_plus: 1899
+districts:
+  - to: "us/states/ms/districts/02"
+    rel: in-district
+    area_weight: 0.9988
+  - to: "us/states/ms/districts/senate/14"
+    rel: in-district
+    area_weight: 0.5519
+  - to: "us/states/ms/districts/senate/15"
+    rel: in-district
+    area_weight: 0.4481
+  - to: "us/states/ms/districts/house/46"
+    rel: in-district
+    area_weight: 0.9998
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ms]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 21 |
 | Bachelor's or higher | 1899 |
 
+## Districts
+
+- [MS-02](/us/states/ms/districts/02.md) — 100% (congressional)
+- [MS Senate District 14](/us/states/ms/districts/senate/14.md) — 55% (state senate)
+- [MS Senate District 15](/us/states/ms/districts/senate/15.md) — 45% (state senate)
+- [MS House District 46](/us/states/ms/districts/house/46.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

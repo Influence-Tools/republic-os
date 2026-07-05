@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 80"
+represents: "us/states/ok/districts/house/80"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stan May
 
 Current OK House District 80 (OK State House of Representatives District 80).
+
+Represents [OK State House of Representatives District 80](/us/states/ok/districts/house/80.md).
 
 ## Sources
 

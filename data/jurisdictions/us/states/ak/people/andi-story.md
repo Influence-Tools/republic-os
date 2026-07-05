@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 3"
+represents: "us/states/ak/districts/house/3"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andi Story
 
 Current AK House District 3 (AK State House of Representatives District 3).
+
+Represents [AK State House of Representatives District 3](/us/states/ak/districts/house/3.md).
 
 ## Sources
 

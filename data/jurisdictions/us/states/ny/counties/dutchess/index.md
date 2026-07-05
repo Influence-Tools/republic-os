@@ -22,9 +22,36 @@ demographics:
   race_native: 1824
   hispanic: 46023
   bachelors_plus: 129718
+districts:
+  - to: "us/states/ny/districts/18"
+    rel: in-district
+    area_weight: 0.8628
+  - to: "us/states/ny/districts/17"
+    rel: in-district
+    area_weight: 0.1369
+  - to: "us/states/ny/districts/senate/41"
+    rel: in-district
+    area_weight: 0.6214
+  - to: "us/states/ny/districts/senate/39"
+    rel: in-district
+    area_weight: 0.3785
+  - to: "us/states/ny/districts/house/105"
+    rel: in-district
+    area_weight: 0.4471
+  - to: "us/states/ny/districts/house/106"
+    rel: in-district
+    area_weight: 0.441
+  - to: "us/states/ny/districts/house/103"
+    rel: in-district
+    area_weight: 0.097
+  - to: "us/states/ny/districts/house/104"
+    rel: in-district
+    area_weight: 0.0148
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ny]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 46023 |
 | Bachelor's or higher | 129718 |
 
+## Districts
+
+- [NY-18](/us/states/ny/districts/18.md) — 86% (congressional)
+- [NY-17](/us/states/ny/districts/17.md) — 14% (congressional)
+- [NY Senate District 41](/us/states/ny/districts/senate/41.md) — 62% (state senate)
+- [NY Senate District 39](/us/states/ny/districts/senate/39.md) — 38% (state senate)
+- [NY House District 105](/us/states/ny/districts/house/105.md) — 45% (state house)
+- [NY House District 106](/us/states/ny/districts/house/106.md) — 44% (state house)
+- [NY House District 103](/us/states/ny/districts/house/103.md) — 10% (state house)
+- [NY House District 104](/us/states/ny/districts/house/104.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

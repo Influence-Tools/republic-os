@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 22"
+represents: "us/states/co/districts/senate/22"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessie Danielson
 
 Current CO Senate District 22 (CO State Senate District 22).
+
+Represents [CO State Senate District 22](/us/states/co/districts/senate/22.md).
 
 ## Sources
 

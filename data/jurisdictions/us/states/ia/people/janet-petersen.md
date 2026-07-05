@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 18"
+represents: "us/states/ia/districts/senate/18"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janet Petersen
 
 Current IA Senate District 18 (IA State Senate District 18).
+
+Represents [IA State Senate District 18](/us/states/ia/districts/senate/18.md).
 
 ## Sources
 

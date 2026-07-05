@@ -22,9 +22,24 @@ demographics:
   race_native: 87
   hispanic: 3431
   bachelors_plus: 2155
+districts:
+  - to: "us/states/nm/districts/02"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/nm/districts/senate/35"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/nm/districts/house/38"
+    rel: in-district
+    area_weight: 0.5307
+  - to: "us/states/nm/districts/house/49"
+    rel: in-district
+    area_weight: 0.4692
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nm]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 3431 |
 | Bachelor's or higher | 2155 |
 
+## Districts
+
+- [NM-02](/us/states/nm/districts/02.md) — 100% (congressional)
+- [NM Senate District 35](/us/states/nm/districts/senate/35.md) — 100% (state senate)
+- [NM House District 38](/us/states/nm/districts/house/38.md) — 53% (state house)
+- [NM House District 49](/us/states/nm/districts/house/49.md) — 47% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

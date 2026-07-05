@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 2"
+represents: "us/states/il/districts/02"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Robin L. Kelly
 
 Current U.S. House of Representatives - IL-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/il/districts/02.md).
 
 ## Committees
 

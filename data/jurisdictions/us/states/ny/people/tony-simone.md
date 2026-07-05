@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 75"
+represents: "us/states/ny/districts/house/75"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Simone
 
 Current NY House District 75 (NY State House of Representatives District 75).
+
+Represents [NY State House of Representatives District 75](/us/states/ny/districts/house/75.md).
 
 ## Sources
 

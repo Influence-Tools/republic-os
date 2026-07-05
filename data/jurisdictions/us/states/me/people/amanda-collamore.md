@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 68"
+represents: "us/states/me/districts/house/68"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amanda Collamore
 
 Current ME House District 68 (ME State House of Representatives District 68).
+
+Represents [ME State House of Representatives District 68](/us/states/me/districts/house/68.md).
 
 ## Sources
 

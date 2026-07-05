@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 64"
+represents: "us/states/ar/districts/house/64"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Ferguson
 
 Current AR House District 64 (AR State House of Representatives District 64).
+
+Represents [AR State House of Representatives District 64](/us/states/ar/districts/house/64.md).
 
 ## Sources
 

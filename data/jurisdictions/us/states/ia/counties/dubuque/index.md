@@ -22,9 +22,42 @@ demographics:
   race_native: 39
   hispanic: 3234
   bachelors_plus: 30135
+districts:
+  - to: "us/states/ia/districts/02"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/ia/districts/senate/33"
+    rel: in-district
+    area_weight: 0.7612
+  - to: "us/states/ia/districts/senate/36"
+    rel: in-district
+    area_weight: 0.1194
+  - to: "us/states/ia/districts/senate/34"
+    rel: in-district
+    area_weight: 0.06
+  - to: "us/states/ia/districts/senate/32"
+    rel: in-district
+    area_weight: 0.0593
+  - to: "us/states/ia/districts/house/65"
+    rel: in-district
+    area_weight: 0.7611
+  - to: "us/states/ia/districts/house/72"
+    rel: in-district
+    area_weight: 0.0972
+  - to: "us/states/ia/districts/house/67"
+    rel: in-district
+    area_weight: 0.06
+  - to: "us/states/ia/districts/house/64"
+    rel: in-district
+    area_weight: 0.0593
+  - to: "us/states/ia/districts/house/71"
+    rel: in-district
+    area_weight: 0.0222
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ia]
 timestamp: "2026-07-03"
@@ -56,6 +89,20 @@ County jurisdiction — 3 officeholders mapped.
 | Hispanic/Latino | 3234 |
 | Bachelor's or higher | 30135 |
 
+## Districts
+
+- [IA-02](/us/states/ia/districts/02.md) — 100% (congressional)
+- [IA Senate District 33](/us/states/ia/districts/senate/33.md) — 76% (state senate)
+- [IA Senate District 36](/us/states/ia/districts/senate/36.md) — 12% (state senate)
+- [IA Senate District 34](/us/states/ia/districts/senate/34.md) — 6% (state senate)
+- [IA Senate District 32](/us/states/ia/districts/senate/32.md) — 6% (state senate)
+- [IA House District 65](/us/states/ia/districts/house/65.md) — 76% (state house)
+- [IA House District 72](/us/states/ia/districts/house/72.md) — 10% (state house)
+- [IA House District 67](/us/states/ia/districts/house/67.md) — 6% (state house)
+- [IA House District 64](/us/states/ia/districts/house/64.md) — 6% (state house)
+- [IA House District 71](/us/states/ia/districts/house/71.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 29"
+represents: "us/states/in/districts/senate/29"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.D. Ford
 
 Current IN Senate District 29 (IN State Senate District 29).
+
+Represents [IN State Senate District 29](/us/states/in/districts/senate/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 36"
+represents: "us/states/nc/districts/house/36"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie von Haefen
 
 Current NC House District 36 (NC State House of Representatives District 36).
+
+Represents [NC State House of Representatives District 36](/us/states/nc/districts/house/36.md).
 
 ## Sources
 

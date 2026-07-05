@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 55"
+represents: "us/states/ok/districts/house/55"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Archer
 
 Current OK House District 55 (OK State House of Representatives District 55).
+
+Represents [OK State House of Representatives District 55](/us/states/ok/districts/house/55.md).
 
 ## Sources
 

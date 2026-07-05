@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 8"
+represents: "us/states/ga/districts/house/8"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stan Gunter
 
 Current GA House District 8 (GA State House of Representatives District 8).
+
+Represents [GA State House of Representatives District 8](/us/states/ga/districts/house/8.md).
 
 ## Sources
 

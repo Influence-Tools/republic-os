@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 88"
+represents: "us/states/nc/districts/house/88"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Belk
 
 Current NC House District 88 (NC State House of Representatives District 88).
+
+Represents [NC State House of Representatives District 88](/us/states/nc/districts/house/88.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 17"
+represents: "us/states/al/districts/senate/17"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shay Shelnutt
 
 Current AL Senate District 17 (AL State Senate District 17).
+
+Represents [AL State Senate District 17](/us/states/al/districts/senate/17.md).
 
 ## Sources
 

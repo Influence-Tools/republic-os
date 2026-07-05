@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 31"
+represents: "us/states/ak/districts/house/31"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maxine Dibert
 
 Current AK House District 31 (AK State House of Representatives District 31).
+
+Represents [AK State House of Representatives District 31](/us/states/ak/districts/house/31.md).
 
 ## Sources
 

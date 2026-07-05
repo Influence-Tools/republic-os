@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 159"
+represents: "us/states/pa/districts/house/159"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Kazeem
 
 Current PA House District 159 (PA State House of Representatives District 159).
+
+Represents [PA State House of Representatives District 159](/us/states/pa/districts/house/159.md).
 
 ## Sources
 

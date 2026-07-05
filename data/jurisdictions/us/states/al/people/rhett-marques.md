@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 91"
+represents: "us/states/al/districts/house/91"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rhett Marques
 
 Current AL House District 91 (AL State House of Representatives District 91).
+
+Represents [AL State House of Representatives District 91](/us/states/al/districts/house/91.md).
 
 ## Sources
 

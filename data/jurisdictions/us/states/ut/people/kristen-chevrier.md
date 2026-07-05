@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 54"
+represents: "us/states/ut/districts/house/54"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristen Chevrier
 
 Current UT House District 54 (UT State House of Representatives District 54).
+
+Represents [UT State House of Representatives District 54](/us/states/ut/districts/house/54.md).
 
 ## Sources
 

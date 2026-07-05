@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 4th Middlesex"
+represents: "us/states/ma/districts/house/4th-middlesex"
 tenure:
   start: "2013-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danielle Gregoire
 
 Current MA House District 4th Middlesex (MA State House of Representatives District 4th Middlesex).
+
+Represents [MA State House of Representatives District 4th Middlesex](/us/states/ma/districts/house/4th-middlesex.md).
 
 ## Sources
 

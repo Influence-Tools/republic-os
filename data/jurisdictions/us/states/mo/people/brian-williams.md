@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 14"
+represents: "us/states/mo/districts/senate/14"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Williams
 
 Current MO Senate District 14 (MO State Senate District 14).
+
+Represents [MO State Senate District 14](/us/states/mo/districts/senate/14.md).
 
 ## Sources
 

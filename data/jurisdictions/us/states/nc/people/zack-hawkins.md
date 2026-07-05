@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 31"
+represents: "us/states/nc/districts/house/31"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zack Hawkins
 
 Current NC House District 31 (NC State House of Representatives District 31).
+
+Represents [NC State House of Representatives District 31](/us/states/nc/districts/house/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 27"
+represents: "us/states/id/districts/senate/27"
 tenure:
   start: "2015-07-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Anthon
 
 Current ID Senate District 27 (ID State Senate District 27).
+
+Represents [ID State Senate District 27](/us/states/id/districts/senate/27.md).
 
 ## Sources
 

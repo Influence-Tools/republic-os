@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 80"
+represents: "us/states/ky/districts/house/80"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Meade
 
 Current KY House District 80 (KY State House of Representatives District 80).
+
+Represents [KY State House of Representatives District 80](/us/states/ky/districts/house/80.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 114"
+represents: "us/states/ct/districts/house/114"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Welander
 
 Current CT House District 114 (CT State House of Representatives District 114).
+
+Represents [CT State House of Representatives District 114](/us/states/ct/districts/house/114.md).
 
 ## Sources
 

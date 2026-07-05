@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 13"
+represents: "us/states/ia/districts/house/13"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Sitzmann
 
 Current IA House District 13 (IA State House of Representatives District 13).
+
+Represents [IA State House of Representatives District 13](/us/states/ia/districts/house/13.md).
 
 ## Sources
 

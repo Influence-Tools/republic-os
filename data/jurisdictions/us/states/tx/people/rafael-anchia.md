@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 103"
+represents: "us/states/tx/districts/house/103"
 tenure:
   start: "2005-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rafael Anchía
 
 Current TX House District 103 (TX State House of Representatives District 103).
+
+Represents [TX State House of Representatives District 103](/us/states/tx/districts/house/103.md).
 
 ## Sources
 

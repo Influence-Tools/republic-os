@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 10B"
+represents: "us/states/id/districts/house/10b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Skaug
 
 Current ID House District 10B (ID State House of Representatives District 10B).
+
+Represents [ID State House of Representatives District 10B](/us/states/id/districts/house/10b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 89"
+represents: "us/states/ar/districts/house/89"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Gonzales
 
 Current AR House District 89 (AR State House of Representatives District 89).
+
+Represents [AR State House of Representatives District 89](/us/states/ar/districts/house/89.md).
 
 ## Sources
 

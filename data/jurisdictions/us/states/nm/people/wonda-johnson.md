@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 5"
+represents: "us/states/nm/districts/house/5"
 tenure:
   start: "2015-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wonda Johnson
 
 Current NM House District 5 (NM State House of Representatives District 5).
+
+Represents [NM State House of Representatives District 5](/us/states/nm/districts/house/5.md).
 
 ## Sources
 

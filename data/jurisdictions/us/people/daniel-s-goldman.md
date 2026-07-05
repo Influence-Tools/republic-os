@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 10"
+represents: "us/states/ny/districts/10"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Daniel S. Goldman
 
 Current U.S. House of Representatives - NY-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/ny/districts/10.md).
 
 ## Committees
 

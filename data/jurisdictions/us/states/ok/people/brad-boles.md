@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 51"
+represents: "us/states/ok/districts/house/51"
 tenure:
   start: "2018-03-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Boles
 
 Current OK House District 51 (OK State House of Representatives District 51).
+
+Represents [OK State House of Representatives District 51](/us/states/ok/districts/house/51.md).
 
 ## Sources
 

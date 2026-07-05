@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 18"
+represents: "us/states/mt/districts/house/18"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Llew Jones
 
 Current MT House District 18 (MT State House of Representatives District 18).
+
+Represents [MT State House of Representatives District 18](/us/states/mt/districts/house/18.md).
 
 ## Sources
 

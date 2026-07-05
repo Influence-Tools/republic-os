@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 9"
+represents: "us/states/nh/districts/house/strafford-9"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Malone
 
 Current NH House District Strafford 9 (NH State House of Representatives District Strafford 9).
+
+Represents [NH State House of Representatives District Strafford 9](/us/states/nh/districts/house/strafford-9.md).
 
 ## Sources
 

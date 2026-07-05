@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 124"
+represents: "us/states/ga/districts/house/124"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Rhodes
 
 Current GA House District 124 (GA State House of Representatives District 124).
+
+Represents [GA State House of Representatives District 124](/us/states/ga/districts/house/124.md).
 
 ## Sources
 

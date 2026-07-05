@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 10"
+represents: "us/states/nd/districts/senate/10"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Braunberger
 
 Current ND Senate District 10 (ND State Senate District 10).
+
+Represents [ND State Senate District 10](/us/states/nd/districts/senate/10.md).
 
 ## Sources
 

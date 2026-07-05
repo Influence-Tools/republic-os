@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 67"
+represents: "us/states/tx/districts/house/67"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Leach
 
 Current TX House District 67 (TX State House of Representatives District 67).
+
+Represents [TX State House of Representatives District 67](/us/states/tx/districts/house/67.md).
 
 ## Sources
 

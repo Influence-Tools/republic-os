@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 9"
+represents: "us/states/ct/districts/senate/9"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Lesser
 
 Current CT Senate District 9 (CT State Senate District 9).
+
+Represents [CT State Senate District 9](/us/states/ct/districts/senate/9.md).
 
 ## Sources
 

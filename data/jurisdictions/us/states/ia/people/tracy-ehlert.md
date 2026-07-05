@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 79"
+represents: "us/states/ia/districts/house/79"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Ehlert
 
 Current IA House District 79 (IA State House of Representatives District 79).
+
+Represents [IA State House of Representatives District 79](/us/states/ia/districts/house/79.md).
 
 ## Sources
 

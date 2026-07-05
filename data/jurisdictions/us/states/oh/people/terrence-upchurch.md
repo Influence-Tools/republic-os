@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 20"
+represents: "us/states/oh/districts/house/20"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terrence Upchurch
 
 Current OH House District 20 (OH State House of Representatives District 20).
+
+Represents [OH State House of Representatives District 20](/us/states/oh/districts/house/20.md).
 
 ## Sources
 

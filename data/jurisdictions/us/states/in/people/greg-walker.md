@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 41"
+represents: "us/states/in/districts/senate/41"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Walker
 
 Current IN Senate District 41 (IN State Senate District 41).
+
+Represents [IN State Senate District 41](/us/states/in/districts/senate/41.md).
 
 ## Sources
 

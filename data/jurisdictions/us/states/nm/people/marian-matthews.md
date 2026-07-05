@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 27"
+represents: "us/states/nm/districts/house/27"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marian Matthews
 
 Current NM House District 27 (NM State House of Representatives District 27).
+
+Represents [NM State House of Representatives District 27](/us/states/nm/districts/house/27.md).
 
 ## Sources
 

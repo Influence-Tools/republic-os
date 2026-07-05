@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 59"
+represents: "us/states/ms/districts/house/59"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Powell
 
 Current MS House District 59 (MS State House of Representatives District 59).
+
+Represents [MS State House of Representatives District 59](/us/states/ms/districts/house/59.md).
 
 ## Sources
 

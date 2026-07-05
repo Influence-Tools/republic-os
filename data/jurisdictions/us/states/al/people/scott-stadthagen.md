@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 9"
+represents: "us/states/al/districts/house/9"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Stadthagen
 
 Current AL House District 9 (AL State House of Representatives District 9).
+
+Represents [AL State House of Representatives District 9](/us/states/al/districts/house/9.md).
 
 ## Sources
 

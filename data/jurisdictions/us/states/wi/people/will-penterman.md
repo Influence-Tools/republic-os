@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 38"
+represents: "us/states/wi/districts/house/38"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Penterman
 
 Current WI House District 38 (WI State House of Representatives District 38).
+
+Represents [WI State House of Representatives District 38](/us/states/wi/districts/house/38.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 44"
+represents: "us/states/ny/districts/house/44"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Carroll
 
 Current NY House District 44 (NY State House of Representatives District 44).
+
+Represents [NY State House of Representatives District 44](/us/states/ny/districts/house/44.md).
 
 ## Sources
 

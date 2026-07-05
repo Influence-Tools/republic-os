@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 19"
+represents: "us/states/fl/districts/senate/19"
 tenure:
   start: "2025-06-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debbie Mayfield
 
 Current FL Senate District 19 (FL State Senate District 19).
+
+Represents [FL State Senate District 19](/us/states/fl/districts/senate/19.md).
 
 ## Sources
 

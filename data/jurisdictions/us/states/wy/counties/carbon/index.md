@@ -22,9 +22,24 @@ demographics:
   race_native: 126
   hispanic: 2640
   bachelors_plus: 3302
+districts:
+  - to: "us/states/wy/districts/00"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/wy/districts/senate/11"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/wy/districts/house/47"
+    rel: in-district
+    area_weight: 0.6943
+  - to: "us/states/wy/districts/house/15"
+    rel: in-district
+    area_weight: 0.3055
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wy]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 2640 |
 | Bachelor's or higher | 3302 |
 
+## Districts
+
+- [WY-00](/us/states/wy/districts/00.md) — 100% (congressional)
+- [WY Senate District 11](/us/states/wy/districts/senate/11.md) — 100% (state senate)
+- [WY House District 47](/us/states/wy/districts/house/47.md) — 69% (state house)
+- [WY House District 15](/us/states/wy/districts/house/15.md) — 31% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

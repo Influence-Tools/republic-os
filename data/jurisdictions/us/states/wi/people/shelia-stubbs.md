@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 78"
+represents: "us/states/wi/districts/house/78"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelia Stubbs
 
 Current WI House District 78 (WI State House of Representatives District 78).
+
+Represents [WI State House of Representatives District 78](/us/states/wi/districts/house/78.md).
 
 ## Sources
 

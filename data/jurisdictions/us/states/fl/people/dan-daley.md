@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 96"
+represents: "us/states/fl/districts/house/96"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Daley
 
 Current FL House District 96 (FL State House of Representatives District 96).
+
+Represents [FL State House of Representatives District 96](/us/states/fl/districts/house/96.md).
 
 ## Sources
 

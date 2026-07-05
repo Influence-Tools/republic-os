@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 72"
+represents: "us/states/tx/districts/house/72"
 tenure:
   start: "2007-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Drew Darby
 
 Current TX House District 72 (TX State House of Representatives District 72).
+
+Represents [TX State House of Representatives District 72](/us/states/tx/districts/house/72.md).
 
 ## Sources
 

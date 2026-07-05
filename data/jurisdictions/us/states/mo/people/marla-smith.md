@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 74"
+represents: "us/states/mo/districts/house/74"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marla Smith
 
 Current MO House District 74 (MO State House of Representatives District 74).
+
+Represents [MO State House of Representatives District 74](/us/states/mo/districts/house/74.md).
 
 ## Sources
 

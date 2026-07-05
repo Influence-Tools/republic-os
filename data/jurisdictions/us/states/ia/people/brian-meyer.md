@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 29"
+represents: "us/states/ia/districts/house/29"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Meyer
 
 Current IA House District 29 (IA State House of Representatives District 29).
+
+Represents [IA State House of Representatives District 29](/us/states/ia/districts/house/29.md).
 
 ## Sources
 

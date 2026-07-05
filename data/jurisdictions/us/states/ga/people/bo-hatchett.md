@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 50"
+represents: "us/states/ga/districts/senate/50"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bo Hatchett
 
 Current GA Senate District 50 (GA State Senate District 50).
+
+Represents [GA State Senate District 50](/us/states/ga/districts/senate/50.md).
 
 ## Sources
 

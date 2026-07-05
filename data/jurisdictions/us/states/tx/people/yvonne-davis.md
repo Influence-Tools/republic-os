@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 111"
+represents: "us/states/tx/districts/house/111"
 tenure:
   start: "1993-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yvonne Davis
 
 Current TX House District 111 (TX State House of Representatives District 111).
+
+Represents [TX State House of Representatives District 111](/us/states/tx/districts/house/111.md).
 
 ## Sources
 

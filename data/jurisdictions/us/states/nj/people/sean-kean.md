@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 30"
+represents: "us/states/nj/districts/house/30"
 tenure:
   start: "2012-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Kean
 
 Current NJ House District 30 (NJ State House of Representatives District 30).
+
+Represents [NJ State House of Representatives District 30](/us/states/nj/districts/house/30.md).
 
 ## Sources
 

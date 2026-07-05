@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 144"
+represents: "us/states/me/districts/house/144"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Adams
 
 Current ME House District 144 (ME State House of Representatives District 144).
+
+Represents [ME State House of Representatives District 144](/us/states/me/districts/house/144.md).
 
 ## Sources
 

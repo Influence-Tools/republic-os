@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 8"
+represents: "us/states/wa/districts/senate/8"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Boehnke
 
 Current WA Senate District 8 (WA State Senate District 8).
+
+Represents [WA State Senate District 8](/us/states/wa/districts/senate/8.md).
 
 ## Sources
 

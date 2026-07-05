@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 183"
+represents: "us/states/pa/districts/house/183"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zach Mako
 
 Current PA House District 183 (PA State House of Representatives District 183).
+
+Represents [PA State House of Representatives District 183](/us/states/pa/districts/house/183.md).
 
 ## Sources
 

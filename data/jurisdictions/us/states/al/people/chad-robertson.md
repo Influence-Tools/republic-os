@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 40"
+represents: "us/states/al/districts/house/40"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Robertson
 
 Current AL House District 40 (AL State House of Representatives District 40).
+
+Represents [AL State House of Representatives District 40](/us/states/al/districts/house/40.md).
 
 ## Sources
 

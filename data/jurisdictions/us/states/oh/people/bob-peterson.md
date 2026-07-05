@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 91"
+represents: "us/states/oh/districts/house/91"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Peterson
 
 Current OH House District 91 (OH State House of Representatives District 91).
+
+Represents [OH State House of Representatives District 91](/us/states/oh/districts/house/91.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 10"
+represents: "us/states/wa/districts/senate/10"
 tenure:
   start: "2019-10-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Muzzall
 
 Current WA Senate District 10 (WA State Senate District 10).
+
+Represents [WA State Senate District 10](/us/states/wa/districts/senate/10.md).
 
 ## Sources
 

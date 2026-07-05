@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 45"
+represents: "us/states/wi/districts/house/45"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clint Anderson
 
 Current WI House District 45 (WI State House of Representatives District 45).
+
+Represents [WI State House of Representatives District 45](/us/states/wi/districts/house/45.md).
 
 ## Sources
 

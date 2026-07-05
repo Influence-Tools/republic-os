@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 13"
+represents: "us/states/nd/districts/senate/13"
 tenure:
   start: "1994-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judy Lee
 
 Current ND Senate District 13 (ND State Senate District 13).
+
+Represents [ND State Senate District 13](/us/states/nd/districts/senate/13.md).
 
 ## Sources
 

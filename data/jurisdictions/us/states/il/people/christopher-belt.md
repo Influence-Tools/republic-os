@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 57"
+represents: "us/states/il/districts/senate/57"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christopher Belt
 
 Current IL Senate District 57 (IL State Senate District 57).
+
+Represents [IL State Senate District 57](/us/states/il/districts/senate/57.md).
 
 ## Sources
 

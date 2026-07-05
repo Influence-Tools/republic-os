@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 38"
+represents: "us/states/wa/districts/senate/38"
 tenure:
   start: "2020-05-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # June Robinson
 
 Current WA Senate District 38 (WA State Senate District 38).
+
+Represents [WA State Senate District 38](/us/states/wa/districts/senate/38.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 23"
+represents: "us/states/mi/districts/senate/23"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Runestad
 
 Current MI Senate District 23 (MI State Senate District 23).
+
+Represents [MI State Senate District 23](/us/states/mi/districts/senate/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 39"
+represents: "us/states/hi/districts/house/39"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elijah Pierick
 
 Current HI House District 39 (HI State House of Representatives District 39).
+
+Represents [HI State House of Representatives District 39](/us/states/hi/districts/house/39.md).
 
 ## Sources
 

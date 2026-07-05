@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 82"
+represents: "us/states/nc/districts/house/82"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Echevarria
 
 Current NC House District 82 (NC State House of Representatives District 82).
+
+Represents [NC State House of Representatives District 82](/us/states/nc/districts/house/82.md).
 
 ## Sources
 

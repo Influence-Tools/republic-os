@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Orange-Caledonia"
+represents: "us/states/vt/districts/house/orange-caledonia"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph Parsons
 
 Current VT House District Orange-Caledonia (VT State House of Representatives District Orange-Caledonia).
+
+Represents [VT State House of Representatives District Orange-Caledonia](/us/states/vt/districts/house/orange-caledonia.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 33A"
+represents: "us/states/id/districts/house/33a"
 tenure:
   start: "2017-12-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Ehardt
 
 Current ID House District 33A (ID State House of Representatives District 33A).
+
+Represents [ID State House of Representatives District 33A](/us/states/id/districts/house/33a.md).
 
 ## Sources
 

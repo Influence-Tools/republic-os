@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 5"
+represents: "us/states/nc/districts/senate/5"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kandie Smith
 
 Current NC Senate District 5 (NC State Senate District 5).
+
+Represents [NC State Senate District 5](/us/states/nc/districts/senate/5.md).
 
 ## Sources
 

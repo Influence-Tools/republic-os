@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 79"
+represents: "us/states/oh/districts/house/79"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Monica Blasdel
 
 Current OH House District 79 (OH State House of Representatives District 79).
+
+Represents [OH State House of Representatives District 79](/us/states/oh/districts/house/79.md).
 
 ## Sources
 

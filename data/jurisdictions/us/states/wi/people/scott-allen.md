@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 82"
+represents: "us/states/wi/districts/house/82"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Allen
 
 Current WI House District 82 (WI State House of Representatives District 82).
+
+Represents [WI State House of Representatives District 82](/us/states/wi/districts/house/82.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 1"
+represents: "us/states/oh/districts/senate/1"
 tenure:
   start: "2017-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob McColley
 
 Current OH Senate District 1 (OH State Senate District 1).
+
+Represents [OH State Senate District 1](/us/states/oh/districts/senate/1.md).
 
 ## Sources
 

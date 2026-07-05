@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 111"
+represents: "us/states/il/districts/house/111"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Elik
 
 Current IL House District 111 (IL State House of Representatives District 111).
+
+Represents [IL State House of Representatives District 111](/us/states/il/districts/house/111.md).
 
 ## Sources
 

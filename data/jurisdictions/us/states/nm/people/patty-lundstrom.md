@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 9"
+represents: "us/states/nm/districts/house/9"
 tenure:
   start: "2003-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patty Lundstrom
 
 Current NM House District 9 (NM State House of Representatives District 9).
+
+Represents [NM State House of Representatives District 9](/us/states/nm/districts/house/9.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 69"
+represents: "us/states/ga/districts/house/69"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debra Bazemore
 
 Current GA House District 69 (GA State House of Representatives District 69).
+
+Represents [GA State House of Representatives District 69](/us/states/ga/districts/house/69.md).
 
 ## Sources
 

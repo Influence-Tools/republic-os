@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 7"
+represents: "us/states/nh/districts/house/strafford-7"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aidan Ankarberg
 
 Current NH House District Strafford 7 (NH State House of Representatives District Strafford 7).
+
+Represents [NH State House of Representatives District Strafford 7](/us/states/nh/districts/house/strafford-7.md).
 
 ## Sources
 

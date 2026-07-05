@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 3"
+represents: "us/states/tn/districts/senate/3"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rusty Crowe
 
 Current TN Senate District 3 (TN State Senate District 3).
+
+Represents [TN State Senate District 3](/us/states/tn/districts/senate/3.md).
 
 ## Sources
 

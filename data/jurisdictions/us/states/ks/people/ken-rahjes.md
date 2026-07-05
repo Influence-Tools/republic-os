@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 110"
+represents: "us/states/ks/districts/house/110"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Rahjes
 
 Current KS House District 110 (KS State House of Representatives District 110).
+
+Represents [KS State House of Representatives District 110](/us/states/ks/districts/house/110.md).
 
 ## Sources
 

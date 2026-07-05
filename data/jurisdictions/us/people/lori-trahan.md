@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 3"
+represents: "us/states/ma/districts/03"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Lori Trahan
 
 Current U.S. House of Representatives - MA-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ma/districts/03.md).
 
 ## Committees
 

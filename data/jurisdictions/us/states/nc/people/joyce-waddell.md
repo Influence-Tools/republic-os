@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 40"
+represents: "us/states/nc/districts/senate/40"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joyce Waddell
 
 Current NC Senate District 40 (NC State Senate District 40).
+
+Represents [NC State Senate District 40](/us/states/nc/districts/senate/40.md).
 
 ## Sources
 

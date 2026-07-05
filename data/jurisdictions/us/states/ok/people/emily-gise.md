@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 90"
+represents: "us/states/ok/districts/house/90"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Gise
 
 Current OK House District 90 (OK State House of Representatives District 90).
+
+Represents [OK State House of Representatives District 90](/us/states/ok/districts/house/90.md).
 
 ## Sources
 

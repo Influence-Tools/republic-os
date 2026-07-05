@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 131"
+represents: "us/states/ct/districts/house/131"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arnie Jensen
 
 Current CT House District 131 (CT State House of Representatives District 131).
+
+Represents [CT State House of Representatives District 131](/us/states/ct/districts/house/131.md).
 
 ## Sources
 

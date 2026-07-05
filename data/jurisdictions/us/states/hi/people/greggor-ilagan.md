@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 4"
+represents: "us/states/hi/districts/house/4"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greggor Ilagan
 
 Current HI House District 4 (HI State House of Representatives District 4).
+
+Represents [HI State House of Representatives District 4](/us/states/hi/districts/house/4.md).
 
 ## Sources
 

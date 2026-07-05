@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 98"
+represents: "us/states/va/districts/house/98"
 tenure:
   start: "2026-03-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Rice
 
 Current VA House District 98 (VA State House of Representatives District 98).
+
+Represents [VA State House of Representatives District 98](/us/states/va/districts/house/98.md).
 
 ## Sources
 

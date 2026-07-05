@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 10"
+represents: "us/states/al/districts/house/10"
 tenure:
   start: "2024-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marilyn Lands
 
 Current AL House District 10 (AL State House of Representatives District 10).
+
+Represents [AL State House of Representatives District 10](/us/states/al/districts/house/10.md).
 
 ## Sources
 

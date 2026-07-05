@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 22"
+represents: "us/states/nd/districts/house/22"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandy Pyle
 
 Current ND House District 22 (ND State House of Representatives District 22).
+
+Represents [ND State House of Representatives District 22](/us/states/nd/districts/house/22.md).
 
 ## Sources
 

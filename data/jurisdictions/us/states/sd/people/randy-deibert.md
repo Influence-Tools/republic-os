@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 31"
+represents: "us/states/sd/districts/senate/31"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Deibert
 
 Current SD Senate District 31 (SD State Senate District 31).
+
+Represents [SD State Senate District 31](/us/states/sd/districts/senate/31.md).
 
 ## Sources
 

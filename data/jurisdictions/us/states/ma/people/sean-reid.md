@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 11th Essex"
+represents: "us/states/ma/districts/house/11th-essex"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Reid
 
 Current MA House District 11th Essex (MA State House of Representatives District 11th Essex).
+
+Represents [MA State House of Representatives District 11th Essex](/us/states/ma/districts/house/11th-essex.md).
 
 ## Sources
 

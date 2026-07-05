@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 57"
+represents: "us/states/tx/districts/house/57"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Hayes
 
 Current TX House District 57 (TX State House of Representatives District 57).
+
+Represents [TX State House of Representatives District 57](/us/states/tx/districts/house/57.md).
 
 ## Sources
 

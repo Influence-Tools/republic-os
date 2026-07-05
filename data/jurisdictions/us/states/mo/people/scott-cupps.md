@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 158"
+represents: "us/states/mo/districts/house/158"
 tenure:
   start: "2020-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Cupps
 
 Current MO House District 158 (MO State House of Representatives District 158).
+
+Represents [MO State House of Representatives District 158](/us/states/mo/districts/house/158.md).
 
 ## Sources
 

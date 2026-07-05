@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 3"
+represents: "us/states/wa/districts/03"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Marie Gluesenkamp Perez
 
 Current U.S. House of Representatives - WA-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/wa/districts/03.md).
 
 ## Committees
 

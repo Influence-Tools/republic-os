@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 22"
+represents: "us/states/tx/districts/22"
 committees:
   - name: "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Troy E. Nehls
 
 Current U.S. House of Representatives - TX-22 (Congressional District 22).
+
+Represents [Congressional District 22](/us/states/tx/districts/22.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 19"
+represents: "us/states/ks/districts/senate/19"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Schmidt
 
 Current KS Senate District 19 (KS State Senate District 19).
+
+Represents [KS State Senate District 19](/us/states/ks/districts/senate/19.md).
 
 ## Sources
 

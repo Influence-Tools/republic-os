@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 13"
+represents: "us/states/pa/districts/senate/13"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Martin
 
 Current PA Senate District 13 (PA State Senate District 13).
+
+Represents [PA State Senate District 13](/us/states/pa/districts/senate/13.md).
 
 ## Sources
 

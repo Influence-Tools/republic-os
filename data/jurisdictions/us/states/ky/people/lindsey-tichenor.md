@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 6"
+represents: "us/states/ky/districts/senate/6"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsey Tichenor
 
 Current KY Senate District 6 (KY State Senate District 6).
+
+Represents [KY State Senate District 6](/us/states/ky/districts/senate/6.md).
 
 ## Sources
 

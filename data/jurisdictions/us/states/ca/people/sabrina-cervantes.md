@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 31"
+represents: "us/states/ca/districts/senate/31"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sabrina Cervantes
 
 Current CA Senate District 31 (CA State Senate District 31).
+
+Represents [CA State Senate District 31](/us/states/ca/districts/senate/31.md).
 
 ## Sources
 

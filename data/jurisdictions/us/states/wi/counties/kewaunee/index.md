@@ -22,9 +22,21 @@ demographics:
   race_native: 58
   hispanic: 847
   bachelors_plus: 4330
+districts:
+  - to: "us/states/wi/districts/08"
+    rel: in-district
+    area_weight: 0.3168
+  - to: "us/states/wi/districts/senate/1"
+    rel: in-district
+    area_weight: 0.3173
+  - to: "us/states/wi/districts/house/1"
+    rel: in-district
+    area_weight: 0.3173
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wi]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 847 |
 | Bachelor's or higher | 4330 |
 
+## Districts
+
+- [WI-08](/us/states/wi/districts/08.md) — 32% (congressional)
+- [WI Senate District 1](/us/states/wi/districts/senate/1.md) — 32% (state senate)
+- [WI House District 1](/us/states/wi/districts/house/1.md) — 32% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

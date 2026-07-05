@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Addison-Rutland"
+represents: "us/states/vt/districts/house/addison-rutland"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Casey
 
 Current VT House District Addison-Rutland (VT State House of Representatives District Addison-Rutland).
+
+Represents [VT State House of Representatives District Addison-Rutland](/us/states/vt/districts/house/addison-rutland.md).
 
 ## Sources
 

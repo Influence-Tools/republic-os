@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 53"
+represents: "us/states/nm/districts/house/53"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Silva
 
 Current NM House District 53 (NM State House of Representatives District 53).
+
+Represents [NM State House of Representatives District 53](/us/states/nm/districts/house/53.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 21"
+represents: "us/states/mt/districts/house/21"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Buttrey
 
 Current MT House District 21 (MT State House of Representatives District 21).
+
+Represents [MT State House of Representatives District 21](/us/states/mt/districts/house/21.md).
 
 ## Sources
 

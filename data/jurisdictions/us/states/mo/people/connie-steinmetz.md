@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 87"
+represents: "us/states/mo/districts/house/87"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Connie Steinmetz
 
 Current MO House District 87 (MO State House of Representatives District 87).
+
+Represents [MO State House of Representatives District 87](/us/states/mo/districts/house/87.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 3"
+represents: "us/states/in/districts/house/3"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ragen Hatcher
 
 Current IN House District 3 (IN State House of Representatives District 3).
+
+Represents [IN State House of Representatives District 3](/us/states/in/districts/house/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 20"
+represents: "us/states/md/districts/senate/20"
 tenure:
   start: "2016-12-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Smith
 
 Current MD Senate District 20 (MD State Senate District 20).
+
+Represents [MD State Senate District 20](/us/states/md/districts/senate/20.md).
 
 ## Sources
 

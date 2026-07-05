@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 125"
+represents: "us/states/ny/districts/house/125"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anna Kelles
 
 Current NY House District 125 (NY State House of Representatives District 125).
+
+Represents [NY State House of Representatives District 125](/us/states/ny/districts/house/125.md).
 
 ## Sources
 

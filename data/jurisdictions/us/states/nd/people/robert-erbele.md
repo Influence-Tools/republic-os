@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 28"
+represents: "us/states/nd/districts/senate/28"
 tenure:
   start: "2000-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Erbele
 
 Current ND Senate District 28 (ND State Senate District 28).
+
+Represents [ND State Senate District 28](/us/states/nd/districts/senate/28.md).
 
 ## Sources
 

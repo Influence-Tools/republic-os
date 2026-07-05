@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 24"
+represents: "us/states/ri/districts/house/24"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Evan Shanley
 
 Current RI House District 24 (RI State House of Representatives District 24).
+
+Represents [RI State House of Representatives District 24](/us/states/ri/districts/house/24.md).
 
 ## Sources
 

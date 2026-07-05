@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 47"
+represents: "us/states/ms/districts/house/47"
 tenure:
   start: "2004-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryant Clark
 
 Current MS House District 47 (MS State House of Representatives District 47).
+
+Represents [MS State House of Representatives District 47](/us/states/ms/districts/house/47.md).
 
 ## Sources
 

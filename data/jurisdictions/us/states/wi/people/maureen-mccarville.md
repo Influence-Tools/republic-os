@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 42"
+represents: "us/states/wi/districts/house/42"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maureen McCarville
 
 Current WI House District 42 (WI State House of Representatives District 42).
+
+Represents [WI State House of Representatives District 42](/us/states/wi/districts/house/42.md).
 
 ## Sources
 

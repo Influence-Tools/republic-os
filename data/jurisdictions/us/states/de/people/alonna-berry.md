@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 20"
+represents: "us/states/de/districts/house/20"
 tenure:
   start: "2025-08-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alonna Berry
 
 Current DE House District 20 (DE State House of Representatives District 20).
+
+Represents [DE State House of Representatives District 20](/us/states/de/districts/house/20.md).
 
 ## Sources
 

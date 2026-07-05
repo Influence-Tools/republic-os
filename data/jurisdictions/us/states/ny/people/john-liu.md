@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 16"
+represents: "us/states/ny/districts/senate/16"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Liu
 
 Current NY Senate District 16 (NY State Senate District 16).
+
+Represents [NY State Senate District 16](/us/states/ny/districts/senate/16.md).
 
 ## Sources
 

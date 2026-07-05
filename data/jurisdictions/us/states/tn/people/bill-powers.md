@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 22"
+represents: "us/states/tn/districts/senate/22"
 tenure:
   start: "2019-04-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Powers
 
 Current TN Senate District 22 (TN State Senate District 22).
+
+Represents [TN State Senate District 22](/us/states/tn/districts/senate/22.md).
 
 ## Sources
 

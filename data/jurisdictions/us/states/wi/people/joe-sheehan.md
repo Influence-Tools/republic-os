@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 26"
+represents: "us/states/wi/districts/house/26"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Sheehan
 
 Current WI House District 26 (WI State House of Representatives District 26).
+
+Represents [WI State House of Representatives District 26](/us/states/wi/districts/house/26.md).
 
 ## Sources
 

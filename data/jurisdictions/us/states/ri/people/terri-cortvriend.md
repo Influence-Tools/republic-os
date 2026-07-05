@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 72"
+represents: "us/states/ri/districts/house/72"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terri Cortvriend
 
 Current RI House District 72 (RI State House of Representatives District 72).
+
+Represents [RI State House of Representatives District 72](/us/states/ri/districts/house/72.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 101"
+represents: "us/states/ny/districts/house/101"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Maher
 
 Current NY House District 101 (NY State House of Representatives District 101).
+
+Represents [NY State House of Representatives District 101](/us/states/ny/districts/house/101.md).
 
 ## Sources
 

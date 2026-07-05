@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 9"
+represents: "us/states/nd/districts/senate/9"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Marcellais
 
 Current ND Senate District 9 (ND State Senate District 9).
+
+Represents [ND State Senate District 9](/us/states/nd/districts/senate/9.md).
 
 ## Sources
 

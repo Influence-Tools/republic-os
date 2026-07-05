@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 37"
+represents: "us/states/wy/districts/house/37"
 tenure:
   start: "2003-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Harshman
 
 Current WY House District 37 (WY State House of Representatives District 37).
+
+Represents [WY State House of Representatives District 37](/us/states/wy/districts/house/37.md).
 
 ## Sources
 

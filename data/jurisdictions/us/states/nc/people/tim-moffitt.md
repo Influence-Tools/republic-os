@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 48"
+represents: "us/states/nc/districts/senate/48"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Moffitt
 
 Current NC Senate District 48 (NC State Senate District 48).
+
+Represents [NC State Senate District 48](/us/states/nc/districts/senate/48.md).
 
 ## Sources
 

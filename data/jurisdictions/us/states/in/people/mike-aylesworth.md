@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 11"
+represents: "us/states/in/districts/house/11"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Aylesworth
 
 Current IN House District 11 (IN State House of Representatives District 11).
+
+Represents [IN State House of Representatives District 11](/us/states/in/districts/house/11.md).
 
 ## Sources
 

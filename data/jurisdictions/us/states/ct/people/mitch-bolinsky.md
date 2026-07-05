@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 106"
+represents: "us/states/ct/districts/house/106"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mitch Bolinsky
 
 Current CT House District 106 (CT State House of Representatives District 106).
+
+Represents [CT State House of Representatives District 106](/us/states/ct/districts/house/106.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 17"
+represents: "us/states/fl/districts/17"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # W. Gregory Steube
 
 Current U.S. House of Representatives - FL-17 (Congressional District 17).
+
+Represents [Congressional District 17](/us/states/fl/districts/17.md).
 
 ## Committees
 

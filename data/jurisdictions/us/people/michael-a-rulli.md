@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 6"
+represents: "us/states/oh/districts/06"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Michael A. Rulli
 
 Current U.S. House of Representatives - OH-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/oh/districts/06.md).
 
 ## Committees
 

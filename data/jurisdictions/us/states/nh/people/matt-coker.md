@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Belknap 2"
+represents: "us/states/nh/districts/house/belknap-2"
 tenure:
   start: "2024-02-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Coker
 
 Current NH House District Belknap 2 (NH State House of Representatives District Belknap 2).
+
+Represents [NH State House of Representatives District Belknap 2](/us/states/nh/districts/house/belknap-2.md).
 
 ## Sources
 

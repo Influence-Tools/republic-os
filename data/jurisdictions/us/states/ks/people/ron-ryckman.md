@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 38"
+represents: "us/states/ks/districts/senate/38"
 tenure:
   start: "2021-03-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Ryckman
 
 Current KS Senate District 38 (KS State Senate District 38).
+
+Represents [KS State Senate District 38](/us/states/ks/districts/senate/38.md).
 
 ## Sources
 

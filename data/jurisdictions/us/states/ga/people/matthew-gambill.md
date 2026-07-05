@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 15"
+represents: "us/states/ga/districts/house/15"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthew Gambill
 
 Current GA House District 15 (GA State House of Representatives District 15).
+
+Represents [GA State House of Representatives District 15](/us/states/ga/districts/house/15.md).
 
 ## Sources
 

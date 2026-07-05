@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 34"
+represents: "us/states/nh/districts/house/rockingham-34"
 tenure:
   start: "2016-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Pearson
 
 Current NH House District Rockingham 34 (NH State House of Representatives District Rockingham 34).
+
+Represents [NH State House of Representatives District Rockingham 34](/us/states/nh/districts/house/rockingham-34.md).
 
 ## Sources
 

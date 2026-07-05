@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 30"
+represents: "us/states/or/districts/senate/30"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike McLane
 
 Current OR Senate District 30 (OR State Senate District 30).
+
+Represents [OR State Senate District 30](/us/states/or/districts/senate/30.md).
 
 ## Sources
 

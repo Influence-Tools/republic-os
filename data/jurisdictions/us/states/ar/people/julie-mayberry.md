@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 92"
+represents: "us/states/ar/districts/house/92"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Mayberry
 
 Current AR House District 92 (AR State House of Representatives District 92).
+
+Represents [AR State House of Representatives District 92](/us/states/ar/districts/house/92.md).
 
 ## Sources
 

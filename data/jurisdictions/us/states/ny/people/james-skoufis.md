@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 42"
+represents: "us/states/ny/districts/senate/42"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Skoufis
 
 Current NY Senate District 42 (NY State Senate District 42).
+
+Represents [NY State Senate District 42](/us/states/ny/districts/senate/42.md).
 
 ## Sources
 

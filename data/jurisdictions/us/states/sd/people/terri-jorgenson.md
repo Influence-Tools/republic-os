@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 29"
+represents: "us/states/sd/districts/house/29"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terri Jorgenson
 
 Current SD House District 29 (SD State House of Representatives District 29).
+
+Represents [SD State House of Representatives District 29](/us/states/sd/districts/house/29.md).
 
 ## Sources
 

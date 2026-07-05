@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-16"
+represents: "us/states/vt/districts/house/chittenden-16"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Logan
 
 Current VT House District Chittenden-16 (VT State House of Representatives District Chittenden-16).
+
+Represents [VT State House of Representatives District Chittenden-16](/us/states/vt/districts/house/chittenden-16.md).
 
 ## Sources
 

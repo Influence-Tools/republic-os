@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 100"
+represents: "us/states/sc/districts/house/100"
 tenure:
   start: "2016-06-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sylleste Davis
 
 Current SC House District 100 (SC State House of Representatives District 100).
+
+Represents [SC State House of Representatives District 100](/us/states/sc/districts/house/100.md).
 
 ## Sources
 

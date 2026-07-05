@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Middlesex and Worcester"
+represents: "us/states/ma/districts/senate/middlesex-and-worcester"
 tenure:
   start: "2009-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Eldridge
 
 Current MA Senate District Middlesex and Worcester (MA State Senate District Middlesex and Worcester).
+
+Represents [MA State Senate District Middlesex and Worcester](/us/states/ma/districts/senate/middlesex-and-worcester.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 36"
+represents: "us/states/ct/districts/senate/36"
 tenure:
   start: "2021-08-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Fazio
 
 Current CT Senate District 36 (CT State Senate District 36).
+
+Represents [CT State Senate District 36](/us/states/ct/districts/senate/36.md).
 
 ## Sources
 

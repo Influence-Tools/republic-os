@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 81"
+represents: "us/states/mt/districts/house/81"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Caferro
 
 Current MT House District 81 (MT State House of Representatives District 81).
+
+Represents [MT State House of Representatives District 81](/us/states/mt/districts/house/81.md).
 
 ## Sources
 

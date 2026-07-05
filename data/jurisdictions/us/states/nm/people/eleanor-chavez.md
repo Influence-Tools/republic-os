@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 26"
+represents: "us/states/nm/districts/house/26"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eleanor Chávez
 
 Current NM House District 26 (NM State House of Representatives District 26).
+
+Represents [NM State House of Representatives District 26](/us/states/nm/districts/house/26.md).
 
 ## Sources
 

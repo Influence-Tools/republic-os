@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 23"
+represents: "us/states/nv/districts/house/23"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danielle Gallant
 
 Current NV House District 23 (NV State House of Representatives District 23).
+
+Represents [NV State House of Representatives District 23](/us/states/nv/districts/house/23.md).
 
 ## Sources
 

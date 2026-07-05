@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 120"
+represents: "us/states/me/districts/house/120"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deqa Dhalac
 
 Current ME House District 120 (ME State House of Representatives District 120).
+
+Represents [ME State House of Representatives District 120](/us/states/me/districts/house/120.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 36"
+represents: "us/states/mn/districts/senate/36"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Gustafson
 
 Current MN Senate District 36 (MN State Senate District 36).
+
+Represents [MN State Senate District 36](/us/states/mn/districts/senate/36.md).
 
 ## Sources
 

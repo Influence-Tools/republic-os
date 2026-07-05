@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 13"
+represents: "us/states/ms/districts/house/13"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Massengill
 
 Current MS House District 13 (MS State House of Representatives District 13).
+
+Represents [MS State House of Representatives District 13](/us/states/ms/districts/house/13.md).
 
 ## Sources
 

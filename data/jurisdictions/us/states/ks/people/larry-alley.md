@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 32"
+represents: "us/states/ks/districts/senate/32"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Alley
 
 Current KS Senate District 32 (KS State Senate District 32).
+
+Represents [KS State Senate District 32](/us/states/ks/districts/senate/32.md).
 
 ## Sources
 

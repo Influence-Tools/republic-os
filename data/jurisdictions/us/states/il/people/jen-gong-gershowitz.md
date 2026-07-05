@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 17"
+represents: "us/states/il/districts/house/17"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jen Gong-Gershowitz
 
 Current IL House District 17 (IL State House of Representatives District 17).
+
+Represents [IL State House of Representatives District 17](/us/states/il/districts/house/17.md).
 
 ## Sources
 

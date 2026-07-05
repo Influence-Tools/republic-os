@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 32"
+represents: "us/states/pr/districts/house/32"
 tenure:
   start: "1997-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Conny Varela
 
 Current PR House District 32 (PR State House of Representatives District 32).
+
+Represents [PR State House of Representatives District 32](/us/states/pr/districts/house/32.md).
 
 ## Sources
 

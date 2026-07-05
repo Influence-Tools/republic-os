@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 6"
+represents: "us/states/me/districts/senate/6"
 tenure:
   start: "2018-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marianne Moore
 
 Current ME Senate District 6 (ME State Senate District 6).
+
+Represents [ME State Senate District 6](/us/states/me/districts/senate/6.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 3"
+represents: "us/states/ct/districts/house/3"
 tenure:
   start: "1997-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Minnie Gonzalez
 
 Current CT House District 3 (CT State House of Representatives District 3).
+
+Represents [CT State House of Representatives District 3](/us/states/ct/districts/house/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 43A"
+represents: "us/states/md/districts/house/43a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elizabeth Embry
 
 Current MD House District 43A (MD State House of Representatives District 43A).
+
+Represents [MD State House of Representatives District 43A](/us/states/md/districts/house/43a.md).
 
 ## Sources
 

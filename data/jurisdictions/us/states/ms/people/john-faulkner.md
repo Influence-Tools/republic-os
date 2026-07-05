@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 5"
+represents: "us/states/ms/districts/house/5"
 tenure:
   start: "2014-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Faulkner
 
 Current MS House District 5 (MS State House of Representatives District 5).
+
+Represents [MS State House of Representatives District 5](/us/states/ms/districts/house/5.md).
 
 ## Sources
 

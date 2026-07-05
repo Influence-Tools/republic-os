@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 26B"
+represents: "us/states/id/districts/house/26b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Nelsen
 
 Current ID House District 26B (ID State House of Representatives District 26B).
+
+Represents [ID State House of Representatives District 26B](/us/states/id/districts/house/26b.md).
 
 ## Sources
 

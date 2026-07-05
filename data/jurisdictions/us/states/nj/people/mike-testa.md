@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 1"
+represents: "us/states/nj/districts/senate/1"
 tenure:
   start: "2019-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Testa
 
 Current NJ Senate District 1 (NJ State Senate District 1).
+
+Represents [NJ State Senate District 1](/us/states/nj/districts/senate/1.md).
 
 ## Sources
 

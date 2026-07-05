@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 99"
+represents: "us/states/va/districts/house/99"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Ferrell Tata
 
 Current VA House District 99 (VA State House of Representatives District 99).
+
+Represents [VA State House of Representatives District 99](/us/states/va/districts/house/99.md).
 
 ## Sources
 

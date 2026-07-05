@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 1"
+represents: "us/states/ok/districts/senate/1"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Micheal Bergstrom
 
 Current OK Senate District 1 (OK State Senate District 1).
+
+Represents [OK State Senate District 1](/us/states/ok/districts/senate/1.md).
 
 ## Sources
 

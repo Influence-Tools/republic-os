@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 10"
+represents: "us/states/il/districts/house/10"
 tenure:
   start: "2019-05-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Omar Williams
 
 Current IL House District 10 (IL State House of Representatives District 10).
+
+Represents [IL State House of Representatives District 10](/us/states/il/districts/house/10.md).
 
 ## Sources
 

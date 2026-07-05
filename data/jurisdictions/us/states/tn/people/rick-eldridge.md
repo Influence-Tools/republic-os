@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 10"
+represents: "us/states/tn/districts/house/10"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Eldridge
 
 Current TN House District 10 (TN State House of Representatives District 10).
+
+Represents [TN State House of Representatives District 10](/us/states/tn/districts/house/10.md).
 
 ## Sources
 

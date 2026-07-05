@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 63B"
+represents: "us/states/mn/districts/house/63b"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emma Greenman
 
 Current MN House District 63B (MN State House of Representatives District 63B).
+
+Represents [MN State House of Representatives District 63B](/us/states/mn/districts/house/63b.md).
 
 ## Sources
 

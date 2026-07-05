@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 193"
+represents: "us/states/pa/districts/house/193"
 tenure:
   start: "2026-04-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Catherine Wallen
 
 Current PA House District 193 (PA State House of Representatives District 193).
+
+Represents [PA State House of Representatives District 193](/us/states/pa/districts/house/193.md).
 
 ## Sources
 

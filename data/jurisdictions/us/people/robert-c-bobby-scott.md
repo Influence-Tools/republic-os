@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 3"
+represents: "us/states/va/districts/03"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "ranking-member"
@@ -43,6 +44,8 @@ timestamp: "2026-07-04"
 # Robert C. "Bobby" Scott
 
 Current U.S. House of Representatives - VA-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/va/districts/03.md).
 
 ## Committees
 

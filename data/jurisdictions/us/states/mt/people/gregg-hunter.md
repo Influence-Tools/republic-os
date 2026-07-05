@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 15"
+represents: "us/states/mt/districts/senate/15"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregg Hunter
 
 Current MT Senate District 15 (MT State Senate District 15).
+
+Represents [MT State Senate District 15](/us/states/mt/districts/senate/15.md).
 
 ## Sources
 

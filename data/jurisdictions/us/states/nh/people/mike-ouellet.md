@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Coos 3"
+represents: "us/states/nh/districts/house/coos-3"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Ouellet
 
 Current NH House District Coos 3 (NH State House of Representatives District Coos 3).
+
+Represents [NH State House of Representatives District Coos 3](/us/states/nh/districts/house/coos-3.md).
 
 ## Sources
 

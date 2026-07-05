@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 31"
+represents: "us/states/ms/districts/house/31"
 tenure:
   start: "2018-12-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Otis Anthony
 
 Current MS House District 31 (MS State House of Representatives District 31).
+
+Represents [MS State House of Representatives District 31](/us/states/ms/districts/house/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 91"
+represents: "us/states/ia/districts/house/91"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judd Lawler
 
 Current IA House District 91 (IA State House of Representatives District 91).
+
+Represents [IA State House of Representatives District 91](/us/states/ia/districts/house/91.md).
 
 ## Sources
 

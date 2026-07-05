@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 34"
+represents: "us/states/ky/districts/house/34"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Stalker
 
 Current KY House District 34 (KY State House of Representatives District 34).
+
+Represents [KY State House of Representatives District 34](/us/states/ky/districts/house/34.md).
 
 ## Sources
 

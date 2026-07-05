@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 9"
+represents: "us/states/ms/districts/house/9"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cedric Burnett
 
 Current MS House District 9 (MS State House of Representatives District 9).
+
+Represents [MS State House of Representatives District 9](/us/states/ms/districts/house/9.md).
 
 ## Sources
 

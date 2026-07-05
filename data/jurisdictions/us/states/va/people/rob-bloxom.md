@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 100"
+represents: "us/states/va/districts/house/100"
 tenure:
   start: "2014-02-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Bloxom
 
 Current VA House District 100 (VA State House of Representatives District 100).
+
+Represents [VA State House of Representatives District 100](/us/states/va/districts/house/100.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 25"
+represents: "us/states/tn/districts/senate/25"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Jackson
 
 Current TN Senate District 25 (TN State Senate District 25).
+
+Represents [TN State Senate District 25](/us/states/tn/districts/senate/25.md).
 
 ## Sources
 

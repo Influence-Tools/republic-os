@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 175"
+represents: "us/states/ga/districts/house/175"
 tenure:
   start: "2018-02-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John LaHood
 
 Current GA House District 175 (GA State House of Representatives District 175).
+
+Represents [GA State House of Representatives District 175](/us/states/ga/districts/house/175.md).
 
 ## Sources
 

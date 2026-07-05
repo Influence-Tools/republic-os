@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 34"
+represents: "us/states/ct/districts/house/34"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Irene Haines
 
 Current CT House District 34 (CT State House of Representatives District 34).
+
+Represents [CT State House of Representatives District 34](/us/states/ct/districts/house/34.md).
 
 ## Sources
 

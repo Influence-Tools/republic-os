@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 47"
+represents: "us/states/ga/districts/house/47"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jan Jones
 
 Current GA House District 47 (GA State House of Representatives District 47).
+
+Represents [GA State House of Representatives District 47](/us/states/ga/districts/house/47.md).
 
 ## Sources
 

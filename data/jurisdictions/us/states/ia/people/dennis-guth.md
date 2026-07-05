@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 28"
+represents: "us/states/ia/districts/senate/28"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Guth
 
 Current IA Senate District 28 (IA State Senate District 28).
+
+Represents [IA State Senate District 28](/us/states/ia/districts/senate/28.md).
 
 ## Sources
 

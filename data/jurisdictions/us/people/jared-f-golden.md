@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "ME"
 district: "Congressional District 2"
+represents: "us/states/me/districts/02"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jared F. Golden
 
 Current U.S. House of Representatives - ME-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/me/districts/02.md).
 
 ## Committees
 

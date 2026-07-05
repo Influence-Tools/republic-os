@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 35"
+represents: "us/states/ri/districts/senate/35"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bridget Valverde
 
 Current RI Senate District 35 (RI State Senate District 35).
+
+Represents [RI State Senate District 35](/us/states/ri/districts/senate/35.md).
 
 ## Sources
 

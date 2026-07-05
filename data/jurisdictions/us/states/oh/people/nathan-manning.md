@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 13"
+represents: "us/states/oh/districts/senate/13"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nathan Manning
 
 Current OH Senate District 13 (OH State Senate District 13).
+
+Represents [OH State Senate District 13](/us/states/oh/districts/senate/13.md).
 
 ## Sources
 

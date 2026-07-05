@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OR"
 district: "Congressional District 6"
+represents: "us/states/or/districts/06"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Andrea Salinas
 
 Current U.S. House of Representatives - OR-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/or/districts/06.md).
 
 ## Committees
 

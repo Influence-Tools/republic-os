@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 88"
+represents: "us/states/ct/districts/house/88"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Elliott
 
 Current CT House District 88 (CT State House of Representatives District 88).
+
+Represents [CT State House of Representatives District 88](/us/states/ct/districts/house/88.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 130"
+represents: "us/states/me/districts/house/130"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lynn Copeland
 
 Current ME House District 130 (ME State House of Representatives District 130).
+
+Represents [ME State House of Representatives District 130](/us/states/me/districts/house/130.md).
 
 ## Sources
 

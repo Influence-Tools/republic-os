@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 64"
+represents: "us/states/ri/districts/house/64"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jenni Furtado
 
 Current RI House District 64 (RI State House of Representatives District 64).
+
+Represents [RI State House of Representatives District 64](/us/states/ri/districts/house/64.md).
 
 ## Sources
 

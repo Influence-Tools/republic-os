@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 32"
+represents: "us/states/co/districts/senate/32"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Rodriguez
 
 Current CO Senate District 32 (CO State Senate District 32).
+
+Represents [CO State Senate District 32](/us/states/co/districts/senate/32.md).
 
 ## Sources
 

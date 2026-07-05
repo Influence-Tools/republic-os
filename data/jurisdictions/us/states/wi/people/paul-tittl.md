@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 25"
+represents: "us/states/wi/districts/house/25"
 tenure:
   start: "2013-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Tittl
 
 Current WI House District 25 (WI State House of Representatives District 25).
+
+Represents [WI State House of Representatives District 25](/us/states/wi/districts/house/25.md).
 
 ## Sources
 

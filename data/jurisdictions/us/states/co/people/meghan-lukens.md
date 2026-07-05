@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 26"
+represents: "us/states/co/districts/house/26"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meghan Lukens
 
 Current CO House District 26 (CO State House of Representatives District 26).
+
+Represents [CO State House of Representatives District 26](/us/states/co/districts/house/26.md).
 
 ## Sources
 

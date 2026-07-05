@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 64"
+represents: "us/states/ut/districts/house/64"
 tenure:
   start: "2026-05-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jackie Larson
 
 Current UT House District 64 (UT State House of Representatives District 64).
+
+Represents [UT State House of Representatives District 64](/us/states/ut/districts/house/64.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 19"
+represents: "us/states/ri/districts/senate/19"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Pearson
 
 Current RI Senate District 19 (RI State Senate District 19).
+
+Represents [RI State Senate District 19](/us/states/ri/districts/senate/19.md).
 
 ## Sources
 

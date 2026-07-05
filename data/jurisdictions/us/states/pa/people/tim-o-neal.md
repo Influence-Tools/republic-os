@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 48"
+represents: "us/states/pa/districts/house/48"
 tenure:
   start: "2018-06-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim O'Neal
 
 Current PA House District 48 (PA State House of Representatives District 48).
+
+Represents [PA State House of Representatives District 48](/us/states/pa/districts/house/48.md).
 
 ## Sources
 

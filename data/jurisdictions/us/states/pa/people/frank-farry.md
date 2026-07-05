@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 6"
+represents: "us/states/pa/districts/senate/6"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Farry
 
 Current PA Senate District 6 (PA State Senate District 6).
+
+Represents [PA State Senate District 6](/us/states/pa/districts/senate/6.md).
 
 ## Sources
 

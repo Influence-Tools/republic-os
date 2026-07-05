@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 24"
+represents: "us/states/nj/districts/senate/24"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Parker Space
 
 Current NJ Senate District 24 (NJ State Senate District 24).
+
+Represents [NJ State Senate District 24](/us/states/nj/districts/senate/24.md).
 
 ## Sources
 

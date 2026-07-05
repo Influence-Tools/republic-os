@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 9"
+represents: "us/states/de/districts/senate/9"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Walsh
 
 Current DE Senate District 9 (DE State Senate District 9).
+
+Represents [DE State Senate District 9](/us/states/de/districts/senate/9.md).
 
 ## Sources
 

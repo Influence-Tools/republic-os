@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 17"
+represents: "us/states/de/districts/senate/17"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Paradee
 
 Current DE Senate District 17 (DE State Senate District 17).
+
+Represents [DE State Senate District 17](/us/states/de/districts/senate/17.md).
 
 ## Sources
 

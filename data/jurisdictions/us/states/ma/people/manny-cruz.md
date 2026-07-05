@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 7th Essex"
+represents: "us/states/ma/districts/house/7th-essex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Manny Cruz
 
 Current MA House District 7th Essex (MA State House of Representatives District 7th Essex).
+
+Represents [MA State House of Representatives District 7th Essex](/us/states/ma/districts/house/7th-essex.md).
 
 ## Sources
 

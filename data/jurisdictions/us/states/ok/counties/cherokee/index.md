@@ -22,9 +22,33 @@ demographics:
   race_native: 15640
   hispanic: 3829
   bachelors_plus: 12170
+districts:
+  - to: "us/states/ok/districts/02"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ok/districts/senate/3"
+    rel: in-district
+    area_weight: 0.574
+  - to: "us/states/ok/districts/senate/9"
+    rel: in-district
+    area_weight: 0.2132
+  - to: "us/states/ok/districts/senate/4"
+    rel: in-district
+    area_weight: 0.2128
+  - to: "us/states/ok/districts/house/4"
+    rel: in-district
+    area_weight: 0.5965
+  - to: "us/states/ok/districts/house/86"
+    rel: in-district
+    area_weight: 0.3073
+  - to: "us/states/ok/districts/house/14"
+    rel: in-district
+    area_weight: 0.0963
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ok]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction.
 | Hispanic/Latino | 3829 |
 | Bachelor's or higher | 12170 |
 
+## Districts
+
+- [OK-02](/us/states/ok/districts/02.md) — 100% (congressional)
+- [OK Senate District 3](/us/states/ok/districts/senate/3.md) — 57% (state senate)
+- [OK Senate District 9](/us/states/ok/districts/senate/9.md) — 21% (state senate)
+- [OK Senate District 4](/us/states/ok/districts/senate/4.md) — 21% (state senate)
+- [OK House District 4](/us/states/ok/districts/house/4.md) — 60% (state house)
+- [OK House District 86](/us/states/ok/districts/house/86.md) — 31% (state house)
+- [OK House District 14](/us/states/ok/districts/house/14.md) — 10% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

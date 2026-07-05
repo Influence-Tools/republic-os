@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 28"
+represents: "us/states/hi/districts/house/28"
 tenure:
   start: "2026-04-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cov Ratcliffe
 
 Current HI House District 28 (HI State House of Representatives District 28).
+
+Represents [HI State House of Representatives District 28](/us/states/hi/districts/house/28.md).
 
 ## Sources
 

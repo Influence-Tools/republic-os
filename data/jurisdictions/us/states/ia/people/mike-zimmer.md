@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 35"
+represents: "us/states/ia/districts/senate/35"
 tenure:
   start: "2025-02-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Zimmer
 
 Current IA Senate District 35 (IA State Senate District 35).
+
+Represents [IA State Senate District 35](/us/states/ia/districts/senate/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 88"
+represents: "us/states/ny/districts/house/88"
 tenure:
   start: "2001-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Paulin
 
 Current NY House District 88 (NY State House of Representatives District 88).
+
+Represents [NY State House of Representatives District 88](/us/states/ny/districts/house/88.md).
 
 ## Sources
 

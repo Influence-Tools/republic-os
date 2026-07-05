@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 15"
+represents: "us/states/sc/districts/house/15"
 tenure:
   start: "2018-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.A. Moore
 
 Current SC House District 15 (SC State House of Representatives District 15).
+
+Represents [SC State House of Representatives District 15](/us/states/sc/districts/house/15.md).
 
 ## Sources
 

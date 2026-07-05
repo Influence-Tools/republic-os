@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District E"
+represents: "us/states/ak/districts/senate/e"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cathy Giessel
 
 Current AK Senate District E (AK State Senate District E).
+
+Represents [AK State Senate District E](/us/states/ak/districts/senate/e.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 26"
+represents: "us/states/il/districts/house/26"
 tenure:
   start: "2019-01-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kam Buckner
 
 Current IL House District 26 (IL State House of Representatives District 26).
+
+Represents [IL State House of Representatives District 26](/us/states/il/districts/house/26.md).
 
 ## Sources
 

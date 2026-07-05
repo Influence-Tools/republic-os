@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 37"
+represents: "us/states/ny/districts/senate/37"
 tenure:
   start: "2018-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelley Mayer
 
 Current NY Senate District 37 (NY State Senate District 37).
+
+Represents [NY State Senate District 37](/us/states/ny/districts/senate/37.md).
 
 ## Sources
 

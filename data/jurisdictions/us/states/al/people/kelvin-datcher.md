@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 52"
+represents: "us/states/al/districts/house/52"
 tenure:
   start: "2024-10-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelvin Datcher
 
 Current AL House District 52 (AL State House of Representatives District 52).
+
+Represents [AL State House of Representatives District 52](/us/states/al/districts/house/52.md).
 
 ## Sources
 

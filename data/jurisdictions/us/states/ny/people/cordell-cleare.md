@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 30"
+represents: "us/states/ny/districts/senate/30"
 tenure:
   start: "2021-11-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cordell Cleare
 
 Current NY Senate District 30 (NY State Senate District 30).
+
+Represents [NY State Senate District 30](/us/states/ny/districts/senate/30.md).
 
 ## Sources
 

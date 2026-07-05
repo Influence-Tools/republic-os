@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 65"
+represents: "us/states/nc/districts/house/65"
 tenure:
   start: "2021-08-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reece Pyrtle
 
 Current NC House District 65 (NC State House of Representatives District 65).
+
+Represents [NC State House of Representatives District 65](/us/states/nc/districts/house/65.md).
 
 ## Sources
 

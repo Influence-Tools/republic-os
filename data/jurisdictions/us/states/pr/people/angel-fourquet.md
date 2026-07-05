@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 24"
+represents: "us/states/pr/districts/house/24"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ángel Fourquet
 
 Current PR House District 24 (PR State House of Representatives District 24).
+
+Represents [PR State House of Representatives District 24](/us/states/pr/districts/house/24.md).
 
 ## Sources
 

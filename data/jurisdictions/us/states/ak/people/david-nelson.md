@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 18"
+represents: "us/states/ak/districts/house/18"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Nelson
 
 Current AK House District 18 (AK State House of Representatives District 18).
+
+Represents [AK State House of Representatives District 18](/us/states/ak/districts/house/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 21"
+represents: "us/states/nc/districts/house/21"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ya Liu
 
 Current NC House District 21 (NC State House of Representatives District 21).
+
+Represents [NC State House of Representatives District 21](/us/states/nc/districts/house/21.md).
 
 ## Sources
 

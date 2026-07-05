@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 80"
+represents: "us/states/al/districts/house/80"
 tenure:
   start: "2016-01-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Blackshear
 
 Current AL House District 80 (AL State House of Representatives District 80).
+
+Represents [AL State House of Representatives District 80](/us/states/al/districts/house/80.md).
 
 ## Sources
 

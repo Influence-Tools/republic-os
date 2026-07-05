@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 16"
+represents: "us/states/pr/districts/house/16"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rey Figueroa
 
 Current PR House District 16 (PR State House of Representatives District 16).
+
+Represents [PR State House of Representatives District 16](/us/states/pr/districts/house/16.md).
 
 ## Sources
 

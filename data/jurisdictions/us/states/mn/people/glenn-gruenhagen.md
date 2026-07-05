@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 17"
+represents: "us/states/mn/districts/senate/17"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Glenn Gruenhagen
 
 Current MN Senate District 17 (MN State Senate District 17).
+
+Represents [MN State Senate District 17](/us/states/mn/districts/senate/17.md).
 
 ## Sources
 

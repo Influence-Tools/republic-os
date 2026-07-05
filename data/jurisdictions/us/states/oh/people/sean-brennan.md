@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 14"
+represents: "us/states/oh/districts/house/14"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Brennan
 
 Current OH House District 14 (OH State House of Representatives District 14).
+
+Represents [OH State House of Representatives District 14](/us/states/oh/districts/house/14.md).
 
 ## Sources
 

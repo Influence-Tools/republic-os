@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 22"
+represents: "us/states/ky/districts/senate/22"
 tenure:
   start: "2021-11-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Douglas
 
 Current KY Senate District 22 (KY State Senate District 22).
+
+Represents [KY State Senate District 22](/us/states/ky/districts/senate/22.md).
 
 ## Sources
 

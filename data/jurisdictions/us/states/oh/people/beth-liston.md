@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 16"
+represents: "us/states/oh/districts/senate/16"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Liston
 
 Current OH Senate District 16 (OH State Senate District 16).
+
+Represents [OH State Senate District 16](/us/states/oh/districts/senate/16.md).
 
 ## Sources
 

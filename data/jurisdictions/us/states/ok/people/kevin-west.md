@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 54"
+represents: "us/states/ok/districts/house/54"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin West
 
 Current OK House District 54 (OK State House of Representatives District 54).
+
+Represents [OK State House of Representatives District 54](/us/states/ok/districts/house/54.md).
 
 ## Sources
 

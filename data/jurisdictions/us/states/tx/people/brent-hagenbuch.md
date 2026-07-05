@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 30"
+represents: "us/states/tx/districts/senate/30"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Hagenbuch
 
 Current TX Senate District 30 (TX State Senate District 30).
+
+Represents [TX State Senate District 30](/us/states/tx/districts/senate/30.md).
 
 ## Sources
 

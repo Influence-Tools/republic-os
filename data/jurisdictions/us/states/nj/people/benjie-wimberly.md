@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 35"
+represents: "us/states/nj/districts/senate/35"
 tenure:
   start: "2025-01-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Benjie Wimberly
 
 Current NJ Senate District 35 (NJ State Senate District 35).
+
+Represents [NJ State Senate District 35](/us/states/nj/districts/senate/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 8th Bristol"
+represents: "us/states/ma/districts/house/8th-bristol"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Ouellette
 
 Current MA House District 8th Bristol (MA State House of Representatives District 8th Bristol).
+
+Represents [MA State House of Representatives District 8th Bristol](/us/states/ma/districts/house/8th-bristol.md).
 
 ## Sources
 

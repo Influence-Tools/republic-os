@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 105"
+represents: "us/states/nc/districts/house/105"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tricia Cotham
 
 Current NC House District 105 (NC State House of Representatives District 105).
+
+Represents [NC State House of Representatives District 105](/us/states/nc/districts/house/105.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 12"
+represents: "us/states/ca/districts/12"
 committees:
   - name: "House Committee on Oversight and Government Reform"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Lateefah Simon
 
 Current U.S. House of Representatives - CA-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/ca/districts/12.md).
 
 ## Committees
 

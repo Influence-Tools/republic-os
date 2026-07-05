@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 29"
+represents: "us/states/tx/districts/house/29"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Barry
 
 Current TX House District 29 (TX State House of Representatives District 29).
+
+Represents [TX State House of Representatives District 29](/us/states/tx/districts/house/29.md).
 
 ## Sources
 

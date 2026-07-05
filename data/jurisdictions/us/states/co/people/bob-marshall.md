@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 43"
+represents: "us/states/co/districts/house/43"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Marshall
 
 Current CO House District 43 (CO State House of Representatives District 43).
+
+Represents [CO State House of Representatives District 43](/us/states/co/districts/house/43.md).
 
 ## Sources
 

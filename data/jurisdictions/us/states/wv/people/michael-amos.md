@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 27"
+represents: "us/states/wv/districts/house/27"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Amos
 
 Current WV House District 27 (WV State House of Representatives District 27).
+
+Represents [WV State House of Representatives District 27](/us/states/wv/districts/house/27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 18"
+represents: "us/states/nh/districts/house/rockingham-18"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Markell
 
 Current NH House District Rockingham 18 (NH State House of Representatives District Rockingham 18).
+
+Represents [NH State House of Representatives District Rockingham 18](/us/states/nh/districts/house/rockingham-18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 56"
+represents: "us/states/ks/districts/house/56"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Virgil Weigel
 
 Current KS House District 56 (KS State House of Representatives District 56).
+
+Represents [KS State House of Representatives District 56](/us/states/ks/districts/house/56.md).
 
 ## Sources
 

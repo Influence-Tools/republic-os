@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 53"
+represents: "us/states/mt/districts/house/53"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nelly Nicol
 
 Current MT House District 53 (MT State House of Representatives District 53).
+
+Represents [MT State House of Representatives District 53](/us/states/mt/districts/house/53.md).
 
 ## Sources
 

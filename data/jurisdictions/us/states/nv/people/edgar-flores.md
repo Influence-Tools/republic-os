@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 2"
+represents: "us/states/nv/districts/senate/2"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Edgar Flores
 
 Current NV Senate District 2 (NV State Senate District 2).
+
+Represents [NV State Senate District 2](/us/states/nv/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 21"
+represents: "us/states/va/districts/house/21"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Thomas
 
 Current VA House District 21 (VA State House of Representatives District 21).
+
+Represents [VA State House of Representatives District 21](/us/states/va/districts/house/21.md).
 
 ## Sources
 

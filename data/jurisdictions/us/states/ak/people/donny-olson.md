@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District T"
+represents: "us/states/ak/districts/senate/t"
 tenure:
   start: "2015-01-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donny Olson
 
 Current AK Senate District T (AK State Senate District T).
+
+Represents [AK State Senate District T](/us/states/ak/districts/senate/t.md).
 
 ## Sources
 

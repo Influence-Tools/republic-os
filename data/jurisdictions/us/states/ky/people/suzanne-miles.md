@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 7"
+represents: "us/states/ky/districts/house/7"
 tenure:
   start: "2014-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Suzanne Miles
 
 Current KY House District 7 (KY State House of Representatives District 7).
+
+Represents [KY State House of Representatives District 7](/us/states/ky/districts/house/7.md).
 
 ## Sources
 

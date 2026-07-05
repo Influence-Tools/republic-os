@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 62"
+represents: "us/states/nc/districts/house/62"
 tenure:
   start: "2024-09-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Blust
 
 Current NC House District 62 (NC State House of Representatives District 62).
+
+Represents [NC State House of Representatives District 62](/us/states/nc/districts/house/62.md).
 
 ## Sources
 

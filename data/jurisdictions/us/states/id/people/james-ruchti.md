@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 29"
+represents: "us/states/id/districts/senate/29"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Ruchti
 
 Current ID Senate District 29 (ID State Senate District 29).
+
+Represents [ID State Senate District 29](/us/states/id/districts/senate/29.md).
 
 ## Sources
 

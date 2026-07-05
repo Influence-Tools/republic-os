@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 59B"
+represents: "us/states/mn/districts/house/59b"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Esther Agbaje
 
 Current MN House District 59B (MN State House of Representatives District 59B).
+
+Represents [MN State House of Representatives District 59B](/us/states/mn/districts/house/59b.md).
 
 ## Sources
 

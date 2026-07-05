@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 26"
+represents: "us/states/ak/districts/house/26"
 tenure:
   start: "2025-12-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve St. Clair
 
 Current AK House District 26 (AK State House of Representatives District 26).
+
+Represents [AK State House of Representatives District 26](/us/states/ak/districts/house/26.md).
 
 ## Sources
 

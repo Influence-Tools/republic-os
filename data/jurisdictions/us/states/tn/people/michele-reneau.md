@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 27"
+represents: "us/states/tn/districts/house/27"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michele Reneau
 
 Current TN House District 27 (TN State House of Representatives District 27).
+
+Represents [TN State House of Representatives District 27](/us/states/tn/districts/house/27.md).
 
 ## Sources
 

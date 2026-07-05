@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Windsor"
+represents: "us/states/vt/districts/senate/windsor"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alison Clarkson
 
 Current VT Senate District Windsor (VT State Senate District Windsor).
+
+Represents [VT State Senate District Windsor](/us/states/vt/districts/senate/windsor.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 11"
+represents: "us/states/mi/districts/senate/11"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Veronica Klinefelt
 
 Current MI Senate District 11 (MI State Senate District 11).
+
+Represents [MI State Senate District 11](/us/states/mi/districts/senate/11.md).
 
 ## Sources
 

@@ -22,9 +22,39 @@ demographics:
   race_native: 361
   hispanic: 2226
   bachelors_plus: 27417
+districts:
+  - to: "us/states/sd/districts/00"
+    rel: in-district
+    area_weight: 0.9988
+  - to: "us/states/sd/districts/senate/16"
+    rel: in-district
+    area_weight: 0.7995
+  - to: "us/states/sd/districts/senate/6"
+    rel: in-district
+    area_weight: 0.1794
+  - to: "us/states/sd/districts/senate/13"
+    rel: in-district
+    area_weight: 0.0119
+  - to: "us/states/sd/districts/senate/12"
+    rel: in-district
+    area_weight: 0.0081
+  - to: "us/states/sd/districts/house/16"
+    rel: in-district
+    area_weight: 0.7995
+  - to: "us/states/sd/districts/house/6"
+    rel: in-district
+    area_weight: 0.1794
+  - to: "us/states/sd/districts/house/13"
+    rel: in-district
+    area_weight: 0.0119
+  - to: "us/states/sd/districts/house/12"
+    rel: in-district
+    area_weight: 0.0081
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, sd]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 4 officeholders mapped.
 | Hispanic/Latino | 2226 |
 | Bachelor's or higher | 27417 |
 
+## Districts
+
+- [SD-00](/us/states/sd/districts/00.md) — 100% (congressional)
+- [SD Senate District 16](/us/states/sd/districts/senate/16.md) — 80% (state senate)
+- [SD Senate District 6](/us/states/sd/districts/senate/6.md) — 18% (state senate)
+- [SD Senate District 13](/us/states/sd/districts/senate/13.md) — 1% (state senate)
+- [SD Senate District 12](/us/states/sd/districts/senate/12.md) — 1% (state senate)
+- [SD House District 16](/us/states/sd/districts/house/16.md) — 80% (state house)
+- [SD House District 6](/us/states/sd/districts/house/6.md) — 18% (state house)
+- [SD House District 13](/us/states/sd/districts/house/13.md) — 1% (state house)
+- [SD House District 12](/us/states/sd/districts/house/12.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

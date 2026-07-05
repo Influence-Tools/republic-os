@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 11"
+represents: "us/states/nh/districts/house/rockingham-11"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Gilman
 
 Current NH House District Rockingham 11 (NH State House of Representatives District Rockingham 11).
+
+Represents [NH State House of Representatives District Rockingham 11](/us/states/nh/districts/house/rockingham-11.md).
 
 ## Sources
 

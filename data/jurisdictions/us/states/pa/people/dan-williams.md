@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 74"
+represents: "us/states/pa/districts/house/74"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Williams
 
 Current PA House District 74 (PA State House of Representatives District 74).
+
+Represents [PA State House of Representatives District 74](/us/states/pa/districts/house/74.md).
 
 ## Sources
 

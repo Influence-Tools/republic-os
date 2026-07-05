@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 4"
+represents: "us/states/in/districts/house/4"
 tenure:
   start: "2006-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Soliday
 
 Current IN House District 4 (IN State House of Representatives District 4).
+
+Represents [IN State House of Representatives District 4](/us/states/in/districts/house/4.md).
 
 ## Sources
 

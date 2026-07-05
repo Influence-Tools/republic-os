@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 28"
+represents: "us/states/mi/districts/house/28"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Thompson
 
 Current MI House District 28 (MI State House of Representatives District 28).
+
+Represents [MI State House of Representatives District 28](/us/states/mi/districts/house/28.md).
 
 ## Sources
 

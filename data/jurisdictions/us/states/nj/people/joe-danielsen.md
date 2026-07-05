@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 17"
+represents: "us/states/nj/districts/house/17"
 tenure:
   start: "2014-10-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Danielsen
 
 Current NJ House District 17 (NJ State House of Representatives District 17).
+
+Represents [NJ State House of Representatives District 17](/us/states/nj/districts/house/17.md).
 
 ## Sources
 

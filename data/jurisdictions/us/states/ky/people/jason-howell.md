@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 1"
+represents: "us/states/ky/districts/senate/1"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Howell
 
 Current KY Senate District 1 (KY State Senate District 1).
+
+Represents [KY State Senate District 1](/us/states/ky/districts/senate/1.md).
 
 ## Sources
 

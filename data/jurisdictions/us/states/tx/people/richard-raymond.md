@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 42"
+represents: "us/states/tx/districts/house/42"
 tenure:
   start: "2021-01-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Raymond
 
 Current TX House District 42 (TX State House of Representatives District 42).
+
+Represents [TX State House of Representatives District 42](/us/states/tx/districts/house/42.md).
 
 ## Sources
 

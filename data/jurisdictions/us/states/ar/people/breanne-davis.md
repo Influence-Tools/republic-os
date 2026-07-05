@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 25"
+represents: "us/states/ar/districts/senate/25"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Breanne Davis
 
 Current AR Senate District 25 (AR State Senate District 25).
+
+Represents [AR State Senate District 25](/us/states/ar/districts/senate/25.md).
 
 ## Sources
 

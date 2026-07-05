@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 19"
+represents: "us/states/co/districts/senate/19"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsey Daugherty
 
 Current CO Senate District 19 (CO State Senate District 19).
+
+Represents [CO State Senate District 19](/us/states/co/districts/senate/19.md).
 
 ## Sources
 

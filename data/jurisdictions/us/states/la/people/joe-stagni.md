@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 92"
+represents: "us/states/la/districts/house/92"
 tenure:
   start: "2017-04-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Stagni
 
 Current LA House District 92 (LA State House of Representatives District 92).
+
+Represents [LA State House of Representatives District 92](/us/states/la/districts/house/92.md).
 
 ## Sources
 

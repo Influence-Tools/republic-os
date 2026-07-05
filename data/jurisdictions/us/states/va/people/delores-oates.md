@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 31"
+represents: "us/states/va/districts/house/31"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Delores Oates
 
 Current VA House District 31 (VA State House of Representatives District 31).
+
+Represents [VA State House of Representatives District 31](/us/states/va/districts/house/31.md).
 
 ## Sources
 

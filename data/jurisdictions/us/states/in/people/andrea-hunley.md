@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 46"
+represents: "us/states/in/districts/senate/46"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea Hunley
 
 Current IN Senate District 46 (IN State Senate District 46).
+
+Represents [IN State Senate District 46](/us/states/in/districts/senate/46.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 95"
+represents: "us/states/oh/districts/house/95"
 tenure:
   start: "2025-06-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ty Moore
 
 Current OH House District 95 (OH State House of Representatives District 95).
+
+Represents [OH State House of Representatives District 95](/us/states/oh/districts/house/95.md).
 
 ## Sources
 

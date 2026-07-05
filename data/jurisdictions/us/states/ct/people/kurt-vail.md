@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 52"
+represents: "us/states/ct/districts/house/52"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kurt Vail
 
 Current CT House District 52 (CT State House of Representatives District 52).
+
+Represents [CT State House of Representatives District 52](/us/states/ct/districts/house/52.md).
 
 ## Sources
 

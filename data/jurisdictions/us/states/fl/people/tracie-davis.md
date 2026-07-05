@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 5"
+represents: "us/states/fl/districts/senate/5"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracie Davis
 
 Current FL Senate District 5 (FL State Senate District 5).
+
+Represents [FL State Senate District 5](/us/states/fl/districts/senate/5.md).
 
 ## Sources
 

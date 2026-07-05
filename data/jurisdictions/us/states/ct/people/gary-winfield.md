@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 10"
+represents: "us/states/ct/districts/senate/10"
 tenure:
   start: "2014-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Winfield
 
 Current CT Senate District 10 (CT State Senate District 10).
+
+Represents [CT State Senate District 10](/us/states/ct/districts/senate/10.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 30"
+represents: "us/states/me/districts/senate/30"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacy Brenner
 
 Current ME Senate District 30 (ME State Senate District 30).
+
+Represents [ME State Senate District 30](/us/states/me/districts/senate/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 8"
+represents: "us/states/az/districts/senate/8"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Kuby
 
 Current AZ Senate District 8 (AZ State Senate District 8).
+
+Represents [AZ State Senate District 8](/us/states/az/districts/senate/8.md).
 
 ## Sources
 

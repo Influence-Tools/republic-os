@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 71"
+represents: "us/states/ri/districts/house/71"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle McGaw
 
 Current RI House District 71 (RI State House of Representatives District 71).
+
+Represents [RI State House of Representatives District 71](/us/states/ri/districts/house/71.md).
 
 ## Sources
 

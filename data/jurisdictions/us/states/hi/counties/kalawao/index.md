@@ -19,9 +19,21 @@ demographics:
   race_native: 12
   hispanic: 9
   bachelors_plus: 24
+districts:
+  - to: "us/states/hi/districts/02"
+    rel: in-district
+    area_weight: 0.2466
+  - to: "us/states/hi/districts/senate/7"
+    rel: in-district
+    area_weight: 0.2307
+  - to: "us/states/hi/districts/house/13"
+    rel: in-district
+    area_weight: 0.2307
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, hi]
 timestamp: "2026-07-03"
@@ -50,6 +62,13 @@ County jurisdiction.
 | Hispanic/Latino | 9 |
 | Bachelor's or higher | 24 |
 
+## Districts
+
+- [HI-02](/us/states/hi/districts/02.md) — 25% (congressional)
+- [HI Senate District 7](/us/states/hi/districts/senate/7.md) — 23% (state senate)
+- [HI House District 13](/us/states/hi/districts/house/13.md) — 23% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

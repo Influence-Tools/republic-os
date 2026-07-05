@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 35"
+represents: "us/states/me/districts/house/35"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Thorne
 
 Current ME House District 35 (ME State House of Representatives District 35).
+
+Represents [ME State House of Representatives District 35](/us/states/me/districts/house/35.md).
 
 ## Sources
 

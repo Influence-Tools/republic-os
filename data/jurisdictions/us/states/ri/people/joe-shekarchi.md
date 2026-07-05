@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 23"
+represents: "us/states/ri/districts/house/23"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Shekarchi
 
 Current RI House District 23 (RI State House of Representatives District 23).
+
+Represents [RI State House of Representatives District 23](/us/states/ri/districts/house/23.md).
 
 ## Sources
 

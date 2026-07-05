@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 45"
+represents: "us/states/or/districts/house/45"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thuy Tran
 
 Current OR House District 45 (OR State House of Representatives District 45).
+
+Represents [OR State House of Representatives District 45](/us/states/or/districts/house/45.md).
 
 ## Sources
 

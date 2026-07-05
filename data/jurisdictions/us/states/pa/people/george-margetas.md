@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 196"
+represents: "us/states/pa/districts/house/196"
 tenure:
   start: "2026-06-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Margetas
 
 Current PA House District 196 (PA State House of Representatives District 196).
+
+Represents [PA State House of Representatives District 196](/us/states/pa/districts/house/196.md).
 
 ## Sources
 

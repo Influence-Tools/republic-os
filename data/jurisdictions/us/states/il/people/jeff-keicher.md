@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 70"
+represents: "us/states/il/districts/house/70"
 tenure:
   start: "2018-07-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Keicher
 
 Current IL House District 70 (IL State House of Representatives District 70).
+
+Represents [IL State House of Representatives District 70](/us/states/il/districts/house/70.md).
 
 ## Sources
 

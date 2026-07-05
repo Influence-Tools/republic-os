@@ -22,9 +22,24 @@ demographics:
   race_native: 1111
   hispanic: 60062
   bachelors_plus: 55591
+districts:
+  - to: "us/states/tx/districts/06"
+    rel: in-district
+    area_weight: 0.9982
+  - to: "us/states/tx/districts/senate/2"
+    rel: in-district
+    area_weight: 0.5944
+  - to: "us/states/tx/districts/senate/22"
+    rel: in-district
+    area_weight: 0.4056
+  - to: "us/states/tx/districts/house/10"
+    rel: in-district
+    area_weight: 0.9998
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, tx]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction — 6 officeholders mapped.
 | Hispanic/Latino | 60062 |
 | Bachelor's or higher | 55591 |
 
+## Districts
+
+- [TX-06](/us/states/tx/districts/06.md) — 100% (congressional)
+- [TX Senate District 2](/us/states/tx/districts/senate/2.md) — 59% (state senate)
+- [TX Senate District 22](/us/states/tx/districts/senate/22.md) — 41% (state senate)
+- [TX House District 10](/us/states/tx/districts/house/10.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 26"
+represents: "us/states/ga/districts/senate/26"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Lucas
 
 Current GA Senate District 26 (GA State Senate District 26).
+
+Represents [GA State Senate District 26](/us/states/ga/districts/senate/26.md).
 
 ## Sources
 

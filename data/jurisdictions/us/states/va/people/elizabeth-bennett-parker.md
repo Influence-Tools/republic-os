@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 39"
+represents: "us/states/va/districts/senate/39"
 tenure:
   start: "2026-02-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elizabeth Bennett-Parker
 
 Current VA Senate District 39 (VA State Senate District 39).
+
+Represents [VA State Senate District 39](/us/states/va/districts/senate/39.md).
 
 ## Sources
 

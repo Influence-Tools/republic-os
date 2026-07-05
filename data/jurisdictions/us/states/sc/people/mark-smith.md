@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 99"
+represents: "us/states/sc/districts/house/99"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Smith
 
 Current SC House District 99 (SC State House of Representatives District 99).
+
+Represents [SC State House of Representatives District 99](/us/states/sc/districts/house/99.md).
 
 ## Sources
 

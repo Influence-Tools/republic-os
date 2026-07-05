@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IN"
 district: "Congressional District 7"
+represents: "us/states/in/districts/07"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # André Carson
 
 Current U.S. House of Representatives - IN-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/in/districts/07.md).
 
 ## Committees
 

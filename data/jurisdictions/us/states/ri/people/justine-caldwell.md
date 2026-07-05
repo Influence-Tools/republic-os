@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 30"
+represents: "us/states/ri/districts/house/30"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justine Caldwell
 
 Current RI House District 30 (RI State House of Representatives District 30).
+
+Represents [RI State House of Representatives District 30](/us/states/ri/districts/house/30.md).
 
 ## Sources
 

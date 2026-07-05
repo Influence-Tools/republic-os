@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 46"
+represents: "us/states/mn/districts/senate/46"
 tenure:
   start: "2007-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Latz
 
 Current MN Senate District 46 (MN State Senate District 46).
+
+Represents [MN State Senate District 46](/us/states/mn/districts/senate/46.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 123"
+represents: "us/states/ct/districts/house/123"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Rutigliano
 
 Current CT House District 123 (CT State House of Representatives District 123).
+
+Represents [CT State House of Representatives District 123](/us/states/ct/districts/house/123.md).
 
 ## Sources
 

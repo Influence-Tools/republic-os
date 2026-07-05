@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 29"
+represents: "us/states/nc/districts/house/29"
 tenure:
   start: "2020-04-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vernetta Alston
 
 Current NC House District 29 (NC State House of Representatives District 29).
+
+Represents [NC State House of Representatives District 29](/us/states/nc/districts/house/29.md).
 
 ## Sources
 

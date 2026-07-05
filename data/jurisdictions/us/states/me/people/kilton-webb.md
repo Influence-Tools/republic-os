@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 98"
+represents: "us/states/me/districts/house/98"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kilton Webb
 
 Current ME House District 98 (ME State House of Representatives District 98).
+
+Represents [ME State House of Representatives District 98](/us/states/me/districts/house/98.md).
 
 ## Sources
 

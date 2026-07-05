@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 88"
+represents: "us/states/mo/districts/house/88"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Holly Jones
 
 Current MO House District 88 (MO State House of Representatives District 88).
+
+Represents [MO State House of Representatives District 88](/us/states/mo/districts/house/88.md).
 
 ## Sources
 

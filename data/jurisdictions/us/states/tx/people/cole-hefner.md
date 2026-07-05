@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 5"
+represents: "us/states/tx/districts/house/5"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cole Hefner
 
 Current TX House District 5 (TX State House of Representatives District 5).
+
+Represents [TX State House of Representatives District 5](/us/states/tx/districts/house/5.md).
 
 ## Sources
 

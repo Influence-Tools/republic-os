@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 90"
+represents: "us/states/mt/districts/house/90"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Curt Cochran
 
 Current MT House District 90 (MT State House of Representatives District 90).
+
+Represents [MT State House of Representatives District 90](/us/states/mt/districts/house/90.md).
 
 ## Sources
 

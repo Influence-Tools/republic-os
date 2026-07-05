@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 19"
+represents: "us/states/hi/districts/house/19"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Hashem
 
 Current HI House District 19 (HI State House of Representatives District 19).
+
+Represents [HI State House of Representatives District 19](/us/states/hi/districts/house/19.md).
 
 ## Sources
 

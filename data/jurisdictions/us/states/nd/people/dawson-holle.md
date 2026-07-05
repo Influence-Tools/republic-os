@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 31"
+represents: "us/states/nd/districts/house/31"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dawson Holle
 
 Current ND House District 31 (ND State House of Representatives District 31).
+
+Represents [ND State House of Representatives District 31](/us/states/nd/districts/house/31.md).
 
 ## Sources
 

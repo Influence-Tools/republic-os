@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 81"
+represents: "us/states/il/districts/house/81"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Stava
 
 Current IL House District 81 (IL State House of Representatives District 81).
+
+Represents [IL State House of Representatives District 81](/us/states/il/districts/house/81.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 44"
+represents: "us/states/tx/districts/house/44"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alan Schoolcraft
 
 Current TX House District 44 (TX State House of Representatives District 44).
+
+Represents [TX State House of Representatives District 44](/us/states/tx/districts/house/44.md).
 
 ## Sources
 

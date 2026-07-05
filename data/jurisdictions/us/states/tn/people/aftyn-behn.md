@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 51"
+represents: "us/states/tn/districts/house/51"
 tenure:
   start: "2023-10-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aftyn Behn
 
 Current TN House District 51 (TN State House of Representatives District 51).
+
+Represents [TN State House of Representatives District 51](/us/states/tn/districts/house/51.md).
 
 ## Sources
 

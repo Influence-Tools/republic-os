@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 21"
+represents: "us/states/ms/districts/house/21"
 tenure:
   start: "2011-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donnie Bell
 
 Current MS House District 21 (MS State House of Representatives District 21).
+
+Represents [MS State House of Representatives District 21](/us/states/ms/districts/house/21.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 39"
+represents: "us/states/nm/districts/senate/39"
 tenure:
   start: "2017-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Stefanics
 
 Current NM Senate District 39 (NM State Senate District 39).
+
+Represents [NM State Senate District 39](/us/states/nm/districts/senate/39.md).
 
 ## Sources
 

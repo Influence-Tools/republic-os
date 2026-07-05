@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 13"
+represents: "us/states/oh/districts/13"
 committees:
   - name: "House Committee on Science, Space, and Technology"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Emilia Strong Sykes
 
 Current U.S. House of Representatives - OH-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/oh/districts/13.md).
 
 ## Committees
 

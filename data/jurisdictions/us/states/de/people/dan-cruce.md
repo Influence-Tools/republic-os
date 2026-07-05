@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 1"
+represents: "us/states/de/districts/senate/1"
 tenure:
   start: "2025-02-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Cruce
 
 Current DE Senate District 1 (DE State Senate District 1).
+
+Represents [DE State Senate District 1](/us/states/de/districts/senate/1.md).
 
 ## Sources
 

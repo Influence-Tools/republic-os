@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 55"
+represents: "us/states/wy/districts/house/55"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joel Guggenmos
 
 Current WY House District 55 (WY State House of Representatives District 55).
+
+Represents [WY State House of Representatives District 55](/us/states/wy/districts/house/55.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-Franklin"
+represents: "us/states/vt/districts/house/chittenden-franklin"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Micklus
 
 Current VT House District Chittenden-Franklin (VT State House of Representatives District Chittenden-Franklin).
+
+Represents [VT State House of Representatives District Chittenden-Franklin](/us/states/vt/districts/house/chittenden-franklin.md).
 
 ## Sources
 

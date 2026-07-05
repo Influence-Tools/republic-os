@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Bennington"
+represents: "us/states/vt/districts/senate/bennington"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Plunkett
 
 Current VT Senate District Bennington (VT State Senate District Bennington).
+
+Represents [VT State Senate District Bennington](/us/states/vt/districts/senate/bennington.md).
 
 ## Sources
 

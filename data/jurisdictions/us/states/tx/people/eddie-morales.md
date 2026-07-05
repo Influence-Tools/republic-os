@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 74"
+represents: "us/states/tx/districts/house/74"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Morales
 
 Current TX House District 74 (TX State House of Representatives District 74).
+
+Represents [TX State House of Representatives District 74](/us/states/tx/districts/house/74.md).
 
 ## Sources
 

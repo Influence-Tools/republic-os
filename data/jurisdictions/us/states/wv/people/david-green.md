@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 36"
+represents: "us/states/wv/districts/house/36"
 tenure:
   start: "2024-01-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Green
 
 Current WV House District 36 (WV State House of Representatives District 36).
+
+Represents [WV State House of Representatives District 36](/us/states/wv/districts/house/36.md).
 
 ## Sources
 

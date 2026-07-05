@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 104"
+represents: "us/states/me/districts/house/104"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Arata
 
 Current ME House District 104 (ME State House of Representatives District 104).
+
+Represents [ME State House of Representatives District 104](/us/states/me/districts/house/104.md).
 
 ## Sources
 

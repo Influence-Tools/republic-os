@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 20"
+represents: "us/states/id/districts/senate/20"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Keyser
 
 Current ID Senate District 20 (ID State Senate District 20).
+
+Represents [ID State Senate District 20](/us/states/id/districts/senate/20.md).
 
 ## Sources
 

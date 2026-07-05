@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 57"
+represents: "us/states/sc/districts/house/57"
 tenure:
   start: "2016-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lucas Atkinson
 
 Current SC House District 57 (SC State House of Representatives District 57).
+
+Represents [SC State House of Representatives District 57](/us/states/sc/districts/house/57.md).
 
 ## Sources
 

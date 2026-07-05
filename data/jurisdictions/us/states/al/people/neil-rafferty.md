@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 54"
+represents: "us/states/al/districts/house/54"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neil Rafferty
 
 Current AL House District 54 (AL State House of Representatives District 54).
+
+Represents [AL State House of Representatives District 54](/us/states/al/districts/house/54.md).
 
 ## Sources
 

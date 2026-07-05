@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 5"
+represents: "us/states/nh/districts/senate/5"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Prentiss
 
 Current NH Senate District 5 (NH State Senate District 5).
+
+Represents [NH State Senate District 5](/us/states/nh/districts/senate/5.md).
 
 ## Sources
 

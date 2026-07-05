@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 49"
+represents: "us/states/in/districts/senate/49"
 tenure:
   start: "2010-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Tomes
 
 Current IN Senate District 49 (IN State Senate District 49).
+
+Represents [IN State Senate District 49](/us/states/in/districts/senate/49.md).
 
 ## Sources
 

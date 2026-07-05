@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 23"
+represents: "us/states/ca/districts/23"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jay Obernolte
 
 Current U.S. House of Representatives - CA-23 (Congressional District 23).
+
+Represents [Congressional District 23](/us/states/ca/districts/23.md).
 
 ## Committees
 

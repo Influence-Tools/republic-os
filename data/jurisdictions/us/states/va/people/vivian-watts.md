@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 14"
+represents: "us/states/va/districts/house/14"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vivian Watts
 
 Current VA House District 14 (VA State House of Representatives District 14).
+
+Represents [VA State House of Representatives District 14](/us/states/va/districts/house/14.md).
 
 ## Sources
 

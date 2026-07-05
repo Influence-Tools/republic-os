@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 2"
+represents: "us/states/ks/districts/senate/2"
 tenure:
   start: "2005-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marci Francisco
 
 Current KS Senate District 2 (KS State Senate District 2).
+
+Represents [KS State Senate District 2](/us/states/ks/districts/senate/2.md).
 
 ## Sources
 

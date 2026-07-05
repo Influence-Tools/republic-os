@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 49"
+represents: "us/states/ia/districts/senate/49"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Winckler
 
 Current IA Senate District 49 (IA State Senate District 49).
+
+Represents [IA State Senate District 49](/us/states/ia/districts/senate/49.md).
 
 ## Sources
 

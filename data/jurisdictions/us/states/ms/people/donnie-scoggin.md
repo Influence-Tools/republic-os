@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 89"
+represents: "us/states/ms/districts/house/89"
 tenure:
   start: "2016-12-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donnie Scoggin
 
 Current MS House District 89 (MS State House of Representatives District 89).
+
+Represents [MS State House of Representatives District 89](/us/states/ms/districts/house/89.md).
 
 ## Sources
 

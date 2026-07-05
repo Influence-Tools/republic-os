@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 17"
+represents: "us/states/nc/districts/house/17"
 tenure:
   start: "2009-06-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Iler
 
 Current NC House District 17 (NC State House of Representatives District 17).
+
+Represents [NC State House of Representatives District 17](/us/states/nc/districts/house/17.md).
 
 ## Sources
 

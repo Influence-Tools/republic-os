@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CO"
 district: "Congressional District 8"
+represents: "us/states/co/districts/08"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Gabe Evans
 
 Current U.S. House of Representatives - CO-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/co/districts/08.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 32"
+represents: "us/states/ct/districts/house/32"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christie Carpino
 
 Current CT House District 32 (CT State House of Representatives District 32).
+
+Represents [CT State House of Representatives District 32](/us/states/ct/districts/house/32.md).
 
 ## Sources
 

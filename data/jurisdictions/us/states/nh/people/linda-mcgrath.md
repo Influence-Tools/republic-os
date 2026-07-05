@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 40"
+represents: "us/states/nh/districts/house/rockingham-40"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda McGrath
 
 Current NH House District Rockingham 40 (NH State House of Representatives District Rockingham 40).
+
+Represents [NH State House of Representatives District Rockingham 40](/us/states/nh/districts/house/rockingham-40.md).
 
 ## Sources
 

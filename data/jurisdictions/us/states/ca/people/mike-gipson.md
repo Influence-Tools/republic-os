@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 65"
+represents: "us/states/ca/districts/house/65"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Gipson
 
 Current CA House District 65 (CA State House of Representatives District 65).
+
+Represents [CA State House of Representatives District 65](/us/states/ca/districts/house/65.md).
 
 ## Sources
 

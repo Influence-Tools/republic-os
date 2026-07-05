@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 10th Worcester"
+represents: "us/states/ma/districts/house/10th-worcester"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Murray
 
 Current MA House District 10th Worcester (MA State House of Representatives District 10th Worcester).
+
+Represents [MA State House of Representatives District 10th Worcester](/us/states/ma/districts/house/10th-worcester.md).
 
 ## Sources
 

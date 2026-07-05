@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 14"
+represents: "us/states/fl/districts/senate/14"
 tenure:
   start: "2026-03-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Nathan
 
 Current FL Senate District 14 (FL State Senate District 14).
+
+Represents [FL State Senate District 14](/us/states/fl/districts/senate/14.md).
 
 ## Sources
 

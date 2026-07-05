@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 32"
+represents: "us/states/oh/districts/house/32"
 tenure:
   start: "2024-04-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Daniels
 
 Current OH House District 32 (OH State House of Representatives District 32).
+
+Represents [OH State House of Representatives District 32](/us/states/oh/districts/house/32.md).
 
 ## Sources
 

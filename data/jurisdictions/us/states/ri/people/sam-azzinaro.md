@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 37"
+represents: "us/states/ri/districts/house/37"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Azzinaro
 
 Current RI House District 37 (RI State House of Representatives District 37).
+
+Represents [RI State House of Representatives District 37](/us/states/ri/districts/house/37.md).
 
 ## Sources
 

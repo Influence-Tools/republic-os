@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 81"
+represents: "us/states/nc/districts/house/81"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Potts
 
 Current NC House District 81 (NC State House of Representatives District 81).
+
+Represents [NC State House of Representatives District 81](/us/states/nc/districts/house/81.md).
 
 ## Sources
 

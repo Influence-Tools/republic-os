@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 9th Bristol"
+represents: "us/states/ma/districts/house/9th-bristol"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christopher Markey
 
 Current MA House District 9th Bristol (MA State House of Representatives District 9th Bristol).
+
+Represents [MA State House of Representatives District 9th Bristol](/us/states/ma/districts/house/9th-bristol.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 38"
+represents: "us/states/pa/districts/house/38"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Inglis
 
 Current PA House District 38 (PA State House of Representatives District 38).
+
+Represents [PA State House of Representatives District 38](/us/states/pa/districts/house/38.md).
 
 ## Sources
 

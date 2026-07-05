@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 13"
+represents: "us/states/nc/districts/13"
 committees:
   - name: "House Committee on Ethics"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # Brad Knott
 
 Current U.S. House of Representatives - NC-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/nc/districts/13.md).
 
 ## Committees
 

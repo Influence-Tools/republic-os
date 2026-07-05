@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 157"
+represents: "us/states/mo/districts/house/157"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mitch Boggs
 
 Current MO House District 157 (MO State House of Representatives District 157).
+
+Represents [MO State House of Representatives District 157](/us/states/mo/districts/house/157.md).
 
 ## Sources
 

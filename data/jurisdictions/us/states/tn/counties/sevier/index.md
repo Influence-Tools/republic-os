@@ -22,9 +22,27 @@ demographics:
   race_native: 161
   hispanic: 9577
   bachelors_plus: 20978
+districts:
+  - to: "us/states/tn/districts/01"
+    rel: in-district
+    area_weight: 0.9973
+  - to: "us/states/tn/districts/senate/9"
+    rel: in-district
+    area_weight: 0.583
+  - to: "us/states/tn/districts/senate/8"
+    rel: in-district
+    area_weight: 0.4163
+  - to: "us/states/tn/districts/house/12"
+    rel: in-district
+    area_weight: 0.738
+  - to: "us/states/tn/districts/house/17"
+    rel: in-district
+    area_weight: 0.2613
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, tn]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 9577 |
 | Bachelor's or higher | 20978 |
 
+## Districts
+
+- [TN-01](/us/states/tn/districts/01.md) — 100% (congressional)
+- [TN Senate District 9](/us/states/tn/districts/senate/9.md) — 58% (state senate)
+- [TN Senate District 8](/us/states/tn/districts/senate/8.md) — 42% (state senate)
+- [TN House District 12](/us/states/tn/districts/house/12.md) — 74% (state house)
+- [TN House District 17](/us/states/tn/districts/house/17.md) — 26% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

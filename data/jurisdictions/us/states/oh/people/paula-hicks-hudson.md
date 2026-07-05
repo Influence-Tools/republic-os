@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 11"
+represents: "us/states/oh/districts/senate/11"
 tenure:
   start: "2022-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paula Hicks-Hudson
 
 Current OH Senate District 11 (OH State Senate District 11).
+
+Represents [OH State Senate District 11](/us/states/oh/districts/senate/11.md).
 
 ## Sources
 

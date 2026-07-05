@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 14"
+represents: "us/states/in/districts/house/14"
 tenure:
   start: "1990-02-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vernon Smith
 
 Current IN House District 14 (IN State House of Representatives District 14).
+
+Represents [IN State House of Representatives District 14](/us/states/in/districts/house/14.md).
 
 ## Sources
 

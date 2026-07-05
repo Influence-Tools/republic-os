@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 37"
+represents: "us/states/ri/districts/senate/37"
 tenure:
   start: "1997-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Sosnowski
 
 Current RI Senate District 37 (RI State Senate District 37).
+
+Represents [RI State Senate District 37](/us/states/ri/districts/senate/37.md).
 
 ## Sources
 

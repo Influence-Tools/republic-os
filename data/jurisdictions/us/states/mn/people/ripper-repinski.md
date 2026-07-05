@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 26A"
+represents: "us/states/mn/districts/house/26a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ripper Repinski
 
 Current MN House District 26A (MN State House of Representatives District 26A).
+
+Represents [MN State House of Representatives District 26A](/us/states/mn/districts/house/26a.md).
 
 ## Sources
 

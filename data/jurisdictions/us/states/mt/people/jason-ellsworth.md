@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 43"
+represents: "us/states/mt/districts/senate/43"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Ellsworth
 
 Current MT Senate District 43 (MT State Senate District 43).
+
+Represents [MT State Senate District 43](/us/states/mt/districts/senate/43.md).
 
 ## Sources
 

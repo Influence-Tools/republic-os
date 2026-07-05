@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 61"
+represents: "us/states/la/districts/house/61"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Marcelle
 
 Current LA House District 61 (LA State House of Representatives District 61).
+
+Represents [LA State House of Representatives District 61](/us/states/la/districts/house/61.md).
 
 ## Sources
 

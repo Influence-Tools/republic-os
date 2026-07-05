@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 78"
+represents: "us/states/nc/districts/house/78"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neal Jackson
 
 Current NC House District 78 (NC State House of Representatives District 78).
+
+Represents [NC State House of Representatives District 78](/us/states/nc/districts/house/78.md).
 
 ## Sources
 

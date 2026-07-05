@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 57"
+represents: "us/states/mn/districts/senate/57"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zach Duckworth
 
 Current MN Senate District 57 (MN State Senate District 57).
+
+Represents [MN State Senate District 57](/us/states/mn/districts/senate/57.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 7"
+represents: "us/states/nh/districts/house/rockingham-7"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Miner
 
 Current NH House District Rockingham 7 (NH State House of Representatives District Rockingham 7).
+
+Represents [NH State House of Representatives District Rockingham 7](/us/states/nh/districts/house/rockingham-7.md).
 
 ## Sources
 

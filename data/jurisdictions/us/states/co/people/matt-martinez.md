@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 62"
+represents: "us/states/co/districts/house/62"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Martinez
 
 Current CO House District 62 (CO State House of Representatives District 62).
+
+Represents [CO State House of Representatives District 62](/us/states/co/districts/house/62.md).
 
 ## Sources
 

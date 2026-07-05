@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 61"
+represents: "us/states/al/districts/house/61"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Bolton
 
 Current AL House District 61 (AL State House of Representatives District 61).
+
+Represents [AL State House of Representatives District 61](/us/states/al/districts/house/61.md).
 
 ## Sources
 

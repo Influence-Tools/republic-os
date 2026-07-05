@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 31"
+represents: "us/states/fl/districts/house/31"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tyler Sirois
 
 Current FL House District 31 (FL State House of Representatives District 31).
+
+Represents [FL State House of Representatives District 31](/us/states/fl/districts/house/31.md).
 
 ## Sources
 

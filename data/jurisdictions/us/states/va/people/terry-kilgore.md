@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 45"
+represents: "us/states/va/districts/house/45"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Kilgore
 
 Current VA House District 45 (VA State House of Representatives District 45).
+
+Represents [VA State House of Representatives District 45](/us/states/va/districts/house/45.md).
 
 ## Sources
 

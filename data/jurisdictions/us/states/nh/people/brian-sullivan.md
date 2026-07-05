@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Sullivan 1"
+represents: "us/states/nh/districts/house/sullivan-1"
 tenure:
   start: "2017-11-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Sullivan
 
 Current NH House District Sullivan 1 (NH State House of Representatives District Sullivan 1).
+
+Represents [NH State House of Representatives District Sullivan 1](/us/states/nh/districts/house/sullivan-1.md).
 
 ## Sources
 

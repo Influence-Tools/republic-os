@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "LA"
 district: "Congressional District 5"
+represents: "us/states/la/districts/05"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Julia Letlow
 
 Current U.S. House of Representatives - LA-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/la/districts/05.md).
 
 ## Committees
 

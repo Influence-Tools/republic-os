@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 28"
+represents: "us/states/ut/districts/house/28"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicholeen Peck
 
 Current UT House District 28 (UT State House of Representatives District 28).
+
+Represents [UT State House of Representatives District 28](/us/states/ut/districts/house/28.md).
 
 ## Sources
 

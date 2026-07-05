@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 5"
+represents: "us/states/co/districts/house/5"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Valdez
 
 Current CO House District 5 (CO State House of Representatives District 5).
+
+Represents [CO State House of Representatives District 5](/us/states/co/districts/house/5.md).
 
 ## Sources
 

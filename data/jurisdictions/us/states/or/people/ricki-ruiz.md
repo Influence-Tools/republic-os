@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 50"
+represents: "us/states/or/districts/house/50"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ricki Ruiz
 
 Current OR House District 50 (OR State House of Representatives District 50).
+
+Represents [OR State House of Representatives District 50](/us/states/or/districts/house/50.md).
 
 ## Sources
 

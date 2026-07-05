@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 18"
+represents: "us/states/hi/districts/house/18"
 tenure:
   start: "2025-05-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Gedeon
 
 Current HI House District 18 (HI State House of Representatives District 18).
+
+Represents [HI State House of Representatives District 18](/us/states/hi/districts/house/18.md).
 
 ## Sources
 

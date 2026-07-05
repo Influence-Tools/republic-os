@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 20"
+represents: "us/states/pa/districts/senate/20"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Baker
 
 Current PA Senate District 20 (PA State Senate District 20).
+
+Represents [PA State Senate District 20](/us/states/pa/districts/senate/20.md).
 
 ## Sources
 

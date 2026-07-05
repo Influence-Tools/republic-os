@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 34"
+represents: "us/states/nd/districts/senate/34"
 tenure:
   start: "2023-10-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Gerhardt
 
 Current ND Senate District 34 (ND State Senate District 34).
+
+Represents [ND State Senate District 34](/us/states/nd/districts/senate/34.md).
 
 ## Sources
 

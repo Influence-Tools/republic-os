@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MO"
 district: "Congressional District 7"
+represents: "us/states/mo/districts/07"
 committees:
   - name: "House Committee on Oversight and Government Reform"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Eric Burlison
 
 Current U.S. House of Representatives - MO-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/mo/districts/07.md).
 
 ## Committees
 

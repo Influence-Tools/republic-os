@@ -22,9 +22,27 @@ demographics:
   race_native: 92
   hispanic: 648
   bachelors_plus: 4414
+districts:
+  - to: "us/states/ks/districts/01"
+    rel: in-district
+    area_weight: 0.9964
+  - to: "us/states/ks/districts/senate/18"
+    rel: in-district
+    area_weight: 0.6656
+  - to: "us/states/ks/districts/senate/1"
+    rel: in-district
+    area_weight: 0.3344
+  - to: "us/states/ks/districts/house/47"
+    rel: in-district
+    area_weight: 0.8862
+  - to: "us/states/ks/districts/house/42"
+    rel: in-district
+    area_weight: 0.1137
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ks]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 648 |
 | Bachelor's or higher | 4414 |
 
+## Districts
+
+- [KS-01](/us/states/ks/districts/01.md) — 100% (congressional)
+- [KS Senate District 18](/us/states/ks/districts/senate/18.md) — 67% (state senate)
+- [KS Senate District 1](/us/states/ks/districts/senate/1.md) — 33% (state senate)
+- [KS House District 47](/us/states/ks/districts/house/47.md) — 89% (state house)
+- [KS House District 42](/us/states/ks/districts/house/42.md) — 11% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

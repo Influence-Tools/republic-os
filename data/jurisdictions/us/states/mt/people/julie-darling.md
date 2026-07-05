@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 84"
+represents: "us/states/mt/districts/house/84"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Darling
 
 Current MT House District 84 (MT State House of Representatives District 84).
+
+Represents [MT State House of Representatives District 84](/us/states/mt/districts/house/84.md).
 
 ## Sources
 

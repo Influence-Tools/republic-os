@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 4"
+represents: "us/states/oh/districts/senate/4"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Lang
 
 Current OH Senate District 4 (OH State Senate District 4).
+
+Represents [OH State Senate District 4](/us/states/oh/districts/senate/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 44"
+represents: "us/states/ga/districts/senate/44"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elena Parent
 
 Current GA Senate District 44 (GA State Senate District 44).
+
+Represents [GA State Senate District 44](/us/states/ga/districts/senate/44.md).
 
 ## Sources
 

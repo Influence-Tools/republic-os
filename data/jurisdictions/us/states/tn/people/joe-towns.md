@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 84"
+represents: "us/states/tn/districts/house/84"
 tenure:
   start: "1994-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Towns
 
 Current TN House District 84 (TN State House of Representatives District 84).
+
+Represents [TN State House of Representatives District 84](/us/states/tn/districts/house/84.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 56"
+represents: "us/states/ri/districts/house/56"
 tenure:
   start: "2020-03-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joshua Giraldo
 
 Current RI House District 56 (RI State House of Representatives District 56).
+
+Represents [RI State House of Representatives District 56](/us/states/ri/districts/house/56.md).
 
 ## Sources
 

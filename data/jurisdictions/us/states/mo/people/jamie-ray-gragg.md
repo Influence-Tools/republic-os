@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 140"
+represents: "us/states/mo/districts/house/140"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Ray Gragg
 
 Current MO House District 140 (MO State House of Representatives District 140).
+
+Represents [MO State House of Representatives District 140](/us/states/mo/districts/house/140.md).
 
 ## Sources
 

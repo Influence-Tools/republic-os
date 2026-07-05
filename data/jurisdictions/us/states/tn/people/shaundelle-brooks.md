@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 60"
+represents: "us/states/tn/districts/house/60"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shaundelle Brooks
 
 Current TN House District 60 (TN State House of Representatives District 60).
+
+Represents [TN State House of Representatives District 60](/us/states/tn/districts/house/60.md).
 
 ## Sources
 

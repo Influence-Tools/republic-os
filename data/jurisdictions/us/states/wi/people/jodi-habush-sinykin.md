@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 8"
+represents: "us/states/wi/districts/senate/8"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jodi Habush Sinykin
 
 Current WI Senate District 8 (WI State Senate District 8).
+
+Represents [WI State Senate District 8](/us/states/wi/districts/senate/8.md).
 
 ## Sources
 

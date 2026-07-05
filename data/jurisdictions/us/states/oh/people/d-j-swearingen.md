@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 89"
+represents: "us/states/oh/districts/house/89"
 tenure:
   start: "2019-08-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # D.J. Swearingen
 
 Current OH House District 89 (OH State House of Representatives District 89).
+
+Represents [OH State House of Representatives District 89](/us/states/oh/districts/house/89.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 65"
+represents: "us/states/tn/districts/house/65"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lee Reeves
 
 Current TN House District 65 (TN State House of Representatives District 65).
+
+Represents [TN State House of Representatives District 65](/us/states/tn/districts/house/65.md).
 
 ## Sources
 

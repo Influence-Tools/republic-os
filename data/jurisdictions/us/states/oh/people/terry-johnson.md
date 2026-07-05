@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 14"
+represents: "us/states/oh/districts/senate/14"
 tenure:
   start: "2019-09-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Johnson
 
 Current OH Senate District 14 (OH State Senate District 14).
+
+Represents [OH State Senate District 14](/us/states/oh/districts/senate/14.md).
 
 ## Sources
 

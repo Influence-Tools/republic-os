@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 91"
+represents: "us/states/wv/districts/house/91"
 tenure:
   start: "2025-01-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ian Masters
 
 Current WV House District 91 (WV State House of Representatives District 91).
+
+Represents [WV State House of Representatives District 91](/us/states/wv/districts/house/91.md).
 
 ## Sources
 

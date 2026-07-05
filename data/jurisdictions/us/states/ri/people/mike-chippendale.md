@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 40"
+represents: "us/states/ri/districts/house/40"
 tenure:
   start: "2011-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Chippendale
 
 Current RI House District 40 (RI State House of Representatives District 40).
+
+Represents [RI State House of Representatives District 40](/us/states/ri/districts/house/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 26"
+represents: "us/states/oh/districts/senate/26"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Reineke
 
 Current OH Senate District 26 (OH State Senate District 26).
+
+Represents [OH State Senate District 26](/us/states/oh/districts/senate/26.md).
 
 ## Sources
 

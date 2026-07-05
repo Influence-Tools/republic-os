@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 11"
+represents: "us/states/nj/districts/senate/11"
 tenure:
   start: "2018-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vin Gopal
 
 Current NJ Senate District 11 (NJ State Senate District 11).
+
+Represents [NJ State Senate District 11](/us/states/nj/districts/senate/11.md).
 
 ## Sources
 

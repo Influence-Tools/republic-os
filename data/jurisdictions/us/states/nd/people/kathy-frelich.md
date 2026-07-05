@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 15"
+represents: "us/states/nd/districts/house/15"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Frelich
 
 Current ND House District 15 (ND State House of Representatives District 15).
+
+Represents [ND State House of Representatives District 15](/us/states/nd/districts/house/15.md).
 
 ## Sources
 

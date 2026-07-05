@@ -22,9 +22,42 @@ demographics:
   race_native: 1281
   hispanic: 8295
   bachelors_plus: 33231
+districts:
+  - to: "us/states/al/districts/05"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/al/districts/senate/1"
+    rel: in-district
+    area_weight: 0.6038
+  - to: "us/states/al/districts/senate/3"
+    rel: in-district
+    area_weight: 0.218
+  - to: "us/states/al/districts/senate/6"
+    rel: in-district
+    area_weight: 0.1347
+  - to: "us/states/al/districts/senate/2"
+    rel: in-district
+    area_weight: 0.0433
+  - to: "us/states/al/districts/house/2"
+    rel: in-district
+    area_weight: 0.4034
+  - to: "us/states/al/districts/house/5"
+    rel: in-district
+    area_weight: 0.3371
+  - to: "us/states/al/districts/house/4"
+    rel: in-district
+    area_weight: 0.1453
+  - to: "us/states/al/districts/house/6"
+    rel: in-district
+    area_weight: 0.1082
+  - to: "us/states/al/districts/house/25"
+    rel: in-district
+    area_weight: 0.0058
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, al]
 timestamp: "2026-07-03"
@@ -56,6 +89,20 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 8295 |
 | Bachelor's or higher | 33231 |
 
+## Districts
+
+- [AL-05](/us/states/al/districts/05.md) — 100% (congressional)
+- [AL Senate District 1](/us/states/al/districts/senate/1.md) — 60% (state senate)
+- [AL Senate District 3](/us/states/al/districts/senate/3.md) — 22% (state senate)
+- [AL Senate District 6](/us/states/al/districts/senate/6.md) — 13% (state senate)
+- [AL Senate District 2](/us/states/al/districts/senate/2.md) — 4% (state senate)
+- [AL House District 2](/us/states/al/districts/house/2.md) — 40% (state house)
+- [AL House District 5](/us/states/al/districts/house/5.md) — 34% (state house)
+- [AL House District 4](/us/states/al/districts/house/4.md) — 15% (state house)
+- [AL House District 6](/us/states/al/districts/house/6.md) — 11% (state house)
+- [AL House District 25](/us/states/al/districts/house/25.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 103"
+represents: "us/states/al/districts/house/103"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Drummond
 
 Current AL House District 103 (AL State House of Representatives District 103).
+
+Represents [AL State House of Representatives District 103](/us/states/al/districts/house/103.md).
 
 ## Sources
 

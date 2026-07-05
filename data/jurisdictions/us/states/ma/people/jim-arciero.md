@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Middlesex"
+represents: "us/states/ma/districts/house/2nd-middlesex"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Arciero
 
 Current MA House District 2nd Middlesex (MA State House of Representatives District 2nd Middlesex).
+
+Represents [MA State House of Representatives District 2nd Middlesex](/us/states/ma/districts/house/2nd-middlesex.md).
 
 ## Sources
 

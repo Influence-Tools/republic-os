@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 33B"
+represents: "us/states/md/districts/house/33b"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stuart Schmidt
 
 Current MD House District 33B (MD State House of Representatives District 33B).
+
+Represents [MD State House of Representatives District 33B](/us/states/md/districts/house/33b.md).
 
 ## Sources
 

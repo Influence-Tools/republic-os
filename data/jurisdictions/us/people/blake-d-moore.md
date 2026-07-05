@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "UT"
 district: "Congressional District 1"
+represents: "us/states/ut/districts/01"
 committees:
   - name: "House Committee on the Budget"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Blake D. Moore
 
 Current U.S. House of Representatives - UT-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ut/districts/01.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 4"
+represents: "us/states/mi/districts/house/4"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Whitsett
 
 Current MI House District 4 (MI State House of Representatives District 4).
+
+Represents [MI State House of Representatives District 4](/us/states/mi/districts/house/4.md).
 
 ## Sources
 

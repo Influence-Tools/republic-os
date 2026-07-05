@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 18"
+represents: "us/states/nv/districts/house/18"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Venicia Considine
 
 Current NV House District 18 (NV State House of Representatives District 18).
+
+Represents [NV State House of Representatives District 18](/us/states/nv/districts/house/18.md).
 
 ## Sources
 

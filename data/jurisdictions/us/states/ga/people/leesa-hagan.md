@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 156"
+represents: "us/states/ga/districts/house/156"
 tenure:
   start: "2021-07-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leesa Hagan
 
 Current GA House District 156 (GA State House of Representatives District 156).
+
+Represents [GA State House of Representatives District 156](/us/states/ga/districts/house/156.md).
 
 ## Sources
 

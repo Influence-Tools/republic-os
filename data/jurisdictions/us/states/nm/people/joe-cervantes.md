@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 31"
+represents: "us/states/nm/districts/senate/31"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Cervantes
 
 Current NM Senate District 31 (NM State Senate District 31).
+
+Represents [NM State Senate District 31](/us/states/nm/districts/senate/31.md).
 
 ## Sources
 

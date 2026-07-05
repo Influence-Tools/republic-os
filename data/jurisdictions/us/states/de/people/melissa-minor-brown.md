@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 17"
+represents: "us/states/de/districts/house/17"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Minor-Brown
 
 Current DE House District 17 (DE State House of Representatives District 17).
+
+Represents [DE State House of Representatives District 17](/us/states/de/districts/house/17.md).
 
 ## Sources
 

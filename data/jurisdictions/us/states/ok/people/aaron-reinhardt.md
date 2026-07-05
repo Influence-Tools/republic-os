@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 37"
+represents: "us/states/ok/districts/senate/37"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Reinhardt
 
 Current OK Senate District 37 (OK State Senate District 37).
+
+Represents [OK State Senate District 37](/us/states/ok/districts/senate/37.md).
 
 ## Sources
 

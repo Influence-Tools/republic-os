@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 26"
+represents: "us/states/ia/districts/senate/26"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kara Warme
 
 Current IA Senate District 26 (IA State Senate District 26).
+
+Represents [IA State Senate District 26](/us/states/ia/districts/senate/26.md).
 
 ## Sources
 

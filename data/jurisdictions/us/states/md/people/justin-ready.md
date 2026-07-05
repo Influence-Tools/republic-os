@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 5"
+represents: "us/states/md/districts/senate/5"
 tenure:
   start: "2015-02-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Ready
 
 Current MD Senate District 5 (MD State Senate District 5).
+
+Represents [MD State Senate District 5](/us/states/md/districts/senate/5.md).
 
 ## Sources
 

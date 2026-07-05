@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 83"
+represents: "us/states/ok/districts/house/83"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Roberts
 
 Current OK House District 83 (OK State House of Representatives District 83).
+
+Represents [OK State House of Representatives District 83](/us/states/ok/districts/house/83.md).
 
 ## Sources
 

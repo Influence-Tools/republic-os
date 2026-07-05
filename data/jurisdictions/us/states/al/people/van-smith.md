@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 42"
+represents: "us/states/al/districts/house/42"
 tenure:
   start: "2019-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Van Smith
 
 Current AL House District 42 (AL State House of Representatives District 42).
+
+Represents [AL State House of Representatives District 42](/us/states/al/districts/house/42.md).
 
 ## Sources
 

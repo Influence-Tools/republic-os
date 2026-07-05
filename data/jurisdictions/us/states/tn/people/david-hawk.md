@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 5"
+represents: "us/states/tn/districts/house/5"
 tenure:
   start: "2002-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Hawk
 
 Current TN House District 5 (TN State House of Representatives District 5).
+
+Represents [TN State House of Representatives District 5](/us/states/tn/districts/house/5.md).
 
 ## Sources
 

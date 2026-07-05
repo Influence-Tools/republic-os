@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 141"
+represents: "us/states/mo/districts/house/141"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Schmidt
 
 Current MO House District 141 (MO State House of Representatives District 141).
+
+Represents [MO State House of Representatives District 141](/us/states/mo/districts/house/141.md).
 
 ## Sources
 

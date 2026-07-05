@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 9"
+represents: "us/states/al/districts/senate/9"
 tenure:
   start: "2024-01-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wes Kitchens
 
 Current AL Senate District 9 (AL State Senate District 9).
+
+Represents [AL State Senate District 9](/us/states/al/districts/senate/9.md).
 
 ## Sources
 

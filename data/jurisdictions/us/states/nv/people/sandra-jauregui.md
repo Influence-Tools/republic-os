@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 41"
+represents: "us/states/nv/districts/house/41"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandra Jauregui
 
 Current NV House District 41 (NV State House of Representatives District 41).
+
+Represents [NV State House of Representatives District 41](/us/states/nv/districts/house/41.md).
 
 ## Sources
 

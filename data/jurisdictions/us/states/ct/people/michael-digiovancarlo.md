@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 74"
+represents: "us/states/ct/districts/house/74"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael DiGiovancarlo
 
 Current CT House District 74 (CT State House of Representatives District 74).
+
+Represents [CT State House of Representatives District 74](/us/states/ct/districts/house/74.md).
 
 ## Sources
 

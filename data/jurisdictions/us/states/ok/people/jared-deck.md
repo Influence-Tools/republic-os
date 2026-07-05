@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 44"
+represents: "us/states/ok/districts/house/44"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Deck
 
 Current OK House District 44 (OK State House of Representatives District 44).
+
+Represents [OK State House of Representatives District 44](/us/states/ok/districts/house/44.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 95"
+represents: "us/states/ia/districts/house/95"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Taylor Collins
 
 Current IA House District 95 (IA State House of Representatives District 95).
+
+Represents [IA State House of Representatives District 95](/us/states/ia/districts/house/95.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 22"
+represents: "us/states/sd/districts/senate/22"
 tenure:
   start: "2025-07-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Wipf
 
 Current SD Senate District 22 (SD State Senate District 22).
+
+Represents [SD State Senate District 22](/us/states/sd/districts/senate/22.md).
 
 ## Sources
 

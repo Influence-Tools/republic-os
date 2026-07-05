@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 157"
+represents: "us/states/ga/districts/house/157"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Werkheiser
 
 Current GA House District 157 (GA State House of Representatives District 157).
+
+Represents [GA State House of Representatives District 157](/us/states/ga/districts/house/157.md).
 
 ## Sources
 

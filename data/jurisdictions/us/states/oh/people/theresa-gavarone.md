@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 2"
+represents: "us/states/oh/districts/senate/2"
 tenure:
   start: "2019-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Theresa Gavarone
 
 Current OH Senate District 2 (OH State Senate District 2).
+
+Represents [OH State Senate District 2](/us/states/oh/districts/senate/2.md).
 
 ## Sources
 

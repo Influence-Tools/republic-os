@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 48"
+represents: "us/states/ny/districts/senate/48"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rachel May
 
 Current NY Senate District 48 (NY State Senate District 48).
+
+Represents [NY State Senate District 48](/us/states/ny/districts/senate/48.md).
 
 ## Sources
 

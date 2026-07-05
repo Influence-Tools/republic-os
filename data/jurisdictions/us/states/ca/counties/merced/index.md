@@ -22,9 +22,27 @@ demographics:
   race_native: 4316
   hispanic: 183933
   bachelors_plus: 34910
+districts:
+  - to: "us/states/ca/districts/13"
+    rel: in-district
+    area_weight: 0.998
+  - to: "us/states/ca/districts/senate/14"
+    rel: in-district
+    area_weight: 0.8347
+  - to: "us/states/ca/districts/senate/4"
+    rel: in-district
+    area_weight: 0.1653
+  - to: "us/states/ca/districts/house/27"
+    rel: in-district
+    area_weight: 0.816
+  - to: "us/states/ca/districts/house/22"
+    rel: in-district
+    area_weight: 0.1839
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ca]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 183933 |
 | Bachelor's or higher | 34910 |
 
+## Districts
+
+- [CA-13](/us/states/ca/districts/13.md) — 100% (congressional)
+- [CA Senate District 14](/us/states/ca/districts/senate/14.md) — 83% (state senate)
+- [CA Senate District 4](/us/states/ca/districts/senate/4.md) — 17% (state senate)
+- [CA House District 27](/us/states/ca/districts/house/27.md) — 82% (state house)
+- [CA House District 22](/us/states/ca/districts/house/22.md) — 18% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 12"
+represents: "us/states/oh/districts/house/12"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Stewart
 
 Current OH House District 12 (OH State House of Representatives District 12).
+
+Represents [OH State House of Representatives District 12](/us/states/oh/districts/house/12.md).
 
 ## Sources
 

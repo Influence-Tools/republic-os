@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 50"
+represents: "us/states/va/districts/house/50"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tommy Wright
 
 Current VA House District 50 (VA State House of Representatives District 50).
+
+Represents [VA State House of Representatives District 50](/us/states/va/districts/house/50.md).
 
 ## Sources
 

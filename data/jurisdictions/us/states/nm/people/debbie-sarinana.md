@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 21"
+represents: "us/states/nm/districts/house/21"
 tenure:
   start: "2017-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debbie Sariñana
 
 Current NM House District 21 (NM State House of Representatives District 21).
+
+Represents [NM State House of Representatives District 21](/us/states/nm/districts/house/21.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 14"
+represents: "us/states/mo/districts/house/14"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ashley Aune
 
 Current MO House District 14 (MO State House of Representatives District 14).
+
+Represents [MO State House of Representatives District 14](/us/states/mo/districts/house/14.md).
 
 ## Sources
 

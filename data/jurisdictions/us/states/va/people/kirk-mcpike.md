@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 5"
+represents: "us/states/va/districts/house/5"
 tenure:
   start: "2026-02-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kirk McPike
 
 Current VA House District 5 (VA State House of Representatives District 5).
+
+Represents [VA State House of Representatives District 5](/us/states/va/districts/house/5.md).
 
 ## Sources
 

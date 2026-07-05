@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 63"
+represents: "us/states/ms/districts/house/63"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Foster
 
 Current MS House District 63 (MS State House of Representatives District 63).
+
+Represents [MS State House of Representatives District 63](/us/states/ms/districts/house/63.md).
 
 ## Sources
 

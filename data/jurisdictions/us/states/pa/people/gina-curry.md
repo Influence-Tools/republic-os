@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 164"
+represents: "us/states/pa/districts/house/164"
 tenure:
   start: "2021-12-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gina Curry
 
 Current PA House District 164 (PA State House of Representatives District 164).
+
+Represents [PA State House of Representatives District 164](/us/states/pa/districts/house/164.md).
 
 ## Sources
 

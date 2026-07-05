@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 61"
+represents: "us/states/ca/districts/house/61"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina McKinnor
 
 Current CA House District 61 (CA State House of Representatives District 61).
+
+Represents [CA State House of Representatives District 61](/us/states/ca/districts/house/61.md).
 
 ## Sources
 

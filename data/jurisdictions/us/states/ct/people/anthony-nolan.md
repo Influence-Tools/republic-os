@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 39"
+represents: "us/states/ct/districts/house/39"
 tenure:
   start: "2019-03-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony Nolan
 
 Current CT House District 39 (CT State House of Representatives District 39).
+
+Represents [CT State House of Representatives District 39](/us/states/ct/districts/house/39.md).
 
 ## Sources
 

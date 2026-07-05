@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 83"
+represents: "us/states/ga/districts/house/83"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Lupton
 
 Current GA House District 83 (GA State House of Representatives District 83).
+
+Represents [GA State House of Representatives District 83](/us/states/ga/districts/house/83.md).
 
 ## Sources
 

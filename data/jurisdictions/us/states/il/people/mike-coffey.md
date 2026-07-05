@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 95"
+represents: "us/states/il/districts/house/95"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Coffey
 
 Current IL House District 95 (IL State House of Representatives District 95).
+
+Represents [IL State House of Representatives District 95](/us/states/il/districts/house/95.md).
 
 ## Sources
 

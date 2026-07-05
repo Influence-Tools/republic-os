@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 52"
+represents: "us/states/tn/districts/house/52"
 tenure:
   start: "2023-04-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Jones
 
 Current TN House District 52 (TN State House of Representatives District 52).
+
+Represents [TN State House of Representatives District 52](/us/states/tn/districts/house/52.md).
 
 ## Sources
 

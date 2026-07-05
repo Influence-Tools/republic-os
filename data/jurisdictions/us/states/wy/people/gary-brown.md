@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 41"
+represents: "us/states/wy/districts/house/41"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Brown
 
 Current WY House District 41 (WY State House of Representatives District 41).
+
+Represents [WY State House of Representatives District 41](/us/states/wy/districts/house/41.md).
 
 ## Sources
 

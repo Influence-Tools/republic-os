@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 11"
+represents: "us/states/tn/districts/house/11"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Faison
 
 Current TN House District 11 (TN State House of Representatives District 11).
+
+Represents [TN State House of Representatives District 11](/us/states/tn/districts/house/11.md).
 
 ## Sources
 

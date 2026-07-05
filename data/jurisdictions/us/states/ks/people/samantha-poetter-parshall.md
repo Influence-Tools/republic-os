@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 6"
+represents: "us/states/ks/districts/house/6"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Samantha Poetter Parshall
 
 Current KS House District 6 (KS State House of Representatives District 6).
+
+Represents [KS State House of Representatives District 6](/us/states/ks/districts/house/6.md).
 
 ## Sources
 

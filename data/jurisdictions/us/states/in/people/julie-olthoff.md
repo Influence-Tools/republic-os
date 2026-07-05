@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 19"
+represents: "us/states/in/districts/house/19"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Olthoff
 
 Current IN House District 19 (IN State House of Representatives District 19).
+
+Represents [IN State House of Representatives District 19](/us/states/in/districts/house/19.md).
 
 ## Sources
 

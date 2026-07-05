@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 25"
+represents: "us/states/wy/districts/senate/25"
 tenure:
   start: "1999-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cale Case
 
 Current WY Senate District 25 (WY State Senate District 25).
+
+Represents [WY State Senate District 25](/us/states/wy/districts/senate/25.md).
 
 ## Sources
 

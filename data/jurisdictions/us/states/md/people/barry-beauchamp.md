@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 38B"
+represents: "us/states/md/districts/house/38b"
 tenure:
   start: "2024-09-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barry Beauchamp
 
 Current MD House District 38B (MD State House of Representatives District 38B).
+
+Represents [MD State House of Representatives District 38B](/us/states/md/districts/house/38b.md).
 
 ## Sources
 

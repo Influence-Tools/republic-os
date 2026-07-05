@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 123"
+represents: "us/states/ga/districts/house/123"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Leverett
 
 Current GA House District 123 (GA State House of Representatives District 123).
+
+Represents [GA State House of Representatives District 123](/us/states/ga/districts/house/123.md).
 
 ## Sources
 

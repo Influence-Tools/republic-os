@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 24"
+represents: "us/states/ky/districts/senate/24"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelley Frommeyer
 
 Current KY Senate District 24 (KY State Senate District 24).
+
+Represents [KY State Senate District 24](/us/states/ky/districts/senate/24.md).
 
 ## Sources
 

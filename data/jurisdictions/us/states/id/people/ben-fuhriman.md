@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 30B"
+represents: "us/states/id/districts/house/30b"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Fuhriman
 
 Current ID House District 30B (ID State House of Representatives District 30B).
+
+Represents [ID State House of Representatives District 30B](/us/states/id/districts/house/30b.md).
 
 ## Sources
 

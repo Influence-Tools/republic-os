@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 5"
+represents: "us/states/la/districts/house/5"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Bamburg
 
 Current LA House District 5 (LA State House of Representatives District 5).
+
+Represents [LA State House of Representatives District 5](/us/states/la/districts/house/5.md).
 
 ## Sources
 

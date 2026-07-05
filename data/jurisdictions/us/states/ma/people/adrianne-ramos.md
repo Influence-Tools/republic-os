@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 14th Essex"
+represents: "us/states/ma/districts/house/14th-essex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adrianne Ramos
 
 Current MA House District 14th Essex (MA State House of Representatives District 14th Essex).
+
+Represents [MA State House of Representatives District 14th Essex](/us/states/ma/districts/house/14th-essex.md).
 
 ## Sources
 

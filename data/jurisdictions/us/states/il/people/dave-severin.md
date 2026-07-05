@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 116"
+represents: "us/states/il/districts/house/116"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Severin
 
 Current IL House District 116 (IL State House of Representatives District 116).
+
+Represents [IL State House of Representatives District 116](/us/states/il/districts/house/116.md).
 
 ## Sources
 

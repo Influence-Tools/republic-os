@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 7"
+represents: "us/states/me/districts/senate/7"
 tenure:
   start: "2022-07-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Grohoski
 
 Current ME Senate District 7 (ME State Senate District 7).
+
+Represents [ME State Senate District 7](/us/states/me/districts/senate/7.md).
 
 ## Sources
 

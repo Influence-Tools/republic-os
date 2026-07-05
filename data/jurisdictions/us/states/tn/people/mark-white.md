@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 83"
+represents: "us/states/tn/districts/house/83"
 tenure:
   start: "2010-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark White
 
 Current TN House District 83 (TN State House of Representatives District 83).
+
+Represents [TN State House of Representatives District 83](/us/states/tn/districts/house/83.md).
 
 ## Sources
 

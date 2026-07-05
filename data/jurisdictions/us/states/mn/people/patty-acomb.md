@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 45B"
+represents: "us/states/mn/districts/house/45b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patty Acomb
 
 Current MN House District 45B (MN State House of Representatives District 45B).
+
+Represents [MN State House of Representatives District 45B](/us/states/mn/districts/house/45b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 123"
+represents: "us/states/pa/districts/house/123"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Twardzik
 
 Current PA House District 123 (PA State House of Representatives District 123).
+
+Represents [PA State House of Representatives District 123](/us/states/pa/districts/house/123.md).
 
 ## Sources
 

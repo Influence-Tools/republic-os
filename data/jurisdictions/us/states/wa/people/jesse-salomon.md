@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 32"
+represents: "us/states/wa/districts/senate/32"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Salomon
 
 Current WA Senate District 32 (WA State Senate District 32).
+
+Represents [WA State Senate District 32](/us/states/wa/districts/senate/32.md).
 
 ## Sources
 

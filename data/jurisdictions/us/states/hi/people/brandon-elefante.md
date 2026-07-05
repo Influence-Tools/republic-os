@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 16"
+represents: "us/states/hi/districts/senate/16"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Elefante
 
 Current HI Senate District 16 (HI State Senate District 16).
+
+Represents [HI State Senate District 16](/us/states/hi/districts/senate/16.md).
 
 ## Sources
 

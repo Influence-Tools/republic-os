@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 9th Hampden"
+represents: "us/states/ma/districts/house/9th-hampden"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Orlando Ramos
 
 Current MA House District 9th Hampden (MA State House of Representatives District 9th Hampden).
+
+Represents [MA State House of Representatives District 9th Hampden](/us/states/ma/districts/house/9th-hampden.md).
 
 ## Sources
 

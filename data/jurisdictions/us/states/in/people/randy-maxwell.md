@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 43"
+represents: "us/states/in/districts/senate/43"
 tenure:
   start: "2023-09-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Maxwell
 
 Current IN Senate District 43 (IN State Senate District 43).
+
+Represents [IN State Senate District 43](/us/states/in/districts/senate/43.md).
 
 ## Sources
 

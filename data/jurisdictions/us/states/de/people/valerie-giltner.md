@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 37"
+represents: "us/states/de/districts/house/37"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Valerie Giltner
 
 Current DE House District 37 (DE State House of Representatives District 37).
+
+Represents [DE State House of Representatives District 37](/us/states/de/districts/house/37.md).
 
 ## Sources
 

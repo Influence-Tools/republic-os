@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 17"
+represents: "us/states/wa/districts/house/17"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Waters
 
 Current WA House District 17 (WA State House of Representatives District 17).
+
+Represents [WA State House of Representatives District 17](/us/states/wa/districts/house/17.md).
 
 ## Sources
 

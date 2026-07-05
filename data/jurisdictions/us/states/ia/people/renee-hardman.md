@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 16"
+represents: "us/states/ia/districts/senate/16"
 tenure:
   start: "2026-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Renee Hardman
 
 Current IA Senate District 16 (IA State Senate District 16).
+
+Represents [IA State Senate District 16](/us/states/ia/districts/senate/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 5"
+represents: "us/states/wi/districts/senate/5"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Hutton
 
 Current WI Senate District 5 (WI State Senate District 5).
+
+Represents [WI State Senate District 5](/us/states/wi/districts/senate/5.md).
 
 ## Sources
 

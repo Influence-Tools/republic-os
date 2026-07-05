@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 39"
+represents: "us/states/me/districts/house/39"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jan Dodge
 
 Current ME House District 39 (ME State House of Representatives District 39).
+
+Represents [ME State House of Representatives District 39](/us/states/me/districts/house/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 32"
+represents: "us/states/ky/districts/house/32"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Bojanowski
 
 Current KY House District 32 (KY State House of Representatives District 32).
+
+Represents [KY State House of Representatives District 32](/us/states/ky/districts/house/32.md).
 
 ## Sources
 

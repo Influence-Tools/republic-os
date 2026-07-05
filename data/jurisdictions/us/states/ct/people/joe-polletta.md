@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 68"
+represents: "us/states/ct/districts/house/68"
 tenure:
   start: "2017-05-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Polletta
 
 Current CT House District 68 (CT State House of Representatives District 68).
+
+Represents [CT State House of Representatives District 68](/us/states/ct/districts/house/68.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 36"
+represents: "us/states/mi/districts/senate/36"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michele Hoitenga
 
 Current MI Senate District 36 (MI State Senate District 36).
+
+Represents [MI State Senate District 36](/us/states/mi/districts/senate/36.md).
 
 ## Sources
 

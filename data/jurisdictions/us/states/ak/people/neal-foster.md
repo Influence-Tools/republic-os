@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 39"
+represents: "us/states/ak/districts/house/39"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neal Foster
 
 Current AK House District 39 (AK State House of Representatives District 39).
+
+Represents [AK State House of Representatives District 39](/us/states/ak/districts/house/39.md).
 
 ## Sources
 

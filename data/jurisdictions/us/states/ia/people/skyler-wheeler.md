@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 4"
+represents: "us/states/ia/districts/house/4"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Skyler Wheeler
 
 Current IA House District 4 (IA State House of Representatives District 4).
+
+Represents [IA State House of Representatives District 4](/us/states/ia/districts/house/4.md).
 
 ## Sources
 

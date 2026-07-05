@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 35"
+represents: "us/states/ca/districts/35"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Norma J. Torres
 
 Current U.S. House of Representatives - CA-35 (Congressional District 35).
+
+Represents [Congressional District 35](/us/states/ca/districts/35.md).
 
 ## Committees
 

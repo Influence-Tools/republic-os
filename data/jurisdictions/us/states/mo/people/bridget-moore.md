@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 93"
+represents: "us/states/mo/districts/house/93"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bridget Moore
 
 Current MO House District 93 (MO State House of Representatives District 93).
+
+Represents [MO State House of Representatives District 93](/us/states/mo/districts/house/93.md).
 
 ## Sources
 

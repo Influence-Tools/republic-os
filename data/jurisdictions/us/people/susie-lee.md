@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NV"
 district: "Congressional District 3"
+represents: "us/states/nv/districts/03"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Susie Lee
 
 Current U.S. House of Representatives - NV-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/nv/districts/03.md).
 
 ## Committees
 

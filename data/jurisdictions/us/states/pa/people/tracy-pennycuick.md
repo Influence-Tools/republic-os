@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 24"
+represents: "us/states/pa/districts/senate/24"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Pennycuick
 
 Current PA Senate District 24 (PA State Senate District 24).
+
+Represents [PA State Senate District 24](/us/states/pa/districts/senate/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 2B"
+represents: "us/states/mn/districts/house/2b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Bliss
 
 Current MN House District 2B (MN State House of Representatives District 2B).
+
+Represents [MN State House of Representatives District 2B](/us/states/mn/districts/house/2b.md).
 
 ## Sources
 

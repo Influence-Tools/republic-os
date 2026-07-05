@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 57"
+represents: "us/states/ar/districts/house/57"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cameron Cooper
 
 Current AR House District 57 (AR State House of Representatives District 57).
+
+Represents [AR State House of Representatives District 57](/us/states/ar/districts/house/57.md).
 
 ## Sources
 

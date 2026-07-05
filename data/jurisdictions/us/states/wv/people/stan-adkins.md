@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 49"
+represents: "us/states/wv/districts/house/49"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stan Adkins
 
 Current WV House District 49 (WV State House of Representatives District 49).
+
+Represents [WV State House of Representatives District 49](/us/states/wv/districts/house/49.md).
 
 ## Sources
 

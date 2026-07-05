@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 16"
+represents: "us/states/ky/districts/senate/16"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Max Wise
 
 Current KY Senate District 16 (KY State Senate District 16).
+
+Represents [KY State Senate District 16](/us/states/ky/districts/senate/16.md).
 
 ## Sources
 

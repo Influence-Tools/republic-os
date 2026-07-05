@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 48"
+represents: "us/states/la/districts/house/48"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beau Beaullieu
 
 Current LA House District 48 (LA State House of Representatives District 48).
+
+Represents [LA State House of Representatives District 48](/us/states/la/districts/house/48.md).
 
 ## Sources
 

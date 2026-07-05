@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 34"
+represents: "us/states/ca/districts/34"
 committees:
   - name: "House Permanent Select Committee on Intelligence"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Jimmy Gomez
 
 Current U.S. House of Representatives - CA-34 (Congressional District 34).
+
+Represents [Congressional District 34](/us/states/ca/districts/34.md).
 
 ## Committees
 

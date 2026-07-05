@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 14"
+represents: "us/states/nh/districts/house/strafford-14"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Schmidt
 
 Current NH House District Strafford 14 (NH State House of Representatives District Strafford 14).
+
+Represents [NH State House of Representatives District Strafford 14](/us/states/nh/districts/house/strafford-14.md).
 
 ## Sources
 

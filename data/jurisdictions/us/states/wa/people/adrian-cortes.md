@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 18"
+represents: "us/states/wa/districts/senate/18"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adrian Cortes
 
 Current WA Senate District 18 (WA State Senate District 18).
+
+Represents [WA State Senate District 18](/us/states/wa/districts/senate/18.md).
 
 ## Sources
 

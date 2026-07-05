@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 139"
+represents: "us/states/ga/districts/house/139"
 tenure:
   start: "2024-05-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carmen Rice
 
 Current GA House District 139 (GA State House of Representatives District 139).
+
+Represents [GA State House of Representatives District 139](/us/states/ga/districts/house/139.md).
 
 ## Sources
 

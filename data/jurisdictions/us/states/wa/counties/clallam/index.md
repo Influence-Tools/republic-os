@@ -22,9 +22,21 @@ demographics:
   race_native: 2743
   hispanic: 5273
   bachelors_plus: 26850
+districts:
+  - to: "us/states/wa/districts/06"
+    rel: in-district
+    area_weight: 0.663
+  - to: "us/states/wa/districts/senate/24"
+    rel: in-district
+    area_weight: 0.6616
+  - to: "us/states/wa/districts/house/24"
+    rel: in-district
+    area_weight: 0.6616
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wa]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 5273 |
 | Bachelor's or higher | 26850 |
 
+## Districts
+
+- [WA-06](/us/states/wa/districts/06.md) — 66% (congressional)
+- [WA Senate District 24](/us/states/wa/districts/senate/24.md) — 66% (state senate)
+- [WA House District 24](/us/states/wa/districts/house/24.md) — 66% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

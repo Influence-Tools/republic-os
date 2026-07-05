@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 2"
+represents: "us/states/la/districts/senate/2"
 tenure:
   start: "2017-06-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Price
 
 Current LA Senate District 2 (LA State Senate District 2).
+
+Represents [LA State Senate District 2](/us/states/la/districts/senate/2.md).
 
 ## Sources
 

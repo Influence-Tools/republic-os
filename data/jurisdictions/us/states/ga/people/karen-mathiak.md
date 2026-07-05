@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 82"
+represents: "us/states/ga/districts/house/82"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Mathiak
 
 Current GA House District 82 (GA State House of Representatives District 82).
+
+Represents [GA State House of Representatives District 82](/us/states/ga/districts/house/82.md).
 
 ## Sources
 

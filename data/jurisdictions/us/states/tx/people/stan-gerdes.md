@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 17"
+represents: "us/states/tx/districts/house/17"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stan Gerdes
 
 Current TX House District 17 (TX State House of Representatives District 17).
+
+Represents [TX State House of Representatives District 17](/us/states/tx/districts/house/17.md).
 
 ## Sources
 

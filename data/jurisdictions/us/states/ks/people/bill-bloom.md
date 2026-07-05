@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 64"
+represents: "us/states/ks/districts/house/64"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Bloom
 
 Current KS House District 64 (KS State House of Representatives District 64).
+
+Represents [KS State House of Representatives District 64](/us/states/ks/districts/house/64.md).
 
 ## Sources
 

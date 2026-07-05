@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 11"
+represents: "us/states/ca/districts/senate/11"
 tenure:
   start: "2016-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Wiener
 
 Current CA Senate District 11 (CA State Senate District 11).
+
+Represents [CA State Senate District 11](/us/states/ca/districts/senate/11.md).
 
 ## Sources
 

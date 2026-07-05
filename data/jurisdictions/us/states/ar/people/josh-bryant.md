@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 32"
+represents: "us/states/ar/districts/senate/32"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Bryant
 
 Current AR Senate District 32 (AR State Senate District 32).
+
+Represents [AR State Senate District 32](/us/states/ar/districts/senate/32.md).
 
 ## Sources
 

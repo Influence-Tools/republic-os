@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 60"
+represents: "us/states/wv/districts/house/60"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dana Ferrell
 
 Current WV House District 60 (WV State House of Representatives District 60).
+
+Represents [WV State House of Representatives District 60](/us/states/wv/districts/house/60.md).
 
 ## Sources
 

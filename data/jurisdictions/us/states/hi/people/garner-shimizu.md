@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 32"
+represents: "us/states/hi/districts/house/32"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Garner Shimizu
 
 Current HI House District 32 (HI State House of Representatives District 32).
+
+Represents [HI State House of Representatives District 32](/us/states/hi/districts/house/32.md).
 
 ## Sources
 

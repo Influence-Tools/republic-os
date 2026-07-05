@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 4"
+represents: "us/states/va/districts/senate/4"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Suetterlein
 
 Current VA Senate District 4 (VA State Senate District 4).
+
+Represents [VA State Senate District 4](/us/states/va/districts/senate/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 27"
+represents: "us/states/nh/districts/house/hillsborough-27"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Murphy
 
 Current NH House District Hillsborough 27 (NH State House of Representatives District Hillsborough 27).
+
+Represents [NH State House of Representatives District Hillsborough 27](/us/states/nh/districts/house/hillsborough-27.md).
 
 ## Sources
 

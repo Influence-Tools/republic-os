@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District First Middlesex"
+represents: "us/states/ma/districts/senate/first-middlesex"
 tenure:
   start: "2026-03-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vanna Howard
 
 Current MA Senate District First Middlesex (MA State Senate District First Middlesex).
+
+Represents [MA State Senate District First Middlesex](/us/states/ma/districts/senate/first-middlesex.md).
 
 ## Sources
 

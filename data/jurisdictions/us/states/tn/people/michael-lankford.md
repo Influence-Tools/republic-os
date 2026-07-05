@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 75"
+represents: "us/states/tn/districts/house/75"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Lankford
 
 Current TN House District 75 (TN State House of Representatives District 75).
+
+Represents [TN State House of Representatives District 75](/us/states/tn/districts/house/75.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 131"
+represents: "us/states/tx/districts/house/131"
 tenure:
   start: "2005-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alma Allen
 
 Current TX House District 131 (TX State House of Representatives District 131).
+
+Represents [TX State House of Representatives District 131](/us/states/tx/districts/house/131.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 18"
+represents: "us/states/ks/districts/house/18"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Neighbor
 
 Current KS House District 18 (KS State House of Representatives District 18).
+
+Represents [KS State House of Representatives District 18](/us/states/ks/districts/house/18.md).
 
 ## Sources
 

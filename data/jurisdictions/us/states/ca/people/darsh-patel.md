@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 76"
+represents: "us/states/ca/districts/house/76"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darsh Patel
 
 Current CA House District 76 (CA State House of Representatives District 76).
+
+Represents [CA State House of Representatives District 76](/us/states/ca/districts/house/76.md).
 
 ## Sources
 

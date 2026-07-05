@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Suffolk"
+represents: "us/states/ma/districts/house/1st-suffolk"
 tenure:
   start: "2015-04-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adrian Madaro
 
 Current MA House District 1st Suffolk (MA State House of Representatives District 1st Suffolk).
+
+Represents [MA State House of Representatives District 1st Suffolk](/us/states/ma/districts/house/1st-suffolk.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 47"
+represents: "us/states/wa/districts/senate/47"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Claudia Kauffman
 
 Current WA Senate District 47 (WA State Senate District 47).
+
+Represents [WA State Senate District 47](/us/states/wa/districts/senate/47.md).
 
 ## Sources
 

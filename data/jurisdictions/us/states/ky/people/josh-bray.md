@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 71"
+represents: "us/states/ky/districts/house/71"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Bray
 
 Current KY House District 71 (KY State House of Representatives District 71).
+
+Represents [KY State House of Representatives District 71](/us/states/ky/districts/house/71.md).
 
 ## Sources
 

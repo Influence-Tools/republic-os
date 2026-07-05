@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 42B"
+represents: "us/states/md/districts/house/42b"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michele Guyton
 
 Current MD House District 42B (MD State House of Representatives District 42B).
+
+Represents [MD State House of Representatives District 42B](/us/states/md/districts/house/42b.md).
 
 ## Sources
 

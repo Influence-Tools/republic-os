@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 2"
+represents: "us/states/tx/districts/senate/2"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Hall
 
 Current TX Senate District 2 (TX State Senate District 2).
+
+Represents [TX State Senate District 2](/us/states/tx/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 18"
+represents: "us/states/la/districts/house/18"
 tenure:
   start: "2023-04-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy LaCombe
 
 Current LA House District 18 (LA State House of Representatives District 18).
+
+Represents [LA State House of Representatives District 18](/us/states/la/districts/house/18.md).
 
 ## Sources
 

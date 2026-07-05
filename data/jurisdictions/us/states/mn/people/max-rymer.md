@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 28B"
+represents: "us/states/mn/districts/house/28b"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Max Rymer
 
 Current MN House District 28B (MN State House of Representatives District 28B).
+
+Represents [MN State House of Representatives District 28B](/us/states/mn/districts/house/28b.md).
 
 ## Sources
 

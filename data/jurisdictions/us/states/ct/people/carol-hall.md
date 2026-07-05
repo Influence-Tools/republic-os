@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 59"
+represents: "us/states/ct/districts/house/59"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Hall
 
 Current CT House District 59 (CT State House of Representatives District 59).
+
+Represents [CT State House of Representatives District 59](/us/states/ct/districts/house/59.md).
 
 ## Sources
 

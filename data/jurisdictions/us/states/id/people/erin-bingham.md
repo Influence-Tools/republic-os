@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 32B"
+represents: "us/states/id/districts/house/32b"
 tenure:
   start: "2026-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Bingham
 
 Current ID House District 32B (ID State House of Representatives District 32B).
+
+Represents [ID State House of Representatives District 32B](/us/states/id/districts/house/32b.md).
 
 ## Sources
 

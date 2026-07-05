@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 44"
+represents: "us/states/ca/districts/44"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Nanette Diaz Barragán
 
 Current U.S. House of Representatives - CA-44 (Congressional District 44).
+
+Represents [Congressional District 44](/us/states/ca/districts/44.md).
 
 ## Committees
 

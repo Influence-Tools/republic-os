@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 56"
+represents: "us/states/mo/districts/house/56"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Davis
 
 Current MO House District 56 (MO State House of Representatives District 56).
+
+Represents [MO State House of Representatives District 56](/us/states/mo/districts/house/56.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 9"
+represents: "us/states/nv/districts/senate/9"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melanie Scheible
 
 Current NV Senate District 9 (NV State Senate District 9).
+
+Represents [NV State Senate District 9](/us/states/nv/districts/senate/9.md).
 
 ## Sources
 

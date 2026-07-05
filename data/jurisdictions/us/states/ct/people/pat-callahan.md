@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 108"
+represents: "us/states/ct/districts/house/108"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Callahan
 
 Current CT House District 108 (CT State House of Representatives District 108).
+
+Represents [CT State House of Representatives District 108](/us/states/ct/districts/house/108.md).
 
 ## Sources
 

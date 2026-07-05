@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 24"
+represents: "us/states/co/districts/senate/24"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Mullica
 
 Current CO Senate District 24 (CO State Senate District 24).
+
+Represents [CO State Senate District 24](/us/states/co/districts/senate/24.md).
 
 ## Sources
 

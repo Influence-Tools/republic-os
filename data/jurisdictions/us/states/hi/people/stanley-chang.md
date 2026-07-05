@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 9"
+represents: "us/states/hi/districts/senate/9"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stanley Chang
 
 Current HI Senate District 9 (HI State Senate District 9).
+
+Represents [HI State Senate District 9](/us/states/hi/districts/senate/9.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 26"
+represents: "us/states/tx/districts/senate/26"
 tenure:
   start: "2015-03-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # José Menéndez
 
 Current TX Senate District 26 (TX State Senate District 26).
+
+Represents [TX State Senate District 26](/us/states/tx/districts/senate/26.md).
 
 ## Sources
 

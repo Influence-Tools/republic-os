@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 77"
+represents: "us/states/nc/districts/house/77"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julia Howard
 
 Current NC House District 77 (NC State House of Representatives District 77).
+
+Represents [NC State House of Representatives District 77](/us/states/nc/districts/house/77.md).
 
 ## Sources
 

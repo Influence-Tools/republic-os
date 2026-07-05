@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KY"
 district: "Congressional District 2"
+represents: "us/states/ky/districts/02"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "chair"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Brett Guthrie
 
 Current U.S. House of Representatives - KY-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ky/districts/02.md).
 
 ## Committees
 

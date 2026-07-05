@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 2"
+represents: "us/states/ms/districts/senate/2"
 tenure:
   start: "2026-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Theresa Gillespie Isom
 
 Current MS Senate District 2 (MS State Senate District 2).
+
+Represents [MS State Senate District 2](/us/states/ms/districts/senate/2.md).
 
 ## Sources
 

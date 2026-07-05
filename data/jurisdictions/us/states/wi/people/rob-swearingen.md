@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 34"
+represents: "us/states/wi/districts/house/34"
 tenure:
   start: "2013-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Swearingen
 
 Current WI House District 34 (WI State House of Representatives District 34).
+
+Represents [WI State House of Representatives District 34](/us/states/wi/districts/house/34.md).
 
 ## Sources
 

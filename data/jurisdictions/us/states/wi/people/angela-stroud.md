@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 73"
+represents: "us/states/wi/districts/house/73"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Stroud
 
 Current WI House District 73 (WI State House of Representatives District 73).
+
+Represents [WI State House of Representatives District 73](/us/states/wi/districts/house/73.md).
 
 ## Sources
 

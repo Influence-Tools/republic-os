@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 2"
+represents: "us/states/nj/districts/02"
 committees:
   - name: "House Committee on the Judiciary"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jefferson Van Drew
 
 Current U.S. House of Representatives - NJ-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/nj/districts/02.md).
 
 ## Committees
 

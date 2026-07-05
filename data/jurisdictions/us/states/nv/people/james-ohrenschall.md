@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 21"
+represents: "us/states/nv/districts/senate/21"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Ohrenschall
 
 Current NV Senate District 21 (NV State Senate District 21).
+
+Represents [NV State Senate District 21](/us/states/nv/districts/senate/21.md).
 
 ## Sources
 

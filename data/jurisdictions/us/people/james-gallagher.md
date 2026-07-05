@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 1"
+represents: "us/states/ca/districts/01"
 tenure:
   start: "2026-06-10"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # James Gallagher
 
 Current U.S. House of Representatives - CA-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ca/districts/01.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 48"
+represents: "us/states/fl/districts/house/48"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Albert
 
 Current FL House District 48 (FL State House of Representatives District 48).
+
+Represents [FL State House of Representatives District 48](/us/states/fl/districts/house/48.md).
 
 ## Sources
 

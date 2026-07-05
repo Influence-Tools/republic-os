@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 8"
+represents: "us/states/oh/districts/senate/8"
 tenure:
   start: "2019-10-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Blessing
 
 Current OH Senate District 8 (OH State Senate District 8).
+
+Represents [OH State Senate District 8](/us/states/oh/districts/senate/8.md).
 
 ## Sources
 

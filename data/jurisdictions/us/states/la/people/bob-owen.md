@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 1"
+represents: "us/states/la/districts/senate/1"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Owen
 
 Current LA Senate District 1 (LA State Senate District 1).
+
+Represents [LA State Senate District 1](/us/states/la/districts/senate/1.md).
 
 ## Sources
 

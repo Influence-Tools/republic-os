@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 11"
+represents: "us/states/az/districts/senate/11"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Catherine Miranda
 
 Current AZ Senate District 11 (AZ State Senate District 11).
+
+Represents [AZ State Senate District 11](/us/states/az/districts/senate/11.md).
 
 ## Sources
 

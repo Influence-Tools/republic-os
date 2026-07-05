@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 65"
+represents: "us/states/la/districts/house/65"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Ventrella
 
 Current LA House District 65 (LA State House of Representatives District 65).
+
+Represents [LA State House of Representatives District 65](/us/states/la/districts/house/65.md).
 
 ## Sources
 

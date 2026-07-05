@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 26"
+represents: "us/states/ny/districts/house/26"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Braunstein
 
 Current NY House District 26 (NY State House of Representatives District 26).
+
+Represents [NY State House of Representatives District 26](/us/states/ny/districts/house/26.md).
 
 ## Sources
 

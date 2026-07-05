@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 8"
+represents: "us/states/co/districts/house/8"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsay Gilchrist
 
 Current CO House District 8 (CO State House of Representatives District 8).
+
+Represents [CO State House of Representatives District 8](/us/states/co/districts/house/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 9"
+represents: "us/states/wi/districts/senate/9"
 tenure:
   start: "2015-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Devin LeMahieu
 
 Current WI Senate District 9 (WI State Senate District 9).
+
+Represents [WI State Senate District 9](/us/states/wi/districts/senate/9.md).
 
 ## Sources
 

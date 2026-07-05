@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 100"
+represents: "us/states/ks/districts/house/100"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Hawkins
 
 Current KS House District 100 (KS State House of Representatives District 100).
+
+Represents [KS State House of Representatives District 100](/us/states/ks/districts/house/100.md).
 
 ## Sources
 

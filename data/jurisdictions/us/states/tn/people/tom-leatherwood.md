@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 99"
+represents: "us/states/tn/districts/house/99"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Leatherwood
 
 Current TN House District 99 (TN State House of Representatives District 99).
+
+Represents [TN State House of Representatives District 99](/us/states/tn/districts/house/99.md).
 
 ## Sources
 

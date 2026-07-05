@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 133"
+represents: "us/states/pa/districts/house/133"
 tenure:
   start: "2018-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeanne McNeill
 
 Current PA House District 133 (PA State House of Representatives District 133).
+
+Represents [PA State House of Representatives District 133](/us/states/pa/districts/house/133.md).
 
 ## Sources
 

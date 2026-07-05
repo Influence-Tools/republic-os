@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 12"
+represents: "us/states/wi/districts/senate/12"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Felzkowski
 
 Current WI Senate District 12 (WI State Senate District 12).
+
+Represents [WI State Senate District 12](/us/states/wi/districts/senate/12.md).
 
 ## Sources
 

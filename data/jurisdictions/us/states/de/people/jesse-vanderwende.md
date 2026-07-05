@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 35"
+represents: "us/states/de/districts/house/35"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Vanderwende
 
 Current DE House District 35 (DE State House of Representatives District 35).
+
+Represents [DE State House of Representatives District 35](/us/states/de/districts/house/35.md).
 
 ## Sources
 

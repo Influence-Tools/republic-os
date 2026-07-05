@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 4th Norfolk"
+represents: "us/states/ma/districts/house/4th-norfolk"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Murphy
 
 Current MA House District 4th Norfolk (MA State House of Representatives District 4th Norfolk).
+
+Represents [MA State House of Representatives District 4th Norfolk](/us/states/ma/districts/house/4th-norfolk.md).
 
 ## Sources
 

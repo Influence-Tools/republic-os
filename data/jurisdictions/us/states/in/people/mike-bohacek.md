@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 8"
+represents: "us/states/in/districts/senate/8"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Bohacek
 
 Current IN Senate District 8 (IN State Senate District 8).
+
+Represents [IN State Senate District 8](/us/states/in/districts/senate/8.md).
 
 ## Sources
 

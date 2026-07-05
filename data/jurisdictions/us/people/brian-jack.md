@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 3"
+represents: "us/states/ga/districts/03"
 committees:
   - name: "House Committee on Oversight and Government Reform"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Brian Jack
 
 Current U.S. House of Representatives - GA-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ga/districts/03.md).
 
 ## Committees
 

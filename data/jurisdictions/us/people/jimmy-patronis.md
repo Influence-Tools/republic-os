@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 1"
+represents: "us/states/fl/districts/01"
 committees:
   - name: "House Committee on Small Business"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Jimmy Patronis
 
 Current U.S. House of Representatives - FL-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/fl/districts/01.md).
 
 ## Committees
 

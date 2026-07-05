@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Orleans-4"
+represents: "us/states/vt/districts/house/orleans-4"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leanne Harple
 
 Current VT House District Orleans-4 (VT State House of Representatives District Orleans-4).
+
+Represents [VT State House of Representatives District Orleans-4](/us/states/vt/districts/house/orleans-4.md).
 
 ## Sources
 

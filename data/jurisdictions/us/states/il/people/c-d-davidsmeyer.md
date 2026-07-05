@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 100"
+represents: "us/states/il/districts/house/100"
 tenure:
   start: "2012-12-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # C.D. Davidsmeyer
 
 Current IL House District 100 (IL State House of Representatives District 100).
+
+Represents [IL State House of Representatives District 100](/us/states/il/districts/house/100.md).
 
 ## Sources
 

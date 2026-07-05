@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 57"
+represents: "us/states/ca/districts/house/57"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sade Elhawary
 
 Current CA House District 57 (CA State House of Representatives District 57).
+
+Represents [CA State House of Representatives District 57](/us/states/ca/districts/house/57.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 28"
+represents: "us/states/wa/districts/house/28"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Bronoske
 
 Current WA House District 28 (WA State House of Representatives District 28).
+
+Represents [WA State House of Representatives District 28](/us/states/wa/districts/house/28.md).
 
 ## Sources
 

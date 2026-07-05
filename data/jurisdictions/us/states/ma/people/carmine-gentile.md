@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 13th Middlesex"
+represents: "us/states/ma/districts/house/13th-middlesex"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carmine Gentile
 
 Current MA House District 13th Middlesex (MA State House of Representatives District 13th Middlesex).
+
+Represents [MA State House of Representatives District 13th Middlesex](/us/states/ma/districts/house/13th-middlesex.md).
 
 ## Sources
 

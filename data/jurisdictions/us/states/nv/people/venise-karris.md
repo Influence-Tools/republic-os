@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 10"
+represents: "us/states/nv/districts/house/10"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Venise Karris
 
 Current NV House District 10 (NV State House of Representatives District 10).
+
+Represents [NV State House of Representatives District 10](/us/states/nv/districts/house/10.md).
 
 ## Sources
 

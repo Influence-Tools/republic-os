@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 10"
+represents: "us/states/ca/districts/10"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Mark DeSaulnier
 
 Current U.S. House of Representatives - CA-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/ca/districts/10.md).
 
 ## Committees
 

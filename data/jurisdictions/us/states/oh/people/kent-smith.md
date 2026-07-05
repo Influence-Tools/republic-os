@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 21"
+represents: "us/states/oh/districts/senate/21"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kent Smith
 
 Current OH Senate District 21 (OH State Senate District 21).
+
+Represents [OH State Senate District 21](/us/states/oh/districts/senate/21.md).
 
 ## Sources
 

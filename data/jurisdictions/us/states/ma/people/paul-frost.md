@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 7th Worcester"
+represents: "us/states/ma/districts/house/7th-worcester"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Frost
 
 Current MA House District 7th Worcester (MA State House of Representatives District 7th Worcester).
+
+Represents [MA State House of Representatives District 7th Worcester](/us/states/ma/districts/house/7th-worcester.md).
 
 ## Sources
 

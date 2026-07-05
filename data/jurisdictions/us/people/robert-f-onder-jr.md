@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MO"
 district: "Congressional District 3"
+represents: "us/states/mo/districts/03"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # Robert F. Onder, Jr.
 
 Current U.S. House of Representatives - MO-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/mo/districts/03.md).
 
 ## Committees
 

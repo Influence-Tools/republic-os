@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 175"
+represents: "us/states/pa/districts/house/175"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Isaacson
 
 Current PA House District 175 (PA State House of Representatives District 175).
+
+Represents [PA State House of Representatives District 175](/us/states/pa/districts/house/175.md).
 
 ## Sources
 

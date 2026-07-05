@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 99"
+represents: "us/states/nc/districts/house/99"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nasif Majeed
 
 Current NC House District 99 (NC State House of Representatives District 99).
+
+Represents [NC State House of Representatives District 99](/us/states/nc/districts/house/99.md).
 
 ## Sources
 

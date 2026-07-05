@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 15"
+represents: "us/states/co/districts/house/15"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Bottoms
 
 Current CO House District 15 (CO State House of Representatives District 15).
+
+Represents [CO State House of Representatives District 15](/us/states/co/districts/house/15.md).
 
 ## Sources
 

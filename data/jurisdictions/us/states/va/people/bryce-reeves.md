@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 28"
+represents: "us/states/va/districts/senate/28"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryce Reeves
 
 Current VA Senate District 28 (VA State Senate District 28).
+
+Represents [VA State Senate District 28](/us/states/va/districts/senate/28.md).
 
 ## Sources
 

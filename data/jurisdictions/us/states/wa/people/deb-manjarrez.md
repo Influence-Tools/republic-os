@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 14"
+represents: "us/states/wa/districts/house/14"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deb Manjarrez
 
 Current WA House District 14 (WA State House of Representatives District 14).
+
+Represents [WA State House of Representatives District 14](/us/states/wa/districts/house/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 40"
+represents: "us/states/ok/districts/house/40"
 tenure:
   start: "2014-11-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Caldwell
 
 Current OK House District 40 (OK State House of Representatives District 40).
+
+Represents [OK State House of Representatives District 40](/us/states/ok/districts/house/40.md).
 
 ## Sources
 

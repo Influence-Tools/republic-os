@@ -22,9 +22,27 @@ demographics:
   race_native: 4002
   hispanic: 133953
   bachelors_plus: 119335
+districts:
+  - to: "us/states/ca/districts/04"
+    rel: in-district
+    area_weight: 0.5398
+  - to: "us/states/ca/districts/08"
+    rel: in-district
+    area_weight: 0.4227
+  - to: "us/states/ca/districts/07"
+    rel: in-district
+    area_weight: 0.0193
+  - to: "us/states/ca/districts/senate/3"
+    rel: in-district
+    area_weight: 0.9822
+  - to: "us/states/ca/districts/house/11"
+    rel: in-district
+    area_weight: 0.9819
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ca]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction — 3 officeholders mapped.
 | Hispanic/Latino | 133953 |
 | Bachelor's or higher | 119335 |
 
+## Districts
+
+- [CA-04](/us/states/ca/districts/04.md) — 54% (congressional)
+- [CA-08](/us/states/ca/districts/08.md) — 42% (congressional)
+- [CA-07](/us/states/ca/districts/07.md) — 2% (congressional)
+- [CA Senate District 3](/us/states/ca/districts/senate/3.md) — 98% (state senate)
+- [CA House District 11](/us/states/ca/districts/house/11.md) — 98% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

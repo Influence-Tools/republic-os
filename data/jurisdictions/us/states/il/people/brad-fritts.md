@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 74"
+represents: "us/states/il/districts/house/74"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Fritts
 
 Current IL House District 74 (IL State House of Representatives District 74).
+
+Represents [IL State House of Representatives District 74](/us/states/il/districts/house/74.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 30"
+represents: "us/states/ky/districts/house/30"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Grossberg
 
 Current KY House District 30 (KY State House of Representatives District 30).
+
+Represents [KY State House of Representatives District 30](/us/states/ky/districts/house/30.md).
 
 ## Sources
 

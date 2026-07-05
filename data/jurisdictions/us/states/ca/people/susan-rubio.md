@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 22"
+represents: "us/states/ca/districts/senate/22"
 tenure:
   start: "2018-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Rubio
 
 Current CA Senate District 22 (CA State Senate District 22).
+
+Represents [CA State Senate District 22](/us/states/ca/districts/senate/22.md).
 
 ## Sources
 

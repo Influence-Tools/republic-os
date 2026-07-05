@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 14th Worcester"
+represents: "us/states/ma/districts/house/14th-worcester"
 tenure:
   start: "2007-05-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim O'Day
 
 Current MA House District 14th Worcester (MA State House of Representatives District 14th Worcester).
+
+Represents [MA State House of Representatives District 14th Worcester](/us/states/ma/districts/house/14th-worcester.md).
 
 ## Sources
 

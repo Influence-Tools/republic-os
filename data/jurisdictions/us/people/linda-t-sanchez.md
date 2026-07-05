@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 38"
+represents: "us/states/ca/districts/38"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Linda T. Sánchez
 
 Current U.S. House of Representatives - CA-38 (Congressional District 38).
+
+Represents [Congressional District 38](/us/states/ca/districts/38.md).
 
 ## Committees
 

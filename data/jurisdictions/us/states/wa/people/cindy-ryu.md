@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 32"
+represents: "us/states/wa/districts/house/32"
 tenure:
   start: "2011-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Ryu
 
 Current WA House District 32 (WA State House of Representatives District 32).
+
+Represents [WA State House of Representatives District 32](/us/states/wa/districts/house/32.md).
 
 ## Sources
 

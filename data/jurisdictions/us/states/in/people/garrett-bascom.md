@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 68"
+represents: "us/states/in/districts/house/68"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Garrett Bascom
 
 Current IN House District 68 (IN State House of Representatives District 68).
+
+Represents [IN State House of Representatives District 68](/us/states/in/districts/house/68.md).
 
 ## Sources
 

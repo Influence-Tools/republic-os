@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 4"
+represents: "us/states/nh/districts/house/strafford-4"
 tenure:
   start: "2018-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cassandra Levesque
 
 Current NH House District Strafford 4 (NH State House of Representatives District Strafford 4).
+
+Represents [NH State House of Representatives District Strafford 4](/us/states/nh/districts/house/strafford-4.md).
 
 ## Sources
 

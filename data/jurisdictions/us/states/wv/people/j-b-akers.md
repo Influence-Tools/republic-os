@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 55"
+represents: "us/states/wv/districts/house/55"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.B. Akers
 
 Current WV House District 55 (WV State House of Representatives District 55).
+
+Represents [WV State House of Representatives District 55](/us/states/wv/districts/house/55.md).
 
 ## Sources
 

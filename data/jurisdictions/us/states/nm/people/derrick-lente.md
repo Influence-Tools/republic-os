@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 65"
+represents: "us/states/nm/districts/house/65"
 tenure:
   start: "2017-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derrick Lente
 
 Current NM House District 65 (NM State House of Representatives District 65).
+
+Represents [NM State House of Representatives District 65](/us/states/nm/districts/house/65.md).
 
 ## Sources
 

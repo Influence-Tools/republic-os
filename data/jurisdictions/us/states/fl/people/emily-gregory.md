@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 87"
+represents: "us/states/fl/districts/house/87"
 tenure:
   start: "2026-03-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Gregory
 
 Current FL House District 87 (FL State House of Representatives District 87).
+
+Represents [FL State House of Representatives District 87](/us/states/fl/districts/house/87.md).
 
 ## Sources
 

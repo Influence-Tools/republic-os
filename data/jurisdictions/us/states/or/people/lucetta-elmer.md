@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 24"
+represents: "us/states/or/districts/house/24"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lucetta Elmer
 
 Current OR House District 24 (OR State House of Representatives District 24).
+
+Represents [OR State House of Representatives District 24](/us/states/or/districts/house/24.md).
 
 ## Sources
 

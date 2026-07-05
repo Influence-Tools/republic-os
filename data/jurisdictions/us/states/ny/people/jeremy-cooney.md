@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 56"
+represents: "us/states/ny/districts/senate/56"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Cooney
 
 Current NY Senate District 56 (NY State Senate District 56).
+
+Represents [NY State Senate District 56](/us/states/ny/districts/senate/56.md).
 
 ## Sources
 

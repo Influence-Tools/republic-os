@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 43B"
+represents: "us/states/md/districts/house/43b"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cathi Forbes
 
 Current MD House District 43B (MD State House of Representatives District 43B).
+
+Represents [MD State House of Representatives District 43B](/us/states/md/districts/house/43b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Franklin"
+represents: "us/states/vt/districts/senate/franklin"
 tenure:
   start: "2017-12-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Brock
 
 Current VT Senate District Franklin (VT State Senate District Franklin).
+
+Represents [VT State Senate District Franklin](/us/states/vt/districts/senate/franklin.md).
 
 ## Sources
 

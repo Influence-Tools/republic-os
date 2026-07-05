@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 4"
+represents: "us/states/nm/districts/senate/4"
 tenure:
   start: "2009-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Muñoz
 
 Current NM Senate District 4 (NM State Senate District 4).
+
+Represents [NM State Senate District 4](/us/states/nm/districts/senate/4.md).
 
 ## Sources
 

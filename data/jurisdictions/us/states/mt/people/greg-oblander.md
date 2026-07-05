@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 38"
+represents: "us/states/mt/districts/house/38"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Oblander
 
 Current MT House District 38 (MT State House of Representatives District 38).
+
+Represents [MT State House of Representatives District 38](/us/states/mt/districts/house/38.md).
 
 ## Sources
 

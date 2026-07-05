@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 29"
+represents: "us/states/co/districts/senate/29"
 tenure:
   start: "2025-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Iman Jodeh
 
 Current CO Senate District 29 (CO State Senate District 29).
+
+Represents [CO State Senate District 29](/us/states/co/districts/senate/29.md).
 
 ## Sources
 

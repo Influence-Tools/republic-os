@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 69"
+represents: "us/states/fl/districts/house/69"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Alvarez
 
 Current FL House District 69 (FL State House of Representatives District 69).
+
+Represents [FL State House of Representatives District 69](/us/states/fl/districts/house/69.md).
 
 ## Sources
 

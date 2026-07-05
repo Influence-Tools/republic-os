@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 7"
+represents: "us/states/il/districts/07"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Danny K. Davis
 
 Current U.S. House of Representatives - IL-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/il/districts/07.md).
 
 ## Committees
 

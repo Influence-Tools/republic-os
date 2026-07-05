@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 47"
+represents: "us/states/ny/districts/senate/47"
 tenure:
   start: "2026-02-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erik Bottcher
 
 Current NY Senate District 47 (NY State Senate District 47).
+
+Represents [NY State Senate District 47](/us/states/ny/districts/senate/47.md).
 
 ## Sources
 

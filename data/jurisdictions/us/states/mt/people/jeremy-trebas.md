@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 10"
+represents: "us/states/mt/districts/senate/10"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Trebas
 
 Current MT Senate District 10 (MT State Senate District 10).
+
+Represents [MT State Senate District 10](/us/states/mt/districts/senate/10.md).
 
 ## Sources
 

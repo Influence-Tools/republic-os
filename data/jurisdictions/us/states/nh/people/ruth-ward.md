@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 8"
+represents: "us/states/nh/districts/senate/8"
 tenure:
   start: "2016-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ruth Ward
 
 Current NH Senate District 8 (NH State Senate District 8).
+
+Represents [NH State Senate District 8](/us/states/nh/districts/senate/8.md).
 
 ## Sources
 

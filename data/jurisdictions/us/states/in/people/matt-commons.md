@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 13"
+represents: "us/states/in/districts/house/13"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Commons
 
 Current IN House District 13 (IN State House of Representatives District 13).
+
+Represents [IN State House of Representatives District 13](/us/states/in/districts/house/13.md).
 
 ## Sources
 

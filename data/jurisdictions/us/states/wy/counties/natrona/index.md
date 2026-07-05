@@ -22,9 +22,36 @@ demographics:
   race_native: 419
   hispanic: 7577
   bachelors_plus: 20937
+districts:
+  - to: "us/states/wy/districts/00"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/wy/districts/senate/30"
+    rel: in-district
+    area_weight: 0.8881
+  - to: "us/states/wy/districts/senate/2"
+    rel: in-district
+    area_weight: 0.092
+  - to: "us/states/wy/districts/senate/29"
+    rel: in-district
+    area_weight: 0.0153
+  - to: "us/states/wy/districts/house/38"
+    rel: in-district
+    area_weight: 0.702
+  - to: "us/states/wy/districts/house/58"
+    rel: in-district
+    area_weight: 0.1862
+  - to: "us/states/wy/districts/house/62"
+    rel: in-district
+    area_weight: 0.092
+  - to: "us/states/wy/districts/house/37"
+    rel: in-district
+    area_weight: 0.0137
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wy]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 7577 |
 | Bachelor's or higher | 20937 |
 
+## Districts
+
+- [WY-00](/us/states/wy/districts/00.md) — 100% (congressional)
+- [WY Senate District 30](/us/states/wy/districts/senate/30.md) — 89% (state senate)
+- [WY Senate District 2](/us/states/wy/districts/senate/2.md) — 9% (state senate)
+- [WY Senate District 29](/us/states/wy/districts/senate/29.md) — 2% (state senate)
+- [WY House District 38](/us/states/wy/districts/house/38.md) — 70% (state house)
+- [WY House District 58](/us/states/wy/districts/house/58.md) — 19% (state house)
+- [WY House District 62](/us/states/wy/districts/house/62.md) — 9% (state house)
+- [WY House District 37](/us/states/wy/districts/house/37.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

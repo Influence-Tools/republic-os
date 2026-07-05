@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TN"
 district: "Congressional District 7"
+represents: "us/states/tn/districts/07"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Matt Van Epps
 
 Current U.S. House of Representatives - TN-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/tn/districts/07.md).
 
 ## Committees
 

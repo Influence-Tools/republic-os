@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 11th Bristol"
+represents: "us/states/ma/districts/house/11th-bristol"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Hendricks
 
 Current MA House District 11th Bristol (MA State House of Representatives District 11th Bristol).
+
+Represents [MA State House of Representatives District 11th Bristol](/us/states/ma/districts/house/11th-bristol.md).
 
 ## Sources
 

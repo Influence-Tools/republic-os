@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 80"
+represents: "us/states/ms/districts/house/80"
 tenure:
   start: "1993-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Omeria Scott
 
 Current MS House District 80 (MS State House of Representatives District 80).
+
+Represents [MS State House of Representatives District 80](/us/states/ms/districts/house/80.md).
 
 ## Sources
 

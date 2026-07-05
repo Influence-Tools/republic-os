@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 51"
+represents: "us/states/ms/districts/house/51"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Timaka James-Jones
 
 Current MS House District 51 (MS State House of Representatives District 51).
+
+Represents [MS State House of Representatives District 51](/us/states/ms/districts/house/51.md).
 
 ## Sources
 

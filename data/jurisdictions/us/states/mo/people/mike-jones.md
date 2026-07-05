@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 12"
+represents: "us/states/mo/districts/house/12"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Jones
 
 Current MO House District 12 (MO State House of Representatives District 12).
+
+Represents [MO State House of Representatives District 12](/us/states/mo/districts/house/12.md).
 
 ## Sources
 

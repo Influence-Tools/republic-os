@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 113"
+represents: "us/states/ny/districts/house/113"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carrie Woerner
 
 Current NY House District 113 (NY State House of Representatives District 113).
+
+Represents [NY State House of Representatives District 113](/us/states/ny/districts/house/113.md).
 
 ## Sources
 

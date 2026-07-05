@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 21"
+represents: "us/states/nh/districts/house/rockingham-21"
 tenure:
   start: "2024-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Mandelbaum
 
 Current NH House District Rockingham 21 (NH State House of Representatives District Rockingham 21).
+
+Represents [NH State House of Representatives District Rockingham 21](/us/states/nh/districts/house/rockingham-21.md).
 
 ## Sources
 

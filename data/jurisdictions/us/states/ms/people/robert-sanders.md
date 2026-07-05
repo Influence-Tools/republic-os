@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 29"
+represents: "us/states/ms/districts/house/29"
 tenure:
   start: "2021-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Sanders
 
 Current MS House District 29 (MS State House of Representatives District 29).
+
+Represents [MS State House of Representatives District 29](/us/states/ms/districts/house/29.md).
 
 ## Sources
 

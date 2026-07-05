@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 15"
+represents: "us/states/nh/districts/house/strafford-15"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alice Wade
 
 Current NH House District Strafford 15 (NH State House of Representatives District Strafford 15).
+
+Represents [NH State House of Representatives District Strafford 15](/us/states/nh/districts/house/strafford-15.md).
 
 ## Sources
 

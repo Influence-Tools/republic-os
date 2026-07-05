@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Worcester"
+represents: "us/states/ma/districts/house/1st-worcester"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Ferguson
 
 Current MA House District 1st Worcester (MA State House of Representatives District 1st Worcester).
+
+Represents [MA State House of Representatives District 1st Worcester](/us/states/ma/districts/house/1st-worcester.md).
 
 ## Sources
 

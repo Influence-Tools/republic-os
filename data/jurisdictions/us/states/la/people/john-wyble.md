@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 75"
+represents: "us/states/la/districts/house/75"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Wyble
 
 Current LA House District 75 (LA State House of Representatives District 75).
+
+Represents [LA State House of Representatives District 75](/us/states/la/districts/house/75.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 30"
+represents: "us/states/mo/districts/house/30"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Patterson
 
 Current MO House District 30 (MO State House of Representatives District 30).
+
+Represents [MO State House of Representatives District 30](/us/states/mo/districts/house/30.md).
 
 ## Sources
 

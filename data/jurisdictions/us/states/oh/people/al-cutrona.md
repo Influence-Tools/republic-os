@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 33"
+represents: "us/states/oh/districts/senate/33"
 tenure:
   start: "2024-06-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Cutrona
 
 Current OH Senate District 33 (OH State Senate District 33).
+
+Represents [OH State Senate District 33](/us/states/oh/districts/senate/33.md).
 
 ## Sources
 

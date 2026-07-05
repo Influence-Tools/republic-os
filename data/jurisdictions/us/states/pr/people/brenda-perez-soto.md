@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 3"
+represents: "us/states/pr/districts/senate/3"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brenda Pérez Soto
 
 Current PR Senate District 3 (PR State Senate District 3).
+
+Represents [PR State Senate District 3](/us/states/pr/districts/senate/3.md).
 
 ## Sources
 

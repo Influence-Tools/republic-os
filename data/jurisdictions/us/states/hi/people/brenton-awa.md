@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 23"
+represents: "us/states/hi/districts/senate/23"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brenton Awa
 
 Current HI Senate District 23 (HI State Senate District 23).
+
+Represents [HI State Senate District 23](/us/states/hi/districts/senate/23.md).
 
 ## Sources
 

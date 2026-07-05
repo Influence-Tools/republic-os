@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 35"
+represents: "us/states/oh/districts/house/35"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Demetriou
 
 Current OH House District 35 (OH State House of Representatives District 35).
+
+Represents [OH State House of Representatives District 35](/us/states/oh/districts/house/35.md).
 
 ## Sources
 

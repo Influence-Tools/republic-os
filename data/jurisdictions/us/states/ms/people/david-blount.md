@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 29"
+represents: "us/states/ms/districts/senate/29"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Blount
 
 Current MS Senate District 29 (MS State Senate District 29).
+
+Represents [MS State Senate District 29](/us/states/ms/districts/senate/29.md).
 
 ## Sources
 

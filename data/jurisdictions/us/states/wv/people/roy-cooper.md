@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 40"
+represents: "us/states/wv/districts/house/40"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roy Cooper
 
 Current WV House District 40 (WV State House of Representatives District 40).
+
+Represents [WV State House of Representatives District 40](/us/states/wv/districts/house/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 34"
+represents: "us/states/nv/districts/house/34"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hanadi Nadeem
 
 Current NV House District 34 (NV State House of Representatives District 34).
+
+Represents [NV State House of Representatives District 34](/us/states/nv/districts/house/34.md).
 
 ## Sources
 

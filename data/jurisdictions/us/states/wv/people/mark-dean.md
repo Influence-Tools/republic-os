@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 34"
+represents: "us/states/wv/districts/house/34"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Dean
 
 Current WV House District 34 (WV State House of Representatives District 34).
+
+Represents [WV State House of Representatives District 34](/us/states/wv/districts/house/34.md).
 
 ## Sources
 

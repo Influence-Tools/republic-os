@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 58"
+represents: "us/states/nc/districts/house/58"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amos Quick
 
 Current NC House District 58 (NC State House of Representatives District 58).
+
+Represents [NC State House of Representatives District 58](/us/states/nc/districts/house/58.md).
 
 ## Sources
 

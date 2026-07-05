@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 76"
+represents: "us/states/mi/districts/house/76"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Witwer
 
 Current MI House District 76 (MI State House of Representatives District 76).
+
+Represents [MI State House of Representatives District 76](/us/states/mi/districts/house/76.md).
 
 ## Sources
 

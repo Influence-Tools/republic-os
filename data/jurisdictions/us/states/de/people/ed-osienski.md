@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 24"
+represents: "us/states/de/districts/house/24"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Osienski
 
 Current DE House District 24 (DE State House of Representatives District 24).
+
+Represents [DE State House of Representatives District 24](/us/states/de/districts/house/24.md).
 
 ## Sources
 

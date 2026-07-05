@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 35"
+represents: "us/states/nh/districts/house/rockingham-35"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julius Soti
 
 Current NH House District Rockingham 35 (NH State House of Representatives District Rockingham 35).
+
+Represents [NH State House of Representatives District Rockingham 35](/us/states/nh/districts/house/rockingham-35.md).
 
 ## Sources
 

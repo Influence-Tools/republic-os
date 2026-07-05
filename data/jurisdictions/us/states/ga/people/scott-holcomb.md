@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 101"
+represents: "us/states/ga/districts/house/101"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Holcomb
 
 Current GA House District 101 (GA State House of Representatives District 101).
+
+Represents [GA State House of Representatives District 101](/us/states/ga/districts/house/101.md).
 
 ## Sources
 

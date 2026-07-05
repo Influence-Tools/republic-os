@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 19"
+represents: "us/states/pa/districts/house/19"
 tenure:
   start: "2022-04-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aerion Abney
 
 Current PA House District 19 (PA State House of Representatives District 19).
+
+Represents [PA State House of Representatives District 19](/us/states/pa/districts/house/19.md).
 
 ## Sources
 

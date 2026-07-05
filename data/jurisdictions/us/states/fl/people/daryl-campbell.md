@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 99"
+represents: "us/states/fl/districts/house/99"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daryl Campbell
 
 Current FL House District 99 (FL State House of Representatives District 99).
+
+Represents [FL State House of Representatives District 99](/us/states/fl/districts/house/99.md).
 
 ## Sources
 

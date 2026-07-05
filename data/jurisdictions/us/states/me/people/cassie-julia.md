@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 65"
+represents: "us/states/me/districts/house/65"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cassie Julia
 
 Current ME House District 65 (ME State House of Representatives District 65).
+
+Represents [ME State House of Representatives District 65](/us/states/me/districts/house/65.md).
 
 ## Sources
 

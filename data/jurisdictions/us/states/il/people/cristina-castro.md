@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 22"
+represents: "us/states/il/districts/senate/22"
 tenure:
   start: "2017-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cristina Castro
 
 Current IL Senate District 22 (IL State Senate District 22).
+
+Represents [IL State Senate District 22](/us/states/il/districts/senate/22.md).
 
 ## Sources
 

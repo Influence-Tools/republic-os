@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 109"
+represents: "us/states/pa/districts/house/109"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Leadbeter
 
 Current PA House District 109 (PA State House of Representatives District 109).
+
+Represents [PA State House of Representatives District 109](/us/states/pa/districts/house/109.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 25"
+represents: "us/states/mi/districts/senate/25"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Lauwers
 
 Current MI Senate District 25 (MI State Senate District 25).
+
+Represents [MI State Senate District 25](/us/states/mi/districts/senate/25.md).
 
 ## Sources
 

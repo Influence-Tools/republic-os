@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 7"
+represents: "us/states/in/districts/senate/7"
 tenure:
   start: "2018-02-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Buchanan
 
 Current IN Senate District 7 (IN State Senate District 7).
+
+Represents [IN State Senate District 7](/us/states/in/districts/senate/7.md).
 
 ## Sources
 

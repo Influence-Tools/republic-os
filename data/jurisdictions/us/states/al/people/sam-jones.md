@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 99"
+represents: "us/states/al/districts/house/99"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Jones
 
 Current AL House District 99 (AL State House of Representatives District 99).
+
+Represents [AL State House of Representatives District 99](/us/states/al/districts/house/99.md).
 
 ## Sources
 

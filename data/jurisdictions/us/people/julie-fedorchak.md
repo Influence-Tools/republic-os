@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "ND"
 district: "Congressional District (at Large)"
+represents: "us/states/nd/districts/00"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Julie Fedorchak
 
 Current U.S. House of Representatives - ND At-Large (Congressional District (at Large)).
+
+Represents [Congressional District (at Large)](/us/states/nd/districts/00.md).
 
 ## Committees
 

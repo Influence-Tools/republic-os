@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 78"
+represents: "us/states/pa/districts/house/78"
 tenure:
   start: "2014-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Topper
 
 Current PA House District 78 (PA State House of Representatives District 78).
+
+Represents [PA State House of Representatives District 78](/us/states/pa/districts/house/78.md).
 
 ## Sources
 

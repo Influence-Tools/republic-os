@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 17"
+represents: "us/states/ia/districts/house/17"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Devon Wood
 
 Current IA House District 17 (IA State House of Representatives District 17).
+
+Represents [IA State House of Representatives District 17](/us/states/ia/districts/house/17.md).
 
 ## Sources
 

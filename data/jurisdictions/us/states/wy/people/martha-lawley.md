@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 27"
+represents: "us/states/wy/districts/house/27"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martha Lawley
 
 Current WY House District 27 (WY State House of Representatives District 27).
+
+Represents [WY State House of Representatives District 27](/us/states/wy/districts/house/27.md).
 
 ## Sources
 

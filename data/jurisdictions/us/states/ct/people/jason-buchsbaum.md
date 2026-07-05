@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 69"
+represents: "us/states/ct/districts/house/69"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Buchsbaum
 
 Current CT House District 69 (CT State House of Representatives District 69).
+
+Represents [CT State House of Representatives District 69](/us/states/ct/districts/house/69.md).
 
 ## Sources
 

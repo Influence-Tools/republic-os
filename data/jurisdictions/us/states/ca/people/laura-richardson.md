@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 35"
+represents: "us/states/ca/districts/senate/35"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Richardson
 
 Current CA Senate District 35 (CA State Senate District 35).
+
+Represents [CA State Senate District 35](/us/states/ca/districts/senate/35.md).
 
 ## Sources
 

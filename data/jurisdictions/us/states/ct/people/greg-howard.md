@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 43"
+represents: "us/states/ct/districts/house/43"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Howard
 
 Current CT House District 43 (CT State House of Representatives District 43).
+
+Represents [CT State House of Representatives District 43](/us/states/ct/districts/house/43.md).
 
 ## Sources
 

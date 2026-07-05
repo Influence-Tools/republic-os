@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 12"
+represents: "us/states/mi/districts/12"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Rashida Tlaib
 
 Current U.S. House of Representatives - MI-12 (Congressional District 12).
+
+Represents [Congressional District 12](/us/states/mi/districts/12.md).
 
 ## Committees
 

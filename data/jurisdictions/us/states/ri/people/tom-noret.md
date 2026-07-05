@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 25"
+represents: "us/states/ri/districts/house/25"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Noret
 
 Current RI House District 25 (RI State House of Representatives District 25).
+
+Represents [RI State House of Representatives District 25](/us/states/ri/districts/house/25.md).
 
 ## Sources
 

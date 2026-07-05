@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 95"
+represents: "us/states/ct/districts/house/95"
 tenure:
   start: "2003-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Juan Candelaria
 
 Current CT House District 95 (CT State House of Representatives District 95).
+
+Represents [CT State House of Representatives District 95](/us/states/ct/districts/house/95.md).
 
 ## Sources
 

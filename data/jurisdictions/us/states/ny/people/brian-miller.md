@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 122"
+represents: "us/states/ny/districts/house/122"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Miller
 
 Current NY House District 122 (NY State House of Representatives District 122).
+
+Represents [NY State House of Representatives District 122](/us/states/ny/districts/house/122.md).
 
 ## Sources
 

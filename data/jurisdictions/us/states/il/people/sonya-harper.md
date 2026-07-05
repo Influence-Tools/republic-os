@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 6"
+represents: "us/states/il/districts/house/6"
 tenure:
   start: "2015-10-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sonya Harper
 
 Current IL House District 6 (IL State House of Representatives District 6).
+
+Represents [IL State House of Representatives District 6](/us/states/il/districts/house/6.md).
 
 ## Sources
 

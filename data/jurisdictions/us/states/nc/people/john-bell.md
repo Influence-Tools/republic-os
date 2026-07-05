@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 10"
+represents: "us/states/nc/districts/house/10"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Bell
 
 Current NC House District 10 (NC State House of Representatives District 10).
+
+Represents [NC State House of Representatives District 10](/us/states/nc/districts/house/10.md).
 
 ## Sources
 

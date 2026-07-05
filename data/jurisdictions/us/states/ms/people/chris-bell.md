@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 65"
+represents: "us/states/ms/districts/house/65"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Bell
 
 Current MS House District 65 (MS State House of Representatives District 65).
+
+Represents [MS State House of Representatives District 65](/us/states/ms/districts/house/65.md).
 
 ## Sources
 

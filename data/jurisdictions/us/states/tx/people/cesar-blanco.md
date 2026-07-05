@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 29"
+represents: "us/states/tx/districts/senate/29"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # César Blanco
 
 Current TX Senate District 29 (TX State Senate District 29).
+
+Represents [TX State Senate District 29](/us/states/tx/districts/senate/29.md).
 
 ## Sources
 

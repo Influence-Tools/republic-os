@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 5th Norfolk"
+represents: "us/states/ma/districts/house/5th-norfolk"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Cusack
 
 Current MA House District 5th Norfolk (MA State House of Representatives District 5th Norfolk).
+
+Represents [MA State House of Representatives District 5th Norfolk](/us/states/ma/districts/house/5th-norfolk.md).
 
 ## Sources
 

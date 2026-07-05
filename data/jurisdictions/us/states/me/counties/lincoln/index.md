@@ -22,9 +22,39 @@ demographics:
   race_native: 134
   hispanic: 512
   bachelors_plus: 15826
+districts:
+  - to: "us/states/me/districts/01"
+    rel: in-district
+    area_weight: 0.7543
+  - to: "us/states/me/districts/senate/13"
+    rel: in-district
+    area_weight: 0.6907
+  - to: "us/states/me/districts/senate/24"
+    rel: in-district
+    area_weight: 0.0476
+  - to: "us/states/me/districts/house/47"
+    rel: in-district
+    area_weight: 0.2222
+  - to: "us/states/me/districts/house/46"
+    rel: in-district
+    area_weight: 0.1543
+  - to: "us/states/me/districts/house/45"
+    rel: in-district
+    area_weight: 0.1464
+  - to: "us/states/me/districts/house/48"
+    rel: in-district
+    area_weight: 0.134
+  - to: "us/states/me/districts/house/53"
+    rel: in-district
+    area_weight: 0.0475
+  - to: "us/states/me/districts/house/62"
+    rel: in-district
+    area_weight: 0.0338
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, me]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction.
 | Hispanic/Latino | 512 |
 | Bachelor's or higher | 15826 |
 
+## Districts
+
+- [ME-01](/us/states/me/districts/01.md) — 75% (congressional)
+- [ME Senate District 13](/us/states/me/districts/senate/13.md) — 69% (state senate)
+- [ME Senate District 24](/us/states/me/districts/senate/24.md) — 5% (state senate)
+- [ME House District 47](/us/states/me/districts/house/47.md) — 22% (state house)
+- [ME House District 46](/us/states/me/districts/house/46.md) — 15% (state house)
+- [ME House District 45](/us/states/me/districts/house/45.md) — 15% (state house)
+- [ME House District 48](/us/states/me/districts/house/48.md) — 13% (state house)
+- [ME House District 53](/us/states/me/districts/house/53.md) — 5% (state house)
+- [ME House District 62](/us/states/me/districts/house/62.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

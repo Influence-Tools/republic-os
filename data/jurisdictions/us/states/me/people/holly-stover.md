@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 48"
+represents: "us/states/me/districts/house/48"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Holly Stover
 
 Current ME House District 48 (ME State House of Representatives District 48).
+
+Represents [ME State House of Representatives District 48](/us/states/me/districts/house/48.md).
 
 ## Sources
 

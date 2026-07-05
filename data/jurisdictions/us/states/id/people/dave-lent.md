@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 33"
+represents: "us/states/id/districts/senate/33"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Lent
 
 Current ID Senate District 33 (ID State Senate District 33).
+
+Represents [ID State Senate District 33](/us/states/id/districts/senate/33.md).
 
 ## Sources
 

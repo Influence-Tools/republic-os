@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 20"
+represents: "us/states/ny/districts/house/20"
 tenure:
   start: "2022-04-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ari Brown
 
 Current NY House District 20 (NY State House of Representatives District 20).
+
+Represents [NY State House of Representatives District 20](/us/states/ny/districts/house/20.md).
 
 ## Sources
 

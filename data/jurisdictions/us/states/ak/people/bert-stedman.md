@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District A"
+represents: "us/states/ak/districts/senate/a"
 tenure:
   start: "2023-01-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bert Stedman
 
 Current AK Senate District A (AK State Senate District A).
+
+Represents [AK State Senate District A](/us/states/ak/districts/senate/a.md).
 
 ## Sources
 

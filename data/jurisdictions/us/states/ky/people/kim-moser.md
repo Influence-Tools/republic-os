@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 64"
+represents: "us/states/ky/districts/house/64"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Moser
 
 Current KY House District 64 (KY State House of Representatives District 64).
+
+Represents [KY State House of Representatives District 64](/us/states/ky/districts/house/64.md).
 
 ## Sources
 

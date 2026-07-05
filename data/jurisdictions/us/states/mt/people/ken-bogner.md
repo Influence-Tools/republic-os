@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 18"
+represents: "us/states/mt/districts/senate/18"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Bogner
 
 Current MT Senate District 18 (MT State Senate District 18).
+
+Represents [MT State Senate District 18](/us/states/mt/districts/senate/18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 31"
+represents: "us/states/mt/districts/house/31"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Smith
 
 Current MT House District 31 (MT State House of Representatives District 31).
+
+Represents [MT State House of Representatives District 31](/us/states/mt/districts/house/31.md).
 
 ## Sources
 

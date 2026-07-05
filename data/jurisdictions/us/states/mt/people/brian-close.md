@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 65"
+represents: "us/states/mt/districts/house/65"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Close
 
 Current MT House District 65 (MT State House of Representatives District 65).
+
+Represents [MT State House of Representatives District 65](/us/states/mt/districts/house/65.md).
 
 ## Sources
 

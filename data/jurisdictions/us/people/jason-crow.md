@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CO"
 district: "Congressional District 6"
+represents: "us/states/co/districts/06"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Jason Crow
 
 Current U.S. House of Representatives - CO-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/co/districts/06.md).
 
 ## Committees
 

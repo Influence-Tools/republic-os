@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 15"
+represents: "us/states/ny/districts/house/15"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Blumencranz
 
 Current NY House District 15 (NY State House of Representatives District 15).
+
+Represents [NY State House of Representatives District 15](/us/states/ny/districts/house/15.md).
 
 ## Sources
 

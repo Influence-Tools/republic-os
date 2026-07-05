@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 4A"
+represents: "us/states/nd/districts/house/4a"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Finley-DeVille
 
 Current ND House District 4A (ND State House of Representatives District 4A).
+
+Represents [ND State House of Representatives District 4A](/us/states/nd/districts/house/4a.md).
 
 ## Sources
 

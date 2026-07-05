@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Lamoille-Washington"
+represents: "us/states/vt/districts/house/lamoille-washington"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Saudia Lamont
 
 Current VT House District Lamoille-Washington (VT State House of Representatives District Lamoille-Washington).
+
+Represents [VT State House of Representatives District Lamoille-Washington](/us/states/vt/districts/house/lamoille-washington.md).
 
 ## Sources
 

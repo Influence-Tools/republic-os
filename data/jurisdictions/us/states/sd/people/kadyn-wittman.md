@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 15"
+represents: "us/states/sd/districts/house/15"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kadyn Wittman
 
 Current SD House District 15 (SD State House of Representatives District 15).
+
+Represents [SD State House of Representatives District 15](/us/states/sd/districts/house/15.md).
 
 ## Sources
 

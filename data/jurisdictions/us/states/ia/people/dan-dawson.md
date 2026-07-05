@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 10"
+represents: "us/states/ia/districts/senate/10"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Dawson
 
 Current IA Senate District 10 (IA State Senate District 10).
+
+Represents [IA State Senate District 10](/us/states/ia/districts/senate/10.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-1"
+represents: "us/states/vt/districts/house/chittenden-1"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jana Brown
 
 Current VT House District Chittenden-1 (VT State House of Representatives District Chittenden-1).
+
+Represents [VT State House of Representatives District Chittenden-1](/us/states/vt/districts/house/chittenden-1.md).
 
 ## Sources
 

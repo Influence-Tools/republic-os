@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 17"
+represents: "us/states/ct/districts/house/17"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eleni DeGraw
 
 Current CT House District 17 (CT State House of Representatives District 17).
+
+Represents [CT State House of Representatives District 17](/us/states/ct/districts/house/17.md).
 
 ## Sources
 

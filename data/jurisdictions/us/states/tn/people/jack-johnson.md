@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 27"
+represents: "us/states/tn/districts/senate/27"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Johnson
 
 Current TN Senate District 27 (TN State Senate District 27).
+
+Represents [TN State Senate District 27](/us/states/tn/districts/senate/27.md).
 
 ## Sources
 

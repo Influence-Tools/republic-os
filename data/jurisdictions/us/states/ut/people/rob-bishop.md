@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 6"
+represents: "us/states/ut/districts/house/6"
 tenure:
   start: "2026-05-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Bishop
 
 Current UT House District 6 (UT State House of Representatives District 6).
+
+Represents [UT State House of Representatives District 6](/us/states/ut/districts/house/6.md).
 
 ## Sources
 

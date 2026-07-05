@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Merrimack 4"
+represents: "us/states/nh/districts/house/merrimack-4"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jose Cambrils
 
 Current NH House District Merrimack 4 (NH State House of Representatives District Merrimack 4).
+
+Represents [NH State House of Representatives District Merrimack 4](/us/states/nh/districts/house/merrimack-4.md).
 
 ## Sources
 

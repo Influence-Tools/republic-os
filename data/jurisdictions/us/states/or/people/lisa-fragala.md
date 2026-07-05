@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 8"
+represents: "us/states/or/districts/house/8"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Fragala
 
 Current OR House District 8 (OR State House of Representatives District 8).
+
+Represents [OR State House of Representatives District 8](/us/states/or/districts/house/8.md).
 
 ## Sources
 

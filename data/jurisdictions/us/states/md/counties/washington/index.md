@@ -22,9 +22,30 @@ demographics:
   race_native: 331
   hispanic: 12297
   bachelors_plus: 37212
+districts:
+  - to: "us/states/md/districts/06"
+    rel: in-district
+    area_weight: 0.9981
+  - to: "us/states/md/districts/senate/2"
+    rel: in-district
+    area_weight: 0.5684
+  - to: "us/states/md/districts/senate/1"
+    rel: in-district
+    area_weight: 0.4303
+  - to: "us/states/md/districts/house/2a"
+    rel: in-district
+    area_weight: 0.5416
+  - to: "us/states/md/districts/house/1c"
+    rel: in-district
+    area_weight: 0.4303
+  - to: "us/states/md/districts/house/2b"
+    rel: in-district
+    area_weight: 0.0268
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 12297 |
 | Bachelor's or higher | 37212 |
 
+## Districts
+
+- [MD-06](/us/states/md/districts/06.md) — 100% (congressional)
+- [MD Senate District 2](/us/states/md/districts/senate/2.md) — 57% (state senate)
+- [MD Senate District 1](/us/states/md/districts/senate/1.md) — 43% (state senate)
+- [MD House District 2A](/us/states/md/districts/house/2a.md) — 54% (state house)
+- [MD House District 1C](/us/states/md/districts/house/1c.md) — 43% (state house)
+- [MD House District 2B](/us/states/md/districts/house/2b.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

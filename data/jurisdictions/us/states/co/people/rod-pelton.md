@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 35"
+represents: "us/states/co/districts/senate/35"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rod Pelton
 
 Current CO Senate District 35 (CO State Senate District 35).
+
+Represents [CO State Senate District 35](/us/states/co/districts/senate/35.md).
 
 ## Sources
 

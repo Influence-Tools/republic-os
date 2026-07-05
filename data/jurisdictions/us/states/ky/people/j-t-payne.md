@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 11"
+represents: "us/states/ky/districts/house/11"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.T. Payne
 
 Current KY House District 11 (KY State House of Representatives District 11).
+
+Represents [KY State House of Representatives District 11](/us/states/ky/districts/house/11.md).
 
 ## Sources
 

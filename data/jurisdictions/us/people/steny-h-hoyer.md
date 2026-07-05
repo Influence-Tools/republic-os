@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 5"
+represents: "us/states/md/districts/05"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Steny H. Hoyer
 
 Current U.S. House of Representatives - MD-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/md/districts/05.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 64"
+represents: "us/states/mo/districts/house/64"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deanna Self
 
 Current MO House District 64 (MO State House of Representatives District 64).
+
+Represents [MO State House of Representatives District 64](/us/states/mo/districts/house/64.md).
 
 ## Sources
 

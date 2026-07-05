@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 16"
+represents: "us/states/ms/districts/senate/16"
 tenure:
   start: "2013-01-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Turner-Ford
 
 Current MS Senate District 16 (MS State Senate District 16).
+
+Represents [MS State Senate District 16](/us/states/ms/districts/senate/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 5"
+represents: "us/states/nj/districts/05"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Josh Gottheimer
 
 Current U.S. House of Representatives - NJ-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/nj/districts/05.md).
 
 ## Committees
 

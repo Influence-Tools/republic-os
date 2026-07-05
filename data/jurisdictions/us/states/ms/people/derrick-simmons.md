@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 12"
+represents: "us/states/ms/districts/senate/12"
 tenure:
   start: "2011-03-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derrick Simmons
 
 Current MS Senate District 12 (MS State Senate District 12).
+
+Represents [MS State Senate District 12](/us/states/ms/districts/senate/12.md).
 
 ## Sources
 

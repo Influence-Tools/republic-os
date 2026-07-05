@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 31"
+represents: "us/states/la/districts/senate/31"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alan Seabaugh
 
 Current LA Senate District 31 (LA State Senate District 31).
+
+Represents [LA State Senate District 31](/us/states/la/districts/senate/31.md).
 
 ## Sources
 

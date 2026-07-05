@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 13"
+represents: "us/states/pr/districts/house/13"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry Nieves
 
 Current PR House District 13 (PR State House of Representatives District 13).
+
+Represents [PR State House of Representatives District 13](/us/states/pr/districts/house/13.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 37"
+represents: "us/states/sc/districts/house/37"
 tenure:
   start: "2016-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Long
 
 Current SC House District 37 (SC State House of Representatives District 37).
+
+Represents [SC State House of Representatives District 37](/us/states/sc/districts/house/37.md).
 
 ## Sources
 

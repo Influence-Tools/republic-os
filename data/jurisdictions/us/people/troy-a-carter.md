@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "LA"
 district: "Congressional District 2"
+represents: "us/states/la/districts/02"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Troy A. Carter
 
 Current U.S. House of Representatives - LA-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/la/districts/02.md).
 
 ## Committees
 

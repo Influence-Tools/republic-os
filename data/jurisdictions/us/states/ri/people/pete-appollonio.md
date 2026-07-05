@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 29"
+represents: "us/states/ri/districts/senate/29"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pete Appollonio
 
 Current RI Senate District 29 (RI State Senate District 29).
+
+Represents [RI State Senate District 29](/us/states/ri/districts/senate/29.md).
 
 ## Sources
 

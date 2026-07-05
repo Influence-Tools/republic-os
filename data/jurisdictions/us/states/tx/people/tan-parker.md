@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 12"
+represents: "us/states/tx/districts/senate/12"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tan Parker
 
 Current TX Senate District 12 (TX State Senate District 12).
+
+Represents [TX State Senate District 12](/us/states/tx/districts/senate/12.md).
 
 ## Sources
 

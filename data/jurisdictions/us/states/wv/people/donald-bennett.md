@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 94"
+represents: "us/states/wv/districts/house/94"
 tenure:
   start: "2026-04-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donald Bennett
 
 Current WV House District 94 (WV State House of Representatives District 94).
+
+Represents [WV State House of Representatives District 94](/us/states/wv/districts/house/94.md).
 
 ## Sources
 

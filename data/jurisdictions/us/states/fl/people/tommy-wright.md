@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 8"
+represents: "us/states/fl/districts/senate/8"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tommy Wright
 
 Current FL Senate District 8 (FL State Senate District 8).
+
+Represents [FL State Senate District 8](/us/states/fl/districts/senate/8.md).
 
 ## Sources
 

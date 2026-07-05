@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 29"
+represents: "us/states/or/districts/house/29"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan McLain
 
 Current OR House District 29 (OR State House of Representatives District 29).
+
+Represents [OR State House of Representatives District 29](/us/states/or/districts/house/29.md).
 
 ## Sources
 

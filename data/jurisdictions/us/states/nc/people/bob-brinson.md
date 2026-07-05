@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 3"
+represents: "us/states/nc/districts/senate/3"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Brinson
 
 Current NC Senate District 3 (NC State Senate District 3).
+
+Represents [NC State Senate District 3](/us/states/nc/districts/senate/3.md).
 
 ## Sources
 

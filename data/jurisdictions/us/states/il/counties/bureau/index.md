@@ -22,9 +22,36 @@ demographics:
   race_native: 11
   hispanic: 3357
   bachelors_plus: 6706
+districts:
+  - to: "us/states/il/districts/16"
+    rel: in-district
+    area_weight: 0.8173
+  - to: "us/states/il/districts/14"
+    rel: in-district
+    area_weight: 0.1827
+  - to: "us/states/il/districts/senate/37"
+    rel: in-district
+    area_weight: 0.8782
+  - to: "us/states/il/districts/senate/53"
+    rel: in-district
+    area_weight: 0.0629
+  - to: "us/states/il/districts/senate/38"
+    rel: in-district
+    area_weight: 0.0589
+  - to: "us/states/il/districts/house/73"
+    rel: in-district
+    area_weight: 0.8782
+  - to: "us/states/il/districts/house/105"
+    rel: in-district
+    area_weight: 0.0629
+  - to: "us/states/il/districts/house/76"
+    rel: in-district
+    area_weight: 0.0589
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, il]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 3357 |
 | Bachelor's or higher | 6706 |
 
+## Districts
+
+- [IL-16](/us/states/il/districts/16.md) — 82% (congressional)
+- [IL-14](/us/states/il/districts/14.md) — 18% (congressional)
+- [IL Senate District 37](/us/states/il/districts/senate/37.md) — 88% (state senate)
+- [IL Senate District 53](/us/states/il/districts/senate/53.md) — 6% (state senate)
+- [IL Senate District 38](/us/states/il/districts/senate/38.md) — 6% (state senate)
+- [IL House District 73](/us/states/il/districts/house/73.md) — 88% (state house)
+- [IL House District 105](/us/states/il/districts/house/105.md) — 6% (state house)
+- [IL House District 76](/us/states/il/districts/house/76.md) — 6% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

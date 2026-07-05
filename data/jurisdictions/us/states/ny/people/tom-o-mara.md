@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 58"
+represents: "us/states/ny/districts/senate/58"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom O'Mara
 
 Current NY Senate District 58 (NY State Senate District 58).
+
+Represents [NY State Senate District 58](/us/states/ny/districts/senate/58.md).
 
 ## Sources
 

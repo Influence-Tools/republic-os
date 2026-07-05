@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 46"
+represents: "us/states/wy/districts/house/46"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ocean Andrew
 
 Current WY House District 46 (WY State House of Representatives District 46).
+
+Represents [WY State House of Representatives District 46](/us/states/wy/districts/house/46.md).
 
 ## Sources
 

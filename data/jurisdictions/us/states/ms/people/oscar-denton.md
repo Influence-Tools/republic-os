@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 55"
+represents: "us/states/ms/districts/house/55"
 tenure:
   start: "2013-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Oscar Denton
 
 Current MS House District 55 (MS State House of Representatives District 55).
+
+Represents [MS State House of Representatives District 55](/us/states/ms/districts/house/55.md).
 
 ## Sources
 

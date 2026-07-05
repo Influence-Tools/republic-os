@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Barnstable"
+represents: "us/states/ma/districts/house/2nd-barnstable"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kip Diggs
 
 Current MA House District 2nd Barnstable (MA State House of Representatives District 2nd Barnstable).
+
+Represents [MA State House of Representatives District 2nd Barnstable](/us/states/ma/districts/house/2nd-barnstable.md).
 
 ## Sources
 

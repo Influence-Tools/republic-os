@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 15"
+represents: "us/states/il/districts/15"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # Mary E. Miller
 
 Current U.S. House of Representatives - IL-15 (Congressional District 15).
+
+Represents [Congressional District 15](/us/states/il/districts/15.md).
 
 ## Committees
 

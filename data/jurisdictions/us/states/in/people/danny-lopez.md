@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 39"
+represents: "us/states/in/districts/house/39"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Lopez
 
 Current IN House District 39 (IN State House of Representatives District 39).
+
+Represents [IN State House of Representatives District 39](/us/states/in/districts/house/39.md).
 
 ## Sources
 

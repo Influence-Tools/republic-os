@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 31"
+represents: "us/states/mo/districts/house/31"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Fowler
 
 Current MO House District 31 (MO State House of Representatives District 31).
+
+Represents [MO State House of Representatives District 31](/us/states/mo/districts/house/31.md).
 
 ## Sources
 

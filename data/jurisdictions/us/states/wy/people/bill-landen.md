@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 27"
+represents: "us/states/wy/districts/senate/27"
 tenure:
   start: "2007-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Landen
 
 Current WY Senate District 27 (WY State Senate District 27).
+
+Represents [WY State Senate District 27](/us/states/wy/districts/senate/27.md).
 
 ## Sources
 

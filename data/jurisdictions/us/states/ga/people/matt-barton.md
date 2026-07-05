@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 5"
+represents: "us/states/ga/districts/house/5"
 tenure:
   start: "2019-02-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Barton
 
 Current GA House District 5 (GA State House of Representatives District 5).
+
+Represents [GA State House of Representatives District 5](/us/states/ga/districts/house/5.md).
 
 ## Sources
 

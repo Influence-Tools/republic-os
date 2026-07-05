@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 4"
+represents: "us/states/ca/districts/house/4"
 tenure:
   start: "2016-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cecilia Aguiar-Curry
 
 Current CA House District 4 (CA State House of Representatives District 4).
+
+Represents [CA State House of Representatives District 4](/us/states/ca/districts/house/4.md).
 
 ## Sources
 

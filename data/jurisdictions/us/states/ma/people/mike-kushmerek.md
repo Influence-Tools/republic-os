@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Worcester"
+represents: "us/states/ma/districts/house/3rd-worcester"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Kushmerek
 
 Current MA House District 3rd Worcester (MA State House of Representatives District 3rd Worcester).
+
+Represents [MA State House of Representatives District 3rd Worcester](/us/states/ma/districts/house/3rd-worcester.md).
 
 ## Sources
 

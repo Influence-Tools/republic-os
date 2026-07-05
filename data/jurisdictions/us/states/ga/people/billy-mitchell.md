@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 88"
+represents: "us/states/ga/districts/house/88"
 tenure:
   start: "2003-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy Mitchell
 
 Current GA House District 88 (GA State House of Representatives District 88).
+
+Represents [GA State House of Representatives District 88](/us/states/ga/districts/house/88.md).
 
 ## Sources
 

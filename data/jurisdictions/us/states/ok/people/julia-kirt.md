@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 30"
+represents: "us/states/ok/districts/senate/30"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julia Kirt
 
 Current OK Senate District 30 (OK State Senate District 30).
+
+Represents [OK State Senate District 30](/us/states/ok/districts/senate/30.md).
 
 ## Sources
 

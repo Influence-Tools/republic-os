@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 4"
+represents: "us/states/sc/districts/house/4"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Davey Hiott
 
 Current SC House District 4 (SC State House of Representatives District 4).
+
+Represents [SC State House of Representatives District 4](/us/states/sc/districts/house/4.md).
 
 ## Sources
 

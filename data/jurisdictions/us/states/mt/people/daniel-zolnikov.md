@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 22"
+represents: "us/states/mt/districts/senate/22"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Zolnikov
 
 Current MT Senate District 22 (MT State Senate District 22).
+
+Represents [MT State Senate District 22](/us/states/mt/districts/senate/22.md).
 
 ## Sources
 

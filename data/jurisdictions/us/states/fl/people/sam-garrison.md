@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 11"
+represents: "us/states/fl/districts/house/11"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Garrison
 
 Current FL House District 11 (FL State House of Representatives District 11).
+
+Represents [FL State House of Representatives District 11](/us/states/fl/districts/house/11.md).
 
 ## Sources
 

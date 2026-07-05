@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 32"
+represents: "us/states/ri/districts/senate/32"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pam Lauria
 
 Current RI Senate District 32 (RI State Senate District 32).
+
+Represents [RI State Senate District 32](/us/states/ri/districts/senate/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 42"
+represents: "us/states/tn/districts/house/42"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Williams
 
 Current TN House District 42 (TN State House of Representatives District 42).
+
+Represents [TN State House of Representatives District 42](/us/states/tn/districts/house/42.md).
 
 ## Sources
 

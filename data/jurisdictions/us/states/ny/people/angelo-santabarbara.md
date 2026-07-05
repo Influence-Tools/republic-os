@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 111"
+represents: "us/states/ny/districts/house/111"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angelo Santabarbara
 
 Current NY House District 111 (NY State House of Representatives District 111).
+
+Represents [NY State House of Representatives District 111](/us/states/ny/districts/house/111.md).
 
 ## Sources
 

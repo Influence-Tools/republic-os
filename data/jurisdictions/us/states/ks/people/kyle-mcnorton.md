@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 50"
+represents: "us/states/ks/districts/house/50"
 tenure:
   start: "2023-10-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle McNorton
 
 Current KS House District 50 (KS State House of Representatives District 50).
+
+Represents [KS State House of Representatives District 50](/us/states/ks/districts/house/50.md).
 
 ## Sources
 

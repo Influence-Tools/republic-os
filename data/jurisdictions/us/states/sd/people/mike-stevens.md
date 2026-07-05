@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 18"
+represents: "us/states/sd/districts/house/18"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Stevens
 
 Current SD House District 18 (SD State House of Representatives District 18).
+
+Represents [SD State House of Representatives District 18](/us/states/sd/districts/house/18.md).
 
 ## Sources
 

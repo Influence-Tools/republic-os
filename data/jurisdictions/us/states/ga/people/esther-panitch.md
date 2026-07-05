@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 51"
+represents: "us/states/ga/districts/house/51"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Esther Panitch
 
 Current GA House District 51 (GA State House of Representatives District 51).
+
+Represents [GA State House of Representatives District 51](/us/states/ga/districts/house/51.md).
 
 ## Sources
 

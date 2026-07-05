@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 8th Middlesex"
+represents: "us/states/ma/districts/house/8th-middlesex"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Arena-DeRosa
 
 Current MA House District 8th Middlesex (MA State House of Representatives District 8th Middlesex).
+
+Represents [MA State House of Representatives District 8th Middlesex](/us/states/ma/districts/house/8th-middlesex.md).
 
 ## Sources
 

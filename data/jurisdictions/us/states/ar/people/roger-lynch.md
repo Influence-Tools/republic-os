@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 60"
+represents: "us/states/ar/districts/house/60"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Lynch
 
 Current AR House District 60 (AR State House of Representatives District 60).
+
+Represents [AR State House of Representatives District 60](/us/states/ar/districts/house/60.md).
 
 ## Sources
 

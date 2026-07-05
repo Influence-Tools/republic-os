@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 23"
+represents: "us/states/mt/districts/senate/23"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emma Kerr-Carpenter
 
 Current MT Senate District 23 (MT State Senate District 23).
+
+Represents [MT State Senate District 23](/us/states/mt/districts/senate/23.md).
 
 ## Sources
 

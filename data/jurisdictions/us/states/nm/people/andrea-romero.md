@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 46"
+represents: "us/states/nm/districts/house/46"
 tenure:
   start: "2019-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea Romero
 
 Current NM House District 46 (NM State House of Representatives District 46).
+
+Represents [NM State House of Representatives District 46](/us/states/nm/districts/house/46.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 7"
+represents: "us/states/va/districts/07"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Eugene Simon Vindman
 
 Current U.S. House of Representatives - VA-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/va/districts/07.md).
 
 ## Committees
 

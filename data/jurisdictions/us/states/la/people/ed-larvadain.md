@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 26"
+represents: "us/states/la/districts/house/26"
 tenure:
   start: "2019-04-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Larvadain
 
 Current LA House District 26 (LA State House of Representatives District 26).
+
+Represents [LA State House of Representatives District 26](/us/states/la/districts/house/26.md).
 
 ## Sources
 

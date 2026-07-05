@@ -22,9 +22,48 @@ demographics:
   race_native: 921
   hispanic: 24003
   bachelors_plus: 65444
+districts:
+  - to: "us/states/hi/districts/02"
+    rel: in-district
+    area_weight: 0.7904
+  - to: "us/states/hi/districts/senate/4"
+    rel: in-district
+    area_weight: 0.3224
+  - to: "us/states/hi/districts/senate/3"
+    rel: in-district
+    area_weight: 0.3125
+  - to: "us/states/hi/districts/senate/2"
+    rel: in-district
+    area_weight: 0.0873
+  - to: "us/states/hi/districts/senate/1"
+    rel: in-district
+    area_weight: 0.0708
+  - to: "us/states/hi/districts/house/5"
+    rel: in-district
+    area_weight: 0.3561
+  - to: "us/states/hi/districts/house/1"
+    rel: in-district
+    area_weight: 0.1543
+  - to: "us/states/hi/districts/house/7"
+    rel: in-district
+    area_weight: 0.0954
+  - to: "us/states/hi/districts/house/8"
+    rel: in-district
+    area_weight: 0.0873
+  - to: "us/states/hi/districts/house/4"
+    rel: in-district
+    area_weight: 0.0557
+  - to: "us/states/hi/districts/house/6"
+    rel: in-district
+    area_weight: 0.0218
+  - to: "us/states/hi/districts/house/3"
+    rel: in-district
+    area_weight: 0.0181
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, hi]
 timestamp: "2026-07-03"
@@ -56,6 +95,22 @@ County jurisdiction.
 | Hispanic/Latino | 24003 |
 | Bachelor's or higher | 65444 |
 
+## Districts
+
+- [HI-02](/us/states/hi/districts/02.md) — 79% (congressional)
+- [HI Senate District 4](/us/states/hi/districts/senate/4.md) — 32% (state senate)
+- [HI Senate District 3](/us/states/hi/districts/senate/3.md) — 31% (state senate)
+- [HI Senate District 2](/us/states/hi/districts/senate/2.md) — 9% (state senate)
+- [HI Senate District 1](/us/states/hi/districts/senate/1.md) — 7% (state senate)
+- [HI House District 5](/us/states/hi/districts/house/5.md) — 36% (state house)
+- [HI House District 1](/us/states/hi/districts/house/1.md) — 15% (state house)
+- [HI House District 7](/us/states/hi/districts/house/7.md) — 10% (state house)
+- [HI House District 8](/us/states/hi/districts/house/8.md) — 9% (state house)
+- [HI House District 4](/us/states/hi/districts/house/4.md) — 6% (state house)
+- [HI House District 6](/us/states/hi/districts/house/6.md) — 2% (state house)
+- [HI House District 3](/us/states/hi/districts/house/3.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

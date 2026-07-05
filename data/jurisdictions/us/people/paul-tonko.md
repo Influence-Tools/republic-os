@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 20"
+represents: "us/states/ny/districts/20"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Paul Tonko
 
 Current U.S. House of Representatives - NY-20 (Congressional District 20).
+
+Represents [Congressional District 20](/us/states/ny/districts/20.md).
 
 ## Committees
 

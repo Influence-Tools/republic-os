@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Orange-Washington-Addison"
+represents: "us/states/vt/districts/house/orange-washington-addison"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Hooper
 
 Current VT House District Orange-Washington-Addison (VT State House of Representatives District Orange-Washington-Addison).
+
+Represents [VT State House of Representatives District Orange-Washington-Addison](/us/states/vt/districts/house/orange-washington-addison.md).
 
 ## Sources
 

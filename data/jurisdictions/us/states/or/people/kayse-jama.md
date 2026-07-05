@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 24"
+represents: "us/states/or/districts/senate/24"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kayse Jama
 
 Current OR Senate District 24 (OR State Senate District 24).
+
+Represents [OR State Senate District 24](/us/states/or/districts/senate/24.md).
 
 ## Sources
 

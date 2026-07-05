@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 40B"
+represents: "us/states/mn/districts/house/40b"
 tenure:
   start: "2025-03-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Gottfried
 
 Current MN House District 40B (MN State House of Representatives District 40B).
+
+Represents [MN State House of Representatives District 40B](/us/states/mn/districts/house/40b.md).
 
 ## Sources
 

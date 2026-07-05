@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Second Suffolk"
+represents: "us/states/ma/districts/senate/second-suffolk"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Miranda
 
 Current MA Senate District Second Suffolk (MA State Senate District Second Suffolk).
+
+Represents [MA State Senate District Second Suffolk](/us/states/ma/districts/senate/second-suffolk.md).
 
 ## Sources
 

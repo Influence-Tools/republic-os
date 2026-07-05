@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 97"
+represents: "us/states/tx/districts/house/97"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John McQueeney
 
 Current TX House District 97 (TX State House of Representatives District 97).
+
+Represents [TX State House of Representatives District 97](/us/states/tx/districts/house/97.md).
 
 ## Sources
 

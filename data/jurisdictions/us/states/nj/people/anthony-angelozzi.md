@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 8"
+represents: "us/states/nj/districts/house/8"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony Angelozzi
 
 Current NJ House District 8 (NJ State House of Representatives District 8).
+
+Represents [NJ State House of Representatives District 8](/us/states/nj/districts/house/8.md).
 
 ## Sources
 

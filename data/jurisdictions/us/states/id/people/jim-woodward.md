@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 1"
+represents: "us/states/id/districts/senate/1"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Woodward
 
 Current ID Senate District 1 (ID State Senate District 1).
+
+Represents [ID State Senate District 1](/us/states/id/districts/senate/1.md).
 
 ## Sources
 

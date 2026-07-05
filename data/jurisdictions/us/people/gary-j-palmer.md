@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AL"
 district: "Congressional District 6"
+represents: "us/states/al/districts/06"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Gary J. Palmer
 
 Current U.S. House of Representatives - AL-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/al/districts/06.md).
 
 ## Committees
 

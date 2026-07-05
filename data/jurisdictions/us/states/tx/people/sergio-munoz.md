@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 36"
+represents: "us/states/tx/districts/house/36"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sergio Muñoz
 
 Current TX House District 36 (TX State House of Representatives District 36).
+
+Represents [TX State House of Representatives District 36](/us/states/tx/districts/house/36.md).
 
 ## Sources
 

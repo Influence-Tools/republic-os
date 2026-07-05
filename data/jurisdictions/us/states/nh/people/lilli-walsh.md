@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 15"
+represents: "us/states/nh/districts/house/rockingham-15"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lilli Walsh
 
 Current NH House District Rockingham 15 (NH State House of Representatives District Rockingham 15).
+
+Represents [NH State House of Representatives District Rockingham 15](/us/states/nh/districts/house/rockingham-15.md).
 
 ## Sources
 

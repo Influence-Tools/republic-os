@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 1"
+represents: "us/states/pa/districts/senate/1"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nikil Saval
 
 Current PA Senate District 1 (PA State Senate District 1).
+
+Represents [PA State Senate District 1](/us/states/pa/districts/senate/1.md).
 
 ## Sources
 

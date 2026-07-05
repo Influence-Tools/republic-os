@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 21"
+represents: "us/states/ri/districts/house/21"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marie Hopkins
 
 Current RI House District 21 (RI State House of Representatives District 21).
+
+Represents [RI State House of Representatives District 21](/us/states/ri/districts/house/21.md).
 
 ## Sources
 

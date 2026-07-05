@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 40"
+represents: "us/states/ca/districts/40"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Young Kim
 
 Current U.S. House of Representatives - CA-40 (Congressional District 40).
+
+Represents [Congressional District 40](/us/states/ca/districts/40.md).
 
 ## Committees
 

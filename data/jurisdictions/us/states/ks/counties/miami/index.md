@@ -22,9 +22,33 @@ demographics:
   race_native: 218
   hispanic: 1423
   bachelors_plus: 9928
+districts:
+  - to: "us/states/ks/districts/03"
+    rel: in-district
+    area_weight: 0.9992
+  - to: "us/states/ks/districts/senate/12"
+    rel: in-district
+    area_weight: 0.5721
+  - to: "us/states/ks/districts/senate/37"
+    rel: in-district
+    area_weight: 0.4151
+  - to: "us/states/ks/districts/senate/23"
+    rel: in-district
+    area_weight: 0.0124
+  - to: "us/states/ks/districts/house/6"
+    rel: in-district
+    area_weight: 0.4936
+  - to: "us/states/ks/districts/house/5"
+    rel: in-district
+    area_weight: 0.2643
+  - to: "us/states/ks/districts/house/9"
+    rel: in-district
+    area_weight: 0.2396
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ks]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction.
 | Hispanic/Latino | 1423 |
 | Bachelor's or higher | 9928 |
 
+## Districts
+
+- [KS-03](/us/states/ks/districts/03.md) — 100% (congressional)
+- [KS Senate District 12](/us/states/ks/districts/senate/12.md) — 57% (state senate)
+- [KS Senate District 37](/us/states/ks/districts/senate/37.md) — 42% (state senate)
+- [KS Senate District 23](/us/states/ks/districts/senate/23.md) — 1% (state senate)
+- [KS House District 6](/us/states/ks/districts/house/6.md) — 49% (state house)
+- [KS House District 5](/us/states/ks/districts/house/5.md) — 26% (state house)
+- [KS House District 9](/us/states/ks/districts/house/9.md) — 24% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 77"
+represents: "us/states/oh/districts/house/77"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meredith Craig
 
 Current OH House District 77 (OH State House of Representatives District 77).
+
+Represents [OH State House of Representatives District 77](/us/states/oh/districts/house/77.md).
 
 ## Sources
 

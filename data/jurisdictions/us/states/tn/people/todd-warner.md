@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 92"
+represents: "us/states/tn/districts/house/92"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Warner
 
 Current TN House District 92 (TN State House of Representatives District 92).
+
+Represents [TN State House of Representatives District 92](/us/states/tn/districts/house/92.md).
 
 ## Sources
 

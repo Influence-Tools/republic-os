@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 67"
+represents: "us/states/ar/districts/house/67"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karilyn Brown
 
 Current AR House District 67 (AR State House of Representatives District 67).
+
+Represents [AR State House of Representatives District 67](/us/states/ar/districts/house/67.md).
 
 ## Sources
 

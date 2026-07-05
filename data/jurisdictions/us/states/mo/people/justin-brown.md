@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 16"
+represents: "us/states/mo/districts/senate/16"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Brown
 
 Current MO Senate District 16 (MO State Senate District 16).
+
+Represents [MO State Senate District 16](/us/states/mo/districts/senate/16.md).
 
 ## Sources
 

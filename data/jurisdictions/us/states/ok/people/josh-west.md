@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 5"
+represents: "us/states/ok/districts/house/5"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh West
 
 Current OK House District 5 (OK State House of Representatives District 5).
+
+Represents [OK State House of Representatives District 5](/us/states/ok/districts/house/5.md).
 
 ## Sources
 

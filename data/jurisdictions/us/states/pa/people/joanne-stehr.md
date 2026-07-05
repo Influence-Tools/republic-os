@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 107"
+represents: "us/states/pa/districts/house/107"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joanne Stehr
 
 Current PA House District 107 (PA State House of Representatives District 107).
+
+Represents [PA State House of Representatives District 107](/us/states/pa/districts/house/107.md).
 
 ## Sources
 

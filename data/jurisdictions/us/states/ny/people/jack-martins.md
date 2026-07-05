@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 7"
+represents: "us/states/ny/districts/senate/7"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Martins
 
 Current NY Senate District 7 (NY State Senate District 7).
+
+Represents [NY State Senate District 7](/us/states/ny/districts/senate/7.md).
 
 ## Sources
 

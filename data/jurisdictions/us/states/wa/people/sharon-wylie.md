@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 49"
+represents: "us/states/wa/districts/house/49"
 tenure:
   start: "2011-04-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Wylie
 
 Current WA House District 49 (WA State House of Representatives District 49).
+
+Represents [WA State House of Representatives District 49](/us/states/wa/districts/house/49.md).
 
 ## Sources
 

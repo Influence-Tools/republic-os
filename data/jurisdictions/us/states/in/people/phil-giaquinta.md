@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 80"
+represents: "us/states/in/districts/house/80"
 tenure:
   start: "2006-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil GiaQuinta
 
 Current IN House District 80 (IN State House of Representatives District 80).
+
+Represents [IN State House of Representatives District 80](/us/states/in/districts/house/80.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 36"
+represents: "us/states/de/districts/house/36"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Shupe
 
 Current DE House District 36 (DE State House of Representatives District 36).
+
+Represents [DE State House of Representatives District 36](/us/states/de/districts/house/36.md).
 
 ## Sources
 

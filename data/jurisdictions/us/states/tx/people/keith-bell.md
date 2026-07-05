@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 4"
+represents: "us/states/tx/districts/house/4"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Bell
 
 Current TX House District 4 (TX State House of Representatives District 4).
+
+Represents [TX State House of Representatives District 4](/us/states/tx/districts/house/4.md).
 
 ## Sources
 

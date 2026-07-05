@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 38"
+represents: "us/states/nc/districts/senate/38"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mujtaba Mohammed
 
 Current NC Senate District 38 (NC State Senate District 38).
+
+Represents [NC State Senate District 38](/us/states/nc/districts/senate/38.md).
 
 ## Sources
 

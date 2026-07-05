@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 85"
+represents: "us/states/mo/districts/house/85"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Yolonda Fountain-Henderson
 
 Current MO House District 85 (MO State House of Representatives District 85).
+
+Represents [MO State House of Representatives District 85](/us/states/mo/districts/house/85.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 23"
+represents: "us/states/ms/districts/senate/23"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Briggs Hopson
 
 Current MS Senate District 23 (MS State Senate District 23).
+
+Represents [MS State Senate District 23](/us/states/ms/districts/senate/23.md).
 
 ## Sources
 

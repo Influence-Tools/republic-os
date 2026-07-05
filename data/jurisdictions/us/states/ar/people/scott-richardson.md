@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 13"
+represents: "us/states/ar/districts/house/13"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Richardson
 
 Current AR House District 13 (AR State House of Representatives District 13).
+
+Represents [AR State House of Representatives District 13](/us/states/ar/districts/house/13.md).
 
 ## Sources
 

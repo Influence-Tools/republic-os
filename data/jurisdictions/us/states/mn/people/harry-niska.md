@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 31A"
+represents: "us/states/mn/districts/house/31a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harry Niska
 
 Current MN House District 31A (MN State House of Representatives District 31A).
+
+Represents [MN State House of Representatives District 31A](/us/states/mn/districts/house/31a.md).
 
 ## Sources
 

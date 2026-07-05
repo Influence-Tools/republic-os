@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 34"
+represents: "us/states/nm/districts/senate/34"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Townsend
 
 Current NM Senate District 34 (NM State Senate District 34).
+
+Represents [NM State Senate District 34](/us/states/nm/districts/senate/34.md).
 
 ## Sources
 

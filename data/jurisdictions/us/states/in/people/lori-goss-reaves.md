@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 31"
+represents: "us/states/in/districts/house/31"
 tenure:
   start: "2023-06-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Goss-Reaves
 
 Current IN House District 31 (IN State House of Representatives District 31).
+
+Represents [IN State House of Representatives District 31](/us/states/in/districts/house/31.md).
 
 ## Sources
 

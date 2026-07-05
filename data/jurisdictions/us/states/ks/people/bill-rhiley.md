@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 80"
+represents: "us/states/ks/districts/house/80"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Rhiley
 
 Current KS House District 80 (KS State House of Representatives District 80).
+
+Represents [KS State House of Representatives District 80](/us/states/ks/districts/house/80.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 6"
+represents: "us/states/sd/districts/senate/6"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ernie Otten
 
 Current SD Senate District 6 (SD State Senate District 6).
+
+Represents [SD State Senate District 6](/us/states/sd/districts/senate/6.md).
 
 ## Sources
 

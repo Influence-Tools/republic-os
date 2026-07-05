@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 40"
+represents: "us/states/mi/districts/house/40"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Longjohn
 
 Current MI House District 40 (MI State House of Representatives District 40).
+
+Represents [MI State House of Representatives District 40](/us/states/mi/districts/house/40.md).
 
 ## Sources
 

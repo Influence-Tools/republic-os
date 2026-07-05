@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Hampden and Hampshire"
+represents: "us/states/ma/districts/senate/hampden-and-hampshire"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Velis
 
 Current MA Senate District Hampden and Hampshire (MA State Senate District Hampden and Hampshire).
+
+Represents [MA State Senate District Hampden and Hampshire](/us/states/ma/districts/senate/hampden-and-hampshire.md).
 
 ## Sources
 

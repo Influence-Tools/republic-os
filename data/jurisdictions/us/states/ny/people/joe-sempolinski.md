@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 148"
+represents: "us/states/ny/districts/house/148"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Sempolinski
 
 Current NY House District 148 (NY State House of Representatives District 148).
+
+Represents [NY State House of Representatives District 148](/us/states/ny/districts/house/148.md).
 
 ## Sources
 

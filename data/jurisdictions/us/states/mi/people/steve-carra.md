@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 36"
+represents: "us/states/mi/districts/house/36"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Carra
 
 Current MI House District 36 (MI State House of Representatives District 36).
+
+Represents [MI State House of Representatives District 36](/us/states/mi/districts/house/36.md).
 
 ## Sources
 

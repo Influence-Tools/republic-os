@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 17"
+represents: "us/states/mt/districts/senate/17"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Phalen
 
 Current MT Senate District 17 (MT State Senate District 17).
+
+Represents [MT State Senate District 17](/us/states/mt/districts/senate/17.md).
 
 ## Sources
 

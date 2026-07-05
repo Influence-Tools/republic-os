@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 73"
+represents: "us/states/mi/districts/house/73"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Brixie
 
 Current MI House District 73 (MI State House of Representatives District 73).
+
+Represents [MI State House of Representatives District 73](/us/states/mi/districts/house/73.md).
 
 ## Sources
 

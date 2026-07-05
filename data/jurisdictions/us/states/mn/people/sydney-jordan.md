@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 60A"
+represents: "us/states/mn/districts/house/60a"
 tenure:
   start: "2020-02-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sydney Jordan
 
 Current MN House District 60A (MN State House of Representatives District 60A).
+
+Represents [MN State House of Representatives District 60A](/us/states/mn/districts/house/60a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Norfolk and Plymouth"
+represents: "us/states/ma/districts/senate/norfolk-and-plymouth"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Keenan
 
 Current MA Senate District Norfolk and Plymouth (MA State Senate District Norfolk and Plymouth).
+
+Represents [MA State Senate District Norfolk and Plymouth](/us/states/ma/districts/senate/norfolk-and-plymouth.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 8"
+represents: "us/states/sd/districts/house/8"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Reisch
 
 Current SD House District 8 (SD State House of Representatives District 8).
+
+Represents [SD State House of Representatives District 8](/us/states/sd/districts/house/8.md).
 
 ## Sources
 

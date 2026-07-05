@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 102"
+represents: "us/states/me/districts/house/102"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melanie Sachs
 
 Current ME House District 102 (ME State House of Representatives District 102).
+
+Represents [ME State House of Representatives District 102](/us/states/me/districts/house/102.md).
 
 ## Sources
 

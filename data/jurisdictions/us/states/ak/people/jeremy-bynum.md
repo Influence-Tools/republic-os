@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 1"
+represents: "us/states/ak/districts/house/1"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Bynum
 
 Current AK House District 1 (AK State House of Representatives District 1).
+
+Represents [AK State House of Representatives District 1](/us/states/ak/districts/house/1.md).
 
 ## Sources
 

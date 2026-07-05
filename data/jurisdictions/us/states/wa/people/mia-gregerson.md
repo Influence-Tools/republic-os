@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 33"
+represents: "us/states/wa/districts/house/33"
 tenure:
   start: "2013-12-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mia Gregerson
 
 Current WA House District 33 (WA State House of Representatives District 33).
+
+Represents [WA State House of Representatives District 33](/us/states/wa/districts/house/33.md).
 
 ## Sources
 

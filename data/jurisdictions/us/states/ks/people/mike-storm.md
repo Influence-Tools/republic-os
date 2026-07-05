@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 121"
+represents: "us/states/ks/districts/house/121"
 tenure:
   start: "2026-03-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Storm
 
 Current KS House District 121 (KS State House of Representatives District 121).
+
+Represents [KS State House of Representatives District 121](/us/states/ks/districts/house/121.md).
 
 ## Sources
 

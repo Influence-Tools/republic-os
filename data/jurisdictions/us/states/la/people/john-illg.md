@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 78"
+represents: "us/states/la/districts/house/78"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Illg
 
 Current LA House District 78 (LA State House of Representatives District 78).
+
+Represents [LA State House of Representatives District 78](/us/states/la/districts/house/78.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 45"
+represents: "us/states/la/districts/house/45"
 tenure:
   start: "2025-04-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Annie Spell
 
 Current LA House District 45 (LA State House of Representatives District 45).
+
+Represents [LA State House of Representatives District 45](/us/states/la/districts/house/45.md).
 
 ## Sources
 

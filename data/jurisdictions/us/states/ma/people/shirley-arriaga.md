@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 8th Hampden"
+represents: "us/states/ma/districts/house/8th-hampden"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shirley Arriaga
 
 Current MA House District 8th Hampden (MA State House of Representatives District 8th Hampden).
+
+Represents [MA State House of Representatives District 8th Hampden](/us/states/ma/districts/house/8th-hampden.md).
 
 ## Sources
 

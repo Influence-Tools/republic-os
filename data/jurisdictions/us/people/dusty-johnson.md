@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "SD"
 district: "Congressional District (at Large)"
+represents: "us/states/sd/districts/00"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Dusty Johnson
 
 Current U.S. House of Representatives - SD At-Large (Congressional District (at Large)).
+
+Represents [Congressional District (at Large)](/us/states/sd/districts/00.md).
 
 ## Committees
 

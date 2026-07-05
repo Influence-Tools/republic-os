@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 48"
+represents: "us/states/in/districts/house/48"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Miller
 
 Current IN House District 48 (IN State House of Representatives District 48).
+
+Represents [IN State House of Representatives District 48](/us/states/in/districts/house/48.md).
 
 ## Sources
 

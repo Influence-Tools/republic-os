@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 16A"
+represents: "us/states/mn/districts/house/16a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Van Binsbergen
 
 Current MN House District 16A (MN State House of Representatives District 16A).
+
+Represents [MN State House of Representatives District 16A](/us/states/mn/districts/house/16a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 27"
+represents: "us/states/wi/districts/senate/27"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dianne Hesselbein
 
 Current WI Senate District 27 (WI State Senate District 27).
+
+Represents [WI State Senate District 27](/us/states/wi/districts/senate/27.md).
 
 ## Sources
 

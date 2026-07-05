@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 42"
+represents: "us/states/va/districts/house/42"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Ballard
 
 Current VA House District 42 (VA State House of Representatives District 42).
+
+Represents [VA State House of Representatives District 42](/us/states/va/districts/house/42.md).
 
 ## Sources
 

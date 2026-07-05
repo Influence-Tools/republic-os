@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 7"
+represents: "us/states/ga/districts/house/7"
 tenure:
   start: "2023-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny Chastain
 
 Current GA House District 7 (GA State House of Representatives District 7).
+
+Represents [GA State House of Representatives District 7](/us/states/ga/districts/house/7.md).
 
 ## Sources
 

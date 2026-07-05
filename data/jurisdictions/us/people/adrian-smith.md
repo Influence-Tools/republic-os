@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NE"
 district: "Congressional District 3"
+represents: "us/states/ne/districts/03"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Adrian Smith
 
 Current U.S. House of Representatives - NE-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ne/districts/03.md).
 
 ## Committees
 

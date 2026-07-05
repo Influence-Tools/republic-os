@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AZ"
 district: "Congressional District 5"
+represents: "us/states/az/districts/05"
 committees:
   - name: "House Committee on Oversight and Government Reform"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Andy Biggs
 
 Current U.S. House of Representatives - AZ-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/az/districts/05.md).
 
 ## Committees
 

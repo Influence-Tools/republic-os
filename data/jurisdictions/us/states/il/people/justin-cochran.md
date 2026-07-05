@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 55"
+represents: "us/states/il/districts/house/55"
 tenure:
   start: "2025-12-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Cochran
 
 Current IL House District 55 (IL State House of Representatives District 55).
+
+Represents [IL State House of Representatives District 55](/us/states/il/districts/house/55.md).
 
 ## Sources
 

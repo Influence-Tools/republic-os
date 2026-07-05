@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 30"
+represents: "us/states/va/districts/house/30"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John McAuliff
 
 Current VA House District 30 (VA State House of Representatives District 30).
+
+Represents [VA State House of Representatives District 30](/us/states/va/districts/house/30.md).
 
 ## Sources
 

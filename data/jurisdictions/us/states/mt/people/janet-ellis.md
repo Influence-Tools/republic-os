@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 41"
+represents: "us/states/mt/districts/senate/41"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janet Ellis
 
 Current MT Senate District 41 (MT State Senate District 41).
+
+Represents [MT State Senate District 41](/us/states/mt/districts/senate/41.md).
 
 ## Sources
 

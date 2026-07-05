@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 17"
+represents: "us/states/la/districts/house/17"
 tenure:
   start: "2019-04-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Moore
 
 Current LA House District 17 (LA State House of Representatives District 17).
+
+Represents [LA State House of Representatives District 17](/us/states/la/districts/house/17.md).
 
 ## Sources
 

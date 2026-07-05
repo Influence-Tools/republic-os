@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 25"
+represents: "us/states/nd/districts/senate/25"
 tenure:
   start: "2010-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Luick
 
 Current ND Senate District 25 (ND State Senate District 25).
+
+Represents [ND State Senate District 25](/us/states/nd/districts/senate/25.md).
 
 ## Sources
 

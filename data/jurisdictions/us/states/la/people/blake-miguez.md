@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 22"
+represents: "us/states/la/districts/senate/22"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blake Miguez
 
 Current LA Senate District 22 (LA State Senate District 22).
+
+Represents [LA State Senate District 22](/us/states/la/districts/senate/22.md).
 
 ## Sources
 

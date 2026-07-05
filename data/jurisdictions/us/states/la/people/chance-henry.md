@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 42"
+represents: "us/states/la/districts/house/42"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chance Henry
 
 Current LA House District 42 (LA State House of Representatives District 42).
+
+Represents [LA State House of Representatives District 42](/us/states/la/districts/house/42.md).
 
 ## Sources
 

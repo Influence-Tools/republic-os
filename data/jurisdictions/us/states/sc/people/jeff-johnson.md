@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 58"
+represents: "us/states/sc/districts/house/58"
 tenure:
   start: "2014-11-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Johnson
 
 Current SC House District 58 (SC State House of Representatives District 58).
+
+Represents [SC State House of Representatives District 58](/us/states/sc/districts/house/58.md).
 
 ## Sources
 

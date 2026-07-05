@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 6"
+represents: "us/states/wa/districts/06"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Emily Randall
 
 Current U.S. House of Representatives - WA-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/wa/districts/06.md).
 
 ## Committees
 

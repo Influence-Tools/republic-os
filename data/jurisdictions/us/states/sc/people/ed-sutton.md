@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 20"
+represents: "us/states/sc/districts/senate/20"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Sutton
 
 Current SC Senate District 20 (SC State Senate District 20).
+
+Represents [SC State Senate District 20](/us/states/sc/districts/senate/20.md).
 
 ## Sources
 

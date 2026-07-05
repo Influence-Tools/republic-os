@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 23"
+represents: "us/states/ar/districts/house/23"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kendra Moore
 
 Current AR House District 23 (AR State House of Representatives District 23).
+
+Represents [AR State House of Representatives District 23](/us/states/ar/districts/house/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KY"
 district: "Congressional District 3"
+represents: "us/states/ky/districts/03"
 committees:
   - name: "House Committee on Small Business"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Morgan McGarvey
 
 Current U.S. House of Representatives - KY-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ky/districts/03.md).
 
 ## Committees
 

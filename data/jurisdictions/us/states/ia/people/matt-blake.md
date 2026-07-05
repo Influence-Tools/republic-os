@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 22"
+represents: "us/states/ia/districts/senate/22"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Blake
 
 Current IA Senate District 22 (IA State Senate District 22).
+
+Represents [IA State Senate District 22](/us/states/ia/districts/senate/22.md).
 
 ## Sources
 

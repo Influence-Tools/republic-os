@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 25B"
+represents: "us/states/mn/districts/house/25b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andy Smith
 
 Current MN House District 25B (MN State House of Representatives District 25B).
+
+Represents [MN State House of Representatives District 25B](/us/states/mn/districts/house/25b.md).
 
 ## Sources
 

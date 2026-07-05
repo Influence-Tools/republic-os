@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 84"
+represents: "us/states/oh/districts/house/84"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angie King
 
 Current OH House District 84 (OH State House of Representatives District 84).
+
+Represents [OH State House of Representatives District 84](/us/states/oh/districts/house/84.md).
 
 ## Sources
 

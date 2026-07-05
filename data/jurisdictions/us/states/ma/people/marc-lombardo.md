@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 22nd Middlesex"
+represents: "us/states/ma/districts/house/22nd-middlesex"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marc Lombardo
 
 Current MA House District 22nd Middlesex (MA State House of Representatives District 22nd Middlesex).
+
+Represents [MA State House of Representatives District 22nd Middlesex](/us/states/ma/districts/house/22nd-middlesex.md).
 
 ## Sources
 

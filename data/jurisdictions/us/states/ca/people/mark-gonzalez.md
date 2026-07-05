@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 54"
+represents: "us/states/ca/districts/house/54"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark González
 
 Current CA House District 54 (CA State House of Representatives District 54).
+
+Represents [CA State House of Representatives District 54](/us/states/ca/districts/house/54.md).
 
 ## Sources
 

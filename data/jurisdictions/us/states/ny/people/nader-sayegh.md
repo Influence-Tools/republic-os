@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 90"
+represents: "us/states/ny/districts/house/90"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nader Sayegh
 
 Current NY House District 90 (NY State House of Representatives District 90).
+
+Represents [NY State House of Representatives District 90](/us/states/ny/districts/house/90.md).
 
 ## Sources
 

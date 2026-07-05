@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 18"
+represents: "us/states/hi/districts/senate/18"
 tenure:
   start: "2013-01-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Kidani
 
 Current HI Senate District 18 (HI State Senate District 18).
+
+Represents [HI State Senate District 18](/us/states/hi/districts/senate/18.md).
 
 ## Sources
 

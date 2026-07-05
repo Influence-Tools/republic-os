@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 51"
+represents: "us/states/ms/districts/senate/51"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy England
 
 Current MS Senate District 51 (MS State Senate District 51).
+
+Represents [MS State Senate District 51](/us/states/ms/districts/senate/51.md).
 
 ## Sources
 

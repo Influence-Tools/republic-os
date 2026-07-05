@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 33"
+represents: "us/states/va/districts/senate/33"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Carroll Foy
 
 Current VA Senate District 33 (VA State Senate District 33).
+
+Represents [VA State Senate District 33](/us/states/va/districts/senate/33.md).
 
 ## Sources
 

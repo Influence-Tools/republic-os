@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 22"
+represents: "us/states/ri/districts/senate/22"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Tikoian
 
 Current RI Senate District 22 (RI State Senate District 22).
+
+Represents [RI State Senate District 22](/us/states/ri/districts/senate/22.md).
 
 ## Sources
 

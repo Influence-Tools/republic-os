@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 3"
+represents: "us/states/ok/districts/senate/3"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie McIntosh
 
 Current OK Senate District 3 (OK State Senate District 3).
+
+Represents [OK State Senate District 3](/us/states/ok/districts/senate/3.md).
 
 ## Sources
 

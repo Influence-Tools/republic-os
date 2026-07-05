@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 28"
+represents: "us/states/oh/districts/senate/28"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Casey Weinstein
 
 Current OH Senate District 28 (OH State Senate District 28).
+
+Represents [OH State Senate District 28](/us/states/oh/districts/senate/28.md).
 
 ## Sources
 

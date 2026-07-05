@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 82"
+represents: "us/states/ar/districts/house/82"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Furman
 
 Current AR House District 82 (AR State House of Representatives District 82).
+
+Represents [AR State House of Representatives District 82](/us/states/ar/districts/house/82.md).
 
 ## Sources
 

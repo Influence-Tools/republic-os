@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District G"
+represents: "us/states/ak/districts/senate/g"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elvi Gray-Jackson
 
 Current AK Senate District G (AK State Senate District G).
+
+Represents [AK State Senate District G](/us/states/ak/districts/senate/g.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 137"
+represents: "us/states/ga/districts/house/137"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debbie Buckner
 
 Current GA House District 137 (GA State House of Representatives District 137).
+
+Represents [GA State House of Representatives District 137](/us/states/ga/districts/house/137.md).
 
 ## Sources
 

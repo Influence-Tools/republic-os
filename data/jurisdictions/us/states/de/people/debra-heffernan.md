@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 6"
+represents: "us/states/de/districts/house/6"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debra Heffernan
 
 Current DE House District 6 (DE State House of Representatives District 6).
+
+Represents [DE State House of Representatives District 6](/us/states/de/districts/house/6.md).
 
 ## Sources
 

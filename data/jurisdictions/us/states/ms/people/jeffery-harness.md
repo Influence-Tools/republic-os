@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 85"
+represents: "us/states/ms/districts/house/85"
 tenure:
   start: "2018-12-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeffery Harness
 
 Current MS House District 85 (MS State House of Representatives District 85).
+
+Represents [MS State House of Representatives District 85](/us/states/ms/districts/house/85.md).
 
 ## Sources
 

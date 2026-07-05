@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 64"
+represents: "us/states/ok/districts/house/64"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rande Worthen
 
 Current OK House District 64 (OK State House of Representatives District 64).
+
+Represents [OK State House of Representatives District 64](/us/states/ok/districts/house/64.md).
 
 ## Sources
 

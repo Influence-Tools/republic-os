@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 21"
+represents: "us/states/md/districts/house/21"
 tenure:
   start: "2007-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Barnes
 
 Current MD House District 21 (MD State House of Representatives District 21).
+
+Represents [MD State House of Representatives District 21](/us/states/md/districts/house/21.md).
 
 ## Sources
 

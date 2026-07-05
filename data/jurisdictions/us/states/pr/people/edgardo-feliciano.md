@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 12"
+represents: "us/states/pr/districts/house/12"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Edgardo Feliciano
 
 Current PR House District 12 (PR State House of Representatives District 12).
+
+Represents [PR State House of Representatives District 12](/us/states/pr/districts/house/12.md).
 
 ## Sources
 

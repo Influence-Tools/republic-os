@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 30"
+represents: "us/states/md/districts/senate/30"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shaneka Henson
 
 Current MD Senate District 30 (MD State Senate District 30).
+
+Represents [MD State Senate District 30](/us/states/md/districts/senate/30.md).
 
 ## Sources
 

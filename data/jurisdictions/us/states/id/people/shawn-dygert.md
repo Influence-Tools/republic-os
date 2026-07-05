@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 23B"
+represents: "us/states/id/districts/house/23b"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shawn Dygert
 
 Current ID House District 23B (ID State House of Representatives District 23B).
+
+Represents [ID State House of Representatives District 23B](/us/states/id/districts/house/23b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 29"
+represents: "us/states/va/districts/house/29"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Martinez
 
 Current VA House District 29 (VA State House of Representatives District 29).
+
+Represents [VA State House of Representatives District 29](/us/states/va/districts/house/29.md).
 
 ## Sources
 

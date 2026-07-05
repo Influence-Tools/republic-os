@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 19"
+represents: "us/states/ct/districts/senate/19"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cathy Osten
 
 Current CT Senate District 19 (CT State Senate District 19).
+
+Represents [CT State Senate District 19](/us/states/ct/districts/senate/19.md).
 
 ## Sources
 

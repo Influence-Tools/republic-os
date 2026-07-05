@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 15"
+represents: "us/states/nv/districts/senate/15"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angie Taylor
 
 Current NV Senate District 15 (NV State Senate District 15).
+
+Represents [NV State Senate District 15](/us/states/nv/districts/senate/15.md).
 
 ## Sources
 

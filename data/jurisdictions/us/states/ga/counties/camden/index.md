@@ -22,9 +22,21 @@ demographics:
   race_native: 102
   hispanic: 4325
   bachelors_plus: 12490
+districts:
+  - to: "us/states/ga/districts/01"
+    rel: in-district
+    area_weight: 0.8744
+  - to: "us/states/ga/districts/senate/3"
+    rel: in-district
+    area_weight: 0.8766
+  - to: "us/states/ga/districts/house/180"
+    rel: in-district
+    area_weight: 0.8765
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ga]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 4325 |
 | Bachelor's or higher | 12490 |
 
+## Districts
+
+- [GA-01](/us/states/ga/districts/01.md) — 87% (congressional)
+- [GA Senate District 3](/us/states/ga/districts/senate/3.md) — 88% (state senate)
+- [GA House District 180](/us/states/ga/districts/house/180.md) — 88% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

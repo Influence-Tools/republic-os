@@ -22,9 +22,30 @@ demographics:
   race_native: 2629
   hispanic: 78657
   bachelors_plus: 159653
+districts:
+  - to: "us/states/fl/districts/16"
+    rel: in-district
+    area_weight: 0.8261
+  - to: "us/states/fl/districts/senate/20"
+    rel: in-district
+    area_weight: 0.6521
+  - to: "us/states/fl/districts/senate/22"
+    rel: in-district
+    area_weight: 0.1731
+  - to: "us/states/fl/districts/house/72"
+    rel: in-district
+    area_weight: 0.6351
+  - to: "us/states/fl/districts/house/71"
+    rel: in-district
+    area_weight: 0.1151
+  - to: "us/states/fl/districts/house/70"
+    rel: in-district
+    area_weight: 0.0749
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, fl]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 43 officeholders mapped.
 | Hispanic/Latino | 78657 |
 | Bachelor's or higher | 159653 |
 
+## Districts
+
+- [FL-16](/us/states/fl/districts/16.md) — 83% (congressional)
+- [FL Senate District 20](/us/states/fl/districts/senate/20.md) — 65% (state senate)
+- [FL Senate District 22](/us/states/fl/districts/senate/22.md) — 17% (state senate)
+- [FL House District 72](/us/states/fl/districts/house/72.md) — 64% (state house)
+- [FL House District 71](/us/states/fl/districts/house/71.md) — 12% (state house)
+- [FL House District 70](/us/states/fl/districts/house/70.md) — 7% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 112"
+represents: "us/states/ny/districts/house/112"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Beth Walsh
 
 Current NY House District 112 (NY State House of Representatives District 112).
+
+Represents [NY State House of Representatives District 112](/us/states/ny/districts/house/112.md).
 
 ## Sources
 

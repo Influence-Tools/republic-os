@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 72"
+represents: "us/states/me/districts/house/72"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Caruso
 
 Current ME House District 72 (ME State House of Representatives District 72).
+
+Represents [ME State House of Representatives District 72](/us/states/me/districts/house/72.md).
 
 ## Sources
 

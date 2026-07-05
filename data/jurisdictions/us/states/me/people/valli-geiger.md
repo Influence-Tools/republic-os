@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 42"
+represents: "us/states/me/districts/house/42"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Valli Geiger
 
 Current ME House District 42 (ME State House of Representatives District 42).
+
+Represents [ME State House of Representatives District 42](/us/states/me/districts/house/42.md).
 
 ## Sources
 

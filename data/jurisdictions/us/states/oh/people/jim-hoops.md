@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 81"
+represents: "us/states/oh/districts/house/81"
 tenure:
   start: "2018-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Hoops
 
 Current OH House District 81 (OH State House of Representatives District 81).
+
+Represents [OH State House of Representatives District 81](/us/states/oh/districts/house/81.md).
 
 ## Sources
 

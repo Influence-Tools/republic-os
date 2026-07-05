@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 6B"
+represents: "us/states/id/districts/house/6b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Mitchell
 
 Current ID House District 6B (ID State House of Representatives District 6B).
+
+Represents [ID State House of Representatives District 6B](/us/states/id/districts/house/6b.md).
 
 ## Sources
 

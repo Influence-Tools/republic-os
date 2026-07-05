@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 20"
+represents: "us/states/nj/districts/house/20"
 tenure:
   start: "2008-09-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Annette Quijano
 
 Current NJ House District 20 (NJ State House of Representatives District 20).
+
+Represents [NJ State House of Representatives District 20](/us/states/nj/districts/house/20.md).
 
 ## Sources
 

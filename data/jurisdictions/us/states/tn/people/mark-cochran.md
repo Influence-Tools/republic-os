@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 23"
+represents: "us/states/tn/districts/house/23"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Cochran
 
 Current TN House District 23 (TN State House of Representatives District 23).
+
+Represents [TN State House of Representatives District 23](/us/states/tn/districts/house/23.md).
 
 ## Sources
 

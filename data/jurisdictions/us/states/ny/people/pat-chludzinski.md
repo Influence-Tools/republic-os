@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 143"
+represents: "us/states/ny/districts/house/143"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Chludzinski
 
 Current NY House District 143 (NY State House of Representatives District 143).
+
+Represents [NY State House of Representatives District 143](/us/states/ny/districts/house/143.md).
 
 ## Sources
 

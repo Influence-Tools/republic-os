@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 2"
+represents: "us/states/wy/districts/house/2"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.D. Williams
 
 Current WY House District 2 (WY State House of Representatives District 2).
+
+Represents [WY State House of Representatives District 2](/us/states/wy/districts/house/2.md).
 
 ## Sources
 

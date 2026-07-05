@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 86"
+represents: "us/states/il/districts/house/86"
 tenure:
   start: "2012-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Walsh
 
 Current IL House District 86 (IL State House of Representatives District 86).
+
+Represents [IL State House of Representatives District 86](/us/states/il/districts/house/86.md).
 
 ## Sources
 

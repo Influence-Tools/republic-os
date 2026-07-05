@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 44"
+represents: "us/states/ms/districts/senate/44"
 tenure:
   start: "2026-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Johnson
 
 Current MS Senate District 44 (MS State Senate District 44).
+
+Represents [MS State Senate District 44](/us/states/ms/districts/senate/44.md).
 
 ## Sources
 

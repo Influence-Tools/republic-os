@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Plymouth"
+represents: "us/states/ma/districts/house/1st-plymouth"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Badger
 
 Current MA House District 1st Plymouth (MA State House of Representatives District 1st Plymouth).
+
+Represents [MA State House of Representatives District 1st Plymouth](/us/states/ma/districts/house/1st-plymouth.md).
 
 ## Sources
 

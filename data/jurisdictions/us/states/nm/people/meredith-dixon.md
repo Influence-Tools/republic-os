@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 20"
+represents: "us/states/nm/districts/house/20"
 tenure:
   start: "2021-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meredith Dixon
 
 Current NM House District 20 (NM State House of Representatives District 20).
+
+Represents [NM State House of Representatives District 20](/us/states/nm/districts/house/20.md).
 
 ## Sources
 

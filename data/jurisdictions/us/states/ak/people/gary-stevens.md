@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District C"
+represents: "us/states/ak/districts/senate/c"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Stevens
 
 Current AK Senate District C (AK State Senate District C).
+
+Represents [AK State Senate District C](/us/states/ak/districts/senate/c.md).
 
 ## Sources
 

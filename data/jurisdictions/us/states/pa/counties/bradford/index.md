@@ -22,9 +22,24 @@ demographics:
   race_native: 39
   hispanic: 1011
   bachelors_plus: 12203
+districts:
+  - to: "us/states/pa/districts/09"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/pa/districts/senate/23"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/pa/districts/house/68"
+    rel: in-district
+    area_weight: 0.5013
+  - to: "us/states/pa/districts/house/110"
+    rel: in-district
+    area_weight: 0.4985
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, pa]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 1011 |
 | Bachelor's or higher | 12203 |
 
+## Districts
+
+- [PA-09](/us/states/pa/districts/09.md) — 100% (congressional)
+- [PA Senate District 23](/us/states/pa/districts/senate/23.md) — 100% (state senate)
+- [PA House District 68](/us/states/pa/districts/house/68.md) — 50% (state house)
+- [PA House District 110](/us/states/pa/districts/house/110.md) — 50% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

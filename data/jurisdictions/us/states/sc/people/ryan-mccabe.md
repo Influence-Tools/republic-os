@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 96"
+represents: "us/states/sc/districts/house/96"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan McCabe
 
 Current SC House District 96 (SC State House of Representatives District 96).
+
+Represents [SC State House of Representatives District 96](/us/states/sc/districts/house/96.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 3"
+represents: "us/states/wv/districts/senate/3"
 tenure:
   start: "2026-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trenton Barnhart
 
 Current WV Senate District 3 (WV State Senate District 3).
+
+Represents [WV State Senate District 3](/us/states/wv/districts/senate/3.md).
 
 ## Sources
 

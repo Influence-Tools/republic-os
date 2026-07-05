@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 37"
+represents: "us/states/hi/districts/house/37"
 tenure:
   start: "2023-02-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trish La Chica
 
 Current HI House District 37 (HI State House of Representatives District 37).
+
+Represents [HI State House of Representatives District 37](/us/states/hi/districts/house/37.md).
 
 ## Sources
 

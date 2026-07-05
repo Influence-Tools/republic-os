@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 119"
+represents: "us/states/tx/districts/house/119"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Campos
 
 Current TX House District 119 (TX State House of Representatives District 119).
+
+Represents [TX State House of Representatives District 119](/us/states/tx/districts/house/119.md).
 
 ## Sources
 

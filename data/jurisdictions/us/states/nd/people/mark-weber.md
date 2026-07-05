@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 22"
+represents: "us/states/nd/districts/senate/22"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Weber
 
 Current ND Senate District 22 (ND State Senate District 22).
+
+Represents [ND State Senate District 22](/us/states/nd/districts/senate/22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 5"
+represents: "us/states/pr/districts/senate/5"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Barlucea
 
 Current PR Senate District 5 (PR State Senate District 5).
+
+Represents [PR State Senate District 5](/us/states/pr/districts/senate/5.md).
 
 ## Sources
 

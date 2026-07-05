@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 144"
+represents: "us/states/pa/districts/house/144"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Munroe
 
 Current PA House District 144 (PA State House of Representatives District 144).
+
+Represents [PA State House of Representatives District 144](/us/states/pa/districts/house/144.md).
 
 ## Sources
 

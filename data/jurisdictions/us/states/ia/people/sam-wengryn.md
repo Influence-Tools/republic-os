@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 24"
+represents: "us/states/ia/districts/house/24"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Wengryn
 
 Current IA House District 24 (IA State House of Representatives District 24).
+
+Represents [IA State House of Representatives District 24](/us/states/ia/districts/house/24.md).
 
 ## Sources
 

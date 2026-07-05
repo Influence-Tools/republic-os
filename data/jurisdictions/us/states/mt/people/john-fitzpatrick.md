@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 76"
+represents: "us/states/mt/districts/house/76"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Fitzpatrick
 
 Current MT House District 76 (MT State House of Representatives District 76).
+
+Represents [MT State House of Representatives District 76](/us/states/mt/districts/house/76.md).
 
 ## Sources
 

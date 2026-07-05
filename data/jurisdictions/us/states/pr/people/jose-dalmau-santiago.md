@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District At-Large"
+represents: "us/states/pr/districts/senate/at-large"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # José Dalmau Santiago
 
 Current PR Senate District At-Large (PR State Senate District At-Large).
+
+Represents [PR State Senate District At-Large](/us/states/pr/districts/senate/at-large.md).
 
 ## Sources
 

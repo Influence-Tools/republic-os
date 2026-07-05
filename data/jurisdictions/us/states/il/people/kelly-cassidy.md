@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 14"
+represents: "us/states/il/districts/house/14"
 tenure:
   start: "2011-05-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Cassidy
 
 Current IL House District 14 (IL State House of Representatives District 14).
+
+Represents [IL State House of Representatives District 14](/us/states/il/districts/house/14.md).
 
 ## Sources
 

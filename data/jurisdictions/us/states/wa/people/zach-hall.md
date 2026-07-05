@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 5"
+represents: "us/states/wa/districts/house/5"
 tenure:
   start: "2025-06-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zach Hall
 
 Current WA House District 5 (WA State House of Representatives District 5).
+
+Represents [WA State House of Representatives District 5](/us/states/wa/districts/house/5.md).
 
 ## Sources
 

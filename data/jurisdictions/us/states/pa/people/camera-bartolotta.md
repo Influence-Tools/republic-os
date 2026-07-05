@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 46"
+represents: "us/states/pa/districts/senate/46"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Camera Bartolotta
 
 Current PA Senate District 46 (PA State Senate District 46).
+
+Represents [PA State Senate District 46](/us/states/pa/districts/senate/46.md).
 
 ## Sources
 

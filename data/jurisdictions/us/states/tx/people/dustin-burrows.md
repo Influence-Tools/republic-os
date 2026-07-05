@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 83"
+represents: "us/states/tx/districts/house/83"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dustin Burrows
 
 Current TX House District 83 (TX State House of Representatives District 83).
+
+Represents [TX State House of Representatives District 83](/us/states/tx/districts/house/83.md).
 
 ## Sources
 

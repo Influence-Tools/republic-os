@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 25"
+represents: "us/states/nj/districts/house/25"
 tenure:
   start: "2019-11-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aura Dunn
 
 Current NJ House District 25 (NJ State House of Representatives District 25).
+
+Represents [NJ State House of Representatives District 25](/us/states/nj/districts/house/25.md).
 
 ## Sources
 

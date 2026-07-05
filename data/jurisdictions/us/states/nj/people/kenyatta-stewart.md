@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 35"
+represents: "us/states/nj/districts/house/35"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kenyatta Stewart
 
 Current NJ House District 35 (NJ State House of Representatives District 35).
+
+Represents [NJ State House of Representatives District 35](/us/states/nj/districts/house/35.md).
 
 ## Sources
 

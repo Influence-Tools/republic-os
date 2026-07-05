@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 20"
+represents: "us/states/in/districts/house/20"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Pressel
 
 Current IN House District 20 (IN State House of Representatives District 20).
+
+Represents [IN State House of Representatives District 20](/us/states/in/districts/house/20.md).
 
 ## Sources
 

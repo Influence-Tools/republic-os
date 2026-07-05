@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 24"
+represents: "us/states/ga/districts/house/24"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carter Barrett
 
 Current GA House District 24 (GA State House of Representatives District 24).
+
+Represents [GA State House of Representatives District 24](/us/states/ga/districts/house/24.md).
 
 ## Sources
 

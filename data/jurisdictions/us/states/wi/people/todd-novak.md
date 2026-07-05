@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 51"
+represents: "us/states/wi/districts/house/51"
 tenure:
   start: "2015-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Novak
 
 Current WI House District 51 (WI State House of Representatives District 51).
+
+Represents [WI State House of Representatives District 51](/us/states/wi/districts/house/51.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-Orange-1"
+represents: "us/states/vt/districts/house/windsor-orange-1"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John O'Brien
 
 Current VT House District Windsor-Orange-1 (VT State House of Representatives District Windsor-Orange-1).
+
+Represents [VT State House of Representatives District Windsor-Orange-1](/us/states/vt/districts/house/windsor-orange-1.md).
 
 ## Sources
 

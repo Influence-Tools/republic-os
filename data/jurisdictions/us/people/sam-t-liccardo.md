@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 16"
+represents: "us/states/ca/districts/16"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Sam T. Liccardo
 
 Current U.S. House of Representatives - CA-16 (Congressional District 16).
+
+Represents [Congressional District 16](/us/states/ca/districts/16.md).
 
 ## Committees
 

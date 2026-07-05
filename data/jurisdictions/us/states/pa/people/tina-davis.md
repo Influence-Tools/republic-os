@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 141"
+represents: "us/states/pa/districts/house/141"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Davis
 
 Current PA House District 141 (PA State House of Representatives District 141).
+
+Represents [PA State House of Representatives District 141](/us/states/pa/districts/house/141.md).
 
 ## Sources
 

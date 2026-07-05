@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 105"
+represents: "us/states/ct/districts/house/105"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Klarides-Ditria
 
 Current CT House District 105 (CT State House of Representatives District 105).
+
+Represents [CT State House of Representatives District 105](/us/states/ct/districts/house/105.md).
 
 ## Sources
 

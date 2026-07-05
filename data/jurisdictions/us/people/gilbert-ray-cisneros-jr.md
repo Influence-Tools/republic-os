@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 31"
+represents: "us/states/ca/districts/31"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Gilbert Ray Cisneros, Jr.
 
 Current U.S. House of Representatives - CA-31 (Congressional District 31).
+
+Represents [Congressional District 31](/us/states/ca/districts/31.md).
 
 ## Committees
 

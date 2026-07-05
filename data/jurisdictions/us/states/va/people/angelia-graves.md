@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 21"
+represents: "us/states/va/districts/senate/21"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angelia Graves
 
 Current VA Senate District 21 (VA State Senate District 21).
+
+Represents [VA State Senate District 21](/us/states/va/districts/senate/21.md).
 
 ## Sources
 

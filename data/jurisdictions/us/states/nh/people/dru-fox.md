@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Cheshire 2"
+represents: "us/states/nh/districts/house/cheshire-2"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dru Fox
 
 Current NH House District Cheshire 2 (NH State House of Representatives District Cheshire 2).
+
+Represents [NH State House of Representatives District Cheshire 2](/us/states/nh/districts/house/cheshire-2.md).
 
 ## Sources
 

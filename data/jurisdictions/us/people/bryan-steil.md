@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 1"
+represents: "us/states/wi/districts/01"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Bryan Steil
 
 Current U.S. House of Representatives - WI-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/wi/districts/01.md).
 
 ## Committees
 

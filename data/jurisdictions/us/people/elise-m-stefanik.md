@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 21"
+represents: "us/states/ny/districts/21"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Elise M. Stefanik
 
 Current U.S. House of Representatives - NY-21 (Congressional District 21).
+
+Represents [Congressional District 21](/us/states/ny/districts/21.md).
 
 ## Committees
 

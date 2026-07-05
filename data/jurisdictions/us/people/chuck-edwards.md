@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 11"
+represents: "us/states/nc/districts/11"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Chuck Edwards
 
 Current U.S. House of Representatives - NC-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/nc/districts/11.md).
 
 ## Committees
 

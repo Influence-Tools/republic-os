@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 5"
+represents: "us/states/mt/districts/house/5"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Braxton Mitchell
 
 Current MT House District 5 (MT State House of Representatives District 5).
+
+Represents [MT State House of Representatives District 5](/us/states/mt/districts/house/5.md).
 
 ## Sources
 

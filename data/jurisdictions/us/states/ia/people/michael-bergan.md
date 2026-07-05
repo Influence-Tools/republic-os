@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 63"
+represents: "us/states/ia/districts/house/63"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Bergan
 
 Current IA House District 63 (IA State House of Representatives District 63).
+
+Represents [IA State House of Representatives District 63](/us/states/ia/districts/house/63.md).
 
 ## Sources
 

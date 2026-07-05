@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 19"
+represents: "us/states/ky/districts/senate/19"
 tenure:
   start: "2023-03-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cassie Armstrong
 
 Current KY Senate District 19 (KY State Senate District 19).
+
+Represents [KY State Senate District 19](/us/states/ky/districts/senate/19.md).
 
 ## Sources
 

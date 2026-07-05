@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 20A"
+represents: "us/states/id/districts/house/20a"
 tenure:
   start: "2008-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Palmer
 
 Current ID House District 20A (ID State House of Representatives District 20A).
+
+Represents [ID State House of Representatives District 20A](/us/states/id/districts/house/20a.md).
 
 ## Sources
 

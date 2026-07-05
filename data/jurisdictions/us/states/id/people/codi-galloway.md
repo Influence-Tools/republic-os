@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 15"
+represents: "us/states/id/districts/senate/15"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Codi Galloway
 
 Current ID Senate District 15 (ID State Senate District 15).
+
+Represents [ID State Senate District 15](/us/states/id/districts/senate/15.md).
 
 ## Sources
 

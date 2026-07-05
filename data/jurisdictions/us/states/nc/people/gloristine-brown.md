@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 8"
+represents: "us/states/nc/districts/house/8"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gloristine Brown
 
 Current NC House District 8 (NC State House of Representatives District 8).
+
+Represents [NC State House of Representatives District 8](/us/states/nc/districts/house/8.md).
 
 ## Sources
 

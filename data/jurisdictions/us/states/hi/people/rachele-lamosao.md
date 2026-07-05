@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 19"
+represents: "us/states/hi/districts/senate/19"
 tenure:
   start: "2025-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rachele Lamosao
 
 Current HI Senate District 19 (HI State Senate District 19).
+
+Represents [HI State Senate District 19](/us/states/hi/districts/senate/19.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 28"
+represents: "us/states/wi/districts/senate/28"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julian Bradley
 
 Current WI Senate District 28 (WI State Senate District 28).
+
+Represents [WI State Senate District 28](/us/states/wi/districts/senate/28.md).
 
 ## Sources
 

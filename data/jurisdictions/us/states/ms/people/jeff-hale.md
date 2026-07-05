@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 24"
+represents: "us/states/ms/districts/house/24"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Hale
 
 Current MS House District 24 (MS State House of Representatives District 24).
+
+Represents [MS State House of Representatives District 24](/us/states/ms/districts/house/24.md).
 
 ## Sources
 

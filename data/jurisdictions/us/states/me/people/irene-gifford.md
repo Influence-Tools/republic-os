@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 28"
+represents: "us/states/me/districts/house/28"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Irene Gifford
 
 Current ME House District 28 (ME State House of Representatives District 28).
+
+Represents [ME State House of Representatives District 28](/us/states/me/districts/house/28.md).
 
 ## Sources
 

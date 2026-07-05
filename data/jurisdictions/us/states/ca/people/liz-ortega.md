@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 20"
+represents: "us/states/ca/districts/house/20"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Ortega
 
 Current CA House District 20 (CA State House of Representatives District 20).
+
+Represents [CA State House of Representatives District 20](/us/states/ca/districts/house/20.md).
 
 ## Sources
 

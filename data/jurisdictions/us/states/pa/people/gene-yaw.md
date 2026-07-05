@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 23"
+represents: "us/states/pa/districts/senate/23"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gene Yaw
 
 Current PA Senate District 23 (PA State Senate District 23).
+
+Represents [PA State Senate District 23](/us/states/pa/districts/senate/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 76"
+represents: "us/states/ky/districts/house/76"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Donworth
 
 Current KY House District 76 (KY State House of Representatives District 76).
+
+Represents [KY State House of Representatives District 76](/us/states/ky/districts/house/76.md).
 
 ## Sources
 

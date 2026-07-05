@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CT"
 district: "Congressional District 1"
+represents: "us/states/ct/districts/01"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # John B. Larson
 
 Current U.S. House of Representatives - CT-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ct/districts/01.md).
 
 ## Committees
 

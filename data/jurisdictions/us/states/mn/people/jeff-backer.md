@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 9A"
+represents: "us/states/mn/districts/house/9a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Backer
 
 Current MN House District 9A (MN State House of Representatives District 9A).
+
+Represents [MN State House of Representatives District 9A](/us/states/mn/districts/house/9a.md).
 
 ## Sources
 

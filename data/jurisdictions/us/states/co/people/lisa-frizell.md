@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 2"
+represents: "us/states/co/districts/senate/2"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Frizell
 
 Current CO Senate District 2 (CO State Senate District 2).
+
+Represents [CO State Senate District 2](/us/states/co/districts/senate/2.md).
 
 ## Sources
 

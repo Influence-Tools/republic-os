@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 39"
+represents: "us/states/ok/districts/house/39"
 tenure:
   start: "2024-02-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erick Harris
 
 Current OK House District 39 (OK State House of Representatives District 39).
+
+Represents [OK State House of Representatives District 39](/us/states/ok/districts/house/39.md).
 
 ## Sources
 

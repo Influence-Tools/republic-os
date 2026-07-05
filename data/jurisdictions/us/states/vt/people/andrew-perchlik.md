@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Washington"
+represents: "us/states/vt/districts/senate/washington"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Perchlik
 
 Current VT Senate District Washington (VT State Senate District Washington).
+
+Represents [VT State Senate District Washington](/us/states/vt/districts/senate/washington.md).
 
 ## Sources
 

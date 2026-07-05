@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IN"
 district: "Congressional District 2"
+represents: "us/states/in/districts/02"
 committees:
   - name: "House Committee on Transportation and Infrastructure"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Rudy Yakym III
 
 Current U.S. House of Representatives - IN-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/in/districts/02.md).
 
 ## Committees
 

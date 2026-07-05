@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 83"
+represents: "us/states/il/districts/house/83"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Hanson
 
 Current IL House District 83 (IL State House of Representatives District 83).
+
+Represents [IL State House of Representatives District 83](/us/states/il/districts/house/83.md).
 
 ## Sources
 

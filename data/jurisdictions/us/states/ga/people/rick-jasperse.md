@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 11"
+represents: "us/states/ga/districts/house/11"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Jasperse
 
 Current GA House District 11 (GA State House of Representatives District 11).
+
+Represents [GA State House of Representatives District 11](/us/states/ga/districts/house/11.md).
 
 ## Sources
 

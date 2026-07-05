@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 24"
+represents: "us/states/ks/districts/senate/24"
 tenure:
   start: "2025-06-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Hill
 
 Current KS Senate District 24 (KS State Senate District 24).
+
+Represents [KS State Senate District 24](/us/states/ks/districts/senate/24.md).
 
 ## Sources
 

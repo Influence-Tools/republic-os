@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 17"
+represents: "us/states/ut/districts/house/17"
 tenure:
   start: "2011-09-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stewart Barlow
 
 Current UT House District 17 (UT State House of Representatives District 17).
+
+Represents [UT State House of Representatives District 17](/us/states/ut/districts/house/17.md).
 
 ## Sources
 

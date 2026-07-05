@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 30"
+represents: "us/states/wi/districts/senate/30"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Wall
 
 Current WI Senate District 30 (WI State Senate District 30).
+
+Represents [WI State Senate District 30](/us/states/wi/districts/senate/30.md).
 
 ## Sources
 

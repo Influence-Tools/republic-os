@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 114"
+represents: "us/states/me/districts/house/114"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dylan Pugh
 
 Current ME House District 114 (ME State House of Representatives District 114).
+
+Represents [ME State House of Representatives District 114](/us/states/me/districts/house/114.md).
 
 ## Sources
 

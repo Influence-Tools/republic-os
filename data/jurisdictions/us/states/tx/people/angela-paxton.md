@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 8"
+represents: "us/states/tx/districts/senate/8"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Paxton
 
 Current TX Senate District 8 (TX State Senate District 8).
+
+Represents [TX State Senate District 8](/us/states/tx/districts/senate/8.md).
 
 ## Sources
 

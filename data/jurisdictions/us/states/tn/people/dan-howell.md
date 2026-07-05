@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 22"
+represents: "us/states/tn/districts/house/22"
 tenure:
   start: "2014-08-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Howell
 
 Current TN House District 22 (TN State House of Representatives District 22).
+
+Represents [TN State House of Representatives District 22](/us/states/tn/districts/house/22.md).
 
 ## Sources
 

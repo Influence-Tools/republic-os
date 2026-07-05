@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 13"
+represents: "us/states/pa/districts/13"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # John Joyce
 
 Current U.S. House of Representatives - PA-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/pa/districts/13.md).
 
 ## Committees
 

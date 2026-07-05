@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 18"
+represents: "us/states/ar/districts/senate/18"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Dismang
 
 Current AR Senate District 18 (AR State Senate District 18).
+
+Represents [AR State Senate District 18](/us/states/ar/districts/senate/18.md).
 
 ## Sources
 

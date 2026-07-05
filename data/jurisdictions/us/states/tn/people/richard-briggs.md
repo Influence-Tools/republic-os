@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 7"
+represents: "us/states/tn/districts/senate/7"
 tenure:
   start: "2014-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Briggs
 
 Current TN Senate District 7 (TN State Senate District 7).
+
+Represents [TN State Senate District 7](/us/states/tn/districts/senate/7.md).
 
 ## Sources
 

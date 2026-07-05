@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 3"
+represents: "us/states/wy/districts/senate/3"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cheri Steinmetz
 
 Current WY Senate District 3 (WY State Senate District 3).
+
+Represents [WY State Senate District 3](/us/states/wy/districts/senate/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 24"
+represents: "us/states/nm/districts/senate/24"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Trujillo
 
 Current NM Senate District 24 (NM State Senate District 24).
+
+Represents [NM State Senate District 24](/us/states/nm/districts/senate/24.md).
 
 ## Sources
 

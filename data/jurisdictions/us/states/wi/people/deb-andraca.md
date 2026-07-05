@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 23"
+represents: "us/states/wi/districts/house/23"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deb Andraca
 
 Current WI House District 23 (WI State House of Representatives District 23).
+
+Represents [WI State House of Representatives District 23](/us/states/wi/districts/house/23.md).
 
 ## Sources
 

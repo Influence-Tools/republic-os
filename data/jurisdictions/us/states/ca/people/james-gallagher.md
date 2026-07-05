@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 3"
+represents: "us/states/ca/districts/house/3"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Gallagher
 
 Current CA House District 3 (CA State House of Representatives District 3).
+
+Represents [CA State House of Representatives District 3](/us/states/ca/districts/house/3.md).
 
 ## Sources
 

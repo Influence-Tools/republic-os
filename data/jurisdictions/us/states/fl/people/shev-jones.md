@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 34"
+represents: "us/states/fl/districts/senate/34"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shev Jones
 
 Current FL Senate District 34 (FL State Senate District 34).
+
+Represents [FL State Senate District 34](/us/states/fl/districts/senate/34.md).
 
 ## Sources
 

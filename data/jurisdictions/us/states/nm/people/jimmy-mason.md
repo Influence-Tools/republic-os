@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 66"
+represents: "us/states/nm/districts/house/66"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jimmy Mason
 
 Current NM House District 66 (NM State House of Representatives District 66).
+
+Represents [NM State House of Representatives District 66](/us/states/nm/districts/house/66.md).
 
 ## Sources
 

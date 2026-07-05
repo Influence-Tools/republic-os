@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 35"
+represents: "us/states/nd/districts/senate/35"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Cleary
 
 Current ND Senate District 35 (ND State Senate District 35).
+
+Represents [ND State Senate District 35](/us/states/nd/districts/senate/35.md).
 
 ## Sources
 

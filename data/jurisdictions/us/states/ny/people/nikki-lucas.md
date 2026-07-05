@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 60"
+represents: "us/states/ny/districts/house/60"
 tenure:
   start: "2022-02-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nikki Lucas
 
 Current NY House District 60 (NY State House of Representatives District 60).
+
+Represents [NY State House of Representatives District 60](/us/states/ny/districts/house/60.md).
 
 ## Sources
 

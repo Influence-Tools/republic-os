@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 3"
+represents: "us/states/nm/districts/house/3"
 tenure:
   start: "2024-04-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Hall
 
 Current NM House District 3 (NM State House of Representatives District 3).
+
+Represents [NM State House of Representatives District 3](/us/states/nm/districts/house/3.md).
 
 ## Sources
 

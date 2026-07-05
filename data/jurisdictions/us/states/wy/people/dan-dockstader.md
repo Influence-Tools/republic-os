@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 16"
+represents: "us/states/wy/districts/senate/16"
 tenure:
   start: "2009-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Dockstader
 
 Current WY Senate District 16 (WY State Senate District 16).
+
+Represents [WY State Senate District 16](/us/states/wy/districts/senate/16.md).
 
 ## Sources
 

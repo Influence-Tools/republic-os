@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 35"
+represents: "us/states/al/districts/house/35"
 tenure:
   start: "1998-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Hurst
 
 Current AL House District 35 (AL State House of Representatives District 35).
+
+Represents [AL State House of Representatives District 35](/us/states/al/districts/house/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 67"
+represents: "us/states/mo/districts/house/67"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tonya Rush
 
 Current MO House District 67 (MO State House of Representatives District 67).
+
+Represents [MO State House of Representatives District 67](/us/states/mo/districts/house/67.md).
 
 ## Sources
 

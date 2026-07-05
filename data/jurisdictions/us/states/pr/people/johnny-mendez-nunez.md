@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 36"
+represents: "us/states/pr/districts/house/36"
 tenure:
   start: "2005-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny Méndez Núñez
 
 Current PR House District 36 (PR State House of Representatives District 36).
+
+Represents [PR State House of Representatives District 36](/us/states/pr/districts/house/36.md).
 
 ## Sources
 

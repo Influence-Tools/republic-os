@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 11"
+represents: "us/states/tx/districts/house/11"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joanne Shofner
 
 Current TX House District 11 (TX State House of Representatives District 11).
+
+Represents [TX State House of Representatives District 11](/us/states/tx/districts/house/11.md).
 
 ## Sources
 

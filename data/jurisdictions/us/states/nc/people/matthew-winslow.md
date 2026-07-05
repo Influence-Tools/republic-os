@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 7"
+represents: "us/states/nc/districts/house/7"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthew Winslow
 
 Current NC House District 7 (NC State House of Representatives District 7).
+
+Represents [NC State House of Representatives District 7](/us/states/nc/districts/house/7.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 178"
+represents: "us/states/ga/districts/house/178"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steven Meeks
 
 Current GA House District 178 (GA State House of Representatives District 178).
+
+Represents [GA State House of Representatives District 178](/us/states/ga/districts/house/178.md).
 
 ## Sources
 

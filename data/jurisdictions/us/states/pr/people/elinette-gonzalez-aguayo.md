@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 11"
+represents: "us/states/pr/districts/house/11"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elinette González Aguayo
 
 Current PR House District 11 (PR State House of Representatives District 11).
+
+Represents [PR State House of Representatives District 11](/us/states/pr/districts/house/11.md).
 
 ## Sources
 

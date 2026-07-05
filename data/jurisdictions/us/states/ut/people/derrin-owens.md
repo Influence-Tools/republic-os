@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 27"
+represents: "us/states/ut/districts/senate/27"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derrin Owens
 
 Current UT Senate District 27 (UT State Senate District 27).
+
+Represents [UT State Senate District 27](/us/states/ut/districts/senate/27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Caledonia-3"
+represents: "us/states/vt/districts/house/caledonia-3"
 tenure:
   start: "2024-03-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Quimby
 
 Current VT House District Caledonia-3 (VT State House of Representatives District Caledonia-3).
+
+Represents [VT State House of Representatives District Caledonia-3](/us/states/vt/districts/house/caledonia-3.md).
 
 ## Sources
 

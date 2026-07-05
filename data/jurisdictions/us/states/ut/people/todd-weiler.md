@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 8"
+represents: "us/states/ut/districts/senate/8"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Weiler
 
 Current UT Senate District 8 (UT State Senate District 8).
+
+Represents [UT State Senate District 8](/us/states/ut/districts/senate/8.md).
 
 ## Sources
 

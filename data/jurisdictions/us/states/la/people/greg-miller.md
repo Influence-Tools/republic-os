@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 19"
+represents: "us/states/la/districts/senate/19"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Miller
 
 Current LA Senate District 19 (LA State Senate District 19).
+
+Represents [LA State Senate District 19](/us/states/la/districts/senate/19.md).
 
 ## Sources
 

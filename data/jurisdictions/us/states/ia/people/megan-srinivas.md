@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 30"
+represents: "us/states/ia/districts/house/30"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Megan Srinivas
 
 Current IA House District 30 (IA State House of Representatives District 30).
+
+Represents [IA State House of Representatives District 30](/us/states/ia/districts/house/30.md).
 
 ## Sources
 

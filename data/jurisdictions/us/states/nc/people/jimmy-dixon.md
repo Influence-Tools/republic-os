@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 4"
+represents: "us/states/nc/districts/house/4"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jimmy Dixon
 
 Current NC House District 4 (NC State House of Representatives District 4).
+
+Represents [NC State House of Representatives District 4](/us/states/nc/districts/house/4.md).
 
 ## Sources
 

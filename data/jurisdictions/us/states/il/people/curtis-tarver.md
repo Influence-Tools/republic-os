@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 25"
+represents: "us/states/il/districts/house/25"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Curtis Tarver
 
 Current IL House District 25 (IL State House of Representatives District 25).
+
+Represents [IL State House of Representatives District 25](/us/states/il/districts/house/25.md).
 
 ## Sources
 

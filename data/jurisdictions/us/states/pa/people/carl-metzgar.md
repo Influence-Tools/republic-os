@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 69"
+represents: "us/states/pa/districts/house/69"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Metzgar
 
 Current PA House District 69 (PA State House of Representatives District 69).
+
+Represents [PA State House of Representatives District 69](/us/states/pa/districts/house/69.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 9"
+represents: "us/states/in/districts/senate/9"
 tenure:
   start: "2004-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Mishler
 
 Current IN Senate District 9 (IN State Senate District 9).
+
+Represents [IN State Senate District 9](/us/states/in/districts/senate/9.md).
 
 ## Sources
 

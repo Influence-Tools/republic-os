@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 10"
+represents: "us/states/co/districts/senate/10"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Liston
 
 Current CO Senate District 10 (CO State Senate District 10).
+
+Represents [CO State Senate District 10](/us/states/co/districts/senate/10.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 99"
+represents: "us/states/mi/districts/house/99"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Hoadley
 
 Current MI House District 99 (MI State House of Representatives District 99).
+
+Represents [MI State House of Representatives District 99](/us/states/mi/districts/house/99.md).
 
 ## Sources
 

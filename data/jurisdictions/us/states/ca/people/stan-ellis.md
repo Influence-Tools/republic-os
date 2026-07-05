@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 32"
+represents: "us/states/ca/districts/house/32"
 tenure:
   start: "2025-03-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stan Ellis
 
 Current CA House District 32 (CA State House of Representatives District 32).
+
+Represents [CA State House of Representatives District 32](/us/states/ca/districts/house/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windham-4"
+represents: "us/states/vt/districts/house/windham-4"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Mrowicki
 
 Current VT House District Windham-4 (VT State House of Representatives District Windham-4).
+
+Represents [VT State House of Representatives District Windham-4](/us/states/vt/districts/house/windham-4.md).
 
 ## Sources
 

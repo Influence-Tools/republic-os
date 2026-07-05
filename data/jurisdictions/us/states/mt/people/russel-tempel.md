@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 14"
+represents: "us/states/mt/districts/senate/14"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russel Tempel
 
 Current MT Senate District 14 (MT State Senate District 14).
+
+Represents [MT State Senate District 14](/us/states/mt/districts/senate/14.md).
 
 ## Sources
 

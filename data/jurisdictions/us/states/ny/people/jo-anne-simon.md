@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 52"
+represents: "us/states/ny/districts/house/52"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jo Anne Simon
 
 Current NY House District 52 (NY State House of Representatives District 52).
+
+Represents [NY State House of Representatives District 52](/us/states/ny/districts/house/52.md).
 
 ## Sources
 

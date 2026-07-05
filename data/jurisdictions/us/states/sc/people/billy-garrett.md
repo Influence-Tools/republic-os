@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 10"
+represents: "us/states/sc/districts/senate/10"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy Garrett
 
 Current SC Senate District 10 (SC State Senate District 10).
+
+Represents [SC State Senate District 10](/us/states/sc/districts/senate/10.md).
 
 ## Sources
 

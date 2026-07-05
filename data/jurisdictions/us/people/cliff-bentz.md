@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OR"
 district: "Congressional District 2"
+represents: "us/states/or/districts/02"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Cliff Bentz
 
 Current U.S. House of Representatives - OR-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/or/districts/02.md).
 
 ## Committees
 

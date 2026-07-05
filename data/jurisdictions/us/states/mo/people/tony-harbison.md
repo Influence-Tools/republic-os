@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 144"
+represents: "us/states/mo/districts/house/144"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Harbison
 
 Current MO House District 144 (MO State House of Representatives District 144).
+
+Represents [MO State House of Representatives District 144](/us/states/mo/districts/house/144.md).
 
 ## Sources
 

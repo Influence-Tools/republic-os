@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 77"
+represents: "us/states/ny/districts/house/77"
 tenure:
   start: "2024-02-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Landon Dais
 
 Current NY House District 77 (NY State House of Representatives District 77).
+
+Represents [NY State House of Representatives District 77](/us/states/ny/districts/house/77.md).
 
 ## Sources
 

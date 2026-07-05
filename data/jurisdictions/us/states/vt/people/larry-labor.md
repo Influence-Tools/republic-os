@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Essex-Orleans"
+represents: "us/states/vt/districts/house/essex-orleans"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Labor
 
 Current VT House District Essex-Orleans (VT State House of Representatives District Essex-Orleans).
+
+Represents [VT State House of Representatives District Essex-Orleans](/us/states/vt/districts/house/essex-orleans.md).
 
 ## Sources
 

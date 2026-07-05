@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 53"
+represents: "us/states/ga/districts/senate/53"
 tenure:
   start: "2026-04-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lanny Thomas
 
 Current GA Senate District 53 (GA State Senate District 53).
+
+Represents [GA State Senate District 53](/us/states/ga/districts/senate/53.md).
 
 ## Sources
 

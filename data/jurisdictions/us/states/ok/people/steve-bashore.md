@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 7"
+represents: "us/states/ok/districts/house/7"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Bashore
 
 Current OK House District 7 (OK State House of Representatives District 7).
+
+Represents [OK State House of Representatives District 7](/us/states/ok/districts/house/7.md).
 
 ## Sources
 

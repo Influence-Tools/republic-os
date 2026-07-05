@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 22"
+represents: "us/states/ga/districts/senate/22"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harold Jones
 
 Current GA Senate District 22 (GA State Senate District 22).
+
+Represents [GA State Senate District 22](/us/states/ga/districts/senate/22.md).
 
 ## Sources
 

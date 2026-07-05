@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 27"
+represents: "us/states/ca/districts/27"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # George Whitesides
 
 Current U.S. House of Representatives - CA-27 (Congressional District 27).
+
+Represents [Congressional District 27](/us/states/ca/districts/27.md).
 
 ## Committees
 

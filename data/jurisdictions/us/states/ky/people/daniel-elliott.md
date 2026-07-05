@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 54"
+represents: "us/states/ky/districts/house/54"
 tenure:
   start: "2016-03-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Elliott
 
 Current KY House District 54 (KY State House of Representatives District 54).
+
+Represents [KY State House of Representatives District 54](/us/states/ky/districts/house/54.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 28"
+represents: "us/states/me/districts/senate/28"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rachel Talbot Ross
 
 Current ME Senate District 28 (ME State Senate District 28).
+
+Represents [ME State Senate District 28](/us/states/me/districts/senate/28.md).
 
 ## Sources
 

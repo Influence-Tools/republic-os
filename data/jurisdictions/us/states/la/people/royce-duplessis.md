@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 5"
+represents: "us/states/la/districts/senate/5"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Royce Duplessis
 
 Current LA Senate District 5 (LA State Senate District 5).
+
+Represents [LA State Senate District 5](/us/states/la/districts/senate/5.md).
 
 ## Sources
 

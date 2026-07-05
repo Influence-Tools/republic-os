@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 10"
+represents: "us/states/ny/districts/house/10"
 tenure:
   start: "2018-04-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Stern
 
 Current NY House District 10 (NY State House of Representatives District 10).
+
+Represents [NY State House of Representatives District 10](/us/states/ny/districts/house/10.md).
 
 ## Sources
 

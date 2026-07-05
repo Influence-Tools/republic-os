@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 15"
+represents: "us/states/in/districts/senate/15"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Brown
 
 Current IN Senate District 15 (IN State Senate District 15).
+
+Represents [IN State Senate District 15](/us/states/in/districts/senate/15.md).
 
 ## Sources
 

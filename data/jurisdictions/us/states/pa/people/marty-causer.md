@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 67"
+represents: "us/states/pa/districts/house/67"
 tenure:
   start: "2003-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Causer
 
 Current PA House District 67 (PA State House of Representatives District 67).
+
+Represents [PA State House of Representatives District 67](/us/states/pa/districts/house/67.md).
 
 ## Sources
 

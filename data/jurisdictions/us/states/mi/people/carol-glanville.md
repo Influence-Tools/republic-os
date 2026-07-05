@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 84"
+represents: "us/states/mi/districts/house/84"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Glanville
 
 Current MI House District 84 (MI State House of Representatives District 84).
+
+Represents [MI State House of Representatives District 84](/us/states/mi/districts/house/84.md).
 
 ## Sources
 

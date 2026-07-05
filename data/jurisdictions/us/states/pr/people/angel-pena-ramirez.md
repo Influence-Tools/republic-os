@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 33"
+represents: "us/states/pr/districts/house/33"
 tenure:
   start: "2009-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ángel Peña Ramírez
 
 Current PR House District 33 (PR State House of Representatives District 33).
+
+Represents [PR State House of Representatives District 33](/us/states/pr/districts/house/33.md).
 
 ## Sources
 

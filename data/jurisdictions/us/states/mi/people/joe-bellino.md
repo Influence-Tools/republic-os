@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 16"
+represents: "us/states/mi/districts/senate/16"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Bellino
 
 Current MI Senate District 16 (MI State Senate District 16).
+
+Represents [MI State Senate District 16](/us/states/mi/districts/senate/16.md).
 
 ## Sources
 

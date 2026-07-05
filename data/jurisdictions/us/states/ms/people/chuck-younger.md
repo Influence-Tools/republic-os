@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 17"
+represents: "us/states/ms/districts/senate/17"
 tenure:
   start: "2014-11-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Younger
 
 Current MS Senate District 17 (MS State Senate District 17).
+
+Represents [MS State Senate District 17](/us/states/ms/districts/senate/17.md).
 
 ## Sources
 

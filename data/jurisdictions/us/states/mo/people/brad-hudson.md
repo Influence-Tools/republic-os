@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 33"
+represents: "us/states/mo/districts/senate/33"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Hudson
 
 Current MO Senate District 33 (MO State Senate District 33).
+
+Represents [MO State Senate District 33](/us/states/mo/districts/senate/33.md).
 
 ## Sources
 

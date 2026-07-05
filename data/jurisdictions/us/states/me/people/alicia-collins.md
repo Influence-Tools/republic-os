@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 61"
+represents: "us/states/me/districts/house/61"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alicia Collins
 
 Current ME House District 61 (ME State House of Representatives District 61).
+
+Represents [ME State House of Representatives District 61](/us/states/me/districts/house/61.md).
 
 ## Sources
 

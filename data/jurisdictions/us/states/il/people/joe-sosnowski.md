@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 69"
+represents: "us/states/il/districts/house/69"
 tenure:
   start: "2011-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Sosnowski
 
 Current IL House District 69 (IL State House of Representatives District 69).
+
+Represents [IL State House of Representatives District 69](/us/states/il/districts/house/69.md).
 
 ## Sources
 

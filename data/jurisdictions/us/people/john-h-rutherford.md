@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 5"
+represents: "us/states/fl/districts/05"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # John H. Rutherford
 
 Current U.S. House of Representatives - FL-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/fl/districts/05.md).
 
 ## Committees
 

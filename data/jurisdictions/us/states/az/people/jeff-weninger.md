@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 13"
+represents: "us/states/az/districts/house/13"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Weninger
 
 Current AZ House District 13 (AZ State House of Representatives District 13).
+
+Represents [AZ State House of Representatives District 13](/us/states/az/districts/house/13.md).
 
 ## Sources
 

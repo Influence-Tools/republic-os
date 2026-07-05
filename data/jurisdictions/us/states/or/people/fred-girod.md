@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 9"
+represents: "us/states/or/districts/senate/9"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fred Girod
 
 Current OR Senate District 9 (OR State Senate District 9).
+
+Represents [OR State Senate District 9](/us/states/or/districts/senate/9.md).
 
 ## Sources
 

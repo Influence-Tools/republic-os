@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 116"
+represents: "us/states/sc/districts/house/116"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Teeple
 
 Current SC House District 116 (SC State House of Representatives District 116).
+
+Represents [SC State House of Representatives District 116](/us/states/sc/districts/house/116.md).
 
 ## Sources
 

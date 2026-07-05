@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 57"
+represents: "us/states/va/districts/house/57"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # May Nivar
 
 Current VA House District 57 (VA State House of Representatives District 57).
+
+Represents [VA State House of Representatives District 57](/us/states/va/districts/house/57.md).
 
 ## Sources
 

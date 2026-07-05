@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 98"
+represents: "us/states/oh/districts/house/98"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Hiner
 
 Current OH House District 98 (OH State House of Representatives District 98).
+
+Represents [OH State House of Representatives District 98](/us/states/oh/districts/house/98.md).
 
 ## Sources
 

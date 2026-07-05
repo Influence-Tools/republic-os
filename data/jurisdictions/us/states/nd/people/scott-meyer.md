@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 18"
+represents: "us/states/nd/districts/senate/18"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Meyer
 
 Current ND Senate District 18 (ND State Senate District 18).
+
+Represents [ND State Senate District 18](/us/states/nd/districts/senate/18.md).
 
 ## Sources
 

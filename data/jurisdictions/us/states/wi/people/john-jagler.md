@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 13"
+represents: "us/states/wi/districts/senate/13"
 tenure:
   start: "2021-04-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Jagler
 
 Current WI Senate District 13 (WI State Senate District 13).
+
+Represents [WI State Senate District 13](/us/states/wi/districts/senate/13.md).
 
 ## Sources
 

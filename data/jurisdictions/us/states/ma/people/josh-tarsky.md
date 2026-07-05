@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 13th Norfolk"
+represents: "us/states/ma/districts/house/13th-norfolk"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Tarsky
 
 Current MA House District 13th Norfolk (MA State House of Representatives District 13th Norfolk).
+
+Represents [MA State House of Representatives District 13th Norfolk](/us/states/ma/districts/house/13th-norfolk.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 52"
+represents: "us/states/in/districts/house/52"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Smaltz
 
 Current IN House District 52 (IN State House of Representatives District 52).
+
+Represents [IN State House of Representatives District 52](/us/states/in/districts/house/52.md).
 
 ## Sources
 

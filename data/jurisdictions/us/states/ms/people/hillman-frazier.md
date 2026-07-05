@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 27"
+represents: "us/states/ms/districts/senate/27"
 tenure:
   start: "1993-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hillman Frazier
 
 Current MS Senate District 27 (MS State Senate District 27).
+
+Represents [MS State Senate District 27](/us/states/ms/districts/senate/27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 19"
+represents: "us/states/de/districts/senate/19"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Pettyjohn
 
 Current DE Senate District 19 (DE State Senate District 19).
+
+Represents [DE State Senate District 19](/us/states/de/districts/senate/19.md).
 
 ## Sources
 

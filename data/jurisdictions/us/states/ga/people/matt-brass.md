@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 6"
+represents: "us/states/ga/districts/senate/6"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Brass
 
 Current GA Senate District 6 (GA State Senate District 6).
+
+Represents [GA State Senate District 6](/us/states/ga/districts/senate/6.md).
 
 ## Sources
 

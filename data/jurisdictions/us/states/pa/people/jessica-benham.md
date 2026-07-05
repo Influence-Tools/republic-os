@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 36"
+represents: "us/states/pa/districts/house/36"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica Benham
 
 Current PA House District 36 (PA State House of Representatives District 36).
+
+Represents [PA State House of Representatives District 36](/us/states/pa/districts/house/36.md).
 
 ## Sources
 

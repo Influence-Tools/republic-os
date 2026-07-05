@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 24"
+represents: "us/states/tx/districts/senate/24"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pete Flores
 
 Current TX Senate District 24 (TX State Senate District 24).
+
+Represents [TX State Senate District 24](/us/states/tx/districts/senate/24.md).
 
 ## Sources
 

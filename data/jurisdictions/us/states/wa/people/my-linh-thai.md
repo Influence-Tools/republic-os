@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 41"
+represents: "us/states/wa/districts/house/41"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # My-Linh Thai
 
 Current WA House District 41 (WA State House of Representatives District 41).
+
+Represents [WA State House of Representatives District 41](/us/states/wa/districts/house/41.md).
 
 ## Sources
 

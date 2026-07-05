@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 50"
+represents: "us/states/pa/districts/senate/50"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michele Brooks
 
 Current PA Senate District 50 (PA State Senate District 50).
+
+Represents [PA State Senate District 50](/us/states/pa/districts/senate/50.md).
 
 ## Sources
 

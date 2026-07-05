@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 52"
+represents: "us/states/tx/districts/house/52"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Caroline Harris Davila
 
 Current TX House District 52 (TX State House of Representatives District 52).
+
+Represents [TX State House of Representatives District 52](/us/states/tx/districts/house/52.md).
 
 ## Sources
 

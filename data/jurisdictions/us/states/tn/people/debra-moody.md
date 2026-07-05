@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 81"
+represents: "us/states/tn/districts/house/81"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Debra Moody
 
 Current TN House District 81 (TN State House of Representatives District 81).
+
+Represents [TN State House of Representatives District 81](/us/states/tn/districts/house/81.md).
 
 ## Sources
 

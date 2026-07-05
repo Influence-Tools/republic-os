@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 28"
+represents: "us/states/ky/districts/house/28"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Bauman
 
 Current KY House District 28 (KY State House of Representatives District 28).
+
+Represents [KY State House of Representatives District 28](/us/states/ky/districts/house/28.md).
 
 ## Sources
 

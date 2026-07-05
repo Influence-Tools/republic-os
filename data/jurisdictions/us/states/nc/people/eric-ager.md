@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 114"
+represents: "us/states/nc/districts/house/114"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Ager
 
 Current NC House District 114 (NC State House of Representatives District 114).
+
+Represents [NC State House of Representatives District 114](/us/states/nc/districts/house/114.md).
 
 ## Sources
 

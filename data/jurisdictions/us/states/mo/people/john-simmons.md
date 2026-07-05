@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 109"
+represents: "us/states/mo/districts/house/109"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Simmons
 
 Current MO House District 109 (MO State House of Representatives District 109).
+
+Represents [MO State House of Representatives District 109](/us/states/mo/districts/house/109.md).
 
 ## Sources
 

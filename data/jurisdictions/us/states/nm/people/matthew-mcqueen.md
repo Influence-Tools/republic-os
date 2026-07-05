@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 50"
+represents: "us/states/nm/districts/house/50"
 tenure:
   start: "2015-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthew McQueen
 
 Current NM House District 50 (NM State House of Representatives District 50).
+
+Represents [NM State House of Representatives District 50](/us/states/nm/districts/house/50.md).
 
 ## Sources
 

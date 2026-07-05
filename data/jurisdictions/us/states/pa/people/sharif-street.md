@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 3"
+represents: "us/states/pa/districts/senate/3"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharif Street
 
 Current PA Senate District 3 (PA State Senate District 3).
+
+Represents [PA State Senate District 3](/us/states/pa/districts/senate/3.md).
 
 ## Sources
 

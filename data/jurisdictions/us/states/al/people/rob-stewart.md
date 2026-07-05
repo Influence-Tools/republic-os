@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 23"
+represents: "us/states/al/districts/senate/23"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Stewart
 
 Current AL Senate District 23 (AL State Senate District 23).
+
+Represents [AL State Senate District 23](/us/states/al/districts/senate/23.md).
 
 ## Sources
 

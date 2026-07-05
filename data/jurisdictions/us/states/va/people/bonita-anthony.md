@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 92"
+represents: "us/states/va/districts/house/92"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bonita Anthony
 
 Current VA House District 92 (VA State House of Representatives District 92).
+
+Represents [VA State House of Representatives District 92](/us/states/va/districts/house/92.md).
 
 ## Sources
 

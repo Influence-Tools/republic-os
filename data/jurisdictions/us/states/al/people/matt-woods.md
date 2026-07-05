@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 5"
+represents: "us/states/al/districts/senate/5"
 tenure:
   start: "2025-06-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Woods
 
 Current AL Senate District 5 (AL State Senate District 5).
+
+Represents [AL State Senate District 5](/us/states/al/districts/senate/5.md).
 
 ## Sources
 

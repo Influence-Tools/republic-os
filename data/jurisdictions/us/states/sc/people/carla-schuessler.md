@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 61"
+represents: "us/states/sc/districts/house/61"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carla Schuessler
 
 Current SC House District 61 (SC State House of Representatives District 61).
+
+Represents [SC State House of Representatives District 61](/us/states/sc/districts/house/61.md).
 
 ## Sources
 

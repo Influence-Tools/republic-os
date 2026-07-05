@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 14"
+represents: "us/states/sc/districts/senate/14"
 tenure:
   start: "1980-11-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harvey Peeler
 
 Current SC Senate District 14 (SC State Senate District 14).
+
+Represents [SC State Senate District 14](/us/states/sc/districts/senate/14.md).
 
 ## Sources
 

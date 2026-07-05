@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 32"
+represents: "us/states/me/districts/senate/32"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Henry Ingwersen
 
 Current ME Senate District 32 (ME State Senate District 32).
+
+Represents [ME State Senate District 32](/us/states/me/districts/senate/32.md).
 
 ## Sources
 

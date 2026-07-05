@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 59"
+represents: "us/states/la/districts/house/59"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Bacala
 
 Current LA House District 59 (LA State House of Representatives District 59).
+
+Represents [LA State House of Representatives District 59](/us/states/la/districts/house/59.md).
 
 ## Sources
 

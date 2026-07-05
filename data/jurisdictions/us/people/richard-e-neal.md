@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 1"
+represents: "us/states/ma/districts/01"
 committees:
   - name: "House Committee on Ways and Means"
     role: "ranking-member"
@@ -43,6 +44,8 @@ timestamp: "2026-07-04"
 # Richard E. Neal
 
 Current U.S. House of Representatives - MA-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ma/districts/01.md).
 
 ## Committees
 

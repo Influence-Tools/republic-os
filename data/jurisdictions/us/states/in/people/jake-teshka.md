@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 7"
+represents: "us/states/in/districts/house/7"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Teshka
 
 Current IN House District 7 (IN State House of Representatives District 7).
+
+Represents [IN State House of Representatives District 7](/us/states/in/districts/house/7.md).
 
 ## Sources
 

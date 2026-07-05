@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 46"
+represents: "us/states/ny/districts/senate/46"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Fahy
 
 Current NY Senate District 46 (NY State Senate District 46).
+
+Represents [NY State Senate District 46](/us/states/ny/districts/senate/46.md).
 
 ## Sources
 

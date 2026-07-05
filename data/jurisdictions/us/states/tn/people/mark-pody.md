@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 17"
+represents: "us/states/tn/districts/senate/17"
 tenure:
   start: "2017-12-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Pody
 
 Current TN Senate District 17 (TN State Senate District 17).
+
+Represents [TN State Senate District 17](/us/states/tn/districts/senate/17.md).
 
 ## Sources
 

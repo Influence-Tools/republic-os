@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 62B"
+represents: "us/states/mn/districts/house/62b"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anquam Mahamoud
 
 Current MN House District 62B (MN State House of Representatives District 62B).
+
+Represents [MN State House of Representatives District 62B](/us/states/mn/districts/house/62b.md).
 
 ## Sources
 

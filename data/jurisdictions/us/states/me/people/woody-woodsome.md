@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 139"
+represents: "us/states/me/districts/house/139"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Woody Woodsome
 
 Current ME House District 139 (ME State House of Representatives District 139).
+
+Represents [ME State House of Representatives District 139](/us/states/me/districts/house/139.md).
 
 ## Sources
 

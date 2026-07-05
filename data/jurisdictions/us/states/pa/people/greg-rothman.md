@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 34"
+represents: "us/states/pa/districts/senate/34"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Rothman
 
 Current PA Senate District 34 (PA State Senate District 34).
+
+Represents [PA State Senate District 34](/us/states/pa/districts/senate/34.md).
 
 ## Sources
 

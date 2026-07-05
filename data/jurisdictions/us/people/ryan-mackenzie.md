@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 7"
+represents: "us/states/pa/districts/07"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -67,6 +68,8 @@ timestamp: "2026-07-04"
 # Ryan Mackenzie
 
 Current U.S. House of Representatives - PA-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/pa/districts/07.md).
 
 ## Committees
 

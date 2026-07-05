@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 73"
+represents: "us/states/fl/districts/house/73"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fiona McFarland
 
 Current FL House District 73 (FL State House of Representatives District 73).
+
+Represents [FL State House of Representatives District 73](/us/states/fl/districts/house/73.md).
 
 ## Sources
 

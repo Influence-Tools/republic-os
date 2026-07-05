@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 87"
+represents: "us/states/me/districts/house/87"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Boyer
 
 Current ME House District 87 (ME State House of Representatives District 87).
+
+Represents [ME State House of Representatives District 87](/us/states/me/districts/house/87.md).
 
 ## Sources
 

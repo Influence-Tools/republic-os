@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 70"
+represents: "us/states/in/districts/house/70"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Engleman
 
 Current IN House District 70 (IN State House of Representatives District 70).
+
+Represents [IN State House of Representatives District 70](/us/states/in/districts/house/70.md).
 
 ## Sources
 

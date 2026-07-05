@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 11"
+represents: "us/states/wi/districts/senate/11"
 tenure:
   start: "2015-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Nass
 
 Current WI Senate District 11 (WI State Senate District 11).
+
+Represents [WI State Senate District 11](/us/states/wi/districts/senate/11.md).
 
 ## Sources
 

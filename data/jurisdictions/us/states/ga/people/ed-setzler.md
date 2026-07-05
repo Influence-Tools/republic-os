@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 37"
+represents: "us/states/ga/districts/senate/37"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Setzler
 
 Current GA Senate District 37 (GA State Senate District 37).
+
+Represents [GA State Senate District 37](/us/states/ga/districts/senate/37.md).
 
 ## Sources
 

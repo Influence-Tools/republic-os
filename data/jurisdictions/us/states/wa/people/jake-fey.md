@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 27"
+represents: "us/states/wa/districts/house/27"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Fey
 
 Current WA House District 27 (WA State House of Representatives District 27).
+
+Represents [WA State House of Representatives District 27](/us/states/wa/districts/house/27.md).
 
 ## Sources
 

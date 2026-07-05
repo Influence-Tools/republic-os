@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 33"
+represents: "us/states/wi/districts/senate/33"
 tenure:
   start: "2015-08-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Kapenga
 
 Current WI Senate District 33 (WI State Senate District 33).
+
+Represents [WI State Senate District 33](/us/states/wi/districts/senate/33.md).
 
 ## Sources
 

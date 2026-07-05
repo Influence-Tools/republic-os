@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Orleans-Lamoille"
+represents: "us/states/vt/districts/house/orleans-lamoille"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Higley
 
 Current VT House District Orleans-Lamoille (VT State House of Representatives District Orleans-Lamoille).
+
+Represents [VT State House of Representatives District Orleans-Lamoille](/us/states/vt/districts/house/orleans-lamoille.md).
 
 ## Sources
 

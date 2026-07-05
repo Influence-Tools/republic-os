@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "VA"
 district: "Congressional District 6"
+represents: "us/states/va/districts/06"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -67,6 +68,8 @@ timestamp: "2026-07-04"
 # Ben Cline
 
 Current U.S. House of Representatives - VA-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/va/districts/06.md).
 
 ## Committees
 

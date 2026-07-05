@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 1A"
+represents: "us/states/md/districts/house/1a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Hinebaugh
 
 Current MD House District 1A (MD State House of Representatives District 1A).
+
+Represents [MD State House of Representatives District 1A](/us/states/md/districts/house/1a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 34"
+represents: "us/states/ks/districts/senate/34"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Murphy
 
 Current KS Senate District 34 (KS State Senate District 34).
+
+Represents [KS State Senate District 34](/us/states/ks/districts/senate/34.md).
 
 ## Sources
 

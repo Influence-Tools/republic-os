@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 16"
+represents: "us/states/nh/districts/house/grafton-16"
 tenure:
   start: "2023-09-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Fracht
 
 Current NH House District Grafton 16 (NH State House of Representatives District Grafton 16).
+
+Represents [NH State House of Representatives District Grafton 16](/us/states/nh/districts/house/grafton-16.md).
 
 ## Sources
 

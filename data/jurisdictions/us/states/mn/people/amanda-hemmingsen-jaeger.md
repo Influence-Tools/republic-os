@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 47"
+represents: "us/states/mn/districts/senate/47"
 tenure:
   start: "2025-11-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amanda Hemmingsen-Jaeger
 
 Current MN Senate District 47 (MN State Senate District 47).
+
+Represents [MN State Senate District 47](/us/states/mn/districts/senate/47.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 72"
+represents: "us/states/nc/districts/house/72"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amber Baker
 
 Current NC House District 72 (NC State House of Representatives District 72).
+
+Represents [NC State House of Representatives District 72](/us/states/nc/districts/house/72.md).
 
 ## Sources
 

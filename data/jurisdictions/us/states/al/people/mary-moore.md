@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 59"
+represents: "us/states/al/districts/house/59"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Moore
 
 Current AL House District 59 (AL State House of Representatives District 59).
+
+Represents [AL State House of Representatives District 59](/us/states/al/districts/house/59.md).
 
 ## Sources
 

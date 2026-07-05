@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 198"
+represents: "us/states/pa/districts/house/198"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darisha Parker
 
 Current PA House District 198 (PA State House of Representatives District 198).
+
+Represents [PA State House of Representatives District 198](/us/states/pa/districts/house/198.md).
 
 ## Sources
 

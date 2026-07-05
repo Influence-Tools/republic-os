@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Third Middlesex"
+represents: "us/states/ma/districts/senate/third-middlesex"
 tenure:
   start: "2013-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Barrett
 
 Current MA Senate District Third Middlesex (MA State Senate District Third Middlesex).
+
+Represents [MA State Senate District Third Middlesex](/us/states/ma/districts/senate/third-middlesex.md).
 
 ## Sources
 

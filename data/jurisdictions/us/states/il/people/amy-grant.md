@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 47"
+represents: "us/states/il/districts/house/47"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Grant
 
 Current IL House District 47 (IL State House of Representatives District 47).
+
+Represents [IL State House of Representatives District 47](/us/states/il/districts/house/47.md).
 
 ## Sources
 

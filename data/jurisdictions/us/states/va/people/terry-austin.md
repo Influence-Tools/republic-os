@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 37"
+represents: "us/states/va/districts/house/37"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Austin
 
 Current VA House District 37 (VA State House of Representatives District 37).
+
+Represents [VA State House of Representatives District 37](/us/states/va/districts/house/37.md).
 
 ## Sources
 

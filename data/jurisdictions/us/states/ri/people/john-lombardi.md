@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 8"
+represents: "us/states/ri/districts/house/8"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lombardi
 
 Current RI House District 8 (RI State House of Representatives District 8).
+
+Represents [RI State House of Representatives District 8](/us/states/ri/districts/house/8.md).
 
 ## Sources
 

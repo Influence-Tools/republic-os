@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 14"
+represents: "us/states/ri/districts/house/14"
 tenure:
   start: "2003-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlene Lima
 
 Current RI House District 14 (RI State House of Representatives District 14).
+
+Represents [RI State House of Representatives District 14](/us/states/ri/districts/house/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 24A"
+represents: "us/states/mn/districts/house/24a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Duane Quam
 
 Current MN House District 24A (MN State House of Representatives District 24A).
+
+Represents [MN State House of Representatives District 24A](/us/states/mn/districts/house/24a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 22"
+represents: "us/states/ms/districts/senate/22"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph Thomas
 
 Current MS Senate District 22 (MS State Senate District 22).
+
+Represents [MS State Senate District 22](/us/states/ms/districts/senate/22.md).
 
 ## Sources
 

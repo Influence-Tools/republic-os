@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 3"
+represents: "us/states/il/districts/03"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Delia C. Ramirez
 
 Current U.S. House of Representatives - IL-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/il/districts/03.md).
 
 ## Committees
 

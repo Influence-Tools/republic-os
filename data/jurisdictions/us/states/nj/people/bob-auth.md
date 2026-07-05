@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 39"
+represents: "us/states/nj/districts/house/39"
 tenure:
   start: "2014-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Auth
 
 Current NJ House District 39 (NJ State House of Representatives District 39).
+
+Represents [NJ State House of Representatives District 39](/us/states/nj/districts/house/39.md).
 
 ## Sources
 

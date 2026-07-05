@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 76"
+represents: "us/states/pa/districts/house/76"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Borowicz
 
 Current PA House District 76 (PA State House of Representatives District 76).
+
+Represents [PA State House of Representatives District 76](/us/states/pa/districts/house/76.md).
 
 ## Sources
 

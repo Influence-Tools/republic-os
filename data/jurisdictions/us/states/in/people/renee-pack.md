@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 92"
+represents: "us/states/in/districts/house/92"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reneé Pack
 
 Current IN House District 92 (IN State House of Representatives District 92).
+
+Represents [IN State House of Representatives District 92](/us/states/in/districts/house/92.md).
 
 ## Sources
 

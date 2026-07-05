@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Belknap 1"
+represents: "us/states/nh/districts/house/belknap-1"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Ploszaj
 
 Current NH House District Belknap 1 (NH State House of Representatives District Belknap 1).
+
+Represents [NH State House of Representatives District Belknap 1](/us/states/nh/districts/house/belknap-1.md).
 
 ## Sources
 

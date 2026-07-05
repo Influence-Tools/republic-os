@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 5"
+represents: "us/states/ut/districts/house/5"
 tenure:
   start: "2018-10-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Casey Snider
 
 Current UT House District 5 (UT State House of Representatives District 5).
+
+Represents [UT State House of Representatives District 5](/us/states/ut/districts/house/5.md).
 
 ## Sources
 

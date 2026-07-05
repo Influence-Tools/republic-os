@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 19"
+represents: "us/states/tn/districts/senate/19"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlane Oliver
 
 Current TN Senate District 19 (TN State Senate District 19).
+
+Represents [TN State Senate District 19](/us/states/tn/districts/senate/19.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 28"
+represents: "us/states/ut/districts/senate/28"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Evan Vickers
 
 Current UT Senate District 28 (UT State Senate District 28).
+
+Represents [UT State Senate District 28](/us/states/ut/districts/senate/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 7"
+represents: "us/states/ia/districts/house/7"
 tenure:
   start: "2026-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy Larson
 
 Current IA House District 7 (IA State House of Representatives District 7).
+
+Represents [IA State House of Representatives District 7](/us/states/ia/districts/house/7.md).
 
 ## Sources
 

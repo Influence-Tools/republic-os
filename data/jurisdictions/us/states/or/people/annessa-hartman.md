@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 40"
+represents: "us/states/or/districts/house/40"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Annessa Hartman
 
 Current OR House District 40 (OR State House of Representatives District 40).
+
+Represents [OR State House of Representatives District 40](/us/states/or/districts/house/40.md).
 
 ## Sources
 

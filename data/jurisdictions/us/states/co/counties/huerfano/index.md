@@ -22,9 +22,24 @@ demographics:
   race_native: 146
   hispanic: 2136
   bachelors_plus: 2052
+districts:
+  - to: "us/states/co/districts/03"
+    rel: in-district
+    area_weight: 0.999
+  - to: "us/states/co/districts/senate/35"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/co/districts/house/47"
+    rel: in-district
+    area_weight: 0.6267
+  - to: "us/states/co/districts/house/62"
+    rel: in-district
+    area_weight: 0.3732
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, co]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 2136 |
 | Bachelor's or higher | 2052 |
 
+## Districts
+
+- [CO-03](/us/states/co/districts/03.md) — 100% (congressional)
+- [CO Senate District 35](/us/states/co/districts/senate/35.md) — 100% (state senate)
+- [CO House District 47](/us/states/co/districts/house/47.md) — 63% (state house)
+- [CO House District 62](/us/states/co/districts/house/62.md) — 37% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

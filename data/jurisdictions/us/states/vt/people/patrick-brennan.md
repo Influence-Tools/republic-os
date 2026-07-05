@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Grand Isle"
+represents: "us/states/vt/districts/senate/grand-isle"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Brennan
 
 Current VT Senate District Grand Isle (VT State Senate District Grand Isle).
+
+Represents [VT State Senate District Grand Isle](/us/states/vt/districts/senate/grand-isle.md).
 
 ## Sources
 

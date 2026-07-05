@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IN"
 district: "Congressional District 3"
+represents: "us/states/in/districts/03"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Marlin A. Stutzman
 
 Current U.S. House of Representatives - IN-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/in/districts/03.md).
 
 ## Committees
 

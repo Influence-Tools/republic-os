@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 88"
+represents: "us/states/pa/districts/house/88"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sheryl Delozier
 
 Current PA House District 88 (PA State House of Representatives District 88).
+
+Represents [PA State House of Representatives District 88](/us/states/pa/districts/house/88.md).
 
 ## Sources
 

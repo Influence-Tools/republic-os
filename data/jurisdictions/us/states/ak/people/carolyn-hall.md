@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 16"
+represents: "us/states/ak/districts/house/16"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carolyn Hall
 
 Current AK House District 16 (AK State House of Representatives District 16).
+
+Represents [AK State House of Representatives District 16](/us/states/ak/districts/house/16.md).
 
 ## Sources
 

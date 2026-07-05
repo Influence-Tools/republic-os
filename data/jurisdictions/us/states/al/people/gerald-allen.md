@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 21"
+represents: "us/states/al/districts/senate/21"
 tenure:
   start: "2010-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerald Allen
 
 Current AL Senate District 21 (AL State Senate District 21).
+
+Represents [AL State Senate District 21](/us/states/al/districts/senate/21.md).
 
 ## Sources
 

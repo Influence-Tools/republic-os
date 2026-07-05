@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 9"
+represents: "us/states/nj/districts/senate/9"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carmen Amato
 
 Current NJ Senate District 9 (NJ State Senate District 9).
+
+Represents [NJ State Senate District 9](/us/states/nj/districts/senate/9.md).
 
 ## Sources
 

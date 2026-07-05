@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 14"
+represents: "us/states/nh/districts/house/hillsborough-14"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Peeples
 
 Current NH House District Hillsborough 14 (NH State House of Representatives District Hillsborough 14).
+
+Represents [NH State House of Representatives District Hillsborough 14](/us/states/nh/districts/house/hillsborough-14.md).
 
 ## Sources
 

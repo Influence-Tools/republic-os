@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 23"
+represents: "us/states/ny/districts/house/23"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacey Pheffer Amato
 
 Current NY House District 23 (NY State House of Representatives District 23).
+
+Represents [NY State House of Representatives District 23](/us/states/ny/districts/house/23.md).
 
 ## Sources
 

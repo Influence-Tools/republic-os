@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 49"
+represents: "us/states/ms/districts/senate/49"
 tenure:
   start: "2018-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joel Carter
 
 Current MS Senate District 49 (MS State Senate District 49).
+
+Represents [MS State Senate District 49](/us/states/ms/districts/senate/49.md).
 
 ## Sources
 

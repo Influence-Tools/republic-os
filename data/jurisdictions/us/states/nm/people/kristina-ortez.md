@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 42"
+represents: "us/states/nm/districts/house/42"
 tenure:
   start: "2021-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristina Ortez
 
 Current NM House District 42 (NM State House of Representatives District 42).
+
+Represents [NM State House of Representatives District 42](/us/states/nm/districts/house/42.md).
 
 ## Sources
 

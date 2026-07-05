@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 50"
+represents: "us/states/fl/districts/house/50"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Canady
 
 Current FL House District 50 (FL State House of Representatives District 50).
+
+Represents [FL State House of Representatives District 50](/us/states/fl/districts/house/50.md).
 
 ## Sources
 

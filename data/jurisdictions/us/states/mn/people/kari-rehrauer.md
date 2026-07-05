@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 35B"
+represents: "us/states/mn/districts/house/35b"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kari Rehrauer
 
 Current MN House District 35B (MN State House of Representatives District 35B).
+
+Represents [MN State House of Representatives District 35B](/us/states/mn/districts/house/35b.md).
 
 ## Sources
 

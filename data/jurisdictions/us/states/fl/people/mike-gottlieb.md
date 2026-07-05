@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 102"
+represents: "us/states/fl/districts/house/102"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Gottlieb
 
 Current FL House District 102 (FL State House of Representatives District 102).
+
+Represents [FL State House of Representatives District 102](/us/states/fl/districts/house/102.md).
 
 ## Sources
 

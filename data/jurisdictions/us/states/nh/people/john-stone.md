@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 12"
+represents: "us/states/nh/districts/house/strafford-12"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Stone
 
 Current NH House District Strafford 12 (NH State House of Representatives District Strafford 12).
+
+Represents [NH State House of Representatives District Strafford 12](/us/states/nh/districts/house/strafford-12.md).
 
 ## Sources
 

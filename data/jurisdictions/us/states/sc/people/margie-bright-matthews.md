@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 45"
+represents: "us/states/sc/districts/senate/45"
 tenure:
   start: "2015-10-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Margie Bright Matthews
 
 Current SC Senate District 45 (SC State Senate District 45).
+
+Represents [SC State Senate District 45](/us/states/sc/districts/senate/45.md).
 
 ## Sources
 

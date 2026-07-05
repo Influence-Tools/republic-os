@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 6"
+represents: "us/states/fl/districts/senate/6"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Bradley
 
 Current FL Senate District 6 (FL State Senate District 6).
+
+Represents [FL State Senate District 6](/us/states/fl/districts/senate/6.md).
 
 ## Sources
 

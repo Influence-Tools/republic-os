@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 76"
+represents: "us/states/il/districts/house/76"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Murri Briel
 
 Current IL House District 76 (IL State House of Representatives District 76).
+
+Represents [IL State House of Representatives District 76](/us/states/il/districts/house/76.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 46"
+represents: "us/states/ut/districts/house/46"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cal Roberts
 
 Current UT House District 46 (UT State House of Representatives District 46).
+
+Represents [UT State House of Representatives District 46](/us/states/ut/districts/house/46.md).
 
 ## Sources
 

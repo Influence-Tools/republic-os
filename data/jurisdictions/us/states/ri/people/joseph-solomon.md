@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 22"
+represents: "us/states/ri/districts/house/22"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joseph Solomon
 
 Current RI House District 22 (RI State House of Representatives District 22).
+
+Represents [RI State House of Representatives District 22](/us/states/ri/districts/house/22.md).
 
 ## Sources
 

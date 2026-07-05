@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 29"
+represents: "us/states/ky/districts/house/29"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Lewis
 
 Current KY House District 29 (KY State House of Representatives District 29).
+
+Represents [KY State House of Representatives District 29](/us/states/ky/districts/house/29.md).
 
 ## Sources
 

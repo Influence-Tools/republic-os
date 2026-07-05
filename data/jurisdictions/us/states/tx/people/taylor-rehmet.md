@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 9"
+represents: "us/states/tx/districts/senate/9"
 tenure:
   start: "2026-02-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Taylor Rehmet
 
 Current TX Senate District 9 (TX State Senate District 9).
+
+Represents [TX State Senate District 9](/us/states/tx/districts/senate/9.md).
 
 ## Sources
 

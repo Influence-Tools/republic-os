@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 2"
+represents: "us/states/ga/districts/house/2"
 tenure:
   start: "2014-02-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Tarvin
 
 Current GA House District 2 (GA State House of Representatives District 2).
+
+Represents [GA State House of Representatives District 2](/us/states/ga/districts/house/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Rutland-5"
+represents: "us/states/vt/districts/house/rutland-5"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Maguire
 
 Current VT House District Rutland-5 (VT State House of Representatives District Rutland-5).
+
+Represents [VT State House of Representatives District Rutland-5](/us/states/vt/districts/house/rutland-5.md).
 
 ## Sources
 

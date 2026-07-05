@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 63"
+represents: "us/states/la/districts/house/63"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Carpenter
 
 Current LA House District 63 (LA State House of Representatives District 63).
+
+Represents [LA State House of Representatives District 63](/us/states/la/districts/house/63.md).
 
 ## Sources
 

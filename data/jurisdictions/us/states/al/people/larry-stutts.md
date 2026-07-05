@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 6"
+represents: "us/states/al/districts/senate/6"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Stutts
 
 Current AL Senate District 6 (AL State Senate District 6).
+
+Represents [AL State Senate District 6](/us/states/al/districts/senate/6.md).
 
 ## Sources
 

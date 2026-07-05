@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 26"
+represents: "us/states/nm/districts/senate/26"
 tenure:
   start: "2022-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Moe Maestas
 
 Current NM Senate District 26 (NM State Senate District 26).
+
+Represents [NM State Senate District 26](/us/states/nm/districts/senate/26.md).
 
 ## Sources
 

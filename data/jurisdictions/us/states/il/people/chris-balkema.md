@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 53"
+represents: "us/states/il/districts/senate/53"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Balkema
 
 Current IL Senate District 53 (IL State Senate District 53).
+
+Represents [IL State Senate District 53](/us/states/il/districts/senate/53.md).
 
 ## Sources
 

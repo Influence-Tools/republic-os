@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 12"
+represents: "us/states/mo/districts/senate/12"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rusty Black
 
 Current MO Senate District 12 (MO State Senate District 12).
+
+Represents [MO State Senate District 12](/us/states/mo/districts/senate/12.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 100"
+represents: "us/states/ga/districts/house/100"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Clark
 
 Current GA House District 100 (GA State House of Representatives District 100).
+
+Represents [GA State House of Representatives District 100](/us/states/ga/districts/house/100.md).
 
 ## Sources
 

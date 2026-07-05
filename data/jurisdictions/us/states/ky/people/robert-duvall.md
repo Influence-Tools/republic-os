@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 17"
+represents: "us/states/ky/districts/house/17"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Duvall
 
 Current KY House District 17 (KY State House of Representatives District 17).
+
+Represents [KY State House of Representatives District 17](/us/states/ky/districts/house/17.md).
 
 ## Sources
 

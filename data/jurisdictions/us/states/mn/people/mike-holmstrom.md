@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 29"
+represents: "us/states/mn/districts/senate/29"
 tenure:
   start: "2025-11-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Holmstrom
 
 Current MN Senate District 29 (MN State Senate District 29).
+
+Represents [MN State Senate District 29](/us/states/mn/districts/senate/29.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Belknap 5"
+represents: "us/states/nh/districts/house/belknap-5"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlie St. Clair
 
 Current NH House District Belknap 5 (NH State House of Representatives District Belknap 5).
+
+Represents [NH State House of Representatives District Belknap 5](/us/states/nh/districts/house/belknap-5.md).
 
 ## Sources
 

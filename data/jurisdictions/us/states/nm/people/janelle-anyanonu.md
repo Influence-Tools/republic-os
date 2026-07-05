@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 19"
+represents: "us/states/nm/districts/house/19"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janelle Anyanonu
 
 Current NM House District 19 (NM State House of Representatives District 19).
+
+Represents [NM State House of Representatives District 19](/us/states/nm/districts/house/19.md).
 
 ## Sources
 

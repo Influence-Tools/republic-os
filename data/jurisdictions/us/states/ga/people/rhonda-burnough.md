@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 77"
+represents: "us/states/ga/districts/house/77"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rhonda Burnough
 
 Current GA House District 77 (GA State House of Representatives District 77).
+
+Represents [GA State House of Representatives District 77](/us/states/ga/districts/house/77.md).
 
 ## Sources
 

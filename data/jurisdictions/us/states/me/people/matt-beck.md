@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 122"
+represents: "us/states/me/districts/house/122"
 tenure:
   start: "2024-03-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Beck
 
 Current ME House District 122 (ME State House of Representatives District 122).
+
+Represents [ME State House of Representatives District 122](/us/states/me/districts/house/122.md).
 
 ## Sources
 

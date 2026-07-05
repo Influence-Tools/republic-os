@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 35"
+represents: "us/states/ks/districts/senate/35"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # T.J. Rose
 
 Current KS Senate District 35 (KS State Senate District 35).
+
+Represents [KS State Senate District 35](/us/states/ks/districts/senate/35.md).
 
 ## Sources
 

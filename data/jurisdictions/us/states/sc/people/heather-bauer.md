@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 75"
+represents: "us/states/sc/districts/house/75"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Bauer
 
 Current SC House District 75 (SC State House of Representatives District 75).
+
+Represents [SC State House of Representatives District 75](/us/states/sc/districts/house/75.md).
 
 ## Sources
 

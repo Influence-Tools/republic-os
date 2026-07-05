@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 79"
+represents: "us/states/me/districts/house/79"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Lance
 
 Current ME House District 79 (ME State House of Representatives District 79).
+
+Represents [ME State House of Representatives District 79](/us/states/me/districts/house/79.md).
 
 ## Sources
 

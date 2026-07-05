@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 58"
+represents: "us/states/me/districts/house/58"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Frost
 
 Current ME House District 58 (ME State House of Representatives District 58).
+
+Represents [ME State House of Representatives District 58](/us/states/me/districts/house/58.md).
 
 ## Sources
 

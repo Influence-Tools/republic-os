@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District P"
+represents: "us/states/ak/districts/senate/p"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Kawasaki
 
 Current AK Senate District P (AK State Senate District P).
+
+Represents [AK State Senate District P](/us/states/ak/districts/senate/p.md).
 
 ## Sources
 

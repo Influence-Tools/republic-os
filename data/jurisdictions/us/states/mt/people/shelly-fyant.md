@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 91"
+represents: "us/states/mt/districts/house/91"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelly Fyant
 
 Current MT House District 91 (MT State House of Representatives District 91).
+
+Represents [MT State House of Representatives District 91](/us/states/mt/districts/house/91.md).
 
 ## Sources
 

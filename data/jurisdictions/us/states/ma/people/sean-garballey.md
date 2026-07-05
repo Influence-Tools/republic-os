@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 23rd Middlesex"
+represents: "us/states/ma/districts/house/23rd-middlesex"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Garballey
 
 Current MA House District 23rd Middlesex (MA State House of Representatives District 23rd Middlesex).
+
+Represents [MA State House of Representatives District 23rd Middlesex](/us/states/ma/districts/house/23rd-middlesex.md).
 
 ## Sources
 

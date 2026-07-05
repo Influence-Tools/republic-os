@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 30A"
+represents: "us/states/md/districts/house/30a"
 tenure:
   start: "2025-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dylan Behler
 
 Current MD House District 30A (MD State House of Representatives District 30A).
+
+Represents [MD State House of Representatives District 30A](/us/states/md/districts/house/30a.md).
 
 ## Sources
 

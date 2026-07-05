@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 14"
+represents: "us/states/oh/districts/14"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # David P. Joyce
 
 Current U.S. House of Representatives - OH-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/oh/districts/14.md).
 
 ## Committees
 

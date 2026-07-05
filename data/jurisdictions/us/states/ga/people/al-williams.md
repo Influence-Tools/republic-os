@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 168"
+represents: "us/states/ga/districts/house/168"
 tenure:
   start: "2003-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Williams
 
 Current GA House District 168 (GA State House of Representatives District 168).
+
+Represents [GA State House of Representatives District 168](/us/states/ga/districts/house/168.md).
 
 ## Sources
 

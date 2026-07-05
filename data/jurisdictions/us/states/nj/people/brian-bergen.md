@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 26"
+represents: "us/states/nj/districts/house/26"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Bergen
 
 Current NJ House District 26 (NJ State House of Representatives District 26).
+
+Represents [NJ State House of Representatives District 26](/us/states/nj/districts/house/26.md).
 
 ## Sources
 

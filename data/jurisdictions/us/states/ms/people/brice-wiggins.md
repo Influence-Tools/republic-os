@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 52"
+represents: "us/states/ms/districts/senate/52"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brice Wiggins
 
 Current MS Senate District 52 (MS State Senate District 52).
+
+Represents [MS State Senate District 52](/us/states/ms/districts/senate/52.md).
 
 ## Sources
 

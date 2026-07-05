@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 22"
+represents: "us/states/ok/districts/senate/22"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristen Thompson
 
 Current OK Senate District 22 (OK State Senate District 22).
+
+Represents [OK State Senate District 22](/us/states/ok/districts/senate/22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 7"
+represents: "us/states/pr/districts/senate/7"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wandy Soto
 
 Current PR Senate District 7 (PR State Senate District 7).
+
+Represents [PR State Senate District 7](/us/states/pr/districts/senate/7.md).
 
 ## Sources
 

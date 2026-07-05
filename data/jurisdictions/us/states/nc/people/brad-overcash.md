@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 43"
+represents: "us/states/nc/districts/senate/43"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Overcash
 
 Current NC Senate District 43 (NC State Senate District 43).
+
+Represents [NC State Senate District 43](/us/states/nc/districts/senate/43.md).
 
 ## Sources
 

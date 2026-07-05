@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 40"
+represents: "us/states/fl/districts/house/40"
 tenure:
   start: "2025-09-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # RaShon Young
 
 Current FL House District 40 (FL State House of Representatives District 40).
+
+Represents [FL State House of Representatives District 40](/us/states/fl/districts/house/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 14"
+represents: "us/states/il/districts/senate/14"
 tenure:
   start: "2009-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emil Jones
 
 Current IL Senate District 14 (IL State Senate District 14).
+
+Represents [IL State Senate District 14](/us/states/il/districts/senate/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 128"
+represents: "us/states/tx/districts/house/128"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Briscoe Cain
 
 Current TX House District 128 (TX State House of Representatives District 128).
+
+Represents [TX State House of Representatives District 128](/us/states/tx/districts/house/128.md).
 
 ## Sources
 

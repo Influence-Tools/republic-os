@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 22"
+represents: "us/states/oh/districts/house/22"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darnell Brewer
 
 Current OH House District 22 (OH State House of Representatives District 22).
+
+Represents [OH State House of Representatives District 22](/us/states/oh/districts/house/22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 20"
+represents: "us/states/nc/districts/senate/20"
 tenure:
   start: "2020-04-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natalie Murdock
 
 Current NC Senate District 20 (NC State Senate District 20).
+
+Represents [NC State Senate District 20](/us/states/nc/districts/senate/20.md).
 
 ## Sources
 

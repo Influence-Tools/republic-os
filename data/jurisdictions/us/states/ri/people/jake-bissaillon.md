@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 1"
+represents: "us/states/ri/districts/senate/1"
 tenure:
   start: "2023-12-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake Bissaillon
 
 Current RI Senate District 1 (RI State Senate District 1).
+
+Represents [RI State Senate District 1](/us/states/ri/districts/senate/1.md).
 
 ## Sources
 

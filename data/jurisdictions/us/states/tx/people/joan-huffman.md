@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 17"
+represents: "us/states/tx/districts/senate/17"
 tenure:
   start: "2008-12-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joan Huffman
 
 Current TX Senate District 17 (TX State Senate District 17).
+
+Represents [TX State Senate District 17](/us/states/tx/districts/senate/17.md).
 
 ## Sources
 

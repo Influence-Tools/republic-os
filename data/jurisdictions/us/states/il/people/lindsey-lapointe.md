@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 19"
+represents: "us/states/il/districts/house/19"
 tenure:
   start: "2019-07-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lindsey LaPointe
 
 Current IL House District 19 (IL State House of Representatives District 19).
+
+Represents [IL State House of Representatives District 19](/us/states/il/districts/house/19.md).
 
 ## Sources
 

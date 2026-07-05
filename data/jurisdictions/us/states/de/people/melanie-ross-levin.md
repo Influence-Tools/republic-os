@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 10"
+represents: "us/states/de/districts/house/10"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melanie Ross Levin
 
 Current DE House District 10 (DE State House of Representatives District 10).
+
+Represents [DE State House of Representatives District 10](/us/states/de/districts/house/10.md).
 
 ## Sources
 

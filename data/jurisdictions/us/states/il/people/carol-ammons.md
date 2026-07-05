@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 103"
+represents: "us/states/il/districts/house/103"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Ammons
 
 Current IL House District 103 (IL State House of Representatives District 103).
+
+Represents [IL State House of Representatives District 103](/us/states/il/districts/house/103.md).
 
 ## Sources
 

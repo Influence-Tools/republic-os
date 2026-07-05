@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 1"
+represents: "us/states/de/districts/house/1"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nnamdi Chukwuocha
 
 Current DE House District 1 (DE State House of Representatives District 1).
+
+Represents [DE State House of Representatives District 1](/us/states/de/districts/house/1.md).
 
 ## Sources
 

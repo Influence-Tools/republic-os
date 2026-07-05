@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 28"
+represents: "us/states/tx/districts/28"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Henry Cuellar
 
 Current U.S. House of Representatives - TX-28 (Congressional District 28).
+
+Represents [Congressional District 28](/us/states/tx/districts/28.md).
 
 ## Committees
 

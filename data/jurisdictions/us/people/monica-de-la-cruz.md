@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 15"
+represents: "us/states/tx/districts/15"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Monica De La Cruz
 
 Current U.S. House of Representatives - TX-15 (Congressional District 15).
+
+Represents [Congressional District 15](/us/states/tx/districts/15.md).
 
 ## Committees
 

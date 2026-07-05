@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 189"
+represents: "us/states/pa/districts/house/189"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tarah Probst
 
 Current PA House District 189 (PA State House of Representatives District 189).
+
+Represents [PA State House of Representatives District 189](/us/states/pa/districts/house/189.md).
 
 ## Sources
 

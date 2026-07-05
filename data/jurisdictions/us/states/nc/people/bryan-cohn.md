@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 32"
+represents: "us/states/nc/districts/house/32"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Cohn
 
 Current NC House District 32 (NC State House of Representatives District 32).
+
+Represents [NC State House of Representatives District 32](/us/states/nc/districts/house/32.md).
 
 ## Sources
 

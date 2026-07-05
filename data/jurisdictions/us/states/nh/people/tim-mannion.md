@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 1"
+represents: "us/states/nh/districts/house/hillsborough-1"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Mannion
 
 Current NH House District Hillsborough 1 (NH State House of Representatives District Hillsborough 1).
+
+Represents [NH State House of Representatives District Hillsborough 1](/us/states/nh/districts/house/hillsborough-1.md).
 
 ## Sources
 

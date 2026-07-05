@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 43"
+represents: "us/states/pa/districts/house/43"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Greiner
 
 Current PA House District 43 (PA State House of Representatives District 43).
+
+Represents [PA State House of Representatives District 43](/us/states/pa/districts/house/43.md).
 
 ## Sources
 

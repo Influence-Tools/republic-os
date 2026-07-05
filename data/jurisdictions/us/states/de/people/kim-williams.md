@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 19"
+represents: "us/states/de/districts/house/19"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Williams
 
 Current DE House District 19 (DE State House of Representatives District 19).
+
+Represents [DE State House of Representatives District 19](/us/states/de/districts/house/19.md).
 
 ## Sources
 

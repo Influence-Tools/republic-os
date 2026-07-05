@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 1"
+represents: "us/states/ms/districts/senate/1"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael McLendon
 
 Current MS Senate District 1 (MS State Senate District 1).
+
+Represents [MS State Senate District 1](/us/states/ms/districts/senate/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 2"
+represents: "us/states/pa/districts/senate/2"
 tenure:
   start: "1995-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Tartaglione
 
 Current PA Senate District 2 (PA State Senate District 2).
+
+Represents [PA State Senate District 2](/us/states/pa/districts/senate/2.md).
 
 ## Sources
 

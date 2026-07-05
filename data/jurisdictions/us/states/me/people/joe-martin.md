@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 19"
+represents: "us/states/me/districts/senate/19"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Martin
 
 Current ME Senate District 19 (ME State Senate District 19).
+
+Represents [ME State Senate District 19](/us/states/me/districts/senate/19.md).
 
 ## Sources
 

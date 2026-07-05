@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 6"
+represents: "us/states/pa/districts/house/6"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Roae
 
 Current PA House District 6 (PA State House of Representatives District 6).
+
+Represents [PA State House of Representatives District 6](/us/states/pa/districts/house/6.md).
 
 ## Sources
 

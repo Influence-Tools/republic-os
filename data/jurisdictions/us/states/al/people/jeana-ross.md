@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 27"
+represents: "us/states/al/districts/house/27"
 tenure:
   start: "2024-05-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeana Ross
 
 Current AL House District 27 (AL State House of Representatives District 27).
+
+Represents [AL State House of Representatives District 27](/us/states/al/districts/house/27.md).
 
 ## Sources
 

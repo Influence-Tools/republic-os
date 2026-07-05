@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 22"
+represents: "us/states/mn/districts/senate/22"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rich Draheim
 
 Current MN Senate District 22 (MN State Senate District 22).
+
+Represents [MN State Senate District 22](/us/states/mn/districts/senate/22.md).
 
 ## Sources
 

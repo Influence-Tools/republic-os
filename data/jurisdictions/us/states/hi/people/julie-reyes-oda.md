@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 40"
+represents: "us/states/hi/districts/house/40"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Reyes Oda
 
 Current HI House District 40 (HI State House of Representatives District 40).
+
+Represents [HI State House of Representatives District 40](/us/states/hi/districts/house/40.md).
 
 ## Sources
 

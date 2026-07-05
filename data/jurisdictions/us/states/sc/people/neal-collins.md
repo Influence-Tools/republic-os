@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 5"
+represents: "us/states/sc/districts/house/5"
 tenure:
   start: "2014-11-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Neal Collins
 
 Current SC House District 5 (SC State House of Representatives District 5).
+
+Represents [SC State House of Representatives District 5](/us/states/sc/districts/house/5.md).
 
 ## Sources
 

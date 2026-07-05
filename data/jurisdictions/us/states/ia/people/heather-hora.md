@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 92"
+represents: "us/states/ia/districts/house/92"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Hora
 
 Current IA House District 92 (IA State House of Representatives District 92).
+
+Represents [IA State House of Representatives District 92](/us/states/ia/districts/house/92.md).
 
 ## Sources
 

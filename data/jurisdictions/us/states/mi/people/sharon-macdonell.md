@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 56"
+represents: "us/states/mi/districts/house/56"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon MacDonell
 
 Current MI House District 56 (MI State House of Representatives District 56).
+
+Represents [MI State House of Representatives District 56](/us/states/mi/districts/house/56.md).
 
 ## Sources
 

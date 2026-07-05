@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 36"
+represents: "us/states/la/districts/senate/36"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Bass
 
 Current LA Senate District 36 (LA State Senate District 36).
+
+Represents [LA State Senate District 36](/us/states/la/districts/senate/36.md).
 
 ## Sources
 

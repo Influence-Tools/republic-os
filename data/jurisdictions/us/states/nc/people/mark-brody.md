@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 55"
+represents: "us/states/nc/districts/house/55"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Brody
 
 Current NC House District 55 (NC State House of Representatives District 55).
+
+Represents [NC State House of Representatives District 55](/us/states/nc/districts/house/55.md).
 
 ## Sources
 

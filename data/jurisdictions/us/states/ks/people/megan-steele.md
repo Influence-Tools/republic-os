@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 51"
+represents: "us/states/ks/districts/house/51"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Megan Steele
 
 Current KS House District 51 (KS State House of Representatives District 51).
+
+Represents [KS State House of Representatives District 51](/us/states/ks/districts/house/51.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 53"
+represents: "us/states/mn/districts/senate/53"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Klein
 
 Current MN Senate District 53 (MN State Senate District 53).
+
+Represents [MN State Senate District 53](/us/states/mn/districts/senate/53.md).
 
 ## Sources
 

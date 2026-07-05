@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 79"
+represents: "us/states/al/districts/house/79"
 tenure:
   start: "2016-09-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Lovvorn
 
 Current AL House District 79 (AL State House of Representatives District 79).
+
+Represents [AL State House of Representatives District 79](/us/states/al/districts/house/79.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 1"
+represents: "us/states/ny/districts/house/1"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tommy John Schiavoni
 
 Current NY House District 1 (NY State House of Representatives District 1).
+
+Represents [NY State House of Representatives District 1](/us/states/ny/districts/house/1.md).
 
 ## Sources
 

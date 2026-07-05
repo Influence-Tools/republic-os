@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 68"
+represents: "us/states/la/districts/house/68"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dixon McMakin
 
 Current LA House District 68 (LA State House of Representatives District 68).
+
+Represents [LA State House of Representatives District 68](/us/states/la/districts/house/68.md).
 
 ## Sources
 

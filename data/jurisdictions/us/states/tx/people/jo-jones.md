@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 147"
+represents: "us/states/tx/districts/house/147"
 tenure:
   start: "2022-05-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jo Jones
 
 Current TX House District 147 (TX State House of Representatives District 147).
+
+Represents [TX State House of Representatives District 147](/us/states/tx/districts/house/147.md).
 
 ## Sources
 

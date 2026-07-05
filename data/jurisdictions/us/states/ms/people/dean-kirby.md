@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 30"
+represents: "us/states/ms/districts/senate/30"
 tenure:
   start: "1992-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dean Kirby
 
 Current MS Senate District 30 (MS State Senate District 30).
+
+Represents [MS State Senate District 30](/us/states/ms/districts/senate/30.md).
 
 ## Sources
 

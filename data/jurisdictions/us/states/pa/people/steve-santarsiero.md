@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 10"
+represents: "us/states/pa/districts/senate/10"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Santarsiero
 
 Current PA Senate District 10 (PA State Senate District 10).
+
+Represents [PA State Senate District 10](/us/states/pa/districts/senate/10.md).
 
 ## Sources
 

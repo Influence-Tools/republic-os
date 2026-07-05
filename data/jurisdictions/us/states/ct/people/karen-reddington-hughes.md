@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 66"
+represents: "us/states/ct/districts/house/66"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Reddington-Hughes
 
 Current CT House District 66 (CT State House of Representatives District 66).
+
+Represents [CT State House of Representatives District 66](/us/states/ct/districts/house/66.md).
 
 ## Sources
 

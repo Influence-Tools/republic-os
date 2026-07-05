@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 36"
+represents: "us/states/va/districts/senate/36"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stella Pekarsky
 
 Current VA Senate District 36 (VA State Senate District 36).
+
+Represents [VA State Senate District 36](/us/states/va/districts/senate/36.md).
 
 ## Sources
 

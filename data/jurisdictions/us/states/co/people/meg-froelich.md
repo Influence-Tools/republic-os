@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 3"
+represents: "us/states/co/districts/house/3"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meg Froelich
 
 Current CO House District 3 (CO State House of Representatives District 3).
+
+Represents [CO State House of Representatives District 3](/us/states/co/districts/house/3.md).
 
 ## Sources
 

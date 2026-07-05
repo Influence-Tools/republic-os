@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 22"
+represents: "us/states/ny/districts/22"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # John W. Mannion
 
 Current U.S. House of Representatives - NY-22 (Congressional District 22).
+
+Represents [Congressional District 22](/us/states/ny/districts/22.md).
 
 ## Committees
 

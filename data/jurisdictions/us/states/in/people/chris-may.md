@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 65"
+represents: "us/states/in/districts/house/65"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris May
 
 Current IN House District 65 (IN State House of Representatives District 65).
+
+Represents [IN State House of Representatives District 65](/us/states/in/districts/house/65.md).
 
 ## Sources
 

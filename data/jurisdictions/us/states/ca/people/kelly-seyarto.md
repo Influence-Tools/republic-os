@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 32"
+represents: "us/states/ca/districts/senate/32"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kelly Seyarto
 
 Current CA Senate District 32 (CA State Senate District 32).
+
+Represents [CA State Senate District 32](/us/states/ca/districts/senate/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windham-5"
+represents: "us/states/vt/districts/house/windham-5"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Long
 
 Current VT House District Windham-5 (VT State House of Representatives District Windham-5).
+
+Represents [VT State House of Representatives District Windham-5](/us/states/vt/districts/house/windham-5.md).
 
 ## Sources
 

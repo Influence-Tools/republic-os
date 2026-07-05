@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 44"
+represents: "us/states/ks/districts/house/44"
 tenure:
   start: "1993-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Ballard
 
 Current KS House District 44 (KS State House of Representatives District 44).
+
+Represents [KS State House of Representatives District 44](/us/states/ks/districts/house/44.md).
 
 ## Sources
 

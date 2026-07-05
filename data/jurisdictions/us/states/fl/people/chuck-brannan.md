@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 10"
+represents: "us/states/fl/districts/house/10"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Brannan
 
 Current FL House District 10 (FL State House of Representatives District 10).
+
+Represents [FL State House of Representatives District 10](/us/states/fl/districts/house/10.md).
 
 ## Sources
 

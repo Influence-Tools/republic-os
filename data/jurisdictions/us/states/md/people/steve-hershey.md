@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 36"
+represents: "us/states/md/districts/senate/36"
 tenure:
   start: "2013-10-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Hershey
 
 Current MD Senate District 36 (MD State Senate District 36).
+
+Represents [MD State Senate District 36](/us/states/md/districts/senate/36.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 55"
+represents: "us/states/tn/districts/house/55"
 tenure:
   start: "2014-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Clemmons
 
 Current TN House District 55 (TN State House of Representatives District 55).
+
+Represents [TN State House of Representatives District 55](/us/states/tn/districts/house/55.md).
 
 ## Sources
 

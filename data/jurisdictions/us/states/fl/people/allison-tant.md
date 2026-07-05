@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 9"
+represents: "us/states/fl/districts/house/9"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Allison Tant
 
 Current FL House District 9 (FL State House of Representatives District 9).
+
+Represents [FL State House of Representatives District 9](/us/states/fl/districts/house/9.md).
 
 ## Sources
 

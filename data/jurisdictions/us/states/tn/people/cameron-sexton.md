@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 25"
+represents: "us/states/tn/districts/house/25"
 tenure:
   start: "2011-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cameron Sexton
 
 Current TN House District 25 (TN State House of Representatives District 25).
+
+Represents [TN State House of Representatives District 25](/us/states/tn/districts/house/25.md).
 
 ## Sources
 

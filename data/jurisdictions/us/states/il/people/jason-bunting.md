@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 106"
+represents: "us/states/il/districts/house/106"
 tenure:
   start: "2023-02-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Bunting
 
 Current IL House District 106 (IL State House of Representatives District 106).
+
+Represents [IL State House of Representatives District 106](/us/states/il/districts/house/106.md).
 
 ## Sources
 

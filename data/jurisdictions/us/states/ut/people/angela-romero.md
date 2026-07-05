@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 25"
+represents: "us/states/ut/districts/house/25"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Romero
 
 Current UT House District 25 (UT State House of Representatives District 25).
+
+Represents [UT State House of Representatives District 25](/us/states/ut/districts/house/25.md).
 
 ## Sources
 

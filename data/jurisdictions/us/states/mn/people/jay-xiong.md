@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 67B"
+represents: "us/states/mn/districts/house/67b"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Xiong
 
 Current MN House District 67B (MN State House of Representatives District 67B).
+
+Represents [MN State House of Representatives District 67B](/us/states/mn/districts/house/67b.md).
 
 ## Sources
 

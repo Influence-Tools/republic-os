@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 2"
+represents: "us/states/nh/districts/senate/2"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Lang
 
 Current NH Senate District 2 (NH State Senate District 2).
+
+Represents [NH State Senate District 2](/us/states/nh/districts/senate/2.md).
 
 ## Sources
 

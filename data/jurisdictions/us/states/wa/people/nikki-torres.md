@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 15"
+represents: "us/states/wa/districts/senate/15"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nikki Torres
 
 Current WA Senate District 15 (WA State Senate District 15).
+
+Represents [WA State Senate District 15](/us/states/wa/districts/senate/15.md).
 
 ## Sources
 

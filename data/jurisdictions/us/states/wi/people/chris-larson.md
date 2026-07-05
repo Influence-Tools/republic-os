@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 7"
+represents: "us/states/wi/districts/senate/7"
 tenure:
   start: "2011-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Larson
 
 Current WI Senate District 7 (WI State Senate District 7).
+
+Represents [WI State Senate District 7](/us/states/wi/districts/senate/7.md).
 
 ## Sources
 

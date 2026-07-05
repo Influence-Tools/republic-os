@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 18"
+represents: "us/states/ms/districts/house/18"
 tenure:
   start: "2004-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry Turner
 
 Current MS House District 18 (MS State House of Representatives District 18).
+
+Represents [MS State House of Representatives District 18](/us/states/ms/districts/house/18.md).
 
 ## Sources
 

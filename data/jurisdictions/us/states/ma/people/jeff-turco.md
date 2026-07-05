@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 19th Suffolk"
+represents: "us/states/ma/districts/house/19th-suffolk"
 tenure:
   start: "2021-04-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Turco
 
 Current MA House District 19th Suffolk (MA State House of Representatives District 19th Suffolk).
+
+Represents [MA State House of Representatives District 19th Suffolk](/us/states/ma/districts/house/19th-suffolk.md).
 
 ## Sources
 

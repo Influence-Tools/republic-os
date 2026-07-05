@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 30"
+represents: "us/states/nd/districts/house/30"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Glenn Bosch
 
 Current ND House District 30 (ND State House of Representatives District 30).
+
+Represents [ND State House of Representatives District 30](/us/states/nd/districts/house/30.md).
 
 ## Sources
 

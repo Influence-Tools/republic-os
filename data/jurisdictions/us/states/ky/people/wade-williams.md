@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 4"
+represents: "us/states/ky/districts/house/4"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wade Williams
 
 Current KY House District 4 (KY State House of Representatives District 4).
+
+Represents [KY State House of Representatives District 4](/us/states/ky/districts/house/4.md).
 
 ## Sources
 

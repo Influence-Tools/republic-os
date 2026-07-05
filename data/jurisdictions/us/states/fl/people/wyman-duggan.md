@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 12"
+represents: "us/states/fl/districts/house/12"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wyman Duggan
 
 Current FL House District 12 (FL State House of Representatives District 12).
+
+Represents [FL State House of Representatives District 12](/us/states/fl/districts/house/12.md).
 
 ## Sources
 

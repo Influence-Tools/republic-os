@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 5"
+represents: "us/states/ri/districts/senate/5"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Bell
 
 Current RI Senate District 5 (RI State Senate District 5).
+
+Represents [RI State Senate District 5](/us/states/ri/districts/senate/5.md).
 
 ## Sources
 

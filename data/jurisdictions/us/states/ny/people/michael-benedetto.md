@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 82"
+represents: "us/states/ny/districts/house/82"
 tenure:
   start: "2005-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Benedetto
 
 Current NY House District 82 (NY State House of Representatives District 82).
+
+Represents [NY State House of Representatives District 82](/us/states/ny/districts/house/82.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 44"
+represents: "us/states/ms/districts/house/44"
 tenure:
   start: "2010-05-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Bounds
 
 Current MS House District 44 (MS State House of Representatives District 44).
+
+Represents [MS State House of Representatives District 44](/us/states/ms/districts/house/44.md).
 
 ## Sources
 

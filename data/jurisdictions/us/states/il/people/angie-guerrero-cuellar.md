@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 22"
+represents: "us/states/il/districts/house/22"
 tenure:
   start: "2021-02-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angie Guerrero-Cuellar
 
 Current IL House District 22 (IL State House of Representatives District 22).
+
+Represents [IL State House of Representatives District 22](/us/states/il/districts/house/22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 29"
+represents: "us/states/wa/districts/senate/29"
 tenure:
   start: "2011-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Conway
 
 Current WA Senate District 29 (WA State Senate District 29).
+
+Represents [WA State Senate District 29](/us/states/wa/districts/senate/29.md).
 
 ## Sources
 

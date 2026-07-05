@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 87"
+represents: "us/states/tn/districts/house/87"
 tenure:
   start: "2008-03-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Camper
 
 Current TN House District 87 (TN State House of Representatives District 87).
+
+Represents [TN State House of Representatives District 87](/us/states/tn/districts/house/87.md).
 
 ## Sources
 

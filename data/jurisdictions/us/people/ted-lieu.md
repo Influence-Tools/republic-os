@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 36"
+represents: "us/states/ca/districts/36"
 leadership:
   - role: "House Democratic Caucus Vice Chair"
     body: "H"
@@ -50,6 +51,8 @@ timestamp: "2026-07-04"
 # Ted Lieu
 
 Current U.S. House of Representatives - CA-36 (Congressional District 36).
+
+Represents [Congressional District 36](/us/states/ca/districts/36.md).
 
 ## Leadership
 

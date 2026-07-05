@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 34"
+represents: "us/states/pa/districts/house/34"
 tenure:
   start: "2023-02-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Abigail Salisbury
 
 Current PA House District 34 (PA State House of Representatives District 34).
+
+Represents [PA State House of Representatives District 34](/us/states/pa/districts/house/34.md).
 
 ## Sources
 

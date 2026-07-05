@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 3"
+represents: "us/states/or/districts/senate/3"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Golden
 
 Current OR Senate District 3 (OR State Senate District 3).
+
+Represents [OR State Senate District 3](/us/states/or/districts/senate/3.md).
 
 ## Sources
 

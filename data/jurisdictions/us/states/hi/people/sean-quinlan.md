@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 47"
+represents: "us/states/hi/districts/house/47"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Quinlan
 
 Current HI House District 47 (HI State House of Representatives District 47).
+
+Represents [HI State House of Representatives District 47](/us/states/hi/districts/house/47.md).
 
 ## Sources
 

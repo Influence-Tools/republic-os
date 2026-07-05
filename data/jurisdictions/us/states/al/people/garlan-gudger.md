@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 4"
+represents: "us/states/al/districts/senate/4"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Garlan Gudger
 
 Current AL Senate District 4 (AL State Senate District 4).
+
+Represents [AL State Senate District 4](/us/states/al/districts/senate/4.md).
 
 ## Sources
 

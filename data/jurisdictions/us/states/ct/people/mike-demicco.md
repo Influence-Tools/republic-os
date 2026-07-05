@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 21"
+represents: "us/states/ct/districts/house/21"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Demicco
 
 Current CT House District 21 (CT State House of Representatives District 21).
+
+Represents [CT State House of Representatives District 21](/us/states/ct/districts/house/21.md).
 
 ## Sources
 

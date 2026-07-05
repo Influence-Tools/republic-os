@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 13"
+represents: "us/states/tn/districts/senate/13"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dawn White
 
 Current TN Senate District 13 (TN State Senate District 13).
+
+Represents [TN State Senate District 13](/us/states/tn/districts/senate/13.md).
 
 ## Sources
 

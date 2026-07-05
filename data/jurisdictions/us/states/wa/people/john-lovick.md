@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 44"
+represents: "us/states/wa/districts/senate/44"
 tenure:
   start: "2021-12-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lovick
 
 Current WA Senate District 44 (WA State Senate District 44).
+
+Represents [WA State Senate District 44](/us/states/wa/districts/senate/44.md).
 
 ## Sources
 

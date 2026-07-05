@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 112"
+represents: "us/states/fl/districts/house/112"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Rizo
 
 Current FL House District 112 (FL State House of Representatives District 112).
+
+Represents [FL State House of Representatives District 112](/us/states/fl/districts/house/112.md).
 
 ## Sources
 

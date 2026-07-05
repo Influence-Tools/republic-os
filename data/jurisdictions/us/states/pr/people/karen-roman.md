@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 4"
+represents: "us/states/pr/districts/senate/4"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karen Román
 
 Current PR Senate District 4 (PR State Senate District 4).
+
+Represents [PR State Senate District 4](/us/states/pr/districts/senate/4.md).
 
 ## Sources
 

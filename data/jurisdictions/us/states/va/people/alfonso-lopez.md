@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 3"
+represents: "us/states/va/districts/house/3"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alfonso Lopez
 
 Current VA House District 3 (VA State House of Representatives District 3).
+
+Represents [VA State House of Representatives District 3](/us/states/va/districts/house/3.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 13"
+represents: "us/states/me/districts/senate/13"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cameron Reny
 
 Current ME Senate District 13 (ME State Senate District 13).
+
+Represents [ME State Senate District 13](/us/states/me/districts/senate/13.md).
 
 ## Sources
 

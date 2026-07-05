@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 2"
+represents: "us/states/nm/districts/senate/2"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Lanier
 
 Current NM Senate District 2 (NM State Senate District 2).
+
+Represents [NM State Senate District 2](/us/states/nm/districts/senate/2.md).
 
 ## Sources
 

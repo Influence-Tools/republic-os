@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 9"
+represents: "us/states/co/districts/house/9"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Sirota
 
 Current CO House District 9 (CO State House of Representatives District 9).
+
+Represents [CO State House of Representatives District 9](/us/states/co/districts/house/9.md).
 
 ## Sources
 

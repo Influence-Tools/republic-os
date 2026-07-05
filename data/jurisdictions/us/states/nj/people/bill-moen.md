@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 5"
+represents: "us/states/nj/districts/house/5"
 tenure:
   start: "2020-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Moen
 
 Current NJ House District 5 (NJ State House of Representatives District 5).
+
+Represents [NJ State House of Representatives District 5](/us/states/nj/districts/house/5.md).
 
 ## Sources
 

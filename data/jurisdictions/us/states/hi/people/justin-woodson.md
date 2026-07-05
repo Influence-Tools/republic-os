@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 9"
+represents: "us/states/hi/districts/house/9"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Woodson
 
 Current HI House District 9 (HI State House of Representatives District 9).
+
+Represents [HI State House of Representatives District 9](/us/states/hi/districts/house/9.md).
 
 ## Sources
 

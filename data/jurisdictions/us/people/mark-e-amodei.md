@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NV"
 district: "Congressional District 2"
+represents: "us/states/nv/districts/02"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Mark E. Amodei
 
 Current U.S. House of Representatives - NV-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/nv/districts/02.md).
 
 ## Committees
 

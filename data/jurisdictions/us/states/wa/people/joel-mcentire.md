@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 19"
+represents: "us/states/wa/districts/house/19"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joel McEntire
 
 Current WA House District 19 (WA State House of Representatives District 19).
+
+Represents [WA State House of Representatives District 19](/us/states/wa/districts/house/19.md).
 
 ## Sources
 

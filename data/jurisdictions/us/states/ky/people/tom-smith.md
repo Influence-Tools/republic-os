@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 86"
+represents: "us/states/ky/districts/house/86"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Smith
 
 Current KY House District 86 (KY State House of Representatives District 86).
+
+Represents [KY State House of Representatives District 86](/us/states/ky/districts/house/86.md).
 
 ## Sources
 

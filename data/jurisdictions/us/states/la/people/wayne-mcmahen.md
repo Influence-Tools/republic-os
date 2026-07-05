@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 10"
+represents: "us/states/la/districts/house/10"
 tenure:
   start: "2018-07-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wayne McMahen
 
 Current LA House District 10 (LA State House of Representatives District 10).
+
+Represents [LA State House of Representatives District 10](/us/states/la/districts/house/10.md).
 
 ## Sources
 

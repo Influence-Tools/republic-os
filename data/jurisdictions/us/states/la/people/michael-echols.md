@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 14"
+represents: "us/states/la/districts/house/14"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Echols
 
 Current LA House District 14 (LA State House of Representatives District 14).
+
+Represents [LA State House of Representatives District 14](/us/states/la/districts/house/14.md).
 
 ## Sources
 

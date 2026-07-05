@@ -22,9 +22,42 @@ demographics:
   race_native: 2587
   hispanic: 71391
   bachelors_plus: 207710
+districts:
+  - to: "us/states/nj/districts/04"
+    rel: in-district
+    area_weight: 0.5266
+  - to: "us/states/nj/districts/02"
+    rel: in-district
+    area_weight: 0.2985
+  - to: "us/states/nj/districts/senate/9"
+    rel: in-district
+    area_weight: 0.5375
+  - to: "us/states/nj/districts/senate/12"
+    rel: in-district
+    area_weight: 0.1536
+  - to: "us/states/nj/districts/senate/10"
+    rel: in-district
+    area_weight: 0.1059
+  - to: "us/states/nj/districts/senate/30"
+    rel: in-district
+    area_weight: 0.0275
+  - to: "us/states/nj/districts/house/9"
+    rel: in-district
+    area_weight: 0.5375
+  - to: "us/states/nj/districts/house/12"
+    rel: in-district
+    area_weight: 0.1536
+  - to: "us/states/nj/districts/house/10"
+    rel: in-district
+    area_weight: 0.1059
+  - to: "us/states/nj/districts/house/30"
+    rel: in-district
+    area_weight: 0.0275
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nj]
 timestamp: "2026-07-03"
@@ -56,6 +89,20 @@ County jurisdiction.
 | Hispanic/Latino | 71391 |
 | Bachelor's or higher | 207710 |
 
+## Districts
+
+- [NJ-04](/us/states/nj/districts/04.md) — 53% (congressional)
+- [NJ-02](/us/states/nj/districts/02.md) — 30% (congressional)
+- [NJ Senate District 9](/us/states/nj/districts/senate/9.md) — 54% (state senate)
+- [NJ Senate District 12](/us/states/nj/districts/senate/12.md) — 15% (state senate)
+- [NJ Senate District 10](/us/states/nj/districts/senate/10.md) — 11% (state senate)
+- [NJ Senate District 30](/us/states/nj/districts/senate/30.md) — 3% (state senate)
+- [NJ House District 9](/us/states/nj/districts/house/9.md) — 54% (state house)
+- [NJ House District 12](/us/states/nj/districts/house/12.md) — 15% (state house)
+- [NJ House District 10](/us/states/nj/districts/house/10.md) — 11% (state house)
+- [NJ House District 30](/us/states/nj/districts/house/30.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

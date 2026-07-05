@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 4B"
+represents: "us/states/id/districts/house/4b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elaine Price
 
 Current ID House District 4B (ID State House of Representatives District 4B).
+
+Represents [ID State House of Representatives District 4B](/us/states/id/districts/house/4b.md).
 
 ## Sources
 

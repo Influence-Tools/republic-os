@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 48"
+represents: "us/states/ut/districts/house/48"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Fiefia
 
 Current UT House District 48 (UT State House of Representatives District 48).
+
+Represents [UT State House of Representatives District 48](/us/states/ut/districts/house/48.md).
 
 ## Sources
 

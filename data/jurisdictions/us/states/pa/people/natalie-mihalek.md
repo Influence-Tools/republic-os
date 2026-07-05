@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 40"
+represents: "us/states/pa/districts/house/40"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natalie Mihalek
 
 Current PA House District 40 (PA State House of Representatives District 40).
+
+Represents [PA State House of Representatives District 40](/us/states/pa/districts/house/40.md).
 
 ## Sources
 

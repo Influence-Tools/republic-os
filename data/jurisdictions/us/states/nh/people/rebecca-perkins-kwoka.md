@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 21"
+represents: "us/states/nh/districts/senate/21"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Perkins Kwoka
 
 Current NH Senate District 21 (NH State Senate District 21).
+
+Represents [NH State Senate District 21](/us/states/nh/districts/senate/21.md).
 
 ## Sources
 

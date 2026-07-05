@@ -22,9 +22,21 @@ demographics:
   race_native: 21
   hispanic: 142
   bachelors_plus: 542
+districts:
+  - to: "us/states/ut/districts/01"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/ut/districts/senate/2"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/ut/districts/house/4"
+    rel: in-district
+    area_weight: 0.9997
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ut]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 142 |
 | Bachelor's or higher | 542 |
 
+## Districts
+
+- [UT-01](/us/states/ut/districts/01.md) — 100% (congressional)
+- [UT Senate District 2](/us/states/ut/districts/senate/2.md) — 100% (state senate)
+- [UT House District 4](/us/states/ut/districts/house/4.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

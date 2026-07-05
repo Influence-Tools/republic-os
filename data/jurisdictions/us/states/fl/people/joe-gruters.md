@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 22"
+represents: "us/states/fl/districts/senate/22"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Gruters
 
 Current FL Senate District 22 (FL State Senate District 22).
+
+Represents [FL State Senate District 22](/us/states/fl/districts/senate/22.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 60"
+represents: "us/states/mi/districts/house/60"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Aragona
 
 Current MI House District 60 (MI State House of Representatives District 60).
+
+Represents [MI State House of Representatives District 60](/us/states/mi/districts/house/60.md).
 
 ## Sources
 

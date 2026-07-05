@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 19"
+represents: "us/states/wv/districts/house/19"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathie Hess Crouse
 
 Current WV House District 19 (WV State House of Representatives District 19).
+
+Represents [WV State House of Representatives District 19](/us/states/wv/districts/house/19.md).
 
 ## Sources
 

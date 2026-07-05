@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 36"
+represents: "us/states/tx/districts/36"
 committees:
   - name: "House Committee on Science, Space, and Technology"
     role: "chair"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Brian Babin
 
 Current U.S. House of Representatives - TX-36 (Congressional District 36).
+
+Represents [Congressional District 36](/us/states/tx/districts/36.md).
 
 ## Committees
 

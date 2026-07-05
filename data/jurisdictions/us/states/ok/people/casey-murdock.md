@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 27"
+represents: "us/states/ok/districts/senate/27"
 tenure:
   start: "2018-02-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Casey Murdock
 
 Current OK Senate District 27 (OK State Senate District 27).
+
+Represents [OK State Senate District 27](/us/states/ok/districts/senate/27.md).
 
 ## Sources
 

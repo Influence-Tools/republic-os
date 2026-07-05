@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Barnstable"
+represents: "us/states/ma/districts/house/3rd-barnstable"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Vieira
 
 Current MA House District 3rd Barnstable (MA State House of Representatives District 3rd Barnstable).
+
+Represents [MA State House of Representatives District 3rd Barnstable](/us/states/ma/districts/house/3rd-barnstable.md).
 
 ## Sources
 

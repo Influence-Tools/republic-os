@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 38"
+represents: "us/states/nd/districts/senate/38"
 tenure:
   start: "2008-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Hogue
 
 Current ND Senate District 38 (ND State Senate District 38).
+
+Represents [ND State Senate District 38](/us/states/nd/districts/senate/38.md).
 
 ## Sources
 

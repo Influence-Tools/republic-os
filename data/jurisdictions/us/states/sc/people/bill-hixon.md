@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 83"
+represents: "us/states/sc/districts/house/83"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Hixon
 
 Current SC House District 83 (SC State House of Representatives District 83).
+
+Represents [SC State House of Representatives District 83](/us/states/sc/districts/house/83.md).
 
 ## Sources
 

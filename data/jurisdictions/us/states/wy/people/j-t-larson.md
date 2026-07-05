@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 17"
+represents: "us/states/wy/districts/house/17"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.T. Larson
 
 Current WY House District 17 (WY State House of Representatives District 17).
+
+Represents [WY State House of Representatives District 17](/us/states/wy/districts/house/17.md).
 
 ## Sources
 

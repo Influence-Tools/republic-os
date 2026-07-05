@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 110"
+represents: "us/states/sc/districts/house/110"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Hartnett
 
 Current SC House District 110 (SC State House of Representatives District 110).
+
+Represents [SC State House of Representatives District 110](/us/states/sc/districts/house/110.md).
 
 ## Sources
 

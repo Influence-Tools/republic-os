@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 61"
+represents: "us/states/ut/districts/house/61"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Shepherd
 
 Current UT House District 61 (UT State House of Representatives District 61).
+
+Represents [UT State House of Representatives District 61](/us/states/ut/districts/house/61.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 12"
+represents: "us/states/co/districts/senate/12"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marc Snyder
 
 Current CO Senate District 12 (CO State Senate District 12).
+
+Represents [CO State Senate District 12](/us/states/co/districts/senate/12.md).
 
 ## Sources
 

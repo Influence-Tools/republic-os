@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Cheshire 18"
+represents: "us/states/nh/districts/house/cheshire-18"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rita Mattson
 
 Current NH House District Cheshire 18 (NH State House of Representatives District Cheshire 18).
+
+Represents [NH State House of Representatives District Cheshire 18](/us/states/nh/districts/house/cheshire-18.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 24"
+represents: "us/states/oh/districts/senate/24"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Patton
 
 Current OH Senate District 24 (OH State Senate District 24).
+
+Represents [OH State Senate District 24](/us/states/oh/districts/senate/24.md).
 
 ## Sources
 

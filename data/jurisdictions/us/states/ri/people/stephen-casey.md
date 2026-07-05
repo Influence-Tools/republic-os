@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 50"
+represents: "us/states/ri/districts/house/50"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephen Casey
 
 Current RI House District 50 (RI State House of Representatives District 50).
+
+Represents [RI State House of Representatives District 50](/us/states/ri/districts/house/50.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 75"
+represents: "us/states/fl/districts/house/75"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Nix
 
 Current FL House District 75 (FL State House of Representatives District 75).
+
+Represents [FL State House of Representatives District 75](/us/states/fl/districts/house/75.md).
 
 ## Sources
 

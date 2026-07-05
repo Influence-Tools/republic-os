@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 16"
+represents: "us/states/tx/districts/house/16"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Will Metcalf
 
 Current TX House District 16 (TX State House of Representatives District 16).
+
+Represents [TX State House of Representatives District 16](/us/states/tx/districts/house/16.md).
 
 ## Sources
 

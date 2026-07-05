@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 108"
+represents: "us/states/ny/districts/house/108"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John McDonald
 
 Current NY House District 108 (NY State House of Representatives District 108).
+
+Represents [NY State House of Representatives District 108](/us/states/ny/districts/house/108.md).
 
 ## Sources
 

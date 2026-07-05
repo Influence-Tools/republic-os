@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 77"
+represents: "us/states/mt/districts/house/77"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jane Gillette
 
 Current MT House District 77 (MT State House of Representatives District 77).
+
+Represents [MT State House of Representatives District 77](/us/states/mt/districts/house/77.md).
 
 ## Sources
 

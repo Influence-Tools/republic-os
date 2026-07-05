@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 17"
+represents: "us/states/fl/districts/senate/17"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carlos Smith
 
 Current FL Senate District 17 (FL State Senate District 17).
+
+Represents [FL State Senate District 17](/us/states/fl/districts/senate/17.md).
 
 ## Sources
 

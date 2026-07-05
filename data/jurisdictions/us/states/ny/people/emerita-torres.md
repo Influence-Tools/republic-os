@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 85"
+represents: "us/states/ny/districts/house/85"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emérita Torres
 
 Current NY House District 85 (NY State House of Representatives District 85).
+
+Represents [NY State House of Representatives District 85](/us/states/ny/districts/house/85.md).
 
 ## Sources
 

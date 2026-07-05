@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 7"
+represents: "us/states/wv/districts/senate/7"
 tenure:
   start: "2025-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zack Maynard
 
 Current WV Senate District 7 (WV State Senate District 7).
+
+Represents [WV State Senate District 7](/us/states/wv/districts/senate/7.md).
 
 ## Sources
 

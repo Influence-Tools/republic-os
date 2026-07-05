@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 66"
+represents: "us/states/ks/districts/house/66"
 tenure:
   start: "2003-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sydney Carlin
 
 Current KS House District 66 (KS State House of Representatives District 66).
+
+Represents [KS State House of Representatives District 66](/us/states/ks/districts/house/66.md).
 
 ## Sources
 

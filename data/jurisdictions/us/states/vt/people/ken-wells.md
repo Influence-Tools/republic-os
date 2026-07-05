@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Orleans-3"
+represents: "us/states/vt/districts/house/orleans-3"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Wells
 
 Current VT House District Orleans-3 (VT State House of Representatives District Orleans-3).
+
+Represents [VT State House of Representatives District Orleans-3](/us/states/vt/districts/house/orleans-3.md).
 
 ## Sources
 

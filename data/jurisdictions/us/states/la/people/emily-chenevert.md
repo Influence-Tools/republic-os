@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 66"
+represents: "us/states/la/districts/house/66"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Emily Chenevert
 
 Current LA House District 66 (LA State House of Representatives District 66).
+
+Represents [LA State House of Representatives District 66](/us/states/la/districts/house/66.md).
 
 ## Sources
 

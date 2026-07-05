@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 3"
+represents: "us/states/de/districts/senate/3"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tizzy Lockman
 
 Current DE Senate District 3 (DE State Senate District 3).
+
+Represents [DE State Senate District 3](/us/states/de/districts/senate/3.md).
 
 ## Sources
 

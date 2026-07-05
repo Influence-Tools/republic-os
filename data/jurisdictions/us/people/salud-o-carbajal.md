@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 24"
+represents: "us/states/ca/districts/24"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Salud O. Carbajal
 
 Current U.S. House of Representatives - CA-24 (Congressional District 24).
+
+Represents [Congressional District 24](/us/states/ca/districts/24.md).
 
 ## Committees
 

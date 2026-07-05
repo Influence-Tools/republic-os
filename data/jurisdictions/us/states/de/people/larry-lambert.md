@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 7"
+represents: "us/states/de/districts/house/7"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Lambert
 
 Current DE House District 7 (DE State House of Representatives District 7).
+
+Represents [DE State House of Representatives District 7](/us/states/de/districts/house/7.md).
 
 ## Sources
 

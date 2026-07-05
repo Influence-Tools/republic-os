@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 53"
+represents: "us/states/ok/districts/house/53"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Blair
 
 Current OK House District 53 (OK State House of Representatives District 53).
+
+Represents [OK State House of Representatives District 53](/us/states/ok/districts/house/53.md).
 
 ## Sources
 

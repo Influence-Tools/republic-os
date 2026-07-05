@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 161"
+represents: "us/states/pa/districts/house/161"
 tenure:
   start: "2015-08-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leanne Krueger
 
 Current PA House District 161 (PA State House of Representatives District 161).
+
+Represents [PA State House of Representatives District 161](/us/states/pa/districts/house/161.md).
 
 ## Sources
 

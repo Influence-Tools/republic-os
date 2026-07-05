@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 15"
+represents: "us/states/ok/districts/senate/15"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Standridge
 
 Current OK Senate District 15 (OK State Senate District 15).
+
+Represents [OK State Senate District 15](/us/states/ok/districts/senate/15.md).
 
 ## Sources
 

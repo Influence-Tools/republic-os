@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 35"
+represents: "us/states/nc/districts/house/35"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Schietzelt
 
 Current NC House District 35 (NC State House of Representatives District 35).
+
+Represents [NC State House of Representatives District 35](/us/states/nc/districts/house/35.md).
 
 ## Sources
 

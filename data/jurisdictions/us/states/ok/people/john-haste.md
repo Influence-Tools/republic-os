@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 36"
+represents: "us/states/ok/districts/senate/36"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Haste
 
 Current OK Senate District 36 (OK State Senate District 36).
+
+Represents [OK State Senate District 36](/us/states/ok/districts/senate/36.md).
 
 ## Sources
 

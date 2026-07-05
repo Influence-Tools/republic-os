@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-6"
+represents: "us/states/vt/districts/house/windsor-6"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Esme Cole
 
 Current VT House District Windsor-6 (VT State House of Representatives District Windsor-6).
+
+Represents [VT State House of Representatives District Windsor-6](/us/states/vt/districts/house/windsor-6.md).
 
 ## Sources
 

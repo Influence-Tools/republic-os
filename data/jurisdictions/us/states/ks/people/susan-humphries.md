@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 99"
+represents: "us/states/ks/districts/house/99"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Susan Humphries
 
 Current KS House District 99 (KS State House of Representatives District 99).
+
+Represents [KS State House of Representatives District 99](/us/states/ks/districts/house/99.md).
 
 ## Sources
 

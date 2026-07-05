@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 14"
+represents: "us/states/wy/districts/senate/14"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Pearson
 
 Current WY Senate District 14 (WY State Senate District 14).
+
+Represents [WY State Senate District 14](/us/states/wy/districts/senate/14.md).
 
 ## Sources
 

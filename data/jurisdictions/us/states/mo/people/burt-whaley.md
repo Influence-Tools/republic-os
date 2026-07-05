@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 138"
+represents: "us/states/mo/districts/house/138"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Burt Whaley
 
 Current MO House District 138 (MO State House of Representatives District 138).
+
+Represents [MO State House of Representatives District 138](/us/states/mo/districts/house/138.md).
 
 ## Sources
 

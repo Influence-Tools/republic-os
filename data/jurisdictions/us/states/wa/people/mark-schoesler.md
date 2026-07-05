@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 9"
+represents: "us/states/wa/districts/senate/9"
 tenure:
   start: "2005-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Schoesler
 
 Current WA Senate District 9 (WA State Senate District 9).
+
+Represents [WA State Senate District 9](/us/states/wa/districts/senate/9.md).
 
 ## Sources
 

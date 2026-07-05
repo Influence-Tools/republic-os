@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 43"
+represents: "us/states/il/districts/house/43"
 tenure:
   start: "2014-03-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anna Moeller
 
 Current IL House District 43 (IL State House of Representatives District 43).
+
+Represents [IL State House of Representatives District 43](/us/states/il/districts/house/43.md).
 
 ## Sources
 

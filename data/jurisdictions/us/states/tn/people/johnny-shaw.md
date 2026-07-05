@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 80"
+represents: "us/states/tn/districts/house/80"
 tenure:
   start: "2000-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny Shaw
 
 Current TN House District 80 (TN State House of Representatives District 80).
+
+Represents [TN State House of Representatives District 80](/us/states/tn/districts/house/80.md).
 
 ## Sources
 

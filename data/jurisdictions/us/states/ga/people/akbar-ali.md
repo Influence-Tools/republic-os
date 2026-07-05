@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 106"
+represents: "us/states/ga/districts/house/106"
 tenure:
   start: "2025-12-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Akbar Ali
 
 Current GA House District 106 (GA State House of Representatives District 106).
+
+Represents [GA State House of Representatives District 106](/us/states/ga/districts/house/106.md).
 
 ## Sources
 

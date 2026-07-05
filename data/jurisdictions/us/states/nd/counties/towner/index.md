@@ -22,9 +22,21 @@ demographics:
   race_native: 127
   hispanic: 106
   bachelors_plus: 395
+districts:
+  - to: "us/states/nd/districts/00"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/nd/districts/senate/15"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/nd/districts/house/15"
+    rel: in-district
+    area_weight: 0.9998
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nd]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 106 |
 | Bachelor's or higher | 395 |
 
+## Districts
+
+- [ND-00](/us/states/nd/districts/00.md) — 100% (congressional)
+- [ND Senate District 15](/us/states/nd/districts/senate/15.md) — 100% (state senate)
+- [ND House District 15](/us/states/nd/districts/house/15.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

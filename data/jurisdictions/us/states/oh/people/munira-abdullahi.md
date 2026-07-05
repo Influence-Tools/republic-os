@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 9"
+represents: "us/states/oh/districts/house/9"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Munira Abdullahi
 
 Current OH House District 9 (OH State House of Representatives District 9).
+
+Represents [OH State House of Representatives District 9](/us/states/oh/districts/house/9.md).
 
 ## Sources
 

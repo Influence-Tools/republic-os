@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 27"
+represents: "us/states/tx/districts/27"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Michael Cloud
 
 Current U.S. House of Representatives - TX-27 (Congressional District 27).
+
+Represents [Congressional District 27](/us/states/tx/districts/27.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Sullivan 2"
+represents: "us/states/nh/districts/house/sullivan-2"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Palmer
 
 Current NH House District Sullivan 2 (NH State House of Representatives District Sullivan 2).
+
+Represents [NH State House of Representatives District Sullivan 2](/us/states/nh/districts/house/sullivan-2.md).
 
 ## Sources
 

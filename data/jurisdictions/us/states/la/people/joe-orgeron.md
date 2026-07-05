@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 54"
+represents: "us/states/la/districts/house/54"
 tenure:
   start: "2020-07-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Orgeron
 
 Current LA House District 54 (LA State House of Representatives District 54).
+
+Represents [LA State House of Representatives District 54](/us/states/la/districts/house/54.md).
 
 ## Sources
 

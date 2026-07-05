@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 5"
+represents: "us/states/wi/districts/house/5"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joy Goeben
 
 Current WI House District 5 (WI State House of Representatives District 5).
+
+Represents [WI State House of Representatives District 5](/us/states/wi/districts/house/5.md).
 
 ## Sources
 

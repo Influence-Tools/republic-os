@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 49"
+represents: "us/states/il/districts/senate/49"
 tenure:
   start: "2020-12-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Meg Loughran Cappel
 
 Current IL Senate District 49 (IL State Senate District 49).
+
+Represents [IL State Senate District 49](/us/states/il/districts/senate/49.md).
 
 ## Sources
 

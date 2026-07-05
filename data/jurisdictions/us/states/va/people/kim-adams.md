@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 82"
+represents: "us/states/va/districts/house/82"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Adams
 
 Current VA House District 82 (VA State House of Representatives District 82).
+
+Represents [VA State House of Representatives District 82](/us/states/va/districts/house/82.md).
 
 ## Sources
 

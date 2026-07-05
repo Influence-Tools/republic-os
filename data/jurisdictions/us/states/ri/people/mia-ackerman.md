@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 45"
+represents: "us/states/ri/districts/house/45"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mia Ackerman
 
 Current RI House District 45 (RI State House of Representatives District 45).
+
+Represents [RI State House of Representatives District 45](/us/states/ri/districts/house/45.md).
 
 ## Sources
 

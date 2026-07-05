@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 116"
+represents: "us/states/ct/districts/house/116"
 tenure:
   start: "2021-12-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Treneé McGee
 
 Current CT House District 116 (CT State House of Representatives District 116).
+
+Represents [CT State House of Representatives District 116](/us/states/ct/districts/house/116.md).
 
 ## Sources
 

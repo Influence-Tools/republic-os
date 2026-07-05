@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 33"
+represents: "us/states/co/districts/senate/33"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Coleman
 
 Current CO Senate District 33 (CO State Senate District 33).
+
+Represents [CO State Senate District 33](/us/states/co/districts/senate/33.md).
 
 ## Sources
 

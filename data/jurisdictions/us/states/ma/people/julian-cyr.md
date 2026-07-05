@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Cape and Islands"
+represents: "us/states/ma/districts/senate/cape-and-islands"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julian Cyr
 
 Current MA Senate District Cape and Islands (MA State Senate District Cape and Islands).
+
+Represents [MA State Senate District Cape and Islands](/us/states/ma/districts/senate/cape-and-islands.md).
 
 ## Sources
 

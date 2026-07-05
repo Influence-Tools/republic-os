@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 6th Hampden"
+represents: "us/states/ma/districts/house/6th-hampden"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Finn
 
 Current MA House District 6th Hampden (MA State House of Representatives District 6th Hampden).
+
+Represents [MA State House of Representatives District 6th Hampden](/us/states/ma/districts/house/6th-hampden.md).
 
 ## Sources
 

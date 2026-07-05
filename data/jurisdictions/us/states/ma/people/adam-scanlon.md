@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 14th Bristol"
+represents: "us/states/ma/districts/house/14th-bristol"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Scanlon
 
 Current MA House District 14th Bristol (MA State House of Representatives District 14th Bristol).
+
+Represents [MA State House of Representatives District 14th Bristol](/us/states/ma/districts/house/14th-bristol.md).
 
 ## Sources
 

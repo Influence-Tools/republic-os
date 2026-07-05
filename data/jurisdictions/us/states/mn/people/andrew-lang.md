@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 16"
+represents: "us/states/mn/districts/senate/16"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Lang
 
 Current MN Senate District 16 (MN State Senate District 16).
+
+Represents [MN State Senate District 16](/us/states/mn/districts/senate/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 50"
+represents: "us/states/mn/districts/senate/50"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alice Mann
 
 Current MN Senate District 50 (MN State Senate District 50).
+
+Represents [MN State Senate District 50](/us/states/mn/districts/senate/50.md).
 
 ## Sources
 

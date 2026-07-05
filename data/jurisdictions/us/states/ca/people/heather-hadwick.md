@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 1"
+represents: "us/states/ca/districts/house/1"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Hadwick
 
 Current CA House District 1 (CA State House of Representatives District 1).
+
+Represents [CA State House of Representatives District 1](/us/states/ca/districts/house/1.md).
 
 ## Sources
 

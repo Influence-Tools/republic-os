@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 15"
+represents: "us/states/la/districts/house/15"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Foy Gadberry
 
 Current LA House District 15 (LA State House of Representatives District 15).
+
+Represents [LA State House of Representatives District 15](/us/states/la/districts/house/15.md).
 
 ## Sources
 

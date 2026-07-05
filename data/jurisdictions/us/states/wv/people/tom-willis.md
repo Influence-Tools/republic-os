@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 15"
+represents: "us/states/wv/districts/senate/15"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Willis
 
 Current WV Senate District 15 (WV State Senate District 15).
+
+Represents [WV State Senate District 15](/us/states/wv/districts/senate/15.md).
 
 ## Sources
 

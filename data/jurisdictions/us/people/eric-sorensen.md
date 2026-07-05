@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IL"
 district: "Congressional District 17"
+represents: "us/states/il/districts/17"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Eric Sorensen
 
 Current U.S. House of Representatives - IL-17 (Congressional District 17).
+
+Represents [Congressional District 17](/us/states/il/districts/17.md).
 
 ## Committees
 

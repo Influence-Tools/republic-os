@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 44"
+represents: "us/states/or/districts/house/44"
 tenure:
   start: "2022-02-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Nelson
 
 Current OR House District 44 (OR State House of Representatives District 44).
+
+Represents [OR State House of Representatives District 44](/us/states/or/districts/house/44.md).
 
 ## Sources
 

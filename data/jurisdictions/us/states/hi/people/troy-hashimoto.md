@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 5"
+represents: "us/states/hi/districts/senate/5"
 tenure:
   start: "2023-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Troy Hashimoto
 
 Current HI Senate District 5 (HI State Senate District 5).
+
+Represents [HI State Senate District 5](/us/states/hi/districts/senate/5.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 53"
+represents: "us/states/ar/districts/house/53"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Duffield
 
 Current AR House District 53 (AR State House of Representatives District 53).
+
+Represents [AR State House of Representatives District 53](/us/states/ar/districts/house/53.md).
 
 ## Sources
 

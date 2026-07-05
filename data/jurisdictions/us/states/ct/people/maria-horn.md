@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 64"
+represents: "us/states/ct/districts/house/64"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maria Horn
 
 Current CT House District 64 (CT State House of Representatives District 64).
+
+Represents [CT State House of Representatives District 64](/us/states/ct/districts/house/64.md).
 
 ## Sources
 

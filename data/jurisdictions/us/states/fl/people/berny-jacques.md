@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 59"
+represents: "us/states/fl/districts/house/59"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Berny Jacques
 
 Current FL House District 59 (FL State House of Representatives District 59).
+
+Represents [FL State House of Representatives District 59](/us/states/fl/districts/house/59.md).
 
 ## Sources
 

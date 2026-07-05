@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 6"
+represents: "us/states/il/districts/senate/6"
 tenure:
   start: "2020-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sara Feigenholtz
 
 Current IL Senate District 6 (IL State Senate District 6).
+
+Represents [IL State Senate District 6](/us/states/il/districts/senate/6.md).
 
 ## Sources
 

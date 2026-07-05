@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 20"
+represents: "us/states/il/districts/house/20"
 tenure:
   start: "2019-06-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Stephens
 
 Current IL House District 20 (IL State House of Representatives District 20).
+
+Represents [IL State House of Representatives District 20](/us/states/il/districts/house/20.md).
 
 ## Sources
 

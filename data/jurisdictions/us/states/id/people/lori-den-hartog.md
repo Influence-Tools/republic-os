@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 22"
+represents: "us/states/id/districts/senate/22"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Den Hartog
 
 Current ID Senate District 22 (ID State Senate District 22).
+
+Represents [ID State Senate District 22](/us/states/id/districts/senate/22.md).
 
 ## Sources
 

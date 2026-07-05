@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 23"
+represents: "us/states/ok/districts/senate/23"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lonnie Paxton
 
 Current OK Senate District 23 (OK State Senate District 23).
+
+Represents [OK State Senate District 23](/us/states/ok/districts/senate/23.md).
 
 ## Sources
 

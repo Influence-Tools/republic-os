@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 109"
+represents: "us/states/ct/districts/house/109"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Farley Santos
 
 Current CT House District 109 (CT State House of Representatives District 109).
+
+Represents [CT State House of Representatives District 109](/us/states/ct/districts/house/109.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 10"
+represents: "us/states/mi/districts/10"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # John James
 
 Current U.S. House of Representatives - MI-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/mi/districts/10.md).
 
 ## Committees
 

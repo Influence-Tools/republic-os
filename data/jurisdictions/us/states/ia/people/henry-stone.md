@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 9"
+represents: "us/states/ia/districts/house/9"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Henry Stone
 
 Current IA House District 9 (IA State House of Representatives District 9).
+
+Represents [IA State House of Representatives District 9](/us/states/ia/districts/house/9.md).
 
 ## Sources
 

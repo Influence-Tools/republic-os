@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 27"
+represents: "us/states/ri/districts/house/27"
 tenure:
   start: "2007-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Serpa
 
 Current RI House District 27 (RI State House of Representatives District 27).
+
+Represents [RI State House of Representatives District 27](/us/states/ri/districts/house/27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "RI"
 district: "Congressional District 2"
+represents: "us/states/ri/districts/02"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Seth Magaziner
 
 Current U.S. House of Representatives - RI-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ri/districts/02.md).
 
 ## Committees
 

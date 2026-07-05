@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 27"
+represents: "us/states/ky/districts/senate/27"
 tenure:
   start: "2015-03-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve West
 
 Current KY Senate District 27 (KY State Senate District 27).
+
+Represents [KY State Senate District 27](/us/states/ky/districts/senate/27.md).
 
 ## Sources
 

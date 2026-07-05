@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 24"
+represents: "us/states/mt/districts/senate/24"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Yakawich
 
 Current MT Senate District 24 (MT State Senate District 24).
+
+Represents [MT State Senate District 24](/us/states/mt/districts/senate/24.md).
 
 ## Sources
 

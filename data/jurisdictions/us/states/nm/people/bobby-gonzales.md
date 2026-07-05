@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 6"
+represents: "us/states/nm/districts/senate/6"
 tenure:
   start: "2019-12-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Gonzales
 
 Current NM Senate District 6 (NM State Senate District 6).
+
+Represents [NM State Senate District 6](/us/states/nm/districts/senate/6.md).
 
 ## Sources
 

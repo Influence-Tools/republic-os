@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 10"
+represents: "us/states/pa/districts/house/10"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amen Brown
 
 Current PA House District 10 (PA State House of Representatives District 10).
+
+Represents [PA State House of Representatives District 10](/us/states/pa/districts/house/10.md).
 
 ## Sources
 

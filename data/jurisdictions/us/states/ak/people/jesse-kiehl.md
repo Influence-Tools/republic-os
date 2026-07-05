@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District B"
+represents: "us/states/ak/districts/senate/b"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Kiehl
 
 Current AK Senate District B (AK State Senate District B).
+
+Represents [AK State Senate District B](/us/states/ak/districts/senate/b.md).
 
 ## Sources
 

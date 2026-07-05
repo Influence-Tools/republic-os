@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 8"
+represents: "us/states/sc/districts/senate/8"
 tenure:
   start: "2012-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ross Turner
 
 Current SC Senate District 8 (SC State Senate District 8).
+
+Represents [SC State Senate District 8](/us/states/sc/districts/senate/8.md).
 
 ## Sources
 

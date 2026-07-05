@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 11"
+represents: "us/states/ri/districts/senate/11"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Ujifusa
 
 Current RI Senate District 11 (RI State Senate District 11).
+
+Represents [RI State Senate District 11](/us/states/ri/districts/senate/11.md).
 
 ## Sources
 

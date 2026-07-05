@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 77"
+represents: "us/states/in/districts/house/77"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Burton
 
 Current IN House District 77 (IN State House of Representatives District 77).
+
+Represents [IN State House of Representatives District 77](/us/states/in/districts/house/77.md).
 
 ## Sources
 

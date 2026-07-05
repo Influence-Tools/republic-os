@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 1"
+represents: "us/states/ga/districts/01"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Earl L. "Buddy" Carter
 
 Current U.S. House of Representatives - GA-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ga/districts/01.md).
 
 ## Committees
 

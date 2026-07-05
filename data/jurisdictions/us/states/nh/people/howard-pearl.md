@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 17"
+represents: "us/states/nh/districts/senate/17"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Howard Pearl
 
 Current NH Senate District 17 (NH State Senate District 17).
+
+Represents [NH State Senate District 17](/us/states/nh/districts/senate/17.md).
 
 ## Sources
 

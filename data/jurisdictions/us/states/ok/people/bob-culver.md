@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 4"
+represents: "us/states/ok/districts/house/4"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Culver
 
 Current OK House District 4 (OK State House of Representatives District 4).
+
+Represents [OK State House of Representatives District 4](/us/states/ok/districts/house/4.md).
 
 ## Sources
 

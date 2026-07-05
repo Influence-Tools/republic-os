@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 12"
+represents: "us/states/md/districts/senate/12"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clarence Lam
 
 Current MD Senate District 12 (MD State Senate District 12).
+
+Represents [MD State Senate District 12](/us/states/md/districts/senate/12.md).
 
 ## Sources
 

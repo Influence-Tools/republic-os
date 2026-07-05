@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Franklin-5"
+represents: "us/states/vt/districts/house/franklin-5"
 tenure:
   start: "2019-02-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Hango
 
 Current VT House District Franklin-5 (VT State House of Representatives District Franklin-5).
+
+Represents [VT State House of Representatives District Franklin-5](/us/states/vt/districts/house/franklin-5.md).
 
 ## Sources
 

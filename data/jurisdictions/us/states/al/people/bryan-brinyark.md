@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 16"
+represents: "us/states/al/districts/house/16"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Brinyark
 
 Current AL House District 16 (AL State House of Representatives District 16).
+
+Represents [AL State House of Representatives District 16](/us/states/al/districts/house/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 62"
+represents: "us/states/ok/districts/house/62"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniel Pae
 
 Current OK House District 62 (OK State House of Representatives District 62).
+
+Represents [OK State House of Representatives District 62](/us/states/ok/districts/house/62.md).
 
 ## Sources
 

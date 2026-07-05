@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 17"
+represents: "us/states/nc/districts/senate/17"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sydney Batch
 
 Current NC Senate District 17 (NC State Senate District 17).
+
+Represents [NC State Senate District 17](/us/states/nc/districts/senate/17.md).
 
 ## Sources
 

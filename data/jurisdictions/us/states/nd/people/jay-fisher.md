@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 5"
+represents: "us/states/nd/districts/house/5"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Fisher
 
 Current ND House District 5 (ND State House of Representatives District 5).
+
+Represents [ND State House of Representatives District 5](/us/states/nd/districts/house/5.md).
 
 ## Sources
 

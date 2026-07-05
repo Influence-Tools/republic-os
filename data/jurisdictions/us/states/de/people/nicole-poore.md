@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 12"
+represents: "us/states/de/districts/senate/12"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nicole Poore
 
 Current DE Senate District 12 (DE State Senate District 12).
+
+Represents [DE State Senate District 12](/us/states/de/districts/senate/12.md).
 
 ## Sources
 

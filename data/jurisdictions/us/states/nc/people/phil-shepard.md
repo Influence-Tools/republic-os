@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 15"
+represents: "us/states/nc/districts/house/15"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Shepard
 
 Current NC House District 15 (NC State House of Representatives District 15).
+
+Represents [NC State House of Representatives District 15](/us/states/nc/districts/house/15.md).
 
 ## Sources
 

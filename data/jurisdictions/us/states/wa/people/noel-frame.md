@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 36"
+represents: "us/states/wa/districts/senate/36"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Noel Frame
 
 Current WA Senate District 36 (WA State Senate District 36).
+
+Represents [WA State Senate District 36](/us/states/wa/districts/senate/36.md).
 
 ## Sources
 

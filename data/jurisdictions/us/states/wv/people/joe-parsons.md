@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 16"
+represents: "us/states/wv/districts/house/16"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Parsons
 
 Current WV House District 16 (WV State House of Representatives District 16).
+
+Represents [WV State House of Representatives District 16](/us/states/wv/districts/house/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Rutland-6"
+represents: "us/states/vt/districts/house/rutland-6"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Howard
 
 Current VT House District Rutland-6 (VT State House of Representatives District Rutland-6).
+
+Represents [VT State House of Representatives District Rutland-6](/us/states/vt/districts/house/rutland-6.md).
 
 ## Sources
 

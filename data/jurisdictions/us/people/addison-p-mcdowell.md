@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 6"
+represents: "us/states/nc/districts/06"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Addison P. McDowell
 
 Current U.S. House of Representatives - NC-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/nc/districts/06.md).
 
 ## Committees
 

@@ -22,9 +22,24 @@ demographics:
   race_native: 972
   hispanic: 27012
   bachelors_plus: 45835
+districts:
+  - to: "us/states/nc/districts/09"
+    rel: in-district
+    area_weight: 0.9989
+  - to: "us/states/nc/districts/senate/25"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/nc/districts/house/64"
+    rel: in-district
+    area_weight: 0.5491
+  - to: "us/states/nc/districts/house/63"
+    rel: in-district
+    area_weight: 0.4506
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nc]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction — 3 officeholders mapped.
 | Hispanic/Latino | 27012 |
 | Bachelor's or higher | 45835 |
 
+## Districts
+
+- [NC-09](/us/states/nc/districts/09.md) — 100% (congressional)
+- [NC Senate District 25](/us/states/nc/districts/senate/25.md) — 100% (state senate)
+- [NC House District 64](/us/states/nc/districts/house/64.md) — 55% (state house)
+- [NC House District 63](/us/states/nc/districts/house/63.md) — 45% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

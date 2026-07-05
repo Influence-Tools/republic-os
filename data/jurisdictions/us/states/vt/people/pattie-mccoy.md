@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Rutland-1"
+represents: "us/states/vt/districts/house/rutland-1"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pattie McCoy
 
 Current VT House District Rutland-1 (VT State House of Representatives District Rutland-1).
+
+Represents [VT State House of Representatives District Rutland-1](/us/states/vt/districts/house/rutland-1.md).
 
 ## Sources
 

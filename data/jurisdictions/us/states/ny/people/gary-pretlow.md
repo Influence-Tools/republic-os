@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 89"
+represents: "us/states/ny/districts/house/89"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Pretlow
 
 Current NY House District 89 (NY State House of Representatives District 89).
+
+Represents [NY State House of Representatives District 89](/us/states/ny/districts/house/89.md).
 
 ## Sources
 

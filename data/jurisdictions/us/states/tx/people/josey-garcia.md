@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 124"
+represents: "us/states/tx/districts/house/124"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josey Garcia
 
 Current TX House District 124 (TX State House of Representatives District 124).
+
+Represents [TX State House of Representatives District 124](/us/states/tx/districts/house/124.md).
 
 ## Sources
 

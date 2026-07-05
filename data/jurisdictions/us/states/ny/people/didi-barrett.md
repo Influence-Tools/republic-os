@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 106"
+represents: "us/states/ny/districts/house/106"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Didi Barrett
 
 Current NY House District 106 (NY State House of Representatives District 106).
+
+Represents [NY State House of Representatives District 106](/us/states/ny/districts/house/106.md).
 
 ## Sources
 

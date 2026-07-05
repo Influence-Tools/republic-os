@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 19"
+represents: "us/states/oh/districts/house/19"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Robinson
 
 Current OH House District 19 (OH State House of Representatives District 19).
+
+Represents [OH State House of Representatives District 19](/us/states/oh/districts/house/19.md).
 
 ## Sources
 

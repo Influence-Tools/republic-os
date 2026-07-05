@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 4th Worcester"
+represents: "us/states/ma/districts/house/4th-worcester"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natalie Higgins
 
 Current MA House District 4th Worcester (MA State House of Representatives District 4th Worcester).
+
+Represents [MA State House of Representatives District 4th Worcester](/us/states/ma/districts/house/4th-worcester.md).
 
 ## Sources
 

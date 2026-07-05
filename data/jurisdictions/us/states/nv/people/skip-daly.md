@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 13"
+represents: "us/states/nv/districts/senate/13"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Skip Daly
 
 Current NV Senate District 13 (NV State Senate District 13).
+
+Represents [NV State Senate District 13](/us/states/nv/districts/senate/13.md).
 
 ## Sources
 

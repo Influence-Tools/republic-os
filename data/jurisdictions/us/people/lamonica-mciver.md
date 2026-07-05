@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 10"
+represents: "us/states/nj/districts/10"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # LaMonica McIver
 
 Current U.S. House of Representatives - NJ-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/nj/districts/10.md).
 
 ## Committees
 

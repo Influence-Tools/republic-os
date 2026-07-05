@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 7"
+represents: "us/states/nc/districts/senate/7"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Lee
 
 Current NC Senate District 7 (NC State Senate District 7).
+
+Represents [NC State Senate District 7](/us/states/nc/districts/senate/7.md).
 
 ## Sources
 

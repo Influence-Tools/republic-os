@@ -22,9 +22,21 @@ demographics:
   race_native: 3855
   hispanic: 767
   bachelors_plus: 3114
+districts:
+  - to: "us/states/nc/districts/11"
+    rel: in-district
+    area_weight: 0.9987
+  - to: "us/states/nc/districts/senate/50"
+    rel: in-district
+    area_weight: 0.9987
+  - to: "us/states/nc/districts/house/119"
+    rel: in-district
+    area_weight: 0.9984
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nc]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 767 |
 | Bachelor's or higher | 3114 |
 
+## Districts
+
+- [NC-11](/us/states/nc/districts/11.md) — 100% (congressional)
+- [NC Senate District 50](/us/states/nc/districts/senate/50.md) — 100% (state senate)
+- [NC House District 119](/us/states/nc/districts/house/119.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

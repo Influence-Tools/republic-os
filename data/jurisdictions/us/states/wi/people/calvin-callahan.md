@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 35"
+represents: "us/states/wi/districts/house/35"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Calvin Callahan
 
 Current WI House District 35 (WI State House of Representatives District 35).
+
+Represents [WI State House of Representatives District 35](/us/states/wi/districts/house/35.md).
 
 ## Sources
 

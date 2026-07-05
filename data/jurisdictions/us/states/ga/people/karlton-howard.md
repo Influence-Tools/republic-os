@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 129"
+represents: "us/states/ga/districts/house/129"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karlton Howard
 
 Current GA House District 129 (GA State House of Representatives District 129).
+
+Represents [GA State House of Representatives District 129](/us/states/ga/districts/house/129.md).
 
 ## Sources
 

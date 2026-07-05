@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 80"
+represents: "us/states/ga/districts/house/80"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Long Tran
 
 Current GA House District 80 (GA State House of Representatives District 80).
+
+Represents [GA State House of Representatives District 80](/us/states/ga/districts/house/80.md).
 
 ## Sources
 

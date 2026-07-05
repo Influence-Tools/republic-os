@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 20"
+represents: "us/states/nc/districts/house/20"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ted Davis
 
 Current NC House District 20 (NC State House of Representatives District 20).
+
+Represents [NC State House of Representatives District 20](/us/states/nc/districts/house/20.md).
 
 ## Sources
 

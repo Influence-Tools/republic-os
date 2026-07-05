@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 72"
+represents: "us/states/in/districts/house/72"
 tenure:
   start: "2008-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Clere
 
 Current IN House District 72 (IN State House of Representatives District 72).
+
+Represents [IN State House of Representatives District 72](/us/states/in/districts/house/72.md).
 
 ## Sources
 

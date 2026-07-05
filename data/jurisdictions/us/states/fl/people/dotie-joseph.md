@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 108"
+represents: "us/states/fl/districts/house/108"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dotie Joseph
 
 Current FL House District 108 (FL State House of Representatives District 108).
+
+Represents [FL State House of Representatives District 108](/us/states/fl/districts/house/108.md).
 
 ## Sources
 

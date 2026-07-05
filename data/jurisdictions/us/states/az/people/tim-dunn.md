@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 25"
+represents: "us/states/az/districts/senate/25"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Dunn
 
 Current AZ Senate District 25 (AZ State Senate District 25).
+
+Represents [AZ State Senate District 25](/us/states/az/districts/senate/25.md).
 
 ## Sources
 

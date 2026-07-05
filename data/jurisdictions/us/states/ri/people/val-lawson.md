@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 14"
+represents: "us/states/ri/districts/senate/14"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Val Lawson
 
 Current RI Senate District 14 (RI State Senate District 14).
+
+Represents [RI State Senate District 14](/us/states/ri/districts/senate/14.md).
 
 ## Sources
 

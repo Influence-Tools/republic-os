@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 122"
+represents: "us/states/pa/districts/house/122"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doyle Heffley
 
 Current PA House District 122 (PA State House of Representatives District 122).
+
+Represents [PA State House of Representatives District 122](/us/states/pa/districts/house/122.md).
 
 ## Sources
 

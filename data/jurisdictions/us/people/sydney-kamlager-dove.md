@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 37"
+represents: "us/states/ca/districts/37"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Sydney Kamlager-Dove
 
 Current U.S. House of Representatives - CA-37 (Congressional District 37).
+
+Represents [Congressional District 37](/us/states/ca/districts/37.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 65"
+represents: "us/states/ri/districts/house/65"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthew Dawson
 
 Current RI House District 65 (RI State House of Representatives District 65).
+
+Represents [RI State House of Representatives District 65](/us/states/ri/districts/house/65.md).
 
 ## Sources
 

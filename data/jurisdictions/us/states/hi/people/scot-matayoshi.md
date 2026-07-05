@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 49"
+represents: "us/states/hi/districts/house/49"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scot Matayoshi
 
 Current HI House District 49 (HI State House of Representatives District 49).
+
+Represents [HI State House of Representatives District 49](/us/states/hi/districts/house/49.md).
 
 ## Sources
 

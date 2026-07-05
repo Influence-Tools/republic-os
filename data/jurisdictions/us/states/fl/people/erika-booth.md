@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 35"
+represents: "us/states/fl/districts/house/35"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erika Booth
 
 Current FL House District 35 (FL State House of Representatives District 35).
+
+Represents [FL State House of Representatives District 35](/us/states/fl/districts/house/35.md).
 
 ## Sources
 

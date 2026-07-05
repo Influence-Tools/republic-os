@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 86"
+represents: "us/states/tn/districts/house/86"
 tenure:
   start: "2023-04-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Pearson
 
 Current TN House District 86 (TN State House of Representatives District 86).
+
+Represents [TN State House of Representatives District 86](/us/states/tn/districts/house/86.md).
 
 ## Sources
 

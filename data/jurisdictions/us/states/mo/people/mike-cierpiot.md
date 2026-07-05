@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 8"
+represents: "us/states/mo/districts/senate/8"
 tenure:
   start: "2018-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Cierpiot
 
 Current MO Senate District 8 (MO State Senate District 8).
+
+Represents [MO State Senate District 8](/us/states/mo/districts/senate/8.md).
 
 ## Sources
 

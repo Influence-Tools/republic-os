@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 29"
+represents: "us/states/in/districts/house/29"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alaina Shonkwiler
 
 Current IN House District 29 (IN State House of Representatives District 29).
+
+Represents [IN State House of Representatives District 29](/us/states/in/districts/house/29.md).
 
 ## Sources
 

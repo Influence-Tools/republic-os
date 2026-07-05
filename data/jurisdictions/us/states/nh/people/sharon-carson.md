@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 14"
+represents: "us/states/nh/districts/senate/14"
 tenure:
   start: "2008-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Carson
 
 Current NH Senate District 14 (NH State Senate District 14).
+
+Represents [NH State Senate District 14](/us/states/nh/districts/senate/14.md).
 
 ## Sources
 

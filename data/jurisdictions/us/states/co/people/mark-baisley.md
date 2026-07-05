@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State Senate District 4"
+represents: "us/states/co/districts/senate/4"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Baisley
 
 Current CO Senate District 4 (CO State Senate District 4).
+
+Represents [CO State Senate District 4](/us/states/co/districts/senate/4.md).
 
 ## Sources
 

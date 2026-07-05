@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 100"
+represents: "us/states/ms/districts/house/100"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Morgan
 
 Current MS House District 100 (MS State House of Representatives District 100).
+
+Represents [MS State House of Representatives District 100](/us/states/ms/districts/house/100.md).
 
 ## Sources
 

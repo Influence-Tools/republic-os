@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AR"
 district: "Congressional District 3"
+represents: "us/states/ar/districts/03"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Steve Womack
 
 Current U.S. House of Representatives - AR-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ar/districts/03.md).
 
 ## Committees
 

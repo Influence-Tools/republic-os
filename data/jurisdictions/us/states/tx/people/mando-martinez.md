@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 39"
+represents: "us/states/tx/districts/house/39"
 tenure:
   start: "2005-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mando Martinez
 
 Current TX House District 39 (TX State House of Representatives District 39).
+
+Represents [TX State House of Representatives District 39](/us/states/tx/districts/house/39.md).
 
 ## Sources
 

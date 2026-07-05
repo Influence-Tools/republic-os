@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 29"
+represents: "us/states/al/districts/senate/29"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donnie Chesteen
 
 Current AL Senate District 29 (AL State Senate District 29).
+
+Represents [AL State Senate District 29](/us/states/al/districts/senate/29.md).
 
 ## Sources
 

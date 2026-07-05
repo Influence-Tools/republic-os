@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 10th Plymouth"
+represents: "us/states/ma/districts/house/10th-plymouth"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle DuBois
 
 Current MA House District 10th Plymouth (MA State House of Representatives District 10th Plymouth).
+
+Represents [MA State House of Representatives District 10th Plymouth](/us/states/ma/districts/house/10th-plymouth.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 65"
+represents: "us/states/ut/districts/house/65"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Welton
 
 Current UT House District 65 (UT State House of Representatives District 65).
+
+Represents [UT State House of Representatives District 65](/us/states/ut/districts/house/65.md).
 
 ## Sources
 

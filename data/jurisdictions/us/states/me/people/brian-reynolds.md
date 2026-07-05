@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District Houlton Band of Maliseet Indians"
+represents: "us/states/me/districts/house/houlton-band-of-maliseet-indians"
 tenure:
   start: "2025-05-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Reynolds
 
 Current ME House District Houlton Band of Maliseet Indians (ME State House of Representatives District Houlton Band of Maliseet Indians).
+
+Represents [ME State House of Representatives District Houlton Band of Maliseet Indians](/us/states/me/districts/house/houlton-band-of-maliseet-indians.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 55"
+represents: "us/states/co/districts/house/55"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Taggart
 
 Current CO House District 55 (CO State House of Representatives District 55).
+
+Represents [CO State House of Representatives District 55](/us/states/co/districts/house/55.md).
 
 ## Sources
 

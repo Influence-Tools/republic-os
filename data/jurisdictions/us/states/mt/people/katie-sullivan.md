@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 93"
+represents: "us/states/mt/districts/house/93"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Sullivan
 
 Current MT House District 93 (MT State House of Representatives District 93).
+
+Represents [MT State House of Representatives District 93](/us/states/mt/districts/house/93.md).
 
 ## Sources
 

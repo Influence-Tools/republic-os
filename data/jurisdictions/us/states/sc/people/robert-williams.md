@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 62"
+represents: "us/states/sc/districts/house/62"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Williams
 
 Current SC House District 62 (SC State House of Representatives District 62).
+
+Represents [SC State House of Representatives District 62](/us/states/sc/districts/house/62.md).
 
 ## Sources
 

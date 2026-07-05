@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 26"
+represents: "us/states/mo/districts/house/26"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tiffany Price
 
 Current MO House District 26 (MO State House of Representatives District 26).
+
+Represents [MO State House of Representatives District 26](/us/states/mo/districts/house/26.md).
 
 ## Sources
 

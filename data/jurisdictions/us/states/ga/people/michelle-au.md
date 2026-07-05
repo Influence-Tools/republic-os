@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 50"
+represents: "us/states/ga/districts/house/50"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Au
 
 Current GA House District 50 (GA State House of Representatives District 50).
+
+Represents [GA State House of Representatives District 50](/us/states/ga/districts/house/50.md).
 
 ## Sources
 

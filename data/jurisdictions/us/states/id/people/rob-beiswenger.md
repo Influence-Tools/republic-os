@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 8A"
+represents: "us/states/id/districts/house/8a"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Beiswenger
 
 Current ID House District 8A (ID State House of Representatives District 8A).
+
+Represents [ID State House of Representatives District 8A](/us/states/id/districts/house/8a.md).
 
 ## Sources
 

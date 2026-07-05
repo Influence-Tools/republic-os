@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 63"
+represents: "us/states/ar/districts/house/63"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lincoln Barnett
 
 Current AR House District 63 (AR State House of Representatives District 63).
+
+Represents [AR State House of Representatives District 63](/us/states/ar/districts/house/63.md).
 
 ## Sources
 

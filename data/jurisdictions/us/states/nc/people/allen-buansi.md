@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 56"
+represents: "us/states/nc/districts/house/56"
 tenure:
   start: "2022-06-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Allen Buansi
 
 Current NC House District 56 (NC State House of Representatives District 56).
+
+Represents [NC State House of Representatives District 56](/us/states/nc/districts/house/56.md).
 
 ## Sources
 

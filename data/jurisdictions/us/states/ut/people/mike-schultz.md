@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 12"
+represents: "us/states/ut/districts/house/12"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Schultz
 
 Current UT House District 12 (UT State House of Representatives District 12).
+
+Represents [UT State House of Representatives District 12](/us/states/ut/districts/house/12.md).
 
 ## Sources
 

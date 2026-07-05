@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 39"
+represents: "us/states/nm/districts/house/39"
 tenure:
   start: "2021-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Luis Terrazas
 
 Current NM House District 39 (NM State House of Representatives District 39).
+
+Represents [NM State House of Representatives District 39](/us/states/nm/districts/house/39.md).
 
 ## Sources
 

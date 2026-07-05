@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 27"
+represents: "us/states/sd/districts/house/27"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz May
 
 Current SD House District 27 (SD State House of Representatives District 27).
+
+Represents [SD State House of Representatives District 27](/us/states/sd/districts/house/27.md).
 
 ## Sources
 

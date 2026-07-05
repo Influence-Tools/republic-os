@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 48"
+represents: "us/states/wy/districts/house/48"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darin McCann
 
 Current WY House District 48 (WY State House of Representatives District 48).
+
+Represents [WY State House of Representatives District 48](/us/states/wy/districts/house/48.md).
 
 ## Sources
 

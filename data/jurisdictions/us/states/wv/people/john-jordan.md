@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 42"
+represents: "us/states/wv/districts/house/42"
 tenure:
   start: "2026-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Jordan
 
 Current WV House District 42 (WV State House of Representatives District 42).
+
+Represents [WV State House of Representatives District 42](/us/states/wv/districts/house/42.md).
 
 ## Sources
 

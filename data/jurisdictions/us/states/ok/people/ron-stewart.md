@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 73"
+represents: "us/states/ok/districts/house/73"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Stewart
 
 Current OK House District 73 (OK State House of Representatives District 73).
+
+Represents [OK State House of Representatives District 73](/us/states/ok/districts/house/73.md).
 
 ## Sources
 

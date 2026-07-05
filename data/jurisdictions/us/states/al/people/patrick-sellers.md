@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 57"
+represents: "us/states/al/districts/house/57"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Sellers
 
 Current AL House District 57 (AL State House of Representatives District 57).
+
+Represents [AL State House of Representatives District 57](/us/states/al/districts/house/57.md).
 
 ## Sources
 

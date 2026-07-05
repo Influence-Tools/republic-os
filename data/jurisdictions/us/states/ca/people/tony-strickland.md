@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 36"
+represents: "us/states/ca/districts/senate/36"
 tenure:
   start: "2025-03-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Strickland
 
 Current CA Senate District 36 (CA State Senate District 36).
+
+Represents [CA State Senate District 36](/us/states/ca/districts/senate/36.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 20"
+represents: "us/states/ca/districts/20"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Vince Fong
 
 Current U.S. House of Representatives - CA-20 (Congressional District 20).
+
+Represents [Congressional District 20](/us/states/ca/districts/20.md).
 
 ## Committees
 

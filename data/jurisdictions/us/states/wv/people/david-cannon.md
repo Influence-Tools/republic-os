@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 89"
+represents: "us/states/wv/districts/house/89"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Cannon
 
 Current WV House District 89 (WV State House of Representatives District 89).
+
+Represents [WV State House of Representatives District 89](/us/states/wv/districts/house/89.md).
 
 ## Sources
 

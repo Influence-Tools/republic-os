@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 42A"
+represents: "us/states/md/districts/house/42a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nino Mangione
 
 Current MD House District 42A (MD State House of Representatives District 42A).
+
+Represents [MD State House of Representatives District 42A](/us/states/md/districts/house/42a.md).
 
 ## Sources
 

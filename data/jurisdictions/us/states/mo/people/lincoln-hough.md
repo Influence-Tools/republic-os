@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 30"
+represents: "us/states/mo/districts/senate/30"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lincoln Hough
 
 Current MO Senate District 30 (MO State Senate District 30).
+
+Represents [MO State Senate District 30](/us/states/mo/districts/senate/30.md).
 
 ## Sources
 

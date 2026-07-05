@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 19"
+represents: "us/states/sc/districts/house/19"
 tenure:
   start: "2020-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Haddon
 
 Current SC House District 19 (SC State House of Representatives District 19).
+
+Represents [SC State House of Representatives District 19](/us/states/sc/districts/house/19.md).
 
 ## Sources
 

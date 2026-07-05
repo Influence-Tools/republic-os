@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 66"
+represents: "us/states/oh/districts/house/66"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Ray
 
 Current OH House District 66 (OH State House of Representatives District 66).
+
+Represents [OH State House of Representatives District 66](/us/states/oh/districts/house/66.md).
 
 ## Sources
 

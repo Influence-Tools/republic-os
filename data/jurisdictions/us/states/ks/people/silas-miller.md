@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 25"
+represents: "us/states/ks/districts/senate/25"
 tenure:
   start: "2025-12-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Silas Miller
 
 Current KS Senate District 25 (KS State Senate District 25).
+
+Represents [KS State Senate District 25](/us/states/ks/districts/senate/25.md).
 
 ## Sources
 

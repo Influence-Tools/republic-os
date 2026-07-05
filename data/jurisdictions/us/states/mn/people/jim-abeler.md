@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 35"
+represents: "us/states/mn/districts/senate/35"
 tenure:
   start: "2016-02-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Abeler
 
 Current MN Senate District 35 (MN State Senate District 35).
+
+Represents [MN State Senate District 35](/us/states/mn/districts/senate/35.md).
 
 ## Sources
 

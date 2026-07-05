@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 66"
+represents: "us/states/tn/districts/house/66"
 tenure:
   start: "2014-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doc Kumar
 
 Current TN House District 66 (TN State House of Representatives District 66).
+
+Represents [TN State House of Representatives District 66](/us/states/tn/districts/house/66.md).
 
 ## Sources
 

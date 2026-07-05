@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 9"
+represents: "us/states/pa/districts/senate/9"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Kane
 
 Current PA Senate District 9 (PA State Senate District 9).
+
+Represents [PA State Senate District 9](/us/states/pa/districts/senate/9.md).
 
 ## Sources
 

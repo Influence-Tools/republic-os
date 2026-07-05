@@ -22,9 +22,21 @@ demographics:
   race_native: 187
   hispanic: 3650
   bachelors_plus: 17138
+districts:
+  - to: "us/states/md/districts/01"
+    rel: in-district
+    area_weight: 0.6708
+  - to: "us/states/md/districts/senate/37"
+    rel: in-district
+    area_weight: 0.6449
+  - to: "us/states/md/districts/house/37b"
+    rel: in-district
+    area_weight: 0.6449
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 3650 |
 | Bachelor's or higher | 17138 |
 
+## Districts
+
+- [MD-01](/us/states/md/districts/01.md) — 67% (congressional)
+- [MD Senate District 37](/us/states/md/districts/senate/37.md) — 64% (state senate)
+- [MD House District 37B](/us/states/md/districts/house/37b.md) — 64% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 74"
+represents: "us/states/me/districts/house/74"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Hall
 
 Current ME House District 74 (ME State House of Representatives District 74).
+
+Represents [ME State House of Representatives District 74](/us/states/me/districts/house/74.md).
 
 ## Sources
 

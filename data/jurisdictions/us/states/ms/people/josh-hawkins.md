@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 10"
+represents: "us/states/ms/districts/house/10"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Hawkins
 
 Current MS House District 10 (MS State House of Representatives District 10).
+
+Represents [MS State House of Representatives District 10](/us/states/ms/districts/house/10.md).
 
 ## Sources
 

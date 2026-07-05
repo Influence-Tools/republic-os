@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 37A"
+represents: "us/states/md/districts/house/37a"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sheree Sample-Hughes
 
 Current MD House District 37A (MD State House of Representatives District 37A).
+
+Represents [MD State House of Representatives District 37A](/us/states/md/districts/house/37a.md).
 
 ## Sources
 

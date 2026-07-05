@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 120"
+represents: "us/states/ms/districts/house/120"
 tenure:
   start: "2008-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Bennett
 
 Current MS House District 120 (MS State House of Representatives District 120).
+
+Represents [MS State House of Representatives District 120](/us/states/ms/districts/house/120.md).
 
 ## Sources
 

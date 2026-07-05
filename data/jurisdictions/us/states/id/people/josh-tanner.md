@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 14B"
+represents: "us/states/id/districts/house/14b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Tanner
 
 Current ID House District 14B (ID State House of Representatives District 14B).
+
+Represents [ID State House of Representatives District 14B](/us/states/id/districts/house/14b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 28"
+represents: "us/states/nc/districts/house/28"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Strickland
 
 Current NC House District 28 (NC State House of Representatives District 28).
+
+Represents [NC State House of Representatives District 28](/us/states/nc/districts/house/28.md).
 
 ## Sources
 

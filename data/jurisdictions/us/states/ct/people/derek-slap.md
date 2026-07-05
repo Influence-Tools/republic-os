@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 5"
+represents: "us/states/ct/districts/senate/5"
 tenure:
   start: "2019-03-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derek Slap
 
 Current CT Senate District 5 (CT State Senate District 5).
+
+Represents [CT State Senate District 5](/us/states/ct/districts/senate/5.md).
 
 ## Sources
 

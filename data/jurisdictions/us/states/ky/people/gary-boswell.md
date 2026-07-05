@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 8"
+represents: "us/states/ky/districts/senate/8"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Boswell
 
 Current KY Senate District 8 (KY State Senate District 8).
+
+Represents [KY State Senate District 8](/us/states/ky/districts/senate/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 49B"
+represents: "us/states/mn/districts/house/49b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carlie Kotyza-Witthuhn
 
 Current MN House District 49B (MN State House of Representatives District 49B).
+
+Represents [MN State House of Representatives District 49B](/us/states/mn/districts/house/49b.md).
 
 ## Sources
 

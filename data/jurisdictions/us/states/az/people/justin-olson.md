@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 10"
+represents: "us/states/az/districts/house/10"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Olson
 
 Current AZ House District 10 (AZ State House of Representatives District 10).
+
+Represents [AZ State House of Representatives District 10](/us/states/az/districts/house/10.md).
 
 ## Sources
 

@@ -22,9 +22,30 @@ demographics:
   race_native: 382
   hispanic: 8923
   bachelors_plus: 69013
+districts:
+  - to: "us/states/md/districts/02"
+    rel: in-district
+    area_weight: 0.9013
+  - to: "us/states/md/districts/03"
+    rel: in-district
+    area_weight: 0.0946
+  - to: "us/states/md/districts/senate/5"
+    rel: in-district
+    area_weight: 0.7242
+  - to: "us/states/md/districts/senate/42"
+    rel: in-district
+    area_weight: 0.2753
+  - to: "us/states/md/districts/house/5"
+    rel: in-district
+    area_weight: 0.7242
+  - to: "us/states/md/districts/house/42c"
+    rel: in-district
+    area_weight: 0.2753
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 8923 |
 | Bachelor's or higher | 69013 |
 
+## Districts
+
+- [MD-02](/us/states/md/districts/02.md) — 90% (congressional)
+- [MD-03](/us/states/md/districts/03.md) — 9% (congressional)
+- [MD Senate District 5](/us/states/md/districts/senate/5.md) — 72% (state senate)
+- [MD Senate District 42](/us/states/md/districts/senate/42.md) — 28% (state senate)
+- [MD House District 5](/us/states/md/districts/house/5.md) — 72% (state house)
+- [MD House District 42C](/us/states/md/districts/house/42c.md) — 28% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

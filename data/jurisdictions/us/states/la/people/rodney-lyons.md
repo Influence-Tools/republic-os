@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 87"
+represents: "us/states/la/districts/house/87"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rodney Lyons
 
 Current LA House District 87 (LA State House of Representatives District 87).
+
+Represents [LA State House of Representatives District 87](/us/states/la/districts/house/87.md).
 
 ## Sources
 

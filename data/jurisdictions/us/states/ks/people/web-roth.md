@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 79"
+represents: "us/states/ks/districts/house/79"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Web Roth
 
 Current KS House District 79 (KS State House of Representatives District 79).
+
+Represents [KS State House of Representatives District 79](/us/states/ks/districts/house/79.md).
 
 ## Sources
 

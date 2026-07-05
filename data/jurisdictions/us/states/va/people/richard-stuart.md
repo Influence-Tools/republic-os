@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 25"
+represents: "us/states/va/districts/senate/25"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Stuart
 
 Current VA Senate District 25 (VA State Senate District 25).
+
+Represents [VA State Senate District 25](/us/states/va/districts/senate/25.md).
 
 ## Sources
 

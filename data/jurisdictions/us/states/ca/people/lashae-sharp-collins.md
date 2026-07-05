@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 79"
+represents: "us/states/ca/districts/house/79"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # LaShae Sharp-Collins
 
 Current CA House District 79 (CA State House of Representatives District 79).
+
+Represents [CA State House of Representatives District 79](/us/states/ca/districts/house/79.md).
 
 ## Sources
 

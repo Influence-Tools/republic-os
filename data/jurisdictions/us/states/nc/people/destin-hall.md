@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 87"
+represents: "us/states/nc/districts/house/87"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Destin Hall
 
 Current NC House District 87 (NC State House of Representatives District 87).
+
+Represents [NC State House of Representatives District 87](/us/states/nc/districts/house/87.md).
 
 ## Sources
 

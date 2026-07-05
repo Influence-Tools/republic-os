@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 40"
+represents: "us/states/ms/districts/senate/40"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angela Hill
 
 Current MS Senate District 40 (MS State Senate District 40).
+
+Represents [MS State Senate District 40](/us/states/ms/districts/senate/40.md).
 
 ## Sources
 

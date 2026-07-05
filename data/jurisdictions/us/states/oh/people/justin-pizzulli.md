@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 90"
+represents: "us/states/oh/districts/house/90"
 tenure:
   start: "2023-05-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Pizzulli
 
 Current OH House District 90 (OH State House of Representatives District 90).
+
+Represents [OH State House of Representatives District 90](/us/states/oh/districts/house/90.md).
 
 ## Sources
 

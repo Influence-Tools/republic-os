@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 20"
+represents: "us/states/tn/districts/house/20"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tommy Stinnett
 
 Current TN House District 20 (TN State House of Representatives District 20).
+
+Represents [TN State House of Representatives District 20](/us/states/tn/districts/house/20.md).
 
 ## Sources
 

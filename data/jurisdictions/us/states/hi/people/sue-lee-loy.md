@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 2"
+represents: "us/states/hi/districts/house/2"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sue Lee Loy
 
 Current HI House District 2 (HI State House of Representatives District 2).
+
+Represents [HI State House of Representatives District 2](/us/states/hi/districts/house/2.md).
 
 ## Sources
 

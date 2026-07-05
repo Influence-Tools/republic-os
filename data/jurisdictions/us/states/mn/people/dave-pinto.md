@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 64B"
+represents: "us/states/mn/districts/house/64b"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Pinto
 
 Current MN House District 64B (MN State House of Representatives District 64B).
+
+Represents [MN State House of Representatives District 64B](/us/states/mn/districts/house/64b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 80"
+represents: "us/states/me/districts/house/80"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Caldwell Jackson
 
 Current ME House District 80 (ME State House of Representatives District 80).
+
+Represents [ME State House of Representatives District 80](/us/states/me/districts/house/80.md).
 
 ## Sources
 

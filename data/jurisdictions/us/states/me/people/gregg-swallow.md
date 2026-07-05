@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 7"
+represents: "us/states/me/districts/house/7"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregg Swallow
 
 Current ME House District 7 (ME State House of Representatives District 7).
+
+Represents [ME State House of Representatives District 7](/us/states/me/districts/house/7.md).
 
 ## Sources
 

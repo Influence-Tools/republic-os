@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 38A"
+represents: "us/states/md/districts/house/38a"
 tenure:
   start: "2025-12-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Anderson
 
 Current MD House District 38A (MD State House of Representatives District 38A).
+
+Represents [MD State House of Representatives District 38A](/us/states/md/districts/house/38a.md).
 
 ## Sources
 

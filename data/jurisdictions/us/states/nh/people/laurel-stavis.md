@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 13"
+represents: "us/states/nh/districts/house/grafton-13"
 tenure:
   start: "2018-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laurel Stavis
 
 Current NH House District Grafton 13 (NH State House of Representatives District Grafton 13).
+
+Represents [NH State House of Representatives District Grafton 13](/us/states/nh/districts/house/grafton-13.md).
 
 ## Sources
 

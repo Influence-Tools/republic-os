@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 86"
+represents: "us/states/nc/districts/house/86"
 tenure:
   start: "2009-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hugh Blackwell
 
 Current NC House District 86 (NC State House of Representatives District 86).
+
+Represents [NC State House of Representatives District 86](/us/states/nc/districts/house/86.md).
 
 ## Sources
 

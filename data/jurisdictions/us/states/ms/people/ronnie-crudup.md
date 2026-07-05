@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 71"
+represents: "us/states/ms/districts/house/71"
 tenure:
   start: "2019-03-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ronnie Crudup
 
 Current MS House District 71 (MS State House of Representatives District 71).
+
+Represents [MS State House of Representatives District 71](/us/states/ms/districts/house/71.md).
 
 ## Sources
 

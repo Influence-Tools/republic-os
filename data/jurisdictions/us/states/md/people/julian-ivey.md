@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 47A"
+represents: "us/states/md/districts/house/47a"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julian Ivey
 
 Current MD House District 47A (MD State House of Representatives District 47A).
+
+Represents [MD State House of Representatives District 47A](/us/states/md/districts/house/47a.md).
 
 ## Sources
 

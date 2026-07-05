@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 22"
+represents: "us/states/ca/districts/22"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # David G. Valadao
 
 Current U.S. House of Representatives - CA-22 (Congressional District 22).
+
+Represents [Congressional District 22](/us/states/ca/districts/22.md).
 
 ## Committees
 

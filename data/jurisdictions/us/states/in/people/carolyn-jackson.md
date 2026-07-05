@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 1"
+represents: "us/states/in/districts/house/1"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carolyn Jackson
 
 Current IN House District 1 (IN State House of Representatives District 1).
+
+Represents [IN State House of Representatives District 1](/us/states/in/districts/house/1.md).
 
 ## Sources
 

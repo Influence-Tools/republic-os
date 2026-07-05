@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 135"
+represents: "us/states/tx/districts/house/135"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Rosenthal
 
 Current TX House District 135 (TX State House of Representatives District 135).
+
+Represents [TX State House of Representatives District 135](/us/states/tx/districts/house/135.md).
 
 ## Sources
 

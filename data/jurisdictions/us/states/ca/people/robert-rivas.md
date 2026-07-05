@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 29"
+represents: "us/states/ca/districts/house/29"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Rivas
 
 Current CA House District 29 (CA State House of Representatives District 29).
+
+Represents [CA State House of Representatives District 29](/us/states/ca/districts/house/29.md).
 
 ## Sources
 

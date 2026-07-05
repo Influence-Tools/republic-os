@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 83"
+represents: "us/states/me/districts/house/83"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marygrace Cimino
 
 Current ME House District 83 (ME State House of Representatives District 83).
+
+Represents [ME State House of Representatives District 83](/us/states/me/districts/house/83.md).
 
 ## Sources
 

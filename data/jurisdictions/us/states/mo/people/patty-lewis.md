@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 7"
+represents: "us/states/mo/districts/senate/7"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patty Lewis
 
 Current MO Senate District 7 (MO State Senate District 7).
+
+Represents [MO State Senate District 7](/us/states/mo/districts/senate/7.md).
 
 ## Sources
 

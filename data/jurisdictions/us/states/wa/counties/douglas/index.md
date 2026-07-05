@@ -22,9 +22,27 @@ demographics:
   race_native: 501
   hispanic: 15729
   bachelors_plus: 8251
+districts:
+  - to: "us/states/wa/districts/04"
+    rel: in-district
+    area_weight: 0.9978
+  - to: "us/states/wa/districts/senate/7"
+    rel: in-district
+    area_weight: 0.9214
+  - to: "us/states/wa/districts/senate/13"
+    rel: in-district
+    area_weight: 0.0786
+  - to: "us/states/wa/districts/house/7"
+    rel: in-district
+    area_weight: 0.9214
+  - to: "us/states/wa/districts/house/13"
+    rel: in-district
+    area_weight: 0.0786
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wa]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 15729 |
 | Bachelor's or higher | 8251 |
 
+## Districts
+
+- [WA-04](/us/states/wa/districts/04.md) — 100% (congressional)
+- [WA Senate District 7](/us/states/wa/districts/senate/7.md) — 92% (state senate)
+- [WA Senate District 13](/us/states/wa/districts/senate/13.md) — 8% (state senate)
+- [WA House District 7](/us/states/wa/districts/house/7.md) — 92% (state house)
+- [WA House District 13](/us/states/wa/districts/house/13.md) — 8% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

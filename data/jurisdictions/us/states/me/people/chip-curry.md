@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 11"
+represents: "us/states/me/districts/senate/11"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chip Curry
 
 Current ME Senate District 11 (ME State Senate District 11).
+
+Represents [ME State Senate District 11](/us/states/me/districts/senate/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 46"
+represents: "us/states/in/districts/house/46"
 tenure:
   start: "2010-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Heaton
 
 Current IN House District 46 (IN State House of Representatives District 46).
+
+Represents [IN State House of Representatives District 46](/us/states/in/districts/house/46.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 141"
+represents: "us/states/ny/districts/house/141"
 tenure:
   start: "2003-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Crystal Peoples-Stokes
 
 Current NY House District 141 (NY State House of Representatives District 141).
+
+Represents [NY State House of Representatives District 141](/us/states/ny/districts/house/141.md).
 
 ## Sources
 

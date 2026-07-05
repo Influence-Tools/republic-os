@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 10"
+represents: "us/states/sd/districts/senate/10"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Larson
 
 Current SD Senate District 10 (SD State Senate District 10).
+
+Represents [SD State Senate District 10](/us/states/sd/districts/senate/10.md).
 
 ## Sources
 

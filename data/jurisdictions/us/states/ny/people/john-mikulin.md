@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 17"
+represents: "us/states/ny/districts/house/17"
 tenure:
   start: "2018-04-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Mikulin
 
 Current NY House District 17 (NY State House of Representatives District 17).
+
+Represents [NY State House of Representatives District 17](/us/states/ny/districts/house/17.md).
 
 ## Sources
 

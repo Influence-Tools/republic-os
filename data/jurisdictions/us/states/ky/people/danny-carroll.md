@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 2"
+represents: "us/states/ky/districts/senate/2"
 tenure:
   start: "2015-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Carroll
 
 Current KY Senate District 2 (KY State Senate District 2).
+
+Represents [KY State Senate District 2](/us/states/ky/districts/senate/2.md).
 
 ## Sources
 

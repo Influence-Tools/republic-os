@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 55"
+represents: "us/states/ca/districts/house/55"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Isaac Bryan
 
 Current CA House District 55 (CA State House of Representatives District 55).
+
+Represents [CA State House of Representatives District 55](/us/states/ca/districts/house/55.md).
 
 ## Sources
 

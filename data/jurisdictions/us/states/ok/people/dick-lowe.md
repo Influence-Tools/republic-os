@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 56"
+represents: "us/states/ok/districts/house/56"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dick Lowe
 
 Current OK House District 56 (OK State House of Representatives District 56).
+
+Represents [OK State House of Representatives District 56](/us/states/ok/districts/house/56.md).
 
 ## Sources
 

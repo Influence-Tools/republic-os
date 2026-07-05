@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 15"
+represents: "us/states/al/districts/senate/15"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Roberts
 
 Current AL Senate District 15 (AL State Senate District 15).
+
+Represents [AL State Senate District 15](/us/states/al/districts/senate/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 84"
+represents: "us/states/la/districts/house/84"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Kerner
 
 Current LA House District 84 (LA State House of Representatives District 84).
+
+Represents [LA State House of Representatives District 84](/us/states/la/districts/house/84.md).
 
 ## Sources
 

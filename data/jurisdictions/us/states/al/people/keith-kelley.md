@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 12"
+represents: "us/states/al/districts/senate/12"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Kelley
 
 Current AL Senate District 12 (AL State Senate District 12).
+
+Represents [AL State Senate District 12](/us/states/al/districts/senate/12.md).
 
 ## Sources
 

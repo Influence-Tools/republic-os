@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 18"
+represents: "us/states/fl/districts/house/18"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Kendall
 
 Current FL House District 18 (FL State House of Representatives District 18).
+
+Represents [FL State House of Representatives District 18](/us/states/fl/districts/house/18.md).
 
 ## Sources
 

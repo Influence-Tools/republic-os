@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 102"
+represents: "us/states/sc/districts/house/102"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Harriet Holman
 
 Current SC House District 102 (SC State House of Representatives District 102).
+
+Represents [SC State House of Representatives District 102](/us/states/sc/districts/house/102.md).
 
 ## Sources
 

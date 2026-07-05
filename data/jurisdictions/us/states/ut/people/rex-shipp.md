@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 71"
+represents: "us/states/ut/districts/house/71"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rex Shipp
 
 Current UT House District 71 (UT State House of Representatives District 71).
+
+Represents [UT State House of Representatives District 71](/us/states/ut/districts/house/71.md).
 
 ## Sources
 

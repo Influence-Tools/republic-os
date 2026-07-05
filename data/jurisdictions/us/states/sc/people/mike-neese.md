@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 44"
+represents: "us/states/sc/districts/house/44"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Neese
 
 Current SC House District 44 (SC State House of Representatives District 44).
+
+Represents [SC State House of Representatives District 44](/us/states/sc/districts/house/44.md).
 
 ## Sources
 

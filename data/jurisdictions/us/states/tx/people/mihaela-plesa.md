@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 70"
+represents: "us/states/tx/districts/house/70"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mihaela Pleșa
 
 Current TX House District 70 (TX State House of Representatives District 70).
+
+Represents [TX State House of Representatives District 70](/us/states/tx/districts/house/70.md).
 
 ## Sources
 

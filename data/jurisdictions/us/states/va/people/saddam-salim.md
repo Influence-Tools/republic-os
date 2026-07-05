@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 37"
+represents: "us/states/va/districts/senate/37"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Saddam Salim
 
 Current VA Senate District 37 (VA State Senate District 37).
+
+Represents [VA State Senate District 37](/us/states/va/districts/senate/37.md).
 
 ## Sources
 

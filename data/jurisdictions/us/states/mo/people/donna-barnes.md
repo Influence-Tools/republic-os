@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 28"
+represents: "us/states/mo/districts/house/28"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Barnes
 
 Current MO House District 28 (MO State House of Representatives District 28).
+
+Represents [MO State House of Representatives District 28](/us/states/mo/districts/house/28.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 12A"
+represents: "us/states/md/districts/house/12a"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terri Hill
 
 Current MD House District 12A (MD State House of Representatives District 12A).
+
+Represents [MD State House of Representatives District 12A](/us/states/md/districts/house/12a.md).
 
 ## Sources
 

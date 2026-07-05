@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 54"
+represents: "us/states/wv/districts/house/54"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Pushkin
 
 Current WV House District 54 (WV State House of Representatives District 54).
+
+Represents [WV State House of Representatives District 54](/us/states/wv/districts/house/54.md).
 
 ## Sources
 

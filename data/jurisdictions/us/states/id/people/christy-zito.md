@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 8"
+represents: "us/states/id/districts/senate/8"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christy Zito
 
 Current ID Senate District 8 (ID State Senate District 8).
+
+Represents [ID State Senate District 8](/us/states/id/districts/senate/8.md).
 
 ## Sources
 

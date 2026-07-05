@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 43"
+represents: "us/states/ok/districts/house/43"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Steagall
 
 Current OK House District 43 (OK State House of Representatives District 43).
+
+Represents [OK State House of Representatives District 43](/us/states/ok/districts/house/43.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 10th Norfolk"
+represents: "us/states/ma/districts/house/10th-norfolk"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Roy
 
 Current MA House District 10th Norfolk (MA State House of Representatives District 10th Norfolk).
+
+Represents [MA State House of Representatives District 10th Norfolk](/us/states/ma/districts/house/10th-norfolk.md).
 
 ## Sources
 

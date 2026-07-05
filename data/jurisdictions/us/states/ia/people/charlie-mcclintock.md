@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 42"
+represents: "us/states/ia/districts/senate/42"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlie McClintock
 
 Current IA Senate District 42 (IA State Senate District 42).
+
+Represents [IA State Senate District 42](/us/states/ia/districts/senate/42.md).
 
 ## Sources
 

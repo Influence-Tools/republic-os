@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 122"
+represents: "us/states/sc/districts/house/122"
 tenure:
   start: "2022-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Hager
 
 Current SC House District 122 (SC State House of Representatives District 122).
+
+Represents [SC State House of Representatives District 122](/us/states/sc/districts/house/122.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 5"
+represents: "us/states/mn/districts/senate/5"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Utke
 
 Current MN Senate District 5 (MN State Senate District 5).
+
+Represents [MN State Senate District 5](/us/states/mn/districts/senate/5.md).
 
 ## Sources
 

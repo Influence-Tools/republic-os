@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 120"
+represents: "us/states/mo/districts/house/120"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Hewkin
 
 Current MO House District 120 (MO State House of Representatives District 120).
+
+Represents [MO State House of Representatives District 120](/us/states/mo/districts/house/120.md).
 
 ## Sources
 

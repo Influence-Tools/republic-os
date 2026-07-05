@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Grafton 7"
+represents: "us/states/nh/districts/house/grafton-7"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janet Lucas
 
 Current NH House District Grafton 7 (NH State House of Representatives District Grafton 7).
+
+Represents [NH State House of Representatives District Grafton 7](/us/states/nh/districts/house/grafton-7.md).
 
 ## Sources
 

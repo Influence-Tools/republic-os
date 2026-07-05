@@ -22,9 +22,30 @@ demographics:
   race_native: 366
   hispanic: 30408
   bachelors_plus: 45422
+districts:
+  - to: "us/states/pa/districts/08"
+    rel: in-district
+    area_weight: 0.8846
+  - to: "us/states/pa/districts/07"
+    rel: in-district
+    area_weight: 0.1152
+  - to: "us/states/pa/districts/senate/40"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/pa/districts/house/176"
+    rel: in-district
+    area_weight: 0.4466
+  - to: "us/states/pa/districts/house/115"
+    rel: in-district
+    area_weight: 0.4319
+  - to: "us/states/pa/districts/house/189"
+    rel: in-district
+    area_weight: 0.1211
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, pa]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 30408 |
 | Bachelor's or higher | 45422 |
 
+## Districts
+
+- [PA-08](/us/states/pa/districts/08.md) — 88% (congressional)
+- [PA-07](/us/states/pa/districts/07.md) — 12% (congressional)
+- [PA Senate District 40](/us/states/pa/districts/senate/40.md) — 100% (state senate)
+- [PA House District 176](/us/states/pa/districts/house/176.md) — 45% (state house)
+- [PA House District 115](/us/states/pa/districts/house/115.md) — 43% (state house)
+- [PA House District 189](/us/states/pa/districts/house/189.md) — 12% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

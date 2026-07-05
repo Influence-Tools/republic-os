@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 99"
+represents: "us/states/wi/districts/house/99"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Dittrich
 
 Current WI House District 99 (WI State House of Representatives District 99).
+
+Represents [WI State House of Representatives District 99](/us/states/wi/districts/house/99.md).
 
 ## Sources
 

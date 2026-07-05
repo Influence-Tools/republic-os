@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 14"
+represents: "us/states/ky/districts/senate/14"
 tenure:
   start: "2009-12-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jimmy Higdon
 
 Current KY Senate District 14 (KY State Senate District 14).
+
+Represents [KY State Senate District 14](/us/states/ky/districts/senate/14.md).
 
 ## Sources
 

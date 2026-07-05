@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Cheshire 16"
+represents: "us/states/nh/districts/house/cheshire-16"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Gruber
 
 Current NH House District Cheshire 16 (NH State House of Representatives District Cheshire 16).
+
+Represents [NH State House of Representatives District Cheshire 16](/us/states/nh/districts/house/cheshire-16.md).
 
 ## Sources
 

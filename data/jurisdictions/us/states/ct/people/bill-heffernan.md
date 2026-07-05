@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 115"
+represents: "us/states/ct/districts/house/115"
 tenure:
   start: "2024-01-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Heffernan
 
 Current CT House District 115 (CT State House of Representatives District 115).
+
+Represents [CT State House of Representatives District 115](/us/states/ct/districts/house/115.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 3"
+represents: "us/states/tn/districts/house/3"
 tenure:
   start: "2023-05-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Timothy Hill
 
 Current TN House District 3 (TN State House of Representatives District 3).
+
+Represents [TN State House of Representatives District 3](/us/states/tn/districts/house/3.md).
 
 ## Sources
 

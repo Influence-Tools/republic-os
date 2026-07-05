@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 51"
+represents: "us/states/sc/districts/house/51"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Weeks
 
 Current SC House District 51 (SC State House of Representatives District 51).
+
+Represents [SC State House of Representatives District 51](/us/states/sc/districts/house/51.md).
 
 ## Sources
 

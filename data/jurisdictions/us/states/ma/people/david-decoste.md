@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 5th Plymouth"
+represents: "us/states/ma/districts/house/5th-plymouth"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David DeCoste
 
 Current MA House District 5th Plymouth (MA State House of Representatives District 5th Plymouth).
+
+Represents [MA State House of Representatives District 5th Plymouth](/us/states/ma/districts/house/5th-plymouth.md).
 
 ## Sources
 

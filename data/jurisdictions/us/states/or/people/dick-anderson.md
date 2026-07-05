@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 5"
+represents: "us/states/or/districts/senate/5"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dick Anderson
 
 Current OR Senate District 5 (OR State Senate District 5).
+
+Represents [OR State Senate District 5](/us/states/or/districts/senate/5.md).
 
 ## Sources
 

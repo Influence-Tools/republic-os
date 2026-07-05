@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 36"
+represents: "us/states/ny/districts/senate/36"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamaal Bailey
 
 Current NY Senate District 36 (NY State Senate District 36).
+
+Represents [NY State Senate District 36](/us/states/ny/districts/senate/36.md).
 
 ## Sources
 

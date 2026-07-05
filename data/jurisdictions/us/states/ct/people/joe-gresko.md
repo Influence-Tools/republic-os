@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 121"
+represents: "us/states/ct/districts/house/121"
 tenure:
   start: "2016-02-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Gresko
 
 Current CT House District 121 (CT State House of Representatives District 121).
+
+Represents [CT State House of Representatives District 121](/us/states/ct/districts/house/121.md).
 
 ## Sources
 

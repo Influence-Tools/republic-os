@@ -22,9 +22,45 @@ demographics:
   race_native: 286
   hispanic: 9282
   bachelors_plus: 34108
+districts:
+  - to: "us/states/ar/districts/02"
+    rel: in-district
+    area_weight: 0.9989
+  - to: "us/states/ar/districts/senate/7"
+    rel: in-district
+    area_weight: 0.4807
+  - to: "us/states/ar/districts/senate/6"
+    rel: in-district
+    area_weight: 0.3422
+  - to: "us/states/ar/districts/senate/16"
+    rel: in-district
+    area_weight: 0.1769
+  - to: "us/states/ar/districts/house/54"
+    rel: in-district
+    area_weight: 0.4084
+  - to: "us/states/ar/districts/house/83"
+    rel: in-district
+    area_weight: 0.182
+  - to: "us/states/ar/districts/house/92"
+    rel: in-district
+    area_weight: 0.1151
+  - to: "us/states/ar/districts/house/29"
+    rel: in-district
+    area_weight: 0.0855
+  - to: "us/states/ar/districts/house/78"
+    rel: in-district
+    area_weight: 0.0796
+  - to: "us/states/ar/districts/house/82"
+    rel: in-district
+    area_weight: 0.0752
+  - to: "us/states/ar/districts/house/81"
+    rel: in-district
+    area_weight: 0.0541
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ar]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 9282 |
 | Bachelor's or higher | 34108 |
 
+## Districts
+
+- [AR-02](/us/states/ar/districts/02.md) — 100% (congressional)
+- [AR Senate District 7](/us/states/ar/districts/senate/7.md) — 48% (state senate)
+- [AR Senate District 6](/us/states/ar/districts/senate/6.md) — 34% (state senate)
+- [AR Senate District 16](/us/states/ar/districts/senate/16.md) — 18% (state senate)
+- [AR House District 54](/us/states/ar/districts/house/54.md) — 41% (state house)
+- [AR House District 83](/us/states/ar/districts/house/83.md) — 18% (state house)
+- [AR House District 92](/us/states/ar/districts/house/92.md) — 12% (state house)
+- [AR House District 29](/us/states/ar/districts/house/29.md) — 9% (state house)
+- [AR House District 78](/us/states/ar/districts/house/78.md) — 8% (state house)
+- [AR House District 82](/us/states/ar/districts/house/82.md) — 8% (state house)
+- [AR House District 81](/us/states/ar/districts/house/81.md) — 5% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 33"
+represents: "us/states/mo/districts/house/33"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carolyn Caton
 
 Current MO House District 33 (MO State House of Representatives District 33).
+
+Represents [MO State House of Representatives District 33](/us/states/mo/districts/house/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 2"
+represents: "us/states/ri/districts/senate/2"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ana Quezada
 
 Current RI Senate District 2 (RI State Senate District 2).
+
+Represents [RI State Senate District 2](/us/states/ri/districts/senate/2.md).
 
 ## Sources
 

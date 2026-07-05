@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 46"
+represents: "us/states/ok/districts/senate/46"
 tenure:
   start: "2024-11-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Mann
 
 Current OK Senate District 46 (OK State Senate District 46).
+
+Represents [OK State Senate District 46](/us/states/ok/districts/senate/46.md).
 
 ## Sources
 

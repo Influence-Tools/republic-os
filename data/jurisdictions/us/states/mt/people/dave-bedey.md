@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 86"
+represents: "us/states/mt/districts/house/86"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Bedey
 
 Current MT House District 86 (MT State House of Representatives District 86).
+
+Represents [MT State House of Representatives District 86](/us/states/mt/districts/house/86.md).
 
 ## Sources
 

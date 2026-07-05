@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 11"
+represents: "us/states/nd/districts/house/11"
 tenure:
   start: "2016-10-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gretchen Dobervich
 
 Current ND House District 11 (ND State House of Representatives District 11).
+
+Represents [ND State House of Representatives District 11](/us/states/nd/districts/house/11.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 5"
+represents: "us/states/nv/districts/senate/5"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carrie Buck
 
 Current NV Senate District 5 (NV State Senate District 5).
+
+Represents [NV State Senate District 5](/us/states/nv/districts/senate/5.md).
 
 ## Sources
 

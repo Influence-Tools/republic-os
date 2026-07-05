@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 9"
+represents: "us/states/ct/districts/house/9"
 tenure:
   start: "2009-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Rojas
 
 Current CT House District 9 (CT State House of Representatives District 9).
+
+Represents [CT State House of Representatives District 9](/us/states/ct/districts/house/9.md).
 
 ## Sources
 

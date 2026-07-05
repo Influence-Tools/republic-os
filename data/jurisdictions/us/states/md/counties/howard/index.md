@@ -22,9 +22,36 @@ demographics:
   race_native: 1091
   hispanic: 29135
   bachelors_plus: 226665
+districts:
+  - to: "us/states/md/districts/03"
+    rel: in-district
+    area_weight: 0.9939
+  - to: "us/states/md/districts/senate/9"
+    rel: in-district
+    area_weight: 0.6204
+  - to: "us/states/md/districts/senate/13"
+    rel: in-district
+    area_weight: 0.2691
+  - to: "us/states/md/districts/senate/12"
+    rel: in-district
+    area_weight: 0.1096
+  - to: "us/states/md/districts/house/9a"
+    rel: in-district
+    area_weight: 0.5414
+  - to: "us/states/md/districts/house/13"
+    rel: in-district
+    area_weight: 0.2691
+  - to: "us/states/md/districts/house/12a"
+    rel: in-district
+    area_weight: 0.1096
+  - to: "us/states/md/districts/house/9b"
+    rel: in-district
+    area_weight: 0.0789
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction.
 | Hispanic/Latino | 29135 |
 | Bachelor's or higher | 226665 |
 
+## Districts
+
+- [MD-03](/us/states/md/districts/03.md) — 99% (congressional)
+- [MD Senate District 9](/us/states/md/districts/senate/9.md) — 62% (state senate)
+- [MD Senate District 13](/us/states/md/districts/senate/13.md) — 27% (state senate)
+- [MD Senate District 12](/us/states/md/districts/senate/12.md) — 11% (state senate)
+- [MD House District 9A](/us/states/md/districts/house/9a.md) — 54% (state house)
+- [MD House District 13](/us/states/md/districts/house/13.md) — 27% (state house)
+- [MD House District 12A](/us/states/md/districts/house/12a.md) — 11% (state house)
+- [MD House District 9B](/us/states/md/districts/house/9b.md) — 8% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

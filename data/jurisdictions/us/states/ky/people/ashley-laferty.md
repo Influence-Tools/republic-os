@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 95"
+represents: "us/states/ky/districts/house/95"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ashley Laferty
 
 Current KY House District 95 (KY State House of Representatives District 95).
+
+Represents [KY State House of Representatives District 95](/us/states/ky/districts/house/95.md).
 
 ## Sources
 

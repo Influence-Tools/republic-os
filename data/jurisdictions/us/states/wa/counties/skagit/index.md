@@ -22,9 +22,33 @@ demographics:
   race_native: 1862
   hispanic: 25367
   bachelors_plus: 39728
+districts:
+  - to: "us/states/wa/districts/02"
+    rel: in-district
+    area_weight: 0.9157
+  - to: "us/states/wa/districts/senate/39"
+    rel: in-district
+    area_weight: 0.7938
+  - to: "us/states/wa/districts/senate/40"
+    rel: in-district
+    area_weight: 0.0727
+  - to: "us/states/wa/districts/senate/10"
+    rel: in-district
+    area_weight: 0.0493
+  - to: "us/states/wa/districts/house/39"
+    rel: in-district
+    area_weight: 0.7938
+  - to: "us/states/wa/districts/house/40"
+    rel: in-district
+    area_weight: 0.0727
+  - to: "us/states/wa/districts/house/10"
+    rel: in-district
+    area_weight: 0.0493
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wa]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 25367 |
 | Bachelor's or higher | 39728 |
 
+## Districts
+
+- [WA-02](/us/states/wa/districts/02.md) — 92% (congressional)
+- [WA Senate District 39](/us/states/wa/districts/senate/39.md) — 79% (state senate)
+- [WA Senate District 40](/us/states/wa/districts/senate/40.md) — 7% (state senate)
+- [WA Senate District 10](/us/states/wa/districts/senate/10.md) — 5% (state senate)
+- [WA House District 39](/us/states/wa/districts/house/39.md) — 79% (state house)
+- [WA House District 40](/us/states/wa/districts/house/40.md) — 7% (state house)
+- [WA House District 10](/us/states/wa/districts/house/10.md) — 5% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

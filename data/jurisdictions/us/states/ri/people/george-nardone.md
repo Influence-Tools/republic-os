@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 28"
+represents: "us/states/ri/districts/house/28"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Nardone
 
 Current RI House District 28 (RI State House of Representatives District 28).
+
+Represents [RI State House of Representatives District 28](/us/states/ri/districts/house/28.md).
 
 ## Sources
 

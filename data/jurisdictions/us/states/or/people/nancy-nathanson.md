@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 13"
+represents: "us/states/or/districts/house/13"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nancy Nathanson
 
 Current OR House District 13 (OR State House of Representatives District 13).
+
+Represents [OR State House of Representatives District 13](/us/states/or/districts/house/13.md).
 
 ## Sources
 

@@ -22,9 +22,42 @@ demographics:
   race_native: 2253
   hispanic: 126467
   bachelors_plus: 322765
+districts:
+  - to: "us/states/fl/districts/04"
+    rel: in-district
+    area_weight: 0.6317
+  - to: "us/states/fl/districts/05"
+    rel: in-district
+    area_weight: 0.2935
+  - to: "us/states/fl/districts/senate/4"
+    rel: in-district
+    area_weight: 0.6525
+  - to: "us/states/fl/districts/senate/5"
+    rel: in-district
+    area_weight: 0.27
+  - to: "us/states/fl/districts/house/15"
+    rel: in-district
+    area_weight: 0.4028
+  - to: "us/states/fl/districts/house/17"
+    rel: in-district
+    area_weight: 0.1296
+  - to: "us/states/fl/districts/house/12"
+    rel: in-district
+    area_weight: 0.1109
+  - to: "us/states/fl/districts/house/13"
+    rel: in-district
+    area_weight: 0.105
+  - to: "us/states/fl/districts/house/14"
+    rel: in-district
+    area_weight: 0.0888
+  - to: "us/states/fl/districts/house/16"
+    rel: in-district
+    area_weight: 0.0855
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, fl]
 timestamp: "2026-07-03"
@@ -56,6 +89,20 @@ County jurisdiction — 96 officeholders mapped.
 | Hispanic/Latino | 126467 |
 | Bachelor's or higher | 322765 |
 
+## Districts
+
+- [FL-04](/us/states/fl/districts/04.md) — 63% (congressional)
+- [FL-05](/us/states/fl/districts/05.md) — 29% (congressional)
+- [FL Senate District 4](/us/states/fl/districts/senate/4.md) — 65% (state senate)
+- [FL Senate District 5](/us/states/fl/districts/senate/5.md) — 27% (state senate)
+- [FL House District 15](/us/states/fl/districts/house/15.md) — 40% (state house)
+- [FL House District 17](/us/states/fl/districts/house/17.md) — 13% (state house)
+- [FL House District 12](/us/states/fl/districts/house/12.md) — 11% (state house)
+- [FL House District 13](/us/states/fl/districts/house/13.md) — 10% (state house)
+- [FL House District 14](/us/states/fl/districts/house/14.md) — 9% (state house)
+- [FL House District 16](/us/states/fl/districts/house/16.md) — 9% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

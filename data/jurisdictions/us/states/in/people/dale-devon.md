@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 5"
+represents: "us/states/in/districts/house/5"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dale DeVon
 
 Current IN House District 5 (IN State House of Representatives District 5).
+
+Represents [IN State House of Representatives District 5](/us/states/in/districts/house/5.md).
 
 ## Sources
 

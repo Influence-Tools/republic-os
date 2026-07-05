@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 12"
+represents: "us/states/wa/districts/house/12"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Steele
 
 Current WA House District 12 (WA State House of Representatives District 12).
+
+Represents [WA State House of Representatives District 12](/us/states/wa/districts/house/12.md).
 
 ## Sources
 

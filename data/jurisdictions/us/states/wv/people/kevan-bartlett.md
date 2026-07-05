@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 8"
+represents: "us/states/wv/districts/senate/8"
 tenure:
   start: "2025-02-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevan Bartlett
 
 Current WV Senate District 8 (WV State Senate District 8).
+
+Represents [WV State Senate District 8](/us/states/wv/districts/senate/8.md).
 
 ## Sources
 

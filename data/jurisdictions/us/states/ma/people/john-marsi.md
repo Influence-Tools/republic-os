@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 6th Worcester"
+represents: "us/states/ma/districts/house/6th-worcester"
 tenure:
   start: "2024-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Marsi
 
 Current MA House District 6th Worcester (MA State House of Representatives District 6th Worcester).
+
+Represents [MA State House of Representatives District 6th Worcester](/us/states/ma/districts/house/6th-worcester.md).
 
 ## Sources
 

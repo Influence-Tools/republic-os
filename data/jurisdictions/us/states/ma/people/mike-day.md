@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 31st Middlesex"
+represents: "us/states/ma/districts/house/31st-middlesex"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Day
 
 Current MA House District 31st Middlesex (MA State House of Representatives District 31st Middlesex).
+
+Represents [MA State House of Representatives District 31st Middlesex](/us/states/ma/districts/house/31st-middlesex.md).
 
 ## Sources
 

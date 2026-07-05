@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 135"
+represents: "us/states/pa/districts/house/135"
 tenure:
   start: "1999-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Samuelson
 
 Current PA House District 135 (PA State House of Representatives District 135).
+
+Represents [PA State House of Representatives District 135](/us/states/pa/districts/house/135.md).
 
 ## Sources
 

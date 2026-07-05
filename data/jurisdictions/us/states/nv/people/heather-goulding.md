@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 27"
+represents: "us/states/nv/districts/house/27"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Goulding
 
 Current NV House District 27 (NV State House of Representatives District 27).
+
+Represents [NV State House of Representatives District 27](/us/states/nv/districts/house/27.md).
 
 ## Sources
 

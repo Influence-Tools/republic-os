@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AL"
 district: "Congressional District 5"
+represents: "us/states/al/districts/05"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Dale W. Strong
 
 Current U.S. House of Representatives - AL-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/al/districts/05.md).
 
 ## Committees
 

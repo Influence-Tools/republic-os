@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 1"
+represents: "us/states/nd/districts/senate/1"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Bekkedahl
 
 Current ND Senate District 1 (ND State Senate District 1).
+
+Represents [ND State Senate District 1](/us/states/nd/districts/senate/1.md).
 
 ## Sources
 

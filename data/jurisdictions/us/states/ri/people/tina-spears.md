@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 36"
+represents: "us/states/ri/districts/house/36"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Spears
 
 Current RI House District 36 (RI State House of Representatives District 36).
+
+Represents [RI State House of Representatives District 36](/us/states/ri/districts/house/36.md).
 
 ## Sources
 

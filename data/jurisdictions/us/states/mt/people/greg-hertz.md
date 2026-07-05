@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 7"
+represents: "us/states/mt/districts/senate/7"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Hertz
 
 Current MT Senate District 7 (MT State Senate District 7).
+
+Represents [MT State Senate District 7](/us/states/mt/districts/senate/7.md).
 
 ## Sources
 

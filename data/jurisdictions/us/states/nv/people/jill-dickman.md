@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 31"
+represents: "us/states/nv/districts/house/31"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jill Dickman
 
 Current NV House District 31 (NV State House of Representatives District 31).
+
+Represents [NV State House of Representatives District 31](/us/states/nv/districts/house/31.md).
 
 ## Sources
 

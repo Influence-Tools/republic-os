@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 2"
+represents: "us/states/ca/districts/senate/2"
 tenure:
   start: "2014-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike McGuire
 
 Current CA Senate District 2 (CA State Senate District 2).
+
+Represents [CA State Senate District 2](/us/states/ca/districts/senate/2.md).
 
 ## Sources
 

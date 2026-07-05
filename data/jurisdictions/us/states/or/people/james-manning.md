@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 7"
+represents: "us/states/or/districts/senate/7"
 tenure:
   start: "2016-12-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Manning
 
 Current OR Senate District 7 (OR State Senate District 7).
+
+Represents [OR State Senate District 7](/us/states/or/districts/senate/7.md).
 
 ## Sources
 

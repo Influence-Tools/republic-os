@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 26"
+represents: "us/states/nd/districts/house/26"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roger Maki
 
 Current ND House District 26 (ND State House of Representatives District 26).
+
+Represents [ND State House of Representatives District 26](/us/states/nd/districts/house/26.md).
 
 ## Sources
 

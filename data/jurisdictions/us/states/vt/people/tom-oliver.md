@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Franklin-4"
+represents: "us/states/vt/districts/house/franklin-4"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Oliver
 
 Current VT House District Franklin-4 (VT State House of Representatives District Franklin-4).
+
+Represents [VT State House of Representatives District Franklin-4](/us/states/vt/districts/house/franklin-4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 38"
+represents: "us/states/ok/districts/house/38"
 tenure:
   start: "2014-11-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Pfeiffer
 
 Current OK House District 38 (OK State House of Representatives District 38).
+
+Represents [OK State House of Representatives District 38](/us/states/ok/districts/house/38.md).
 
 ## Sources
 

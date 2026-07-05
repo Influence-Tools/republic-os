@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 33"
+represents: "us/states/wa/districts/senate/33"
 tenure:
   start: "2024-12-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tina Orwall
 
 Current WA Senate District 33 (WA State Senate District 33).
+
+Represents [WA State Senate District 33](/us/states/wa/districts/senate/33.md).
 
 ## Sources
 

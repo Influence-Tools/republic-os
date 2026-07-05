@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 144"
+represents: "us/states/ga/districts/house/144"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dale Washburn
 
 Current GA House District 144 (GA State House of Representatives District 144).
+
+Represents [GA State House of Representatives District 144](/us/states/ga/districts/house/144.md).
 
 ## Sources
 

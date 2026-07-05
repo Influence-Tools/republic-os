@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 64"
+represents: "us/states/ga/districts/house/64"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sylvia Wayfer
 
 Current GA House District 64 (GA State House of Representatives District 64).
+
+Represents [GA State House of Representatives District 64](/us/states/ga/districts/house/64.md).
 
 ## Sources
 

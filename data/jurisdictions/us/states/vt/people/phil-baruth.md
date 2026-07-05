@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Chittenden Central"
+represents: "us/states/vt/districts/senate/chittenden-central"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phil Baruth
 
 Current VT Senate District Chittenden Central (VT State Senate District Chittenden Central).
+
+Represents [VT State Senate District Chittenden Central](/us/states/vt/districts/senate/chittenden-central.md).
 
 ## Sources
 

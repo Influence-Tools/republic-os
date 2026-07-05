@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 1"
+represents: "us/states/nc/districts/senate/1"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Hanig
 
 Current NC Senate District 1 (NC State Senate District 1).
+
+Represents [NC State Senate District 1](/us/states/nc/districts/senate/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 68"
+represents: "us/states/ia/districts/house/68"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Ingels
 
 Current IA House District 68 (IA State House of Representatives District 68).
+
+Represents [IA State House of Representatives District 68](/us/states/ia/districts/house/68.md).
 
 ## Sources
 

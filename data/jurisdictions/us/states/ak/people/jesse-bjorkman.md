@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District D"
+represents: "us/states/ak/districts/senate/d"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse Bjorkman
 
 Current AK Senate District D (AK State Senate District D).
+
+Represents [AK State Senate District D](/us/states/ak/districts/senate/d.md).
 
 ## Sources
 

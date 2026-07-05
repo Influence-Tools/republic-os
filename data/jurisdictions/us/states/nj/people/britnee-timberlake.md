@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 34"
+represents: "us/states/nj/districts/senate/34"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Britnee Timberlake
 
 Current NJ Senate District 34 (NJ State Senate District 34).
+
+Represents [NJ State Senate District 34](/us/states/nj/districts/senate/34.md).
 
 ## Sources
 

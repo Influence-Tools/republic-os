@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 49"
+represents: "us/states/mn/districts/senate/49"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Cwodzinski
 
 Current MN Senate District 49 (MN State Senate District 49).
+
+Represents [MN State Senate District 49](/us/states/mn/districts/senate/49.md).
 
 ## Sources
 

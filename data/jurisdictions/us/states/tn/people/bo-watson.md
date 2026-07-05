@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 11"
+represents: "us/states/tn/districts/senate/11"
 tenure:
   start: "2007-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bo Watson
 
 Current TN Senate District 11 (TN State Senate District 11).
+
+Represents [TN State Senate District 11](/us/states/tn/districts/senate/11.md).
 
 ## Sources
 

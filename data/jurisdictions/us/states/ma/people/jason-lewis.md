@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Fifth Middlesex"
+represents: "us/states/ma/districts/senate/fifth-middlesex"
 tenure:
   start: "2014-04-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Lewis
 
 Current MA Senate District Fifth Middlesex (MA State Senate District Fifth Middlesex).
+
+Represents [MA State Senate District Fifth Middlesex](/us/states/ma/districts/senate/fifth-middlesex.md).
 
 ## Sources
 

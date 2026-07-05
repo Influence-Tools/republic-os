@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 14"
+represents: "us/states/hi/districts/senate/14"
 tenure:
   start: "2002-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Kim
 
 Current HI Senate District 14 (HI State Senate District 14).
+
+Represents [HI State Senate District 14](/us/states/hi/districts/senate/14.md).
 
 ## Sources
 

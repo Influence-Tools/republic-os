@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 95"
+represents: "us/states/ms/districts/house/95"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay McKnight
 
 Current MS House District 95 (MS State House of Representatives District 95).
+
+Represents [MS State House of Representatives District 95](/us/states/ms/districts/house/95.md).
 
 ## Sources
 

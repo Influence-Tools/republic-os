@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 37"
+represents: "us/states/ms/districts/senate/37"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Albert Butler
 
 Current MS Senate District 37 (MS State Senate District 37).
+
+Represents [MS State Senate District 37](/us/states/ms/districts/senate/37.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 35"
+represents: "us/states/me/districts/senate/35"
 tenure:
   start: "2018-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Lawrence
 
 Current ME Senate District 35 (ME State Senate District 35).
+
+Represents [ME State Senate District 35](/us/states/me/districts/senate/35.md).
 
 ## Sources
 

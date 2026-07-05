@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 86"
+represents: "us/states/al/districts/house/86"
 tenure:
   start: "2010-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Lee
 
 Current AL House District 86 (AL State House of Representatives District 86).
+
+Represents [AL State House of Representatives District 86](/us/states/al/districts/house/86.md).
 
 ## Sources
 

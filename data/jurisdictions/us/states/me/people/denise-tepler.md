@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 24"
+represents: "us/states/me/districts/senate/24"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Tepler
 
 Current ME Senate District 24 (ME State Senate District 24).
+
+Represents [ME State Senate District 24](/us/states/me/districts/senate/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 42"
+represents: "us/states/co/districts/house/42"
 tenure:
   start: "2022-01-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mandy Lindsay
 
 Current CO House District 42 (CO State House of Representatives District 42).
+
+Represents [CO State House of Representatives District 42](/us/states/co/districts/house/42.md).
 
 ## Sources
 

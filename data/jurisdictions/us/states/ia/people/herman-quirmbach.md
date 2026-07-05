@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 25"
+represents: "us/states/ia/districts/senate/25"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Herman Quirmbach
 
 Current IA Senate District 25 (IA State Senate District 25).
+
+Represents [IA State Senate District 25](/us/states/ia/districts/senate/25.md).
 
 ## Sources
 

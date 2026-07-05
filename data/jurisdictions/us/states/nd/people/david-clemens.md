@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 16"
+represents: "us/states/nd/districts/senate/16"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Clemens
 
 Current ND Senate District 16 (ND State Senate District 16).
+
+Represents [ND State Senate District 16](/us/states/nd/districts/senate/16.md).
 
 ## Sources
 

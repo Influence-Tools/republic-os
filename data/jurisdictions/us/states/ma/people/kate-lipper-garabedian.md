@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 32nd Middlesex"
+represents: "us/states/ma/districts/house/32nd-middlesex"
 tenure:
   start: "2020-03-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Lipper-Garabedian
 
 Current MA House District 32nd Middlesex (MA State House of Representatives District 32nd Middlesex).
+
+Represents [MA State House of Representatives District 32nd Middlesex](/us/states/ma/districts/house/32nd-middlesex.md).
 
 ## Sources
 

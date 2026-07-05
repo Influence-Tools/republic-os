@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 23"
+represents: "us/states/de/districts/house/23"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mara Gorman
 
 Current DE House District 23 (DE State House of Representatives District 23).
+
+Represents [DE State House of Representatives District 23](/us/states/de/districts/house/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 25"
+represents: "us/states/pa/districts/senate/25"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cris Dush
 
 Current PA Senate District 25 (PA State Senate District 25).
+
+Represents [PA State Senate District 25](/us/states/pa/districts/senate/25.md).
 
 ## Sources
 

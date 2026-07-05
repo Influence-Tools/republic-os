@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 92"
+represents: "us/states/ct/districts/house/92"
 tenure:
   start: "1985-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Dillon
 
 Current CT House District 92 (CT State House of Representatives District 92).
+
+Represents [CT State House of Representatives District 92](/us/states/ct/districts/house/92.md).
 
 ## Sources
 

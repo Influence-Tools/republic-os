@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 17"
+represents: "us/states/ca/districts/senate/17"
 tenure:
   start: "2020-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Laird
 
 Current CA Senate District 17 (CA State Senate District 17).
+
+Represents [CA State Senate District 17](/us/states/ca/districts/senate/17.md).
 
 ## Sources
 

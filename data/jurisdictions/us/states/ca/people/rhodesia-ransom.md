@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 13"
+represents: "us/states/ca/districts/house/13"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rhodesia Ransom
 
 Current CA House District 13 (CA State House of Representatives District 13).
+
+Represents [CA State House of Representatives District 13](/us/states/ca/districts/house/13.md).
 
 ## Sources
 

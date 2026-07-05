@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 145"
+represents: "us/states/pa/districts/house/145"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Staats
 
 Current PA House District 145 (PA State House of Representatives District 145).
+
+Represents [PA State House of Representatives District 145](/us/states/pa/districts/house/145.md).
 
 ## Sources
 

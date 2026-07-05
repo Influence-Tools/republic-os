@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 2"
+represents: "us/states/wv/districts/house/2"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Zatezalo
 
 Current WV House District 2 (WV State House of Representatives District 2).
+
+Represents [WV State House of Representatives District 2](/us/states/wv/districts/house/2.md).
 
 ## Sources
 

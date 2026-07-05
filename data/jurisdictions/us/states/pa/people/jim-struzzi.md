@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 62"
+represents: "us/states/pa/districts/house/62"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Struzzi
 
 Current PA House District 62 (PA State House of Representatives District 62).
+
+Represents [PA State House of Representatives District 62](/us/states/pa/districts/house/62.md).
 
 ## Sources
 

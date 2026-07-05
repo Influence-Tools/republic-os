@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 52A"
+represents: "us/states/mn/districts/house/52a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Reyer
 
 Current MN House District 52A (MN State House of Representatives District 52A).
+
+Represents [MN State House of Representatives District 52A](/us/states/mn/districts/house/52a.md).
 
 ## Sources
 

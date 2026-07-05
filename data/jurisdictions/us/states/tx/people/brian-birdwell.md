@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 22"
+represents: "us/states/tx/districts/senate/22"
 tenure:
   start: "2010-07-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Birdwell
 
 Current TX Senate District 22 (TX State Senate District 22).
+
+Represents [TX State Senate District 22](/us/states/tx/districts/senate/22.md).
 
 ## Sources
 

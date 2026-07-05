@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 138"
+represents: "us/states/ct/districts/house/138"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Gucker
 
 Current CT House District 138 (CT State House of Representatives District 138).
+
+Represents [CT State House of Representatives District 138](/us/states/ct/districts/house/138.md).
 
 ## Sources
 

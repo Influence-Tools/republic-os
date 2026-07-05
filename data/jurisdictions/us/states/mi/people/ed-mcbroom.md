@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 38"
+represents: "us/states/mi/districts/senate/38"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed McBroom
 
 Current MI Senate District 38 (MI State Senate District 38).
+
+Represents [MI State Senate District 38](/us/states/mi/districts/senate/38.md).
 
 ## Sources
 

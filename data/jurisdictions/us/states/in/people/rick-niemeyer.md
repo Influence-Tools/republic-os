@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 6"
+represents: "us/states/in/districts/senate/6"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Niemeyer
 
 Current IN Senate District 6 (IN State Senate District 6).
+
+Represents [IN State Senate District 6](/us/states/in/districts/senate/6.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 34"
+represents: "us/states/co/districts/house/34"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jenny Willford
 
 Current CO House District 34 (CO State House of Representatives District 34).
+
+Represents [CO State House of Representatives District 34](/us/states/co/districts/house/34.md).
 
 ## Sources
 

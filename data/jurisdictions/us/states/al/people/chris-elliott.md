@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 32"
+represents: "us/states/al/districts/senate/32"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Elliott
 
 Current AL Senate District 32 (AL State Senate District 32).
+
+Represents [AL State Senate District 32](/us/states/al/districts/senate/32.md).
 
 ## Sources
 

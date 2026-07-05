@@ -22,9 +22,24 @@ demographics:
   race_native: 12
   hispanic: 528
   bachelors_plus: 8039
+districts:
+  - to: "us/states/ia/districts/02"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ia/districts/senate/29"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ia/districts/house/58"
+    rel: in-district
+    area_weight: 0.6665
+  - to: "us/states/ia/districts/house/57"
+    rel: in-district
+    area_weight: 0.3335
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ia]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 528 |
 | Bachelor's or higher | 8039 |
 
+## Districts
+
+- [IA-02](/us/states/ia/districts/02.md) — 100% (congressional)
+- [IA Senate District 29](/us/states/ia/districts/senate/29.md) — 100% (state senate)
+- [IA House District 58](/us/states/ia/districts/house/58.md) — 67% (state house)
+- [IA House District 57](/us/states/ia/districts/house/57.md) — 33% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

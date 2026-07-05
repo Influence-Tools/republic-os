@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 59"
+represents: "us/states/co/districts/house/59"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Stewart
 
 Current CO House District 59 (CO State House of Representatives District 59).
+
+Represents [CO State House of Representatives District 59](/us/states/co/districts/house/59.md).
 
 ## Sources
 

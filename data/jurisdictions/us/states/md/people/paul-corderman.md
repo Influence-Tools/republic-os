@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 2"
+represents: "us/states/md/districts/senate/2"
 tenure:
   start: "2020-09-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Corderman
 
 Current MD Senate District 2 (MD State Senate District 2).
+
+Represents [MD State Senate District 2](/us/states/md/districts/senate/2.md).
 
 ## Sources
 

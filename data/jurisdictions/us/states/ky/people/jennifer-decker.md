@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 58"
+represents: "us/states/ky/districts/house/58"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Decker
 
 Current KY House District 58 (KY State House of Representatives District 58).
+
+Represents [KY State House of Representatives District 58](/us/states/ky/districts/house/58.md).
 
 ## Sources
 

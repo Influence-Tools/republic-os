@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 9"
+represents: "us/states/wv/districts/house/9"
 tenure:
   start: "2026-02-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Betsy Kelly
 
 Current WV House District 9 (WV State House of Representatives District 9).
+
+Represents [WV State House of Representatives District 9](/us/states/wv/districts/house/9.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 33"
+represents: "us/states/tn/districts/house/33"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Scarbrough
 
 Current TN House District 33 (TN State House of Representatives District 33).
+
+Represents [TN State House of Representatives District 33](/us/states/tn/districts/house/33.md).
 
 ## Sources
 

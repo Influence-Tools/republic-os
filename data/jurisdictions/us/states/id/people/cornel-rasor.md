@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 1B"
+represents: "us/states/id/districts/house/1b"
 tenure:
   start: "2024-09-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cornel Rasor
 
 Current ID House District 1B (ID State House of Representatives District 1B).
+
+Represents [ID State House of Representatives District 1B](/us/states/id/districts/house/1b.md).
 
 ## Sources
 

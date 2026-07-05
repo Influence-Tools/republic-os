@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 107"
+represents: "us/states/nc/districts/house/107"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aisha Dew
 
 Current NC House District 107 (NC State House of Representatives District 107).
+
+Represents [NC State House of Representatives District 107](/us/states/nc/districts/house/107.md).
 
 ## Sources
 

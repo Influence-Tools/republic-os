@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 35"
+represents: "us/states/pr/districts/house/35"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sol Higgins
 
 Current PR House District 35 (PR State House of Representatives District 35).
+
+Represents [PR State House of Representatives District 35](/us/states/pr/districts/house/35.md).
 
 ## Sources
 

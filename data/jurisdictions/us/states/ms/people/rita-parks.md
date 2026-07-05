@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 4"
+represents: "us/states/ms/districts/senate/4"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rita Parks
 
 Current MS Senate District 4 (MS State Senate District 4).
+
+Represents [MS State Senate District 4](/us/states/ms/districts/senate/4.md).
 
 ## Sources
 

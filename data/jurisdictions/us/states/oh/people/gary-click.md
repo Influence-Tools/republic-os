@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 88"
+represents: "us/states/oh/districts/house/88"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Click
 
 Current OH House District 88 (OH State House of Representatives District 88).
+
+Represents [OH State House of Representatives District 88](/us/states/oh/districts/house/88.md).
 
 ## Sources
 

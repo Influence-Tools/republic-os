@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 20"
+represents: "us/states/tx/districts/20"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Joaquin Castro
 
 Current U.S. House of Representatives - TX-20 (Congressional District 20).
+
+Represents [Congressional District 20](/us/states/tx/districts/20.md).
 
 ## Committees
 

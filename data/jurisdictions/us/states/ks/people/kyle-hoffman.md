@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 116"
+represents: "us/states/ks/districts/house/116"
 tenure:
   start: "2011-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Hoffman
 
 Current KS House District 116 (KS State House of Representatives District 116).
+
+Represents [KS State House of Representatives District 116](/us/states/ks/districts/house/116.md).
 
 ## Sources
 

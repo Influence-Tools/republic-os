@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-18"
+represents: "us/states/vt/districts/house/chittenden-18"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carol Ode
 
 Current VT House District Chittenden-18 (VT State House of Representatives District Chittenden-18).
+
+Represents [VT State House of Representatives District Chittenden-18](/us/states/vt/districts/house/chittenden-18.md).
 
 ## Sources
 

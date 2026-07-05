@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State Senate District 40"
+represents: "us/states/va/districts/senate/40"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barbara Favola
 
 Current VA Senate District 40 (VA State Senate District 40).
+
+Represents [VA State Senate District 40](/us/states/va/districts/senate/40.md).
 
 ## Sources
 

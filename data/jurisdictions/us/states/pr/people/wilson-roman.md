@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 17"
+represents: "us/states/pr/districts/house/17"
 tenure:
   start: "2018-10-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wilson Román
 
 Current PR House District 17 (PR State House of Representatives District 17).
+
+Represents [PR State House of Representatives District 17](/us/states/pr/districts/house/17.md).
 
 ## Sources
 

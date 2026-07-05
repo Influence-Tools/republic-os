@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 39"
+represents: "us/states/ks/districts/senate/39"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Clifford
 
 Current KS Senate District 39 (KS State Senate District 39).
+
+Represents [KS State Senate District 39](/us/states/ks/districts/senate/39.md).
 
 ## Sources
 

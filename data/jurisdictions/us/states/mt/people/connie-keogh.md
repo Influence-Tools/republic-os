@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 92"
+represents: "us/states/mt/districts/house/92"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Connie Keogh
 
 Current MT House District 92 (MT State House of Representatives District 92).
+
+Represents [MT State House of Representatives District 92](/us/states/mt/districts/house/92.md).
 
 ## Sources
 

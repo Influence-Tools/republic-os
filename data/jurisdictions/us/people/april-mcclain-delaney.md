@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 6"
+represents: "us/states/md/districts/06"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # April McClain Delaney
 
 Current U.S. House of Representatives - MD-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/md/districts/06.md).
 
 ## Committees
 

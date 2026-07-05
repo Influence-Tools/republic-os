@@ -22,9 +22,36 @@ demographics:
   race_native: 50
   hispanic: 513
   bachelors_plus: 9706
+districts:
+  - to: "us/states/me/districts/02"
+    rel: in-district
+    area_weight: 0.9992
+  - to: "us/states/me/districts/senate/19"
+    rel: in-district
+    area_weight: 0.6609
+  - to: "us/states/me/districts/senate/5"
+    rel: in-district
+    area_weight: 0.3389
+  - to: "us/states/me/districts/house/73"
+    rel: in-district
+    area_weight: 0.7062
+  - to: "us/states/me/districts/house/74"
+    rel: in-district
+    area_weight: 0.1857
+  - to: "us/states/me/districts/house/75"
+    rel: in-district
+    area_weight: 0.0532
+  - to: "us/states/me/districts/house/76"
+    rel: in-district
+    area_weight: 0.028
+  - to: "us/states/me/districts/house/58"
+    rel: in-district
+    area_weight: 0.0267
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, me]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction.
 | Hispanic/Latino | 513 |
 | Bachelor's or higher | 9706 |
 
+## Districts
+
+- [ME-02](/us/states/me/districts/02.md) — 100% (congressional)
+- [ME Senate District 19](/us/states/me/districts/senate/19.md) — 66% (state senate)
+- [ME Senate District 5](/us/states/me/districts/senate/5.md) — 34% (state senate)
+- [ME House District 73](/us/states/me/districts/house/73.md) — 71% (state house)
+- [ME House District 74](/us/states/me/districts/house/74.md) — 19% (state house)
+- [ME House District 75](/us/states/me/districts/house/75.md) — 5% (state house)
+- [ME House District 76](/us/states/me/districts/house/76.md) — 3% (state house)
+- [ME House District 58](/us/states/me/districts/house/58.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 14"
+represents: "us/states/ny/districts/14"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Alexandria Ocasio-Cortez
 
 Current U.S. House of Representatives - NY-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/ny/districts/14.md).
 
 ## Committees
 

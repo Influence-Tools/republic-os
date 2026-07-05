@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 5"
+represents: "us/states/or/districts/house/5"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pam Marsh
 
 Current OR House District 5 (OR State House of Representatives District 5).
+
+Represents [OR State House of Representatives District 5](/us/states/or/districts/house/5.md).
 
 ## Sources
 

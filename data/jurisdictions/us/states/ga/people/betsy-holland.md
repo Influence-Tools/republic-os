@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 54"
+represents: "us/states/ga/districts/house/54"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Betsy Holland
 
 Current GA House District 54 (GA State House of Representatives District 54).
+
+Represents [GA State House of Representatives District 54](/us/states/ga/districts/house/54.md).
 
 ## Sources
 

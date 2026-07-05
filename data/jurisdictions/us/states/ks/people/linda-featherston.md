@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 16"
+represents: "us/states/ks/districts/house/16"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Linda Featherston
 
 Current KS House District 16 (KS State House of Representatives District 16).
+
+Represents [KS State House of Representatives District 16](/us/states/ks/districts/house/16.md).
 
 ## Sources
 

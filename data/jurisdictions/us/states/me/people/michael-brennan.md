@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 115"
+represents: "us/states/me/districts/house/115"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Brennan
 
 Current ME House District 115 (ME State House of Representatives District 115).
+
+Represents [ME State House of Representatives District 115](/us/states/me/districts/house/115.md).
 
 ## Sources
 

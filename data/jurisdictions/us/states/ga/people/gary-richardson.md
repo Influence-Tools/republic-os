@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 125"
+represents: "us/states/ga/districts/house/125"
 tenure:
   start: "2024-03-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Richardson
 
 Current GA House District 125 (GA State House of Representatives District 125).
+
+Represents [GA State House of Representatives District 125](/us/states/ga/districts/house/125.md).
 
 ## Sources
 

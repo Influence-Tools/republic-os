@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 61B"
+represents: "us/states/mn/districts/house/61b"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jamie Long
 
 Current MN House District 61B (MN State House of Representatives District 61B).
+
+Represents [MN State House of Representatives District 61B](/us/states/mn/districts/house/61b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 5"
+represents: "us/states/in/districts/senate/5"
 tenure:
   start: "2007-06-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Charbonneau
 
 Current IN Senate District 5 (IN State Senate District 5).
+
+Represents [IN State Senate District 5](/us/states/in/districts/senate/5.md).
 
 ## Sources
 

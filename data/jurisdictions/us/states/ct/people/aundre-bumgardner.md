@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 41"
+represents: "us/states/ct/districts/house/41"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aundré Bumgardner
 
 Current CT House District 41 (CT State House of Representatives District 41).
+
+Represents [CT State House of Representatives District 41](/us/states/ct/districts/house/41.md).
 
 ## Sources
 

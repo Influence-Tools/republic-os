@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 20"
+represents: "us/states/la/districts/senate/20"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Fési
 
 Current LA Senate District 20 (LA State Senate District 20).
+
+Represents [LA State Senate District 20](/us/states/la/districts/senate/20.md).
 
 ## Sources
 

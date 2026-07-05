@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 32"
+represents: "us/states/nd/districts/house/32"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Heinert
 
 Current ND House District 32 (ND State House of Representatives District 32).
+
+Represents [ND State House of Representatives District 32](/us/states/nd/districts/house/32.md).
 
 ## Sources
 

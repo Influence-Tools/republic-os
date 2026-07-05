@@ -22,9 +22,39 @@ demographics:
   race_native: 361
   hispanic: 10961
   bachelors_plus: 33395
+districts:
+  - to: "us/states/la/districts/02"
+    rel: in-district
+    area_weight: 0.5545
+  - to: "us/states/la/districts/01"
+    rel: in-district
+    area_weight: 0.3538
+  - to: "us/states/la/districts/05"
+    rel: in-district
+    area_weight: 0.0916
+  - to: "us/states/la/districts/senate/18"
+    rel: in-district
+    area_weight: 0.6682
+  - to: "us/states/la/districts/senate/2"
+    rel: in-district
+    area_weight: 0.3316
+  - to: "us/states/la/districts/house/81"
+    rel: in-district
+    area_weight: 0.3685
+  - to: "us/states/la/districts/house/58"
+    rel: in-district
+    area_weight: 0.3471
+  - to: "us/states/la/districts/house/88"
+    rel: in-district
+    area_weight: 0.1474
+  - to: "us/states/la/districts/house/59"
+    rel: in-district
+    area_weight: 0.1367
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, la]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction.
 | Hispanic/Latino | 10961 |
 | Bachelor's or higher | 33395 |
 
+## Districts
+
+- [LA-02](/us/states/la/districts/02.md) — 55% (congressional)
+- [LA-01](/us/states/la/districts/01.md) — 35% (congressional)
+- [LA-05](/us/states/la/districts/05.md) — 9% (congressional)
+- [LA Senate District 18](/us/states/la/districts/senate/18.md) — 67% (state senate)
+- [LA Senate District 2](/us/states/la/districts/senate/2.md) — 33% (state senate)
+- [LA House District 81](/us/states/la/districts/house/81.md) — 37% (state house)
+- [LA House District 58](/us/states/la/districts/house/58.md) — 35% (state house)
+- [LA House District 88](/us/states/la/districts/house/88.md) — 15% (state house)
+- [LA House District 59](/us/states/la/districts/house/59.md) — 14% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

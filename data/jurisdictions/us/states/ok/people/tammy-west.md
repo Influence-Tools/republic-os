@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 84"
+represents: "us/states/ok/districts/house/84"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tammy West
 
 Current OK House District 84 (OK State House of Representatives District 84).
+
+Represents [OK State House of Representatives District 84](/us/states/ok/districts/house/84.md).
 
 ## Sources
 

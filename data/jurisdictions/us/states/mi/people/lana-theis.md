@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 22"
+represents: "us/states/mi/districts/senate/22"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lana Theis
 
 Current MI Senate District 22 (MI State Senate District 22).
+
+Represents [MI State Senate District 22](/us/states/mi/districts/senate/22.md).
 
 ## Sources
 

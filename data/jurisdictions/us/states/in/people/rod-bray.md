@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 37"
+represents: "us/states/in/districts/senate/37"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rod Bray
 
 Current IN Senate District 37 (IN State Senate District 37).
+
+Represents [IN State Senate District 37](/us/states/in/districts/senate/37.md).
 
 ## Sources
 

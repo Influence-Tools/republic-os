@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 3"
+represents: "us/states/nd/districts/house/3"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Hoverson
 
 Current ND House District 3 (ND State House of Representatives District 3).
+
+Represents [ND State House of Representatives District 3](/us/states/nd/districts/house/3.md).
 
 ## Sources
 

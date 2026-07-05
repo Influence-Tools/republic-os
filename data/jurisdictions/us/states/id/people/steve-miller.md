@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 24B"
+represents: "us/states/id/districts/house/24b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Miller
 
 Current ID House District 24B (ID State House of Representatives District 24B).
+
+Represents [ID State House of Representatives District 24B](/us/states/id/districts/house/24b.md).
 
 ## Sources
 

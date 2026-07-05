@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 36"
+represents: "us/states/il/districts/senate/36"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Halpin
 
 Current IL Senate District 36 (IL State Senate District 36).
+
+Represents [IL State Senate District 36](/us/states/il/districts/senate/36.md).
 
 ## Sources
 

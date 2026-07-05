@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 33"
+represents: "us/states/ks/districts/senate/33"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tory Marie Blew
 
 Current KS Senate District 33 (KS State Senate District 33).
+
+Represents [KS State Senate District 33](/us/states/ks/districts/senate/33.md).
 
 ## Sources
 

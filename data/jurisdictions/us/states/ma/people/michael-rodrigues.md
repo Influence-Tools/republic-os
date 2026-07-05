@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District First Bristol and Plymouth"
+represents: "us/states/ma/districts/senate/first-bristol-and-plymouth"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Rodrigues
 
 Current MA Senate District First Bristol and Plymouth (MA State Senate District First Bristol and Plymouth).
+
+Represents [MA State Senate District First Bristol and Plymouth](/us/states/ma/districts/senate/first-bristol-and-plymouth.md).
 
 ## Sources
 

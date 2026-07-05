@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 49"
+represents: "us/states/or/districts/house/49"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zach Hudson
 
 Current OR House District 49 (OR State House of Representatives District 49).
+
+Represents [OR State House of Representatives District 49](/us/states/or/districts/house/49.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 45"
+represents: "us/states/ok/districts/senate/45"
 tenure:
   start: "2017-11-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Rosino
 
 Current OK Senate District 45 (OK State Senate District 45).
+
+Represents [OK State Senate District 45](/us/states/ok/districts/senate/45.md).
 
 ## Sources
 

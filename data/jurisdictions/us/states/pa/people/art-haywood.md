@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 4"
+represents: "us/states/pa/districts/senate/4"
 tenure:
   start: "2015-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Art Haywood
 
 Current PA Senate District 4 (PA State Senate District 4).
+
+Represents [PA State Senate District 4](/us/states/pa/districts/senate/4.md).
 
 ## Sources
 

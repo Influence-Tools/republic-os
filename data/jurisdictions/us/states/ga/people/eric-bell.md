@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 75"
+represents: "us/states/ga/districts/house/75"
 tenure:
   start: "2023-03-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Bell
 
 Current GA House District 75 (GA State House of Representatives District 75).
+
+Represents [GA State House of Representatives District 75](/us/states/ga/districts/house/75.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 49"
+represents: "us/states/tx/districts/house/49"
 tenure:
   start: "2017-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gina Hinojosa
 
 Current TX House District 49 (TX State House of Representatives District 49).
+
+Represents [TX State House of Representatives District 49](/us/states/tx/districts/house/49.md).
 
 ## Sources
 

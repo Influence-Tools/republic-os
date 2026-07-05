@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 13"
+represents: "us/states/ct/districts/house/13"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Doucette
 
 Current CT House District 13 (CT State House of Representatives District 13).
+
+Represents [CT State House of Representatives District 13](/us/states/ct/districts/house/13.md).
 
 ## Sources
 

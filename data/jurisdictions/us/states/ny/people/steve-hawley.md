@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 139"
+represents: "us/states/ny/districts/house/139"
 tenure:
   start: "2006-03-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Hawley
 
 Current NY House District 139 (NY State House of Representatives District 139).
+
+Represents [NY State House of Representatives District 139](/us/states/ny/districts/house/139.md).
 
 ## Sources
 

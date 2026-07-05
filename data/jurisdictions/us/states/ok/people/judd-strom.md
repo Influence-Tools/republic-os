@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 10"
+represents: "us/states/ok/districts/house/10"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Judd Strom
 
 Current OK House District 10 (OK State House of Representatives District 10).
+
+Represents [OK State House of Representatives District 10](/us/states/ok/districts/house/10.md).
 
 ## Sources
 

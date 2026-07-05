@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 26B"
+represents: "us/states/sd/districts/house/26b"
 tenure:
   start: "2018-08-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Reimer
 
 Current SD House District 26B (SD State House of Representatives District 26B).
+
+Represents [SD State House of Representatives District 26B](/us/states/sd/districts/house/26b.md).
 
 ## Sources
 

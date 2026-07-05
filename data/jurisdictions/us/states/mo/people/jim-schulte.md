@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 49"
+represents: "us/states/mo/districts/house/49"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Schulte
 
 Current MO House District 49 (MO State House of Representatives District 49).
+
+Represents [MO State House of Representatives District 49](/us/states/mo/districts/house/49.md).
 
 ## Sources
 

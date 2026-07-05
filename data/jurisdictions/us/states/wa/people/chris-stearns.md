@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 47"
+represents: "us/states/wa/districts/house/47"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Stearns
 
 Current WA House District 47 (WA State House of Representatives District 47).
+
+Represents [WA State House of Representatives District 47](/us/states/wa/districts/house/47.md).
 
 ## Sources
 

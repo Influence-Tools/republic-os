@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 13"
+represents: "us/states/nm/districts/house/13"
 tenure:
   start: "2013-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Roybal Caballero
 
 Current NM House District 13 (NM State House of Representatives District 13).
+
+Represents [NM State House of Representatives District 13](/us/states/nm/districts/house/13.md).
 
 ## Sources
 

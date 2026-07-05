@@ -22,9 +22,21 @@ demographics:
   race_native: 13
   hispanic: 950
   bachelors_plus: 1178
+districts:
+  - to: "us/states/va/districts/09"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/va/districts/senate/7"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/va/districts/house/47"
+    rel: in-district
+    area_weight: 0.999
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, va]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 950 |
 | Bachelor's or higher | 1178 |
 
+## Districts
+
+- [VA-09](/us/states/va/districts/09.md) — 100% (congressional)
+- [VA Senate District 7](/us/states/va/districts/senate/7.md) — 100% (state senate)
+- [VA House District 47](/us/states/va/districts/house/47.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

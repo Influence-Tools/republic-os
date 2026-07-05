@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 3"
+represents: "us/states/tx/districts/house/3"
 tenure:
   start: "2013-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cecil Bell
 
 Current TX House District 3 (TX State House of Representatives District 3).
+
+Represents [TX State House of Representatives District 3](/us/states/tx/districts/house/3.md).
 
 ## Sources
 

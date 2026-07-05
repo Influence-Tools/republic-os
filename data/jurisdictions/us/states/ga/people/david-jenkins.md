@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 136"
+represents: "us/states/ga/districts/house/136"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Jenkins
 
 Current GA House District 136 (GA State House of Representatives District 136).
+
+Represents [GA State House of Representatives District 136](/us/states/ga/districts/house/136.md).
 
 ## Sources
 

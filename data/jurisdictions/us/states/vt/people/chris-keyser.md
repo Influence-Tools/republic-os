@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Rutland-7"
+represents: "us/states/vt/districts/house/rutland-7"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Keyser
 
 Current VT House District Rutland-7 (VT State House of Representatives District Rutland-7).
+
+Represents [VT State House of Representatives District Rutland-7](/us/states/vt/districts/house/rutland-7.md).
 
 ## Sources
 

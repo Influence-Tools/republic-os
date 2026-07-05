@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 37"
+represents: "us/states/wa/districts/house/37"
 tenure:
   start: "1999-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Tomiko Santos
 
 Current WA House District 37 (WA State House of Representatives District 37).
+
+Represents [WA State House of Representatives District 37](/us/states/wa/districts/house/37.md).
 
 ## Sources
 

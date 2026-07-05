@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 55"
+represents: "us/states/al/districts/house/55"
 tenure:
   start: "2023-10-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Hendrix
 
 Current AL House District 55 (AL State House of Representatives District 55).
+
+Represents [AL State House of Representatives District 55](/us/states/al/districts/house/55.md).
 
 ## Sources
 

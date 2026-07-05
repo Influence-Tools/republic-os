@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 48"
+represents: "us/states/in/districts/senate/48"
 tenure:
   start: "2024-09-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daryl Schmitt
 
 Current IN Senate District 48 (IN State Senate District 48).
+
+Represents [IN State Senate District 48](/us/states/in/districts/senate/48.md).
 
 ## Sources
 

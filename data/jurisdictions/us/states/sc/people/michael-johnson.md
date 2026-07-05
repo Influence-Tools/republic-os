@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 16"
+represents: "us/states/sc/districts/senate/16"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Johnson
 
 Current SC Senate District 16 (SC State Senate District 16).
+
+Represents [SC State Senate District 16](/us/states/sc/districts/senate/16.md).
 
 ## Sources
 

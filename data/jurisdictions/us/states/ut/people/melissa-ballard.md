@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 20"
+represents: "us/states/ut/districts/house/20"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Ballard
 
 Current UT House District 20 (UT State House of Representatives District 20).
+
+Represents [UT State House of Representatives District 20](/us/states/ut/districts/house/20.md).
 
 ## Sources
 

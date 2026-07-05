@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 73"
+represents: "us/states/ut/districts/house/73"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Colin Jack
 
 Current UT House District 73 (UT State House of Representatives District 73).
+
+Represents [UT State House of Representatives District 73](/us/states/ut/districts/house/73.md).
 
 ## Sources
 

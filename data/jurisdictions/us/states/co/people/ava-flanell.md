@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 14"
+represents: "us/states/co/districts/house/14"
 tenure:
   start: "2025-10-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ava Flanell
 
 Current CO House District 14 (CO State House of Representatives District 14).
+
+Represents [CO State House of Representatives District 14](/us/states/co/districts/house/14.md).
 
 ## Sources
 

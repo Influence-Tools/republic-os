@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 32"
+represents: "us/states/ga/districts/senate/32"
 tenure:
   start: "2017-06-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kay Kirkpatrick
 
 Current GA Senate District 32 (GA State Senate District 32).
+
+Represents [GA State Senate District 32](/us/states/ga/districts/senate/32.md).
 
 ## Sources
 

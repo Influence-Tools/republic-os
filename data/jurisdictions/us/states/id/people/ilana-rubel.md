@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 18A"
+represents: "us/states/id/districts/house/18a"
 tenure:
   start: "2014-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ilana Rubel
 
 Current ID House District 18A (ID State House of Representatives District 18A).
+
+Represents [ID State House of Representatives District 18A](/us/states/id/districts/house/18a.md).
 
 ## Sources
 

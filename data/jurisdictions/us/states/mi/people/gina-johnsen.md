@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 78"
+represents: "us/states/mi/districts/house/78"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gina Johnsen
 
 Current MI House District 78 (MI State House of Representatives District 78).
+
+Represents [MI State House of Representatives District 78](/us/states/mi/districts/house/78.md).
 
 ## Sources
 

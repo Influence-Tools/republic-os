@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 5"
+represents: "us/states/id/districts/senate/5"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Bjerke
 
 Current ID Senate District 5 (ID State Senate District 5).
+
+Represents [ID State Senate District 5](/us/states/id/districts/senate/5.md).
 
 ## Sources
 

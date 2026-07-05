@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windsor-Addison"
+represents: "us/states/vt/districts/house/windsor-addison"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kirk White
 
 Current VT House District Windsor-Addison (VT State House of Representatives District Windsor-Addison).
+
+Represents [VT State House of Representatives District Windsor-Addison](/us/states/vt/districts/house/windsor-addison.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 10"
+represents: "us/states/nm/districts/house/10"
 tenure:
   start: "2015-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrés Romero
 
 Current NM House District 10 (NM State House of Representatives District 10).
+
+Represents [NM State House of Representatives District 10](/us/states/nm/districts/house/10.md).
 
 ## Sources
 

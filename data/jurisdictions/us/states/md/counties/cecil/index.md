@@ -22,9 +22,30 @@ demographics:
   race_native: 100
   hispanic: 5852
   bachelors_plus: 28718
+districts:
+  - to: "us/states/md/districts/01"
+    rel: in-district
+    area_weight: 0.91
+  - to: "us/states/md/districts/senate/36"
+    rel: in-district
+    area_weight: 0.5415
+  - to: "us/states/md/districts/senate/35"
+    rel: in-district
+    area_weight: 0.3595
+  - to: "us/states/md/districts/house/36"
+    rel: in-district
+    area_weight: 0.5415
+  - to: "us/states/md/districts/house/35b"
+    rel: in-district
+    area_weight: 0.3019
+  - to: "us/states/md/districts/house/35a"
+    rel: in-district
+    area_weight: 0.0576
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 5852 |
 | Bachelor's or higher | 28718 |
 
+## Districts
+
+- [MD-01](/us/states/md/districts/01.md) — 91% (congressional)
+- [MD Senate District 36](/us/states/md/districts/senate/36.md) — 54% (state senate)
+- [MD Senate District 35](/us/states/md/districts/senate/35.md) — 36% (state senate)
+- [MD House District 36](/us/states/md/districts/house/36.md) — 54% (state house)
+- [MD House District 35B](/us/states/md/districts/house/35b.md) — 30% (state house)
+- [MD House District 35A](/us/states/md/districts/house/35a.md) — 6% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

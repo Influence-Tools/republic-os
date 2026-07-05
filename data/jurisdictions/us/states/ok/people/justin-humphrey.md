@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 19"
+represents: "us/states/ok/districts/house/19"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Humphrey
 
 Current OK House District 19 (OK State House of Representatives District 19).
+
+Represents [OK State House of Representatives District 19](/us/states/ok/districts/house/19.md).
 
 ## Sources
 

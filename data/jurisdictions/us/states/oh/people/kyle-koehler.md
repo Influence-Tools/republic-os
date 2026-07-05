@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 10"
+represents: "us/states/oh/districts/senate/10"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Koehler
 
 Current OH Senate District 10 (OH State Senate District 10).
+
+Represents [OH State Senate District 10](/us/states/oh/districts/senate/10.md).
 
 ## Sources
 

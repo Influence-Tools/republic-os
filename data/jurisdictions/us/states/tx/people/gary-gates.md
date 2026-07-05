@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 28"
+represents: "us/states/tx/districts/house/28"
 tenure:
   start: "2020-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Gates
 
 Current TX House District 28 (TX State House of Representatives District 28).
+
+Represents [TX State House of Representatives District 28](/us/states/tx/districts/house/28.md).
 
 ## Sources
 

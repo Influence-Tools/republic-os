@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CT"
 district: "Congressional District 3"
+represents: "us/states/ct/districts/03"
 committees:
   - name: "House Committee on Appropriations"
     role: "ranking-member"
@@ -43,6 +44,8 @@ timestamp: "2026-07-04"
 # Rosa L. DeLauro
 
 Current U.S. House of Representatives - CT-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/ct/districts/03.md).
 
 ## Committees
 

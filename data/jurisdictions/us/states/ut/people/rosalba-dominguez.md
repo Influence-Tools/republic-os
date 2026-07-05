@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 35"
+represents: "us/states/ut/districts/house/35"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rosalba Dominguez
 
 Current UT House District 35 (UT State House of Representatives District 35).
+
+Represents [UT State House of Representatives District 35](/us/states/ut/districts/house/35.md).
 
 ## Sources
 

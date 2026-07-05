@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 31"
+represents: "us/states/in/districts/senate/31"
 tenure:
   start: "2020-11-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Walker
 
 Current IN Senate District 31 (IN State Senate District 31).
+
+Represents [IN State Senate District 31](/us/states/in/districts/senate/31.md).
 
 ## Sources
 

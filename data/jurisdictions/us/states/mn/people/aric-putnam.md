@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 14"
+represents: "us/states/mn/districts/senate/14"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aric Putnam
 
 Current MN Senate District 14 (MN State Senate District 14).
+
+Represents [MN State Senate District 14](/us/states/mn/districts/senate/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 77"
+represents: "us/states/ct/districts/house/77"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cara Pavalock-D'Amato
 
 Current CT House District 77 (CT State House of Representatives District 77).
+
+Represents [CT State House of Representatives District 77](/us/states/ct/districts/house/77.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 29"
+represents: "us/states/ny/districts/house/29"
 tenure:
   start: "2016-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alicia Hyndman
 
 Current NY House District 29 (NY State House of Representatives District 29).
+
+Represents [NY State House of Representatives District 29](/us/states/ny/districts/house/29.md).
 
 ## Sources
 

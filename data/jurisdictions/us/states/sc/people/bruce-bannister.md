@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 24"
+represents: "us/states/sc/districts/house/24"
 tenure:
   start: "2005-10-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Bannister
 
 Current SC House District 24 (SC State House of Representatives District 24).
+
+Represents [SC State House of Representatives District 24](/us/states/sc/districts/house/24.md).
 
 ## Sources
 

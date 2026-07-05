@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 6"
+represents: "us/states/ma/districts/06"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Seth Moulton
 
 Current U.S. House of Representatives - MA-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/ma/districts/06.md).
 
 ## Committees
 

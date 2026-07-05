@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 12"
+represents: "us/states/nv/districts/house/12"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Max Carter
 
 Current NV House District 12 (NV State House of Representatives District 12).
+
+Represents [NV State House of Representatives District 12](/us/states/nv/districts/house/12.md).
 
 ## Sources
 

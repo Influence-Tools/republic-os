@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 42"
+represents: "us/states/ok/districts/house/42"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Roe
 
 Current OK House District 42 (OK State House of Representatives District 42).
+
+Represents [OK State House of Representatives District 42](/us/states/ok/districts/house/42.md).
 
 ## Sources
 

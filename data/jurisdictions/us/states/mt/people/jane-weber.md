@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 19"
+represents: "us/states/mt/districts/house/19"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jane Weber
 
 Current MT House District 19 (MT State House of Representatives District 19).
+
+Represents [MT State House of Representatives District 19](/us/states/mt/districts/house/19.md).
 
 ## Sources
 

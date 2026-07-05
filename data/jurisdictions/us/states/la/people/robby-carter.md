@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 72"
+represents: "us/states/la/districts/house/72"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robby Carter
 
 Current LA House District 72 (LA State House of Representatives District 72).
+
+Represents [LA State House of Representatives District 72](/us/states/la/districts/house/72.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 91"
+represents: "us/states/ky/districts/house/91"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Wesley
 
 Current KY House District 91 (KY State House of Representatives District 91).
+
+Represents [KY State House of Representatives District 91](/us/states/ky/districts/house/91.md).
 
 ## Sources
 

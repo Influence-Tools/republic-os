@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 67"
+represents: "us/states/tn/districts/house/67"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ronnie Glynn
 
 Current TN House District 67 (TN State House of Representatives District 67).
+
+Represents [TN State House of Representatives District 67](/us/states/tn/districts/house/67.md).
 
 ## Sources
 

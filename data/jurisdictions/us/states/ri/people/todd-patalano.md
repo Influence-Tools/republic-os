@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 26"
+represents: "us/states/ri/districts/senate/26"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Todd Patalano
 
 Current RI Senate District 26 (RI State Senate District 26).
+
+Represents [RI State Senate District 26](/us/states/ri/districts/senate/26.md).
 
 ## Sources
 

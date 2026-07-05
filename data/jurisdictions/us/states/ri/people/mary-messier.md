@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 62"
+represents: "us/states/ri/districts/house/62"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Messier
 
 Current RI House District 62 (RI State House of Representatives District 62).
+
+Represents [RI State House of Representatives District 62](/us/states/ri/districts/house/62.md).
 
 ## Sources
 

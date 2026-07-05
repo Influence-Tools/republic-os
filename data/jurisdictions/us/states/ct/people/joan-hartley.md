@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 15"
+represents: "us/states/ct/districts/senate/15"
 tenure:
   start: "2001-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joan Hartley
 
 Current CT Senate District 15 (CT State Senate District 15).
+
+Represents [CT State Senate District 15](/us/states/ct/districts/senate/15.md).
 
 ## Sources
 

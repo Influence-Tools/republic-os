@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CO"
 district: "Congressional District 7"
+represents: "us/states/co/districts/07"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Brittany Pettersen
 
 Current U.S. House of Representatives - CO-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/co/districts/07.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 24A"
+represents: "us/states/id/districts/house/24a"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clint Hostetler
 
 Current ID House District 24A (ID State House of Representatives District 24A).
+
+Represents [ID State House of Representatives District 24A](/us/states/id/districts/house/24a.md).
 
 ## Sources
 

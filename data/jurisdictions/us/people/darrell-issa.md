@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 48"
+represents: "us/states/ca/districts/48"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Darrell Issa
 
 Current U.S. House of Representatives - CA-48 (Congressional District 48).
+
+Represents [Congressional District 48](/us/states/ca/districts/48.md).
 
 ## Committees
 

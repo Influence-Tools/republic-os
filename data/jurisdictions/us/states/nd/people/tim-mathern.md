@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 11"
+represents: "us/states/nd/districts/senate/11"
 tenure:
   start: "1986-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Mathern
 
 Current ND Senate District 11 (ND State Senate District 11).
+
+Represents [ND State Senate District 11](/us/states/nd/districts/senate/11.md).
 
 ## Sources
 

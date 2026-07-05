@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 44"
+represents: "us/states/mt/districts/senate/44"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Theresa Manzella
 
 Current MT Senate District 44 (MT State Senate District 44).
+
+Represents [MT State Senate District 44](/us/states/mt/districts/senate/44.md).
 
 ## Sources
 

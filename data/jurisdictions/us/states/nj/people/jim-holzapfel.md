@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 10"
+represents: "us/states/nj/districts/senate/10"
 tenure:
   start: "2012-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Holzapfel
 
 Current NJ Senate District 10 (NJ State Senate District 10).
+
+Represents [NJ State Senate District 10](/us/states/nj/districts/senate/10.md).
 
 ## Sources
 

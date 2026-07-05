@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 1"
+represents: "us/states/md/districts/senate/1"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike McKay
 
 Current MD Senate District 1 (MD State Senate District 1).
+
+Represents [MD State Senate District 1](/us/states/md/districts/senate/1.md).
 
 ## Sources
 

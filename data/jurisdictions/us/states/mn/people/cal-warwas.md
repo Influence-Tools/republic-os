@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 7B"
+represents: "us/states/mn/districts/house/7b"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cal Warwas
 
 Current MN House District 7B (MN State House of Representatives District 7B).
+
+Represents [MN State House of Representatives District 7B](/us/states/mn/districts/house/7b.md).
 
 ## Sources
 

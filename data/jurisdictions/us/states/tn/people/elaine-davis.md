@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 18"
+represents: "us/states/tn/districts/house/18"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elaine Davis
 
 Current TN House District 18 (TN State House of Representatives District 18).
+
+Represents [TN State House of Representatives District 18](/us/states/tn/districts/house/18.md).
 
 ## Sources
 

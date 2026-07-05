@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 104"
+represents: "us/states/ct/districts/house/104"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kara Rochelle
 
 Current CT House District 104 (CT State House of Representatives District 104).
+
+Represents [CT State House of Representatives District 104](/us/states/ct/districts/house/104.md).
 
 ## Sources
 

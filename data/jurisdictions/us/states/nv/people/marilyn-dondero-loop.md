@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 8"
+represents: "us/states/nv/districts/senate/8"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marilyn Dondero Loop
 
 Current NV Senate District 8 (NV State Senate District 8).
+
+Represents [NV State Senate District 8](/us/states/nv/districts/senate/8.md).
 
 ## Sources
 

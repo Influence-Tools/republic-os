@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Cheshire 17"
+represents: "us/states/nh/districts/house/cheshire-17"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jennifer Rhodes
 
 Current NH House District Cheshire 17 (NH State House of Representatives District Cheshire 17).
+
+Represents [NH State House of Representatives District Cheshire 17](/us/states/nh/districts/house/cheshire-17.md).
 
 ## Sources
 

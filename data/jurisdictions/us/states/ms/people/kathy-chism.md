@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 3"
+represents: "us/states/ms/districts/senate/3"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Chism
 
 Current MS Senate District 3 (MS State Senate District 3).
+
+Represents [MS State Senate District 3](/us/states/ms/districts/senate/3.md).
 
 ## Sources
 

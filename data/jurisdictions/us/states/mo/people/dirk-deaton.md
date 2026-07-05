@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 159"
+represents: "us/states/mo/districts/house/159"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dirk Deaton
 
 Current MO House District 159 (MO State House of Representatives District 159).
+
+Represents [MO State House of Representatives District 159](/us/states/mo/districts/house/159.md).
 
 ## Sources
 

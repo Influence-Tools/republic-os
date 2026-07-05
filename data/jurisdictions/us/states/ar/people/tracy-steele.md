@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 72"
+represents: "us/states/ar/districts/house/72"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Steele
 
 Current AR House District 72 (AR State House of Representatives District 72).
+
+Represents [AR State House of Representatives District 72](/us/states/ar/districts/house/72.md).
 
 ## Sources
 

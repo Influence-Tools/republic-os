@@ -22,9 +22,24 @@ demographics:
   race_native: 1929
   hispanic: 9748
   bachelors_plus: 15371
+districts:
+  - to: "us/states/or/districts/02"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/or/districts/senate/28"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/or/districts/house/55"
+    rel: in-district
+    area_weight: 0.7877
+  - to: "us/states/or/districts/house/56"
+    rel: in-district
+    area_weight: 0.2121
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, or]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 9748 |
 | Bachelor's or higher | 15371 |
 
+## Districts
+
+- [OR-02](/us/states/or/districts/02.md) — 100% (congressional)
+- [OR Senate District 28](/us/states/or/districts/senate/28.md) — 100% (state senate)
+- [OR House District 55](/us/states/or/districts/house/55.md) — 79% (state house)
+- [OR House District 56](/us/states/or/districts/house/56.md) — 21% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

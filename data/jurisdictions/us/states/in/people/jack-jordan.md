@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 17"
+represents: "us/states/in/districts/house/17"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Jordan
 
 Current IN House District 17 (IN State House of Representatives District 17).
+
+Represents [IN State House of Representatives District 17](/us/states/in/districts/house/17.md).
 
 ## Sources
 

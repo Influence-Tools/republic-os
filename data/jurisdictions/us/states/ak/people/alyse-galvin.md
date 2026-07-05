@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 14"
+represents: "us/states/ak/districts/house/14"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alyse Galvin
 
 Current AK House District 14 (AK State House of Representatives District 14).
+
+Represents [AK State House of Representatives District 14](/us/states/ak/districts/house/14.md).
 
 ## Sources
 

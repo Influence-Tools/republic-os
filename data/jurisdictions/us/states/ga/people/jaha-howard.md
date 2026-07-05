@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 35"
+represents: "us/states/ga/districts/senate/35"
 tenure:
   start: "2025-12-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaha Howard
 
 Current GA Senate District 35 (GA State Senate District 35).
+
+Represents [GA State Senate District 35](/us/states/ga/districts/senate/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 16"
+represents: "us/states/ok/districts/senate/16"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Boren
 
 Current OK Senate District 16 (OK State Senate District 16).
+
+Represents [OK State Senate District 16](/us/states/ok/districts/senate/16.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 84"
+represents: "us/states/ks/districts/house/84"
 tenure:
   start: "2022-09-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ford Carr
 
 Current KS House District 84 (KS State House of Representatives District 84).
+
+Represents [KS State House of Representatives District 84](/us/states/ks/districts/house/84.md).
 
 ## Sources
 

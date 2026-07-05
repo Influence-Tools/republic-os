@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 21"
+represents: "us/states/ok/districts/senate/21"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Grellner
 
 Current OK Senate District 21 (OK State Senate District 21).
+
+Represents [OK State Senate District 21](/us/states/ok/districts/senate/21.md).
 
 ## Sources
 

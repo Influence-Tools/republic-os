@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 13th Bristol"
+represents: "us/states/ma/districts/house/13th-bristol"
 tenure:
   start: "1991-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Cabral
 
 Current MA House District 13th Bristol (MA State House of Representatives District 13th Bristol).
+
+Represents [MA State House of Representatives District 13th Bristol](/us/states/ma/districts/house/13th-bristol.md).
 
 ## Sources
 

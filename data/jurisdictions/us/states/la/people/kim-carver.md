@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 89"
+represents: "us/states/la/districts/house/89"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kim Carver
 
 Current LA House District 89 (LA State House of Representatives District 89).
+
+Represents [LA State House of Representatives District 89](/us/states/la/districts/house/89.md).
 
 ## Sources
 

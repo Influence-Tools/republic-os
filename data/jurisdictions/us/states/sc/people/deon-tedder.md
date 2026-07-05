@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 42"
+represents: "us/states/sc/districts/senate/42"
 tenure:
   start: "2024-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deon Tedder
 
 Current SC Senate District 42 (SC State Senate District 42).
+
+Represents [SC State Senate District 42](/us/states/sc/districts/senate/42.md).
 
 ## Sources
 

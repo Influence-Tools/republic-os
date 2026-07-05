@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 15"
+represents: "us/states/wi/districts/senate/15"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Spreitzer
 
 Current WI Senate District 15 (WI State Senate District 15).
+
+Represents [WI State Senate District 15](/us/states/wi/districts/senate/15.md).
 
 ## Sources
 

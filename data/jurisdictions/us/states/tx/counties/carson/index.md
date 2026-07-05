@@ -22,9 +22,21 @@ demographics:
   race_native: 23
   hispanic: 635
   bachelors_plus: 1414
+districts:
+  - to: "us/states/tx/districts/13"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/tx/districts/senate/31"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/tx/districts/house/87"
+    rel: in-district
+    area_weight: 0.9998
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, tx]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 635 |
 | Bachelor's or higher | 1414 |
 
+## Districts
+
+- [TX-13](/us/states/tx/districts/13.md) — 100% (congressional)
+- [TX Senate District 31](/us/states/tx/districts/senate/31.md) — 100% (state senate)
+- [TX House District 87](/us/states/tx/districts/house/87.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

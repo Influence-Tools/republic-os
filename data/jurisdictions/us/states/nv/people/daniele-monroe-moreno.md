@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 1"
+represents: "us/states/nv/districts/house/1"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daniele Monroe-Moreno
 
 Current NV House District 1 (NV State House of Representatives District 1).
+
+Represents [NV State House of Representatives District 1](/us/states/nv/districts/house/1.md).
 
 ## Sources
 

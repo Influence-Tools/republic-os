@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 48"
+represents: "us/states/ia/districts/house/48"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad Behn
 
 Current IA House District 48 (IA State House of Representatives District 48).
+
+Represents [IA State House of Representatives District 48](/us/states/ia/districts/house/48.md).
 
 ## Sources
 

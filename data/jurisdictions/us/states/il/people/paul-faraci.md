@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 52"
+represents: "us/states/il/districts/senate/52"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Faraci
 
 Current IL Senate District 52 (IL State Senate District 52).
+
+Represents [IL State Senate District 52](/us/states/il/districts/senate/52.md).
 
 ## Sources
 

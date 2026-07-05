@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 29"
+represents: "us/states/az/districts/senate/29"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Janae Shamp
 
 Current AZ Senate District 29 (AZ State Senate District 29).
+
+Represents [AZ State Senate District 29](/us/states/az/districts/senate/29.md).
 
 ## Sources
 

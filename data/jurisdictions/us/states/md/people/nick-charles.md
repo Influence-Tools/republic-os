@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 25"
+represents: "us/states/md/districts/senate/25"
 tenure:
   start: "2023-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Charles
 
 Current MD Senate District 25 (MD State Senate District 25).
+
+Represents [MD State Senate District 25](/us/states/md/districts/senate/25.md).
 
 ## Sources
 

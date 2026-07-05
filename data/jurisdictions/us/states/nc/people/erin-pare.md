@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 37"
+represents: "us/states/nc/districts/house/37"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erin Paré
 
 Current NC House District 37 (NC State House of Representatives District 37).
+
+Represents [NC State House of Representatives District 37](/us/states/nc/districts/house/37.md).
 
 ## Sources
 

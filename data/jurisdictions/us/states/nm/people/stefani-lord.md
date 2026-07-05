@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 22"
+represents: "us/states/nm/districts/house/22"
 tenure:
   start: "2021-01-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stefani Lord
 
 Current NM House District 22 (NM State House of Representatives District 22).
+
+Represents [NM State House of Representatives District 22](/us/states/nm/districts/house/22.md).
 
 ## Sources
 

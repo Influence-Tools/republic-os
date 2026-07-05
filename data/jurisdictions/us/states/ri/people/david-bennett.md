@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 20"
+represents: "us/states/ri/districts/house/20"
 tenure:
   start: "2011-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Bennett
 
 Current RI House District 20 (RI State House of Representatives District 20).
+
+Represents [RI State House of Representatives District 20](/us/states/ri/districts/house/20.md).
 
 ## Sources
 

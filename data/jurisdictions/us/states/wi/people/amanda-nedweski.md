@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 32"
+represents: "us/states/wi/districts/house/32"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amanda Nedweski
 
 Current WI House District 32 (WI State House of Representatives District 32).
+
+Represents [WI State House of Representatives District 32](/us/states/wi/districts/house/32.md).
 
 ## Sources
 

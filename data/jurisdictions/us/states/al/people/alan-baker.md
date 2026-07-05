@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 66"
+represents: "us/states/al/districts/house/66"
 tenure:
   start: "2006-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alan Baker
 
 Current AL House District 66 (AL State House of Representatives District 66).
+
+Represents [AL State House of Representatives District 66](/us/states/al/districts/house/66.md).
 
 ## Sources
 

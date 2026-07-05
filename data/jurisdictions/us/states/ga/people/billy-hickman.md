@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 4"
+represents: "us/states/ga/districts/senate/4"
 tenure:
   start: "2020-08-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy Hickman
 
 Current GA Senate District 4 (GA State Senate District 4).
+
+Represents [GA State Senate District 4](/us/states/ga/districts/senate/4.md).
 
 ## Sources
 

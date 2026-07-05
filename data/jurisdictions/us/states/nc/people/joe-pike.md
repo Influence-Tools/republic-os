@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 6"
+represents: "us/states/nc/districts/house/6"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Pike
 
 Current NC House District 6 (NC State House of Representatives District 6).
+
+Represents [NC State House of Representatives District 6](/us/states/nc/districts/house/6.md).
 
 ## Sources
 

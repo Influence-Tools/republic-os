@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 7"
+represents: "us/states/nj/districts/house/7"
 tenure:
   start: "2025-01-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Balvir Singh
 
 Current NJ House District 7 (NJ State House of Representatives District 7).
+
+Represents [NJ State House of Representatives District 7](/us/states/nj/districts/house/7.md).
 
 ## Sources
 

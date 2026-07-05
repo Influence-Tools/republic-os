@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 25"
+represents: "us/states/ok/districts/senate/25"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Guthrie
 
 Current OK Senate District 25 (OK State Senate District 25).
+
+Represents [OK State Senate District 25](/us/states/ok/districts/senate/25.md).
 
 ## Sources
 

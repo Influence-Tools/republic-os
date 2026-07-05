@@ -22,9 +22,45 @@ demographics:
   race_native: 9062
   hispanic: 7116
   bachelors_plus: 40179
+districts:
+  - to: "us/states/sd/districts/00"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/sd/districts/senate/27"
+    rel: in-district
+    area_weight: 0.6395
+  - to: "us/states/sd/districts/senate/30"
+    rel: in-district
+    area_weight: 0.278
+  - to: "us/states/sd/districts/senate/33"
+    rel: in-district
+    area_weight: 0.0499
+  - to: "us/states/sd/districts/senate/35"
+    rel: in-district
+    area_weight: 0.0163
+  - to: "us/states/sd/districts/senate/34"
+    rel: in-district
+    area_weight: 0.0132
+  - to: "us/states/sd/districts/house/27"
+    rel: in-district
+    area_weight: 0.6395
+  - to: "us/states/sd/districts/house/30"
+    rel: in-district
+    area_weight: 0.278
+  - to: "us/states/sd/districts/house/33"
+    rel: in-district
+    area_weight: 0.0499
+  - to: "us/states/sd/districts/house/35"
+    rel: in-district
+    area_weight: 0.0163
+  - to: "us/states/sd/districts/house/34"
+    rel: in-district
+    area_weight: 0.0132
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, sd]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 7116 |
 | Bachelor's or higher | 40179 |
 
+## Districts
+
+- [SD-00](/us/states/sd/districts/00.md) — 100% (congressional)
+- [SD Senate District 27](/us/states/sd/districts/senate/27.md) — 64% (state senate)
+- [SD Senate District 30](/us/states/sd/districts/senate/30.md) — 28% (state senate)
+- [SD Senate District 33](/us/states/sd/districts/senate/33.md) — 5% (state senate)
+- [SD Senate District 35](/us/states/sd/districts/senate/35.md) — 2% (state senate)
+- [SD Senate District 34](/us/states/sd/districts/senate/34.md) — 1% (state senate)
+- [SD House District 27](/us/states/sd/districts/house/27.md) — 64% (state house)
+- [SD House District 30](/us/states/sd/districts/house/30.md) — 28% (state house)
+- [SD House District 33](/us/states/sd/districts/house/33.md) — 5% (state house)
+- [SD House District 35](/us/states/sd/districts/house/35.md) — 2% (state house)
+- [SD House District 34](/us/states/sd/districts/house/34.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

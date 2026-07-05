@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 15"
+represents: "us/states/wy/districts/senate/15"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy Schuler
 
 Current WY Senate District 15 (WY State Senate District 15).
+
+Represents [WY State Senate District 15](/us/states/wy/districts/senate/15.md).
 
 ## Sources
 

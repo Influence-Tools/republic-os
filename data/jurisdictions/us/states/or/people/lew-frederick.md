@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 22"
+represents: "us/states/or/districts/senate/22"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lew Frederick
 
 Current OR Senate District 22 (OR State Senate District 22).
+
+Represents [OR State Senate District 22](/us/states/or/districts/senate/22.md).
 
 ## Sources
 

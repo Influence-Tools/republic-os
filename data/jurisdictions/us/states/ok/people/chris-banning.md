@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 24"
+represents: "us/states/ok/districts/house/24"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Banning
 
 Current OK House District 24 (OK State House of Representatives District 24).
+
+Represents [OK State House of Representatives District 24](/us/states/ok/districts/house/24.md).
 
 ## Sources
 

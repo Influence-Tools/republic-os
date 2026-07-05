@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 26"
+represents: "us/states/ct/districts/house/26"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave DeFronzo
 
 Current CT House District 26 (CT State House of Representatives District 26).
+
+Represents [CT State House of Representatives District 26](/us/states/ct/districts/house/26.md).
 
 ## Sources
 

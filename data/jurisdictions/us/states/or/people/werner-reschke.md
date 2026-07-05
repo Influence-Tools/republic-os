@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 55"
+represents: "us/states/or/districts/house/55"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Werner Reschke
 
 Current OR House District 55 (OR State House of Representatives District 55).
+
+Represents [OR State House of Representatives District 55](/us/states/or/districts/house/55.md).
 
 ## Sources
 

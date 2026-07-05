@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 1"
+represents: "us/states/mt/districts/senate/1"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Cuffe
 
 Current MT Senate District 1 (MT State Senate District 1).
+
+Represents [MT State Senate District 1](/us/states/mt/districts/senate/1.md).
 
 ## Sources
 

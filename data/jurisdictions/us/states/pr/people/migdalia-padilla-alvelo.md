@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 2"
+represents: "us/states/pr/districts/senate/2"
 tenure:
   start: "2000-05-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Migdalia Padilla Alvelo
 
 Current PR Senate District 2 (PR State Senate District 2).
+
+Represents [PR State Senate District 2](/us/states/pr/districts/senate/2.md).
 
 ## Sources
 

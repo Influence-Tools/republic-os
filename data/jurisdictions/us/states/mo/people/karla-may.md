@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 4"
+represents: "us/states/mo/districts/senate/4"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karla May
 
 Current MO Senate District 4 (MO State Senate District 4).
+
+Represents [MO State Senate District 4](/us/states/mo/districts/senate/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 35"
+represents: "us/states/ms/districts/house/35"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joey Hood
 
 Current MS House District 35 (MS State House of Representatives District 35).
+
+Represents [MS State House of Representatives District 35](/us/states/ms/districts/house/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 33"
+represents: "us/states/ga/districts/senate/33"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doc Rhett
 
 Current GA Senate District 33 (GA State Senate District 33).
+
+Represents [GA State Senate District 33](/us/states/ga/districts/senate/33.md).
 
 ## Sources
 

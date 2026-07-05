@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 13"
+represents: "us/states/ks/districts/house/13"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Duane Droge
 
 Current KS House District 13 (KS State House of Representatives District 13).
+
+Represents [KS State House of Representatives District 13](/us/states/ks/districts/house/13.md).
 
 ## Sources
 

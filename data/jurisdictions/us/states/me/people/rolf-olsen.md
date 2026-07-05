@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 86"
+represents: "us/states/me/districts/house/86"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rolf Olsen
 
 Current ME House District 86 (ME State House of Representatives District 86).
+
+Represents [ME State House of Representatives District 86](/us/states/me/districts/house/86.md).
 
 ## Sources
 

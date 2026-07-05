@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 34"
+represents: "us/states/sc/districts/senate/34"
 tenure:
   start: "2016-11-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephen Goldfinch
 
 Current SC Senate District 34 (SC State Senate District 34).
+
+Represents [SC State Senate District 34](/us/states/sc/districts/senate/34.md).
 
 ## Sources
 

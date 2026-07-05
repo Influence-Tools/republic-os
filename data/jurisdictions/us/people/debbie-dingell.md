@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 6"
+represents: "us/states/mi/districts/06"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Debbie Dingell
 
 Current U.S. House of Representatives - MI-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/mi/districts/06.md).
 
 ## Committees
 

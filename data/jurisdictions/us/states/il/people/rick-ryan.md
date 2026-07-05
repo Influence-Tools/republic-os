@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 36"
+represents: "us/states/il/districts/house/36"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Ryan
 
 Current IL House District 36 (IL State House of Representatives District 36).
+
+Represents [IL State House of Representatives District 36](/us/states/il/districts/house/36.md).
 
 ## Sources
 

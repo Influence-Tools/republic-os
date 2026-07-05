@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Chittenden-12"
+represents: "us/states/vt/districts/house/chittenden-12"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Martin LaLonde
 
 Current VT House District Chittenden-12 (VT State House of Representatives District Chittenden-12).
+
+Represents [VT State House of Representatives District Chittenden-12](/us/states/vt/districts/house/chittenden-12.md).
 
 ## Sources
 

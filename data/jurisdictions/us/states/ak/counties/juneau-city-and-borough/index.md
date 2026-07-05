@@ -22,9 +22,24 @@ demographics:
   race_native: 2786
   hispanic: 2245
   bachelors_plus: 12922
+districts:
+  - to: "us/states/ak/districts/00"
+    rel: in-district
+    area_weight: 0.8761
+  - to: "us/states/ak/districts/senate/b"
+    rel: in-district
+    area_weight: 0.8628
+  - to: "us/states/ak/districts/house/4"
+    rel: in-district
+    area_weight: 0.6558
+  - to: "us/states/ak/districts/house/3"
+    rel: in-district
+    area_weight: 0.207
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ak]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 2245 |
 | Bachelor's or higher | 12922 |
 
+## Districts
+
+- [AK-00](/us/states/ak/districts/00.md) — 88% (congressional)
+- [AK Senate District B](/us/states/ak/districts/senate/b.md) — 86% (state senate)
+- [AK House District 4](/us/states/ak/districts/house/4.md) — 66% (state house)
+- [AK House District 3](/us/states/ak/districts/house/3.md) — 21% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 16"
+represents: "us/states/hi/districts/house/16"
 tenure:
   start: "2023-02-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Luke Evslin
 
 Current HI House District 16 (HI State House of Representatives District 16).
+
+Represents [HI State House of Representatives District 16](/us/states/hi/districts/house/16.md).
 
 ## Sources
 

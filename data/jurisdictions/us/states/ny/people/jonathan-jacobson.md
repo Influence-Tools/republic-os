@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 104"
+represents: "us/states/ny/districts/house/104"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Jacobson
 
 Current NY House District 104 (NY State House of Representatives District 104).
+
+Represents [NY State House of Representatives District 104](/us/states/ny/districts/house/104.md).
 
 ## Sources
 

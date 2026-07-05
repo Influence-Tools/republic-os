@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 137"
+represents: "us/states/ny/districts/house/137"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Demond Meeks
 
 Current NY House District 137 (NY State House of Representatives District 137).
+
+Represents [NY State House of Representatives District 137](/us/states/ny/districts/house/137.md).
 
 ## Sources
 

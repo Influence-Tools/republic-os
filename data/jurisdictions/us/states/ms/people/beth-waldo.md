@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 15"
+represents: "us/states/ms/districts/house/15"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Waldo
 
 Current MS House District 15 (MS State House of Representatives District 15).
+
+Represents [MS State House of Representatives District 15](/us/states/ms/districts/house/15.md).
 
 ## Sources
 

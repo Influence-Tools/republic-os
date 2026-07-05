@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 17"
+represents: "us/states/ms/districts/house/17"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shane Aguirre
 
 Current MS House District 17 (MS State House of Representatives District 17).
+
+Represents [MS State House of Representatives District 17](/us/states/ms/districts/house/17.md).
 
 ## Sources
 

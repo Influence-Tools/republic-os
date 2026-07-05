@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 104"
+represents: "us/states/mi/districts/house/104"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.R. Roth
 
 Current MI House District 104 (MI State House of Representatives District 104).
+
+Represents [MI State House of Representatives District 104](/us/states/mi/districts/house/104.md).
 
 ## Sources
 

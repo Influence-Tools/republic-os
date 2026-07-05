@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 114"
+represents: "us/states/ms/districts/house/114"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Guice
 
 Current MS House District 114 (MS State House of Representatives District 114).
+
+Represents [MS State House of Representatives District 114](/us/states/ms/districts/house/114.md).
 
 ## Sources
 

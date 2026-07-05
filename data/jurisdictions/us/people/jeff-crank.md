@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CO"
 district: "Congressional District 5"
+represents: "us/states/co/districts/05"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jeff Crank
 
 Current U.S. House of Representatives - CO-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/co/districts/05.md).
 
 ## Committees
 

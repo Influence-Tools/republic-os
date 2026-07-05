@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 25"
+represents: "us/states/nm/districts/senate/25"
 tenure:
   start: "2009-01-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Wirth
 
 Current NM Senate District 25 (NM State Senate District 25).
+
+Represents [NM State Senate District 25](/us/states/nm/districts/senate/25.md).
 
 ## Sources
 

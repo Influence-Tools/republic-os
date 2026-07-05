@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 26"
+represents: "us/states/wa/districts/house/26"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adison Richards
 
 Current WA House District 26 (WA State House of Representatives District 26).
+
+Represents [WA State House of Representatives District 26](/us/states/wa/districts/house/26.md).
 
 ## Sources
 

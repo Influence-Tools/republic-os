@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 10"
+represents: "us/states/in/districts/senate/10"
 tenure:
   start: "2016-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Niezgodski
 
 Current IN Senate District 10 (IN State Senate District 10).
+
+Represents [IN State Senate District 10](/us/states/in/districts/senate/10.md).
 
 ## Sources
 

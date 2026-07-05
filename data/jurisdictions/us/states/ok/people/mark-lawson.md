@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 30"
+represents: "us/states/ok/districts/house/30"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Lawson
 
 Current OK House District 30 (OK State House of Representatives District 30).
+
+Represents [OK State House of Representatives District 30](/us/states/ok/districts/house/30.md).
 
 ## Sources
 

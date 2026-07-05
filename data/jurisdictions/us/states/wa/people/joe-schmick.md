@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 9"
+represents: "us/states/wa/districts/house/9"
 tenure:
   start: "2007-11-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Schmick
 
 Current WA House District 9 (WA State House of Representatives District 9).
+
+Represents [WA State House of Representatives District 9](/us/states/wa/districts/house/9.md).
 
 ## Sources
 

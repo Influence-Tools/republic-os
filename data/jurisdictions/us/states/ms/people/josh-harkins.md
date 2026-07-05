@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 20"
+represents: "us/states/ms/districts/senate/20"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Harkins
 
 Current MS Senate District 20 (MS State Senate District 20).
+
+Represents [MS State Senate District 20](/us/states/ms/districts/senate/20.md).
 
 ## Sources
 

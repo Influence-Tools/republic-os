@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 5"
+represents: "us/states/ga/districts/05"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Nikema Williams
 
 Current U.S. House of Representatives - GA-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/ga/districts/05.md).
 
 ## Committees
 

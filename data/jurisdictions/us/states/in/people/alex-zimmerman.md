@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 67"
+represents: "us/states/in/districts/house/67"
 tenure:
   start: "2023-07-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Zimmerman
 
 Current IN House District 67 (IN State House of Representatives District 67).
+
+Represents [IN State House of Representatives District 67](/us/states/in/districts/house/67.md).
 
 ## Sources
 

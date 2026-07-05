@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 59"
+represents: "us/states/mo/districts/house/59"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rudy Veit
 
 Current MO House District 59 (MO State House of Representatives District 59).
+
+Represents [MO State House of Representatives District 59](/us/states/mo/districts/house/59.md).
 
 ## Sources
 

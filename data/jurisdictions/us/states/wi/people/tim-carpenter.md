@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 3"
+represents: "us/states/wi/districts/senate/3"
 tenure:
   start: "2003-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Carpenter
 
 Current WI Senate District 3 (WI State Senate District 3).
+
+Represents [WI State Senate District 3](/us/states/wi/districts/senate/3.md).
 
 ## Sources
 

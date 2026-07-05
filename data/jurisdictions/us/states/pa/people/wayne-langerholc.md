@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 35"
+represents: "us/states/pa/districts/senate/35"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wayne Langerholc
 
 Current PA Senate District 35 (PA State Senate District 35).
+
+Represents [PA State Senate District 35](/us/states/pa/districts/senate/35.md).
 
 ## Sources
 

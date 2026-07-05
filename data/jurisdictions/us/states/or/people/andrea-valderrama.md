@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 47"
+represents: "us/states/or/districts/house/47"
 tenure:
   start: "2021-04-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrea Valderrama
 
 Current OR House District 47 (OR State House of Representatives District 47).
+
+Represents [OR State House of Representatives District 47](/us/states/or/districts/house/47.md).
 
 ## Sources
 

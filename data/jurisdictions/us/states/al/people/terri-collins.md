@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 8"
+represents: "us/states/al/districts/house/8"
 tenure:
   start: "2010-11-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terri Collins
 
 Current AL House District 8 (AL State House of Representatives District 8).
+
+Represents [AL State House of Representatives District 8](/us/states/al/districts/house/8.md).
 
 ## Sources
 

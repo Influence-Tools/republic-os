@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 52"
+represents: "us/states/wy/districts/house/52"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reuben Tarver
 
 Current WY House District 52 (WY State House of Representatives District 52).
+
+Represents [WY State House of Representatives District 52](/us/states/wy/districts/house/52.md).
 
 ## Sources
 

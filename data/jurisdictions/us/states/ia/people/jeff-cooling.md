@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 77"
+represents: "us/states/ia/districts/house/77"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Cooling
 
 Current IA House District 77 (IA State House of Representatives District 77).
+
+Represents [IA State House of Representatives District 77](/us/states/ia/districts/house/77.md).
 
 ## Sources
 

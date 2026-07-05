@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 7th Norfolk"
+represents: "us/states/ma/districts/house/7th-norfolk"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Richard Wells
 
 Current MA House District 7th Norfolk (MA State House of Representatives District 7th Norfolk).
+
+Represents [MA State House of Representatives District 7th Norfolk](/us/states/ma/districts/house/7th-norfolk.md).
 
 ## Sources
 

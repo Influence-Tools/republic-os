@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 9"
+represents: "us/states/az/districts/senate/9"
 tenure:
   start: "2025-03-31"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kiana Sears
 
 Current AZ Senate District 9 (AZ State Senate District 9).
+
+Represents [AZ State Senate District 9](/us/states/az/districts/senate/9.md).
 
 ## Sources
 

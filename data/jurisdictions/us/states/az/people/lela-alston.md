@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State Senate District 5"
+represents: "us/states/az/districts/senate/5"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lela Alston
 
 Current AZ Senate District 5 (AZ State Senate District 5).
+
+Represents [AZ State Senate District 5](/us/states/az/districts/senate/5.md).
 
 ## Sources
 

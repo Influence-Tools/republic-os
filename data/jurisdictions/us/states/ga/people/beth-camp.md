@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 135"
+represents: "us/states/ga/districts/house/135"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Camp
 
 Current GA House District 135 (GA State House of Representatives District 135).
+
+Represents [GA State House of Representatives District 135](/us/states/ga/districts/house/135.md).
 
 ## Sources
 

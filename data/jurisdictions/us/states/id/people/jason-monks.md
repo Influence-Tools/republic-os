@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 22B"
+represents: "us/states/id/districts/house/22b"
 tenure:
   start: "2012-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Monks
 
 Current ID House District 22B (ID State House of Representatives District 22B).
+
+Represents [ID State House of Representatives District 22B](/us/states/id/districts/house/22b.md).
 
 ## Sources
 

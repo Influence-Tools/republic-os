@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 56"
+represents: "us/states/oh/districts/house/56"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Mathews
 
 Current OH House District 56 (OH State House of Representatives District 56).
+
+Represents [OH State House of Representatives District 56](/us/states/oh/districts/house/56.md).
 
 ## Sources
 

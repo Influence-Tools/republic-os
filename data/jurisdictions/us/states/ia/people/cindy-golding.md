@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 83"
+represents: "us/states/ia/districts/house/83"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Golding
 
 Current IA House District 83 (IA State House of Representatives District 83).
+
+Represents [IA State House of Representatives District 83](/us/states/ia/districts/house/83.md).
 
 ## Sources
 

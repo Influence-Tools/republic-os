@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 20"
+represents: "us/states/nh/districts/house/hillsborough-20"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alissandra Murray
 
 Current NH House District Hillsborough 20 (NH State House of Representatives District Hillsborough 20).
+
+Represents [NH State House of Representatives District Hillsborough 20](/us/states/nh/districts/house/hillsborough-20.md).
 
 ## Sources
 

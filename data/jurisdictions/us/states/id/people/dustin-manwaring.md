@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 29A"
+represents: "us/states/id/districts/house/29a"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dustin Manwaring
 
 Current ID House District 29A (ID State House of Representatives District 29A).
+
+Represents [ID State House of Representatives District 29A](/us/states/id/districts/house/29a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 146"
+represents: "us/states/mo/districts/house/146"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Barry Hovis
 
 Current MO House District 146 (MO State House of Representatives District 146).
+
+Represents [MO State House of Representatives District 146](/us/states/mo/districts/house/146.md).
 
 ## Sources
 

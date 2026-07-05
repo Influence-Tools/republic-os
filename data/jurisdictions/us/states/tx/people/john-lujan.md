@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 118"
+represents: "us/states/tx/districts/house/118"
 tenure:
   start: "2021-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lujan
 
 Current TX House District 118 (TX State House of Representatives District 118).
+
+Represents [TX State House of Representatives District 118](/us/states/tx/districts/house/118.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 115"
+represents: "us/states/mo/districts/house/115"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Lucas
 
 Current MO House District 115 (MO State House of Representatives District 115).
+
+Represents [MO State House of Representatives District 115](/us/states/mo/districts/house/115.md).
 
 ## Sources
 

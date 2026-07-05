@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 76"
+represents: "us/states/ks/districts/house/76"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Barrett
 
 Current KS House District 76 (KS State House of Representatives District 76).
+
+Represents [KS State House of Representatives District 76](/us/states/ks/districts/house/76.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 66"
+represents: "us/states/mo/districts/house/66"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marlene Terry
 
 Current MO House District 66 (MO State House of Representatives District 66).
+
+Represents [MO State House of Representatives District 66](/us/states/mo/districts/house/66.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 35"
+represents: "us/states/ky/districts/senate/35"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keturah Herron
 
 Current KY Senate District 35 (KY State Senate District 35).
+
+Represents [KY State Senate District 35](/us/states/ky/districts/senate/35.md).
 
 ## Sources
 

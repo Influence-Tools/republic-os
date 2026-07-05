@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 43"
+represents: "us/states/sc/districts/house/43"
 tenure:
   start: "2018-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Ligon
 
 Current SC House District 43 (SC State House of Representatives District 43).
+
+Represents [SC State House of Representatives District 43](/us/states/sc/districts/house/43.md).
 
 ## Sources
 

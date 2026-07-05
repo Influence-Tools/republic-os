@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 80"
+represents: "us/states/mo/districts/house/80"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lilly Fuchs
 
 Current MO House District 80 (MO State House of Representatives District 80).
+
+Represents [MO State House of Representatives District 80](/us/states/mo/districts/house/80.md).
 
 ## Sources
 

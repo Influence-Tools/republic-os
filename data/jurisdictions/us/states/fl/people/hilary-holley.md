@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 51"
+represents: "us/states/fl/districts/house/51"
 tenure:
   start: "2026-03-24"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hilary Holley
 
 Current FL House District 51 (FL State House of Representatives District 51).
+
+Represents [FL State House of Representatives District 51](/us/states/fl/districts/house/51.md).
 
 ## Sources
 

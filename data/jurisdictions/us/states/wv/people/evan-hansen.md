@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 79"
+represents: "us/states/wv/districts/house/79"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Evan Hansen
 
 Current WV House District 79 (WV State House of Representatives District 79).
+
+Represents [WV State House of Representatives District 79](/us/states/wv/districts/house/79.md).
 
 ## Sources
 

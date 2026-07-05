@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 19"
+represents: "us/states/tx/districts/senate/19"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Roland Gutierrez
 
 Current TX Senate District 19 (TX State Senate District 19).
+
+Represents [TX State Senate District 19](/us/states/tx/districts/senate/19.md).
 
 ## Sources
 

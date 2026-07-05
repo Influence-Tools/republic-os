@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IN"
 district: "Congressional District 4"
+represents: "us/states/in/districts/04"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -70,6 +71,8 @@ timestamp: "2026-07-04"
 # James R. Baird
 
 Current U.S. House of Representatives - IN-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/in/districts/04.md).
 
 ## Committees
 

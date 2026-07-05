@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 14"
+represents: "us/states/nd/districts/senate/14"
 tenure:
   start: "1996-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jerry Klein
 
 Current ND Senate District 14 (ND State Senate District 14).
+
+Represents [ND State Senate District 14](/us/states/nd/districts/senate/14.md).
 
 ## Sources
 

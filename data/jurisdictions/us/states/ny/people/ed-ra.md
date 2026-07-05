@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 19"
+represents: "us/states/ny/districts/house/19"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Ra
 
 Current NY House District 19 (NY State House of Representatives District 19).
+
+Represents [NY State House of Representatives District 19](/us/states/ny/districts/house/19.md).
 
 ## Sources
 

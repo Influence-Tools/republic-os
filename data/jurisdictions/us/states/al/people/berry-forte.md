@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 84"
+represents: "us/states/al/districts/house/84"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Berry Forte
 
 Current AL House District 84 (AL State House of Representatives District 84).
+
+Represents [AL State House of Representatives District 84](/us/states/al/districts/house/84.md).
 
 ## Sources
 

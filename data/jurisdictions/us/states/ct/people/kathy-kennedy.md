@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 119"
+represents: "us/states/ct/districts/house/119"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Kennedy
 
 Current CT House District 119 (CT State House of Representatives District 119).
+
+Represents [CT State House of Representatives District 119](/us/states/ct/districts/house/119.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 8"
+represents: "us/states/nm/districts/senate/8"
 tenure:
   start: "1991-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pete Campos
 
 Current NM Senate District 8 (NM State Senate District 8).
+
+Represents [NM State Senate District 8](/us/states/nm/districts/senate/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Franklin-7"
+represents: "us/states/vt/districts/house/franklin-7"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Penny Demar
 
 Current VT House District Franklin-7 (VT State House of Representatives District Franklin-7).
+
+Represents [VT State House of Representatives District Franklin-7](/us/states/vt/districts/house/franklin-7.md).
 
 ## Sources
 

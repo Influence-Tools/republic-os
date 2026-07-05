@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "OH"
 district: "Congressional District 10"
+represents: "us/states/oh/districts/10"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Michael R. Turner
 
 Current U.S. House of Representatives - OH-10 (Congressional District 10).
+
+Represents [Congressional District 10](/us/states/oh/districts/10.md).
 
 ## Committees
 

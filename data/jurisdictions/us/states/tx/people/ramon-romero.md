@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 90"
+represents: "us/states/tx/districts/house/90"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ramon Romero
 
 Current TX House District 90 (TX State House of Representatives District 90).
+
+Represents [TX State House of Representatives District 90](/us/states/tx/districts/house/90.md).
 
 ## Sources
 

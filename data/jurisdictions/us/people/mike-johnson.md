@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "LA"
 district: "Congressional District 4"
+represents: "us/states/la/districts/04"
 leadership:
   - role: "Speaker of the House"
     body: "H"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Mike Johnson
 
 Current U.S. House of Representatives - LA-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/la/districts/04.md).
 
 ## Leadership
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WY"
 district: "Congressional District (at Large)"
+represents: "us/states/wy/districts/00"
 committees:
   - name: "House Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Harriet M. Hageman
 
 Current U.S. House of Representatives - WY At-Large (Congressional District (at Large)).
+
+Represents [Congressional District (at Large)](/us/states/wy/districts/00.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 14"
+represents: "us/states/wi/districts/senate/14"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Keyeski
 
 Current WI Senate District 14 (WI State Senate District 14).
+
+Represents [WI State Senate District 14](/us/states/wi/districts/senate/14.md).
 
 ## Sources
 

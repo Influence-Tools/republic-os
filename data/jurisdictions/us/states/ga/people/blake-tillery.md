@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 19"
+represents: "us/states/ga/districts/senate/19"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blake Tillery
 
 Current GA Senate District 19 (GA State Senate District 19).
+
+Represents [GA State Senate District 19](/us/states/ga/districts/senate/19.md).
 
 ## Sources
 

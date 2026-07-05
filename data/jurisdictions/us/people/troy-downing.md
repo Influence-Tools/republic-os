@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MT"
 district: "Congressional District 2"
+represents: "us/states/mt/districts/02"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Troy Downing
 
 Current U.S. House of Representatives - MT-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/mt/districts/02.md).
 
 ## Committees
 

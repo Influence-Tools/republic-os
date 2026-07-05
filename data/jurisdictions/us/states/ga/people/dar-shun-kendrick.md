@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 95"
+represents: "us/states/ga/districts/house/95"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dar'shun Kendrick
 
 Current GA House District 95 (GA State House of Representatives District 95).
+
+Represents [GA State House of Representatives District 95](/us/states/ga/districts/house/95.md).
 
 ## Sources
 

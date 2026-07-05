@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 102"
+represents: "us/states/ga/districts/house/102"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gabe Okoye
 
 Current GA House District 102 (GA State House of Representatives District 102).
+
+Represents [GA State House of Representatives District 102](/us/states/ga/districts/house/102.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 72"
+represents: "us/states/ky/districts/house/72"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Koch
 
 Current KY House District 72 (KY State House of Representatives District 72).
+
+Represents [KY State House of Representatives District 72](/us/states/ky/districts/house/72.md).
 
 ## Sources
 

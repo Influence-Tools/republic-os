@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 3"
+represents: "us/states/nc/districts/house/3"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Tyson
 
 Current NC House District 3 (NC State House of Representatives District 3).
+
+Represents [NC State House of Representatives District 3](/us/states/nc/districts/house/3.md).
 
 ## Sources
 

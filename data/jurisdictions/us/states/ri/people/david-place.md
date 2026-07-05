@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 47"
+represents: "us/states/ri/districts/house/47"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Place
 
 Current RI House District 47 (RI State House of Representatives District 47).
+
+Represents [RI State House of Representatives District 47](/us/states/ri/districts/house/47.md).
 
 ## Sources
 

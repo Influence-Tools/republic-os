@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 29A"
+represents: "us/states/md/districts/house/29a"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Morgan
 
 Current MD House District 29A (MD State House of Representatives District 29A).
+
+Represents [MD State House of Representatives District 29A](/us/states/md/districts/house/29a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 14"
+represents: "us/states/nj/districts/house/14"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wayne DeAngelo
 
 Current NJ House District 14 (NJ State House of Representatives District 14).
+
+Represents [NJ State House of Representatives District 14](/us/states/nj/districts/house/14.md).
 
 ## Sources
 

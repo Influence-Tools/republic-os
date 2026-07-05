@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 88"
+represents: "us/states/ok/districts/house/88"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ellen Pogemiller
 
 Current OK House District 88 (OK State House of Representatives District 88).
+
+Represents [OK State House of Representatives District 88](/us/states/ok/districts/house/88.md).
 
 ## Sources
 

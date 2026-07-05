@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 20"
+represents: "us/states/il/districts/senate/20"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Graciela Guzmán
 
 Current IL Senate District 20 (IL State Senate District 20).
+
+Represents [IL State Senate District 20](/us/states/il/districts/senate/20.md).
 
 ## Sources
 

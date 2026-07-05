@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 25"
+represents: "us/states/or/districts/senate/25"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Gorsek
 
 Current OR Senate District 25 (OR State Senate District 25).
+
+Represents [OR State Senate District 25](/us/states/or/districts/senate/25.md).
 
 ## Sources
 

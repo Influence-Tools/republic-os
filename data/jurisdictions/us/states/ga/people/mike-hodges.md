@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 3"
+represents: "us/states/ga/districts/senate/3"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Hodges
 
 Current GA Senate District 3 (GA State Senate District 3).
+
+Represents [GA State Senate District 3](/us/states/ga/districts/senate/3.md).
 
 ## Sources
 

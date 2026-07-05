@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 60"
+represents: "us/states/co/districts/house/60"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Luck
 
 Current CO House District 60 (CO State House of Representatives District 60).
+
+Represents [CO State House of Representatives District 60](/us/states/co/districts/house/60.md).
 
 ## Sources
 

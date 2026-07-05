@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 132"
+represents: "us/states/mo/districts/house/132"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Dean
 
 Current MO House District 132 (MO State House of Representatives District 132).
+
+Represents [MO State House of Representatives District 132](/us/states/mo/districts/house/132.md).
 
 ## Sources
 

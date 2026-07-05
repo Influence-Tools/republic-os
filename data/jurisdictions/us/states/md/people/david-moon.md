@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 20"
+represents: "us/states/md/districts/house/20"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Moon
 
 Current MD House District 20 (MD State House of Representatives District 20).
+
+Represents [MD State House of Representatives District 20](/us/states/md/districts/house/20.md).
 
 ## Sources
 

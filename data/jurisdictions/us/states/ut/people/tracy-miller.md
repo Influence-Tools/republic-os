@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 45"
+represents: "us/states/ut/districts/house/45"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Miller
 
 Current UT House District 45 (UT State House of Representatives District 45).
+
+Represents [UT State House of Representatives District 45](/us/states/ut/districts/house/45.md).
 
 ## Sources
 

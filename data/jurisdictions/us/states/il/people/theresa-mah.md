@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 24"
+represents: "us/states/il/districts/house/24"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Theresa Mah
 
 Current IL House District 24 (IL State House of Representatives District 24).
+
+Represents [IL State House of Representatives District 24](/us/states/il/districts/house/24.md).
 
 ## Sources
 

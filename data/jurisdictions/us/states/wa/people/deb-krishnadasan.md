@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 26"
+represents: "us/states/wa/districts/senate/26"
 tenure:
   start: "2024-12-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Deb Krishnadasan
 
 Current WA Senate District 26 (WA State Senate District 26).
+
+Represents [WA State Senate District 26](/us/states/wa/districts/senate/26.md).
 
 ## Sources
 

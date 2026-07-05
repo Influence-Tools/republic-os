@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 86"
+represents: "us/states/oh/districts/house/86"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Richardson
 
 Current OH House District 86 (OH State House of Representatives District 86).
+
+Represents [OH State House of Representatives District 86](/us/states/oh/districts/house/86.md).
 
 ## Sources
 

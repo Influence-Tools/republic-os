@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 9"
+represents: "us/states/ak/districts/house/9"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ky Holland
 
 Current AK House District 9 (AK State House of Representatives District 9).
+
+Represents [AK State House of Representatives District 9](/us/states/ak/districts/house/9.md).
 
 ## Sources
 

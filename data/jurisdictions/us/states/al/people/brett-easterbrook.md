@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 65"
+represents: "us/states/al/districts/house/65"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brett Easterbrook
 
 Current AL House District 65 (AL State House of Representatives District 65).
+
+Represents [AL State House of Representatives District 65](/us/states/al/districts/house/65.md).
 
 ## Sources
 

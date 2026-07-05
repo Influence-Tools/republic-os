@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Chittenden North"
+represents: "us/states/vt/districts/senate/chittenden-north"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Mattos
 
 Current VT Senate District Chittenden North (VT State Senate District Chittenden North).
+
+Represents [VT State Senate District Chittenden North](/us/states/vt/districts/senate/chittenden-north.md).
 
 ## Sources
 

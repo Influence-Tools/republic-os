@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 140"
+represents: "us/states/ga/districts/house/140"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Teddy Reese
 
 Current GA House District 140 (GA State House of Representatives District 140).
+
+Represents [GA State House of Representatives District 140](/us/states/ga/districts/house/140.md).
 
 ## Sources
 

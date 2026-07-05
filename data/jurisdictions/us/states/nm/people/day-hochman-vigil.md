@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 15"
+represents: "us/states/nm/districts/house/15"
 tenure:
   start: "2019-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Day Hochman-Vigil
 
 Current NM House District 15 (NM State House of Representatives District 15).
+
+Represents [NM State House of Representatives District 15](/us/states/nm/districts/house/15.md).
 
 ## Sources
 

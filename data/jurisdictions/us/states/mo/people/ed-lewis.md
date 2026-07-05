@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 6"
+represents: "us/states/mo/districts/house/6"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ed Lewis
 
 Current MO House District 6 (MO State House of Representatives District 6).
+
+Represents [MO State House of Representatives District 6](/us/states/mo/districts/house/6.md).
 
 ## Sources
 

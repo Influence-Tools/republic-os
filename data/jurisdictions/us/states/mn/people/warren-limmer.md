@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 37"
+represents: "us/states/mn/districts/senate/37"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Warren Limmer
 
 Current MN Senate District 37 (MN State Senate District 37).
+
+Represents [MN State Senate District 37](/us/states/mn/districts/senate/37.md).
 
 ## Sources
 

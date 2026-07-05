@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 39"
+represents: "us/states/mn/districts/senate/39"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Kunesh-Podein
 
 Current MN Senate District 39 (MN State Senate District 39).
+
+Represents [MN State Senate District 39](/us/states/mn/districts/senate/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 33"
+represents: "us/states/mi/districts/senate/33"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Outman
 
 Current MI Senate District 33 (MI State Senate District 33).
+
+Represents [MI State Senate District 33](/us/states/mi/districts/senate/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 23"
+represents: "us/states/wy/districts/house/23"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Storer
 
 Current WY House District 23 (WY State House of Representatives District 23).
+
+Represents [WY State House of Representatives District 23](/us/states/wy/districts/house/23.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 108"
+represents: "us/states/mo/districts/house/108"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Costlow
 
 Current MO House District 108 (MO State House of Representatives District 108).
+
+Represents [MO State House of Representatives District 108](/us/states/mo/districts/house/108.md).
 
 ## Sources
 

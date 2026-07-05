@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District Barnstable, Dukes and Nantucket"
+represents: "us/states/ma/districts/house/barnstable-dukes-and-nantucket"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Moakley
 
 Current MA House District Barnstable, Dukes and Nantucket (MA State House of Representatives District Barnstable, Dukes and Nantucket).
+
+Represents [MA State House of Representatives District Barnstable, Dukes and Nantucket](/us/states/ma/districts/house/barnstable-dukes-and-nantucket.md).
 
 ## Sources
 

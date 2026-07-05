@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 36"
+represents: "us/states/va/districts/house/36"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ellen McLaughlin
 
 Current VA House District 36 (VA State House of Representatives District 36).
+
+Represents [VA State House of Representatives District 36](/us/states/va/districts/house/36.md).
 
 ## Sources
 

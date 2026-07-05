@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 40"
+represents: "us/states/in/districts/senate/40"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Shelli Yoder
 
 Current IN Senate District 40 (IN State Senate District 40).
+
+Represents [IN State Senate District 40](/us/states/in/districts/senate/40.md).
 
 ## Sources
 

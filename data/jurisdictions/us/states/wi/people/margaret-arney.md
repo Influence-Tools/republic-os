@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 18"
+represents: "us/states/wi/districts/house/18"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Margaret Arney
 
 Current WI House District 18 (WI State House of Representatives District 18).
+
+Represents [WI State House of Representatives District 18](/us/states/wi/districts/house/18.md).
 
 ## Sources
 

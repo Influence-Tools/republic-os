@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NC"
 district: "Congressional District 5"
+represents: "us/states/nc/districts/05"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Virginia Foxx
 
 Current U.S. House of Representatives - NC-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/nc/districts/05.md).
 
 ## Committees
 

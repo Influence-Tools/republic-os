@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 4"
+represents: "us/states/ri/districts/house/4"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Kislak
 
 Current RI House District 4 (RI State House of Representatives District 4).
+
+Represents [RI State House of Representatives District 4](/us/states/ri/districts/house/4.md).
 
 ## Sources
 

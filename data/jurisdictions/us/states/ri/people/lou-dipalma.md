@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 12"
+represents: "us/states/ri/districts/senate/12"
 tenure:
   start: "2009-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lou DiPalma
 
 Current RI Senate District 12 (RI State Senate District 12).
+
+Represents [RI State Senate District 12](/us/states/ri/districts/senate/12.md).
 
 ## Sources
 

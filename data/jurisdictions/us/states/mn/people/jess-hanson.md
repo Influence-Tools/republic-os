@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 55A"
+represents: "us/states/mn/districts/house/55a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jess Hanson
 
 Current MN House District 55A (MN State House of Representatives District 55A).
+
+Represents [MN State House of Representatives District 55A](/us/states/mn/districts/house/55a.md).
 
 ## Sources
 

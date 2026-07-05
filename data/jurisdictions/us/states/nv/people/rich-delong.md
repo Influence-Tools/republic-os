@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 26"
+represents: "us/states/nv/districts/house/26"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rich DeLong
 
 Current NV House District 26 (NV State House of Representatives District 26).
+
+Represents [NV State House of Representatives District 26](/us/states/nv/districts/house/26.md).
 
 ## Sources
 

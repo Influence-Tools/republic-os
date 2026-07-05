@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 37th Middlesex"
+represents: "us/states/ma/districts/house/37th-middlesex"
 tenure:
   start: "2020-06-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Sena
 
 Current MA House District 37th Middlesex (MA State House of Representatives District 37th Middlesex).
+
+Represents [MA State House of Representatives District 37th Middlesex](/us/states/ma/districts/house/37th-middlesex.md).
 
 ## Sources
 

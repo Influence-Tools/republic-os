@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 165"
+represents: "us/states/pa/districts/house/165"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jenn O'Mara
 
 Current PA House District 165 (PA State House of Representatives District 165).
+
+Represents [PA State House of Representatives District 165](/us/states/pa/districts/house/165.md).
 
 ## Sources
 

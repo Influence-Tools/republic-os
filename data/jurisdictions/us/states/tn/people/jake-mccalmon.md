@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 63"
+represents: "us/states/tn/districts/house/63"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jake McCalmon
 
 Current TN House District 63 (TN State House of Representatives District 63).
+
+Represents [TN State House of Representatives District 63](/us/states/tn/districts/house/63.md).
 
 ## Sources
 

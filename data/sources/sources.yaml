@@ -68,6 +68,23 @@ sources:
       officeholders to their county. Join key is county_geoid (5-digit FIPS);
       the sibling county_fips column is the 3-digit county code only.
 
+  - id: county-district-overlap
+    name: County → district area overlap (PostGIS)
+    url: https://www.census.gov/geographies/mapping-files.html
+    type: dataset
+    authority_level: official
+    requires_api_key: false
+    refresh_frequency: on-demand
+    feeds: [Jurisdiction]
+    raw: [county_district_edges.jsonl]
+    notes: >
+      PostGIS area-intersection of Census TIGER 2024 county boundaries against
+      congressional / state-senate / state-house district boundaries —
+      ST_Area(ST_Intersection(county, district)) / ST_Area(county), computed on
+      ST_MakeValid geometries, overlaps below 0.5% dropped. 16,328 weighted
+      county→district edges. Also seeds the state-legislative district nodes
+      (which have no ACS demographics — geometry only).
+
 # Prepared but not yet ingested — see docs/roadmap.md
 planned:
   - id: govinfo

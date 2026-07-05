@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 51"
+represents: "us/states/ca/districts/house/51"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Zbur
 
 Current CA House District 51 (CA State House of Representatives District 51).
+
+Represents [CA State House of Representatives District 51](/us/states/ca/districts/house/51.md).
 
 ## Sources
 

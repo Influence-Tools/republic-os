@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 49"
+represents: "us/states/mt/districts/senate/49"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Willis Curdy
 
 Current MT Senate District 49 (MT State Senate District 49).
+
+Represents [MT State Senate District 49](/us/states/mt/districts/senate/49.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 6"
+represents: "us/states/mi/districts/house/6"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natalie Price
 
 Current MI House District 6 (MI State House of Representatives District 6).
+
+Represents [MI State House of Representatives District 6](/us/states/mi/districts/house/6.md).
 
 ## Sources
 

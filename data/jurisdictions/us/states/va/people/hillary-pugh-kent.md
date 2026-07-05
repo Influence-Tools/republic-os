@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 67"
+represents: "us/states/va/districts/house/67"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hillary Pugh Kent
 
 Current VA House District 67 (VA State House of Representatives District 67).
+
+Represents [VA State House of Representatives District 67](/us/states/va/districts/house/67.md).
 
 ## Sources
 

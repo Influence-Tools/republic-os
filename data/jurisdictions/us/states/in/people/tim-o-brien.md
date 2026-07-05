@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 78"
+represents: "us/states/in/districts/house/78"
 tenure:
   start: "2021-03-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim O'Brien
 
 Current IN House District 78 (IN State House of Representatives District 78).
+
+Represents [IN State House of Representatives District 78](/us/states/in/districts/house/78.md).
 
 ## Sources
 

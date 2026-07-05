@@ -22,9 +22,21 @@ demographics:
   race_native: 181
   hispanic: 1091
   bachelors_plus: 2947
+districts:
+  - to: "us/states/oh/districts/05"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/oh/districts/senate/1"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/oh/districts/house/82"
+    rel: in-district
+    area_weight: 1.0
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, oh]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 1091 |
 | Bachelor's or higher | 2947 |
 
+## Districts
+
+- [OH-05](/us/states/oh/districts/05.md) — 100% (congressional)
+- [OH Senate District 1](/us/states/oh/districts/senate/1.md) — 100% (state senate)
+- [OH House District 82](/us/states/oh/districts/house/82.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 45"
+represents: "us/states/ms/districts/house/45"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Jackson
 
 Current MS House District 45 (MS State House of Representatives District 45).
+
+Represents [MS State House of Representatives District 45](/us/states/ms/districts/house/45.md).
 
 ## Sources
 

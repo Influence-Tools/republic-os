@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 15"
+represents: "us/states/tx/districts/senate/15"
 tenure:
   start: "2024-05-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Molly Cook
 
 Current TX Senate District 15 (TX State Senate District 15).
+
+Represents [TX State Senate District 15](/us/states/tx/districts/senate/15.md).
 
 ## Sources
 

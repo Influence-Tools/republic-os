@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 85"
+represents: "us/states/wv/districts/house/85"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Paul Hott
 
 Current WV House District 85 (WV State House of Representatives District 85).
+
+Represents [WV State House of Representatives District 85](/us/states/wv/districts/house/85.md).
 
 ## Sources
 

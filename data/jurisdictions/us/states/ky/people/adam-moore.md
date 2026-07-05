@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 45"
+represents: "us/states/ky/districts/house/45"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Moore
 
 Current KY House District 45 (KY State House of Representatives District 45).
+
+Represents [KY State House of Representatives District 45](/us/states/ky/districts/house/45.md).
 
 ## Sources
 

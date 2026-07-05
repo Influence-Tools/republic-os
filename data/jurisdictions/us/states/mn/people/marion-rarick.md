@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 29B"
+represents: "us/states/mn/districts/house/29b"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marion Rarick
 
 Current MN House District 29B (MN State House of Representatives District 29B).
+
+Represents [MN State House of Representatives District 29B](/us/states/mn/districts/house/29b.md).
 
 ## Sources
 

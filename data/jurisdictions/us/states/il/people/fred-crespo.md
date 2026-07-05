@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 44"
+represents: "us/states/il/districts/house/44"
 tenure:
   start: "2007-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fred Crespo
 
 Current IL House District 44 (IL State House of Representatives District 44).
+
+Represents [IL State House of Representatives District 44](/us/states/il/districts/house/44.md).
 
 ## Sources
 

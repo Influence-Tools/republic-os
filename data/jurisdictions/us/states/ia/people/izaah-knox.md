@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 17"
+represents: "us/states/ia/districts/senate/17"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Izaah Knox
 
 Current IA Senate District 17 (IA State Senate District 17).
+
+Represents [IA State Senate District 17](/us/states/ia/districts/senate/17.md).
 
 ## Sources
 

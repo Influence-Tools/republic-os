@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 47"
+represents: "us/states/nm/districts/house/47"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reena Szczepanski
 
 Current NM House District 47 (NM State House of Representatives District 47).
+
+Represents [NM State House of Representatives District 47](/us/states/nm/districts/house/47.md).
 
 ## Sources
 

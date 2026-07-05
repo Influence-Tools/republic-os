@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 96"
+represents: "us/states/ny/districts/house/96"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Carroll
 
 Current NY House District 96 (NY State House of Representatives District 96).
+
+Represents [NY State House of Representatives District 96](/us/states/ny/districts/house/96.md).
 
 ## Sources
 

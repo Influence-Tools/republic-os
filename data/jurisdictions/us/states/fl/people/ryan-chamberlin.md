@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 24"
+represents: "us/states/fl/districts/house/24"
 tenure:
   start: "2023-05-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Chamberlin
 
 Current FL House District 24 (FL State House of Representatives District 24).
+
+Represents [FL State House of Representatives District 24](/us/states/fl/districts/house/24.md).
 
 ## Sources
 

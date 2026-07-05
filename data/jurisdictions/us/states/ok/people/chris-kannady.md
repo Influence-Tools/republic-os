@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 91"
+represents: "us/states/ok/districts/house/91"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Kannady
 
 Current OK House District 91 (OK State House of Representatives District 91).
+
+Represents [OK State House of Representatives District 91](/us/states/ok/districts/house/91.md).
 
 ## Sources
 

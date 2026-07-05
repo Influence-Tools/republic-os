@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District Q"
+represents: "us/states/ak/districts/senate/q"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robert Myers
 
 Current AK Senate District Q (AK State Senate District Q).
+
+Represents [AK State Senate District Q](/us/states/ak/districts/senate/q.md).
 
 ## Sources
 

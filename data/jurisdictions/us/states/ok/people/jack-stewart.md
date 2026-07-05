@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 18"
+represents: "us/states/ok/districts/senate/18"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jack Stewart
 
 Current OK Senate District 18 (OK State Senate District 18).
+
+Represents [OK State Senate District 18](/us/states/ok/districts/senate/18.md).
 
 ## Sources
 

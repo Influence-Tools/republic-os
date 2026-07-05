@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 29B"
+represents: "us/states/md/districts/house/29b"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Crosby
 
 Current MD House District 29B (MD State House of Representatives District 29B).
+
+Represents [MD State House of Representatives District 29B](/us/states/md/districts/house/29b.md).
 
 ## Sources
 

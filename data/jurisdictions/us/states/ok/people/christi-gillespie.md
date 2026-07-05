@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 33"
+represents: "us/states/ok/districts/senate/33"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Christi Gillespie
 
 Current OK Senate District 33 (OK State Senate District 33).
+
+Represents [OK State Senate District 33](/us/states/ok/districts/senate/33.md).
 
 ## Sources
 

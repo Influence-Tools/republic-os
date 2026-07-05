@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 95"
+represents: "us/states/tn/districts/house/95"
 tenure:
   start: "2017-06-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Vaughan
 
 Current TN House District 95 (TN State House of Representatives District 95).
+
+Represents [TN State House of Representatives District 95](/us/states/tn/districts/house/95.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 8"
+represents: "us/states/wa/districts/08"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Kim Schrier
 
 Current U.S. House of Representatives - WA-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/wa/districts/08.md).
 
 ## Committees
 

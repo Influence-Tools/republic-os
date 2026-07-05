@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 27B"
+represents: "us/states/id/districts/house/27b"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clay Handy
 
 Current ID House District 27B (ID State House of Representatives District 27B).
+
+Represents [ID State House of Representatives District 27B](/us/states/id/districts/house/27b.md).
 
 ## Sources
 

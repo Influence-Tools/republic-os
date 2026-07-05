@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 26"
+represents: "us/states/wy/districts/house/26"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dalton Banks
 
 Current WY House District 26 (WY State House of Representatives District 26).
+
+Represents [WY State House of Representatives District 26](/us/states/wy/districts/house/26.md).
 
 ## Sources
 

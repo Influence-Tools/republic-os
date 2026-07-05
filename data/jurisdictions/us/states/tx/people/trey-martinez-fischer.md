@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 116"
+represents: "us/states/tx/districts/house/116"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Martinez Fischer
 
 Current TX House District 116 (TX State House of Representatives District 116).
+
+Represents [TX State House of Representatives District 116](/us/states/tx/districts/house/116.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 50"
+represents: "us/states/la/districts/house/50"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vinney St. Blanc
 
 Current LA House District 50 (LA State House of Representatives District 50).
+
+Represents [LA State House of Representatives District 50](/us/states/la/districts/house/50.md).
 
 ## Sources
 

@@ -22,9 +22,48 @@ demographics:
   race_native: 509
   hispanic: 10799
   bachelors_plus: 58283
+districts:
+  - to: "us/states/il/districts/16"
+    rel: in-district
+    area_weight: 0.596
+  - to: "us/states/il/districts/17"
+    rel: in-district
+    area_weight: 0.404
+  - to: "us/states/il/districts/senate/47"
+    rel: in-district
+    area_weight: 0.6605
+  - to: "us/states/il/districts/senate/37"
+    rel: in-district
+    area_weight: 0.2274
+  - to: "us/states/il/districts/senate/46"
+    rel: in-district
+    area_weight: 0.0922
+  - to: "us/states/il/districts/senate/53"
+    rel: in-district
+    area_weight: 0.0199
+  - to: "us/states/il/districts/house/93"
+    rel: in-district
+    area_weight: 0.6464
+  - to: "us/states/il/districts/house/73"
+    rel: in-district
+    area_weight: 0.2274
+  - to: "us/states/il/districts/house/92"
+    rel: in-district
+    area_weight: 0.0759
+  - to: "us/states/il/districts/house/105"
+    rel: in-district
+    area_weight: 0.0199
+  - to: "us/states/il/districts/house/91"
+    rel: in-district
+    area_weight: 0.0163
+  - to: "us/states/il/districts/house/94"
+    rel: in-district
+    area_weight: 0.0141
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, il]
 timestamp: "2026-07-03"
@@ -56,6 +95,22 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 10799 |
 | Bachelor's or higher | 58283 |
 
+## Districts
+
+- [IL-16](/us/states/il/districts/16.md) — 60% (congressional)
+- [IL-17](/us/states/il/districts/17.md) — 40% (congressional)
+- [IL Senate District 47](/us/states/il/districts/senate/47.md) — 66% (state senate)
+- [IL Senate District 37](/us/states/il/districts/senate/37.md) — 23% (state senate)
+- [IL Senate District 46](/us/states/il/districts/senate/46.md) — 9% (state senate)
+- [IL Senate District 53](/us/states/il/districts/senate/53.md) — 2% (state senate)
+- [IL House District 93](/us/states/il/districts/house/93.md) — 65% (state house)
+- [IL House District 73](/us/states/il/districts/house/73.md) — 23% (state house)
+- [IL House District 92](/us/states/il/districts/house/92.md) — 8% (state house)
+- [IL House District 105](/us/states/il/districts/house/105.md) — 2% (state house)
+- [IL House District 91](/us/states/il/districts/house/91.md) — 2% (state house)
+- [IL House District 94](/us/states/il/districts/house/94.md) — 1% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 4A"
+represents: "us/states/mn/districts/house/4a"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Keeler
 
 Current MN House District 4A (MN State House of Representatives District 4A).
+
+Represents [MN State House of Representatives District 4A](/us/states/mn/districts/house/4a.md).
 
 ## Sources
 

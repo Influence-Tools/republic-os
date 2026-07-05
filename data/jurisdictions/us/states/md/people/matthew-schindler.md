@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 2B"
+represents: "us/states/md/districts/house/2b"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matthew Schindler
 
 Current MD House District 2B (MD State House of Representatives District 2B).
+
+Represents [MD State House of Representatives District 2B](/us/states/md/districts/house/2b.md).
 
 ## Sources
 

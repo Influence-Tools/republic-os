@@ -22,9 +22,21 @@ demographics:
   race_native: 79
   hispanic: 26
   bachelors_plus: 789
+districts:
+  - to: "us/states/la/districts/03"
+    rel: in-district
+    area_weight: 0.847
+  - to: "us/states/la/districts/senate/25"
+    rel: in-district
+    area_weight: 0.8467
+  - to: "us/states/la/districts/house/47"
+    rel: in-district
+    area_weight: 0.8467
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, la]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 26 |
 | Bachelor's or higher | 789 |
 
+## Districts
+
+- [LA-03](/us/states/la/districts/03.md) — 85% (congressional)
+- [LA Senate District 25](/us/states/la/districts/senate/25.md) — 85% (state senate)
+- [LA House District 47](/us/states/la/districts/house/47.md) — 85% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

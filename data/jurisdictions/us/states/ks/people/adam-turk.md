@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 117"
+represents: "us/states/ks/districts/house/117"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Turk
 
 Current KS House District 117 (KS State House of Representatives District 117).
+
+Represents [KS State House of Representatives District 117](/us/states/ks/districts/house/117.md).
 
 ## Sources
 

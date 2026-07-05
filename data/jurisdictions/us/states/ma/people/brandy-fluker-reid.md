@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 12th Suffolk"
+represents: "us/states/ma/districts/house/12th-suffolk"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandy Fluker-Reid
 
 Current MA House District 12th Suffolk (MA State House of Representatives District 12th Suffolk).
+
+Represents [MA State House of Representatives District 12th Suffolk](/us/states/ma/districts/house/12th-suffolk.md).
 
 ## Sources
 

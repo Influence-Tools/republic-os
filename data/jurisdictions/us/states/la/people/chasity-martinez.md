@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 60"
+represents: "us/states/la/districts/house/60"
 tenure:
   start: "2026-03-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chasity Martinez
 
 Current LA House District 60 (LA State House of Representatives District 60).
+
+Represents [LA State House of Representatives District 60](/us/states/la/districts/house/60.md).
 
 ## Sources
 

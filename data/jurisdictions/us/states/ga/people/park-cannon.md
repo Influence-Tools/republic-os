@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 58"
+represents: "us/states/ga/districts/house/58"
 tenure:
   start: "2016-02-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Park Cannon
 
 Current GA House District 58 (GA State House of Representatives District 58).
+
+Represents [GA State House of Representatives District 58](/us/states/ga/districts/house/58.md).
 
 ## Sources
 

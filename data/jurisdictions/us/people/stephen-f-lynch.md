@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 8"
+represents: "us/states/ma/districts/08"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Stephen F. Lynch
 
 Current U.S. House of Representatives - MA-8 (Congressional District 8).
+
+Represents [Congressional District 8](/us/states/ma/districts/08.md).
 
 ## Committees
 

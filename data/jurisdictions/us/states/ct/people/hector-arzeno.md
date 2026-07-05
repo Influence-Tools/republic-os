@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 151"
+represents: "us/states/ct/districts/house/151"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hector Arzeno
 
 Current CT House District 151 (CT State House of Representatives District 151).
+
+Represents [CT State House of Representatives District 151](/us/states/ct/districts/house/151.md).
 
 ## Sources
 

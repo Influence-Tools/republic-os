@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 82"
+represents: "us/states/ms/districts/house/82"
 tenure:
   start: "2025-05-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gregory Elliott
 
 Current MS House District 82 (MS State House of Representatives District 82).
+
+Represents [MS State House of Representatives District 82](/us/states/ms/districts/house/82.md).
 
 ## Sources
 

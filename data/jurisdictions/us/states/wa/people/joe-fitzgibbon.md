@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 34"
+represents: "us/states/wa/districts/house/34"
 tenure:
   start: "2010-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Fitzgibbon
 
 Current WA House District 34 (WA State House of Representatives District 34).
+
+Represents [WA State House of Representatives District 34](/us/states/wa/districts/house/34.md).
 
 ## Sources
 

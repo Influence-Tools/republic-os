@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 48"
+represents: "us/states/hi/districts/house/48"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Kitagawa
 
 Current HI House District 48 (HI State House of Representatives District 48).
+
+Represents [HI State House of Representatives District 48](/us/states/hi/districts/house/48.md).
 
 ## Sources
 

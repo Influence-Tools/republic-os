@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 35"
+represents: "us/states/id/districts/senate/35"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Harris
 
 Current ID Senate District 35 (ID State Senate District 35).
+
+Represents [ID State Senate District 35](/us/states/id/districts/senate/35.md).
 
 ## Sources
 

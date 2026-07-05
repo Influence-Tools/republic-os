@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 45"
+represents: "us/states/ga/districts/house/45"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Cooper
 
 Current GA House District 45 (GA State House of Representatives District 45).
+
+Represents [GA State House of Representatives District 45](/us/states/ga/districts/house/45.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 63"
+represents: "us/states/il/districts/house/63"
 tenure:
   start: "2017-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Reick
 
 Current IL House District 63 (IL State House of Representatives District 63).
+
+Represents [IL State House of Representatives District 63](/us/states/il/districts/house/63.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 40"
+represents: "us/states/me/districts/house/40"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Ray
 
 Current ME House District 40 (ME State House of Representatives District 40).
+
+Represents [ME State House of Representatives District 40](/us/states/me/districts/house/40.md).
 
 ## Sources
 

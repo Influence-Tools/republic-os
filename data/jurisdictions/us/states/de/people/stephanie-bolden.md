@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 2"
+represents: "us/states/de/districts/house/2"
 tenure:
   start: "2010-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Bolden
 
 Current DE House District 2 (DE State House of Representatives District 2).
+
+Represents [DE State House of Representatives District 2](/us/states/de/districts/house/2.md).
 
 ## Sources
 

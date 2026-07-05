@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 23"
+represents: "us/states/hi/districts/house/23"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ikaika Olds
 
 Current HI House District 23 (HI State House of Representatives District 23).
+
+Represents [HI State House of Representatives District 23](/us/states/hi/districts/house/23.md).
 
 ## Sources
 

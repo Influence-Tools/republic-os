@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 38"
+represents: "us/states/ga/districts/house/38"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Wilkerson
 
 Current GA House District 38 (GA State House of Representatives District 38).
+
+Represents [GA State House of Representatives District 38](/us/states/ga/districts/house/38.md).
 
 ## Sources
 

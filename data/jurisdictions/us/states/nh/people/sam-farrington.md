@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Strafford 8"
+represents: "us/states/nh/districts/house/strafford-8"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Farrington
 
 Current NH House District Strafford 8 (NH State House of Representatives District Strafford 8).
+
+Represents [NH State House of Representatives District Strafford 8](/us/states/nh/districts/house/strafford-8.md).
 
 ## Sources
 

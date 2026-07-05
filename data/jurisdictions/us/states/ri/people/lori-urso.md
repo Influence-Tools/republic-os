@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 8"
+represents: "us/states/ri/districts/senate/8"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Urso
 
 Current RI Senate District 8 (RI State Senate District 8).
+
+Represents [RI State Senate District 8](/us/states/ri/districts/senate/8.md).
 
 ## Sources
 

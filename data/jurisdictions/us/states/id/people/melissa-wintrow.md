@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 19"
+represents: "us/states/id/districts/senate/19"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Wintrow
 
 Current ID Senate District 19 (ID State Senate District 19).
+
+Represents [ID State Senate District 19](/us/states/id/districts/senate/19.md).
 
 ## Sources
 

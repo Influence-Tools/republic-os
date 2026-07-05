@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WI"
 district: "Congressional District 7"
+represents: "us/states/wi/districts/07"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Thomas P. Tiffany
 
 Current U.S. House of Representatives - WI-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/wi/districts/07.md).
 
 ## Committees
 

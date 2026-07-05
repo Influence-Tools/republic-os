@@ -22,9 +22,30 @@ demographics:
   race_native: 706
   hispanic: 42383
   bachelors_plus: 451470
+districts:
+  - to: "us/states/ma/districts/04"
+    rel: in-district
+    area_weight: 0.463
+  - to: "us/states/ma/districts/08"
+    rel: in-district
+    area_weight: 0.3729
+  - to: "us/states/ma/districts/07"
+    rel: in-district
+    area_weight: 0.0393
+  - to: "us/states/ma/districts/02"
+    rel: in-district
+    area_weight: 0.026
+  - to: "us/states/ma/districts/09"
+    rel: in-district
+    area_weight: 0.0234
+  - to: "us/states/ma/districts/05"
+    rel: in-district
+    area_weight: 0.0169
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ma]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 42383 |
 | Bachelor's or higher | 451470 |
 
+## Districts
+
+- [MA-04](/us/states/ma/districts/04.md) — 46% (congressional)
+- [MA-08](/us/states/ma/districts/08.md) — 37% (congressional)
+- [MA-07](/us/states/ma/districts/07.md) — 4% (congressional)
+- [MA-02](/us/states/ma/districts/02.md) — 3% (congressional)
+- [MA-09](/us/states/ma/districts/09.md) — 2% (congressional)
+- [MA-05](/us/states/ma/districts/05.md) — 2% (congressional)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

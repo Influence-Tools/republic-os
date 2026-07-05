@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 44"
+represents: "us/states/wy/districts/house/44"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lee Filer
 
 Current WY House District 44 (WY State House of Representatives District 44).
+
+Represents [WY State House of Representatives District 44](/us/states/wy/districts/house/44.md).
 
 ## Sources
 

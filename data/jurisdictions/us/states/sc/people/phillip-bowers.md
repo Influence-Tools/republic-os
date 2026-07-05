@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 3"
+represents: "us/states/sc/districts/house/3"
 tenure:
   start: "2024-11-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phillip Bowers
 
 Current SC House District 3 (SC State House of Representatives District 3).
+
+Represents [SC State House of Representatives District 3](/us/states/sc/districts/house/3.md).
 
 ## Sources
 

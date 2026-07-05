@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District First Suffolk"
+represents: "us/states/ma/districts/senate/first-suffolk"
 tenure:
   start: "2018-05-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Collins
 
 Current MA Senate District First Suffolk (MA State Senate District First Suffolk).
+
+Represents [MA State Senate District First Suffolk](/us/states/ma/districts/senate/first-suffolk.md).
 
 ## Sources
 

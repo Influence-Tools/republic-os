@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 24"
+represents: "us/states/sc/districts/senate/24"
 tenure:
   start: "2012-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Young
 
 Current SC Senate District 24 (SC State Senate District 24).
+
+Represents [SC State Senate District 24](/us/states/sc/districts/senate/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Coos 2"
+represents: "us/states/nh/districts/house/coos-2"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Arnie Davis
 
 Current NH House District Coos 2 (NH State House of Representatives District Coos 2).
+
+Represents [NH State House of Representatives District Coos 2](/us/states/nh/districts/house/coos-2.md).
 
 ## Sources
 

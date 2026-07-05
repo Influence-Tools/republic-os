@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 26"
+represents: "us/states/ok/districts/senate/26"
 tenure:
   start: "2014-11-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darcy Jech
 
 Current OK Senate District 26 (OK State Senate District 26).
+
+Represents [OK State Senate District 26](/us/states/ok/districts/senate/26.md).
 
 ## Sources
 

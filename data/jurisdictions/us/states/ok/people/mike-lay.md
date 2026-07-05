@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 68"
+represents: "us/states/ok/districts/house/68"
 tenure:
   start: "2024-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Lay
 
 Current OK House District 68 (OK State House of Representatives District 68).
+
+Represents [OK State House of Representatives District 68](/us/states/ok/districts/house/68.md).
 
 ## Sources
 

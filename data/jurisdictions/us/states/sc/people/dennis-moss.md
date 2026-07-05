@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 29"
+represents: "us/states/sc/districts/house/29"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Moss
 
 Current SC House District 29 (SC State House of Representatives District 29).
+
+Represents [SC State House of Representatives District 29](/us/states/sc/districts/house/29.md).
 
 ## Sources
 

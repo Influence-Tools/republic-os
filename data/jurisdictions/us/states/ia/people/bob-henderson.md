@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 2"
+represents: "us/states/ia/districts/house/2"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Henderson
 
 Current IA House District 2 (IA State House of Representatives District 2).
+
+Represents [IA State House of Representatives District 2](/us/states/ia/districts/house/2.md).
 
 ## Sources
 

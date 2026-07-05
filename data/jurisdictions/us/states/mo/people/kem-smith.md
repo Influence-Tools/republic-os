@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 68"
+represents: "us/states/mo/districts/house/68"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kem Smith
 
 Current MO House District 68 (MO State House of Representatives District 68).
+
+Represents [MO State House of Representatives District 68](/us/states/mo/districts/house/68.md).
 
 ## Sources
 

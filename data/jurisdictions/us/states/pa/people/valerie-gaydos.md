@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 44"
+represents: "us/states/pa/districts/house/44"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Valerie Gaydos
 
 Current PA House District 44 (PA State House of Representatives District 44).
+
+Represents [PA State House of Representatives District 44](/us/states/pa/districts/house/44.md).
 
 ## Sources
 

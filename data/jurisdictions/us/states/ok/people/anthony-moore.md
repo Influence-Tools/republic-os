@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 57"
+represents: "us/states/ok/districts/house/57"
 tenure:
   start: "2020-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anthony Moore
 
 Current OK House District 57 (OK State House of Representatives District 57).
+
+Represents [OK State House of Representatives District 57](/us/states/ok/districts/house/57.md).
 
 ## Sources
 

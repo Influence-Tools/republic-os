@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Rockingham 27"
+represents: "us/states/nh/districts/house/rockingham-27"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gerry Ward
 
 Current NH House District Rockingham 27 (NH State House of Representatives District Rockingham 27).
+
+Represents [NH State House of Representatives District Rockingham 27](/us/states/nh/districts/house/rockingham-27.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 46"
+represents: "us/states/co/districts/house/46"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tisha Mauro
 
 Current CO House District 46 (CO State House of Representatives District 46).
+
+Represents [CO State House of Representatives District 46](/us/states/co/districts/house/46.md).
 
 ## Sources
 

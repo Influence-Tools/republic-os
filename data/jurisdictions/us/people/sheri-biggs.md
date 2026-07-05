@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "SC"
 district: "Congressional District 3"
+represents: "us/states/sc/districts/03"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -64,6 +65,8 @@ timestamp: "2026-07-04"
 # Sheri Biggs
 
 Current U.S. House of Representatives - SC-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/sc/districts/03.md).
 
 ## Committees
 

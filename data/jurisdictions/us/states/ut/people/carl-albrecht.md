@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 70"
+represents: "us/states/ut/districts/house/70"
 tenure:
   start: "2017-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Albrecht
 
 Current UT House District 70 (UT State House of Representatives District 70).
+
+Represents [UT State House of Representatives District 70](/us/states/ut/districts/house/70.md).
 
 ## Sources
 

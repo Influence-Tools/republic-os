@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 38"
+represents: "us/states/al/districts/house/38"
 tenure:
   start: "2026-02-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristin Nelson
 
 Current AL House District 38 (AL State House of Representatives District 38).
+
+Represents [AL State House of Representatives District 38](/us/states/al/districts/house/38.md).
 
 ## Sources
 

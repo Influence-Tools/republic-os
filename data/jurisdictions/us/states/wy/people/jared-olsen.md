@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 8"
+represents: "us/states/wy/districts/senate/8"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jared Olsen
 
 Current WY Senate District 8 (WY State Senate District 8).
+
+Represents [WY State Senate District 8](/us/states/wy/districts/senate/8.md).
 
 ## Sources
 

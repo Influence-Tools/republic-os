@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 2"
+represents: "us/states/ma/districts/02"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # James P. McGovern
 
 Current U.S. House of Representatives - MA-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ma/districts/02.md).
 
 ## Committees
 

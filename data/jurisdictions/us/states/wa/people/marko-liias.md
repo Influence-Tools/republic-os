@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 21"
+represents: "us/states/wa/districts/senate/21"
 tenure:
   start: "2014-01-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marko Liias
 
 Current WA Senate District 21 (WA State Senate District 21).
+
+Represents [WA State Senate District 21](/us/states/wa/districts/senate/21.md).
 
 ## Sources
 

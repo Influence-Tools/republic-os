@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 51"
+represents: "us/states/wv/districts/house/51"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marshall Clay
 
 Current WV House District 51 (WV State House of Representatives District 51).
+
+Represents [WV State House of Representatives District 51](/us/states/wv/districts/house/51.md).
 
 ## Sources
 

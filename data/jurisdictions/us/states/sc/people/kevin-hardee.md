@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 105"
+represents: "us/states/sc/districts/house/105"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Hardee
 
 Current SC House District 105 (SC State House of Representatives District 105).
+
+Represents [SC State House of Representatives District 105](/us/states/sc/districts/house/105.md).
 
 ## Sources
 

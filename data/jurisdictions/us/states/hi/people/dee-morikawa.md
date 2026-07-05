@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 17"
+represents: "us/states/hi/districts/house/17"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dee Morikawa
 
 Current HI House District 17 (HI State House of Representatives District 17).
+
+Represents [HI State House of Representatives District 17](/us/states/hi/districts/house/17.md).
 
 ## Sources
 

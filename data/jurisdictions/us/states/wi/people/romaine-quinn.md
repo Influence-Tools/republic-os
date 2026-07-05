@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 25"
+represents: "us/states/wi/districts/senate/25"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Romaine Quinn
 
 Current WI Senate District 25 (WI State Senate District 25).
+
+Represents [WI State Senate District 25](/us/states/wi/districts/senate/25.md).
 
 ## Sources
 

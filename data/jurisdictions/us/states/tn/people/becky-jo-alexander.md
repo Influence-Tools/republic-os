@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 7"
+represents: "us/states/tn/districts/house/7"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Becky Jo Alexander
 
 Current TN House District 7 (TN State House of Representatives District 7).
+
+Represents [TN State House of Representatives District 7](/us/states/tn/districts/house/7.md).
 
 ## Sources
 

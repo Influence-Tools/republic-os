@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 4"
+represents: "us/states/mo/districts/house/4"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Sharpe
 
 Current MO House District 4 (MO State House of Representatives District 4).
+
+Represents [MO State House of Representatives District 4](/us/states/mo/districts/house/4.md).
 
 ## Sources
 

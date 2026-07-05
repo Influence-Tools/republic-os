@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 27"
+represents: "us/states/oh/districts/house/27"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rachel Baker
 
 Current OH House District 27 (OH State House of Representatives District 27).
+
+Represents [OH State House of Representatives District 27](/us/states/oh/districts/house/27.md).
 
 ## Sources
 

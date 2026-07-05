@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 41"
+represents: "us/states/hi/districts/house/41"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Alcos
 
 Current HI House District 41 (HI State House of Representatives District 41).
+
+Represents [HI State House of Representatives District 41](/us/states/hi/districts/house/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Washington-2"
+represents: "us/states/vt/districts/house/washington-2"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dara Torre
 
 Current VT House District Washington-2 (VT State House of Representatives District Washington-2).
+
+Represents [VT State House of Representatives District Washington-2](/us/states/vt/districts/house/washington-2.md).
 
 ## Sources
 

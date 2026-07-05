@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "IN"
 district: "Congressional District 6"
+represents: "us/states/in/districts/06"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jefferson Shreve
 
 Current U.S. House of Representatives - IN-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/in/districts/06.md).
 
 ## Committees
 

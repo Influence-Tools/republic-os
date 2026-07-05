@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State Senate District 14"
+represents: "us/states/or/districts/senate/14"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kate Lieber
 
 Current OR Senate District 14 (OR State Senate District 14).
+
+Represents [OR State Senate District 14](/us/states/or/districts/senate/14.md).
 
 ## Sources
 

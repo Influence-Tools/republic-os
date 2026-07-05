@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 27"
+represents: "us/states/sd/districts/senate/27"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Red Dawn Foster
 
 Current SD Senate District 27 (SD State Senate District 27).
+
+Represents [SD State Senate District 27](/us/states/sd/districts/senate/27.md).
 
 ## Sources
 

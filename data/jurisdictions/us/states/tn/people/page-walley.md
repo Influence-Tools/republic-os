@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 26"
+represents: "us/states/tn/districts/senate/26"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Page Walley
 
 Current TN Senate District 26 (TN State Senate District 26).
+
+Represents [TN State Senate District 26](/us/states/tn/districts/senate/26.md).
 
 ## Sources
 

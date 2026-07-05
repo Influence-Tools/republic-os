@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 29"
+represents: "us/states/co/districts/house/29"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Goldstein
 
 Current CO House District 29 (CO State House of Representatives District 29).
+
+Represents [CO State House of Representatives District 29](/us/states/co/districts/house/29.md).
 
 ## Sources
 

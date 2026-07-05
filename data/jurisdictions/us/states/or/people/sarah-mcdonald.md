@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 16"
+represents: "us/states/or/districts/house/16"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah McDonald
 
 Current OR House District 16 (OR State House of Representatives District 16).
+
+Represents [OR State House of Representatives District 16](/us/states/or/districts/house/16.md).
 
 ## Sources
 

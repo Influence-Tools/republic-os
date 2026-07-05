@@ -22,9 +22,30 @@ demographics:
   race_native: 373
   hispanic: 1438
   bachelors_plus: 7905
+districts:
+  - to: "us/states/la/districts/06"
+    rel: in-district
+    area_weight: 0.9973
+  - to: "us/states/la/districts/senate/31"
+    rel: in-district
+    area_weight: 0.9681
+  - to: "us/states/la/districts/senate/29"
+    rel: in-district
+    area_weight: 0.0319
+  - to: "us/states/la/districts/house/25"
+    rel: in-district
+    area_weight: 0.6781
+  - to: "us/states/la/districts/house/13"
+    rel: in-district
+    area_weight: 0.2959
+  - to: "us/states/la/districts/house/22"
+    rel: in-district
+    area_weight: 0.0258
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, la]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 1438 |
 | Bachelor's or higher | 7905 |
 
+## Districts
+
+- [LA-06](/us/states/la/districts/06.md) — 100% (congressional)
+- [LA Senate District 31](/us/states/la/districts/senate/31.md) — 97% (state senate)
+- [LA Senate District 29](/us/states/la/districts/senate/29.md) — 3% (state senate)
+- [LA House District 25](/us/states/la/districts/house/25.md) — 68% (state house)
+- [LA House District 13](/us/states/la/districts/house/13.md) — 30% (state house)
+- [LA House District 22](/us/states/la/districts/house/22.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

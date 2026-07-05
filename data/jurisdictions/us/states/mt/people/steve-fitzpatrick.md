@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 24"
+represents: "us/states/mt/districts/house/24"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Fitzpatrick
 
 Current MT House District 24 (MT State House of Representatives District 24).
+
+Represents [MT State House of Representatives District 24](/us/states/mt/districts/house/24.md).
 
 ## Sources
 

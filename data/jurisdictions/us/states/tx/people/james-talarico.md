@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 50"
+represents: "us/states/tx/districts/house/50"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # James Talarico
 
 Current TX House District 50 (TX State House of Representatives District 50).
+
+Represents [TX State House of Representatives District 50](/us/states/tx/districts/house/50.md).
 
 ## Sources
 

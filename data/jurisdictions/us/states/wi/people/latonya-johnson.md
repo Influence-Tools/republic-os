@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 6"
+represents: "us/states/wi/districts/senate/6"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # LaTonya Johnson
 
 Current WI Senate District 6 (WI State Senate District 6).
+
+Represents [WI State Senate District 6](/us/states/wi/districts/senate/6.md).
 
 ## Sources
 

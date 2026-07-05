@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 48"
+represents: "us/states/wv/districts/house/48"
 tenure:
   start: "2025-10-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Watt
 
 Current WV House District 48 (WV State House of Representatives District 48).
+
+Represents [WV State House of Representatives District 48](/us/states/wv/districts/house/48.md).
 
 ## Sources
 

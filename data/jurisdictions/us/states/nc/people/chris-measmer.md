@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 34"
+represents: "us/states/nc/districts/senate/34"
 tenure:
   start: "2025-04-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Measmer
 
 Current NC Senate District 34 (NC State Senate District 34).
+
+Represents [NC State Senate District 34](/us/states/nc/districts/senate/34.md).
 
 ## Sources
 

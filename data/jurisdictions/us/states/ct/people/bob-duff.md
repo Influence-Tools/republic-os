@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 25"
+represents: "us/states/ct/districts/senate/25"
 tenure:
   start: "2005-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Duff
 
 Current CT Senate District 25 (CT State Senate District 25).
+
+Represents [CT State Senate District 25](/us/states/ct/districts/senate/25.md).
 
 ## Sources
 

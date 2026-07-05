@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State Senate District 28"
+represents: "us/states/ky/districts/senate/28"
 tenure:
   start: "2023-06-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Elkins
 
 Current KY Senate District 28 (KY State Senate District 28).
+
+Represents [KY State Senate District 28](/us/states/ky/districts/senate/28.md).
 
 ## Sources
 

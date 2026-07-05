@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 123"
+represents: "us/states/me/districts/house/123"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michelle Boyer
 
 Current ME House District 123 (ME State House of Representatives District 123).
+
+Represents [ME State House of Representatives District 123](/us/states/me/districts/house/123.md).
 
 ## Sources
 

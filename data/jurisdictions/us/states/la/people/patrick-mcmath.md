@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 11"
+represents: "us/states/la/districts/senate/11"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick McMath
 
 Current LA Senate District 11 (LA State Senate District 11).
+
+Represents [LA State Senate District 11](/us/states/la/districts/senate/11.md).
 
 ## Sources
 

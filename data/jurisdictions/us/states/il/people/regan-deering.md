@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 88"
+represents: "us/states/il/districts/house/88"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Regan Deering
 
 Current IL House District 88 (IL State House of Representatives District 88).
+
+Represents [IL State House of Representatives District 88](/us/states/il/districts/house/88.md).
 
 ## Sources
 

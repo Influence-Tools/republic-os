@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 19A"
+represents: "us/states/mn/districts/house/19a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Allen
 
 Current MN House District 19A (MN State House of Representatives District 19A).
+
+Represents [MN State House of Representatives District 19A](/us/states/mn/districts/house/19a.md).
 
 ## Sources
 

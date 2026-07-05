@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Suffolk"
+represents: "us/states/ma/districts/house/2nd-suffolk"
 tenure:
   start: "2014-04-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Ryan
 
 Current MA House District 2nd Suffolk (MA State House of Representatives District 2nd Suffolk).
+
+Represents [MA State House of Representatives District 2nd Suffolk](/us/states/ma/districts/house/2nd-suffolk.md).
 
 ## Sources
 

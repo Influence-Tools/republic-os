@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 12"
+represents: "us/states/mt/districts/house/12"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Sharp
 
 Current MT House District 12 (MT State House of Representatives District 12).
+
+Represents [MT State House of Representatives District 12](/us/states/mt/districts/house/12.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 66"
+represents: "us/states/il/districts/house/66"
 tenure:
   start: "2021-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Suzanne Ness
 
 Current IL House District 66 (IL State House of Representatives District 66).
+
+Represents [IL State House of Representatives District 66](/us/states/il/districts/house/66.md).
 
 ## Sources
 

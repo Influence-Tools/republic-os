@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 11"
+represents: "us/states/de/districts/senate/11"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Townsend
 
 Current DE Senate District 11 (DE State Senate District 11).
+
+Represents [DE State Senate District 11](/us/states/de/districts/senate/11.md).
 
 ## Sources
 

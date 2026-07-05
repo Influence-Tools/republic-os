@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 119"
+represents: "us/states/ms/districts/house/119"
 tenure:
   start: "2022-08-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeffrey Hulum
 
 Current MS House District 119 (MS State House of Representatives District 119).
+
+Represents [MS State House of Representatives District 119](/us/states/ms/districts/house/119.md).
 
 ## Sources
 

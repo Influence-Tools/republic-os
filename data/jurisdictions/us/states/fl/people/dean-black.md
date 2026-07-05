@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 15"
+represents: "us/states/fl/districts/house/15"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dean Black
 
 Current FL House District 15 (FL State House of Representatives District 15).
+
+Represents [FL State House of Representatives District 15](/us/states/fl/districts/house/15.md).
 
 ## Sources
 

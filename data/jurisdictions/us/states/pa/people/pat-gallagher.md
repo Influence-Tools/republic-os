@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 173"
+represents: "us/states/pa/districts/house/173"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pat Gallagher
 
 Current PA House District 173 (PA State House of Representatives District 173).
+
+Represents [PA State House of Representatives District 173](/us/states/pa/districts/house/173.md).
 
 ## Sources
 

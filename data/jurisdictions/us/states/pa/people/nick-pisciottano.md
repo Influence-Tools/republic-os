@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State Senate District 45"
+represents: "us/states/pa/districts/senate/45"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Pisciottano
 
 Current PA Senate District 45 (PA State Senate District 45).
+
+Represents [PA State Senate District 45](/us/states/pa/districts/senate/45.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 16"
+represents: "us/states/mt/districts/senate/16"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Windy Boy
 
 Current MT Senate District 16 (MT State Senate District 16).
+
+Represents [MT State Senate District 16](/us/states/mt/districts/senate/16.md).
 
 ## Sources
 

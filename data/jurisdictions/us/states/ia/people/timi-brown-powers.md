@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 61"
+represents: "us/states/ia/districts/house/61"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Timi Brown-Powers
 
 Current IA House District 61 (IA State House of Representatives District 61).
+
+Represents [IA State House of Representatives District 61](/us/states/ia/districts/house/61.md).
 
 ## Sources
 

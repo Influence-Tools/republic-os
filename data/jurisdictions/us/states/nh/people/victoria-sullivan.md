@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 18"
+represents: "us/states/nh/districts/senate/18"
 tenure:
   start: "2024-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Victoria Sullivan
 
 Current NH Senate District 18 (NH State Senate District 18).
+
+Represents [NH State Senate District 18](/us/states/nh/districts/senate/18.md).
 
 ## Sources
 

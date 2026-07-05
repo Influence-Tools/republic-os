@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 9"
+represents: "us/states/tx/districts/house/9"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trent Ashby
 
 Current TX House District 9 (TX State House of Representatives District 9).
+
+Represents [TX State House of Representatives District 9](/us/states/tx/districts/house/9.md).
 
 ## Sources
 

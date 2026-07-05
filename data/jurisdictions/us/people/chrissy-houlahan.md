@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 6"
+represents: "us/states/pa/districts/06"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Chrissy Houlahan
 
 Current U.S. House of Representatives - PA-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/pa/districts/06.md).
 
 ## Committees
 

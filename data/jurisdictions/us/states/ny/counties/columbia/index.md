@@ -22,9 +22,24 @@ demographics:
   race_native: 119
   hispanic: 3827
   bachelors_plus: 28315
+districts:
+  - to: "us/states/ny/districts/19"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/ny/districts/senate/41"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/ny/districts/house/106"
+    rel: in-district
+    area_weight: 0.8146
+  - to: "us/states/ny/districts/house/107"
+    rel: in-district
+    area_weight: 0.1854
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ny]
 timestamp: "2026-07-03"
@@ -56,6 +71,14 @@ County jurisdiction.
 | Hispanic/Latino | 3827 |
 | Bachelor's or higher | 28315 |
 
+## Districts
+
+- [NY-19](/us/states/ny/districts/19.md) — 100% (congressional)
+- [NY Senate District 41](/us/states/ny/districts/senate/41.md) — 100% (state senate)
+- [NY House District 106](/us/states/ny/districts/house/106.md) — 81% (state house)
+- [NY House District 107](/us/states/ny/districts/house/107.md) — 19% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

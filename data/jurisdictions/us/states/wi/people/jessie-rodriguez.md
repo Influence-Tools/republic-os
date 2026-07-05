@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 21"
+represents: "us/states/wi/districts/house/21"
 tenure:
   start: "2013-12-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessie Rodriguez
 
 Current WI House District 21 (WI State House of Representatives District 21).
+
+Represents [WI State House of Representatives District 21](/us/states/wi/districts/house/21.md).
 
 ## Sources
 

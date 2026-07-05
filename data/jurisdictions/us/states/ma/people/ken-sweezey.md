@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 6th Plymouth"
+represents: "us/states/ma/districts/house/6th-plymouth"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Sweezey
 
 Current MA House District 6th Plymouth (MA State House of Representatives District 6th Plymouth).
+
+Represents [MA State House of Representatives District 6th Plymouth](/us/states/ma/districts/house/6th-plymouth.md).
 
 ## Sources
 

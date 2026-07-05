@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 115"
+represents: "us/states/ms/districts/house/115"
 tenure:
   start: "2024-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zack Grady
 
 Current MS House District 115 (MS State House of Representatives District 115).
+
+Represents [MS State House of Representatives District 115](/us/states/ms/districts/house/115.md).
 
 ## Sources
 

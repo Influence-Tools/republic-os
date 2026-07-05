@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 41"
+represents: "us/states/tx/districts/house/41"
 tenure:
   start: "2012-09-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobby Guerra
 
 Current TX House District 41 (TX State House of Representatives District 41).
+
+Represents [TX State House of Representatives District 41](/us/states/tx/districts/house/41.md).
 
 ## Sources
 

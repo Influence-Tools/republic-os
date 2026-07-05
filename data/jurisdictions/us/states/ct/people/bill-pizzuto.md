@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 71"
+represents: "us/states/ct/districts/house/71"
 tenure:
   start: "2022-02-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Pizzuto
 
 Current CT House District 71 (CT State House of Representatives District 71).
+
+Represents [CT State House of Representatives District 71](/us/states/ct/districts/house/71.md).
 
 ## Sources
 

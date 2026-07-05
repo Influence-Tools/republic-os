@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 95"
+represents: "us/states/ny/districts/house/95"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dana Levenberg
 
 Current NY House District 95 (NY State House of Representatives District 95).
+
+Represents [NY State House of Representatives District 95](/us/states/ny/districts/house/95.md).
 
 ## Sources
 

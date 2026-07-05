@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 28B"
+represents: "us/states/sd/districts/house/28b"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Ismay
 
 Current SD House District 28B (SD State House of Representatives District 28B).
+
+Represents [SD State House of Representatives District 28B](/us/states/sd/districts/house/28b.md).
 
 ## Sources
 

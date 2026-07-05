@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 8"
+represents: "us/states/in/districts/house/8"
 tenure:
   start: "2002-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Dvorak
 
 Current IN House District 8 (IN State House of Representatives District 8).
+
+Represents [IN State House of Representatives District 8](/us/states/in/districts/house/8.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Worcester and Hampden"
+represents: "us/states/ma/districts/senate/worcester-and-hampden"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Fattman
 
 Current MA Senate District Worcester and Hampden (MA State Senate District Worcester and Hampden).
+
+Represents [MA State Senate District Worcester and Hampden](/us/states/ma/districts/senate/worcester-and-hampden.md).
 
 ## Sources
 

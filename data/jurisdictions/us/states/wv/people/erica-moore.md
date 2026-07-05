@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 15"
+represents: "us/states/wv/districts/house/15"
 tenure:
   start: "2023-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erica Moore
 
 Current WV House District 15 (WV State House of Representatives District 15).
+
+Represents [WV State House of Representatives District 15](/us/states/wv/districts/house/15.md).
 
 ## Sources
 

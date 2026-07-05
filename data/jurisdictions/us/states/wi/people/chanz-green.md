@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 74"
+represents: "us/states/wi/districts/house/74"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chanz Green
 
 Current WI House District 74 (WI State House of Representatives District 74).
+
+Represents [WI State House of Representatives District 74](/us/states/wi/districts/house/74.md).
 
 ## Sources
 

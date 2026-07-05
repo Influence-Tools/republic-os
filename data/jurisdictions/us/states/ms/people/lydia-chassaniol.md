@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 14"
+represents: "us/states/ms/districts/senate/14"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lydia Chassaniol
 
 Current MS Senate District 14 (MS State Senate District 14).
+
+Represents [MS State Senate District 14](/us/states/ms/districts/senate/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 19"
+represents: "us/states/ca/districts/house/19"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Catherine Stefani
 
 Current CA House District 19 (CA State House of Representatives District 19).
+
+Represents [CA State House of Representatives District 19](/us/states/ca/districts/house/19.md).
 
 ## Sources
 

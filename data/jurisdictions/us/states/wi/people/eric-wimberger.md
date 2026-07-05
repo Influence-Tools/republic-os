@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 2"
+represents: "us/states/wi/districts/senate/2"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eric Wimberger
 
 Current WI Senate District 2 (WI State Senate District 2).
+
+Represents [WI State Senate District 2](/us/states/wi/districts/senate/2.md).
 
 ## Sources
 

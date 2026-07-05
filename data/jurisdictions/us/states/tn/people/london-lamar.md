@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 33"
+represents: "us/states/tn/districts/senate/33"
 tenure:
   start: "2022-03-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # London Lamar
 
 Current TN Senate District 33 (TN State Senate District 33).
+
+Represents [TN State Senate District 33](/us/states/tn/districts/senate/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 43"
+represents: "us/states/la/districts/house/43"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Carlson
 
 Current LA House District 43 (LA State House of Representatives District 43).
+
+Represents [LA State House of Representatives District 43](/us/states/la/districts/house/43.md).
 
 ## Sources
 

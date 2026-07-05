@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 101"
+represents: "us/states/ct/districts/house/101"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John-Michael Parker
 
 Current CT House District 101 (CT State House of Representatives District 101).
+
+Represents [CT State House of Representatives District 101](/us/states/ct/districts/house/101.md).
 
 ## Sources
 

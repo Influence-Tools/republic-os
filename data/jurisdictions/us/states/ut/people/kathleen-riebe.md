@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 15"
+represents: "us/states/ut/districts/senate/15"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathleen Riebe
 
 Current UT Senate District 15 (UT State Senate District 15).
+
+Represents [UT State Senate District 15](/us/states/ut/districts/senate/15.md).
 
 ## Sources
 

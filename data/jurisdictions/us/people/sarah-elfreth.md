@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MD"
 district: "Congressional District 3"
+represents: "us/states/md/districts/03"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Sarah Elfreth
 
 Current U.S. House of Representatives - MD-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/md/districts/03.md).
 
 ## Committees
 

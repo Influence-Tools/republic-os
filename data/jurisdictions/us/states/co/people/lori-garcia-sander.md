@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 65"
+represents: "us/states/co/districts/house/65"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lori Garcia Sander
 
 Current CO House District 65 (CO State House of Representatives District 65).
+
+Represents [CO State House of Representatives District 65](/us/states/co/districts/house/65.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 37"
+represents: "us/states/nj/districts/senate/37"
 tenure:
   start: "2022-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gordon Johnson
 
 Current NJ Senate District 37 (NJ State Senate District 37).
+
+Represents [NJ State Senate District 37](/us/states/nj/districts/senate/37.md).
 
 ## Sources
 

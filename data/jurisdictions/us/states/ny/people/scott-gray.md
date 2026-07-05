@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 116"
+represents: "us/states/ny/districts/house/116"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Gray
 
 Current NY House District 116 (NY State House of Representatives District 116).
+
+Represents [NY State House of Representatives District 116](/us/states/ny/districts/house/116.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 29"
+represents: "us/states/al/districts/house/29"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Gidley
 
 Current AL House District 29 (AL State House of Representatives District 29).
+
+Represents [AL State House of Representatives District 29](/us/states/al/districts/house/29.md).
 
 ## Sources
 

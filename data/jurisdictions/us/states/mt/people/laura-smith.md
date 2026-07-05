@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 40"
+represents: "us/states/mt/districts/senate/40"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Smith
 
 Current MT Senate District 40 (MT State Senate District 40).
+
+Represents [MT State Senate District 40](/us/states/mt/districts/senate/40.md).
 
 ## Sources
 

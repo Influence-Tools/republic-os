@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 22"
+represents: "us/states/de/districts/house/22"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Smith
 
 Current DE House District 22 (DE State House of Representatives District 22).
+
+Represents [DE State House of Representatives District 22](/us/states/de/districts/house/22.md).
 
 ## Sources
 

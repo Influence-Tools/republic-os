@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 23"
+represents: "us/states/sd/districts/house/23"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Moore
 
 Current SD House District 23 (SD State House of Representatives District 23).
+
+Represents [SD State House of Representatives District 23](/us/states/sd/districts/house/23.md).
 
 ## Sources
 

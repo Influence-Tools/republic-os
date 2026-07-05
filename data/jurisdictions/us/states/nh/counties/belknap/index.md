@@ -22,9 +22,30 @@ demographics:
   race_native: 20
   hispanic: 1467
   bachelors_plus: 23017
+districts:
+  - to: "us/states/nh/districts/01"
+    rel: in-district
+    area_weight: 0.8826
+  - to: "us/states/nh/districts/02"
+    rel: in-district
+    area_weight: 0.1174
+  - to: "us/states/nh/districts/senate/2"
+    rel: in-district
+    area_weight: 0.5753
+  - to: "us/states/nh/districts/senate/6"
+    rel: in-district
+    area_weight: 0.3036
+  - to: "us/states/nh/districts/senate/17"
+    rel: in-district
+    area_weight: 0.0953
+  - to: "us/states/nh/districts/senate/7"
+    rel: in-district
+    area_weight: 0.0255
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, nh]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 1467 |
 | Bachelor's or higher | 23017 |
 
+## Districts
+
+- [NH-01](/us/states/nh/districts/01.md) — 88% (congressional)
+- [NH-02](/us/states/nh/districts/02.md) — 12% (congressional)
+- [NH Senate District 2](/us/states/nh/districts/senate/2.md) — 58% (state senate)
+- [NH Senate District 6](/us/states/nh/districts/senate/6.md) — 30% (state senate)
+- [NH Senate District 17](/us/states/nh/districts/senate/17.md) — 10% (state senate)
+- [NH Senate District 7](/us/states/nh/districts/senate/7.md) — 3% (state senate)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

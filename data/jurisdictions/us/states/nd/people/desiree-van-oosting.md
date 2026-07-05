@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 36"
+represents: "us/states/nd/districts/senate/36"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Desiree Van Oosting
 
 Current ND Senate District 36 (ND State Senate District 36).
+
+Represents [ND State Senate District 36](/us/states/nd/districts/senate/36.md).
 
 ## Sources
 

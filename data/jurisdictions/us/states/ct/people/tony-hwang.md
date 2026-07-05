@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 28"
+represents: "us/states/ct/districts/senate/28"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Hwang
 
 Current CT Senate District 28 (CT State Senate District 28).
+
+Represents [CT State Senate District 28](/us/states/ct/districts/senate/28.md).
 
 ## Sources
 

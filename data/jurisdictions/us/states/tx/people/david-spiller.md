@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 68"
+represents: "us/states/tx/districts/house/68"
 tenure:
   start: "2021-03-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Spiller
 
 Current TX House District 68 (TX State House of Representatives District 68).
+
+Represents [TX State House of Representatives District 68](/us/states/tx/districts/house/68.md).
 
 ## Sources
 

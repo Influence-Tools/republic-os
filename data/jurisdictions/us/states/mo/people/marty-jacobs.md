@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 38"
+represents: "us/states/mo/districts/house/38"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marty Jacobs
 
 Current MO House District 38 (MO State House of Representatives District 38).
+
+Represents [MO State House of Representatives District 38](/us/states/mo/districts/house/38.md).
 
 ## Sources
 

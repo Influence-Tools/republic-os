@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 80"
+represents: "us/states/ct/districts/house/80"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gale Mastrofrancesco
 
 Current CT House District 80 (CT State House of Representatives District 80).
+
+Represents [CT State House of Representatives District 80](/us/states/ct/districts/house/80.md).
 
 ## Sources
 

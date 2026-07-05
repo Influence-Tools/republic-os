@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AZ"
 district: "Congressional District 6"
+represents: "us/states/az/districts/06"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Juan Ciscomani
 
 Current U.S. House of Representatives - AZ-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/az/districts/06.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 26"
+represents: "us/states/ar/districts/senate/26"
 tenure:
   start: "2026-03-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Simon
 
 Current AR Senate District 26 (AR State Senate District 26).
+
+Represents [AR State Senate District 26](/us/states/ar/districts/senate/26.md).
 
 ## Sources
 

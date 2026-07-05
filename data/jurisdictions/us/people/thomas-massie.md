@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KY"
 district: "Congressional District 4"
+represents: "us/states/ky/districts/04"
 committees:
   - name: "House Committee on the Judiciary"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Thomas Massie
 
 Current U.S. House of Representatives - KY-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ky/districts/04.md).
 
 ## Committees
 

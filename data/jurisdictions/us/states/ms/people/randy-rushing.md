@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 78"
+represents: "us/states/ms/districts/house/78"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Rushing
 
 Current MS House District 78 (MS State House of Representatives District 78).
+
+Represents [MS State House of Representatives District 78](/us/states/ms/districts/house/78.md).
 
 ## Sources
 

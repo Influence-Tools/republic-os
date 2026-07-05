@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 61"
+represents: "us/states/ny/districts/senate/61"
 tenure:
   start: "2026-02-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeremy Zellner
 
 Current NY Senate District 61 (NY State Senate District 61).
+
+Represents [NY State Senate District 61](/us/states/ny/districts/senate/61.md).
 
 ## Sources
 

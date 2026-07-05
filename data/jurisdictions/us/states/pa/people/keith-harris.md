@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 195"
+represents: "us/states/pa/districts/house/195"
 tenure:
   start: "2024-09-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Harris
 
 Current PA House District 195 (PA State House of Representatives District 195).
+
+Represents [PA State House of Representatives District 195](/us/states/pa/districts/house/195.md).
 
 ## Sources
 

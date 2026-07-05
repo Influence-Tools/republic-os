@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AR"
 district: "Congressional District 1"
+represents: "us/states/ar/districts/01"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Eric A. "Rick" Crawford
 
 Current U.S. House of Representatives - AR-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/ar/districts/01.md).
 
 ## Committees
 

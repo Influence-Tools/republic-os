@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 36"
+represents: "us/states/mt/districts/senate/36"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sara Novak
 
 Current MT Senate District 36 (MT State Senate District 36).
+
+Represents [MT State Senate District 36](/us/states/mt/districts/senate/36.md).
 
 ## Sources
 

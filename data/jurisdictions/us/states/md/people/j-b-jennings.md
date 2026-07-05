@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 7"
+represents: "us/states/md/districts/senate/7"
 tenure:
   start: "2011-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # J.B. Jennings
 
 Current MD Senate District 7 (MD State Senate District 7).
+
+Represents [MD State Senate District 7](/us/states/md/districts/senate/7.md).
 
 ## Sources
 

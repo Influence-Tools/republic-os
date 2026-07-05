@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AR"
 district: "Congressional District 2"
+represents: "us/states/ar/districts/02"
 committees:
   - name: "House Committee on Financial Services"
     role: "chair"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # J. French Hill
 
 Current U.S. House of Representatives - AR-2 (Congressional District 2).
+
+Represents [Congressional District 2](/us/states/ar/districts/02.md).
 
 ## Committees
 

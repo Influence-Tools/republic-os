@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 138"
+represents: "us/states/tx/districts/house/138"
 tenure:
   start: "2021-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lacey Hull
 
 Current TX House District 138 (TX State House of Representatives District 138).
+
+Represents [TX State House of Representatives District 138](/us/states/tx/districts/house/138.md).
 
 ## Sources
 

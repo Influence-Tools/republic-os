@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 30"
+represents: "us/states/nd/districts/senate/30"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Diane Larson
 
 Current ND Senate District 30 (ND State Senate District 30).
+
+Represents [ND State Senate District 30](/us/states/nd/districts/senate/30.md).
 
 ## Sources
 

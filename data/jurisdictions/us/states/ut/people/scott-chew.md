@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 68"
+represents: "us/states/ut/districts/house/68"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Chew
 
 Current UT House District 68 (UT State House of Representatives District 68).
+
+Represents [UT State House of Representatives District 68](/us/states/ut/districts/house/68.md).
 
 ## Sources
 

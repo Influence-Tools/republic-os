@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 39"
+represents: "us/states/nv/districts/house/39"
 tenure:
   start: "2025-11-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blayne Osborn
 
 Current NV House District 39 (NV State House of Representatives District 39).
+
+Represents [NV State House of Representatives District 39](/us/states/nv/districts/house/39.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 33"
+represents: "us/states/va/districts/house/33"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Justin Pence
 
 Current VA House District 33 (VA State House of Representatives District 33).
+
+Represents [VA State House of Representatives District 33](/us/states/va/districts/house/33.md).
 
 ## Sources
 

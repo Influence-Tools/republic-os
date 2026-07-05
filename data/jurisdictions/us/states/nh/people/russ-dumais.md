@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Belknap 6"
+represents: "us/states/nh/districts/house/belknap-6"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russ Dumais
 
 Current NH House District Belknap 6 (NH State House of Representatives District Belknap 6).
+
+Represents [NH State House of Representatives District Belknap 6](/us/states/nh/districts/house/belknap-6.md).
 
 ## Sources
 

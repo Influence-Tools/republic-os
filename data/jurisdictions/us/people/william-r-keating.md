@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 9"
+represents: "us/states/ma/districts/09"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # William R. Keating
 
 Current U.S. House of Representatives - MA-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/ma/districts/09.md).
 
 ## Committees
 

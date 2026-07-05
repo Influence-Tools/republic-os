@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 13"
+represents: "us/states/wy/districts/house/13"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Chestek
 
 Current WY House District 13 (WY State House of Representatives District 13).
+
+Represents [WY State House of Representatives District 13](/us/states/wy/districts/house/13.md).
 
 ## Sources
 

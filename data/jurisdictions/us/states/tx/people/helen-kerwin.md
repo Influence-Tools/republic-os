@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 58"
+represents: "us/states/tx/districts/house/58"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Helen Kerwin
 
 Current TX House District 58 (TX State House of Representatives District 58).
+
+Represents [TX State House of Representatives District 58](/us/states/tx/districts/house/58.md).
 
 ## Sources
 

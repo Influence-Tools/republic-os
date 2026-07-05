@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 53"
+represents: "us/states/in/districts/house/53"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ethan Lawson
 
 Current IN House District 53 (IN State House of Representatives District 53).
+
+Represents [IN State House of Representatives District 53](/us/states/in/districts/house/53.md).
 
 ## Sources
 

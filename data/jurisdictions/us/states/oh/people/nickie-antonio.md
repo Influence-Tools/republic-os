@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 23"
+represents: "us/states/oh/districts/senate/23"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nickie Antonio
 
 Current OH Senate District 23 (OH State Senate District 23).
+
+Represents [OH State Senate District 23](/us/states/oh/districts/senate/23.md).
 
 ## Sources
 

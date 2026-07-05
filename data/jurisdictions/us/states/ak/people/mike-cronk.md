@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District R"
+represents: "us/states/ak/districts/senate/r"
 tenure:
   start: "2025-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Cronk
 
 Current AK Senate District R (AK State Senate District R).
+
+Represents [AK State Senate District R](/us/states/ak/districts/senate/r.md).
 
 ## Sources
 

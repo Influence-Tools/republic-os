@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 90"
+represents: "us/states/wv/districts/house/90"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # George Miller
 
 Current WV House District 90 (WV State House of Representatives District 90).
+
+Represents [WV State House of Representatives District 90](/us/states/wv/districts/house/90.md).
 
 ## Sources
 

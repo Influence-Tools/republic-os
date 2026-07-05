@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 82"
+represents: "us/states/fl/districts/house/82"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Melo
 
 Current FL House District 82 (FL State House of Representatives District 82).
+
+Represents [FL State House of Representatives District 82](/us/states/fl/districts/house/82.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KS"
 district: "Congressional District 4"
+represents: "us/states/ks/districts/04"
 committees:
   - name: "House Committee on the Budget"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Ron Estes
 
 Current U.S. House of Representatives - KS-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ks/districts/04.md).
 
 ## Committees
 

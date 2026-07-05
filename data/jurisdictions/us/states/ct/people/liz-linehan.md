@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 103"
+represents: "us/states/ct/districts/house/103"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Liz Linehan
 
 Current CT House District 103 (CT State House of Representatives District 103).
+
+Represents [CT State House of Representatives District 103](/us/states/ct/districts/house/103.md).
 
 ## Sources
 

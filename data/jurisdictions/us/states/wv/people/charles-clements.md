@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 2"
+represents: "us/states/wv/districts/senate/2"
 tenure:
   start: "2017-01-28"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charles Clements
 
 Current WV Senate District 2 (WV State Senate District 2).
+
+Represents [WV State Senate District 2](/us/states/wv/districts/senate/2.md).
 
 ## Sources
 

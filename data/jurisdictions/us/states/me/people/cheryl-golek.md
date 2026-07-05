@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 99"
+represents: "us/states/me/districts/house/99"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cheryl Golek
 
 Current ME House District 99 (ME State House of Representatives District 99).
+
+Represents [ME State House of Representatives District 99](/us/states/me/districts/house/99.md).
 
 ## Sources
 

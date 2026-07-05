@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 18th Suffolk"
+represents: "us/states/ma/districts/house/18th-suffolk"
 tenure:
   start: "2011-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Moran
 
 Current MA House District 18th Suffolk (MA State House of Representatives District 18th Suffolk).
+
+Represents [MA State House of Representatives District 18th Suffolk](/us/states/ma/districts/house/18th-suffolk.md).
 
 ## Sources
 

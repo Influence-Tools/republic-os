@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State House of Representatives District 41"
+represents: "us/states/de/districts/house/41"
 tenure:
   start: "2015-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rich Collins
 
 Current DE House District 41 (DE State House of Representatives District 41).
+
+Represents [DE State House of Representatives District 41](/us/states/de/districts/house/41.md).
 
 ## Sources
 

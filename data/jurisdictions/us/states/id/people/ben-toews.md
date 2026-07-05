@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 4"
+represents: "us/states/id/districts/senate/4"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Toews
 
 Current ID Senate District 4 (ID State Senate District 4).
+
+Represents [ID State Senate District 4](/us/states/id/districts/senate/4.md).
 
 ## Sources
 

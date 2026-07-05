@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 2"
+represents: "us/states/nd/districts/senate/2"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Enget
 
 Current ND Senate District 2 (ND State Senate District 2).
+
+Represents [ND State Senate District 2](/us/states/nd/districts/senate/2.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 67"
+represents: "us/states/il/districts/house/67"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maurice West
 
 Current IL House District 67 (IL State House of Representatives District 67).
+
+Represents [IL State House of Representatives District 67](/us/states/il/districts/house/67.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 129"
+represents: "us/states/ct/districts/house/129"
 tenure:
   start: "2015-02-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Stafstrom
 
 Current CT House District 129 (CT State House of Representatives District 129).
+
+Represents [CT State House of Representatives District 129](/us/states/ct/districts/house/129.md).
 
 ## Sources
 

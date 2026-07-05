@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 48"
+represents: "us/states/ky/districts/house/48"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Fleming
 
 Current KY House District 48 (KY State House of Representatives District 48).
+
+Represents [KY State House of Representatives District 48](/us/states/ky/districts/house/48.md).
 
 ## Sources
 

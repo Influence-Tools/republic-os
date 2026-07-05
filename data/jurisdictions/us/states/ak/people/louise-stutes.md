@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 5"
+represents: "us/states/ak/districts/house/5"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Louise Stutes
 
 Current AK House District 5 (AK State House of Representatives District 5).
+
+Represents [AK State House of Representatives District 5](/us/states/ak/districts/house/5.md).
 
 ## Sources
 

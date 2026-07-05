@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 46"
+represents: "us/states/ca/districts/46"
 committees:
   - name: "House Committee on Homeland Security"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # J. Luis Correa
 
 Current U.S. House of Representatives - CA-46 (Congressional District 46).
+
+Represents [Congressional District 46](/us/states/ca/districts/46.md).
 
 ## Committees
 

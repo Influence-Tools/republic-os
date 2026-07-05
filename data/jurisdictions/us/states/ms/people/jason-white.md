@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 48"
+represents: "us/states/ms/districts/house/48"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason White
 
 Current MS House District 48 (MS State House of Representatives District 48).
+
+Represents [MS State House of Representatives District 48](/us/states/ms/districts/house/48.md).
 
 ## Sources
 

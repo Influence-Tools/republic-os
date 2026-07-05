@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 7"
+represents: "us/states/sc/districts/senate/7"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karl Allen
 
 Current SC Senate District 7 (SC State Senate District 7).
+
+Represents [SC State Senate District 7](/us/states/sc/districts/senate/7.md).
 
 ## Sources
 

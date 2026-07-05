@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 60B"
+represents: "us/states/mn/districts/house/60b"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mohamud Noor
 
 Current MN House District 60B (MN State House of Representatives District 60B).
+
+Represents [MN State House of Representatives District 60B](/us/states/mn/districts/house/60b.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 20"
+represents: "us/states/sd/districts/senate/20"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paul Miskimins
 
 Current SD Senate District 20 (SD State Senate District 20).
+
+Represents [SD State Senate District 20](/us/states/sd/districts/senate/20.md).
 
 ## Sources
 

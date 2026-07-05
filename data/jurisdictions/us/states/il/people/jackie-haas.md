@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 79"
+represents: "us/states/il/districts/house/79"
 tenure:
   start: "2020-12-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jackie Haas
 
 Current IL House District 79 (IL State House of Representatives District 79).
+
+Represents [IL State House of Representatives District 79](/us/states/il/districts/house/79.md).
 
 ## Sources
 

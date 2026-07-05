@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 31"
+represents: "us/states/ks/districts/house/31"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Louis Ruiz
 
 Current KS House District 31 (KS State House of Representatives District 31).
+
+Represents [KS State House of Representatives District 31](/us/states/ks/districts/house/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 25"
+represents: "us/states/nm/districts/house/25"
 tenure:
   start: "2023-08-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cristina Parajón
 
 Current NM House District 25 (NM State House of Representatives District 25).
+
+Represents [NM State House of Representatives District 25](/us/states/nm/districts/house/25.md).
 
 ## Sources
 

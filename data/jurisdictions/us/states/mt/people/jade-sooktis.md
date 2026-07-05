@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 41"
+represents: "us/states/mt/districts/house/41"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jade Sooktis
 
 Current MT House District 41 (MT State House of Representatives District 41).
+
+Represents [MT State House of Representatives District 41](/us/states/mt/districts/house/41.md).
 
 ## Sources
 

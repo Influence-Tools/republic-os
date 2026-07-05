@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 7"
+represents: "us/states/id/districts/senate/7"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Carlson
 
 Current ID Senate District 7 (ID State Senate District 7).
+
+Represents [ID State Senate District 7](/us/states/id/districts/senate/7.md).
 
 ## Sources
 

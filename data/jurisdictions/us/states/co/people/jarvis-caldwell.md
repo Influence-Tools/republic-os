@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 20"
+represents: "us/states/co/districts/house/20"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jarvis Caldwell
 
 Current CO House District 20 (CO State House of Representatives District 20).
+
+Represents [CO State House of Representatives District 20](/us/states/co/districts/house/20.md).
 
 ## Sources
 

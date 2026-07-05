@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 25"
+represents: "us/states/ri/districts/senate/25"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Dimitri
 
 Current RI Senate District 25 (RI State Senate District 25).
+
+Represents [RI State Senate District 25](/us/states/ri/districts/senate/25.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 91"
+represents: "us/states/nc/districts/house/91"
 tenure:
   start: "2015-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Hall
 
 Current NC House District 91 (NC State House of Representatives District 91).
+
+Represents [NC State House of Representatives District 91](/us/states/nc/districts/house/91.md).
 
 ## Sources
 

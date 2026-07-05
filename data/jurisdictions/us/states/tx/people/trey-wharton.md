@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 12"
+represents: "us/states/tx/districts/house/12"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Wharton
 
 Current TX House District 12 (TX State House of Representatives District 12).
+
+Represents [TX State House of Representatives District 12](/us/states/tx/districts/house/12.md).
 
 ## Sources
 

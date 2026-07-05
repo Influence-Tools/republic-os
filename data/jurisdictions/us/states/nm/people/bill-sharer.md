@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 1"
+represents: "us/states/nm/districts/senate/1"
 tenure:
   start: "2001-01-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Sharer
 
 Current NM Senate District 1 (NM State Senate District 1).
+
+Represents [NM State Senate District 1](/us/states/nm/districts/senate/1.md).
 
 ## Sources
 

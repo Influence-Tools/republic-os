@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 140"
+represents: "us/states/ct/districts/house/140"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Simms
 
 Current CT House District 140 (CT State House of Representatives District 140).
+
+Represents [CT State House of Representatives District 140](/us/states/ct/districts/house/140.md).
 
 ## Sources
 

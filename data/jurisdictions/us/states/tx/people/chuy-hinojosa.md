@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State Senate District 20"
+represents: "us/states/tx/districts/senate/20"
 tenure:
   start: "2003-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuy Hinojosa
 
 Current TX Senate District 20 (TX State Senate District 20).
+
+Represents [TX State Senate District 20](/us/states/tx/districts/senate/20.md).
 
 ## Sources
 

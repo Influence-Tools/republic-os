@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 20"
+represents: "us/states/hi/districts/senate/20"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kurt Fevella
 
 Current HI Senate District 20 (HI State Senate District 20).
+
+Represents [HI State Senate District 20](/us/states/hi/districts/senate/20.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State House of Representatives District 6"
+represents: "us/states/wa/districts/house/6"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jenny Graham
 
 Current WA House District 6 (WA State House of Representatives District 6).
+
+Represents [WA State House of Representatives District 6](/us/states/wa/districts/house/6.md).
 
 ## Sources
 

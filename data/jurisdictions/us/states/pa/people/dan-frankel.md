@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 23"
+represents: "us/states/pa/districts/house/23"
 tenure:
   start: "1999-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Frankel
 
 Current PA House District 23 (PA State House of Representatives District 23).
+
+Represents [PA State House of Representatives District 23](/us/states/pa/districts/house/23.md).
 
 ## Sources
 

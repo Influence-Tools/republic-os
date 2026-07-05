@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 98"
+represents: "us/states/nc/districts/house/98"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beth Gardner Helfrich
 
 Current NC House District 98 (NC State House of Representatives District 98).
+
+Represents [NC State House of Representatives District 98](/us/states/nc/districts/house/98.md).
 
 ## Sources
 

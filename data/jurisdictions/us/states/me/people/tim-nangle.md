@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 26"
+represents: "us/states/me/districts/senate/26"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tim Nangle
 
 Current ME Senate District 26 (ME State Senate District 26).
+
+Represents [ME State Senate District 26](/us/states/me/districts/senate/26.md).
 
 ## Sources
 

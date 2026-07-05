@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 25"
+represents: "us/states/id/districts/senate/25"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Josh Kohl
 
 Current ID Senate District 25 (ID State Senate District 25).
+
+Represents [ID State Senate District 25](/us/states/id/districts/senate/25.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 74"
+represents: "us/states/ms/districts/house/74"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lee Yancey
 
 Current MS House District 74 (MS State House of Representatives District 74).
+
+Represents [MS State House of Representatives District 74](/us/states/ms/districts/house/74.md).
 
 ## Sources
 

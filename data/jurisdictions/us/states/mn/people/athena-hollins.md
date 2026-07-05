@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 66B"
+represents: "us/states/mn/districts/house/66b"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Athena Hollins
 
 Current MN House District 66B (MN State House of Representatives District 66B).
+
+Represents [MN State House of Representatives District 66B](/us/states/mn/districts/house/66b.md).
 
 ## Sources
 

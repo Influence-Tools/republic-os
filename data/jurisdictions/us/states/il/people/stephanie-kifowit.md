@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 84"
+represents: "us/states/il/districts/house/84"
 tenure:
   start: "2013-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Kifowit
 
 Current IL House District 84 (IL State House of Representatives District 84).
+
+Represents [IL State House of Representatives District 84](/us/states/il/districts/house/84.md).
 
 ## Sources
 

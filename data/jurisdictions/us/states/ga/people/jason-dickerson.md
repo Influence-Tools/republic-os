@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 21"
+represents: "us/states/ga/districts/senate/21"
 tenure:
   start: "2025-10-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Dickerson
 
 Current GA Senate District 21 (GA State Senate District 21).
+
+Represents [GA State Senate District 21](/us/states/ga/districts/senate/21.md).
 
 ## Sources
 

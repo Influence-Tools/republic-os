@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 98"
+represents: "us/states/in/districts/house/98"
 tenure:
   start: "2012-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robin Shackleford
 
 Current IN House District 98 (IN State House of Representatives District 98).
+
+Represents [IN State House of Representatives District 98](/us/states/in/districts/house/98.md).
 
 ## Sources
 

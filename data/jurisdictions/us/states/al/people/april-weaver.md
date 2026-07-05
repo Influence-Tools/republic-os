@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State Senate District 14"
+represents: "us/states/al/districts/senate/14"
 tenure:
   start: "2021-07-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # April Weaver
 
 Current AL Senate District 14 (AL State Senate District 14).
+
+Represents [AL State Senate District 14](/us/states/al/districts/senate/14.md).
 
 ## Sources
 

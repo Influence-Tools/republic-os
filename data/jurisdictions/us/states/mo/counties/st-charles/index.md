@@ -22,9 +22,60 @@ demographics:
   race_native: 333
   hispanic: 17405
   bachelors_plus: 168328
+districts:
+  - to: "us/states/mo/districts/03"
+    rel: in-district
+    area_weight: 0.6148
+  - to: "us/states/mo/districts/02"
+    rel: in-district
+    area_weight: 0.3809
+  - to: "us/states/mo/districts/senate/2"
+    rel: in-district
+    area_weight: 0.5078
+  - to: "us/states/mo/districts/senate/23"
+    rel: in-district
+    area_weight: 0.4043
+  - to: "us/states/mo/districts/senate/10"
+    rel: in-district
+    area_weight: 0.0862
+  - to: "us/states/mo/districts/house/102"
+    rel: in-district
+    area_weight: 0.3388
+  - to: "us/states/mo/districts/house/65"
+    rel: in-district
+    area_weight: 0.2954
+  - to: "us/states/mo/districts/house/64"
+    rel: in-district
+    area_weight: 0.1598
+  - to: "us/states/mo/districts/house/69"
+    rel: in-district
+    area_weight: 0.0431
+  - to: "us/states/mo/districts/house/63"
+    rel: in-district
+    area_weight: 0.0331
+  - to: "us/states/mo/districts/house/108"
+    rel: in-district
+    area_weight: 0.0275
+  - to: "us/states/mo/districts/house/106"
+    rel: in-district
+    area_weight: 0.0263
+  - to: "us/states/mo/districts/house/107"
+    rel: in-district
+    area_weight: 0.0201
+  - to: "us/states/mo/districts/house/103"
+    rel: in-district
+    area_weight: 0.0196
+  - to: "us/states/mo/districts/house/105"
+    rel: in-district
+    area_weight: 0.0181
+  - to: "us/states/mo/districts/house/104"
+    rel: in-district
+    area_weight: 0.0165
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mo]
 timestamp: "2026-07-03"
@@ -56,6 +107,26 @@ County jurisdiction — 3 officeholders mapped.
 | Hispanic/Latino | 17405 |
 | Bachelor's or higher | 168328 |
 
+## Districts
+
+- [MO-03](/us/states/mo/districts/03.md) — 61% (congressional)
+- [MO-02](/us/states/mo/districts/02.md) — 38% (congressional)
+- [MO Senate District 2](/us/states/mo/districts/senate/2.md) — 51% (state senate)
+- [MO Senate District 23](/us/states/mo/districts/senate/23.md) — 40% (state senate)
+- [MO Senate District 10](/us/states/mo/districts/senate/10.md) — 9% (state senate)
+- [MO House District 102](/us/states/mo/districts/house/102.md) — 34% (state house)
+- [MO House District 65](/us/states/mo/districts/house/65.md) — 30% (state house)
+- [MO House District 64](/us/states/mo/districts/house/64.md) — 16% (state house)
+- [MO House District 69](/us/states/mo/districts/house/69.md) — 4% (state house)
+- [MO House District 63](/us/states/mo/districts/house/63.md) — 3% (state house)
+- [MO House District 108](/us/states/mo/districts/house/108.md) — 3% (state house)
+- [MO House District 106](/us/states/mo/districts/house/106.md) — 3% (state house)
+- [MO House District 107](/us/states/mo/districts/house/107.md) — 2% (state house)
+- [MO House District 103](/us/states/mo/districts/house/103.md) — 2% (state house)
+- [MO House District 105](/us/states/mo/districts/house/105.md) — 2% (state house)
+- [MO House District 104](/us/states/mo/districts/house/104.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

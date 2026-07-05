@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 94"
+represents: "us/states/nc/districts/house/94"
 tenure:
   start: "2024-10-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blair Eddins
 
 Current NC House District 94 (NC State House of Representatives District 94).
+
+Represents [NC State House of Representatives District 94](/us/states/nc/districts/house/94.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 23"
+represents: "us/states/ut/districts/senate/23"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Grover
 
 Current UT Senate District 23 (UT State Senate District 23).
+
+Represents [UT State Senate District 23](/us/states/ut/districts/senate/23.md).
 
 ## Sources
 

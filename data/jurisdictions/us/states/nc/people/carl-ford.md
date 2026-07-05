@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 33"
+represents: "us/states/nc/districts/senate/33"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Ford
 
 Current NC Senate District 33 (NC State Senate District 33).
+
+Represents [NC State Senate District 33](/us/states/nc/districts/senate/33.md).
 
 ## Sources
 

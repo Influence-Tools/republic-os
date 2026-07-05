@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 14"
+represents: "us/states/ct/districts/house/14"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Delnicki
 
 Current CT House District 14 (CT State House of Representatives District 14).
+
+Represents [CT State House of Representatives District 14](/us/states/ct/districts/house/14.md).
 
 ## Sources
 

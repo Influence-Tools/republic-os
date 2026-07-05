@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 48"
+represents: "us/states/ar/districts/house/48"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Rose
 
 Current AR House District 48 (AR State House of Representatives District 48).
+
+Represents [AR State House of Representatives District 48](/us/states/ar/districts/house/48.md).
 
 ## Sources
 

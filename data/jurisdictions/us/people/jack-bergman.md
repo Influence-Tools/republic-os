@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 1"
+represents: "us/states/mi/districts/01"
 committees:
   - name: "House Committee on Armed Services"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jack Bergman
 
 Current U.S. House of Representatives - MI-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/mi/districts/01.md).
 
 ## Committees
 

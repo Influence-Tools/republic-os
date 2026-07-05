@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 8"
+represents: "us/states/de/districts/senate/8"
 tenure:
   start: "1991-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Sokola
 
 Current DE Senate District 8 (DE State Senate District 8).
+
+Represents [DE State Senate District 8](/us/states/de/districts/senate/8.md).
 
 ## Sources
 

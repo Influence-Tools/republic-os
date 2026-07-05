@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 11th Plymouth"
+represents: "us/states/ma/districts/house/11th-plymouth"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rita Mendes
 
 Current MA House District 11th Plymouth (MA State House of Representatives District 11th Plymouth).
+
+Represents [MA State House of Representatives District 11th Plymouth](/us/states/ma/districts/house/11th-plymouth.md).
 
 ## Sources
 

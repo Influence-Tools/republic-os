@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 70"
+represents: "us/states/ny/districts/house/70"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jordan Wright
 
 Current NY House District 70 (NY State House of Representatives District 70).
+
+Represents [NY State House of Representatives District 70](/us/states/ny/districts/house/70.md).
 
 ## Sources
 

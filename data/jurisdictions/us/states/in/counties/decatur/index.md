@@ -22,9 +22,27 @@ demographics:
   race_native: 77
   hispanic: 667
   bachelors_plus: 4576
+districts:
+  - to: "us/states/in/districts/09"
+    rel: in-district
+    area_weight: 0.9994
+  - to: "us/states/in/districts/senate/42"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/in/districts/house/73"
+    rel: in-district
+    area_weight: 0.5484
+  - to: "us/states/in/districts/house/55"
+    rel: in-district
+    area_weight: 0.2556
+  - to: "us/states/in/districts/house/67"
+    rel: in-district
+    area_weight: 0.1959
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, in]
 timestamp: "2026-07-03"
@@ -56,6 +74,15 @@ County jurisdiction.
 | Hispanic/Latino | 667 |
 | Bachelor's or higher | 4576 |
 
+## Districts
+
+- [IN-09](/us/states/in/districts/09.md) — 100% (congressional)
+- [IN Senate District 42](/us/states/in/districts/senate/42.md) — 100% (state senate)
+- [IN House District 73](/us/states/in/districts/house/73.md) — 55% (state house)
+- [IN House District 55](/us/states/in/districts/house/55.md) — 26% (state house)
+- [IN House District 67](/us/states/in/districts/house/67.md) — 20% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

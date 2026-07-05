@@ -22,9 +22,36 @@ demographics:
   race_native: 1684
   hispanic: 702
   bachelors_plus: 9073
+districts:
+  - to: "us/states/mn/districts/07"
+    rel: in-district
+    area_weight: 0.6472
+  - to: "us/states/mn/districts/08"
+    rel: in-district
+    area_weight: 0.3528
+  - to: "us/states/mn/districts/senate/5"
+    rel: in-district
+    area_weight: 0.4231
+  - to: "us/states/mn/districts/senate/2"
+    rel: in-district
+    area_weight: 0.3029
+  - to: "us/states/mn/districts/senate/4"
+    rel: in-district
+    area_weight: 0.2739
+  - to: "us/states/mn/districts/house/5a"
+    rel: in-district
+    area_weight: 0.4231
+  - to: "us/states/mn/districts/house/2b"
+    rel: in-district
+    area_weight: 0.3029
+  - to: "us/states/mn/districts/house/4b"
+    rel: in-district
+    area_weight: 0.2739
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mn]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction.
 | Hispanic/Latino | 702 |
 | Bachelor's or higher | 9073 |
 
+## Districts
+
+- [MN-07](/us/states/mn/districts/07.md) — 65% (congressional)
+- [MN-08](/us/states/mn/districts/08.md) — 35% (congressional)
+- [MN Senate District 5](/us/states/mn/districts/senate/5.md) — 42% (state senate)
+- [MN Senate District 2](/us/states/mn/districts/senate/2.md) — 30% (state senate)
+- [MN Senate District 4](/us/states/mn/districts/senate/4.md) — 27% (state senate)
+- [MN House District 5A](/us/states/mn/districts/house/5a.md) — 42% (state house)
+- [MN House District 2B](/us/states/mn/districts/house/2b.md) — 30% (state house)
+- [MN House District 4B](/us/states/mn/districts/house/4b.md) — 27% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

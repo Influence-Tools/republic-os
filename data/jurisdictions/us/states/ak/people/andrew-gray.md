@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 20"
+represents: "us/states/ak/districts/house/20"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Gray
 
 Current AK House District 20 (AK State House of Representatives District 20).
+
+Represents [AK State House of Representatives District 20](/us/states/ak/districts/house/20.md).
 
 ## Sources
 

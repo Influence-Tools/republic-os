@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 99"
+represents: "us/states/il/districts/house/99"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Moore
 
 Current IL House District 99 (IL State House of Representatives District 99).
+
+Represents [IL State House of Representatives District 99](/us/states/il/districts/house/99.md).
 
 ## Sources
 

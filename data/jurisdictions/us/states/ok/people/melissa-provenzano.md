@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 79"
+represents: "us/states/ok/districts/house/79"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Provenzano
 
 Current OK House District 79 (OK State House of Representatives District 79).
+
+Represents [OK State House of Representatives District 79](/us/states/ok/districts/house/79.md).
 
 ## Sources
 

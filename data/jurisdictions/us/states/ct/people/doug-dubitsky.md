@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 47"
+represents: "us/states/ct/districts/house/47"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Dubitsky
 
 Current CT House District 47 (CT State House of Representatives District 47).
+
+Represents [CT State House of Representatives District 47](/us/states/ct/districts/house/47.md).
 
 ## Sources
 

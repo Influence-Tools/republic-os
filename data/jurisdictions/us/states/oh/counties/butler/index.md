@@ -22,9 +22,33 @@ demographics:
   race_native: 678
   hispanic: 27328
   bachelors_plus: 113091
+districts:
+  - to: "us/states/oh/districts/08"
+    rel: in-district
+    area_weight: 0.9996
+  - to: "us/states/oh/districts/senate/4"
+    rel: in-district
+    area_weight: 0.8331
+  - to: "us/states/oh/districts/senate/5"
+    rel: in-district
+    area_weight: 0.1667
+  - to: "us/states/oh/districts/house/47"
+    rel: in-district
+    area_weight: 0.305
+  - to: "us/states/oh/districts/house/45"
+    rel: in-district
+    area_weight: 0.2666
+  - to: "us/states/oh/districts/house/46"
+    rel: in-district
+    area_weight: 0.2616
+  - to: "us/states/oh/districts/house/40"
+    rel: in-district
+    area_weight: 0.1667
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, oh]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 4 officeholders mapped.
 | Hispanic/Latino | 27328 |
 | Bachelor's or higher | 113091 |
 
+## Districts
+
+- [OH-08](/us/states/oh/districts/08.md) — 100% (congressional)
+- [OH Senate District 4](/us/states/oh/districts/senate/4.md) — 83% (state senate)
+- [OH Senate District 5](/us/states/oh/districts/senate/5.md) — 17% (state senate)
+- [OH House District 47](/us/states/oh/districts/house/47.md) — 30% (state house)
+- [OH House District 45](/us/states/oh/districts/house/45.md) — 27% (state house)
+- [OH House District 46](/us/states/oh/districts/house/46.md) — 26% (state house)
+- [OH House District 40](/us/states/oh/districts/house/40.md) — 17% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

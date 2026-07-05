@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 32"
+represents: "us/states/md/districts/senate/32"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pam Beidle
 
 Current MD Senate District 32 (MD State Senate District 32).
+
+Represents [MD State Senate District 32](/us/states/md/districts/senate/32.md).
 
 ## Sources
 

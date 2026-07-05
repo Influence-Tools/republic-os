@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 129"
+represents: "us/states/me/districts/house/129"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marshall Archer
 
 Current ME House District 129 (ME State House of Representatives District 129).
+
+Represents [ME State House of Representatives District 129](/us/states/me/districts/house/129.md).
 
 ## Sources
 

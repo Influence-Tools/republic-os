@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 11"
+represents: "us/states/ga/districts/11"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Barry Loudermilk
 
 Current U.S. House of Representatives - GA-11 (Congressional District 11).
+
+Represents [Congressional District 11](/us/states/ga/districts/11.md).
 
 ## Committees
 

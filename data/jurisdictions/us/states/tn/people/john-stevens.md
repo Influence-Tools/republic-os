@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State Senate District 24"
+represents: "us/states/tn/districts/senate/24"
 tenure:
   start: "2012-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Stevens
 
 Current TN Senate District 24 (TN State Senate District 24).
+
+Represents [TN State Senate District 24](/us/states/tn/districts/senate/24.md).
 
 ## Sources
 

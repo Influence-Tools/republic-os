@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State Senate District 6"
+represents: "us/states/hi/districts/senate/6"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Angus McKelvey
 
 Current HI Senate District 6 (HI State Senate District 6).
+
+Represents [HI State Senate District 6](/us/states/hi/districts/senate/6.md).
 
 ## Sources
 

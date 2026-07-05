@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 28"
+represents: "us/states/ga/districts/house/28"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brent Cox
 
 Current GA House District 28 (GA State House of Representatives District 28).
+
+Represents [GA State House of Representatives District 28](/us/states/ga/districts/house/28.md).
 
 ## Sources
 

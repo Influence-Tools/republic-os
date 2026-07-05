@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State Senate District 21"
+represents: "us/states/sc/districts/senate/21"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darrell Jackson
 
 Current SC Senate District 21 (SC State Senate District 21).
+
+Represents [SC State Senate District 21](/us/states/sc/districts/senate/21.md).
 
 ## Sources
 

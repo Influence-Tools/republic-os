@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 10th Suffolk"
+represents: "us/states/ma/districts/house/10th-suffolk"
 tenure:
   start: "2023-06-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy MacGregor
 
 Current MA House District 10th Suffolk (MA State House of Representatives District 10th Suffolk).
+
+Represents [MA State House of Representatives District 10th Suffolk](/us/states/ma/districts/house/10th-suffolk.md).
 
 ## Sources
 

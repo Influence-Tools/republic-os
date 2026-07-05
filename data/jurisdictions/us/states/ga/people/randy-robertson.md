@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 29"
+represents: "us/states/ga/districts/senate/29"
 tenure:
   start: "2019-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Randy Robertson
 
 Current GA Senate District 29 (GA State Senate District 29).
+
+Represents [GA State Senate District 29](/us/states/ga/districts/senate/29.md).
 
 ## Sources
 

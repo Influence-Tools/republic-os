@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 73"
+represents: "us/states/pa/districts/house/73"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dallas Kephart
 
 Current PA House District 73 (PA State House of Representatives District 73).
+
+Represents [PA State House of Representatives District 73](/us/states/pa/districts/house/73.md).
 
 ## Sources
 

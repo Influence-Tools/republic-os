@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 81"
+represents: "us/states/ok/districts/house/81"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Osburn
 
 Current OK House District 81 (OK State House of Representatives District 81).
+
+Represents [OK State House of Representatives District 81](/us/states/ok/districts/house/81.md).
 
 ## Sources
 

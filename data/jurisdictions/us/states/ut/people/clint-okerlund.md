@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 42"
+represents: "us/states/ut/districts/house/42"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Clint Okerlund
 
 Current UT House District 42 (UT State House of Representatives District 42).
+
+Represents [UT State House of Representatives District 42](/us/states/ut/districts/house/42.md).
 
 ## Sources
 

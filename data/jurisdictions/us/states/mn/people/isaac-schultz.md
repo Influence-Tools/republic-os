@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 10B"
+represents: "us/states/mn/districts/house/10b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Isaac Schultz
 
 Current MN House District 10B (MN State House of Representatives District 10B).
+
+Represents [MN State House of Representatives District 10B](/us/states/mn/districts/house/10b.md).
 
 ## Sources
 

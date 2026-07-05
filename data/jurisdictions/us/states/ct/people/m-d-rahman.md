@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 4"
+represents: "us/states/ct/districts/senate/4"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # M.D. Rahman
 
 Current CT Senate District 4 (CT State Senate District 4).
+
+Represents [CT State Senate District 4](/us/states/ct/districts/senate/4.md).
 
 ## Sources
 

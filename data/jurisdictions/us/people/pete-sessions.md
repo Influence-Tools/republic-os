@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 17"
+represents: "us/states/tx/districts/17"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Pete Sessions
 
 Current U.S. House of Representatives - TX-17 (Congressional District 17).
+
+Represents [Congressional District 17](/us/states/tx/districts/17.md).
 
 ## Committees
 

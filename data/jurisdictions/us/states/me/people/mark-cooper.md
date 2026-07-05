@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 107"
+represents: "us/states/me/districts/house/107"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Cooper
 
 Current ME House District 107 (ME State House of Representatives District 107).
+
+Represents [ME State House of Representatives District 107](/us/states/me/districts/house/107.md).
 
 ## Sources
 

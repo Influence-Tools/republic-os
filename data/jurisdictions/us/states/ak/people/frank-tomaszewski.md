@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 34"
+represents: "us/states/ak/districts/house/34"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Frank Tomaszewski
 
 Current AK House District 34 (AK State House of Representatives District 34).
+
+Represents [AK State House of Representatives District 34](/us/states/ak/districts/house/34.md).
 
 ## Sources
 

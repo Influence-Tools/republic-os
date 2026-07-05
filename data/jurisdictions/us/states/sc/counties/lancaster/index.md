@@ -22,9 +22,36 @@ demographics:
   race_native: 113
   hispanic: 7808
   bachelors_plus: 33979
+districts:
+  - to: "us/states/sc/districts/05"
+    rel: in-district
+    area_weight: 0.9983
+  - to: "us/states/sc/districts/senate/27"
+    rel: in-district
+    area_weight: 0.8584
+  - to: "us/states/sc/districts/senate/16"
+    rel: in-district
+    area_weight: 0.0711
+  - to: "us/states/sc/districts/senate/17"
+    rel: in-district
+    area_weight: 0.0704
+  - to: "us/states/sc/districts/house/45"
+    rel: in-district
+    area_weight: 0.4677
+  - to: "us/states/sc/districts/house/65"
+    rel: in-district
+    area_weight: 0.2535
+  - to: "us/states/sc/districts/house/53"
+    rel: in-district
+    area_weight: 0.1738
+  - to: "us/states/sc/districts/house/44"
+    rel: in-district
+    area_weight: 0.1047
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, sc]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction.
 | Hispanic/Latino | 7808 |
 | Bachelor's or higher | 33979 |
 
+## Districts
+
+- [SC-05](/us/states/sc/districts/05.md) — 100% (congressional)
+- [SC Senate District 27](/us/states/sc/districts/senate/27.md) — 86% (state senate)
+- [SC Senate District 16](/us/states/sc/districts/senate/16.md) — 7% (state senate)
+- [SC Senate District 17](/us/states/sc/districts/senate/17.md) — 7% (state senate)
+- [SC House District 45](/us/states/sc/districts/house/45.md) — 47% (state house)
+- [SC House District 65](/us/states/sc/districts/house/65.md) — 25% (state house)
+- [SC House District 53](/us/states/sc/districts/house/53.md) — 17% (state house)
+- [SC House District 44](/us/states/sc/districts/house/44.md) — 10% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

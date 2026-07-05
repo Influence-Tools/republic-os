@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 88"
+represents: "us/states/mt/districts/house/88"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Overstreet
 
 Current MT House District 88 (MT State House of Representatives District 88).
+
+Represents [MT State House of Representatives District 88](/us/states/mt/districts/house/88.md).
 
 ## Sources
 

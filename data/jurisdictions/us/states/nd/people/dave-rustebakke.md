@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 20"
+represents: "us/states/nd/districts/house/20"
 tenure:
   start: "2026-04-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dave Rustebakke
 
 Current ND House District 20 (ND State House of Representatives District 20).
+
+Represents [ND State House of Representatives District 20](/us/states/nd/districts/house/20.md).
 
 ## Sources
 

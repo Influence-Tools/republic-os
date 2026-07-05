@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 34"
+represents: "us/states/tx/districts/house/34"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Denise Villalobos
 
 Current TX House District 34 (TX State House of Representatives District 34).
+
+Represents [TX State House of Representatives District 34](/us/states/tx/districts/house/34.md).
 
 ## Sources
 

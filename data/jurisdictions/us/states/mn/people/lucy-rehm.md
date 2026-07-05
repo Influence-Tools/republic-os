@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 48B"
+represents: "us/states/mn/districts/house/48b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lucy Rehm
 
 Current MN House District 48B (MN State House of Representatives District 48B).
+
+Represents [MN State House of Representatives District 48B](/us/states/mn/districts/house/48b.md).
 
 ## Sources
 

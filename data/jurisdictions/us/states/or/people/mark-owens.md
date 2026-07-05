@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 60"
+represents: "us/states/or/districts/house/60"
 tenure:
   start: "2020-01-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Owens
 
 Current OR House District 60 (OR State House of Representatives District 60).
+
+Represents [OR State House of Representatives District 60](/us/states/or/districts/house/60.md).
 
 ## Sources
 

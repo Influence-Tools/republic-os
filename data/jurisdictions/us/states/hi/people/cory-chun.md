@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 35"
+represents: "us/states/hi/districts/house/35"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cory Chun
 
 Current HI House District 35 (HI State House of Representatives District 35).
+
+Represents [HI State House of Representatives District 35](/us/states/hi/districts/house/35.md).
 
 ## Sources
 

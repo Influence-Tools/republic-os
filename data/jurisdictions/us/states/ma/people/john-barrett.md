@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Berkshire"
+represents: "us/states/ma/districts/house/1st-berkshire"
 tenure:
   start: "2017-11-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Barrett
 
 Current MA House District 1st Berkshire (MA State House of Representatives District 1st Berkshire).
+
+Represents [MA State House of Representatives District 1st Berkshire](/us/states/ma/districts/house/1st-berkshire.md).
 
 ## Sources
 

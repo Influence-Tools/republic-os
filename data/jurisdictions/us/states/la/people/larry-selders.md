@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 14"
+represents: "us/states/la/districts/senate/14"
 tenure:
   start: "2025-03-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Selders
 
 Current LA Senate District 14 (LA State Senate District 14).
+
+Represents [LA State Senate District 14](/us/states/la/districts/senate/14.md).
 
 ## Sources
 

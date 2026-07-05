@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 45"
+represents: "us/states/il/districts/senate/45"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Andrew Chesney
 
 Current IL Senate District 45 (IL State Senate District 45).
+
+Represents [IL State Senate District 45](/us/states/il/districts/senate/45.md).
 
 ## Sources
 

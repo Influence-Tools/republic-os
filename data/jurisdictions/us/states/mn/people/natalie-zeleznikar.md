@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 3B"
+represents: "us/states/mn/districts/house/3b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Natalie Zeleznikar
 
 Current MN House District 3B (MN State House of Representatives District 3B).
+
+Represents [MN State House of Representatives District 3B](/us/states/mn/districts/house/3b.md).
 
 ## Sources
 

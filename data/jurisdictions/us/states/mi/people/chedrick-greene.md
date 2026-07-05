@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State Senate District 35"
+represents: "us/states/mi/districts/senate/35"
 tenure:
   start: "2026-05-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chedrick Greene
 
 Current MI Senate District 35 (MI State Senate District 35).
+
+Represents [MI State Senate District 35](/us/states/mi/districts/senate/35.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Rutland-Windsor"
+represents: "us/states/vt/districts/house/rutland-windsor"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Winter
 
 Current VT House District Rutland-Windsor (VT State House of Representatives District Rutland-Windsor).
+
+Represents [VT State House of Representatives District Rutland-Windsor](/us/states/vt/districts/house/rutland-windsor.md).
 
 ## Sources
 

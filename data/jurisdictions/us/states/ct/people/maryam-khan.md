@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 5"
+represents: "us/states/ct/districts/house/5"
 tenure:
   start: "2022-03-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maryam Khan
 
 Current CT House District 5 (CT State House of Representatives District 5).
+
+Represents [CT State House of Representatives District 5](/us/states/ct/districts/house/5.md).
 
 ## Sources
 

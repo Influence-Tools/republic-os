@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 34"
+represents: "us/states/id/districts/senate/34"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Ricks
 
 Current ID Senate District 34 (ID State Senate District 34).
+
+Represents [ID State Senate District 34](/us/states/id/districts/senate/34.md).
 
 ## Sources
 

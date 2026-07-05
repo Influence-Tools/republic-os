@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 28"
+represents: "us/states/or/districts/house/28"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dacia Grayber
 
 Current OR House District 28 (OR State House of Representatives District 28).
+
+Represents [OR State House of Representatives District 28](/us/states/or/districts/house/28.md).
 
 ## Sources
 

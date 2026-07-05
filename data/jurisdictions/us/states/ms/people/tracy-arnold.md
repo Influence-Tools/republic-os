@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 3"
+represents: "us/states/ms/districts/house/3"
 tenure:
   start: "2012-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tracy Arnold
 
 Current MS House District 3 (MS State House of Representatives District 3).
+
+Represents [MS State House of Representatives District 3](/us/states/ms/districts/house/3.md).
 
 ## Sources
 

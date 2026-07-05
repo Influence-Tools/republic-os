@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 10"
+represents: "us/states/md/districts/house/10"
 tenure:
   start: "1997-10-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adrienne Jones
 
 Current MD House District 10 (MD State House of Representatives District 10).
+
+Represents [MD State House of Representatives District 10](/us/states/md/districts/house/10.md).
 
 ## Sources
 

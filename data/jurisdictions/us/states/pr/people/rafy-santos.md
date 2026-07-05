@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 6"
+represents: "us/states/pr/districts/senate/6"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rafy Santos
 
 Current PR Senate District 6 (PR State Senate District 6).
+
+Represents [PR State Senate District 6](/us/states/pr/districts/senate/6.md).
 
 ## Sources
 

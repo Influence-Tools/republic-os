@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 49"
+represents: "us/states/ut/districts/house/49"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Candice Pierucci
 
 Current UT House District 49 (UT State House of Representatives District 49).
+
+Represents [UT State House of Representatives District 49](/us/states/ut/districts/house/49.md).
 
 ## Sources
 

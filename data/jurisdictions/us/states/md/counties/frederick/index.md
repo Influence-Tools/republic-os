@@ -22,9 +22,33 @@ demographics:
   race_native: 938
   hispanic: 36962
   bachelors_plus: 130282
+districts:
+  - to: "us/states/md/districts/06"
+    rel: in-district
+    area_weight: 0.997
+  - to: "us/states/md/districts/senate/4"
+    rel: in-district
+    area_weight: 0.7841
+  - to: "us/states/md/districts/senate/2"
+    rel: in-district
+    area_weight: 0.1168
+  - to: "us/states/md/districts/senate/3"
+    rel: in-district
+    area_weight: 0.0967
+  - to: "us/states/md/districts/house/4"
+    rel: in-district
+    area_weight: 0.7841
+  - to: "us/states/md/districts/house/2a"
+    rel: in-district
+    area_weight: 0.1168
+  - to: "us/states/md/districts/house/3"
+    rel: in-district
+    area_weight: 0.0967
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, md]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 36962 |
 | Bachelor's or higher | 130282 |
 
+## Districts
+
+- [MD-06](/us/states/md/districts/06.md) — 100% (congressional)
+- [MD Senate District 4](/us/states/md/districts/senate/4.md) — 78% (state senate)
+- [MD Senate District 2](/us/states/md/districts/senate/2.md) — 12% (state senate)
+- [MD Senate District 3](/us/states/md/districts/senate/3.md) — 10% (state senate)
+- [MD House District 4](/us/states/md/districts/house/4.md) — 78% (state house)
+- [MD House District 2A](/us/states/md/districts/house/2a.md) — 12% (state house)
+- [MD House District 3](/us/states/md/districts/house/3.md) — 10% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

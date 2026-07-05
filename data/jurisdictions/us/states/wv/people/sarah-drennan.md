@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 20"
+represents: "us/states/wv/districts/house/20"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sarah Drennan
 
 Current WV House District 20 (WV State House of Representatives District 20).
+
+Represents [WV State House of Representatives District 20](/us/states/wv/districts/house/20.md).
 
 ## Sources
 

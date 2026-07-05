@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 23"
+represents: "us/states/wi/districts/senate/23"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jesse James
 
 Current WI Senate District 23 (WI State Senate District 23).
+
+Represents [WI State Senate District 23](/us/states/wi/districts/senate/23.md).
 
 ## Sources
 

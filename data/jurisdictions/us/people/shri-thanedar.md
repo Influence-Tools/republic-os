@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 13"
+represents: "us/states/mi/districts/13"
 committees:
   - name: "House Committee on Agriculture"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Shri Thanedar
 
 Current U.S. House of Representatives - MI-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/mi/districts/13.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 100"
+represents: "us/states/fl/districts/house/100"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chip LaMarca
 
 Current FL House District 100 (FL State House of Representatives District 100).
+
+Represents [FL State House of Representatives District 100](/us/states/fl/districts/house/100.md).
 
 ## Sources
 

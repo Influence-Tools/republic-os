@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 28"
+represents: "us/states/nj/districts/house/28"
 tenure:
   start: "2008-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cleopatra Tucker
 
 Current NJ House District 28 (NJ State House of Representatives District 28).
+
+Represents [NJ State House of Representatives District 28](/us/states/nj/districts/house/28.md).
 
 ## Sources
 

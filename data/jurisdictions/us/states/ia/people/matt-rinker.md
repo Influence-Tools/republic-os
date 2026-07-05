@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 99"
+represents: "us/states/ia/districts/house/99"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Rinker
 
 Current IA House District 99 (IA State House of Representatives District 99).
+
+Represents [IA State House of Representatives District 99](/us/states/ia/districts/house/99.md).
 
 ## Sources
 

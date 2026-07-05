@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 15"
+represents: "us/states/md/districts/house/15"
 tenure:
   start: "2013-10-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Fraser-Hidalgo
 
 Current MD House District 15 (MD State House of Representatives District 15).
+
+Represents [MD State House of Representatives District 15](/us/states/md/districts/house/15.md).
 
 ## Sources
 

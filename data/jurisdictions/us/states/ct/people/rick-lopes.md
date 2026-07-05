@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 6"
+represents: "us/states/ct/districts/senate/6"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rick Lopes
 
 Current CT Senate District 6 (CT State Senate District 6).
+
+Represents [CT State Senate District 6](/us/states/ct/districts/senate/6.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 12th Essex"
+represents: "us/states/ma/districts/house/12th-essex"
 tenure:
   start: "2016-03-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Walsh
 
 Current MA House District 12th Essex (MA State House of Representatives District 12th Essex).
+
+Represents [MA State House of Representatives District 12th Essex](/us/states/ma/districts/house/12th-essex.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Second Plymouth and Norfolk"
+represents: "us/states/ma/districts/senate/second-plymouth-and-norfolk"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Brady
 
 Current MA Senate District Second Plymouth and Norfolk (MA State Senate District Second Plymouth and Norfolk).
+
+Represents [MA State Senate District Second Plymouth and Norfolk](/us/states/ma/districts/senate/second-plymouth-and-norfolk.md).
 
 ## Sources
 

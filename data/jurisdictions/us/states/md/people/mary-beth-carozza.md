@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 38"
+represents: "us/states/md/districts/senate/38"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Beth Carozza
 
 Current MD Senate District 38 (MD State Senate District 38).
+
+Represents [MD State Senate District 38](/us/states/md/districts/senate/38.md).
 
 ## Sources
 

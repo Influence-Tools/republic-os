@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 35"
+represents: "us/states/ia/districts/house/35"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Bagniewski
 
 Current IA House District 35 (IA State House of Representatives District 35).
+
+Represents [IA State House of Representatives District 35](/us/states/ia/districts/house/35.md).
 
 ## Sources
 

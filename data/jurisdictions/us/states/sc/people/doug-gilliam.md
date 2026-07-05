@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 42"
+represents: "us/states/sc/districts/house/42"
 tenure:
   start: "2018-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Doug Gilliam
 
 Current SC House District 42 (SC State House of Representatives District 42).
+
+Represents [SC State House of Representatives District 42](/us/states/sc/districts/house/42.md).
 
 ## Sources
 

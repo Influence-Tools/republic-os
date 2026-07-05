@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 9"
+represents: "us/states/wa/districts/09"
 committees:
   - name: "House Committee on Armed Services"
     role: "ranking-member"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Adam Smith
 
 Current U.S. House of Representatives - WA-9 (Congressional District 9).
+
+Represents [Congressional District 9](/us/states/wa/districts/09.md).
 
 ## Committees
 

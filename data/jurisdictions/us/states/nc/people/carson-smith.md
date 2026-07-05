@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 16"
+represents: "us/states/nc/districts/house/16"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carson Smith
 
 Current NC House District 16 (NC State House of Representatives District 16).
+
+Represents [NC State House of Representatives District 16](/us/states/nc/districts/house/16.md).
 
 ## Sources
 

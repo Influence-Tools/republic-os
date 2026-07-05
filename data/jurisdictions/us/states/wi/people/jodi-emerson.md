@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 91"
+represents: "us/states/wi/districts/house/91"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jodi Emerson
 
 Current WI House District 91 (WI State House of Representatives District 91).
+
+Represents [WI State House of Representatives District 91](/us/states/wi/districts/house/91.md).
 
 ## Sources
 

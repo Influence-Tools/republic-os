@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 22"
+represents: "us/states/nh/districts/senate/22"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daryl Abbas
 
 Current NH Senate District 22 (NH State Senate District 22).
+
+Represents [NH State Senate District 22](/us/states/nh/districts/senate/22.md).
 
 ## Sources
 

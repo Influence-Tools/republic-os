@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 17"
+represents: "us/states/mo/districts/senate/17"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Maggie Nurrenbern
 
 Current MO Senate District 17 (MO State Senate District 17).
+
+Represents [MO State Senate District 17](/us/states/mo/districts/senate/17.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 74"
+represents: "us/states/al/districts/house/74"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Phillip Ensler
 
 Current AL House District 74 (AL State House of Representatives District 74).
+
+Represents [AL State House of Representatives District 74](/us/states/al/districts/house/74.md).
 
 ## Sources
 

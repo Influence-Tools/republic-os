@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 28"
+represents: "us/states/al/districts/house/28"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mack Butler
 
 Current AL House District 28 (AL State House of Representatives District 28).
+
+Represents [AL State House of Representatives District 28](/us/states/al/districts/house/28.md).
 
 ## Sources
 

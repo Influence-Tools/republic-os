@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 94"
+represents: "us/states/pa/districts/house/94"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy Fink
 
 Current PA House District 94 (PA State House of Representatives District 94).
+
+Represents [PA State House of Representatives District 94](/us/states/pa/districts/house/94.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 47"
+represents: "us/states/nc/districts/house/47"
 tenure:
   start: "2025-10-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Lowery
 
 Current NC House District 47 (NC State House of Representatives District 47).
+
+Represents [NC State House of Representatives District 47](/us/states/nc/districts/house/47.md).
 
 ## Sources
 

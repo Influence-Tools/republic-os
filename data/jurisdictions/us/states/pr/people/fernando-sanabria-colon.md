@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 30"
+represents: "us/states/pr/districts/house/30"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Fernando Sanabria Colón
 
 Current PR House District 30 (PR State House of Representatives District 30).
+
+Represents [PR State House of Representatives District 30](/us/states/pr/districts/house/30.md).
 
 ## Sources
 

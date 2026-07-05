@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 153"
+represents: "us/states/mo/districts/house/153"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keith Elliott
 
 Current MO House District 153 (MO State House of Representatives District 153).
+
+Represents [MO State House of Representatives District 153](/us/states/mo/districts/house/153.md).
 
 ## Sources
 

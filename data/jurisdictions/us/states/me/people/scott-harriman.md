@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 94"
+represents: "us/states/me/districts/house/94"
 tenure:
   start: "2026-02-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Harriman
 
 Current ME House District 94 (ME State House of Representatives District 94).
+
+Represents [ME State House of Representatives District 94](/us/states/me/districts/house/94.md).
 
 ## Sources
 

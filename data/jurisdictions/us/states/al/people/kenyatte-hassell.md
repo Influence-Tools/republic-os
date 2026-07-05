@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 78"
+represents: "us/states/al/districts/house/78"
 tenure:
   start: "2021-09-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kenyatté Hassell
 
 Current AL House District 78 (AL State House of Representatives District 78).
+
+Represents [AL State House of Representatives District 78](/us/states/al/districts/house/78.md).
 
 ## Sources
 

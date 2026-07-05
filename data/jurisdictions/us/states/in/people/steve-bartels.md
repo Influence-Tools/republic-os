@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 74"
+represents: "us/states/in/districts/house/74"
 tenure:
   start: "2017-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Bartels
 
 Current IN House District 74 (IN State House of Representatives District 74).
+
+Represents [IN State House of Representatives District 74](/us/states/in/districts/house/74.md).
 
 ## Sources
 

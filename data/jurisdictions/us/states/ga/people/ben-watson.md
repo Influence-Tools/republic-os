@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 1"
+represents: "us/states/ga/districts/senate/1"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben Watson
 
 Current GA Senate District 1 (GA State Senate District 1).
+
+Represents [GA State Senate District 1](/us/states/ga/districts/senate/1.md).
 
 ## Sources
 

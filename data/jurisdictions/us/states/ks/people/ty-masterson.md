@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State Senate District 16"
+represents: "us/states/ks/districts/senate/16"
 tenure:
   start: "2009-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ty Masterson
 
 Current KS Senate District 16 (KS State Senate District 16).
+
+Represents [KS State Senate District 16](/us/states/ks/districts/senate/16.md).
 
 ## Sources
 

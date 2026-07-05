@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Washington-Orange"
+represents: "us/states/vt/districts/house/washington-orange"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Topper McFaun
 
 Current VT House District Washington-Orange (VT State House of Representatives District Washington-Orange).
+
+Represents [VT State House of Representatives District Washington-Orange](/us/states/vt/districts/house/washington-orange.md).
 
 ## Sources
 

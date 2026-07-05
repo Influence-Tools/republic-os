@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 44"
+represents: "us/states/ca/districts/house/44"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick Schultz
 
 Current CA House District 44 (CA State House of Representatives District 44).
+
+Represents [CA State House of Representatives District 44](/us/states/ca/districts/house/44.md).
 
 ## Sources
 

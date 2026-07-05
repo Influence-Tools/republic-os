@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 33C"
+represents: "us/states/md/districts/house/33c"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Bagnall Tudball
 
 Current MD House District 33C (MD State House of Representatives District 33C).
+
+Represents [MD State House of Representatives District 33C](/us/states/md/districts/house/33c.md).
 
 ## Sources
 

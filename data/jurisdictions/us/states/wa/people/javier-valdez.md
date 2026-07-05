@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 46"
+represents: "us/states/wa/districts/senate/46"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Javier Valdez
 
 Current WA Senate District 46 (WA State Senate District 46).
+
+Represents [WA State Senate District 46](/us/states/wa/districts/senate/46.md).
 
 ## Sources
 

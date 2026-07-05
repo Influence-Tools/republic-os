@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 2A"
+represents: "us/states/mn/districts/house/2a"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bidal Duran
 
 Current MN House District 2A (MN State House of Representatives District 2A).
+
+Represents [MN State House of Representatives District 2A](/us/states/mn/districts/house/2a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 29"
+represents: "us/states/me/districts/senate/29"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anne Carney
 
 Current ME Senate District 29 (ME State Senate District 29).
+
+Represents [ME State Senate District 29](/us/states/me/districts/senate/29.md).
 
 ## Sources
 

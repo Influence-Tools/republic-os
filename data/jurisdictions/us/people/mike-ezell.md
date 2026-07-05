@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MS"
 district: "Congressional District 4"
+represents: "us/states/ms/districts/04"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Mike Ezell
 
 Current U.S. House of Representatives - MS-4 (Congressional District 4).
+
+Represents [Congressional District 4](/us/states/ms/districts/04.md).
 
 ## Committees
 

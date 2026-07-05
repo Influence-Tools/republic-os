@@ -22,9 +22,33 @@ demographics:
   race_native: 1154
   hispanic: 1770
   bachelors_plus: 11184
+districts:
+  - to: "us/states/sd/districts/00"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/sd/districts/senate/1"
+    rel: in-district
+    area_weight: 0.9538
+  - to: "us/states/sd/districts/senate/23"
+    rel: in-district
+    area_weight: 0.025
+  - to: "us/states/sd/districts/senate/3"
+    rel: in-district
+    area_weight: 0.0212
+  - to: "us/states/sd/districts/house/1"
+    rel: in-district
+    area_weight: 0.9538
+  - to: "us/states/sd/districts/house/23"
+    rel: in-district
+    area_weight: 0.025
+  - to: "us/states/sd/districts/house/3"
+    rel: in-district
+    area_weight: 0.0212
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, sd]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 1770 |
 | Bachelor's or higher | 11184 |
 
+## Districts
+
+- [SD-00](/us/states/sd/districts/00.md) — 100% (congressional)
+- [SD Senate District 1](/us/states/sd/districts/senate/1.md) — 95% (state senate)
+- [SD Senate District 23](/us/states/sd/districts/senate/23.md) — 2% (state senate)
+- [SD Senate District 3](/us/states/sd/districts/senate/3.md) — 2% (state senate)
+- [SD House District 1](/us/states/sd/districts/house/1.md) — 95% (state house)
+- [SD House District 23](/us/states/sd/districts/house/23.md) — 2% (state house)
+- [SD House District 3](/us/states/sd/districts/house/3.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

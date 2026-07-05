@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 38"
+represents: "us/states/hi/districts/house/38"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lauren Matsumoto
 
 Current HI House District 38 (HI State House of Representatives District 38).
+
+Represents [HI State House of Representatives District 38](/us/states/hi/districts/house/38.md).
 
 ## Sources
 

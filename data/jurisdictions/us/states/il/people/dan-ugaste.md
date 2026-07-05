@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 65"
+represents: "us/states/il/districts/house/65"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Ugaste
 
 Current IL House District 65 (IL State House of Representatives District 65).
+
+Represents [IL State House of Representatives District 65](/us/states/il/districts/house/65.md).
 
 ## Sources
 

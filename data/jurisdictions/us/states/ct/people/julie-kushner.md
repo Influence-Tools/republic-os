@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 24"
+represents: "us/states/ct/districts/senate/24"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julie Kushner
 
 Current CT Senate District 24 (CT State Senate District 24).
+
+Represents [CT State Senate District 24](/us/states/ct/districts/senate/24.md).
 
 ## Sources
 

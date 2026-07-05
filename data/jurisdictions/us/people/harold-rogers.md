@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "KY"
 district: "Congressional District 5"
+represents: "us/states/ky/districts/05"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Harold Rogers
 
 Current U.S. House of Representatives - KY-5 (Congressional District 5).
+
+Represents [Congressional District 5](/us/states/ky/districts/05.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 41"
+represents: "us/states/fl/districts/house/41"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Antone
 
 Current FL House District 41 (FL State House of Representatives District 41).
+
+Represents [FL State House of Representatives District 41](/us/states/fl/districts/house/41.md).
 
 ## Sources
 

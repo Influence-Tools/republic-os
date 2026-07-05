@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 11"
+represents: "us/states/ia/districts/house/11"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Williams
 
 Current IA House District 11 (IA State House of Representatives District 11).
+
+Represents [IA State House of Representatives District 11](/us/states/ia/districts/house/11.md).
 
 ## Sources
 

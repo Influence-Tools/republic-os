@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MA"
 district: "Congressional District 7"
+represents: "us/states/ma/districts/07"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -52,6 +53,8 @@ timestamp: "2026-07-04"
 # Ayanna Pressley
 
 Current U.S. House of Representatives - MA-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/ma/districts/07.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 10th Hampden"
+represents: "us/states/ma/districts/house/10th-hampden"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carlos González
 
 Current MA House District 10th Hampden (MA State House of Representatives District 10th Hampden).
+
+Represents [MA State House of Representatives District 10th Hampden](/us/states/ma/districts/house/10th-hampden.md).
 
 ## Sources
 

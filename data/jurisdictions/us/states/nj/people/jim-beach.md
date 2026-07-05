@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State Senate District 6"
+represents: "us/states/nj/districts/senate/6"
 tenure:
   start: "2009-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Beach
 
 Current NJ Senate District 6 (NJ State Senate District 6).
+
+Represents [NJ State Senate District 6](/us/states/nj/districts/senate/6.md).
 
 ## Sources
 

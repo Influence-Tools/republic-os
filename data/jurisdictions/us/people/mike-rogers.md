@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "AL"
 district: "Congressional District 3"
+represents: "us/states/al/districts/03"
 committees:
   - name: "House Committee on Armed Services"
     role: "chair"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Mike Rogers
 
 Current U.S. House of Representatives - AL-3 (Congressional District 3).
+
+Represents [Congressional District 3](/us/states/al/districts/03.md).
 
 ## Committees
 

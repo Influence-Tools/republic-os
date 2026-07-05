@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 84"
+represents: "us/states/in/districts/house/84"
 tenure:
   start: "2010-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Morris
 
 Current IN House District 84 (IN State House of Representatives District 84).
+
+Represents [IN State House of Representatives District 84](/us/states/in/districts/house/84.md).
 
 ## Sources
 

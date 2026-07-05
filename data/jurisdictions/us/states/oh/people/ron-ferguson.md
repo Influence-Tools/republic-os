@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 96"
+represents: "us/states/oh/districts/house/96"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ron Ferguson
 
 Current OH House District 96 (OH State House of Representatives District 96).
+
+Represents [OH State House of Representatives District 96](/us/states/oh/districts/house/96.md).
 
 ## Sources
 

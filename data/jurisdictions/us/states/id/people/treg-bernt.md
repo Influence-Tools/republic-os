@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 21"
+represents: "us/states/id/districts/senate/21"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Treg Bernt
 
 Current ID Senate District 21 (ID State Senate District 21).
+
+Represents [ID State Senate District 21](/us/states/id/districts/senate/21.md).
 
 ## Sources
 

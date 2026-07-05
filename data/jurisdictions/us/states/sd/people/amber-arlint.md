@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State House of Representatives District 12"
+represents: "us/states/sd/districts/house/12"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amber Arlint
 
 Current SD House District 12 (SD State House of Representatives District 12).
+
+Represents [SD State House of Representatives District 12](/us/states/sd/districts/house/12.md).
 
 ## Sources
 

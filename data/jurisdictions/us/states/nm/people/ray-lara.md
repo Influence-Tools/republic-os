@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 34"
+represents: "us/states/nm/districts/house/34"
 tenure:
   start: "2019-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Lara
 
 Current NM House District 34 (NM State House of Representatives District 34).
+
+Represents [NM State House of Representatives District 34](/us/states/nm/districts/house/34.md).
 
 ## Sources
 

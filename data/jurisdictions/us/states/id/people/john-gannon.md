@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 17A"
+represents: "us/states/id/districts/house/17a"
 tenure:
   start: "2012-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Gannon
 
 Current ID House District 17A (ID State House of Representatives District 17A).
+
+Represents [ID State House of Representatives District 17A](/us/states/id/districts/house/17a.md).
 
 ## Sources
 

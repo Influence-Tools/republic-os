@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 51"
+represents: "us/states/ar/districts/house/51"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cindy Crawford
 
 Current AR House District 51 (AR State House of Representatives District 51).
+
+Represents [AR State House of Representatives District 51](/us/states/ar/districts/house/51.md).
 
 ## Sources
 

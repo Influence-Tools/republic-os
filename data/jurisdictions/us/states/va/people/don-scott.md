@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 88"
+represents: "us/states/va/districts/house/88"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Don Scott
 
 Current VA House District 88 (VA State House of Representatives District 88).
+
+Represents [VA State House of Representatives District 88](/us/states/va/districts/house/88.md).
 
 ## Sources
 

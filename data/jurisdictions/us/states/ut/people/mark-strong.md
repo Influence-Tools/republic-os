@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 47"
+represents: "us/states/ut/districts/house/47"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Strong
 
 Current UT House District 47 (UT State House of Representatives District 47).
+
+Represents [UT State House of Representatives District 47](/us/states/ut/districts/house/47.md).
 
 ## Sources
 

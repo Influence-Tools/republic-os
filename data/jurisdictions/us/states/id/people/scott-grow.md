@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 14"
+represents: "us/states/id/districts/senate/14"
 tenure:
   start: "2018-08-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Grow
 
 Current ID Senate District 14 (ID State Senate District 14).
+
+Represents [ID State Senate District 14](/us/states/id/districts/senate/14.md).
 
 ## Sources
 

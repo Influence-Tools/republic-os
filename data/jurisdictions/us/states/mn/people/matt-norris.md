@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 32B"
+represents: "us/states/mn/districts/house/32b"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Norris
 
 Current MN House District 32B (MN State House of Representatives District 32B).
+
+Represents [MN State House of Representatives District 32B](/us/states/mn/districts/house/32b.md).
 
 ## Sources
 

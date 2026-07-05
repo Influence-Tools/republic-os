@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 30"
+represents: "us/states/oh/districts/senate/30"
 tenure:
   start: "2023-12-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Chavez
 
 Current OH Senate District 30 (OH State Senate District 30).
+
+Represents [OH State Senate District 30](/us/states/oh/districts/senate/30.md).
 
 ## Sources
 

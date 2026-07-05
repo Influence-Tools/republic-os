@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 154"
+represents: "us/states/pa/districts/house/154"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Napoleon Nelson
 
 Current PA House District 154 (PA State House of Representatives District 154).
+
+Represents [PA State House of Representatives District 154](/us/states/pa/districts/house/154.md).
 
 ## Sources
 

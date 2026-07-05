@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 27"
+represents: "us/states/ct/districts/house/27"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gary Turco
 
 Current CT House District 27 (CT State House of Representatives District 27).
+
+Represents [CT State House of Representatives District 27](/us/states/ct/districts/house/27.md).
 
 ## Sources
 

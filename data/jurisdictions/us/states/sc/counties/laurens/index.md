@@ -22,9 +22,33 @@ demographics:
   race_native: 471
   hispanic: 4614
   bachelors_plus: 11154
+districts:
+  - to: "us/states/sc/districts/03"
+    rel: in-district
+    area_weight: 0.9977
+  - to: "us/states/sc/districts/senate/9"
+    rel: in-district
+    area_weight: 0.9997
+  - to: "us/states/sc/districts/house/14"
+    rel: in-district
+    area_weight: 0.616
+  - to: "us/states/sc/districts/house/42"
+    rel: in-district
+    area_weight: 0.209
+  - to: "us/states/sc/districts/house/16"
+    rel: in-district
+    area_weight: 0.0804
+  - to: "us/states/sc/districts/house/11"
+    rel: in-district
+    area_weight: 0.0625
+  - to: "us/states/sc/districts/house/13"
+    rel: in-district
+    area_weight: 0.0319
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, sc]
 timestamp: "2026-07-03"
@@ -56,6 +80,17 @@ County jurisdiction.
 | Hispanic/Latino | 4614 |
 | Bachelor's or higher | 11154 |
 
+## Districts
+
+- [SC-03](/us/states/sc/districts/03.md) — 100% (congressional)
+- [SC Senate District 9](/us/states/sc/districts/senate/9.md) — 100% (state senate)
+- [SC House District 14](/us/states/sc/districts/house/14.md) — 62% (state house)
+- [SC House District 42](/us/states/sc/districts/house/42.md) — 21% (state house)
+- [SC House District 16](/us/states/sc/districts/house/16.md) — 8% (state house)
+- [SC House District 11](/us/states/sc/districts/house/11.md) — 6% (state house)
+- [SC House District 13](/us/states/sc/districts/house/13.md) — 3% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

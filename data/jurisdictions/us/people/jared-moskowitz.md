@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 23"
+represents: "us/states/fl/districts/23"
 committees:
   - name: "House Committee on Foreign Affairs"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Jared Moskowitz
 
 Current U.S. House of Representatives - FL-23 (Congressional District 23).
+
+Represents [Congressional District 23](/us/states/fl/districts/23.md).
 
 ## Committees
 

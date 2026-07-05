@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 48A"
+represents: "us/states/mn/districts/house/48a"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Nash
 
 Current MN House District 48A (MN State House of Representatives District 48A).
+
+Represents [MN State House of Representatives District 48A](/us/states/mn/districts/house/48a.md).
 
 ## Sources
 

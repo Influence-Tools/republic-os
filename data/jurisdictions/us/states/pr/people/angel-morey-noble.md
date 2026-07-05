@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 6"
+represents: "us/states/pr/districts/house/6"
 tenure:
   start: "2021-06-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ángel Morey Noble
 
 Current PR House District 6 (PR State House of Representatives District 6).
+
+Represents [PR State House of Representatives District 6](/us/states/pr/districts/house/6.md).
 
 ## Sources
 

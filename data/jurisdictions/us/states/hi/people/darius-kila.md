@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 44"
+represents: "us/states/hi/districts/house/44"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Darius Kila
 
 Current HI House District 44 (HI State House of Representatives District 44).
+
+Represents [HI State House of Representatives District 44](/us/states/hi/districts/house/44.md).
 
 ## Sources
 

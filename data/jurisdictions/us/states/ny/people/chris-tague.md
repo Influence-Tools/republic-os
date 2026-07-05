@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 102"
+represents: "us/states/ny/districts/house/102"
 tenure:
   start: "2018-05-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Tague
 
 Current NY House District 102 (NY State House of Representatives District 102).
+
+Represents [NY State House of Representatives District 102](/us/states/ny/districts/house/102.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 113"
+represents: "us/states/tx/districts/house/113"
 tenure:
   start: "2019-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rhetta Bowers
 
 Current TX House District 113 (TX State House of Representatives District 113).
+
+Represents [TX State House of Representatives District 113](/us/states/tx/districts/house/113.md).
 
 ## Sources
 

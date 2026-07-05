@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 27"
+represents: "us/states/nc/districts/house/27"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rodney Pierce
 
 Current NC House District 27 (NC State House of Representatives District 27).
+
+Represents [NC State House of Representatives District 27](/us/states/nc/districts/house/27.md).
 
 ## Sources
 

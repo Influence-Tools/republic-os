@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 26"
+represents: "us/states/nd/districts/senate/26"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dale Patten
 
 Current ND Senate District 26 (ND State Senate District 26).
+
+Represents [ND State Senate District 26](/us/states/nd/districts/senate/26.md).
 
 ## Sources
 

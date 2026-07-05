@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "TX"
 district: "Congressional District 25"
+represents: "us/states/tx/districts/25"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Roger Williams
 
 Current U.S. House of Representatives - TX-25 (Congressional District 25).
+
+Represents [Congressional District 25](/us/states/tx/districts/25.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 42"
+represents: "us/states/md/districts/senate/42"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris West
 
 Current MD Senate District 42 (MD State Senate District 42).
+
+Represents [MD State Senate District 42](/us/states/md/districts/senate/42.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 14"
+represents: "us/states/ga/districts/14"
 tenure:
   start: "2026-04-14"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Clay Fuller
 
 Current U.S. House of Representatives - GA-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/ga/districts/14.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 3"
+represents: "us/states/nv/districts/house/3"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Selena Torres-Fossett
 
 Current NV House District 3 (NV State House of Representatives District 3).
+
+Represents [NV State House of Representatives District 3](/us/states/nv/districts/house/3.md).
 
 ## Sources
 

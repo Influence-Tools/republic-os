@@ -22,9 +22,30 @@ demographics:
   race_native: 2968
   hispanic: 71367
   bachelors_plus: 41167
+districts:
+  - to: "us/states/co/districts/03"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/co/districts/senate/3"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/co/districts/house/47"
+    rel: in-district
+    area_weight: 0.5836
+  - to: "us/states/co/districts/house/46"
+    rel: in-district
+    area_weight: 0.2815
+  - to: "us/states/co/districts/house/60"
+    rel: in-district
+    area_weight: 0.0786
+  - to: "us/states/co/districts/house/62"
+    rel: in-district
+    area_weight: 0.0563
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, co]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 71367 |
 | Bachelor's or higher | 41167 |
 
+## Districts
+
+- [CO-03](/us/states/co/districts/03.md) — 100% (congressional)
+- [CO Senate District 3](/us/states/co/districts/senate/3.md) — 100% (state senate)
+- [CO House District 47](/us/states/co/districts/house/47.md) — 58% (state house)
+- [CO House District 46](/us/states/co/districts/house/46.md) — 28% (state house)
+- [CO House District 60](/us/states/co/districts/house/60.md) — 8% (state house)
+- [CO House District 62](/us/states/co/districts/house/62.md) — 6% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District S"
+represents: "us/states/ak/districts/senate/s"
 tenure:
   start: "1995-01-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lyman Hoffman
 
 Current AK Senate District S (AK State Senate District S).
+
+Represents [AK State Senate District S](/us/states/ak/districts/senate/s.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 2"
+represents: "us/states/ut/districts/house/2"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Petersen
 
 Current UT House District 2 (UT State House of Representatives District 2).
+
+Represents [UT State House of Representatives District 2](/us/states/ut/districts/house/2.md).
 
 ## Sources
 

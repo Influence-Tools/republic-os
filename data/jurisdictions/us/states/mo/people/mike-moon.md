@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State Senate District 29"
+represents: "us/states/mo/districts/senate/29"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Moon
 
 Current MO Senate District 29 (MO State Senate District 29).
+
+Represents [MO State Senate District 29](/us/states/mo/districts/senate/29.md).
 
 ## Sources
 

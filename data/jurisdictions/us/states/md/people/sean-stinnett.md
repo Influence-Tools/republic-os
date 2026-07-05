@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 41"
+represents: "us/states/md/districts/house/41"
 tenure:
   start: "2025-03-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sean Stinnett
 
 Current MD House District 41 (MD State House of Representatives District 41).
+
+Represents [MD State House of Representatives District 41](/us/states/md/districts/house/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 32"
+represents: "us/states/ms/districts/senate/32"
 tenure:
   start: "2021-12-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rod Hickman
 
 Current MS Senate District 32 (MS State Senate District 32).
+
+Represents [MS State Senate District 32](/us/states/ms/districts/senate/32.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 47"
+represents: "us/states/tn/districts/house/47"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rush Bricken
 
 Current TN House District 47 (TN State House of Representatives District 47).
+
+Represents [TN State House of Representatives District 47](/us/states/tn/districts/house/47.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 16"
+represents: "us/states/la/districts/house/16"
 tenure:
   start: "2021-12-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adrian Fisher
 
 Current LA House District 16 (LA State House of Representatives District 16).
+
+Represents [LA State House of Representatives District 16](/us/states/la/districts/house/16.md).
 
 ## Sources
 

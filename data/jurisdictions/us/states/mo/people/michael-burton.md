@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 92"
+represents: "us/states/mo/districts/house/92"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Burton
 
 Current MO House District 92 (MO State House of Representatives District 92).
+
+Represents [MO State House of Representatives District 92](/us/states/mo/districts/house/92.md).
 
 ## Sources
 

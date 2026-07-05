@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 62"
+represents: "us/states/mn/districts/senate/62"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Omar Fateh
 
 Current MN Senate District 62 (MN State Senate District 62).
+
+Represents [MN State Senate District 62](/us/states/mn/districts/senate/62.md).
 
 ## Sources
 

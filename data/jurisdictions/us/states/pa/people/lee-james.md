@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 64"
+represents: "us/states/pa/districts/house/64"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lee James
 
 Current PA House District 64 (PA State House of Representatives District 64).
+
+Represents [PA State House of Representatives District 64](/us/states/pa/districts/house/64.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 43"
+represents: "us/states/wy/districts/house/43"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Lucas
 
 Current WY House District 43 (WY State House of Representatives District 43).
+
+Represents [WY State House of Representatives District 43](/us/states/wy/districts/house/43.md).
 
 ## Sources
 

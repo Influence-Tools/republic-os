@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 20"
+represents: "us/states/ia/districts/senate/20"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Pike
 
 Current IA Senate District 20 (IA State Senate District 20).
+
+Represents [IA State Senate District 20](/us/states/ia/districts/senate/20.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 65"
+represents: "us/states/tx/districts/house/65"
 tenure:
   start: "2025-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mitch Little
 
 Current TX House District 65 (TX State House of Representatives District 65).
+
+Represents [TX State House of Representatives District 65](/us/states/tx/districts/house/65.md).
 
 ## Sources
 

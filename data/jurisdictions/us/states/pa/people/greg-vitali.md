@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 166"
+represents: "us/states/pa/districts/house/166"
 tenure:
   start: "1993-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Greg Vitali
 
 Current PA House District 166 (PA State House of Representatives District 166).
+
+Represents [PA State House of Representatives District 166](/us/states/pa/districts/house/166.md).
 
 ## Sources
 

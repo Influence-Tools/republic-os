@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 89"
+represents: "us/states/me/districts/house/89"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Lee
 
 Current ME House District 89 (ME State House of Representatives District 89).
+
+Represents [ME State House of Representatives District 89](/us/states/me/districts/house/89.md).
 
 ## Sources
 

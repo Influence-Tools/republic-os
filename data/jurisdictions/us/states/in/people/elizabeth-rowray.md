@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 35"
+represents: "us/states/in/districts/house/35"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elizabeth Rowray
 
 Current IN House District 35 (IN State House of Representatives District 35).
+
+Represents [IN State House of Representatives District 35](/us/states/in/districts/house/35.md).
 
 ## Sources
 

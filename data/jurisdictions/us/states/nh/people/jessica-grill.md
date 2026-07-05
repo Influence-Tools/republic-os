@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Hillsborough 18"
+represents: "us/states/nh/districts/house/hillsborough-18"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jessica Grill
 
 Current NH House District Hillsborough 18 (NH State House of Representatives District Hillsborough 18).
+
+Represents [NH State House of Representatives District Hillsborough 18](/us/states/nh/districts/house/hillsborough-18.md).
 
 ## Sources
 

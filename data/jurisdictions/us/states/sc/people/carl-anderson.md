@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 103"
+represents: "us/states/sc/districts/house/103"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carl Anderson
 
 Current SC House District 103 (SC State House of Representatives District 103).
+
+Represents [SC State House of Representatives District 103](/us/states/sc/districts/house/103.md).
 
 ## Sources
 

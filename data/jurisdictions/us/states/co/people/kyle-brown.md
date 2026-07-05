@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 12"
+represents: "us/states/co/districts/house/12"
 tenure:
   start: "2023-02-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kyle Brown
 
 Current CO House District 12 (CO State House of Representatives District 12).
+
+Represents [CO State House of Representatives District 12](/us/states/co/districts/house/12.md).
 
 ## Sources
 

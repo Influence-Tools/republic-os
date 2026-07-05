@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 140"
+represents: "us/states/me/districts/house/140"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wayne Parry
 
 Current ME House District 140 (ME State House of Representatives District 140).
+
+Represents [ME State House of Representatives District 140](/us/states/me/districts/house/140.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "WA"
 district: "Congressional District 1"
+represents: "us/states/wa/districts/01"
 committees:
   - name: "House Committee on Ways and Means"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Suzan K. DelBene
 
 Current U.S. House of Representatives - WA-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/wa/districts/01.md).
 
 ## Committees
 

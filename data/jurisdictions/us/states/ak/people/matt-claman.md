@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State Senate District H"
+represents: "us/states/ak/districts/senate/h"
 tenure:
   start: "2023-01-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Matt Claman
 
 Current AK Senate District H (AK State Senate District H).
+
+Represents [AK State Senate District H](/us/states/ak/districts/senate/h.md).
 
 ## Sources
 

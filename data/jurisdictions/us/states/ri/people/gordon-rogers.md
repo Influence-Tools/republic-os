@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 21"
+represents: "us/states/ri/districts/senate/21"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gordon Rogers
 
 Current RI Senate District 21 (RI State Senate District 21).
+
+Represents [RI State Senate District 21](/us/states/ri/districts/senate/21.md).
 
 ## Sources
 

@@ -22,9 +22,51 @@ demographics:
   race_native: 604
   hispanic: 45958
   bachelors_plus: 306773
+districts:
+  - to: "us/states/pa/districts/06"
+    rel: in-district
+    area_weight: 0.9956
+  - to: "us/states/pa/districts/senate/19"
+    rel: in-district
+    area_weight: 0.4322
+  - to: "us/states/pa/districts/senate/44"
+    rel: in-district
+    area_weight: 0.4004
+  - to: "us/states/pa/districts/senate/9"
+    rel: in-district
+    area_weight: 0.1671
+  - to: "us/states/pa/districts/house/13"
+    rel: in-district
+    area_weight: 0.25
+  - to: "us/states/pa/districts/house/158"
+    rel: in-district
+    area_weight: 0.1587
+  - to: "us/states/pa/districts/house/26"
+    rel: in-district
+    area_weight: 0.1438
+  - to: "us/states/pa/districts/house/74"
+    rel: in-district
+    area_weight: 0.1095
+  - to: "us/states/pa/districts/house/167"
+    rel: in-district
+    area_weight: 0.0947
+  - to: "us/states/pa/districts/house/155"
+    rel: in-district
+    area_weight: 0.0835
+  - to: "us/states/pa/districts/house/157"
+    rel: in-district
+    area_weight: 0.0729
+  - to: "us/states/pa/districts/house/156"
+    rel: in-district
+    area_weight: 0.0482
+  - to: "us/states/pa/districts/house/160"
+    rel: in-district
+    area_weight: 0.0383
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, pa]
 timestamp: "2026-07-03"
@@ -56,6 +98,23 @@ County jurisdiction.
 | Hispanic/Latino | 45958 |
 | Bachelor's or higher | 306773 |
 
+## Districts
+
+- [PA-06](/us/states/pa/districts/06.md) — 100% (congressional)
+- [PA Senate District 19](/us/states/pa/districts/senate/19.md) — 43% (state senate)
+- [PA Senate District 44](/us/states/pa/districts/senate/44.md) — 40% (state senate)
+- [PA Senate District 9](/us/states/pa/districts/senate/9.md) — 17% (state senate)
+- [PA House District 13](/us/states/pa/districts/house/13.md) — 25% (state house)
+- [PA House District 158](/us/states/pa/districts/house/158.md) — 16% (state house)
+- [PA House District 26](/us/states/pa/districts/house/26.md) — 14% (state house)
+- [PA House District 74](/us/states/pa/districts/house/74.md) — 11% (state house)
+- [PA House District 167](/us/states/pa/districts/house/167.md) — 9% (state house)
+- [PA House District 155](/us/states/pa/districts/house/155.md) — 8% (state house)
+- [PA House District 157](/us/states/pa/districts/house/157.md) — 7% (state house)
+- [PA House District 156](/us/states/pa/districts/house/156.md) — 5% (state house)
+- [PA House District 160](/us/states/pa/districts/house/160.md) — 4% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

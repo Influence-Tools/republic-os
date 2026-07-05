@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 45"
+represents: "us/states/tn/districts/house/45"
 tenure:
   start: "2018-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johnny Garrett
 
 Current TN House District 45 (TN State House of Representatives District 45).
+
+Represents [TN State House of Representatives District 45](/us/states/tn/districts/house/45.md).
 
 ## Sources
 

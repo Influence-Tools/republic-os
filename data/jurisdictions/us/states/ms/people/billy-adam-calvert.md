@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 83"
+represents: "us/states/ms/districts/house/83"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Billy Adam Calvert
 
 Current MS House District 83 (MS State House of Representatives District 83).
+
+Represents [MS State House of Representatives District 83](/us/states/ms/districts/house/83.md).
 
 ## Sources
 

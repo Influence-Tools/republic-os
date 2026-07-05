@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 30"
+represents: "us/states/wv/districts/house/30"
 tenure:
   start: "2024-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Eldridge
 
 Current WV House District 30 (WV State House of Representatives District 30).
+
+Represents [WV State House of Representatives District 30](/us/states/wv/districts/house/30.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 26"
+represents: "us/states/ca/districts/26"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -61,6 +62,8 @@ timestamp: "2026-07-04"
 # Julia Brownley
 
 Current U.S. House of Representatives - CA-26 (Congressional District 26).
+
+Represents [Congressional District 26](/us/states/ca/districts/26.md).
 
 ## Committees
 

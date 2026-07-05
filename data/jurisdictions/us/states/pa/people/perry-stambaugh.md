@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 86"
+represents: "us/states/pa/districts/house/86"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Perry Stambaugh
 
 Current PA House District 86 (PA State House of Representatives District 86).
+
+Represents [PA State House of Representatives District 86](/us/states/pa/districts/house/86.md).
 
 ## Sources
 

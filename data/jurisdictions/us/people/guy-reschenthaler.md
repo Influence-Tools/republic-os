@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "PA"
 district: "Congressional District 14"
+represents: "us/states/pa/districts/14"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Guy Reschenthaler
 
 Current U.S. House of Representatives - PA-14 (Congressional District 14).
+
+Represents [Congressional District 14](/us/states/pa/districts/14.md).
 
 ## Committees
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 35"
+represents: "us/states/ar/districts/senate/35"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tyler Dees
 
 Current AR Senate District 35 (AR State Senate District 35).
+
+Represents [AR State Senate District 35](/us/states/ar/districts/senate/35.md).
 
 ## Sources
 

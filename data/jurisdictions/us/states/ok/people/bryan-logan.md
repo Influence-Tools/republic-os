@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 8"
+represents: "us/states/ok/districts/senate/8"
 tenure:
   start: "2025-05-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bryan Logan
 
 Current OK Senate District 8 (OK State Senate District 8).
+
+Represents [OK State Senate District 8](/us/states/ok/districts/senate/8.md).
 
 ## Sources
 

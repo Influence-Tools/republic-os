@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 97"
+represents: "us/states/ms/districts/house/97"
 tenure:
   start: "2004-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Mims
 
 Current MS House District 97 (MS State House of Representatives District 97).
+
+Represents [MS State House of Representatives District 97](/us/states/ms/districts/house/97.md).
 
 ## Sources
 

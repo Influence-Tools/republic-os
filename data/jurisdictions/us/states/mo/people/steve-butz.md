@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 81"
+represents: "us/states/mo/districts/house/81"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Butz
 
 Current MO House District 81 (MO State House of Representatives District 81).
+
+Represents [MO State House of Representatives District 81](/us/states/mo/districts/house/81.md).
 
 ## Sources
 

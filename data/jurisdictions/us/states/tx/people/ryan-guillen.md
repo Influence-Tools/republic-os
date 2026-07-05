@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 31"
+represents: "us/states/tx/districts/house/31"
 tenure:
   start: "2003-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ryan Guillen
 
 Current TX House District 31 (TX State House of Representatives District 31).
+
+Represents [TX State House of Representatives District 31](/us/states/tx/districts/house/31.md).
 
 ## Sources
 

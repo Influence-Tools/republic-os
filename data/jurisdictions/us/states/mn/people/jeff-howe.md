@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 13"
+represents: "us/states/mn/districts/senate/13"
 tenure:
   start: "2018-12-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jeff Howe
 
 Current MN Senate District 13 (MN State Senate District 13).
+
+Represents [MN State Senate District 13](/us/states/mn/districts/senate/13.md).
 
 ## Sources
 

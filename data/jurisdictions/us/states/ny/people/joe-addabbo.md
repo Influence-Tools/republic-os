@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 15"
+represents: "us/states/ny/districts/senate/15"
 tenure:
   start: "2009-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Addabbo
 
 Current NY Senate District 15 (NY State Senate District 15).
+
+Represents [NY State Senate District 15](/us/states/ny/districts/senate/15.md).
 
 ## Sources
 

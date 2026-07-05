@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State House of Representatives District 28"
+represents: "us/states/nv/districts/house/28"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Reuben D'Silva
 
 Current NV House District 28 (NV State House of Representatives District 28).
+
+Represents [NV State House of Representatives District 28](/us/states/nv/districts/house/28.md).
 
 ## Sources
 

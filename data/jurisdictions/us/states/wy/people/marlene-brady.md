@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 60"
+represents: "us/states/wy/districts/house/60"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marlene Brady
 
 Current WY House District 60 (WY State House of Representatives District 60).
+
+Represents [WY State House of Representatives District 60](/us/states/wy/districts/house/60.md).
 
 ## Sources
 

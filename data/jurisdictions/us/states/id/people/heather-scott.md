@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 2A"
+represents: "us/states/id/districts/house/2a"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heather Scott
 
 Current ID House District 2A (ID State House of Representatives District 2A).
+
+Represents [ID State House of Representatives District 2A](/us/states/id/districts/house/2a.md).
 
 ## Sources
 

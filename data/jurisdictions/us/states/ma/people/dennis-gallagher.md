@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 8th Plymouth"
+represents: "us/states/ma/districts/house/8th-plymouth"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dennis Gallagher
 
 Current MA House District 8th Plymouth (MA State House of Representatives District 8th Plymouth).
+
+Represents [MA State House of Representatives District 8th Plymouth](/us/states/ma/districts/house/8th-plymouth.md).
 
 ## Sources
 

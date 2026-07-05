@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 12"
+represents: "us/states/in/districts/senate/12"
 tenure:
   start: "2016-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Blake Doriot
 
 Current IN Senate District 12 (IN State Senate District 12).
+
+Represents [IN State Senate District 12](/us/states/in/districts/senate/12.md).
 
 ## Sources
 

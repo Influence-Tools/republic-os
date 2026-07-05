@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State Senate District 22"
+represents: "us/states/ar/districts/senate/22"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Payton
 
 Current AR Senate District 22 (AR State Senate District 22).
+
+Represents [AR State Senate District 22](/us/states/ar/districts/senate/22.md).
 
 ## Sources
 

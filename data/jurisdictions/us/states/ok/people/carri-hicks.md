@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 40"
+represents: "us/states/ok/districts/senate/40"
 tenure:
   start: "2018-11-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carri Hicks
 
 Current OK Senate District 40 (OK State Senate District 40).
+
+Represents [OK State Senate District 40](/us/states/ok/districts/senate/40.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 14"
+represents: "us/states/wy/districts/house/14"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Trey Sherwood
 
 Current WY House District 14 (WY State House of Representatives District 14).
+
+Represents [WY State House of Representatives District 14](/us/states/wy/districts/house/14.md).
 
 ## Sources
 

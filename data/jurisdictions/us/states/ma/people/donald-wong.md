@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 9th Essex"
+represents: "us/states/ma/districts/house/9th-essex"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donald Wong
 
 Current MA House District 9th Essex (MA State House of Representatives District 9th Essex).
+
+Represents [MA State House of Representatives District 9th Essex](/us/states/ma/districts/house/9th-essex.md).
 
 ## Sources
 

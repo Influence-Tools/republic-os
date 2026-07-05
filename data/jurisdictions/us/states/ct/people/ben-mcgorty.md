@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 122"
+represents: "us/states/ct/districts/house/122"
 tenure:
   start: "2014-07-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ben McGorty
 
 Current CT House District 122 (CT State House of Representatives District 122).
+
+Represents [CT State House of Representatives District 122](/us/states/ct/districts/house/122.md).
 
 ## Sources
 

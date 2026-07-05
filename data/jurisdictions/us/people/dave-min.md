@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "CA"
 district: "Congressional District 47"
+represents: "us/states/ca/districts/47"
 committees:
   - name: "House Committee on Natural Resources"
     role: "member"
@@ -55,6 +56,8 @@ timestamp: "2026-07-04"
 # Dave Min
 
 Current U.S. House of Representatives - CA-47 (Congressional District 47).
+
+Represents [Congressional District 47](/us/states/ca/districts/47.md).
 
 ## Committees
 

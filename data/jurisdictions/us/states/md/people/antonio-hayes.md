@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State Senate District 40"
+represents: "us/states/md/districts/senate/40"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Antonio Hayes
 
 Current MD Senate District 40 (MD State Senate District 40).
+
+Represents [MD State Senate District 40](/us/states/md/districts/senate/40.md).
 
 ## Sources
 

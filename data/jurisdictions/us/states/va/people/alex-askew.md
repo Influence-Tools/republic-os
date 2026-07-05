@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 95"
+represents: "us/states/va/districts/house/95"
 tenure:
   start: "2024-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Askew
 
 Current VA House District 95 (VA State House of Representatives District 95).
+
+Represents [VA State House of Representatives District 95](/us/states/va/districts/house/95.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 2nd Bristol"
+represents: "us/states/ma/districts/house/2nd-bristol"
 tenure:
   start: "2018-04-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Hawkins
 
 Current MA House District 2nd Bristol (MA State House of Representatives District 2nd Bristol).
+
+Represents [MA State House of Representatives District 2nd Bristol](/us/states/ma/districts/house/2nd-bristol.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 167"
+represents: "us/states/pa/districts/house/167"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kristine Howard
 
 Current PA House District 167 (PA State House of Representatives District 167).
+
+Represents [PA State House of Representatives District 167](/us/states/pa/districts/house/167.md).
 
 ## Sources
 

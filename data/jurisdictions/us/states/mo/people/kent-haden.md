@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 43"
+represents: "us/states/mo/districts/house/43"
 tenure:
   start: "2019-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kent Haden
 
 Current MO House District 43 (MO State House of Representatives District 43).
+
+Represents [MO State House of Representatives District 43](/us/states/mo/districts/house/43.md).
 
 ## Sources
 

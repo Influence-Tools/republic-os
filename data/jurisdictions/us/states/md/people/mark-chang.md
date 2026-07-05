@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 32"
+represents: "us/states/md/districts/house/32"
 tenure:
   start: "2015-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Chang
 
 Current MD House District 32 (MD State House of Representatives District 32).
+
+Represents [MD State House of Representatives District 32](/us/states/md/districts/house/32.md).
 
 ## Sources
 

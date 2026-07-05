@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 11"
+represents: "us/states/al/districts/house/11"
 tenure:
   start: "2025-08-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Heath Allbright
 
 Current AL House District 11 (AL State House of Representatives District 11).
+
+Represents [AL State House of Representatives District 11](/us/states/al/districts/house/11.md).
 
 ## Sources
 

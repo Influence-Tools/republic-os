@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 61"
+represents: "us/states/wi/districts/house/61"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Donovan
 
 Current WI House District 61 (WI State House of Representatives District 61).
+
+Represents [WI State House of Representatives District 61](/us/states/wi/districts/house/61.md).
 
 ## Sources
 

@@ -22,9 +22,45 @@ demographics:
   race_native: 58
   hispanic: 2151
   bachelors_plus: 23509
+districts:
+  - to: "us/states/ms/districts/01"
+    rel: in-district
+    area_weight: 0.9996
+  - to: "us/states/ms/districts/senate/9"
+    rel: in-district
+    area_weight: 0.6079
+  - to: "us/states/ms/districts/senate/10"
+    rel: in-district
+    area_weight: 0.2019
+  - to: "us/states/ms/districts/senate/8"
+    rel: in-district
+    area_weight: 0.1902
+  - to: "us/states/ms/districts/house/13"
+    rel: in-district
+    area_weight: 0.3001
+  - to: "us/states/ms/districts/house/23"
+    rel: in-district
+    area_weight: 0.2535
+  - to: "us/states/ms/districts/house/10"
+    rel: in-district
+    area_weight: 0.187
+  - to: "us/states/ms/districts/house/34"
+    rel: in-district
+    area_weight: 0.0757
+  - to: "us/states/ms/districts/house/12"
+    rel: in-district
+    area_weight: 0.0727
+  - to: "us/states/ms/districts/house/8"
+    rel: in-district
+    area_weight: 0.0644
+  - to: "us/states/ms/districts/house/5"
+    rel: in-district
+    area_weight: 0.0465
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ms]
 timestamp: "2026-07-03"
@@ -56,6 +92,21 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 2151 |
 | Bachelor's or higher | 23509 |
 
+## Districts
+
+- [MS-01](/us/states/ms/districts/01.md) — 100% (congressional)
+- [MS Senate District 9](/us/states/ms/districts/senate/9.md) — 61% (state senate)
+- [MS Senate District 10](/us/states/ms/districts/senate/10.md) — 20% (state senate)
+- [MS Senate District 8](/us/states/ms/districts/senate/8.md) — 19% (state senate)
+- [MS House District 13](/us/states/ms/districts/house/13.md) — 30% (state house)
+- [MS House District 23](/us/states/ms/districts/house/23.md) — 25% (state house)
+- [MS House District 10](/us/states/ms/districts/house/10.md) — 19% (state house)
+- [MS House District 34](/us/states/ms/districts/house/34.md) — 8% (state house)
+- [MS House District 12](/us/states/ms/districts/house/12.md) — 7% (state house)
+- [MS House District 8](/us/states/ms/districts/house/8.md) — 6% (state house)
+- [MS House District 5](/us/states/ms/districts/house/5.md) — 5% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

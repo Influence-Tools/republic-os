@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State Senate District 28"
+represents: "us/states/id/districts/senate/28"
 tenure:
   start: "2012-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Guthrie
 
 Current ID Senate District 28 (ID State Senate District 28).
+
+Represents [ID State Senate District 28](/us/states/id/districts/senate/28.md).
 
 ## Sources
 

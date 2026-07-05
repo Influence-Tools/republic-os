@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 15"
+represents: "us/states/ia/districts/senate/15"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony Bisignano
 
 Current IA Senate District 15 (IA State Senate District 15).
+
+Represents [IA State Senate District 15](/us/states/ia/districts/senate/15.md).
 
 ## Sources
 

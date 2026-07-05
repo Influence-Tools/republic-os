@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 41"
+represents: "us/states/ga/districts/house/41"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Smith
 
 Current GA House District 41 (GA State House of Representatives District 41).
+
+Represents [GA State House of Representatives District 41](/us/states/ga/districts/house/41.md).
 
 ## Sources
 

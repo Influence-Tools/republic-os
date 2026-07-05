@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 17"
+represents: "us/states/ri/districts/senate/17"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Paolino
 
 Current RI Senate District 17 (RI State Senate District 17).
+
+Represents [RI State Senate District 17](/us/states/ri/districts/senate/17.md).
 
 ## Sources
 

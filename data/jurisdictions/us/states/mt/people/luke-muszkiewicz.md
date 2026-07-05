@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 79"
+represents: "us/states/mt/districts/house/79"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Luke Muszkiewicz
 
 Current MT House District 79 (MT State House of Representatives District 79).
+
+Represents [MT State House of Representatives District 79](/us/states/mt/districts/house/79.md).
 
 ## Sources
 

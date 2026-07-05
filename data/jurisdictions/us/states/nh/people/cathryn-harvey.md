@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Cheshire 6"
+represents: "us/states/nh/districts/house/cheshire-6"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cathryn Harvey
 
 Current NH House District Cheshire 6 (NH State House of Representatives District Cheshire 6).
+
+Represents [NH State House of Representatives District Cheshire 6](/us/states/nh/districts/house/cheshire-6.md).
 
 ## Sources
 

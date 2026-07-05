@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 72"
+represents: "us/states/sc/districts/house/72"
 tenure:
   start: "2018-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Seth Rose
 
 Current SC House District 72 (SC State House of Representatives District 72).
+
+Represents [SC State House of Representatives District 72](/us/states/sc/districts/house/72.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 45"
+represents: "us/states/hi/districts/house/45"
 tenure:
   start: "2024-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Muraoka
 
 Current HI House District 45 (HI State House of Representatives District 45).
+
+Represents [HI State House of Representatives District 45](/us/states/hi/districts/house/45.md).
 
 ## Sources
 

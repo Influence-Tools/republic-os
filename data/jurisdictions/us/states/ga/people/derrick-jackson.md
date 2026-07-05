@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 68"
+represents: "us/states/ga/districts/house/68"
 tenure:
   start: "2023-06-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Derrick Jackson
 
 Current GA House District 68 (GA State House of Representatives District 68).
+
+Represents [GA State House of Representatives District 68](/us/states/ga/districts/house/68.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 27th Middlesex"
+represents: "us/states/ma/districts/house/27th-middlesex"
 tenure:
   start: "2021-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erika Uyterhoeven
 
 Current MA House District 27th Middlesex (MA State House of Representatives District 27th Middlesex).
+
+Represents [MA State House of Representatives District 27th Middlesex](/us/states/ma/districts/house/27th-middlesex.md).
 
 ## Sources
 

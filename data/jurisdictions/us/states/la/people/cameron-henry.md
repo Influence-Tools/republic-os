@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 9"
+represents: "us/states/la/districts/senate/9"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cameron Henry
 
 Current LA Senate District 9 (LA State Senate District 9).
+
+Represents [LA State Senate District 9](/us/states/la/districts/senate/9.md).
 
 ## Sources
 

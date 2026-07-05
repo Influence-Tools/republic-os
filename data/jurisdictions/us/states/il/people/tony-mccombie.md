@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 89"
+represents: "us/states/il/districts/house/89"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tony McCombie
 
 Current IL House District 89 (IL State House of Representatives District 89).
+
+Represents [IL State House of Representatives District 89](/us/states/il/districts/house/89.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 8"
+represents: "us/states/wv/districts/house/8"
 tenure:
   start: "2025-07-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Bell
 
 Current WV House District 8 (WV State House of Representatives District 8).
+
+Represents [WV State House of Representatives District 8](/us/states/wv/districts/house/8.md).
 
 ## Sources
 

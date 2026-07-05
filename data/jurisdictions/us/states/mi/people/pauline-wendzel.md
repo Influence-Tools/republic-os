@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MI"
 district: "MI State House of Representatives District 39"
+represents: "us/states/mi/districts/house/39"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Pauline Wendzel
 
 Current MI House District 39 (MI State House of Representatives District 39).
+
+Represents [MI State House of Representatives District 39](/us/states/mi/districts/house/39.md).
 
 ## Sources
 

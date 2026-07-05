@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 95"
+represents: "us/states/wv/districts/house/95"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Horst
 
 Current WV House District 95 (WV State House of Representatives District 95).
+
+Represents [WV State House of Representatives District 95](/us/states/wv/districts/house/95.md).
 
 ## Sources
 

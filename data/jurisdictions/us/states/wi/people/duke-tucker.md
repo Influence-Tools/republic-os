@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 75"
+represents: "us/states/wi/districts/house/75"
 tenure:
   start: "2025-01-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Duke Tucker
 
 Current WI House District 75 (WI State House of Representatives District 75).
+
+Represents [WI State House of Representatives District 75](/us/states/wi/districts/house/75.md).
 
 ## Sources
 

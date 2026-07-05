@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 32"
+represents: "us/states/ok/districts/senate/32"
 tenure:
   start: "2023-12-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dusty Deevers
 
 Current OK Senate District 32 (OK State Senate District 32).
+
+Represents [OK State Senate District 32](/us/states/ok/districts/senate/32.md).
 
 ## Sources
 

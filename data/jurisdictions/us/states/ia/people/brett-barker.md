@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 51"
+represents: "us/states/ia/districts/house/51"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brett Barker
 
 Current IA House District 51 (IA State House of Representatives District 51).
+
+Represents [IA State House of Representatives District 51](/us/states/ia/districts/house/51.md).
 
 ## Sources
 

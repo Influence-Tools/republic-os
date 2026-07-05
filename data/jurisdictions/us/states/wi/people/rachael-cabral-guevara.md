@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 19"
+represents: "us/states/wi/districts/senate/19"
 tenure:
   start: "2023-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rachael Cabral-Guevara
 
 Current WI Senate District 19 (WI State Senate District 19).
+
+Represents [WI State Senate District 19](/us/states/wi/districts/senate/19.md).
 
 ## Sources
 

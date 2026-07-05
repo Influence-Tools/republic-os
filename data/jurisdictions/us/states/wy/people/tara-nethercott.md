@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State Senate District 4"
+represents: "us/states/wy/districts/senate/4"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tara Nethercott
 
 Current WY Senate District 4 (WY State Senate District 4).
+
+Represents [WY State Senate District 4](/us/states/wy/districts/senate/4.md).
 
 ## Sources
 

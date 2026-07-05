@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State Senate District 4"
+represents: "us/states/ut/districts/senate/4"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cal Musselman
 
 Current UT Senate District 4 (UT State Senate District 4).
+
+Represents [UT State Senate District 4](/us/states/ut/districts/senate/4.md).
 
 ## Sources
 

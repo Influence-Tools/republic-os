@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WY"
 district: "WY State House of Representatives District 5"
+represents: "us/states/wy/districts/house/5"
 tenure:
   start: "2023-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Smith
 
 Current WY House District 5 (WY State House of Representatives District 5).
+
+Represents [WY State House of Representatives District 5](/us/states/wy/districts/house/5.md).
 
 ## Sources
 

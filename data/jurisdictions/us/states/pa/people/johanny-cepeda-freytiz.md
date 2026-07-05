@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 129"
+represents: "us/states/pa/districts/house/129"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Johanny Cepeda-Freytiz
 
 Current PA House District 129 (PA State House of Representatives District 129).
+
+Represents [PA State House of Representatives District 129](/us/states/pa/districts/house/129.md).
 
 ## Sources
 

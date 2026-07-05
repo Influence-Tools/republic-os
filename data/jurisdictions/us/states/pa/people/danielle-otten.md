@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 155"
+represents: "us/states/pa/districts/house/155"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danielle Otten
 
 Current PA House District 155 (PA State House of Representatives District 155).
+
+Represents [PA State House of Representatives District 155](/us/states/pa/districts/house/155.md).
 
 ## Sources
 

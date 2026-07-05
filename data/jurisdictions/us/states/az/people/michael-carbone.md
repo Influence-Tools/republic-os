@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 25"
+represents: "us/states/az/districts/house/25"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Carbone
 
 Current AZ House District 25 (AZ State House of Representatives District 25).
+
+Represents [AZ State House of Representatives District 25](/us/states/az/districts/house/25.md).
 
 ## Sources
 

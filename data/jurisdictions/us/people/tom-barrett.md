@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MI"
 district: "Congressional District 7"
+represents: "us/states/mi/districts/07"
 committees:
   - name: "House Committee on Transportation and Infrastructure"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Tom Barrett
 
 Current U.S. House of Representatives - MI-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/mi/districts/07.md).
 
 ## Committees
 

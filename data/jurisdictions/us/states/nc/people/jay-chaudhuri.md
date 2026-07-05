@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 15"
+represents: "us/states/nc/districts/senate/15"
 tenure:
   start: "2019-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jay Chaudhuri
 
 Current NC Senate District 15 (NC State Senate District 15).
+
+Represents [NC State Senate District 15](/us/states/nc/districts/senate/15.md).
 
 ## Sources
 

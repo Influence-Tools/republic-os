@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 33"
+represents: "us/states/nm/districts/house/33"
 tenure:
   start: "2019-01-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Micaela Cadena
 
 Current NM House District 33 (NM State House of Representatives District 33).
+
+Represents [NM State House of Representatives District 33](/us/states/nm/districts/house/33.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 31"
+represents: "us/states/ok/districts/house/31"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Collin Duel
 
 Current OK House District 31 (OK State House of Representatives District 31).
+
+Represents [OK State House of Representatives District 31](/us/states/ok/districts/house/31.md).
 
 ## Sources
 

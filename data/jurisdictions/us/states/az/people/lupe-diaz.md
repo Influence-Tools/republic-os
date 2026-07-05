@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AZ"
 district: "AZ State House of Representatives District 19"
+represents: "us/states/az/districts/house/19"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lupe Diaz
 
 Current AZ House District 19 (AZ State House of Representatives District 19).
+
+Represents [AZ State House of Representatives District 19](/us/states/az/districts/house/19.md).
 
 ## Sources
 

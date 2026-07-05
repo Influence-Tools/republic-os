@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AK"
 district: "AK State House of Representatives District 29"
+represents: "us/states/ak/districts/house/29"
 tenure:
   start: "2025-12-30"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Garret Nelson
 
 Current AK House District 29 (AK State House of Representatives District 29).
+
+Represents [AK State House of Representatives District 29](/us/states/ak/districts/house/29.md).
 
 ## Sources
 

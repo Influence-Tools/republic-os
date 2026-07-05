@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 66"
+represents: "us/states/in/districts/house/66"
 tenure:
   start: "2020-11-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zach Payne
 
 Current IN House District 66 (IN State House of Representatives District 66).
+
+Represents [IN State House of Representatives District 66](/us/states/in/districts/house/66.md).
 
 ## Sources
 

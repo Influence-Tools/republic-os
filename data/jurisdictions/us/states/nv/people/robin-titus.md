@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NV"
 district: "NV State Senate District 17"
+represents: "us/states/nv/districts/senate/17"
 tenure:
   start: "2022-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Robin Titus
 
 Current NV Senate District 17 (NV State Senate District 17).
+
+Represents [NV State Senate District 17](/us/states/nv/districts/senate/17.md).
 
 ## Sources
 

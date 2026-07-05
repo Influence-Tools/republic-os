@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 4"
+represents: "us/states/ct/districts/house/4"
 tenure:
   start: "2018-06-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Julio Concepción
 
 Current CT House District 4 (CT State House of Representatives District 4).
+
+Represents [CT State House of Representatives District 4](/us/states/ct/districts/house/4.md).
 
 ## Sources
 

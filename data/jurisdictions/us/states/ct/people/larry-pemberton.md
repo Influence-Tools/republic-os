@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 139"
+represents: "us/states/ct/districts/house/139"
 tenure:
   start: "2026-01-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Pemberton
 
 Current CT House District 139 (CT State House of Representatives District 139).
+
+Represents [CT State House of Representatives District 139](/us/states/ct/districts/house/139.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State House of Representatives District 50"
+represents: "us/states/wv/districts/house/50"
 tenure:
   start: "2023-04-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Elliott Pritt
 
 Current WV House District 50 (WV State House of Representatives District 50).
+
+Represents [WV State House of Representatives District 50](/us/states/wv/districts/house/50.md).
 
 ## Sources
 

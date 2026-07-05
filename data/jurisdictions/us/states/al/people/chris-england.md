@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 70"
+represents: "us/states/al/districts/house/70"
 tenure:
   start: "2006-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris England
 
 Current AL House District 70 (AL State House of Representatives District 70).
+
+Represents [AL State House of Representatives District 70](/us/states/al/districts/house/70.md).
 
 ## Sources
 

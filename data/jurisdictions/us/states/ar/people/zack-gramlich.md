@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AR"
 district: "AR State House of Representatives District 50"
+represents: "us/states/ar/districts/house/50"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zack Gramlich
 
 Current AR House District 50 (AR State House of Representatives District 50).
+
+Represents [AR State House of Representatives District 50](/us/states/ar/districts/house/50.md).
 
 ## Sources
 

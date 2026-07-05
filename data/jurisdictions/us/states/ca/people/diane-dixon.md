@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State House of Representatives District 72"
+represents: "us/states/ca/districts/house/72"
 tenure:
   start: "2022-12-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Diane Dixon
 
 Current CA House District 72 (CA State House of Representatives District 72).
+
+Represents [CA State House of Representatives District 72](/us/states/ca/districts/house/72.md).
 
 ## Sources
 

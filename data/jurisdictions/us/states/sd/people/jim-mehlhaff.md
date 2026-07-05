@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SD"
 district: "SD State Senate District 24"
+represents: "us/states/sd/districts/senate/24"
 tenure:
   start: "2023-01-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jim Mehlhaff
 
 Current SD Senate District 24 (SD State Senate District 24).
+
+Represents [SD State Senate District 24](/us/states/sd/districts/senate/24.md).
 
 ## Sources
 

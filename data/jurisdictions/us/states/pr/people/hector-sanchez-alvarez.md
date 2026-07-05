@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State Senate District 8"
+represents: "us/states/pr/districts/senate/8"
 tenure:
   start: "2025-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Héctor Sánchez Álvarez
 
 Current PR Senate District 8 (PR State Senate District 8).
+
+Represents [PR State Senate District 8](/us/states/pr/districts/senate/8.md).
 
 ## Sources
 

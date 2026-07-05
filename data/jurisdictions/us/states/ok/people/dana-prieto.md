@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 34"
+represents: "us/states/ok/districts/senate/34"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dana Prieto
 
 Current OK Senate District 34 (OK State Senate District 34).
+
+Represents [OK State Senate District 34](/us/states/ok/districts/senate/34.md).
 
 ## Sources
 

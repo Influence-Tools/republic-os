@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State Senate District 12"
+represents: "us/states/nh/districts/senate/12"
 tenure:
   start: "2020-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kevin Avard
 
 Current NH Senate District 12 (NH State Senate District 12).
+
+Represents [NH State Senate District 12](/us/states/nh/districts/senate/12.md).
 
 ## Sources
 

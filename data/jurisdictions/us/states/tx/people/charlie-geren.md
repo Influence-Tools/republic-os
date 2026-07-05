@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 99"
+represents: "us/states/tx/districts/house/99"
 tenure:
   start: "2003-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charlie Geren
 
 Current TX House District 99 (TX State House of Representatives District 99).
+
+Represents [TX State House of Representatives District 99](/us/states/tx/districts/house/99.md).
 
 ## Sources
 

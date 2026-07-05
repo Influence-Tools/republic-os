@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Rutland-3"
+represents: "us/states/vt/districts/house/rutland-3"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Zak Harvey
 
 Current VT House District Rutland-3 (VT State House of Representatives District Rutland-3).
+
+Represents [VT State House of Representatives District Rutland-3](/us/states/vt/districts/house/rutland-3.md).
 
 ## Sources
 

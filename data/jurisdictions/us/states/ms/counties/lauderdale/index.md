@@ -22,9 +22,36 @@ demographics:
   race_native: 214
   hispanic: 1823
   bachelors_plus: 15932
+districts:
+  - to: "us/states/ms/districts/03"
+    rel: in-district
+    area_weight: 0.9999
+  - to: "us/states/ms/districts/senate/33"
+    rel: in-district
+    area_weight: 0.7217
+  - to: "us/states/ms/districts/senate/32"
+    rel: in-district
+    area_weight: 0.2068
+  - to: "us/states/ms/districts/senate/31"
+    rel: in-district
+    area_weight: 0.0714
+  - to: "us/states/ms/districts/house/81"
+    rel: in-district
+    area_weight: 0.5256
+  - to: "us/states/ms/districts/house/83"
+    rel: in-district
+    area_weight: 0.2435
+  - to: "us/states/ms/districts/house/45"
+    rel: in-district
+    area_weight: 0.1849
+  - to: "us/states/ms/districts/house/82"
+    rel: in-district
+    area_weight: 0.0459
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ms]
 timestamp: "2026-07-03"
@@ -56,6 +83,18 @@ County jurisdiction — 1 officeholders mapped.
 | Hispanic/Latino | 1823 |
 | Bachelor's or higher | 15932 |
 
+## Districts
+
+- [MS-03](/us/states/ms/districts/03.md) — 100% (congressional)
+- [MS Senate District 33](/us/states/ms/districts/senate/33.md) — 72% (state senate)
+- [MS Senate District 32](/us/states/ms/districts/senate/32.md) — 21% (state senate)
+- [MS Senate District 31](/us/states/ms/districts/senate/31.md) — 7% (state senate)
+- [MS House District 81](/us/states/ms/districts/house/81.md) — 53% (state house)
+- [MS House District 83](/us/states/ms/districts/house/83.md) — 24% (state house)
+- [MS House District 45](/us/states/ms/districts/house/45.md) — 18% (state house)
+- [MS House District 82](/us/states/ms/districts/house/82.md) — 5% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

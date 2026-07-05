@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 45"
+represents: "us/states/md/districts/house/45"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jackie Addison
 
 Current MD House District 45 (MD State House of Representatives District 45).
+
+Represents [MD State House of Representatives District 45](/us/states/md/districts/house/45.md).
 
 ## Sources
 

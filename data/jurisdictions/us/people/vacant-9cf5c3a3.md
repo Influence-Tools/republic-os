@@ -7,6 +7,7 @@ level: "federal"
 branch: "legislative"
 state: "GA"
 district: "Congressional District 13"
+represents: "us/states/ga/districts/13"
 tenure:
   start: "2025-01-03"
   current: true
@@ -33,6 +34,8 @@ timestamp: "2026-07-04"
 # Vacant
 
 Current U.S. House of Representatives - GA-13 (Congressional District 13).
+
+Represents [Congressional District 13](/us/states/ga/districts/13.md).
 
 ## Sources
 

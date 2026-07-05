@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 40"
+represents: "us/states/la/districts/house/40"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dustin Miller
 
 Current LA House District 40 (LA State House of Representatives District 40).
+
+Represents [LA State House of Representatives District 40](/us/states/la/districts/house/40.md).
 
 ## Sources
 

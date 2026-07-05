@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "FL"
 district: "Congressional District 24"
+represents: "us/states/fl/districts/24"
 committees:
   - name: "House Committee on Education and Workforce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Frederica S. Wilson
 
 Current U.S. House of Representatives - FL-24 (Congressional District 24).
+
+Represents [Congressional District 24](/us/states/fl/districts/24.md).
 
 ## Committees
 

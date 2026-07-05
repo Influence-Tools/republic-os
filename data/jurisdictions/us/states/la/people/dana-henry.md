@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 100"
+represents: "us/states/la/districts/house/100"
 tenure:
   start: "2026-03-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dana Henry
 
 Current LA House District 100 (LA State House of Representatives District 100).
+
+Represents [LA State House of Representatives District 100](/us/states/la/districts/house/100.md).
 
 ## Sources
 

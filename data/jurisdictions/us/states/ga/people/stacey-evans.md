@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 57"
+represents: "us/states/ga/districts/house/57"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stacey Evans
 
 Current GA House District 57 (GA State House of Representatives District 57).
+
+Represents [GA State House of Representatives District 57](/us/states/ga/districts/house/57.md).
 
 ## Sources
 

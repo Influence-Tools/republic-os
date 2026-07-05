@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State Senate District 21"
+represents: "us/states/nd/districts/senate/21"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Hogan
 
 Current ND Senate District 21 (ND State Senate District 21).
+
+Represents [ND State Senate District 21](/us/states/nd/districts/senate/21.md).
 
 ## Sources
 

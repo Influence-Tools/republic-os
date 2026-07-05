@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State Senate District Worcester and Hampshire"
+represents: "us/states/ma/districts/senate/worcester-and-hampshire"
 tenure:
   start: "2023-11-29"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Peter Durant
 
 Current MA Senate District Worcester and Hampshire (MA State Senate District Worcester and Hampshire).
+
+Represents [MA State Senate District Worcester and Hampshire](/us/states/ma/districts/senate/worcester-and-hampshire.md).
 
 ## Sources
 

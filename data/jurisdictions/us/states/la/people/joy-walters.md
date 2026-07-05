@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 4"
+represents: "us/states/la/districts/house/4"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joy Walters
 
 Current LA House District 4 (LA State House of Representatives District 4).
+
+Represents [LA State House of Representatives District 4](/us/states/la/districts/house/4.md).
 
 ## Sources
 

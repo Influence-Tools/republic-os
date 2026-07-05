@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 111"
+represents: "us/states/pa/districts/house/111"
 tenure:
   start: "2016-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jonathan Fritz
 
 Current PA House District 111 (PA State House of Representatives District 111).
+
+Represents [PA State House of Representatives District 111](/us/states/pa/districts/house/111.md).
 
 ## Sources
 

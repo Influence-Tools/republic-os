@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 28"
+represents: "us/states/la/districts/house/28"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Daryl Deshotel
 
 Current LA House District 28 (LA State House of Representatives District 28).
+
+Represents [LA State House of Representatives District 28](/us/states/la/districts/house/28.md).
 
 ## Sources
 

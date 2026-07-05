@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 76"
+represents: "us/states/la/districts/house/76"
 tenure:
   start: "2024-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Stephanie Berault
 
 Current LA House District 76 (LA State House of Representatives District 76).
+
+Represents [LA State House of Representatives District 76](/us/states/la/districts/house/76.md).
 
 ## Sources
 

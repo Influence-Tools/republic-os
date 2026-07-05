@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 20"
+represents: "us/states/ga/districts/senate/20"
 tenure:
   start: "2015-12-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Larry Walker
 
 Current GA Senate District 20 (GA State Senate District 20).
+
+Represents [GA State Senate District 20](/us/states/ga/districts/senate/20.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 19"
+represents: "us/states/co/districts/house/19"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Woog
 
 Current CO House District 19 (CO State House of Representatives District 19).
+
+Represents [CO State House of Representatives District 19](/us/states/co/districts/house/19.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 59"
+represents: "us/states/ny/districts/house/59"
 tenure:
   start: "2016-05-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaime Williams
 
 Current NY House District 59 (NY State House of Representatives District 59).
+
+Represents [NY State House of Representatives District 59](/us/states/ny/districts/house/59.md).
 
 ## Sources
 

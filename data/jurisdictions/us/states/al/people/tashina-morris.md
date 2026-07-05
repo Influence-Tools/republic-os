@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 77"
+represents: "us/states/al/districts/house/77"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # TaShina Morris
 
 Current AL House District 77 (AL State House of Representatives District 77).
+
+Represents [AL State House of Representatives District 77](/us/states/al/districts/house/77.md).
 
 ## Sources
 

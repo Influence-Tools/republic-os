@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NY"
 district: "Congressional District 7"
+represents: "us/states/ny/districts/07"
 committees:
   - name: "House Committee on Financial Services"
     role: "member"
@@ -49,6 +50,8 @@ timestamp: "2026-07-04"
 # Nydia M. Velázquez
 
 Current U.S. House of Representatives - NY-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/ny/districts/07.md).
 
 ## Committees
 

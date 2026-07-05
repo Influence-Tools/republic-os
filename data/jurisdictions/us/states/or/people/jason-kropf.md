@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OR"
 district: "OR State House of Representatives District 54"
+represents: "us/states/or/districts/house/54"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jason Kropf
 
 Current OR House District 54 (OR State House of Representatives District 54).
+
+Represents [OR State House of Representatives District 54](/us/states/or/districts/house/54.md).
 
 ## Sources
 

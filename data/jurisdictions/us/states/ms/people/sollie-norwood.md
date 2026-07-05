@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 28"
+represents: "us/states/ms/districts/senate/28"
 tenure:
   start: "2013-03-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sollie Norwood
 
 Current MS Senate District 28 (MS State Senate District 28).
+
+Represents [MS State Senate District 28](/us/states/ms/districts/senate/28.md).
 
 ## Sources
 

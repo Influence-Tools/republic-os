@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 42"
+represents: "us/states/wa/districts/senate/42"
 tenure:
   start: "2023-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sharon Shewmake
 
 Current WA Senate District 42 (WA State Senate District 42).
+
+Represents [WA State Senate District 42](/us/states/wa/districts/senate/42.md).
 
 ## Sources
 

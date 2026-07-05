@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 36"
+represents: "us/states/fl/districts/senate/36"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ileana Garcia
 
 Current FL Senate District 36 (FL State Senate District 36).
+
+Represents [FL State Senate District 36](/us/states/fl/districts/senate/36.md).
 
 ## Sources
 

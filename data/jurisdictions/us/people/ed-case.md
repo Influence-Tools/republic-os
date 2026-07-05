@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "HI"
 district: "Congressional District 1"
+represents: "us/states/hi/districts/01"
 committees:
   - name: "House Committee on Appropriations"
     role: "member"
@@ -46,6 +47,8 @@ timestamp: "2026-07-04"
 # Ed Case
 
 Current U.S. House of Representatives - HI-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/hi/districts/01.md).
 
 ## Committees
 

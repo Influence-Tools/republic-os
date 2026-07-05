@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VA"
 district: "VA State House of Representatives District 73"
+represents: "us/states/va/districts/house/73"
 tenure:
   start: "2026-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Leslie Mehta
 
 Current VA House District 73 (VA State House of Representatives District 73).
+
+Represents [VA State House of Representatives District 73](/us/states/va/districts/house/73.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 17th Worcester"
+represents: "us/states/ma/districts/house/17th-worcester"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David LeBoeuf
 
 Current MA House District 17th Worcester (MA State House of Representatives District 17th Worcester).
+
+Represents [MA State House of Representatives District 17th Worcester](/us/states/ma/districts/house/17th-worcester.md).
 
 ## Sources
 

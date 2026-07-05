@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "LA"
 district: "Congressional District 1"
+represents: "us/states/la/districts/01"
 leadership:
   - role: "House Majority Leader"
     body: "H"
@@ -40,6 +41,8 @@ timestamp: "2026-07-04"
 # Steve Scalise
 
 Current U.S. House of Representatives - LA-1 (Congressional District 1).
+
+Represents [Congressional District 1](/us/states/la/districts/01.md).
 
 ## Leadership
 

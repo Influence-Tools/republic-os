@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 97"
+represents: "us/states/mo/districts/house/97"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Casteel
 
 Current MO House District 97 (MO State House of Representatives District 97).
+
+Represents [MO State House of Representatives District 97](/us/states/mo/districts/house/97.md).
 
 ## Sources
 

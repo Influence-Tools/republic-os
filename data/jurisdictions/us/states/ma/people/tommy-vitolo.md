@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 15th Norfolk"
+represents: "us/states/ma/districts/house/15th-norfolk"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tommy Vitolo
 
 Current MA House District 15th Norfolk (MA State House of Representatives District 15th Norfolk).
+
+Represents [MA State House of Representatives District 15th Norfolk](/us/states/ma/districts/house/15th-norfolk.md).
 
 ## Sources
 

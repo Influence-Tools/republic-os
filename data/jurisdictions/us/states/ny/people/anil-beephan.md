@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 105"
+represents: "us/states/ny/districts/house/105"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anil Beephan
 
 Current NY House District 105 (NY State House of Representatives District 105).
+
+Represents [NY State House of Representatives District 105](/us/states/ny/districts/house/105.md).
 
 ## Sources
 

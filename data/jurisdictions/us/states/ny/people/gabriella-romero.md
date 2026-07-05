@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State House of Representatives District 109"
+represents: "us/states/ny/districts/house/109"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Gabriella Romero
 
 Current NY House District 109 (NY State House of Representatives District 109).
+
+Represents [NY State House of Representatives District 109](/us/states/ny/districts/house/109.md).
 
 ## Sources
 

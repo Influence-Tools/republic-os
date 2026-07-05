@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 1st Barnstable"
+represents: "us/states/ma/districts/house/1st-barnstable"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chris Flanagan
 
 Current MA House District 1st Barnstable (MA State House of Representatives District 1st Barnstable).
+
+Represents [MA State House of Representatives District 1st Barnstable](/us/states/ma/districts/house/1st-barnstable.md).
 
 ## Sources
 

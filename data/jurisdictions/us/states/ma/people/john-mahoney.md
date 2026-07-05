@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 13th Worcester"
+represents: "us/states/ma/districts/house/13th-worcester"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Mahoney
 
 Current MA House District 13th Worcester (MA State House of Representatives District 13th Worcester).
+
+Represents [MA State House of Representatives District 13th Worcester](/us/states/ma/districts/house/13th-worcester.md).
 
 ## Sources
 

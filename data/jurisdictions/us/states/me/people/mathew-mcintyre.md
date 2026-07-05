@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 18"
+represents: "us/states/me/districts/house/18"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mathew McIntyre
 
 Current ME House District 18 (ME State House of Representatives District 18).
+
+Represents [ME State House of Representatives District 18](/us/states/me/districts/house/18.md).
 
 ## Sources
 

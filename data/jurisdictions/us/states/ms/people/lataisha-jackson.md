@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 11"
+represents: "us/states/ms/districts/house/11"
 tenure:
   start: "2013-04-26"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lataisha Jackson
 
 Current MS House District 11 (MS State House of Representatives District 11).
+
+Represents [MS State House of Representatives District 11](/us/states/ms/districts/house/11.md).
 
 ## Sources
 

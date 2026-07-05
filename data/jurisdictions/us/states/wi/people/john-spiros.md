@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 86"
+represents: "us/states/wi/districts/house/86"
 tenure:
   start: "2013-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Spiros
 
 Current WI House District 86 (WI State House of Representatives District 86).
+
+Represents [WI State House of Representatives District 86](/us/states/wi/districts/house/86.md).
 
 ## Sources
 

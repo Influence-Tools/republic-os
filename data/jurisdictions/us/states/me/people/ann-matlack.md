@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 43"
+represents: "us/states/me/districts/house/43"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ann Matlack
 
 Current ME House District 43 (ME State House of Representatives District 43).
+
+Represents [ME State House of Representatives District 43](/us/states/me/districts/house/43.md).
 
 ## Sources
 

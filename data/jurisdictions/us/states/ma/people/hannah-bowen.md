@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 6th Essex"
+represents: "us/states/ma/districts/house/6th-essex"
 tenure:
   start: "2025-05-21"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Hannah Bowen
 
 Current MA House District 6th Essex (MA State House of Representatives District 6th Essex).
+
+Represents [MA State House of Representatives District 6th Essex](/us/states/ma/districts/house/6th-essex.md).
 
 ## Sources
 

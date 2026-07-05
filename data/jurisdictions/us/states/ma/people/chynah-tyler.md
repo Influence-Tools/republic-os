@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 7th Suffolk"
+represents: "us/states/ma/districts/house/7th-suffolk"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chynah Tyler
 
 Current MA House District 7th Suffolk (MA State House of Representatives District 7th Suffolk).
+
+Represents [MA State House of Representatives District 7th Suffolk](/us/states/ma/districts/house/7th-suffolk.md).
 
 ## Sources
 

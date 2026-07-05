@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State Senate District 19"
+represents: "us/states/nm/districts/senate/19"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ant Thornton
 
 Current NM Senate District 19 (NM State Senate District 19).
+
+Represents [NM State Senate District 19](/us/states/nm/districts/senate/19.md).
 
 ## Sources
 

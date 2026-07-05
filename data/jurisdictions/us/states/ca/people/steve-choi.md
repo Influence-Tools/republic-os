@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 37"
+represents: "us/states/ca/districts/senate/37"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Steve Choi
 
 Current CA Senate District 37 (CA State Senate District 37).
+
+Represents [CA State Senate District 37](/us/states/ca/districts/senate/37.md).
 
 ## Sources
 

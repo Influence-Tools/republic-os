@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 77"
+represents: "us/states/la/districts/house/77"
 tenure:
   start: "2017-11-18"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Wright
 
 Current LA House District 77 (LA State House of Representatives District 77).
+
+Represents [LA State House of Representatives District 77](/us/states/la/districts/house/77.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 46"
+represents: "us/states/al/districts/house/46"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # David Faulkner
 
 Current AL House District 46 (AL State House of Representatives District 46).
+
+Represents [AL State House of Representatives District 46](/us/states/al/districts/house/46.md).
 
 ## Sources
 

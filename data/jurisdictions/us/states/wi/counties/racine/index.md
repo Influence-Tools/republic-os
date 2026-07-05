@@ -22,9 +22,42 @@ demographics:
   race_native: 920
   hispanic: 29754
   bachelors_plus: 51594
+districts:
+  - to: "us/states/wi/districts/01"
+    rel: in-district
+    area_weight: 0.4293
+  - to: "us/states/wi/districts/senate/11"
+    rel: in-district
+    area_weight: 0.1664
+  - to: "us/states/wi/districts/senate/21"
+    rel: in-district
+    area_weight: 0.1195
+  - to: "us/states/wi/districts/senate/28"
+    rel: in-district
+    area_weight: 0.0908
+  - to: "us/states/wi/districts/senate/22"
+    rel: in-district
+    area_weight: 0.0528
+  - to: "us/states/wi/districts/house/33"
+    rel: in-district
+    area_weight: 0.1664
+  - to: "us/states/wi/districts/house/63"
+    rel: in-district
+    area_weight: 0.0956
+  - to: "us/states/wi/districts/house/84"
+    rel: in-district
+    area_weight: 0.0908
+  - to: "us/states/wi/districts/house/66"
+    rel: in-district
+    area_weight: 0.0528
+  - to: "us/states/wi/districts/house/62"
+    rel: in-district
+    area_weight: 0.024
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, wi]
 timestamp: "2026-07-03"
@@ -56,6 +89,20 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 29754 |
 | Bachelor's or higher | 51594 |
 
+## Districts
+
+- [WI-01](/us/states/wi/districts/01.md) — 43% (congressional)
+- [WI Senate District 11](/us/states/wi/districts/senate/11.md) — 17% (state senate)
+- [WI Senate District 21](/us/states/wi/districts/senate/21.md) — 12% (state senate)
+- [WI Senate District 28](/us/states/wi/districts/senate/28.md) — 9% (state senate)
+- [WI Senate District 22](/us/states/wi/districts/senate/22.md) — 5% (state senate)
+- [WI House District 33](/us/states/wi/districts/house/33.md) — 17% (state house)
+- [WI House District 63](/us/states/wi/districts/house/63.md) — 10% (state house)
+- [WI House District 84](/us/states/wi/districts/house/84.md) — 9% (state house)
+- [WI House District 66](/us/states/wi/districts/house/66.md) — 5% (state house)
+- [WI House District 62](/us/states/wi/districts/house/62.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

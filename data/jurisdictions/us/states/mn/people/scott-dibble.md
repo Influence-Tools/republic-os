@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 61"
+represents: "us/states/mn/districts/senate/61"
 tenure:
   start: "2013-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Scott Dibble
 
 Current MN Senate District 61 (MN State Senate District 61).
+
+Represents [MN State Senate District 61](/us/states/mn/districts/senate/61.md).
 
 ## Sources
 

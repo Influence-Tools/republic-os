@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 46"
+represents: "us/states/nc/districts/senate/46"
 tenure:
   start: "2013-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Warren Daniel
 
 Current NC Senate District 46 (NC State Senate District 46).
+
+Represents [NC State Senate District 46](/us/states/nc/districts/senate/46.md).
 
 ## Sources
 

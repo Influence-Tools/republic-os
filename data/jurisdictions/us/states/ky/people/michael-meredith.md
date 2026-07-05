@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 19"
+represents: "us/states/ky/districts/house/19"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Meredith
 
 Current KY House District 19 (KY State House of Representatives District 19).
+
+Represents [KY State House of Representatives District 19](/us/states/ky/districts/house/19.md).
 
 ## Sources
 

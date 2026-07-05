@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 125"
+represents: "us/states/pa/districts/house/125"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Kerwin
 
 Current PA House District 125 (PA State House of Representatives District 125).
+
+Represents [PA State House of Representatives District 125](/us/states/pa/districts/house/125.md).
 
 ## Sources
 

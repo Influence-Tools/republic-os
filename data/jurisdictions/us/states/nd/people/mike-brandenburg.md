@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ND"
 district: "ND State House of Representatives District 28"
+represents: "us/states/nd/districts/house/28"
 tenure:
   start: "2004-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Brandenburg
 
 Current ND House District 28 (ND State House of Representatives District 28).
+
+Represents [ND State House of Representatives District 28](/us/states/nd/districts/house/28.md).
 
 ## Sources
 

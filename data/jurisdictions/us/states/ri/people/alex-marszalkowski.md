@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 52"
+represents: "us/states/ri/districts/house/52"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Alex Marszalkowski
 
 Current RI House District 52 (RI State House of Representatives District 52).
+
+Represents [RI State House of Representatives District 52](/us/states/ri/districts/house/52.md).
 
 ## Sources
 

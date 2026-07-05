@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State Senate District 32"
+represents: "us/states/wi/districts/senate/32"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brad Pfaff
 
 Current WI Senate District 32 (WI State Senate District 32).
+
+Represents [WI State Senate District 32](/us/states/wi/districts/senate/32.md).
 
 ## Sources
 

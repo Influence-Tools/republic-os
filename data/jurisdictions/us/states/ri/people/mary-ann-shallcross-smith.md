@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 46"
+represents: "us/states/ri/districts/house/46"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Ann Shallcross-Smith
 
 Current RI House District 46 (RI State House of Representatives District 46).
+
+Represents [RI State House of Representatives District 46](/us/states/ri/districts/house/46.md).
 
 ## Sources
 

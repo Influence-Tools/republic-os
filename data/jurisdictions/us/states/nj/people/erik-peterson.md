@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NJ"
 district: "NJ State House of Representatives District 23"
+represents: "us/states/nj/districts/house/23"
 tenure:
   start: "2009-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Erik Peterson
 
 Current NJ House District 23 (NJ State House of Representatives District 23).
+
+Represents [NJ State House of Representatives District 23](/us/states/nj/districts/house/23.md).
 
 ## Sources
 

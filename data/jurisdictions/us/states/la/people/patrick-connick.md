@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State Senate District 8"
+represents: "us/states/la/districts/senate/8"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Patrick Connick
 
 Current LA Senate District 8 (LA State Senate District 8).
+
+Represents [LA State Senate District 8](/us/states/la/districts/senate/8.md).
 
 ## Sources
 

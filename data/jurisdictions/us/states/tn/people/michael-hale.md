@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 40"
+represents: "us/states/tn/districts/house/40"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michael Hale
 
 Current TN House District 40 (TN State House of Representatives District 40).
+
+Represents [TN State House of Representatives District 40](/us/states/tn/districts/house/40.md).
 
 ## Sources
 

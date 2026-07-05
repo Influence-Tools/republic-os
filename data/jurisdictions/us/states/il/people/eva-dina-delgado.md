@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 3"
+represents: "us/states/il/districts/house/3"
 tenure:
   start: "2019-11-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eva-Dina Delgado
 
 Current IL House District 3 (IL State House of Representatives District 3).
+
+Represents [IL State House of Representatives District 3](/us/states/il/districts/house/3.md).
 
 ## Sources
 

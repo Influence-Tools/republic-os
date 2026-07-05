@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NH"
 district: "NH State House of Representatives District Carroll 7"
+represents: "us/states/nh/districts/house/carroll-7"
 tenure:
   start: "2026-03-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bobbi Boudman
 
 Current NH House District Carroll 7 (NH State House of Representatives District Carroll 7).
+
+Represents [NH State House of Representatives District Carroll 7](/us/states/nh/districts/house/carroll-7.md).
 
 ## Sources
 

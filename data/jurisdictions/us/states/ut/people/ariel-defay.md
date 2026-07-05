@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "UT"
 district: "UT State House of Representatives District 15"
+represents: "us/states/ut/districts/house/15"
 tenure:
   start: "2023-11-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ariel Defay
 
 Current UT House District 15 (UT State House of Representatives District 15).
+
+Represents [UT State House of Representatives District 15](/us/states/ut/districts/house/15.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State Senate District 20"
+represents: "us/states/me/districts/senate/20"
 tenure:
   start: "2024-12-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bruce Bickford
 
 Current ME Senate District 20 (ME State Senate District 20).
+
+Represents [ME State Senate District 20](/us/states/me/districts/senate/20.md).
 
 ## Sources
 

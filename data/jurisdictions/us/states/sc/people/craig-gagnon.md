@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 11"
+represents: "us/states/sc/districts/house/11"
 tenure:
   start: "2012-11-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Craig Gagnon
 
 Current SC House District 11 (SC State House of Representatives District 11).
+
+Represents [SC State House of Representatives District 11](/us/states/sc/districts/house/11.md).
 
 ## Sources
 

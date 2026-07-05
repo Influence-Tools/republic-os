@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State Senate District 18"
+represents: "us/states/fl/districts/senate/18"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Nick DiCeglie
 
 Current FL Senate District 18 (FL State Senate District 18).
+
+Represents [FL State Senate District 18](/us/states/fl/districts/senate/18.md).
 
 ## Sources
 

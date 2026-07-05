@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "SC"
 district: "SC State House of Representatives District 33"
+represents: "us/states/sc/districts/house/33"
 tenure:
   start: "2020-11-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Travis Moore
 
 Current SC House District 33 (SC State House of Representatives District 33).
+
+Represents [SC State House of Representatives District 33](/us/states/sc/districts/house/33.md).
 
 ## Sources
 

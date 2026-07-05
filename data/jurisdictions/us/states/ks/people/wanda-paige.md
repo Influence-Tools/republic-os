@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 35"
+represents: "us/states/ks/districts/house/35"
 tenure:
   start: "2024-10-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wanda Paige
 
 Current KS House District 35 (KS State House of Representatives District 35).
+
+Represents [KS State House of Representatives District 35](/us/states/ks/districts/house/35.md).
 
 ## Sources
 

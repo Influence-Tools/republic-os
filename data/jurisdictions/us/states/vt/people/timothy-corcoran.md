@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Bennington-2"
+represents: "us/states/vt/districts/house/bennington-2"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Timothy Corcoran
 
 Current VT House District Bennington-2 (VT State House of Representatives District Bennington-2).
+
+Represents [VT State House of Representatives District Bennington-2](/us/states/vt/districts/house/bennington-2.md).
 
 ## Sources
 

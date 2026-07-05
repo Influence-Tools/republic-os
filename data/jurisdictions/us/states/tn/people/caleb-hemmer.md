@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TN"
 district: "TN State House of Representatives District 59"
+represents: "us/states/tn/districts/house/59"
 tenure:
   start: "2022-11-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Caleb Hemmer
 
 Current TN House District 59 (TN State House of Representatives District 59).
+
+Represents [TN State House of Representatives District 59](/us/states/tn/districts/house/59.md).
 
 ## Sources
 

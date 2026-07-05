@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 3rd Suffolk"
+represents: "us/states/ma/districts/house/3rd-suffolk"
 tenure:
   start: "2009-07-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Aaron Michlewitz
 
 Current MA House District 3rd Suffolk (MA State House of Representatives District 3rd Suffolk).
+
+Represents [MA State House of Representatives District 3rd Suffolk](/us/states/ma/districts/house/3rd-suffolk.md).
 
 ## Sources
 

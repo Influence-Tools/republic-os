@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 6th Suffolk"
+represents: "us/states/ma/districts/house/6th-suffolk"
 tenure:
   start: "2011-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Russell Holmes
 
 Current MA House District 6th Suffolk (MA State House of Representatives District 6th Suffolk).
+
+Represents [MA State House of Representatives District 6th Suffolk](/us/states/ma/districts/house/6th-suffolk.md).
 
 ## Sources
 

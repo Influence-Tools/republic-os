@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MO"
 district: "MO State House of Representatives District 83"
+represents: "us/states/mo/districts/house/83"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ray Reed
 
 Current MO House District 83 (MO State House of Representatives District 83).
+
+Represents [MO State House of Representatives District 83](/us/states/mo/districts/house/83.md).
 
 ## Sources
 

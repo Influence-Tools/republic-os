@@ -22,9 +22,30 @@ demographics:
   race_native: 4
   hispanic: 707
   bachelors_plus: 2322
+districts:
+  - to: "us/states/il/districts/02"
+    rel: in-district
+    area_weight: 0.901
+  - to: "us/states/il/districts/16"
+    rel: in-district
+    area_weight: 0.099
+  - to: "us/states/il/districts/senate/53"
+    rel: in-district
+    area_weight: 0.8098
+  - to: "us/states/il/districts/senate/51"
+    rel: in-district
+    area_weight: 0.1902
+  - to: "us/states/il/districts/house/106"
+    rel: in-district
+    area_weight: 0.8098
+  - to: "us/states/il/districts/house/101"
+    rel: in-district
+    area_weight: 0.1902
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, il]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 707 |
 | Bachelor's or higher | 2322 |
 
+## Districts
+
+- [IL-02](/us/states/il/districts/02.md) — 90% (congressional)
+- [IL-16](/us/states/il/districts/16.md) — 10% (congressional)
+- [IL Senate District 53](/us/states/il/districts/senate/53.md) — 81% (state senate)
+- [IL Senate District 51](/us/states/il/districts/senate/51.md) — 19% (state senate)
+- [IL House District 106](/us/states/il/districts/house/106.md) — 81% (state house)
+- [IL House District 101](/us/states/il/districts/house/101.md) — 19% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

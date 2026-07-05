@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 44"
+represents: "us/states/al/districts/house/44"
 tenure:
   start: "2014-11-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Danny Garrett
 
 Current AL House District 44 (AL State House of Representatives District 44).
+
+Represents [AL State House of Representatives District 44](/us/states/al/districts/house/44.md).
 
 ## Sources
 

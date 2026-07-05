@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 1"
+represents: "us/states/pr/districts/house/1"
 tenure:
   start: "2017-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Eddie Charbonier
 
 Current PR House District 1 (PR State House of Representatives District 1).
+
+Represents [PR State House of Representatives District 1](/us/states/pr/districts/house/1.md).
 
 ## Sources
 

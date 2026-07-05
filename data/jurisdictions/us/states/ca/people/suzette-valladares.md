@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CA"
 district: "CA State Senate District 23"
+represents: "us/states/ca/districts/senate/23"
 tenure:
   start: "2024-12-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Suzette Valladares
 
 Current CA Senate District 23 (CA State Senate District 23).
+
+Represents [CA State Senate District 23](/us/states/ca/districts/senate/23.md).
 
 ## Sources
 

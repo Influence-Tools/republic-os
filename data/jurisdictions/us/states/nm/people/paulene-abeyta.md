@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 69"
+represents: "us/states/nm/districts/house/69"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Paulene Abeyta
 
 Current NM House District 69 (NM State House of Representatives District 69).
+
+Represents [NM State House of Representatives District 69](/us/states/nm/districts/house/69.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PR"
 district: "PR State House of Representatives District 27"
+represents: "us/states/pr/districts/house/27"
 tenure:
   start: "2021-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Estrella Martínez Soto
 
 Current PR House District 27 (PR State House of Representatives District 27).
+
+Represents [PR State House of Representatives District 27](/us/states/pr/districts/house/27.md).
 
 ## Sources
 

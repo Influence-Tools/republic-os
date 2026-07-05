@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 87"
+represents: "us/states/ms/districts/house/87"
 tenure:
   start: "2020-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bubba Tubb
 
 Current MS House District 87 (MS State House of Representatives District 87).
+
+Represents [MS State House of Representatives District 87](/us/states/ms/districts/house/87.md).
 
 ## Sources
 

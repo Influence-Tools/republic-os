@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State Senate District 1"
+represents: "us/states/ia/districts/senate/1"
 tenure:
   start: "2025-09-15"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Catelin Drey
 
 Current IA Senate District 1 (IA State Senate District 1).
+
+Represents [IA State Senate District 1](/us/states/ia/districts/senate/1.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State House of Representatives District 59"
+represents: "us/states/mt/districts/house/59"
 tenure:
   start: "2025-12-22"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Katie Fire Thunder
 
 Current MT House District 59 (MT State House of Representatives District 59).
+
+Represents [MT State House of Representatives District 59](/us/states/mt/districts/house/59.md).
 
 ## Sources
 

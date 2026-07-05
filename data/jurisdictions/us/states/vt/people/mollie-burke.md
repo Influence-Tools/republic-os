@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State House of Representatives District Windham-8"
+represents: "us/states/vt/districts/house/windham-8"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mollie Burke
 
 Current VT House District Windham-8 (VT State House of Representatives District Windham-8).
+
+Represents [VT State House of Representatives District Windham-8](/us/states/vt/districts/house/windham-8.md).
 
 ## Sources
 

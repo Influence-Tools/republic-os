@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CO"
 district: "CO State House of Representatives District 31"
+represents: "us/states/co/districts/house/31"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jacque Phillips
 
 Current CO House District 31 (CO State House of Representatives District 31).
+
+Represents [CO State House of Representatives District 31](/us/states/co/districts/house/31.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 24"
+represents: "us/states/la/districts/house/24"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rodney Schamerhorn
 
 Current LA House District 24 (LA State House of Representatives District 24).
+
+Represents [LA State House of Representatives District 24](/us/states/la/districts/house/24.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 8"
+represents: "us/states/oh/districts/house/8"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Anita Somani
 
 Current OH House District 8 (OH State House of Representatives District 8).
+
+Represents [OH State House of Representatives District 8](/us/states/oh/districts/house/8.md).
 
 ## Sources
 

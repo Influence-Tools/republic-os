@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State Senate District 6"
+represents: "us/states/ri/districts/senate/6"
 tenure:
   start: "2021-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tiara Mack
 
 Current RI Senate District 6 (RI State Senate District 6).
+
+Represents [RI State Senate District 6](/us/states/ri/districts/senate/6.md).
 
 ## Sources
 

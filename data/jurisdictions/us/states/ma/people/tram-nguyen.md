@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MA"
 district: "MA State House of Representatives District 18th Essex"
+represents: "us/states/ma/districts/house/18th-essex"
 tenure:
   start: "2019-01-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tram Nguyen
 
 Current MA House District 18th Essex (MA State House of Representatives District 18th Essex).
+
+Represents [MA State House of Representatives District 18th Essex](/us/states/ma/districts/house/18th-essex.md).
 
 ## Sources
 

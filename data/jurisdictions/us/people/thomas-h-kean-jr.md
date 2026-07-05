@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "NJ"
 district: "Congressional District 7"
+represents: "us/states/nj/districts/07"
 committees:
   - name: "House Committee on Energy and Commerce"
     role: "member"
@@ -58,6 +59,8 @@ timestamp: "2026-07-04"
 # Thomas H. Kean, Jr.
 
 Current U.S. House of Representatives - NJ-7 (Congressional District 7).
+
+Represents [Congressional District 7](/us/states/nj/districts/07.md).
 
 ## Committees
 

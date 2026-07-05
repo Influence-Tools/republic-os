@@ -22,9 +22,39 @@ demographics:
   race_native: 566
   hispanic: 8264
   bachelors_plus: 45272
+districts:
+  - to: "us/states/ky/districts/04"
+    rel: in-district
+    area_weight: 0.9994
+  - to: "us/states/ky/districts/senate/11"
+    rel: in-district
+    area_weight: 0.6724
+  - to: "us/states/ky/districts/senate/20"
+    rel: in-district
+    area_weight: 0.3269
+  - to: "us/states/ky/districts/house/66"
+    rel: in-district
+    area_weight: 0.4636
+  - to: "us/states/ky/districts/house/60"
+    rel: in-district
+    area_weight: 0.2168
+  - to: "us/states/ky/districts/house/61"
+    rel: in-district
+    area_weight: 0.1797
+  - to: "us/states/ky/districts/house/63"
+    rel: in-district
+    area_weight: 0.074
+  - to: "us/states/ky/districts/house/78"
+    rel: in-district
+    area_weight: 0.0436
+  - to: "us/states/ky/districts/house/69"
+    rel: in-district
+    area_weight: 0.0216
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, ky]
 timestamp: "2026-07-03"
@@ -56,6 +86,19 @@ County jurisdiction — 2 officeholders mapped.
 | Hispanic/Latino | 8264 |
 | Bachelor's or higher | 45272 |
 
+## Districts
+
+- [KY-04](/us/states/ky/districts/04.md) — 100% (congressional)
+- [KY Senate District 11](/us/states/ky/districts/senate/11.md) — 67% (state senate)
+- [KY Senate District 20](/us/states/ky/districts/senate/20.md) — 33% (state senate)
+- [KY House District 66](/us/states/ky/districts/house/66.md) — 46% (state house)
+- [KY House District 60](/us/states/ky/districts/house/60.md) — 22% (state house)
+- [KY House District 61](/us/states/ky/districts/house/61.md) — 18% (state house)
+- [KY House District 63](/us/states/ky/districts/house/63.md) — 7% (state house)
+- [KY House District 78](/us/states/ky/districts/house/78.md) — 4% (state house)
+- [KY House District 69](/us/states/ky/districts/house/69.md) — 2% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

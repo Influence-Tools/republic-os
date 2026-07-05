@@ -8,6 +8,7 @@ level: "federal"
 branch: "legislative"
 state: "MN"
 district: "Congressional District 6"
+represents: "us/states/mn/districts/06"
 leadership:
   - role: "House Majority Whip"
     body: "H"
@@ -47,6 +48,8 @@ timestamp: "2026-07-04"
 # Tom Emmer
 
 Current U.S. House of Representatives - MN-6 (Congressional District 6).
+
+Represents [Congressional District 6](/us/states/mn/districts/06.md).
 
 ## Leadership
 

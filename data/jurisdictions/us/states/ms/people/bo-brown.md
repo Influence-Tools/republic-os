@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 70"
+represents: "us/states/ms/districts/house/70"
 tenure:
   start: "2020-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bo Brown
 
 Current MS House District 70 (MS State House of Representatives District 70).
+
+Represents [MS State House of Representatives District 70](/us/states/ms/districts/house/70.md).
 
 ## Sources
 

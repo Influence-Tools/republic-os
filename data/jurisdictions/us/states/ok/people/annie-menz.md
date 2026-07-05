@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 45"
+represents: "us/states/ok/districts/house/45"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Annie Menz
 
 Current OK House District 45 (OK State House of Representatives District 45).
+
+Represents [OK State House of Representatives District 45](/us/states/ok/districts/house/45.md).
 
 ## Sources
 

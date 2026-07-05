@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 54"
+represents: "us/states/il/districts/house/54"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mary Beth Canty
 
 Current IL House District 54 (IL State House of Representatives District 54).
+
+Represents [IL State House of Representatives District 54](/us/states/il/districts/house/54.md).
 
 ## Sources
 

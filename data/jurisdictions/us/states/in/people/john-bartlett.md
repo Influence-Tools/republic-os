@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 95"
+represents: "us/states/in/districts/house/95"
 tenure:
   start: "2007-12-17"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Bartlett
 
 Current IN House District 95 (IN State House of Representatives District 95).
+
+Represents [IN State House of Representatives District 95](/us/states/in/districts/house/95.md).
 
 ## Sources
 

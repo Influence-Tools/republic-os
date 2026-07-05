@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State Senate District 52"
+represents: "us/states/ga/districts/senate/52"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chuck Hufstetler
 
 Current GA Senate District 52 (GA State Senate District 52).
+
+Represents [GA State Senate District 52](/us/states/ga/districts/senate/52.md).
 
 ## Sources
 

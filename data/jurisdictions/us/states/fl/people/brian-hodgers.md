@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "FL"
 district: "FL State House of Representatives District 32"
+represents: "us/states/fl/districts/house/32"
 tenure:
   start: "2025-06-10"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brian Hodgers
 
 Current FL House District 32 (FL State House of Representatives District 32).
+
+Represents [FL State House of Representatives District 32](/us/states/fl/districts/house/32.md).
 
 ## Sources
 

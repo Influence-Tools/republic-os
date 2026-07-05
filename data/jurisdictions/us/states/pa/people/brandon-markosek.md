@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 25"
+represents: "us/states/pa/districts/house/25"
 tenure:
   start: "2018-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brandon Markosek
 
 Current PA House District 25 (PA State House of Representatives District 25).
+
+Represents [PA State House of Representatives District 25](/us/states/pa/districts/house/25.md).
 
 ## Sources
 

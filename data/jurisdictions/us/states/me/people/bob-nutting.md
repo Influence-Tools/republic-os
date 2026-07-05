@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 66"
+represents: "us/states/me/districts/house/66"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Nutting
 
 Current ME House District 66 (ME State House of Representatives District 66).
+
+Represents [ME State House of Representatives District 66](/us/states/me/districts/house/66.md).
 
 ## Sources
 

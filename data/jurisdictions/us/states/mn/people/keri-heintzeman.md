@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State Senate District 6"
+represents: "us/states/mn/districts/senate/6"
 tenure:
   start: "2025-05-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Keri Heintzeman
 
 Current MN Senate District 6 (MN State Senate District 6).
+
+Represents [MN State Senate District 6](/us/states/mn/districts/senate/6.md).
 
 ## Sources
 

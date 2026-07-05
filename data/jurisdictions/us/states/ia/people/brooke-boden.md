@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IA"
 district: "IA State House of Representatives District 21"
+represents: "us/states/ia/districts/house/21"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Brooke Boden
 
 Current IA House District 21 (IA State House of Representatives District 21).
+
+Represents [IA State House of Representatives District 21](/us/states/ia/districts/house/21.md).
 
 ## Sources
 

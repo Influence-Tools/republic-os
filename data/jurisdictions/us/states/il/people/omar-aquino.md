@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State Senate District 2"
+represents: "us/states/il/districts/senate/2"
 tenure:
   start: "2016-07-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Omar Aquino
 
 Current IL Senate District 2 (IL State Senate District 2).
+
+Represents [IL State Senate District 2](/us/states/il/districts/senate/2.md).
 
 ## Sources
 

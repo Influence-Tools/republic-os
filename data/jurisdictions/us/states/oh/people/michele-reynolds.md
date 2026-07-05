@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State Senate District 3"
+represents: "us/states/oh/districts/senate/3"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Michele Reynolds
 
 Current OH Senate District 3 (OH State Senate District 3).
+
+Represents [OH State Senate District 3](/us/states/oh/districts/senate/3.md).
 
 ## Sources
 

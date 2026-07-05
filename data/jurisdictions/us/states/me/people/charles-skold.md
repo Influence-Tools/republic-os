@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ME"
 district: "ME State House of Representatives District 119"
+represents: "us/states/me/districts/house/119"
 tenure:
   start: "2022-12-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Charles Skold
 
 Current ME House District 119 (ME State House of Representatives District 119).
+
+Represents [ME State House of Representatives District 119](/us/states/me/districts/house/119.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "PA"
 district: "PA State House of Representatives District 65"
+represents: "us/states/pa/districts/house/65"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kathy Rapp
 
 Current PA House District 65 (PA State House of Representatives District 65).
+
+Represents [PA State House of Representatives District 65](/us/states/pa/districts/house/65.md).
 
 ## Sources
 

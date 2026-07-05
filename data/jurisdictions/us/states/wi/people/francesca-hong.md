@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WI"
 district: "WI State House of Representatives District 76"
+represents: "us/states/wi/districts/house/76"
 tenure:
   start: "2021-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Francesca Hong
 
 Current WI House District 76 (WI State House of Representatives District 76).
+
+Represents [WI State House of Representatives District 76](/us/states/wi/districts/house/76.md).
 
 ## Sources
 

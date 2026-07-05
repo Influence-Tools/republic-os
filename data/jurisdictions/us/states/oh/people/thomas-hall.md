@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OH"
 district: "OH State House of Representatives District 46"
+represents: "us/states/oh/districts/house/46"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Thomas Hall
 
 Current OH House District 46 (OH State House of Representatives District 46).
+
+Represents [OH State House of Representatives District 46](/us/states/oh/districts/house/46.md).
 
 ## Sources
 

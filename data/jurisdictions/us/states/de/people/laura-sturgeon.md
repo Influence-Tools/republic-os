@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "DE"
 district: "DE State Senate District 4"
+represents: "us/states/de/districts/senate/4"
 tenure:
   start: "2018-11-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Laura Sturgeon
 
 Current DE Senate District 4 (DE State Senate District 4).
+
+Represents [DE State Senate District 4](/us/states/de/districts/senate/4.md).
 
 ## Sources
 

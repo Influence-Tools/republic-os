@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State Senate District 6"
+represents: "us/states/ms/districts/senate/6"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Chad McMahan
 
 Current MS Senate District 6 (MS State Senate District 6).
+
+Represents [MS State Senate District 6](/us/states/ms/districts/senate/6.md).
 
 ## Sources
 

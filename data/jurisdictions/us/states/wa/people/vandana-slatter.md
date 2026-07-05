@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WA"
 district: "WA State Senate District 48"
+represents: "us/states/wa/districts/senate/48"
 tenure:
   start: "2025-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Vandana Slatter
 
 Current WA Senate District 48 (WA State Senate District 48).
+
+Represents [WA State Senate District 48](/us/states/wa/districts/senate/48.md).
 
 ## Sources
 

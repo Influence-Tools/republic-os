@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MT"
 district: "MT State Senate District 9"
+represents: "us/states/mt/districts/senate/9"
 tenure:
   start: "2019-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Butch Gillespie
 
 Current MT Senate District 9 (MT State Senate District 9).
+
+Represents [MT State Senate District 9](/us/states/mt/districts/senate/9.md).
 
 ## Sources
 

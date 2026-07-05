@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KY"
 district: "KY State House of Representatives District 66"
+represents: "us/states/ky/districts/house/66"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # T.J. Roberts
 
 Current KY House District 66 (KY State House of Representatives District 66).
+
+Represents [KY State House of Representatives District 66](/us/states/ky/districts/house/66.md).
 
 ## Sources
 

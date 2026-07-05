@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 174"
+represents: "us/states/ga/districts/house/174"
 tenure:
   start: "2015-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # John Corbett
 
 Current GA House District 174 (GA State House of Representatives District 174).
+
+Represents [GA State House of Representatives District 174](/us/states/ga/districts/house/174.md).
 
 ## Sources
 

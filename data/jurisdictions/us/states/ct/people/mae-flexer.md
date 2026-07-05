@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State Senate District 29"
+represents: "us/states/ct/districts/senate/29"
 tenure:
   start: "2015-01-07"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mae Flexer
 
 Current CT Senate District 29 (CT State Senate District 29).
+
+Represents [CT State Senate District 29](/us/states/ct/districts/senate/29.md).
 
 ## Sources
 

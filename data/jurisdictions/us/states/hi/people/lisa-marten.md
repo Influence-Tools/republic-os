@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "HI"
 district: "HI State House of Representatives District 51"
+represents: "us/states/hi/districts/house/51"
 tenure:
   start: "2020-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Marten
 
 Current HI House District 51 (HI State House of Representatives District 51).
+
+Represents [HI State House of Representatives District 51](/us/states/hi/districts/house/51.md).
 
 ## Sources
 

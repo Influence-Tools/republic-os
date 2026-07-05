@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "WV"
 district: "WV State Senate District 13"
+represents: "us/states/wv/districts/senate/13"
 tenure:
   start: "2022-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mike Oliverio
 
 Current WV Senate District 13 (WV State Senate District 13).
+
+Represents [WV State Senate District 13](/us/states/wv/districts/senate/13.md).
 
 ## Sources
 

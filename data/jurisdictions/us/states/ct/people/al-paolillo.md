@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 97"
+represents: "us/states/ct/districts/house/97"
 tenure:
   start: "2017-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Al Paolillo
 
 Current CT House District 97 (CT State House of Representatives District 97).
+
+Represents [CT State House of Representatives District 97](/us/states/ct/districts/house/97.md).
 
 ## Sources
 

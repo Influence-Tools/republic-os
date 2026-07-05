@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NY"
 district: "NY State Senate District 22"
+represents: "us/states/ny/districts/senate/22"
 tenure:
   start: "2025-05-27"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sam Sutton
 
 Current NY Senate District 22 (NY State Senate District 22).
+
+Represents [NY State Senate District 22](/us/states/ny/districts/senate/22.md).
 
 ## Sources
 

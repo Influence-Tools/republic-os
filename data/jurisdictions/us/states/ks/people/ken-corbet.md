@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 54"
+represents: "us/states/ks/districts/house/54"
 tenure:
   start: "2013-01-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Corbet
 
 Current KS House District 54 (KS State House of Representatives District 54).
+
+Represents [KS State House of Representatives District 54](/us/states/ks/districts/house/54.md).
 
 ## Sources
 

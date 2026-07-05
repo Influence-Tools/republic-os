@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State House of Representatives District 76"
+represents: "us/states/in/districts/house/76"
 tenure:
   start: "2010-11-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy McNamara
 
 Current IN House District 76 (IN State House of Representatives District 76).
+
+Represents [IN State House of Representatives District 76](/us/states/in/districts/house/76.md).
 
 ## Sources
 

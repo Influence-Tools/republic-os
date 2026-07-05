@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State House of Representatives District 21"
+represents: "us/states/ok/districts/house/21"
 tenure:
   start: "2022-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Cody Maynard
 
 Current OK House District 21 (OK State House of Representatives District 21).
+
+Represents [OK State House of Representatives District 21](/us/states/ok/districts/house/21.md).
 
 ## Sources
 

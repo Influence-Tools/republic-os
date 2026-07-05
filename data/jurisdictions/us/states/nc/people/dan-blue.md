@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State Senate District 14"
+represents: "us/states/nc/districts/senate/14"
 tenure:
   start: "2009-05-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Dan Blue
 
 Current NC Senate District 14 (NC State Senate District 14).
+
+Represents [NC State Senate District 14](/us/states/nc/districts/senate/14.md).
 
 ## Sources
 

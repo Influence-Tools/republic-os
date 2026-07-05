@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 58"
+represents: "us/states/la/districts/house/58"
 tenure:
   start: "2017-10-14"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Ken Brass
 
 Current LA House District 58 (LA State House of Representatives District 58).
+
+Represents [LA State House of Representatives District 58](/us/states/la/districts/house/58.md).
 
 ## Sources
 

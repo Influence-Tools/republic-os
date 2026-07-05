@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 105"
+represents: "us/states/ga/districts/house/105"
 tenure:
   start: "2025-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Sandy Donatucci
 
 Current GA House District 105 (GA State House of Representatives District 105).
+
+Represents [GA State House of Representatives District 105](/us/states/ga/districts/house/105.md).
 
 ## Sources
 

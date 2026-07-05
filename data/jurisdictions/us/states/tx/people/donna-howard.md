@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "TX"
 district: "TX State House of Representatives District 48"
+represents: "us/states/tx/districts/house/48"
 tenure:
   start: "2006-03-02"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Donna Howard
 
 Current TX House District 48 (TX State House of Representatives District 48).
+
+Represents [TX State House of Representatives District 48](/us/states/tx/districts/house/48.md).
 
 ## Sources
 

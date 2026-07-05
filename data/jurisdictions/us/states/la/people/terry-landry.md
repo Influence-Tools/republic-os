@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 67"
+represents: "us/states/la/districts/house/67"
 tenure:
   start: "2025-05-19"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Terry Landry
 
 Current LA House District 67 (LA State House of Representatives District 67).
+
+Represents [LA State House of Representatives District 67](/us/states/la/districts/house/67.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "VT"
 district: "VT State Senate District Windham"
+represents: "us/states/vt/districts/senate/windham"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Wendy Harrison
 
 Current VT Senate District Windham (VT State Senate District Windham).
+
+Represents [VT State Senate District Windham](/us/states/vt/districts/senate/windham.md).
 
 ## Sources
 

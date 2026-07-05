@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 113"
+represents: "us/states/ct/districts/house/113"
 tenure:
   start: "2025-04-25"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Amy Romano
 
 Current CT House District 113 (CT State House of Representatives District 113).
+
+Represents [CT State House of Representatives District 113](/us/states/ct/districts/house/113.md).
 
 ## Sources
 

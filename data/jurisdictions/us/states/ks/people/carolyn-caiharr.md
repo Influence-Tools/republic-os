@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 33"
+represents: "us/states/ks/districts/house/33"
 tenure:
   start: "2025-09-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Carolyn Caiharr
 
 Current KS House District 33 (KS State House of Representatives District 33).
+
+Represents [KS State House of Representatives District 33](/us/states/ks/districts/house/33.md).
 
 ## Sources
 

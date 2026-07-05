@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 40"
+represents: "us/states/il/districts/house/40"
 tenure:
   start: "2013-08-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jaime Andrade
 
 Current IL House District 40 (IL State House of Representatives District 40).
+
+Represents [IL State House of Representatives District 40](/us/states/il/districts/house/40.md).
 
 ## Sources
 

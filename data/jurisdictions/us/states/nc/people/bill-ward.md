@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 5"
+represents: "us/states/nc/districts/house/5"
 tenure:
   start: "2023-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bill Ward
 
 Current NC House District 5 (NC State House of Representatives District 5).
+
+Represents [NC State House of Representatives District 5](/us/states/nc/districts/house/5.md).
 
 ## Sources
 

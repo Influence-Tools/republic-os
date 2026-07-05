@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "OK"
 district: "OK State Senate District 41"
+represents: "us/states/ok/districts/senate/41"
 tenure:
   start: "2016-11-23"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Pugh
 
 Current OK Senate District 41 (OK State Senate District 41).
+
+Represents [OK State Senate District 41](/us/states/ok/districts/senate/41.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 45"
+represents: "us/states/il/districts/house/45"
 tenure:
   start: "2025-01-08"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Marti Deuter
 
 Current IL House District 45 (IL State House of Representatives District 45).
+
+Represents [IL State House of Representatives District 45](/us/states/il/districts/house/45.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 33"
+represents: "us/states/la/districts/house/33"
 tenure:
   start: "2020-01-13"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Les Farnum
 
 Current LA House District 33 (LA State House of Representatives District 33).
+
+Represents [LA State House of Representatives District 33](/us/states/la/districts/house/33.md).
 
 ## Sources
 

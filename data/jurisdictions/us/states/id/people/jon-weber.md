@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "ID"
 district: "ID State House of Representatives District 34A"
+represents: "us/states/id/districts/house/34a"
 tenure:
   start: "2020-12-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Jon Weber
 
 Current ID House District 34A (ID State House of Representatives District 34A).
+
+Represents [ID State House of Representatives District 34A](/us/states/id/districts/house/34a.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MD"
 district: "MD State House of Representatives District 37B"
+represents: "us/states/md/districts/house/37b"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tom Hutchinson
 
 Current MD House District 37B (MD State House of Representatives District 37B).
+
+Represents [MD State House of Representatives District 37B](/us/states/md/districts/house/37b.md).
 
 ## Sources
 

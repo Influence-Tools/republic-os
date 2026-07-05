@@ -22,9 +22,30 @@ demographics:
   race_native: 106
   hispanic: 296
   bachelors_plus: 2496
+districts:
+  - to: "us/states/mn/districts/08"
+    rel: in-district
+    area_weight: 1.0
+  - to: "us/states/mn/districts/senate/11"
+    rel: in-district
+    area_weight: 0.5241
+  - to: "us/states/mn/districts/senate/10"
+    rel: in-district
+    area_weight: 0.4759
+  - to: "us/states/mn/districts/house/11b"
+    rel: in-district
+    area_weight: 0.5241
+  - to: "us/states/mn/districts/house/10a"
+    rel: in-district
+    area_weight: 0.3381
+  - to: "us/states/mn/districts/house/10b"
+    rel: in-district
+    area_weight: 0.1377
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, mn]
 timestamp: "2026-07-03"
@@ -56,6 +77,16 @@ County jurisdiction.
 | Hispanic/Latino | 296 |
 | Bachelor's or higher | 2496 |
 
+## Districts
+
+- [MN-08](/us/states/mn/districts/08.md) — 100% (congressional)
+- [MN Senate District 11](/us/states/mn/districts/senate/11.md) — 52% (state senate)
+- [MN Senate District 10](/us/states/mn/districts/senate/10.md) — 48% (state senate)
+- [MN House District 11B](/us/states/mn/districts/house/11b.md) — 52% (state house)
+- [MN House District 10A](/us/states/mn/districts/house/10a.md) — 34% (state house)
+- [MN House District 10B](/us/states/mn/districts/house/10b.md) — 14% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

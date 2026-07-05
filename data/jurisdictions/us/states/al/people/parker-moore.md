@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "AL"
 district: "AL State House of Representatives District 4"
+represents: "us/states/al/districts/house/4"
 tenure:
   start: "2018-05-16"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Parker Moore
 
 Current AL House District 4 (AL State House of Representatives District 4).
+
+Represents [AL State House of Representatives District 4](/us/states/al/districts/house/4.md).
 
 ## Sources
 

@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 4"
+represents: "us/states/ga/districts/house/4"
 tenure:
   start: "2017-11-20"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Kasey Carpenter
 
 Current GA House District 4 (GA State House of Representatives District 4).
+
+Represents [GA State House of Representatives District 4](/us/states/ga/districts/house/4.md).
 
 ## Sources
 

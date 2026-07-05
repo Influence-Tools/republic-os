@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MN"
 district: "MN State House of Representatives District 52B"
+represents: "us/states/mn/districts/house/52b"
 tenure:
   start: "2024-01-12"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bianca Virnig
 
 Current MN House District 52B (MN State House of Representatives District 52B).
+
+Represents [MN State House of Representatives District 52B](/us/states/mn/districts/house/52b.md).
 
 ## Sources
 

@@ -22,9 +22,21 @@ demographics:
   race_native: 29
   hispanic: 1164
   bachelors_plus: 8873
+districts:
+  - to: "us/states/pa/districts/13"
+    rel: in-district
+    area_weight: 0.9973
+  - to: "us/states/pa/districts/senate/34"
+    rel: in-district
+    area_weight: 0.9998
+  - to: "us/states/pa/districts/house/86"
+    rel: in-district
+    area_weight: 0.9997
 sources:
   - field: demographics
-    source: Census ACS 2023
+    source: "Census ACS 2023"
+  - field: districts
+    source: "PostGIS area-intersection over Census TIGER 2024 boundaries"
 confidence: official
 tags: [jurisdiction, county, pa]
 timestamp: "2026-07-03"
@@ -56,6 +68,13 @@ County jurisdiction.
 | Hispanic/Latino | 1164 |
 | Bachelor's or higher | 8873 |
 
+## Districts
+
+- [PA-13](/us/states/pa/districts/13.md) — 100% (congressional)
+- [PA Senate District 34](/us/states/pa/districts/senate/34.md) — 100% (state senate)
+- [PA House District 86](/us/states/pa/districts/house/86.md) — 100% (state house)
+
 ## Source
 
 - demographics: Census ACS 2023
+- districts: PostGIS area-intersection over Census TIGER 2024 boundaries

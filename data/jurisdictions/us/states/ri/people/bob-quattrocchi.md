@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "RI"
 district: "RI State House of Representatives District 41"
+represents: "us/states/ri/districts/house/41"
 tenure:
   start: "2017-01-03"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Bob Quattrocchi
 
 Current RI House District 41 (RI State House of Representatives District 41).
+
+Represents [RI State House of Representatives District 41](/us/states/ri/districts/house/41.md).
 
 ## Sources
 

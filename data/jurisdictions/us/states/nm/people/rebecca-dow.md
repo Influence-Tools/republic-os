@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NM"
 district: "NM State House of Representatives District 38"
+represents: "us/states/nm/districts/house/38"
 tenure:
   start: "2025-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rebecca Dow
 
 Current NM House District 38 (NM State House of Representatives District 38).
+
+Represents [NM State House of Representatives District 38](/us/states/nm/districts/house/38.md).
 
 ## Sources
 

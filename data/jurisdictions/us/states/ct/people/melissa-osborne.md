@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "CT"
 district: "CT State House of Representatives District 16"
+represents: "us/states/ct/districts/house/16"
 tenure:
   start: "2023-01-04"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Melissa Osborne
 
 Current CT House District 16 (CT State House of Representatives District 16).
+
+Represents [CT State House of Representatives District 16](/us/states/ct/districts/house/16.md).
 
 ## Sources
 

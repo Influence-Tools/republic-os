@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "KS"
 district: "KS State House of Representatives District 120"
+represents: "us/states/ks/districts/house/120"
 tenure:
   start: "2017-01-09"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Adam Smith
 
 Current KS House District 120 (KS State House of Representatives District 120).
+
+Represents [KS State House of Representatives District 120](/us/states/ks/districts/house/120.md).
 
 ## Sources
 

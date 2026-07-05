@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "NC"
 district: "NC State House of Representatives District 120"
+represents: "us/states/nc/districts/house/120"
 tenure:
   start: "2021-01-01"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Karl Gillespie
 
 Current NC House District 120 (NC State House of Representatives District 120).
+
+Represents [NC State House of Representatives District 120](/us/states/nc/districts/house/120.md).
 
 ## Sources
 

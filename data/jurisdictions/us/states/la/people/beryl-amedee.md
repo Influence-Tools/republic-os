@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "LA"
 district: "LA State House of Representatives District 51"
+represents: "us/states/la/districts/house/51"
 tenure:
   start: "2016-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Beryl Amedée
 
 Current LA House District 51 (LA State House of Representatives District 51).
+
+Represents [LA State House of Representatives District 51](/us/states/la/districts/house/51.md).
 
 ## Sources
 

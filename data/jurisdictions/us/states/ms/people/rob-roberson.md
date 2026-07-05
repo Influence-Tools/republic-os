@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "MS"
 district: "MS State House of Representatives District 43"
+represents: "us/states/ms/districts/house/43"
 tenure:
   start: "2016-01-05"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Rob Roberson
 
 Current MS House District 43 (MS State House of Representatives District 43).
+
+Represents [MS State House of Representatives District 43](/us/states/ms/districts/house/43.md).
 
 ## Sources
 

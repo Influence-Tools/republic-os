@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 171"
+represents: "us/states/ga/districts/house/171"
 tenure:
   start: "2020-02-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Joe Campbell
 
 Current GA House District 171 (GA State House of Representatives District 171).
+
+Represents [GA State House of Representatives District 171](/us/states/ga/districts/house/171.md).
 
 ## Sources
 

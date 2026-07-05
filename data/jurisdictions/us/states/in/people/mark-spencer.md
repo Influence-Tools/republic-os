@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IN"
 district: "IN State Senate District 3"
+represents: "us/states/in/districts/senate/3"
 tenure:
   start: "2024-11-06"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Mark Spencer
 
 Current IN Senate District 3 (IN State Senate District 3).
+
+Represents [IN State Senate District 3](/us/states/in/districts/senate/3.md).
 
 ## Sources
 

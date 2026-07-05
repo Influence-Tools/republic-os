@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "IL"
 district: "IL State House of Representatives District 2"
+represents: "us/states/il/districts/house/2"
 tenure:
   start: "2023-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Lisa Hernandez
 
 Current IL House District 2 (IL State House of Representatives District 2).
+
+Represents [IL State House of Representatives District 2](/us/states/il/districts/house/2.md).
 
 ## Sources
 

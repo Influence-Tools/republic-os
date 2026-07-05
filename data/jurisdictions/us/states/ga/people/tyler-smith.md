@@ -8,6 +8,7 @@ level: "state"
 branch: "legislative"
 state: "GA"
 district: "GA State House of Representatives District 18"
+represents: "us/states/ga/districts/house/18"
 tenure:
   start: "2021-01-11"
   current: true
@@ -32,6 +33,8 @@ timestamp: "2026-07-04"
 # Tyler Smith
 
 Current GA House District 18 (GA State House of Representatives District 18).
+
+Represents [GA State House of Representatives District 18](/us/states/ga/districts/house/18.md).
 
 ## Sources
 
