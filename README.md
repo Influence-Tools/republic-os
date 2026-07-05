@@ -41,6 +41,7 @@ make build         # regenerate the entity tree from the raw exports
 make legal-us-code # regenerate the U.S. Code Title 52 legal corpus seed
 make validate      # OKF + schema + link-integrity checks on all records
 make changelog     # what changed in the government since the last commit
+make board         # rebuild the Board's inlined data from the tree
 make check         # build, then validate — the full gate
 ```
 
@@ -52,6 +53,7 @@ Everything runs on the Python standard library. No dependencies to install.
 - [Data Model](docs/data-model.md) — entity types, IDs, the file format, the jurisdiction tree
 - [Sources](docs/sources.md) — where every fact comes from, and how current it is
 - [Legal Corpus](docs/legal-corpus.md) — deterministic legal text mirroring, raw snapshots, manifests, and checksums
+- [The Board](docs/board.md) — the county map view, how its data is rebuilt, and how to redeploy the Artifact
 - [Roadmap](docs/roadmap.md) — what exists, what's next
 - [Contributing](docs/contributing.md) — the disciplines, and how to add a source
 - [Technical Brief — Government as Software](Technical%20Brief%20—%20Government%20as%20Software.md) — the founding document
