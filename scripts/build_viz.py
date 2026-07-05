@@ -47,6 +47,8 @@ def city_name(rec):
 def main():
     officeholders = build.load("officeholders-v3.jsonl")
     acs_county = build.load("acs_county.jsonl")
+    candidates = build.load("fec_candidates.jsonl")
+    acs_cd = build.load("acs_cd.jsonl")
     place_to_cslug = build.place_resolver(acs_county, build.load("place_county_crosswalk.jsonl"))
 
     # slug -> fips, and fips -> (name, state, demographics), deduped by fips
@@ -115,11 +117,23 @@ def main():
         county_detail[cf] = {"slug": key[1], "county": county, "munis": munis}
     county_detail = {k: county_detail[k] for k in sorted(county_detail)}
 
+    totals = {
+        "people": len(officeholders),
+        "candidates": len(candidates),
+        "counties": len(county_data),
+        "districts": len(acs_cd),
+    }
+
     VIZ.mkdir(exist_ok=True)
+    # Human-readable / diffable companions (not read by the Board itself).
     (VIZ / "county_data.json").write_text(
         json.dumps(county_data, ensure_ascii=False, sort_keys=True) + "\n")
     (VIZ / "county_detail.json").write_text(
         json.dumps(county_detail, ensure_ascii=False, sort_keys=True) + "\n")
+
+    # The Board is a self-contained Artifact (CSP blocks fetch), so its data is
+    # inlined. Inject the fresh dicts + totals into the three marked const lines.
+    inject_board(county_data, county_detail, totals)
 
     total_oh = sum(oh_count.values())
     print(f"county_data.json:   {len(county_data)} counties, "
@@ -127,6 +141,24 @@ def main():
     print(f"county_detail.json: {len(county_detail)} counties with rosters")
     print(f"officials mapped: {total_oh - unresolved}/{total_oh}  "
           f"(county-unresolvable, tree-only: {unresolved})")
+    print(f"board.html injected: totals={totals}")
+
+
+def inject_board(county_data, county_detail, totals):
+    """Rewrite board.html's three injected const lines in place. The data must
+    be inlined (self-contained Artifact), so build the Board here rather than
+    letting it fetch the JSON companions."""
+    board = VIZ / "board.html"
+    text = board.read_text()
+    payload = {"D": county_data, "CDETAIL": county_detail, "TOTALS": totals}
+    for name, obj in payload.items():
+        literal = "const %s = %s;" % (
+            name, json.dumps(obj, ensure_ascii=False, sort_keys=True, separators=(",", ":")))
+        pat = re.compile(r"^const %s = .*;$" % name, re.M)
+        if not pat.search(text):
+            raise SystemExit(f"board.html: injection marker 'const {name} = …;' not found")
+        text = pat.sub(lambda _m, s=literal: s, text, count=1)
+    board.write_text(text)
 
 
 if __name__ == "__main__":
