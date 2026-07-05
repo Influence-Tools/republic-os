@@ -11,11 +11,11 @@ source. This regenerates its two companions deterministically:
                            — per-county drill-down roster.
 
 County/municipal officials are mapped to a county the same way build.py places
-them in the tree (county_slug / city helpers), so the viz and the tree agree by
-construction. Officials whose county can't be resolved to an ACS FIPS (e.g. the
-non-FL municipal rows still blocked on the place->county crosswalk) are counted
-in the tree but do not appear in the county-keyed viz — an honest gap, not a
-silent drop; the tally is printed at the end.
+them in the tree (shared county_slug + place_resolver), so the viz and the tree
+agree by construction. Officials whose county still can't be resolved to an ACS
+FIPS (ambiguous names, county-level rows mislabeled municipal, CT planning
+regions, label-less rows) are counted in the tree but do not appear in the
+county-keyed viz — an honest gap, not a silent drop; the tally is printed.
 
 Deterministic: sorted iteration, fixed key order. Two runs are byte-identical.
 """
@@ -47,6 +47,7 @@ def city_name(rec):
 def main():
     officeholders = build.load("officeholders-v3.jsonl")
     acs_county = build.load("acs_county.jsonl")
+    place_to_cslug = build.place_resolver(acs_county, build.load("place_county_crosswalk.jsonl"))
 
     # slug -> fips, and fips -> (name, state, demographics), deduped by fips
     slug_to_fips = {}
@@ -72,7 +73,7 @@ def main():
     for rec in officeholders:
         if rec["level"] not in ("county", "municipal"):
             continue
-        key = ((rec.get("state_abbr") or "").lower(), build.county_slug(rec))
+        key = ((rec.get("state_abbr") or "").lower(), build.county_slug(rec, place_to_cslug))
         oh_count[key] += 1
         name = rec.get("full_name") or rec.get("title") or "Unknown"
         role = rec.get("title") or ""

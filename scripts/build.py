@@ -74,6 +74,29 @@ def acs_cslug(row):
     return slugify(norm_county(re.sub(r"\s+County$", "", base)))
 
 
+def place_resolver(acs_county, crosswalk):
+    """(normalized place name, state) -> county dir slug, from the crosswalk.
+
+    county_geoid is the stable key; the slug is taken from the ACS county node
+    (the same source that names county dirs) so municipals nest correctly. Only
+    unique name matches whose county has an ACS node are included — ambiguous
+    names, label-less rows, and counties with no ACS node fall through.
+    Shared by build.py and build_viz.py so the tree and the Board agree.
+    """
+    fips_to_cslug = {canonical_fips(r["county_fips"]): acs_cslug(r) for r in acs_county}
+    geoids = {}
+    for x in crosswalk:
+        geoids.setdefault(
+            (norm_place(x["place_name"]), x["state_code"]), set()).add(x["county_geoid"])
+    out = {}
+    for key, geos in geoids.items():
+        if len(geos) == 1:
+            cf = canonical_fips(next(iter(geos)))
+            if cf in fips_to_cslug:
+                out[key] = fips_to_cslug[cf]
+    return out
+
+
 # committee_title (source) -> normalized role on the committee
 ROLE_MAP = {
     "member": "member", "Chair": "chair", "Chairman": "chair",
@@ -572,21 +595,7 @@ def main():
     acs_county = load("acs_county.jsonl")
     acs_cd = load("acs_cd.jsonl")
     crosswalk = load("place_county_crosswalk.jsonl")
-
-    # place -> county resolver: (normalized place name, state) -> county dir slug.
-    # county_geoid is the stable key; the slug is taken from the ACS county node
-    # (the same source that names county dirs) so municipals nest correctly.
-    fips_to_cslug = {canonical_fips(r["county_fips"]): acs_cslug(r) for r in acs_county}
-    _place_geoids = {}
-    for x in crosswalk:
-        _place_geoids.setdefault(
-            (norm_place(x["place_name"]), x["state_code"]), set()).add(x["county_geoid"])
-    place_to_cslug = {}
-    for key, geos in _place_geoids.items():
-        if len(geos) == 1:
-            cf = canonical_fips(next(iter(geos)))
-            if cf in fips_to_cslug:
-                place_to_cslug[key] = fips_to_cslug[cf]
+    place_to_cslug = place_resolver(acs_county, crosswalk)
 
     bodies_by_code = {b["code"]: b for b in bodies}
     comm_codes = committee_codes(bodies)
