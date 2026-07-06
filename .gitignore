@@ -7,3 +7,8 @@
 # "raw-first, in-repo" discipline turns on at v1.0 — see README.
 data/legal/raw/**/*.zip
 data/legal/raw/**/*.xml
+# Legislation (OpenStates): per-state enacted exports are the raw bytes
+# (~1.1GB/vintage), kept on the depot at /depot/exports/legislation/<vintage>/;
+# ingest reads them from there. Only the manifest (committed under data/sources/)
+# + the rendered Bill nodes get committed.
+data/legislation/

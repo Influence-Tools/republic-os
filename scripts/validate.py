@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-TREES = [REPO / "data" / "jurisdictions", REPO / "legal"]
+TREES = [REPO / "data" / "jurisdictions", REPO / "legal", REPO / "legislation"]
 SCHEMAS = REPO / "schemas"
 MAX_REPORT = 25
 

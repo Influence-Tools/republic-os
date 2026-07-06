@@ -1,0 +1,310 @@
+{
+  "vintage": "2026-07-01",
+  "source": "OpenStates bulk snapshot (data.openstates.org)",
+  "source_url": "https://data.openstates.org/daily/2026-07-01/public.pgdump",
+  "generated_at": "2026-07-06T20:25:28Z",
+  "total_bills": 197131,
+  "total_states": 50,
+  "states": [
+    {
+      "state": "ak",
+      "enacted_bills": 472,
+      "bytes": 5056780,
+      "sha256": "e926ef824c9a19ca48ae72b73f5fe1cb265a58de44c4fd3342057a8cfaa92e1c"
+    },
+    {
+      "state": "al",
+      "enacted_bills": 4042,
+      "bytes": 15462516,
+      "sha256": "4a08be5b7c66a6bc9b7ff18607605329ee4e1602d0568ea26a7b751c099f855c"
+    },
+    {
+      "state": "ar",
+      "enacted_bills": 5166,
+      "bytes": 20988670,
+      "sha256": "182c19c260d6665c1a297b7818ddd270a32ee59cb25a8c6848a336ff1edb9618"
+    },
+    {
+      "state": "az",
+      "enacted_bills": 2927,
+      "bytes": 9771351,
+      "sha256": "e8b30b05c84c3012e382d4e2c3e43e32d0b9b40a10378aa69c8b2a95a4bcbae2"
+    },
+    {
+      "state": "ca",
+      "enacted_bills": 19201,
+      "bytes": 154829262,
+      "sha256": "029990f77124ce5ee80d638255f5ac93caed112a0a17a05a1e021726a02880da"
+    },
+    {
+      "state": "co",
+      "enacted_bills": 4563,
+      "bytes": 29263453,
+      "sha256": "9c6173452331c2b9cc0a3a920bbe917eedce7012cd2d65132ed5a7e66bb4a471"
+    },
+    {
+      "state": "ct",
+      "enacted_bills": 1671,
+      "bytes": 9173617,
+      "sha256": "394a8555f0e3aa7a6c68b97d6e6a1269407822cfc5d5bccaa2179b30c5c3ad90"
+    },
+    {
+      "state": "de",
+      "enacted_bills": 2138,
+      "bytes": 9675510,
+      "sha256": "65758ad762a7e6a23e0012ef570468022dea1d4012d36e6126ff0a49b7f278d5"
+    },
+    {
+      "state": "fl",
+      "enacted_bills": 2186,
+      "bytes": 14587374,
+      "sha256": "471f47358310803e56c288d6c20d8bb975c642bc5583f6d0507ac08ebf2e6b17"
+    },
+    {
+      "state": "ga",
+      "enacted_bills": 4933,
+      "bytes": 20269678,
+      "sha256": "ea6f721f7b480d9363383adf350c9ffb29c7bff27aef78e89dcd5c465afe3e28"
+    },
+    {
+      "state": "hi",
+      "enacted_bills": 1765,
+      "bytes": 19610329,
+      "sha256": "d2c70ffc73283a1ddcdf7bf53b87f7b25bc3b33ea7a9eb0123ac5a03a7ab8392"
+    },
+    {
+      "state": "ia",
+      "enacted_bills": 1680,
+      "bytes": 7130701,
+      "sha256": "0a1640a6fd76b508d421e2df8e4c30611e236266be013405c863894329e5c637"
+    },
+    {
+      "state": "id",
+      "enacted_bills": 3358,
+      "bytes": 15560374,
+      "sha256": "d63a6ca3a067758f5ffd87440ae75850ad0463e163b85e2cd62644e2f6c0926b"
+    },
+    {
+      "state": "il",
+      "enacted_bills": 15148,
+      "bytes": 129476874,
+      "sha256": "d905d3d0b7809a91bb863de9bfbc310df1d7136efc818aee57f1fca06f4d9752"
+    },
+    {
+      "state": "in",
+      "enacted_bills": 1861,
+      "bytes": 13458201,
+      "sha256": "96279ef4e11d8503a4a7f90c522005aa31b49f966330e0614dbd21c8bb309cd8"
+    },
+    {
+      "state": "ks",
+      "enacted_bills": 927,
+      "bytes": 4320913,
+      "sha256": "a7c7d6b715c09d3efcd4ee03ef6c841050a4eeb8b7f9705c6a5a7c6d27cfda72"
+    },
+    {
+      "state": "ky",
+      "enacted_bills": 1914,
+      "bytes": 10759666,
+      "sha256": "9f5f55347362c2fbfdec1b9d01204efaba5c433900d5d0508fd962116f63e1f3"
+    },
+    {
+      "state": "la",
+      "enacted_bills": 3720,
+      "bytes": 22613424,
+      "sha256": "12456080d3b1e782fea78dc16adc5124ae17e3c231548799b564b0e2cda31ed1"
+    },
+    {
+      "state": "ma",
+      "enacted_bills": 1649,
+      "bytes": 5249208,
+      "sha256": "e3e8ac45078b85c37cd564b36bc2fc75378fbc2ffe701dce3e337cd336359da6"
+    },
+    {
+      "state": "md",
+      "enacted_bills": 7861,
+      "bytes": 30738288,
+      "sha256": "1f989383dfd6251ae225c4c47d4ca0aeaefd199cf37946a2f0ddf3293cbf95a4"
+    },
+    {
+      "state": "me",
+      "enacted_bills": 3583,
+      "bytes": 18202991,
+      "sha256": "bdbc9dbbc6838aebb5c6bc2b9ac00ff985bf6d7f49c39a1b759c6e8e42ed7778"
+    },
+    {
+      "state": "mi",
+      "enacted_bills": 2208,
+      "bytes": 15445804,
+      "sha256": "840c42067b2ea6ed087601d75937f0fb084f9b7a8b44bc8b91edeb9fad5ed662"
+    },
+    {
+      "state": "mn",
+      "enacted_bills": 1019,
+      "bytes": 5556359,
+      "sha256": "e84282735787e33b39d37d3ca118948f2d1396cca5d1a79f0606549318672e48"
+    },
+    {
+      "state": "mo",
+      "enacted_bills": 296,
+      "bytes": 2326257,
+      "sha256": "9abfcad5b6e5e76191fead23631e553921806bc2662789fa9511a509a3f91e42"
+    },
+    {
+      "state": "ms",
+      "enacted_bills": 3289,
+      "bytes": 15157958,
+      "sha256": "0bc848e3c3a2d82b6e584c77d5ba56bd0153abbbd24a98bf8776a24b3846c7e9"
+    },
+    {
+      "state": "mt",
+      "enacted_bills": 3049,
+      "bytes": 27702700,
+      "sha256": "cc3c9f06f8190e60b4c9d835461079528b153872b4a8467137e08be24a69e311"
+    },
+    {
+      "state": "nc",
+      "enacted_bills": 7091,
+      "bytes": 37444435,
+      "sha256": "4d16fbbcc966c9ee0560243e82103f60b92f7ba02b442f9e6c60ac103810c15a"
+    },
+    {
+      "state": "nd",
+      "enacted_bills": 2707,
+      "bytes": 13040135,
+      "sha256": "7b0e58cac69e80d0db1dcc6a3c076f5dafd96f84c7a3b3c71d545330e2ed804c"
+    },
+    {
+      "state": "ne",
+      "enacted_bills": 1663,
+      "bytes": 7156920,
+      "sha256": "eac21a1b218643faf8eabc72dbcda2d45e26d16ca8f5cea180b8c5293b3ce7ad"
+    },
+    {
+      "state": "nh",
+      "enacted_bills": 2736,
+      "bytes": 10941758,
+      "sha256": "1425ac9a0334e83b23703a37bfe44bd27fcff0ce75400539d200421bccf0b394"
+    },
+    {
+      "state": "nj",
+      "enacted_bills": 2342,
+      "bytes": 10579502,
+      "sha256": "294fd7995714d605bf8f5d77587601ca0d81846bce1a3cee819df4895db46241"
+    },
+    {
+      "state": "nm",
+      "enacted_bills": 1992,
+      "bytes": 4199566,
+      "sha256": "79d4a4c7c22d92897ee01b5f4fb507aab15d7ac850e13e56a15a6cb3142af57d"
+    },
+    {
+      "state": "nv",
+      "enacted_bills": 2825,
+      "bytes": 12011662,
+      "sha256": "dfc28a73df87c6be83b3f85900fc626f87c414ca0d7d4bff3b64ec507ab07e7a"
+    },
+    {
+      "state": "ny",
+      "enacted_bills": 5726,
+      "bytes": 18726500,
+      "sha256": "ba60a588e96e6182b30bf9b35ce5b4f2e6e82ba456ec2768a5fd501ce85ecd3f"
+    },
+    {
+      "state": "oh",
+      "enacted_bills": 410,
+      "bytes": 4679980,
+      "sha256": "b66ebf2abc1c22110e435218580d1efaad7c9870b99b9b98cb3a43711c667650"
+    },
+    {
+      "state": "ok",
+      "enacted_bills": 5684,
+      "bytes": 29457823,
+      "sha256": "b7d9659f7f594339f112e3f63c8b4f4b39677a272b4db488eab2b6b9c66893b2"
+    },
+    {
+      "state": "or",
+      "enacted_bills": 3916,
+      "bytes": 23681686,
+      "sha256": "5304aae9ab2efcb9b59d511c0775cfacd741c3a8c07e6549b51de55d686a6deb"
+    },
+    {
+      "state": "pa",
+      "enacted_bills": 1196,
+      "bytes": 10351077,
+      "sha256": "bc4f6e4e575c4b1e2765246ad72ba1257943a0e8c1959fb6bd4b547206cf0746"
+    },
+    {
+      "state": "ri",
+      "enacted_bills": 4510,
+      "bytes": 14436359,
+      "sha256": "11d75896eb05fc59ec76f419eed5f2fcfd8d55792294e87906fb42b4def990a4"
+    },
+    {
+      "state": "sc",
+      "enacted_bills": 1216,
+      "bytes": 7339106,
+      "sha256": "d8c739024f2b6134313e12cd581884d86f7102d3a08c32add9e3da62990c49fa"
+    },
+    {
+      "state": "sd",
+      "enacted_bills": 2133,
+      "bytes": 10284537,
+      "sha256": "5ea8e05152e10c26f07399cae412210d5380b21a0d5c3813def7de5d366ca966"
+    },
+    {
+      "state": "tn",
+      "enacted_bills": 22173,
+      "bytes": 89753302,
+      "sha256": "107f2767f873f1ead68ff136650295282d1e8772868ae01b673d211bd84a1f69"
+    },
+    {
+      "state": "tx",
+      "enacted_bills": 5320,
+      "bytes": 40644997,
+      "sha256": "22e0458e76fdce12c9a1a6fb3724029fc4a80d61e9833b0972068efd260822cb"
+    },
+    {
+      "state": "ut",
+      "enacted_bills": 5280,
+      "bytes": 32393795,
+      "sha256": "d7787c2a0709e6ed95b9bcce872530da0d451168988875338f52991f729dc2ec"
+    },
+    {
+      "state": "va",
+      "enacted_bills": 7679,
+      "bytes": 52807819,
+      "sha256": "4d22f67290c9427c16f37be1d7fe3b7a7221ee96d9c69237dd5cac4643979c2d"
+    },
+    {
+      "state": "vt",
+      "enacted_bills": 934,
+      "bytes": 7316735,
+      "sha256": "a0d3b9651f0b338b78a4810812e5740bc640e9a150858ff8436053a73d9d035d"
+    },
+    {
+      "state": "wa",
+      "enacted_bills": 3665,
+      "bytes": 24146650,
+      "sha256": "39af6bed659877113880bdd7a1ffcfe2d20d0413b222d5b7e4e4c01cc2c6d441"
+    },
+    {
+      "state": "wi",
+      "enacted_bills": 1120,
+      "bytes": 7873782,
+      "sha256": "745ee3ef88c2c951df9371440cee09d65120c00e9ca64568d4ea8ccf0a58dd7f"
+    },
+    {
+      "state": "wv",
+      "enacted_bills": 2628,
+      "bytes": 16218371,
+      "sha256": "838ff303d15fddf3cb0f280e61b6fdb5fa33d07953837ca53c1db862d2010da9"
+    },
+    {
+      "state": "wy",
+      "enacted_bills": 1559,
+      "bytes": 8719955,
+      "sha256": "35dd81646b65693456f73c92c23782059a7bec939a293d5ad68252353c180632"
+    }
+  ]
+}

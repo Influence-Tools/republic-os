@@ -85,6 +85,24 @@ sources:
       county→district edges. Also seeds the state-legislative district nodes
       (which have no ACS demographics — geometry only).
 
+  - id: openstates
+    name: OpenStates bulk snapshot
+    url: https://data.openstates.org/
+    type: dataset
+    authority_level: authoritative-community
+    requires_api_key: false
+    refresh_frequency: daily
+    feeds: [Bill]
+    raw: [depot:/exports/legislation/2026-07-01/enacted_{st}_2026-07-01.jsonl]
+    notes: >
+      Enacted state legislation, all 50 states, vintage 2026-07-01 —
+      197,131 records (bills AND joint/concurrent resolutions; the
+      classification field records which; e.g. TN is 8,785 bills +
+      13,388 joint resolutions). Raw JSONL lives on the depot; the
+      per-state SHA-256 manifest is committed at
+      data/sources/legislation_manifest_2026-07-01.json. Aggregated
+      from official legislature sites; confidence: reported.
+
 # Prepared but not yet ingested — see docs/roadmap.md
 planned:
   - id: govinfo
