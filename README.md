@@ -8,17 +8,17 @@ Government is already software: statutes are code, agencies are processes, elect
 
 ## What's in here today
 
-19,721 markdown records, every one schema-validated:
+37,667 markdown records, every one schema-validated:
 
 | Entity | Count | What it is |
 |---|---:|---|
 | **Person** | 13,329 | Current officeholders — federal, all 50 state legislatures, and Florida down to the municipal level. Federal members carry their bioguide ID, leadership roles, and committee seats. |
 | **Body** | 233 | The institutions themselves — the U.S. House, the Senate, 49 committees, 181 subcommittees, each with its leadership. |
 | **Candidate** | 2,494 | Everyone running for federal office in 2026, from FEC filings. |
-| **Jurisdiction** | 3,494 | Every U.S. county (3,131) and 363 congressional districts, each carrying Census demographics — the nationwide skeleton, filled with data. |
-| **LegalText** | 171 | U.S. Code Title 52, Voting and Elections, mirrored from the official OLRC XML release current through Public Law 119-100. |
+| **Jurisdiction** | 10,390 | Every U.S. county (3,131), all 435 congressional districts (Census demographics on 363), and every state legislative district — 4,927 house, 1,897 senate — the nationwide skeleton, filled with data. |
+| **LegalText** | 11,221 | U.S. Code Titles 1–11 and 52 — General Provisions through Bankruptcy, plus Voting and Elections — mirrored section-by-section from the official OLRC XML release current through Public Law 119-100. |
 
-The mirror answers, with receipts: *who holds power, who runs the institution, who's running, what each place is made of,* and now *what legal text governs elections* — and, through git, *what changed.*
+The mirror answers, with receipts: *who holds power, who runs the institution, who's running, what each place is made of,* and *what the law says* — and, through git, *what changed.*
 
 ## How it works
 
@@ -38,7 +38,7 @@ data/legal/raw      ──►    scripts/ingest_*.py   ──►    legal/**
 
 ```bash
 make build         # regenerate the entity tree from the raw exports
-make legal-us-code # regenerate the U.S. Code Title 52 legal corpus seed
+make legal-us-code # regenerate the U.S. Code legal corpus (TITLES="1 2 ..." overridable)
 make validate      # OKF + schema + link-integrity checks on all records
 make changelog     # what changed in the government since the last commit
 make board         # rebuild the Board's inlined data from the tree
