@@ -1,2 +1,9 @@
 .DS_Store
 .claude/
+
+# Dev mode (pre-v1): raw source snapshots live off-repo on the depot, not in
+# git history. We commit the product (records) + provenance (manifests +
+# checksums); the raw bytes those hashes anchor stay lean off-box. The
+# "raw-first, in-repo" discipline turns on at v1.0 — see README.
+data/legal/raw/**/*.zip
+data/legal/raw/**/*.xml

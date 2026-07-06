@@ -8,7 +8,7 @@ Government is already software: statutes are code, agencies are processes, elect
 
 ## What's in here today
 
-57,185 markdown records, every one schema-validated:
+105,704 markdown records, every one schema-validated:
 
 | Entity | Count | What it is |
 |---|---:|---|
@@ -16,9 +16,9 @@ Government is already software: statutes are code, agencies are processes, elect
 | **Body** | 233 | The institutions themselves — the U.S. House, the Senate, 49 committees, 181 subcommittees, each with its leadership. |
 | **Candidate** | 2,494 | Everyone running for federal office in 2026, from FEC filings. |
 | **Jurisdiction** | 29,908 | Every U.S. county (3,131), all 435 congressional districts (Census demographics on 363), every state legislative district (4,927 house, 1,897 senate), and **every incorporated municipality in the country — 19,513 cities, towns, villages, and boroughs** — keyed by Census place GEOID, with officeholders attached where the mirror has them. |
-| **LegalText** | 11,221 | U.S. Code Titles 1–11 and 52 — General Provisions through Bankruptcy, plus Voting and Elections — mirrored section-by-section from the official OLRC XML release current through Public Law 119-100. |
+| **LegalText** | 59,740 | **The complete United States Code** — every section of all 53 titles that carry content (Title 53 is reserved), from General Provisions to Wildlife, mirrored section-by-section from the official OLRC USLM XML at release point 119-100 (current through Public Law 119-100). |
 
-The mirror answers, with receipts: *who holds power, who runs the institution, who's running, what each place is made of — down to the city,* and *what the law says* — and, through git, *what changed.*
+The mirror answers, with receipts: *who holds power, who runs the institution, who's running, what each place is made of — down to the city,* and *what the entire body of federal statutory law says* — and, through git, *what changed.*
 
 ## How it works
 
@@ -59,12 +59,15 @@ Everything runs on the Python standard library. No dependencies to install.
 - [Technical Brief — Government as Software](Technical%20Brief%20—%20Government%20as%20Software.md) — the founding document
 - [CHANGELOG.md](CHANGELOG.md) — the civic changelog, generated from git history
 
-## The disciplines
+## The disciplines — the v1.0 target
 
-Three rules govern everything here, and they are won by subtraction:
+This repository is a **prototype testing a theory**, not a finished mirror. Until it earns a `v1.0`, **main is the workbench**: history is malleable — rebase, squash, force-push, and prune are all fair game — and raw source snapshots live off-repo (on the depot), so the tree stays lean while the shape is still moving. What's committed here is the *product* (the entity + legal records) and its *provenance* (manifests and SHA-256 checksums); the raw bytes those hashes anchor are recoverable off-box.
+
+The disciplines the finished mirror will be held to — and which lock in at `v1.0`, once there's a record people depend on:
 
 1. **Never overwrite** — a change is a new commit, not a clobbered file. Deletes are diffs.
 2. **Never rewrite history** — no force-push, no squash. The past is load-bearing.
 3. **Always push off-box** — one copy is a single point of failure; more is not.
+4. **Raw-first, in-repo** — every source snapshot committed, so origin is recoverable from git alone.
 
-Substrate for [influence.tools](https://influence.tools).
+They are ideals for a mirror the public relies on. We're not there yet — we're finding out whether the theory holds. Substrate for [influence.tools](https://influence.tools).
