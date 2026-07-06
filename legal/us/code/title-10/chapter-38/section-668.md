@@ -1,0 +1,97 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 668"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "38"
+chapter_name: "JOINT OFFICER MANAGEMENT"
+section: "668"
+citation: "10 U.S.C. § 668"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s668"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "778ff7e59eda3bedda07902ba04acf94150f3f0cedcfcfbbbb42f56729335db0"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "94114ee72823729d0b4a9263b1716ae6c6b474effd71318c78608cb65abd9bcd"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 668 - Definitions
+
+## Text
+
+(a) Joint Matters.— (1) In this chapter, the term “joint matters” means matters related to any of the following:
+
+(A) The development or achievement of strategic objectives through the synchronization, coordination, and organization of integrated forces in operations conducted across domains, such as land, sea, or air, in space, or in the information environment, including matters relating to any of the following:
+
+(i) National military strategy.
+
+(ii) Strategic planning and contingency planning.
+
+(iii) Command and control, intelligence, fires, movement and maneuver, protection or sustainment of operations under unified command.
+
+(iv) National security planning with other departments and agencies of the United States.
+
+(v) Combined operations with military forces of allied nations.
+
+(B) Acquisition matters conducted by members of the armed forces and covered under chapter 87 of this title involved in developing, testing, contracting, producing, or fielding of multi-service programs or systems.
+
+(C) Other matters designated in regulation by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff.
+
+(2) In the context of joint matters, the term “integrated forces” refers to military forces that are involved in achieving unified action with participants from—
+
+(A) more than one military department; or
+
+(B) a military department and one or more of the following:
+
+(i) Other departments and agencies of the United States.
+
+(ii) The military forces or agencies of other countries.
+
+(iii) Non-governmental persons or entities.
+
+(b) Joint Duty Assignment.— (1) The Secretary of Defense shall by regulation define the term “joint duty assignment” for the purposes of this chapter. That definition—
+
+(A) shall be limited to assignments in which—
+
+(i) the preponderance of the duties of the officer involve joint matters and
+
+(ii) the officer gains significant experience in joint matters; and
+
+(B) shall exclude student assignments for joint training and education.
+
+(2) The Secretary shall publish a joint duty assignment list showing—
+
+(A) the positions that are joint duty assignment positions under such regulation and the number of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions; and
+
+(B) of the positions listed under subparagraph (A), those that are critical joint duty assignment positions and the number of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions.
+
+(c) Clarification of “Tour of Duty”.— For purposes of this chapter, a tour of duty in which an officer serves in more than one joint duty assignment without a break between such assignments shall be considered to be a single tour of duty in a joint duty assignment.
+
+(Added Pub. L. 99–433, title IV, § 401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§ 1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, § 519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, § 534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, § 519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191; Pub. L. 111–383, div. A, title V, § 521, Jan. 7, 2011, 124 Stat. 4214; Pub. L. 112–239, div. A, title V, § 503, Jan. 2, 2013, 126 Stat. 1715; Pub. L. 114–92, div. A, title VIII, § 843, Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title V, § 510A, Dec. 23, 2016, 130 Stat. 2111.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Subsec. (a)(1). Pub. L. 114–328, § 510A(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In this chapter, the term ‘joint matters’ means matters related to the achievement of unified action by integrated military forces in operations conducted across domains such as land, sea, or air, in space, or in the information environment, including matters relating to— “(A) national military strategy; “(B) strategic planning and contingency planning; “(C) command and control of operations under unified command; “(D) national security planning with other departments and agencies of the United States; “(E) combined operations with military forces of allied nations; or “(F) acquisition matters addressed by military personnel and covered under chapter 87 of this title.” Subsec. (a)(2). Pub. L. 114–328, § 510A(b), substituted “integrated forces” for “integrated military forces” and “achieving unified action with” for “the planning or execution (or both) of operations involving” in introductory provisions. Subsec. (b)(1)(A). Pub. L. 114–328, § 510A(c), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall be limited to assignments in which the officer gains significant experience in joint matters; and”. Subsec. (d). Pub. L. 114–328, § 510A(d), struck out subsec. (d). Text read as follows: “(1) In this chapter, the term ‘critical occupational specialty’ means a military occupational specialty involving combat operations within the combat arms, in the case of the Army, or the equivalent arms, in the case of the Navy, Air Force, and Marine Corps, that the Secretary of Defense designates as critical. “(2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.” 2015—Subsec. (a)(1)(F). Pub. L. 114–92 added subpar. (F). 2013—Subsec. (b)(1)(B). Pub. L. 112–239 substituted “student assignments for joint training and education” for “assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in section 2155(c) of this title as part of a program designated by the Secretary of Defense as joint professional military education Phase II”. 2011—Subsec. (a)(1). Pub. L. 111–383, § 521(1)(A), substituted “integrated” for “multiple” in introductory provisions. Subsec. (a)(1)(D). Pub. L. 111–383, § 521(1)(B), substituted “or” for “and”. Subsec. (a)(2). Pub. L. 111–383, § 521(2), added par. (2) and struck out former par. (2), which read as follows: “In the context of joint matters, the term ‘multiple military forces’ refers to forces that involve participants from the armed forces and one or more of the following: “(A) Other departments and agencies of the United States. “(B) The military forces or agencies of other countries. “(C) Non-governmental persons or entities.” 2006—Subsec. (a). Pub. L. 109–364, § 519(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this chapter, the term ‘joint matters’ means matters relating to the integrated employment of land, sea, and air forces, including matters relating to— “(1) national military strategy; “(2) strategic planning and contingency planning; and “(3) command and control of combat operations under unified command.” Subsec. (b)(1). Pub. L. 109–364, § 519(b), substituted provisions limiting the definition of “joint duty assignment” to assignments in which the officer gains significant experience in joint matters and excluding assignments for joint training and education, except an assignment as an instructor responsible for courses as part of a program designated as joint professional military education Phase II, for provisions limiting the definition of “joint duty assignment” to assignments in which the officer gains significant experience in joint matters and excluding assignments for joint training or joint education and assignments within an officer’s own military department. Subsec. (d). Pub. L. 109–364, § 519(c), added subsec. (d). 2004—Subsec. (b)(2). Pub. L. 108–375, § 534(a), substituted “a joint duty assignment list” for “a list” in introductory provisions. Subsec. (c). Pub. L. 108–375, § 534(b), struck out “within the same organization” before “without a break”. 1988—Subsecs. (c), (f). Pub. L. 100–456 redesignated subsec. (f) as (c). 1987—Subsec. (b)(2). Pub. L. 100–180, § 1302(c)(1), inserted “and, of those positions, those that are positions held by general or flag officers and the number of such positions” in subpars. (A) and (B). Subsec. (f). Pub. L. 100–180, § 1303(b), added subsec. (f).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2006 AmendmentAmendment by Pub. L. 109–364 effective Oct. 1, 2007, see section 519(e) of Pub. L. 109–364, set out as a note under section 664 of this title.
+
+Effective Date of 2004 AmendmentPub. L. 108–375, div. A, title V, § 534(c), Oct. 28, 2004, 118 Stat. 1901, provided that: “The amendment made by subsection (b) [amending this section] shall not apply in the case of a joint duty assignment completed by an officer before the date of the enactment of this Act [Oct. 28, 2004], except in the case of an officer who has continued in joint duty assignments, without a break in service in such assignments, between the end of such assignment and the date of the enactment of this Act.”
+
+Publication of Revised Joint Duty Assignment ListPub. L. 100–180, div. A, title XIII, § 1302(c)(2), Dec. 4, 1987, 101 Stat. 1170, directed the Secretary of Defense to publish a revised list under subsec. (b)(2) of this section not later than six months after Dec. 4, 1987, which would take into account the amendments to this section and section 661 of this title made by Pub. L. 100–180, § 1302.
+
+Transition to Joint Officer Personnel PolicyThe list of positions required to be published by subsec. (b)(2) of this section to be published not later than six months after Oct. 1, 1986, see section 406(a)(2) of Pub. L. 99–433, set out as a note under section 661 of this title.

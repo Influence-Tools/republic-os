@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 352"
+description: "Naval Small Craft Instruction and Technical Training School"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "16"
+chapter_name: "SECURITY COOPERATION"
+section: "352"
+citation: "10 U.S.C. § 352"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s352"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "1f3402f1776e724b34fa8ae28d0297ebe118b9955d7181fe6b65857508bbe787"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e25325427fe64fbf7349f63fa18b1e657fa50f688d3c76f50316eed0071de79b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 352 - Naval Small Craft Instruction and Technical Training School
+
+## Text
+
+(a) In General.— The Secretary of Defense shall operate an education and training facility known as the “Naval Small Craft Instruction and Technical Training School” (in this section referred to as the “School”).
+
+(b) Designation of Executive Agent.— The Secretary of Defense shall designate the Secretary of a military department as the Department of Defense executive agent for carrying out the responsibilities of the Secretary of Defense under this section.
+
+(c) Purpose.— The purpose of the School shall be to provide to the military and other security forces of one or more friendly foreign countries education and training under any other provision of law related to naval small craft instruction and training and to increase professionalism, readiness, and respect for human rights through formal courses of instruction or mobile training teams for—
+
+(1) the operation, employment, maintenance, and logistics of specialized equipment;
+
+(2) participation in—
+
+(A) joint exercises; or
+
+(B) coalition or international military operations; and
+
+(3) improved interoperability between—
+
+(A) the armed forces; and
+
+(B) the military and other security forces of the one or more friendly foreign countries.
+
+(d) Limitation on Personnel Eligible To Receive Education and Training.— The Secretary of Defense may not provide education or training at the School to any personnel of a country that is prohibited from receiving such education or training under any other provision of law.
+
+(e) Costs.— (1) The fixed costs of the School may be paid from amounts made available for the Navy as follows:
+
+(A) The costs of operating and maintaining the School may be paid from amounts made available to the Navy for operation and maintenance.
+
+(B) The costs of the equipment requirements of the School may be paid from amounts made available to the Navy for procurement.
+
+(C) The costs of the facilities construction requirements of the School may be paid from amounts made available to the Navy for military construction.
+
+(2) The food procurement and service costs of the School that may be paid from amounts made available to the Navy for operation and maintenance are as follows:
+
+(A) The costs of providing food services to personnel, visitors, and international students at the School.
+
+(B) The costs of operating, maintaining, and sustaining a dining facility or contracted food services at the School.
+
+(3) Tuition fees charged for personnel who attend the School may not include any amount for the fixed costs of operating and maintaining the School.
+
+(f) Annual Report.— Not later than March 15 each year, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees a detailed report on the activities and operating costs of the School during the preceding fiscal year.
+
+(Added Pub. L. 115–232, div. A, title XII, § 1208(a)(1), Aug. 13, 2018, 132 Stat. 2021; amended Pub. L. 118–159, div. A, title XII, § 1202(a), Dec. 23, 2024, 138 Stat. 2093; Pub. L. 119–60, div. A, title XII, § 1205, Dec. 18, 2025, 139 Stat. 1081.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 1205(1), substituted “shall” for “may”. Subsec. (e)(3). Pub. L. 119–60, § 1205(2), added par. (3). 2024—Subsec. (e). Pub. L. 118–159 amended subsec. (e) generally. Prior to amendment, text read as follows: “The fixed costs of operation and maintenance of the School in a fiscal year may be paid from amounts made available for such fiscal year for operation and maintenance of the Department of Defense.”
+
+Statutory Notes and Related Subsidiaries
+
+Updates RequiredPub. L. 118–159, div. A, title XII, § 1202(b), Dec. 23, 2024, 138 Stat. 2093, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall update the Security Assistance Management Manual (DSCA 5105.38–M) and volume 15 of the Department of Defense Financial Management Regulation (DoD 7000.14–R) in accordance with the amendment made by this section [amending this section].”
+
+Limitation on Use of FundsPub. L. 115–232, div. A, title XII, § 1208(c), Aug. 13, 2018, 132 Stat. 2022, provided that: “(1) In general.—Nothing in section 352 of title 10, United States Code (as so added), may be construed as authorizing the use of funds appropriated for the Department of Defense for any purpose described in paragraph (2) unless specifically authorized by an Act of Congress other than that section or this Act [see Tables for classification]. “(2) Purposes.—The purposes described in this paragraph are the following:“(A) The operation of a facility other than the Naval Small Craft Instruction and Technical Training School that is in operation as of the date of the enactment of this Act [Aug. 13, 2018] for the provision of education and training authorized to be provided by the School. “(B) The construction or expansion of any facility of the School.”

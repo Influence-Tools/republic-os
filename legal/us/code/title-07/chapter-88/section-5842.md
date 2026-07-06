@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 5842"
+description: "Appointment and authority of Director"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "88"
+chapter_name: "RESEARCH"
+section: "5842"
+citation: "7 U.S.C. § 5842"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s5842"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "714a0c4adf7ab84d9f77504140ee0afde16265d897ba1dd5e07f6655399229af"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "8d23a1d6fe9cbc9e62e8b6fd6f418815a755b20d1dd9c74147f67b0cf5d01282"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 5842 - Appointment and authority of Director
+
+## Text
+
+(a) Director There shall be at the head of the program an official to be known as the Director of the National Genetic Resources Program who shall be appointed by the Secretary. The Director shall perform such duties as are assigned to the Director by this subchapter and such other duties as the Secretary may prescribe.
+
+(b) Administrative authority In carrying out this subchapter, the Secretary, acting through the Director—
+
+(1) shall be responsible for the overall direction of the program and for the establishment and implementation of general policies respecting the management and operation of activities within the program;
+
+(2) may secure for the program consultation services and advice of persons from the United States and abroad;
+
+(3) may accept voluntary and uncompensated services; and
+
+(4) may perform such other administrative functions as the Secretary determines are needed to effectively carry out this subchapter.
+
+(c) Duties The Director shall—
+
+(1) advise participants on the program activities;
+
+(2) coordinate, review and facilitate the systematic identification and evaluation of, relevant information generated under the program;
+
+(3) promote the effective transfer of the information described in paragraph (2) to the agriculture and food production community and to entities that require such information; and
+
+(4) monitor the effectiveness of the activities described in paragraph (3).
+
+(d) Biennial reports The Director shall prepare and transmit to the Secretary and to the Congress a biennial report containing—
+
+(1) a description of the activities carried out by and through the program and the policies of the program, and such recommendations respecting such activities and policies as the Director considers to be appropriate;
+
+(2) a description of the necessity for, and progress achieved toward providing, additional programs and activities designed to include the range of genetic resources described in section 5841(d)(5) of this title in the activities of the program; and
+
+(3) an assessment of events and activities occurring internationally as they relate to the activities and policies of the program.
+
+(e) Initial reports Not later than one year after November 28, 1990, the Director shall transmit to the Secretary and to the Congress a report—
+
+(1) describing the projected needs over a 10-year period in each of the areas of genetic resources described in section 5841(d)(5) of this title, including the identification of existing components of a comprehensive program, policies and activities needed to coordinate those components, and additional elements not in existence which are required for the development of a comprehensive genetic resources program as described in such section;
+
+(2) assessing the international efforts and activities related to the program, and their effect upon and coordination with the program; and
+
+(3) evaluating the potential effect of various national laws, including national quarantine requirements, as well as treaties, agreements, and the activities of international organizations on the development of a comprehensive international system for the collection and maintenance of genetic resources of importance to agriculture.
+
+(f) Plan publication On completion of the development of the plan described in section 5841(d)(6) of this title, the Secretary shall make the plan available to the public.
+
+(Pub. L. 101–624, title XVI, § 1633, Nov. 28, 1990, 104 Stat. 3744; Pub. L. 102–237, title IV, § 404(a)(2), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 115–334, title VII, § 7205(b), Dec. 20, 2018, 132 Stat. 4803.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Subsec. (f). Pub. L. 115–334 added subsec. (f). 1991—Subsec. (a). Pub. L. 102–237 substituted “Resources Program” for “Resources program”.
+
+Statutory Notes and Related Subsidiaries
+
+Termination of Reporting RequirementsFor termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to biennial reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 49 of House Document No. 103–7.

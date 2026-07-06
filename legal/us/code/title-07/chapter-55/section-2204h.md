@@ -1,0 +1,101 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 2204h"
+description: "Local food production and program evaluation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "55"
+chapter_name: "DEPARTMENT OF AGRICULTURE"
+section: "2204h"
+citation: "7 U.S.C. § 2204h"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s2204h"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "fde49f4f8810f0e6162afe44ca2724b4ea416b143abad8792354721413f9bb1f"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "b005a362c7d87ebe32b3a59aaf03949868977d65a2ebc894f5978bb87a88f818"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 2204h - Local food production and program evaluation
+
+## Text
+
+(a) In general The Secretary shall—
+
+(1) collect data on—
+
+(A) the production and marketing of locally or regionally produced agricultural food products; and
+
+(B) direct and indirect regulatory compliance costs affecting the production and marketing of locally or regionally produced agricultural food products;
+
+(2) facilitate interagency collaboration and data sharing on programs relating to local and regional food systems;
+
+(3) monitor—
+
+(A) the effectiveness of programs designed to expand or facilitate local food systems; and
+
+(B) barriers to local and regional market access due to Federal regulation of small-scale production; and
+
+(4) evaluate the manner in which local food systems—
+
+(A) contribute to improving community food security; and
+
+(B) assist populations with limited access to healthy food.
+
+(b) Requirements In carrying out this section, the Secretary shall, at a minimum—
+
+(1) collect and distribute comprehensive reporting of prices and volume of locally or regionally produced agricultural food products;
+
+(2) conduct surveys and analysis and publish reports relating to the production, handling, distribution, retail sales, and trend studies (including consumer purchasing patterns) of or on locally or regionally produced agricultural food products;
+
+(3) evaluate the effectiveness of existing programs in growing local and regional food systems, including—
+
+(A) the impact of local food systems on job creation and economic development;
+
+(B) the level of participation in the Local Agriculture Market Program established under section 1627c of this title, including the percentage of projects funded in comparison to applicants and the types of eligible entities receiving funds;
+
+(C) the ability of participants to leverage private capital and a synopsis of the places from which non-Federal funds are derived; and
+
+(D) any additional resources required to aid in the development or expansion of local and regional food systems;
+
+(4) evaluate the impact that Federal regulation of small commercial producers of agricultural food products intended for local and regional consumption may have on—
+
+(A) local job creation and economic development;
+
+(B) access to local and regional fruit and vegetable markets, including for new and beginning small commercial producers; and
+
+(C) participation in—
+
+(i) supplier networks;
+
+(ii) high volume distribution systems; and
+
+(iii) retail sales outlets;
+
+(5) expand the Agricultural Resource Management Survey of the Department to include questions on locally or regionally produced agricultural food products; and
+
+(6) seek to establish or expand private-public partnerships to facilitate, to the maximum extent practicable, the collection of data on locally or regionally produced agricultural food products, including the development of a nationally coordinated and regionally balanced evaluation of the redevelopment of locally or regionally produced food systems.
+
+(c) Report Not later than 1 year after February 7, 2014, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress that has been made in implementing this section and identifying any additional needs and barriers related to developing local and regional food systems.
+
+(Pub. L. 113–79, title X, § 10016, Feb. 7, 2014, 128 Stat. 952; Pub. L. 115–334, title X, § 10102(c)(3), Dec. 20, 2018, 132 Stat. 4898.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Subsec. (b)(3)(B). Pub. L. 115–334 substituted “Local Agriculture Market Program established under section 1627c of this title” for “Farmers’ Market and Local Food Promotion Program established under section 3005 of this title”.
+
+Statutory Notes and Related Subsidiaries
+
+Definition of “Secretary” “Secretary” as meaning the Secretary of Agriculture, see section 9001 of this title.

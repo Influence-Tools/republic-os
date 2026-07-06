@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3374"
+description: "Undefinitized contractual actions: allowable profit"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "244"
+chapter_name: "UNDEFINITIZED CONTRACTUAL ACTIONS"
+section: "3374"
+citation: "10 U.S.C. § 3374"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3374"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "3adee5e70c69fab28f9c071cf46a76649345efef574d94650c9c54dee8a61913"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "39a2e22c736b543f3bfc8c07ea2be359f36ae895052cdb85010ad8cd4b6fa236"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3374 - Undefinitized contractual actions: allowable profit
+
+## Text
+
+(a) Allowed Profit to Reflect Cost Risks of Contractor.— The head of an agency shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
+
+(1) the possible reduced cost risk of the contractor with respect to costs incurred during performance of the contract before the final price is negotiated;
+
+(2) the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract;
+
+(3) the increased cost risk of the contractor with respect to any costs incurred prior to the award of the undefinitized contractual action when such costs—
+
+(A) would have been directly chargeable to the contract if incurred after the award of the contract; and
+
+(B) were incurred to meet an anticipated contract delivery schedule or anticipated contract price targets of the Government under an acquisition strategy required under section 4211 of this title; and
+
+(4) the increased cost risk of the contractor with respect to negotiations continuing for more than 180 days beginning on the date on which the contractor submitted the qualifying proposal to definitize such undefinitized contractual action.
+
+(b) Date as of Which Contractor Cost Risk to Be Determined.— If a contractor submits a qualifying proposal to definitize an undefinitized contractual action and the contracting officer for such action definitizes the contract after the end of the 180-day period beginning on the date on which the contractor submitted the qualifying proposal, the head of the agency concerned shall ensure that the profit allowed on the contract accurately reflects the cost risk of the contractor as such risk existed on the date the contractor submitted the qualifying proposal.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1819(a), (e), Jan. 1, 2021, 134 Stat. 4189, 4190; Pub. L. 119–60, div. A, title VIII, § 814(a), Dec. 18, 2025, 139 Stat. 953.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of subsec. (f) of section 2326 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1819(e), was based on Pub. L. 99–500, § 101(c) [title X, § 908(d)(1)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–141, and Pub. L. 99–591, § 101(c) [title X, § 908(d)(1)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–141; Pub. L. 99–661, div. A, title IX, formerly title IV, § 908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3921, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 114–328, div. A, title VIII, § 811(1), Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, § 815(a)(1), Dec. 12, 2017, 131 Stat. 1462. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical subsections.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 814(a)(1), struck out “Certain Reduced” before “Cost Risks” in heading. Subsec. (a)(3), (4). Pub. L. 119–60, § 814(a)(2)–(4), added pars. (3) and (4). 2021—Pub. L. 116–283, § 1819(e)(1)(A), transferred subsec. (f) of section 2326 of this title to this section and struck out subsec. (f) designation and heading “Allowable Profit” at beginning. Subsec. (a). Pub. L. 116–283, § 1819(e)(1)(B), (2), redesignated par. (1) of former section 2326(f) of this title as subsec. (a) of this section, inserted heading, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Subsec. (b). Pub. L. 116–283, § 1819(e)(1)(B), (3), redesignated par. (2) of former section 2326(f) of this title as subsec. (b) of this section and inserted heading.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+RegulationsPub. L. 119–60, div. A, title VIII, § 814(b), Dec. 18, 2025, 139 Stat. 953, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to carry out section 3374(a) of title 10, United States Code, as amended by subsection (a).”

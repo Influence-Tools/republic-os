@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 910"
+description: "Introduction and reference of resolution"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "9"
+chapter_name: "EXECUTIVE REORGANIZATION"
+section: "910"
+citation: "5 U.S.C. § 910"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s910"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "26ecc647f4a80f1cac4e63764928b0e69b2391e23e3343ccb84a3fe92227a7cc"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "a6c54c46e1ec16c1169e2a7e097e4092da7e07fb65c1513af8687854e59d8e69"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 910 - Introduction and reference of resolution
+
+## Text
+
+(a) No later than the first day of session following the day on which a reorganization plan is transmitted to the House of Representatives and the Senate under section 903, a resolution, as defined in section 909, shall be introduced (by request) in the House by the chairman of the Government Operations Committee of the House, or by a Member or Members of the House designated by such chairman; and shall be introduced (by request) in the Senate by the chairman of the Governmental Affairs Committee of the Senate, or by a Member or Members of the Senate designated by such chairman.
+
+(b) A resolution with respect to a reorganization plan shall be referred to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House (and all resolutions with respect to the same plan shall be referred to the same committee) by the President of the Senate or the Speaker of the House of Representatives, as the case may be. The committee shall make its recommendations to the House of Representatives or the Senate, respectively, within 75 calendar days of continuous session of Congress following the date of such resolution’s introduction.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, § 3(b)(3), Nov. 8, 1984, 98 Stat. 3192.)
+
+## Notes
+
+Historical and Revision Notes DerivationU.S. CodeRevised Statutes andStatutes at Large  5 U.S.C. 133z–12.June 20, 1949, ch. 226, § 203, 63 Stat. 207. Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+Editorial Notes
+
+Amendments1984—Subsec. (b). Pub. L. 98–614 substituted “75 calendar days” for “45 calendar days”. 1977—Pub. L. 95–17 substituted “Introduction and reference of resolution” for “Reference of resolution to committee” in section catchline, designated existing provisions as subsec. (b), substituted “the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House” for “a committee” and inserted requirement that the Committee shall make its recommendation to the House or Senate within 45 calendar days of continuous session of Congress following the date of a resolution’s introduction, and added subsec. (a).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004. Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.

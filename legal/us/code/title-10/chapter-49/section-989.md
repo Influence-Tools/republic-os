@@ -1,0 +1,137 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 989"
+description: "Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "49"
+chapter_name: "MISCELLANEOUS PROHIBITIONS AND PENALTIES"
+section: "989"
+citation: "10 U.S.C. § 989"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s989"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "5ea3b134904f31b25a6857197a96af2b81394ebae8d0ca86dfbd7c620e42b43e"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "dae26751ef7e01217031073df099f5005a1e4a01b22a17105a0a7ccc5759d698"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 989 - Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments
+
+## Text
+
+(a) In General.— Except as provided by subsection (b), a covered individual may not occupy a covered post-service position.
+
+(b) Temporary Waiver.— (1) In general.— The Secretary of Defense shall establish a process under which a covered individual may be granted a temporary waiver of the prohibition under subsection (a) if—
+
+(A) the individual, or a Federal agency on behalf of, and with the consent of, the individual, submits to the Secretary a written application for a waiver in such form and manner as the Secretary determines appropriate; and
+
+(B) the Secretary determines that the waiver is necessary to advance the national security interests of the United States.
+
+(2) Period of waiver.— A waiver issued under paragraph (1) shall apply for a period not exceeding 5 years. The Secretary may renew such a waiver.
+
+(3) Revocation.— The Secretary may revoke a waiver issued under paragraph (1) to a covered individual with respect to a covered-post service position if the Secretary determines that the employment of the individual in the covered-post service position poses a threat to national security.
+
+(4) Notification.— (A) In general.— Not later than 30 days after the date on which the Secretary issues a waiver under paragraph (1) or revokes a waiver under paragraph (3), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives written notification of the waiver or revocation, as the case may be.
+
+(B) Elements.— A notification required by subparagraph (A) shall include the following:
+
+(i) With respect to a waiver issued to a covered individual—
+
+(I) the details of the application, including the position held by the individual in the armed forces;
+
+(II) the nature of the post-service position of the individual;
+
+(III) a description of the national security interests that will be advanced by reason of issuing such a waiver; and
+
+(IV) the specific reasons why the Secretary determines that issuing the waiver will advance such interests.
+
+(ii) With respect to a revocation of a waiver issued to a covered individual—
+
+(I) the details of the waiver, including any renewals of the waiver, and the dates of such waiver and renewals; and
+
+(II) the specific reasons why the Secretary determined that the revocation is warranted.
+
+(c) Certification of Prohibition.— In implementing the prohibition under subsection (a), the Secretary shall establish a process under which each member of the armed forces is, before the member retires or is otherwise separated from the armed forces—
+
+(1) informed in writing of the prohibition, and the penalties for violations of the prohibition; and
+
+(2) required to certify that the member understands the prohibition and those penalties.
+
+(d) Penalties.— In the case of a covered individual who knowingly and willfully fails to comply with the prohibition under subsection (a), the Secretary may, as applicable—
+
+(1) withhold any pay, allowances, or benefits that would otherwise be provided to the individual by the Department of Defense; and
+
+(2) revoke any security clearance of the individual.
+
+(e) Annual Reports.— (1) Requirement.— Not later than March 31, 2024, and annually thereafter, the Secretary shall submit to the congressional defense committees a report on covered post-service employment occurring during the year covered by the report.
+
+(2) Elements.— Each report required by paragraph (1) shall include the following:
+
+(A) The number of former covered individuals who occupy a covered post-service position, broken down by—
+
+(i) the name of the employer;
+
+(ii) the foreign government, including by the specific foreign individual, agency, or entity, for whom the covered post-service employment is being performed; and
+
+(iii) the nature of the services provided as part of the covered post-service employment.
+
+(B) An assessment by the Secretary of whether—
+
+(i) the Department of Defense maintains adequate systems and processes for ensuring that former members of the armed forces are submitting required reports relating to their employment by foreign governments;
+
+(ii) all covered individuals who occupy a covered post-service position are in compliance with this section;
+
+(iii) the services provided by the covered individuals who occupy a covered post-service position pose a current or future threat to the national security of the United States; and
+
+(iv) there is any credible information or reporting that any covered individual who occupies a covered post-service position has engaged in activities that violate Federal law.
+
+(3) Form of report.— Each report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+(f) Notifications of Determinations of Certain Threats.— (1) Requirement.— In addition to the annual reports under subsection (d), if the Secretary determines that the services provided by a covered individual who occupies a covered post-service position pose a threat described in clause (iii) of paragraph (2)(B) of that subsection, or include activities described in clause (iv) of such paragraph, the Secretary shall notify the congressional defense committees of that determination by not later than 30 days after making the determination.
+
+(2) Elements.— A notification required by paragraph (1) shall include the following:
+
+(A) The name of the covered individual.
+
+(B) The name of the employer.
+
+(C) The foreign government, including the specific foreign individual, agency, or entity, for whom the covered post-service employment is being performed.
+
+(D) As applicable, a description of the risk to national security and the activities that may violate Federal law.
+
+(g) Rule of Construction.— Nothing in this section may be construed to indemnify or shield covered individuals from prosecution under any relevant provision of title 18.
+
+(h) Definitions.— In this section:
+
+(1) Covered individual.— The term “covered individual” means an individual who has retired or otherwise separated from an active or reserve component of the Armed Forces.
+
+(2) Covered post-service employment.— The term “covered post-service employment” means direct or indirect employment by, representation of, or any provision of advice or services relating to national security, intelligence, the military, or internal security to—
+
+(A) the government of—
+
+(i) a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2651a(m))); or
+
+(ii) a country the Secretary of Defense determines acts as a proxy or passthrough for services for a country of concern; or
+
+(B) any company, entity, or other person the activities of which are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by a government described in subparagraph (A).
+
+(3) Covered post-service position.— The term “covered post-service position” means a position of employment described in paragraph (2).
+
+(Added Pub. L. 118–31, div. A, title V, § 523(a), Dec. 22, 2023, 137 Stat. 250.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Counterintelligence Briefings for Members of the Armed ForcesPub. L. 119–60, div. F, title LXV, § 6511, Dec. 18, 2025, 139 Stat. 1629, provided that: “(a) Definitions.—In this section:“(1) Covered individual.—The term ‘covered individual’ has the meaning given such term in section 989(h) of title 10, United States Code. “(2) Government of concern; company of concern.—The terms ‘government of concern’ and ‘company of concern’ mean, respectively, a government described in subparagraph (A) of section 989(h)(2) of title 10, United States Code, and a company, entity, or other person described in subparagraph (B) of such section. “(b) In General.—The Under Secretary of Defense for Intelligence and Security shall issue appropriate policy to require the military departments to conduct counterintelligence briefings for members of the Armed Forces as part of the process required by section 989(c) of title 10, United States Code. “(c) Elements.—Each briefing provided under subsection (b) shall provide members of the Armed Forces with—“(1) awareness of methods commonly used by governments and companies of concern to solicit and learn from covered individuals sensitive military techniques, tactics, and procedures of the Armed Forces; “(2) recommended practices for covered individuals to avoid an activity that could subject such individuals to civil or criminal penalties; “(3) the contact information for the counterintelligence authorities to whom covered individuals should report attempted recruitment or a related suspicious contact; and “(4) an overview of the prohibition and penalties under subsections (a) and (c) of section 989 of title 10, United States Code. “(d) Provision of Briefings at Certain Trainings.—The Under Secretary may mandate the briefings required by subsection (b) during the trainings required by Department of Defense Directive 5240.06 (relating to counterintelligence awareness and reporting), or successor document.”

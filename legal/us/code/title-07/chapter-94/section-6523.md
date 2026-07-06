@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 6523"
+description: "National organic certification cost-share program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "94"
+chapter_name: "ORGANIC CERTIFICATION"
+section: "6523"
+citation: "7 U.S.C. § 6523"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s6523"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "c5404b126cc5b77a3f83644d53dd75f244cbea4b5419a3a797f25f54a2e9d8ac"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "5dd0d04979cb94acaf360c2f7b96b9ea7e42b1b4201ce46ce01d23333c222aa1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 6523 - National organic certification cost-share program
+
+## Text
+
+(a) In general The Secretary of Agriculture shall establish a national organic certification cost-share program to assist producers and handlers of agricultural products in obtaining certification under the national organic production program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
+
+(b) Federal share (1) In general Subject to paragraph (2), the Secretary shall pay under this section not more than 75 percent of the costs incurred by a producer or handler in obtaining certification under the national organic production program, as certified to and approved by the Secretary.
+
+(2) Maximum amount The maximum amount of a payment made to a producer or handler under this section shall be $750.
+
+(c) Reporting Not later than March 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the requests by, disbursements to, and expenditures for each State under the program during the current and previous fiscal year, including the number of producers and handlers served by the program in the previous fiscal year.
+
+(d) Mandatory funding (1) In general Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section—
+
+(A) $2,000,000 for each of fiscal years 2019 and 2020;
+
+(B) $4,000,000 for fiscal year 2021; and
+
+(C) $8,000,000 for each of fiscal years 2022 through 2031.
+
+(2) Availability Amounts made available under paragraph (1) shall remain available until expended.
+
+(Pub. L. 107–171, title X, § 10606, May 13, 2002, 116 Stat. 514; Pub. L. 110–234, title X, § 10301, May 22, 2008, 122 Stat. 1346; Pub. L. 110–246, § 4(a), title X, § 10301, June 18, 2008, 122 Stat. 1664, 2108; Pub. L. 112–240, title VII, § 701(g)(3), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title X, § 10004(c), Feb. 7, 2014, 128 Stat. 942; Pub. L. 115–334, title X, § 10105, Dec. 20, 2018, 132 Stat. 4905; Pub. L. 118–22, div. B, title I, § 102(d)(7)(C), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10606(e), July 4, 2025, 139 Stat. 110.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Organic Foods Production Act of 1990, referred to in subsec. (a), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246. Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Organic Foods Production Act of 1990 which comprises this chapter.
+
+Amendments2025—Subsec. (d)(1)(C). Pub. L. 119–21 substituted “2031” for “2024”. 2023—Subsec. (d)(1)(C). Pub. L. 118–22 substituted “through 2024” for “and 2023”. 2018—Subsec. (a). Pub. L. 115–334, § 10105(a), struck out “(acting through the Agricultural Marketing Service)” after “Secretary of Agriculture”. Subsec. (d). Pub. L. 115–334, § 10105(b), added subsec. (d) and struck out former subsec. (d) which related to funding to carry out this section for fiscal years 2013 to 2018. 2014—Subsec. (d)(1). Pub. L. 113–79 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.” 2013—Subsec. (a). Pub. L. 112–240, § 701(g)(3)(A), substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”. Subsec. (d). Pub. L. 112–240, § 701(g)(3)(B), added subsec. (d). 2008—Subsec. (a). Pub. L. 110–246, § 10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”. Subsec. (b)(2). Pub. L. 110–246, § 10301(2), substituted “$750” for “$500”. Subsec. (c). Pub. L. 110–246, § 10301(3), added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2023 AmendmentAmendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
+Effective Date of 2013 AmendmentAmendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.

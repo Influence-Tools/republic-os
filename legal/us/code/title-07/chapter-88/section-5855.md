@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 5855"
+description: "Funding"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "88"
+chapter_name: "RESEARCH"
+section: "5855"
+citation: "7 U.S.C. § 5855"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s5855"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "040b633a346c71ba48d3e55801ba707a1f85ee961ac585dd5736c8996ba430e2"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "ffbd443c807ff0d182bf4d452b55de1f7d85430073fae6b7fb50e8bec89f0798"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 5855 - Funding
+
+## Text
+
+(a) Allocation of funds (1) Cooperative work Not less than 15 percent and not more than 25 percent of the funds appropriated for a fiscal year to carry out this subchapter shall be used for cooperative work with the National Weather Service entered into under section 5852(b)(1) of this title.
+
+(2) Competitive grants program Not less than 15 percent and not more than 25 percent of such funds shall be used by the National Institute of Food and Agriculture for a competitive grants program under section 5852(c) of this title.
+
+(3) Weather information systems Not less than 25 percent and not more than 35 percent of such funds shall be divided equally between the participating States selected for that fiscal year under section 5854 of this title.
+
+(4) Other purposes The remaining funds shall be allocated for use by the Agricultural Weather Office and the National Institute of Food and Agriculture in carrying out generally the provisions of this subchapter.
+
+(b) Limitations on use of funds Funds provided under the authority of this subchapter shall not be used for the construction of facilities. Each State or agency receiving funds shall not use more than 30 percent of such funds for equipment purchases. Any use of the funds in facilitating the distribution of agricultural and climate information to producers shall be done with consideration for the role that the private meteorological sector can play in such information delivery.
+
+(c) Authorization of appropriations There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of the fiscal years 2008 through 2012 and $1,000,000 for each of fiscal years 2014 through 2023.
+
+(Pub. L. 101–624, title XVI, § 1641, Nov. 28, 1990, 104 Stat. 3750; Pub. L. 104–127, title VIII, § 833, Apr. 4, 1996, 110 Stat. 1168; Pub. L. 110–234, title VII, §§ 7202, 7511(c)(20), May 22, 2008, 122 Stat. 1233, 1269; Pub. L. 110–246, § 4(a), title VII, §§ 7202, 7511(c)(20), June 18, 2008, 122 Stat. 1664, 1994, 2030; Pub. L. 113–79, title VII, § 7206, Feb. 7, 2014, 128 Stat. 881; Pub. L. 115–334, title VII, § 7207, Dec. 20, 2018, 132 Stat. 4805.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2018—Subsec. (c). Pub. L. 115–334 substituted “2023” for “2018”. 2014—Subsec. (c). Pub. L. 113–79 substituted “to carry out this subchapter $5,000,000” for “$5,000,000 to carry out this subchapter” and inserted “and $1,000,000 for each of fiscal years 2014 through 2018” before period at end. 2008—Subsec. (a)(2). Pub. L. 110–246, § 7511(c)(20)(A), substituted “National Institute of Food and Agriculture” for “Cooperative State Research Service”. Subsec. (a)(4). Pub. L. 110–246, § 7511(c)(20)(B), substituted “National Institute of Food and Agriculture” for “Extension Service”. Subsec. (c). Pub. L. 110–246, § 7202, substituted “2008 through 2012” for “1991 through 1997”. 1996—Subsec. (c). Pub. L. 104–127 substituted “1997” for “1995”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title. Amendment by section 7511(c)(20) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.

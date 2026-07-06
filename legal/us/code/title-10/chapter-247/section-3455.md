@@ -1,0 +1,33 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3455"
+description: "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(5), Dec. 18, 2025, 139 Stat. 948]"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "247"
+chapter_name: "PROCUREMENT OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES"
+section: "3455"
+citation: "10 U.S.C. § 3455"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3455"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "54c91c5624b0e1169f677fca7878cc89074297af9bb3f1fc4531df320ac49f98"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "bf9764d5ffbbb467cc4c0f155ab699d93cd7c621653cffd81e659775e6b6e7b0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3455 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(5), Dec. 18, 2025, 139 Stat. 948]
+
+## Notes
+
+Section, added Pub. L. 109–163, div. A, title VIII, § 803(a)(1), Jan. 6, 2006, 119 Stat. 3370, § 2379; amended Pub. L. 110–181, div. A, title VIII, § 815(a)(1), Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, § 1071(a)(7), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 852(a)–(d), Nov. 25, 2015, 129 Stat. 917, 918; Pub. L. 114–328, div. A, title VIII, § 872, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, § 836(d)(4), (8)(D), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3455 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1821(a)(2), (b)(4), 1831(j)(4), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4195, 4217, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(i)(ii), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 117–263, div. A, title VIII, § 803, Dec. 23, 2022, 136 Stat. 2693, related to requirement for prior determination by Secretary of Defense and notification to Congress for the procurement of a major weapon system as a commercial product.

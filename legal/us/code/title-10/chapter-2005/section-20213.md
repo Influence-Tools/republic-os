@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 20213"
+description: "Notice of convening of selection boards"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "2005"
+chapter_name: "OFFICERS"
+section: "20213"
+citation: "10 U.S.C. § 20213"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s20213"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "0bbe06cdbff0715fec5cb68ce1a2f4e611f779708e5761bdefa000c7804cd97f"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "aa51cf700eb1db495f0d6bb59a16595918850a64ccc43ab1d84e72adbf0aa3ad"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 20213 - Notice of convening of selection boards
+
+## Text
+
+(a) Notice to Eligible Officers.— At least 30 days before a selection board is convened under section 20211 of this title to recommend officers in a grade for promotion to the next higher grade, the Secretary of the Air Force shall—
+
+(1) notify in writing the officers eligible for consideration for promotion of the date on which the board is to convene and the name and date of rank of the junior officer, and of the senior officer, in the promotion zone as of the date of the notification; or
+
+(2) issue a general written notice to the Space Force regarding the convening of the board which shall include the convening date of the board and the name and date of rank of the junior officer, and of the senior officer, in the promotion zone as of the date of the notification.
+
+(b) Communication From Officers.— An officer eligible for consideration by a selection board convened under section 20211 of this title (other than an officer who has been excluded under section 20231(d) of this title from consideration by the board) may send a written communication to the board, to arrive not later than 10 calendar days before the date on which the board convenes, calling attention to any matter concerning the officer that the officer considers important to the officer’s case. The selection board shall give consideration to any timely communication under this subsection.
+
+(c) Notice of Intent of Certain Officers To Serve on or Off Active Duty.— An officer on the Space Force officer list in the grade of colonel or brigadier general who receives a notice under subsection (a) shall inform the Secretary of the officer’s preference to serve either on or off sustained duty if promoted to the grade of brigadier general or major general, respectively.
+
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 635.)

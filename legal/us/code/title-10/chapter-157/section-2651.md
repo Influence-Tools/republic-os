@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2651"
+description: "Passengers and merchandise to Guam: sea transport"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "157"
+chapter_name: "TRANSPORTATION"
+section: "2651"
+citation: "10 U.S.C. § 2651"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2651"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "1b81e66aab45aedd880d092dcb8d5ea4e58f017254ca8d2944298faf532124d1"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "fa9899dbabef21b5b918514e472f20ed57de9f326a0b3a5f12a7e1b34008e08e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2651 - Passengers and merchandise to Guam: sea transport
+
+## Text
+
+Whenever space is available, passengers, and merchandise produced in the United States, or the Commonwealths and possessions, and consigned to residents and mercantile firms of Guam, may be transported to Guam on vessels operated by the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4747; renumbered § 2651 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(4), Oct. 28, 2004, 118 Stat. 2057, 2058; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 111–383, div. A, title X, § 1075(h)(4)(A)(ii), Jan. 7, 2011, 124 Stat. 4377.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 474710:1368.10:1371 (last 29 words).Mar. 3, 1911, ch. 209 (4th proviso under “Transportation of the Army and Its Supplies”), 36 Stat. 1051.   Mar. 2, 1907, ch. 2511 (last 29 words of 6th proviso under “Transportation of the Army and Its Supplies”), 34 Stat. 1171. The words “without displacing military supplies” and “of the island of”, in 10:1368 and 1371, are omitted as surplusage. The words “produced in the United States, or the Territories, Commonwealths, and possessions” are substituted for the words “of American production”.
+
+Editorial Notes
+
+Amendments2011—Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–163, § 1057(a)(6). See 2006 Amendment note below. 2006—Pub. L. 109–163, § 1057(a)(6), as amended by Pub. L. 111–383, substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”. 2004—Pub. L. 108–375, § 1072(b)(4), substituted “the Department of Defense, under regulations and at rates to be prescribed by the Secretary of Defense” for “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels operated by any transport agency of the Department of Defense, under regulations and at rates to be prescribed by the Secretary of the Army”. Pub. L. 108–375, § 1072(a), renumbered section 4747 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2011 AmendmentPub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(4)(A)(ii) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.

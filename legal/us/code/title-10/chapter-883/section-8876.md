@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8876"
+description: "Compensation of prize commissioners and special prize commissioners"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "883"
+chapter_name: "PRIZE"
+section: "8876"
+citation: "10 U.S.C. § 8876"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8876"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "39f28bc65d89acbff8e2acf4e588d091244e3a81a1e981fb744efbe8e04fcdfa"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "473edeebb7af953fbb085ce7c5715fd780af98ef6501ede4bd3d51f502c1ebab"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8876 - Compensation of prize commissioners and special prize commissioners
+
+## Text
+
+(a) Naval prize commissioners and naval special prize commissioners may not receive compensation for their services in prize causes other than that to which they are entitled as officers of the Navy.
+
+(b) Prize commissioners and special prize commissioners, except naval prize commissioners and naval special prize commissioners, are entitled to just and suitable compensation for their services in prize causes. The amount of compensation in each cause shall be determined by the court and allowed as costs.
+
+(c) Annually, on the anniversary of his appointment, each prize commissioner and special prize commissioner, except a naval prize commissioner or a naval special prize commissioner, shall submit to the Attorney General an account of all amounts received for his services in prize causes within the previous year. Of the amounts reported, each such commissioner may retain not more than $3,000, which is in full satisfaction for all his services in prize causes for that year. He shall pay any excess over that amount into the Treasury.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 482, § 7676; renumbered § 8876, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 7676(a)34 U.S.C. 1137 (as applicable to compensation of naval prize commissioner).R.S. 4621 (as applicable to compensation of naval prize commissioner); Nov. 14, 1945, ch. 472, § 2, 59 Stat. 581.  34 U.S.C. 1163 (as applicable to compensation of naval special prize commissioner).Aug. 18, 1942, ch. 553, § 5 (as applicable to compensation of naval special prize commissioner), 56 Stat. 746. 7676(b)34 U.S.C. 1154.R.S. 4646. 7676(c)34 U.S.C. 1155.R.S. 4647. In subsection (c) the words “on the anniversary of his appointment” are inserted for clarity, as “year” in the context of this section means a year of service as prize commissioner. The words “and shall be credited to the fund for paying naval pensions” are omitted because the Act of June 26, 1934, ch. 756, § 9, 48 Stat. 1229, abolished the naval pension fund and provided that moneys previously required to be paid into it should be deposited in the Treasury as miscellaneous receipts. The words “as miscellaneous receipts” are omitted as surplusage. The word “amounts” is substituted for the word “sums”. 34 U.S.C. 1154 and 1155 and this section reflect the Act of May 28, 1896, ch. 252, § 6, 29 Stat. 179, 180, which provided that United States attorneys should receive fixed annual salaries in lieu of the fees and emoluments previously authorized.
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–232 renumbered section 7676 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 390"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "14"
+chapter_name: "AGRICULTURAL EXPERIMENT STATIONS"
+section: "390"
+citation: "7 U.S.C. § 390"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s390"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "46e70b6c590a5239910f179d04360dbbd308f6ecf7e591cf71f5d92142015f62"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "7508e54e4ac6dd56bac4d97dee715011a3f8b9ace90632ae52c4debef94fe97a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 390 - Definitions
+
+## Text
+
+In this subchapter:
+
+(1) Agricultural research facility The term “agricultural research facility” means a proposed facility for research in food and agricultural sciences for which Federal funds are requested by an entity eligible to receive funds under a capacity and infrastructure program (as defined in section 6971(f)(1)(C) of this title) to assist in the construction, alteration, acquisition, modernization, renovation, or remodeling of the facility.
+
+(2) Congressional agriculture committees The term “congressional agriculture committees” means the Committee on Appropriations and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+
+(3) Food and agricultural sciences The term “food and agricultural sciences” has the meaning given that term in section 3103 of this title.
+
+(4) Secretary The term “Secretary” means the Secretary of Agriculture.
+
+(Pub. L. 88–74, § 2, as added Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1176; amended Pub. L. 107–171, title VII, §§ 7214, 7308(b), May 13, 2002, 116 Stat. 448, 455; Pub. L. 110–234, title VII, § 7101(b)(1), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, § 4(a), title VII, § 7101(b)(1), June 18, 2008, 122 Stat. 1664, 1974; Pub. L. 115–334, title VII, § 7503(a)(1), Dec. 20, 2018, 132 Stat. 4821.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Prior ProvisionsA prior section 390, Pub. L. 88–74, § 1, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, § 1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, § 1411(a), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of policy, prior to the general amendment of this subchapter by Pub. L. 104–127. A prior section 2 of Pub. L. 88–74 was classified to section 390a of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
+
+Amendments2018—Par. (1). Pub. L. 115–334 substituted “an entity eligible to receive funds under a capacity and infrastructure program (as defined in section 6971(f)(1)(C) of this title)” for “a college, university, or nonprofit institution”. 2008—Par. (3). Pub. L. 110–246, § 7101(b)(1), substituted “3103” for “3103(8)”. 2002—Par. (3). Pub. L. 107–171, § 7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means— “(A) agriculture, including soil and water conservation and use, the use of organic materials to improve soil tilth and fertility, plant and animal production and protection, and plant and animal health; “(B) the processing, distribution, marketing, and utilization of food and agricultural products; “(C) forestry, including range management, production of forest and range products, multiple use of forests and rangelands, and urban forestry; “(D) aquaculture (as defined in section 3103(3) of this title); “(E) human nutrition; “(F) production inputs, such as energy, to improve productivity; and “(G) germ plasm collection and preservation.” Par. (5). Pub. L. 107–171, § 7308(b), struck out heading and text of par. (5). Text read as follows: “The term ‘task force’ means the Strategic Planning Task Force established under section 390b of this title.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+Effective DatePub. L. 104–127, title VIII, § 884(b), Apr. 4, 1996, 110 Stat. 1179, provided that: “The amendment made by subsection (a) [enacting this subchapter], other than section 4 of the Research Facilities Act [section 390b of this title] (as amended by subsection (a)), shall not apply to any project for an agricultural research facility for which funds have been made available for a feasibility study or for any phase of the project prior to October 1, 1995.”
+
+Short TitlePub. L. 88–74, § 1, as added by Pub. L. 104–127, title VIII, § 884(a), Apr. 4, 1996, 110 Stat. 1176, provided that: “This Act [enacting this subchapter] may be cited as the ‘Research Facilities Act’.”

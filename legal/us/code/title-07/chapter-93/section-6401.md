@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 6401"
+description: "Findings and declaration of policy"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "93"
+chapter_name: "PROCESSOR-FUNDED MILK PROMOTION PROGRAM"
+section: "6401"
+citation: "7 U.S.C. § 6401"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s6401"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "3e2e2ade3c452d2a3c1eef05b949fc072ec9601538ca31e0bd81341e43faa4c2"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "474a4999de2f68cee86dc90b92f064833eda696260e115b2e6ef6a2a5e07d122"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 6401 - Findings and declaration of policy
+
+## Text
+
+(a) Findings Congress finds that—
+
+(1) fluid milk products are basic foods and are a primary source of required nutrients such as calcium, and otherwise are a valuable part of the human diet;
+
+(2) fluid milk products must be readily available and marketed efficiently to ensure that the people of the United States receive adequate nourishment;
+
+(3) the dairy industry plays a significant role in the economy of the United States, in that milk is produced by thousands of milk producers and dairy products (including fluid milk products) are consumed every day by millions of people in the United States;
+
+(4) the processing of milk into fluid milk products and the marketing of such products are important to the dairy industry because the fluid milk segment of the dairy market contributes substantially to ensuring that the prices paid to milk producers for raw milk are stable and adequate to maintain the overall strength of the dairy industry;
+
+(5) the maintenance and expansion of markets for fluid milk products are vital to the Nation’s fluid milk processors and milk producers, as well as to the general economy of the United States;
+
+(6) the congressional purpose underlying this chapter is to maintain and expand markets for fluid milk products, not to maintain or expand any processor’s share of those markets and that the chapter does not prohibit or restrict individual advertising or promotion of fluid milk products since the programs created and funded by this chapter are not extended to replace individual advertising and promotion efforts;
+
+(7) the cooperative development, financing, and implementation of a coordinated program of advertising and promotion of fluid milk products is necessary to maintain and expand markets for fluid milk products;
+
+(8) it is appropriate to finance the cooperative program described in paragraph (6) 11 So in original. Probably should be paragraph “(7)”. with self-help assessments paid by the fluid milk processors; and
+
+(9) fluid milk products move in interstate and foreign commerce, and fluid milk products that do not move in such channels of commerce directly burden or affect interstate commerce in fluid milk products.
+
+(b) Policy It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of powers provided in this chapter, of an orderly procedure for developing, financing, through adequate assessments on fluid milk products produced in the United States and carrying out an effective, continuous, and coordinated program of promotion, research, and consumer information designed to strengthen the position of the dairy industry in the marketplace and maintain and expand domestic and foreign markets and uses for fluid milk products, the purpose of which is not to compete with or replace individual advertising or promotion efforts designed to promote individual brand name or trade name fluid milk products, but rather to maintain and expand the markets for all fluid milk products, with the goal and purpose of this chapter being a national governmental goal that authorizes and funds programs that result in government speech promoting government objectives.
+
+(Pub. L. 101–624, title XIX, § 1999B, Nov. 28, 1990, 104 Stat. 3914; Pub. L. 104–127, title I, § 146(a), (b), Apr. 4, 1996, 110 Stat. 918.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1996—Subsec. (a)(6) to (9). Pub. L. 104–127, § 146(a), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively. Subsec. (b). Pub. L. 104–127, § 146(b), amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 1993 AmendmentPub. L. 103–72, § 1, Aug. 11, 1993, 107 Stat. 717, provided that: “This Act [amending sections 6402 and 6409 of this title] may be cited as the ‘Fluid Milk Promotion Amendments Act of 1993’.”
+
+Short TitlePub. L. 101–624, title XIX, § 1999A, Nov. 28, 1990, 104 Stat. 3914, provided that: “This subtitle [subtitle H (§§ 1999A—1999R) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Fluid Milk Promotion Act of 1990’.”

@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4293"
+description: "Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "322"
+chapter_name: "MAJOR SYSTEMS AND MAJOR DEFENSE ACQUISITION PROGRAMS GENERALLY"
+section: "4293"
+citation: "10 U.S.C. § 4293"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4293"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "1e75c656ca18e059f0e9e16bbb6d576067bce1771cb9f4b90142a0ccfa10f704"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "98085be83ca2a1349dbfdb14842c4d273b4c18295cbe79925fb9de1d53563264"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4293 - Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States
+
+## Text
+
+(a) Establishment of Incentive Program.— The Secretary of Defense shall plan and establish an incentive program in accordance with this section for contractors to purchase capital assets manufactured in the United States in part with funds available to the Department of Defense.
+
+(b) Defense Industrial Capabilities Fund May Be Used.— The Secretary of Defense may use the Defense Industrial Capabilities Fund, established under section 814 of the National Defense Authorization Act for Fiscal Year 2004, for incentive payments under the program established under this section.
+
+(c) Applicability to Major Defense Acquisition Program Contracts.— The incentive program shall apply to contracts for the procurement of a major defense acquisition program.
+
+(d) Consideration.— The Secretary of Defense shall provide consideration in source selection in any request for proposals for a major defense acquisition program for offerors with eligible capital assets.
+
+(Added Pub. L. 108–136, div. A, title VIII, § 822(a)(1), Nov. 24, 2003, 117 Stat. 1546, § 2436; renumbered § 4293, Pub. L. 116–283, div. A, title XVIII, § 1847(f)(2), Jan. 1, 2021, 134 Stat. 4258.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 814 of the National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (b), is section 814 of Pub. L. 108–136, which is set out in a note under section 4811 of this title.
+
+Prior ProvisionsPrior sections 4301 to 4303 and 4306 were renumbered sections 7401 to 7403 and 7406 of this title, respectively. Prior sections 4307 and 4308 were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), (c) Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996. Section 4307, act Aug. 10, 1956, ch. 1041, 70A Stat. 235, permitted President to detail commissioned officer of the Army or of the Marine Corps as director of civilian marksmanship. Section 4308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 236; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, § 318(a), 100 Stat. 3855; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, § 328(b)–(d), (g)(1), 104 Stat. 1533, 1534; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, § 380(a)(1), 106 Stat. 2389; Nov. 30, 1993, Pub. L. 103–160, div. A, title III, § 372, 107 Stat. 1635, related to authority of Secretary of the Army to promote civilian marksmanship. See section 40701 et seq. of Title 36, Patriotic and National Observances, Ceremonies, and Organizations. A prior section 4309 was renumbered section 7409 of this title. Prior sections 4310 and 4311 were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), (c), Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996. Section 4310, act Aug. 10, 1956, ch. 1041, 70A Stat. 236, permitted President and Secretary of the Army to detail members of Army as rifle instructors for civilians. Section 4311, acts Aug. 10, 1956, ch. 1041, 70A Stat. 237; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, § 328(f), 104 Stat. 1534, permitted Secretary of the Army to provide for issue of military rifles and sale of ammunition for use in rifle instruction for civilians. Prior sections 4312 and 4313 were repealed by Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499. Section 4312, act Aug. 10, 1956, ch. 1041, 70A Stat. 237, related to National rifle and pistol matches and small-arms firing school. Section 4313, act Aug. 10, 1956, ch. 1041, 70A Stat. 237; Pub. L. 99–145, title XIII, § 1301(b)(3)(B), Nov. 8, 1985, 99 Stat. 735; Pub. L. 99–661, div. A, title III, § 318(b), Nov. 14, 1986, 100 Stat. 3855; Pub. L. 101–510, div. A, title III, § 328(a), Nov. 5, 1990, 104 Stat. 1533; Pub. L. 102–484, div. A, title III, § 380(c)(1), Oct. 23, 1992, 106 Stat. 2391; Pub. L. 103–35, title II, § 201(g)(10)(A), May 31, 1993, 107 Stat. 100; Pub. L. 104–106, div. A, title XVI, § 1624(b)(1), Feb. 10, 1996, 110 Stat. 522, related to expenses of National Matches and small-arms school. Prior sections 4314 and 4315 were renumbered sections 7414 and 7415 of this title, respectively. A prior section 4316, added Pub. L. 102–484, div. A, title III, § 380(d)(1), Oct. 23, 1992, 106 Stat. 2391; amended Pub. L. 104–106, div. A, title XVI, § 1624(b)(2), Feb. 10, 1996, 110 Stat. 522, related to reporting requirements of the Secretary of the Army, prior to repeal by Pub. L. 115–91, div. A, title X, § 1051(a)(27)(A), Dec. 12, 2017, 131 Stat. 1562. Prior sections 4317 to 4320 were renumbered sections 7417 to 7420 of this title, respectively.
+
+Amendments2021—Pub. L. 116–283 renumbered section 2436 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DatePub. L. 108–136, div. A, title VIII, § 822(c), Nov. 24, 2003, 117 Stat. 1547, provided that: “Section 2436 of title 10, United States Code [now 10 U.S.C. 4293], as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 18-month period beginning on the date of the enactment of this Act [Nov. 24, 2003].”
+
+RegulationsPub. L. 108–136, div. A, title VIII, § 822(b), Nov. 24, 2003, 117 Stat. 1547, provided that: “(1) The Secretary of Defense shall prescribe regulations as necessary to carry out section 2436 of title 10, United States Code [now 10 U.S.C. 4293], as added by this section. “(2) The Secretary may prescribe interim regulations as necessary to carry out such section. For this purpose, the Secretary is excepted from compliance with the notice and comment requirements of section 553 of title 5, United States Code. All interim rules prescribed under the authority of this paragraph that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 2436 of title 10, United States Code [now 10 U.S.C. 4293] [see Effective Date note above], as added by this section.”

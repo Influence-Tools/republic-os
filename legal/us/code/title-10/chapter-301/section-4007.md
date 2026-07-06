@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4007"
+description: "Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "301"
+chapter_name: "RESEARCH AND ENGINEERING GENERALLY"
+section: "4007"
+citation: "10 U.S.C. § 4007"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4007"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "04755ead653355497b40229eca9266c8dd9026602295fd6dd156125b6e19680c"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "7573c06b3fff658d6a1f5a55dfdf9171e7d75716de9667c851dadf8a3c33f5f5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4007 - Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation
+
+## Text
+
+(a) Policy.— Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official are carried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
+
+(b) Covered Officials.— Subsection (a) applies to the following officials of the Department of Defense:
+
+(1) The Under Secretary of Defense for Research and Engineering.
+
+(2) The Secretary of each military department.
+
+(3) The Director of the Defense Advanced Research Projects Agency.
+
+(4) The directors and heads of other offices and agencies of the Department of Defense with assigned research, development, test, and evaluation responsibilities.
+
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 904(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–225, § 2359; amended Pub. L. 116–92, div. A, title IX, § 902(55), Dec. 20, 2019, 133 Stat. 1549; renumbered § 4007, Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), (c), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283, § 1841(c), which directed the renumbering of section 2359 of this title as this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such renumbering was no longer directed. Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), renumbered section 2359 of this title as this section. 2019—Subsec. (b)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below. Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Pilot Program on the Use of Private Sector Partnerships To Promote Technology TransitionPub. L. 117–81, div. A, title II, § 231, Dec. 27, 2021, 135 Stat. 1612, provided that: “(a) In General.—Consistent with section 2359 of title 10, United States Code [now 10 U.S.C. 4007], the Secretary of Defense shall carry out a pilot program to foster the transition of the science and technology programs, projects, and activities of the Department of Defense from the research, development, pilot, and prototyping phases into acquisition activities and operational use. Under the pilot program, the Secretary shall seek to enter into agreements with qualified private sector organizations to support—“(1) matching technology developers with programs, projects, and activities of the Department that may have a use for the technology developed by such developers; “(2) providing technical assistance to appropriate parties on participating in the procurement programs and acquisition processes of the Department, including training and consulting on programming, budgeting, contracting, requirements, and other relevant processes and activities; and “(3) overcoming barriers and challenges facing technology developers, including challenges posed by restrictions on accessing secure facilities, networks, and information. “(b) Priority.—In carrying out the activities described in paragraphs (1) through (3) of subsection (a), a qualified private sector organization shall give priority to technology producers that are small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)), research institutions (as defined in section 9(e) of such Act [15 U.S.C. 638(e)]), or institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C 1001)). “(c) Terms of Agreements.—The terms of an agreement under subsection (a) shall be determined by the Secretary of Defense. “(d) Data Collection.—“(1) Plan required before implementation.—The Secretary of Defense may not enter into an agreement under subsection (a) until the date on which the Secretary—“(A) completes a plan to for carrying out the data collection required under paragraph (2); and “(B) submits the plan to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]. “(2) Data collection required.—The Secretary of Defense shall collect and analyze data on the pilot program under this section for the purposes of—“(A) developing and sharing best practices for facilitating the transition of science and technology from the research, development, pilot, and prototyping phases into acquisition activities and operational use within the Department of Defense; “(B) providing information to the leadership of the Department on the implementation of the pilot program and related policy issues; and “(C) providing information to the congressional defense committees as required under subsection (e). “(e) Briefing.—Not later than December 31, 2022, the Secretary of Defense shall provide to the congressional defense committees a briefing on the progress of the Secretary in implementing the pilot program under this section and any related policy issues. “(f) Consultation.—In carrying out the pilot program under this section, the Secretary of Defense shall consult with—“(1) service acquisition executives (as defined in section 101 of title 10, United States Code); “(2) the heads of appropriate Defense Agencies and Department of Defense Field Activities; “(3) procurement technical assistance centers (as described in chapter 142 [see 10 U.S.C. 4951 et seq.] of title 10, United States Code); and “(4) such other individuals and organizations as the Secretary determines appropriate. “(g) Termination.—The pilot program under this section shall terminate on the date that is five years after the date on which Secretary of Defense enters into the first agreement with a qualified private sector organization under subsection (a). “(h) Comptroller General Assessment and Report.—“(1) Assessment.—The Comptroller General of the United States shall conduct an assessment of the pilot program under this section. The assessment shall include an evaluation of the effectiveness of the pilot program with respect to—“(A) facilitating the transition of science and technology from the research, development, pilot, and prototyping phases into acquisition activities and operational use within the Department of Defense; and “(B) protecting sensitive information in the course of the pilot program. “(2) Report.—Not later than the date specified in paragraph (3), the Comptroller General shall submit to the congressional defense committees a report on the results of the assessment conducted under paragraph (1). “(3) Date specified.—The date specified in this paragraph is the earlier of—“(A) four years after the date on which the Secretary of Defense enters into the first agreement with a qualified private sector organization under subsection (a): or “(B) five years after the date of the enactment of this Act [Dec. 27, 2021].”
+
+Proof of Concept Commercialization of Dual-Use Technology Pilot ProgramPub. L. 113–66, div. A, title XVI, § 1603, Dec. 26, 2013, 127 Stat. 944, as amended by Pub. L. 113–291, div. A, title VIII, § 818, Dec. 19, 2014, 128 Stat. 3432; Pub. L. 116–92, div. A, title II, § 217, Dec. 20, 2019, 133 Stat. 1258, which authorized the establishment and implementation of the Proof of Concept Commercialization of Dual-Use Technology Pilot Program with the purpose of accelerating commercialization of basic research innovations from certain institutions and provided that the program shall terminate on Sept. 30, 2024, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(10), Dec. 18, 2025, 139 Stat. 949.

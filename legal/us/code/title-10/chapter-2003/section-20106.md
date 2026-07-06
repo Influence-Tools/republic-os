@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 20106"
+description: "Orders to active duty: without consent of member"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "2003"
+chapter_name: "STATUS AND PARTICIPATION"
+section: "20106"
+citation: "10 U.S.C. § 20106"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s20106"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "f487db9e87281dd041752b65ad5ceb2f5d5ebf83b22502ef559cd670ce706208"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "f414ebb23b1539e260b12a5b164c00299f6f6a351100d2d4069272b1a8ef4835"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 20106 - Orders to active duty: without consent of member
+
+## Text
+
+(a) Members in a Space Force Active Status.— (1) A member of the Space Force in a space force active status who is not on sustained duty, may, without the consent of the member, be ordered to active duty or inactive duty in the same manner as a member of a reserve component ordered to active duty or inactive duty under the provisions of chapter 1209 of this title and any other provision of law authorizing the order to active duty of a member of a reserve component in an active status without the consent of the member.
+
+(2) The provisions of chapter 1209 of this title, or other applicable provisions of law, pertaining to a member of the Ready Reserve when ordered to active duty shall apply to a member of the Space Force who is in a space force active status when ordered to active duty under paragraph (1).
+
+(3) The provisions of section 12304 of this title pertaining to members in the Individual Ready Reserve mobilization category shall apply to a member of the Space Force who is designated an Individual Ready Guardian when ordered to active duty who meets the provisions of section 20102(b) of this title.
+
+(b) Members in a Space Force Inactive Status.— (1) A member of the Space Force in a space force inactive status may be ordered to active duty under—
+
+(A) the provisions of chapter 1209 of this title;
+
+(B) any other provision of law authorizing the order to active duty of a member of a reserve component in an inactive status; and
+
+(C) the terms of any agreement entered into by the member under section 20103 of this title.
+
+(2) The provisions of chapter 1209 of this title, or other applicable provisions of law, pertaining to the Standby Reserve shall apply to a member of the Space Force who is in a space force inactive service when ordered to active duty.
+
+(c) Members in a Space Force Retired Status.— (1) Chapters 39 and 1209 of this title include provisions authorizing the order to active duty of a member of the Space Force in a space force retired status.
+
+(2) The provisions of sections 688, 688a, and 12407 of this title pertaining to a retired member or a member of the Retired Reserve shall apply to a member of the Space Force in a space force retired status when ordered to active duty.
+
+(3) The provisions of section 689 of this title pertaining to a retired member ordered to active duty shall apply to a member of the Space Force in a space force retired status who is ordered to active duty.
+
+(d) Other Applicable Provisions.— The following provisions of chapter 1209 of this title shall apply to a member of the Space Force ordered to active duty in the same manner as to a Reserve or member of the Retired Reserve ordered to active duty:
+
+(1) Section 12305, relating to the authority of the President to suspend certain laws relating to promotion, retirement, and separation.
+
+(2) Section 12308, relating to retention after becoming qualified for retired pay.
+
+(3) Section 12313, relating to release from active duty.
+
+(4) Section 12314, relating to kinds of duty.
+
+(5) Section 12315, relating to duty with or without pay.
+
+(6) Section 12316, relating to payment of certain Reserves while on duty.
+
+(7) Section 12317, relating to theological students; limitations.
+
+(8) Section 12320, relating to grade in which ordered to active duty.
+
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 629; amended Pub. L. 118–159, div. A, title V, § 521(m), Dec. 23, 2024, 138 Stat. 1882.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (d). Pub. L. 118–159 struck out “pertaining” before “shall apply” in introductory provisions.

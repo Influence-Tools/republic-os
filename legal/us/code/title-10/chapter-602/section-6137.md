@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 6137"
+description: "Rapid capabilities program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "602"
+chapter_name: "NUCLEAR WEAPONS STOCKPILE MATTERS"
+section: "6137"
+citation: "10 U.S.C. § 6137"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s6137"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "339d94160a2ce8a5c13aecb308151e7bea8bba1c175971b2c78cd45ac58e7482"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "c97665a3cb3973d6bc701e3556855bb7a555b8011b2823a3f18a6c092686d9ce"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 6137 - Rapid capabilities program
+
+## Text
+
+(a) In General.— The Secretary of Energy, acting through the Administrator and in coordination with the Secretary of Defense, shall carry out a program (to be known as the “rapid capabilities program”) to develop new nuclear weapons or modified nuclear weapons that meet military requirements.
+
+(b) Objectives.— The program under subsection (a) shall have the following objectives:
+
+(1) Identify and assess potential design concepts for rapid development feasability.
+
+(2) Carry out projects with the goal of achieving first production unit within 5 years of project initiation.
+
+(3) Utilize non-traditional approaches, system-specific requirements, and tailored risk-acceptance processes to favorably balance cost, schedule, and capability.
+
+(4) Maximize reuse of existing components, non-serial manufacturing, and limited production quantities.
+
+(5) Minimize disruption to other major nuclear weapons stockpile modernization programs.
+
+(6) Develop institutional expertise within the nuclear security enterprise for rapid execution of all phases for the joint nuclear weapons life cycle process.
+
+(c) Requirements Advisory Board.— In carrying out the objectives of the program under subsection (b), the Administrator shall establish an advisory board, which shall be responsible for advising the Administrator with respect to military and deterrence policy requirements related to the activities of the program. Such advisory board shall be composed of the following members:
+
+(1) The Principal Deputy Assistant Secretary of Defense for Nuclear Deterrence, Chemical and Biological Defense Policy and Programs.
+
+(2) The Director for Strategy, Plans, and Policy of the Joint Staff.
+
+(3) The Director of Navy Strategic Systems Programs.
+
+(4) The Deputy Commander of Air Force Global Strike Command.
+
+(d) Program Budget.— In accordance with the requirements under section 4209, for each budget submitted by the President to Congress under section 1105 of title 31, United States Code, the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
+
+(e) Joint Nuclear Weapons Life Cycle Process Defined.— In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
+
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(D), 3113(a)(2), Dec. 18, 2025, 139 Stat. 1462, 1463.)
+
+## Notes
+
+Editorial Notes
+
+Codification Amendment by section 3113 of Pub. L. 119–60, which was directed to subtitle A of title XLII of Pub. L. 107–314 (50 U.S.C. 2521 et seq.) by adding section 4225 of that Act, was executed by adding this section to this subchapter pursuant to section 3111(d)(1)(D) of Pub. L. 119–60 and by numbering it as section 6137 to reflect the probable intent of Congress. See Further Technical Amendments note set out under section 6114 of this title.

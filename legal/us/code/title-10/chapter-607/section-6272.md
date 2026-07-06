@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 6272"
+description: "Reprogramming"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "607"
+chapter_name: "BUDGET AND FINANCIAL MANAGEMENT MATTERS"
+section: "6272"
+citation: "10 U.S.C. § 6272"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s6272"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "76f2dc4d46f8b2a910a4e6a9b6e087848286d6bbd82278d442aa581cd093a316"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "31c41c2357b0d29f697c44be3cc727db0fec7ded0d0478671282e28c8a37607e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 6272 - Reprogramming
+
+## Text
+
+(a) In General.— Except as provided in subsection (b) and in sections 5791 and 5792 11 So in original. Probably should be “sections 6281 and 6282”. See References in Text note below. of this title, the Secretary of Energy may not use amounts appropriated pursuant to a DOE national security authorization for a program—
+
+(1) in amounts that exceed, in a fiscal year—
+
+(A) 115 percent of the amount authorized for that program by that authorization for that fiscal year; or
+
+(B) $5,000,000 more than the amount authorized for that program by that authorization for that fiscal year; or
+
+(2) which has not been presented to, or requested of, Congress.
+
+(b) Exception Where Notice-and-wait Given.— An action described in subsection (a) may be taken if—
+
+(1) the Secretary submits to the congressional defense committees a report referred to in subsection (c) with respect to such action; and
+
+(2) a period of 30 days has elapsed after the date on which such committees receive the report.
+
+(c) Report.— The report referred to in this subsection is a report containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of the proposed action.
+
+(d) Computation of Days.— In the computation of the 30-day period under subsection (b), there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain.
+
+(e) Limitations.— (1) In no event may the total amount of funds obligated pursuant to a DOE national security authorization for a fiscal year exceed the total amount authorized to be appropriated by that authorization for that fiscal year.
+
+(2) Funds appropriated pursuant to a DOE national security authorization may not be used for an item for which Congress has specifically denied funds.
+
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1426, 1462.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSections 5791 and 5792, referred to in subsec. (a), were, prior to repeal and restatement as this section, references to sections 4710 and 4711, respectively, of Pub. L. 107–314, which were repealed and restated as sections 6281 and 6282, respectively, of this title by Pub. L. 119–60, § 3111(a), (b)(1).
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 2742 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+
+Amendments2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins. Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Total amount obligated” and “Prohibited items”, respectively.

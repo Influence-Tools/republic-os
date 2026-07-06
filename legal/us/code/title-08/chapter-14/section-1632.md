@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "8 U.S.C. § 1632"
+description: "Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 8
+title_name: "ALIENS AND NATIONALITY"
+chapter_number: "14"
+chapter_name: "RESTRICTING WELFARE AND PUBLIC BENEFITS FOR ALIENS"
+section: "1632"
+citation: "8 U.S.C. § 1632"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc08@119-100.zip"
+source_identifier: "/us/usc/t8/s1632"
+source_file: "data/legal/raw/us/code/title-08/usc08.xml"
+source_hash: "2a64450c50ade33548eab51c9272209bea88696687d70add0fc08ddcbe59e24e"
+raw_snapshot_hash: "18cbd9dd4172ad0473c6dc52e038b813f80124d17167f025c00b9dfa60060a0c"
+text_hash: "64397044ad42a6f44de1171d9976cb8f8da00e4e921258365361f19b93762c0c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 8 U.S.C. § 1632 - Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs
+
+## Text
+
+(a) Optional application to State programs Except as provided in subsection (b), in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
+
+(1) the income and resources of any individual who executed an affidavit of support pursuant to section 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) on behalf of such alien, and
+
+(2) the income and resources of the spouse (if any) of the individual.
+
+(b) Exceptions Subsection (a) shall not apply with respect to the following State public benefits:
+
+(1) Assistance described in section 1621(b)(1) of this title.
+
+(2) Short-term, non-cash, in-kind emergency disaster relief.
+
+(3) Programs comparable to assistance or benefits under the Richard B. Russell National School Lunch Act [42 U.S.C. 1751 et seq.].
+
+(4) Programs comparable to assistance or benefits under the Child Nutrition Act of 1966 [42 U.S.C. 1771 et seq.].
+
+(5) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+
+(6) Payments for foster care and adoption assistance.
+
+(7) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General of a State, after consultation with appropriate agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient’s income or resources; and (C) are necessary for the protection of life or safety.
+
+(Pub. L. 104–193, title IV, § 422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, § 551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679; Pub. L. 105–33, title V, § 5581(b)(2), Aug. 5, 1997, 111 Stat. 643; Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is section 1183a of this title as added by section 423 of Pub. L. 104–193 and amended by section 551(a) of div. C of Pub. L. 104–208. The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables. The Child Nutrition Act of 1966, referred to in subsec. (b)(4), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+
+Amendments1999—Subsec. (b)(3). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”. 1997—Subsec. (a). Pub. L. 105–33 struck out “(as defined in section 1622(c) of this title)” after “public benefits” in introductory provisions. 1996—Subsec. (a)(1). Pub. L. 104–208 inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1997 AmendmentAmendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
+
+Effective Date of 1996 AmendmentAmendment by Pub. L. 104–208 applicable to affidavits of support executed on or after a date specified by the Attorney General, which date shall be not earlier than 60 days, and not later than 90 days after the date the Attorney General formulates the form for such affidavits, see section 551(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment; Promulgation of Form note under section 1183a of this title.

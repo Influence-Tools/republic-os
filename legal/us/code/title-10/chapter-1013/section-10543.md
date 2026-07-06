@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 10543"
+description: "National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "1013"
+chapter_name: "BUDGET INFORMATION AND ANNUAL REPORTS TO CONGRESS"
+section: "10543"
+citation: "10 U.S.C. § 10543"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s10543"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "0c4a6809c4c15e13d60ce2ad10c4cdbfb46630f5a2f12c8f7f1c77c07f4867da"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "a9278a3928e47c6651769d803affc3d42f9700fdc582820238b96aca3a46fe06"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 10543 - National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program
+
+## Text
+
+(a) In General.— The Secretary of Defense shall specify in each future-years defense program submitted to Congress under section 221 of this title the estimated expenditures and the proposed appropriations, for each fiscal year of the period covered by that program, for the procurement of equipment and for military construction for each of the reserve components of the armed forces.
+
+(b) Associated Annexes.— The associated annexes of the future-years defense program shall specify, at the same level of detail as is set forth in the annexes for the active components, the amount requested for—
+
+(1) procurement of each item of equipment to be procured for each reserve component; and
+
+(2) each military construction project to be carried out for each reserve component, together with the location of the project.
+
+(c) Report.— (1) If the aggregate of the amounts specified in paragraphs (1) and (2) of subsection (b) for a fiscal year is less than the amount equal to 90 percent of the average authorized amount applicable for that fiscal year under paragraph (2), the Secretary of Defense shall submit to Congress a report specifying for each reserve component the additional items of equipment that would be procured, and the additional military construction projects that would be carried out, if that aggregate amount were an amount equal to such average authorized amount. The report shall be at the same level of detail as is required by subsection (b).
+
+(2) In this subsection, the term “average authorized amount”, with respect to a fiscal year, means the average of—
+
+(A) the aggregate of the amounts authorized to be appropriated for the preceding fiscal year for the procurement of items of equipment, and for military construction, for the reserve components; and
+
+(B) the aggregate of the amounts authorized to be appropriated for the fiscal year preceding the fiscal year referred to in subparagraph (A) for the procurement of items of equipment, and for military construction, for the reserve components.
+
+(3) A report required under paragraph (1) for a fiscal year shall be submitted not later than 90 days after the date on which the President submits to Congress the budget for such fiscal year under section 1105(a) of title 31.
+
+(Added Pub. L. 104–201, div. A, title XII, § 1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amended Pub. L. 105–85, div. A, title X, § 1009(a), Nov. 18, 1997, 111 Stat. 1872; Pub. L. 106–398, § 1 [[div. A], title IX, § 931], Oct. 30, 2000, 114 Stat. 1654, 1654A–237; Pub. L. 112–81, div. A, title X, § 1064(11), Dec. 31, 2011, 125 Stat. 1587.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2011—Subsec. (c)(3). Pub. L. 112–81 substituted “90 days” for “15 days”. 2000—Subsec. (c)(3). Pub. L. 106–398 added par. (3). 1997—Pub. L. 105–85 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 104–201, div. A, title XII, § 1257(b), Sept. 23, 1996, 110 Stat. 2699, provided that: “Section 10543 of title 10, United States Code, as added by subsection (a), shall apply with respect to each future-years defense program submitted to Congress after the date of the enactment of this Act [Sept. 23, 1996].”
+
+Termination of Reporting RequirementsFor termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+Required Level of DetailPub. L. 105–85, div. A, title X, § 1009(b), Nov. 18, 1997, 111 Stat. 1872, provided that: “The level of detail provided for procurement and military construction in the future-years defense programs for fiscal years after fiscal year 1998 may not be less than the level of detail provided for procurement and military construction in the future-years defense program for fiscal year 1998.”

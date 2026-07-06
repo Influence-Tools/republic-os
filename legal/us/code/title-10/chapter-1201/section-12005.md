@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 12005"
+description: "Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "1201"
+chapter_name: "AUTHORIZED STRENGTHS AND DISTRIBUTION IN GRADE"
+section: "12005"
+citation: "10 U.S.C. § 12005"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s12005"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "9a58482d917c7ea7f5856513ba53fdf89bc3cf3cfd6672710569b501e02fadad"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "f6d3aaab99993cff55a644ee0a5903db21726bd3cb127fb59b32340ca8dc7497"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 12005 - Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status
+
+## Text
+
+(a) (1) Subject to paragraph (2), the authorized strength of the Army and the Air Force in reserve commissioned officers in an active status in each grade named in paragraph (2) is as prescribed by the Secretary of the Army or the Secretary of the Air Force, respectively. A vacancy in any grade may be filled by an authorized appointment in any lower grade.
+
+(2) A strength prescribed by the Secretary concerned under paragraph (1) for a grade may not be higher than the percentage of the strength authorized for the Army or the Air Force, as the case may be, under section 12003 of this title that is specified for that grade as follows: GradeArmy percentageAir Force percentage Colonel21.8 Lieutenant colonel64.6 Major1314.0 Captain3532.0 First lieutenant and second lieutenant (when combined with the number authorized for general officer grades under section 12004 of this title)4447.6
+
+(3) Medical officers and dental officers shall not be counted for the purposes of this subsection.
+
+(b) (1) The authorized strengths of the Navy Reserve in line officers in an active status in the grades of captain, commander, lieutenant commander, and lieutenant, and in the grades of lieutenant (junior grade) and ensign combined, are the following percentages of the total authorized number of those officers: Captain1.5 percent Commander7  percent Lieutenant commander22  percent Lieutenant37  percent Lieutenant (junior grade) and ensign (when combined with the number authorized for flag officer grades under section 12004 of this title)32.5 percent.
+
+(2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
+
+(c) (1) The authorized strengths of the Marine Corps Reserve in officers in an active status in the grades of colonel, lieutenant colonel, major, and captain, and in the grades of first lieutenant and second lieutenant combined, are the following percentages of the total authorized number of those officers: Colonel2 percent Lieutenant colonel8 percent Major16 percent Captain39 percent First lieutenant and second lieutenant (when combined with the number authorized for general officer grades under section 12004 of this title)35 percent.
+
+(2) When the actual number of officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
+
+(d) (1) An officer of the Army or Air Force may not be reduced in grade because of a reduction in the number of commissioned officers authorized for the officer’s grade under this section.
+
+(2) An officer of the Navy Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
+
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(a)(1), Oct. 5, 1994, 108 Stat. 2985; amended Pub. L. 106–398, § 1 [[div. A], title IV, § 423], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 108–375, div. A, title V, § 504, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, § 515(b)(1)(FF), Jan. 6, 2006, 119 Stat. 3233.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in sections 3219, 5457(b)–(d), 5458(b)–(d), and 8219 of this title, prior to repeal by Pub. L. 103–337, § 1662(a)(3).
+
+Amendments2006—Subsec. (b)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in introductory provisions. Subsec. (d)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”. 2004—Subsec. (c)(1). Pub. L. 108–375 amended table generally, increasing percentages of authorized number of officers in grades other than colonel. 2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.

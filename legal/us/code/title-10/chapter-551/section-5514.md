@@ -1,0 +1,129 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 5514"
+description: "Acquisition accountability on the missile defense system"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "551"
+chapter_name: "MISSILE DEFENSE"
+section: "5514"
+citation: "10 U.S.C. § 5514"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s5514"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "18e44c9d0f8203a330253c869ebf3b467e7e53ea22b96a31711794d1dacd7975"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "156b13722b4e566577196a46d4195a9b66f0e2973eead5c8786285f02c6de600"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 5514 - Acquisition accountability on the missile defense system
+
+## Text
+
+(a) Baselines Required.— (1) In accordance with paragraph (2), the Director of the Missile Defense Agency shall establish and maintain an acquisition baseline for—
+
+(A) each program element of the missile defense system, as specified in section 223 11 See References in Text note below. of this title; and
+
+(B) each designated major subprogram of such program elements.
+
+(2) The Director shall establish an acquisition baseline required by paragraph (1) before the date on which the program element or major subprogram enters—
+
+(A) engineering and manufacturing development (or its equivalent); and
+
+(B) production and deployment.
+
+(3) Except as provided by subsection (c), the Director may not adjust or revise an acquisition baseline established under this section.
+
+(b) Elements of Baselines.— Each acquisition baseline required by subsection (a) for a program element or major subprogram shall include the following:
+
+(1) A comprehensive schedule, including—
+
+(A) research and development milestones;
+
+(B) acquisition milestones, including design reviews and key decision points;
+
+(C) key test events, including ground, flight, and cybersecurity tests and ballistic missile defense system tests;
+
+(D) delivery and fielding schedules;
+
+(E) quantities of assets planned for acquisition and delivery in total and by fiscal year; and
+
+(F) planned contract award dates.
+
+(2) A detailed technical description of—
+
+(A) the capability to be developed, including hardware and software;
+
+(B) system requirements, including performance requirements;
+
+(C) how the proposed capability satisfies a capability requirement or performance attribute identified through—
+
+(i) the missile defense warfighter involvement process, as governed by United States Strategic Command Instruction 538–03, or such successor document; or
+
+(ii) processes and products reviewed by the Joint Chiefs of Staff or Joint Requirements Oversight Council;
+
+(D) key knowledge points that must be achieved to permit continuation of the program and to inform production and deployment decisions; and
+
+(E) how the Director plans to improve the capability over time.
+
+(3) A cost estimate, including—
+
+(A) a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, military construction, operations and sustainment, and disposal;
+
+(B) program acquisition unit costs for the program element;
+
+(C) average procurement unit costs and program acquisition costs for the program element;
+
+(D) an identification of when the document regarding the program joint cost analysis requirements description is scheduled to be approved; and
+
+(E) an explanation for why a program joint cost analysis requirements description has not been prepared and approved, and, if a program joint cost analysis requirements description is not applicable, the rationale for such inapplicability.
+
+(4) A test baseline summarizing the comprehensive test program for the program element or major subprogram outlined in the integrated master test plan.
+
+(c) Exception to Limitation on Revision.— The Director may adjust or revise an acquisition baseline established under this section if the Director submits to the congressional defense committees notification of—
+
+(1) a justification for such adjustment or revision;
+
+(2) the specific adjustments or revisions made to the acquisition baseline, including to the elements described in subsection (b); and
+
+(3) the effective date of the adjusted or revised acquisition baseline.
+
+(d) Operations and Sustainment Cost Estimates.— The Director shall ensure that each life-cycle cost estimate included in an acquisition baseline pursuant to subsection (b)(3)(A) includes—
+
+(1) all of the operations and sustainment costs for which the Director is responsible;
+
+(2) a description of the operations and sustainment functions and costs for which a military department is responsible;
+
+(3) the amount of operations and sustainment costs (dollar value and base year) for which the military department or other element of the Department of Defense is responsible; and
+
+(4) (A) a citation to the source (such as a joint cost estimate or one or more military department estimates) that captures the operations and sustainment costs for which a military department or other element of the Department of Defense is responsible;
+
+(B) the date the source was prepared; and
+
+(C) if and when the source was independently verified by the Office for Cost Assessment and Program Evaluation.
+
+(Added Pub. L. 118–159, div. A, title XVI, § 1649(a), Dec. 23, 2024, 138 Stat. 2191; amended Pub. L. 119–60, div. A, title XVIII, § 1811(g)(5), Dec. 18, 2025, 139 Stat. 1243.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 223 of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199. See section 5511 of this title.
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 225 of this title prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199.
+
+Amendments2025—Subsec. (b)(2)(C)(ii). Pub. L. 119–60 substituted “reviewed” for “approved”.
+
+Statutory Notes and Related Subsidiaries
+
+Improvement to Operations and Sustainment Cost EstimatesPub. L. 113–66, div. A, title II, § 231(a), Dec. 26, 2013, 127 Stat. 710, provided that: “In preparing the acquisition accountability reports on the ballistic missile defense system required by [former] section 225 of title 10, United States Code, the Director of the Missile Defense Agency shall improve the quality of cost estimates relating to operations and sustainment that are included in such reports under subsection (b)(3)(A) of such section, including with respect to the confidence levels of such cost estimates.”

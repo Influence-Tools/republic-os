@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 5537"
+description: "Limitation on Missile Defense Agency production of satellites and ground systems associated with operation of such satellites"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "551"
+chapter_name: "MISSILE DEFENSE"
+section: "5537"
+citation: "10 U.S.C. § 5537"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s5537"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "ddf1ff3b59f5f3cb789861ff897f99a8260d2599afdafad518eb996ae30928ea"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e3708de9de6d357cb183a555ba1f88518739e00a09cc111207d77dcc50894418"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 5537 - Limitation on Missile Defense Agency production of satellites and ground systems associated with operation of such satellites
+
+## Text
+
+(a) Production of Satellites and Ground Systems.— The Director of the Missile Defense Agency may not authorize or obligate funding for a program of record for the production of satellites or ground systems associated with the operation of such satellites.
+
+(b) Prototype Satellites.— (1) The Director, with the concurrence of the Space Acquisition Council established by section 9021 of this title, may authorize the production of one or more prototype satellites, consistent with the requirements of the Missile Defense Agency.
+
+(2) Not later than 30 days after the date on which the Space Acquisition Council concurs with the Director with respect to authorizing the production of a prototype satellite under paragraph (1), the chair of the Council shall submit to the congressional defense committees a report explaining the reasons for such concurrence.
+
+(3) The Director may not obligate funds for the production of a prototype satellite under paragraph (1) before the date on which the Space Acquisition Council submits the report for such prototype satellite under paragraph (2).
+
+(Added Pub. L. 118–159, div. A, title XVI, § 1649(a), Dec. 23, 2024, 138 Stat. 2197.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 5537, act Aug. 10, 1956, ch. 1041, 70A Stat. 319, provided for extension of naval service during disability incident to service, prior to repeal by Pub. L. 90–235, § 2(a)(3), Jan. 2, 1968, 81 Stat. 756. Provisions similar to those in this section were contained in Pub. L. 117–81, div. A, title XVI, § 1662(a), Dec. 27, 2021, 135 Stat. 2103, which was set out in a note under section 4022 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1649(b)(2), Dec. 23, 2024, 138 Stat. 2199. Prior sections 5538 and 5539 were repealed by Pub. L. 90–235, § 2(a)(3), Jan. 2, 1968, 81 Stat. 756. Section 5538, act Aug. 10, 1956, ch. 1041, 70A Stat. 319, provided for extension of enlistments in Regular Navy or Regular Marine Corps during war or national emergency. Section 5539, acts Aug. 10, 1956, ch. 1041, 70A Stat. 320; Sept. 2, 1958, Pub. L. 85–861, § 1(116), 72 Stat. 1493; Sept. 7, 1962, Pub. L. 87–649, § 14c(27), 76 Stat. 501, provided for voluntary extension or re-extension of enlistments in Regular Navy or Regular Marine Corps. A prior section 5540 was renumbered section 8120 of this title.

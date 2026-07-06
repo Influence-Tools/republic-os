@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2214"
+description: "Transfer of funds: procedure and limitations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "131"
+chapter_name: "PLANNING AND COORDINATION"
+section: "2214"
+citation: "10 U.S.C. § 2214"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2214"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "9c92191532c56cd0903f97e37ef6dedfa9b013e42badf37c7c2652bf43fd4450"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "5a0731ece48fb354b079bca7a1fc70375b8fcf3ec4a8c5a820c8e0eb405b2dfe"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2214 - Transfer of funds: procedure and limitations
+
+## Text
+
+(a) Procedure for Transfer of Funds.— Whenever authority is provided in an appropriation Act to transfer amounts in working capital funds or to transfer amounts provided in appropriation Acts for military functions of the Department of Defense (other than military construction) between such funds or appropriations (or any subdivision thereof), amounts transferred under such authority shall be merged with and be available for the same purposes and for the same time period as the fund or appropriations to which transferred.
+
+(b) Limitations on Programs for Which Authority May Be Used.— Such authority to transfer amounts—
+
+(1) may not be used except to provide funds for a higher priority item, based on unforeseen military requirements, than the items for which the funds were originally appropriated; and
+
+(2) may not be used if the item to which the funds would be transferred is an item for which Congress has denied funds.
+
+(c) Notice to Congress.— The Secretary of Defense shall promptly notify the Congress of each transfer made under such authority to transfer amounts.
+
+(d) Limitations on Requests to Congress for Reprogrammings.— Neither the Secretary of Defense nor the Secretary of a military department may prepare or present to the Congress, or to any committee of either House of the Congress, a request with respect to a reprogramming of funds—
+
+(1) unless the funds to be transferred are to be used for a higher priority item, based on unforeseen military requirements, than the item for which the funds were originally appropriated; or
+
+(2) if the request would be for authority to reprogram amounts to an item for which the Congress has denied funds.
+
+(Added Pub. L. 101–510, div. A, title XIV, § 1482(c)(1), Nov. 5, 1990, 104 Stat. 1709.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set out as an Effective Date of 1990 Amendment note under section 119 of this title.
+
+Notification to Congress of Reprogramming Involving Military Construction FundsPub. L. 118–159, div. B, title XXVIII, § 2810, Dec. 23, 2024, 138 Stat. 2252, provided that: “The Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of any reprogramming of funds made available for military construction not later than 14 days after the date of such reprogramming.”

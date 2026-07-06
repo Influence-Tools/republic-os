@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 612c–4"
+description: "Purchase of specialty crops"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "26"
+chapter_name: "AGRICULTURAL ADJUSTMENT"
+section: "612c–4"
+citation: "7 U.S.C. § 612c–4"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s612c–4"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "c3d0526344f0417d89d91b31d3f084b9bd3fab363c214a45c16a59d58757a03e"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "743b8673e927fecc89f806fde5c5a8e8f0df6ed956f0d9593632ec90a2f993a6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 612c–4 - Purchase of specialty crops
+
+## Text
+
+(a) General purchase authority Of the funds made available under section 612c of this title, for fiscal year 2002 and each subsequent fiscal year, the Secretary of Agriculture shall use not less than $200,000,000 each fiscal year to purchase fruits, vegetables, and other specialty food crops.
+
+(b) Purchase of fresh fruits and vegetables for distribution to schools and service institutions The Secretary of Agriculture shall purchase fresh fruits and vegetables for distribution to schools and service institutions in accordance with section 1755(a) of title 42 using, of the amount specified in subsection (a), not less than $50,000,000 for each of fiscal years 2008 through 2023.
+
+(c) Definitions In this section, the terms “fruits”, “vegetables”, and “other specialty food crops” shall have the meaning given the terms by the Secretary of Agriculture.
+
+(Pub. L. 107–171, title X, § 10603, May 13, 2002, 116 Stat. 511; Pub. L. 110–234, title IV, § 4404(c), May 22, 2008, 122 Stat. 1138; Pub. L. 110–246, § 4(a), title IV, § 4404(c), June 18, 2008, 122 Stat. 1664, 1899; Pub. L. 113–79, title IV, § 4201, Feb. 7, 2014, 128 Stat. 821; Pub. L. 115–334, title IV, § 4202, Dec. 20, 2018, 132 Stat. 4655.)
+
+## Notes
+
+Editorial Notes
+
+Codification The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title. Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246. Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Adjustment Act which comprises this chapter.
+
+Amendments2018—Subsec. (b). Pub. L. 115–334 substituted “2023” for “2018”. 2014—Subsec. (b). Pub. L. 113–79 substituted “2018” for “2012”. 2008—Subsec. (b). Pub. L. 110–246, § 4404(c), added subsec. (b) and struck out former subsec. (b) which related to authority of the Secretary of Agriculture to purchase fresh fruits and vegetables for distribution to schools and service institutions and to provide for the Secretary of Defense to serve as the servicing agency for their procurement.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title. Amendment by section 4404(c) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.

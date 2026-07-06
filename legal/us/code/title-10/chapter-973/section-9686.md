@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 9686"
+description: "Obsolete ordnance: gift to State homes for soldiers and sailors"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "973"
+chapter_name: "DISPOSAL OF OBSOLETE OR SURPLUS MATERIAL"
+section: "9686"
+citation: "10 U.S.C. § 9686"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s9686"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "1e625a5f5fd3d8fb8722edc5b1edd0cdaef104f0888ffc22bc58023563000582"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e9319d0b81f6165f6659d56958c0d9bc830c317d3e3a51770d1505c66a93fdba"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 9686 - Obsolete ordnance: gift to State homes for soldiers and sailors
+
+## Text
+
+Subject to regulations under section 121 of title 40, the Secretary of the Air Force may give not more than two obsolete bronze or iron cannons suitable for firing salutes to any home for soldiers or sailors established and maintained under State authority.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 584; Pub. L. 96–513, title V, § 514(18), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 107–217, § 3(b)(39), Aug. 21, 2002, 116 Stat. 1298.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 968650:66.Feb. 8, 1889, ch. 116, 25 Stat. 657; Oct. 31, 1951, ch. 654, § 2(27), 65 Stat. 707.   Mar. 3, 1899, ch. 423 (1st proviso under “Ordnance Department”), 30 Stat. 1073; May 26, 1900, ch. 586 (1st proviso under “Ordnance Department”), 31 Stat. 216; June 28, 1950, ch. 383, § 402(e), 64 Stat. 273. The words “subject to such regulations as he may prescribe” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “to any of the ‘National Homes for Disabled Volunteer Soldiers’ already established or hereafter established and”, in the Act of February 8, 1889, ch. 116, 25 Stat. 657, are not contained in 50:66 (2d sentence). They are also omitted from the revised section, since the National Homes for Disabled Volunteer Soldiers were dissolved by the Act of July 3, 1930, ch. 863, 46 Stat. 1016. The Acts of March 3, 1899, ch. 643 (1st proviso under “Ordnance Department”), 30 Stat. 1073; and May 26, 1900, ch. 586 (1st proviso under “Ordnance Department”), 31 Stat. 216, as amended, relating to disposal of ordnance to “Homes for Disabled Volunteer Soldiers” by the Chief of Ordnance of the Army, became inoperative when the Homes were dissolved. Although section 402(e) of the Army Organization Act of 1950, ch. 383, 64 Stat. 273, amended the Act of May 26, 1900, it did not have the effect of reviving that act. The word “give” is substituted for the word “deliver” to express more clearly the intent of the section. The words “serviceable” and “as may be on hand undisposed of” are omitted as surplusage. The word “may” is substituted for the words “is authorized and directed”, since section 9684 of this title provides an alternative method for the disposal of obsolete cannon.
+
+Editorial Notes
+
+Amendments2002—Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”. 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.

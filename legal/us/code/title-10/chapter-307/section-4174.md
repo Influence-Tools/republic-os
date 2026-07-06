@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4174"
+description: "Contracts: acquisition, construction, or furnishing of test facilities and equipment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "307"
+chapter_name: "TEST AND EVALUATION"
+section: "4174"
+citation: "10 U.S.C. § 4174"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4174"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "3678d7509392292d529181b5df9010a46d266a55a9c52dd360fc954e5febf311"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "fe92b9c1d108ab2ec3ba8405772ce990277e8fafad222f842b904a1ff05bbd43"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4174 - Contracts: acquisition, construction, or furnishing of test facilities and equipment
+
+## Text
+
+(a) A covered contract for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The acquisition or construction of these research, developmental, or test facilities shall be subject to the cost principles applicable to allowable contract expenses. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility. The Secretary of Defense and the Secretaries of the military departments shall promulgate regulations necessary to give full force and effect to this section.
+
+(b) Facilities that would not be readily removable or separable without unreasonable expense or unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
+
+(1) a provision for reimbursing the United States for the fair value of the facilities at the completion or termination of the contract or within a reasonable time thereafter;
+
+(2) an option in the United States to acquire the underlying land; or
+
+(3) an alternative provision that the Secretary concerned considers to be adequate to protect the interests of the United States in the facilities.
+
+(c) Proceeds of sales or reimbursements under this section shall be paid into the Treasury as miscellaneous receipts, except to the extent otherwise authorized by law with respect to property acquired by the contractor.
+
+(d) (1) In a case in which research, developmental, or test facilities and equipment described in this section are used to support multiple contracts or programs across different military departments, other elements of the Department of Defense, other Federal agencies outside the Department of Defense, or eligible non-Federal entities, a jointly funded project may be established.
+
+(2) Under a jointly funded project, the Secretary of Defense (or the Secretary’s designee) shall enter into a written agreement with each entity participating in the project. Each such agreement shall, at a minimum, address the following:
+
+(A) Cost sharing arrangements, including the proportion of total project costs to be borne by each entity.
+
+(B) Allocation of access to the facilities and equipment, including prioritization procedures in cases of competing demands.
+
+(C) Management and oversight responsibilities, including the designation of a lead agency.
+
+(D) Ownership and intellectual property rights related to the facilities, equipment, and any resulting data or inventions.
+
+(E) Dispute resolution mechanisms.
+
+(3) A non-Federal entity, including a private company, academic institution, or non-profit organization, may participate in a jointly funded project under this subsection only if the Secretary of Defense determines such participation is in the national security interest and consistent with applicable laws and regulations.
+
+(4) The Secretary of Defense shall issue regulations to implement this subsection. Such regulations shall include specific criteria for evaluating proposed jointly funded projects, standardized agreement templates, and procedures for ensuring the transparency and accountability of such projects.
+
+(e) This section applies to contracts funded using funds appropriated or otherwise made available for—
+
+(1) research, development, test, and evaluation, including science and technology funds designated as budget activity 1 (basic research), budget activity 2 (applied research), and budget activity 3 (advanced technology development) (as those budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14–R)); and
+
+(2) operation and maintenance, to the extent that such funds are used to support activities authorized under this section.
+
+(f) In this section, the term “covered contract” means—
+
+(1) a contract of a military department; or
+
+(2) a contract for a jointly funded project as described subsection (d).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 134, § 2353; Pub. L. 115–232, div. B, title XXVIII, § 2801, Aug. 13, 2018, 132 Stat. 2260; renumbered § 4174 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1844(b)(1), 1845(b), Jan. 1, 2021, 134 Stat. 4245, 4247; Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), (6)(B), Dec. 27, 2021, 135 Stat. 2154; Pub. L. 119–60, div. A, title II, § 214(a), Dec. 18, 2025, 139 Stat. 774.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 2353(a)5:235e (1st sentence; and 2d sentence, less 2d and last provisos).5:475j (1st sentence; and 2d sentence, less 2d and last provisos).July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  5:628e (1st sentence; and 2d sentence, less 2d and last provisos). 2353(b)5:235e (2d proviso of 2d sentence).  5:475j (2d proviso of 2d sentence).  5:628e (2d proviso of 2d sentence). 2353(c)5:235e (last proviso of 2d sentence).  5:475j (last proviso of 2d sentence).  5:628e (last proviso of 2d sentence). In subsection (a), the words “furnished to” and “for the use thereof” are omitted as surplusage. In subsections (a) and (b), the words “United States” are substituted for the word “Government”. In subsection (b), the introductory clause is substituted for 5:235e (words of 2d proviso before clause (1)), 475j, and 628e. The words “that * * * considers” are substituted for the words “as will in the opinion”. The words “an alternative” are substituted for the words “such other”. In subsection (c), the words “Proceeds of” are substituted for the words “That all moneys arising from”.
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 214(a)(1), substituted “A covered contract” for “A contract of a military department”. Subsecs. (d) to (f). Pub. L. 119–60, § 214(a)(2), added subsecs. (d) to (f). 2021—Pub. L. 116–283, § 1845(b), as amended by Pub. L. 117–81, § 1701(u)(6)(B), renumbered section 2353 of this title as this section. Pub. L. 116–283, § 1844(b)(1), which directed the renumbering of section 2353 of this title as section 4141 instead of this section, was repealed by Pub. L. 117–81, § 1701(u)(5)(B). 2018—Subsec. (a). Pub. L. 115–232 inserted after first sentence “The acquisition or construction of these research, developmental, or test facilities shall be subject to the cost principles applicable to allowable contract expenses.” and at end “The Secretary of Defense and the Secretaries of the military departments shall promulgate regulations necessary to give full force and effect to this section.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below. Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+RegulationsPub. L. 119–60, div. A, title II, § 214(b), Dec. 18, 2025, 139 Stat. 775, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall issue or revise regulations (as necessary) to implement the amendments made by subsection (a) [amending this section].”
+
+Limitations on Modifications of Certain Government-Furnished Equipment; One-Time Authority To Transfer a Certain Military PrototypePub. L. 111–84, div. A, title X, § 1043, Oct. 28, 2009, 123 Stat. 2456, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(12), Jan. 7, 2011, 124 Stat. 4373, which prohibited the transfer of an article of military equipment that was an end item of a major weapon system to a private entity for research, development, test and evaluation if significant modification of the equipment would be needed unless certain written certification was provided to Congress and allowed the Secretary of the Navy to make a certain one-time transfer, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(13)(B), Dec. 18, 2025, 139 Stat. 949.

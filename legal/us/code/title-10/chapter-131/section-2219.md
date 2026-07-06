@@ -1,0 +1,119 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2219"
+description: "Grants for improvement of Navy ship repair or alterations capability"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "131"
+chapter_name: "PLANNING AND COORDINATION"
+section: "2219"
+citation: "10 U.S.C. § 2219"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2219"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "011b767ced34cbfc80cac051ff2327da48052bc276542814599b6d8088728111"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "893ed3e50c493ce20dc43fc473d50cc61a88cf16d4d8cbb0bfcea5f62aca0906"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2219 - Grants for improvement of Navy ship repair or alterations capability
+
+## Text
+
+(a) Assistance Authorized.— (1) Subject to the availability of appropriations, the Secretary of the Navy may make grants to an eligible entity for the purpose of carrying out—
+
+(A) a capital improvement project; or
+
+(B) a maritime training program designed to foster technical skills and operational productivity.
+
+(2) The amount of a grant under this section may not exceed 75 percent of the total cost of the project or program funded by the grant.
+
+(3) A grant provided under this section may not be used to construct buildings or other physical facilities, except for piers, dry docks, and structures in support of piers and dry docks, or to acquire land.
+
+(4) The Secretary may not award a grant to an eligible entity under this section unless the Secretary determines that—
+
+(A) the entity has access to sufficient non-Federal funding to meet the requirement under paragraph (2);
+
+(B) the entity has authority to carry out the proposed project; and
+
+(C) the project or program would improve—
+
+(i) efficiency, competitive operations, capability, or quality of United States Navy ship repair or alterations; or
+
+(ii) employee, or potential employee, skills and enhanced productivity related to United States Navy ship repair or alterations.
+
+(b) Eligibility.— To be eligible for a grant under this section, an entity shall—
+
+(1) be a shipyard or other entity that provides ship repair or alteration for non-nuclear ships;
+
+(2) submit an application, at such time, in such form, and containing such information and assurances as the Secretary may require, including a comprehensive description of—
+
+(A) the need for the project or program proposed to be funded under the grant;
+
+(B) the methodology to be used to implement the project or program; and
+
+(C) any existing programs or arrangements that could be used to supplement or leverage a grant provided under this section; and
+
+(3) enter into an agreement with the Secretary under which the entity agrees—
+
+(A) to complete the project or program funded by the grant within a certain timeframe and without unreasonable delay and the Secretary determines such project or program is likely to be completed within the timeframe provided in such agreement;
+
+(B) to return to the Secretary any amount of the grant that is—
+
+(i) not used by the grant recipient for the purpose for which the grant was awarded; or
+
+(ii) not obligated or expended within the timeframe provided in the agreement;
+
+(C) to maintain such records as the Secretary may require and make such records available for review and audit by the Secretary; and
+
+(D) not to purchase any product or material for the project or program using grant funds, including any commercially available off-the-shelf item, unless such product or material is—
+
+(i) an unmanufactured article, material, or supply that has been mined or produced in the United States; or
+
+(ii) a manufactured article, material, or supply that has been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States.
+
+(c) Guidelines.— The Secretary shall issue guidelines to establish appropriate accounting, reporting, and review procedures to ensure that—
+
+(1) amounts awarded as grants under this section are used for the purposes for which such amounts were made available; and
+
+(2) an entity that receives a grant under this section complies with the terms of the agreement such entity enters into with the Secretary pursuant to subsection (b)(3).
+
+(d) Definitions.— In this section:
+
+(1) The term “commercially available off-the-shelf item”—
+
+(A) means any item of supply (including construction material) that is—
+
+(i) a commercial item, as defined by section 2.101 of title 48, Code of Federal Regulations (as in effect on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024); and
+
+(ii) sold in substantial quantities in the commercial marketplace; and
+
+(B) does not include bulk cargo, as defined in section 40102(4) of title 46, such as agricultural products and petroleum products.
+
+(2) The term “product or material”, with respect to a project or program—
+
+(A) means an article, material, or supply brought to the site where the project or program is being carried out for incorporation into the project or program; and
+
+(B) includes an item brought to the site preassembled from articles, materials, or supplies.
+
+(3) The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+
+(Added Pub. L. 118–31, div. A, title X, § 1017, Dec. 22, 2023, 137 Stat. 382.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (d)(1)(A)(i), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
+Prior ProvisionsA prior section 2219 was renumbered section 2491c of this title.

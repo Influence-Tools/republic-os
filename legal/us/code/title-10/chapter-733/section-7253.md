@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 7253"
+description: "Flying officer rating: qualifications"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "733"
+chapter_name: "MISCELLANEOUS RIGHTS AND BENEFITS"
+section: "7253"
+citation: "10 U.S.C. § 7253"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s7253"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "443eb00d35b6ea10499def8db2ee86b6ebd8e246879e0f088f2e1b0b2b5a62df"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6c08690c2a503ec45d3d10fc7fa9777a96bd4c86ea91f79668a7c03051857333"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 7253 - Flying officer rating: qualifications
+
+## Text
+
+Only officers of the Army in the following categories may be rated as flying officers:
+
+(1) Officers who have aeronautical ratings as pilots of service types of aircraft or as aircraft observers.
+
+(2) Flight surgeons.
+
+(3) Officers undergoing flight training.
+
+(4) Officers who are members of combat crews, other than pilots of service types of aircraft, aircraft observers, and observers.
+
+(5) In time of war, officers who have aeronautical ratings as observers.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 213, § 3691; renumbered § 7253, Pub. L. 115–232, div. A, title VIII, § 808(b)(9), Aug. 13, 2018, 132 Stat. 1838.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 369110:291c.10:291c-1.10:291e.June 3, 1916, ch. 134, § 13a (8th, 9th, and 11th provisos); added July 2, 1926, ch. 721, § 2 (4th sentence, less 2d proviso), 44 Stat. 781; June 16, 1936, ch. 587, § 3, 49 Stat. 1524; Oct. 4, 1940, ch. 742 (last proviso), 54 Stat. 963.   June 24, 1948, ch. 632 (2d proviso under “Finance Department”), 62 Stat. 650. 10:291c (proviso) and the words “after June 30, 1948”, in 10:291c–1, are omitted as executed. The definition of the term “flying officer”, in 10:291c, originally was a definition of the term “flying officer in time of peace” as provided by section 2 of the Act of July 2, 1926, ch. 721, 44 Stat. 781. Section 1 of the Act of October 4, 1940, ch. 742, 54 Stat. 963, eliminated the words “in time of peace”. As a consequence of that amendment, 10:291e (1st 26 words) is omitted as surplusage. Clause (2) is substituted for 10:291c–1 (less last 10 words). The words “commissioned officers or warrant”, in 10:291c–1, are omitted as surplusage. In clause (4), the last 12 words are substituted for the words “any other”.
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–232 renumbered section 3691 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.

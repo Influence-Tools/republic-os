@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1706"
+description: "Government performance of certain acquisition functions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "87"
+chapter_name: "DEFENSE ACQUISITION WORKFORCE"
+section: "1706"
+citation: "10 U.S.C. § 1706"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1706"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "609e50c18a366bce87974354067fb77f88f3cd78032f4995571b57c493776041"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "eaa5718f9f0c5654cb08580c3a5d9816ed898977cae21b8587d8f22c7d299cb1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1706 - Government performance of certain acquisition functions
+
+## Text
+
+(a) Goal.— It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 4201 of this title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 4201(a)(2) of this title, and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
+
+(1) Portfolio acquisition executive.
+
+(2) Deputy portfolio acquisition executive.
+
+(3) Program manager.
+
+(4) Deputy program manager.
+
+(5) Senior contracting official.
+
+(6) Chief developmental tester.
+
+(7) Program lead product support manager.
+
+(8) Program lead systems engineer.
+
+(9) Program lead cost estimator.
+
+(10) Program lead contracting officer.
+
+(11) Program lead business financial manager.
+
+(12) Program lead production, quality, and manufacturing.
+
+(13) Program lead information technology.
+
+(14) Program lead software.
+
+(b) Plan of Action.— The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
+
+(Added Pub. L. 112–239, div. A, title VIII, § 824(a)(1), Jan. 2, 2013, 126 Stat. 1832; amended Pub. L. 116–283, div. A, title VIII, § 812, title XVIII, § 1846(i)(3), Jan. 1, 2021, 134 Stat. 3749, 4252; Pub. L. 116–283, div. A, title XVIII, § 1846(j), as added Pub. L. 117–81, div. A, title XVII, § 1701(b)(15)(C), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 117–81, div. A, title XVII, § 1701(b)(15)(B), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), (B), Dec. 18, 2025, 139 Stat. 1227.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 1706, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639, which related to acquisition career program boards, was repealed by Pub. L. 108–136, div. A, title VIII, § 831(a), Nov. 24, 2003, 117 Stat. 1549.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 119–60, § 1802(b)(1)(B), substituted “Portfolio acquisition executive” for “Program executive officer”. Subsec. (a)(2). Pub. L. 119–60, § 1802(b)(1)(A), substituted “portfolio acquisition executive” for “program executive officer”. 2021—Subsec. (a). Pub. L. 116–283, § 1846(j), as added by Pub. L. 117–81, § 1701(b)(15)(C), substituted “section 4201(a)(2)” for “section 2430(a)(1)(B)” in introductory provisions. Pub. L. 116–283, § 1846(i)(3), as amended by Pub. L. 117–81, § 1701(b)(15)(B), substituted “section 4201” for “section 2430” in introductory provisions. Pub. L. 116–283, § 812(1)(A), substituted “(as defined in section 2430 of this title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 2430(a)(1)(B) of this title, and any other acquisition program identified by the Secretary” for “and each major automated information system program” in introductory provisions. Subsec. (a)(14). Pub. L. 116–283, § 812(1)(B), added par. (14). Subsec. (c). Pub. L. 116–283, § 812(2), struck out subsec. (c) which defined “major defense acquisition program” and “major automated information system program”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below. Amendment by section 1846(i)(3) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Similar ProvisionsProvisions similar to this section were contained in section 820 of Pub. L. 109–364, which was set out as a note under section 1701 of this title prior to repeal by Pub. L. 112–239, div. A, title VIII, § 824(b), Jan. 2, 2013, 126 Stat. 1833.

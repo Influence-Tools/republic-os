@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 9592"
+description: "Radiograms and telegrams: forwarding charges due connecting commercial facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "967"
+chapter_name: "UTILITIES AND SERVICES"
+section: "9592"
+citation: "10 U.S.C. § 9592"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s9592"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "16fca7dfc9e090d7fd87ddb7e688e11c5d194edf6dcbe67af3cb610945a48d5e"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "d1615d9424a9cdeb0ae9eaf8d5bde28d3dc6d2fb611aec082b149b44c4e95048"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 9592 - Radiograms and telegrams: forwarding charges due connecting commercial facilities
+
+## Text
+
+In the operation of telegraph lines, cables, or radio stations, members of the Air Force may, in the discretion of the Secretary of the Air Force, collect forwarding charges due connecting commercial telegraph or radio companies for sending radiograms or telegrams over their lines. Under such regulations as the Secretary may prescribe, they may present a voucher to a disbursing official for payment of the forwarding charge.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 104–316, title I, § 105(e), Oct. 19, 1996, 110 Stat. 3830.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 959210:1319.May 12, 1917, ch. 12 (proviso under “Washington-Alaska Military Cable and Telegraph System”), 40 Stat. 43. The words “members of the Air Force” are substituted for the words “Signal Corps”, since the Air Force does not have organic corps created by statute. The words “Government”, “and to this end”, “as may be”, and “amount of such” are omitted as surplusage.
+
+Editorial Notes
+
+Amendments1996—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence. 1982—Pub. L. 97–258 substituted “official” for “officer”.

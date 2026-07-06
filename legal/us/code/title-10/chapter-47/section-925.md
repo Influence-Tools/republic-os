@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 925"
+description: "Art. 125. Kidnapping"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "47"
+chapter_name: "UNIFORM CODE OF MILITARY JUSTICE"
+section: "925"
+citation: "10 U.S.C. § 925"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s925"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "7cb9e34991c4717928912aebbed6af5a2ce532330f59643a421a27018b5bd672"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "3f7ab182ab94a83c7f04a62f6a3c46e939e949e771e39b93c44f0b5825e8cb97"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 925 - Art. 125. Kidnapping
+
+## Text
+
+Any person subject to this chapter who wrongfully—
+
+(1) seizes, confines, inveigles, decoys, or carries away another person; and
+
+(2) holds the other person against that person’s will;
+
+shall be punished as a court-martial may direct.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 74; Pub. L. 113–66, div. A, title XVII, § 1707(a), Dec. 26, 2013, 127 Stat. 961; Pub. L. 113–291, div. A, title V, § 531(d)(1), Dec. 19, 2014, 128 Stat. 3364; Pub. L. 114–328, div. E, title LX, § 5439, Dec. 23, 2016, 130 Stat. 2953.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 925(a)925(b)50:719(a).50:719(b).May 5, 1950, ch. 169, § 1 (Art. 125), 64 Stat. 141.
+
+Editorial Notes
+
+Amendments2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the offenses of forcible sodomy and bestiality. 2014—Subsec. (a). Pub. L. 113–291 substituted “unlawful force” for “force”. 2013—Pub. L. 113–66 amended section catchline and text generally. Prior to amendment, text read as follows: “(a) Any person subject to this chapter who engages in unnatural carnal copulation with another person of the same or opposite sex or with an animal is guilty of sodomy. Penetration, however slight, is sufficient to complete the offense. “(b) Any person found guilty of sodomy shall be punished as a court-martial may direct.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentAmendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
+
+Executive Documents
+
+Granting Pardon for Certain Violations of Article 125 Under the Uniform Code of Military Justice Proc. No. 10780, June 26, 2024, 89 F.R. 54329, provided: Our Nation has made tremendous progress in advancing the cause of equality for LGBTQI+ Americans, including in the military. Despite their courage and great sacrifice, thousands of LGBTQI+ service members were forced out of the military because of their sexual orientation or gender identity. Many of these patriotic Americans were subject to a court-martial. While my Administration has taken meaningful action to remedy these problems, the impact of that historical injustice remains. As Commander in Chief, I am committed to maintaining the finest fighting force in the world. That means making sure that every member of our military feels safe and respected. Accordingly, acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, I, Joseph R. Biden Jr., do hereby grant a full, complete, and unconditional pardon to persons convicted of unaggravated offenses based on consensual, private conduct with persons age 18 and older under former Article 125 of the Uniform Code of Military Justice (UCMJ), as previously codified at 10 U.S.C. 925, as well as attempts, conspiracies, and solicitations to commit such acts under Articles 80, 81, and 82, UCMJ, 10 U.S.C. 880, 881, 882. This proclamation applies to convictions during the period from Article 125’s effective date of May 31, 1951, through the December 26, 2013, enactment of section 1707 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66) [amending this section, see 2013 Amendment note above]. The purpose of this proclamation is to pardon only offenses based on consensual, private conduct between individuals 18 and older that do not involve any aggravating factor, including: (1) conduct that would violate 10 U.S.C. 893a, prohibiting activities with military recruits or trainees by a person in a position of special trust; (2) conduct that was committed with an individual who was coerced or, because of status, might not have felt able to refuse consent; (3) conduct on the part of the applicant constituting fraternization under Article 134 of the UCMJ [10 U.S.C. 934]; (4) conduct committed with the spouse of another military member; or (5) any factors other than those listed above that were identified by the United States Court of Appeals for the Armed Forces in United States v. Marcum as being outside the scope of Lawrence v. Texas as applied in the military context, 60 M.J. 198, 207-08 (2004). The Military Departments (Army, Navy, or Air Force), or in the case of the Coast Guard, the Department of Homeland Security, in conjunction with the Department of Justice, shall provide information about and publicize application procedures for certificates of pardon. An applicant for a certificate of pardon under this proclamation is to submit an application to the Military Department (Army, Navy, or Air Force) that conducted the court-martial or, in the case of a Coast Guard court-martial, to the Department of Homeland Security. If the relevant Department determines that the applicant satisfies the criteria under this proclamation, following a review of relevant military justice records, the Department shall submit that determination to the Attorney General, acting through the Pardon Attorney, who shall then issue a certificate of pardon along with information on the process to apply for an upgrade of military discharge. My Administration strongly encourages veterans who receive a certificate of pardon to apply for an upgrade of military discharge. Although the pardon under this proclamation applies only to the convictions described above, there are other LGBTQI+ individuals who served our Nation and were convicted of other crimes because of their sexual orientation or gender identity. It is the policy of my Administration to expeditiously consider and to make final pardon determinations with respect to such individuals. IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of June, in the year of our Lord two thousand twenty-four, and of the Independence of the United States of America the two hundred and forty-eighth. J.R. Biden, Jr.

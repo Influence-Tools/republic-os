@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8081"
+description: "Chief of Naval Personnel; Deputy Chief of Naval Personnel"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "809"
+chapter_name: "BUREAUS; OFFICE OF THE JUDGE ADVOCATE GENERAL"
+section: "8081"
+citation: "10 U.S.C. § 8081"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8081"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "adf8bd2a51c534b6bf68d3d5005c3a3949e43b5a8fbb75556304206ae9168152"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "a21aa86458e7849676b55fe1631dd68a6e95e2f6dbd1d5412662646e087a252e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8081 - Chief of Naval Personnel; Deputy Chief of Naval Personnel
+
+## Text
+
+(a) The Chief of Naval Personnel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list in the line of the Navy not below the grade of commander.
+
+(b) An officer on the active-duty list in the line of the Navy not below the grade of commander may be detailed as Deputy Chief of Naval Personnel.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 287, § 5141; Pub. L. 96–513, title V, § 503(11), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 114–328, div. A, title V, § 502(bb)(1), (2), Dec. 23, 2016, 130 Stat. 2105; renumbered § 8081, Pub. L. 115–232, div. A, title VIII, § 807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 5141(a)5 U.S.C. 432.R.S. 421.  5 U.S.C. 434 (less applicability to Chief of BuOrd).R.S. 422 (less applicability to Chief of BuOrd, Bureau of Equipment and Recruiting, and BuDocks); May 13, 1942, ch. 303, § 1, 56 Stat. 276. 5141(b)5 U.S.C. 446 (less last 49 words).Mar. 3, 1893, ch. 212 (1st par., less last 53 words), 27 Stat. 717; May 13, 1942, ch. 303, § 1, 56 Stat. 276. In subsection (a) the words “from officers on the active list in the line of the Navy” are substituted for the words “from the list of officers of the Navy” to conform to current terminology. Line officers alone had the “grade” of commander when the source statute was enacted. The words “or from officers having the rank of captain in the staff corps of the Navy” are omitted as obsolete in view of subsequent changes in the staff corps and in the staff corps ranks and grades. These words were derived from the Act of Mar. 3, 1871, ch. 117, § 10, 16 Stat. 537, which established new staff corps grades and assigned to officers in the highest grade the relative rank of captain. They were probably intended merely to assure the eligibility of senior staff corps officers for appointment as chiefs of appropriate staff bureaus. However, as incorporated in R.S. 421, they provide a category of eligible officers which is an alternative to each of the categories listed in R.S. 422–426. Thus R.S. 421 and R.S. 422, as originally enacted, provided that the chiefs of the four “line” bureaus, Yards and Docks, Navigation, Ordnance, and Equipment and Recruiting, could be appointed from line officers not below the grade of commander or from officers having the relative rank of captain in any staff corps. Pursuant to these sections the Attorney General held in 1898 that an officer having the relative rank of captain in the Civil Engineer Corps could legally be appointed as Chief of the Bureau of Yards and Docks (22 Op. Atty. Gen. 47, 17 Mar. 1898). There is some confusion in the opinion as to which corps was meant. The proposed appointee was a member of the Civil Engineer Corps, but the Corps of Engineers is the corps mentioned in the conclusion of the opinion. A provision in the Act of June 29, 1906, ch. 3590, 34 Stat. 564, requires that the Chief of the Bureau of Yards and Docks be selected from officers of the Civil Engineer Corps, so that there is no longer any question as to that bureau. The Bureau of Equipment and Recruiting has been abolished, leaving only the Bureau of Naval Personnel (formerly Navigation) and the Bureau of Ordnance of the four “line” bureaus originally listed in R.S. 422. The statutes establishing new “line” bureaus, the Bureau of Ships and the Bureau of Aeronautics, contain their own requirements as to the qualifications of the chiefs. The abolition of the Corps of Engineers and the Construction Corps, with the transfer of officers in those corps to the line, has eliminated the only staff corps whose members had duties closely related to those of line officers. The present staff corps, with the possible exception of the Supply Corps, are all highly specialized. Furthermore, in five of the seven corps, captain is no longer the highest grade. In view of these facts it is considered that the provision of R.S. 421 making staff corps captains eligible for appointment as Chief of the Bureaus of Naval Personnel and Ordnance is obsolete. In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on § 5137(b) of this title. The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on § 5134 of this title.
+
+Editorial Notes
+
+Prior ProvisionsA prior section 8081 was renumbered section 9081 of this title.
+
+Amendments2018—Pub. L. 115–232 renumbered section 5141 of this title as this section. 2016—Pub. L. 114–328, § 502(bb)(2), amended section catchline generally, substituting “Chief of Naval Personnel; Deputy Chief of Naval Personnel” for “Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel”. Subsec. (a). Pub. L. 114–328, § 502(bb)(1)(A), struck out first sentence which read as follows: “The Chief of the Bureau of Naval Personnel shall be known as the Chief of Naval Personnel.” Subsec. (b). Pub. L. 114–328, § 502(bb)(1)(B), struck out first sentence which read as follows: “The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel.” 1980—Pub. L. 96–513 substituted “active-duty list” for “active list” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.

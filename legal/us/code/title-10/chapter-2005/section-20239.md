@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 20239"
+description: "Promotions: how made"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "2005"
+chapter_name: "OFFICERS"
+section: "20239"
+citation: "10 U.S.C. § 20239"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s20239"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "df56cb4755c9729d984d016f588b32c200a3a80e2142b1597b600384d518b83d"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "cd848dc803c06bc0672c7fa896ab258dbc4a887f45f642641e1a05114cf21e6b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 20239 - Promotions: how made
+
+## Text
+
+(a) Promotion Lists.— (1) Placement of names on promotion list.— When the report of a selection board convened under section 20211 of this title is approved by the President, the Secretary of the Air Force shall place the names of all officers approved for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of the seniority of such officers on the Space Force officer list or based on particular merit, as determined by the promotion board, or as modified by the Secretary of the Air Force under section 20217 of this title.
+
+(2) Time of establishment of promotion list.— A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under paragraph (1).
+
+(b) Promotions; How Made; Order.— (1) Appointment authority.— Officers on a promotion list shall be promoted by appointment in the manner specified in section 20201 of this title.
+
+(2) Timing.— Officers on a promotion list for a competitive category shall be promoted to the next higher grade in accordance with regulations prescribed by the Secretary of the Air Force.
+
+(3) Order.— Except as provided in subsections (e) and (f), promotions shall be made in the order in which the names of officers appear on the promotion list and after officers previously selected for promotion in that competitive category have been promoted.
+
+(4) Promotions to grade of first lieutenant.— Officers to be promoted to the grade of first lieutenant shall be promoted in accordance with regulations prescribed by the Secretary of the Air Force.
+
+(c) Promotion of First Lieutenants on an All-fully-qualified Officers List.— (1) Except as provided in subsection (f), officers on the Space Force officer list in the grade of first lieutenant who are on an approved all-fully-qualified-officers list shall be promoted to the grade of captain in accordance with regulations prescribed by the Secretary of the Air Force.
+
+(2) An all-fully-qualified-officers list shall be considered to be approved for purposes of paragraph (1) when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter.
+
+(3) The Secretary of the Air Force may make a recommendation to the President for approval of an all-fully-qualified-officers list only when the Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
+
+(4) For purposes of this paragraph, an all-fully-qualified-officers list is a list of all officers on the Space Force officer list in a grade who the Secretary of the Air Force determines—
+
+(A) are fully qualified for promotion to the next higher grade; and
+
+(B) would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 20211 of this title upon the convening of such a board.
+
+(5) If the Secretary of the Air Force determines that one or more officers or former officers were not placed on an all-fully-qualified-list under this subsection because of administrative error, the Secretary may prepare a supplemental all-fully-qualified-officers list containing the names of any such officers for approval in accordance with this subsection.
+
+(d) Date of Rank.— (1) General rule.— The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d) of this title.
+
+(2) Adjustments.— The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, section 741(d)(4)(C)(ii) of this title shall be applied by substituting “Space Force officer list” for “active-duty list”.
+
+(3) Additional pay and allowances precluded.— Except as provided in paragraph (2) or as otherwise specifically authorized by law, an officer is not entitled to additional pay or allowances if the effective date of the officer’s promotion is adjusted to reflect a date earlier than the actual date of the officer’s promotion.
+
+(e) Delay of Promotions to General Officer Grades to Comply With Strength Limitations.— Under regulations prescribed by the Secretary of Defense, the promotion of an officer on the Space Force officer list to the grade of brigadier general or major general shall be delayed if that promotion would cause any strength limitation of section 526 of this title to be exceeded. The delay shall expire when the Secretary of the Air Force determines that the delay is no longer required to ensure compliance with the strength limitation.
+
+(f) Authority to Delay Appointments for Specified Reasons.— The provisions of section 14311 of this title shall apply to the appointment of an officer under this section in the same manner as they apply to an appointment of an officer under that section, and any reference in that section to an reserve active-status list shall be treated for purposes of applicability to an officer of the Space Force as referring to the Space Force officer list.
+
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 645; amended Pub. L. 118–159, div. A, title V, § 521(s), Dec. 23, 2024, 138 Stat. 1882.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (c)(2). Pub. L. 118–159, § 521(s)(1), substituted “paragraph (1)” for “subparagraph (A)”. Subsec. (d)(2). Pub. L. 118–159, § 521(s)(2), substituted “section 741(d)(4)(C)(ii) of this title” for “subparagraph (C)(ii) of such section”.

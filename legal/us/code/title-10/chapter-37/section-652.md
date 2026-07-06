@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 652"
+description: "Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "37"
+chapter_name: "GENERAL SERVICE REQUIREMENTS"
+section: "652"
+citation: "10 U.S.C. § 652"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s652"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "395b6da473506cea543272e216cc1aa5d55479484951a0b140906778a0abcc85"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "35f2405817e2fd32aa5bb0f93a8d250106b8026c0ea0b0a8aa8262716f3f7837"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 652 - Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned
+
+## Text
+
+(a) Rule for Ground Combat Personnel Policy.— (1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to Congress a report providing notice of the proposed change.
+
+(2) A change referred to in paragraph (1) is a change that—
+
+(A) closes to female members of the armed forces any category of unit or position that at that time is open to service by such members;
+
+(B) opens to service by female members of the armed forces any category of unit or position that at that time is closed to service by such members; or
+
+(C) opens or closes to the assignment of female members of the armed forces any military career designator as described in paragraph (6).
+
+(3) The Secretary shall include in any report under paragraph (1)—
+
+(A) a detailed description of, and justification for, the proposed change; and
+
+(B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) 11 See References in Text note below. to males only.
+
+(4) In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
+
+[(5) Repealed. Pub. L. 114–92, div. A, title V, § 524(a)(2), Nov. 25, 2015, 129 Stat. 813.]
+
+(6) For purposes of this subsection, a military career designator is one that is related to military operations on the ground as of May 18, 2005, and applies—
+
+(A) for enlisted members and warrant officers, to military occupational specialties, specialty codes, enlisted designators, enlisted classification codes, additional skill identifiers, and special qualification identifiers; and
+
+(B) for officers (other than warrant officers), to officer areas of concentration, occupational specialties, specialty codes, designators, additional skill identifiers, and special qualification identifiers.
+
+(b) Other Personnel Policy Changes.— (1) Except in a case covered by section 8225 of this title or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
+
+(2) Paragraph (1) applies to a proposed military personnel policy change, other than a policy change covered by subsection (a), that would make available to female members of the armed forces assignment to any of the following that, as of the date of the proposed change, is closed to such assignment:
+
+(A) Any type of unit not covered by subsection (a).
+
+(B) Any class of combat vessel.
+
+(C) Any type of combat platform.
+
+(Added Pub. L. 109–163, div. A, title V, § 541(a)(1), Jan. 6, 2006, 119 Stat. 3251; amended Pub. L. 114–92, div. A, title V, § 524, Nov. 25, 2015, 129 Stat. 813; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Military Selective Service Act, referred to in subsec. (a)(3)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+Prior ProvisionsA prior section 652, added Pub. L. 95–485, title IV, § 405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to Ready Reserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10205 of this title. Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, § 542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, § 541(c).
+
+Amendments2018—Subsec. (b). Pub. L. 115–232 substituted “section 8225” for “section 6035”. 2015—Subsec. (a)(1). Pub. L. 114–92, § 524(a)(1), substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out at end “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.” Subsec. (a)(5). Pub. L. 114–92, § 524(a)(2), struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.” Subsec. (b)(1). Pub. L. 114–92, § 524(b), inserted “calendar” before “days”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.

@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 518e"
+description: "Tobacco Trust Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "21C"
+chapter_name: "TOBACCO REFORM"
+section: "518e"
+citation: "7 U.S.C. § 518e"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s518e"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "4a56786cf7af27cf7934e52306d1c2d41edbf6c2772af14cf8ac4aa992944495"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "31b12995803a2a9e819d7a6eb102f35346b97ebf9f946e0bd1f6c62e443e9c68"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 518e - Tobacco Trust Fund
+
+## Text
+
+(a) Establishment There is established in the Commodity Credit Corporation a revolving trust fund, to be known as the “Tobacco Trust Fund”, which shall be used in carrying out this subchapter. The Tobacco Trust Fund shall consist of the following:
+
+(1) Assessments collected under section 518d of this title.
+
+(2) Such amounts as are necessary from the Commodity Credit Corporation.
+
+(3) Any interest earned on investment of amounts in the Tobacco Trust Fund under subsection (c).
+
+(b) Expenditures (1) Authorized expenditures Subject to paragraph (2), and notwithstanding any other provision of law, the Secretary shall use amounts in the Tobacco Trust Fund, in such amounts as the Secretary determines are necessary—
+
+(A) to make payments under sections 518a and 518b of this title;
+
+(B) to provide reimbursement under section 519(c) of this title;
+
+(C) to reimburse the Commodity Credit Corporation for costs incurred by the Commodity Credit Corporation under paragraph (2); and
+
+(D) to make payments to financial institutions to satisfy contractual obligations under section 518a or 518b of this title.
+
+(2) Expenditures by Commodity Credit Corporation Notwithstanding any other provision of law, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to make payments described in paragraph (1). Not later than January 1, 2015, the Secretary shall use amounts in the Tobacco Trust Fund to fully reimburse, with interest, the Commodity Credit Corporation for all funds of the Commodity Credit Corporation expended under the authority of this paragraph. Administrative costs incurred by the Secretary or the Commodity Credit Corporation to carry out this title 11 See References in Text note below. may not be paid using amounts in the Tobacco Trust Fund.
+
+(c) Investment of amounts (1) In general The Commodity Credit Corporation shall invest such portion of the amounts in the Tobacco Trust Fund as are not, in the judgment of the Commodity Credit Corporation, required to meet current expenditures.
+
+(2) Interest-bearing obligations Investments may be made only in interest-bearing obligations of the United States.
+
+(3) Acquisition of obligations For the purpose of investments under paragraph (1), obligations may be acquired—
+
+(A) on original issue at the issue price; or
+
+(B) by purchase of outstanding obligations at the market price.
+
+(4) Sale of obligations Any obligation acquired by the Tobacco Trust Fund may be sold by the Commodity Credit Corporation at the market price.
+
+(5) Credits to Fund The interest on, and the proceeds from the sale or redemption of, any obligations held in the Tobacco Trust Fund shall be credited to and form a part of the Fund.
+
+(Pub. L. 108–357, title VI, § 626, Oct. 22, 2004, 118 Stat. 1533.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis title, referred to in subsec. (b)(2), means title VI of Pub. L. 108–357, which enacted this chapter, amended sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealed sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacted provisions set out as notes under sections 515 and 518 of this title, and repealed provisions set out as a note under section 1314c of this title. For complete classification of title VI to the Code, see Short Title note set out under section 518 of this title and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.

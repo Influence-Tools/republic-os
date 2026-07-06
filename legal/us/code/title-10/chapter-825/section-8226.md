@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8226"
+description: "Fatality reviews"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "825"
+chapter_name: "ADMINISTRATION"
+section: "8226"
+citation: "10 U.S.C. § 8226"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8226"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "f6acb6e186f7b5a537721ef5852c99ab637aea229e18814f6e9012c7d048155f"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "de3ab86a7ab91ce0f2aec5bbdc6dc2c6feeae4cd663eb2cf7fc911b3d90fb9b0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8226 - Fatality reviews
+
+## Text
+
+(a) Review of Fatalities.— The Secretary of the Navy shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following.
+
+(1) A member of the naval service on active duty.
+
+(2) A current or former dependent of a member of the naval service on active duty.
+
+(3) A current or former intimate partner who has a child in common or has shared a common domicile with a member of the naval service on active duty.
+
+(b) Matters To Be Included.— The report of a fatality review under subsection (a) shall, at a minimum, include the following:
+
+(1) An executive summary.
+
+(2) Data setting forth victim demographics, injuries, autopsy findings, homicide or suicide methods, weapons, police information, assailant demographics, and household and family information.
+
+(3) Legal disposition.
+
+(4) System intervention and failures, if any, within the Department of Defense.
+
+(5) A discussion of significant findings.
+
+(6) Recommendations for systemic changes, if any, within the Department of the Navy and the Department of Defense.
+
+(c) OSD Guidance.— The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
+
+(Added Pub. L. 108–136, div. A, title V, § 576(b)(1), Nov. 24, 2003, 117 Stat. 1487, § 6036; renumbered § 8226, Pub. L. 115–232, div. A, title VIII, § 807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 8230, added Pub. L. 85–861, § 1(164)(B), Sept. 2, 1958, 72 Stat. 1515, provided that members of Air Force who are detailed for any duty with agencies of United States outside the Department of Defense on a reimbursable basis not be counted in computing strengths under any law, prior to repeal by Pub. L. 96–513, title II, § 232, Dec. 12, 1980, 94 Stat. 2886, effective Sept. 15, 1981.
+
+Amendments2018—Pub. L. 115–232 renumbered section 6036 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Effective DateSection applicable to fatalities that occur on or after Nov. 24, 2003, see section 576(d) of Pub. L. 108–136, set out as a note under section 7381 of this title.

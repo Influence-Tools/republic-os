@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3001"
+description: "Defense acquisition system; element of the defense acquisition system"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "201"
+chapter_name: "DEFINITIONS"
+section: "3001"
+citation: "10 U.S.C. § 3001"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3001"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "39b3e5fbaffc84abed96613f467f62a8419f9ca40f19d99dde6560b467db1d4c"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "bdfecd98d03c275f8abbd74bff43ade96963ec9c226d3060dbb3046253516e5d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3001 - Defense acquisition system; element of the defense acquisition system
+
+## Text
+
+(a) Defense Acquisition System.— In this part, the term “defense acquisition system” means—
+
+(1) the workforce engaged in carrying out the acquisition of property and services for the Department of Defense;
+
+(2) the management structure responsible for directing and overseeing the acquisition of property and services for the Department of Defense; and
+
+(3) the statutory, regulatory, and policy framework that guides the acquisition of property and services for the Department of Defense.
+
+(b) Element of the Defense Acquisition System.— In this part, the term “element of the defense acquisition system” means an organization that—
+
+(1) employs members of the acquisition workforce;
+
+(2) carries out acquisition functions; and
+
+(3) focuses primarily on acquisition.
+
+(c) Acquisition.— In this part, the term “acquisition” has the meaning provided in section 131 of title 41.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1)–(4), Jan. 1, 2021, 134 Stat. 4152; Pub. L. 117–81, div. A, title XVII, § 1701(b)(1), Dec. 27, 2021, 135 Stat. 2132; Pub. L. 119–60, div. A, title XVIII, § 1801(e)(2), Dec. 18, 2025, 139 Stat. 1225.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of pars. (2), (3), and (1) of section 2545 of this title, which were transferred or copied to this section, redesignated as subsecs. (a), (b), and (c), respectively, and amended by Pub. L. 116–283, § 1806(a)(2)–(4), was based on Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4288; Pub. L. 113–291, div. A, title X, § 1071(a)(11), Dec. 19, 2014, 128 Stat. 3505. Section 2545 of this title, which was transferred or copied in large part to this section by Pub. L. 116–283, § 1806(a)(2)–(4), was also transferred to section 3101 of this title by Pub. L. 116–283, § 1808(a)(2).
+
+Prior ProvisionsA prior section 3001 was renumbered section 7001 of this title.
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 substituted “this part” for “this section”. 2021—Subsec. (a). Pub. L. 116–283, § 1806(a)(2), redesignated par. (2) of section 2545 of this title as subsec. (a) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, and inserted dash after “means”, par. (1) designation before “the workforce”, par. (2) designation before “the management”, and par. (3) designation before “the statutory,”. Subsec. (b). Pub. L. 116–283, § 1806(a)(3), redesignated par. (3) of section 2545 of this title as subsec. (b) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, “workforce;” for “workforce,”, and “functions;” for “functions,”, and inserted dash after “organization that”, par. (1) designation before “employs”, par. (2) designation before “carries out”, and par. (3) designation before “focuses”. Subsec. (c). Pub. L. 116–283, § 1806(a)(4), as amended by Pub. L. 117–81, § 1701(b)(1), added subsec. (c) consisting of text of par. (1) of section 2545 of this title, inserted heading, and substituted “In this section, the term” for “The term”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding this section and Effective Date note below.
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding this section.

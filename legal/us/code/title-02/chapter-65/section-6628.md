@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "2 U.S.C. § 6628"
+description: "Treatment of electronic services provided by Sergeant at Arms"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 2
+title_name: "THE CONGRESS"
+chapter_number: "65"
+chapter_name: "SENATE OFFICERS AND ADMINISTRATION"
+section: "6628"
+citation: "2 U.S.C. § 6628"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc02@119-100.zip"
+source_identifier: "/us/usc/t2/s6628"
+source_file: "data/legal/raw/us/code/title-02/usc02.xml"
+source_hash: "3645813d9e7ea807e87a55e4f32612b8d566d59d6896b9461beaf1a91870bdcd"
+raw_snapshot_hash: "ec6910a011de0a97d11b263bbcd649766188311e429ae6bdb5fc2cf5e6ebbb9e"
+text_hash: "966a22db20ee8764ffd33b1095d33f997fc8f7518ec477a859788fe0a2396931"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 2 U.S.C. § 6628 - Treatment of electronic services provided by Sergeant at Arms
+
+## Text
+
+(a) In general In this section—
+
+(1) the term “agent of the Office of the SAA” includes a provider of electronic communication service or remote computing service commissioned or used through the Office of the SAA by a Senate office to provide such services to the Senate office;
+
+(2) the term “electronic communication service” has the meaning given that term in section 2510 of title 18;
+
+(3) the term “Office of the SAA” means the Office of the Sergeant at Arms and Doorkeeper of the Senate;
+
+(4) the term “provider for a Senate office” means a provider of electronic communication service or remote computing service directly commissioned or used by a Senate office to provide such services;
+
+(5) the term “remote computing service” has the meaning given that term in section 2711 of title 18;
+
+(6) the term “Senate data”, with respect to a Senate office, means any electronic mail or other electronic or data communication, other data (including metadata), or other information of the Senate office; and
+
+(7) the term “Senate office” means a committee or office of the Senate, including a Senator, an officer of the Senate, or an employee of, intern at, or other agent of a committee or office of the Senate.
+
+(b) Treatment (1) Retaining possession (A) In general A Senate office shall be deemed to retain possession of any Senate data of the Senate office, without regard to the use by the Senate office of any individual or entity described in paragraph (2) for the purposes of any function or service described in paragraph (2).
+
+(B) Rule of construction Subparagraph (A) shall not be construed to limit the use by an intended recipient of any Senate data from a Senate office.
+
+(2) Sergeant at Arms and providers for a Senate office The Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office shall not be treated as acquiring possession, custody, or control of any Senate data by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for the Senate office.
+
+(c) Notification Notwithstanding any other provision of law or rule of civil or criminal procedure, the Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office that is providing services to or used by a Senate office shall not be barred, through operation of any court order or any statutory provision, from notifying the Senate office of any legal process seeking disclosure of Senate data of the Senate office that is transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for a Senate office.
+
+(d) Motions to quash or modify Upon a motion made promptly by a Senate office or provider for a Senate office, a court of competent jurisdiction shall quash or modify any legal process directed to the provider for a Senate office if compliance with the legal process would require the disclosure of Senate data of the Senate office.
+
+(e) Information regarding implications of using providers The Office of the SAA, in consultation with the Senate Legal Counsel, shall provide information to each Senate office that commissions or uses a provider of electronic communication service or remote computing service to provide such services to the Senate office regarding the potential constitutional implications and the potential impact on privileges that may be asserted by the Senate office.
+
+(f) Applicable privileges Nothing in this section shall be construed to limit or supersede any applicable privilege, immunity, or other objection that may apply to the disclosure of Senate data.
+
+(g) Preemption Except as provided in this section, any provision of law or rule of civil or criminal procedure of any State, political subdivision, or agency thereof, which is inconsistent with this section shall be deemed to be preempted and superseded.
+
+(h) Effective date This section shall apply to fiscal year 2005 and each fiscal year thereafter.
+
+(Pub. L. 108–447, div. G, title I, § 10, Dec. 8, 2004, 118 Stat. 3170; Pub. L. 109–289, div. B, title II, § 20701(c)(1), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38; Pub. L. 116–260, div. FF, title IV, § 401(a), Dec. 27, 2020, 134 Stat. 3134; Pub. L. 119–37, div. C, title II, § 213(a), Nov. 12, 2025, 139 Stat. 585; Pub. L. 119–75, div. H, § 105, Feb. 3, 2026, 140 Stat. 629.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 61f–12 of this title prior to editorial reclassification and renumbering as this section. Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
+
+Amendments2026—Pub. L. 119–75, § 105, repealed section 213 of title II of div. C of Pub. L. 119–37 and provided that the amendments made by that section shall have no force or effect. See 2025 Amendment notes below. 2025—Subsec. (a)(2), (3). Pub. L. 119–37, § 213(a)(1)(B), (C), which added par. (2) defining “covered data” and redesignated former par. (2) as (3), was repealed by Pub. L. 119–75, § 105. Subsec. (a)(4) to (7). Pub. L. 119–37, § 213(a)(1)(A), (D), which added par. (4) defining “legal process”and redesignated former pars. (3) to (5) as (5) to (7), respectively, was repealed by Pub. L. 119–75, § 105. Subsec. (a)(8). Pub. L. 119–37, § 213(a)(1)(A), (E), which redesignated par. (6) as (8), struck it out, and added a new par. (8) defining “Senate data”, was repealed by Pub. L. 119–75, § 105. Subsec. (a)(9). Pub. L. 119–37, § 213(a)(1)(A), (F), which redesignated par. (7) as (9), inserted “(without regard to whether the Senator is acting in his or her official capacity, including acting in a personal capacity and acting through his or her campaign for elected office)” after “a Senator” and “(whether acting in his or her personal or official capacity)” after “an officer of the Senate”, and substituted “(whether acting in his or her personal or official capacity); and” for period at end, was repealed by Pub. L. 119–75, § 105. Subsec. (a)(10). Pub. L. 119–37, § 213(a)(1)(G), which added par. (10) defining “target of a criminal investigation”, was repealed by Pub. L. 119–75, § 105. Subsec. (c). Pub. L. 119–37, § 213(a)(3), which added subsec. (c) relating to notification by providers and the Office of the SAA of legal processes seeking disclosure of Senate data, and struck out former subsec. (c), was repealed by Pub. L. 119–75, § 105. Subsec. (d). Pub. L. 119–37, § 213(a)(3), which added subsec. (d) relating to allowing Senators to bring a civil action against the United States and obtain relief for certain disclosures of Senate data, was repealed by Pub. L. 119–75, § 105. Subsecs. (e) to (i). Pub. L. 119–37, § 213(a)(2), which redesignated subsecs. (d) to (h) as (e) to (i), respectively, was repealed by Pub. L. 119–75, § 105. 2020—Pub. L. 116–260 added subsecs. (a) to (g), redesignated former subsec. (b) as (h), and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “The Office of the Sergeant at Arms and Doorkeeper of the United States Senate, and any officer, employee, or agent of the Office, shall not be treated as acquiring possession, custody, or control of any electronic mail or other electronic communication, data, or information by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office.” 2007—Pub. L. 109–289, § 20701(c)(1), as added by Pub. L. 110–5, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2020 AmendmentPub. L. 116–260, div. FF, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 3135, provided that: “(1) In this subsection, the terms ‘Senate data’ and ‘Senate office’ have the meanings given such terms in section 10 of the Legislative Branch Appropriations Act, 2005 [2 U.S.C. 6628], as amended by subsection (a) of this section. “(2) The amendments made by this section shall—“(A) take effect as though included in the Legislative Branch Appropriations Act, 2005 (division G of Public Law 108–447; 118 Stat. 3166); and “(B) apply with respect to—“(i) any legal process seeking disclosure of Senate data of a Senate office that is filed, issued, or made on or after the date of enactment of this Act [Dec. 27, 2020]; and “(ii) any matter that is pending on or after the date of enactment of this Act that relates to legal process described in clause (i) that is filed, issued, or made before the date of enactment of this Act, unless the Senate data of the Senate office was disclosed in accordance with such legal process before the date of enactment of this Act.”
+
+Effective Date of 2007 AmendmentPub. L. 109–289, div. B, title II, § 20701(c)(2), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 38, provided that: “The amendments made by this subsection [amending this section] shall take effect as though included in the Legislative Branch Appropriations Act, 2005 [Pub. L. 108–447, div. G].”
+
+Limited Retroactive ApplicabilityPub. L. 119–37, div. C, title II, § 213(b), Nov. 12, 2025, 139 Stat. 589, which allowed for limited retroactive applicability of the amendments made by section 213(a) of Pub. L. 119–37, was repealed by Pub. L. 119–75, div. H, § 105, Feb. 3, 2026, 140 Stat. 629.

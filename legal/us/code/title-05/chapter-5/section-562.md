@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 562"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "5"
+chapter_name: "ADMINISTRATIVE PROCEDURE"
+section: "562"
+citation: "5 U.S.C. § 562"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s562"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "e10a4bd0161544e2e52bf2920f7e2c33dd57b9c583780a7d2ce8fa0d951e0d3b"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "95e01159efc72471e71bd9619fef0c135e88492b640b456aefb3293dae190448"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 562 - Definitions
+
+## Text
+
+For the purposes of this subchapter, the term—
+
+(1) “agency” has the same meaning as in section 551(1) of this title;
+
+(2) “consensus” means unanimous concurrence among the interests represented on a negotiated rulemaking committee established under this subchapter, unless such committee—
+
+(A) agrees to define such term to mean a general but not unanimous concurrence; or
+
+(B) agrees upon another specified definition;
+
+(3) “convener” means a person who impartially assists an agency in determining whether establishment of a negotiated rulemaking committee is feasible and appropriate in a particular rulemaking;
+
+(4) “facilitator” means a person who impartially aids in the discussions and negotiations among the members of a negotiated rulemaking committee to develop a proposed rule;
+
+(5) “interest” means, with respect to an issue or matter, multiple parties which have a similar point of view or which are likely to be affected in a similar manner;
+
+(6) “negotiated rulemaking” means rulemaking through the use of a negotiated rulemaking committee;
+
+(7) “negotiated rulemaking committee” or “committee” means an advisory committee established by an agency in accordance with this subchapter and chapter 10 of this title to consider and discuss issues for the purpose of reaching a consensus in the development of a proposed rule;
+
+(8) “party” has the same meaning as in section 551(3) of this title;
+
+(9) “person” has the same meaning as in section 551(2) of this title;
+
+(10) “rule” has the same meaning as in section 551(4) of this title; and
+
+(11) “rulemaking” means “rule making” as that term is defined in section 551(5) of this title.
+
+(Added Pub. L. 101–648, § 3(a), Nov. 29, 1990, 104 Stat. 4970, § 582; renumbered § 562, Pub. L. 102–354, § 3(a)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 117–286, § 4(a)(5), Dec. 27, 2022, 136 Stat. 4305.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Par. (7). Pub. L. 117–286 substituted “chapter 10 of this title” for “the Federal Advisory Committee Act”. 1992—Pub. L. 102–354 renumbered section 582 of this title as this section.

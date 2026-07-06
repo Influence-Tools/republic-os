@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 7421"
+description: "Degree granting authority for United States Army War College"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "751"
+chapter_name: "TRAINING GENERALLY"
+section: "7421"
+citation: "10 U.S.C. § 7421"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s7421"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "54e7787da57144a847377e4e3dd037bcd804793f5d3879b2714cb06b728bfd96"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "07eb5970194ec48790ebd2ea87ff22e6b20db3df8be84553693950b1bee3e637"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 7421 - Degree granting authority for United States Army War College
+
+## Text
+
+(a) Authority.— Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army War College may, upon the recommendation of the faculty and dean of the college, confer appropriate degrees upon graduates who meet the degree requirements.
+
+(b) Limitation.— A degree may not be conferred under this section unless—
+
+(1) the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
+
+(2) the United States Army War College is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
+
+(c) Congressional Notification Requirements.— (1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+
+(A) a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education’s National Advisory Committee on Institutional Quality and Integrity; and
+
+(B) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
+
+(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
+
+(3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army War College to award any new or existing degree.
+
+(Added Pub. L. 106–65, div. A, title V, § 542(a), Oct. 5, 1999, 113 Stat. 607, § 4321; amended Pub. L. 110–417, [div. A], title V, § 543(d)(1), Oct. 14, 2008, 122 Stat. 4459; renumbered § 7421, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 7421 was renumbered section 8721 of this title. A prior section 7426, acts Aug. 10, 1956, ch. 1041, 70A Stat. 459; Pub. L. 94–258, title II, § 201(7), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), (B), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1, prior to repeal by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484. Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, provided that the repeal of section 7426 would not affect the validity of contracts in effect under that section on the day before Oct. 30, 2000, and that no such contracts could be extended or renewed on or after Oct. 30, 2000. Prior sections 7427 to 7430 were renumbered sections 8727 to 8730 of this title, respectively.
+
+Amendments2018—Pub. L. 115–232 renumbered section 4321 of this title as this section. 2008—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army War College, upon the recommendation of the faculty and dean of the college, may confer the degree of master of strategic studies upon graduates of the college who have fulfilled the requirements for that degree.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Effective Date of 2008 AmendmentAmendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under section 2163 of this title.
+
+Organization of Army War CollegePub. L. 119–60, div. A, title V, § 559B, Dec. 18, 2025, 139 Stat. 881, provided that: “The Secretary of the Army shall— “(1) incorporate the Army War College into the Army University; and “(2) direct the head of the Army War College to report to the head of the Army University.”

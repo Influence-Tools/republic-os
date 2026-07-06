@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3016"
+description: "Chapter 137 legacy provisions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "201"
+chapter_name: "DEFINITIONS"
+section: "3016"
+citation: "10 U.S.C. § 3016"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3016"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "fcbd5adf4f7012581c133b629ab9a9c3656a32429a3eb96497cb95070a3b91e6"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "deb945e19ab7d3e91c858f64a075bf9e13c2dfd28893a7aec51b0fd377576af5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3016 - Chapter 137 legacy provisions
+
+## Text
+
+In this part, the term “chapter 137 legacy provisions” means the following sections of this title: sections 3002, 3004, 3011–3015, 3041, 3063–3069, 3134, 3151–3157, 3201–3208, 3221–3227, 3241, 3243, 3249, 3252, 3301–3309, 3321–3323, 3344, 3345, 3371–3375, 3377, 3401, 3403, 3405, 3406, 3501–3511, 3531–3535, 3571, 3572, 3573, 3701–3708, 3741–3750, 3761, 3771–3775, 3781–3786, 3791, 3794, 3801–3807, 3841, 3842, 3847, 3881, 3901, 3902, 4202(b), 4324, 4325, 4501, 4502, 4505, 4506, 4507, 4576, 4657, 4660, 4751, 4752, and 8751.
+
+(Added Pub. L. 116–283, div. A, title XVIII, § 1806(b)(7), Jan. 1, 2021, 134 Stat. 4154.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 3016 was renumbered section 7016 of this title. Another prior section 3016 was renumbered section 7018 of this title. Prior sections 3017 and 3018 were renumbered sections 7017 and 7018 of this title, respectively. Another prior section 3018, added Pub. L. 85–861, § 1(59)(A), Sept. 2, 1958, 72 Stat. 1462, prescribed compensation of General Counsel of Department of the Army, prior to repeal by Pub. L. 88–426, title III, § 305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964. A prior section 3019 was renumbered section 7019 of this title. Another prior section 3019 was renumbered section 7038 of this title. A prior section 3020 was renumbered section 7020 of this title. A prior section 3021 was renumbered section 7021 of this title. Another prior section 3021 was renumbered section 10302 of this title. Prior sections 3022 to 3024, 3031, and 3032 were renumbered sections 7022 to 7024, 7031, and 7032 of this title, respectively. A prior section 3033 was renumbered section 7033 of this title. Another prior section 3033 was renumbered section 10302 of this title. A prior section 3034 was renumbered section 7034 of this title. Another prior section 3034 was renumbered section 7033 of this title. A prior section 3035 was renumbered section 7035 of this title. Another prior section 3035 was renumbered section 7034 of this title. Prior sections 3036 and 3037 were renumbered sections 7036 and 7037 of this title, respectively. A prior section 3038 was renumbered section 7038 of this title. Another prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by Pub. L. 89–718, § 25(a), Nov. 2, 1966, 80 Stat. 1119. A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 165, § 3040; Pub. L. 95–485, title VIII, § 805(a), Oct. 20, 1978, 92 Stat. 1621; renumbered § 3039 and amended Pub. L. 99–433, title V, § 502(f)(2), Oct. 1, 1986, 100 Stat. 1042, related to deputy and assistant chiefs of branches, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(n)(1), Dec. 23, 2016, 130 Stat. 2103. Another prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Inspector General and Provost Marshal General, prior to repeal by Pub. L. 99–433, § 502(f)(1). See section 7020 of this title. A prior section 3040, acts Aug. 10, 1956, ch. 1041, 70A Stat. 159, § 3015; Aug. 6, 1958, Pub. L. 85–599, § 12, 72 Stat. 521; renumbered § 3040, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(1), 100 Stat. 1034; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to National Guard Bureau, Chief of Bureau, appointment and acting Chief, prior to repeal by Pub. L. 103–337, div. A, title IX, § 904(b)(1), (d), Oct. 5, 1994, 108 Stat. 2827, effective at the end of the 90-day period beginning on Oct. 5, 1994. See sections 10501, 10502, and 10505 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

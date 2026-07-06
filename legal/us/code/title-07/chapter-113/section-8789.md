@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 8789"
+description: "Storage facility loans"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "113"
+chapter_name: "AGRICULTURAL COMMODITY SUPPORT PROGRAMS"
+section: "8789"
+citation: "7 U.S.C. § 8789"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s8789"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "3d4e970e18ee604f4d5fab4c2000a3476cb4dd0dc0a2882335dfb2d1813e81e2"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "f06f3501215e9f488710f7a65c8b66fd81a06bb1045299091b85f423e6b21b57"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 8789 - Storage facility loans
+
+## Text
+
+(a) In general As soon as practicable after the date of enactment of this Act, the Secretary shall establish a storage facility loan program to provide funds for producers of grains, oilseeds, pulse crops, hay, renewable biomass, and other storable commodities (other than sugar), as determined by the Secretary, to construct or upgrade storage and handling facilities for the commodities.
+
+(b) Eligible producers A storage facility loan under this section shall be made available to any producer described in subsection (a) that, as determined by the Secretary—
+
+(1) has a satisfactory credit history;
+
+(2) has a need for increased storage capacity; and
+
+(3) demonstrates an ability to repay the loan.
+
+(c) Term of loans A storage facility loan under this section shall have a maximum term of 12 years.
+
+(d) Loan amount The maximum principal amount of a storage facility loan under this section shall be $500,000.
+
+(e) Loan disbursements The Secretary shall provide for 1 partial disbursement of loan principal and 1 final disbursement of loan principal, as determined to be appropriate and subject to acceptable documentation, to facilitate the purchase and construction of eligible facilities.
+
+(f) Loan security Approval of a storage facility loan under this section shall—
+
+(1) require the borrower to provide loan security to the Secretary, in the form of—
+
+(A) a lien on the real estate parcel on which the storage facility is located; or
+
+(B) such other security as is acceptable to the Secretary;
+
+(2) under such rules and regulations as the Secretary may prescribe, not require a severance agreement from the holder of any prior lien on the real estate parcel on which the storage facility is located, if the borrower—
+
+(A) agrees to increase the down payment on the storage facility by an amount determined appropriate by the Secretary; or
+
+(B) provides other security acceptable to the Secretary; and
+
+(3) allow a borrower, upon the approval of the Secretary, to define a subparcel of real estate as security for the storage facility loan if the subparcel is—
+
+(A) of adequate size and value to adequately secure the loan; and
+
+(B) not subject to any other liens or mortgages that are superior to the lien interest of the Commodity Credit Corporation.
+
+(Pub. L. 110–234, title I, § 1614, May 22, 2008, 122 Stat. 1020; Pub. L. 110–246, § 4(a), title I, § 1614, June 18, 2008, 122 Stat. 1664, 1748.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of enactment of this Act, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateEnactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.

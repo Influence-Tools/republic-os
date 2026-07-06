@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 9779"
+description: "Use of public property"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "979"
+chapter_name: "REAL PROPERTY"
+section: "9779"
+citation: "10 U.S.C. § 9779"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s9779"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "4fc59c1d9b12ff53b2733a5c8aba03fbdbce36a605fef119f96c8547430fd786"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "2e165384bfeb33f936f32ae90d19e497d86d7e1852254d7d4318c48bae48a7ba"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 9779 - Use of public property
+
+## Text
+
+(a) When the economy of the Air Force or the Space Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.
+
+(b) No money appropriated for the support of the Air Force or the Space Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 99–661, div. B, title VII, § 2721, Nov. 14, 1986, 100 Stat. 4042; Pub. L. 116–283, div. A, title IX, § 923(e)(19), Jan. 1, 2021, 134 Stat. 3819.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 9779(a)9779(b)10:1332.10:1345.June 23, 1879, ch. 35, § 8, 21 Stat. 35. 9779(c)10:1335.Aug. 1, 1914, ch. 223 (2d par. under “Quartermaster Corps”), 38 Stat. 629.   July 16, 1892, ch. 195 (last proviso under “Quartermaster’s Department”), 27 Stat. 178; June 28, 1950, ch. 383, § 402(c), 64 Stat. 272. In subsection (a), the words “United States” are substituted for the word “Government”. In subsection (b), the words “suitable space” are substituted for the words “proper and suitable room or rooms”. The words “there is a” are substituted for the words “have been established”. In subsection (c), the words “the Secretary” are substituted for the words “the Quartermaster General”, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary.
+
+Editorial Notes
+
+Amendments2021—Subsec. (a). Pub. L. 116–283, § 923(e)(19)(A), inserted “or the Space Force” after “economy of the Air Force”. Subsec. (b). Pub. L. 116–283, § 923(e)(19)(B), inserted “or the Space Force” after “support of the Air Force”. 1986—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable space for postal purposes at each air base where there was a post office.

@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "6 U.S.C. § 574"
+description: "Coordination of Department emergency communications grant programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 6
+title_name: "DOMESTIC SECURITY"
+chapter_number: "1"
+chapter_name: "HOMELAND SECURITY ORGANIZATION"
+section: "574"
+citation: "6 U.S.C. § 574"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc06@119-100.zip"
+source_identifier: "/us/usc/t6/s574"
+source_file: "data/legal/raw/us/code/title-06/usc06.xml"
+source_hash: "f7ff1f9d6348f5835a5833ba075d5cf1b3eedf116c04c13e65df6f07f87211ae"
+raw_snapshot_hash: "a286ebc069cd8c7d317b4084d217abe94cd2a3642b1a3e409a909d1e92452161"
+text_hash: "3e9831fe8a2bc28e5ae21d5accdb24aec2e5114f2049a9f8bb7aa957a4f5ba75"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 6 U.S.C. § 574 - Coordination of Department emergency communications grant programs
+
+## Text
+
+(a) Coordination of grants and standards programs The Secretary, acting through the Assistant Director for Emergency Communications, shall ensure that grant guidelines for the use of homeland security assistance administered by the Department relating to interoperable emergency communications are coordinated and consistent with the goals and recommendations in the National Emergency Communications Plan under section 572 of this title.
+
+(b) Denial of eligibility for grants (1) In general The Secretary, acting through the Assistant Secretary for Grants and Planning, and in consultation with the Assistant Director for Emergency Communications, may prohibit any State, local, or tribal government from using homeland security assistance administered by the Department to achieve, maintain, or enhance emergency communications capabilities, if—
+
+(A) such government has not complied with the requirement to submit a Statewide Interoperable Communications Plan as required by section 194(f) of this title;
+
+(B) such government has proposed to upgrade or purchase new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards and has not provided a reasonable explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards; and
+
+(C) as of the date that is 3 years after the date of the completion of the initial National Emergency Communications Plan under section 572 of this title, national voluntary consensus standards for interoperable emergency communications capabilities have not been developed and promulgated.
+
+(2) Standards The Secretary, in coordination with the Federal Communications Commission, the National Institute of Standards and Technology, and other Federal departments and agencies with responsibility for standards, shall support the development, promulgation, and updating as necessary of national voluntary consensus standards for interoperable emergency communications.
+
+(Pub. L. 107–296, title XVIII, § 1804, as added Pub. L. 109–295, title VI, § 671(b), Oct. 4, 2006, 120 Stat. 1438; amended Pub. L. 115–278, § 2(g)(6)(B), Nov. 16, 2018, 132 Stat. 4179.)
+
+## Notes
+
+Editorial Notes
+
+Codification Another section 1804 of Pub. L. 107–296 was renumbered section 1904 and is classified to section 594 of this title.
+
+Amendments2018—Subsecs. (a), (b)(1). Pub. L. 115–278 substituted “Assistant Director for Emergency Communications” for “Director for Emergency Communications”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.

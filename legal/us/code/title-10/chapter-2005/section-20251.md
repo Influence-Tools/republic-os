@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 20251"
+description: "Failure of selection for promotion"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "2005"
+chapter_name: "OFFICERS"
+section: "20251"
+citation: "10 U.S.C. § 20251"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s20251"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "0805f4a91b069d8fe9d13da621e3553885c18d4ab34cf844b3ec2ebe7f864d67"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6bb0de976b8af39d336a30cfae21f36248889913106c8fc9ad3ba87777814bf6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 20251 - Failure of selection for promotion
+
+## Text
+
+(a) In General.— Except as provided in this section, sections 14501, 14503, 14504, 631, and 632 of this title shall apply to promotions of officers on the Space Force officer list. For the purpose of such applicability—
+
+(1) any reference in those sections to the reserve active-status list or the active-duty list shall apply to the Space Force officer list; and
+
+(2) any reference in those sections to a board convened under section 14201 11 See References in Text note below. or section 611 of this title shall apply to a board convened under section 20211 of this title.
+
+(b) Inapplicability of Failure of Selection for Promotion to Officers Above Promotion Zone.— The reference in section 14501 of this title to an officer above the promotion zone shall not apply in the promotion of officers on the Space Force officer list.
+
+(c) Retirement Authorities.— In applying section 631 or 632 of this title to such an officer, the reference in subsection (a)(3) of that section to qualifying for retirement under certain sections of this title shall be deemed to refer to qualifying for retirement under any provision of law other than chapter 61 of this title.
+
+(d) Effect of Failure of Selection.— In the administration of this chapter pursuant to subsection (a)—
+
+(1) an officer on the Space Force officer list shall not be deemed to have failed twice of selection for promotion for purposes of section 629(e)(2) or 14501(b) of this title until the officer has failed selection of promotion to the next higher grade the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under section 20234 of this title; and
+
+(2) any reference in section 631(a) or 632(a) of this title, or in sections 14504 through 14506 of this title, to an officer who has failed of selection for promotion to the next higher grade for the second time shall be deemed to refer instead to an officer on the Space Force officer list who has failed of selection for promotion to the next higher grade for the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned under section 20234 of this title.
+
+(Added Pub. L. 118–31, div. A, title XVII, § 1716(c), Dec. 22, 2023, 137 Stat. 649; amended Pub. L. 118–159, div. A, title V, § 521(u), Dec. 23, 2024, 138 Stat. 1883; Pub. L. 119–60, div. A, title XVII, § 1701(a)(43), Dec. 18, 2025, 139 Stat. 1210.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 14201 of this title, referred to in subsec. (a)(2), probably should be section 14101 of this title, which relates to convening of selection boards. There is no section 14201 of this title.
+
+Codification Another section 20251 was renumbered section 20252 of this title by section 521(v)(2) of Pub. L. 118–159. The amendments made by section 521(u) of Pub. L. 118–159 to section 20251 of this title were executed to this section to reflect the probable intent of Congress.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60 struck out “and” before “14504, 631, and 632”. 2024—Subsec. (a). Pub. L. 118–159, § 521(u)(1)(A), substituted “14504, 631, and 632” for “14504 and section 631 and 632” in introductory provisions. See Codification note above. Subsec. (a)(2). Pub. L. 118–159, § 521(u)(1)(B), substituted “section 14201 or section 611” for “section 14201 or 611”. See Codification note above. Subsec. (d)(1). Pub. L. 118–159, § 521(u)(2), substituted “14501(b)” for “14502(b)”. See Codification note above.

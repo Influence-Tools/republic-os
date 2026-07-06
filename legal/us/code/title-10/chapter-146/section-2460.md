@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2460"
+description: "Definition of depot-level maintenance and repair"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "146"
+chapter_name: "CONTRACTING FOR PERFORMANCE OF CIVILIAN COMMERCIAL OR INDUSTRIAL TYPE FUNCTIONS"
+section: "2460"
+citation: "10 U.S.C. § 2460"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2460"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "903c664a7e93b82531c6672f59b94e19b5e2aa975c8bc1328c19ec2fab0db502"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "d4357df71c0f4868b9ead51e6de8866b23567ff748e50b32afec393841dc9ee6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2460 - Definition of depot-level maintenance and repair
+
+## Text
+
+(a) In General.— In this chapter, the term “depot-level maintenance and repair” means (except as provided in subsection (b)) material maintenance or repair requiring the overhaul, upgrading, or rebuilding of parts, assemblies, or subassemblies, and the testing and reclamation of equipment as necessary, regardless of the source of funds for the maintenance or repair or the location at which the maintenance or repair is performed. The term includes (1) all aspects of software maintenance classified by the Department of Defense as of July 1, 1995, as depot-level maintenance and repair, and (2) interim contractor support or contractor logistics support (or any similar contractor support), to the extent that such support is for the performance of services described in the preceding sentence.
+
+(b) Exceptions.— (1) The term does not include the procurement of major modifications or upgrades of weapon systems that are designed to improve program performance or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul. A major upgrade program covered by this exception could continue to be performed by private or public sector activities.
+
+(2) The term also does not include the procurement of parts for safety modifications. However, the term does include the installation of parts for that purpose.
+
+(Added and amended Pub. L. 112–239, div. A, title III, § 322(b)(1), (c), Jan. 2, 2013, 126 Stat. 1694, 1695.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section 322(b)(1) of Pub. L. 112–239, cited as a credit to this section, revived section 2460 of this title as in effect the day before the date of the enactment of Pub. L. 112–81, Dec. 31, 2011. See Prior Provisions note below.
+
+Prior ProvisionsA prior section 2460, added Pub. L. 105–85, div. A, title III, § 355(a), Nov. 18, 1997, 111 Stat. 1693; amended Pub. L. 105–261, div. A, title III, § 341, Oct. 17, 1998, 112 Stat. 1973; Pub. L. 112–81, div. A, title III, § 321, Dec. 31, 2011, 125 Stat. 1361, defined “depot-level maintenance and repair” for this chapter prior to repeal by Pub. L. 112–239, div. A, title III, § 322(a)(1), Jan. 2, 2013, 126 Stat. 1694.
+
+Amendments2013—Subsec. (b)(1). Pub. L. 112–239, § 322(c), substituted “or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul” for “or the nuclear refueling of an aircraft carrier”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 112–239 effective Dec. 31, 2011, immediately after enactment of Pub. L. 112–81, see section 322(f) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 4251 of this title.
+
+Pilot Program on Army Depot and Arsenal Workload SustainmentPub. L. 119–60, div. A, title III, § 348, Dec. 18, 2025, 139 Stat. 829, provided that: “(a) Establishment of Pilot Program.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish a pilot program, to be known as the ‘Army Depot and Arsenal Workload Sustainment Pilot Program’ (in this section referred to as the ‘pilot program’), under which the Secretary shall provide a preference to certain procurement actions and solicitations for the performance of work by non-government entities at covered depots. “(b) Preferences for Procurement Actions or Solicitations.—“(1) In general.—Under the pilot program established under subsection (a), the Secretary of Defense shall provide a preference to any procurement action or solicitation for the performance of work submitted by a non-government entity that includes, as part of such procurement action or solicitation, a proposal to enter into a public-private partnership with the Secretary under which the non-government entity will perform the work at covered depots. “(2) Further preference.—In evaluating procurement actions and solicitations under paragraph (1), the Secretary shall give an additional preference to any such action or solicitation submitted by a non-government entity that proposes to use Department of Defense employees to perform the work at a covered depot under such action or solicitation. “(3) Regulations.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall prescribe regulations for the provision of preferences under this subsection. “(c) Report Required.—“(1) In general.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the activities carried out under the pilot program during that year, including a description of any operational challenges identified. “(2) Elements.—The report required under paragraph (1) shall include the following:“(A) A breakout, by relevant budget accounts, of work performed at each covered depot during the year preceding the year during which the report is submitted, including work that was carried out directly and work that was carried out through public-private partnerships under the pilot program. “(B) An identification of the projected workload at each covered depot during the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code. “(C) The capital investments projected in such future-years defense program to be made at each such covered depot to meet organic industrial base core logistics capabilities in accordance with section 2464 of title 10, United States Code. “(d) Duration.—The authority to carry out a pilot program under this section shall terminate on the date that is five years after the date of the enactment of this Act [Dec. 18, 2025]. “(e) Definitions.—In this section, the term ‘covered depot’ has the meaning given such term in section 2476(f) of title 10, United States Code.”
+
+Requirement for Military Department Inter-Service Depot MaintenancePub. L. 116–92, div. A, title III, § 358, Dec. 20, 2019, 133 Stat. 1323, provided that: “(a) Joint Process for Technical Compliance and Quality Control.—If the Secretary of a military department transfers any maintenance action on a platform to a depot under the jurisdiction of the Secretary of another military department, the two Secretaries shall develop and implement a process to ensure the technical compliance and quality control for the work performed. “(b) Requirements.—A process developed under subsection (a) shall include the following requirements—“(1) The Secretary of the military department with jurisdiction over the depot to which the maintenance action is transferred shall—“(A) ensure that the technical specifications, requirements, and standards for work to be performed are provided to such action or depot; and “(B) implement procedures to ensure that completed work complies with such specifications, requirements and standards. “(2) The Secretary who transfers the maintenance activity or depot shall ensure that—“(A) the technical specifications and requirements are clearly understood; and “(B) the work performed is completed to the technical specifications, requirements, and standards prescribed under paragraph (1), and that the Secretary of the military department with jurisdiction over the depot is informed of any shortcoming or discrepancy. “(c) Reports.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing a certification that sufficient policy and procedures are in place to ensure quality control when the depot or maintenance activities of one military department support another. The report shall include a description of known shortfalls in existing policies and procedures and actions the Department of Defense is taking to address such shortfalls.”

@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "2 U.S.C. § 1313"
+description: "Rights and protections under Fair Labor Standards Act of 1938"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 2
+title_name: "THE CONGRESS"
+chapter_number: "24"
+chapter_name: "CONGRESSIONAL ACCOUNTABILITY"
+section: "1313"
+citation: "2 U.S.C. § 1313"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc02@119-100.zip"
+source_identifier: "/us/usc/t2/s1313"
+source_file: "data/legal/raw/us/code/title-02/usc02.xml"
+source_hash: "4333e826b368382cd3fe2c44dfe7d7f7fb0b2f23d796c910e6066661b90bcf27"
+raw_snapshot_hash: "ec6910a011de0a97d11b263bbcd649766188311e429ae6bdb5fc2cf5e6ebbb9e"
+text_hash: "fb337570c299c0321561768e7574bbb7126b44d477e5b6b3ed93e3869d0740df"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 2 U.S.C. § 1313 - Rights and protections under Fair Labor Standards Act of 1938
+
+## Text
+
+(a) Fair labor standards (1) In general The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, section 12(c), and section 18D of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 (a)(1) and (d), 207, 212(c), 218d) shall apply to covered employees.
+
+(2) Interns For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c).
+
+(3) Compensatory time Except as provided in regulations under subsection (c)(3) and in subsection (c)(4), covered employees may not receive compensatory time in lieu of overtime compensation.
+
+(b) Remedy The remedy for a violation of subsection (a) shall be such remedy, including liquidated damages, as would be appropriate if awarded under section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)).
+
+(c) Regulations to implement section (1) In general The Board shall, pursuant to section 1384 of this title, issue regulations to implement this section.
+
+(2) Agency regulations Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+
+(3) Irregular work schedules The Board shall issue regulations for covered employees whose work schedules directly depend on the schedule of the House of Representatives or the Senate that shall be comparable to the provisions in the Fair Labor Standards Act of 1938 [29 U.S.C. 201 et seq.] that apply to employees who have irregular work schedules.
+
+(4) Law enforcement Law enforcement personnel of the Capitol Police who are subject to the exemption under section 7(k) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(k)) may elect to receive compensatory time off in lieu of overtime compensation for hours worked in excess of the maximum for their work period.
+
+(d) Omitted
+
+(e) Effective date Subsections (a) and (b) shall be effective 1 year after January 23, 1995.
+
+(Pub. L. 104–1, title II, § 203, Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–197, title III, § 312, Sept. 16, 1996, 110 Stat. 2415; Pub. L. 119–37, div. C, title II, § 211, Nov. 12, 2025, 139 Stat. 584.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Fair Labor Standards Act of 1938, referred to in subsec. (c)(3), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+
+Codification Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 203 of Pub. L. 104–1 amended section 203 of Title 29, Labor.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 119–37 substituted “section 12(c), and section 18D” for “and section 12(c)” and inserted “, 218d” after “212(c)”. 1996—Subsec. (a)(3). Pub. L. 104–197, § 312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”. Subsec. (c)(4). Pub. L. 104–197, § 312(b), added par. (4).
+
+Statutory Notes and Related Subsidiaries
+
+Application of Rights and Protections of Fair Labor Standards Act of 1938 to Congressional and Architect of the Capitol EmployeesPub. L. 101–157, § 8, Nov. 17, 1989, 103 Stat. 944, provided that: “(a) House Employees.—“(1) In general.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to any employee in an employment position in the House of Representatives and to any employing authority of the House of Representatives. “(2) Administration.—In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term “Fair Employment Practices Resolution” means House Resolution 558, One Hundredth Congress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989. “(b) Architect of the Capitol Employees.—Not later than 180 days after the date the minimum wage rate prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) is increased pursuant to the amendment made by section 2, the rights and protections under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) shall apply with respect to individuals employed under the Office of the Architect of the Capitol.”

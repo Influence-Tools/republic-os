@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8863"
+description: "Prize property appropriated for the use of the United States"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "883"
+chapter_name: "PRIZE"
+section: "8863"
+citation: "10 U.S.C. § 8863"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8863"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "aea635762860d1a92155e65ec028ed3fb67f6e821d7cc2b7aa8da05c9062d2d4"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "9e4cac52f3b4bb6e3da1e16152c2ec326b8de324a3870f1e42d8e84ed7bb4cd8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8863 - Prize property appropriated for the use of the United States
+
+## Text
+
+(a) Any officer or agency designated by the President may appropriate for the use of the United States any captured vessel, arms, munitions, or other material taken as prize. The department or agency for whose use the prize property is appropriated shall deposit the value of the property with the Treasurer of the United States or with the public depositary nearest to the court in which the proceedings are to be had, subject to the orders of the court.
+
+(b) Whenever any captured vessel, arms, munitions, or other material taken as prize is appropriated for the use of the United States before that property comes into the custody of the prize court, it shall be surveyed, appraised, and inventoried by persons as competent and impartial as can be obtained, and the survey, appraisal, and inventory sent to the court in which the proceedings are to be had. If the property is appropriated after it comes into the custody of the court, sufficient notice shall be given to enable the court to have the property appraised for the protection of the rights of the claimants.
+
+(c) Notwithstanding subsections (a) and (b), in any case where prize property is appropriated for the use of the United States, a prize court may adjudicate the cause on the basis of an inventory and survey and an appropriate undertaking by the United States to respond for the value of the property, without either an appraisal or a deposit of the value of the prize with the Treasurer of the United States or a public depositary.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 478, § 7663; renumbered § 8863, Pub. L. 115–232, div. A, title VIII, § 807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 766334 U.S.C. 1162.Aug. 18, 1942, ch. 553, § 4, 56 Stat. 746; July 1, 1944, ch. 370, § 2, 58 Stat. 678.  34 U.S.C. 1140.R.S. 4624; Nov. 14, 1945, ch. 472, § 3, 59 Stat. 581. In subsection (a) the words “may appropriate” are substituted for the words “the power to take or appropriate * * * may be exercised”, in 34 U.S.C. 1162, for clarity and uniformity of statement. Under the Revised Statutes it was implied and understood that the Navy could appropriate prizes on behalf of the United States for use by the Navy. Use by other government agencies was not contemplated. The 1942 Act enabled the Navy to turn prize vessels over to the War Shipping Administration without bringing them back to United States ports. Reference to that Administration in subsection (a) is omitted since the Administration has been abolished and these functions have not been specifically vested in its successors. It is surplusage as well, because the authority to appropriate is given to any officer or agency designated by the President. The proviso added to R.S. 4624 (34 U.S.C. 1140) by the 1945 amendment is identical with the proviso added to the 1942 Act (34 U.S.C. 1162) by the 1944 amendment. The 1945 Act completed the process of making the procedure under the Revised Statutes the same as that in effect for causes over which the courts were given jurisdiction by the World War II legislation, and its single statement in subsection (c) is therefore justified. 34 U.S.C. 1140 and the revised section reflect the Act of March 3, 1899, ch. 413, § 13, 30 Stat. 1007, which repealed laws authorizing distribution of prize proceeds to captors, and the Act of May 29, 1920, ch. 214, 41 Stat. 654, which requires substitution of “Treasurer of the United States or public depositary” for “assistant treasurer”.
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–232 renumbered section 7663 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.

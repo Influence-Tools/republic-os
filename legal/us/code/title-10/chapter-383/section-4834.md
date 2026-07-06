@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4834"
+description: "Overseas foreign critical technology monitoring and assessment financial assistance program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "383"
+chapter_name: "DEVELOPMENT, APPLICATION, AND SUPPORT OF DUAL-USE TECHNOLOGIES"
+section: "4834"
+citation: "10 U.S.C. § 4834"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4834"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "8fcc2dbbe917e160ad1cdc296347cf7de211a2881a1d69347804a55f513d1dda"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "886d419560c7a3633ec87dcffa8c94a025e0c6e16ec89e8973a7be76c43f7511"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4834 - Overseas foreign critical technology monitoring and assessment financial assistance program
+
+## Text
+
+(a) Establishment and Purpose of Program.— The Secretary of Defense may establish a foreign critical technology monitoring and assessment program. Under the program, the Secretary may enter into cooperative arrangements with one or more eligible not-for-profit organizations in order to provide financial assistance for the establishment of foreign critical technology monitoring and assessment offices in Europe, Pacific Rim countries, and such other countries as the Secretary considers appropriate.
+
+(b) Eligible Organizations.— Any not-for-profit industrial or professional organization that has economic and scientific interests in research, development, and applications of dual-use critical technologies is eligible to enter into a cooperative arrangement referred to in subsection (a).
+
+(Added Pub. L. 102–190, div. A, title VIII, § 821(a), Dec. 5, 1991, 105 Stat. 1431, § 2526; renumbered § 2518, Pub. L. 102–484, div. D, title XLII, § 4228, Oct. 23, 1992, 106 Stat. 2685; renumbered § 4834, Pub. L. 116–283, div. A, title XVIII, § 1868(b), Jan. 1, 2021, 134 Stat. 4282.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 4834, acts Aug. 10, 1956, ch. 1041, 70A Stat. 272; Nov. 2, 1966, Pub. L. 89–718, § 31, 80 Stat. 1119, required commissioned officers of the Quartermaster Corps to give fidelity bonds, prior to repeal by Pub. L. 92–310, title II, § 204(a), June 6, 1972, 86 Stat. 202. A prior section 4835, act Aug. 10, 1956, ch. 1041, 70A Stat. 273; Pub. L. 103–160, div. A, title III, § 362, Nov. 30, 1993, 107 Stat. 1628, related to actions taken upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of or damage to property of the United States under the control of the Department of the Army, prior to repeal by Pub. L. 107–314, div. A, title X, § 1006(c)(1), (d), Dec. 2, 2002, 116 Stat. 2633, applicable with respect to property affected after the effective date of regulations prescribed pursuant to section 2787 of this title. A prior section 4836, act Aug. 10, 1956, ch. 1041, 70A Stat. 273, prohibited unauthorized disposition of individual equipment by enlisted members of the Army, prior to repeal by Pub. L. 110–181, div. A, title III, § 375(c)(1)(B), Jan. 28, 2008, 122 Stat. 83. Prior sections 4837 to 4840 were renumbered sections 7837 to 7840 of this title, respectively.
+
+Amendments2021—Pub. L. 116–283 renumbered section 2518 of this title as this section. 1992—Pub. L. 102–484 renumbered section 2526 of this title as section 2518.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3761"
+description: "Restructuring costs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "273"
+chapter_name: "ALLOWABLE COSTS"
+section: "3761"
+citation: "10 U.S.C. § 3761"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3761"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "794b23007522e499e195487ce1a4d3730d6dc50f5b59f7197a518cbd9eba9b33"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e6666c05123aa98dc37e26a91962575ab6aba8c991bf5edcdb8d0f8c797d4bf4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3761 - Restructuring costs
+
+## Text
+
+(a) Limitation on Payment of Restructuring Costs.— The Secretary of Defense may not pay, under subchapter I, a defense contractor for restructuring costs associated with a business combination of the contractor that occurs after November 18, 1997, unless the Secretary determines in writing either—
+
+(1) that the amount of projected savings for the Department of Defense associated with the restructuring will be at least twice the amount of the costs allowed; or
+
+(2) that the amount of projected savings for the Department of Defense associated with the restructuring will exceed the amount of the costs allowed and that the business combination will result in the preservation of a critical capability that otherwise might be lost to the Department.
+
+(b) Limitation on Delegation.— The Secretary may not delegate the authority to make a determination under subsection (a), with respect to a business combination, to an official of the Department of Defense—
+
+(1) below the level of an Assistant Secretary of Defense for cases in which the amount of restructuring costs is expected to exceed $25,000,000 over a 5-year period; or
+
+(2) below the level of the Director of the Defense Contract Management Agency for all other cases.
+
+(c) Definition.— In this section, the term “business combination” includes a merger or acquisition.
+
+(Added Pub. L. 105–85, div. A, title VIII, § 804(a)(1), Nov. 18, 1997, 111 Stat. 1832, § 2325; amended Pub. L. 106–65, div. A, title X, § 1066(a)(19), Oct. 5, 1999, 113 Stat. 771; Pub. L. 108–375, div. A, title VIII, § 819, Oct. 28, 2004, 118 Stat. 2016; Pub. L. 112–239, div. A, title X, § 1076(g)(2), Jan. 2, 2013, 126 Stat. 1955; renumbered § 3761 and amended Pub. L. 116–283, div. A, title XVIII, § 1832(j)(2), (3), Jan. 1, 2021, 134 Stat. 4225.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283, § 1832(j)(2), renumbered section 2325 of this title as this section. Subsec. (a). Pub. L. 116–283, § 1832(j)(3)(B), (E), in introductory provisions, struck out par. (1) designation before “The Secretary” and substituted “subchapter I” for “section 2324 of this title” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former par. (2) of subsec. (a) redesignated subsec. (b). Subsec. (b). Pub. L. 116–283, § 1832(j)(3)(C)–(E), redesignated par. (2) of subsec. (a) as subsec. (b), inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former subsec. (b) redesignated (c). Subsec. (c). Pub. L. 116–283, § 1832(j)(3)(A), redesignated subsec. (b) as (c). 2013—Subsec. (b). Pub. L. 112–239 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required reports relating to business combinations occurring on or after August 15, 1994. 2004—Subsec. (a)(2). Pub. L. 108–375 substituted “paragraph (1), with respect to a business combination, to an official of the Department of Defense—” for “paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense.” and added subpars. (A) and (B). 1999—Subsec. (a)(1). Pub. L. 106–65 inserted “that occurs after November 18, 1997,” after “of the contractor” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DatePub. L. 105–85, div. A, title VIII, § 804(c), Nov. 18, 1997, 111 Stat. 1834, provided that: “Section 2325(a) of title 10, United States Code [now 10 U.S.C. 3761(a)], as added by subsection (a), shall apply with respect to business combinations that occur after the date of the enactment of this Act [Nov. 18, 1997].”
+
+Pilot Program for Financing for Covered ActivitiesPub. L. 119–60, div. A, title VIII, § 803, Dec. 18, 2025, 139 Stat. 940, provided that: “(a) Pilot Program.—The Secretary of Defense may establish a pilot program to evaluate the feasibility, risks, and benefits of expanding contract cost principles and procedures of the Department of Defense to allow for financing costs incurred for a covered activity under a covered contract to be considered allowable and allocable as a direct or indirect cost for such covered contract. “(b) Program Authorities and Requirements.—Under a pilot program established under subsection (a), the Secretary of Defense—“(1) may treat financing costs incurred for a covered activity under a covered contract as allowable and allocable as a direct or an indirect cost for such covered contract, provided—“(A) such costs are—“(i) reasonable in amount and consistent with prevailing market rates for similar financing; and “(ii) incurred to pay a financing entity; and “(B) such covered activity is performed in compliance with the applicable requirements of the Department of Defense for audits of material and inventory management; and “(2) shall ensure that with respect to a covered contract for which financing costs are allowable and allocable under the pilot program, any obligation of the United States to make a payment under such covered contract is subject to the availability of appropriations for that purpose, and that total liability to the Government for the termination of such covered contract shall be limited to the total amount of funding obligated at the time of termination. “(c) Subcontractor Status.—For the purposes of a pilot program established under (a), a financing entity may not be considered a subcontractor solely because of the participation of such financing entity in a covered activity. “(d) Briefing.—Prior to establishing a pilot program under subsection (a), the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on how the Department of Defense will ensure the compliance of a financing entity who is not treated as a subcontractor with the applicable requirements of the Department of Defense for audits of material and inventory management, including any updates to the policies or regulations of the Department required to ensure such compliance. “(e) Report and Recommendations.—Not later than February 15, 2028, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot program established under subsection (a), if any, including an assessment of the feasibility, risks, and benefits of authorizing the financing costs incurred by a contractor for a covered activity under a covered contract to be considered allowable and allocable as a direct or indirect cost for such covered contract, and recommendations on whether the pilot program should be extended or the authority under the pilot program should be made permanent. “(f) Sunset.—The Secretary of Defense may not authorize the treatment of financing costs incurred for a covered activity under a covered contract as allowable and allocable as a direct or an indirect cost for such covered contract under the pilot program established under subsection (a) if such covered contract is entered into on or after December 31, 2029. “(g) Definitions.—In this section:“(1) The term ‘covered activity’ means an activity taken by a prime contractor or subcontractor—“(A) to manage an inventory of completed products or components used in production; “(B) to improve inventory management of products or components necessary for sustainment or maintenance; or “(C) to materially expand the capacity of production or sustainment and maintenance through capital expenditures. “(2) The term ‘covered contract’ means a contract, subcontract, or other agreement entered into by the Secretary of Defense for the performance of a covered activity. “(3) The term ‘financing costs’ means interest on borrowings, bond discounts, and costs of financing and refinancing capital. “(4) The term ‘financing entity’ means—“(A) any corporation, limited liability company, partnership, trust, or other entity that—“(i) is organized under Federal or State law; and “(ii) as part of its regular business activities, extends credit, loans, or other forms of financing to other persons or entities; and “(B) provided that such legal entity is not owned by, controlled by, or under common control with the other persons or entities receiving such financing.”

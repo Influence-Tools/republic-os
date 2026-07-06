@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 12734"
+description: "Time not creditable toward years of service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "1223"
+chapter_name: "RETIRED PAY FOR NON-REGULAR SERVICE"
+section: "12734"
+citation: "10 U.S.C. § 12734"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s12734"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "4dfd8ed2664b5dc398ddda0f110d00811beb5147b256f6cd5353a62d6e0acd36"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "58485672a842342cc3e9e05b727cbbe90c64161ff2bd7a27adba53000e57137a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 12734 - Time not creditable toward years of service
+
+## Text
+
+(a) Service in an inactive status may not be counted in any computation of years of service under this chapter.
+
+(b) Time spent after retirement (without pay) for failure to conform to standards and qualifications prescribed under section 12641 of this title may not be credited in a computation of years of service under this chapter.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 104, § 1334; Pub. L. 87–651, title I, § 108, Sept. 7, 1962, 76 Stat. 509; renumbered § 12734 and amended Pub. L. 103–337, div. A, title XVI, § 1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3003.)
+
+## Notes
+
+Historical and Revision Notes 1956 Act Revised sectionSource (U.S. Code)Source (Statutes at Large) 1334(a)10:1036c (last sentence, as applicable to inactive status).10:1036g (last 41 words of 2d sentence).34:440k (last sentence, as applicable to inactive status).June 29, 1948, ch. 708, §§ 304 (last sentence), 308 (last 41 words of 2d sentence), 62 Stat. 1088, 1090.July 9, 1952, ch. 608, § 211(b) (less 1st 16 words), 66 Stat. 485.  34:440o (last 41 words of 2d sentence).  50:931(b) (less 1st 16 words). 1334(b)10:1036c (last sentence, less applicability to inactive status).34:440k (last sentence, less applicability to inactive status). Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as applicable to inactive status), 10:1036g (last 41 words of 2d sentence), 34:440k (last 17 words of last sentence, as applicable to inactive status), and 34:440o (last 41 words of 2d sentence). 10:1036c (proviso of last sentence, as applicable to inactive status) and 34:440k (proviso of last sentence, as applicable to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) are omitted as surplusage. In subsection (b), 10:1036c (proviso of last sentence, less applicability to inactive status) and 34:440k (proviso of last sentence, less applicability to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) are omitted as surplusage.
+
+1962 ActThe change conforms section 1334(b) of title 10 to the source law, the last sentence of section 304 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1089). Section 305 makes the change retroactive to August 10, 1956, the date of repeal of the source law by the original military codification act of that date.
+
+Editorial Notes
+
+Amendments1994—Pub. L. 103–337 renumbered section 1334 of this title as this section and amended text generally, changing one section reference. 1962—Subsec. (b). Pub. L. 87–651 substituted “retirement (without pay) for failure to conform to standards and qualifications prescribed under section 1001 of this title may not be credited in a computation” for “retirement or transfer to the Retired Reserve may not be credited in any computation.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1994 AmendmentAmendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+
+Effective Date of 1962 AmendmentSection 305 of Pub. L. 87–651 provided that: “Section 108 of this Act [amending this section] is effective as of August 10, 1956, for all purposes. Section 304 of this Act is effective as of February 6, 1959.”

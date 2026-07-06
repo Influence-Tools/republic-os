@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1186"
+description: "Officer considered for removal: voluntary retirement or discharge"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "60"
+chapter_name: "SEPARATION OF REGULAR OFFICERS FOR SUBSTANDARD PERFORMANCE OF DUTY OR FOR CERTAIN OTHER REASONS"
+section: "1186"
+citation: "10 U.S.C. § 1186"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1186"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "90c5ac16d76af26318daadc953f5030f4e11ac94c25e457f4fc1961cd60eb15d"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "92685394ab6691701bf4227e88f4529ff54b6c7bc0f3e20bee29fdb22cafb67d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1186 - Officer considered for removal: voluntary retirement or discharge
+
+## Text
+
+(a) At any time during proceedings under this chapter with respect to the removal of an officer from active duty, the Secretary of the military department concerned may grant a request by the officer—
+
+(1) for voluntary retirement, if the officer is qualified for retirement; or
+
+(2) for discharge in accordance with subsection (b)(2).
+
+(b) An officer removed from active duty under section 1184 of this title shall—
+
+(1) if eligible for voluntary retirement under any provision of law on the date of such removal, be retired in the grade and with the retired pay for which he would be eligible if retired under such provision; and
+
+(2) if ineligible for voluntary retirement under any provision of law on the date of such removal—
+
+(A) be honorably discharged in the grade then held, in the case of an officer whose case was brought under subsection (a) of section 1181 of this title; or
+
+(B) be discharged in the grade then held, in the case of an officer whose case was brought under subsection (b) of section 1181 of this title.
+
+(c) An officer who is discharged under subsection (b)(2) is entitled, if eligible therefor, to separation pay under section 1174(a)(2) of this title.
+
+(Added Pub. L. 96–513, title I, § 110, Dec. 12, 1980, 94 Stat. 2874; amended Pub. L. 101–510, div. A, title V, § 501(f)(1), Nov. 5, 1990, 104 Stat. 1550.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1990—Subsec. (c). Pub. L. 101–510 substituted “section 1174(a)(2)” for “section 1174(b)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.

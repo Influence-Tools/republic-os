@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4253"
+description: "Major defense acquisition programs: submissions to Congress on Milestone C"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "322"
+chapter_name: "MAJOR SYSTEMS AND MAJOR DEFENSE ACQUISITION PROGRAMS GENERALLY"
+section: "4253"
+citation: "10 U.S.C. § 4253"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4253"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "5b377c9d96b37fefed3789947ccc4639c50687b3f565438f9e759b487e481dd4"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e913c17a02fee8bcba9b8e9b6262297a235ad963ed64ab7c5c2a42cd284bde16"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4253 - Major defense acquisition programs: submissions to Congress on Milestone C
+
+## Text
+
+(a) Brief Summary Report.— Not later than 15 days after granting Milestone C approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following:
+
+(1) The estimated cost and schedule for the program established by the military department concerned, including—
+
+(A) the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+
+(B) the planned dates for initial operational test and evaluation and initial operational capability.
+
+(2) The independent estimated cost for the program established pursuant to section 3221(b)(6) of this title, and any independent estimated schedule for the program, including—
+
+(A) the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
+
+(B) the planned dates for initial operational test and evaluation and initial operational capability.
+
+(3) A summary of any production, manufacturing, and fielding risks associated with the program.
+
+(4) An assessment of the sufficiency of the developmental test and evaluation completed, including the use of automated data analytics or modeling and simulation tools and methodologies.
+
+(b) Additional Information.— At the request of any of the congressional defense committees or, in the case of intelligence or intelligence-related activities, the congressional intelligence committees, the milestone decision authority shall submit to the committee further information or underlying documentation for the information in a brief summary report submitted under subsection (a), including the independent cost and schedule estimates and the independent technical risk assessments referred to in that subsection.
+
+(c) Congressional Intelligence Committees Defined.— In this section, the term “congressional intelligence committees” has the meaning given that term in section 437(c) of this title.
+
+(Added Pub. L. 114–328, div. A, title VIII, § 808(c)(1), Dec. 23, 2016, 130 Stat. 2265, § 2366c; amended Pub. L. 115–91, div. A, title VIII, § 838(a)(2), Dec. 12, 2017, 131 Stat. 1474; renumbered § 4253 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(d)(3), Jan. 1, 2021, 134 Stat. 4256.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283 renumbered section 2366c of this title as this section and, in subsec. (a)(2), substituted “section 3221(b)(6)” for “section 2334(a)(6)” in introductory provisions. Section was inserted after section 4252 of this title, as renumbered by par. (2) of section 1847(d) of Pub. L. 116–283, to reflect the probable intent of Congress, notwithstanding language directing this section be inserted after section 4252 of this title “as transferred and redesignated by paragraph (3)” of section 1847(d). 2017—Subsec. (a)(4). Pub. L. 115–91 added par. (4).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Responsibility for Conducting Assessments; GuidanceFor provisions designating officials responsible for conducting assessments and provisions requiring guidance for assessments under subsec. (a)(4) of this section, see section 838(a)(3), (4) of Pub. L. 115–91, set out as notes under section 4252 of this title.

@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 383"
+description: "Assessment, monitoring, and evaluation of programs and activities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "16"
+chapter_name: "SECURITY COOPERATION"
+section: "383"
+citation: "10 U.S.C. § 383"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s383"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "037b8d26945f657a08b355686aaa5954bd09725662c444b96c39dd29b05d1e21"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "a3ef5b04f26b7cdd0cc8c08ca14f25206e86ffed09ecec88c03d33e9a2943e3a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 383 - Assessment, monitoring, and evaluation of programs and activities
+
+## Text
+
+(a) Program Required.— The Secretary of Defense shall maintain a program of assessment, monitoring, and evaluation in support of the security cooperation programs and activities of the Department of Defense.
+
+(b) Program Elements and Requirements.— (1) Elements.— The program under subsection (a) shall provide for the following:
+
+(A) Initial assessments of partner capability requirements, potential programmatic risks, baseline information, and indicators of efficacy for purposes of planning, monitoring, and evaluation of security cooperation programs and activities of the Department of Defense.
+
+(B) Monitoring of implementation of such programs and activities in order to measure progress in execution and, to the extent possible, achievement of desired outcomes.
+
+(C) Evaluation of the efficiency and effectiveness of such programs and activities in achieving desired outcomes.
+
+(D) Identification of lessons learned in carrying out such programs and activities, and development of recommendation for improving future security cooperation programs and activities of the Department of Defense.
+
+(E) Incorporation of lessons learned from prior security cooperation programs and activities of the Department of Defense that were carried out any time on or after September 11, 2001.
+
+(2) Best practices.— The program shall be conducted in accordance with international best practices, interagency standards, and, if applicable, the Government Performance and Results Act of 1993 (Public Law 103–62), and the amendments made by that Act, and the GPRA Modernization Act of 2010 (Public Law 111–352), and the amendments made by that Act.
+
+(c) Availability of Funds.— (1) In general.— Funds available to the Defense Security Cooperation Agency, and other funds available to the Department of Defense for security cooperation programs and activities of the Department of Defense, may be used to carry out the program required by subsection (a).
+
+(2) Budget justification.— Funds described in paragraph (1) for a fiscal year shall be identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title.
+
+(d) Reports.— (1) Reports to congress.— The Secretary shall submit to the congressional defense committees each year a report on the program under subsection (a) during the previous year. Each report shall include, for the year covered by such report, the following:
+
+(A) A description of the activities under the program.
+
+(B) An evaluation of the lessons learned, including a description of challenges in executing the program, and best practices identified through activities under the program.
+
+(2) Information for the public on evaluations.— The Secretary shall make available to the public, on an Internet website of the Department of Defense available to the public, a summary of each evaluation conducted pursuant to subsection (b)(1)(C). In making a summary so available, the Secretary may redact or omit any information that the Secretary determines should not be disclosed to the public in order to protect the interest of the United States or the foreign country or countries covered by such evaluation.
+
+(Added Pub. L. 114–328, div. A, title XII, § 1241(m), Dec. 23, 2016, 130 Stat. 2510; amended Pub. L. 115–232, div. A, title XII, § 1211(c), Aug. 13, 2018, 132 Stat. 2024; Pub. L. 118–159, div. A, title XII, § 1203, Dec. 23, 2024, 138 Stat. 2094.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Government Performance and Results Act of 1993, referred to in subsec. (b)(2), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables. The GPRA Modernization Act of 2010, referred to in subsec. (b)(2), is Pub. L. 111–352, Jan. 4, 2011, 124 Stat. 3866, which enacted sections 1115, 1116, and 1120 to 1125 of Title 31, Money and Finance, and section 306 of Title 5, Government Organization and Employees, amended section 1105 of Title 31, repealed sections 1115 and 1116 of Title 31 and section 306 of Title 5, and enacted provisions set out as notes under section 1115 of Title 31 and section 5105 of Title 5. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 1101 of Title 31 and Tables.
+
+Prior ProvisionsA prior section 383 was renumbered section 283 of this title.
+
+Amendments2024—Subsec. (d)(1)(B). Pub. L. 118–159 inserted “, including a description of challenges in executing the program,” after “lessons learned”. 2018—Subsec. (b)(1)(E). Pub. L. 115–232 added subpar. (E).

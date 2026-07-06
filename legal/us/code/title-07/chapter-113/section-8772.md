@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 8772"
+description: "Dairy forward pricing program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "113"
+chapter_name: "AGRICULTURAL COMMODITY SUPPORT PROGRAMS"
+section: "8772"
+citation: "7 U.S.C. § 8772"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s8772"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "dc08830dfb91db3a008f1bb3e9f8b8426f8512dd80f4c4f5a7475dae27936839"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "1681c013b6031fead8f7e877f95544b4e612b65bd94e774e2dd03b52c9b5ea4e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 8772 - Dairy forward pricing program
+
+## Text
+
+(a) Program required The Secretary shall establish a program under which milk producers and cooperative associations of producers are authorized to voluntarily enter into forward price contracts with milk handlers.
+
+(b) Minimum milk price requirements Payments made by milk handlers to milk producers and cooperative associations of producers, and prices received by milk producers and cooperative associations, in accordance with the terms of a forward price contract authorized by subsection (a), shall be treated as satisfying—
+
+(1) all uniform and minimum milk price requirements of subparagraphs (B) and (F) of paragraph (5) of section 608c of this title; and
+
+(2) the total payment requirement of subparagraph (C) of that paragraph.
+
+(c) Milk covered by program (1) Covered milk The program shall apply only with respect to the marketing of federally regulated milk that—
+
+(A) is not classified as Class I milk or otherwise intended for fluid use; and
+
+(B) is in the current of interstate or foreign commerce or directly burdens, obstructs, or affects interstate or foreign commerce in federally regulated milk.
+
+(2) Relation to Class I milk To assist milk handlers in complying with paragraph (1)(A) without having to segregate or otherwise individually track the source and disposition of milk, a milk handler may allocate milk receipts from producers, cooperatives, and other sources that are not subject to a forward contract to satisfy the obligations of the handler with regard to Class I milk usage.
+
+(d) Voluntary program (1) In general A milk handler may not require participation in a forward pricing contract as a condition of the handler receiving milk from a producer or cooperative association of producers.
+
+(2) Pricing A producer or cooperative association described in paragraph (1) may continue to have their 11 So in original. Probably should be “its”. milk priced in accordance with the minimum payment provisions of the Federal milk marketing order.
+
+(3) Complaints (A) In general The Secretary shall investigate complaints made by producers or cooperative associations of coercion by handlers to enter into forward contracts.
+
+(B) Action If the Secretary finds evidence of coercion, the Secretary shall take appropriate action.
+
+(e) Duration (1) New contracts No forward price contract may be entered into under the program established under this section after September 30, 2023.
+
+(2) Application No forward contract entered into under the program may extend beyond September 30, 2029.
+
+(Pub. L. 110–234, title I, § 1502, May 22, 2008, 122 Stat. 991; Pub. L. 110–246, § 4(a), title I, § 1502, June 18, 2008, 122 Stat. 1664, 1720; Pub. L. 113–79, title I, § 1424, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, § 1402(a), Dec. 20, 2018, 132 Stat. 4518; Pub. L. 118–22, div. B, title I, § 102(c)(2)(C), Nov. 17, 2023, 137 Stat. 116; Pub. L. 118–158, div. D, § 4101(c)(4)(B), Dec. 21, 2024, 138 Stat. 1769; Pub. L. 119–37, div. E, § 5002(c)(1), Nov. 12, 2025, 139 Stat. 627.)
+
+## Notes
+
+Editorial Notes
+
+Codification The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title. Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2025—Subsec. (e)(2). Pub. L. 119–37 substituted “2029” for “2028”. 2024—Subsec. (e)(2). Pub. L. 118–158 substituted “2028” for “2027”. 2023—Subsec. (e)(2). Pub. L. 118–22 substituted “2027” for “2026”. 2018—Subsec. (e)(1). Pub. L. 115–334, § 1402(a)(1), substituted “2023” for “2018”. Subsec. (e)(2). Pub. L. 115–334, § 1402(a)(2), substituted “2026” for “2021”. 2014—Subsec. (e)(1). Pub. L. 113–79, § 1424(1), substituted “2018” for “2012”. Subsec. (e)(2). Pub. L. 113–79, § 1424(2), substituted “2021” for “2015”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–37 to be applied and administered as if enacted on Sept. 30, 2025, see section 5002(g) of Pub. L. 119–37, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
+Effective Date of 2024 AmendmentAmendment by Pub. L. 118–158 to be applied and administered as if enacted on Sept. 30, 2024, see section 4101(g) of Pub. L. 118–158, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
+Effective Date of 2023 AmendmentAmendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
+Effective DateEnactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.

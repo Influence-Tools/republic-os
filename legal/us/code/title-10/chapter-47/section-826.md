@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 826"
+description: "Art. 26. Military judge of a general or special court-martial"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "47"
+chapter_name: "UNIFORM CODE OF MILITARY JUSTICE"
+section: "826"
+citation: "10 U.S.C. § 826"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s826"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "6cf2bc33bfd1cca8e602fdf4445f3a1cac2bd7cd587c899846a7cd6cee2dd9ed"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "80ddb3fe419923028b7c52b6a51e269d442762199c946f37c765eaea99e39d45"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 826 - Art. 26. Military judge of a general or special court-martial
+
+## Text
+
+(a) A military judge shall be detailed to each general and special court-martial. The Secretary concerned shall prescribe regulations providing for the manner in which military judges are detailed for such courts-martial and for the persons who are authorized to detail military judges for such courts-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
+
+(b) A military judge shall be a commissioned officer of the armed forces who is a member of the bar of a Federal court or a member of the bar of the highest court of a State and who is certified to be qualified, by reason of education, training, experience, and judicial temperament, for duty as a military judge by the Judge Advocate General of the armed force of which such military judge is a member.
+
+(c) (1) In accordance with regulations prescribed under subsection (a), a military judge of a general or special court-martial shall be designated for detail by the Judge Advocate General of the armed force of which the military judge is a member.
+
+(2) Neither the convening authority nor any member of the staff of the convening authority shall prepare or review any report concerning the effectiveness, fitness, or efficiency of the military judge so detailed, which relates to the military judge’s performance of duty as a military judge.
+
+(3) A commissioned officer who is certified to be qualified for duty as a military judge of a general court-martial—
+
+(A) may perform such duties only when the officer is assigned and directly responsible to the Judge Advocate General of the armed force of which the military judge is a member; and
+
+(B) may perform duties of a judicial or nonjudicial nature other than those relating to the officer’s primary duty as a military judge of a general court-martial when such duties are assigned to the officer by or with the approval of that Judge Advocate General.
+
+(4) In accordance with regulations prescribed by the President, assignments of military judges under this section (article) shall be for appropriate minimum periods, subject to such exceptions as may be authorized in the regulations.
+
+(d) No person is eligible to act as military judge in a case if he is the accuser or a witness for the prosecution or has acted as preliminary hearing officer or a counsel in the same case.
+
+(e) The military judge of a court-martial may not consult with the members of the court except in the presence of the accused, trial counsel, and defense counsel, nor may he vote with the members of the court.
+
+(f) A military judge may be detailed under subsection (a) to a court-martial or a proceeding under section 830a of this title (article 30a) that is convened in a different armed force, when so permitted by the Judge Advocate General of the armed force of which the military judge is a member.
+
+(g) In accordance with regulations prescribed by the President, each Judge Advocate General shall designate a chief trial judge from among the members of the applicable trial judiciary.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 46; Pub. L. 90–632, § 2(9), Oct. 24, 1968, 82 Stat. 1336; Pub. L. 98–209, § 3(c)(1), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 114–328, div. E, title LV, § 5184, title LVI, § 5203(e)(3), Dec. 23, 2016, 130 Stat. 2901, 2906.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 826(a)826(b)50:590(a).50:590(b).May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117. In subsection (a), the words “a commissioned” are substituted for the word “an” for clarity. The words “of the United States” are omitted as surplusage. The word “is” is substituted for the words “shall be”. The word “if” is substituted for the word “when”. The word “detail” is substituted for the word “appoint”, since the filling of the position involved is not appointment to an office in the constitutional sense. In subsection (b), the word “may” is substituted for the word “shall”.
+
+Editorial Notes
+
+Amendments2016—Subsec. (a). Pub. L. 114–328, § 5184(a), inserted “and special” after “each general” and struck out “Subject to regulations of the Secretary concerned, a military judge may be detailed to any special court-martial.” before “The military judge”. Subsec. (b). Pub. L. 114–328, § 5184(b), substituted “qualified, by reason of education, training, experience, and judicial temperament, for duty” for “qualified for duty”. Subsec. (c). Pub. L. 114–328, § 5184(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The military judge of a general court-martial shall be designated by the Judge Advocate General, or his designee, of the armed force of which the military judge is a member for detail in accordance with regulations prescribed under subsection (a). Unless the court-martial was convened by the President or the Secretary concerned, neither the convening authority nor any member of his staff shall prepare or review any report concerning the effectiveness, fitness, or efficiency of the military judge so detailed, which relates to his performance of duty as a military judge. A commissioned officer who is certified to be qualified for duty as a military judge of a general court-martial may perform such duties only when he is assigned and directly responsible to the Judge Advocate General, or his designee, of the armed force of which the military judge is a member and may perform duties of a judicial or nonjudicial nature other than those relating to his primary duty as a military judge of a general court-martial when such duties are assigned to him by or with the approval of that Judge Advocate General or his designee.” Subsec. (d). Pub. L. 114–328, § 5203(e)(3), substituted “preliminary hearing officer” for “investigating officer”. Subsec. (f). Pub. L. 114–328, § 5184(d), added subsec. (f). Subsec. (g). Pub. L. 114–328, § 5184(e), added subsec. (g). 1983—Subsec. (a). Pub. L. 98–209, § 3(c)(1)(A), amended subsec. (a) generally, inserting provision requiring the Secretary concerned to prescribe regulations providing for the manner in which military judges are detailed for courts-martial and for the persons who are authorized to detail military judges for such courts-martial. Subsec. (c). Pub. L. 98–209, § 3(c)(1)(B), substituted “in accordance with regulations prescribed under subsection (a). Unless” for “by the convening authority, and, unless”. 1968—Pub. L. 90–632 substituted “military judge” for “law officer” and inserted reference to special court-martial. Subsec. (a). Pub. L. 90–632 substituted reference to military judge for references to law officer and such law officer’s requisite qualifications, inserted reference to special court-martial and regulations of the Secretary concerned governing the convening of a special court-martial, inserted provisions directing the military judge to preside over the open sessions of the court-martial to which he was assigned, and struck out provisions making law officers ineligible in a case in which he was the accuser or a witness for the prosecution or acted as investigating officer or as counsel. Subsecs. (b) to (d). Pub. L. 90–632 added subsecs. (b) to (d). Former subsec. (b) redesignated as subsec. (e) and amended. Subsec. (e). Pub. L. 90–632 redesignated former subsec. (b) as (e) and substituted “military judge” for “law officer” and struck out provision allowing consultation with members of the court on the form of the findings as provided in section 839 of this title (article 39).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentAmendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
+
+Effective Date of 1983 AmendmentAmendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, but not to affect the designation or detail of a military judge or military counsel to a court-martial before that date, see section 12(a)(1), (2) of Pub. L. 98–209, set out as a note under section 801 of this title.
+
+Effective Date of 1968 AmendmentAmendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
+
+Statutory References to Law Officer Deemed References to Military JudgePub. L. 90–632, § 3(a), Oct. 24, 1968, 82 Stat. 1343, provided that: “Whenever the term law officer is used, with reference to any officer detailed to a court-martial pursuant to section 826(a) (article 26(a)) of title 10, United States Code [subsec. (a) of this section], in any provision of Federal law (other than provisions amended by this Act [see Short Title of 1968 Amendment note set out under section 801 of this title] or in any regulation, document, or record of the United States, such term shall be deemed to mean military judge.”

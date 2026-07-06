@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3062"
+description: "Regulations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "203"
+chapter_name: "GENERAL MATTERS"
+section: "3062"
+citation: "10 U.S.C. § 3062"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3062"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "5031b66c62715d11fe5b720203f13243c147d7f085191eab0e0fd4a918db596e"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "9ffa819a09eb72332dfc4cf2910924e81b0eafd66ee8f069d054a46a5283808a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3062 - Regulations
+
+## Text
+
+The Secretary of Defense is required by section 2202 of this title to prescribe regulations governing the performance within the Department of Defense of the procurement functions, and related functions, of the Department of Defense.
+
+(Added Pub. L. 116–283, div. A, title XVIII, § 1807(b)(1), Jan. 1, 2021, 134 Stat. 4157; amended Pub. L. 117–81, div. A, title XVII, § 1701(b)(2)(A), (j), Dec. 27, 2021, 135 Stat. 2132, 2143.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 3062 was renumbered section 7062 of this title.
+
+Amendments2021—Pub. L. 117–81, § 1701(j), amended text of section enacted by Pub. L. 116–283, § 1807(b)(1), by substituting “is required by section 2202 of this title to prescribe” for “shall prescribe”. Pub. L. 117–81, § 1701(b)(2)(A), amended directory language of Pub. L. 116–283, § 1807(b)(1), which enacted this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
+
+Effective DateSection effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+Pilot Program on Military Working Dog and Explosives Detection Canine Health and ExcellencePub. L. 117–81, div. A, title III, § 381, Dec. 27, 2021, 135 Stat. 1671, as amended by Pub. L. 117–263, div. A, title III, § 386(a), Dec. 23, 2022, 136 Stat. 2544, provided that: “(a) Pilot Program.—Not later than September 31, 2022, the Secretary of Defense shall carry out a pilot program to ensure the health and excellence of explosives detection military working dogs. Under such pilot program, the Secretary shall consult with domestic breeders of working dog lines, covered institutions of higher education, and covered national domestic canine associations, to—“(1) facilitate the presentation, both in a central location and at regional field evaluations in the United States, of domestically-bred explosives detection military working dogs for assessment for procurement by the Department of Defense, at a rate of at least 250 canines presented per fiscal year; “(2) facilitate the delivery and communication to domestic breeders, covered institutions of higher education, and covered national domestic canine associations, of information regarding—“(A) any specific needs or requirements for the future acquisition by the Department of explosives detection military working dogs; and “(B) any factors identified as relevant to the success or failure of explosives detection military working dogs presented for assessment pursuant to this section; “(3) collect information on the biological and health factors of explosives detection military working dogs procured by the Department, and make such information available for academic research and to domestic breeders; “(4) collect and make available genetic and phenotypic information, including canine rearing and training data for study by domestic breeders and covered institutions of higher education, for the further development of working canines that are bred, raised, and trained domestically; and “(5) evaluate current Department guidance for the procurement of military working dogs to ensure that pricing structures and procurement requirements for foreign and domestic canine procurements accurately account for input cost differences between foreign and domestic canines. “(b) Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on October 1, 2025. “(c) Definitions.—In this section:“(1) The term ‘covered institution of higher education’ means an institution of higher education, as such term is defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001), with demonstrated expertise in veterinary medicine for working canines. “(2) The term ‘covered national domestic canine association’ means a national domestic canine association with demonstrated expertise in the breeding and pedigree of working canine lines. “(3) The term ‘explosives detection military working dog’ means a canine that, in connection with the work duties of the canine performed for the Department of Defense, is certified and trained to detect odors indicating the presence of explosives in a given object or area, in addition to the performance of such other duties for the Department as may be assigned.”
+
+Restriction on Department of Defense Procurement of Certain Items Containing Perfluorooctane Sulfonate or Perfluorooctanoic AcidPub. L. 116–283, div. A, title III, § 333, Jan. 1, 2021, 134 Stat. 3531, provided that: “(a) Prohibition.—The Department of Defense may not procure any covered item that contains perfluorooctane sulfonate (PFOS) or perfluorooctanoic acid (PFOA). “(b) Definitions.—In this section, the term ‘covered item’ means—“(1) nonstick cookware or cooking utensils for use in galleys or dining facilities; and “(2) upholstered furniture, carpets, and rugs that have been treated with stain-resistant coatings. “(c) Effective Date.—This section shall take effect on April 1, 2023.”

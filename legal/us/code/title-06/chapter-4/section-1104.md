@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "6 U.S.C. § 1104"
+description: "Immunity for reports of suspected terrorist activity or suspicious behavior and response"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 6
+title_name: "DOMESTIC SECURITY"
+chapter_number: "4"
+chapter_name: "TRANSPORTATION SECURITY"
+section: "1104"
+citation: "6 U.S.C. § 1104"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc06@119-100.zip"
+source_identifier: "/us/usc/t6/s1104"
+source_file: "data/legal/raw/us/code/title-06/usc06.xml"
+source_hash: "964eaff3c1316b1ba5d48360122ffa93a5febcacfe4656a905dee6c68762676e"
+raw_snapshot_hash: "a286ebc069cd8c7d317b4084d217abe94cd2a3642b1a3e409a909d1e92452161"
+text_hash: "0f3b2683510628ff7da7cbd11f76736a99f3b6d55339c92ad4a40cdb43d3b82e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 6 U.S.C. § 1104 - Immunity for reports of suspected terrorist activity or suspicious behavior and response
+
+## Text
+
+(a) Immunity for reports of suspected terrorist activity or suspicious behavior (1) In general Any person who, in good faith and based on objectively reasonable suspicion, makes, or causes to be made, a voluntary report of covered activity to an authorized official shall be immune from civil liability under Federal, State, and local law for such report.
+
+(2) False reports Paragraph (1) shall not apply to any report that the person knew to be false or was made with reckless disregard for the truth at the time that person made that report.
+
+(b) Immunity for response (1) In general Any authorized official who observes, or receives a report of, covered activity and takes reasonable action in good faith to respond to such activity shall have qualified immunity from civil liability for such action, consistent with applicable law in the relevant jurisdiction. An authorized official as defined by subsection (d)(1)(A) not entitled to assert the defense of qualified immunity shall nevertheless be immune from civil liability under Federal, State, and local law if such authorized official takes reasonable action, in good faith, to respond to the reported activity.
+
+(2) Savings clause Nothing in this subsection shall affect the ability of any authorized official to assert any defense, privilege, or immunity that would otherwise be available, and this subsection shall not be construed as affecting any such defense, privilege, or immunity.
+
+(c) Attorney fees and costs Any person or authorized official found to be immune from civil liability under this section shall be entitled to recover from the plaintiff all reasonable costs and attorney fees.
+
+(d) Definitions In this section:
+
+(1) Authorized official The term “authorized official” means—
+
+(A) any employee or agent of a passenger transportation system or other person with responsibilities relating to the security of such systems;
+
+(B) any officer, employee, or agent of the Department of Homeland Security, the Department of Transportation, or the Department of Justice with responsibilities relating to the security of passenger transportation systems; or
+
+(C) any Federal, State, or local law enforcement officer.
+
+(2) Covered activity The term “covered activity” means any suspicious transaction, activity, or occurrence that involves, or is directed against, a passenger transportation system or vehicle or its passengers indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to—
+
+(A) a threat to a passenger transportation system or passenger safety or security; or
+
+(B) an act of terrorism (as that term is defined in section 3077 of title 18).
+
+(3) Passenger transportation The term “passenger transportation” means—
+
+(A) public transportation, as defined in section 5302 of title 49;
+
+(B) over-the-road bus transportation, as defined in subchapter IV, and school bus transportation;
+
+(C) intercity passenger rail 11 So in original. Probably should be “intercity rail passenger”. transportation 22 So in original. Probably should be followed by a comma. as defined in section 24102 of title 49;
+
+(D) the transportation of passengers onboard a passenger vessel 2 as defined in section 2101 of title 46;
+
+(E) other regularly scheduled waterborne transportation service of passengers by vessel of at least 20 gross tons; and
+
+(F) air transportation, as defined in section 40102 of title 49, of passengers.
+
+(4) Passenger transportation system The term “passenger transportation system” means an entity or entities organized to provide passenger transportation using vehicles, including the infrastructure used to provide such transportation.
+
+(5) Vehicle The term “vehicle” has the meaning given to that term in section 1992(16) 33 So in original. Probably should be section “1992(d)(16)”. of title 18.
+
+(e) Effective date This section shall take effect on October 1, 2006, and shall apply to all activities and claims occurring on or after such date.
+
+(Pub. L. 110–53, title XII, § 1206, Aug. 3, 2007, 121 Stat. 388.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSubchapter IV, referred to in subsec. (d)(3)(B), was in the original “title XV of this Act”, meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which is classified principally to subchapter IV (§ 1151 et seq.) of this chapter. For complete classification of title XV to the Code, see References in Text note set out under section 1151 of this title and Tables.

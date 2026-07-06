@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3452"
+description: "Relationship of other provisions of law to procurement of commercial products and commercial services"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "247"
+chapter_name: "PROCUREMENT OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES"
+section: "3452"
+citation: "10 U.S.C. § 3452"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3452"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "baa58fd285d35e6354881fbc96f0b40db4a3d53f935e7504c76c67052e8b54b1"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "4b46106e5fc6d0658c841e1b7497ec1df0403f9959476a98d85618938d294124"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3452 - Relationship of other provisions of law to procurement of commercial products and commercial services
+
+## Text
+
+(a) Applicability of Government-wide Statutes.— (1) No contract for the procurement of a commercial product or commercial service entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(b) of title 41.
+
+(2) No subcontract under a contract for the procurement of a commercial product or commercial service entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(c) of title 41.
+
+(3) No contract for the procurement of a commercially available off-the-shelf item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1907 of title 41.
+
+(b) Applicability of Defense-unique Statutes to Contracts for Commercial Products and Commercial Services.— The Department of Defense Supplement to the Federal Acquisition Regulation shall include a list of defense-unique contract clause requirements based on laws, executive orders, or acquisition policies that may be applied to contracts for the procurement of commercial products and commercial services entered into by the Department of Defense.
+
+(c) Applicability of Defense-unique Statutes to Subcontracts for Commercial Products and Commercial Services.— (1) The Department of Defense Supplement to the Federal Acquisition Regulation shall include a list of defense-unique contract clause requirements based on laws, executive orders, or acquisition policies that may be applied to subcontracts for the procurement of commercial products and commercial services.
+
+(2) In this subsection, the term “subcontract”—
+
+(A) includes a transfer of commercial products and commercial services between divisions, subsidiaries, or affiliates of a contractor or subcontractor; and
+
+(B) does not include any agreement entered into by a contractor or subcontractor for the supply of products or services that are intended for use in the performance of multiple contracts with the Department of Defense or with other parties, and that are not identifiable to any particular contract.
+
+(3) This subsection does not authorize the waiver of the applicability of any provision of law or contract clause requirement with respect to any first-tier subcontract under a contract with a prime contractor reselling or distributing commercial products and commercial services of another contractor without adding value.
+
+(d) Applicability of Defense-unique Statutes to Contracts or Subcontracts for Commercially Available, Off-the-shelf Items.— The Department of Defense Supplement to the Federal Acquisition Regulation shall include a list of defense-unique contract clause requirements based on laws, executive orders, or acquisition policies that are applicable to contracts or subcontracts for the procurement of commercially available off-the-shelf items entered into by the Department of Defense.
+
+(e) Applicable Requirements.— The Secretary of Defense shall ensure that the lists required by subsections (b) and (c)(1) shall include any contract clause to implement the requirements of—
+
+(1) chapter 385 of this title;
+
+(2) section 5949 of the National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 41 U.S.C. 4713 note);
+
+(3) section 805 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31); or
+
+(4) a statute that specifically refers to this section and provides that, notwithstanding this section, such statute shall be applicable to contracts for the procurement of commercial products and commercial services.
+
+(Added Pub. L. 103–355, title VIII, § 8102, Oct. 13, 1994, 108 Stat. 3390, § 2375; amended Pub. L. 105–85, div. A, title X, § 1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, § 1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, § 5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, § 874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§ 836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, § 902(57), Dec. 20, 2019, 133 Stat. 1549; renumbered § 3452 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1821(a)(2), (b)(2), 1870(c)(6)(A), Jan. 1, 2021, 134 Stat. 4195, 4285; Pub. L. 119–60, div. A, title XVIII, § 1821, Dec. 18, 2025, 139 Stat. 1245.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 805 of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (e)(3), is section 805 of Pub. L. 118–31, which is set out as a note preceding section 4651 of this title.
+
+Prior ProvisionsA prior section 3452, added Pub. L. 85–861, § 1(81)(E), Sept. 2, 1958, 72 Stat. 1480, provided that, notwithstanding any other provision of law, an officer of Medical Corps or Dental Corps may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school, prior to repeal by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+
+Amendments2025—Subsecs. (b) to (e). Pub. L. 119–60 added subsecs. (b) to (e) and struck out former subsecs. (b) to (e) which related to applicability of defense-unique statutes to contracts for commercial products and commercial services, applicability of defense-unique statutes to subcontracts for commercial products and commercial services, applicability of defense-unique statutes to contracts for commercially available, off-the-shelf items, and covered provision of law or contract clause requirement, respectively. 2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2375 of this title as this section. Subsec. (e)(2). Pub. L. 116–283, §§ 1821(b)(2), 1870(c)(6)(A), made identical amendments, substituting “section 4862” for “section 2533a” and “section 4863” for “section 2533b”. Section 1870(c)(6)(A) amended former section 2375 while section 1821(b)(2) amended this section. See Amendment note above. 2019—Subsecs. (b)(2), (c)(2), (d)(2), (e). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. 2018—Pub. L. 115–232, § 836(d)(8)(B), substituted “Relationship of other provisions of law to procurement of commercial products and commercial services” for “Relationship of commercial item provisions to other provisions of law” in section catchline. Subsec. (a)(1), (2). Pub. L. 115–232, § 836(d)(1)(A), substituted “commercial product or commercial service” for “commercial item”. Subsec. (b). Pub. L. 115–232, § 836(d)(1)(B), in heading, substituted “Commercial Products and Commercial Services” for “Commercial Items” and, in text, substituted “commercial products and commercial services” for “commercial items” wherever appearing. Subsec. (b)(2). Pub. L. 115–232, § 837(a), substituted “October 13, 1994” for “January 1, 2015”. Subsec. (c). Pub. L. 115–232, § 836(d)(1)(B), in heading, substituted “Commercial Products and Commercial Services” for “Commercial Items” and, in text, substituted “commercial products and commercial services” for “commercial items” wherever appearing. Subsec. (e)(3). Pub. L. 115–232, § 836(d)(1)(C), substituted “commercial products and commercial services” for “commercial items”. 2016—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows: “(a) Applicability of Title.—Unless otherwise specifically provided, nothing in this chapter shall be construed as providing that any other provision of this title relating to procurement is inapplicable to the procurement of commercial items. “(b) List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items.—No contract for the procurement of a commercial item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation (pursuant to section 1906 of title 41). “(c) Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items.—For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see section 2306a(b) of this title.” 2011—Subsec. (b). Pub. L. 111–350 substituted “section 1906 of title 41” for “section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)”. 2001—Subsec. (b). Pub. L. 107–107 inserted “(41 U.S.C. 430)” after “section 34 of the Office of Federal Procurement Policy Act”. 1997—Subsec. (c). Pub. L. 105–85 substituted “a provision relating to an exception” for “provisions relating to exceptions” and “section 2306a(b)” for “section 2306a(d)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective Date of 2018 AmendmentAmendment by section 836(d)(1), (8)(B) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+Effective DateFor effective date and applicability of chapter, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under section 8752 of this title.
+
+Changes to Defense Federal Acquisition Regulation SupplementPub. L. 114–328, div. A, title VIII, § 874(b), Dec. 23, 2016, 130 Stat. 2310, as amended by Pub. L. 116–92, div. A, title IX, § 902(58), Dec. 20, 2019, 133 Stat. 1549, provided that: “(1) In general.—To the maximum extent practicable, the Under Secretary of Defense for Acquisition and Sustainment shall ensure that—“(A) the Defense Federal Acquisition Regulation Supplement does not require the inclusion of contract clauses in contracts for the procurement of commercial items or contracts for the procurement of commercially available off-the-shelf items, unless such clauses are—“(i) required to implement provisions of law or executive orders applicable to such contracts; or “(ii) determined to be consistent with standard commercial practice; and “(B) the flow-down of contract clauses to subcontracts under contracts for the procurement of commercial items or commercially available off-the-shelf items is prohibited unless such flow-down is required to implement provisions of law or executive orders applicable to such subcontracts. “(2) Subcontracts.—In this subsection, the term ‘subcontract’ includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Department of Defense and other parties and are not identifiable to any particular contract.”
+
+Provisions Not Affected by Title VIII of Pub. L. 103–355Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amended by Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(iii), Aug. 13, 2018, 132 Stat. 1847, provided that: “Nothing in this title [see Tables for classification] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under— “(1) section 7102 of the Federal Acquisition Streamlining Act of 1994 [Pub. L. 103–355, 15 U.S.C. 644 note]; “(2) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 ([former] 40 U.S.C. 759)); “(3) Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 ([former] 40 U.S.C. 541 et seq.) [now 40 U.S.C. 1101–1104]); “(4) subsections (a) and (d) of section 8 of the Small Business Act (15 U.S.C. 637(a) and (d)); or “(5) the Javits-Wagner-O’Day Act ([former] 41 U.S.C. 46–48c) [now 41 U.S.C. 8501 et seq.].”

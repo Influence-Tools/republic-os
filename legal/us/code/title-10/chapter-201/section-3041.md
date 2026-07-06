@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3041"
+description: "Major system"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "201"
+chapter_name: "DEFINITIONS"
+section: "3041"
+citation: "10 U.S.C. § 3041"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3041"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "4c65c5ea19c27f7cc55cabd59ca4cdcb57e14b097ea74e6ade5c16e04bf1ae74"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6b7cc82a896b19198e24ce463a7529e74a51e1a701abd8fd7d04de3b1bd3e162"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3041 - Major system
+
+## Text
+
+(a) In General.— In this part (other than in sections 4292(e) and 4321), the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property.
+
+(b) System Considered to Be a Major System.— A system shall be considered a major system if—
+
+(1) the conditions of subsection (c) or (d), as applicable, are satisfied; or
+
+(2) the system is designated a “major system” by the head of the agency responsible for the system.
+
+(c) Department of Defense Systems.— (1) In general.— For purposes of subsection (b), a system for which the Department of Defense is responsible shall be considered a major system if—
+
+(A) the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $275,000,000 (based on fiscal year 2024 constant dollars); or
+
+(B) the eventual total expenditure for procurement for the system is estimated to be more than $1,300,000,000 (based on fiscal year 2024 constant dollars).
+
+(2) Adjustment authority.— Authority for the Secretary of Defense to adjust amounts and the base fiscal year in effect under this subsection is provided in section 4202(b) of this title.
+
+(d) Civilian Agency Systems.— For purposes of subsection (b), a system for which a civilian agency is responsible shall be considered a major system if total expenditures for the system are estimated to exceed the greater of—
+
+(1) $2,000,000 (based on fiscal year 2024 constant dollars); or
+
+(2) the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(c), Jan. 1, 2021, 134 Stat. 4154; Pub. L. 119–60, div. A, title XVIII, § 1804(a), Dec. 18, 2025, 139 Stat. 1234.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of par. (5) of section 2302 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1806(c)(2), was based on Pub. L. 98–525, title XII, § 1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 104–201, div. A, title VIII, § 805(a)(1), Sept. 23, 1996, 110 Stat. 2605. The text of subsecs. (a) and (b) of section 2302d of this title, which were transferred to this section, redesignated as subsecs. (c) and (d), respectively, and amended by Pub. L. 116–283, § 1806(c)(3), was based on Pub. L. 104–201, div. A, title VIII, § 805(a)(2), Sept. 23, 1996, 110 Stat. 2605; Pub. L. 105–85, div. A, title X, § 1073(a)(41), Nov. 18, 1997, 111 Stat. 1902.
+
+Amendments2025—Subsec. (c)(1)(A). Pub. L. 119–60, § 1804(a)(1)(A), substituted “$275,000,000 (based on fiscal year 2024 constant dollars)” for “$115,000,000 (based on fiscal year 1990 constant dollars)”. Subsec. (c)(1)(B). Pub. L. 119–60, § 1804(a)(1)(B), substituted “$1,300,000,000 (based on fiscal year 2024 constant dollars)” for “$540,000,000 (based on fiscal year 1990 constant dollars)”. Subsec. (d)(1). Pub. L. 119–60, § 1804(a)(2), substituted “$2,000,000 (based on fiscal year 2024 constant dollars)” for “$750,000 (based on fiscal year 1980 constant dollars)”. 2021—Subsec. (a). Pub. L. 116–283, § 1806(c)(2)(A), redesignated par. (5) of section 2302 of this title as subsec. (a) of this section, realigned margin, inserted heading, and substituted “In this part (other than in sections 4292(e) and 4321), the term” for “The term”. Former third sentence of subsec. (a) designated (b). Subsec. (b). Pub. L. 116–283, § 1806(c)(2)(B), (C), after transfer of section 2302(5) of this title to subsec. (a) of this section, designated third sentence of subsec. (a) as (b), inserted heading, and substituted “system if—” and pars. (1) and (2) for “system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.” Subsec. (c). Pub. L. 116–283, § 1806(c)(3), redesignated subsec. (a) of section 2302d of this title as subsec. (c) of this section, substituted “subsection (b)” for “section 2302(5) of this title” in introductory provisions, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2). Subsec. (d). Pub. L. 116–283, § 1806(c)(3), redesignated subsec. (b) of section 2302d of this title as subsec. (d) of this section and substituted “subsection (b)” for “section 2302(5) of this title” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

@@ -1,0 +1,35 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8688"
+description: "Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(8), Dec. 18, 2025, 139 Stat. 948]"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "863"
+chapter_name: "NAVAL VESSELS"
+section: "8688"
+citation: "10 U.S.C. § 8688"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8688"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "c5a0d694925c5ccdf8ef1890883a69fa428fe3d41ceb36d99b58742b7b483bae"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "634b8921427f54460ca9cc6dc35b880054031a6c6149bbc9efa33948cc1ed789"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8688 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(8), Dec. 18, 2025, 139 Stat. 948]
+
+## Notes
+
+Section, Pub. L. 114–328, div. A, title X, § 1022(a)(1), Dec. 23, 2016, 130 Stat. 2388, § 7318; renumbered § 8688, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836, related to warranty requirements for shipbuilding contracts.
+
+A prior section 8688, act Aug. 10, 1956, ch. 1041, 70A Stat. 536, related to death gratuity payable to survivors of members of Air Force, prior to repeal by Pub. L. 85–861, § 36B(29), Sept. 2, 1958, 72 Stat. 1571. See sections 1475 to 1480 of this title.

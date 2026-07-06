@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 493"
+description: "Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "24"
+chapter_name: "NUCLEAR POSTURE"
+section: "493"
+citation: "10 U.S.C. § 493"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s493"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "1e87a382ad3e32de7df0c8a9cccae2afc7574c17ac7833b88ad9f8235a730a2e"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6eea5541cdb8237a6733370a2b831ade3771677bfd71421b23b4121a24ea4e6f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 493 - Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States
+
+## Text
+
+Whenever after December 31, 2011, the President proposes a modification of the force structure for the strategic nuclear weapons delivery systems of the United States, the President shall submit to Congress a report on the modification not less than 180 days before the intended effective date of the modification. The report shall include a description of the manner in which such modification will maintain for the United States a range of strategic nuclear weapons delivery systems appropriate for the current and anticipated threats faced by the United States when compared with the current force structure of strategic nuclear weapons delivery systems.
+
+(Added and amended Pub. L. 112–239, div. A, title X, § 1031(b)(3)(B), (C)(ii), Jan. 2, 2013, 126 Stat. 1918, 1919; Pub. L. 113–66, div. A, title X, § 1091(b)(5), Dec. 26, 2013, 127 Stat. 876; Pub. L. 117–81, div. A, title XVI, § 1634, Dec. 27, 2021, 135 Stat. 2091.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of this section is based on Pub. L. 112–81, div. A, title X, § 1077, Dec. 31, 2011, 125 Stat. 1596. Section 1077 of Pub. L. 112–81, formerly classified to section 2514 of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, § 1031(b)(3)(B)(i)–(iii).
+
+Amendments2021—Pub. L. 117–81 inserted “not less than 180 days before the intended effective date of the modification” after “report on the modification”. 2013—Pub. L. 112–239, § 1031(b)(3)(C)(ii), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above. Pub. L. 112–239, § 1031(b)(3)(B)(iv), as amended by Pub. L. 113–66, § 1091(b)(5), substituted “December 31, 2011,” for “the date of the enactment of this Act”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2013 AmendmentPub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(5) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.

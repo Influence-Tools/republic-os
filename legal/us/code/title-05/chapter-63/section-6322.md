@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 6322"
+description: "Leave for jury or witness service; official duty status for certain witness service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "63"
+chapter_name: "LEAVE"
+section: "6322"
+citation: "5 U.S.C. § 6322"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s6322"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "8dac965f1206d34c3f48d845064503b42373ba0fc178fb5d7cbb867be3ec8e96"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "d24b659dc253daa747b30f9cb8009d869c173205381e8416b345662c79c678a7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 6322 - Leave for jury or witness service; official duty status for certain witness service
+
+## Text
+
+(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is entitled to leave, without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance of efficiency rating, during a period of absence with respect to which he is summoned, in connection with a judicial proceeding, by a court or authority responsible for the conduct of that proceeding, to serve—
+
+(1) as a juror; or
+
+(2) other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
+
+in the District of Columbia, a State, territory, or possession of the United States including the Commonwealth of Puerto Rico or the Trust Territory of the Pacific Islands. For the purpose of this subsection, “judicial proceeding” means any action, suit, or other judicial proceeding, including any condemnation, preliminary, informational, or other proceeding of a judicial nature, but does not include an administrative proceeding.
+
+(b) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is performing official duty during the period with respect to which he is summoned, or assigned by his agency, to—
+
+(1) testify or produce official records on behalf of the United States or the District of Columbia; or
+
+(2) testify in his official capacity or produce official records on behalf of a party other than the United States or the District of Columbia.
+
+(c) The Office of Personnel Management may prescribe regulations for the administration of this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 91–563, § 1(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L. 94–310, § 1, June 15, 1976, 90 Stat. 687; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, § 1251, Sept. 27, 1979, 93 Stat. 476; Pub. L. 104–186, title II, § 215(10), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(8), Sept. 23, 1996, 110 Stat. 2869.)
+
+## Notes
+
+Historical and Revision Notes DerivationU.S. CodeRevised Statutes andStatutes at Large  5 U.S.C. 30n.June 29, 1940, ch. 446, § 1, 54 Stat. 689. Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+Editorial Notes
+
+Amendments1996—Subsec. (a). Pub. L. 104–201, in concluding provisions, substituted “Puerto Rico or” for “Puerto Rico,” and struck out “, or the Republic of Panama” after “Pacific Islands”. Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions. Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”. 1979—Subsec. (a). Pub. L. 96–70 substituted “the Trust Territory of the Pacific Islands, or the Republic of Panama” for “the Canal Zone, or the Trust Territory of the Pacific Islands”. 1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”. 1976—Subsec. (a)(2). Pub. L. 94–310 substituted “other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”. 1970—Pub. L. 91–563 included witness service and official duty status for certain witness service in section catchline. Subsec. (a). Pub. L. 91–563 designated existing provisions as subsec. (a) and expanded such provisions to authorize leave for jury service in courts in the District of Columbia and in territories and possessions of the United States, to permit leave for persons summoned as witnesses in behalf of a party other than the United States, the District of Columbia, or a private party, defined “judicial proceeding”, and excepted individuals whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives. Subsecs. (b), (c). Pub. L. 91–563 added subsecs. (b) and (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1979 AmendmentAmendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–310 effective Oct. 1, 1976, see section 4 of Pub. L. 94–310, set out as a note under section 4503 of Title 2, The Congress.
+
+Executive Documents
+
+Termination of Trust Territory of the Pacific Islands For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

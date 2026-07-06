@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1794"
+description: "Child abuse prevention and safety at facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "88"
+chapter_name: "MILITARY FAMILY PROGRAMS AND MILITARY CHILD CARE"
+section: "1794"
+citation: "10 U.S.C. § 1794"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1794"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "85ba604b2f0e0bd230e607d80547aab479c081b9626522ae32c998cb534f4935"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "36996474766ec168be0c940f7c20252f71fee8d4718a2b41c3674017b3045b62"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1794 - Child abuse prevention and safety at facilities
+
+## Text
+
+(a) Child Abuse Task Force.— The Secretary of Defense shall maintain a special task force to respond to allegations of widespread child abuse at a military installation. The task force shall be composed of personnel from appropriate disciplines, including, where appropriate, medicine, psychology, and childhood development. In the case of such allegations, the task force shall provide assistance to the commander of the installation, and to parents at the installation, in helping them to deal with such allegations.
+
+(b) National Hotline.— (1) The Secretary of Defense shall maintain a national telephone number for persons to use to report suspected child abuse or safety violations at a military child development center or family home day care site. The Secretary shall ensure that such reports may be made anonymously if so desired by the person making the report. The Secretary shall establish procedures for following up on complaints and information received over that number.
+
+(2) The Secretary shall publicize the existence of the number by means including—
+
+(A) posting it in public areas of military child development centers; and
+
+(B) providing it to the parents and legal guardians of children who attend military child development centers.
+
+(c) Assistance From Local Authorities.— The Secretary of Defense shall prescribe regulations requiring that, in a case of allegations of child abuse at a military child development center or family home day care site, the commander of the military installation or the head of the task force established under subsection (a) shall seek the assistance of local child protective authorities if such assistance is available.
+
+(d) Safety Regulations.— The Secretary of Defense shall prescribe regulations on safety and operating procedures at military child development centers. Those regulations shall apply uniformly among the military departments.
+
+(e) Inspections.— The Secretary of Defense shall require that each military child development center be inspected not less often than four times a year. Each such inspection shall be unannounced. At least one inspection a year shall be carried out by a representative of the installation served by the center, and one inspection a year shall be carried out by a representative of the major command under which that installation operates.
+
+(f) Remedies for Violations.— (1) Except as provided in paragraph (2), any violation of a safety, health, or child welfare law or regulation (discovered at an inspection or otherwise) at a military child development center shall be remedied immediately.
+
+(2) In the case of a violation that is not life threatening, the commander of the major command under which the installation concerned operates may waive the requirement that the violation be remedied immediately for a period of up to 90 days beginning on the date of the discovery of the violation. If the violation is not remedied as of the end of that 90-day period, the military child development center shall be closed until the violation is remedied. The Secretary of the military department concerned may waive the preceding sentence and authorize the center to remain open in a case in which the violation cannot reasonably be remedied within that 90-day period or in which major facility reconstruction is required.
+
+(g) Notification of Suspected Child Abuse.— (1) The Secretary of Defense shall prescribe regulations that require the director of a military child development center to notify a parent or guardian of a child who is the suspected victim of a covered incident not later than 24 hours after a child care employee at such military child development center learns of such covered incident.
+
+(2) The requirement under paragraph (1) shall not apply if notification under such paragraph threatens the integrity of a law enforcement investigation of such covered incident.
+
+(3) In this subsection, the term “covered incident” means alleged or suspected abuse or neglect of a child that occurs at a military child development center.
+
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 118–159, div. A, title V, § 584, Dec. 23, 2024, 138 Stat. 1912; Pub. L. 119–60, div. A, title V, § 581, Dec. 18, 2025, 139 Stat. 888.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (g). Pub. L. 119–60 added subsec. (g). 2024—Subsec. (b)(2). Pub. L. 118–159 substituted “number by means including—” for “number.” and added subpars. (A) and (B).

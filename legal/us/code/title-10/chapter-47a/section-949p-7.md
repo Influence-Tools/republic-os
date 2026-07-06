@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 949p–7"
+description: "Introduction of classified information into evidence"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "47A"
+chapter_name: "MILITARY COMMISSIONS"
+section: "949p–7"
+citation: "10 U.S.C. § 949p–7"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s949p–7"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "86b4e2ba885cd5b575aa482d9bb8afa2949399c9d0efeee39b69d7d3292e86d4"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "ac8c049958079c0a062b232e3416d6256efb3676b45492cca30da57e26134e63"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 949p–7 - Introduction of classified information into evidence
+
+## Text
+
+(a) Preservation of Classification Status.— Writings, recordings, and photographs containing classified information may be admitted into evidence in proceedings of military commissions under this chapter without change in their classification status.
+
+(b) Precautions by Military Judges.— (1) Precautions in admitting classified information into evidence.— The military judge in a trial by military commission, in order to prevent unnecessary disclosure of classified information, may order admission into evidence of only part of a writing, recording, or photograph, or may order admission into evidence of the whole writing, recording, or photograph with excision of some or all of the classified information contained therein, unless the whole ought in fairness be considered.
+
+(2) Classified information kept under seal.— The military judge shall allow classified information offered or accepted into evidence to remain under seal during the trial, even if such evidence is disclosed in the military commission, and may, upon motion by the United States, seal exhibits containing classified information for any period after trial as necessary to prevent a disclosure of classified information when a knowledgeable United States official possessing authority to classify information submits to the military judge a declaration setting forth the damage to the national security that the disclosure of such information reasonably could be expected to cause.
+
+(c) Taking of Testimony.— (1) Objection by trial counsel.— During the examination of a witness, trial counsel may object to any question or line of inquiry that may require the witness to disclose classified information not previously found to be admissible.
+
+(2) Action by military judge.— Following an objection under paragraph (1), the military judge shall take such suitable action to determine whether the response is admissible as will safeguard against the compromise of any classified information. Such action may include requiring trial counsel to provide the military judge with a proffer of the witness’ response to the question or line of inquiry and requiring the accused to provide the military judge with a proffer of the nature of the information sought to be elicited by the accused. Upon request, the military judge may accept an ex parte proffer by trial counsel to the extent necessary to protect classified information from disclosure, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.).
+
+(d) Disclosure at Trial of Certain Statements Previously Made by a Witness.— (1) Motion for production of statements in possession of the united states.— After a witness called by the trial counsel has testified on direct examination, the military judge, on motion of the accused, may order production of statements of the witness in the possession of the United States which relate to the subject matter as to which the witness has testified. This paragraph does not preclude discovery or assertion of a privilege otherwise authorized.
+
+(2) Invocation of privilege by the united states.— If the United States invokes a privilege, the trial counsel may provide the prior statements of the witness to the military judge during an ex parte presentation to the extent necessary to protect classified information from disclosure, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.).
+
+(3) Action by military judge on motion.— If the military judge finds that disclosure of any portion of the statement identified by the United States as classified would be detrimental to the national security in the degree to warrant classification under the applicable Executive Order, statute, or regulation, that such portion of the statement is consistent with the testimony of the witness, and that the disclosure of such portion is not necessary to afford the accused a fair trial, the military judge shall excise that portion from the statement. If the military judge finds that such portion of the statement is inconsistent with the testimony of the witness or that its disclosure is necessary to afford the accused a fair trial, the military judge, shall, upon the request of the trial counsel, review alternatives to disclosure in accordance with section 949p–6(d) of this title.
+
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2596.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Classified Information Procedures Act, referred to in subsecs. (c)(2) and (d)(2), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.

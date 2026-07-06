@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 2036"
+description: "Availability of commodities for emergency food assistance program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "51"
+chapter_name: "SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM"
+section: "2036"
+citation: "7 U.S.C. § 2036"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s2036"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "76a9bd7de7a3d2a5dd1a34caa1f0ea501b3014aea3196945bf0a85eaecd11858"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "94adbc08bea1998763cfe07d46d6fbb9c0d6b00911d044960717f2a0491c4573"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 2036 - Availability of commodities for emergency food assistance program
+
+## Text
+
+(a) Purchase of commodities (1) In general From amounts made available to carry out this chapter, for each of the fiscal years 2014 through 2023, the Secretary shall purchase a dollar amount described in paragraph (2) of a variety of nutritious and useful commodities of the types that the Secretary has the authority to acquire through the Commodity Credit Corporation or under section 612c of this title and distribute the commodities to States for distribution in accordance with section 7515 of this title.
+
+(2) Amounts The Secretary shall use to carry out paragraph (1)—
+
+(A) for fiscal year 2008, $190,000,000;
+
+(B) for fiscal year 2009, $250,000,000;
+
+(C) for each of fiscal years 2010 through 2023, the dollar amount of commodities specified in subparagraph (B) adjusted by the percentage by which the thrifty food plan has been adjusted under section 2012(u)(3) of this title between June 30, 2008, and June 30 of the immediately preceding fiscal year;
+
+(D) for each of fiscal years 2015 through 2023, the sum obtained by adding the total dollar amount of commodities specified in subparagraph (C) and—
+
+(i) for fiscal year 2015, $50,000,000;
+
+(ii) for fiscal year 2016, $40,000,000;
+
+(iii) for fiscal year 2017, $20,000,000;
+
+(iv) for fiscal year 2018, $15,000,000;
+
+(v) for fiscal year 2019, $23,000,000;
+
+(vi) for fiscal year 2020, $35,000,000;
+
+(vii) for fiscal year 2021, $35,000,000;
+
+(viii) for fiscal year 2022, $35,000,000; and
+
+(ix) for fiscal year 2023, $35,000,000; and
+
+(E) for fiscal year 2024 and each subsequent fiscal year, the total dollar amount of commodities specified in subparagraph (D)(ix) adjusted by the percentage by which the thrifty food plan has been adjusted under section 2012(u)(3) of this title to reflect changes between June 30, 2023, and June 30 of the immediately preceding fiscal year.
+
+(3) Funds availability For purposes of the funds described in this subsection, the Secretary shall—
+
+(A) make the funds available for 2 fiscal years; and
+
+(B) allow States to carry over unexpended balances to the next fiscal year pursuant to such terms and conditions as are determined by the Secretary.
+
+(b) Basis for commodity purchases In purchasing commodities under subsection (a), the Secretary shall, to the extent practicable and appropriate, make purchases based on—
+
+(1) agricultural market conditions;
+
+(2) preferences and needs of States and distributing agencies; and
+
+(3) preferences of recipients.
+
+(Pub. L. 88–525, § 27, as added Pub. L. 104–193, title VIII, § 871(g), Aug. 22, 1996, 110 Stat. 2346; amended Pub. L. 107–171, title IV, § 4126(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, § 4201(a), May 22, 2008, 122 Stat. 1120; Pub. L. 110–246, § 4(a), title IV, § 4201(a), June 18, 2008, 122 Stat. 1664, 1882; Pub. L. 113–79, title IV, §§ 4027(a), 4030(m), Feb. 7, 2014, 128 Stat. 812, 814; Pub. L. 115–334, title IV, § 4018(e), Dec. 20, 2018, 132 Stat. 4650; Pub. L. 119–21, title I, § 10101(b)(3), July 4, 2025, 139 Stat. 81.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2025—Subsec. (a)(2). Pub. L. 119–21 substituted “section 2012(u)(3)” for “section 2012(u)(4)” in subpars. (C) and (E). 2018—Subsec. (a)(1), (2)(C). Pub. L. 115–334, § 4018(e)(1), (2)(A), substituted “2023” for “2018”. Subsec. (a)(2)(D). Pub. L. 115–334, § 4018(e)(2)(B)(i), substituted “2023” for “2018” in introductory provisions. Subsec. (a)(2)(D)(v) to (ix). Pub. L. 115–334, § 4018(e)(2)(B)(ii), added cls. (v) to (ix). Subsec. (a)(2)(E). Pub. L. 115–334, § 4018(e)(2)(C), substituted “2024” for “2019”, “subparagraph (D)(ix)” for “subparagraph (D)(iv)”, and “June 30, 2023” for “June 30, 2017”. 2014—Subsec. (a)(1). Pub. L. 113–79, § 4030(m), made technical amendment to reference in original act which appears in text as reference to section 7515 of this title. Pub. L. 113–79, § 4027(a)(1), substituted “2014 through 2018” for “2008 through 2012”. Subsec. (a)(2)(C). Pub. L. 113–79, § 4027(a)(2)(B)(i), substituted “2018” for “2012”. Subsec. (a)(2)(D), (E). Pub. L. 113–79, § 4027(a)(2)(A), (B)(ii), (C), added subpars. (D) and (E). Subsec. (a)(3). Pub. L. 113–79, § 4027(a)(3), added par. (3). 2008—Subsec. (a). Pub. L. 110–246, § 4201(a), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, substituted “for each of the fiscal years 2008 through 2012, the Secretary shall purchase a dollar amount described in paragraph (2)” for “for each of fiscal years 2002 through 2007, the Secretary shall purchase $140,000,000”, and added par. (2). 2002—Subsec. (a). Pub. L. 107–171 substituted “2002 through 2007” for “1997 through 2002” and “$140,000,000” for “$100,000,000”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title. Amendment by section 4201(a) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
+Effective Date of 2002 AmendmentPub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided that: “The amendments made by this section amending this section] take effect on October 1, 2001.”

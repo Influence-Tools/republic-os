@@ -1,0 +1,115 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 605"
+description: "Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "35"
+chapter_name: "TEMPORARY APPOINTMENTS IN OFFICER GRADES"
+section: "605"
+citation: "10 U.S.C. § 605"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s605"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "5034c5b0617af5187e143afd4330c1cd6c6fa312b6fcc7f17ad3a13007089820"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "c74477e83159a0f5294335386658eb87ac8200120e1e493e01cb543d5d4721bc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 605 - Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant
+
+## Text
+
+(a) In General.— An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+
+(b) Covered Officers.— An officer described in this subsection is any officer in a grade specified in subsection (a) who—
+
+(1) has a skill in which the armed force concerned has a critical shortage of personnel (as determined by the Secretary of the military department concerned); and
+
+(2) is serving in a position (as determined by the Secretary of the military department concerned) that—
+
+(A) is designated to be held by a captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable; and
+
+(B) requires that an officer serving in such position have the skill possessed by such officer.
+
+(c) Preservation of Position and Status of Officers Appointed.— An appointment under this section does not change the position on the active-duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+
+(d) Board Recommendation Required.— A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary of the military department concerned for the purpose of recommending officers for such promotions.
+
+(e) Acceptance and Effective Date of Appointment.— Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of the temporary promotion under this section from the date the appointment is made.
+
+(f) Termination of Appointment.— Unless sooner terminated, an appointment under this section terminates—
+
+(1) on the date the officer who received the appointment is promoted to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy; or
+
+(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, in which case the appointment terminates on the date the officer is promoted to that grade.
+
+(g) Limitation on Number of Eligible Positions.— An appointment under this section may only be made for service in a position designated by the Secretary of the military department concerned for the purposes of this section. The number of positions so designated may not exceed the following:
+
+(1) In the case of the Army—
+
+(A) as captain, 120;
+
+(B) as major, 350;
+
+(C) as lieutenant colonel, 200; and
+
+(D) as colonel, 100.
+
+(2) In the case of the Air Force—
+
+(A) as captain 95;
+
+(B) as major, 305;
+
+(C) as lieutenant colonel, 165; and
+
+(D) as colonel, 75.
+
+(3) In the case of the Space Force—
+
+(A) as captain, 5;
+
+(B) as major, 20;
+
+(C) as lieutenant colonel, 10; and
+
+(D) as colonel, 5.
+
+(4) In the case of the Marine Corps—
+
+(A) as captain, 50;
+
+(B) as major, 175;
+
+(C) as lieutenant colonel, 100; and
+
+(D) as colonel, 50.
+
+(5) In the case of the Navy—
+
+(A) as lieutenant, 100;
+
+(B) as lieutenant commander, 425;
+
+(C) as commander, 175; and
+
+(D) as captain, 80.
+
+(Added Pub. L. 115–232, div. A, title V, § 503(a)(1), Aug. 13, 2018, 132 Stat. 1740; amended Pub. L. 118–31, div. A, title V, § 505, title XVII, § 1716(d), Dec. 22, 2023, 137 Stat. 241, 653.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2023—Pub. L. 118–31, § 1716(d)(1), substituted “Marine Corps, or Space Force,” for “or Marine Corps,” wherever appearing. Subsec. (g)(2) to (4). Pub. L. 118–31, § 1716(d)(2), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “In the case of the Air Force— “(A) as captain, 100; “(B) as major, 325; “(C) as lieutenant colonel, 175; and “(D) as colonel, 80.” Former par. (4) redesignated (5). Subsec. (g)(4)(B). Pub. L. 118–31, § 505, substituted “425” for “325”. Subsec. (g)(5). Pub. L. 118–31, § 1716(d)(2), redesignated par. (4) as (5).

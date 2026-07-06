@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1090"
+description: "Identifying and treating drug and alcohol dependence"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "55"
+chapter_name: "MEDICAL AND DENTAL CARE"
+section: "1090"
+citation: "10 U.S.C. § 1090"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1090"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "c62b1f5a673e7e7645109cebcca7145fe16f9503f733c97b00cc21315b253f66"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "d910bfb7775f03f6404d064793dd6e1070d18e9e4a092fe33cb1e7d728760ed2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1090 - Identifying and treating drug and alcohol dependence
+
+## Text
+
+The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations, implement procedures using each practical and available method, and provide necessary facilities to identify, treat, and rehabilitate members of the armed forces who are dependent on drugs or alcohol.
+
+(Added Pub. L. 97–295, § 1(15)(A), Oct. 12, 1982, 96 Stat. 1290; amended Pub. L. 98–94, title XII, § 1268(7), Sept. 24, 1983, 97 Stat. 706; Pub. L. 101–510, div. A, title V, § 553, Nov. 5, 1990, 104 Stat. 1567; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 109010:1071 (note).Sept. 28, 1971, Pub. L. 92–129, § 501(a)(1), 85 Stat. 361. The word “regulations” is added for consistency. The word “persons” is omitted as surplus.
+
+Editorial Notes
+
+Amendments2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”. 1990—Pub. L. 101–510 inserted “, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy,” after “Secretary of Defense”. 1983—Pub. L. 98–94 struck out “(a)” before “The Secretary of Defense”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
+Naloxone and Fentanyl: Regulations; BriefingPub. L. 118–31, div. A, title VII, § 706, Dec. 22, 2023, 137 Stat. 301, provided that: “(a) Regulations.—Not later than January 1, 2025, the Secretary of Defense, in coordination with the Secretaries of the military departments shall prescribe regulations regarding naloxone and fentanyl on military installations. Such regulations shall—“(1) ensure that naloxone is available for members of the Armed Forces—“(A) on all military installations; and “(B) in each operational environment; and “(2) establish a standardized tracking system—“(A) for naloxone distributed under paragraph (1); and “(B) of the illegal use of fentanyl and other controlled substances in the military departments. “(b) Briefing.—Not later than June 1, 2025, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a briefing regarding naloxone and fentanyl. Such briefing shall include the following elements:“(1) Progress in the implementation of regulations prescribed under subsection (a). “(2) The prevalence and incidence of the illegal use of fentanyl and other controlled substances in the military departments during the five years preceding the briefing. “(3) Processes of the military departments to mitigate substance abuse, particularly with regards to fentanyl. “(c) Naloxone Defined.—In this section, the term ‘naloxone’ means naloxone and any other medication used to reverse opioid overdose.”
+
+Pilot Program on Opioid Management in the Military Health SystemPub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, as amended by Pub. L. 117–263, div. A, title VII, § 719, Dec. 23, 2022, 136 Stat. 2662, provided that: “(a) Pilot Program.—“(1) In general.—Except as provided in subsection (e), beginning not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Director of the Defense Health Agency shall implement a comprehensive pilot program to assess the feasability [sic] and advisability of mechanisms to minimize early exposure of beneficiaries under the TRICARE program to opioids and to prevent the progression of beneficiaries to misuse or abuse of opioid medications. “(2) Opioid safety across continuum of care.—The pilot program shall include elements to maximize opioid safety across the entire continuum of care consisting of patient, physician or dentist, and pharmacist. “(b) Elements of Pilot Program.—The pilot program shall include the following:“(1) Identification of potential misuse or abuse of opioid medications in pharmacies of military treatment facilities, retail network pharmacies, and the home delivery pharmacy, and the transmission of alerts regarding such potential misuse or abuse of opioids to prescribing physicians and dentists. “(2) Direct engagement with, education for, and management of beneficiaries under the TRICARE program to help such beneficiaries avoid misuse or abuse of opioid medications. “(3) Proactive outreach by specialist pharmacists to beneficiaries under the TRICARE program when identifying potential misuse or abuse of opioid medications. “(4) Monitoring of beneficiaries under the TRICARE program through the use of predictive analytics to identify the potential for opioid abuse and addiction before beneficiaries begin an opioid prescription. “(5) Detection of fraud, waste, and abuse in connection with opioids. “(c) Duration.—“(1) In general.—Except as provided in paragraph (2), the Director shall carry out the pilot program for a period of not more than three years. “(2) Expansion.—The Director may carry out the pilot program on a permanent basis if the Director determines that the mechanisms under the pilot program successfully reduce early opioid exposure in beneficiaries under the TRICARE program and prevent the progression of beneficiaries to misuse or abuse of opioid medications. “(d) Report.—“(1) In general.—Not later than 180 days before completion of the pilot program, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. “(2) Elements.—The report required by paragraph (1) shall include the following:“(A) A description of the pilot program, including outcome measures developed to determine the overall effectiveness of the mechanisms under the pilot program. “(B) A description of the ability of the mechanisms under the pilot program to identify misuse and abuse of opioid medications among beneficiaries under the TRICARE program in each pharmacy venue of the pharmacy program of the military health system. “(C) A description of the impact of the use of predictive analytics to monitor beneficiaries under the TRICARE program in order to identify the potential for opioid abuse and addiction before beneficiaries begin an opioid prescription. “(D) A description of any reduction in the misuse or abuse of opioid medications among beneficiaries under the TRICARE program as a result of the pilot program. “(e) Alternative Initiative to Improve Opioid Management.—As an alternative to the pilot program under this section, the Director of the Defense Health Agency, not later than January 1, 2023—“(1) may implement a permanent program to improve opioid management for beneficiaries under the TRICARE program; and “(2) if the Director decides to implement such a permanent program, shall submit to the Committees on Armed Services of the Senate and the House of Representatives the specifications of and reasons for implementing such program. “(f) TRICARE Program Defined.—In this section, the term ‘TRICARE program’ has the meaning given that term in section 1072 of title 10, United States Code.”

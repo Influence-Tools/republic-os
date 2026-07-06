@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 9272"
+description: "Air Force cross: award"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "937"
+chapter_name: "DECORATIONS AND AWARDS"
+section: "9272"
+citation: "10 U.S.C. § 9272"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s9272"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "2d5e61ca6a5e8ff40f10c5df57b1e56df9c73116cfcf6530b61b0667d1e9fbfa"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "c91153159b45897b6281d088191d9adbabffccd56132c431175aa35ad37d1abc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 9272 - Air Force cross: award
+
+## Text
+
+The President may award an Air Force cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force or the Space Force, distinguishes himself by extraordinary heroism not justifying the award of a medal of honor—
+
+(1) while engaged in an action against an enemy of the United States;
+
+(2) while engaged in military operations involving conflict with an opposing foreign force; or
+
+(3) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 540, § 8742; Pub. L. 86–593, § 1(1), July 6, 1960, 74 Stat. 331; Pub. L. 88–77, § 3(2), July 25, 1963, 77 Stat. 94; renumbered § 9272, Pub. L. 115–232, div. A, title VIII, § 806(b)(11), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(c)(12)(A)(ii), Jan. 1, 2021, 134 Stat. 3811.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 874210:1406.July 9, 1918, ch. 143 (9th par. under “Ordnance Department”), 40 Stat. 870. The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words “since the 6th day of April, 1917” are omitted as executed. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words “or herself” are omitted, since, under section 1 of title 1, words importing the masculine gender include the feminine. The words “or who shall hereafter distinguish” are omitted as surplusage.
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” in introductory provisions. 2018—Pub. L. 115–232 renumbered section 8742 of this title as this section. 1963—Pub. L. 88–77 enlarged the authority to award the Air Force cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying the award of a medal of honor, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party. 1960—Pub. L. 86–593 substituted “Air Force cross” for “Distinguished-service cross” in section catchline, and substituted “an Air Force cross” for “a distinguished-service cross” in text.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+References to Distinguished-Service Cross and Soldier’s Medal Considered Made to Air Force Cross and Airman’s MedalPub. L. 86–593, § 3, July 6, 1960, 74 Stat. 332, provided that: “References that other laws, regulations, and orders make, with respect to the Air Force, to the distinguished-service cross and the Soldier’s Medal shall be considered to be made to the Air Force cross and the Airman’s Medal, respectively.”

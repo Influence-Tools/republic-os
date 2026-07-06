@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 228b–4"
+description: "Violation of final order by live poultry dealer; penalty"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "9"
+chapter_name: "PACKERS AND STOCKYARDS"
+section: "228b–4"
+citation: "7 U.S.C. § 228b–4"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s228b–4"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "d1ded6d0521568bb6c81606064a52248de2fde2ff024aaca0667c44497e7d071"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "2368c4d9db999efcc9a7383445e647c6117db9eb3a85839f35e0963cf87c112e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 228b–4 - Violation of final order by live poultry dealer; penalty
+
+## Text
+
+Any live poultry dealer, or any officer, director, agent, or employee of a live poultry dealer, who fails to obey any order of the Secretary issued under the provisions of section 228b–2 of this title, or such order as modified—
+
+(1) after the expiration of the time allowed for filing a petition in the court of appeals to set aside or modify such order, if no such petition has been filed within such time;
+
+(2) after the expiration of the time allowed for applying for a writ of certiorari, if such order, or such order as modified, has been sustained by the court of appeals and no such writ has been applied for within such time; or
+
+(3) after such order, or such order as modified, has been sustained by the courts as provided in section 228b–3 of this title;
+
+shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
+
+(Aug. 15, 1921, ch. 64, title IV, § 413, as added Pub. L. 100–173, § 9(2), Nov. 23, 1987, 101 Stat. 922.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.

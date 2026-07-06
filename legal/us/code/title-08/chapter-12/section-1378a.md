@@ -1,0 +1,109 @@
+---
+type: "LegalText"
+title: "8 U.S.C. § 1378a"
+description: "Report on aliens detained"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 8
+title_name: "ALIENS AND NATIONALITY"
+chapter_number: "12"
+chapter_name: "IMMIGRATION AND NATIONALITY"
+section: "1378a"
+citation: "8 U.S.C. § 1378a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc08@119-100.zip"
+source_identifier: "/us/usc/t8/s1378a"
+source_file: "data/legal/raw/us/code/title-08/usc08.xml"
+source_hash: "8782548ee6b53837ada11d4bffe7ec8057fb7bc09b5de1a9c437c97cbdd46892"
+raw_snapshot_hash: "18cbd9dd4172ad0473c6dc52e038b813f80124d17167f025c00b9dfa60060a0c"
+text_hash: "e887bda9e27c3d00399573afc799d5ffd8caf09e9e3fe8880970fd58b8b3e283"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 8 U.S.C. § 1378a - Report on aliens detained
+
+## Text
+
+Not later than 7 days after December 20, 2019, and updated semimonthly thereafter, the Director of U.S. Immigration and Customs Enforcement shall make available a report, on a publicly accessible website in a downloadable, searchable, and sortable format, with not less than the previous twelve months of semimonthly data as of the last date of each such reporting period; on—
+
+(1) aliens detained by such agency, including data disaggregated by single adults and members of family units on—
+
+(A) the average fiscal year-to-date daily populations of aliens detained;
+
+(B) the daily count of aliens detained;
+
+(C) the fiscal year-to-date total for book-ins;
+
+(D) the average lengths of stay, including average post-determination length of stay in the case of detainees described in subparagraph (F);
+
+(E) the number transferred to the custody of U.S. Immigration and Customs Enforcement by U.S. Customs and Border Protection after being—
+
+(i) deemed inadmissible at a port of entry or after being apprehended within 14 days of entering the United States; or
+
+(ii) arrested by U.S. Immigration and Customs Enforcement;
+
+(F) the number determined to have a credible or reasonable fear of—
+
+(i) persecution, as defined in section 1225(b)(1)(B)(v) of this title; or
+
+(ii) torture, as defined in section 208.30 of title 8, Code of Federal Regulations (as in effect on January 1, 2018); and
+
+(G) the number who have been issued a Notice to Appear pursuant to section 1229 of this title, disaggregated by single adults and members of family units; 11 See Additional Reporting Requirements note below.
+
+(2) the total number of enrollees in the Alternatives to Detention program and the average length of participation, disaggregated by—
+
+(A) single adults and family heads of household;
+
+(B) participants in the family case management program;
+
+(C) level of supervision; and
+
+(D) location of supervision, by field office;
+
+(3) for each facility where aliens are detained by U.S. Immigration and Customs Enforcement—
+
+(A) the address;
+
+(B) the field offices that assign detainees to the facility;
+
+(C) the detailed facility type, as defined in the integrated decision support system;
+
+(D) the gender of aliens detained;
+
+(E) the average daily population of detainees within each detainee classification level, as defined in the integrated decision support system;
+
+(F) the average daily population of individuals within each threat level, as defined in the integrated decision support system;
+
+(G) the average daily population within each criminality category, as defined in the integrated decision support system, disaggregated by gender;
+
+(H) the average length of stay;
+
+(I) the average daily population of individuals whose detention is classified as mandatory;
+
+(J) the performance standards to which the facility is held;
+
+(K) the date of the two most recent inspections, the entity that performed each inspection, and a detailed summary of the results of such inspections; and
+
+(L) the guaranteed minimum detention capacity, if applicable; and
+
+(4) the total number of releases from custody, by condition of release, and total number of removals, disaggregated by adult facilities and family facilities.
+
+(Pub. L. 116–93, div. D, title II, § 218, Dec. 20, 2019, 133 Stat. 2514.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Department of Homeland Security Appropriations Act, 2020, and also as part of the Consolidated Appropriations Act, 2020, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+Prior ProvisionsSimilar provisions were contained in the following prior appropriation acts: Pub. L. 116–6, div. A, title II, § 226, Feb. 15, 2019, 133 Stat. 27.
+
+Statutory Notes and Related Subsidiaries
+
+Additional Reporting RequirementsPub. L. 118–47, div. C, title II, § 215, Mar. 23, 2024, 138 Stat. 604, provided that: “The reports required to be submitted under section 216 of the Department of Homeland Security Appropriations Act, 2021 (division F of Public Law 116–260) [set out below] shall continue to be submitted semimonthly and each matter required to be included in such reports by such section 216 shall apply in the same manner and to the same extent during the period described in such section 216.” Similar provisions were contained in the following prior appropriation acts: Pub. L. 117–328, div. F, title II, § 216, Dec. 29, 2022, 136 Stat. 4736. Pub. L. 117–103, div. F, title II, § 217, Mar. 15, 2022, 136 Stat. 323. Pub. L. 116–260, div. F, title II, § 216, Dec. 27, 2020, 134 Stat. 1457, provided that: “The reports required to be submitted under section 218 of the Department of Homeland Security Appropriations Act, 2020 (division D of Public Law 116–93) [8 U.S.C. 1378a] shall continue to be submitted with respect to the period beginning 15 days after the date of the enactment of this Act [Dec. 27, 2020] and semimonthly thereafter, and each matter required to be included in such report by such section 218 shall apply in the same manner and to the same extent during the period described in this section, except that for purposes of reports submitted with respect to such period described, the following additional requirements shall be treated as being included as subparagraphs (H) through (J) of paragraph (1) of such section 218— “(1) the average lengths of stay, including average post-determination length of stay in the case of detainees described in subparagraph (F), for individuals who remain in detention as of the last date of each such reporting period; “(2) the number who have been in detention, disaggregated by the number of detainees described in subparagraph (F), for each of the following—“(A) over 2 years; “(B) from over 1 year to 2 years; “(C) from over 6 months to 1 year; and “(D) for less than 6 months; and “(3) the number of individuals described in section 115.5 of title 28, Code of Federal Regulations, including the use and duration of solitary confinement for such person.”

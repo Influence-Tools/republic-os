@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 8474"
+description: "Executive Director"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "84"
+chapter_name: "FEDERAL EMPLOYEES’ RETIREMENT SYSTEM"
+section: "8474"
+citation: "5 U.S.C. § 8474"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s8474"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "4be92a00f70b8699fd6431cf9447414ac6ce30bc27daf7381332295e7cc1a976"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "9c1e63133f93a525ab2998253c2b05569f91c2d7ecb8b2b060534fa38595fc78"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 8474 - Executive Director
+
+## Text
+
+(a) (1) The Board shall appoint, without regard to the provisions of law governing appointments in the competitive service, an Executive Director by action agreed to by a majority of the members of the Board.
+
+(2) The Executive Director shall have substantial experience, training, and expertise in the management of financial investments and pension benefit plans.
+
+(b) The Executive Director shall—
+
+(1) carry out the policies established by the Board;
+
+(2) invest and manage the Thrift Savings Fund in accordance with the investment policies and other policies established by the Board;
+
+(3) purchase annuity contracts and provide for the payment of other benefits under subchapter III of this chapter;
+
+(4) administer the provisions of this subchapter and subchapter III of this chapter;
+
+(5) prescribe such regulations (other than regulations relating to fiduciary responsibilities) as may be necessary for the administration of this subchapter and subchapter III of this chapter; and
+
+(6) meet from time to time with the Council upon request of the Council.
+
+(c) The Executive Director may—
+
+(1) prescribe such regulations as may be necessary to carry out the responsibilities of the Executive Director under this section, other than regulations relating to fiduciary responsibilities;
+
+(2) appoint such personnel as may be necessary to carry out the provisions of this subchapter and subchapter III of this chapter;
+
+(3) subject to approval by the Board, procure the services of experts and consultants under section 3109 of this title;
+
+(4) secure directly from an Executive agency, the United States Postal Service, or the Postal Regulatory Commission any information necessary to carry out the provisions of this subchapter or subchapter III of this chapter and policies of the Board;
+
+(5) make such payments out of sums in the Thrift Savings Fund as the Executive Director determines are necessary to carry out the provisions of this subchapter and subchapter III of this chapter and the policies of the Board;
+
+(6) pay the compensation, per diem, and travel expenses of individuals appointed under paragraphs (2), (3), and (7) of this subsection from the Thrift Savings Fund;
+
+(7) accept and use the services of individuals employed intermittently in the Government service and reimburse such individuals for travel expenses, as authorized by section 5703 of this title, including per diem as authorized by section 5702 of this title;
+
+(8) except as otherwise expressly prohibited by law or the policies of the Board, delegate any of the Executive Director’s functions to such employees under the Board as the Executive Director may designate and authorize such successive redelegations of such functions to such employees under the Board as the Executive Director may consider to be necessary or appropriate; and
+
+(9) take such other actions as are appropriate to carry out the functions of the Executive Director.
+
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 580; amended Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2006—Subsec. (c)(4). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.

@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2276a"
+description: "Special authority for provision of space launch support services to increase space launch capacity"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "135"
+chapter_name: "SPACE PROGRAMS"
+section: "2276a"
+citation: "10 U.S.C. § 2276a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2276a"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "1a3a479ecbc5459b65c62217c880c2260d3ce5721c64fa89a193f05e2409e8e9"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "c8104d9872e496596694375152c58ce312af6c4678fcdd5d6049d9ae3da8f174"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2276a - Special authority for provision of space launch support services to increase space launch capacity
+
+## Text
+
+(a) In General.— The Secretary of a military department may support Federal and commercial space launch capacity on any domestic real property under the control of the Secretary through the provision of space launch support services.
+
+(b) Provision of Launch Equipment and Services to Commercial Entities.— (1) Contract or other transaction authority.— The Secretary of a military department may enter into a contract or other transaction with one or more commercial entities that intend to conduct space launch activities on a military installation under the jurisdiction of the Secretary. Under such a contract or agreement, the Secretary may agree to provide to the commercial entity supplies, services, equipment, and construction needed for commercial space launch.
+
+(2) Costs.— (A) Direct costs.— If the Secretary of a military department enters into a contract or other transaction with a commercial entity under paragraph (1), such contract or transaction shall include a provision that requires the commercial entity to reimburse the Department of Defense for all direct costs to the United States that are associated with any good, service, or equipment provided to the commercial entity under the contract or other transaction.
+
+(B) Indirect costs.— If the Secretary of a military department enters into a contract or other transaction with a commercial entity under paragraph (1), such contract or transaction may include a provision that requires the commercial entity to reimburse the Department of Defense for such indirect costs as the Secretary considers to be appropriate. In such a case, such contract or other transaction may provide for the reimbursement of such indirect costs through the establishment of a rate, fixed price, or similar mechanism the Secretary concerned determines is reasonable.
+
+(3) Retention of funds collected from commercial users.— Any amount collected from a commercial entity as a reimbursement under paragraph (2) shall be credited to the appropriations account from which the cost for which such reimbursement is provided was derived.
+
+(4) Regulations.— The Secretary of each of the military departments shall prescribe regulations to carry out this subsection.
+
+(c) Noise Mitigation at Space Force Launch Sites.— In providing space launch support services to a commercial entity, the Secretary of the Air Force shall coordinate with the entity to—
+
+(1) study the noise caused by launches at launch sites of the Space Force; and
+
+(2) identify potential technologies and procedures to mitigate such noise to the extent practicable.
+
+(d) Definitions.— In this section:
+
+(1) Space launch.— The term “space launch” includes all activities, supplies, equipment, facilities, or services supporting launch preparation, launch, reentry, recovery, and other launch-related activities for both the payload and the space transportation vehicle.
+
+(2) Commercial entity.— The term “commercial entity” or “commercial” means a non-Federal entity organized under the laws of the United States or of any jurisdiction within the United States.
+
+(e) Transition Limitations and Reporting Requirements.— For each of fiscal years 2024, 2025, and 2026, the Secretary of a military department shall—
+
+(1) with respect to any contract or other transaction authority entered into pursuant to subsection (b), limit the amount of the indirect costs that are reimbursable under paragraph (2)(B) of such subsection to not more than 30 percent, not to exceed $5,000,000 annually (based on fiscal year 2024 constant dollars), of the total amount of the direct costs reimbursable under paragraph (2)(A) of such subsection; and
+
+(2) not later than 90 days after the last day of each such fiscal year, provide for each of the congressional defense committees a briefing that includes—
+
+(A) an identification of the total amounts of direct and indirect costs reimbursed to each spaceport for the fiscal year covered by the report;
+
+(B) a description of the support provided by reimbursed indirect costs for the fiscal year covered by the report; and
+
+(C) an identification of the rate, fixed price, or similar mechanism, if any, used to calculate the amount of the indirect costs that are reimbursable for the fiscal year following the fiscal year covered by the report.
+
+(Added Pub. L. 118–31, div. A, title XVI, § 1603, Dec. 22, 2023, 137 Stat. 584; amended Pub. L. 119–60, div. A, title XVI, § 1602, Dec. 18, 2025, 139 Stat. 1175.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsecs. (c) to (e). Pub. L. 119–60 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.

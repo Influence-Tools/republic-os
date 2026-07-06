@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4509"
+description: "Contracts for advisory and assistance services: cost comparison studies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "341"
+chapter_name: "ACQUISITION OF SERVICES GENERALLY"
+section: "4509"
+citation: "10 U.S.C. § 4509"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4509"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "2250d9a9458a71f8e1ddc91f0ed57f20d0543cb79e0b25aff5be0c994f3337a5"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6f3dedfe4e84c5382869784d2ee6c1ae116a0612a9485f2edf205920754e01e2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4509 - Contracts for advisory and assistance services: cost comparison studies
+
+## Text
+
+(a) Requirement.— (1) (A) Before the Secretary of Defense enters into a contract described in subparagraph (B), the Secretary shall determine whether Department of Defense personnel have the capability to perform the services proposed to be covered by the contract.
+
+(B) Subparagraph (A) applies to any contract of the Department of Defense for advisory and assistance services that is expected to have a value in excess of $100,000.
+
+(2) If the Secretary determines that Department of Defense personnel have the capability to perform the services to be covered by the contract, the Secretary shall conduct a study comparing the cost of performing the services with Department of Defense personnel and the cost of performing the services with contractor personnel.
+
+(b) Waiver.— The Secretary of Defense may, pursuant to guidelines prescribed by the Secretary, waive the requirement to perform a cost comparison study under subsection (a)(2) based on factors that are not related to cost.
+
+(Added Pub. L. 103–337, div. A, title III, § 363(a)(1), Oct. 5, 1994, 108 Stat. 2733, § 2410l; renumbered § 4509, Pub. L. 116–283, div. A, title XVIII, § 1856(g), Jan. 1, 2021, 134 Stat. 4275.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 4531, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, authorized Secretary of the Army to procure materials and facilities necessary to maintain and support the Army, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 823(2), Nov. 30, 1993, 107 Stat. 1707. A prior section 4532 was renumbered section 7532 of this title. Prior sections 4533 to 4535 were repealed by Pub. L. 103–160, div. A, title VIII, § 823(3)–(5), Nov. 30, 1993, 107 Stat. 1707. Section 4533, act Aug. 10, 1956, ch. 1041, 70A Stat. 254, related to purchases of army rations. Section 4534, act Aug. 10, 1956, ch. 1041, 70A Stat. 254, related to subsistence supplies, contract stipulations, and place of delivery on inspection. Section 4535, act Aug. 10, 1956, ch. 1041, 70A Stat. 254, provided that exceptional subsistence supplies could be purchased without advertising. A prior section 4536 was renumbered section 7536 of this title. Prior sections 4537 and 4538 were repealed by Pub. L. 103–160, div. A, title VIII, § 823(6), (7), Nov. 30, 1993, 107 Stat. 1707. Section 4537, acts Aug. 10, 1956, ch. 1041, 70A Stat. 254; Nov. 2, 1966, Pub. L. 89–718, § 8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, § 512(14), 94 Stat. 2930, authorized Secretary of the Army to obtain assistance of United States mapping agencies in making and developing military surveys and maps. Section 4538, acts Aug. 10, 1956, ch. 1041, 70A Stat. 255; Dec. 12, 1980, Pub. L. 96–513, title V, § 512(15), 94 Stat. 2930, related to exchange and reclamation of unserviceable ammunition. A prior section 4539, act Aug. 10, 1956, ch. 1041, 70A Stat. 255, provided for purchase of horses and mules in open market at Army posts, within maximum prices prescribed by Secretary of the Army, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082. A prior section 4540 was renumbered section 7540 of this title. Another prior section 4541 was renumbered section 7541 of this title. Prior sections 4542 to 4544, 4551 to 4555, and 4561 to 4565 were renumbered sections 7542 to 7544, 7551 to 7555, and 7561 to 7565 of this title, respectively.
+
+Amendments2021—Pub. L. 116–283 renumbered section 2410l of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DatePub. L. 103–337, div. A, title III, § 363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: “Section 2410l of title 10, United States Code [now 10 U.S.C. 4509], as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 5, 1994].”
+
+Procedures for Conduct of StudiesPub. L. 103–337, div. A, title III, § 363(b), Oct. 5, 1994, 108 Stat. 2734, provided that: “The Secretary of Defense shall prescribe the following procedures: “(1) Procedures for carrying out a cost comparison study under subsection (a)(2) of section 2410l of title 10, United States Code [now 10 U.S.C. 4509(a)(2)], as added by subsection (a), which may contain a requirement that the cost comparison study include consideration of factors that are not related to cost, including the quality of the service required to be performed, the availability of Department of Defense personnel, the duration and recurring nature of the services to be performed, and the consistency of the workload. “(2) Procedures for reviewing contracts entered into after a waiver under subsection (b) of such section to determine whether the contract is justified and sufficiently documented.”

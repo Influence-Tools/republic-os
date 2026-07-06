@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "8 U.S.C. § 1321"
+description: "Prevention of unauthorized landing of aliens"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 8
+title_name: "ALIENS AND NATIONALITY"
+chapter_number: "12"
+chapter_name: "IMMIGRATION AND NATIONALITY"
+section: "1321"
+citation: "8 U.S.C. § 1321"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc08@119-100.zip"
+source_identifier: "/us/usc/t8/s1321"
+source_file: "data/legal/raw/us/code/title-08/usc08.xml"
+source_hash: "95012c72e0c1fc41068454346d0c3c0d85d82be1b0ebb856588f81dd01227df3"
+raw_snapshot_hash: "18cbd9dd4172ad0473c6dc52e038b813f80124d17167f025c00b9dfa60060a0c"
+text_hash: "c0c65f20222323150fbe3a013690b71ab9117de27db74ddcb610cf815160b62c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 8 U.S.C. § 1321 - Prevention of unauthorized landing of aliens
+
+## Text
+
+(a) Failure to report; penalties It shall be the duty of every person, including the owners, masters, officers, and agents of vessels, aircraft, transportation lines, or international bridges or toll roads, other than transportation lines which may enter into a contract as provided in section 1223 of this title, bringing an alien to, or providing a means for an alien to come to, the United States (including an alien crewman whose case is not covered by section 1284(a) of this title) to prevent the landing of such alien in the United States at a port of entry other than as designated by the Attorney General or at any time or place other than as designated by the immigration officers. Any such person, owner, master, officer, or agent who fails to comply with the foregoing requirements shall be liable to a penalty to be imposed by the Attorney General of $3,000 for each such violation, which may, in the discretion of the Attorney General, be remitted or mitigated by him in accordance with such proceedings as he shall by regulation prescribe. Such penalty shall be a lien upon the vessel or aircraft whose owner, master, officer, or agent violates the provisions of this section, and such vessel or aircraft may be libeled therefor in the appropriate United States court.
+
+(b) Prima facie evidence Proof that the alien failed to present himself at the time and place designated by the immigration officers shall be prima facie evidence that such alien has landed in the United States at a time or place other than as designated by the immigration officers.
+
+(c) Liability of owners and operators of international bridges and toll roads (1) Any owner or operator of a railroad line, international bridge, or toll road who establishes to the satisfaction of the Attorney General that the person has acted diligently and reasonably to fulfill the duty imposed by subsection (a) shall not be liable for the penalty described in such subsection, notwithstanding the failure of the person to prevent the unauthorized landing of any alien.
+
+(2) (A) At the request of any person described in paragraph (1), the Attorney General shall inspect any facility established, or any method utilized, at a point of entry into the United States by such person for the purpose of complying with subsection (a). The Attorney General shall approve any such facility or method (for such period of time as the Attorney General may prescribe) which the Attorney General determines is satisfactory for such purpose.
+
+(B) Proof that any person described in paragraph (1) has diligently maintained any facility, or utilized any method, which has been approved by the Attorney General under subparagraph (A) (within the period for which the approval is effective) shall be prima facie evidence that such person acted diligently and reasonably to fulfill the duty imposed by subsection (a) (within the meaning of paragraph (1) of this subsection).
+
+(June 27, 1952, ch. 477, title II, ch. 8, § 271, 66 Stat. 226; Pub. L. 99–603, title I, § 114, Nov. 6, 1986, 100 Stat. 3383; Pub. L. 101–649, title V, § 543(a)(8), Nov. 29, 1990, 104 Stat. 5058; Pub. L. 104–208, div. C, title III, § 308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1996—Subsec. (a). Pub. L. 104–208 substituted “section 1223” for “section 1228”. 1990—Subsec. (a). Pub. L. 101–649 substituted “$3,000” for “$1,000”. 1986—Subsec. (c). Pub. L. 99–603 added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1996 AmendmentAmendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+
+Effective Date of 1990 AmendmentAmendment by Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
+
+Abolition of Immigration and Naturalization Service and Transfer of Functions For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.

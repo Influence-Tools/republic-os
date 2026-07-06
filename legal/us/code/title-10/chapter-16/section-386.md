@@ -1,0 +1,179 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 386"
+description: "Annual report"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "16"
+chapter_name: "SECURITY COOPERATION"
+section: "386"
+citation: "10 U.S.C. § 386"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s386"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "28ccdc5f537ec1d16f8fc8d15dfb7d8e337c96d3a8e3165e02f469cfd96a777d"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "8e616008cb0108457211d23b13b5bb4a5934d2f4357e121d8790e83b768ab8be"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 386 - Annual report
+
+## Text
+
+(a) Annual Report Required.— Not later than March 31 of each year, the Secretary of Defense shall submit to the appropriate congressional committees a report that sets forth, on a country-by-country basis, an overview of security cooperation activities carried out by the Department of Defense during the fiscal year in which such report is submitted, using the authorities specified in subsection (b).
+
+(b) Elements of Report.— Each report required under subsection (a) shall include, with respect to each country and for the entirety of the period covered by such report, the following:
+
+(1) A narrative summary that provides—
+
+(A) a brief overview of the primary security cooperation objectives for the activities encompassed by the report; and
+
+(B) a description of how such activities advance the theater security cooperation strategy of the relevant geographic combatant command.
+
+(2) A table that includes an aggregated amount with respect to each of the following:
+
+(A) With respect to section 331 of this title, the value of all logistic support, supplies, and services for which notice is required by such section.
+
+(B) With respect to amounts made available for section 332(a) of this title, the Department of Defense cost to provide any Department personnel as advisors to a ministry of defense.
+
+(C) With respect to amounts made available for section 332(b) of this title, the Department of Defense incremental execution costs to conduct activities under such section.
+
+(D) With respect to section 333 of this title, the value of all programs for which notice is required by such section.
+
+(E) With respect to section 335 of this title, the total Department of Defense costs to fund expenses to attend training provided by the Government of Colombia that began during the period of the report.
+
+(F) With respect to amounts made available for section 341 of this title, the Department of Defense manpower and travel costs to conduct bilateral state partnership program engagements with the partner country.
+
+(G) With respect to amounts made available for section 342 of this title, the Department of Defense-funded, foreign-partner travel costs to attend a regional center activity that began during the period of the report.
+
+(H) With respect to amounts made available for section 345 of this title, the estimated Department of Defense execution cost to complete all training that began during the period of the report.
+
+(I) With respect to amounts made available for section 2561 of this title, the planned execution cost of completing humanitarian assistance activities for the partner country that were approved for the period of the report.
+
+(3) A table that includes aggregated totals for each of the following:
+
+(A) Pursuant to section 311 of this title, the number of personnel from a partner country assigned to a Department of Defense organization.
+
+(B) The number of new programs carried out during the period of the report that required notice under section 331 of this title.
+
+(C) Pursuant to section 332(a) of this title, the number of Department of Defense personnel assigned as advisors to a ministry of defense.
+
+(D) Pursuant to section 332(b) of this title, the number of activities conducted by the Department of Defense.
+
+(E) The number of new programs carried out during the period of the report that required notice under section 333 of this title.
+
+(F) With respect to section 335 of this title, the number of partner country officials who participated in training provided by the Government of Colombia that began during the period of the report.
+
+(G) With respect to section 341 of this title, the number of Department of Defense bilateral state partnership program engagements with the partner country that began during the period of the report.
+
+(H) With respect to section 342 of this title, the number of partner country officials who participated in regional center activity that began during the period of the report.
+
+(I) Pursuant to the authorities under sections 343, 345, 348, 349, 350 and 352 of this title, the total number of partner country personnel who began training during the period of the report.
+
+(J) Pursuant to section 347 of this title, the number of cadets from the partner country that were enrolled in the Service Academies during the period of the report.
+
+(K) Pursuant to amounts made available to carry out section 2561 of this title, the number of new humanitarian assistance projects funded through the Overseas Humanitarian Disaster and Civic Aid account that were approved during the period of the required report.
+
+(4) A table that includes the following:
+
+(A) For each person from the partner country assigned to a Department of Defense organization pursuant to section 311 of this title—
+
+(i) whether the person is a member of the armed forces or a civilian;
+
+(ii) the rank of the person (if applicable); and
+
+(iii) the component of the Department of Defense and location to which such person is assigned.
+
+(B) With respect to each civilian employee of the Department of Defense or member of the armed forces that was assigned, pursuant to section 332(a) of this title, as an advisor to a ministry of defense during the period of the report, a description of the object of the Department of Defense for such support and the name of the ministry or regional organization to which the employee or member was assigned.
+
+(C) With respect to each activity commenced under section 332(b) of this title during the period of the report—
+
+(i) the name of the supported ministry or regional organization;
+
+(ii) the component of the Department of Defense that conducted the activity;
+
+(iii) the duration of the activity; and
+
+(iv) a description of the objective of the activity.
+
+(D) For each program that required notice to Congress under section 333 of this title during the period of the report—
+
+(i) the units of the national security forces of the foreign country to which assistance was provided;
+
+(ii) the type of operation capability assisted;
+
+(iii) a description of the nature of the assistance being provided; and
+
+(iv) the estimated cost included in the notice provided for such assistance.
+
+(E) With respect to each Government of Colombia training activity which included Department of Defense funded participants under section 335 of this title that commenced during the period of the report—
+
+(i) the units of the defense personnel of the friendly foreign country to which the Department of Defense funded assistance was provided;
+
+(ii) the units of the Government of Colombia that conducted the training activity;
+
+(iii) the duration of the training activity provided by the Government of Colombia; and
+
+(iv) a description of the objective of the training activity provided by the Government of Colombia.
+
+(F) With respect to each activity commenced under section 341 of this title during the period of the report—
+
+(i) a description of the activity;
+
+(ii) the duration of the activity;
+
+(iii) the number of participating members of the National Guard; and
+
+(iv) the number of participating personnel of foreign country.
+
+(G) With respect to each activity of a Regional Center for Security Studies commenced under section 342 of this title during the period of the report—
+
+(i) a description of the activity;
+
+(ii) the name of the Regional Center that sponsored the activity;
+
+(iii) the location and duration of the training; and
+
+(iv) the number of officials from the foreign country who participated the activity.
+
+(H) With respect to each training event that commenced under section 343, 345, 348, 349, 350, or 352 of this title during the period of the report—
+
+(i) a description of the training;
+
+(ii) the location and duration of the training; and
+
+(iii) the number of personnel of the foreign country trained.
+
+(I) With respect to each new project approved under section 2561 of this title during the period of the report and funded through the Overseas Humanitarian Disaster and Civic Aid account—
+
+(i) the title of the project;
+
+(ii) a description of the assistance to be provided; and
+
+(iii) the anticipated costs to provide such assistance.
+
+(Added and amended Pub. L. 114–328, div. A, title XII, §§ 1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, § 1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 117–263, div. A, title XII, § 1202(d), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(4), Dec. 22, 2023, 137 Stat. 683; Pub. L. 118–159, div. A, title XII, § 1205(b), Dec. 23, 2024, 138 Stat. 2094.)
+
+## Notes
+
+Editorial Notes
+
+Codification Text of section, as added by Pub. L. 114–328, was based on text of subsecs. (a) to (e) of section 1211 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3544, which was not classified to the Code. Section was subsequently amended generally by Pub. L. 117–263.
+
+Amendments2024—Subsec. (b)(2). Pub. L. 118–159, § 1205(b)(1), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively. Subsec. (b)(3)(B) to (K). Pub. L. 118–159, § 1205(b)(2), added subpar. (B) and redesignated former subpars. (B) to (J) as (C) to (K), respectively. 2023—Subsec. (b)(2)(E). Pub. L. 118–31, § 1801(a)(4)(A), substituted “bilateral” for “bi-lateral”. Subsec. (b)(4)(E)(iii). Pub. L. 118–31, § 1801(a)(4)(B)(i), inserted “and” after semicolon at end. Subsec. (b)(4)(H). Pub. L. 118–31, § 1801(a)(4)(B)(ii), substituted “section” for “sections” in introductory provisions. 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to annual report required by Secretary of Defense to the appropriate congressional committees setting forth a description of each program carried out to provide training, equipment, or other assistance or reimbursement. 2018—Subsec. (c)(1). Pub. L. 115–232 substituted “Sections 246, 251, 252, 253, 321,” for “Sections 311, 321, 331, 332, 333,”. 2016—Subsec. (a). Pub. L. 114–328, § 1251(b)(6), which directed striking out “under the authorities in subsection (c)” after “submitted”, was executed by striking out “under the authorities specified in subsection (c)” after “submitted”, to reflect the probable intent of Congress. Pub. L. 114–328, § 1251(b)(1)–(5), in heading, substituted “Annual Report Required” for “Biennial Report Required”, and, in text, substituted “Not later than January 31 of each year beginning in 2018, the Secretary of Defense” for “Not later than February 1 of each of 2016, 2018, and 2020, the Secretary of Defense”, “appropriate congressional committees” for “congressional defense committees”, “assistance” for “security assistance”, and “the fiscal year” for “the two fiscal years” and inserted “under the authorities in subsection (c)” after “Department of Defense”. Subsec. (b)(1). Pub. L. 114–328, § 1251(c)(1), inserted “, duration,” after “purpose”. Subsec. (b)(2). Pub. L. 114–328, § 1251(c)(2), substituted “The cost and expenditures” for “The cost”. Subsec. (b)(4) to (6). Pub. L. 114–328, § 1251(c)(3), added pars. (4) to (6). Subsec. (c)(1). Pub. L. 114–328, § 1246(d)(2)(A), which directed amendment of subsec. (c)(1) by inserting “341,” after “333,”, was executed by making the insertion after “321,” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–232. See 2018 Amendment note above. Pub. L. 114–328, § 1251(d)(1), added par. (1) and struck out former par. (1) which read as follows: “Section 127d of title 10, United States Code, relating to authority to provide logistic support, supplies, and services to allied forces participating in a combined operation with the Armed Forces.” Subsec. (c)(2), (3). Pub. L. 114–328, § 1251(d)(6), substituted “of this title” for “of title 10, United States Code”. Subsec. (c)(4). Pub. L. 114–328, § 1251(d)(2), (3), (6), redesignated par. (6) as (4), substituted “of this title” for “of title 10, United States Code”, and struck out former par. (4) which read as follows: “Section 2010 of title 10, United States Code, relating to authority to reimburse foreign troops for participation in combined exercises.” Subsec. (c)(5). Pub. L. 114–328, § 1251(d)(2), (3), (6), redesignated par. (8) as (5), substituted “of this title” for “of title 10, United States Code”, and struck out former par. (5) which read as follows: “Section 2011 of title 10, United States Code, relating to authority to reimburse foreign troops for participation in Joint Combined Exercise Training.” Subsec. (c)(6). Pub. L. 114–328, § 1251(d)(3), redesignated par. (9) as (6). Former par. (6) redesignated (4). Subsec. (c)(7). Pub. L. 114–328, § 1251(d)(2), (3), redesignated par. (13) as (7) and struck out former par. (7) which read as follows: “Section 2282 of title 10, United States Code (as added by section 1205 of this Act), relating to authority to build the capacity of foreign military forces, or the predecessor authority to such section in section 1206 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3456).” Subsec. (c)(8), (9). Pub. L. 114–328, § 1251(d)(3), redesignated pars. (14) and (15) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (5) and (6), respectively. Subsec. (c)(10). Pub. L. 114–328, § 1251(d)(2), (3), redesignated par. (16) as (10) and struck out former par. (10) which read as follows: “Section 1205 of the National Defense Authorization Act for Fiscal Year 2014 (32 U.S.C. 107 note), relating to authority for National Guard State Partnership program.” Subsec. (c)(11), (12). Pub. L. 114–328, § 1251(d)(2), (4), added pars. (11) and (12) and struck out former pars. (11) and (12) which read as follows: “(11) Section 1081 of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 168 note), relating to the Ministry of Defense Advisors program. “(12) Section 1207 of the National Defense Authorization Act for Fiscal Year 2012 (22 U.S.C. 2151 note), relating to the Global Security Contingency Fund.” Subsec. (c)(13). Pub. L. 114–328, § 1251(d)(5), redesignated par. (17) as (13). Former par. (13) redesignated (7). Subsec. (c)(14) to (16). Pub. L. 114–328, § 1251(d)(3), redesignated pars. (14) to (16) as (8) to (10), respectively. Subsec. (c)(17). Pub. L. 114–328, § 1251(d)(5), redesignated par. (17) as (13). Subsec. (d). Pub. L. 114–328, § 1251(e), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), if any information” for “If any information”, and added par. (2). Subsec. (e). Pub. L. 114–328, § 1251(f), inserted “that may also include other sensitive information” after “annex”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentPub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(A) is effective as of January 1, 2020.
+
+Applicability of Amendment to Annual Report RequirementsPub. L. 117–263, div. A, title XII, § 1202(e), Dec. 23, 2022, 136 Stat. 2826, provided that: “With respect to a report that was required to be submitted under section 386 of title 10, United States Code, prior to the date of the enactment of this Act [Dec. 23, 2022], that has not been submitted as of such date and relates to a year preceding fiscal year 2023, such a report may be submitted in accordance with— “(1) the requirements of such section 386 as amended by subsection (d); or “(2) the requirements of such section 386 as in effect on the day before the date of the enactment of this Act.”

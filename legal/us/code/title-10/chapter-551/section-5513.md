@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 5513"
+description: "Unfunded priorities of the Missile Defense Agency: annual report"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "551"
+chapter_name: "MISSILE DEFENSE"
+section: "5513"
+citation: "10 U.S.C. § 5513"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s5513"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "57783ccbc0d36e603575f01d881f23447723cfcbf8313042de22de9dbc9509f7"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "73edd0e633cdcc9ed42eb9b688bf543e75c16cae8dcba95e5c84a6ee786621d3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 5513 - Unfunded priorities of the Missile Defense Agency: annual report
+
+## Text
+
+(a) Reports.— Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Director of the Missile Defense Agency shall submit to the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, and to the congressional defense committees, a report on the unfunded priorities of the Missile Defense Agency.
+
+(b) Elements.— (1) In general.— Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following:
+
+(A) A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).
+
+(B) The additional amount of funds recommended in connection with the objectives under subparagraph (A).
+
+(C) Account information with respect to such priority, including the following (as applicable):
+
+(i) Line Item Number (LIN) for applicable procurement accounts.
+
+(ii) Program Element (PE) number for applicable research, development, test, and evaluation accounts.
+
+(iii) Sub-activity group (SAG) for applicable operation and maintenance accounts.
+
+(2) Prioritization of priorities.— Each report under subsection (a) shall present the unfunded priorities covered by such report in order of urgency of priority.
+
+(c) Unfunded Priority Defined.— In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement of the Missile Defense Agency that—
+
+(1) is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to section 1105 of title 31, United States Code;
+
+(2) is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and
+
+(3) would have been recommended for funding through the budget referred to in paragraph (1) by the Director of the Missile Defense Agency in connection with the budget if additional resources had been available for the budget to fund the program, activity, or mission requirement.
+
+(Added Pub. L. 118–159, div. A, title XVI, § 1649(a), Dec. 23, 2024, 138 Stat. 2190; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(33), Dec. 18, 2025, 139 Stat. 1209.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 222b of this title prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199.
+
+Amendments2025—Pub. L. 119–60 substituted “Missile Defense Agency” for “missile defense agency” in section catchline.

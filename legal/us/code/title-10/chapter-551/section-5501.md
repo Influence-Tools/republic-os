@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 5501"
+description: "National missile defense policy"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "551"
+chapter_name: "MISSILE DEFENSE"
+section: "5501"
+citation: "10 U.S.C. § 5501"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s5501"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "2346810250959cfec82338cc89a43702647fbef273257f05738a8024e5b28bb3"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "606f66c30a8df8c6fbf6861a52f4ea0e8f0e433321abd499356b2afa4181d76c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 5501 - National missile defense policy
+
+## Text
+
+It is the policy of the United States—
+
+(1) to provide for the common defense of the United States and its citizens by deploying and maintaining a next-generation missile defense shield;
+
+(2) to deter and defend the United States, citizens of the United States, and critical infrastructure of the United States, against the threat of foreign attack by increasingly complex ballistic, hypersonic glide, and cruise missiles, and other advanced aerial threats; and
+
+(3) to guarantee the viability of an effective nuclear response capability of the United States and to support the continued deterrence of strategic attacks against the homeland of the United States.
+
+(Added Pub. L. 118–159, div. A, title XVI, § 1649(a), Dec. 23, 2024, 138 Stat. 2187; amended Pub. L. 119–60, div. A, title XVI, § 1651, Dec. 18, 2025, 139 Stat. 1193.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 5501 was renumbered section 8111 of this title. Provisions similar to those in this section were contained in Pub. L. 114–328, div. A, title XVI, § 1681(a), Dec. 23, 2016, 130 Stat. 2623, as amended by Pub. L. 116–92, div. A, title XVI, § 1681(a), Dec. 20, 2019, 133 Stat. 1781; Pub. L. 118–31, div. A, title XVI, § 1663, Dec. 22, 2023, 137 Stat. 603, which was set out in a note under section 4205 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1649(b)(3), Dec. 23, 2024, 138 Stat. 2199.
+
+Amendments2025—Pub. L. 119–60 added section text and struck out former text which read as follows: “It is the policy of the United States— “(1) to research, develop, test, procure, deploy, and sustain, with funding subject to the annual authorization of appropriations for National Missile Defense, systems that provide effective, layered missile defense capabilities to defeat increasingly complex missile threats in all phases of flight; and “(2) to rely on nuclear deterrence to address more sophisticated and larger quantity near-peer intercontinental missile threats to the homeland of the United States.”
+
+Statutory Notes and Related Subsidiaries
+
+Congressional Notification Requirement With Respect to Incidents That Affect Availability of United States Homeland Missile DefensesPub. L. 118–159, div. A, title XVI, § 1646, Dec. 23, 2024, 138 Stat. 2185, provided that: “(a) Requirement.—If the Secretary of Defense determines that an incident has affected the availability of the ground-based midcourse defense system, or has impeded the function of such system, in a manner that inhibits the capability of such system to adequately respond to the operational mission of such system as required by the Commander of the United States Northern Command, the Secretary shall submit to the appropriate Members of Congress a notification of such incident by not later than 24 hours after the Secretary makes such determination. “(b) Appropriate Members of Congress Defined.—In this section, the term ‘appropriate Members of Congress’ means each chair and ranking member of the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives].”
+
+Designation of a Senior Defense Official Responsible for Establishment of National Integrated Air and Missile Defense Architecture for the United StatesPub. L. 118–159, div. A, title XVI, § 1655, Dec. 23, 2024, 138 Stat. 2202, provided that: “(a) Requirement.—Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall designate a senior official of the Department of Defense who shall be responsible, subject to appropriations, for the establishment of a national integrated air and missile defense architecture for the United States. “(b) Duties.—The duties of the official designated under subsection (a) shall include the following:“(1) Designing the national integrated air and missile defense architecture for the United States. “(2) Overseeing development of an integrated missile defense acquisition strategy for the United States. “(3) Evaluating the budget requests of each military department and Defense Agency to ensure such budget requests are sufficient to enable the development of such defense architecture. “(4) Siting the integrated missile defense systems comprising such defense architecture. “(5) Overseeing long-term acquisition and sustainment of such defense architecture. “(6) Such other duties as the Secretary determines appropriate. “(c) Termination.—The authority of this section shall terminate on the date that is 90 days after the date on which the official designated under subsection (a) determines that the national integrated air and missile defense architecture for the United States has achieved initial operational capability.”

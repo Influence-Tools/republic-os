@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2650"
+description: "Civilian personnel in Alaska"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "157"
+chapter_name: "TRANSPORTATION"
+section: "2650"
+citation: "10 U.S.C. § 2650"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2650"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "98d4b5d6af19eac41d4f5a64f794d94f78bc2ac725b05c90e232d421bad6b5b1"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "c416e877a4fe7d8caa8ce305bbab1b176529fc9183ea5628046f1702e196a5d4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2650 - Civilian personnel in Alaska
+
+## Text
+
+Persons residing in Alaska who are and have been employed there by the United States for at least two years, and their families, may be transported on vessels or airplanes operated by the Department of Defense, if—
+
+(1) the Secretary of Defense considers that accommodations are available;
+
+(2) the transportation is without expense to the United States;
+
+(3) the transportation is limited to one round trip between Alaska and the United States during any two-year period, except in an emergency such as sickness or death; and
+
+(4) in case of travel by air, the transportation cannot be reasonably handled by a United States commercial air carrier.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, § 4746; Pub. L. 98–443, § 9(k), Oct. 4, 1984, 98 Stat. 1708; renumbered § 2650 and amended Pub. L. 108–375, div. A, title X, § 1072(a), (b)(3), Oct. 28, 2004, 118 Stat. 2057, 2058.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 474610:1371a.Nov. 21, 1941, ch. 483; restated July 25, 1947, ch. 321, 61 Stat. 423. Before the enactment of the National Security Act of 1947, the transport functions covered by this section were performed only by the Army. Under section 2(a)(3) of the National Security Act (as it existed before August 10, 1949), the sea and air transportation functions of the Army, Navy, and Air Force were respectively consolidated into the “Military Sea Transportation Service”, under the Department of the Navy, and the “Military Air Transport Service”, under the Department of the Air Force. Instead of having space on its own transport vessels and airplanes, the Army is now allotted bulk space on vessels and airplanes operated by those transport services. The words “or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of the Department of Defense” are inserted, in accordance with an opinion of the Judge Advocate General of the Army (JAGA 1953/5885, 22 July 1953), to make clear that the rule applicable to Army vessels and airplanes applies to the bulk space allocated to the Army. Since the authority to perform transportation functions could again be transferred as between the military departments, the reference to “vessels or airplanes of Army transport agencies” is retained. The word “considers” is substituted for the words “in the opinion of”. The words “Persons residing in Alaska who are and have been employed there by the United States” are substituted for the words “employees of the United States, residing in Alaska, who have been in such employment”. The word “commercial” is substituted for the word “civil” for clarity. The words “from and after November 21, 1941”, “and the carriage of all such air traffic shall be terminated”, “dire”, “the privilege herein granted”, and “as to each eligible individual” are omitted as surplusage. The words “the continental” are omitted, since section 101(1) of this title defines the United States as “the States and the District of Columbia”.
+
+Editorial Notes
+
+Amendments2004—Pub. L. 108–375, § 1072(a), (b)(3)(A), renumbered section 4746 of this title as this section and, in introductory provisions, struck out “Army transport agencies or, within bulk space allocations made to the Department of the Army, on vessels or airplanes operated by any military transport agency of” before “the Department of Defense”. Par. (1). Pub. L. 108–375, § 1072(b)(3)(B), substituted “Secretary of Defense” for “Secretary of the Army”. Par. (4). Pub. L. 108–375, § 1072(b)(3)(C), substituted “by air, the transportation cannot” for “by air— “(A) the Secretary of Transportation has not certified that commercial air carriers of the United States that can handle the transportation are operating between Alaska and the United States; and “(B) the transportation cannot”. 1984—Par. (4)(A). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.

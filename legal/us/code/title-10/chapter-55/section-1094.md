@@ -1,0 +1,107 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1094"
+description: "Licensure requirement for health-care professionals"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "55"
+chapter_name: "MEDICAL AND DENTAL CARE"
+section: "1094"
+citation: "10 U.S.C. § 1094"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1094"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "64cbc8675c165426803efbb4b8225c4a980bde12b6c01ab41dba0675dd764be2"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "eb3cee8baea44bcf71c380c100ee90bcd1acc89aa812c470cfb443e10106cda9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1094 - Licensure requirement for health-care professionals
+
+## Text
+
+(a) (1) A person under the jurisdiction of the Secretary of a military department may not provide health care independently as a health-care professional under this chapter unless the person has a current license to provide such care. In the case of a physician, the physician may not provide health care as a physician under this chapter unless the current license is an unrestricted license that is not subject to limitation on the scope of practice ordinarily granted to other physicians for a similar specialty by the jurisdiction that granted the license.
+
+(2) The Secretary of Defense may waive paragraph (1) with respect to any person in unusual circumstances. The Secretary shall prescribe by regulation the circumstances under which such a waiver may be granted.
+
+(b) The commanding officer of each health care facility of the Department of Defense shall ensure that each person who provides health care independently as a health-care professional at the facility meets the requirement of subsection (a).
+
+(c) (1) A person (other than a person subject to chapter 47 of this title) who provides health care in violation of subsection (a) is subject to a civil money penalty of not more than $5,000.
+
+(2) The provisions of subsections (c) and (e) through (h) of section 1128A of the Social Security Act (42 U.S.C. 1320a–7a) shall apply to the imposition of a civil money penalty under paragraph (1) in the same manner as they apply to the imposition of a civil money penalty under that section, except that for purposes of this subsection—
+
+(A) a reference to the Secretary in that section is deemed a reference to the Secretary of Defense; and
+
+(B) a reference to a claimant in subsection (e) of that section is deemed a reference to the person described in paragraph (1).
+
+(d) (1) Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2), (3), or (4) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.
+
+(2) A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, contractor not covered under section 1091 of this title who is providing an examination or assessment under section 10206 of this title or medical treatment as part of a mission relating to emergency, humanitarian, or refugee assistance, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
+
+(A) has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
+
+(B) is performing authorized duties for the Department of Defense.
+
+(3) A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the National Guard who—
+
+(A) has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
+
+(B) is performing training or duty under section 502(f) of title 32 in response to an actual or potential disaster.
+
+(4) To the extent provided in regulations prescribed by the Secretary for the purpose of assuring the availability of high-quality mental health care services to members of the armed forces and dependents entitled to health care under section 1076 of this title, a health care professional referred to in paragraph (1) as being described in this paragraph is a mental health provider providing care through a network under the TRICARE program who—
+
+(A) has a current license to practice as a mental health care professional;
+
+(B) is providing tele-mental health care services to members of the armed forces or such dependents; and
+
+(C) is providing such services under terms and conditions specified by the Secretary (which shall establish the scope of authorized Federal duties for purposes of paragraph (1)).
+
+(e) In this section:
+
+(1) The term “license”—
+
+(A) means a grant of permission by an official agency of a State, the District of Columbia, or a Commonwealth, territory, or possession of the United States to provide health care independently as a health-care professional, or the official agency of the government of a partner country; and
+
+(B) includes, in the case of such care furnished in a foreign country by any person who is not a national of the United States, a grant of permission by an official agency of that foreign country for that person to provide health care independently as a health-care professional.
+
+(2) The term “health-care professional” means a physician, dentist, clinical psychologist, marriage and family therapist certified as such by a certification recognized by the Secretary of Defense, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
+
+(3) The term “partner country” means any of the following:
+
+(A) Australia.
+
+(B) Canada.
+
+(C) New Zealand.
+
+(D) The United Kingdom.
+
+(E) Any other country designated as a partner country by the Secretary of Defense for the purposes of this section.
+
+(Added Pub. L. 99–145, title VI, § 653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, § 1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, § 653(e)(1), title XVI, § 1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, § 737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, § 734(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 108–375, div. A, title VII, § 717(b), Oct. 28, 2004, 118 Stat. 1986; Pub. L. 111–383, div. A, title VII, § 713, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 112–81, div. A, title VII, § 713(a), Dec. 31, 2011, 125 Stat. 1476; Pub. L. 117–263, div. A, title VII, § 718, Dec. 23, 2022, 136 Stat. 2662; Pub. L. 118–159, div. A, title VII, §§ 713, 714(a), Dec. 23, 2024, 138 Stat. 1947; Pub. L. 119–60, div. A, title VII, § 716, Dec. 18, 2025, 139 Stat. 923.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (e)(1)(A). Pub. L. 119–60, § 716(1), substituted “, or the official agency of the government of a partner country; and” for “; and”. Subsec. (e)(3). Pub. L. 119–60, § 716(2), added par. (3). 2024—Subsec. (d)(1). Pub. L. 118–159, § 714(a)(1), substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)”. Subsec. (d)(2). Pub. L. 118–159, § 713, inserted “an examination or assessment under section 10206 of this title or” after “section 1091 of this title who is providing” in introductory provisions. Subsec. (d)(4). Pub. L. 118–159, § 714(a)(2), added par. (4). 2022—Subsec. (d)(2). Pub. L. 117–263 inserted “contractor not covered under section 1091 of this title who is providing medical treatment as part of a mission relating to emergency, humanitarian, or refugee assistance,” after “section 1091 of this title,” in introductory provisions. 2011—Subsec. (d)(1). Pub. L. 112–81, § 713(a)(1), inserted “at any location” before “in any State” and substituted “regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.” for “regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.” Pub. L. 111–383, § 713(1), inserted “or (3)” after “paragraph (2)”. Subsec. (d)(2). Pub. L. 112–81, § 713(a)(2), substituted “member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose” for “member of the armed forces”. Pub. L. 111–383, § 713(2), inserted “as being described in this paragraph” after “paragraph (1)” in introductory provisions. Subsec. (d)(3). Pub. L. 111–383, § 713(3), added par. (3). 2004—Subsec. (e)(2). Pub. L. 108–375 inserted “marriage and family therapist certified as such by a certification recognized by the Secretary of Defense,” after “psychologist,”. 1998—Subsec. (a)(1). Pub. L. 105–261 inserted at end “In the case of a physician, the physician may not provide health care as a physician under this chapter unless the current license is an unrestricted license that is not subject to limitation on the scope of practice ordinarily granted to other physicians for a similar specialty by the jurisdiction that granted the license.” 1997—Subsecs. (d), (e). Pub. L. 105–85 added subsec. (d) and redesignated former subsec. (d) as (e). 1989—Subsec. (c)(2). Pub. L. 101–189, § 653(e)(1), substituted “subsections (c) and (e) through (h)” for “subsections (b) and (d) through (g)”. Subsec. (d)(1). Pub. L. 101–189, § 1622(e)(3)(A), substituted “The term ‘license” for “ ‘License” in introductory provisions. Subsec. (d)(2). Pub. L. 101–189, § 1622(e)(3)(B), substituted “The term ‘health-care” for “ ‘Health-care”. 1986—Subsec. (d)(2). Pub. L. 99–661 realigned margin of par. (2) to conform to margin of par. (1).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1998 AmendmentPub. L. 105–261, div. A, title VII, § 734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999.”
+
+Effective DatePub. L. 99–145, title VI, § 653(b), Nov. 8, 1985, 99 Stat. 658, provided that: “Section 1094 of title 10, United States Code, as added by subsection (a), does not apply during the three-year period beginning on the date of the enactment of this Act [Nov. 8, 1985] with respect to the provision of health care by any person who on the date of the enactment of this Act is a member of the Armed Forces.”
+
+RegulationsPub. L. 118–159, div. A, title VII, § 714(b), Dec. 23, 2024, 138 Stat. 1948, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue an interim final regulation to implement the amendments made by subsection (a) [amending this section].” Pub. L. 112–81, div. A, title VII, § 713(b), Dec. 31, 2011, 125 Stat. 1476, provided that: “The Secretary of Defense shall prescribe regulations to carry out the amendments made by this section [amending this section].”
+
+Review of Disclosure Requirements Under Processes and Forms Relating to Health Care Provider Credentialing and Privileging of Department of DefensePub. L. 119–60, div. A, title VII, § 720, Dec. 18, 2025, 139 Stat. 927, provided that: “(a) Review.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall review all processes and forms relating to health care provider credentialing and privileging of covered applicants to ensure that each individual who provides health care independently as a health-care professional at a health care facility of the Department of Defense meets the requirement of section 1094(a) of title 10, United States Code. “(2) Centralized credential system.—In carrying out section 1094(b) of title 10, United States Code, the Secretary shall establish a centralized credential system that allows the commanding officer of a health care facility of the Department to verify the licensure of a health care professional, regardless of the location of the facility or the Armed Force in which the health care professional serves. The Secretary shall ensure that not less than 90 percent of such verifications are completed within seven days of the date on which the commanding officer requests such verification if the request does not relate to a health-care professional with an adverse record. “(b) Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to Congress a report containing the following:“(1) The findings of the review required under subsection (a). “(2) A detailed plan outlining steps the Secretary has taken or will take pursuant to such review, including a timeline for completion of such steps. “(c) Covered Applicant Defined.—In this section, the term ‘covered applicant’ means an applicant for a position as a health-care professional (as defined in section 1094 of title 10, United States Code) who—“(1) is required to go through a credentialing and privileging process; and “(2) provides care—“(A) at a health care facility of the Department of Defense; or “(B) through the civilian network of the TRICARE program (as defined in section 1072 of title 10, United States Code).”

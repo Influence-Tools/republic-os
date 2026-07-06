@@ -1,0 +1,121 @@
+---
+type: "LegalText"
+title: "8 U.S.C. § 1229c"
+description: "Voluntary departure"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 8
+title_name: "ALIENS AND NATIONALITY"
+chapter_number: "12"
+chapter_name: "IMMIGRATION AND NATIONALITY"
+section: "1229c"
+citation: "8 U.S.C. § 1229c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc08@119-100.zip"
+source_identifier: "/us/usc/t8/s1229c"
+source_file: "data/legal/raw/us/code/title-08/usc08.xml"
+source_hash: "c5f3dee91ae000ad09edde1009f119699d02913839bf2617210274a49b6feeb2"
+raw_snapshot_hash: "18cbd9dd4172ad0473c6dc52e038b813f80124d17167f025c00b9dfa60060a0c"
+text_hash: "cafcfd166c277b76ed65fda0c9f93f9f48d286497636ed25dbf2b37cb8d0d02f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 8 U.S.C. § 1229c - Voluntary departure
+
+## Text
+
+(a) Certain conditions (1) In general The Attorney General may permit an alien voluntarily to depart the United States at the alien’s own expense under this subsection, in lieu of being subject to proceedings under section 1229a of this title or prior to the completion of such proceedings, if the alien is not deportable under section 1227(a)(2)(A)(iii) or section 1227(a)(4)(B) of this title.
+
+(2) Period (A) In general Subject to subparagraph (B), permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.
+
+(B) Three-year pilot program waiver During the period October 1, 2000, through September 30, 2003, and subject to subparagraphs (C) and (D)(ii), the Attorney General may, in the discretion of the Attorney General for humanitarian purposes, waive application of subparagraph (A) in the case of an alien—
+
+(i) who was admitted to the United States as a nonimmigrant visitor (described in section 1101(a)(15)(B) of this title) under the provisions of the visa waiver pilot program established pursuant to section 1187 of this title, seeks the waiver for the purpose of continuing to receive medical treatment in the United States from a physician associated with a health care facility, and submits to the Attorney General—
+
+(I) a detailed diagnosis statement from the physician, which includes the treatment being sought and the expected time period the alien will be required to remain in the United States;
+
+(II) a statement from the health care facility containing an assurance that the alien’s treatment is not being paid through any Federal or State public health assistance, that the alien’s account has no outstanding balance, and that such facility will notify the Service when the alien is released or treatment is terminated; and
+
+(III) evidence of financial ability to support the alien’s day-to-day expenses while in the United States (including the expenses of any family member described in clause (ii)) and evidence that any such alien or family member is not receiving any form of public assistance; or
+
+(ii) who—
+
+(I) is a spouse, parent, brother, sister, son, daughter, or other family member of a principal alien described in clause (i); and
+
+(II) entered the United States accompanying, and with the same status as, such principal alien.
+
+(C) Waiver limitations (i) Waivers under subparagraph (B) may be granted only upon a request submitted by a Service district office to Service headquarters.
+
+(ii) Not more than 300 waivers may be granted for any fiscal year for a principal alien under subparagraph (B)(i).
+
+(iii) (I) Except as provided in subclause (II), in the case of each principal alien described in subparagraph (B)(i) not more than one adult may be granted a waiver under subparagraph (B)(ii).
+
+(II) Not more than two adults may be granted a waiver under subparagraph (B)(ii) in a case in which—
+
+(aa) the principal alien described in subparagraph (B)(i) is a dependent under the age of 18; or
+
+(bb) one such adult is age 55 or older or is physically handicapped.
+
+(D) Report to Congress; suspension of waiver authority (i) Not later than March 30 of each year, the Commissioner shall submit to the Congress an annual report regarding all waivers granted under subparagraph (B) during the preceding fiscal year.
+
+(ii) Notwithstanding any other provision of law, the authority of the Attorney General under subparagraph (B) shall be suspended during any period in which an annual report under clause (i) is past due and has not been submitted.
+
+(3) Bond The Attorney General may require an alien permitted to depart voluntarily under this subsection to post a voluntary departure bond, to be surrendered upon proof that the alien has departed the United States within the time specified.
+
+(4) Treatment of aliens arriving in the United States In the case of an alien who is arriving in the United States and with respect to whom proceedings under section 1229a of this title are (or would otherwise be) initiated at the time of such alien’s arrival, paragraph (1) shall not apply. Nothing in this paragraph shall be construed as preventing such an alien from withdrawing the application for admission in accordance with section 1225(a)(4) of this title.
+
+(b) At conclusion of proceedings (1) In general The Attorney General may permit an alien voluntarily to depart the United States at the alien’s own expense if, at the conclusion of a proceeding under section 1229a of this title, the immigration judge enters an order granting voluntary departure in lieu of removal and finds that—
+
+(A) the alien has been physically present in the United States for a period of at least one year immediately preceding the date the notice to appear was served under section 1229(a) of this title;
+
+(B) the alien is, and has been, a person of good moral character for at least 5 years immediately preceding the alien’s application for voluntary departure;
+
+(C) the alien is not deportable under section 1227(a)(2)(A)(iii) or section 1227(a)(4) of this title; and
+
+(D) the alien has established by clear and convincing evidence that the alien has the means to depart the United States and intends to do so.
+
+(2) Period Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 60 days.
+
+(3) Bond An alien permitted to depart voluntarily under this subsection shall be required to post a voluntary departure bond, in an amount necessary to ensure that the alien will depart, to be surrendered upon proof that the alien has departed the United States within the time specified.
+
+(c) Aliens not eligible The Attorney General shall not permit an alien to depart voluntarily under this section if the alien was previously permitted to so depart after having been found inadmissible under section 1182(a)(6)(A) of this title.
+
+(d) Civil penalty for failure to depart (1) In general Subject to paragraph (2), if an alien is permitted to depart voluntarily under this section and voluntarily fails to depart the United States within the time period specified, the alien—
+
+(A) shall be subject to a civil penalty of not less than $1,000 and not more than $5,000; and
+
+(B) shall be ineligible, for a period of 10 years, to receive any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title.
+
+(2) Application of VAWA protections The restrictions on relief under paragraph (1) shall not apply to relief under section 1229b or 1255 of this title on the basis of a petition filed by a VAWA self-petitioner, or a petition filed under section 1229b(b)(2) of this title, or under section 1254(a)(3) of this title (as in effect prior to March 31, 1997), if the extreme cruelty or battery was at least one central reason for the alien’s overstaying the grant of voluntary departure.
+
+(3) Notice of penalties The order permitting an alien to depart voluntarily shall inform the alien of the penalties under this subsection.
+
+(e) Additional conditions The Attorney General may by regulation limit eligibility for voluntary departure under this section for any class or classes of aliens. No court may review any regulation issued under this subsection.
+
+(f) Judicial review No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b), nor shall any court order a stay of an alien’s removal pending consideration of any claim with respect to voluntary departure.
+
+(June 27, 1952, ch. 477, title II, ch. 4, § 240B, as added Pub. L. 104–208, div. C, title III, § 304(a)(3), Sept. 30, 1996, 110 Stat. 3009–596; amended Pub. L. 106–406, § 2, Nov. 1, 2000, 114 Stat. 1755; Pub. L. 109–162, title VIII, § 812, Jan. 5, 2006, 119 Stat. 3057.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1254 of this title, referred to in subsec. (d)(2), was repealed by Pub. L. 104–208, div. C, title III, § 308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
+
+Amendments2006—Subsec. (d). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If an alien is permitted to depart voluntarily under this section and fails voluntarily to depart the United States within the time period specified, the alien shall be subject to a civil penalty of not less than $1,000 and not more than $5,000, and be ineligible for a period of 10 years for any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title. The order permitting the alien to depart voluntarily shall inform the alien of the penalties under this subsection.” 2000—Subsec. (a)(2). Pub. L. 106–406 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+Abolition of Immigration and Naturalization Service and Transfer of Functions For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+Executive Documents
+
+Proc. No. 10935. Establishing Project Homecoming Proc. No. 10935, May 9, 2025, 90 F.R. 20357, provided: Over the last 4 years, the United States has endured a full-scale invasion of aliens entering and remaining in the country illegally, causing a relentless onslaught of crime, vagrancy, violence, and death in countless American communities. This lawless invasion has also limited the capacity of American schools and hospitals to provide for American citizens and has diverted billions of dollars in Federal, State, and local social services from Americans in need. The continued presence of illegal aliens in our Nation forces American taxpayers to bear a tremendous fiscal burden to support them, including through costs related to healthcare, food stamps, public housing, emergency medical services, education, and shelter, as well as the costs of crimes committed by illegal aliens. In Fiscal Year 2023 alone, these costs were estimated to exceed $150 billion in taxpayer dollars. Removal flights of illegal aliens are a necessary aspect of immigration enforcement and upholding the rule of law, but they require substantial resources and manpower. Therefore, the provision of financial incentives to encourage and assist aliens illegally in the country to elect to depart from the United States has the potential to save tremendous taxpayer resources, while restoring the sovereignty of our country. As President, it is my legal obligation to exercise all tools at my disposal to end this invasion, remove the illegal-alien invaders from the United States, and protect the American people. This proclamation establishes Project Homecoming, which will present illegal aliens with a choice: either leave the United States voluntarily, with the support and financial assistance of the Federal Government, or remain and face the consequences. NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including the Immigration and Nationality Act (INA) (8 U.S.C. 1101 et seq.), hereby proclaim and direct as follows: Section 1. Free Return Home and CBP Home Application. (a) In furtherance of the purposes of this proclamation, and to facilitate the rapid departure of illegal aliens from the United States, I direct, pursuant to section 215(a)(1) of the INA (8 U.S.C. 1185(a)(1)), the Secretary of State and the Secretary of Homeland Security, in consultation with the heads of other relevant executive departments and agencies (agencies), to create seamless processes for illegal aliens to rapidly depart the United States, including through available technological resources, such as the “CBP Home” application. (b) Any flights provided to illegal aliens voluntarily and permanently departing the United States pursuant to processes established under subsection (a) of this section shall be funded by the Federal Government. (c) In furtherance of the purposes of this proclamation, and to facilitate the rapid departure of illegal aliens from the United States, I direct, pursuant to section 215(a)(1) of the INA (8 U.S.C. 1185(a)(1)), the Secretary of State and the Secretary of Homeland Security to take all appropriate actions to enable the rapid departure of illegal aliens from the United States who currently lack a valid travel document from their countries of citizenship or nationality or who desire to travel to any other country willing to accept their entry. (d) The Secretary of State and the Secretary of Homeland Security shall create a concierge service whereby any alien illegally present in the United States may arrive at an airport, with or without appropriate travel documents, book air travel to permanently relocate to a different country, and claim the exit bonus described in section 2 of this proclamation upon their successful return. Sec. 2. Exit Bonus. In furtherance of the purposes of this proclamation, and to facilitate the rapid departure of illegal aliens from the United States, the Secretary of State and the Secretary of Homeland Security, in consultation with the heads of all relevant agencies, shall provide financial incentives in the form of an “exit bonus” for each illegal alien who voluntarily and permanently departs the United States. Sec. 3. Penalties for Aliens Who Fail to Depart. (a) The Secretary of State and the Secretary of Homeland Security, in consultation with the heads of other relevant agencies, shall conduct a nationwide communications campaign to notify illegal aliens of the availability of cost-free travel to other countries; the exit bonus; and the sweeping consequences for those who choose to remain illegally present, including removal, prosecution, incarceration, and fines as consistent with applicable law for immigration-related crimes; the garnishment of wages; and the confiscation of savings and personal property, including homes and vehicles. (b) No later than 60 days after the date of this proclamation [May 9, 2025], the Secretary of Homeland Security shall supplement existing enforcement and removal operations by deputizing and contracting with State and local law enforcement officers, former Federal officers, officers and personnel within other Federal agencies, and other individuals to increase the enforcement and removal operations force of the Department of Homeland Security by no less than 20,000 officers in order to conduct an intensive campaign to remove illegal aliens who have failed to depart voluntarily. IN WITNESS WHEREOF, I have hereunto set my hand this ninth day of May, in the year of our Lord two thousand twenty-five, and of the Independence of the United States of America the two hundred and forty-ninth. Donald J. Trump.

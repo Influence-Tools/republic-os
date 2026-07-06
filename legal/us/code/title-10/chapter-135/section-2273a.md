@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2273a"
+description: "Space Rapid Capabilities Office"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "135"
+chapter_name: "SPACE PROGRAMS"
+section: "2273a"
+citation: "10 U.S.C. § 2273a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2273a"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "e31c9e5ff9a61a53570a5b6434a574246db1616c1aa36b6785b251d265dafdbb"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "1465ecb28b4e5559cb7f2645fb82d73fbe0945c58419fd7b9ac7287a04823287"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2273a - Space Rapid Capabilities Office
+
+## Text
+
+(a) In General.— There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Space Force Space Systems Command.
+
+(b) Head of Office.— The head of the Office shall be the designee of the Secretary of the Air Force. The head of the Office shall report to the Chief of Space Operations.
+
+(c) Mission.— The mission of the Office shall be—
+
+(1) to contribute to the development of low-cost, rapid reaction payloads, busses, launch, and launch control capabilities in order to fulfill joint military operational requirements for on-demand space support and reconstitution;
+
+(2) to coordinate and execute space rapid capabilities efforts across the Department of Defense with respect to planning, acquisition, and operations; and
+
+(3) to rapidly develop and field new classified space capabilities.
+
+(d) Acquisition Authority.— The acquisition activities of the Office shall be subject to the following:
+
+(1) The Secretary of the Air Force shall designate the acquisition executive of the Office who shall provide streamlined acquisition authorities for projects of the Office.
+
+(2) The Joint Capabilities Integration and Development System process shall not apply to acquisitions by the Office.
+
+(e) Required Program Element.— (1) The Secretary of the Air Force shall ensure, within budget program elements for space programs, that—
+
+(A) there are separate, dedicated unclassified and classified program elements for space rapid capabilities; and
+
+(B) the Office executes the responsibilities of the Office through such program elements.
+
+(2) The Office shall manage the program elements required by paragraph (1).
+
+(f) Board of Directors.— The Secretary of the Air Force shall establish for the Office a Board of Directors (to be known as the “Space Rapid Capabilities Board of Directors”) to provide coordination, oversight, and approval of projects of the Office.
+
+(Added Pub. L. 108–375, div. A, title IX, § 913(a)(1), Oct. 28, 2004, 118 Stat. 2028; amended Pub. L. 109–364, div. A, title IX, § 913(b)(1), Oct. 17, 2006, 120 Stat. 2355; Pub. L. 112–239, div. A, title IX, § 914, Jan. 2, 2013, 126 Stat. 1876; Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1720; Pub. L. 115–232, div. A, title XVI, § 1602, Aug. 13, 2018, 132 Stat. 2104; Pub. L. 116–92, div. A, title IX, § 958(a)(2), title XVI, § 1601(b)(2), Dec. 20, 2019, 133 Stat. 1567, 1722; Pub. L. 116–283, div. A, title IX, § 924(b)(31), Jan. 1, 2021, 134 Stat. 3825; Pub. L. 119–60, div. A, title VI, § 601(i), Dec. 18, 2025, 139 Stat. 905.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–60 substituted “Space Force Space Systems Command” for “Air Force Space and Missile Systems Center”. 2021—Subsec. (d)(3). Pub. L. 116–283 struck out par. (3) which read as follows: “The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command, shall— “(A) establish and validate capability requirements; and “(B) recommend priorities as the Commander determines appropriate.” 2019—Subsec. (a). Pub. L. 116–92, § 958(a)(2)(A), substituted “Space Force” for “Air Force Space Command”. Subsec. (b). Pub. L. 116–92, § 958(a)(2)(B), substituted “Chief of Space Operations” for “Commander of the Air Force Space Command”. Subsec. (d)(3). Pub. L. 116–92, § 1601(b)(2), substituted “The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command,” for “The Commander of the United States Strategic Command, acting through the United States Space Command,”. 2018—Pub. L. 115–232 amended section generally. Prior to amendment, section related to: in subsec. (a) the Space Rapid Capabilities Office, in subsec. (b) the head of the Office, in subsec. (c) the mission of the Office, in subsec. (d) elements of the Department of Defense to be included in the Office, in subsec. (e) acquisition activities of the Office, in subsec. (f) required program elements, and in subsec. (g) establishment of an Executive Committee to provide coordination, oversight, and approval of projects. 2017—Pub. L. 115–91, § 1601(b)(1)(A), substituted “Space Rapid Capabilities” for “Operationally Responsive Space Program” in section catchline. Subsec. (a). Pub. L. 115–91, § 1601(b)(1)(B), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center of the Department of Defense” and “Space Rapid Capabilities” for “Operationally Responsive Space Program”. Subsec. (b). Pub. L. 115–91, § 1601(b)(1)(C), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center”. Subsec. (c)(2). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”. Subsec. (d). Pub. L. 115–91, § 1601(b)(1)(E), substituted “space rapid capabilities” for “operationally responsive space” in introductory provisions and pars. (2) and (3)(A), “space rapid capabilities” for “capabilities for operationally responsive space” in par. (1), and “space rapid capabilities” for “operationally responsive space capabilities” in introductory provisions of par. (4)(B). Subsec. (f)(1)(A). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”. Subsec. (g)(1). Pub. L. 115–91, § 1601(b)(1)(F), substituted “Space Rapid Capabilities” for “Operationally Responsive Space”. 2013—Subsec. (a). Pub. L. 112–239, § 914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).” Subsec. (b). Pub. L. 112–239, § 914(b), substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be— “(1) the Department of Defense Executive Agent for Space; or “(2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space.” Subsec. (c)(1). Pub. L. 112–239, § 914(c), substituted “launch” for “spacelift”. Subsec. (e)(1). Pub. L. 112–239, § 914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.” Subsec. (g). Pub. L. 112–239, § 914(e), added subsec. (g). 2006—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to establishment, control, mission, elements, and authority of the Operationally Responsive Space Program Office within the Department of Defense for provisions relating to requirement for a separate, dedicated program element for operationally responsive national security payloads and buses within budget program elements for space programs of the Department of Defense.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 108–375, div. A, title IX, § 913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: “Subsection (a) of section 2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005.”
+
+United States Policy on Operationally Responsive SpacePub. L. 109–364, div. A, title IX, § 913(a), Oct. 17, 2006, 120 Stat. 2355, provided that: “It is the policy of the United States to demonstrate, acquire, and deploy an effective capability for operationally responsive space to support military users and operations from space, which shall consist of— “(1) responsive satellite payloads and busses built to common technical standards; “(2) low-cost space launch vehicles and supporting range operations that facilitate the timely launch and on-orbit operations of satellites; “(3) responsive command and control capabilities; and “(4) concepts of operations, tactics, techniques, and procedures that permit the use of responsive space assets for combat and military operations other than war.”
+
+Joint Operationally Responsive Space Payload Technology OrganizationPub. L. 109–163, div. A, title IX, § 913(a), Jan. 6, 2006, 119 Stat. 3408, which directed the Secretary of Defense to establish or designate an organization in the Department of Defense to coordinate joint operationally responsive space payload technology, was repealed by Pub. L. 109–364, div. A, title IX, § 913(d), Oct. 17, 2006, 120 Stat. 2358.

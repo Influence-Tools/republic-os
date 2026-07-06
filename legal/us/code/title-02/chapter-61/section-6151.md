@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "2 U.S.C. § 6151"
+description: "Compensation of Secretaries for Senate Majority and Minority"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 2
+title_name: "THE CONGRESS"
+chapter_number: "61"
+chapter_name: "SENATE LEADERSHIP"
+section: "6151"
+citation: "2 U.S.C. § 6151"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc02@119-100.zip"
+source_identifier: "/us/usc/t2/s6151"
+source_file: "data/legal/raw/us/code/title-02/usc02.xml"
+source_hash: "5dd965474acca8c22416034fff49a87927c2287165d030ab8d87c5d22dc4a679"
+raw_snapshot_hash: "ec6910a011de0a97d11b263bbcd649766188311e429ae6bdb5fc2cf5e6ebbb9e"
+text_hash: "d525b5cdd84f0e5f92dc6617ebee5f5d24b15fab8f0ecdaa18b98df7fe361ce4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 2 U.S.C. § 6151 - Compensation of Secretaries for Senate Majority and Minority
+
+## Text
+
+The Secretary for the Majority of the Senate (other than the incumbent holding office on April 1, 1977) and the Secretary for the Minority of the Senate shall each be paid at an annual rate of compensation of $39,500.
+
+(Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275; Pub. L. 95–26, title I, § 102(a), May 4, 1977, 91 Stat. 82; Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 61g of this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2019—Pub. L. 116–94 repealed Pub. L. 94–59, § 105. See 1975 Amendment note below. 1977—Pub. L. 95–26 substituted “April 1, 1977” for “July 1, 1975”. Provisions covering the compensation of the incumbent holding the office of Secretary for the Majority of the Senate on July 1, 1975, were dropped as executed. See successor provisions set out as a note below. 1975—Pub. L. 94–59, which increased annual rate of compensation of both Secretary for Majority of Senate and Secretary for Minority of Senate from $38,190 to $39,500 and substituted provisions excepting incumbent Secretary for Majority holding office on July 1, 1975, from mandatory payment of $39,500 rate but authorizing payment to him as long as he occupies that position at a maximum annual rate of compensation not to exceed $39,500 for provisions excepting Secretary for Majority holding office on June 15, 1974, from mandatory payment of the $38,190 rate but authorizing payment to him as long as he occupied that position at a maximum annual rate of compensation not to exceed $38,190, was repealed by Pub. L. 116–94. See above.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2019 AmendmentAmendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under section 282b of this title.
+
+Effective Date of 1975 AmendmentPub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, which provided that the increase in the rate of compensation to $39,500 was effective July 1, 1975, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
+
+Effective DateSection effective July 1, 1974, see section 4 of Pub. L. 93–371, set out in part as an Effective Date of 1974 Amendment note under section 273 of this title.
+
+Compensation of Incumbent Holding Position of Secretary for the Majority on April 1, 1977Pub. L. 95–26, title I, § 102(b), May 4, 1977, 91 Stat. 82, provided that: “The Majority Leader of the Senate is authorized to fix the compensation of the Secretary for the Majority so long as the position is held by the incumbent holding such position on April 1, 1977.”
+
+1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the SenateAdjustment in compensation by Pub. L. 93–371 not to supersede order of President pro tempore of the Senate authorizing higher rate of compensation or any authority of President pro tempore to adjust rates of compensation or limitations under section 4 of the Federal Pay Comparability Act of 1970, see section 4 of Pub. L. 93–371, set out in part as a note under section 273 of this title.
+
+Increases in CompensationIncreases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
+
+1964 Increase in Gross Annual CompensationRates of gross compensation of Secretaries for Senate Majority and Minority, see section 202(f), (g) of Pub. L. 88–426, title II, Aug. 14, 1964, 78 Stat. 414, set out as a note under section 4571 of this title.

@@ -1,0 +1,33 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 691"
+description: "Repealed. Pub. L. 117–263, div. A, title IV, § 402(a)(1), Dec. 23, 2022, 136 Stat. 2551]"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "39"
+chapter_name: "ACTIVE DUTY"
+section: "691"
+citation: "10 U.S.C. § 691"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s691"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "03ace6346b1a6b50c170dbdfe617969b13ed93f45334cf651d68bcd7bf272d32"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "4e90780bf684d86890579c9d89a8ed261507186c807fc647c7ade9ce627284b3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 691 - Repealed. Pub. L. 117–263, div. A, title IV, § 402(a)(1), Dec. 23, 2022, 136 Stat. 2551]
+
+## Notes
+
+Section, added Pub. L. 104–106, div. A, title IV, § 401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, § 402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, § 402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, § 402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, § 402(a), title X, § 1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, § 1 [[div. A], title IV, §§ 402(a), 403], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, § 402, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 107–314, div. A, title IV, § 402, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–136, div. A, title IV, § 402, Nov. 24, 2003, 117 Stat. 1450; Pub. L. 108–375, div. A, title IV, § 402, Oct. 28, 2004, 118 Stat. 1862; Pub. L. 109–163, div. A, title IV, § 402, Jan. 6, 2006, 119 Stat. 3219; Pub. L. 109–364, div. A, title IV, § 402, Oct. 17, 2006, 120 Stat. 2169; Pub. L. 110–181, div. A, title IV, § 402, Jan. 28, 2008, 122 Stat. 86; Pub. L. 110–417, [div. A], title IV, § 402, Oct. 14, 2008, 122 Stat. 4428; Pub. L. 111–84, div. A, title IV, § 402, Oct. 28, 2009, 123 Stat. 2265; Pub. L. 111–383, div. A, title IV, § 402, Jan. 7, 2011, 124 Stat. 4202; Pub. L. 112–81, div. A, title IV, § 402, Dec. 31, 2011, 125 Stat. 1382; Pub. L. 112–239, div. A, title IV, § 402, Jan. 2, 2013, 126 Stat. 1708; Pub. L. 113–66, div. A, title IV, § 402(a), Dec. 26, 2013, 127 Stat. 744; Pub. L. 113–291, div. A, title IV, § 402, Dec. 19, 2014, 128 Stat. 3349; Pub. L. 114–92, div. A, title IV, § 402, Nov. 25, 2015, 129 Stat. 801; Pub. L. 114–328, div. A, title IV, § 402, Dec. 23, 2016, 130 Stat. 2091; Pub. L. 115–91, div. A, title IV, § 402, Dec. 12, 2017, 131 Stat. 1368; Pub. L. 115–232, div. A, title IV, § 402, Aug. 13, 2018, 132 Stat. 1735; Pub. L. 116–92, div. A, title IV, § 402, Dec. 20, 2019, 133 Stat. 1334; Pub. L. 116–283, div. A, title IV, § 402(a), Jan. 1, 2021, 134 Stat. 3555; Pub. L. 117–81, div. A, title IV, § 402, Dec. 27, 2021, 135 Stat. 1673, related to permanent end strength levels to support the National Defense Strategy.

@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1707"
+description: "Cadre of intellectual property experts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "87"
+chapter_name: "DEFENSE ACQUISITION WORKFORCE"
+section: "1707"
+citation: "10 U.S.C. § 1707"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1707"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "73862355f5dd974bd0346dae0f5c20429b6d6d366a954138d1f14cbafc741a5a"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "13c5c01fdd145a347c0b0c2068ea59f9308fcebcf240f0f8c589e1649d45e216"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1707 - Cadre of intellectual property experts
+
+## Text
+
+(a) Cadre.— The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a cadre of personnel who are experts in intellectual property matters. The purpose of the cadre is to ensure a consistent, strategic, and highly knowledgeable approach to acquiring or licensing intellectual property by providing expert advice, assistance, and resources to the acquisition workforce on intellectual property matters, including acquiring or licensing intellectual property.
+
+(b) Leadership Structure.— The Under Secretary—
+
+(1) shall establish an appropriate leadership structure and office within which the cadre shall be managed; and
+
+(2) shall determine the appropriate official to whom members of the cadre shall report.
+
+(c) Duties.— The cadre of experts shall be assigned to a program office or an acquisition command within a military department to advise, assist, and provide resources to a program manager or portfolio acquisition executive on intellectual property matters at various stages of the life cycle of a system. In performing such duties, the experts shall—
+
+(1) interpret and provide counsel on laws, regulations, and policies relating to intellectual property;
+
+(2) advise and assist in the development of an acquisition strategy, product support strategy, and intellectual property strategy for a system;
+
+(3) conduct or assist with financial analysis and valuation of intellectual property;
+
+(4) assist in the drafting of a solicitation, contract, or other transaction;
+
+(5) interact with or assist in interactions with contractors, including communications and negotiations with contractors on solicitations and awards; and
+
+(6) conduct or assist with mediation if technical data delivered pursuant to a contract is incomplete or does not comply with the terms of agreements.
+
+(d) Administration.— (1) In order to achieve the purpose set forth in subsection (a), the Under Secretary shall ensure the cadre has the appropriate number of staff and such staff possesses the necessary skills, knowledge, and experience to carry out the duties under subsection (b), including in relevant areas of law, contracting, acquisition, logistics, engineering, financial analysis, and valuation. The Under Secretary, in coordination with the Defense Acquisition University and in consultation with academia and industry, shall develop a career path, including development opportunities, exchanges, talent management programs, and training, for the cadre. The Under Secretary may use existing authorities to staff the cadre, including those in paragraphs (2), (3), (4), and (6).
+
+(2) Civilian personnel from within the Office of the Secretary of Defense, Joint Staff, military departments, Defense Agencies, and combatant commands may be assigned to serve as members of the cadre, upon request of the Director.
+
+(3) The Under Secretary may use the authorities for highly qualified experts under section 9903 of title 5, to hire experts as members of the cadre who are skilled professionals in intellectual property and related matters.
+
+(4) The Under Secretary may enter into a contract with a private-sector entity for specialized expertise to support the cadre. Such entity may be considered a covered Government support contractor, as defined in section 3775(a) of this title.
+
+(5) In establishing the cadre, the Under Secretary shall give preference to civilian employees of the Department of Defense, rather than members of the armed forces, to maintain continuity in the cadre.
+
+(6) The Under Secretary is authorized to use amounts in the Defense Acquisition Workforce Development Fund for the purpose of recruitment, training, and retention of the cadre, including paying salaries of newly hired members of the cadre for up to three years.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1877, Jan. 1, 2021, 134 Stat. 4291; Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 1707, added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1639; amended Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225, related to personnel in the Office of the Secretary of Defense and in the Defense Agencies, prior to repeal by Pub. L. 108–136, div. A, title VIII, § 831(a), Nov. 24, 2003, 117 Stat. 1549.
+
+Codification The text of subsec. (b) of section 2322 of title, which was transferred to this section and amended by Pub. L. 116–283, § 1877(b)–(e), was based on Pub. L. 115–91, div. A, title VIII, § 802(a)(1), Dec. 12, 2017, 131 Stat. 1450.
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 substituted “portfolio acquisition executive” for “program executive officer” in introductory provisions. 2021—Subsec. (a). Pub. L. 116–283, § 1877(b)(1), redesignated subsec. (b)(1) of section 2322 of this title as subsec. (a) of this section and inserted heading. Subsec. (b). Pub. L. 116–283, § 1877(b)(3), (c), redesignated subsec. (b)(2) of section 2322 of this title as subsec. (b) of this section, inserted heading, inserted dash after “Secretary”, and reorganized remainder of text into designated pars. (1) and (2). Subsec. (c). Pub. L. 116–283, § 1877(b)(3), (d), redesignated subsec. (b)(3) of section 2322 of this title as subsec. (c) of this section, inserted heading, and redesignated subpars. (A) to (F) as pars. (1) to (6), respectively. Amendment by section 1877(d) was executed to subsec. (c) of this section to reflect the probable intent of Congress, notwithstanding directory language amending subsec. (c) of section “17017”. Subsec. (d). Pub. L. 116–283, § 1877(b)(3), (e)(1), (2), redesignated subsec. (b)(4) of section 2322 of this title as subsec. (d) of this section, inserted heading, and redesignated subpars. (A) to (F) as pars. (1) to (6), respectively. Subsec. (d)(1). Pub. L. 116–283, § 1877(e)(3), in first sentence, substituted “subsection (a)” for “paragraph (1)” and “subsection (b)” for “paragraph (2)” and, in third sentence, substituted “paragraphs (2), (3), (4), and (6)” for “subparagraphs (B), (C), (D), and (F)”. Subsec. (d)(4). Pub. L. 116–283, § 1877(e)(4), substituted “section 3775(a)” for “section 2320”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+Pilot Program on Intellectual Property Evaluation for Acquisition ProgramsPub. L. 116–92, div. A, title VIII, § 801, Dec. 20, 2019, 133 Stat. 1481, provided that: “(a) Pilot Program.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense and the Secretaries of the military departments may jointly carry out a pilot program to assess mechanisms to evaluate intellectual property (such as technical data deliverables and associated license rights), including commercially available intellectual property valuation analysis and techniques, in acquisition programs for which each such Secretary is responsible to better understand the benefits associated with these mechanisms on—“(1) the development of cost-effective intellectual property strategies; “(2) the assessment and management of the value and acquisition costs of intellectual property during acquisition and sustainment activities (including source selection evaluation factors) throughout the acquisition lifecycle for any acquisition program selected by such Secretary; and “(3) the use of a commercial product (as defined in section 103 of title 41, United States Code, as in effect on January 1, 2020), commercial service (as defined in section 103a of title 41, United States Code, as in effect on January 1, 2020), or nondevelopmental item (as defined in section 110 of title 41, United States Code) as an alternative to a product or service to be specifically developed for a selected acquisition program, including evaluation of the benefits of reduced risk regarding cost, schedule, and performance associated with commercial products, commercial services, and nondevelopmental items. “(b) Activities.—Activities carried out under the pilot program may include the following:“(1) Establishment of a team of Department of Defense and private sector subject matter experts (which may include the cadre of intellectual property experts established under section 2322(b) of title 10, United States Code [see 10 U.S.C. 1707]) to—“(A) recommend acquisition programs to be selected for the pilot program established under subsection (a); “(B) recommend criteria for the consideration of types of commercial products, commercial services, or nondevelopmental items that can used as an alternative to a product or service to be specifically developed for a selected acquisition program; or “(C) identify, to the maximum extent practicable at each milestone established for each selected acquisition program, intellectual property evaluation techniques to obtain quantitative and qualitative analysis of intellectual property during the procurement, production and deployment, and operations and support phases for the [sic] each selected acquisition program. “(2) Assessment of commercial valuation techniques for intellectual property for use by the Department of Defense. “(3) Assessment of the feasibility of agency-level oversight to standardize intellectual property evaluation practices and procedures. “(4) Assessment of contracting mechanisms to speed delivery of intellectual property to the Armed Forces or reduce sustainment costs. “(5) Assessment of agency acquisition planning to ensure procurement of appropriate intellectual property deliverables and intellectual property rights necessary for Government-planned sustainment activities. “(6) Engagement with the private sector to—“(A) support the development of strategies and program requirements to aid in acquisition planning for intellectual property; “(B) support the development and improvement of intellectual property strategies as part of life-cycle sustainment plans; and “(C) propose and implement alternative and innovative methods of intellectual property valuation, prioritization, and evaluation techniques for intellectual property. “(7) Recommendations to the relevant program manager of an acquisition program selected under subsection (a), including evaluation techniques and contracting mechanisms for acquisition and sustainment activities. “(c) Report.—Not later than November 1, 2020, and annually thereafter through November 1, 2023, the Secretary of Defense, in coordination with the Secretaries concerned, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a joint report on the pilot program conducted under this section. The report shall, at a minimum, include—“(1) a description of the acquisition programs selected by the Secretary concerned; “(2) a description of the specific activities in subsection (c) that were performed under each program; “(3) an assessment of the effectiveness of the activities; “(4) an assessment of improvements to acquisition or sustainment activities related to the pilot program; and “(5) an assessment of the results related to the pilot program, including any cost savings and improvement to mission success during the operations and support phase of the selected acquisition program.”

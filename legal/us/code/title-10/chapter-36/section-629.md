@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 629"
+description: "Removal from a list of officers recommended for promotion"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "36"
+chapter_name: "PROMOTION, SEPARATION, AND INVOLUNTARY RETIREMENT OF OFFICERS ON THE ACTIVE-DUTY LIST"
+section: "629"
+citation: "10 U.S.C. § 629"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s629"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "c8727ed220ec4791eee92ac1147db0cc917f558579bbd0ecb4ba317c56eaa0f0"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "28e103f13bf8cd95be8afe43b26c1f12c3c16dea23a2d681c82b04a383938229"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 629 - Removal from a list of officers recommended for promotion
+
+## Text
+
+(a) Removal by President.— The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter. The President shall notify the congressional defense committees not later than 30 days after removing the name of an officer from such list for any reason other than misconduct.
+
+(b) Removal Due to Senate Not Giving Advice and Consent.— If, after consideration of a list of officers approved for promotion by the President to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the Senate does not give its advice and consent to the appointment of an officer whose name is on the list, that officer’s name shall be removed from the list.
+
+(c) Removal After 18 Months.— (1) If an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer’s promotion eligibility period, the officer’s name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
+
+(2) Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that period for purposes of paragraph (1) by an additional 12 months.
+
+(3) Paragraph (1) does not apply when the military department concerned is not able to obtain and provide to the Senate the information the Senate requires to give its advice and consent to the appointment concerned because that information is under the control of a department or agency of the Federal Government other than the Department of Defense.
+
+(4) In this subsection, the term “promotion eligibility period” means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
+
+(d) Administrative Removal.— Under regulations prescribed by the Secretary concerned, if an officer on the active-duty list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer’s name shall be administratively removed from the list of officers recommended for promotion by a selection board.
+
+(e) Continued Eligibility for Promotion.— (1) An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, upon such promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
+
+(2) If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
+
+(Added Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2860; amended Pub. L. 109–364, div. A, title V, § 515(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 110–181, div. A, title X, § 1063(a)(2), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title V, § 504(a), Jan. 7, 2011, 124 Stat. 4208; Pub. L. 114–328, div. A, title V, § 504, Dec. 23, 2016, 130 Stat. 2107; Pub. L. 115–91, div. A, title V, § 502, Dec. 12, 2017, 131 Stat. 1373; Pub. L. 119–60, div. A, title V, § 503(a)(2), Dec. 18, 2025, 139 Stat. 855.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–60 inserted at end “The President shall notify the congressional defense committees not later than 30 days after removing the name of an officer from such list for any reason other than misconduct.” 2017—Subsec. (c)(3). Pub. L. 115–91, which directed amendment of par. (3) by substituting “the military department concerned is not able to obtain and provide to the Senate the information the Senate requires” for “the Senate is not able to obtain the information necessary”, was executed by making the substitution for “the Senate is not able to obtain information necessary”, to reflect the probable intent of Congress. 2016—Subsec. (c)(3), (4). Pub. L. 114–328 added par. (3) and redesignated former par. (3) as (4). 2011—Subsecs. (d), (e). Pub. L. 111–383 added subsec. (d) and redesignated former subsec. (d) as (e). 2008—Subsec. (d)(1). Pub. L. 110–181 inserted comma after “(a)”. 2006—Subsec. (a). Pub. L. 109–364, § 515(a)(4)(A), inserted heading. Subsec. (b). Pub. L. 109–364, § 515(a)(1), inserted heading and inserted “to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate” after “the President”. Subsec. (c). Pub. L. 109–364, § 515(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 109–364, § 515(a)(2)(A), (4)(B), redesignated subsec. (c) as (d) and inserted heading. Subsec. (d)(1). Pub. L. 109–364, § 515(a)(3), substituted “(b), or (c)” for “or (b)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2006 AmendmentPub. L. 109–364, div. A, title V, § 515(c), Oct. 17, 2006, 120 Stat. 2187, provided that: “The amendments made by this section [amending this section and section 14310 of this title] shall apply to any promotion list approved by the President after January 1, 2007.”
+
+Effective DateSection effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+Executive Documents
+
+Delegation of Functions Functions of President under subsec. (a) to remove name of any officer from a promotion list to any grade below commodore or brigadier general delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§ 1(b), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President. Functions of President under subsec. (c)(2) delegated to Secretary of Defense, with authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§ 1(b), 2, Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.

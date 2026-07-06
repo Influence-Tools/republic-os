@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4402"
+description: "Requirement to address modular open system approach in program capabilities development and acquisition weapon system design"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "327"
+chapter_name: "WEAPON SYSTEMS DEVELOPMENT AND RELATED MATTERS"
+section: "4402"
+citation: "10 U.S.C. § 4402"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4402"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "06f0e9b74d7141ef2a9189021eb27b93517e72b60ccaa701956b34ff6dcef03c"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "f50fcd1c4e071db18597a1e32403c7c7ffe5e5e5dcea87df52d202f4be08d960"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4402 - Requirement to address modular open system approach in program capabilities development and acquisition weapon system design
+
+## Text
+
+(a) Program Capability Document.— A program capability document for a major defense acquisition program shall identify and characterize—
+
+(1) the extent to which requirements for system performance are likely to evolve during the life cycle of the system because of evolving technology, threat, or interoperability needs; and
+
+(2) for requirements that are expected to evolve, the minimum acceptable capability that is necessary for initial operating capability of the major defense acquisition program.
+
+(b) Analysis of Alternatives.— The Director of Cost Assessment and Performance Evaluation, in formulating study guidance for analyses of alternatives for major defense acquisition programs and performing such analyses under section 139a(d)(4) of this title, shall ensure that any such analysis for a major defense acquisition program includes consideration of evolutionary acquisition, prototyping, and a modular open system approach.
+
+(c) Acquisition Strategy.— In the case of a major defense acquisition program that uses a modular open system approach, the acquisition strategy required under section 4211 of this title shall—
+
+(1) clearly describe the modular open system approach to be used for the program;
+
+(2) differentiate between the major system platform and major system components being developed under the program, as well as major system components developed outside the program that will be integrated into the major defense acquisition program;
+
+(3) clearly describe the evolution of major system components that are anticipated to be added, removed, or replaced in subsequent increments;
+
+(4) identify additional major system components that may be added later in the life cycle of the major system platform;
+
+(5) clearly describe how intellectual property and related issues, such as technical data deliverables, that are necessary to support a modular open system approach, will be addressed; and
+
+(6) clearly describe the approach to systems integration and systems-level configuration management to ensure mission and information assurance.
+
+(d) Request for Proposals.— The milestone decision authority for a major defense acquisition program that uses a modular open system approach shall ensure that a request for proposals for the development or production phases of the program shall describe the modular open system approach and the minimum set of major system components that must be included in the design of the major defense acquisition program.
+
+(e) Milestone B.— A major defense acquisition program may not receive Milestone B approval under section 4252 of this title until the milestone decision authority determines in writing—
+
+(1) in the case of a program that uses a modular open system approach, that—
+
+(A) the program incorporates clearly defined major system interfaces between the major system platform and major system components, between major system components, and between major system platforms;
+
+(B) such major system interfaces are consistent with the the 11 So in original. requirements of section 4401(a) of this title; and
+
+(C) the Government has arranged to obtain appropriate and necessary intellectual property rights with respect to such major system interfaces upon completion of the development of the major system platform; or
+
+(2) in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.
+
+(f) Implementation Guidance.— The Secretaries of the military departments shall issue guidance to implement the requirements of this section.
+
+(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2253, § 2446b; amended Pub. L. 115–91, div. A, title X, § 1081(a)(40), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, § 840(a), Dec. 20, 2019, 133 Stat. 1499; renumbered § 4402 and amended Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1), (3), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title XVIII, § 1832(a), Dec. 18, 2025, 139 Stat. 1253.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (e)(1)(B). Pub. L. 119–60 substituted “the requirements of section 4401(a) of this title” for “widely supported and consensus-based standards that exist at the time of the milestone decision, unless such standards are unavailable or unsuitable for particular major system interfaces”. 2021—Pub. L. 116–283, § 1851(b)(1), renumbered section 2446b of this title as this section. Subsec. (c). Pub. L. 116–283, § 1851(b)(3)(A), substituted “section 4211” for “section 2431a” in introductory provisions. Subsec. (e). Pub. L. 116–283, § 1851(b)(3)(B), substituted “section 4252” for “section 2366b” in introductory provisions. 2019—Subsec. (f). Pub. L. 116–92 added subsec. (f). 2017—Subsec. (e). Pub. L. 115–91 substituted “in writing—” for “in writing that—” in introductory provisions and inserted “, that” after “open system approach” in introductory provisions of par. (1).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DateSection effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under section 4401 of this title.
