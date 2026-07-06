@@ -1,0 +1,70 @@
+---
+type: "Bill"
+title: "Emergency management, emergency management personnel carrying out emergency functions relating to disasters further defined as public safety services, Sec. 31-9-3 am'd."
+description: "Emergency management, emergency management personnel carrying out emergency functions relating to disasters further defined as public safety services, Sec. 31-9-3 am'd."
+jurisdiction: "us/states/al"
+legislature: "Alabama Legislature"
+session: "2022rs"
+identifier: "HB 3"
+citation: "Alabama HB 3 (2022rs)"
+classification: ["bill"]
+subjects: ["Emergency Management"]
+status: "enacted"
+primary_sponsors: ["Treadaway"]
+version_count: 2
+action_count: 14
+vote_count: 2
+first_action: "2022-01-11T05:00:00+00:00"
+last_action: "2022-03-15T04:00:00+00:00"
+source: "openstates"
+source_identifier: "ocd-bill/2a7d9b1a-4eb3-4714-bba3-54dbc078cae8"
+source_url: "http://alisondb.legislature.state.al.us/Alison/SESSBillStatusResult.aspx?BILL=HB3"
+source_hash: "67fc2c4bc4589d925eb343a61e0eadb9aa446b785c377fbf6a45dd1ff482a51c"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-al"]
+---
+
+# Alabama HB 3 (2022rs) — Emergency management, emergency management personnel carrying out emergency functions relating to disasters further defined as public safety services, Sec. 31-9-3 am'd.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](http://alisondb.legislature.state.al.us/ALISON/SearchableInstruments/2022rs/PrintFiles/HB3-int.pdf)
+2. **Enrolled** (enrolled) — [source](http://alisondb.legislature.state.al.us/ALISON/SearchableInstruments/2022rs/PrintFiles/HB3-enr.pdf)
+
+## Votes
+
+- Motion to Read a Third Time and Pass adopted Roll Call 126 — **99–0** (pass) · lower
+- Motion to Read a Third Time and Pass adopted Roll Call 567 — **25–0** (pass) · upper
+
+## Sponsors
+
+- Treadaway — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2022-01-11T05:00:00+00:00** Read for the first time and referred to the House of Representatives committee on Public Safety and Homeland Security `reading-1, referral-committee`
+- **2022-02-02T05:00:00+00:00** Read for the second time and placed on the calendar `reading-2`
+- **2022-02-10T05:00:00+00:00** Third Reading Passed `passage`
+- **2022-02-10T05:00:00+00:00** Motion to Read a Third Time and Pass adopted Roll Call 126 `passage`
+- **2022-02-10T05:00:00+00:00** Read for the first time and referred to the Senate committee on Governmental Affairs `reading-1, referral-committee`
+- **2022-02-15T05:00:00+00:00** Read for the second time and placed on the calendar `reading-2`
+- **2022-03-15T04:00:00+00:00** Third Reading Passed `passage`
+- **2022-03-15T04:00:00+00:00** Motion to Read a Third Time and Pass adopted Roll Call 567 `passage`
+- **2022-03-15T04:00:00+00:00** Passed Second House `passage`
+- **2022-03-15T04:00:00+00:00** Enrolled
+- **2022-03-15T04:00:00+00:00** Clerk of the House Certification
+- **2022-03-15T04:00:00+00:00** Signature Requested
+- **2022-03-15T04:00:00+00:00** Assigned Act No. 2022-187. `executive-signature`
+- **2022-03-15T04:00:00+00:00** Delivered to Governor at 4:53 p.m. on March 15, 2022. `executive-receipt`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/2a7d9b1a-4eb3-4714-bba3-54dbc078cae8`. Confidence: reported (aggregated from official Alabama legislature records).
+

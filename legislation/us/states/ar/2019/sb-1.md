@@ -1,0 +1,69 @@
+---
+type: "Bill"
+title: "AN ACT FOR THE EXPENSES FOR THE ARKANSAS SENATE OF THE NINETY-SECOND GENERAL ASSEMBLY APPROPRIATION FOR THE 2019 FISCAL YEAR."
+description: "AN ACT FOR THE EXPENSES FOR THE ARKANSAS SENATE OF THE NINETY-SECOND GENERAL ASSEMBLY APPROPRIATION FOR THE 2019 FISCAL YEAR."
+jurisdiction: "us/states/ar"
+legislature: "Arkansas Legislature"
+session: "2019"
+identifier: "SB 1"
+citation: "Arkansas SB 1 (2019)"
+classification: ["bill"]
+subjects: []
+status: "enacted"
+primary_sponsors: ["Senate Efficiency"]
+version_count: 1
+action_count: 15
+vote_count: 1
+first_action: "2019-01-10"
+last_action: "2019-01-24"
+source: "openstates"
+source_identifier: "ocd-bill/f6f5ddc5-f47a-4e1a-84fe-62b97b336272"
+source_url: "ftp://www.arkleg.state.ar.us/SessionInformation/LegislativeMeasures.txt"
+source_hash: "d1145a46357b7c46956e2831abf55f6688c4a3b4eab52d75d2dd02a59b6dba74"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-ar"]
+---
+
+# Arkansas SB 1 (2019) — AN ACT FOR THE EXPENSES FOR THE ARKANSAS SENATE OF THE NINETY-SECOND GENERAL ASSEMBLY APPROPRIATION FOR THE 2019 FISCAL YEAR.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **SB 1** (committee substitute) — [source](ftp://www.arkleg.state.ar.us/Bills/2019R/Public/Searchable/SB1.pdf)
+
+## Votes
+
+- Read the third time and passed and ordered transmitted to the Senate. — **96–1** (pass) · lower
+
+## Sponsors
+
+- Senate Efficiency — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2019-01-10** Filed `introduction`
+- **2019-01-14** Read the first time, rules suspended, read the second time and placed on the calendar. `reading-1, reading-2`
+- **2019-01-17** Read the third time and passed. `passage, reading-3`
+- **2019-01-17** EMERGENCY CLAUSE ADOPTED
+- **2019-01-17** Ordered immediately transmitted to the House.
+- **2019-01-17** RECEIVED FROM THE SENATE
+- **2019-01-22** Read the first time, rules suspended, read the second time and placed on the CALENDAR. `reading-1, reading-2`
+- **2019-01-23** Read the third time and passed and ordered transmitted to the Senate. `passage, reading-3`
+- **2019-01-23** EMERGENCY CLAUSE ADOPTED
+- **2019-01-23** Returned To the Senate as passed.
+- **2019-01-23** Returned from the House as passed.
+- **2019-01-23** ORDERED ENROLLED
+- **2019-01-23** Reported correctly enrolled and ordered delivered to the Governor.
+- **2019-01-23** DELIVERED TO GOVERNOR. `executive-receipt`
+- **2019-01-24** Notification that SB1 is now Act 3 `executive-signature`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/f6f5ddc5-f47a-4e1a-84fe-62b97b336272`. Confidence: reported (aggregated from official Arkansas legislature records).
+
