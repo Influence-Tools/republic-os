@@ -1,0 +1,26 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # Standard library only — no dependencies to install.
+      - name: Build (deterministic regeneration)
+        run: make build
+      - name: Verify the build changed nothing
+        run: |
+          if ! git diff --quiet; then
+            echo "::error::make build produced a diff — committed tree is not the deterministic build output"
+            git diff --stat
+            exit 1
+          fi
+      - name: Validate (OKF + schema + link integrity)
+        run: make validate
