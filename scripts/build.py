@@ -969,6 +969,16 @@ def main():
 
     # ---- city jurisdictions (incorporated Census places) ----
     by_name, geoid_meta = city_index(crosswalk)
+    # Exact place GEOIDs resolved at the source by Atlas (PostGIS), keyed by
+    # office/person id — preferred over the name-based fuzzy resolver so filled
+    # cities land on their node exactly rather than by 98.8% name match.
+    geoid_exact = {}
+    for r in load("officeholders-municipal-geoid.jsonl"):
+        if r.get("place_geoid"):
+            if r.get("office_id"):
+                geoid_exact[("o", r["office_id"])] = r["place_geoid"]
+            if r.get("person_id"):
+                geoid_exact[("p", r["person_id"])] = r["place_geoid"]
 
     # (a) filled cities — one node per municipal-officeholder folder, written
     #     into the folder its people already occupy (co-located by construction).
@@ -984,7 +994,9 @@ def main():
                                 "label": officeholder_place_name(rec),
                                 "st_abbr": rec.get("state_abbr")}
         f["n"] += 1
-        g = resolve_place_geoid(rec, by_name)
+        g = (geoid_exact.get(("o", rec.get("office_id")))
+             or geoid_exact.get(("p", rec.get("person_id")))
+             or resolve_place_geoid(rec, by_name))
         if g:
             f["geoids"][g] = f["geoids"].get(g, 0) + 1
 
