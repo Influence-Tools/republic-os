@@ -1,0 +1,67 @@
+---
+type: "Bill"
+title: "Appropriation Bill"
+description: "Appropriation Bill"
+jurisdiction: "us/states/ne"
+legislature: "Nebraska Legislature"
+session: "107"
+identifier: "LB 70A"
+citation: "Nebraska LB 70A (107)"
+classification: ["bill"]
+subjects: []
+status: "enacted"
+primary_sponsors: ["Wayne"]
+version_count: 3
+action_count: 10
+vote_count: 2
+first_action: "2021-03-03"
+last_action: "2021-04-20"
+source: "openstates"
+source_identifier: "ocd-bill/36cbb3f9-6a44-41d7-ba2f-6cc56dea349b"
+source_url: "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2021"
+source_hash: "34f8de8330d8a45ee0c10a7a311edb9460694965f4275b9a23546ea850cb1709"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-ne"]
+---
+
+# Nebraska LB 70A (107) — Appropriation Bill
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LB70A.pdf)
+2. **Final Reading** (committee substitute) — [source](https://nebraskalegislature.gov/FloorDocs/107/PDF/Final/LB70A.pdf)
+3. **Slip Law** (committee substitute) — [source](https://nebraskalegislature.gov/FloorDocs/107/PDF/Slip/LB70A.pdf)
+
+## Votes
+
+- Passed on Final Reading 42-2-5 — **42–2** (pass) · legislature
+- Advanced to Enrollment and Review Initial — **31–0** (pass) · legislature
+
+## Sponsors
+
+- Wayne — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2021-04-20** Approved by Governor on April 16, 2021 `executive-signature`
+- **2021-04-12** Presented to Governor on April 12, 2021 `executive-receipt`
+- **2021-04-12** President/Speaker signed `passage`
+- **2021-04-12** Passed on Final Reading 42-2-5 `passage`
+- **2021-04-07** Placed on Final Reading `reading-3`
+- **2021-04-06** Advanced to Enrollment and Review for Engrossment
+- **2021-03-31** Placed on Select File `filing`
+- **2021-03-30** Advanced to Enrollment and Review Initial
+- **2021-03-03** Placed on General File `filing`
+- **2021-03-03** Date of introduction `introduction`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/36cbb3f9-6a44-41d7-ba2f-6cc56dea349b`. Confidence: reported (aggregated from official Nebraska legislature records).
+

@@ -1,0 +1,96 @@
+---
+type: "Bill"
+title: "Food Stand Seating & Outdoor Food Service."
+description: "Food Stand Seating & Outdoor Food Service."
+jurisdiction: "us/states/nc"
+legislature: "North Carolina General Assembly"
+session: "2015"
+identifier: "SB 7"
+citation: "North Carolina SB 7 (2015)"
+classification: ["bill"]
+subjects: ["DHHS", "ENTERTAINMENT INDUSTRY", "FOOD SERVICES", "FOODS & BEVERAGES", "PRESENTED", "PUBLIC", "PUBLIC HEALTH", "RATIFIED", "SANITATION", "SPORTS", "CHAPTERED", "FOOD TRUCKS"]
+status: "enacted"
+primary_sponsors: []
+version_count: 7
+action_count: 33
+vote_count: 2
+first_action: "2015-01-28"
+last_action: "2015-06-24"
+source: "openstates"
+source_identifier: "ocd-bill/158658da-a5ba-451f-8532-0d1976ad03a9"
+source_url: "http://www.ncleg.net/gascripts/BillLookUp/BillLookUp.pl?Session=2015&BillID=S7&votesToView=all"
+source_hash: "b679a35b66334dca6038c13b9169c2b8c40dd2f993ea1f2a46cd0c5af21adb38"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-nc"]
+---
+
+# North Carolina SB 7 (2015) — Food Stand Seating & Outdoor Food Service.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Filed** (filed) — [source](http://www.ncleg.net/Sessions/2015/Bills/Senate/PDF/S7v0.pdf)
+2. **Edition 1** (committee substitute) — [source](http://www.ncleg.net/Sessions/2015/Bills/Senate/PDF/S7v1.pdf)
+3. **Edition 2** (committee substitute) — [source](http://www.ncleg.net/Sessions/2015/Bills/Senate/PDF/S7v2.pdf)
+4. **Edition 3** (committee substitute) — [source](http://www.ncleg.net/Sessions/2015/Bills/Senate/PDF/S7v3.pdf)
+5. **Edition 4** (committee substitute) — [source](http://www.ncleg.net/Sessions/2015/Bills/Senate/PDF/S7v4.pdf)
+6. **Ratified** (committee substitute) — [source](http://www.ncleg.net/Sessions/2015/Bills/Senate/PDF/S7v5.pdf)
+7. **SL2015-104** (committee substitute) — [source](http://www.ncleg.net/Sessions/2015/Bills/Senate/PDF/S7v6.pdf)
+
+## Votes
+
+- Second Reading — **113–1** (pass) · lower
+- Motion 9 To Concur — **47–0** (pass) · upper
+
+## Sponsors
+
+- B. Jackson — cosponsor (person)
+- Brown — cosponsor (person)
+- Tillman — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2015-06-24** Ch. SL 2015-104 `became-law`
+- **2015-06-24** Signed by Gov. 6/24/2015 `executive-signature`
+- **2015-06-16** Pres. To Gov. 06/16/2015 `executive-receipt`
+- **2015-06-15** Ratified
+- **2015-06-11** Ordered Enrolled
+- **2015-06-11** Concurred In H/Com Sub `amendment-passage`
+- **2015-06-10** Placed On Cal For 06/11/2015
+- **2015-06-10** Regular Message Received For Concurrence in H Com Sub
+- **2015-06-10** Regular Message Sent To Senate
+- **2015-06-09** Passed 3rd Reading `passage, reading-3`
+- **2015-06-09** Passed 2nd Reading `reading-2`
+- **2015-06-08** Postponed To 06/09/2015
+- **2015-06-04** Placed On Cal For 06/08/2015
+- **2015-06-04** Cal Pursuant Rule 36(b)
+- **2015-06-04** Reptd Fav `committee-passage-favorable`
+- **2015-05-27** Re-ref Com On Commerce and Job Development `referral-committee`
+- **2015-05-27** Reptd Fav Com Substitute `committee-passage-favorable`
+- **2015-04-21** Ref to the Com on Health, if favorable, Commerce and Job Development `referral-committee`
+- **2015-04-21** Passed 1st Reading `reading-1`
+- **2015-04-20** Regular Message Received From Senate
+- **2015-04-20** Regular Message Sent To House
+- **2015-04-16** Passed 3rd Reading `passage, reading-3`
+- **2015-04-16** Passed 2nd Reading `reading-2`
+- **2015-04-15** Com Substitute Adopted
+- **2015-04-15** Reptd Fav Com Substitute `committee-passage-favorable`
+- **2015-03-10** Re-ref Com On Commerce `referral-committee`
+- **2015-03-10** Com Substitute Adopted
+- **2015-03-10** Reptd Fav Com Substitute `committee-passage-favorable`
+- **2015-02-04** Re-ref to Health Care. If fav, re-ref to Commerce `referral-committee`
+- **2015-02-04** Withdrawn From Com
+- **2015-02-02** Ref To Com On Rules and Operations of the Senate `referral-committee`
+- **2015-02-02** Passed 1st Reading `reading-1`
+- **2015-01-28** Filed `introduction`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/158658da-a5ba-451f-8532-0d1976ad03a9`. Confidence: reported (aggregated from official North Carolina legislature records).
+

@@ -1,0 +1,67 @@
+---
+type: "Bill"
+title: "Appropriation Bill"
+description: "Appropriation Bill"
+jurisdiction: "us/states/ne"
+legislature: "Nebraska Legislature"
+session: "106"
+identifier: "LB 25A"
+citation: "Nebraska LB 25A (106)"
+classification: ["bill"]
+subjects: []
+status: "enacted"
+primary_sponsors: ["Kolterman"]
+version_count: 3
+action_count: 10
+vote_count: 2
+first_action: "2019-02-13"
+last_action: "2019-03-13"
+source: "openstates"
+source_identifier: "ocd-bill/0f22d995-4c76-47db-b141-211b73bfef3e"
+source_url: "https://nebraskalegislature.gov/bills/search_by_date.php?SessionDay=2019"
+source_hash: "01646a100adae742d5ba7a5db2baf7fd11b440663d6913e602c4e58d5b992d89"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-ne"]
+---
+
+# Nebraska LB 25A (106) — Appropriation Bill
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](https://nebraskalegislature.gov/FloorDocs/106/PDF/Intro/LB25A.pdf)
+2. **Final Reading** (committee substitute) — [source](https://nebraskalegislature.gov/FloorDocs/106/PDF/Final/LB25A.pdf)
+3. **Slip Law** (committee substitute) — [source](https://nebraskalegislature.gov/FloorDocs/106/PDF/Slip/LB25A.pdf)
+
+## Votes
+
+- Advanced to Enrollment and Review Initial — **31–0** (pass) · legislature
+- Passed on Final Reading 47-0-2 — **47–0** (pass) · legislature
+
+## Sponsors
+
+- Kolterman — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2019-03-13** Approved by Governor on March 12, 2019 `executive-signature`
+- **2019-03-07** Presented to Governor on March 07, 2019 `executive-receipt`
+- **2019-03-07** President/Speaker signed `passage`
+- **2019-03-07** Passed on Final Reading 47-0-2 `passage`
+- **2019-03-05** Placed on Final Reading `reading-3`
+- **2019-03-01** Advanced to Enrollment and Review for Engrossment
+- **2019-02-22** Placed on Select File `filing`
+- **2019-02-20** Advanced to Enrollment and Review Initial
+- **2019-02-13** Placed on General File `filing`
+- **2019-02-13** Date of introduction `introduction`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/0f22d995-4c76-47db-b141-211b73bfef3e`. Confidence: reported (aggregated from official Nebraska legislature records).
+

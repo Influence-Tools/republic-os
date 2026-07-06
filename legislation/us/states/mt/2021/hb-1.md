@@ -1,0 +1,102 @@
+---
+type: "Bill"
+title: "Feed Bill to fund 67th Legislative session and prepare for 2023"
+description: "Feed Bill to fund 67th Legislative session and prepare for 2023"
+jurisdiction: "us/states/mt"
+legislature: "Montana Legislature"
+session: "2021"
+identifier: "HB 1"
+citation: "Montana HB 1 (2021)"
+classification: ["bill"]
+subjects: ["Appropriations (see also: State Finance)", "Legislature"]
+status: "enacted"
+primary_sponsors: ["Llew Jones"]
+version_count: 3
+action_count: 41
+vote_count: 6
+first_action: "2020-08-25"
+last_action: "2021-02-03"
+source: "openstates"
+source_identifier: "ocd-bill/e5a0616d-acbd-418c-aba6-d781bc1f818a"
+source_url: "http://laws.leg.mt.gov/legprd/LAW0210W$BSIV.ActionQuery?P_BILL_NO1=1&P_BLTP_BILL_TYP_CD=HB&Z_ACTION=Find&P_SESS=20211"
+source_hash: "7f3cb4e1946f819adda90fef39aaecdd83ef45e8f35c5c3b5316e3ccae6c1c07"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-mt"]
+---
+
+# Montana HB 1 (2021) — Feed Bill to fund 67th Legislative session and prepare for 2023
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **HB0001_1.pdf** (committee substitute) — [source](https://leg.mt.gov/bills/2021/HB0099//HB0001_1.pdf)
+2. **HB0001_X.pdf** (committee substitute) — [source](https://leg.mt.gov/bills/2021/HB0099//HB0001_X.pdf)
+3. **Enrolled** (enrolled) — [source](https://leg.mt.gov/bills/2021/billpdf/HB0001.pdf)
+
+## Votes
+
+- Do Concur — **36–14** (pass) · upper
+- BE CONCURRED IN — **18–1** (pass) · upper
+- Do Concur — **37–12** (pass) · upper
+- Do Pass — **87–13** (pass) · lower
+- DO PASS — **23–0** (pass) · lower
+- Do Pass — **90–10** (pass) · lower
+
+## Sponsors
+
+- Llew Jones — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2020-08-25** Draft Request Received
+- **2020-12-08** Draft in Legal Review
+- **2020-12-08** Draft in Edit
+- **2020-12-10** Draft to Drafter - Edit Review
+- **2020-12-10** Draft in Input/Proofing
+- **2020-12-10** Draft in Final Drafter Review
+- **2020-12-10** Bill Draft Text Available Electronically
+- **2020-12-10** Executive Director Review
+- **2020-12-10** Draft in Assembly
+- **2020-12-13** Introduced Bill Text Available Electronically
+- **2020-12-13** Introduced `introduction`
+- **2020-12-24** Referred to Committee - (H) Appropriations `referral-committee`
+- **2021-01-04** First Reading - (H) Appropriations `reading-1`
+- **2021-01-05** Hearing - (H) Appropriations
+- **2021-01-06** Committee Executive Action--Bill Passed - (H) Appropriations `committee-passage`
+- **2021-01-06** Committee Report--Bill Passed - (H) Appropriations `committee-passage`
+- **2021-01-07** Scheduled for 2nd Reading
+- **2021-01-07** 2nd Reading Passed `reading-2`
+- **2021-01-08** Scheduled for 3rd Reading
+- **2021-01-08** 3rd Reading Passed `passage, reading-3`
+- **2021-01-08** Transmitted to Senate
+- **2021-01-11** First Reading `reading-1`
+- **2021-01-11** Referred to Committee - (S) Finance and Claims `referral-committee`
+- **2021-01-12** Hearing - (S) Finance and Claims
+- **2021-01-12** Committee Executive Action--Bill Concurred - (S) Finance and Claims
+- **2021-01-13** Committee Report--Bill Concurred - (S) Finance and Claims
+- **2021-01-14** Scheduled for 2nd Reading
+- **2021-01-14** 2nd Reading Pass Consideration
+- **2021-01-18** Scheduled for 2nd Reading
+- **2021-01-18** 2nd Reading Concurred `reading-2`
+- **2021-01-19** Scheduled for 3rd Reading
+- **2021-01-19** 3rd Reading Concurred `passage, reading-3`
+- **2021-01-19** Returned to House
+- **2021-01-20** Sent to Enrolling
+- **2021-01-21** Returned from Enrolling
+- **2021-01-21** Printed - Enrolled Version Available
+- **2021-01-22** Signed by Speaker
+- **2021-01-22** Signed by President
+- **2021-01-25** Transmitted to Governor `executive-receipt`
+- **2021-02-03** Signed by Governor `executive-signature`
+- **2021-02-03** Chapter Number Assigned `became-law`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/e5a0616d-acbd-418c-aba6-d781bc1f818a`. Confidence: reported (aggregated from official Montana legislature records).
+
