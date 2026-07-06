@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "41 U.S.C. § 8102"
+description: "Drug-free workplace requirements for Federal contractors"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 41
+title_name: "PUBLIC CONTRACTS"
+chapter_number: "81"
+chapter_name: "DRUG-FREE WORKPLACE"
+section: "8102"
+citation: "41 U.S.C. § 8102"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc41@119-100.zip"
+source_identifier: "/us/usc/t41/s8102"
+source_file: "data/legal/raw/us/code/title-41/usc41.xml"
+source_hash: "123a22c3f3b7a0e1a62fd1b09d13d624ec8d933742d23d87502a6697afbeafd1"
+raw_snapshot_hash: "0977ff7e7fefd99bbd25a86e009a9e4c2707301ec8c49233d17b6604e38702e3"
+text_hash: "554dbbea00244fe27de39219823ec849f4c167f94261fff6a2cb0d96fe92d789"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 41 U.S.C. § 8102 - Drug-free workplace requirements for Federal contractors
+
+## Text
+
+(a) In General.— (1) Persons other than individuals.— A person other than an individual shall not be considered a responsible source (as defined in section 113 of this title) for the purposes of being awarded a contract for the procurement of any property or services of a value greater than the simplified acquisition threshold (as defined in section 134 of this title) by a Federal agency, other than a contract for the procurement of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title), unless the person agrees to provide a drug-free workplace by—
+
+(A) publishing a statement notifying employees that the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance is prohibited in the person’s workplace and specifying the actions that will be taken against employees for violations of the prohibition;
+
+(B) establishing a drug-free awareness program to inform employees about—
+
+(i) the dangers of drug abuse in the workplace;
+
+(ii) the person’s policy of maintaining a drug-free workplace;
+
+(iii) available drug counseling, rehabilitation, and employee assistance programs; and
+
+(iv) the penalties that may be imposed on employees for drug abuse violations;
+
+(C) making it a requirement that each employee to be engaged in the performance of the contract be given a copy of the statement required by subparagraph (A);
+
+(D) notifying the employee in the statement required by subparagraph (A) that as a condition of employment on the contract the employee will—
+
+(i) abide by the terms of the statement; and
+
+(ii) notify the employer of any criminal drug statute conviction for a violation occurring in the workplace no later than 5 days after the conviction;
+
+(E) notifying the contracting agency within 10 days after receiving notice under subparagraph (D)(ii) from an employee or otherwise receiving actual notice of a conviction;
+
+(F) imposing a sanction on, or requiring the satisfactory participation in a drug abuse assistance or rehabilitation program by, any employee who is convicted, as required by section 8104 of this title; and
+
+(G) making a good faith effort to continue to maintain a drug-free workplace through implementation of subparagraphs (A) to (F).
+
+(2) Individuals.— A Federal agency shall not make a contract with an individual unless the individual agrees not to engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in the performance of the contract.
+
+(b) Suspension, Termination, or Debarment of Contractor.— (1) Grounds for suspension, termination, or debarment.— Payment under a contract awarded by a Federal agency may be suspended and the contract may be terminated, and the contractor or individual who made the contract with the agency may be suspended or debarred in accordance with the requirements of this section, if the head of the agency determines that—
+
+(A) the contractor is violating, or has violated, the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1); or
+
+(B) the number of employees of the contractor who have been convicted of violations of criminal drug statutes for violations occurring in the workplace indicates that the contractor has failed to make a good faith effort to provide a drug-free workplace as required by subsection (a).
+
+(2) Conduct of suspension, termination, and debarment proceedings.— A contracting officer who determines in writing that cause for suspension of payments, termination, or suspension or debarment exists shall initiate an appropriate action, to be conducted by the agency concerned in accordance with the Federal Acquisition Regulation and applicable agency procedures. The Federal Acquisition Regulation shall be revised to include rules for conducting suspension and debarment proceedings under this subsection, including rules providing notice, opportunity to respond in writing or in person, and other procedures as may be necessary to provide a full and fair proceeding to a contractor or individual.
+
+(3) Effect of debarment.— A contractor or individual debarred by a final decision under this subsection is ineligible for award of a contract by a Federal agency, and for participation in a future procurement by a Federal agency, for a period specified in the decision, not to exceed 5 years.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3827; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 810241:701.Pub. L. 100–690, title V, § 5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, § 4104(d), title VIII, § 8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§ 4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677.
+
+Editorial Notes
+
+Amendments2018—Subsec. (a)(1). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)” for “commercial items (as defined in section 103 of this title)” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.

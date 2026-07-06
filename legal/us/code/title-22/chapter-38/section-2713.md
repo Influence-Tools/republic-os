@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2713"
+description: "Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "38"
+chapter_name: "DEPARTMENT OF STATE"
+section: "2713"
+citation: "22 U.S.C. § 2713"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2713"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "1b8b337bd773658dcb937975a5007faefbb3bc9106986bc64a4cb101e82d5147"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "5113e13f402abaae5111f7b0bebd4df54c4490b2ee32ec940aa74f57149d0fd5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2713 - Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building
+
+## Text
+
+(a) In general The Secretary of State, acting through the Under Secretary for Management, shall administer the historic and artistic articles of furniture, fixtures, and decorative objects of the reception areas of the Department of State by such means and measures as conform to the purposes of the reception areas, which include conserving those articles, fixtures, and objects and providing for their enjoyment in such manner and by such means as will leave them for the use of the American people. Nothing shall be done under this subsection which conflicts with the administration of the Department of State or with the use of the reception areas for official purposes of the United States Government.
+
+(b) Disposition of historic and artistic items (1) Items covered Articles of furniture, fixtures, and decorative objects of the reception areas (and similar articles, fixtures, and objects acquired by the Secretary of State), when declared by the Secretary of State to be of historic or artistic interest, shall thereafter be considered to be the property of the Secretary in his or her official capacity and shall be subject to disposition solely in accordance with this subsection.
+
+(2) Sale or trade Whenever the Secretary of State, acting through the Under Secretary for Management, determines that—
+
+(A) any item covered by paragraph (1) is no longer needed for use or display in the reception areas, or
+
+(B) in order to upgrade the reception areas, a better use of that article would be its sale or exchange,
+
+the Secretary may, with the advice and concurrence of the Director of the National Gallery of Art, sell the item at fair market value or trade it, without regard to the requirements of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. The proceeds of any such sale may be credited to the unconditional gift account of the Department of State, and items obtained in trade shall be the property of the Secretary of State under this subsection.
+
+(3) Smithsonian Institution The Secretary of State, acting through the Under Secretary for Management, may also lend items covered by paragraph (1), when not needed for use or display in the reception areas, to the Smithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
+
+(c) “Reception areas” defined For purposes of this section, the term “reception areas” means the areas of the Harry S Truman Federal Building, located at 2201 C Street, Northwest, Washington, District of Columbia, known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State’s offices (seventh floor), the Deputy Secretary of State’s offices (seventh floor), and the seventh floor reception area.
+
+(Aug. 1, 1956, ch. 841, title I, § 41, as added Pub. L. 100–204, title I, § 126(a)(2), Dec. 22, 1987, 101 Stat. 1341; amended Pub. L. 106–218, § 2, June 20, 2000, 114 Stat. 345; Pub. L. 119–60, div. E, title I, § 5111(b), Dec. 18, 2025, 139 Stat. 1563.)
+
+## Notes
+
+Editorial Notes
+
+Codification In subsec. (b)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+Prior ProvisionsA prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126(a)(1) of Pub. L. 100–204, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, § 111(1), Oct. 28, 1991, 105 Stat. 654.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 5111(b)(1), inserted “, acting through the Under Secretary for Management,” after “The Secretary of State”. Subsec. (b)(2). Pub. L. 119–60, § 5111(b)(2)(A), inserted “, acting through the Under Secretary for Management,” after “Whenever the Secretary of State” in introductory provisions. Subsec. (b)(3). Pub. L. 119–60, § 5111(b)(2)(B), inserted “, acting through the Under Secretary for Management,” after “The Secretary of State”. 2000—Pub. L. 106–218 substituted “Harry S Truman Federal Building” for “Department of State Building” in section catchline and in subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Diplomatic Reception AreasPub. L. 117–263, div. I, title XCVII, § 9713, Dec. 23, 2022, 136 Stat. 3920, provided that: “(a) Defined Term.—In this section, the term ‘reception areas’ has the meaning given such term in section 41(c) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2713(c)). “(b) In General.—The Secretary [of State] may sell goods and services at fair market value and use the proceeds of such sales for administration and related support of the reception areas. “(c) Amounts Collected.—Amounts collected pursuant to the authority provided under subsection (b) may be deposited into an account in the Treasury, to remain available until expended.”
+
+Designation of Department of State Building as Harry S Truman Federal BuildingPub. L. 106–218, June 20, 2000, 114 Stat. 345, provided that: “SECTION 1. DESIGNATION.“The Federal building located at 2201 C Street, Northwest, in the District of Columbia, currently headquarters for the Department of State, shall be known and designated as the ‘Harry S Truman Federal Building’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building referred to in section 1 shall be deemed to be a reference to the ‘Harry S Truman Federal Building’.”

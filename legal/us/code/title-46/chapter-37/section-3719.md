@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 3719"
+description: "Reduction of oil spills from single hull non-self-propelled tank vessels"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "37"
+chapter_name: "CARRIAGE OF LIQUID BULK DANGEROUS CARGOES"
+section: "3719"
+citation: "46 U.S.C. § 3719"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s3719"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "c4e3ed7bd3c60828c7fd678b9beecc045a22836a2a10eaad78c9c328e896448e"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "a17096d66bdfe98f68c7c779de90b2d918eb2a30c9dead0a1bf9f0e833935d1c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 3719 - Reduction of oil spills from single hull non-self-propelled tank vessels
+
+## Text
+
+The Secretary shall, in consultation with the National Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and the size and nature of service of single hull non-self-propelled tank vessels and towing vessels, prescribe regulations requiring a single hull non-self-propelled tank vessel that operates in the open ocean or coastal waters, or the vessel towing it, to have at least one of the following:
+
+(1) A crew member and an operable anchor on board the tank vessel that together are capable of arresting the tank vessel without additional assistance under reasonably foreseeable sea conditions.
+
+(2) An emergency system on the tank vessel or towing vessel that without additional assistance under reasonably foreseeable sea conditions will allow the tank vessel to be retrieved by the towing vessel if the tow line ruptures.
+
+(3) Any other measure or combination of measures that the Secretary determines will provide protection against grounding of the tank vessel comparable to that provided by the measures described in paragraph (1) or (2).
+
+(Added Pub. L. 104–324, title IX, § 901(a), Oct. 19, 1996, 110 Stat. 3946; amended Pub. L. 115–282, title VI, § 601(c)(6)(B)(i), Dec. 4, 2018, 132 Stat. 4290.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–282 inserted “National” before “Towing Safety” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+RegulationsPub. L. 104–324, title IX, § 901(b), Oct. 19, 1996, 110 Stat. 3946, provided that: “The Secretary of the department in which the Coast Guard is operating shall issue regulations required under section 3719 of title 46, United States Code, as added by subsection (a), by not later than October 1, 1997.”

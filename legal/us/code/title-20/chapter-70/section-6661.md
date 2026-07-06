@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 6661"
+description: "Program authorized"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "70"
+chapter_name: "STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS"
+section: "6661"
+citation: "20 U.S.C. § 6661"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s6661"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "cbc11b998e52e4aa1b04cbc9089669ff79e2d98f284d6e8a51ee611d8eec0aac"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "4edf6f7fd3cc8f71d6b5db4dd2cfa47233430163905ba572ff1eed577ba42b6e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 6661 - Program authorized
+
+## Text
+
+(a) In general From the amount reserved by the Secretary under section 6621(3) of this title, the Secretary is authorized to carry out an American history and civics education program to improve—
+
+(1) the quality of American history, civics, and government education by educating students about the history and principles of the Constitution of the United States, including the Bill of Rights; and
+
+(2) the quality of the teaching of American history, civics, and government in elementary schools and secondary schools, including the teaching of traditional American history.
+
+(b) Funding allotment Of the amount available under subsection (a) for a fiscal year, the Secretary—
+
+(1) shall reserve not less than 26 percent for activities under section 6662 of this title; and
+
+(2) may reserve not more than 74 percent for activities under section 6663 of this title.
+
+(Pub. L. 89–10, title II, § 2231, as added Pub. L. 114–95, title II, § 2002, Dec. 10, 2015, 129 Stat. 1945.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 6661, Pub. L. 89–10, title II, § 2201, as added Pub. L. 107–110, title II, § 201, Jan. 8, 2002, 115 Stat. 1642, set forth purpose of part B of former subchapter II of this chapter and defined terms, prior to repeal by Pub. L. 114–95, § 5, title II, § 2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs. Another prior section 6661, Pub. L. 89–10, title II, § 2251, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, set forth purposes of former part relating to reading and literacy grants, prior to the general amendment of this subchapter by Pub. L. 107–110. Prior sections 6661a to 6661i were omitted in the general amendment of this subchapter by Pub. L. 107–110. Section 6661a, Pub. L. 89–10, title II, § 2252, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–392; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1606(b)(2)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, defined terms for purposes of former part. Section 6661b, Pub. L. 89–10, title II, § 2253, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–393, related to reading and literacy grants to State educational agencies. Section 6661c, Pub. L. 89–10, title II, § 2254, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–397, related to use of amounts by State educational agencies. Section 6661d, Pub. L. 89–10, title II, § 2255, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–397, related to local reading improvement subgrants. Section 6661e, Pub. L. 89–10, title II, § 2256, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–401, related to tutorial assistance subgrants. Section 6661f, Pub. L. 89–10, title II, § 2257, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–405, related to national evaluation of programs under former part. Section 6661g, Pub. L. 89–10, title II, § 2258, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–405, related to information dissemination. Section 6661h, Pub. L. 89–10, title II, § 2259, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–405, related to State evaluations and performance reports. Section 6661i, Pub. L. 89–10, title II, § 2260, as added Pub. L. 105–277, div. A, § 101(f) [title VIII, § 101(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–406; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1606(b)(2)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, related to authorization of appropriations, reservations from appropriations, and sunset.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under section 6301 of this title.

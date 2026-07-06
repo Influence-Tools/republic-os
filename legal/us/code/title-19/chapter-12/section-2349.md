@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2349"
+description: "Penalties"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2349"
+citation: "19 U.S.C. § 2349"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2349"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "d39bf9cc60eaecd76659a4bce97d8a8620b1d7530d35d3c9f07d6231134597e7"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "cc23c76e564df5b53b534bcae7527ccc1510824500c2dd62a59d6f89a2e5f472"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2349 - Penalties
+
+## Text
+
+Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or whoever willfully overvalues any security, for the purpose of influencing in any way a determination under this part, or for the purpose of obtaining money, property, or anything of value under this part, shall be fined not more than $5,000 or imprisoned for not more than 2 years, or both.
+
+(Pub. L. 93–618, title II, § 259, Jan. 3, 1975, 88 Stat. 2034; temporarily renumbered § 257 and amended Pub. L. 111–5, div. B, title I, §§ 1864(a)(2), 1865, Feb. 17, 2009, 123 Stat. 397, 399; Pub. L. 112–40, title II, § 201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, § 402(b), (c), June 29, 2015, 129 Stat. 374.)
+
+## Notes
+
+Termination of AssistanceFor termination of assistance under this part after June 30, 2022, see Termination Date note below.
+
+Editorial Notes
+
+Codification Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 2014. See Effective and Termination Dates of 2015 Revival note below. Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, § 402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§ 402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below. Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, § 201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+
+Amendments2015—Pub. L. 114–27, §§ 402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below. 2011—Pub. L. 112–40, §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below. 2009—Pub. L. 111–5, §§ 1865, 1893, temporarily amended section generally. Prior to amendment, text read as follows: “Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or whoever willfully overvalues any security, for the purpose of influencing in any way a determination under this part, or for the purpose of obtaining money, property, or anything of value under this part, shall be fined not more than $5,000 or imprisoned for not more than 2 years, or both.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Statutory Notes and Related Subsidiaries
+
+Effective and Termination Dates of 2015 RevivalFor revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title. For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
+Effective and Termination Dates of 2011 RevivalFor revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title. Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, § 402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
+
+Effective and Termination Dates of 2009 AmendmentAmendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1864(e) of Pub. L. 111–5, set out as an Effective and Termination Dates note under section 2344 of this title. Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title. Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, § 201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+
+Termination DateExcept as otherwise provided, technical assistance and grants may not be provided under this part after June 30, 2022, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.

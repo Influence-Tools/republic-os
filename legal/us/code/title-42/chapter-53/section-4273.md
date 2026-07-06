@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 4273"
+description: "Membership of Commission; appointment of members; term"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "53"
+chapter_name: "ADVISORY COMMISSION ON INTERGOVERNMENTAL RELATIONS"
+section: "4273"
+citation: "42 U.S.C. § 4273"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s4273"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "b618c52959a10a27d3a2e21f177649db45ca2f3730b0d5d8e3754aa72c957acc"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "a1f96144d65032c31e34abe8057cb8fd9b877ff2195c62c01365dd32bb3fd7e3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 4273 - Membership of Commission; appointment of members; term
+
+## Text
+
+(a) Number of members; appointment; qualifications The Commission shall be composed of twenty-six members, as follows:
+
+(1) Six appointed by the President of the United States, three of whom shall be officers of the executive branch of the Government, and three private citizens, all of whom shall have had experience or familiarity with relations between the levels of government;
+
+(2) Three appointed by the President of the Senate, who shall be Members of the Senate;
+
+(3) Three appointed by the Speaker of the House of Representatives, who shall be Members of the House;
+
+(4) Four appointed by the President from a panel of at least eight Governors submitted by the Governors’ Conference;
+
+(5) Three appointed by the President from a panel of at least six members of State legislative bodies submitted by the board of managers of the Council of State Governments;
+
+(6) Four appointed by the President from a panel of at least eight mayors submitted jointly by the National League of Cities and the United States Conference of Mayors; and
+
+(7) Three appointed by the President from a panel of at least six elected county officers submitted by the National Association of Counties.
+
+(b) Political and geographical composition The members appointed from private life under paragraph (1) of subsection (a) shall be appointed without regard to political affiliation; of each class of members enumerated in paragraphs (2) and (3) of subsection (a), two shall be from the majority party of the respective houses; of each class of members enumerated in paragraphs (4), (5), (6), and (7) of subsection (a), not more than two shall be from any one political party; of each class of members enumerated in paragraphs (5), (6) and (7) of subsection (a), not more than one shall be from any one State; at least two of the appointees under paragraph (6) of subsection (a) shall be from cities under five hundred thousand population.
+
+(c) Term of office; reappointment; period of service The term of office of each member of the Commission shall be two years; members shall be eligible for reappointment; and, except as provided in section 4274(d) of this title, members shall serve until their successors are appointed.
+
+(Pub. L. 86–380, § 3, Sept. 24, 1959, 73 Stat. 704; Pub. L. 89–733, §§ 1, 2, Nov. 2, 1966, 80 Stat. 1162.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 2373 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+Amendments1966—Subsec. (a)(6). Pub. L. 89–733, § 1, substituted “National League of Cities” for “American Municipal Association”. Subsec. (a)(7). Pub. L. 89–733, § 1, substituted “National Association of Counties” for “National Association of County Officials”. Subsec. (c). Pub. L. 89–733, § 2, inserted provision that members shall serve until their successors are appointed, except as provided in section 4274(d) of this title.

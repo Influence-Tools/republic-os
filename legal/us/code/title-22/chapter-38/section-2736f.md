@@ -1,0 +1,117 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2736f"
+description: "Efforts to improve retention and prevent retaliation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "38"
+chapter_name: "DEPARTMENT OF STATE"
+section: "2736f"
+citation: "22 U.S.C. § 2736f"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2736f"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "e7ed2c0c1a175570ecea583c983a94d0d1afd011fd5f4bba7e0bde2035d4c743"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "a7c396fcdaca0c7e60233ec523d72b72ea702bc1b45141d124fc8fcf05406b07"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2736f - Efforts to improve retention and prevent retaliation
+
+## Text
+
+(a) Streamlined reporting Not later than one year after December 22, 2023, the Secretary shall establish a single point of initial reporting for allegations of discrimination, and harassment that provides an initial review of the allegations and, if necessary, the ability to file multiple claims based on a single complaint.
+
+(b) Required annual surveys (1) In general Not later than 180 days after December 22, 2023, and annually thereafter, the Secretary shall conduct an annual employee satisfaction survey to assess the level of job satisfaction, work environment, and overall employee experience within the Department.
+
+(2) Open-ended responses The survey required under paragraph (1) shall include options for open-ended responses.
+
+(3) Survey questions The survey shall include questions regarding—
+
+(A) work-life balance;
+
+(B) compensation and benefits;
+
+(C) career development opportunities;
+
+(D) the performance evaluation and promotion process, including fairness and transparency;
+
+(E) communication channels and effectiveness;
+
+(F) leadership and management;
+
+(G) organizational culture;
+
+(H) awareness and effectiveness of complaint measures;
+
+(I) accessibility and accommodations;
+
+(J) availability of transportation to and from a work station;
+
+(K) information technology infrastructure functionality and accessibility;
+
+(L) the employee’s understanding of the Department’s structure, mission, and goals;
+
+(M) alignment and relevance of work to the Department’s mission;
+
+(N) sense of empowerment to affect positive change; and
+
+(O) experiences with harassment, discrimination, retaliation, and other events that contribute to attrition and negatively impact work culture and productivity.
+
+(c) Required exit surveys (1) In general Not later than 180 days after December 22, 2023, the Secretary shall develop and implement a standardized, confidential exit survey process that includes anonymous feedback and exit interviews with employees who voluntarily separate from the Department, whether through resignation, retirement, or other means.
+
+(2) Scope The exit surveys conducted pursuant to paragraph (1) shall—
+
+(A) be designed to gather insights and feedback from departing employees regarding—
+
+(i) their reasons for leaving, including caretaking responsibilities, career limitations for partner or spouse, and discrimination, harassment, or retaliation;
+
+(ii) their overall experience with the Department; and
+
+(iii) any suggestions for improvement; and
+
+(B) include questions related to—
+
+(i) the employee’s reasons for leaving;
+
+(ii) job satisfaction;
+
+(iii) work environment;
+
+(iv) professional growth opportunities;
+
+(v) leadership effectiveness;
+
+(vi) suggestions for enhancing the Department’s performance; and
+
+(vii) if applicable, the name and industry of the employee’s future employer.
+
+(3) Compilation of results The Secretary shall compile and analyze the anonymized exit survey data collected pursuant to this paragraph to identify trends, common themes, and areas needing improvement within the Department.
+
+(d) Pilot surveys Not later than 180 days after December 22, 2023, the Secretary shall conduct a Department-wide survey for Locally Employed Staff regarding retention, training, promotion, and other matters, including harassment, discrimination, and retaliation, that includes workforce perspectives on the accessibility and effectiveness of complaint measures.
+
+(e) Report Not later than 60 days after the conclusion of each survey conducted pursuant to this section, the Secretary shall make the key findings available to the Department workforce and shall submit them to the appropriate congressional committees.
+
+(f) Retaliation prevention efforts (1) Employee evaluation (A) In general If there is a pending investigation of discrimination or harassment against a superior who is responsible for rating or reviewing the complainant employee, the complainant shall be reviewed by the superior’s supervisor or other Department employee as appropriate.
+
+(B) Effective date This paragraph shall take effect 90 days after December 22, 2023.
+
+(2) Retaliation prevention guidance Any Department employee against whom an allegation of discrimination or harassment has been made shall receive written guidance (a “retaliation hold”) on the types of actions that can be considered retaliation against the complainant employee. The employee’s immediate supervisor shall also receive the retaliation hold guidance.
+
+(Pub. L. 118–31, div. F, title LXII, § 6211, Dec. 22, 2023, 137 Stat. 976.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.

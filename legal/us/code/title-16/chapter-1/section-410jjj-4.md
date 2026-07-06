@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 410jjj–4"
+description: "Authorization of appropriations; general management plan"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "410jjj–4"
+citation: "16 U.S.C. § 410jjj–4"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s410jjj–4"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "6c3874600c14bab4f85fefff93cb36972e7808aad06bc3bfb8c1cde9171a891d"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "9c7be00d56880e73835de4ab7e1ee48304ebe1f09698699b142b524f3b460749"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 410jjj–4 - Authorization of appropriations; general management plan
+
+## Text
+
+(a) In general The Secretary may not expend more than $60,500,000 from the Land and Water Conservation Fund for land acquisition nor more than $2,000,000 for the development of essential facilities. The Secretary may expend such additional sums as are necessary from the Land and Water Conservation Fund for acquisition of lands described in section 410jjj(b) of this title.
+
+(b) General management plan Within three years from the effective date of this subchapter the Secretary shall, after consulting with the Governor of the State of South Carolina, develop and transmit to the Committees on Interior and Insular Affairs of the United States Congress a general management plan for the use and development of the park consistent with the purposes of this subchapter, indicating:
+
+(1) the lands and interests in lands adjacent or related to the park which are deemed necessary or desirable for the purposes of resource protection, scenic integrity, or management and administration of the area in furtherance of the purposes of this subchapter, and the estimated cost thereof;
+
+(2) the number of visitors and types of public use within the park which can be accommodated in accordance with the protection of its resources;
+
+(3) the location and estimated cost of facilities deemed necessary to accommodate such visitors and uses.
+
+(c) Authorization of appropriations Notwithstanding subsection (a), there are authorized to be appropriated $3,000,000 for construction and development within the park.
+
+(Pub. L. 94–545, § 5, Oct. 18, 1976, 90 Stat. 2518; Pub. L. 98–141, § 6, Oct. 31, 1983, 97 Stat. 909; Pub. L. 100–524, § 6, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, § 135, Nov. 10, 2003, 117 Stat. 1270.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe effective date of this subchapter, referred to in subsec. (b), probably means the date of enactment of Pub. L. 94–545, which was approved on Oct. 18, 1976.
+
+Amendments1988—Subsec. (a). Pub. L. 100–524, § 6(a), inserted sentence at end relating to expenditure of additional sums for acquisition of lands. Subsec. (c). Pub. L. 100–524, § 6(b), added subsec. (c). 1983—Subsec. (a). Pub. L. 98–141 substituted “$60,500,000” for “$35,500,000” and “$2,000,000” for “$500,000”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name In subsecs. (b) and (c), “park” substituted for “monument” pursuant to Pub. L. 108–108, § 135, which is set out as a note under section 410jjj of this title and which redesignated the Congaree Swamp National Monument as the Congaree National Park. Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

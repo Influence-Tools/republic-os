@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 392"
+description: "Exemption of meats and meat food products"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "9"
+chapter_name: "FEDERAL FOOD, DRUG, AND COSMETIC ACT"
+section: "392"
+citation: "21 U.S.C. § 392"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s392"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "efb237f59983e0c4e4b1cd866c19c8cd6796f7192668c1543a3f306751a79d3f"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "4c4292ab062299358c1b32011ec4fbe424054a5f8e42704c1c2c053c85b14c02"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 392 - Exemption of meats and meat food products
+
+## Text
+
+(a) Law determinative of exemption Meats and meat food products shall be exempt from the provisions of this chapter to the extent of the application or the extension thereto of the Meat Inspection Act, approved March 4, 1907, as amended [21 U.S.C. 601 et seq.].
+
+(b) Laws unaffected Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of section 351 of Public Health Service Act [42 U.S.C. 262] (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833) [21 U.S.C. 151 et seq.]; the Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), the Filled Milk Act of March 4, 1923 [21 U.S.C. 61 et seq.]; or the Import Milk Act of February 15, 1927 [21 U.S.C. 141 et seq.].
+
+(June 25, 1938, ch. 675, § 1002(b), (c), formerly § 902(b), (c), 52 Stat. 1059; Pub. L. 90–399, § 107, July 13, 1968, 82 Stat. 353; renumbered § 1002(b), (c), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Meat Inspection Act, approved March 4, 1907, as amended, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally to subchapters I to IV (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables. Act of March 4, 1913, referred to in subsec. (b), is act Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act referred to relating to viruses, etc., applicable to domestic animals, are contained in the eighth paragraph under the heading “Bureau of Animal Industry”, 37 Stat. 832, as amended, popularly known as the Virus-Serum-Toxin Act, which is classified generally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables. The Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), referred to in subsec. (b), is act June 6, 1896, ch. 337, 29 Stat. 253, which had been classified to chapter 10 (§ 1000 et seq.) of Title 26, Internal Revenue, and included as chapter 17 (§ 2350 et seq.) of Title 26, Internal Revenue Code of 1939. Such chapter 17 was covered by section 4831 et seq. of Title 26, Internal Revenue Code, prior to the repeal of section 4831 et seq. of Title 26 by Pub. L. 93–490, § 3(a)(1), Oct. 26, 1974, 88 Stat. 1466. The Filled Milk Act of March 4, 1923, referred to in subsec. (b), is act Mar. 4, 1923, ch. 262, 42 Stat. 1486, which is classified generally to chapter 3 (§ 61 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 61 of this title and Tables. The Import Milk Act of February 15, 1927, referred to in subsec. (b), is act Feb. 15, 1927, ch. 155, 44 Stat. 1101, which is classified generally to subchapter IV (§ 141 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 141 of this title and Tables.
+
+Codification Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) of section 1002 of act June 25, 1938. Subsecs. (a) and (d) of section 1002 of act June 25, 1938, which prescribed the effective date of this chapter and made appropriations available, are set out as notes under section 301 of this title and this section, respectively.
+
+Amendments1968—Subsec. (b). Pub. L. 90–399 substituted “section 351 of Public Health Service Act (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833);” for “the virus, serum, and toxin Act of July 1, 1902 (U.S.C., 1934 ed., title 42, chap. 4);”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1968 AmendmentAmendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+
+Availability of AppropriationsAct June 25, 1938, ch. 675, § 1002(d), formerly § 902(d), 52 Stat. 1059; renumbered § 1002(d), Pub. L. 111–31, div. A, title I, § 101(b)(2), June 22, 2009, 123 Stat. 1784, provided that: “In order to carry out the provisions of this Act which take effect [see section 1002(a) of act June 25, 1938, set out as an Effective Date note under section 301 of this title] prior to the repeal of the Food and Drugs Act of June 30, 1906, as amended [former sections 1 to 5 and 7 to 15 of this title], appropriations available for the enforcement of such Act of June 30, 1906, are also authorized to be made available to carry out such provisions.”

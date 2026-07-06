@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 390h–5"
+description: "San Jose area water reclamation and reuse program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "12"
+chapter_name: "RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT"
+section: "390h–5"
+citation: "43 U.S.C. § 390h–5"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s390h–5"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "10fd84a06a1a3422ac2964061fb6b527c7c0b21a6f7685a6038ac5916edcd2bd"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "c88bed61651082e8f4d55bdc2393892ce445b2a07aef9e0b494f6d707585b51e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 390h–5 - San Jose area water reclamation and reuse program
+
+## Text
+
+(a) The Secretary, in cooperation with the city of San Jose, California, and the Santa Clara Valley Water District, and local water suppliers, shall participate in the planning, design and construction of demonstration and permanent facilities to reclaim and reuse water in the San Jose metropolitan service area.
+
+(b) The Federal share of the costs of the facilities authorized by subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
+
+(Pub. L. 102–575, title XVI, § 1607, Oct. 30, 1992, 106 Stat. 4666.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Demonstration of Waste Water Technology, Santa Clara Valley Water District and San Jose, CaliforniaPub. L. 102–580, title II, § 218, Oct. 31, 1992, 106 Stat. 4834, provided that: “(a) In General.—The Secretary, in cooperation with the Administrator of the Environmental Protection Agency, is authorized to provide design and construction assistance to the Santa Clara Valley Water District in San Jose, California, and to the city of San Jose, California, for demonstrating and field testing public use innovative processes which advance the technology of waste water reuse and treatment and which promote the use of treated waste water for critical water supply purposes and for the protection of fish and wildlife in the San Francisco Bay. All design, construction, and comprehensive health effects studies shall be carried out by non-Federal interests. “(b) Purposes of Assistance.—Assistance may be provided under this section—“(1) for the design and construction of an innovative nonpotable waste water reuse treatment facility with distribution systems; “(2) for the design and construction of an innovative potable waste water reuse pilot plant; “(3) for implementation of a comprehensive health effects study of the performance of the potable waste water reuse pilot plant; and “(4) after the pilot plant is constructed and is operational, for the design and construction of a potable waste water reuse project, along with integration of the additional potable processes into the existing nonpotable facilities, and the extension of the distribution systems to groundwater recharge areas, if the Secretary, in cooperation with the Administrator of the Environmental Protection Agency, determines that the established public health requirements and water quality goals and objectives are being met by the pilot plant, the public health and safety is not at risk as a result of the operation of the pilot plant, and the pilot plant is operating reliably. “(c) Cost Sharing.—Total project costs under this section shall be shared at 75 percent Federal and 25 percent non-Federal. The non-Federal sponsor shall receive credit for lands, easements, rights-of-way, and relocations toward its share of project costs, but not to exceed 25 percent of total project costs. Operation and maintenance cost shall be 100 percent non-Federal. “(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000. Such sums shall remain available until expended.”

@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1862s–7"
+description: "Computer science education research"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "16"
+chapter_name: "NATIONAL SCIENCE FOUNDATION"
+section: "1862s–7"
+citation: "42 U.S.C. § 1862s–7"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1862s–7"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "fb7dd0a00d31169a9cb92bcc8948d0c66de45959999f3024ecc74af36dc7ef7a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "60e7122afe964e1bf572201c4259b784e42b3fca957f8d701c64ce3b72e9f9e4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1862s–7 - Computer science education research
+
+## Text
+
+(a) Findings Congress finds that as the lead Federal agency for building the research knowledge base for computer science education, the Foundation is well positioned to make investments that will accelerate ongoing efforts to enable rigorous and engaging computer science throughout the Nation as an integral part of STEM education.
+
+(b) Grant program (1) In general The Director of the Foundation shall award grants to eligible entities to research computer science and cybersecurity education and computational thinking.
+
+(2) Research The research described in paragraph (1) may include the development or adaptation, piloting or full implementation, and testing of—
+
+(A) models of preservice preparation for teachers who will teach computer science and computational thinking;
+
+(B) scalable and sustainable models of professional development and ongoing support for the teachers described in subparagraph (A);
+
+(C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields;
+
+(D) high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning; and
+
+(E) tools and models for the integration of cybersecurity and other interdisciplinary efforts into computer science education and computational thinking at secondary and postsecondary levels of education.
+
+(3) Uses of funds The tools and models described in paragraph (2)(C) may include—
+
+(A) offering training and professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of prekindergarten and elementary school teachers and to familiarize such teachers with the role of bias against female students in the classroom;
+
+(B) offering innovative pre-service and in-service programs that instruct teachers on female-inclusive practices for teaching computing concepts;
+
+(C) developing distance learning programs for teachers or students, including developing curricular materials, play-based computing activities, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
+
+(D) developing or adapting prekindergarten and elementary school computer science curricular materials that incorporate contemporary research on the science of learning, particularly with respect to female inclusion;
+
+(E) developing and offering female-inclusive computer science enrichment programs for students, including after-school and summer programs;
+
+(F) providing mentors for female students in prekindergarten through elementary school to support such students in participating in computer science activities;
+
+(G) engaging female students in prekindergarten through elementary school, and their guardians (if such communication takes place on school premises during otherwise-scheduled conferences or formal conversations between teachers and guardians) about—
+
+(i) the difficulties faced by female students with regard to maintaining an interest in participating in computer science activities; and
+
+(ii) the potential positive career benefits of engaging in such activities;
+
+(H) acquainting female students in prekindergarten through elementary school with careers in computer science and encouraging such students to consider careers in the computer science field; and
+
+(I) developing tools to evaluate activities conducted under this subsection, including reports for evaluating the effectiveness of activities under this section.
+
+(c) Collaborations In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing, cybersecurity, and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
+
+(d) Metrics The Director of the Foundation shall develop metrics to measure the success of the grant program funded under this section in achieving program goals.
+
+(e) Report The Director of the Foundation shall report, in the annual budget submission to Congress, on the success of the program as measured by the metrics in subsection (d).
+
+(f) Definition of eligible entity In this section, the term “eligible entity” means an institution of higher education or a nonprofit research organization.
+
+(Pub. L. 114–329, title III, § 310, Jan. 6, 2017, 130 Stat. 3012; Pub. L. 116–102, § 5, Dec. 24, 2019, 133 Stat. 3264; Pub. L. 116–283, div. H, title XCIV, § 9405(a), Jan. 1, 2021, 134 Stat. 4812.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+Amendments2021—Subsec. (b)(1). Pub. L. 116–283, § 9405(a)(1)(A), inserted “and cybersecurity” after “computer science”. Subsec. (b)(2)(E). Pub. L. 116–283, § 9405(a)(1)(B), added subpar. (E). Subsec. (c). Pub. L. 116–283, § 9405(a)(2), inserted “, cybersecurity,” after “computing”. 2019—Subsec. (b)(3). Pub. L. 116–102 added par. (3).
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.

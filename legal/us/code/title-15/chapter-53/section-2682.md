@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 2682"
+description: "Lead-based paint activities training and certification"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "53"
+chapter_name: "TOXIC SUBSTANCES CONTROL"
+section: "2682"
+citation: "15 U.S.C. § 2682"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s2682"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "ae9b1e9d200f348289071d5e0c8a59fba9212831a7180f06a44cae1d138646dd"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "781ca8ca8e1ff6852b7384536fe75017fd828fc755ebcf973298282f7125c368"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 2682 - Lead-based paint activities training and certification
+
+## Text
+
+(a) Regulations (1) In general Not later than 18 months after October 28, 1992, the Administrator shall, in consultation with the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of Health and Human Services (acting through the Director of the National Institute for Occupational Safety and Health), promulgate final regulations governing lead-based paint activities to ensure that individuals engaged in such activities are properly trained; that training programs are accredited; and that contractors engaged in such activities are certified. Such regulations shall contain standards for performing lead-based paint activities, taking into account reliability, effectiveness, and safety. Such regulations shall require that all risk assessment, inspection, and abatement activities performed in target housing shall be performed by certified contractors, as such term is defined in section 4851b of title 42. The provisions of this section shall supersede the provisions set forth under the heading “Lead Abatement Training and Certification” and under the heading “Training Grants” in title III of the Act entitled “An Act making appropriations for the Departments of Veterans Affairs and Housing and Urban Development, and for sundry independent agencies, commissions, corporations, and offices for the fiscal year ending September 30, 1992, and for other purposes”, Public Law 102–139 [105 Stat. 765, 42 U.S.C. 4822 note], and upon October 28, 1992, the provisions set forth in such public law under such headings shall cease to have any force and effect.
+
+(2) Accreditation of training programs Final regulations promulgated under paragraph (1) shall contain specific requirements for the accreditation of lead-based paint activities training programs for workers, supervisors, inspectors and planners, and other individuals involved in lead-based paint activities, including, but not limited to, each of the following:
+
+(A) Minimum requirements for the accreditation of training providers.
+
+(B) Minimum training curriculum requirements.
+
+(C) Minimum training hour requirements.
+
+(D) Minimum hands-on training requirements.
+
+(E) Minimum trainee competency and proficiency requirements.
+
+(F) Minimum requirements for training program quality control.
+
+(3) Accreditation and certification fees The Administrator (or the State in the case of an authorized State program) shall impose a fee on—
+
+(A) persons operating training programs accredited under this subchapter; and
+
+(B) lead-based paint activities contractors certified in accordance with paragraph (1).
+
+The fees shall be established at such level as is necessary to cover the costs of administering and enforcing the standards and regulations under this section which are applicable to such programs and contractors. The fee shall not be imposed on any State, local government, or nonprofit training program. The Administrator (or the State in the case of an authorized State program) may waive the fee for lead-based paint activities contractors under subparagraph (A) for the purpose of training their own employees.
+
+(b) Lead-based paint activities For purposes of this subchapter, the term “lead-based paint activities” means—
+
+(1) in the case of target housing, risk assessment, inspection, and abatement; and
+
+(2) in the case of any public building constructed before 1978, commercial building, bridge, or other structure or superstructure, identification of lead-based paint and materials containing lead-based paint, deleading, removal of lead from bridges, and demolition.
+
+For purposes of paragraph (2), the term “deleading” means activities conducted by a person who offers to eliminate lead-based paint or lead-based paint hazards or to plan such activities.
+
+(c) Renovation and remodeling (1) Guidelines In order to reduce the risk of exposure to lead in connection with renovation and remodeling of target housing, public buildings constructed before 1978, and commercial buildings, the Administrator shall, within 18 months after October 28, 1992, promulgate guidelines for the conduct of such renovation and remodeling activities which may create a risk of exposure to dangerous levels of lead. The Administrator shall disseminate such guidelines to persons engaged in such renovation and remodeling through hardware and paint stores, employee organizations, trade groups, State and local agencies, and through other appropriate means.
+
+(2) Study of certification The Administrator shall conduct a study of the extent to which persons engaged in various types of renovation and remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings are exposed to lead in the conduct of such activities or disturb lead and create a lead-based paint hazard on a regular or occasional basis. The Administrator shall complete such study and publish the results thereof within 30 months after October 28, 1992.
+
+(3) Certification determination Within 4 years after October 28, 1992, the Administrator shall revise the regulations under subsection (a) to apply the regulations to renovation or remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings that create lead-based paint hazards. In determining which contractors are engaged in such activities, the Administrator shall utilize the results of the study under paragraph (2) and consult with the representatives of labor organizations, lead-based paint activities contractors, persons engaged in remodeling and renovation, experts in lead health effects, and others. If the Administrator determines that any category of contractors engaged in renovation or remodeling does not require certification, the Administrator shall publish an explanation of the basis for that determination.
+
+(Pub. L. 94–469, title IV, § 402, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3914.)

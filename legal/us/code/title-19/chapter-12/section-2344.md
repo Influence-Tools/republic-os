@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2344"
+description: "Financial assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2344"
+citation: "19 U.S.C. § 2344"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2344"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "ff56d6495c41948a2e305d420ca44e51c641f4d0f95e2fa643928f48264aedd3"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "330d5bd968c48ba3120ff90c2efad81e952a8c2dcd41898bf9c7a2f82c734f60"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2344 - Financial assistance
+
+## Text
+
+(a) Direct loans and guarantees of loans The Secretary may provide to a firm, on such terms and conditions as he determines to be appropriate, such financial assistance in the form of direct loans or guarantees of loans as in his judgment will materially contribute to the economic adjustment of the firm. The assumption of an outstanding indebtedness of the firm, with or without recourse, shall be considered to be the making of a loan for purposes of this section.
+
+(b) Allowable purposes Loans or guarantees of loans shall be made under this part only for the purpose of making funds available to the firm—
+
+(1) for acquisition, construction, installation, modernization, development, conversion, or expansion of land, plant, buildings, equipment, facilities, or machinery, or
+
+(2) to supply such working capital as may be necessary to enable the firm to implement its adjustment proposal.
+
+(c) Limitation on direct loans No direct loan may be provided to a firm under this part if the firm can obtain loan funds from private sources (with or without a guarantee) at a rate no higher than the maximum interest per annum that a participating financial institution may establish on guaranteed loans made pursuant to section 636(a) of title 15.
+
+(d) Limitations on loans and guarantees Notwithstanding any other provision of this part, no direct loans or guarantees of loans may be made under this part after April 7, 1986.
+
+(Pub. L. 93–618, title II, § 254, Jan. 3, 1975, 88 Stat. 2031; Pub. L. 97–35, title XXV, § 2522, Aug. 13, 1981, 95 Stat. 891; Pub. L. 99–272, title XIII, § 13006(b), Apr. 7, 1986, 100 Stat. 304.)
+
+## Notes
+
+Termination of AssistanceFor termination of assistance under this part after June 30, 2022, see Termination Date note below.
+
+Editorial Notes
+
+Codification Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 2014. See Effective and Termination Dates note below.
+
+Prior ProvisionsA prior section 2344, Pub. L. 93–618, title II, § 254, as added Pub. L. 111–5, div. B, title I, § 1864(a)(3), Feb. 17, 2009, 123 Stat. 397, and Pub. L. 112–40, title II, § 201(b), (c), Oct. 21, 2011, 125 Stat. 403, and Pub. L. 114–27, title IV, § 402(b), (c), June 29, 2015, 129 Stat. 374, ceased to be effective after the reversion, effective July 1, 2021, of this section to provisions in effect on Jan. 1, 2014, pursuant to section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title. Prior to reversion, section 2344 read as follows: “§ 2344. Oversight and administration “(a) In General.—The Secretary shall, to such extent and in such amounts as are provided in appropriations Acts, provide grants to intermediary organizations (referred to in section 2343(b)(1) of this title) throughout the United States pursuant to agreements with such intermediary organizations. Each such agreement shall require the intermediary organization to provide benefits to firms certified under section 2341 of this title. The Secretary shall, to the maximum extent practicable, provide by October 1, 2010, that contracts entered into with intermediary organizations be for a 12-month period and that all such contracts have the same beginning date and the same ending date. “(b) Distribution of Funds.—“(1) In general.—Not later than 90 days after February 17, 2009, the Secretary shall develop a methodology for the distribution of funds among the intermediary organizations described in subsection (a). “(2) Prompt initial distribution.—The methodology described in paragraph (1) shall ensure the prompt initial distribution of funds and establish additional criteria governing the apportionment and distribution of the remainder of such funds among the intermediary organizations. “(3) Criteria.—The methodology described in paragraph (1) shall include criteria based on the data in the annual report on the trade adjustment assistance for firms program described in section 2356 of this title. “(c) Requirements for Contracts.—An agreement with an intermediary organization described in subsection (a) shall require the intermediary organization to contract for the supply of services to carry out grants under this part in accordance with terms and conditions that are consistent with guidelines established by the Secretary. “(d) Consultations.—“(1) Consultations regarding methodology.—The Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives—“(A) not less than 30 days before finalizing the methodology described in subsection (b); and “(B) not less than 60 days before adopting any changes to such methodology. “(2) Consultations regarding guidelines.—The Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives not less than 60 days before finalizing the guidelines described in subsection (c) or adopting any subsequent changes to such guidelines.”
+
+Amendments1986—Subsec. (d). Pub. L. 99–272 added subsec. (d). 1981—Subsec. (c). Pub. L. 97–35 substituted provisions relating to limitation on direct loans on the basis of interest rates on loans under section 636(a) of title 15 for provisions relating to limitation on direct loans on the basis of interest rates under section 2345(b) of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1981 AmendmentAmendment by Pub. L. 97–35 effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as a note under section 2343 of this title.
+
+Termination DateExcept as otherwise provided, technical assistance and grants may not be provided under this part after June 30, 2022, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
+
+Residual AuthorityPub. L. 111–5, div. B, title I, § 1864(b), Feb. 17, 2009, 123 Stat. 398, provided that: “The Secretary of Commerce shall have the authority to modify, terminate, resolve, liquidate, or take any other action with respect to a loan, guarantee, contract, or any other financial assistance that was extended under section 254, 255, 256, or 257 of the Trade Act of 1974 (19 U.S.C. 2344, 2345, 2346, and 2347), as in effect on the day before the effective date set forth in section 1891 [set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title].”

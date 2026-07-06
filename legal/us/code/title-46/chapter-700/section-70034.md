@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 70034"
+description: "Regulations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "700"
+chapter_name: "PORTS AND WATERWAYS SAFETY"
+section: "70034"
+citation: "46 U.S.C. § 70034"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s70034"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "2f29e60e61247058a65eb15f6277fb88e2cb4640170484012ce7f528e85d12c9"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "c73c531ddd89eab7b5f8951698b3e76ffb568093dfa95e17a8c989571b413ff8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 70034 - Regulations
+
+## Text
+
+(a) In General.— In accordance with section 553 of title 5, the Secretary shall issue, and may from time to time amend or repeal, regulations necessary to implement subchapters I through III and this subchapter.
+
+(b) Consultation.— In the exercise of the regulatory authority under subchapters I through III and this subchapter, the Secretary shall consult with, and receive and consider the views of all interested persons, including—
+
+(1) interested Federal departments and agencies;
+
+(2) officials of State and local governments;
+
+(3) representatives of the maritime community;
+
+(4) representatives of port and harbor authorities or associations;
+
+(5) representatives of environmental groups;
+
+(6) any other interested persons who are knowledgeable or experienced in dealing with problems involving vessel safety, port and waterways safety, and protection of the marine environment; and
+
+(7) advisory committees consisting of all interested segments of the public when the establishment of such committees is considered necessary because the issues involved are highly complex or controversial.
+
+(Added Pub. L. 115–282, title IV, § 401(a), Dec. 4, 2018, 132 Stat. 4261; amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(a)(7), Jan. 1, 2021, 134 Stat. 4753.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283 substituted “I through III” for “A through C” in subsecs. (a) and (b).
+
+Statutory Notes and Related Subsidiaries
+
+Safety of Special ActivitiesPub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8343, Jan. 1, 2021, 134 Stat. 4710, as amended by Pub. L. 119–60, div. G, title LXXIII, § 7321(a), Dec. 18, 2025, 139 Stat. 1765, provided that: “(a) In General.—The Secretary of the department in which the Coast Guard is operating shall conduct a pilot program to establish and implement a process to—“(1) establish safety zones to address special activities in the exclusive economic zone; “(2) account for the number of safety zones established for special activities; “(3) differentiate whether an applicant who requests a safety zone for such activities is—“(A) an individual; “(B) an organization; or “(C) a government entity; and “(4) account for Coast Guard resources utilized to enforce safety zones established for special activities, including—“(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and “(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required. “(b) Briefing.—Not later than 180 days after the expiration of the pilot program, the Commandant [of the Coast Guard] shall brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate regarding—“(1) the process required under subsection (a); and “(2) whether the authority to establish safety zones to address special activities in the exclusive economic zone should be extended or made permanent in the interest of safety. “(c) Authorization.—The pilot program under subsection (a) is authorized for fiscal years 2026, 2027, 2028, 2029, 2030, 2031, and 2032. “(d) Definitions.—In this section:“(1) Safety zone.—The term ‘safety zone’ has the meaning given such term in section 165.20 of title 33, Code of Federal Regulations. “(2) Special activities.—The term ‘special activities’ includes—“(A) space activities, including launch and reentry, as such terms are defined in section 50902 of title 51, United States Code, carried out by United States citizens; and “(B) offshore energy development activities, as described in section 8(p)(1)(C) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(p)(1)(C)), on or near a fixed platform. “(3) United states citizen.—The term ‘United States citizen’ has the meaning given the term ‘eligible owners’ in section 12103 of title 46, United States Code. “(4) Fixed platform.—The term ‘fixed platform’ means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.” [Pub. L. 119–60, div. G, title LXXIII, § 7321(a)(1), Dec. 18, 2025, 139 Stat. 1765, which directed amendment of section 8343 of Pub. L. 116–283, by striking “2-year pilot program” and inserting “pilot program”, was executed by making the substitution in two places to reflect the probable intent of Congress.]
+
+Safety Zones for Permitted Marine EventsPub. L. 114–120, title III, § 305, Feb. 8, 2016, 130 Stat. 54, provided that: “Not later than 6 months after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish and implement a process to— “(1) account for the number of safety zones established for permitted marine events; “(2) differentiate whether the event sponsor who requested a permit for such an event is—“(A) an individual; “(B) an organization; or “(C) a government entity; and “(3) account for Coast Guard resources utilized to enforce safety zones established for permitted marine events, including for—“(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and “(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required.”

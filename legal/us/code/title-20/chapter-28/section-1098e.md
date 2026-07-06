@@ -1,0 +1,147 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 1098e"
+description: "Income-based repayment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "28"
+chapter_name: "HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE"
+section: "1098e"
+citation: "20 U.S.C. § 1098e"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s1098e"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "6c92b6691896f76406de081c3be060ad75c3cb857b0de4dac207bc61a196210f"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "5658a978bda08fcc0ff0759258941216a8a444edea47e8a2a8999f46c7872483"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 1098e - Income-based repayment
+
+## Text
+
+(a) Definitions In this section:
+
+(1) Excepted PLUS loan The term “excepted PLUS loan” means a loan under section 1078–2 of this title, or a Federal Direct PLUS Loan, that is made, insured, or guaranteed on behalf of a dependent student.
+
+(2) Excepted consolidation loan (A) In general The term “excepted consolidation loan” means—
+
+(i) a consolidation loan under section 1078–3 of this title, or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on an excepted PLUS loan; or
+
+(ii) a consolidation loan under section 1078–3 of this title, or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on a consolidation loan under section 1078–3 of this title, or a Federal Direct Consolidation Loan described in clause (i).
+
+(B) Exclusion The term “excepted consolidation loan” does not include a Federal Direct Consolidation Loan described in subparagraph (A) that, on any date during the period beginning on July 4, 2025, and ending on June 30, 2028, was being repaid—
+
+(i) pursuant to the Income Contingent Repayment (ICR) plan in accordance with section 685.209(b) of title 34, Code of Federal Regulations (as in effect on June 30, 2023); or
+
+(ii) pursuant to another income driven repayment plan.
+
+(3) Applicable amount The term “applicable amount” means 15 percent of the result obtained by calculating, on at least an annual basis, the amount by which—
+
+(A) the borrower’s, and the borrower’s spouse’s (if applicable), adjusted gross income; exceeds
+
+(B) 150 percent of the poverty line applicable to the borrower’s family size as determined under section 9902(2) of title 42.
+
+(b) Income-based repayment program authorized Notwithstanding any other provision of this chapter, the Secretary shall carry out a program under which—
+
+(1) a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), may elect to have the borrower’s aggregate monthly payment for all such loans not exceed the applicable amount divided by 12;
+
+(2) the holder of such a loan shall apply the borrower’s monthly payment under this subsection first toward interest due on the loan, next toward any fees due on the loan, and then toward the principal of the loan;
+
+(3) any interest due and not paid under paragraph (2)—
+
+(A) shall, on subsidized loans, be paid by the Secretary for a period of not more than 3 years after the date of the borrower’s election under paragraph (1), except that such period shall not include any period during which the borrower is in deferment due to an economic hardship described in section 1085(o) of this title; and
+
+(B) be capitalized—
+
+(i) in the case of a subsidized loan, subject to subparagraph (A), at the time the borrower—
+
+(I) ends the election to make income-based repayment under this subsection; or
+
+(II) begins making payments of not less than the amount specified in paragraph (6)(A); or
+
+(ii) in the case of an unsubsidized loan, at the time the borrower—
+
+(I) ends the election to make income-based repayment under this subsection; or
+
+(II) begins making payments of not less than the amount specified in paragraph (6)(A);
+
+(4) any principal due and not paid under paragraph (2) shall be deferred;
+
+(5) the amount of time the borrower makes monthly payments under paragraph (1) may exceed 10 years;
+
+(6) if the monthly payment amount calculated under this section for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) exceeds the monthly amount calculated under section 1078(b)(9)(A)(i) of this title or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection (referred to in this paragraph as the “standard monthly repayment amount”), or if the borrower no longer wishes to continue the election under this subsection, then—
+
+(A) the maximum monthly payment required to be paid for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall be the standard monthly repayment amount; and
+
+(B) the amount of time the borrower is permitted to repay such loans may exceed 10 years;
+
+(7) the Secretary shall repay or cancel any outstanding balance of principal and interest due on all loans made under part B or D (other than a loan under section 1078–2 of this title or a Federal Direct PLUS Loan) to a borrower who—
+
+(A) at any time, elected to participate in income-based repayment under paragraph (1); and
+
+(B) for a period of time prescribed by the Secretary, not to exceed 25 years, meets 1 or more of the following requirements—
+
+(i) has made reduced monthly payments under paragraph (1) or paragraph (6);
+
+(ii) has made monthly payments of not less than the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection;
+
+(iii) has made payments of not less than the payments required under a standard repayment plan under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title with a repayment period of 10 years;
+
+(iv) has made payments under an income-contingent repayment plan under section 1087e(d)(1)(D) of this title (as such section was in effect on the day before the date of the repeal of section 1087e(e) of this title; or
+
+(v) has been in deferment due to an economic hardship described in section 1085(o) of this title;
+
+(8) a borrower who is repaying a loan made under part B or D pursuant to income-based repayment may elect, at any time, to terminate repayment pursuant to income-based repayment and repay such loan under the standard repayment plan or the Repayment Assistance Program under section 1087e(q) of this title; and
+
+(9) the special allowance payment to a lender calculated under section 1087–1(b)(2)(I) of this title, when calculated for a loan in repayment under this section, shall be calculated on the principal balance of the loan and on any accrued interest unpaid by the borrower in accordance with this section.
+
+(c) Eligibility determinations; automatic recertification (1) In general The Secretary shall establish procedures for annually determining, in accordance with paragraph (2), the borrower’s eligibility for income-based repayment, including the verification of a borrower’s annual income and the annual amount due on the total amount of loans made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan), and such other procedures as are necessary to effectively implement income-based repayment under this section. The Secretary shall consider, but is not limited to, the procedures established in accordance with section 1087e(e)(1) of this title (as in effect on the day before the date of repeal of subsection (e) of section 1087e of this title) or in connection with income sensitive repayment schedules under section 1078(b)(9)(A)(iii) of this title or 1078–3(b)(1)(E) of this title.
+
+(2) Automatic recertification (A) In general The Secretary shall establish and implement, with respect to any borrower enrolled in an income-based repayment program under this section or under section 1087e(q) of this title, procedures to—
+
+(i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under section 1098h of this title, to determine the repayment obligation of the borrower without further action by the borrower;
+
+(ii) allow the borrower (or the spouse of the borrower), at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the repayment obligation of the borrower (or withdraw from the repayment plan under this section or under section 1087e(q) of this title, as the case may be); and
+
+(iii) provide the borrower with an opportunity to update the return information so disclosed before the determination of the repayment obligation of the borrower.
+
+(B) Applicability Subparagraph (A) shall apply to each borrower of a loan eligible to be repaid under this section or under section 1087e(q) of this title, who, on or after the date on which the Secretary establishes procedures under such subparagraph (A)—
+
+(i) selects, or is required to repay such loan pursuant to, an income-based repayment plan under this section or under section 1087e(q) of this title; or
+
+(ii) recertifies income or family size under such plan.
+
+(d) Special rule for married borrowers filing separately In the case of a married borrower who files a separate Federal income tax return, the Secretary shall calculate the amount of the borrower’s income-based repayment under this section solely on the basis of the borrower’s student loan debt and adjusted gross income.
+
+(e) Special terms for new borrowers on and after July 1, 2014 and before July 1, 2026 With respect to any loan made to a new borrower on or after July 1, 2014 and before July 1, 2026—
+
+(1) subsection (a)(3)(B) shall be applied by substituting “10 percent” for “15 percent”; and
+
+(2) subsection (b)(7)(B) shall be applied by substituting “20 years” for “25 years”.
+
+(Pub. L. 89–329, title IV, § 493C, as added Pub. L. 110–84, title II, § 203(a), Sept. 27, 2007, 121 Stat. 792; amended Pub. L. 110–153, § 2, Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, § 494F, Aug. 14, 2008, 122 Stat. 3324; Pub. L. 111–152, title II, § 2213, Mar. 30, 2010, 124 Stat. 1081; Pub. L. 116–91, § 4(b), Dec. 19, 2019, 133 Stat. 1193; Pub. L. 119–21, title VIII, § 82001(f)(1), July 4, 2025, 139 Stat. 345.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of the repeal of section 1087e(e) of this title, referred to in subsec. (b)(7)(B)(iv), is July 1, 2028. See section 82001(c)(3) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under section 1078 of this title.
+
+Amendments2025—Subsec. (a)(2). Pub. L. 119–21, § 82001(f)(1)(A), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘excepted consolidation loan’ means a consolidation loan under section 1078–3 of this title, or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to the discharge the liability on an excepted PLUS loan.” Subsec. (a)(3). Pub. L. 119–21, § 82001(f)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) defined “partial financial hardship” with respect to a borrower. Subsec. (b)(1). Pub. L. 119–21, § 82001(f)(1)(C)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower’s loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower’s aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;”. Subsec. (b)(6). Pub. L. 119–21, § 82001(f)(1)(C)(ii), added par. (6) and struck out former par. (6) which related to a borrower who no longer has a partial financial hardship or no longer wishes to continue the election under the income-based repayment program. Subsec. (b)(7)(B)(iv). Pub. L. 119–21, § 82001(f)(1)(C)(iii), inserted “(as such section was in effect on the day before the date of the repeal of section 1087e(e) of this title” after “section 1087e(d)(1)(D) of this title”. Subsec. (b)(8). Pub. L. 119–21, § 82001(f)(1)(C)(iv), inserted “or the Repayment Assistance Program under section 1087e(q) of this title” after “standard repayment plan”. Subsec. (c). Pub. L. 119–21, § 82001(f)(1)(D), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to eligibility determinations for income-based repayment. Subsec. (e). Pub. L. 119–21, § 82001(f)(1)(E)(ii), inserted “and before July 1, 2026” after “after July 1, 2014” in introductory provisions. Pub. L. 119–21, § 82001(f)(1)(E)(i), inserted “and before July 1, 2026” after “after July 1, 2014” in heading. 2019—Subsec. (c)(1). Pub. L. 116–91, § 4(b)(1), designated first sentence of existing provisions as par. (1) and inserted heading. Subsec. (c)(2). Pub. L. 116–91, § 4(b)(2), (3), designated second sentence of existing provisions as par. (2) and inserted heading, substituted “The Secretary shall—” for “The Secretary shall”, inserted subpar. (A) designation before “consider,”, substituted “; and” for period at end of subpar. (A), and added subpar. (B). 2010—Subsec. (e). Pub. L. 111–152 added subsec. (e). 2008—Subsec. (b)(1). Pub. L. 110–315 substituted “or had been in default” for “or is already in default”. 2007—Subsec. (d). Pub. L. 110–153 added subsec. (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentPub. L. 119–21, title VIII, § 82001(f)(2), July 4, 2025, 139 Stat. 347, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of enactment of this title [July 4, 2025], and shall apply with respect to any borrower who is in repayment before, on, or after the date of enactment of this title.”
+
+Effective DateSection effective July 1, 2009, see section 203(c)(1) of Pub. L. 110–84, set out in an Effective Date of 2007 Amendment note under section 1078–3 of this title.

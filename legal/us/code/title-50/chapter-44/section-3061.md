@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3061"
+description: "Counterintelligence and national security protections for intelligence community grant funding"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3061"
+citation: "50 U.S.C. § 3061"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3061"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "718a559b423691336f9593749e7c5308897ab0ab32ce78939795704cd8a66ccd"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "7623575e7ddee65d90140b04f89cbbd128c3c966ff9e80c226b1879fd18b5a68"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3061 - Counterintelligence and national security protections for intelligence community grant funding
+
+## Text
+
+(a) Disclosure as condition for receipt of grant The head of an element of the intelligence community may not award a grant to a person or entity unless the person or entity has certified to the head of the element that the person or entity has disclosed to the head of the element any material financial or material in-kind support that the person or entity knows, or should have known, derives from the People’s Republic of China, the Russian Federation, the Islamic Republic of Iran, the Democratic People’s Republic of Korea, or the Republic of Cuba, during the 5-year period ending on the date of the person or entity’s application for the grant.
+
+(b) Process for review of grant applicants prior to award (1) In general The head of an element of the intelligence community may not award a grant to a person or entity who submitted a certification under subsection (a) until such certification is received by the head of an element of the intelligence community and submitted to the Director of National Intelligence pursuant to the process set forth in paragraph (2).
+
+(2) Process (A) In general The Director of National Intelligence, in coordination with such heads of elements of the intelligence community as the Director considers appropriate, shall establish a process to review the awarding of a grant to an applicant who submitted a certification under subsection (a).
+
+(B) Elements The process established under subparagraph (A) shall include the following:
+
+(i) The immediate transmission of a copy of each applicant’s certification made under subsection (a) to the Director of National Intelligence.
+
+(ii) The review of the certification and any accompanying disclosures submitted under subsection (a) as soon as practicable.
+
+(iii) Authorization for the heads of the elements of the intelligence community to take such actions as may be necessary, including denial or revocation of a grant, to ensure a grant does not pose an unacceptable risk of—
+
+(I) misappropriation of United States intellectual property, research and development, and innovation efforts; or
+
+(II) other counterintelligence threats.
+
+(July 26, 1947, ch. 343, title I, § 121, as added Pub. L. 117–263, div. F, title LXIII, § 6302(a), Dec. 23, 2022, 136 Stat. 3501; amended Pub. L. 119–60, div. F, title LXVIII, § 6801(a)(2), Dec. 18, 2025, 139 Stat. 1652.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 struck out subsec. (c) which required the Director of National Intelligence to submit an annual report to congressional intelligence committees.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 117–263, div. F, title LXIII, § 6302(b), Dec. 23, 2022, 136 Stat. 3502, provided that: “Subsections (a) and (b) of section 121 of such Act [act July 26, 1947, 50 U.S.C. 3061], as added by subsection (a), shall apply only with respect to grants awarded by an element of the intelligence community after the date of the enactment of this Act [Dec. 23, 2022].” [For definition of “intelligence community” as used in section 6302(b) of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.]

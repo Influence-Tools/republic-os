@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 2442"
+description: "Recruitment or use of child soldiers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "118"
+chapter_name: "WAR CRIMES"
+section: "2442"
+citation: "18 U.S.C. § 2442"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s2442"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "951725d00cb92d243b00d0bfc713b580843c3ac5d471923951198fbeff432448"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "ad5342d2278d43ccd93210e3fe4e6713c47cee424f655511b4c9197a67344694"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 2442 - Recruitment or use of child soldiers
+
+## Text
+
+(a) Offense.— Whoever knowingly—
+
+(1) recruits, enlists, or conscripts a person to serve while such person is under 15 years of age in an armed force or group; or
+
+(2) uses a person under 15 years of age to participate actively in hostilities;
+
+knowing such person is under 15 years of age, shall be punished as provided in subsection (b).
+
+(b) Penalty.— Whoever violates, or attempts or conspires to violate, subsection (a) shall be fined under this title or imprisoned not more than 20 years, or both and, if death of any person results, shall be fined under this title and imprisoned for any term of years or for life.
+
+(c) Jurisdiction.— There is jurisdiction over an offense described in subsection (a), and any attempt or conspiracy to commit such offense, if—
+
+(1) the alleged offender is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))) or an alien lawfully admitted for permanent residence in the United States (as defined in section 101(a)(20) of such Act (8 U.S.C. 1101(a)(20)); 11 So in original. An additional closing parenthesis probably should precede the semicolon.
+
+(2) the alleged offender is a stateless person whose habitual residence is in the United States;
+
+(3) the alleged offender is present in the United States, irrespective of the nationality of the alleged offender; or
+
+(4) the offense occurs in whole or in part within the United States.
+
+(d) Definitions.— In this section:
+
+(1) Participate actively in hostilities.— The term “participate actively in hostilities” means taking part in—
+
+(A) combat or military activities related to combat, including sabotage and serving as a decoy, a courier, or at a military checkpoint; or
+
+(B) direct support functions related to combat, including transporting supplies or providing other services.
+
+(2) Armed force or group.— The term “armed force or group” means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
+
+(Added Pub. L. 110–340, § 2(a)(1), Oct. 3, 2008, 122 Stat. 3735.)

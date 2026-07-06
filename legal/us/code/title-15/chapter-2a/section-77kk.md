@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 77kk"
+description: "Representations by Corporation as acting for Department of State or United States forbidden; interference with foreign negotiations forbidden"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "2A"
+chapter_name: "SECURITIES AND TRUST INDENTURES"
+section: "77kk"
+citation: "15 U.S.C. § 77kk"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s77kk"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "41cb5b79190a3c8da823ca0afb18773ac041851ce80de59ff1fb9a2f7cd705eb"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "a48c314889397a571c33535d46f6decdadc33336573342eb7fd02031e7965440"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 77kk - Representations by Corporation as acting for Department of State or United States forbidden; interference with foreign negotiations forbidden
+
+## Text
+
+Notwithstanding the foregoing provisions of this subchapter, it shall be unlawful for, and nothing in this subchapter shall be taken or construed as permitting or authorizing, the Corporation in this subchapter created, or any committee of said Corporation, or any person or persons acting for or representing or purporting to represent it—
+
+(a) to claim or assert or pretend to be acting for or to represent the Department of State or the United States Government;
+
+(b) to make any statements or representations of any kind to any foreign government or its officials or the officials of any political subdivision of any foreign government that said Corporation or any committee thereof or any individual or individuals connected therewith were speaking or acting for the said Department of State or the United States Government; or
+
+(c) to do any act directly or indirectly which would interfere with or obstruct or hinder or which might be calculated to obstruct, hinder, or interfere with the policy or policies of the said Department of State or the Government of the United States or any pending or contemplated diplomatic negotiations, arrangements, business or exchanges between the Government of the United States or said Department of State and any foreign government or any political subdivision thereof.
+
+(May 27, 1933, ch. 38, title II, § 210, 48 Stat. 95.)

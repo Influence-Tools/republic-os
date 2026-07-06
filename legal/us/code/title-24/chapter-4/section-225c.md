@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "24 U.S.C. § 225c"
+description: "Congressional review of system implementation plan"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 24
+title_name: "HOSPITALS AND ASYLUMS"
+chapter_number: "4"
+chapter_name: "SAINT ELIZABETHS HOSPITAL"
+section: "225c"
+citation: "24 U.S.C. § 225c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc24@119-100.zip"
+source_identifier: "/us/usc/t24/s225c"
+source_file: "data/legal/raw/us/code/title-24/usc24.xml"
+source_hash: "c1ae093ddc1489ec8c955e95839465931c0eeaafd2060647c8b2f8cc3a5b1892"
+raw_snapshot_hash: "0496f109fbd19f0cda0e5cca639449e329ed2357dcb8b8095d1127a2bfcf2c67"
+text_hash: "4dbe424da9d59c90715a4f2dd0e308f94e79a96b1d10ab9992b9e9743bfcd72e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 24 U.S.C. § 225c - Congressional review of system implementation plan
+
+## Text
+
+(a) The Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate shall review the preliminary system implementation plan transmitted by the Mayor pursuant to section 225b of this title to determine the extent of its compliance with the provisions of section 225(b) of this title and section 225b of this title, and transmit written recommendations regarding any revisions to the preliminary plan to the Mayor not later than 60 days after receipt of such plan.
+
+(b) The Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate shall, within 90 days of submission of the final system implementation plan by the Mayor pursuant to section 225b of this title, review such plan to determine the extent to which it is in compliance with the provisions of section 225(b) of this title and section 225b of this title.
+
+(Pub. L. 98–621, § 5, Nov. 8, 1984, 98 Stat. 3374.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Abolition of House Committee on the District of Columbia Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.

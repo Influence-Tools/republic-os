@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 4211"
+description: "Provision of assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "62"
+chapter_name: "AFRICAN ELEPHANT CONSERVATION"
+section: "4211"
+citation: "16 U.S.C. § 4211"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s4211"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "30c74279a0f9a696d0361021f77c2e8c694e68cdd87b2ab35bd302ef51ca3d20"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "84333e6de68e60d7eb7df3c0d83cffa9325084cf343fc1048309d6fa21d00b82"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 4211 - Provision of assistance
+
+## Text
+
+(a) In general The Secretary may provide financial assistance under this subchapter from the Fund for approved projects for research, conservation, management, or protection of African elephants.
+
+(b) Project proposal Any African government agency responsible for African elephant conservation and protection, the CITES Secretariat, and any organization or individual with experience in African elephant conservation may submit to the Secretary a project proposal under this section. Each such proposal shall contain—
+
+(1) the name of the person responsible for conducting the project;
+
+(2) a succinct statement of the need for and purposes of the project;
+
+(3) a description of the qualifications of the individuals who will be conducting the project;
+
+(4) an estimate of the funds and time required to complete the project;
+
+(5) evidence of support of the project by governmental entities of countries within which the project will be conducted, if such support may be important for the success of the project; and
+
+(6) any other information the Secretary considers to be necessary or appropriate for evaluating the eligibility of the project for funding under this chapter.
+
+(c) Project review and approval The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
+
+(d) Criteria for approval The Secretary may approve a project under this section if the project will enhance programs for African elephant research, conservation, management, or protection by—
+
+(1) developing in a usable form sound scientific information on African elephant habitat condition and carrying capacity, total elephant numbers and population trends, or annual reproduction and mortality; or
+
+(2) assisting efforts—
+
+(A) to ensure that any taking of African elephants in the country is effectively controlled and monitored;
+
+(B) to implement conservation programs to provide for healthy, sustainable African elephant populations; or
+
+(C) to enhance compliance with the CITES Ivory Control System.
+
+(e) Project sustainability To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects that will enhance sustainable conservation programs to ensure effective long-term conservation of African elephants.
+
+(f) Project reporting Each entity that receives assistance under this section shall provide such periodic reports to the Director of the United States Fish and Wildlife Service as the Director considers relevant and appropriate. Each report shall include all information requested by the Director for evaluating the progress and success of the project.
+
+(g) Multiyear grants (1) Authorization The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for African elephants and the habitat of African elephants.
+
+(2) Effect Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+(Pub. L. 100–478, title II, § 2101, Oct. 7, 1988, 102 Stat. 2316; Pub. L. 107–111, §§ 5, 6(a)(1), Jan. 8, 2002, 115 Stat. 2096; Pub. L. 110–132, § 2(a), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 118–159, div. E, title LIII, § 5303(a), Dec. 23, 2024, 138 Stat. 2445.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (g). Pub. L. 118–159 added subsec. (g). 2007—Subsec. (c). Pub. L. 110–132, struck out “and to each country within which the project is proposed to be conducted” before period at end in second sentence. 2002—Subsec. (a). Pub. L. 107–111, § 6(a)(1), struck out “African Elephant Conservation” before “Fund”. Subsecs. (e), (f). Pub. L. 107–111, § 5, added subsec. (e) and redesignated former subsec. (e) as (f).

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "44 U.S.C. § 1507"
+description: "Filing document as constructive notice; publication in Federal Register as presumption of validity; judicial notice; citation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 44
+title_name: "PUBLIC PRINTING AND DOCUMENTS"
+chapter_number: "15"
+chapter_name: "FEDERAL REGISTER AND CODE OF FEDERAL REGULATIONS"
+section: "1507"
+citation: "44 U.S.C. § 1507"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc44@119-100.zip"
+source_identifier: "/us/usc/t44/s1507"
+source_file: "data/legal/raw/us/code/title-44/usc44.xml"
+source_hash: "e4bff0bcee14c91499058f720ac653a1a78742ff679d391ef5537d4a3f34baf4"
+raw_snapshot_hash: "2d7109056b4815718203e8d99c9ee6fe3ab744f578883b59654fe3adb211b4a0"
+text_hash: "267614110683830ec692e476f8bca790c949ddbb485ed5197611c0a8f80c10b4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 44 U.S.C. § 1507 - Filing document as constructive notice; publication in Federal Register as presumption of validity; judicial notice; citation
+
+## Text
+
+A document required by section 1505(a) of this title to be published in the Federal Register is not valid as against a person who has not had actual knowledge of it until the document has been filed with the Office of the Federal Register and a copy made available for public inspection as provided by section 1503 of this title. Unless otherwise specifically provided by statute, filing of a document, required or authorized to be published by section 1505 of this title, except in cases where notice by publication is insufficient in law, is sufficient to give notice of the contents of the document to a person subject to or affected by it. The publication in the Federal Register of a document creates a rebuttable presumption—
+
+(1) that it was duly issued, prescribed, or promulgated;
+
+(2) that it was filed with the Office of the Federal Register and made available for public inspection at the day and hour stated in the published notation;
+
+(3) that the copy contained in the Federal Register is a true copy of the original; and
+
+(4) that all requirements of this chapter and the regulations prescribed under it relative to the document have been complied with.
+
+The contents of the Federal Register shall be judicially noticed and without prejudice to any other mode of citation, may be cited by volume and page number.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1276; Pub. L. 118–267, § 2(a)(2), Jan. 4, 2025, 138 Stat. 2983.)
+
+## Notes
+
+Historical and Revision NotesBased on 44 U.S. Code, 1964 ed., § 307 (July 26, 1935, ch. 417, § 7, 49 Stat. 502).
+
+Editorial Notes
+
+Amendments2025—Pub. L. 118–267, § 2(a)(2)(A), substituted “the document has been filed” for “the duplicate originals or certified copies of the document have been filed” in introductory provisions. Par. (2). Pub. L. 118–267, § 2(a)(2)(B), substituted “published” for “printed”.

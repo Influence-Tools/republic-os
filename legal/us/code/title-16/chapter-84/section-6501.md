@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 6501"
+description: "Purposes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "84"
+chapter_name: "HEALTHY FOREST RESTORATION"
+section: "6501"
+citation: "16 U.S.C. § 6501"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s6501"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "6a0488e4d40a8c120f9635da16b2bdbd2fd0825ac3189c86b5657054522f69b9"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "e551957009c6357a647543af3be2e427f4430fc00f455c1f77ba9e4b13293e49"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 6501 - Purposes
+
+## Text
+
+The purposes of this chapter are—
+
+(1) to reduce wildfire risk to communities, municipal water supplies, and other at-risk Federal land through a collaborative process of planning, prioritizing, and implementing hazardous fuel reduction projects;
+
+(2) to authorize grant programs to improve the commercial value of forest biomass (that otherwise contributes to the risk of catastrophic fire or insect or disease infestation) for producing electric energy, useful heat, transportation fuel, and petroleum-based product substitutes, and for other commercial purposes;
+
+(3) to enhance efforts to protect watersheds and address threats to forest and rangeland health, including catastrophic wildfire, across the landscape;
+
+(4) to promote systematic gathering of information to address the impact of insect and disease infestations and other damaging agents on forest and rangeland health;
+
+(5) to improve the capacity to detect insect and disease infestations at an early stage, particularly with respect to hardwood forests; and
+
+(6) to protect, restore, and enhance forest ecosystem components—
+
+(A) to promote the recovery of threatened and endangered species;
+
+(B) to improve biological diversity; and
+
+(C) to enhance productivity and carbon sequestration.
+
+(Pub. L. 108–148, § 2, Dec. 3, 2003, 117 Stat. 1888.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 108–148, § 1(a), Dec. 3, 2003, 117 Stat. 1887, provided that: “This Act [enacting this chapter and section 2103b of this title and amending sections 6601, 8606, and 8609 of Title 7, Agriculture] may be cited as the ‘Healthy Forests Restoration Act of 2003’.”
+
+Wildfire Hazard Severity Mapping for CommunitiesPub. L. 115–141, div. O, title II, § 210, Mar. 23, 2018, 132 Stat. 1067, provided that: “(a) Map Required.—Not later than 2 years after the date of the enactment of this section [Mar. 23, 2018], the Secretary of Agriculture, acting through the Chief of the Forest Service, shall—“(1) develop and publish a geospatial map appropriate for community-level use that depicts wildfire hazard severity to inform at-risk communities that are—“(A) adjacent to National Forest System lands; or “(B) affected by wildland fire, as determined by the Secretary; and “(2) disseminate the information under paragraph (1) in an appropriate, web-based format for use by such communities to—“(A) improve understanding of their risk profile; “(B) clarify thinking on the nature and effect of wildfire risks; and “(C) develop plans to manage and mitigate those risks. “(b) Purposes of Map.—The purposes of the map required under subsection (a) are as follows:“(1) To inform evaluations of wildfire risk. “(2) To prioritize fuels management needs. “(3) To depict the relative potential for wildfire that could be difficult for suppression resources to contain and that could cause ignitions to structures. “(c) Consultation.—In carrying out subsection (a), the Secretary of Agriculture and Chief of the Forest Service shall consult with—“(1) the Secretary of the Interior; “(2) the Administrator of the Federal Emergency Management Agency; “(3) other appropriate Federal agencies; “(4) States; “(5) relevant colleges, universities, and institutions of higher education with relevant expertise; and “(6) other entities, as appropriate. “(d) At-risk Community Defined.—The term ‘at-risk community’ has the meaning given the term in section 101 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511).”
+
+Executive Documents
+
+Executive Order No. 14072 Ex. Ord. No. 14072, Apr. 22, 2022, 87 F.R. 24851, which related to restoring and conserving the nation’s forests, stopping international deforestation, and nature-based solutions to tackle climate change and enhance resilience, was revoked by Ex. Ord. No. 14154, § 4(a)(x), Jan. 20, 2025, 90 F.R. 8355.

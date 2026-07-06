@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 8101"
+description: "Congressional findings and declaration of purpose"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "90"
+chapter_name: "NEIGHBORHOOD AND CITY REINVESTMENT, SELF-HELP AND REVITALIZATION"
+section: "8101"
+citation: "42 U.S.C. § 8101"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s8101"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "099132ac695c1d076d3868c565f50ed9573733232cec6efc5e0426b56c00b2d9"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "2933397630ca89a313b8cccf85ee7f3ed9420b2719869e0328123f32b92c55df"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 8101 - Congressional findings and declaration of purpose
+
+## Text
+
+(a) The Congress finds that—
+
+(1) the neighborhood housing services demonstration of the Urban Reinvestment Task Force has proven its worth as a successful program to revitalize older urban neighborhoods by mobilizing public, private, and community resources at the neighborhood level; and
+
+(2) the demand for neighborhood housing services programs in cities throughout the United States warrants the creation of a public corporation to institutionalize and expand the neighborhood housing services program and other programs of the present Urban Reinvestment Task Force.
+
+(b) The purpose of this subchapter is to establish a public corporation which will continue the joint efforts of the Federal financial supervisory agencies and the Department of Housing and Urban Development to promote reinvestment in older neighborhoods by local financial institutions working cooperatively with community people and local government, and which will continue the nonbureaucratic approach of the Urban Reinvestment Task Force, relying largely on local initiative for the specific design of local programs.
+
+(Pub. L. 95–557, title VI, § 602, Oct. 31, 1978, 92 Stat. 2115.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 95–557, title VI, § 601, Oct. 31, 1978, 92 Stat. 2115, provided that: “This title [enacting this subchapter] may be cited as the ‘Neighborhood Reinvestment Corporation Act’.” Pub. L. 95–557, title VII, § 701, Oct. 31, 1978, 92 Stat. 2119, which provided that such title, which was classified to subchapter II of this chapter, was to be cited as the “Neighborhood Self-Help Development Act of 1978”, was repealed by Pub. L. 97–35, title III, § 313(a), Aug. 13, 1981, 95 Stat. 398. Pub. L. 95–557, title VIII, § 801, Oct. 31, 1978, 92 Stat. 2122, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Livable Cities Act of 1978’.”
+
+Housing CounselingPub. L. 117–2, title III, § 3204, Mar. 11, 2021, 135 Stat. 60, provided that: “(a) Appropriation.—In addition to amounts otherwise available, there is appropriated to the Neighborhood Reinvestment Corporation (in this section referred to as the ‘Corporation’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available until September 30, 2025, for grants to housing counseling intermediaries approved by the Department of Housing and Urban Development, State housing finance agencies, and NeighborWorks organizations for providing housing counseling services, as authorized under the Neighborhood Reinvestment Corporation Act (42 U.S.C. 8101–8107) and consistent with the discretion set forth in section 606(a)(5) of such Act (42 U.S.C. 8105(a)(5)) to design and administer grant programs. Of the grant funds made available under this subsection, not less than 40 percent shall be provided to counseling organizations that—“(1) target housing counseling services to minority and low-income populations facing housing instability; or “(2) provide housing counseling services in neighborhoods having high concentrations of minority and low-income populations. “(b) Limitation.—The aggregate amount provided to NeighborWorks organizations under this section shall not exceed 15 percent of the total of grant funds made available by subsection (a). “(c) Administration and Oversight.—The Corporation may retain a portion of the amounts provided under this section, in a proportion consistent with its standard rate for program administration in order to cover its expenses related to program administration and oversight. “(d) Housing Counseling Services Defined.— For the purposes of this section, the term ‘housing counseling services’ means—“(1) housing counseling provided directly to households facing housing instability, such as eviction, default, foreclosure, loss of income, or homelessness; “(2) education, outreach, training, technology upgrades, and other program related support; and “(3) operational oversight funding for grantees and subgrantees that receive funds under this section.”

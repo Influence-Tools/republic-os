@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2704"
+description: "International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "15"
+chapter_name: "CARIBBEAN BASIN ECONOMIC RECOVERY"
+section: "2704"
+citation: "19 U.S.C. § 2704"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2704"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "6c2cb342a3b98234d4faada9e2e094551fd75f38378e8b12c64087908fbea00e"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "9dfb5407d2c87a8c59b5e839647fb21694198a59ebdfdfa910cb176ab719a3f9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2704 - International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program
+
+## Text
+
+(a) Reporting requirement (1) In general The United States International Trade Commission (in this section referred to as the “Commission”) shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers and on the economy of the beneficiary countries.
+
+(2) First report The first report shall be submitted not later than September 30, 2001.
+
+(3) Treatment of Puerto Rico, etc. For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States are considered to be United States industries.
+
+(b) Requisite areas of Commission assessment (1) Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
+
+(A) the actual effect, during the period covered by the report, of this Act on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries; and
+
+(B) the probable future effect which this Act will have on the United States economy generally, as well as on such domestic industries, before the provisions of this Act terminate.
+
+(2) In preparing the assessments required under paragraph (1), the Commission shall, to the extent practicable—
+
+(A) analyze the production, trade and consumption of United States products affected by this Act, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production; and
+
+(B) describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and such other conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this Act.
+
+(c) Time of submission of reports; public participation (1) Each report required under subsection (a) shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
+
+(2) The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
+
+(Pub. L. 98–67, title II, § 215, Aug. 5, 1983, 97 Stat. 393; Pub. L. 106–200, title II, § 211(d)(1), May 18, 2000, 114 Stat. 287.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (a)(1), was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables. This Act, referred to in subsec. (b), probably should be “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+Amendments2000—Subsec. (a). Pub. L. 106–200 inserted heading and amended text generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress and to the President, a report regarding the economic impact of this Act on United States industries and consumers during— “(1) the twenty-four-month period beginning with August 5, 1983; and “(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 2706(b) of this title. For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”

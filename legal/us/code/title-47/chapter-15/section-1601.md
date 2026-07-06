@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "47 U.S.C. § 1601"
+description: "Determination of communications equipment or services posing national security risks"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 47
+title_name: "TELECOMMUNICATIONS"
+chapter_number: "15"
+chapter_name: "SECURE AND TRUSTED COMMUNICATIONS NETWORKS"
+section: "1601"
+citation: "47 U.S.C. § 1601"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc47@119-100.zip"
+source_identifier: "/us/usc/t47/s1601"
+source_file: "data/legal/raw/us/code/title-47/usc47.xml"
+source_hash: "3207f16db39d3e40377ae63ee394f0e5397fe568f189ea06804727326cdf4cb2"
+raw_snapshot_hash: "7cfb2d22df305544d8fac4913876d34c6b712d99019bd01ec134ed44ef145534"
+text_hash: "66a1f2ab4db3518f1cd57e770ec60707770ed2e8440d3d93aea8832f35e58cf1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 47 U.S.C. § 1601 - Determination of communications equipment or services posing national security risks
+
+## Text
+
+(a) Publication of covered communications equipment or services list Not later than 1 year after March 12, 2020, the Commission shall publish on its website a list of covered communications equipment or services.
+
+(b) Publication by Commission The Commission shall place on the list published under subsection (a) any communications equipment or service, if and only if such equipment or service—
+
+(1) is produced or provided by any entity, if, based exclusively on the determinations described in paragraphs (1) through (4) of subsection (c), such equipment or service produced or provided by such entity poses an unacceptable risk to the national security of the United States or the security and safety of United States persons; and
+
+(2) is capable of—
+
+(A) routing or redirecting user data traffic or permitting visibility into any user data or packets that such equipment or service transmits or otherwise handles;
+
+(B) causing the network of a provider of advanced communications service to be disrupted remotely; or
+
+(C) otherwise posing an unacceptable risk to the national security of the United States or the security and safety of United States persons.
+
+(c) Reliance on certain determinations In taking action under subsection (b)(1), the Commission shall place on the list any communications equipment or service that poses an unacceptable risk to the national security of the United States or the security and safety of United States persons based solely on one or more of the following determinations:
+
+(1) A specific determination made by any executive branch interagency body with appropriate national security expertise, including the Federal Acquisition Security Council established under section 1322(a) of title 41.
+
+(2) A specific determination made by the Department of Commerce pursuant to Executive Order No. 13873 (84 Fed. Reg. 22689; relating to securing the information and communications technology and services supply chain).
+
+(3) The communications equipment or service being covered telecommunications equipment or services, as defined in section 889(f)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1918).
+
+(4) A specific determination made by an appropriate national security agency.
+
+(d) Updating of list (1) In general The Commission shall periodically update the list published under subsection (a) to address changes in the determinations described in paragraphs (1) through (4) of subsection (c).
+
+(2) Monitoring of determinations The Commission shall monitor the making or reversing of the determinations described in paragraphs (1) through (4) of subsection (c) in order to place additional communications equipment or services on the list published under subsection (a) or to remove communications equipment or services from such list. If a determination described in any such paragraph that provided the basis for a determination by the Commission under subsection (b)(1) with respect to any communications equipment or service is reversed, the Commission shall remove such equipment or service from such list, except that the Commission may not remove such equipment or service from such list if any other determination described in any such paragraph provides a basis for inclusion on such list by the Commission under subsection (b)(1) with respect to such equipment or service.
+
+(3) Public notification For each 12-month period during which the list published under subsection (a) is not updated, the Commission shall notify the public that no updates were necessary during such period to protect national security or to address changes in the determinations described in paragraphs (1) through (4) of subsection (c).
+
+(Pub. L. 116–124, § 2, Mar. 12, 2020, 134 Stat. 158.)
+
+## Notes
+
+Editorial Notes
+
+References in TextExecutive Order No. 13873, referred to in subsec. (c)(2), is Ex. Ord. No. 13873, May 15, 2019, 84 F.R. 22689, which is listed in a table under section 1701 of Title 50, War and National Defense. Section 889(f)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (c)(3), is section 889(f)(3) of Pub. L. 115–232, which is set out in a note preceding section 3901 of Title 41, Public Contracts.
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 116–124, § 1, Mar. 12, 2020, 134 Stat. 158, provided that: “This Act [enacting this chapter] may be cited as the ‘Secure and Trusted Communications Networks Act of 2019’.”
+
+Analysis of Certain Unmanned Aircraft Systems EntitiesPub. L. 118–159, div. A, title XVII, § 1709, Dec. 23, 2024, 138 Stat. 2209, provided that: “(a) Evaluation of Communications Services and Equipment to Covered List.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], an appropriate national security agency shall determine if any of the following communications or video surveillance equipment or services pose an unacceptable risk to the national security of the United States or the security and safety of United States persons:“(A) Communications or video surveillance equipment produced by Shenzhen Da-Jiang Innovations Sciences and Technologies Company Limited (commonly known as ‘DJI Technologies’). “(B) Communications or video surveillance equipment produced by Autel Robotics. “(C) With respect to an entity described in subparagraph (A) or (B) (referred to in this subparagraph as a ‘named entity’)—“(i) any subsidiary, affiliate, or partner of the named entity; “(ii) any entity in a joint venture with the named entity; or “(iii) any entity to which the named entity has a technology sharing or licensing agreement. “(D) Communications or video surveillance services, including software, provided by an entity described in subparagraphs (A), (B), and (C) or using equipment described in such subparagraphs. “(2) Addition to covered list.—If the appropriate national security agency does not make a determination as required by paragraph (1) within one year after the enactment of this Act, the Commission shall add all communications equipment and services listed in paragraph (1) to the covered list. “(b) Inclusion of Certain Communications Services and Equipment to Covered List.—“(1) Determinations.—Not later than 30 days after an appropriate national security agency determines that any of the communications equipment or services specified in subsection (a)(1) present an unacceptable risk to the national security of the United States or the security and safety of United States persons—“(A) the Commission shall place such communications equipment or services on the covered list; and “(B) the appropriate national security agency shall submit to the appropriate congressional committees a report on their determination which shall be submitted in unclassified form but may contain a classified annex. “(2) Other determinations.—Not later than 30 days after an appropriate national security agency determines that any of the communications equipment or services specified in subsection (a)(1) do not present an unacceptable risk to the national security of the United States or the security and safety of United States persons—“(A) that agency shall submit to the appropriate congressional committees a report on their determinations, which shall be submitted in unclassified form but may contain a classified annex; and “(B) within 180 days following the determination, all other appropriate national security agencies shall review the determination and shall submit to the appropriate congressional committees a report on their determinations, which shall be submitted in unclassified form but may contain a classified annex. “(c) Definitions.—In this section:“(1) The term ‘appropriate national security agency’ has the same meaning as the term in section 9 of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1608)) [sic]. “(2) The term ‘Commission’ means the Federal Communications Commission. “(3) The term ‘covered list’ means the list of covered communications equipment or services published by the Commission under section 2(a) of the Secure and Trusted Communications Networks Act [of 2019 (47 U.S.C. 1601(a))]. “(4) The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Select Committee on Intelligence in the Senate; and “(B) the Committee on Armed Services, the Committee on Homeland Security, the Committee on Energy and Commerce, and the Permanent Select Committee on Intelligence in the House of Representatives. “(5) The term ‘technology sharing agreement’ means an agreement where a named entity licenses their technology to a company directly or through an intermediary manufacturer. “(d) Savings Clause.—Nothing herein shall be construed to override or affect the uses permitted by sections 1823 through 1832 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) [41 U.S.C. 3901 note prec.] and sections 936 [49 U.S.C. 44801 note] and 1032 [138 Stat. 1406] of the Federal Aviation Administration [FAA] Reauthorization Act of 2024 (Public Law 118–63), including the duration thereof. If the Commission places communications equipment or services on the covered list pursuant to subsection (b)(1)(A) of this section, the appropriate national security agency shall provide the Commission with necessary information on whether enabling those uses is appropriate and how to enable those uses if necessary, and the Commission may promulgate implementing rules or policies accordingly.”
+
+Secure EquipmentPub. L. 117–55, Nov. 11, 2021, 135 Stat. 423, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Secure Equipment Act of 2021’. “SEC. 2. UPDATES TO EQUIPMENT AUTHORIZATION PROCESS OF FEDERAL COMMUNICATIONS COMMISSION.“(a) Rulemaking.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [Nov. 11, 2021], the Commission shall adopt rules in the proceeding initiated in the Notice of Proposed Rulemaking in the matter of Protecting Against National Security Threats to the Communications Supply Chain through the Equipment Authorization Program (ET Docket No. 21–232; FCC 21–73; adopted June 17, 2021), in accordance with paragraph (2), to update the equipment authorization procedures of the Commission. “(2) Updates required.—In the rules adopted under paragraph (1), the Commission shall clarify that the Commission will no longer review or approve any application for equipment authorization for equipment that is on the list of covered communications equipment or services published by the Commission under section 2(a) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1601(a)). “(3) Applicability.—“(A) In general.—In the rules adopted under paragraph (1), the Commission may not provide for review or revocation of any equipment authorization granted before the date on which such rules are adopted on the basis of the equipment being on the list described in paragraph (2). “(B) Rule of construction.—Nothing in this section may be construed to prohibit the Commission, other than in the rules adopted under paragraph (1), from—“(i) examining the necessity of review or revocation of any equipment authorization on the basis of the equipment being on the list described in paragraph (2); or “(ii) adopting rules providing for any such review or revocation. “(b) Definition.—In this section, the term ‘Commission’ means the Federal Communications Commission.”

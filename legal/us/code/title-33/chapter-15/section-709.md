@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 709"
+description: "Regulations for use of storage waters; application to Tennessee Valley Authority"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "15"
+chapter_name: "FLOOD CONTROL"
+section: "709"
+citation: "33 U.S.C. § 709"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s709"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "62a821e20dfd3c0f0af93cef3abbed5f87b23648ab78fd470952d24eb140de2f"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "8dcc2e4f8498a560078d45881a8114061d8d4162d8b4d39d456ba710fcb97b2a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 709 - Regulations for use of storage waters; application to Tennessee Valley Authority
+
+## Text
+
+On and after December 22, 1944, it shall be the duty of the Secretary of the Army to prescribe regulations for the use of storage allocated for flood control or navigation at all reservoirs constructed wholly or in part with Federal funds provided on the basis of such purposes, and the operation of any such project shall be in accordance with such regulations: Provided, That this section shall not apply to the Tennessee Valley Authority, except that in case of danger from floods on the Lower Ohio and Mississippi Rivers the Tennessee Valley Authority is directed to regulate the release of water from the Tennessee River into the Ohio River in accordance with such instructions as may be issued by the Department of the Army.
+
+(Dec. 22, 1944, ch. 665, § 7, 58 Stat. 890; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+Section as Unaffected by Submerged Lands ActProvisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.

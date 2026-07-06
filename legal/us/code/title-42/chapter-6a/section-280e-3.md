@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 280e–3"
+description: "Study in certain States to determine factors contributing to elevated breast cancer mortality rates"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "280e–3"
+citation: "42 U.S.C. § 280e–3"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s280e–3"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "93111df0d2e82470eddfc1e4eaa61c93f5d5efe27b2b87c0fe9078e21a86222d"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "825636905a21659f6e2c3f9e7dafd7266b0fb4f274b0c9c3804e5f319896f986"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 280e–3 - Study in certain States to determine factors contributing to elevated breast cancer mortality rates
+
+## Text
+
+(a) In general Subject to subsections (c) and (d), the Secretary, acting through the Director of the National Cancer Institute, shall conduct a study for the purpose of determining the factors contributing to the fact that breast cancer mortality rates in the States specified in subsection (b) are elevated compared to rates in other States.
+
+(b) Relevant States The States referred to in subsection (a) are Connecticut, Delaware, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Rhode Island, Vermont, and the District of Columbia.
+
+(c) Cooperation of State The Secretary may conduct the study required in subsection (a) in a State only if the State agrees to cooperate with the Secretary in the conduct of the study, including providing information from any registry operated by the State pursuant to section 280e(a) of this title.
+
+(d) Planning, commencement, and duration The Secretary shall, during each of the fiscal years 1993 and 1994, develop a plan for conducting the study required in subsection (a). The study shall be initiated by the Secretary not later than fiscal year 1994, and the collection of data under the study may continue through fiscal year 1998.
+
+(July 1, 1944, ch. 373, title III, § 399E, formerly § 399K, as added Pub. L. 102–515, § 3, Oct. 24, 1992, 106 Stat. 3376; renumbered § 399E and amended Pub. L. 106–310, div. A, title V, § 502(2)(A), (C), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 109–482, title I, § 104(b)(2)(A), Jan. 15, 2007, 120 Stat. 3693.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “Not later than September 30, 1999, the Secretary shall complete the study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings and recommendations made as a result of the study.” 2000—Subsec. (c). Pub. L. 106–310, § 502(2)(C), made technical amendment to reference in original act which appears in text as reference to section 280e(a) of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2007 AmendmentAmendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
+Potential Environmental and Other Risks Contributing to Incidence of Breast CancerPub. L. 103–43, title XIX, § 1911, June 10, 1993, 107 Stat. 205, provided that Director of the National Cancer Institute, in collaboration with Director of the National Institute of Environmental Health Sciences, was to conduct case-control study to assess biological markers of environmental and other potential risk factors contributing to incidence of breast cancer in specified counties in State of New York and northeastern United States that had highest age-adjusted mortality rate of such cancer, and to report results of such study to Congress not later than 30 months after June 10, 1993.

@@ -1,0 +1,127 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 1278"
+description: "Requirements for labeling certain toys and games"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "30"
+chapter_name: "HAZARDOUS SUBSTANCES"
+section: "1278"
+citation: "15 U.S.C. § 1278"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s1278"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "9a5552b5cf24434509e1a8453bf738fe35e74f0bc245ac661cd5ddbe020e74b3"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "1801876b1188678c8a5e1096e501be9d90847824eb0e03a7311a5d2c4b33705b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 1278 - Requirements for labeling certain toys and games
+
+## Text
+
+(a) Toys or games for children who are at least 3 (1) Requirement The packaging of any toy or game intended for use by children who are at least 3 years old but not older than 6 years (or such other upper age limit as the Commission may determine, which may not be less than 5 years old), any descriptive material which accompanies such toy or game, and, in the case of bulk sales of such toy or game when unpackaged, any bin, container for retail display, or vending machine from which the unpackaged toy or game is dispensed shall bear or contain the cautionary statement described in paragraph (2) if the toy or game—
+
+(A) is manufactured for sale, offered for sale, or distributed in commerce in the United States, and
+
+(B) includes a small part, as defined by the Commission.
+
+(2) Label The cautionary statement required by paragraph (1) for a toy or game shall be as follows:
+
+(b) Balloons, small balls, and marbles (1) Requirement In the case of any latex balloon, any ball with a diameter of 1.75 inches or less intended for children 3 years of age or older, any marble intended for children 3 years of age or older, or any toy or game which contains such a balloon, ball, or marble, which is manufactured for sale, offered for sale, or distributed in commerce in the United States—
+
+(A) the packaging of such balloon, ball, marble, toy, or game,
+
+(B) any descriptive material which accompanies such balloon, ball, marble, toy, or game, and
+
+(C) in the case of bulk sales of any such product when unpackaged, any bin, container for retail display, or vending machine from which such unpackaged balloon, ball, marble, toy, or game is dispensed,
+
+shall bear or contain the cautionary statement described in paragraph (2).
+
+(2) Label The cautionary statement required under paragraph (1) for a balloon, ball, marble, toy, or game shall be as follows:
+
+(A) Balloons In the case of balloons, or toys or games that contain latex balloons, the following cautionary statement applies:
+
+(B) Balls In the case of balls, the following cautionary statement applies:
+
+(C) Marbles In the case of marbles, the following cautionary statement applies:
+
+(D) Toys and games In the case of toys or games containing balls, the following cautionary statement applies: In the case of toys or games containing marbles, the following cautionary statement applies:
+
+(c) Advertising (1) Requirement (A) Cautionary statement Any advertisement by a retailer, manufacturer, importer, distributor, or private labeler (including advertisements on Internet websites or in catalogues or other printed materials) that provides a direct means for the purchase or order of a product for which a cautionary statement is required under subsection (a) or (b) shall include the appropriate cautionary statement displayed on or immediately adjacent to that advertisement, as modified by regulations issued under paragraph (3).
+
+(B) Application to retailers (i) Requirement to inform A manufacturer, importer, distributor, or private labeler that provides such a product to a retailer shall inform the retailer of any cautionary statement requirement applicable to the product.
+
+(ii) Retailer’s requirement to inquire A retailer is not in violation of subparagraph (A) if the retailer requested information from the manufacturer, importer, distributor, or private labeler as to whether the cautionary statement required by subparagraph (A) applies to the product that is the subject of the advertisement and the manufacturer, importer, distributor, or private labeler provided false information or did not provide such information.
+
+(C) Display The cautionary statement required by subparagraph (A) shall be prominently displayed—
+
+(i) in the primary language used in the advertisement;
+
+(ii) in conspicuous and legible type in contrast by typography, layout, or color with other material printed or displayed in such advertisement; and
+
+(iii) in a manner consistent with part 1500 of title 16, Code of Federal Regulations.
+
+(D) Definitions In this subsection:
+
+(i) The terms “manufacturer”, “distributor”, and “private labeler” have the meaning given those terms in section 2052 of this title.
+
+(ii) The term “retailer” has the meaning given that term in section 2052 of this title, but does not include an individual whose selling activity is intermittent and does not constitute a trade or business.
+
+(2) Effective date The requirement in paragraph (1) shall take effect—
+
+(A) with respect to advertisements on Internet websites, 120 days after August 14, 2008; and
+
+(B) with respect to catalogues and other printed materials, 180 days after August 14, 2008.
+
+(3) Rulemaking Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Commission shall, not later than 90 days after August 14, 2008, promulgate regulations to effectuate this section with respect to catalogues and other printed material. The Commission may, under such regulations, provide a grace period of no more than 180 days for catalogues and other printed material printed prior to the effective date of paragraph (1) during which time distribution of such catalogues and other printed material shall not be considered a violation of such paragraph. The Commission may promulgate regulations concerning the size and placement of the cautionary statement required by paragraph (1) of this subsection as appropriate relative to the size and placement of the advertisements in such catalogues and other printed material. The Commission shall promulgate regulations that clarify the applicability of these requirements to catalogues and other printed material distributed solely between businesses and not to individual consumers.
+
+(4) Enforcement The requirements in paragraph (1) shall be treated as a consumer product safety standard promulgated under section 2058 of this title. The publication or distribution of any advertisement that is not in compliance with paragraph (1) shall be treated as a prohibited act under section 2068(a)(1) of this title.
+
+(d) General labeling requirements (1) In general Except as provided in paragraphs (2) and (3), any cautionary statement required under subsection (a) or (b) shall be—
+
+(A) displayed in its entirety on the principal display panel of the product’s package, and on any descriptive material which accompanies the product, and, in the case of bulk sales of such product when unpackaged, on the bin, container for retail display of the product, and any vending machine from which the unpackaged product is dispensed, and
+
+(B) displayed in the English language in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on such package, descriptive materials, bin, container, and vending machine, and in a manner consistent with part 1500 of title 16, Code of Federal Regulations (or successor regulations thereto).
+
+(2) Exception for products manufactured outside United States In the case of a product manufactured outside the United States and directly shipped from the manufacturer to the consumer by United States mail or other delivery service, the accompanying material inside the package of the product may fail to bear the required statement if other accompanying material shipped with the product bears such statement.
+
+(3) Special rules for certain packages (A) A cautionary statement required by subsection (a) or (b) may, in lieu of display on the principal display panel of the product’s package, be displayed on another panel of the package if—
+
+(i) the package has a principal display panel of 15 square inches or less and the required statement is displayed in three or more languages; and
+
+(ii) the statement specified in subparagraph (B) is displayed on the principal display panel and is accompanied by an arrow or other indicator pointing toward the place on the package where the statement required by subsection (a) or (b) appears.
+
+(B) (i) In the case of a product to which subsection (a), subsection (b)(2)(B), subsection (b)(2)(C), or subsection (b)(2)(D) applies, the statement specified by this subparagraph is as follows:
+
+(ii) In the case of a product to which subsection (b)(2)(A) applies, the statement specified by this subparagraph is as follows:
+
+(e) Treatment as misbranded hazardous substance A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection 11 So in original. Probably should be “this section”. shall be considered a misbranded hazardous substance under section 1261(p) of this title.
+
+(Pub. L. 86–613, § 24, as added Pub. L. 103–267, title I, § 101(a), June 16, 1994, 108 Stat. 722; amended Pub. L. 110–314, title I, § 105, Aug. 14, 2008, 122 Stat. 3031.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+
+Amendments2008—Subsecs. (c) to (e). Pub. L. 110–314 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 103–267, title I, § 101(d), June 16, 1994, 108 Stat. 725, provided that: “Subsections (a) and (b) [enacting this section and provisions set out as a note under section 1261 of this title] shall take effect January 1, 1995, and section 24 of the Federal Hazardous Substances Act [this section] shall apply only to products entered into commerce on or after January 1, 1995.”
+
+RegulationsPub. L. 103–267, title I, § 101(c), June 16, 1994, 108 Stat. 725, provided that: “The Consumer Product Safety Commission (hereinafter referred to as the ‘Commission’) shall promulgate regulations, under section 553 of title 5, United States Code, for the implementation of this section [enacting this section and provisions set out as notes under this section and section 1261 of this title] and section 24 of the Federal Hazardous Substances Act [this section] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act [June 16, 1994], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act (15 U.S.C. 1262) shall not apply with respect to the issuance of regulations under this subsection.”
+
+PreemptionPub. L. 103–267, title I, § 101(e), June 16, 1994, 108 Stat. 725, provided that: “(1) In general.—Subject to paragraph (2), a State or political subdivision of a State may not establish or enforce a requirement relating to cautionary labeling of small parts hazards or choking hazards in any toy, game, marble, small ball, or balloon intended or suitable for use by children unless such requirement is identical to a requirement established by amendments made by this section to the Federal Hazardous Substances Act [enacting this section] or by regulations promulgated by the Commission. “(2) Exception.—A State or political subdivision of a State may, until January 1, 1995, enforce a requirement described in paragraph (1) if such requirement was in effect on October 2, 1993.”

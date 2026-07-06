@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 18775"
+description: "Plan for the modeling and forecasting of demand for minerals used in the energy sector"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "162"
+chapter_name: "ENERGY INFRASTRUCTURE"
+section: "18775"
+citation: "42 U.S.C. § 18775"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s18775"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "ae4c6e984635091d62c6a7d951973593f88ded784698a303f225abf5677f0bcf"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "81994cd831eb25d72aefd116ef5c34cb666b6ff971bedc0be616b71d6de69da3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 18775 - Plan for the modeling and forecasting of demand for minerals used in the energy sector
+
+## Text
+
+(a) Plan (1) In general Not later than 180 days after November 15, 2021, the Administrator, in coordination with the Director of the United States Geological Survey, shall develop a plan for the modeling and forecasting of demand for energy technologies, including for energy production, transmission, or storage purposes, that use minerals that are or could be designated as critical minerals.
+
+(2) Inclusions The plan developed under paragraph (1) shall identify—
+
+(A) the type and quantity of minerals consumed, delineated by energy technology;
+
+(B) existing markets for manufactured energy-producing, energy-transmission, and energy-storing equipment; and
+
+(C) emerging or potential markets for new energy-producing, energy-transmission, and energy-storing technologies entering commercialization.
+
+(b) Metrics The plan developed under subsection (a)(1) shall produce forecasts of energy technology demand—
+
+(1) over the 1-year, 5-year, and 10-year periods beginning on the date on which development of the plan is completed;
+
+(2) by economic sector; and
+
+(3) according to any other parameters that the Administrator, in collaboration with the Secretary of the Interior, acting through the Director of the United States Geological Survey, determines are needed for the Annual Critical Minerals Outlook.
+
+(c) Collaboration The Administrator shall develop the plan under subsection (a)(1) in consultation with—
+
+(1) the Secretary with respect to the possible trajectories of emerging energy-producing and energy-storing technologies; and
+
+(2) the Secretary of the Interior, acting through the Director of the United States Geological Survey—
+
+(A) to ensure coordination;
+
+(B) to avoid duplicative effort; and
+
+(C) to align the analysis of demand with data and analysis of where the minerals are produced, refined, and subsequently processed into materials and parts that are used to build energy technologies.
+
+(Pub. L. 117–58, div. D, title IV, § 40415, Nov. 15, 2021, 135 Stat. 1044.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Wage Rate RequirementsFor provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.

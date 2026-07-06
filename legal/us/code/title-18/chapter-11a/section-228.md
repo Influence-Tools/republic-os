@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 228"
+description: "Failure to pay legal child support obligations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "11A"
+chapter_name: "CHILD SUPPORT"
+section: "228"
+citation: "18 U.S.C. § 228"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s228"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "57acdee706c195413762223fd29ab4976da093da3496696ddf18cf7d04edce36"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "1c96abd423f29682096c534890771a28da517d46db2e0679542237704ae795b1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 228 - Failure to pay legal child support obligations
+
+## Text
+
+(a) Offense.— Any person who—
+
+(1) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaid for a period longer than 1 year, or is greater than $5,000;
+
+(2) travels in interstate or foreign commerce with the intent to evade a support obligation, if such obligation has remained unpaid for a period longer than 1 year, or is greater than $5,000; or
+
+(3) willfully fails to pay a support obligation with respect to a child who resides in another State, if such obligation has remained unpaid for a period longer than 2 years, or is greater than $10,000;
+
+shall be punished as provided in subsection (c).
+
+(b) Presumption.— The existence of a support obligation that was in effect for the time period charged in the indictment or information creates a rebuttable presumption that the obligor has the ability to pay the support obligation for that time period.
+
+(c) Punishment.— The punishment for an offense under this section is—
+
+(1) in the case of a first offense under subsection (a)(1), a fine under this title, imprisonment for not more than 6 months, or both; and
+
+(2) in the case of an offense under paragraph (2) or (3) of subsection (a), or a second or subsequent offense under subsection (a)(1), a fine under this title, imprisonment for not more than 2 years, or both.
+
+(d) Mandatory Restitution.— Upon a conviction under this section, the court shall order restitution under section 3663A in an amount equal to the total unpaid support obligation as it exists at the time of sentencing.
+
+(e) Venue.— With respect to an offense under this section, an action may be inquired of and prosecuted in a district court of the United States for—
+
+(1) the district in which the child who is the subject of the support obligation involved resided during a period during which a person described in subsection (a) (referred to in this subsection as an “obliger”) failed to meet that support obligation;
+
+(2) the district in which the obliger resided during a period described in paragraph (1); or
+
+(3) any other district with jurisdiction otherwise provided for by law.
+
+(f) Definitions.— As used in this section—
+
+(1) the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a); 11 See References in Text note below.
+
+(2) the term “State” includes any State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
+
+(3) the term “support obligation” means any amount determined under a court order or an order of an administrative process pursuant to the law of a State or of an Indian tribe to be due from a person for the support and maintenance of a child or of a child and the parent with whom the child is living.
+
+(Added Pub. L. 102–521, § 2(a), Oct. 25, 1992, 106 Stat. 3403; amended Pub. L. 104–294, title VI, § 607(l), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–187, § 2, June 24, 1998, 112 Stat. 618.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a), referred to in subsec. (f)(1), was classified to section 479a of Title 25, Indians, prior to editorial reclassification as section 5130 of Title 25.
+
+Amendments1998—Pub. L. 105–187 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a description of the offense, punishment for an offense, restitution upon conviction of an offense, and definitions of terms used in this section. 1996—Subsec. (d)(2). Pub. L. 104–294 inserted “commonwealth,” before “possession or territory of the United States”.
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 1998 AmendmentPub. L. 105–187, § 1, June 24, 1998, 112 Stat. 618, provided that: “This Act [amending this section] may be cited as the ‘Deadbeat Parents Punishment Act of 1998’.”
+
+Short TitlePub. L. 102–521, § 1, Oct. 25, 1992, 106 Stat. 3403, provided that: “This Act [enacting this section and sections 3796cc to 3796cc–6 of Title 42, The Public Health and Welfare, amending section 3563 of this title and section 3797 of Title 42, and enacting provisions set out as a note under section 12301 of Title 42] may be cited as the ‘Child Support Recovery Act of 1992’.”

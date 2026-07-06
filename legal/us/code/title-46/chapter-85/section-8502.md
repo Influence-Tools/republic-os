@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 8502"
+description: "Federal pilots required"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "85"
+chapter_name: "PILOTS"
+section: "8502"
+citation: "46 U.S.C. § 8502"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s8502"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "bc059d69f6650d38f37809b9490681bdc066efe843426c585d8cea4ad41f16ba"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "1bcfa3ad68b28119097f43350a8df2e81a3c7d91a057ed7efbe652a57a353d8a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 8502 - Federal pilots required
+
+## Text
+
+(a) Except as provided in subsections (g) and (i) of this section, a coastwise seagoing vessel shall be under the direction and control of a pilot licensed under section 7101 of this title if the vessel is—
+
+(1) not sailing on register;
+
+(2) underway;
+
+(3) not beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured; and
+
+(4) (A) propelled by machinery and subject to inspection under part B of this subtitle; or
+
+(B) subject to inspection under chapter 37 of this title.
+
+(b) The fees charged for pilotage by pilots required under this section may not be more than the customary or legally established rates in the States in which the pilotage is performed.
+
+(c) A State or political subdivision of a State may not impose on a pilot licensed under this subtitle an obligation to procure a State or other license, or adopt any other regulation that will impede the pilot in the performance of the pilot’s duties under the laws of the United States.
+
+(d) A State or political subdivision of a State may not levy pilot charges on a vessel lawfully piloted by a pilot required under this section.
+
+(e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000. The vessel also is liable in rem for the penalty.
+
+(f) An individual serving as a pilot without having a license required by this section or a regulation prescribed under this section is liable to the Government for a civil penalty of $10,000.
+
+(g) (1) The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, if any, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under section 7101 of this title.
+
+(2) In any area of Prince William Sound, Alaska, where a vessel subject to this section is required to be under the direction and control of a pilot licensed under section 7101 of this title, the pilot may not be a member of the crew of that vessel and shall be a pilot licensed by the State of Alaska who is operating under a Federal license, when the vessel is navigating waters between 60°49′ North latitude and the Port of Valdez, Alaska.
+
+(h) The Secretary shall designate waters on which tankers over 1,600 gross tons subject to this section shall have on the bridge a master or mate licensed to direct and control the vessel under section 7101(c)(1) of this title who is separate and distinct from the pilot required under subsection (a) of this section.
+
+(i) (1) Except as provided in paragraph (2), a dredge to which this section would otherwise apply is exempt from the requirements of this section.
+
+(2) If the Secretary determines, after notice and comment, that the exemption under paragraph (1) creates a hazard to navigational safety in a specified area, the Secretary may require that a dredge exempted by paragraph (1) which is operating in that area shall comply with this section.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 553; Pub. L. 98–557, § 29(f)(1), (2), Oct. 30, 1984, 98 Stat. 2874; Pub. L. 99–307, § 1(13), May 19, 1986, 100 Stat. 446; Pub. L. 101–380, title IV, §§ 4116(a), (b), 4302(g), Aug. 18, 1990, 104 Stat. 522, 539; Pub. L. 101–595, title III, § 307, Nov. 16, 1990, 104 Stat. 2985; Pub. L. 105–383, title III, § 301(b)(7), Nov. 13, 1998, 112 Stat. 3417.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource section (U.S. Code) 850246:21546:36446:391a46:497 Section 8502 sets forth the provisions and requirements for pilots licensed under section 7101. It is an exception provided by law envisioned under section 8501(a). Subsection (a) applies the requirement for a Federal pilot to coastwise seagoing vessels if propelled by machinery and inspected under part B or if inspected under chapter 37, including a tank barge. The section has been carefully worded to clearly set out those vessels that are required at times to have a Federal pilot. Subsection (b) prohibits Federal pilot fees from being higher than those required for State pilots. Subsections (c) and (d) prohibit States from imposing impediments to the proper performance of, or levying charges related to, Federal pilotage. Subsections (e) and (f) prescribe civil penalties for violation of this section.
+
+Editorial Notes
+
+Amendments1998—Subsec. (a)(3). Pub. L. 105–383 substituted “not beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured” for “not on the high seas”. 1990—Subsec. (a). Pub. L. 101–595, § 307(1), substituted “subsections (g) and (i)” for “subsection (g)” in introductory provisions. Subsecs. (e), (f). Pub. L. 101–380, § 4302(g), substituted “$10,000” for “$500”. Subsec. (g). Pub. L. 101–380, § 4116(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary shall designate by regulation the areas of the approaches to and waters of Prince William Sound, Alaska, on which a vessel subject to this section is not required to be under the direction and control of a pilot licensed under section 7101 of this title.” Subsec. (h). Pub. L. 101–380, § 4116(b), added subsec. (h). Subsec. (i). Pub. L. 101–595, § 307(2), added subsec. (i). 1986—Subsec. (a)(4)(A). Pub. L. 99–307 substituted “part” for “Part”. 1984—Subsec. (a). Pub. L. 98–557, § 29(f)(1), amended subsec. (a) generally, which prior to amendment read as follows: “A coastwise seagoing vessel, when not sailing on register and when underway (except on the high seas), shall be under the direction and control of a pilot licensed under section 7101 of this title if the vessel is— “(1) propelled by machinery and subject to inspection under part B of this subtitle; or “(2) subject to inspection under chapter 37 of this title.” Subsec. (g). Pub. L. 98–557, § 29(f)(2), added subsec. (g).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1990 AmendmentAmendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+Executive Documents
+
+Territorial Sea of United States For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.

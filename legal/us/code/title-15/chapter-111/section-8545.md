@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 8545"
+description: "Warning coordination meteorologists at weather forecast offices of National Weather Service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "111"
+chapter_name: "WEATHER RESEARCH AND FORECASTING INNOVATION"
+section: "8545"
+citation: "15 U.S.C. § 8545"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s8545"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "a3a883e19b00842022f8f67bcb8d4262b1556fad537bd1fdd876078349a66628"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "4e68f2be2458e30c09535b2b33f3f3cc288e7e462ba3545a678d3d56fad4a4a0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 8545 - Warning coordination meteorologists at weather forecast offices of National Weather Service
+
+## Text
+
+(a) Designation of warning coordination meteorologists (1) In general The Director of the National Weather Service shall designate at least one warning coordination meteorologist at each weather forecast office of the National Weather Service.
+
+(2) No additional employees authorized Nothing in this section shall be construed to authorize or require a change in the authorized number of full time equivalent employees in the National Weather Service or otherwise result in the employment of any additional employees.
+
+(3) Performance by other employees Performance of the responsibilities outlined in this section is not limited to the warning coordination meteorologist position.
+
+(b) Primary role of warning coordination meteorologists The primary role of the warning coordination meteorologist shall be to carry out the responsibilities required by this section.
+
+(c) Responsibilities (1) In general Subject to paragraph (2), consistent with the analysis described in section 409,11 See References in Text note below. and in order to increase impact-based decision support services, each warning coordination meteorologist designated under subsection (a) shall—
+
+(A) be responsible for providing service to the geographic area of responsibility covered by the weather forecast office at which the warning coordination meteorologist is employed to help ensure that users of products of the National Weather Service can respond effectively to improve outcomes from weather events;
+
+(B) liaise with users of products and services of the National Weather Service, such as the public, media outlets, users in the aviation, marine, and agricultural communities, and forestry, land, and water management interests, to evaluate the adequacy and usefulness of the products and services of the National Weather Service;
+
+(C) collaborate with such weather forecast offices and State, local, and tribal government agencies as the Director considers appropriate in developing, proposing, and implementing plans to develop, modify, or tailor products and services of the National Weather Service to improve the usefulness of such products and services;
+
+(D) ensure the maintenance and accuracy of severe weather call lists, appropriate office severe weather policy or procedures, and other severe weather or dissemination methodologies or strategies; and
+
+(E) work closely with State, local, and tribal emergency management agencies, and other agencies related to disaster management, to ensure a planned, coordinated, and effective preparedness and response effort.
+
+(2) Other staff The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.
+
+(d) Additional responsibilities (1) In general Subject to paragraph (2), a warning coordination meteorologist designated under subsection (a) may—
+
+(A) work with a State agency to develop plans for promoting more effective use of products and services of the National Weather Service throughout the State;
+
+(B) identify priority community preparedness objectives;
+
+(C) develop plans to meet the objectives identified under paragraph (2); and
+
+(D) conduct severe weather event preparedness planning and citizen education efforts with and through various State, local, and tribal government agencies and other disaster management-related organizations.
+
+(2) Other staff The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.
+
+(e) Placement with State and local emergency managers (1) In general In carrying out this section, the Director of the National Weather Service may place a warning coordination meteorologist designated under subsection (a) with a State or local emergency manager if the Director considers doing so is necessary or convenient to carry out this section.
+
+(2) Treatment If the Director determines that the placement of a warning coordination meteorologist placed with a State or local emergency manager under paragraph (1) is near a weather forecast office of the National Weather Service, such placement shall be treated as designation of the warning coordination meteorologist at such weather forecast office for purposes of subsection (a).
+
+(Pub. L. 115–25, title IV, § 405, Apr. 18, 2017, 131 Stat. 107.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 409, referred to in subsec. (c)(1), is section 409 of Pub. L. 115–25, title IV, Apr. 18, 2017, 131 Stat. 112, which is not classified to the Code.

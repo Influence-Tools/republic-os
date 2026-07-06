@@ -1,0 +1,89 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 285a–11a"
+description: "Cancer survivorship programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "285a–11a"
+citation: "42 U.S.C. § 285a–11a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s285a–11a"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "8e705698ad26d96e1447340dd6cdc1275e712356aacb4fe7000e2e30dc36cdbd"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "99611588aea984d0fe92f78e4c4ade8987f7d098fb4dc2b3246b0004c1bb254f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 285a–11a - Cancer survivorship programs
+
+## Text
+
+(a) Research to evaluate model systems of care for pediatric cancer survivors (1) In general The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall, as appropriate, make awards to eligible entities to conduct or support research to develop, study, or evaluate approaches for monitoring and caring for childhood and adolescent cancer survivors throughout their lifespan, including transition to adult care and care coordination.
+
+(2) Awards (A) Types of entities In making awards under this subsection, the Secretary shall, to the extent practicable, within the existing peer review process, include—
+
+(i) small, medium, and large-sized eligible entities; and
+
+(ii) sites located in different geographic areas, including rural and urban areas.
+
+(B) Eligible entities In this subsection, the term “eligible entity” means—
+
+(i) a medical school;
+
+(ii) a children’s hospital;
+
+(iii) a cancer center;
+
+(iv) a community-based medical facility; or
+
+(v) any other entity with significant experience and expertise in carrying out the activities described in paragraph (1).
+
+(3) Use of funds Funds awarded under this subsection may be used—
+
+(A) to develop, study, or evaluate one or more models for monitoring and caring for cancer survivors; and
+
+(B) in developing, studying, and evaluating such models, to give special emphasis to—
+
+(i) design of models of follow-up care, monitoring, and other survivorship programs (including peer support and mentoring programs);
+
+(ii) development of models for providing multidisciplinary care;
+
+(iii) dissemination of information to health care providers about culturally and linguistically appropriate follow-up care for cancer survivors and their families, as appropriate and practicable;
+
+(iv) development of psychosocial and support programs to improve the quality of life of cancer survivors and their families, which may include peer support and mentoring programs;
+
+(v) design tools to support the secure electronic transfer of treatment information and care summaries between health care providers or, as applicable and appropriate, longitudinal childhood cancer survivorship cohorts (including risk factors and a plan for recommended follow-up care);
+
+(vi) dissemination of the information and programs described in clauses (i) through (v) to other health care providers (including primary care physicians and internists) and to cancer survivors and their families, where appropriate and in accordance with Federal and State law; and
+
+(vii) development of initiatives that promote the coordination and effective transition of care between cancer care providers, primary care physicians, mental health professionals, and other health care professionals, as appropriate, including models that use a team-based or multi-disciplinary approach to care.
+
+(b) Workforce development for health care providers on medical and psychosocial care for childhood cancer survivors (1) In general The Secretary shall, not later than 1 year after January 5, 2023, conduct a review of the activities of the Department of Health and Human Services related to workforce development for health care providers who treat pediatric cancer patients and survivors. Such review shall include—
+
+(A) identification of existing models relevant to providing medical and psychosocial services to individuals surviving pediatric cancers, and programs related to training for health professionals who provide such services to individuals surviving pediatric cancers; and
+
+(B) recommendations for enhancing or promoting activities of the Department of Health and Human Services related to workforce development for health care providers who provide psychosocial care to pediatric cancer patients and survivors.
+
+(2) Report Not later than 2 years after January 5, 2023, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives, a report concerning the findings and recommendations from the review conducted under paragraph (1).
+
+(Pub. L. 115–180, title II, § 201, June 5, 2018, 132 Stat. 1387; Pub. L. 117–350, § 2(b), Jan. 5, 2023, 136 Stat. 6263.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Childhood Cancer Survivorship, Treatment, Access, and Research Act of 2018, also known as the Childhood Cancer STAR Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+Amendments2023—Subsec. (a). Pub. L. 117–350, § 2(b)(1)(A), substituted “Research to evaluate” for “Pilot programs to explore” in heading. Subsec. (a)(1). Pub. L. 117–350, § 2(b)(1)(B), substituted “shall, as appropriate, make awards to eligible entities to conduct or support research” for “may make awards to eligible entities to establish pilot programs” and “approaches” for “model systems”, inserted “and adolescent” after “childhood”, and struck out “evaluation of models for” before “transition”. Subsec. (a)(2)(A). Pub. L. 117–350, § 2(b)(1)(C)(i), inserted “within the existing peer review process,” after “practicable,” in introductory provisions. Subsec. (a)(2)(B)(v). Pub. L. 117–350, § 2(b)(1)(C)(ii), substituted “in carrying out the activities described in paragraph (1)” for “in treating survivors of childhood cancers”. Subsec. (a)(3)(B)(v). Pub. L. 117–350, § 2(b)(1)(D), substituted “design tools to support the secure electronic transfer of treatment information and care summaries between health care providers or, as applicable and appropriate, longitudinal childhood cancer survivorship cohorts” for “design of systems for the effective transfer of treatment information and care summaries from cancer care providers to other health care providers”. Subsec. (b)(1). Pub. L. 117–350, § 2(b)(2)(A), substituted “January 5, 2023” for “June 5, 2018” in introductory provisions. Subsec. (b)(1)(A) to (C). Pub. L. 117–350, § 2(b)(2)(B), added subpar. (B), redesignated former subpar. (B) as (A), and struck out former subpars. (A) and (C) which read as follows: “(A) an assessment of the effectiveness of supportive psychosocial care services for pediatric cancer patients and survivors, including pediatric cancer survivorship care patient navigators and peer support programs; “(C) recommendations for improving the provision of psychosocial care for pediatric cancer survivors and patients.” Subsec. (b)(2). Pub. L. 117–350, § 2(b)(2)(A), substituted “January 5, 2023” for “June 5, 2018”.

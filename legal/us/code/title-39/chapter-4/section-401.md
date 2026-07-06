@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "39 U.S.C. § 401"
+description: "General powers of the Postal Service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 39
+title_name: "POSTAL SERVICE"
+chapter_number: "4"
+chapter_name: "GENERAL AUTHORITY"
+section: "401"
+citation: "39 U.S.C. § 401"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc39@119-100.zip"
+source_identifier: "/us/usc/t39/s401"
+source_file: "data/legal/raw/us/code/title-39/usc39.xml"
+source_hash: "c9a1ca383d18a7421e52d38fbada8c649b23764a6d451a9261aa264f1c5fddfc"
+raw_snapshot_hash: "ccea35969be78d053165f1170bf2aa826a68e5b4dea1fe3356d8a09e86e19a65"
+text_hash: "8e7191be00815208a62018b0beecb45b92e4eb9f36cc6f5fee76f030779293a6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 39 U.S.C. § 401 - General powers of the Postal Service
+
+## Text
+
+Subject to the provisions of section 404a, the Postal Service shall have the following general powers:
+
+(1) to sue and be sued in its official name;
+
+(2) to adopt, amend, and repeal such rules and regulations, not inconsistent with this title, as may be necessary in the execution of its functions under this title and such other functions as may be assigned to the Postal Service under any provisions of law outside of this title;
+
+(3) to enter into and perform contracts, execute instruments, and determine the character of, and necessity for, its expenditures;
+
+(4) to determine and keep its own system of accounts and the forms and contents of its contracts and other business documents, except as otherwise provided in this title;
+
+(5) to acquire, in any lawful manner, such personal or real property, or any interest therein, as it deems necessary or convenient in the transaction of its business; to hold, maintain, sell, lease, or otherwise dispose of such property or any interest therein; and to provide services in connection therewith and charges therefor;
+
+(6) to construct, operate, lease, and maintain buildings, facilities, equipment, and other improvements on any property owned or controlled by it, including, without limitation, any property or interest therein transferred to it under section 2002 of this title;
+
+(7) to accept gifts or donations of services or property, real or personal, as it deems, necessary or convenient in the transaction of its business;
+
+(8) to settle and compromise claims by or against it;
+
+(9) to exercise, in the name of the United States, the right of eminent domain for the furtherance of its official purposes; and to have the priority of the United States with respect to the payment of debts out of bankrupt, insolvent, and decedents’ estates; and
+
+(10) to have all other powers incidental, necessary, or appropriate to the carrying on of its functions or the exercise of its specific powers.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 722; Pub. L. 109–435, title IV, § 403(b)(1), title V, § 504, Dec. 20, 2006, 120 Stat. 3227, 3235.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2006—Pub. L. 109–435, § 403(b)(1), substituted “Subject to the provisions of section 404a, the” for “The” in introductory provisions. Par. (2). Pub. L. 109–435, § 504, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to adopt, amend, and repeal such rules and regulations as it deems necessary to accomplish the objectives of this title;”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePars. (1) and (3) to (10) effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors and par. (2) effective Aug. 12, 1970. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+Executive Documents
+
+Emergency Preparedness Functions For assignment of certain emergency preparedness functions to the Postmaster General, see Parts 1, 2, and 26 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+Executive Order No. 13975 Ex. Ord. No. 13975, Jan. 14, 2021, 86 F.R. 6547, which encouraged Buy American policies for the United States Postal Service, was revoked by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478, set out as a note under section 8301 of Title 41, Public Contracts.

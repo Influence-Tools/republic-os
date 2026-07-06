@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1534"
+description: "Surviving spouses of Indian War veterans"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "15"
+chapter_name: "PENSION FOR NON-SERVICE-CONNECTED DISABILITY OR DEATH OR FOR SERVICE"
+section: "1534"
+citation: "38 U.S.C. § 1534"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1534"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "adec72e21f5552879a9a896a6cece6b0db16206b21e48246aaa649f7509f313c"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "ed475ae5172edb3ad577fbb7920e1eb629105a29a98dd0ec16d541859065631b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1534 - Surviving spouses of Indian War veterans
+
+## Text
+
+(a) The Secretary shall pay to the surviving spouse of each Indian War veteran who met the service requirements of section 1511 of this title a pension at the following monthly rate:
+
+(1) $40.64 if such surviving spouse is below seventy years of age; or
+
+(2) $70 if such surviving spouse is seventy years of age or older.
+
+(b) If there is a child of the veteran, the rate of pension paid to the surviving spouse under subsection (a) shall be increased by $8.13 per month for each such child.
+
+(c) No pension shall be paid to a surviving spouse of a veteran under this section unless such surviving spouse was married to such veteran—
+
+(1) before March 4, 1917; or
+
+(2) for one year or more; or
+
+(3) for any period of time if a child was born of the marriage, or was born to them before the marriage.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, § 534; Pub. L. 90–77, title I, §§ 101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, § 106(26)–(29), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, § 14(b)(7), June 13, 1991, 105 Stat. 283; renumbered § 1534 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1991—Pub. L. 102–83, § 5(a), renumbered section 534 of this title as this section. Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1511” for “511” in introductory provisions. Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions. Pub. L. 102–54 substituted a period for semicolon at end of par. (2) and struck out at end “; unless such surviving spouse was the spouse of the veteran during such veteran’s service in one of the Indian Wars, in which case the monthly rate shall be $75.” 1975—Pub. L. 94–169, § 106(29), substituted “Surviving spouses” for “Widows” in section catchline. Subsec. (a). Pub. L. 94–169, § 106(26), substituted “pay to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “she” wherever appearing, “was the spouse” for “was the wife” and “such veteran’s” for “his”. Subsec. (b). Pub. L. 94–169, § 106(27), substituted “surviving spouse” for “widow”. Subsec. (c). Pub. L. 94–169, § 106(28), substituted “paid to a surviving spouse” for “paid to a widow”, “unless such surviving spouse” for “unless she” and “such veteran” for “him”. 1967—Subsec. (a)(2). Pub. L. 90–77, § 105, substituted “$70” for “$65”. Subsec. (c). Pub. L. 90–77, § 101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1975 AmendmentPub. L. 94–169, title I, § 106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+
+Effective Date of 1967 AmendmentAmendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.

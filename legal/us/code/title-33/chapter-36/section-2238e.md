@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2238e"
+description: "Additional projects for underserved community harbors"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2238e"
+citation: "33 U.S.C. § 2238e"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2238e"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "4e384fe5b70b9752ce43245df56c8681920e482e88b3ebc77ab73eb320f5154d"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "97e1bd1ef386c8593ba5e147805db094d3445a0509c0e4ddbcb9219f0d71b316"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2238e - Additional projects for underserved community harbors
+
+## Text
+
+(a) In general Subject to the availability of appropriations designated by statute as being for the purpose of carrying out this section, the Secretary may carry out projects for underserved community harbors for purposes of sustaining water-dependent commercial and recreational activities at such harbors and for purposes of contributing to ecosystem restoration.
+
+(b) Beneficial use (1) Justification The Secretary may carry out a project under this section involving a disposal option for the beneficial use of dredged material that is not the least cost disposal option if the Secretary determines that the incremental cost of the disposal option is reasonable pursuant to the standard described in section 2326(d)(1) of this title.
+
+(2) Cost share The non-Federal share of the incremental cost of a project carried out under this section involving a disposal option for the beneficial use of dredged material that is not the least cost disposal option shall be determined as provided under subsections (a) through (d) of section 2213 of this title.
+
+(c) Prioritization The Secretary shall prioritize carrying out projects using funds made available under this section based on an assessment of—
+
+(1) the local or regional economic benefits of the project;
+
+(2) the environmental benefits of the project, including the benefits to the aquatic environment to be derived from the creation of wetland and control of shoreline erosion; and
+
+(3) other social effects of the project, including protection against loss of life and contributions to local or regional cultural heritage.
+
+(d) Clarification The Secretary shall not require the non-Federal interest for a project carried out under this section to perform additional operation and maintenance activities at the beneficial use placement site or the disposal site for such project as a condition of receiving assistance under this section.
+
+(e) Federal participation limit The Federal share of the cost of a project under this section shall not exceed $10,000,000.
+
+(f) Statutory construction Projects carried out under this section shall be in addition to operation and maintenance activities otherwise carried out by the Secretary for underserved community harbors using funds appropriated pursuant to section 2238 of this title or section 102(a) of the Water Resources Development Act of 2020 (33 U.S.C. 2238 note).
+
+(g) Definitions In this section:
+
+(1) Project The term “project” means a single cycle of maintenance dredging of an underserved community harbor and any associated placement of dredged material at a beneficial use placement site or disposal site.
+
+(2) Underserved community harbor The term “underserved community harbor” means an emerging harbor (as defined in section 2238(f) of this title), a harbor where passenger or freight service is provided to island communities dependent on that service, or a marina or berthing area that is located adjacent to, or is accessible by, a Federal navigation project, for which—
+
+(A) no Federal funds have been obligated for maintenance dredging in the current fiscal year or in any of the 4 preceding fiscal years; and
+
+(B) State and local investments in infrastructure have been made during any of the 4 preceding fiscal years.
+
+(h) Authorization of appropriations (1) In general There is authorized to be appropriated to carry out this section $50,000,000 from the General Fund of the Treasury for each of fiscal years 2023 through 2029, to be deposited into the “corps of engineers—civil—operation and maintenance” account.
+
+(2) Special rule Not less than 35 percent of the amounts made available to carry out this section for each fiscal year shall be used for projects involving the beneficial use of dredged material.
+
+(i) Projects for marina or berthing areas The Secretary may carry out not more than 10 projects under this section that are projects for an underserved community harbor that is a marina or berthing area described in subsection (g)(2).
+
+(Pub. L. 117–263, div. H, title LXXXI, § 8132, Dec. 23, 2022, 136 Stat. 3719; Pub. L. 118–272, div. A, title III, § 1356, Jan. 4, 2025, 138 Stat. 3161.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 102(a) of the Water Resources Development Act of 2020, referred to in subsec. (f), is section 102(a) of div. AA of Pub. L. 116–260, which is set out as a note under section 2238 of this title.
+
+Codification Section was enacted as part of the Water Resources Development Act of 2022, and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2025—Subsec. (a). Pub. L. 118–272, § 1356(1), inserted “and for purposes of contributing to ecosystem restoration” before period at end. Subsec. (g)(2). Pub. L. 118–272, § 1356(2), in introductory provisions, inserted “, a harbor where passenger or freight service is provided to island communities dependent on that service, or a marina or berthing area that is located adjacent to, or is accessible by, a Federal navigation project,” before “for which”. Subsec. (h)(1). Pub. L. 118–272, § 1356(3), substituted “2029” for “2026”. Subsec. (i). Pub. L. 118–272, § 1356(4), added subsec. (i).
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under section 2201 of this title.

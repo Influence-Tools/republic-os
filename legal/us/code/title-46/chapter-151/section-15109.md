@@ -1,0 +1,155 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 15109"
+description: "Administration"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "151"
+chapter_name: "NATIONAL MARITIME TRANSPORTATION ADVISORY COMMITTEES"
+section: "15109"
+citation: "46 U.S.C. § 15109"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s15109"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "42fda8efdb396fcc92375a2ac047748d9d28e7203db67680a252f11d3ae13e71"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "0a889dcdd3f241bb485f58ced261f027222e028b870f13f65f599b9f73317f17"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 15109 - Administration
+
+## Text
+
+(a) Meetings.— (1) In general.— Except as provided in paragraph (2), each committee established under this chapter or to which this chapter applies shall, at least once each year, meet at the call of the Secretary or a majority of the members of the committee.
+
+(2) Minimum requirements.— The committee established under section 15102 shall—
+
+(A) meet in-person, not less frequently than twice each year, at the call of the Secretary of a majority of the members of the committee;
+
+(B) hold additional meetings as necessary;
+
+(C) post the minutes of each meeting of the committee on a publicly available website not later than 2 weeks after the date on which a meeting concludes; and
+
+(D) provide reasonable public notice of any meeting of the committee, and publish such notice in the Federal Register and on a publicly available website.
+
+(b) Employee Status.— A member of a committee established under this chapter or to which this chapter applies shall not be considered an employee of the Federal Government by reason of service on such committee, except for the purposes of the following:
+
+(1) Chapter 81 of title 5.
+
+(2) Chapter 171 of title 28 and any other Federal law relating to tort liability.
+
+(c) Compensation.— Notwithstanding subsection (b), a member of a committee established under this chapter or to which this chapter applies, when actually engaged in the performance of the duties of such committee, may—
+
+(1) receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section 5376 of title 5; or
+
+(2) if not compensated in accordance with paragraph (1)—
+
+(A) be reimbursed for actual and reasonable expenses incurred in the performance of such duties; or
+
+(B) be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
+
+(d) Acceptance of Volunteer Services.— A member of a committee established under this chapter or to which this chapter applies may serve on such committee on a voluntary basis without pay without regard to section 1342 of title 31 or any other law.
+
+(e) Status of Members.— (1) In general.— Except as provided in paragraph (2), with respect to a member of a committee established under this chapter or to which this chapter applies whom the Secretary appoints to represent an entity or group—
+
+(A) the member is authorized to represent the interests of the applicable entity or group; and
+
+(B) requirements under Federal law that would interfere with such representation and that apply to a special Government employee (as defined in section 202(a) of title 18), including requirements relating to employee conduct, political activities, ethics, conflicts of interest, and corruption, do not apply to the member.
+
+(2) Exception.— Notwithstanding subsection (b), a member of a committee established under this chapter or to which this chapter applies shall be treated as a special Government employee for purposes of the committee service of the member if—
+
+(A) the Secretary appointed the member to represent the general public; or
+
+(B) the member, without regard to service on the committee, is a special Government employee.
+
+(f) Service on Committee.— (1) Solicitation of nominations.— Before appointing an individual as a member of a committee established under this chapter or to which this chapter applies, the Secretary shall publish, in the Federal Register, a timely notice soliciting nominations for membership on such committee.
+
+(2) Appointments.— (A) In general.— After considering nominations received pursuant to a notice published under paragraph (1), the Secretary may, as necessary, appoint a member to the applicable committee established under this chapter or to which this chapter applies.
+
+(B) Prohibition.— The Secretary shall not seek, consider, or otherwise use information concerning the political affiliation of a nominee in making an appointment to any committee established under this chapter or to which this chapter applies.
+
+(3) Service at pleasure of the secretary.— (A) In general.— Each member of a committee established under this chapter or to which this chapter applies shall serve at the pleasure of the Secretary.
+
+(B) Exception.— Notwithstanding subparagraph (A), a member of the committee established under section 15102 may only be removed prior to the end of the term of that member for just cause.
+
+(4) Security background examinations.— The Secretary may require an individual to have passed an appropriate security background examination before appointment to a committee established under this chapter or to which this chapter applies.
+
+(5) Prohibition.— (A) In general.— Except as provided in subparagraph (B), a Federal employee may not be appointed as a member of a committee established under this chapter or to which this chapter applies.
+
+(B) Special rule for national merchant marine personnel advisory committee.— The Secretary may appoint a Federal employee to serve as a member of the National Merchant Marine Personnel Advisory Committee to represent the interests of the United States Merchant Marine Academy and, notwithstanding paragraphs (1) and (2), may do so without soliciting, receiving, or considering nominations for such appointment.
+
+(6) Terms.— (A) In general.— The term of each member of a committee established under this chapter or to which this chapter applies shall expire on December 31 of the third full year after the effective date of the appointment.
+
+(B) Continued service after term.— When the term of a member of a committee established under this chapter or to which this chapter applies ends, the member, for a period not to exceed 1 year, may continue to serve as a member until a successor is appointed.
+
+(7) Vacancies.— A vacancy on a committee established under this chapter or to which this chapter applies shall be filled in the same manner as the original appointment.
+
+(8) Special rule for reappointments.— (A) Reappointment.— Notwithstanding paragraphs (1) and (2), the Secretary may reappoint a member of a committee established under this chapter or to which this chapter applies for any term, other than the first term of the member, without soliciting, receiving, or considering nominations for such appointment.
+
+(B) Limitation.— With respect to the committee established under section 15102, members may serve not more than 3 terms.
+
+(g) Staff Services.— The Secretary shall furnish to each committee established under this chapter or to which this chapter applies any staff and services considered by the Secretary to be necessary for the conduct of the committee’s functions.
+
+(h) Chairman; Vice Chairman.— (1) In general.— Each committee established under this chapter or to which this chapter applies shall elect a Chairman and Vice Chairman from among the committee’s members.
+
+(2) Vice chairman acting as chairman.— The Vice Chairman shall act as Chairman in the absence or incapacity of, or in the event of a vacancy in the office of, the Chairman.
+
+(i) Subcommittees and Working Groups.— (1) In general.— The Chairman of a committee established under this chapter or to which this chapter applies may establish and disestablish subcommittees and working groups for any purpose consistent with the function of the committee.
+
+(2) Participants.— Subject to conditions imposed by the Chairman, members of a committee established under this chapter or to which this chapter applies and additional individuals drawn from entities or groups designated by this chapter to be represented on the committee or the general public may be assigned to subcommittees and working groups established under paragraph (1).
+
+(3) Chair.— Only committee members may chair subcommittees and working groups established under paragraph (1).
+
+(j) Consultation, Advice, Reports, and Recommendations.— (1) Consultation.— (A) In general.— Before taking any significant action, the Secretary shall consult with, and consider the information, advice, and recommendations of, a committee established under this chapter or to which this chapter applies if the function of the committee is to advise the Secretary on matters related to the significant action.
+
+(B) Inclusion.— For purposes of this paragraph, regulations proposed under chapter 45 of this title are significant actions.
+
+(2) Advice, reports, and recommendations.— Each committee established under this chapter or to which this chapter applies shall submit, in writing, to the Secretary its advice, reports, and recommendations, in a form and at a frequency determined appropriate by the committee.
+
+(3) Explanation of actions taken.— Not later than 60 days after the date on which the Secretary receives recommendations from a committee under paragraph (2), the Secretary shall—
+
+(A) publish the recommendations on a website accessible at no charge to the public;
+
+(B) if the recommendations are from the committee established under section 15102, establish a mechanism for the submission of public comments on the recommendations;
+
+(C) respond, in writing, to the committee regarding the recommendations, including by providing an explanation of actions taken regarding the recommendations; and
+
+(D) make all responses required by subparagraph (C) which are related to recommendations made by the committee established under section 15102 available to the public not later than 30 days after the date of response.
+
+(4) Submission to congress.— (A) In general.— The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the advice, reports, and recommendations received from committees under paragraph (2).
+
+(B) Additional submission.— With respect to a committee established under section 70112 and to which this section applies, the Secretary shall submit the advice, reports, and recommendations received from the committee under paragraph (2) to the Committee on Homeland Security of the House of Representatives in addition to the committees specified in subparagraph (A).
+
+(k) Observers.— (1) In general.— Any Federal agency with matters under such agency’s administrative jurisdiction related to the function of a committee established under this chapter or to which this chapter applies may designate a representative to—
+
+(A) attend any meeting of such committee; and
+
+(B) participate as an observer at meetings of such committee that relate to such a matter.
+
+(2) National commercial fishing safety advisory committee.— With respect to the committee established under section 15102, the Commandant of the Coast Guard shall designate a representative under paragraph (1).
+
+(l) Technical Assistance.— (1) In general.— The Secretary shall provide technical assistance to the Committee if requested by the Chairman.
+
+(2) Committee consultation.— With respect to the committee established under section 15102, the Chairman of the committee shall seek expertise from the fishing industry, marine safety experts, the shipbuilding industry, and others as the committee determines appropriate.
+
+(m) Termination.— Each committee established under this chapter or to which this chapter applies shall terminate on September 30, 2029.
+
+(n) Savings Clause.— Nothing in this section shall preclude the Secretary from taking emergency action to ensure safety and preservation of life at sea.
+
+(Added Pub. L. 115–282, title VI, § 601(a), Dec. 4, 2018, 132 Stat. 4286; amended Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §§ 8331(b), 8335(a)(2), title LVXXXV [LXXXV], § 8505(b)(14), Jan. 1, 2021, 134 Stat. 4703, 4707, 4752; Pub. L. 118–159, div. C, title XXXV, § 3535(e), Dec. 23, 2024, 138 Stat. 2315.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a)(2). Pub. L. 118–159, § 3535(e)(1), substituted “15102” for “15102,” in introductory provisions. Subsec. (k)(1). Pub. L. 118–159, § 3535(e)(2), inserted “or to which this chapter applies” after “under this chapter” in introductory provisions. 2021—Pub. L. 116–283, § 8331(b), inserted “or to which this chapter applies” after “committee established under this chapter” wherever appearing. The phrase “committee established under this chapter” in subsec. (k) was added subsequent to this amendment, and therefore the inserted phrase does not appear there. See subsec. (k) Amendment note below. Subsec. (a). Pub. L. 116–283, § 8335(a)(2)(A), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), each” for “Each”, and added par. (2). Subsec. (f)(8). Pub. L. 116–283, § 8335(a)(2)(B), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Subsec. (i)(2). Pub. L. 116–283, § 8505(b)(14), substituted “additional individuals” for “additional persons”. Subsec. (j)(3)(D). Pub. L. 116–283, § 8335(a)(2)(C), added subpar. (D). Subsec. (k). Pub. L. 116–283, § 8335(a)(2)(D), amended subsec. (k) generally. Prior to amendment, text read as follows: “Any Federal agency with matters under such agency’s administrative jurisdiction related to the function of a committee established under this chapter or to which this chapter applies may designate a representative to— “(1) attend any meeting of such committee; and “(2) participate as an observer at meetings of such committee that relate to such a matter.” Subsec. (l). Pub. L. 116–283, § 8335(a)(2)(G), added subsec. (l). Former subsec. (l) redesignated (m). Pub. L. 116–283, § 8335(a)(2)(E), substituted “2029” for “2027”. Subsec. (m). Pub. L. 116–283, § 8335(a)(2)(F), redesignated subsec. (l) as (m). Subsec. (n). Pub. L. 116–283, § 8335(a)(2)(H), added subsec. (n).

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 4822"
+description: "Review of interagency dispute resolution process"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "58"
+chapter_name: "EXPORT CONTROL REFORM"
+section: "4822"
+citation: "50 U.S.C. § 4822"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s4822"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "f2f4938a4c9c80628297b409b20410e803e77c856c7cd49e25887cdd62aefb15"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "328744a7e48324886a982c921c1b2d605bbcddab8a9b9e1955c3e0f5a8f93086"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 4822 - Review of interagency dispute resolution process
+
+## Text
+
+(a) In general The President shall review and evaluate the interagency export license referral, review, and escalation processes for dual-use items and munitions under the licensing jurisdiction of the Department of Commerce or any other Federal agency, as appropriate, to determine whether current practices and procedures are consistent with established national security and foreign policy objectives.
+
+(b) Report Not later than 180 days after August 13, 2018, the President shall submit to the appropriate congressional committees a report that contains the results of the review carried out under subsection (a).
+
+(c) Operating Committee for Export Policy In any case in which the Operating Committee for Export Policy established by Executive Order 12981 (December 5, 1995; relating to Administration of Export Controls) is meeting to conduct an interagency dispute resolution relating to applications for export licenses under the Export Administration Regulations, matters relating to jet engine hot section technology, commercial communication satellites, and emerging or foundational technology may be decided by majority vote.
+
+(d) Appropriate congressional committees defined In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and
+
+(2) the Committee on Armed Services and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+(Pub. L. 115–232, div. A, title XVII, § 1763, Aug. 13, 2018, 132 Stat. 2231; Pub. L. 116–283, div. A, title X, § 1081(d)(9), Jan. 1, 2021, 134 Stat. 3874.)
+
+## Notes
+
+Editorial Notes
+
+References in TextExecutive Order 12981, referred to in subsec. (c), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former section 4603 of this title.
+
+Amendments2021—Subsec. (c). Pub. L. 116–283 substituted “December 5, 1995” for “December 5, 1991”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentPub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(9) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
+
+Executive Documents
+
+Delegation of Authorities and Responsibilities Under Section 1763 of the National Defense Authorization Act for Fiscal Year 2019 Memorandum of President of the United States, Jan. 15, 2019, 84 F.R. 197, provided: Memorandum for the Secretary of Commerce By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of Commerce, in coordination with executive departments and agencies through the National Security Presidential Memorandum–4 [50 U.S.C. 3021 note] process, the functions and authorities vested in the President by section 1763 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) [50 U.S.C. 4822]. The delegation of authorities and responsibilities in this memorandum shall apply to any provision of any future public law that are the same or substantially the same as the provision referenced in this memorandum. The Secretary of Commerce is authorized and directed to publish this memorandum in the Federal Register. Donald J. Trump.

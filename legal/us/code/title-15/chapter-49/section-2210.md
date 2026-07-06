@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 2210"
+description: "Reimbursement for costs of firefighting on Federal property"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "49"
+chapter_name: "FIRE PREVENTION AND CONTROL"
+section: "2210"
+citation: "15 U.S.C. § 2210"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s2210"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "9b75355832999937efab21405dde54c8b2cfec087d775ebed66c721a2a073553"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "76bff2f64490159a2a7333b5216d40ba23a62a51fe713748640fe601698e4fff"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 2210 - Reimbursement for costs of firefighting on Federal property
+
+## Text
+
+(a) Filing of claims Each fire service that engages in the fighting of a fire on property which is under the jurisdiction of the United States may file a claim with the Administrator for the amount of direct expenses and direct losses incurred by such fire service as a result of fighting such fire. The claim shall include such supporting information as the Administrator may prescribe.
+
+(b) Determination Upon receipt of a claim filed under subsection (a) of this section, the Administrator shall determine—
+
+(1) what payments, if any, to the fire service or its parent jurisdiction, including taxes or payments in lieu of taxes, the United States has made for the support of fire services on the property in question;
+
+(2) the extent to which the fire service incurred additional firefighting costs, over and above its normal operating costs, in connection with the fire which is the subject of the claim; and
+
+(3) the amount, if any, of the additional costs referred to in paragraph (2) of this subsection which were not adequately covered by the payments referred to in paragraph (1) of this subsection.
+
+(c) Payment The Administrator of FEMA shall forward the claim and a copy of the Administrator’s determination under subsection (b)(3) of this section to the Secretary of the Treasury. The Secretary of the Treasury shall, upon receipt of the claim and determination, pay such fire service or its parent jurisdiction, from any moneys in the Treasury not otherwise appropriated but subject to reimbursement (from any appropriations which may be available or which may be made available for the purpose) by the Federal department or agency under whose jurisdiction the fire occurred, a sum no greater than the amount determined with respect to the claim under subsection (b)(3) of this section.
+
+(d) Adjudication In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
+
+(Pub. L. 93–498, § 11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, § 146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–503, title I, § 110(a)(2)(B)(iii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2013—Subsec. (c). Pub. L. 112–239 substituted “Administrator of FEMA” for “Director”. 2000—Subsec. (c). Pub. L. 106–503 substituted “Director shall forward” for “Secretary shall forward”. 1992—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”. 1982—Subsec. (d). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims of the United States”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+Effective Date of 1982 AmendmentAmendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+Transfer of Functions For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security. For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Executive Documents
+
+Transfer of Functions Functions of National Fire Prevention and Control Administration [now United States Fire Administration] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.

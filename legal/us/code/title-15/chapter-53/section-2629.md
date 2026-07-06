@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 2629"
+description: "Annual report"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "53"
+chapter_name: "TOXIC SUBSTANCES CONTROL"
+section: "2629"
+citation: "15 U.S.C. § 2629"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s2629"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "ea504f699d50310a4f31b9e2d31fb5446fe56c6e514405a39ab3434d9cbbf052"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "2c912620bc9f4d0728af9762abb0383f93f8fcff124e799643db0c7a33ae8089"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 2629 - Annual report
+
+## Text
+
+The Administrator shall prepare and submit to the President and the Congress on or before January 1, 1978, and on or before January 1 of each succeeding year a comprehensive report on the administration of this chapter during the preceding fiscal year. Such reports shall include—
+
+(1) a list of the testing required under section 2603 of this title during the year for which the report is made and an estimate of the costs incurred during such year by the persons required to perform such tests;
+
+(2) the number of notices received during such year under section 2604 of this title, the number of such notices received during such year under such section for chemical substances subject to a section 2603 rule, order, or consent agreement, and a summary of any action taken during such year under section 2604(g) of this title;
+
+(3) a list of rules issued during such year under section 2605 of this title;
+
+(4) a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter and administrative actions under section 2615 of this title during such year;
+
+(5) a summary of major problems encountered in the administration of this chapter; and
+
+(6) such recommendations for additional legislation as the Administrator deems necessary to carry out the purposes of this chapter.
+
+(Pub. L. 94–469, title I, § 30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(s), June 22, 2016, 130 Stat. 510.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Par. (2). Pub. L. 114–182 substituted “rule, order, or consent agreement” for “rule”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
+
+Termination of Reporting RequirementsFor termination, effective May 15, 2000, of provisions in this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.

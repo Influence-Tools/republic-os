@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 51506"
+description: "Conditions to receiving payments and use of vessels"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "515"
+chapter_name: "STATE MARITIME ACADEMY SUPPORT PROGRAM"
+section: "51506"
+citation: "46 U.S.C. § 51506"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s51506"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "7d078b68eb86bd890224ceb4dd8a85b8d5d08f0b57c82d4e6668b89f89e7a53d"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "93a30e8297fe1e791caf0abf77e3a0b204b881ff68b59236a05b72fac602e6a7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 51506 - Conditions to receiving payments and use of vessels
+
+## Text
+
+(a) General Conditions.— As conditions of receiving an annual payment or the use of a vessel under this chapter, a State maritime academy shall—
+
+(1) provide courses of instruction on navigation, marine engineering (including steam and diesel propulsion), the operation and maintenance of new vessels and equipment, and innovations being introduced to the merchant marine of the United States;
+
+(2) agree in writing to conform to the standards for courses, training facilities, admissions, and instruction that the Secretary of Transportation may establish after consultation with the superintendents of State maritime academies, which shall include standards for a program described in subsection (c);
+
+(3) agree in writing to require, as a condition for graduation, that each individual who is a citizen of the United States and who is attending the academy in a merchant marine officer preparation program pass the examination required for the issuance of a license under section 7101 of this title; and
+
+(4) agree that any individual enrolled at such State maritime academy in a merchant marine officer preparation program—
+
+(A) shall, not later than 9 months after such individual’s date of enrollment, pass an examination in form and substance satisfactory to the Secretary that demonstrates that such individual meets the medical and physical requirements—
+
+(i) required for the issuance of an original license under section 7101; or
+
+(ii) set by the Coast Guard for issuing merchant mariners’ documentation under section 7302, with no limit to the individual’s operational authority;
+
+(B) following passage of the examination under subparagraph (A), shall continue to meet the requirements described in subparagraph (A) throughout the remainder of the individual’s enrollment at the State maritime academy; and
+
+(C) if the individual has a medical or physical condition that disqualifies the individual from meeting the requirements referred to in subparagraph (A), shall be transferred to a program other than a merchant marine officer preparation program, or otherwise appropriately disenrolled from such State maritime academy, until the individual demonstrates to the Secretary that the individual meets such requirements.
+
+(b) Additional Condition to Payments of More Than $25,000.— As a condition of receiving an annual payment of more than $25,000 under section 51505 of this title, a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more than one-third of the total number of individuals attending the academy at any time.
+
+(c) Armed Forces Merchant Mariner Officer Expedited Preparation Program.— (1) In general.— A State maritime academy may offer a program under which an eligible individual may complete a merchant marine officer preparation program approved by the Secretary, and the requirements for the issuance of a license under section 7101 of this title, in less than 3 years, without a requirement to earn a baccalaureate or other degree from the State maritime academy.
+
+(2) Eligible individuals.— For purposes of this subsection, an eligible individual is an individual—
+
+(A) who is—
+
+(i) a person who served in the Armed Forces, and who was discharged or released therefrom under honorable conditions; or
+
+(ii) a member of the National Guard or Reserves who has performed at least six years of service therein; and
+
+(B) who has earned a baccalaureate degree from an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002)).
+
+(d) Secretarial Waiver Authority.— The Secretary may modify or waive any of the terms set forth in subsection (a)(4) with respect to any individual or State maritime academy.
+
+(Pub. L. 109–304, § 8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 114–328, div. C, title XXXV, § 3515, Dec. 23, 2016, 130 Stat. 2788; Pub. L. 118–159, div. C, title XXXV, § 3534, Dec. 23, 2024, 138 Stat. 2313.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 5150646 App.:1295c(f).June 29, 1936, ch. 858, title XIII, § 1304(f), as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 2004; Pub. L. 101–115, § 3(a), Oct. 13, 1989, 103 Stat. 692. In subsection (a)(3), the words “administered by the Coast Guard” are omitted as unnecessary.
+
+Editorial Notes
+
+Amendments2024—Subsec. (a)(2). Pub. L. 118–159, § 3534(1), inserted before semicolon at end “, which shall include standards for a program described in subsection (c)”. Subsecs. (c), (d). Pub. L. 118–159, § 3534(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). 2016—Subsec. (a). Pub. L. 114–328, § 3515(1)(A), substituted “shall” for “must” in introductory provisions. Subsec. (a)(4). Pub. L. 114–328, § 3515(1)(B)–(D), added par. (4). Subsec. (c). Pub. L. 114–328, § 3515(2), added subsec. (c).

@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 4026"
+description: "Expiration of program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "50"
+chapter_name: "NATIONAL FLOOD INSURANCE"
+section: "4026"
+citation: "42 U.S.C. § 4026"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s4026"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "bcce00b67adb5d505ecbc54accf206cce2708788e9109ccc128e15240368e322"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "9eff80ff22bd23b4915a166c60c9fd535623474e5e80b00e9ed28bd6148a1419"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 4026 - Expiration of program
+
+## Text
+
+No new contract for flood insurance under this chapter shall be entered into after September 30, 2026.
+
+(Pub. L. 90–448, title XIII, § 1319, Aug. 1, 1968, 82 Stat. 581; Pub. L. 93–4, Feb. 2, 1973, 87 Stat. 4; Pub. L. 93–38, June 5, 1973, 87 Stat. 73; Pub. L. 93–234, title I, § 105, Dec. 31, 1973, 87 Stat. 979; Pub. L. 95–60, § 3, June 30, 1977, 91 Stat. 257; Pub. L. 95–80, § 3, July 31, 1977, 91 Stat. 339; Pub. L. 95–128, title VII, § 701(a), Oct. 12, 1977, 91 Stat. 1144; Pub. L. 95–406, § 6(a), Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title III, § 308(a), Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title VI, § 602(a), Dec. 21, 1979, 93 Stat. 1137; Pub. L. 97–35, title III, § 341(b)(1), Aug. 13, 1981, 95 Stat. 418; Pub. L. 97–289, § 4(a), Oct. 6, 1982, 96 Stat. 1231; Pub. L. 98–35, § 4(a), May 26, 1983, 97 Stat. 198; Pub. L. 98–109, § 5(a), Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–181, title I [title IV, § 451(a)], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 99–120, § 4(a)(1), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, § 4(a)(1), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, § 4(a)(1), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, § 4(a)(1), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, § 3010(a)(1), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, § 1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, § 1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, § 1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title V, § 541(a), Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–137, § 1(a), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, § 2302(a), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, § 571(a), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915; Pub. L. 105–46, § 118, Sept. 30, 1997, 111 Stat. 1157; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, title V, § 599D(a), Oct. 21, 1998, 112 Stat. 2502, 2663; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, § 2(a)(2), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, § 2(a)(1), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, § 136(a)(1), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, § 101(b), June 30, 2004, 118 Stat. 714; Pub. L. 111–196, § 2(a), July 2, 2010, 124 Stat. 1352; Pub. L. 111–250, § 2(a), Sept. 30, 2010, 124 Stat. 2630; Pub. L. 112–74, div. D, title V, § 573, Dec. 23, 2011, 125 Stat. 985; Pub. L. 112–123, § 1(a), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, § 100203(b), July 6, 2012, 126 Stat. 916; Pub. L. 115–225, § 2(b), July 31, 2018, 132 Stat. 1624; Pub. L. 115–281, § 2(b), Dec. 1, 2018, 132 Stat. 4191; Pub. L. 115–396, § 2(b), Dec. 21, 2018, 132 Stat. 5296; Pub. L. 116–19, § 2(b), May 31, 2019, 133 Stat. 870; Pub. L. 116–20, title XII, § 1207(b), June 6, 2019, 133 Stat. 901; Pub. L. 116–159, div. A, § 146(b), Oct. 1, 2020, 134 Stat. 718; Pub. L. 117–103, div. O, title I, § 101(b), Mar. 15, 2022, 136 Stat. 787; Pub. L. 117–328, div. AA, title IX, § 901(b), Dec. 29, 2022, 136 Stat. 5551; Pub. L. 119–75, div. I, § 5004(b), Feb. 3, 2026, 140 Stat. 630.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+
+Amendments2026—Pub. L. 119–75 substituted “September 30, 2026” for “September 30, 2023”. 2022—Pub. L. 117–328 substituted “September 30, 2023” for “September 30, 2022”. Pub. L. 117–103 substituted “September 30, 2022” for “September 30, 2021”. 2020—Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2019”. 2019—Pub. L. 116–20 substituted “September 30, 2019” for “June 14, 2019”. Pub. L. 116–19 substituted “June 14, 2019” for “May 31, 2019”. 2018—Pub. L. 115–396 substituted “May 31, 2019” for “December 7, 2018”. Pub. L. 115–281 substituted “December 7, 2018” for “November 30, 2018”. Pub. L. 115–225 substituted “November 30, 2018” for “September 30, 2017”. 2012—Pub. L. 112–141 substituted “September 30, 2017” for “July 31, 2012”. Pub. L. 112–123 substituted “July 31, 2012” for “the earlier of the date of the enactment into law of an Act that specifically amends the date specified in this section or May 31, 2012”. 2011—Pub. L. 112–74 substituted “the earlier of the date of the enactment into law of an Act that specifically amends the date specified in this section or May 31, 2012” for “September 30, 2011”. 2010—Pub. L. 111–250 substituted “September 30, 2011” for “September 30, 2010”. Pub. L. 111–196 substituted “September 30, 2010” for “September 30, 2008”. 2004—Pub. L. 108–264 substituted “after September 30, 2008” for “after March 31, 2004”. Pub. L. 108–199, which directed the substitution of “June 30, 2004.” for “December 31, 2003”, could not be executed because of the amendment by Pub. L. 108–171. See 2003 Amendment note below. 2003—Pub. L. 108–171 substituted “March 31, 2004” for “December 31, 2003”. Pub. L. 108–3 substituted “after December 31, 2003” for “after December 31, 2002”. 2001—Pub. L. 107–73 substituted “December 31, 2002” for “September 30, 2001”. 1998—Pub. L. 105–276, § 599D(a), which directed the substitution of “2001” for “1998”, was executed by substituting “2001” for “1999” to reflect the probable intent of Congress and the amendment by Pub. L. 105–276, title III, see below. Pub. L. 105–276, title III, substituted “1999” for “1998”. 1997—Pub. L. 105–65 substituted “September 30, 1998” for “October 23, 1997”. Pub. L. 105–46 substituted “October 23, 1997” for “September 30, 1997”. 1996—Pub. L. 104–204 substituted “September 30, 1997” for “September 30, 1996”. 1994—Pub. L. 103–325 substituted “September 30, 1996” for “September 30, 1995”. 1990—Pub. L. 101–508 substituted “September 30, 1995” for “September 30, 1991”. 1989—Pub. L. 101–137 substituted “September 30, 1991” for “September 30, 1989”. 1988—Pub. L. 100–242 substituted “September 30, 1989” for “March 15, 1988”. 1987—Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”. Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”. Pub. L. 100–170 substituted “December 2, 1987” for “November 15, 1987”. Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”. Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”. 1986—Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”. Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”. Pub. L. 99–289 substituted “June 6, 1986” for “April 30, 1986”. Pub. L. 99–272 directed amendment identical to Pub. L. 99–219 substituting “March 17, 1986” for “December 15, 1985”. Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”. 1985—Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”. Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”. Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”. 1983—Pub. L. 98–181 substituted “September 30, 1985” for “November 30, 1983”. Pub. L. 98–109 substituted “November 30, 1983” for “September 30, 1983”. Pub. L. 98–35 substituted “September 30, 1983” for “May 20, 1983”. 1982—Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”. 1981—Pub. L. 97–35 substituted “1982” for “1981”. 1979—Pub. L. 96–153 substituted “September 30, 1981” for “September 30, 1980”. 1978—Pub. L. 95–557 substituted “September 30, 1980” for “October 31, 1978”. Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”. 1977—Pub. L. 95–128 substituted “September 30, 1978” for “September 30, 1977”. Pub. L. 95–80 substituted “September 30, 1977” for “July 31, 1977”. Pub. L. 95–60 substituted “July 31, 1977” for “June 30, 1977”. 1973—Pub. L. 93–234 substituted expiration of program provisions for $6,000,000,000 limitation on flood insurance coverage outstanding. Pub. L. 93–38 substituted “$6,000,000,000” for “$4,000,000,000”. Pub. L. 93–4 substituted “$4,000,000,000” for “$2,500,000,000”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2026 AmendmentAmendment by Pub. L. 119–75 effective as if enacted on Jan. 30, 2026, see section 5004(c) of div. I of Pub. L. 119–75, set out as a note under section 4016 of this title.
+
+Effective Date of 2022 AmendmentAmendment by Pub. L. 117–328 effective as if enacted on Sept. 30, 2022, see section 901(c) of div. AA of Pub. L. 117–328, set out as a note under section 4016 of this title.
+
+Effective Date of 2020 AmendmentAmendment by Pub. L. 116–159 effective immediately upon enactment (Oct. 1, 2020), and applicable as if it were in effect on Sept. 30, 2020, see section 146(c) of Pub. L. 116–159, set out as a note under section 4016 of this title.
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–396 effective as if enacted on Dec. 7, 2018, see section 2(c) of Pub. L. 115–396, set out as a note under section 4016 of this title.
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–196 considered effective on May 31, 2010, see section 2(c) of Pub. L. 111–196, set out as a note under section 4016 of this title.
+
+Effective Date of 2004 AmendmentAmendment by Pub. L. 108–199 considered to have taken effect on Dec. 31, 2003, see section 136(b) of div. H of Pub. L. 108–199, set out as a note under section 4016 of this title.
+
+Effective Date of 2003 AmendmentsAmendment by Pub. L. 108–171 effective Dec. 31, 2003, see section 2(b) of Pub. L. 108–171, set out as a note under section 4016 of this title. Amendment by Pub. L. 108–3 effective Dec. 31, 2002, see section 2(b) of Pub. L. 108–3, set out as a note under section 4016 of this title.
+
+Effective Date of 1998 AmendmentPub. L. 105–276, title V, § 599D(c), Oct. 21, 1998, 112 Stat. 2663, provided that: “The amendments made by this section [amending this section and section 4056 of this title] are made on, and shall apply beginning upon, the date of the enactment of this Act [Oct. 21, 1998].”
+
+Effective Date of 1981 AmendmentAmendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
+
+Effective DateSection effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+
+Extension of ProgramPub. L. 119–4, div. A, title VII, § 1709, Mar. 15, 2025, 139 Stat. 29, provided that: “(a) Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a) and 4026) shall be applied by substituting the date specified in section 1106 of this Act [Sept. 30, 2025] for ‘September 30, 2023’. “(b)(1) Subject to paragraph (2), this section shall become effective immediately upon enactment of this Act [div. A of Pub. L. 119–4, approved Mar. 15, 2025]. “(2) If this Act is enacted after March 14, 2025, this section shall be applied as if it were in effect on March 14, 2025.” Prior provisions generally extending the authority of sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a) and 4026) were contained in the following acts: Pub. L. 118–83, div. A, § 137, Sept. 26, 2024, 138 Stat. 1531 (to Dec. 20, 2024). Pub. L. 118–47, div. G, title I, § 101(b), Mar. 23, 2024, 138 Stat. 856 (to Sept. 30, 2024). Pub. L. 116–94, div. I, title II, § 201, Dec. 20, 2019, 133 Stat. 3019 (to Sept. 30, 2020). Pub. L. 115–141, div. M, title III, § 301, Mar. 23, 2018, 132 Stat. 1049 (to July 31, 2018). Pub. L. 110–329, div. A, § 145, Sept. 30, 2008, 122 Stat. 3581, as amended by Pub. L. 111–8, div. J, § 101, Mar. 11, 2009, 123 Stat. 988 (to Sept. 30, 2009). Pub. L. 105–64, Oct. 23, 1997, 111 Stat. 1343 (to Nov. 7, 1997).

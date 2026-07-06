@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 2706"
+description: "Cost reimbursement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "121"
+chapter_name: "STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS"
+section: "2706"
+citation: "18 U.S.C. § 2706"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s2706"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "18442ecb5cf0c147aec489fdcbaeff016b55a81a5e61ffa3200ef38404d6afd4"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "44ad6a00d52a11f4b5133c5c4a2e3beaa21e142ea80bcb7d201af3ad47844e68"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 2706 - Cost reimbursement
+
+## Text
+
+(a) Payment.— Except as otherwise provided in subsection (c), a governmental entity obtaining the contents of communications, records, or other information under section 2702, 2703, or 2704 of this title shall pay to the person or entity assembling or providing such information a fee for reimbursement for such costs as are reasonably necessary and which have been directly incurred in searching for, assembling, reproducing, or otherwise providing such information. Such reimbursable costs shall include any costs due to necessary disruption of normal operations of any electronic communication service or remote computing service in which such information may be stored.
+
+(b) Amount.— The amount of the fee provided by subsection (a) shall be as mutually agreed by the governmental entity and the person or entity providing the information, or, in the absence of agreement, shall be as determined by the court which issued the order for production of such information (or the court before which a criminal prosecution relating to such information would be brought, if no court order was issued for production of the information).
+
+(c) Exception.— The requirement of subsection (a) of this section does not apply with respect to records or other information maintained by a communications common carrier that relate to telephone toll records and telephone listings obtained under section 2703 of this title. The court may, however, order a payment as described in subsection (a) if the court determines the information required is unusually voluminous in nature or otherwise caused an undue burden on the provider.
+
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 100–690, title VII, § 7061, Nov. 18, 1988, 102 Stat. 4404.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1988—Subsec. (c). Pub. L. 100–690 inserted heading.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.

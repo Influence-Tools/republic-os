@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 10706"
+description: "Limitations on grants and contracts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "113"
+chapter_name: "STATE JUSTICE INSTITUTE"
+section: "10706"
+citation: "42 U.S.C. § 10706"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s10706"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "d6fba663e1a18b6fbc13b5e81d7206afa1e688f48a4c12398d73ad92b6dfbd28"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "566ddc850f1fc2af49df81260ce6672e89893578faa5c1a5a5edb7826ffe8518"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 10706 - Limitations on grants and contracts
+
+## Text
+
+(a) Duties of Institute With respect to grants made and contracts or cooperative agreements entered into under this chapter, the Institute shall—
+
+(1) ensure that no funds made available to recipients by the Institute shall be used at any time, directly or indirectly, to influence the issuance, amendment, or revocation of any Executive order or similar promulgation by any Federal, State, or local agency, or to undertake to influence the passage or defeat of any legislation or constitutional amendment by the Congress of the United States, or by any State or local legislative body, or any State proposal by initiative petition, or of any referendum, unless a governmental agency, legislative body, a committee, or a member thereof—
+
+(A) requests personnel of the recipients to testify, draft, or review measures or to make representations to such agency, body, committee, or member; or
+
+(B) is considering a measure directly affecting the activities under this chapter of the recipient or the Institute; and
+
+(2) ensure all personnel engaged in grant, cooperative agreement or contract assistance activities supported in whole or part by the Institute refrain, while so engaged, from any partisan political activity.
+
+(b) Use of funds for training programs for advocacy of nonjudicial public policies or encouraging nonjudicial political activities No funds made available by the Institute under this chapter, either by grant, cooperative agreement, or contract, may be used to support or conduct training programs for the purpose of advocating particular nonjudicial public policies or encouraging nonjudicial political activities.
+
+(c) Authority coextensive with appropriation Acts The authorization to enter into cooperative agreements, contracts or any other obligation under this chapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
+
+(d) Prohibited uses of funds To ensure that funds made available under this chapter are used to supplement and improve the operation of State courts, rather than to support basic court services, funds shall not be used—
+
+(1) to supplant State or local funds currently supporting a program or activity; or
+
+(2) to construct court facilities or structures, except to remodel existing facilities to demonstrate new architectural or technological techniques, or to provide temporary facilities for new personnel or for personnel involved in a demonstration or experimental program.
+
+(Pub. L. 98–620, title II, § 207, Nov. 8, 1984, 98 Stat. 3342; Pub. L. 100–702, title VI, § 605, Nov. 19, 1988, 102 Stat. 4653.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this title”, except in subsec. (d) where it was in the original “this Act”, meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which enacted this chapter and amended section 620 of Title 28, Judiciary and Judicial Procedure. For complete classification of title II to the Code, see Short Title note set out under section 17101 of this title and Tables.
+
+Amendments1988—Subsec. (a)(3). Pub. L. 100–702 struck out par. (3) which read as follows: “ensure that each recipient that files with the Institute a timely application for refunding is provided interim funding necessary to maintain its current level of activities until— “(A) the application for refunding has been approved and funds pursuant thereto received; or “(B) the application for refunding has been finally denied in accordance with section 10708 of this title.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Oct. 1, 1985, see section 216 of Pub. L. 98–620, set out as a note under section 10701 of this title.

@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 329"
+description: "Issue of patent on final proof; citizenship requirement as to patentee; limit as to amount of holding"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "9"
+chapter_name: "DESERT-LAND ENTRIES"
+section: "329"
+citation: "43 U.S.C. § 329"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s329"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "8728605c8b41d0f36927a8ac331bf64a6ac233a43028b22de086e9d09a10ce10"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "66a7f7fdd96f83e859ad9b38ba929dd4efa8cc84a6a9eb57c645da4563242c65"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 329 - Issue of patent on final proof; citizenship requirement as to patentee; limit as to amount of holding
+
+## Text
+
+At any time after filing the declaration, and within the period of four years thereafter, upon making satisfactory proof to the officer designated by the Secretary of the Interior of the reclamation and cultivation of said land to the extent and cost and in the manner aforesaid, and substantially in accordance with the plans herein provided for, and that he or she is a citizen of the United States, and upon payment to such officer of the additional sum of $1 per acre for said land, a patent shall issue therefor to the applicant or his assigns; but no person or association of persons shall hold by assignment or otherwise prior to the issue of patent, more than three hundred and twenty acres of such arid or desert lands, but this section shall not apply to entries made or initiated prior to March 3, 1891: Provided, however, That additional proofs may be required at any time within the period prescribed by law, and that the claims or entries made under sections 321 to 323, 325, and 327 to 329 of this title shall be subject to contest, as provided by the law, relating to homestead cases, for illegal inception, abandonment, or failure to comply with the requirements of law, and upon satisfactory proof thereof shall be canceled, and the lands, and moneys paid therefor, shall be forfeited to the United States.
+
+(Mar. 3, 1877, ch. 107, § 7, as added Mar. 3, 1891, ch. 561, § 2, 26 Stat. 1097; amended Oct. 28, 1921, ch. 114, § 1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Five-Year PeriodThe period of four years prescribed by this section was extended to five years as to pending entries where the time for final proof had not expired prior to Jan. 1, 1894, by act Aug. 4, 1894, ch. 208, 28 Stat. 226.
+
+Section as Unaffected by Submerged Lands ActProvisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
+
+Executive Documents
+
+Transfer of Functions For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title. “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3, 1946, set out as a note under section 1 of this title. Previously, references to register and receiver changed to register by acts Mar. 3, 1925, and Oct. 28, 1921, which consolidated offices of register and receiver and provided for a single officer to be known as register.

@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "48 U.S.C. § 1421q"
+description: "Applicability of Federal laws"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 48
+title_name: "TERRITORIES AND INSULAR POSSESSIONS"
+chapter_number: "8A"
+chapter_name: "GUAM"
+section: "1421q"
+citation: "48 U.S.C. § 1421q"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc48@119-100.zip"
+source_identifier: "/us/usc/t48/s1421q"
+source_file: "data/legal/raw/us/code/title-48/usc48.xml"
+source_hash: "ab0b2df8e2c838283d0be19a2ee08e2f792e1803d750afbc425250e19c95f489"
+raw_snapshot_hash: "2f9a72ec272e6666d7f55f52cc3186aefc6368ca4cc2b9053a531de2fb9288c2"
+text_hash: "7e9b45649243cc6fc717e9f0b2f2e5e6b76620d08cd91506097d5bc95e0fd98e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 48 U.S.C. § 1421q - Applicability of Federal laws
+
+## Text
+
+The laws of the United States which are made applicable to the Northern Mariana Islands by the provisions of section 502(a)(1) of H.J. Res. 549,11 See References in Text note below. as approved by the House of Representatives and the Senate, except for section 228 of title II [42 U.S.C. 428] and title XVI of the Social Security Act [42 U.S.C. 1381 et seq.] as it applies to the several States and the Micronesia Claims Act as it applies to the Trust Territory of the Pacific Islands, shall be made applicable to Guam on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
+
+(Pub. L. 94–255, § 2, Apr. 1, 1976, 90 Stat. 300.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 502(a)(1) of H.J. Res. 549, referred to in text, probably means section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title. The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVI of the Social Security Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables. The Micronesia Claims Act, referred to in text, probably means the Micronesian Claims Act of 1971, Pub. L. 92–39, July 1, 1971, 85 Stat. 92, which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
+
+Codification Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
+
+Executive Documents
+
+Termination of Trust Territory of the Pacific Islands For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.

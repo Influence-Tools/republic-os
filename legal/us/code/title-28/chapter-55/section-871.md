@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 871"
+description: "Clerk, chief deputy clerk, assistant clerk, deputies, assistants, and other employees"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "55"
+chapter_name: "COURT OF INTERNATIONAL TRADE"
+section: "871"
+citation: "28 U.S.C. § 871"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s871"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "ebee8415f022b9b68388affb3c90c72a91ef4e4e1a2653d27aaa31151c332ba4"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "1c869655258a553fac050c6074b9aba135d856e4a08710ef5ccf5098d4067277"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 871 - Clerk, chief deputy clerk, assistant clerk, deputies, assistants, and other employees
+
+## Text
+
+The Court of International Trade may appoint a clerk, a chief deputy clerk, an assistant clerk, deputy clerks, and such deputies, assistants, and other employees as may be necessary for the effective dispatch of the business of the court, who shall be subject to removal by the court.
+
+(June 25, 1948, ch. 646, 62 Stat. 925; Pub. L. 86–243, § 1, Sept. 9, 1959, 73 Stat. 474; Pub. L. 96–417, title V, § 501(17), Oct. 10, 1980, 94 Stat. 1742.)
+
+## Notes
+
+Historical and Revision NotesBased on section 6 of title 19, U.S.C., 1940 ed., Customs Duties (May 4, 1923, ch. 251, § 2, 42 Stat. 1453; Jan. 13, 1925, ch. 76, 43 Stat. 748; May 28, 1926, ch. 411, § 1, 44 Stat. 669; June 17, 1930, ch. 497, title IV, §§ 518, 649, 46 Stat. 737, 762). Section is based on the last two sentences of section 6 of title 19, U.S.C., 1940 ed., which provided for appointment by the Attorney General in conformity with the civil service laws. This and other administrative powers of the Department of Justice with respect to the courts were transferred to the Administrative Office of the United States Courts by section 446 of title 28, U.S.C., 1940 ed., which is section 604 of this title. The revised section vests the power of appointment in the chief judge to conform with section 253 of this title and rules 5 and 22 of the Rules of the Customs Court adopted May 29, 1936. Changes were made in phraseology.
+
+Editorial Notes
+
+Amendments1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade. 1959—Pub. L. 86–243 included chief deputy clerk and assistant clerk in section catchline, transferred the appointing authority from the chief judge to the Customs Court, provided for appointment of a chief deputy clerk, an assistant clerk and deputy clerks and for power of removal and deleted reference to the civil service laws with respect to appointments.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
+
+Savings ProvisionPub. L. 86–243, § 4, Sept. 9, 1959, 73 Stat. 474, provided that: “Nothing contained in the amendments made by this Act [enacting section 873 and amending this section and sections 253, 550, and 872 of this title] shall be construed to deprive any person serving on the date of enactment of this Act [Sept. 9, 1959] as an officer or employee of the Customs Court of any rights, privileges, or civil service status, if any, to which such person is entitled under the laws of the United States or regulations thereunder.”

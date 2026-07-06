@@ -1,0 +1,135 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 21111"
+description: "Establishment of National Strategy for Child Exploitation Prevention and Interdiction"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "211"
+chapter_name: "COMBATING CHILD EXPLOITATION"
+section: "21111"
+citation: "34 U.S.C. § 21111"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s21111"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "dc9abd3031d2243fa5baf30e0fa0b09f84fc5d7f7c45b165cd4358341a6f59d5"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "cae197aa2aee2899d7eb72613b26289ea6c7cb0b71a48b6a1c54a3ea706bc2f0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 21111 - Establishment of National Strategy for Child Exploitation Prevention and Interdiction
+
+## Text
+
+(a) In general The Attorney General of the United States shall create and implement a National Strategy for Child Exploitation Prevention and Interdiction.
+
+(b) Timing Not later than 1 year after October 13, 2008, and on February 1 of every fourth year thereafter, the Attorney General shall submit to Congress the National Strategy established under subsection (a).
+
+(c) Required contents of National Strategy The National Strategy established under subsection (a) shall include the following:
+
+(1) An analysis of current trends, challenges, and the overall magnitude of the threat of child exploitation.
+
+(2) An analysis of future trends and challenges, including new technologies, that will impact the efforts to combat child exploitation.
+
+(3) Goals and strategic solutions to prevent and interdict child exploitation, including—
+
+(A) plans for interagency coordination;
+
+(B) engagement with the judicial branches of the Federal Government and State governments;
+
+(C) legislative recommendations for combating child exploitation;
+
+(D) cooperation with international, State, local, and Tribal law enforcement agencies; and
+
+(E) engagement with the private sector and other entities involved in efforts to combat child exploitation.
+
+(4) An analysis of Federal efforts dedicated to combating child exploitation, including—
+
+(A) a review of the policies and work of the Department of Justice and other Federal programs relating to the prevention and interdiction of child exploitation crimes, including training programs, and investigative and prosecution activity; and
+
+(B) a description of the efforts of the Department of Justice to cooperate and coordinate with, and provide technical assistance and support to, international, State, local, and Tribal law enforcement agencies and private sector and nonprofit entities with respect to child exploitation prevention and interdiction efforts.
+
+(5) An estimate of the resources required to effectively respond to child exploitation crimes at scale by—
+
+(A) each ICAC task force;
+
+(B) the Federal Bureau of Investigation, including investigators, forensic interviewers, and analysts of victims, witnesses, and forensics;
+
+(C) Homeland Security Investigations, including forensic interviewers and analysts of victims, witnesses, and forensics;
+
+(D) the United States Marshals Service;
+
+(E) the United States Secret Service;
+
+(F) the United States Postal Service;
+
+(G) the criminal investigative offices of the Department of Defense; and
+
+(H) any component of an agency described in this paragraph.
+
+(6) A review of the Internet Crimes Against Children Task Force Program, including—
+
+(A) the number of ICAC task forces and the location of each ICAC task force;
+
+(B) the number of trained personnel at each ICAC task force;
+
+(C) the amount of Federal grants awarded to each ICAC task force; and
+
+(D) an assessment of the Federal, State, and local cooperation with respect to each ICAC task force, including—
+
+(i) the number of arrests made by each ICAC task force;
+
+(ii) the number of criminal referrals to United States attorneys for prosecution;
+
+(iii) the number of prosecutions and convictions from the referrals described in clause (ii);
+
+(iv) the number, if available, of local prosecutions and convictions based on ICAC task force investigations; and
+
+(v) any other information determined by the Attorney General demonstrating the level of Federal, State, Tribal, and local coordination and cooperation.
+
+(7) An assessment of training needs for each ICAC task force and affiliated agencies.
+
+(8) An assessment of Federal investigative and prosecution activity relating to reported incidents of child exploitation crimes that include a number of factors, including—
+
+(A) the number of investigations, arrests, prosecutions, and convictions for a crime of child exploitation; and
+
+(B) the average sentence imposed and the statutory maximum sentence that could be imposed for each crime of child exploitation.
+
+(9) A review of all available statistical data indicating the overall magnitude of child pornography trafficking in the United States and internationally, including—
+
+(A) the number of foreign and domestic suspects observed engaging in accessing and sharing child pornography;
+
+(B) the number of tips or other statistical data from the CyberTipline of the National Center for Missing and Exploited Children and other data indicating the magnitude of child pornography trafficking; and
+
+(C) any other statistical data indicating the type, nature, and extent of child exploitation crime in the United States and abroad.
+
+(d) Appointment of high-level official (1) In general The Attorney General shall designate a senior official at the Department of Justice with experience in investigating or prosecuting child exploitation cases as the National Coordinator for Child Exploitation Prevention and Interdiction who shall be responsible for coordinating the development of the National Strategy established under subsection (a). The National Coordinator for Child Exploitation Prevention and Interdiction shall be a position in the Senior Executive Service.
+
+(2) Duties The duties of the official designated under paragraph (1) shall include—
+
+(A) acting as a liaison with all Federal agencies regarding the development of the National Strategy;
+
+(B) working to ensure that there is proper coordination among agencies in developing the National Strategy;
+
+(C) being knowledgeable about budget priorities and familiar with all efforts within the Department of Justice and the FBI related to child exploitation prevention and interdiction; and
+
+(D) communicating the National Strategy to Congress and being available to answer questions related to the strategy at congressional hearings, if requested by committees of appropriate jurisdictions, on the contents of the National Strategy and progress of the Department of Justice in implementing the National Strategy.
+
+(Pub. L. 110–401, title I, § 101, Oct. 13, 2008, 122 Stat. 4230; Pub. L. 112–206, § 6, Dec. 7, 2012, 126 Stat. 1493; Pub. L. 119–60, div. H, title LXXXII, § 8202(a), Dec. 18, 2025, 139 Stat. 1840.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 17611 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2025—Subsec. (b). Pub. L. 119–60, § 8202(a)(1), substituted “every fourth year” for “every second year”. Subsec. (c). Pub. L. 119–60, § 8202(a)(2), added subsec. (c) and struck out former subsec. (c), which set out the required contents of the National Strategy established under subsec. (a). 2012—Subsec. (d)(1). Pub. L. 112–206 substituted “with experience in investigating or prosecuting child exploitation cases as the National Coordinator for Child Exploitation Prevention and Interdiction who shall be responsible” for “to be responsible” and inserted at end “The National Coordinator for Child Exploitation Prevention and Interdiction shall be a position in the Senior Executive Service.”

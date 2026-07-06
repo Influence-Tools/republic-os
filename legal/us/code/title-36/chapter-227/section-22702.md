@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "36 U.S.C. § 22702"
+description: "Purposes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 36
+title_name: "PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS"
+chapter_number: "227"
+chapter_name: "AMVETS (AMERICAN VETERANS)"
+section: "22702"
+citation: "36 U.S.C. § 22702"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc36@119-100.zip"
+source_identifier: "/us/usc/t36/s22702"
+source_file: "data/legal/raw/us/code/title-36/usc36.xml"
+source_hash: "d4ff48b60501648974ae46139844ce474b234d449296c6b3683f772a9d0464d3"
+raw_snapshot_hash: "d8bb3c94f12bbd56e49d7a2bc029b1f4ab0bb8b69327e9ddbdf94d7adcac580d"
+text_hash: "234a0dafa0bc4f3bb6b9b097b783538f56834dd78dcab1014105b226045023c9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 36 U.S.C. § 22702 - Purposes
+
+## Text
+
+The purposes of the corporation are—
+
+(1) to preserve for ourselves and our posterity the great and basic truths and enduring principles upon which this Nation was founded;
+
+(2) to maintain a continuing interest in the welfare and rehabilitation of the disabled veterans of World War II, the Korean conflict, and the Vietnam era and to establish facilities for the assistance of all veterans and to represent them in their claims before the Department of Veterans Affairs and other organizations without charge;
+
+(3) to dedicate ourselves to the service and best interests of the community, State, and Nation to the end that our country shall be and remain forever a whole, strong, and free Nation;
+
+(4) to aid and encourage the abolition of prejudice, ignorance, and disease;
+
+(5) to encourage universal exercise of the voting franchise to the end that there shall be elected and maintained in public office men and women who hold public office as a public trust administered in the best interests of all the people;
+
+(6) to advocate the development and means by which all Americans may become enlightened and informed citizens and thus participate fully in the functions of our democracy;
+
+(7) to encourage and support an international organization of all peace-loving nations to the end that not again shall any nation be permitted to breach their national peace;
+
+(8) to continue to serve the best interests of our Nation in peace as in war;
+
+(9) to develop to the utmost the human, mental, spiritual, and economical resources of our Nation;
+
+(10) to perpetuate and preserve the friendships and comradeship born on the battle front and nurtured in the common experience of service to our Nation during time of war; and
+
+(11) to honor the memory of those men and women who gave their lives that a free America and a free world might live by the creation of living memorials in the form of additional educational, cultural, and recreational facilities.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1306.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 2270236:67b(1), (3)–(10).July 23, 1947, ch. 298, § 3(1), (3)–(10), 61 Stat. 405.  36:67b(2).July 23, 1947, ch. 298, § 3(2), 61 Stat. 405; Aug. 15, 1977, Pub. L. 95–98, § 1(b)(1), 91 Stat. 830; June 13, 1991, Pub. L. 102–54, § 13(n)(1), 105 Stat. 278.

@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 19152"
+description: "Collection and reporting of data on Federal research awards"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "163"
+chapter_name: "RESEARCH AND DEVELOPMENT, COMPETITION, AND INNOVATION"
+section: "19152"
+citation: "42 U.S.C. § 19152"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s19152"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "51c2bb1e2c403d9a0e40531092af335b45fc34f5aa4cf71d6d9c6f8c40ec280e"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "4f6452ae3d120a696bb76fdb85796a3b79e0c94fb90e7c841756541a976a50d3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 19152 - Collection and reporting of data on Federal research awards
+
+## Text
+
+(a) Collection of data (1) In general Each Federal research agency shall collect, as practicable, with respect to all applications for merit-reviewed research and development awards made by such agency, standardized record-level annual information on demographics, primary field, award type, institution type, review rating, budget request, funding outcome, and awarded budget.
+
+(2) Uniformity and standardization The Director, in consultation with the heads of each Federal research agency, shall establish, and update as necessary, a policy to ensure uniformity and standardization of the data collection required under paragraph (1).
+
+(3) Record-level data (A) Requirement Beginning not later than two years after the issuance of the policy under paragraph (2) to Federal research agencies, and on an annual basis thereafter, each Federal research agency shall submit to the National Center for Science and Engineering Statistics record-level data collected under paragraph (1) in the form required by the Director of the National Science Foundation.
+
+(B) Previous data As part of the first submission under subparagraph (A), each Federal research agency, to the extent practicable, shall also submit comparable record-level data, if it is available to the agency, for the five years preceding the date of such submission, or an analysis for why such data cannot be provided.
+
+(b) Reporting of data The Director of the National Science Foundation shall publish statistical summary data, as practicable, collected under this section, disaggregated and cross-tabulated by race, ethnicity, sex, socioeconomic indicators, which may include employment status, occupation, educational attainment, parental education, and income, geographic location, and years since completion of doctoral degree, including in conjunction with the National Science Foundation’s report required by section 1885d of this title.
+
+(Pub. L. 117–167, div. B, title V, § 10502, Aug. 9, 2022, 136 Stat. 1610.)

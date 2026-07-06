@@ -1,0 +1,125 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 7221d"
+description: "National activities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "70"
+chapter_name: "STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS"
+section: "7221d"
+citation: "20 U.S.C. § 7221d"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s7221d"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "50fd1f16bb6905ec67a355f0320893b7e1bffb1b8f6f7f0f01274d4bbfcd97d3"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "c44ce3fde0075826685abf98f6f6781074e2df03085838578ff212a9ff31f394"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 7221d - National activities
+
+## Text
+
+(a) In general From the amount reserved under section 7221a(b)(2) of this title, the Secretary shall—
+
+(1) use not more than 80 percent of such funds to award grants in accordance with subsection (b);
+
+(2) use not more than 9 percent of such funds to award grants, on a competitive basis, to eligible applicants for the purpose of carrying out the activities described in section 7221b(h) of this title in a State that did not receive a grant under section 7221b of this title; and
+
+(3) after the uses described in paragraphs (1) and (2), use the remainder of such funds to—
+
+(A) disseminate technical assistance to—
+
+(i) State entities in awarding subgrants under section 7221b(b)(1) of this title; and
+
+(ii) eligible entities and States receiving grants under section 7221c of this title;
+
+(B) disseminate best practices regarding charter schools; and
+
+(C) evaluate the impact of the charter school program carried out under this part, including the impact on student achievement.
+
+(b) Grants for the replication and expansion of high-quality charter schools (1) In general The Secretary shall make grants, on a competitive basis, to eligible entities having applications approved under paragraph (3) to enable such entities to open and prepare for the operation of one or more replicated high-quality charter schools or to expand one or more high-quality charter schools.
+
+(2) Definition of eligible entity For purposes of this subsection, the term “eligible entity” means a charter management organization.
+
+(3) Application requirements An eligible entity desiring to receive a grant under this subsection shall submit an application to the Secretary at such time and in such manner as the Secretary may require. The application shall include the following:
+
+(A) Existing charter school data For each charter school currently operated or managed by the eligible entity—
+
+(i) student assessment results for all students and for each subgroup of students described in section 6311(c)(2) of this title;
+
+(ii) attendance and student retention rates for the most recently completed school year and, if applicable, the most recent available 4-year adjusted cohort graduation rates and extended-year adjusted cohort graduation rates; and
+
+(iii) information on any significant compliance and management issues encountered within the last 3 school years by any school operated or managed by the eligible entity, including in the areas of student safety and finance.
+
+(B) Descriptions A description of—
+
+(i) the eligible entity’s objectives for implementing a high-quality charter school program with funding under this subsection, including a description of the proposed number of high-quality charter schools the eligible entity proposes to open as a result of the replication of a high-quality charter school or to expand with funding under this subsection;
+
+(ii) the educational program that the eligible entity will implement in such charter schools, including—
+
+(I) information on how the program will enable all students to meet the challenging State academic standards;
+
+(II) the grade levels or ages of students who will be served; and
+
+(III) the instructional practices that will be used;
+
+(iii) how the operation of such charter schools will be sustained after the grant under this subsection has ended, which shall include a multi-year financial and operating model for the eligible entity;
+
+(iv) how the eligible entity will ensure that such charter schools will recruit and enroll students, including children with disabilities, English learners, and other educationally disadvantaged students; and
+
+(v) any request and justification for any waivers of Federal statutory or regulatory requirements that the eligible entity believes are necessary for the successful operation of such charter schools.
+
+(C) Assurance An assurance that the eligible entity has sufficient procedures in effect to ensure timely closure of low-performing or financially mismanaged charter schools and clear plans and procedures in effect for the students in such schools to attend other high-quality schools.
+
+(4) Selection criteria The Secretary shall select eligible entities to receive grants under this subsection, on the basis of the quality of the applications submitted under paragraph (3), after taking into consideration such factors as—
+
+(A) the degree to which the eligible entity has demonstrated success in increasing academic achievement for all students and for each of the subgroups of students described in section 6311(c)(2) of this title attending the charter schools the eligible entity operates or manages;
+
+(B) a determination that the eligible entity has not operated or managed a significant proportion of charter schools that—
+
+(i) have been closed;
+
+(ii) have had the school’s charter revoked due to problems with statutory or regulatory compliance; or
+
+(iii) have had the school’s affiliation with the eligible entity revoked or terminated, including through voluntary disaffiliation; and
+
+(C) a determination that the eligible entity has not experienced significant problems with statutory or regulatory compliance that could lead to the revocation of a school’s charter.
+
+(5) Priority In awarding grants under this section, the Secretary shall give priority to eligible entities that—
+
+(A) plan to operate or manage high-quality charter schools with racially and socioeconomically diverse student bodies;
+
+(B) demonstrate success in working with schools identified by the State for comprehensive support and improvement under section 6311(c)(4)(D)(i) of this title;
+
+(C) propose to use funds—
+
+(i) to expand high-quality charter schools to serve high school students; or
+
+(ii) to replicate high-quality charter schools to serve high school students; or
+
+(D) propose to operate or manage high-quality charter schools that focus on dropout recovery and academic reentry.
+
+(c) Terms and conditions Except as otherwise provided, grants awarded under paragraphs (1) and (2) of subsection (a) shall have the same terms and conditions as grants awarded to State entities under section 7221b of this title.
+
+(Pub. L. 89–10, title IV, § 4305, as added Pub. L. 114–95, title IV, § 4301(1), Dec. 10, 2015, 129 Stat. 2009.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 7221d, Pub. L. 89–10, title IV, § 4305, formerly title V, § 5205, as added Pub. L. 107–110, title V, § 501, Jan. 8, 2002, 115 Stat. 1795; renumbered title IV, § 4305, Pub. L. 114–95, title IV, § 4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, 129 Stat. 1967, related to national activities, prior to repeal by Pub. L. 114–95, § 5, title IV, § 4301(1), Dec. 10, 2015, 129 Stat. 1806, 1993, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under section 6301 of this title.

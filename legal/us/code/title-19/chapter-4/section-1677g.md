@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 1677g"
+description: "Interest on certain overpayments and underpayments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "4"
+chapter_name: "TARIFF ACT OF 1930"
+section: "1677g"
+citation: "19 U.S.C. § 1677g"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s1677g"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "ce11f6904a76b53bd7fbc62d4e1c993c28e22b4466c0cdfd909227a7843da5e6"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "28546616a47c9d7c894dbe2ed8267efaa517d5bcfb266b7eca67e707e2a0dc89"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 1677g - Interest on certain overpayments and underpayments
+
+## Text
+
+(a) General rule Interest shall be payable on overpayments and underpayments of amounts deposited on merchandise entered, or withdrawn from warehouse, for consumption on and after—
+
+(1) the date of publication of a countervailing or antidumping duty order under this subtitle or section 1303 11 See References in Text note below. of this title, or
+
+(2) the date of a finding under the Antidumping Act, 1921.
+
+(b) Rate The rate of interest payable under subsection (a) for any period of time is the rate of interest established under section 6621 of title 26 for such period.
+
+(June 17, 1930, ch. 497, title VII, § 778, as added Pub. L. 96–39, title I, § 101, July 26, 1979, 93 Stat. 188; amended Pub. L. 98–573, title VI, § 621, Oct. 30, 1984, 98 Stat. 3039; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1303 of this title, referred to in subsec. (a)(1), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995. The Antidumping Act, 1921, referred to in subsec. (a)(2), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
+
+Amendments1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text. 1984—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, substituting provisions making interest payable on and after the date of publication of a countervailing or antidumping duty order under this subtitle or section 1303 of this title or the date of a finding under the Antidumping Act, 1921 for provisions making interest payable on and after the date on which notice of an affirmative determination by the Commission under section 1671d(b) or 1673d(b) of this title with respect to such merchandise was published. Subsec. (b). Pub. L. 98–573 amended subsec. (b) generally, substituting provisions that the rate of interest payable under subsec. (a) for any period of time is the rate of interest established under section 6621 of title 26 for such period for provision that the rate at which such interest was payable would be 8 percent per annum or, if higher, the rate in effect under section 6621 of title 26 on the date on which the rate or amount of the duty was finally determined.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–573 applicable with respect to merchandise that is unliquidated on or after Nov. 4, 1984, see section 626(b)(4) of Pub. L. 98–573, set out as a note under section 1671 of this title.

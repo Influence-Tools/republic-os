@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 4238"
+description: "Monitoring of compliance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "43"
+chapter_name: "NATIVE AMERICAN HOUSING ASSISTANCE AND SELF-DETERMINATION"
+section: "4238"
+citation: "25 U.S.C. § 4238"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s4238"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "4dc67beb0de069956522899321ae57ee92ac479e89fbea78094bfa40c89be6d5"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "19f461b8e3b3099be0ec21a902bae53716ea16e37cb548aef7aa055ad907548a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 4238 - Monitoring of compliance
+
+## Text
+
+(a) Enforceable agreements (1) In general The Director, through binding contractual agreements with owners or other authorized entities, shall ensure long-term compliance with the provisions of this subchapter.
+
+(2) Measures The measures referred to in paragraph (1) shall provide for—
+
+(A) to the extent allowable by Federal and State law, the enforcement of the provisions of this subchapter by the Department and the Secretary; and
+
+(B) remedies for breach of the provisions referred to in paragraph (1).
+
+(b) Periodic monitoring (1) In general Not less frequently than annually, the Director shall review the activities conducted and housing assisted under this subchapter to assess compliance with the requirements of this subchapter.
+
+(2) Review Each review under paragraph (1) shall include onsite inspection of housing to determine compliance with applicable requirements.
+
+(3) Results The results of each review under paragraph (1) shall be—
+
+(A) included in a performance report of the Director submitted to the Secretary under section 4239 of this title; and
+
+(B) made available to the public.
+
+(c) Performance measures The Secretary shall establish such performance measures as may be necessary to assess compliance with the requirements of this subchapter.
+
+(Pub. L. 104–330, title VIII, § 819, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2893, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2987.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 819 of Pub. L. 104–330. This section is based on the text of section 819 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.

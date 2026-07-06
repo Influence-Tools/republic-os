@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 53406"
+description: "Payments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "534"
+chapter_name: "TANKER SECURITY FLEET"
+section: "53406"
+citation: "46 U.S.C. § 53406"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s53406"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "cccfffd310013747441312f272832b742979ca26ab61368e154efc9f0da452d9"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "a7d9199316da230b1edddfbd5d9d45127ded43a11650f8de7602c177bbc19b60"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 53406 - Payments
+
+## Text
+
+(a) Annual Payments.— (1) In general.— Subject to the availability of appropriations and the other provisions of this section, the Secretary shall pay to a program participant for an operating agreement under this chapter, for each vessel that is covered by the operating agreement, an amount equal to—
+
+(A) $8,160,000 for each of fiscal years 2025 and 2026;
+
+(B) $8,380,000 for each of fiscal years 2027 and 2028;
+
+(C) $8,606,000 for each of fiscal years 2029 and 2030;
+
+(D) $8,839,000 for each of fiscal years 2031 and 2032;
+
+(E) $9,078,000 for each of fiscal years 2033 and 2034;
+
+(F) $9,323,000 for each of fiscal years 2035 and 2036;
+
+(G) $9,574,000 for each of fiscal years 2037 and 2038; and
+
+(H) $9,833,000 for each of fiscal years 2039 and 2040.
+
+(2) Timing.— The amount payable to a program participant under paragraph (1) for a fiscal year shall be paid in 12 equal monthly installments at the end of each month during that fiscal year. The amount payable for any fiscal year may not be reduced except as provided by this section or section 51307(b).
+
+(b) Certification Required for Payment.— As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+
+(c) General Limitations.— The Secretary may not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
+
+(1) not operated or maintained in accordance with an operating agreement under this chapter;
+
+(2) more than 20 years of age; or
+
+(3) simultaneously operating under an agreement pursuant to chapter 531 of this title.
+
+(d) Reductions in Payments.— With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
+
+(1) except as provided in paragraph (2), may not reduce such a payment for—
+
+(A) the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10, or any other cargo preference law of the United States; or
+
+(B) any days in which the vessel is operated under charter to the United States Government;
+
+(2) may not make such a payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title; and
+
+(3) shall make a pro rata reduction for each day less than 320 in a fiscal year that the vessel is not operated in accordance with section 53405 of this title.
+
+(e) Limitations Regarding Noncontiguous Domestic Trade.— (1) In general.— No program participant shall receive payments pursuant to this chapter during a period in which it participates in noncontiguous domestic trade.
+
+(2) Limitation on application.— Paragraph (1) shall not apply to a program participant that is a citizen of the United States within the meaning of section 50501 of this title, applying the 75 percent ownership requirement of that section.
+
+(3) Participates in a noncontiguous trade defined.— In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
+
+(Added Pub. L. 116–283, div. C, title XXXV, § 3511(a), Jan. 1, 2021, 134 Stat. 4415; amended Pub. L. 117–263, div. C, title XXXV, § 3517(b)(3), Dec. 23, 2022, 136 Stat. 3074; Pub. L. 118–159, div. C, title XXXV, § 3531(b), Dec. 23, 2024, 138 Stat. 2312.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a). Pub. L. 118–159 amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section or section 51307(b).” 2022—Subsec. (a). Pub. L. 117–263 inserted “or section 51307(b)” after “this section”.

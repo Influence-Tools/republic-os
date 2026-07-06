@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 1951"
+description: "Purpose"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "33A"
+chapter_name: "MARINE DEBRIS RESEARCH, PREVENTION, AND REDUCTION"
+section: "1951"
+citation: "33 U.S.C. § 1951"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s1951"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "ed212f02aa76974783c54de2b849e1c106a4fe1675a7788ac3e9fc2f13673d32"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "131abe43e91b88ded779157db992677c4ca6630170fc57556eb38b9da10ba056"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 1951 - Purpose
+
+## Text
+
+The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
+
+(Pub. L. 109–449, § 2, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, § 603, Dec. 20, 2012, 126 Stat. 1576; Pub. L. 116–224, title I, § 101(1), Dec. 18, 2020, 134 Stat. 1074; Pub. L. 119–65, § 6(a), Dec. 26, 2025, 139 Stat. 1990.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Pub. L. 119–65, which directed amendment of this section by substituting “Under Secretary” for “Administrator”, could not be executed because the word “Administrator” did not appear. 2020—Pub. L. 116–224 substituted “marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),” for “marine environment,”. 2012—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The purposes of this chapter are— “(1) to help identify, determine sources of, assess, reduce, and prevent marine debris and its adverse impacts on the marine environment and navigation safety; “(2) to reactivate the Interagency Marine Debris Coordinating Committee; and “(3) to develop a Federal marine debris information clearinghouse.”
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2025 AmendmentPub. L. 119–65, § 1, Dec. 26, 2025, 139 Stat. 1986, provided that: “This Act [see Tables for classification] may be cited as the ‘Save Our Seas 2.0 Amendments Act’.”
+
+Short Title of 2012 AmendmentPub. L. 112–213, title VI, § 601, Dec. 20, 2012, 126 Stat. 1576, provided that: “This title [amending this section and sections 1952 to 1956 of this title, transferring section 1914 of this title to section 1954 of this title, repealing sections 1915 and 1954 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Marine Debris Act Amendments of 2012’.”
+
+Short TitlePub. L. 109–449, § 1, Dec. 22, 2006, 120 Stat. 3333, as amended by Pub. L. 112–213, title VI, § 602(a), Dec. 20, 2012, 126 Stat. 1576; Pub. L. 119–65, § 6(a), Dec. 26, 2025, 139 Stat. 1990, provided that: “This Act [enacting and amending this chapter] may be cited as the ‘Marine Debris Act’.” [Amendment by section 6(a) of Pub. L. 119–65 substituting “Under Secretary” for “Administrator” in section 1 of Pub. L. 109–449, set out above, could not be executed because the word “Administrator” did not appear.]

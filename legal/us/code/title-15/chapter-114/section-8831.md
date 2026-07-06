@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 8831"
+description: "National Institute of Standards and Technology activities and quantum consortium"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "114"
+chapter_name: "NATIONAL QUANTUM INITIATIVE"
+section: "8831"
+citation: "15 U.S.C. § 8831"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s8831"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "0c0d53286fbcd9e3b83fd3a9987c053ad0a4dfe7cf01d715dab3cdecb219b9a7"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "53f192463c53bc2638ac6f155e0463d9f0a64342f89c67a3fd90ce26ee0747d0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 8831 - National Institute of Standards and Technology activities and quantum consortium
+
+## Text
+
+(a) National Institute of Standards and Technology activities As part of the Program, the Director of the National Institute of Standards and Technology—
+
+(1) shall continue to support and expand basic and applied quantum information science and technology research and development of measurement and standards infrastructure necessary to advance commercial development of quantum applications;
+
+(2) shall use the existing programs of the National Institute of Standards and Technology, in collaboration with other Federal departments and agencies, as appropriate, to train scientists in quantum information science and technology to increase participation in the quantum fields;
+
+(3) shall carry out research to facilitate the development and standardization of quantum cryptography and post-quantum classical cryptography;
+
+(4) shall carry out research to facilitate the development and standardization of quantum networking, communications, and sensing technologies and applications;
+
+(5) for quantum technologies determined by the Director of the National Institute of Standards and Technology to be at a readiness level sufficient for standardization, shall provide technical review and assistance to such other Federal agencies as the Director considers appropriate for the development of quantum networking infrastructure standards;
+
+(6) shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
+
+(7) may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
+
+(b) Quantum consortium (1) In general Not later than 1 year after December 21, 2018, the Director of the National Institute of Standards and Technology shall convene a consortium of stakeholders to identify the future measurement, standards, cybersecurity, and other appropriate needs for supporting the development of a robust quantum information science and technology industry in the United States.
+
+(2) Goals The goals of the consortium shall be—
+
+(A) to assess the current research on the needs identified in paragraph (1);
+
+(B) to identify any gaps in the research necessary to meet the needs identified in paragraph (1); and
+
+(C) to provide recommendations on how the National Institute of Standards and Technology and the Program can address the gaps in the necessary research identified in subparagraph (B).
+
+(3) Report to Congress Not later than 2 years after December 21, 2018, the Director of the National Institute of Standards and Technology shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the findings of the consortium.
+
+(c) Funding The Director of the National Institute of Standards and Technology shall allocate up to $80,000,000 to carry out the activities under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Institute of Standards and Technology.
+
+(Pub. L. 115–368, title II, § 201, Dec. 21, 2018, 132 Stat. 5098; Pub. L. 117–167, div. B, title VI, § 10661(c)(1), Aug. 9, 2022, 136 Stat. 1684.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Subsec. (a)(3) to (7). Pub. L. 117–167 added pars. (3) to (5) and redesignated former pars. (3) and (4) as (6) and (7), respectively.

@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 5877"
+description: "Reports to President for submission to Congress"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "73"
+chapter_name: "DEVELOPMENT OF ENERGY SOURCES"
+section: "5877"
+citation: "42 U.S.C. § 5877"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s5877"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "1096e06b8eb5584a0ce3ce031ea77e011c0e7f06922e79e839f2302d755a1c64"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "19f14ce4ba55489d8b7aaa24f1db096f6506d0bf503797ce179eb23a159a6d43"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 5877 - Reports to President for submission to Congress
+
+## Text
+
+(a) Report by Administrator on activities of Administration The Administrator shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to the Congress on the activities of the Administration during the preceding fiscal year. Such report shall include a statement of the short-range and long-range goals, priorities, and plans of the Administration together with an assessment of the progress made toward the attainment of those objectives and toward the more effective and efficient management of the Administration and the coordination of its functions.
+
+(b) Review of desirability and feasibility of transferring functions of Administrator respecting military application and restricted data to Department of Defense or other Federal agencies; report by Administrator During the first year of operation of the Administration, the Administrator, in collaboration with the Secretary of Defense, shall conduct a thorough review of the desirability and feasibility of transferring to the Department of Defense or other Federal agencies the functions of the Administrator respecting military application and restricted data, and within one year after the Administrator first takes office the Administrator shall make a report to the President, for submission to the Congress, setting forth his comprehensive analysis, the principal alternatives, and the specific recommendations of the Administrator and the Secretary of Defense.
+
+(c) Report by Commission on activities of Commission The Commission shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to the Congress on the activities of the Commission during the preceding fiscal year. Such report shall include a clear statement of the short-range and long-range goals, priorities, and plans of the Commission as they relate to the benefits, costs, and risks of commercial nuclear power. Such report shall also include a clear description of the Commission’s activities and findings in the following areas—
+
+(1) insuring the safe design of nuclear powerplants and other licensed facilities;
+
+(2) investigating abnormal occurrences and defects in nuclear powerplants and other licensed facilities;
+
+(3) safeguarding special nuclear materials at all stages of the nuclear fuel cycle;
+
+(4) investigating suspected, attempted, or actual thefts of special nuclear materials in the licensed sector and developing contingency plans for dealing with such incidents;
+
+(5) insuring the safe, permanent disposal of high-level radioactive wastes through the licensing of nuclear activities and facilities;
+
+(6) protecting the public against the hazards of low-level radioactive emissions from licensed nuclear activities and facilities.
+
+(Pub. L. 93–438, title III, § 307, Oct. 11, 1974, 88 Stat. 1251.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Termination of Reporting RequirementsFor termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submission of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
+
+Transfer of Functions Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
+
+Description in Report Respecting Decontamination, Etc., Collaborative Efforts at Three Mile Island Unit 2Pub. L. 97–415, § 10(c), Jan. 4, 1983, 96 Stat. 2071, directed the Nuclear Regulatory Commission to include in its annual report to Congress under subsec. (c) of this section as a separate chapter a description of the collaborative efforts by the Commission and the Department of Energy with respect to the decontamination, cleanup, repair, or rehabilitation of facilities at Three Mile Island Unit 2.
+
+Executive Documents
+
+Transfer of Functions For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.

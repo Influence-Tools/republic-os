@@ -1,0 +1,111 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 460qqq–3"
+description: "Management"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "460qqq–3"
+citation: "16 U.S.C. § 460qqq–3"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s460qqq–3"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "6962a2c000b5bd57084afd8f24a4a9b467a9e7a2fd36ea3886d4f1cfd8937790"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "96b095e8a7e547d1d26059bd2a99392361e6ac39e2376bd139c71ceabb197ff6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 460qqq–3 - Management
+
+## Text
+
+(a) In general The Secretary, acting through the Director of the Bureau of Land Management, shall manage the Conservation Area—
+
+(1) in a manner that conserves, protects, and enhances the resources of the Conservation Area; and
+
+(2) in accordance with—
+
+(A) the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
+
+(B) other applicable law, including this Act.
+
+(b) Management plan (1) In general Not later than 3 years after November 6, 2002, the Secretary, in consultation with the State, the city of Henderson, the County, and any other interested persons, shall develop a management plan for the Conservation Area.
+
+(2) Requirements The management plan shall—
+
+(A) describe the appropriate uses and management of the Conservation Area;
+
+(B) (i) authorize the use of motorized vehicles in the Conservation Area—
+
+(I) for installing, repairing, maintaining, and reconstructing water development projects, including guzzlers, that would enhance the Conservation Area by promoting healthy, viable, and more naturally distributed wildlife populations; and
+
+(II) subject to any limitations that are not more restrictive than the limitations on such uses authorized in wilderness areas under section 208; 11 See References in Text note below. and
+
+(ii) include or provide recommendations on ways of minimizing the visual impacts of such activities on the Conservation Area;
+
+(C) include a plan for litter cleanup and public lands awareness campaign on public lands in and around the Conservation Area; and
+
+(D) include a recommendation on the location for a right-of-way for a rural roadway to provide the city of Henderson with access to the Conservation Area, in accordance with the application numbered N–65874.
+
+(c) Uses The Secretary shall allow only such uses of the Conservation Area that the Secretary determines will further the purpose described in section 460qqq of this title.
+
+(d) Motorized vehicles Except as needed for administrative purposes or to respond to an emergency, the use of motorized vehicles in the Conservation Area shall be permitted only on roads and trails designated for the use of motorized vehicles by the management plan developed under subsection (b).
+
+(e) Withdrawal (1) In general Subject to valid existing rights, all public land in the Conservation Area is withdrawn from—
+
+(A) all forms of entry and appropriation under the public land laws;
+
+(B) location, entry, and patent under the mining laws; and
+
+(C) operation of the mineral leasing, mineral materials, and geothermal leasing laws.
+
+(2) Additional land Notwithstanding any other provision of law, if the Secretary acquires mineral or other interests in a parcel of land within the Conservation Area after November 6, 2002, the parcel is withdrawn from operation of the laws referred to in paragraph (1) on the date of acquisition of the land.
+
+(f) Hunting, fishing, and trapping (1) In general Nothing in this subchapter affects the jurisdiction of the State with respect to fish and wildlife, including hunting, fishing, and trapping in the Conservation Area.
+
+(2) Limitations (A) Regulations The Secretary may designate by regulation areas in which, and establish periods during which, for reasons of public safety, administration, or compliance with applicable laws, no hunting, fishing, or trapping will be permitted in the Conservation Area.
+
+(B) Consultation Except in emergencies, the Secretary shall consult with the appropriate State agency before promulgating regulations under subparagraph (A) that close a portion of the Conservation Area to hunting, fishing, or trapping.
+
+(g) No buffer zones (1) In general The establishment of the Conservation Area shall not create an express or implied protective perimeter or buffer zone around the Conservation Area.
+
+(2) Private land If the use of, or conduct of an activity on, private land that shares a boundary with the Conservation Area is consistent with applicable law, nothing in this subchapter concerning the establishment of the Conservation Area shall prohibit or limit the use or conduct of the activity.
+
+(h) Horizon lateral pipeline right-of-way (1) In general Notwithstanding sections 202 and 503 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1763) and subject to valid existing rights and paragraph (3), the Secretary of the Interior, acting through the Director of the Bureau of Land Management (referred to in this subsection as the “Secretary”), shall, not later than 1 year after May 19, 2026, grant to the Southern Nevada Water Authority (referred to in this subsection as the “Authority”), not subject to the payment of rents or other charges, the temporary and permanent water pipeline infrastructure, and outside the boundaries of the Conservation Area, powerline, facility, and access road rights-of-way depicted on the map for the purposes of—
+
+(A) performing geotechnical investigations within the rights-of-way; and
+
+(B) constructing and operating water transmission and related facilities.
+
+(2) Excavation and disposal (A) In general The Authority may, without consideration, excavate and use or dispose of sand, gravel, minerals, or other materials from the tunneling of the water pipeline necessary to fulfill the purpose of the rights-of-way granted under paragraph (1).
+
+(B) Memorandum of understanding Not later than 30 days after the date on which the rights-of-way are granted under paragraph (1), the Secretary and the Authority shall enter into a memorandum of understanding identifying Federal land on which the Authority may dispose of materials under subparagraph (A) to further the interests of the Bureau of Land Management.
+
+(3) Requirements A right-of-way issued under this subsection shall be subject to the following requirements:
+
+(A) The Secretary may include reasonable terms and conditions, consistent with section 505 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1765), as are necessary to protect Conservation Area resources.
+
+(B) Construction of the water pipeline shall not permanently adversely affect conservation area surface resources.
+
+(C) The right-of-way shall not be located through or under any area designated as wilderness.
+
+(Pub. L. 107–282, title VI, § 605, Nov. 6, 2002, 116 Stat. 2010; Pub. L. 119–91, § 3(b), May 19, 2026, 140 Stat. 822.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables. This Act, referred to in subsec. (a)(2)(B), is Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1994, known as the Clark County Conservation of Public Land and Natural Resources Act of 2002. For complete classification of this Act to the Code, see Short Title note set out under section 460qqq of this title and Tables. Section 208, referred to in subsec. (b)(2)(B)(i)(II), is section 208 of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 2005, which is not classified to the Code.
+
+Amendments2026—Subsec. (h). Pub. L. 119–91 added subsec. (h).

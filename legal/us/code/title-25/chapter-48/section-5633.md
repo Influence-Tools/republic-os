@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 5633"
+description: "Under Secretary for Indian Affairs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "48"
+chapter_name: "INDIAN TRUST ASSET REFORM"
+section: "5633"
+citation: "25 U.S.C. § 5633"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s5633"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "883d45c393ccc52170b72e4239267c9b999875027afbd9219c691a0151fd1526"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "85eeeb8ee79bf6e11f893c0f23ca11e32b98ad900724af0e52a03b70b98b2ee1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 5633 - Under Secretary for Indian Affairs
+
+## Text
+
+(a) Establishment of position Notwithstanding any other provision of law, the Secretary may establish in the Department the position of Under Secretary for Indian Affairs, who shall report directly to the Secretary.
+
+(b) Appointment (1) In general Except as provided in paragraph (2), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(2) Exception The individual serving as the Assistant Secretary for Indian Affairs on June 22, 2016, may assume the position of Under Secretary without appointment under paragraph (1), if—
+
+(A) that individual was appointed as Assistant Secretary for Indian Affairs by the President, by and with the advice and consent of the Senate; and
+
+(B) not later than 180 days after June 22, 2016, the Secretary approves the assumption.
+
+(c) Duties In addition to any other duties directed by the Secretary, the Under Secretary shall—
+
+(1) coordinate with the Special Trustee for American Indians to ensure an orderly transition of the functions of the Special Trustee to one or more appropriate agencies, offices, or bureaus within the Department, as determined by the Secretary;
+
+(2) to the maximum extent practicable, supervise and coordinate activities and policies of the BIA with activities and policies of—
+
+(A) the Bureau of Reclamation;
+
+(B) the Bureau of Land Management;
+
+(C) the Office of Natural Resources Revenue;
+
+(D) the National Park Service; and
+
+(E) the United States Fish and Wildlife Service; and
+
+(3) provide for regular consultation with Indians and Indian tribes that own interests in trust resources and trust fund accounts.
+
+(d) Personnel provisions (1) Appointments The Under Secretary may appoint and fix the compensation of such officers and employees as the Under Secretary determines to be necessary to carry out any function transferred under this section.
+
+(2) Requirements Except as otherwise provided by law—
+
+(A) any officer or employee described in paragraph (1) shall be appointed in accordance with the civil service laws;
+
+(B) the compensation of such an officer or employee shall be fixed in accordance with title 5; and
+
+(C) in appointing or otherwise hiring any employee, the Under Secretary shall give preference to Indians in accordance with section 5116 of this title.
+
+(Pub. L. 114–178, title III, § 303, June 22, 2016, 130 Stat. 440.)

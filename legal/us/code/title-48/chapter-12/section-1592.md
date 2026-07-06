@@ -1,0 +1,37 @@
+---
+type: "LegalText"
+title: "48 U.S.C. § 1592"
+description: "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 48
+title_name: "TERRITORIES AND INSULAR POSSESSIONS"
+chapter_number: "12"
+chapter_name: "VIRGIN ISLANDS [1954]"
+section: "1592"
+citation: "48 U.S.C. § 1592"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc48@119-100.zip"
+source_identifier: "/us/usc/t48/s1592"
+source_file: "data/legal/raw/us/code/title-48/usc48.xml"
+source_hash: "779935cabb75bdc3db08b8785e9283d1f65daa95dd91ad67e5d184fc5d2447f5"
+raw_snapshot_hash: "2f9a72ec272e6666d7f55f52cc3186aefc6368ca4cc2b9053a531de2fb9288c2"
+text_hash: "9259cd37208f6f1655409da9ee1c0fe8a2969ca1985ae7f7017e66416e32be02"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 48 U.S.C. § 1592 - Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657
+
+## Notes
+
+Section, act July 22, 1954, ch. 558, § 20(a), 68 Stat. 505, prescribed compensation of Governor.
+
+Editorial Notes
+
+Codification Section 20 of act July 22, 1954, was amended in its entirety by section 10 of Pub. L. 90–496, Aug. 23, 1968, 82 Stat. 841, which consolidated the text of said section 20 into a single unlettered paragraph, classified to section 1641 of this title. Prior to the 1968 amendment said section 20 was comprised of subsecs. (a) to (c). Subsec. (a) was classified to this section, and subsecs. (b) and (c) were classified to sections 1598 and 1641, respectively, of this title.

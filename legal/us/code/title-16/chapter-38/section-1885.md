@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 1885"
+description: "Seafood import monitoring program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "38"
+chapter_name: "FISHERY CONSERVATION AND MANAGEMENT"
+section: "1885"
+citation: "16 U.S.C. § 1885"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s1885"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "e8582efcde796f3ede9272fc99392d7c77167ed73d277bd17fe1bcfdf5491a22"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "babd85b992d8c6f33f06f3e01adfcb26650b43c06edd1bdd565cf8297e97043d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 1885 - Seafood import monitoring program
+
+## Text
+
+Not later than 30 days after March 23, 2018, the Secretary of Commerce (Secretary) shall lift the stay on the effective date of the final rule for the seafood import monitoring program published by the Secretary on December 9, 2016, (81 Fed. Reg. 88975 et seq.) for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations: Provided, That the compliance date for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations, shall occur not later than December 31, 2018: Provided further, That not later than December 31, 2018, the Secretary shall establish a traceability program for United States inland, coastal, and marine aquaculture of shrimp and abalone from point of production to entry into United States commerce: Provided further, That the Secretary shall promulgate such regulations as are necessary and appropriate to establish and implement the program: Provided further, That information collected pursuant to a regulation promulgated under this section shall be confidential and not be disclosed except for the information disclosed under section 401(b)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a(b)(1)): Provided further, That any regulations promulgated under this section shall be enforced as if this section were a provision of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and the regulations were promulgated under such Act.
+
+(Pub. L. 115–141, div. B, title V, § 539, Mar. 23, 2018, 132 Stat. 445.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+Codification Section was enacted as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Import AuditsPub. L. 117–263, div. K, title CXIII, § 11332, Dec. 23, 2022, 136 Stat. 4099, provided that: “(a) Audit Procedures.—The Secretary shall, not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], implement procedures to audit information and supporting records of sufficient numbers of imports of seafood and seafood products subject to the Seafood Import Monitoring Program to support statistically robust conclusions that the samples audited are representative of all seafood imports covered by the Seafood Import Monitoring Program with respect to a given year. “(b) Expansion of Marine Forensics Laboratory.—The Secretary shall, not later than 1 year after the date of enactment of this Act, begin the process of expanding the National Oceanic and Atmospheric Administration’s Marine Forensics Laboratory, including by establishing sufficient capacity for the development and deployment of rapid, and follow-up, analysis of field-based tests focused on identifying Seafood Import Monitoring Program species, and prioritizing such species at high risk of illegal, unreported, or unregulated fishing and seafood fraud. “(c) Annual Revision.—In developing the procedures required in subsection (a), the Secretary shall use predictive analytics to inform whether to revise such procedures to prioritize for audit those imports originating from nations—“(1) identified pursuant to section 609(a) or 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j(a) or 1826k(a)) that have not yet received a subsequent positive certification pursuant to section 609(d) or 610(c) of such Act, respectively; “(2) identified by an appropriate regional fishery management organization as being the flag state or landing location of vessels identified by other nations or regional fisheries management organizations as engaging in illegal, unreported, or unregulated fishing; “(3) identified as having human trafficking or forced labor in any part of the seafood supply chain, including on vessels flagged in such nation, and including feed for cultured production, in the most recent Trafficking in Persons Report issued by the Department of State in accordance with the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.); “(4) identified as producing goods that contain seafood using forced labor or oppressive child labor in the most recent List of Goods Produced by Child Labor or Forced Labor in accordance with the Trafficking Victims Protection Act [of 2000] (22 U.S.C. 7101 et seq.); and “(5) identified as at risk for human trafficking, including forced labor, in their seafood catching and processing industries by the report required under section 3563 of the Maritime SAFE Act (Public Law 116–92) [133 Stat. 2009].” [For definition of terms as used in section 11332 of Pub. L. 117–263, set out above, see section 11329 of div. K of Pub. L. 117–263, set out as a note under section 1885a of this title.]

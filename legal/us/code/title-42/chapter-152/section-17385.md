@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 17385"
+description: "Smart grid interoperability framework"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "152"
+chapter_name: "ENERGY INDEPENDENCE AND SECURITY"
+section: "17385"
+citation: "42 U.S.C. § 17385"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s17385"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "3ffeb8e7d9ffecc168f6ceab8bef5c90870990b04758ea3a1d19ae12e42877e2"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "9926e616261396cedfd0f9b2f99c42d0dd17039f4e74dd7c445aa11aaa4d28dc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 17385 - Smart grid interoperability framework
+
+## Text
+
+(a) Interoperability framework The Director of the National Institute of Standards and Technology shall have primary responsibility to coordinate the development of a framework that includes protocols and model standards for information management to achieve interoperability of smart grid devices and systems. Such protocols and standards shall further align policy, business, and technology approaches in a manner that would enable all electric resources, including demand-side resources, to contribute to an efficient, reliable electricity network. In developing such protocols and standards—
+
+(1) the Director shall seek input and cooperation from the Commission, OEDER and its Smart Grid Task Force, the Smart Grid Advisory Committee, other relevant Federal and State agencies; and
+
+(2) the Director shall also solicit input and cooperation from private entities interested in such protocols and standards, including but not limited to the Gridwise Architecture Council, the International Electrical and Electronics Engineers, the National Electric Reliability Organization recognized by the Federal Energy Regulatory Commission, and National Electrical Manufacturer’s Association.
+
+(b) Scope of framework The framework developed under subsection (a) shall be flexible, uniform and technology neutral, including but not limited to technologies for managing smart grid information, and designed—
+
+(1) to accommodate traditional, centralized generation and transmission resources and consumer distributed resources, including distributed generation, renewable generation, energy storage, energy efficiency, and demand response and enabling devices and systems;
+
+(2) to be flexible to incorporate—
+
+(A) regional and organizational differences; and
+
+(B) technological innovations;
+
+(3) to consider the use of voluntary uniform standards for certain classes of mass-produced electric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured with the ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
+
+(A) load reduction to reduce total electrical demand;
+
+(B) adjustment of load to provide grid ancillary services; and
+
+(C) in the event of a reliability crisis that threatens an outage, short-term load shedding to help preserve the stability of the grid; and
+
+(4) such voluntary standards should incorporate appropriate manufacturer lead time.11 So in original. Does not fit with subsec. (b) introductory provisions.
+
+(c) Timing of framework development The Institute shall begin work pursuant to this section within 60 days of December 19, 2007. The Institute shall provide and publish an initial report on progress toward recommended or consensus standards and protocols within 1 year after December 19, 2007, further reports at such times as developments warrant in the judgment of the Institute, and a final report when the Institute determines that the work is completed or that a Federal role is no longer necessary.
+
+(d) Standards for interoperability in Federal jurisdiction At any time after the Institute’s work has led to sufficient consensus in the Commission’s judgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
+
+(e) Authorization There are authorized to be appropriated for the purposes of this section $5,000,000 to the Institute to support the activities required by this subsection 22 So in original. Probably should be “section”. for each of fiscal years 2008 through 2012.
+
+(Pub. L. 110–140, title XIII, § 1305, Dec. 19, 2007, 121 Stat. 1787.)
+
+## Notes
+
+Editorial Notes
+
+Codification December 19, 2007, referred to in subsec. (c), was in the original “enactment” and was translated as meaning the date of enactment of Pub. L. 110–140, to reflect the probable intent of Congress.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.

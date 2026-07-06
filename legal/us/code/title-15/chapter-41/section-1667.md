@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 1667"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "41"
+chapter_name: "CONSUMER CREDIT PROTECTION"
+section: "1667"
+citation: "15 U.S.C. § 1667"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s1667"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "e790a883a1c6bdc63d02b104ed64abd1e072ead220a33fa536772c87b31aa576"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "58f0a88c49d6b894a0591f46155b0a5184c7820183d83d01b2f0370b9aae37f3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 1667 - Definitions
+
+## Text
+
+For purposes of this part—
+
+(1) The term “consumer lease” means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,11 See Adjustments for Inflation note below. primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) 22 See References in Text note below. of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
+
+(2) The term “lessee” means a natural person who leases or is offered a consumer lease.
+
+(3) The term “lessor” means a person who is regularly engaged in leasing, offering to lease, or arranging to lease under a consumer lease.
+
+(4) The term “personal property” means any property which is not real property under the laws of the State where situated at the time offered or otherwise made available for lease.
+
+(5) The terms “security” and “security interest” mean any interest in property which secures payment or performance of an obligation.
+
+(Pub. L. 90–321, title I, § 181, as added Pub. L. 94–240, § 3, Mar. 23, 1976, 90 Stat. 257; amended Pub. L. 111–203, title X, § 1100E(a)(2), July 21, 2010, 124 Stat. 2111.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1602(g) of this title, referred to in par. (1), was redesignated section 1602(h) of this title by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
+
+Amendments2010—Par. (1). Pub. L. 111–203 substituted “$50,000” for “$25,000”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+Effective DatePub. L. 94–240, § 6, Mar. 23, 1976, 90 Stat. 261, provided that: “This Act [enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under section 1601 of this title] takes effect one year after the date of its enactment [Mar. 23, 1976].”
+
+Adjustments for InflationOn and after Dec. 31, 2011, dollar amount described in par. (1) of this section to be adjusted annually by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, see section 1100E(b) of Pub. L. 111–203, set out as a note under section 1603 of this title.

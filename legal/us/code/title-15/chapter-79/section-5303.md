@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 5303"
+description: "Establishment of program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "79"
+chapter_name: "METAL CASTING COMPETITIVENESS RESEARCH PROGRAM"
+section: "5303"
+citation: "15 U.S.C. § 5303"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s5303"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "3ca54169a3e3a42b4b383e06b7d367b4650c09b946f6bf2badbf824f15c5fec4"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "6d193f0cb9c81334b25bdfc7121c6b28a627cc903b546fac865ad498add35cb3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 5303 - Establishment of program
+
+## Text
+
+The Secretary, acting in accordance with authority provided in the Federal Non-Nuclear Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), except as otherwise provided in this chapter, shall establish a Metal Casting Competitiveness Research Program (hereafter in this chapter referred to as the “Program”) for the purpose of performing and promoting the performance of research and development on issues related to the technology competitiveness and energy efficiency of the United States metal casting industry.
+
+(Pub. L. 101–425, § 4, Oct. 15, 1990, 104 Stat. 916.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Federal Non-Nuclear Research and Development Act of 1974, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.

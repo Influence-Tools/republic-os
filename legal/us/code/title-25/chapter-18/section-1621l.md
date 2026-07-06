@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 1621l"
+description: "Patient travel costs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "18"
+chapter_name: "INDIAN HEALTH CARE"
+section: "1621l"
+citation: "25 U.S.C. § 1621l"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s1621l"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "49accea3f7b35464c7cfb3507c3290720c1fe2f0075d26c742b9d33b429049f6"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "a0b9c1231f9fc57b581dca066c707cf0e24e82ed756f3db0435e8b0b51a4de90"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 1621l - Patient travel costs
+
+## Text
+
+(a) Definition of qualified escort In this section, the term “qualified escort” means—
+
+(1) an adult escort (including a parent, guardian, or other family member) who is required because of the physical or mental condition, or age, of the applicable patient;
+
+(2) a health professional for the purpose of providing necessary medical care during travel by the applicable patient; or
+
+(3) other escorts, as the Secretary or applicable Indian Health Program determines to be appropriate.
+
+(b) Provision of funds The Secretary, acting through the Service and Tribal Health Programs, is authorized to provide funds for the following patient travel costs, including qualified escorts, associated with receiving health care services provided (either through direct or contract care or through a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) 11 See References in Text note below. under this chapter—
+
+(1) emergency air transportation and non-emergency air transportation where ground transportation is infeasible;
+
+(2) transportation by private vehicle (where no other means of transportation is available), specially equipped vehicle, and ambulance; and
+
+(3) transportation by such other means as may be available and required when air or motor vehicle transportation is not available.
+
+(Pub. L. 94–437, title II, § 213, as added Pub. L. 102–573, title II, § 208, Oct. 29, 1992, 106 Stat. 4551; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+Codification Amendment by Pub. L. 111–148 is based on sections 101(c)(2) and 129 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
+
+Amendments2010—Pub. L. 111–148 amended section generally. Prior to amendment, section directed Secretary to provide funds for patient travel costs for emergency air transportation and nonemergency air transportation where ground transportation was infeasible and authorized appropriations for fiscal years 1993 to 2000. Pub. L. 111–148 substituted “The Secretary” for “(a) The Secretary” prior to general amendment of section. See above.

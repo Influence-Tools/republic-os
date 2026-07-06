@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 2123"
+description: "Board of directors"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "23"
+chapter_name: "FARM CREDIT SYSTEM"
+section: "2123"
+citation: "12 U.S.C. § 2123"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s2123"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "a10033d85e3a8302cde4c8eb6b59e91c3b9baee7e3e4cd26aaeb9683ea3074c8"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "10d60f88e7bd9d98d0dfc121b9969e6bd367c0fe9a3a3d18f250a86ebb233992"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 2123 - Board of directors
+
+## Text
+
+(a) In general Each bank for cooperatives shall elect a board of directors of such number, for such term, in such manner, and with such qualifications as may be required in its bylaws, except that at least one member shall be elected by the other directors, which member shall not be a director, officer, employee, or stockholder of a System institution.
+
+(b) Nomination and election (1) In general If approved by the stockholders through a bylaw amendment, the nomination and election of one member from a bank for cooperatives shall be carried out with each voting stockholder of a bank for cooperatives having one vote, plus a number of votes (or fractional part thereof) equal to—
+
+(A) the number of stockholders eligible to vote; multiplied by
+
+(B) the percentage (or fractional part thereof) of the total equity interest (including allocated, but not unallocated, surplus and reserves) in the bank of all stockholders held by the individual voting stockholder at the close of the immediately preceding fiscal year of the bank.
+
+(2) Number of votes The total number of votes under this subsection shall be the number of voting stockholders of a bank for cooperatives multiplied by two.
+
+(Pub. L. 92–181, title III, § 3.2, Dec. 10, 1971, 85 Stat. 603; Pub. L. 99–205, title II, § 205(e)(2), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–399, title IX, § 901(d), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–552, title V, § 503, Oct. 28, 1992, 106 Stat. 4130; Pub. L. 115–334, title V, § 5411(5), Dec. 20, 2018, 132 Stat. 4679.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–334, § 5411(5)(B), (C), redesignated subsec. (a)(1) as (a) and subsec. (a)(2) as (b), inserted headings, and struck out former subsec. (b) which read as follows: “The board of directors of the Central Bank for Cooperatives shall consist of one member elected by the board of each bank for cooperatives, including the United Bank for Cooperatives if the Central Bank for Cooperatives is not merged into such bank, and one member appointed by the Farm Credit Administration.” Subsec. (a)(1). Pub. L. 115–334, § 5411(5)(A)(i), struck out “not merged into the United Bank for Cooperatives or the National Bank for Cooperatives” after “Each bank for cooperatives”. Subsec. (a)(2)(A). Pub. L. 115–334, § 5411(5)(A)(ii), struck out “(other than the National Bank for Cooperatives)” after “a bank for cooperatives” in introductory provisions. Subsec. (b)(1). Pub. L. 115–334, § 5411(5)(C)(ii), (D)(ii), redesignated subsec. (a)(2)(A) and cls. (i) and (ii) thereof as subsec. (b)(1) and subpars. (A) and (B) thereof, respectively, inserted par. heading, and realigned margins. Subsec. (b)(2). Pub. L. 115–334, § 5411(5)(D)(i), (E), redesignated subsec. (a)(2)(B) as subsec. (b)(2), inserted heading, and substituted “this subsection” for “this paragraph”. 1992—Subsec. (a). Pub. L. 102–552 designated existing provisions as par. (1) and added par. (2). 1988—Subsec. (a). Pub. L. 100–399 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of a district bank for cooperatives, the board of directors shall be the farm credit district board and in the case of the Central Bank for Cooperatives shall be a separate board of not more than thirteen members, one from each farm credit district and one at large. One district director of the Central Bank Board shall be elected by each district farm credit board and the member at large shall be appointed by the Farm Credit Administration.” Subsec. (b). Pub. L. 100–399 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section the provisions of sections 2222(b) and (c), 2225, 2226, and 2227 of this title shall apply to and shall be the authority of the Central Bank for Cooperatives the same as though it were a district bank.” 1985—Subsec. (a). Pub. L. 99–205 substituted “Farm Credit Administration” for “Governor with the advice and consent of the Federal Farm Credit Board”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+
+Effective Date of 1985 AmendmentAmendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2507d"
+description: "Establishment of Sexual Assault Advisory Council"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "34"
+chapter_name: "THE PEACE CORPS"
+section: "2507d"
+citation: "22 U.S.C. § 2507d"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2507d"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "1c6efc507e81270db177f8e43d5e4f7069bca2c2b01bbd341edce4ae0fb7591f"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "d0fa2c7a387f0b57ff13bd9c6f4d5726a4f8e1f05cd813b892348914f484e938"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2507d - Establishment of Sexual Assault Advisory Council
+
+## Text
+
+(a) Establishment There is established a Sexual Assault Advisory Council (in this section referred to as the “Council”).
+
+(b) Membership The Council shall be composed of not fewer than 8 and not more than 14 individuals selected by the President who are returned volunteers (including volunteers who were victims of sexual assault and volunteers who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field. At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization. No Peace Corps employee shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
+
+(c) Functions; meetings The Council shall meet not less often than annually to review the sexual assault risk-reduction and response training developed under section 2507a of this title, the sexual assault policy developed and implemented under section 2507b of this title, and such other matters related to sexual assault the Council views as appropriate, to ensure that such training and policy conform to the extent practicable to best practices in the sexual assault field. To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under section 2507e of this title, to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.
+
+(d) Reports On an annual basis for 5 years after November 21, 2011, and at the discretion of the Council thereafter, the Council shall submit to the President and the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on its findings based on the reviews conducted pursuant to subsection (c).
+
+(e) Employee status Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5.
+
+(f) Nonapplicability of chapter 10 of title 5 Chapter 10 of title 5 shall not apply to the Council.
+
+(g) Sunset This section shall cease to be effective on October 1, 2023.
+
+(Pub. L. 87–293, title I, § 8D, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 740; amended Pub. L. 115–256, title III, § 305, Oct. 9, 2018, 132 Stat. 3658; Pub. L. 117–286, § 4(a)(168), Dec. 27, 2022, 136 Stat. 4324.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text. 2018—Subsec. (b). Pub. L. 115–256, § 305(1), substituted “not fewer than 8 and not more than 14 individuals selected by the President” for “not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011,” and inserted “At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization.” after “sexual assault field.” Subsec. (c). Pub. L. 115–256, § 305(2), inserted “and implemented” after “sexual assault policy developed” and inserted at end “To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under section 2705e of this title, to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.” Subsec. (g). Pub. L. 115–256, § 305(3), substituted “2023” for “2018”.

@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 4264"
+description: "Asian elephant conservation assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "62A"
+chapter_name: "ASIAN ELEPHANT CONSERVATION"
+section: "4264"
+citation: "16 U.S.C. § 4264"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s4264"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "bd57e6fa158d1ae4d44d82b59c6cb33189348709cfa16d2516a838f4414fbd42"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "9748c559043fa9fa32b7e46f0475001ae4f167d24458dacdd231c439a48b936d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 4264 - Asian elephant conservation assistance
+
+## Text
+
+(a) In general The Secretary, subject to the availability of funds and in consultation with the Administrator, shall use amounts in the Fund to provide financial assistance for projects for the conservation of Asian elephants for which final project proposals are approved by the Secretary in accordance with this section.
+
+(b) Project proposal Any relevant wildlife management authority of a nation within the range of Asian elephants whose activities directly or indirectly affect Asian elephant populations, the CITES Secretariat, or any person with demonstrated expertise in the conservation of Asian elephants, may submit to the Secretary a project proposal under this section. Each proposal shall include the following:
+
+(1) The name of the individual responsible for conducting the project.
+
+(2) A succinct statement of the purposes of the project.
+
+(3) A description of the qualifications of the individuals who will conduct the project.
+
+(4) An estimate of the funds and time required to complete the project.
+
+(5) Evidence of support of the project by appropriate governmental entities of countries in which the project will be conducted, if the Secretary determines that the support is required for the success of the project.
+
+(6) Information regarding the source and amount of matching funding available to the applicant.
+
+(7) Any other information the Secretary considers to be necessary for evaluating the eligibility of the project for funding under this chapter.
+
+(c) Project review and approval (1) In general Within 30 days after receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d).
+
+(2) Consultation; approval or disapproval Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall—
+
+(A) request written comments on the proposal from each country within which the project is to be conducted;
+
+(B) after requesting those comments, approve or disapprove the proposal; and
+
+(C) provide written notification of that approval or disapproval to the person who submitted the proposal and the Administrator.
+
+(d) Criteria for approval The Secretary may approve a final project proposal under this section if the project will enhance programs for conservation of Asian elephants by assisting efforts to—
+
+(1) implement conservation programs;
+
+(2) address the conflicts between humans and elephants that arise from competition for the same habitat;
+
+(3) enhance compliance with provisions of CITES and laws of the United States or a foreign country that prohibit or regulate the taking or trade of Asian elephants or regulate the use and management of Asian elephant habitat;
+
+(4) develop sound scientific information on the condition of Asian elephant habitat, Asian elephant population numbers and trends, or the threats to such habitat, numbers, or trends; or
+
+(5) promote cooperative projects on those topics with other foreign governments, affected local communities, nongovernmental organizations, or others in the private sector.
+
+(e) Project sustainability To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects which will enhance sustainable integrated conservation development programs to ensure effective, long-term conservation of Asian elephants.
+
+(f) Project reporting Each person who receives assistance under this section for a project shall provide periodic reports, as the Secretary considers necessary, to the Secretary and the Administrator. Each report shall include all information required by the Secretary, after consulting with the Administrator, for evaluating the progress and success of the project.
+
+(g) Matching funds In determining whether to approve project proposals under this section, the Secretary shall give priority to those projects for which there exists some measure of matching funds.
+
+(h) Limitation on use for captive breeding Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
+
+(i) Multiyear grants (1) Authorization The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for Asian elephants and the habitat of Asian elephants.
+
+(2) Effect Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+(Pub. L. 105–96, § 5, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 110–133, § 2(a), Dec. 6, 2007, 121 Stat. 1362; Pub. L. 118–159, div. E, title LIII, § 5304(a), Dec. 23, 2024, 138 Stat. 2445.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (i). Pub. L. 118–159 added subsec. (i). 2007—Subsec. (c)(2)(C). Pub. L. 110–133 substituted “and the Administrator” for “, the Administrator, and each of those countries”.

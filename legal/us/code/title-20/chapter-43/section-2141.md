@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 2141"
+description: "Findings; purpose"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "43"
+chapter_name: "AMERICAN FOLKLIFE PRESERVATION"
+section: "2141"
+citation: "20 U.S.C. § 2141"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s2141"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "8593d8e994bdd755eb4807db3d55f1886c0839c963bc1f435a0ed59a2fd06b4d"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "561605cc3994c75579919ba6036d4d2755ec3eaac16dad7f7c10d2e0ba8af679"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 2141 - Findings; purpose
+
+## Text
+
+(a) Findings Congress finds as follows:
+
+(1) Military service during a time of war is the highest sacrifice a citizen may make for his or her country.
+
+(2) 4,700,000 Americans served in World War I, 16,500,000 Americans served in World War II, 6,800,000 Americans served in the Korean Conflict, 9,200,000 Americans served in the Vietnam Conflict, 3,800,000 Americans served in the Persian Gulf War, and countless other Americans served in military engagements overseas throughout the 20th century.
+
+(3) The Department of Veterans Affairs reports that there are almost 19,000,000 war veterans living in this Nation today.
+
+(4) Today there are only approximately 3,400 living veterans of World War I, and of the some 6,000,000 veterans of World War II alive today, almost 1,500 die each day.
+
+(5) Oral histories are of immeasurable value to historians, researchers, authors, journalists, film makers, scholars, students, and citizens of all walks of life.
+
+(6) War veterans possess an invaluable resource in their memories of the conflicts in which they served, and can provide a rich history of our Nation and its people through the retelling of those memories, yet frequently those who served during times of conflict are reticent to family and friends about their experiences.
+
+(7) It is in the Nation’s best interest to collect and catalog oral histories of American war veterans so that future generations will have original sources of information regarding the lives and times of those who served in war and the conditions under which they endured, so that Americans will always remember those who served in war and may learn first-hand of the heroics, tediousness, horrors, and triumphs of war.
+
+(8) The Library of Congress, as the Nation’s oldest Federal cultural institution and largest and most inclusive library in human history (with nearly 119,000,000 items in its multimedia collection) 11 So in original. Probably should be followed by a comma. is an appropriate repository to collect, preserve, and make available to the public an archive of these oral histories. The Library’s American Folklife Center has expertise in the management of documentation projects and experience in the development of cultural and educational programs for the public.
+
+(b) Purpose It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded program that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of American war veterans, and to assist and encourage local efforts to preserve the memories of this Nation’s war veterans so that Americans of all current and future generations may hear directly from veterans and better appreciate the realities of war and the sacrifices made by those who served in uniform during wartime.
+
+(Pub. L. 106–380, § 2, Oct. 27, 2000, 114 Stat. 1447.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Short TitleFor short title of this subchapter as the “Veterans’ Oral History Project Act”, see section 1 of Pub. L. 106–380, set out as a note under section 2101 of this title.

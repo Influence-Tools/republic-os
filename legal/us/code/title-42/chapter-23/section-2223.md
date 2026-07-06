@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2223"
+description: "Patent application disclosures"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2223"
+citation: "42 U.S.C. § 2223"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2223"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "10d6ae794e1cc209564d8186e2391745465d54aa79fcd879523cc39ca2adcc5f"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "f42c1983195b4befbbd35495d4ec20c66da73ca40932c4cada81cb836aaeb2d4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2223 - Patent application disclosures
+
+## Text
+
+In the event that the Commission communicates to any nation any Restricted Data based on any patent application not belonging to the United States, just compensation shall be paid by the United States to the owner of the patent application. The Commission shall determine such compensation. If the compensation so determined is unsatisfactory to the person entitled thereto, such person shall be paid 75 per centum of the amount so determined, and shall be entitled to sue the United States in the United States Court of Federal Claims or in any district court of the United States for the district in which such claimant is a resident in a manner provided by section 1346 of title 28 to recover such further sum as added to such 75 per centum will constitute just compensation.
+
+(Aug. 1, 1946, ch. 724, title I, § 173, as added Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 953; amended Pub. L. 97–164, title I, § 160(a)(16), Apr. 2, 1982, 96 Stat. 48; renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”. 1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+Effective Date of 1982 AmendmentAmendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.

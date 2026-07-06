@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 4001a"
+description: "Consultation required"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "53"
+chapter_name: "HARMFUL ALGAL BLOOM AND HYPOXIA RESEARCH AND CONTROL"
+section: "4001a"
+citation: "33 U.S.C. § 4001a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s4001a"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "a85b8fa87f4b7971fbde8eabb73d20dc201639508aa8c43577fe84d6609dd1f2"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "6d64181028ab0fcc73abcc1e070ff6492d740addcf20c7c5b701b909d77a9b15"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 4001a - Consultation required
+
+## Text
+
+In developing the assessments, reports, and plans under the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998, the Task Force shall consult with the coastal States, Indian tribes, local governments, appropriate industries (including fisheries, agriculture, and fertilizer), academic institutions, and nongovernmental organizations with expertise in coastal zone science and management.
+
+(Pub. L. 108–456, title I, § 102 (part), Dec. 10, 2004, 118 Stat. 3630; Pub. L. 115–423, § 9(f), Jan. 7, 2019, 132 Stat. 5463.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Harmful Algal Bloom and Hypoxia Research and Control Act of 1998, referred to in text, is title VI of Pub. L. 105–383, Nov. 13, 1998, 112 Stat. 3447, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note under section 4001 of this title and Tables.
+
+Codification Section is comprised of part of section 102 of Pub. L. 108–456. Remainder of section 102 amended section 4001 of this title. Section was enacted as part of the Harmful Algal Bloom and Hypoxia Amendments Act of 2004, and not as part of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 which comprises this chapter. Section was formerly set out as a note under section 1451 of Title 16, Conservation.
+
+Amendments2019—Pub. L. 115–423 substituted “the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998” for “the amendments made by this title”.

@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2278a"
+description: "Trespass on Commission installations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2278a"
+citation: "42 U.S.C. § 2278a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2278a"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "3209a47c5f4e75d0c3e7eeef4cedbf03e0f2b4133bea132a12740804bb5aa71a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "5daf137eea55e211658d8509a3e9bd2deefc13910161c4b59f0c89f5fd4ceb6b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2278a - Trespass on Commission installations
+
+## Text
+
+(a) Issuance and posting of regulations (1) The Commission is authorized to issue regulations relating to the entry upon or carrying, transporting, or otherwise introducing or causing to be introduced any dangerous weapon, explosive, or other dangerous instrument or material likely to produce substantial injury or damage to persons or property, into or upon any facility, installation, or real property subject to the jurisdiction, administration, in the custody of the Commission, or subject to the licensing authority of the Commission or certification by the Commission under this chapter or any other Act.
+
+(2) Every such regulation of the Commission shall be posted conspicuously at the location involved.
+
+(b) Penalty for violation of regulations Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection (a) shall, upon conviction thereof, be punishable by a fine of not more than $1,000.
+
+(c) Penalty for violation of regulations regarding enclosed property Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection (a) with respect to any installation or other property which is enclosed by a fence, wall, floor, roof, or other structural barrier shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not to exceed $5,000 or to imprisonment for not more than one year, or both.
+
+(Aug. 1, 1946, ch. 724, title I, § 229, as added Aug. 6, 1956, ch. 1015, § 6, 70 Stat. 1070; renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 109–58, title VI, § 654, Aug. 8, 2005, 119 Stat. 812.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+Amendments2005—Pub. L. 109–58, § 654(1), (2), substituted “on” for “upon” in section catchline and realigned margins. Subsec. (a). Pub. L. 109–58, § 654(3), designated first sentence as par. (1), substituted “in the custody of the Commission, or subject to the licensing authority of the Commission or certification by the Commission under this chapter or any other Act” for “or in the custody of the Commission”, and designated second sentence as par. (2).

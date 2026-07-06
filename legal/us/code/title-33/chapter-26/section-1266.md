@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 1266"
+description: "Hudson River reclamation demonstration proj­ect"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "26"
+chapter_name: "WATER POLLUTION PREVENTION AND CONTROL"
+section: "1266"
+citation: "33 U.S.C. § 1266"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s1266"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "70c26d5fd5c500687b0a8432205351836969be90fcef5ccc7968cbd9e8c65fec"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "0d9a99b5e3ee84936f377a7711acb301d77cee1f3006b7041ceafa2690906e4b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 1266 - Hudson River reclamation demonstration proj­ect
+
+## Text
+
+(a) The Administrator is authorized to enter into contracts and other agreements with the State of New York to carry out a project to demonstrate methods for the selective removal of polychlorinated biphenyls contaminating bottom sediments of the Hudson River, treating such sediments as required, burying such sediments in secure landfills, and installing monitoring systems for such landfills. Such demonstration project shall be for the purpose of determining the feasibility of indefinite storage in secure landfills of toxic substances and of ascertaining the improvement of the rate of recovery of a toxic contaminated national waterway. No pollutants removed pursuant to this paragraph shall be placed in any landfill unless the Administrator first determines that disposal of the pollutants in such landfill would provide a higher standard of protection of the public health, safety, and welfare than disposal of such pollutants by any other method including, but not limited to, incineration or a chemical destruction process.
+
+(b) The Administrator is authorized to make grants to the State of New York to carry out this section from funds allotted to such State under section 1285(a) of this title, except that the amount of any such grant shall be equal to 75 per centum of the cost of the project and such grant shall be made on condition that non-Federal sources provide the remainder of the cost of such project. The authority of this section shall be available until September 30, 1983. Funds allotted to the State of New York under section 1285(a) of this title shall be available under this subsection only to the extent that funds are not available, as determined by the Administrator, to the State of New York for the work authorized by this section under section 1265 or 1321 of this title or a comprehensive hazardous substance response and clean up fund. Any funds used under the authority of this subsection shall be deducted from any estimate of the needs of the State of New York prepared under section 1375(b) of this title. The Administrator may not obligate or expend more than $20,000,000 to carry out this section.
+
+(June 30, 1948, ch. 758, title I, § 116, as added Pub. L. 96–483, § 10, Oct. 21, 1980, 94 Stat. 2363; amended Pub. L. 105–362, title V, § 501(d)(2)(B), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, § 302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2002—Subsec. (b). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(d)(2)(B). See 1998 Amendment note below. 1998—Subsec. (b). Pub. L. 105–362, § 501(d)(2)(B), which directed the substitution of “section 1375 of this title” for “section 1375(b) of this title” in penultimate sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.

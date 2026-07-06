@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 460u–18"
+description: "Study of areas III–A, III–C, and II–A; report to Congressional committees"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "460u–18"
+citation: "16 U.S.C. § 460u–18"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s460u–18"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "9f46764d7d6b68d9ee665f4b6ce88cae14e3c9a06fd1d03284e4bdc8862b2708"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "598f4cf83bf884096edaaf54be97654492ba375bc090101ef1b75e9afaf71d2e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 460u–18 - Study of areas III–A, III–C, and II–A; report to Congressional committees
+
+## Text
+
+(a) By July 1, 1977, the Secretary shall prepare and transmit to the Committees on Interior and Insular Affairs of the United States Congress a study of areas III–A, III–C, and II–A, as designated on map numbered 626–91007. The Secretary shall make reasonable provision for the timely participation of the State of Indiana, local public officials, affected property owners, and the general public in the formulation of said study, including, but not limited to, the opportunity to testify at a public hearing. The record of such hearing shall accompany said study. With respect to areas III–A and III–C, the study shall (a) address the desirability of acquisition of any or all of the area from the standpoint of resource management, protection, and public access; (b) develop alternatives for the control of beach erosion if desirable, including recommendations, if control is necessary, of assessing the costs of such control against those agencies responsible for such erosion; (c) consider and propose options to guarantee public access to and use of the beach area, including the location of necessary facilities for transportation, health, and safety; (d) detail the recreational potential of the area and all available alternatives for achieving such potential; (e) review the environmental impact upon the Park resulting from the potential development and improvement of said areas; and (f) assess the cost to the United States from both the acquisition of said areas together with the potential savings from the retention of rights of use and occupancy and from the retention of the boundaries of the Park, as designated on map numbered 626–91007, including the costs of additional administrative responsibilities necessary for the management of the Park, including the maintenance of public services in the town of Beverly Shores, Indiana. With respect to area II–A, the Secretary shall study and report concerning the following objectives: (a) preservation of the remaining dunes, wetlands, native vegetation, and animal life within the area; (b) preservation and restoration of the watersheds of Cowles Bog and its associated wetlands; (c) appropriate public access to and use of lands within the area; (d) protection of the area and the adjacent Park from degradation caused by all forms of construction, pollution, or other adverse impacts including, but not limited to, the discharge of wastes and any excessive subsurface migration of water; and (e) the economic consequences to the utility and its customers of acquisition of such area.
+
+(b) (1) The Secretary shall enter into a memorandum of agreement with the Northern Indiana Public Service Company (referred to as “NIPSCO”) that shall provide for the following with respect to the area referred to as Unit II–A on the map described in section 460u of this title (referred to as the “Greenbelt”):
+
+(A) NIPSCO shall provide the National Park Service with access for resource management and interpretation through the Greenbelt and across the dike for purposes of a public hiking trail.
+
+(B) The National Park Service shall have rights of access for resource management and interpretation of the Greenbelt area.
+
+(C) NIPSCO shall preserve the Greenbelt in its natural state. If NIPSCO utilizes the Greenbelt temporarily for a project involving pollution mitigation or construction on its adjacent facilities, it shall restore the project area to its natural state.
+
+(D) If NIPSCO proposes a different use for the Greenbelt, NIPSCO shall notify the National Park Service, the Committee on Energy and Natural Resources of the Senate and the Committee on Interior and Insular Affairs of the House of Representatives and make no change in the use of the property until three years after the date notice is given.
+
+(2) If a memorandum of agreement is entered into pursuant to paragraph (1), so long as the memorandum of agreement is in effect and is being performed, the Secretary may not acquire lands or interests in land in the Greenbelt belonging to NIPSCO.
+
+(Pub. L. 89–761, § 18, formerly § 19, as added and renumbered Pub. L. 94–549, § 1(8), (9), Oct. 18, 1976, 90 Stat. 2532, 2533; amended Pub. L. 102–430, § 5, Oct. 23, 1992, 106 Stat. 2209; Pub. L. 116–6, div. E, title I, § 115(a)(1)(B), Feb. 15, 2019, 133 Stat. 232.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2019—Subsec. (a). Pub. L. 116–6 substituted “Park” for “lakeshore” wherever appearing. 1992—Pub. L. 102–430 designated existing provisions as subsec. (a) and added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (a), abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

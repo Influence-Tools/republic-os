@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 410ww–21"
+description: "Dayton Aviation Heritage Commission"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "410ww–21"
+citation: "16 U.S.C. § 410ww–21"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s410ww–21"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "5aafb9a2aa36c2947e5a5674dea0e023414e041dbaee5062587b7f168345de79"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "70c85a548251777f970bef5bfab73606e8e8f511368eb1453b5e2403c60c7310"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 410ww–21 - Dayton Aviation Heritage Commission
+
+## Text
+
+(a) Establishment There is established the Dayton Aviation Heritage Commission to assist Federal, State, and local authorities and the private sector in preserving and managing the historic resources in the Miami Valley, Ohio, associated with the Wright brothers, aviation, or Paul Laurence Dunbar.
+
+(b) Membership The Commission shall consist of 13 members as follows:
+
+(1) 3 members appointed by the Secretary, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the National Park Service.
+
+(2) 3 members appointed by the Secretary after consideration of recommendations submitted by the Governor of the State of Ohio, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the Ohio Historical Society.
+
+(3) 1 member appointed by the Secretary of Defense, who shall represent Wright-Patterson Air Force Base.
+
+(4) 3 members appointed by the Secretary after consideration of recommendations submitted by the City Commission of Dayton, Ohio, at least one of whom shall reside near the core parcel of the park (as described in section 410ww(b)(1) of this title).
+
+(5) 1 member appointed by the Secretary after consideration of recommendations submitted by the Board of Commissioners of Montgomery County, Ohio.
+
+(6) 1 member appointed by the Secretary after consideration of recommendations submitted by the Board of Commissioners of Greene County, Ohio.
+
+(7) 1 member appointed by the Secretary after consideration of recommendations submitted by the City Council of Fairborn, Ohio.
+
+(c) Terms (1) Members shall be appointed for terms of 3 years. A member may be reappointed only 3 times unless such member was originally appointed to fill a vacancy pursuant to subsection (e)(1), in which case such member may be reappointed 4 times. A member may serve after the expiration of his term until a successor is appointed.
+
+(2) The Secretary shall appoint the first members of the Commission within 30 days after the date on which the Secretary has received all of the recommendations for appointment pursuant to subsections 11 So in original. Probably should be “subsection”. (b)(2), (4), (5), (6), and (7).
+
+(d) Chair and vice chair The chair and vice chair of the Commission shall be elected by the members of the Commission. The terms of the chair and vice chair shall be 2 years. The vice chair shall serve as chair in the absence of the chair.
+
+(e) Vacancy (1) Any vacancy in the Commission shall be filled in the same manner in which the original appointment was made, except that the Secretary responsible for such appointment shall fill any such vacancy within 30 days after receiving a recommendation for the position.
+
+(2) A member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed. A member may serve after the expiration of his term until his successor has taken office.
+
+(f) Quorum A majority of the members of the Commission then serving shall constitute a quorum, but a lesser number may hold hearings.
+
+(g) Meetings The Commission shall meet not less than 3 times a year at the call of the chair or a majority of its members.
+
+(h) Pay (1) Except as provided in paragraph (2), members of the Commission shall serve without pay.
+
+(2) Members of the Commission who are full-time officers or employees of the United States shall receive no additional pay by reason of their service on the Commission.
+
+(3) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+
+(i) Chapter 10 of title 5 Section 1013(b) of title 5 shall not apply to the Commission.
+
+(j) Termination The Commission shall cease to exist on January 1, 2004.
+
+(Pub. L. 102–419, title II, § 201, Oct. 16, 1992, 106 Stat. 2144; Pub. L. 104–333, div. I, title VIII, § 811, Nov. 12, 1996, 110 Stat. 4189; Pub. L. 117–286, § 4(a)(83), Dec. 27, 2022, 136 Stat. 4315.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Subsec. (i). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Section 1013(b) of title 5” for “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” in text. 1996—Subsec. (b)(2), (4) to (7). Pub. L. 104–333 substituted “after consideration of recommendations” for “from recommendations” wherever appearing.

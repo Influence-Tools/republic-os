@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 46505"
+description: "Carrying a weapon or explosive on an aircraft"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "465"
+chapter_name: "SPECIAL AIRCRAFT JURISDICTION OF THE UNITED STATES"
+section: "46505"
+citation: "49 U.S.C. § 46505"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s46505"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "70d13984ec5c28ec5fa670e6409011d6e8868d2d5ff68f49f5dae5b1b50778e4"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "1eb0ef87caddf4ce5070790284d7c3d41ec13a4323ed9e980938eeb3f77103b5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 46505 - Carrying a weapon or explosive on an aircraft
+
+## Text
+
+(a) Definition.— In this section, “loaded firearm” means a starter gun or a weapon designed or converted to expel a projectile through an explosive, that has a cartridge, a detonator, or powder in the chamber, magazine, cylinder, or clip.
+
+(b) General Criminal Penalty.— An individual shall be fined under title 18, imprisoned for not more than 10 years, or both, if the individual—
+
+(1) when on, or attempting to get on, an aircraft in, or intended for operation in, air transportation or intrastate air transportation, has on or about the individual or the property of the individual a concealed dangerous weapon that is or would be accessible to the individual in flight;
+
+(2) has placed, attempted to place, or attempted to have placed a loaded firearm on that aircraft in property not accessible to passengers in flight; or
+
+(3) has on or about the individual, or has placed, attempted to place, or attempted to have placed on that aircraft, an explosive or incendiary device.
+
+(c) Criminal Penalty Involving Disregard for Human Life.— An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
+
+(d) Nonapplication.— Subsection (b)(1) of this section does not apply to—
+
+(1) a law enforcement officer of a State or political subdivision of a State, or an officer or employee of the United States Government, authorized to carry arms in an official capacity;
+
+(2) another individual the Administrator of the Federal Aviation Administration or the Administrator of the Transportation Security Administration by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
+
+(3) an individual transporting a weapon (except a loaded firearm) in baggage not accessible to a passenger in flight if the air carrier was informed of the presence of the weapon.
+
+(e) Conspiracy.— If two or more persons conspire to violate subsection (b) or (c), and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in such subsection.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1244; Pub. L. 104–132, title VII, § 705(b), Apr. 24, 1996, 110 Stat. 1295; Pub. L. 107–56, title VIII, §§ 810(g), 811(j), Oct. 26, 2001, 115 Stat. 381, 382; Pub. L. 107–71, title I, § 140(d)(8), Nov. 19, 2001, 115 Stat. 642; Pub. L. 115–254, div. K, title I, § 1991(h)(1), Oct. 5, 2018, 132 Stat. 3645.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 46505(a)49 App.:1472(l)(4).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(l)(4); added Feb. 18, 1980, Pub. L. 96–193, § 502(c), 94 Stat. 59. 46505(b)49 App.:1472(l)(1).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(l)(1); added Sept. 5, 1961, Pub. L. 87–197, § 1, 75 Stat. 466; Aug. 5, 1974, Pub. L. 93–366, § 203, 88 Stat. 417; restated Feb. 18, 1980, Pub. L. 96–193, § 502(a), 94 Stat. 59; Oct. 12, 1984, Pub. L. 98–473, § 2014(c)(1), 98 Stat. 2189. 46505(c)49 App.:1472(l)(2).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(l)(2); added Sept. 5, 1961, Pub. L. 87–197, § 1, 75 Stat. 466; restated Aug. 5, 1974, Pub. L. 93–366, § 203, 88 Stat. 418; Oct. 12, 1984, Pub. L 98–473, § 2014(c)(2), 98 Stat. 2189. 46505(d)49 App.:1472(l)(3).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(l)(3); added Sept. 5, 1961, Pub. L. 87–197, § 1, 75 Stat. 466; restated Aug. 5, 1974, Pub. L. 93–366, § 203, 88 Stat. 418; Feb. 18, 1980, Pub. L. 96–193, § 502(b), 94 Stat. 59. In subsection (a), the definition of “firearm” is merged with the definition of “loaded firearm” because the term “firearm” is only used in the defined term “loaded firearm”. In subsections (b) and (c), the words “fined under title 18” are substituted for “fined not more than $10,000” and “fined not more than $25,000” for consistency with title 18. In subsections (b)(1) and (d)(2), the words “deadly or” are omitted as surplus. In subsection (b)(2), the words “baggage or other” are omitted as surplus. In subsection (b)(3), the words “bomb or similar” are omitted as surplus. In subsection (d)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus. In subsection (d)(3), the word “contained” is omitted as surplus.
+
+Editorial Notes
+
+Amendments2018—Subsec. (d)(2). Pub. L. 115–254 substituted “Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for Security”. 2001—Subsec. (c). Pub. L. 107–56, § 810(g), substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.” Subsec. (d)(2). Pub. L. 107–71, § 140(d)(8), inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”. Subsec. (e). Pub. L. 107–56, § 811(j), added subsec. (e). 1996—Subsec. (b). Pub. L. 104–132, § 705(b)(1), substituted “10 years” for “one year”. Subsec. (c). Pub. L. 104–132, § 705(b)(2), substituted “15 years” for “5 years”.

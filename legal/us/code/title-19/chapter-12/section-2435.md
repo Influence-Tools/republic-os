@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2435"
+description: "Commercial agreements"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2435"
+citation: "19 U.S.C. § 2435"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2435"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "e459066dd77f814871fda8cf8f3b6ad372b289464d570259a2f00c050fa4bd58"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "94822aa3af51cc8fdb1d86a8ec9fcb3fb74852baf33dc318cb5d5721b645e200"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2435 - Commercial agreements
+
+## Text
+
+(a) Presidential authority Subject to the provisions of subsections (b) and (c) of this section, the President may authorize the entry into force of bilateral commercial agreements providing nondiscriminatory treatment to the products of countries heretofore denied such treatment whenever he determines that such agreements with such countries will promote the purposes of this chapter and are in the national interest.
+
+(b) Terms of agreements Any such bilateral commercial agreement shall—
+
+(1) be limited to an initial period specified in the agreement which shall be no more than 3 years from the date the agreement enters into force; except that it may be renewable for additional periods, each not to exceed 3 years; if—
+
+(A) a satisfactory balance of concessions in trade and services has been maintained during the life of such agreement, and
+
+(B) the President determines that actual or foreseeable reductions in United States tariffs and nontariff barriers to trade resulting from multilateral negotiations are satisfactorily reciprocated by the other party to the bilateral agreement;
+
+(2) provide that it is subject to suspension or termination at any time for national security reasons, or that the other provisions of such agreement shall not limit the rights of any party to take any action for the protection of its security interests;
+
+(3) include safeguard arrangements (A) providing for prompt consultations whenever either actual or prospective imports cause or threaten to cause, or significantly contribute to, market disruption and (B) authorizing the imposition of such import restrictions as may be appropriate to prevent such market disruption;
+
+(4) if the other party to the bilateral agreement is not a party to the Paris Convention for the Protection of Industrial Property, provide rights for United States nationals with respect to patents and trademarks in such country not less than the rights specified in such convention;
+
+(5) if the other party to the bilateral agreement is not a party to the Universal Copyright Convention, provide rights for United States nationals with respect to copyrights in such country not less than the rights specified in such convention;
+
+(6) in the case of an agreement entered into or renewed after January 3, 1975, provide arrangements for the protection of industrial rights and processes;
+
+(7) provide arrangements for the settlement of commercial differences and disputes;
+
+(8) in the case of an agreement entered into or renewed after January 3, 1975, provide arrangements for the promotion of trade, which may include arrangements for the establishment or expansion of trade and tourist promotion offices, for facilitation of activities of governmental commercial officers, participation in trade fairs and exhibits, and the sending of trade missions, and for facilitation of entry, establishment, and travel of commercial representatives;
+
+(9) provide for consultations for the purpose of reviewing the operation of the agreement and relevant aspects of relations between the United States and the other party; and
+
+(10) provide such other arrangements of a commercial nature as will promote the purposes of this chapter.
+
+(c) Congressional action An agreement referred to in subsection (a), and a proclamation referred to in section 2434(a) of this title implementing such agreement, shall take effect only if a joint resolution described in section 2191(b)(3) of this title that approves of the agreement referred to in subsection (a) is enacted into law.
+
+(Pub. L. 93–618, title IV, § 405, Jan. 3, 1975, 88 Stat. 2061; Pub. L. 96–39, title XI, § 1106(f)(3), July 26, 1979, 93 Stat. 312; Pub. L. 101–382, title I, § 132(b)(1), Aug. 20, 1990, 104 Stat. 645.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a) and (b)(10), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+
+Amendments1990—Subsec. (c). Pub. L. 101–382 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An agreement referred to in subsection (a) of this section, and a proclamation referred to in section 2434(a) of this title implementing such agreement, shall take effect only if (1) approved by the Congress by the adoption of a concurrent resolution referred to in section 2191 of this title, or (2) in the case of an agreement entered into before January 3, 1975, and a proclamation implementing such agreement, a resolution of disapproval referred to in section 2192 of this title is not adopted during the 90-day period specified by section 2437(c)(2) of this title.” 1979—Subsec. (b)(8). Pub. L. 96–39 substituted “may include arrangements” for “may include those”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1979 AmendmentAmendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.

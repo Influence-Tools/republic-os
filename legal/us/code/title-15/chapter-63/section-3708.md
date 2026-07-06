@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 3708"
+description: "Administrative arrangements"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "63"
+chapter_name: "TECHNOLOGY INNOVATION"
+section: "3708"
+citation: "15 U.S.C. § 3708"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s3708"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "26e9c77749ce57a399c3726efd4bd1b56127b1e8db2479ae92fd250532700d44"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "89acb521cac7e2122621f1ad0ccf695e067eb9a423e5f6966a84da7be59a709c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 3708 - Administrative arrangements
+
+## Text
+
+(a) Coordination The Secretary and the National Science Foundation shall, on a continuing basis, obtain the advice and cooperation of departments and agencies whose missions contribute to or are affected by the programs established under this chapter, including the development of an agenda for research and policy experimentation. These departments and agencies shall include but not be limited to the Departments of Defense, Energy, Education, Health and Human Services, Housing and Urban Development, the Environmental Protection Agency, National Aeronautics and Space Administration, Small Business Administration, Council of Economic Advisers, Council on Environmental Quality, and Office of Science and Technology Policy.
+
+(b) Cooperation It is the sense of the Congress that departments and agencies, including the Federal laboratories, whose missions are affected by, or could contribute to, the programs established under this chapter, should, within the limits of budgetary authorizations and appropriations, support or participate in activities or projects authorized by this chapter.
+
+(c) Administrative authorization (1) Departments and agencies described in subsection (b) are authorized to participate in, contribute to, and serve as resources for the Centers and for any other activities authorized under this chapter.
+
+(2) The Secretary and the National Science Foundation are authorized to receive moneys and to receive other forms of assistance from other departments or agencies to support activities of the Centers and any other activities authorized under this chapter.
+
+(d) Cooperative efforts The Secretary and the National Science Foundation shall, on a continuing basis, provide each other the opportunity to comment on any proposed program of activity under section 3705, 3707, 3710, 3710d, 3711a, or 3712 of this title before funds are committed to such program in order to mount complementary efforts and avoid duplication.
+
+(Pub. L. 96–480, § 10, formerly § 9, Oct. 21, 1980, 94 Stat. 2316; Pub. L. 99–502, § 9(e)(2)(C), Oct. 20, 1986, 100 Stat. 1797; Pub. L. 100–107, § 3(b), Aug. 20, 1987, 101 Stat. 727; renumbered § 10 and amended Pub. L. 100–418, title V, § 5122(a)(1), (c), Aug. 23, 1988, 102 Stat. 1438, 1439; Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 10 of Pub. L. 96–480 was renumbered section 11 and is classified to section 3710 of this title. Another prior section 10 of Pub. L. 96–480 related to National Industrial Technology Board and was classified to section 3709 of this title, prior to repeal by section 9(a) of Pub. L. 99–502.
+
+Amendments1991—Subsec. (d). Pub. L. 102–240 made technical amendment to reference to section 3712 of this title to reflect renumbering of corresponding section of original act. 1988—Subsec. (d). Pub. L. 100–418, § 5122(c), made technical amendment to references to sections 3705, 3707, 3710, 3710d, 3711a, and 3712 of this title to reflect renumbering of corresponding sections of original act. 1987—Subsec. (d). Pub. L. 100–107 inserted reference to section 3711a of this title. 1986—Subsec. (d). Pub. L. 99–502 inserted references to sections 3710 and 3710d of this title.

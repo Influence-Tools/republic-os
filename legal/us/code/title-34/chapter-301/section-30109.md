@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 30109"
+description: "National strategy, classification, and reporting on cybercrime"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "301"
+chapter_name: "COMPUTER CRIMES AND INTELLECTUAL PROPERTY CRIMES"
+section: "30109"
+citation: "34 U.S.C. § 30109"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s30109"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "c465d9824c8593f4200617304696723ee583f3b723fa34a41fc18fd41df5f11c"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "5064c275de2580be256f9bf0a3607e407362c714591d9de75f266facbdfeb1ba"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 30109 - National strategy, classification, and reporting on cybercrime
+
+## Text
+
+(a) Definitions In this section:
+
+(1) Computer The term “computer” includes a computer network and any interactive electronic device.
+
+(2) Cybercrime against individuals The term “cybercrime against individuals” has the meaning given the term in section 30107 of this title.
+
+(b) National strategy The Attorney General shall develop a national strategy to—
+
+(1) reduce the incidence of cybercrimes against individuals;
+
+(2) coordinate investigations of cybercrimes against individuals by Federal law enforcement agencies;
+
+(3) increase the number of Federal prosecutions of cybercrimes against individuals; and
+
+(4) develop an evaluation process that measures rates of cybercrime victimization and prosecutorial rates among Tribal and culturally specific communities.
+
+(c) Classification of cybercrimes against individuals for purposes of crime reports In accordance with the authority of the Attorney General under section 534 of title 28, the Director of the Federal Bureau of Investigation shall—
+
+(1) design and create within the Uniform Crime Reports a category for offenses that constitute cybercrimes against individuals;
+
+(2) to the extent feasible, within the category established under paragraph (1), establish subcategories for each type of cybercrime against individuals that is an offense under Federal or State law;
+
+(3) classify the category established under paragraph (1) as a Part I crime in the Uniform Crime Reports; and
+
+(4) classify each type of cybercrime against individuals that is an offense under Federal or State law as a Group A offense for the purpose of the National Incident-Based Reporting System.
+
+(d) Annual summary The Attorney General shall publish an annual summary of the information reported in the Uniform Crime Reports and the National Incident-Based Reporting System relating to cybercrimes against individuals, including an evaluation of the implementation process for the national strategy developed under subsection (b) and outcome measurements on its impact on Tribal and culturally specific communities.
+
+(Pub. L. 117–103, div. W, title XIV, § 1403, Mar. 15, 2022, 136 Stat. 950.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
+
+National Strategy, Classification, and Reporting on CybercrimePub. L. 117–347, title III, § 311(a), Jan. 5, 2023, 136 Stat. 6205, provided that: “(a) National Strategy.—The Attorney General, in consultation with the Secretary of Homeland Security, shall develop a national strategy, which shall be developed to supplement, not duplicate, the National Strategy to Combat Human Trafficking and the National Strategy for Child Exploitation Prevention and Interdiction of the Department of Justice, to—“(1) reduce the incidence of cybercrimes against individuals; “(2) coordinate investigations of cybercrimes against individuals by Federal law enforcement agencies; and “(3) increase the number of Federal prosecutions of cybercrimes against individuals.” [For definition of “cybercrime against individuals” as used in section 311(a) of Pub. L. 117–347, set out above, see section 30107(a) of this title, as made applicable by section 3 of Pub. L. 117–347, which is set out as a note under section 20145 of this title.]
+
+Better Cybercrime MetricsPub. L. 117–116, May 5, 2022, 136 Stat. 1180, as amended by Pub. L. 117–347, title III, § 311(b), Jan. 5, 2023, 136 Stat. 6205, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Better Cybercrime Metrics Act’. “SEC. 2. FINDINGS.“Congress finds the following:“(1) Public polling indicates that cybercrime could be the most common crime in the United States. “(2) The United States lacks comprehensive cybercrime data and monitoring, leaving the country less prepared to combat cybercrime that threatens national and economic security. “(3) In addition to existing cybercrime vulnerabilities, the people of the United States and the United States have faced a heightened risk of cybercrime during the COVID–19 pandemic. “(4) Subsection (c) of the Uniform Federal Crime Reporting Act of 1988 (34 U.S.C. 41303(c)) requires the Attorney General to ‘acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports’ and requires all Federal departments and agencies that investigate criminal activity to ‘report details about crime within their respective jurisdiction to the Attorney General in a uniform matter and on a form prescribed by the Attorney General’. “SEC. 3. CYBERCRIME TAXONOMY.“(a) In General.—Not later than 90 days after the date of enactment of this Act [May 5, 2022], the Attorney General shall seek to enter into an agreement with the National Academy of Sciences to develop a taxonomy for the purpose of categorizing different types of cybercrime and cyber-enabled crime faced by individuals and businesses. “(b) Development.—In developing the taxonomy under subsection (a), the National Academy of Sciences shall—“(1) ensure the taxonomy is useful for the Federal Bureau of Investigation to classify cybercrime in the National Incident-Based Reporting System, or any successor system; “(2) consult relevant stakeholders, including—“(A) the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security; “(B) Federal, State, and local law enforcement agencies; “(C) criminologists and academics; “(D) cybercrime experts; and “(E) business leaders; and “(3) take into consideration relevant taxonomies developed by non-governmental organizations, international organizations, academies, or other entities. “(c) Report.—Not later than 1 year after the date on which the Attorney General enters into an agreement under subsection (a), the National Academy of Sciences shall submit to the appropriate committees of Congress, which shall include the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives, a report detailing and summarizing—“(1) the taxonomy developed under subsection (a); and “(2) any findings from the process of developing the taxonomy under subsection (a). “(d) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $1,000,000. “SEC. 4. CYBERCRIME REPORTING.“(a) In General.—Not later than 2 years after the date of enactment of this Act, the Attorney General shall establish a category in the National Incident-Based Reporting System, or any successor system, for the collection of cybercrime and cyber-enabled crime reports from Federal, State, and local officials. “(b) Recommendations.—In establishing the category required under subsection (a), the Attorney General shall, as appropriate, incorporate recommendations from the taxonomy developed under section 3(a). “SEC. 5. NATIONAL CRIME VICTIMIZATION SURVEY.“(a) In General.—Not later than 540 days after the date of enactment of this Act, the Director of the Bureau of Justice Statistics, in coordination with the Director of the Bureau of the Census, shall include questions relating to cybercrime victimization in the National Crime Victimization Survey. “(b) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $2,000,000. “SEC. 6. GAO STUDY ON CYBERCRIME METRICS.“Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that assesses—“(1) the effectiveness of reporting mechanisms for cybercrime and cyber-enabled crime in the United States; and “(2) disparities in reporting data between—“(A) data relating to cybercrime and cyber-enabled crime; and “(B) other types of crime data.”
+
+Definitions For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.

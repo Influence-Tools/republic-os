@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 824a–1"
+description: "Pooling"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "12"
+chapter_name: "FEDERAL REGULATION AND DEVELOPMENT OF POWER"
+section: "824a–1"
+citation: "16 U.S.C. § 824a–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s824a–1"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "702f244ec1eba4f1fc899e69cfe6eef5b961b7882369d2968bef6c3cce6c45c9"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "172b5426a58320f3b9043ac19b01f4484ad9c723a4435cbf983f9a61ddedbf64"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 824a–1 - Pooling
+
+## Text
+
+(a) State laws The Commission may, on its own motion, and shall, on application of any person or governmental entity, after public notice and notice to the Governor of the affected State and after affording an opportunity for public hearing, exempt electric utilities, in whole or in part, from any provision of State law, or from any State rule or regulation, which prohibits or prevents the voluntary coordination of electric utilities, including any agreement for central dispatch, if the Commission determines that such voluntary coordination is designed to obtain economical utilization of facilities and resources in any area. No such exemption may be granted if the Commission finds that such provision of State law, or rule or regulation—
+
+(1) is required by any authority of Federal law, or
+
+(2) is designed to protect public health, safety, or welfare, or the environment or conserve energy or is designed to mitigate the effects of emergencies resulting from fuel shortages.
+
+(b) Pooling study (1) The Commission, in consultation with the reliability councils established under section 202(a) of the Federal Power Act [16 U.S.C. 824a], the Secretary, and the electric utility industry shall study the opportunities for—
+
+(A) conservation of energy,
+
+(B) optimization in the efficiency of use of facilities and resources, and
+
+(C) increased reliability,
+
+through pooling arrangements. Not later than 18 months after November 9, 1978, the Commission shall submit a report containing the results of such study to the President and the Congress.
+
+(2) The Commission may recommend to electric utilities that such utilities should voluntarily enter into negotiations where the opportunities referred to in paragraph (1) exist. The Commission shall report annually to the President and the Congress regarding any such recommendations and subsequent actions taken by electric utilities, by the Commission, and by the Secretary under this Act, the Federal Power Act [16 U.S.C. 791a et seq.], and any other provision of law. Such annual reports shall be included in the Commission’s annual report required under the Department of Energy Organization Act [42 U.S.C. 7101 et seq.].
+
+(Pub. L. 95–617, title II, § 205, Nov. 9, 1978, 92 Stat. 3140.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the “Public Utility Regulatory Policies Act of 1978”. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables. The Federal Power Act, referred to in subsec. (b)(2), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 791a of this title and Tables. The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
+
+Codification Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of terms used in this section, see section 2602 of this title.

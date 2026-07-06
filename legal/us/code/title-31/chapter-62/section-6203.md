@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "31 U.S.C. § 6203"
+description: "Printing and distribution of reports and machine-readable records"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 31
+title_name: "MONEY AND FINANCE"
+chapter_number: "62"
+chapter_name: "CONSOLIDATED FEDERAL FUNDS REPORT"
+section: "6203"
+citation: "31 U.S.C. § 6203"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc31@119-100.zip"
+source_identifier: "/us/usc/t31/s6203"
+source_file: "data/legal/raw/us/code/title-31/usc31.xml"
+source_hash: "ccdf42cf26cf5d9496937badf43cd8f802db12abcfb868141c194c90272c7e9b"
+raw_snapshot_hash: "94d3fba324cbbc12277242f872f8f47cff5250dbcdc0057fe857212764e4b704"
+text_hash: "12e164e4235230dd3c6b7e0f7d23531b28b013b9d4c0b3318ca1d1162b55275a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 31 U.S.C. § 6203 - Printing and distribution of reports and machine-readable records
+
+## Text
+
+(a) (1) The Director shall—
+
+(A) prepare—
+
+(i) printed copies of each of the reports required by this chapter; and
+
+(ii) machine-readable records of such reports; and
+
+(B) make the printed copies of the reports and the machine-readable records available to the public for purchase at a price fixed under subsection (b).
+
+(2) The Director shall transmit free of charge one of each of the printed copies of the reports required by this chapter to—
+
+(A) each Federal regional depository library;
+
+(B) the Committees on Government Operations, the Budget, and Appropriations of the House of Representatives; and
+
+(C) the Committees on Governmental Affairs, the Budget, and Appropriations of the Senate.
+
+(3) The Director shall also transmit promptly after the end of each calendar year, free of charge, one machine-readable record of the report required by section 6202 to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.
+
+(4) Subject to subsection (b), the Director may, at his discretion, waive all or part of the fee required by subsection (a)(1)(B) of this section.
+
+(b) In carrying out subsection (a)(1)(B), the Director shall, based on the estimates made under paragraphs (1) and (2) of this subsection, fix the price of each printed copy and each machine-readable record of the report so that the aggregate revenues obtained in each fiscal year under subsection (a) will cover as much as is feasible of the incremental costs incurred in making these reports and machine-readable records available for purchase by the public. In computing these costs the Director shall not consider the costs of the activities set forth in sections 6102a and 6205 of this title but shall consider—
+
+(1) the cost of compiling the reports required by this chapter; preparing the printed copies and machine-readable records under subsection (a); and distributing the printed copies and the machine-readable records of the report for each fiscal year; and
+
+(2) the number of printed copies and the number of machine-readable records of the report that will be purchased.
+
+(Added Pub. L. 99–547, § 2(a), Oct. 27, 1986, 100 Stat. 3058; amended Pub. L. 104–186, title II, § 219(b)(3), Aug. 20, 1996, 110 Stat. 1748.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1996—Subsec. (a)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004. Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023. Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.

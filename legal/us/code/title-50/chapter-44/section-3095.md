@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3095"
+description: "Notice to Congress of certain transfers of defense articles and defense services"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3095"
+citation: "50 U.S.C. § 3095"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3095"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "64db3fa58a243d13bedf70c8a78c13926cca52d4f8b0c70d4261d393c1710b3e"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "e2dd2d4fe56c32294e32fd4085a8a82aa14e1f65b91e8efde1e7962ca17c3b48"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3095 - Notice to Congress of certain transfers of defense articles and defense services
+
+## Text
+
+(a) (1) The transfer of a defense article or defense service, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services, exceeding $1,000,000 in value by an intelligence agency to a recipient outside that agency shall be considered a significant anticipated intelligence activity for the purpose of this subchapter.
+
+(2) Paragraph (1) does not apply if—
+
+(A) the transfer is being made to a department, agency, or other entity of the United States (so long as there will not be a subsequent retransfer of the defense articles or defense services outside the United States Government in conjunction with an intelligence or intelligence-related activity); or
+
+(B) the transfer—
+
+(i) is being made pursuant to authorities contained in part II of the Foreign Assistance Act of 1961 [22 U.S.C. 2301 et seq.], the Arms Export Control Act [22 U.S.C. 2751 et seq.], title 10 (including a law enacted pursuant to section 8677(a) of title 10), or chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and
+
+(ii) is not being made in conjunction with an intelligence or intelligence-related activity.
+
+(3) An intelligence agency may not transfer any defense articles or defense services outside the agency in conjunction with any intelligence or intelligence-related activity for which funds were denied by the Congress.
+
+(b) As used in this section—
+
+(1) the term “intelligence agency” means any department, agency, or other entity of the United States involved in intelligence or intelligence-related activities;
+
+(2) the terms “defense articles” and “defense services” mean the items on the United States Munitions List pursuant to section 38 of the Arms Export Control Act [22 U.S.C. 2778] (22 CFR part 121);
+
+(3) the term “transfer” means—
+
+(A) in the case of defense articles, the transfer of possession of those articles; and
+
+(B) in the case of defense services, the provision of those services; and
+
+(4) the term “value” means—
+
+(A) in the case of defense articles, the greater of—
+
+(i) the original acquisition cost to the United States Government, plus the cost of improvements or other modifications made by or on behalf of the Government; or
+
+(ii) the replacement cost; and
+
+(B) in the case of defense services, the full cost to the Government of providing the services.
+
+(July 26, 1947, ch. 343, title V, § 505, formerly § 503, as added Pub. L. 99–569, title VI, § 602(a), Oct. 27, 1986, 100 Stat. 3203; renumbered § 505 and amended Pub. L. 102–88, title VI, §§ 602(a)(1), (c)(2), 604, Aug. 14, 1991, 105 Stat. 441, 444, 445; Pub. L. 103–160, div. A, title VIII, § 828(d)(1), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 115–232, div. A, title VIII, § 809(r), Aug. 13, 2018, 132 Stat. 1844.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part II of the Act is classified generally to subchapter II (§ 2301 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter II to exclude parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of Title 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables. The Arms Export Control Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+
+Codification Section was formerly classified to section 415 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification. In subsec. (a)(2)(B)(i), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+Amendments2018—Subsec. (a)(2)(B)(i). Pub. L. 115–232 substituted “(including a law enacted pursuant to section 8677(a) of title 10)” for “(including a law enacted pursuant to section 7307(a) of that title)”. 1993—Subsec. (a)(2)(B)(i). Pub. L. 103–160 substituted “section 7307(a)” for “section 7307(b)(1)”. 1991—Subsec. (a)(1). Pub. L. 102–88 inserted “, or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services,” after “service” and substituted “this subchapter” for “section 413 of this title”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.

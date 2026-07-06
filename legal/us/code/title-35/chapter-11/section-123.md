@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "35 U.S.C. § 123"
+description: "Micro entity defined"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 35
+title_name: "PATENTS"
+chapter_number: "11"
+chapter_name: "APPLICATION FOR PATENT"
+section: "123"
+citation: "35 U.S.C. § 123"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc35@119-100.zip"
+source_identifier: "/us/usc/t35/s123"
+source_file: "data/legal/raw/us/code/title-35/usc35.xml"
+source_hash: "0a90ac97c0eb2a130ba72444b7bfb19043ec1ac58fdc90590f6b1c83b7fdca9c"
+raw_snapshot_hash: "736cab508592dcf50013a1aed5ab108f72fd8493e76afc46848cdc35da38bbe3"
+text_hash: "5063eb76aa90571edb702a440892396de9495db4eb2a215072b3b950f221bf79"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 35 U.S.C. § 123 - Micro entity defined
+
+## Text
+
+(a) In General.— For purposes of this title, the term “micro entity” means an applicant who makes a certification that the applicant—
+
+(1) qualifies as a small entity, as defined in regulations issued by the Director;
+
+(2) has not been named as an inventor on more than 4 previously filed patent applications, other than applications filed in another country, provisional applications under section 111(b), or international applications filed under the treaty defined in section 351(a) for which the basic national fee under section 41(a) was not paid;
+
+(3) did not, in the calendar year preceding the calendar year in which the applicable fee is being paid, have a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census; and
+
+(4) has not assigned, granted, or conveyed, and is not under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the application concerned to an entity that, in the calendar year preceding the calendar year in which the applicable fee is being paid, had a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census.
+
+(b) Applications Resulting From Prior Employment.— An applicant is not considered to be named on a previously filed application for purposes of subsection (a)(2) if the applicant has assigned, or is under an obligation by contract or law to assign, all ownership rights in the application as the result of the applicant’s previous employment.
+
+(c) Foreign Currency Exchange Rate.— If an applicant’s or entity’s gross income in the preceding calendar year is not in United States dollars, the average currency exchange rate, as reported by the Internal Revenue Service, during that calendar year shall be used to determine whether the applicant’s or entity’s gross income exceeds the threshold specified in paragraphs 11 So in original. Probably should be “paragraph”. (3) or (4) of subsection (a).
+
+(d) Institutions of Higher Education.— For purposes of this section, a micro entity shall include an applicant who certifies that—
+
+(1) the applicant’s employer, from which the applicant obtains the majority of the applicant’s income, is an institution of higher education as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)); or
+
+(2) the applicant has assigned, granted, conveyed, or is under an obligation by contract or law, to assign, grant, or convey, a license or other ownership interest in the particular applications to such an institution of higher education.
+
+(e) Director’s Authority.— In addition to the limits imposed by this section, the Director may, in the Director’s discretion, impose income limits, annual filing limits, or other limits on who may qualify as a micro entity pursuant to this section if the Director determines that such additional limits are reasonably necessary to avoid an undue impact on other patent applicants or owners or are otherwise reasonably necessary and appropriate. At least 3 months before any limits proposed to be imposed pursuant to this subsection take effect, the Director shall inform the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate of any such proposed limits.
+
+(f) Penalty for False Certifications.— In addition to any other penalty available under law, an entity that is found to have falsely made a certification under this section shall, unless the entity shows that the certification was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false certification, whether the Director discovers the false certification before or after the date on which a patent has been issued.
+
+(Added and amended Pub. L. 112–29, §§ 10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335; Pub. L. 112–274, § 1(m), Jan. 14, 2013, 126 Stat. 2459; Pub. L. 117–328, div. W, § 107(b)(2), Dec. 29, 2022, 136 Stat. 5522; Pub. L. 118–151, § 1(2), Dec. 17, 2024, 138 Stat. 1685.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3), (4), is classified to section 61(a) of Title 26, Internal Revenue Code.
+
+Amendments2024—Subsec. (f). Pub. L. 118–151 inserted “, unless the entity shows that the certification was made in good faith,” before “be subject”. 2022—Subsec. (f). Pub. L. 117–328 added subsec. (f). 2013—Subsec. (a). Pub. L. 112–274 inserted “of this title” after “For purposes” in introductory provisions. 2011—Subsec. (a). Pub. L. 112–29, § 20(j), struck out “of this title” after “For purposes” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2013 AmendmentAmendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under section 5 of this title.
+
+Effective Date of 2011 AmendmentAmendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+
+Effective DateSection effective on Sept. 16, 2011, see section 10(i)(1) of Pub. L. 112–29, set out as a Fee Setting Authority note under section 41 of this title.

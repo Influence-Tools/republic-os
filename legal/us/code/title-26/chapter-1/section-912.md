@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 912"
+description: "Exemption for certain allowances"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "1"
+chapter_name: "NORMAL TAXES AND SURTAXES"
+section: "912"
+citation: "26 U.S.C. § 912"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s912"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "f8c9b389c1c692f655bb7c217b1576a6ddb451b35f080792bda690ed1076671d"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "9d4fdb34ee30e24419d6279b0f39ac55672170aee109f4221147e400556a0a2c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 912 - Exemption for certain allowances
+
+## Text
+
+The following items shall not be included in gross income, and shall be exempt from taxation under this subtitle:
+
+(1) Foreign areas allowances In the case of civilian officers and employees of the Government of the United States, amounts received as allowances or otherwise (but not amounts received as post differentials) under—
+
+(A) chapter 9 of title I of the Foreign Service Act of 1980,
+
+(B) section 4 of the Central Intelligence Agency Act of 1949, as amended (50 U.S.C. 3505),
+
+(C) title II of the Overseas Differentials and Allowances Act, or
+
+(D) subsection (e) or (f) of the first section of the Administrative Expenses Act of 1946, as amended, or section 22 of such Act.
+
+(2) Cost-of-living allowances In the case of civilian officers or employees of the Government of the United States stationed outside the continental United States (other than Alaska), amounts (other than amounts received under title II of the Overseas Differentials and Allowances Act) received as cost-of-living allowances in accordance with regulations approved by the President (or in the case of judicial officers or employees of the United States, in accordance with rules similar to such regulations).
+
+(3) Peace Corps allowances In the case of an individual who is a volunteer or volunteer leader within the meaning of the Peace Corps Act and members of his family, amounts received as allowances under section 5 or 6 of the Peace Corps Act other than amounts received as—
+
+(A) termination payments under section 5(c) or section 6(1) of such Act,
+
+(B) leave allowances,
+
+(C) if such individual is a volunteer leader training in the United States, allowances to members of his family, and
+
+(D) such portion of living allowances as the President may determine under the Peace Corps Act as constituting basic compensation.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 290; Pub. L. 86–707, title V, § 523(a), Sept. 6, 1960, 74 Stat. 802; Pub. L. 87–293, title II, § 201(a), Sept. 22, 1961, 75 Stat. 625; Pub. L. 96–465, title II, § 2206(e)(3), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 100–647, title VI, § 6137(a), Nov. 10, 1988, 102 Stat. 3723; Pub. L. 115–141, div. U, title IV, § 401(a)(161), Mar. 23, 2018, 132 Stat. 1192.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables. Title II of the Overseas Differentials and Allowances Act, referred to in pars. (1)(C) and (2), was title II of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 793, which was repealed and reenacted as sections 5922 to 5925 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. Sections 1(e) and (f) and 22 of the Administrative Expenses Act of 1946, referred to in par. (1)(D), were repealed and the provisions thereof reenacted as sections 5726(b), 5727(b) to (e), and 5913 of Title 5, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of that act are classified to sections 2504 and 2505 of Title 22. For complete classification of this act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+
+Amendments2018—Par. (1)(B). Pub. L. 115–141 substituted “(50 U.S.C. 3505)” for “(50 U.S.C., sec. 403e)”. 1988—Par. (2). Pub. L. 100–647 inserted “(or in the case of judicial officers or employees of the United States, in accordance with rules similar to such regulations)” after “President”. 1980—Par. (1)(A). Pub. L. 96–465 substituted reference to chapter 9 of title I of the Foreign Service Act of 1980 for reference to title IX of the Foreign Service Act of 1946. 1961—Par. (3). Pub. L. 87–293 added par. (3). 1960—Pub. L. 86–707 exempted foreign areas allowances received under section 4 of the Central Intelligence Agency Act of 1949, title II of the Overseas Differentials and Allowances Act, subsection (e) or (f) of the first section of the Administrative Expenses Act of 1946, or section 22 of such Act, provided that amounts received as post differentials shall not be exempt and in provisions relating to cost-of-living allowances excluded Alaska from term “continental United States” and amounts received under title II of the Overseas Differentials and Allowances Act.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1988 AmendmentPub. L. 100–647, title VI, § 6137(b), Nov. 10, 1988, 102 Stat. 3723, provided that: “The amendment made by subsection (a) [amending this section] shall apply to allowances received after October 12, 1987, in taxable years ending after such date.”
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+Effective Date of 1961 AmendmentPub. L. 87–293, title II, § 201(d), Sept. 22, 1961, 75 Stat. 625, provided that: “The amendments made by subsections (a) and (b) of this section [amending this section and section 1303 of this title] shall apply with respect to taxable years ending after March 1, 1961. The amendment made by subsection (c) [amending section 3401 of this title] shall apply with respect to remuneration paid after the date of the enactment of this Act [Sept. 22, 1961].” [Section 201(d) of Pub. L. 87–293 was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments contained in such provisions, see sections 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.]
+
+Effective Date of 1960 AmendmentPub. L. 86–707, title V, § 523(b), Sept. 6, 1960, 74 Stat. 802, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act [Sept. 6, 1960] in taxable years ending on or after such date.”
+
+Repeals; Amendments and Application of Amendments UnaffectedSection 201(a) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+
+Treatment of Employees of Panama Canal Commission and Department of DefensePub. L. 99–514, title XII, § 1232(b), Oct. 22, 1986, 100 Stat. 2564, provided that: “Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of 1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986.”
+
+Executive Documents
+
+Delegation of Functions Function of determining the portion of living allowances constituting basic compensation for Peace Corps volunteers or volunteer leaders under par. (3) of this section delegated by President to Director of Peace Corps to be performed in consultation with the Secretary of the Treasury, see section 1–104 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of Title 22, Foreign Relations and Intercourse. Authority of President under par. (2) of this section delegated to Secretary of Defense with respect to military departments, and to Secretary of Transportation with respect to Coast Guard when it is not operating as a service in the Navy, concerning civilian employees of nonappropriated fund instrumentalities of the armed forces, see section 201 of Ex. Ord. No. 11137, Jan. 7, 1964, as amended, set out as a note under section 5921 of Title 5, Government Organization and Employees.

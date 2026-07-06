@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 1314"
+description: "Judicial proceedings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "34"
+chapter_name: "ANTITRUST CIVIL PROCESS"
+section: "1314"
+citation: "15 U.S.C. § 1314"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s1314"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "4ff7a43f701b77db12816e1cb06abcbdbef870c981749e46987fd1a8b37b9ed9"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "bad5f2e9a3cf110da137d92857a4c1840db1fa7b8e2cdec7244937cbfb3875b8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 1314 - Judicial proceedings
+
+## Text
+
+(a) Petition for enforcement; venue Whenever any person fails to comply with any civil investigative demand duly served upon him under section 1312 of this title or whenever satisfactory copying or reproduction of any such material cannot be done and such person refuses to surrender such material, the Attorney General, through such officers or attorneys as he may designate, may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of this chapter.
+
+(b) Petition for order modifying or setting aside demand; time for petition; suspension of time allowed for compliance with demand during pendency of petition; grounds for relief (1) Within twenty days after the service of any such demand upon any person, or at any time before the return date specified in the demand, whichever period is shorter, or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand, such person may file and serve upon such antitrust investigator, and in the case of any express demand for any product of discovery upon the person from whom such discovery was obtained, a petition for an order modifying or setting aside such demand—
+
+(A) in the district court of the United States for the judicial district within which such person resides, is found, or transacts business; or
+
+(B) in the case of a petition addressed to an express demand for any product of discovery, only in the district court of the United States for the judicial district in which the proceeding in which such discovery was obtained is or was last pending.
+
+(2) The time allowed for compliance with the demand in whole or in part as deemed proper and ordered by the court shall not run during the pendency of such petition in the court, except that such person shall comply with any portions of the demand not sought to be modified or set aside. Such petition shall specify each ground upon which the petitioner relies in seeking such relief and may be based upon any failure of such demand to comply with the provisions of this chapter, or upon any constitutional or other legal right or privilege of such person.
+
+(c) Petition for order modifying or setting aside demand for production of product of discovery; grounds for relief; stay of compliance with demand and of running of time allowed for compliance with demand Whenever any such demand is an express demand for any product of discovery, the person from whom such discovery was obtained may file, at any time prior to compliance with such express demand, in the district court of the United States for the judicial district in which the proceeding in which such discovery was obtained is or was last pending, and serve upon any antitrust investigator named in the demand and upon the recipient of the demand, a petition for an order of such court modifying or setting aside those portions of the demand requiring production of any such product of discovery. Such petition shall specify each ground upon which the petitioner relies in seeking such relief and may be based upon any failure of such portions of the demand to comply with the provisions of this chapter, or upon any constitutional or other legal right or privilege of the petitioner. During the pendency of such petition, the court may stay, as it deems proper, compliance with the demand and the running of the time allowed for compliance with the demand.
+
+(d) Petition for order requiring performance by custodian of duties; venue At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories delivered, or transcripts of oral testimony given by any person in compliance with any such demand, such person, and, in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian a petition for an order of such court requiring the performance by such custodian of any duty imposed upon him by this chapter.
+
+(e) Jurisdiction; appeal; contempts Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry into effect the provisions of this chapter. Any final order so entered shall be subject to appeal pursuant to section 1291 of title 28. Any disobedience of any final order entered under this section by any court shall be punished as a contempt thereof.
+
+(f) Applicability of Federal Rules of Civil Procedure To the extent that such rules may have application and are not inconsistent with the provisions of this chapter, the Federal Rules of Civil Procedure shall apply to any petition under this chapter.
+
+(g) Disclosure exemption Any documentary material, answers to written interrogatories, or transcripts of oral testimony provided pursuant to any demand issued under this chapter shall be exempt from disclosure under section 552 of title 5.
+
+(Pub. L. 87–664, § 5, Sept. 19, 1962, 76 Stat. 551; Pub. L. 94–435, title I, § 104, Sept. 30, 1976, 90 Stat. 1389; Pub. L. 96–349, § 2(b)(5), Sept. 12, 1980, 94 Stat. 1155.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables. The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Amendments1980—Subsec. (b). Pub. L. 96–349, § 2(b)(5)(A), designated existing provisions as par. (1), provided for filing and serving a petition for an order modifying or setting aside a demand in the case of an express demand for any product of discovery upon the person from whom the discovery was obtained, incorporated existing provision in cl. (A), added cl. (B), and designated existing provisions as par. (2). Subsecs. (c), (d). Pub. L. 96–349, § 2(b)(5)(B) to (D), added subsec. (c), redesignated former subsec. (c) as (d) and authorized petition, in the case of an express demand for any product of discovery, by the person from whom the discovery was obtained, for an order requiring performance by the custodian of his duties. Former subsec. (d) redesignated (e). Subsecs. (e) to (g). Pub. L. 96–349, § 2(b)(5)(B), redesignated former subsecs. (d) to (f) as (e) to (g), respectively. 1976—Subsec. (a). Pub. L. 94–435, § 104(a), struck out provision which permitted a petition for an enforcement order to be filed in the judicial district where a person who had failed to comply with a demand and who transacted business in one or more districts, maintained his principal place of business, or in such other district, in which such person transacted business, as was agreed upon by the parties to the petition. Subsec. (b). Pub. L. 94–435, § 104(b), (c), inserted “or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand,” after “whichever period is shorter”, substituted “antitrust investigator” for “custodian” before “a petition for an order”, and inserted proviso that petitioner should comply with portions of a contested demand which are not being challenged. Subsec. (c). Pub. L. 94–435, § 104(d), substituted “or answers to interrogatories delivered, or transcripts of oral testimony given” for “delivered”. Subsec. (f). Pub. L. 94–435, § 104(e), added subsec. (f).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–435 effective Sept. 30, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of this title.

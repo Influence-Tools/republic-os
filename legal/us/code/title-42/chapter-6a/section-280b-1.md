@@ -1,0 +1,123 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 280b–1"
+description: "Preventing overdoses of controlled substances"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "280b–1"
+citation: "42 U.S.C. § 280b–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s280b–1"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "8187c86f7ff354ade738a9496d389bfcda0b41535cc15034b7ab316cc1547e30"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "a5572948ce0475b427b140e235ee6750dfa90fbeb813ab286778b72270491697"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 280b–1 - Preventing overdoses of controlled substances
+
+## Text
+
+(a) Evidence-based prevention grants (1) In general The Director of the Centers for Disease Control and Prevention may—
+
+(A) to the extent practicable, carry out and expand any evidence-based prevention activities described in paragraph (2);
+
+(B) provide training and technical assistance to States, localities, and Indian Tribes for purposes of carrying out such activity; and
+
+(C) award grants to States, localities, and Indian Tribes for purposes of carrying out such activity.
+
+(2) Evidence-based prevention activities An evidence-based prevention activity described in this paragraph is any of the following activities:
+
+(A) Improving the efficiency and use of a new or currently operating prescription drug monitoring program, including by—
+
+(i) encouraging all authorized users (as specified by the State or other entity) to register with and use the program;
+
+(ii) enabling such users to access any updates to information collected by the program in as close to real-time as possible;
+
+(iii) improving the ease of use of such program;
+
+(iv) providing for a mechanism for the program to notify authorized users of any potential misuse or abuse of controlled substances and any detection of inappropriate prescribing or dispensing practices relating to such substances;
+
+(v) encouraging the analysis of prescription drug monitoring data for purposes of providing de-identified, aggregate reports based on such analysis to State public health agencies, State substance abuse agencies, State licensing boards, and other appropriate State agencies, as permitted under applicable Federal and State law and the policies of the prescription drug monitoring program and not containing any protected health information, to prevent inappropriate prescribing, drug diversion, or abuse and misuse of controlled substances, and to facilitate better coordination among agencies;
+
+(vi) enhancing interoperability between the program and any health information technology (including certified health information technology), including by integrating program data into such technology;
+
+(vii) updating program capabilities to respond to technological innovation for purposes of appropriately addressing the occurrence and evolution of controlled substance overdoses;
+
+(viii) facilitating and encouraging data exchange between the program and the prescription drug monitoring programs of other States;
+
+(ix) enhancing data collection and quality, including improving patient matching and proactively monitoring data quality;
+
+(x) providing prescriber and dispenser practice tools, including prescriber practice insight reports for practitioners to review their prescribing patterns in comparison to such patterns of other practitioners in the specialty; and
+
+(xi) meeting the purpose of the program established under section 280g–3 of this title, as described in section 280g–3(a) of this title.
+
+(B) Promoting community or health system interventions.
+
+(C) Evaluating interventions to prevent controlled substance overdoses and associated risks.
+
+(D) Implementing projects to advance an innovative prevention approach with respect to new and emerging public health crises and opportunities to address such crises, such as enhancing public education and awareness on the risks associated with substances causing overdose.
+
+(3) Additional grants The Director may award grants to States, localities, and Indian Tribes for the following purposes:
+
+(A) To carry out innovative projects for grantees to detect, identify, and rapidly respond to controlled substance misuse, abuse, and overdoses, and associated risk factors, including changes in patterns of such controlled substance use. Such projects may include the use of innovative, evidence-based strategies for detecting such patterns, such as wastewater surveillance, if proven to support actionable prevention strategies, in a manner consistent with applicable Federal and State privacy laws.
+
+(B) For any other evidence-based activity for preventing controlled substance misuse, abuse, and overdoses as the Director determines appropriate.
+
+(4) Research The Director, in coordination with the Assistant Secretary for Mental Health and Substance Use and the National Mental Health and Substance Use Policy Laboratory established under section 290aa–0 of this title, as appropriate and applicable, may conduct studies and evaluations to address substance use disorders, including preventing substance use disorders or other related topics the Director determines appropriate.
+
+(b) Enhanced controlled substance overdose data collection, analysis, and dissemination grants (1) In general The Director of the Centers for Disease Control and Prevention may—
+
+(A) to the extent practicable, carry out any controlled substance overdose data collection activities described in paragraph (2);
+
+(B) provide training and technical assistance to States, localities, and Indian Tribes for purposes of carrying out such activity;
+
+(C) award grants to States, localities, and Indian Tribes for purposes of carrying out such activity; and
+
+(D) coordinate with the Assistant Secretary for Mental Health and Substance Use to collect data pursuant to section 290aa–4(d)(1)(A) of this title (relating to the number of individuals admitted to emergency departments as a result of the abuse of alcohol or other drugs).
+
+(2) Controlled substance overdose data collection and analysis activities A controlled substance overdose data collection, analysis, and dissemination activity described in this paragraph is any of the following activities:
+
+(A) Improving the timeliness of reporting data to the public, including data on fatal and nonfatal overdoses of controlled substances.
+
+(B) Enhancing the comprehensiveness of controlled substance overdose data by collecting information on such overdoses, and associated risk factors, from appropriate sources such as toxicology reports, autopsy reports, death scene investigations, and emergency departments.
+
+(C) Modernizing the system for monitoring and identifying causes of death related to controlled substance overdoses to use an electronic-based system.
+
+(D) Using data to help identify risk factors associated with controlled substance overdoses.
+
+(E) Supporting entities involved in providing information on controlled substance overdoses, such as coroners, medical examiners, and public health laboratories, to improve accurate testing and standardized reporting of causes and contributing factors to controlled substances overdoses and analysis of various opioid analogues and other emerging substances related to controlled substance overdoses.
+
+(F) Working to enable and encourage the access, exchange, and use of information regarding controlled substance overdoses and associated risk factors among data sources and entities.
+
+(c) Priority In awarding grants to States under subsections (a) and (b), the Director of the Centers for Disease Control and Prevention may give priority to jurisdictions with a disproportionately high rate of drug overdoses or drug overdose deaths, as applicable.
+
+(d) Definitions In this section:
+
+(1) Controlled substance The term “controlled substance” has the meaning given that term in section 802 of title 21.
+
+(2) Indian tribe The term “Indian tribe” has the meaning given that term in section 5304 of title 25.
+
+(e) Authorization of appropriations For purposes of carrying out this section, section 280g–3 of this title, and section 290bb–25g of this title, there is authorized to be appropriated $505,579,000 for each of fiscal years 2026 through 2030.
+
+(July 1, 1944, ch. 373, title III, § 392A, as added Pub. L. 115–271, title VII, § 7161(a), Oct. 24, 2018, 132 Stat. 4059; amended Pub. L. 117–328, div. FF, title I, § 1271(b), Dec. 29, 2022, 136 Stat. 5686; Pub. L. 119–44, title I, § 103, Dec. 1, 2025, 139 Stat. 670.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 280b–1, act July 1, 1944, ch. 373, title III, § 392, as added Pub. L. 99–649, § 3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, § 2(b), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §§ 301, 312(d)(4), Oct. 27, 1992, 106 Stat. 3482, 3504; Pub. L. 103–183, title II, § 203(a)(2), (b)(1), Dec. 14, 1993, 107 Stat. 2232, which related to prevention and control activities, was transferred to section 280b–0 of this title. Another prior section 280b–1, act July 1, 1944, ch. 373, title III, § 391, as added Oct. 22, 1965, Pub. L. 89–291, § 2, 79 Stat. 1059; amended Mar. 13, 1970, Pub. L. 91–212, § 10(b)(3), 84 Stat. 66; July 23, 1974, Pub. L. 93–353, title II, § 202(b), 88 Stat. 372, defined “sciences related to health”, “National Medical Libraries Assistance Advisory Board”, “Board”, and “medical library”, prior to repeal by Pub. L. 99–158, § 3(b), Nov. 20, 1985, 99 Stat. 879.
+
+Amendments2025—Subsec. (a)(2)(C). Pub. L. 119–44, § 103(a)(1)(A), inserted “and associated risks” before period at end. Subsec. (a)(2)(D). Pub. L. 119–44, § 103(a)(1)(B), substituted “substances causing overdose” for “opioids”. Subsec. (a)(3). Pub. L. 119–44, § 103(b)(1), substituted “and Indian Tribes for the following purposes:” for “and Indian Tribes—” in introductory provisions. Subsec. (a)(3)(A). Pub. L. 119–44, § 103(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “to carry out innovative projects for grantees to rapidly respond to controlled substance misuse, abuse, and overdoses, including changes in patterns of controlled substance use; and”. Subsec. (a)(3)(B). Pub. L. 119–44, § 103(b)(3), substituted “For any” for “for any”. Subsec. (b)(2)(B). Pub. L. 119–44, § 103(a)(2)(A), inserted “, and associated risk factors,” after “such overdoses”. Subsec. (b)(2)(C). Pub. L. 119–44, § 103(a)(2)(B), substituted “monitoring and identifying” for “coding”. Subsec. (b)(2)(E). Pub. L. 119–44, § 103(a)(2)(C), inserted a comma after “public health laboratories” and “and other emerging substances related” after “analogues”. Subsec. (b)(2)(F). Pub. L. 119–44, § 103(a)(2)(D), inserted “and associated risk factors” after “overdoses”. Subsec. (e). Pub. L. 119–44, § 103(c), substituted “$505,579,000 for each of fiscal years 2026 through 2030” for “$496,000,000 for each of fiscal years 2019 through 2023”. 2022—Subsecs. (a)(1)(B), (C), (b)(1)(B), (C). Pub. L. 117–328, § 1271(b)(2), substituted “Indian Tribes” for “Indian tribes”. Subsecs. (c) to (e). Pub. L. 117–328, § 1271(b)(1), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.

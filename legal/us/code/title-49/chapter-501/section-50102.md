@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 50102"
+description: "Restricting contract awards because of discrimination against United States goods or services"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "501"
+chapter_name: "BUY-AMERICAN PREFERENCES"
+section: "50102"
+citation: "49 U.S.C. § 50102"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s50102"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "6a2f939dac4e27e99f0aa9d5ed9a9fd75995304a47514917824484a65697d383"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "2ae57ff0889538abd92b63f2f32515960d548725d35d57dd36e9b87df18d8844"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 50102 - Restricting contract awards because of discrimination against United States goods or services
+
+## Text
+
+A person or enterprise domiciled or operating under the laws of a foreign country may not make a contract or subcontract under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–353) if the government of that country unfairly maintains, in government procurement, a significant and persistent pattern of discrimination against United States goods or services that results in identifiable harm to United States businesses, that the President identifies under section 305(g)(1)(A) of the Trade Agreements Act of 1979 (19 U.S.C. 2515(g)(1)(A)).
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1298, § 49102; renumbered § 50102 and amended Pub. L. 104–287, § 5(88)(D), (89), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 118–63, title VII, § 768(b)(1), May 16, 2024, 138 Stat. 1294.)
+
+## Notes
+
+Historical and Revision Notes Pub. L. 103–272 RevisedSectionSource (U.S. Code)Source (Statutes at Large) 4910249 App.:2226c.Nov. 5, 1990, Pub. L. 101–508, § 9131, 104 Stat. 1388–372; Oct. 31, 1992, Pub. L. 102–581, § 118(b), 106 Stat. 4883. The words “government of that country” are substituted for “that government” for consistency in the revised title and with other titles of the United States Code.
+
+Pub. L. 104–287, § 5(89)This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1), and 50105, as redesignated by clause (88)(D) of this section, because 49:47106(d) was struck by section 108(1) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1573).
+
+Editorial Notes
+
+References in TextSubtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990, referred to in text, is subtitle B (§§ 9101–9131) of title IX of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–353, known as the Aviation Safety and Capacity Expansion Act of 1990. Sections 9102 to 9105, 9107 to 9112(b), 9113 to 9115, 9118, 9121 to 9123, 9124 “Sec. 613(c)”, 9125, 9127, and 9129 to 9131 of title IX of Pub. L. 101–508 were repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+
+Amendments2024—Pub. L. 118–63 struck out “(except section 47127)” after “subchapter I of chapter 471”. 1996—Pub. L. 104–287, § 5(89), substituted “section 47127” for “sections 47106(d) and 47127”. Pub. L. 104–287, § 5(88)(D), renumbered section 49102 of this title as this section.

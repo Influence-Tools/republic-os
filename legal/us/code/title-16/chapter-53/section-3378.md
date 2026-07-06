@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3378"
+description: "Miscellaneous provisions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "53"
+chapter_name: "CONTROL OF ILLEGALLY TAKEN FISH AND WILDLIFE"
+section: "3378"
+citation: "16 U.S.C. § 3378"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3378"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "c47f32d4bf25844460e0560a6e106a2e38a00e5ae7397113c0ec11331ebc39c6"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "ea9b34c06448e513d39af2ca1b55d95a5b8d86cd4cc8de54c7d009f78f0047fb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3378 - Miscellaneous provisions
+
+## Text
+
+(a) Effect on powers of States Nothing in this chapter shall be construed to prevent the several States or Indian tribes from making or enforcing laws or regulations not inconsistent with the provisions of this chapter.
+
+(b) Repeals The following provisions of law are repealed:
+
+(1) The Act of May 20, 1926 (commonly known as the Black Bass Act; 16 U.S.C. 851–856).
+
+(2) Section 667e of this title and sections 43 and 44 of title 18 (commonly known as provisions of the Lacey Act).
+
+(3) Sections 3054 and 3112 of title 18.
+
+(c) Disclaimers Nothing in this chapter shall be construed as—
+
+(1) repealing, superseding, or modifying any provision of Federal law other than those specified in subsection (b);
+
+(2) repealing, superseding, or modifying any right, privilege, or immunity granted, reserved, or established pursuant to treaty, statute, or executive order pertaining to any Indian tribe, band, or community; or
+
+(3) enlarging or diminishing the authority of any State or Indian tribe to regulate the activities of persons within Indian reservations.
+
+(d) Travel and transportation expenses The Secretary of the Interior is authorized to pay from agency appropriations the travel expense of newly appointed special agents of the United States Fish and Wildlife Service and the transportation expense of household goods and personal effects from place of residence at time of selection to first duty station to the extent authorized by section 5724 of title 5 for all such special agents appointed after January 1, 1977.
+
+(e) Interior appropriations budget proposal The Secretary shall identify the funds utilized to enforce this chapter and any regulations thereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.
+
+(Pub. L. 97–79, § 9(a)–(c), (g), (h), Nov. 16, 1981, 95 Stat. 1079, 1080.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Black Bass Act, referred to in subsec. (b)(1), is act May 20, 1926, ch. 346, 44 Stat. 576, which was classified generally to chapter 13 (§ 851 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+Codification Subsecs. (d) and (e) of this section were in the original subsecs. (g) and (h), respectively, of section 9 of Pub. L. 97–79 and were redesignated for purposes of codification.

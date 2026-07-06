@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 2713"
+description: "Civil penalties"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "29"
+chapter_name: "INDIAN GAMING REGULATION"
+section: "2713"
+citation: "25 U.S.C. § 2713"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s2713"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "dffd769c09807b4f56b2a6d3a07c51f021d94561aa70e91921fe11dd9907fb5b"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "70d590f17b9358449886f5b45872de9a80cd4a699aa54b61457225fac2484760"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 2713 - Civil penalties
+
+## Text
+
+(a) Authority; amount; appeal; written complaint (1) Subject to such regulations as may be prescribed by the Commission, the Chairman shall have authority to levy and collect appropriate civil fines, not to exceed $25,000 per violation, against the tribal operator of an Indian game or a management contractor engaged in gaming for any violation of any provision of this chapter, any regulation prescribed by the Commission pursuant to this chapter, or tribal regulations, ordinances, or resolutions approved under section 2710 or 2712 of this title.
+
+(2) The Commission shall, by regulation, provide an opportunity for an appeal and hearing before the Commission on fines levied and collected by the Chairman.
+
+(3) Whenever the Commission has reason to believe that the tribal operator of an Indian game or a management contractor is engaged in activities regulated by this chapter, by regulations prescribed under this chapter, or by tribal regulations, ordinances, or resolutions, approved under section 2710 or 2712 of this title, that may result in the imposition of a fine under subsection (a)(1), the permanent closure of such game, or the modification or termination of any management contract, the Commission shall provide such tribal operator or management contractor with a written complaint stating the acts or omissions which form the basis for such belief and the action or choice of action being considered by the Commission. The allegation shall be set forth in common and concise language and must specify the statutory or regulatory provisions alleged to have been violated, but may not consist merely of allegations stated in statutory or regulatory language.
+
+(b) Temporary closure; hearing (1) The Chairman shall have power to order temporary closure of an Indian game for substantial violation of the provisions of this chapter, of regulations prescribed by the Commission pursuant to this chapter, or of tribal regulations, ordinances, or resolutions approved under section 2710 or 2712 of this title.
+
+(2) Not later than thirty days after the issuance by the Chairman of an order of temporary closure, the Indian tribe or management contractor involved shall have a right to a hearing before the Commission to determine whether such order should be made permanent or dissolved. Not later than sixty days following such hearing, the Commission shall, by a vote of not less than two of its members, decide whether to order a permanent closure of the gaming operation.
+
+(c) Appeal from final decision A decision of the Commission to give final approval of a fine levied by the Chairman or to order a permanent closure pursuant to this section shall be appealable to the appropriate Federal district court pursuant to chapter 7 of title 5.
+
+(d) Regulatory authority under tribal law Nothing in this chapter precludes an Indian tribe from exercising regulatory authority provided under tribal law over a gaming establishment within the Indian tribe’s jurisdiction if such regulation is not inconsistent with this chapter or with any rules or regulations adopted by the Commission.
+
+(Pub. L. 100–497, § 14, Oct. 17, 1988, 102 Stat. 2482.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a)(1), (3), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.

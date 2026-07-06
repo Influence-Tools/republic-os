@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 400"
+description: "Continuing authority programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "9"
+chapter_name: "PROTECTION OF NAVIGABLE WATERS AND OF HARBOR AND RIVER IMPROVEMENTS GENERALLY"
+section: "400"
+citation: "33 U.S.C. § 400"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s400"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "a693c9f94a765905ffd97fdc38346b811c6a2066de88b6859ad0e2c8fbab69cd"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "ce14e03168e520eb68976d9ffd8614bb1c1e00d75a3eb64a125b1d9875bcbd74"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 400 - Continuing authority programs
+
+## Text
+
+(1) Definition of continuing authority program project In this section, the term “continuing authority program” means 1 of the following authorities:
+
+(A) Section 701s of this title.
+
+(B) Section 426i of this title.
+
+(C) Section 2330 of this title.
+
+(D) Section 2309a of this title.
+
+(E) Section 577 of this title.
+
+(F) Section 426g of this title.
+
+(G) Section 701r of this title.
+
+(H) Section 103 of the River and Harbor Act of 1962 (Public Law 87–874; 76 Stat. 1178).
+
+(I) Section 2326(e) of this title.
+
+(J) Section 701b–8a of this title.
+
+(K) Section 610(a) of this title.
+
+(2) Prioritization Not later than 1 year after June 10, 2014, the Secretary shall publish in the Federal Register and on a publicly available website, the criteria the Secretary uses for prioritizing annual funding for continuing authority program projects.
+
+(3) Annual report Not later than 1 year after June 10, 2014, and each year thereafter, the Secretary shall publish in the Federal Register and on a publicly available website, a report on the status of each continuing authority program, which, at a minimum, shall include—
+
+(A) the name and a short description of each active continuing authority program project;
+
+(B) the cost estimate to complete each active project; and
+
+(C) the funding available in that fiscal year for each continuing authority program.
+
+(4) Congressional notification On publication in the Federal Register under paragraphs (2) and (3), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of all information published under those paragraphs.
+
+(Pub. L. 113–121, title I, § 1030(a), June 10, 2014, 128 Stat. 1231.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 103 of the River and Harbor Act of 1962, referred to in par. (1)(H), is section 103 of Pub. L. 87–874, title I, Oct. 23, 1962, 76 Stat. 1178. Section 103(a)(1)–(3) of Pub. L. 87–874 amended section 426e of this title. Section 103(a)(4) of Pub. L. 87–874 amended sections 426f and 426g of this title. Section 103(b) of Pub. L. 87–874 is set out as a note under section 426 of this title. Section 103(c) of Pub. L. 87–874 is not classified to the Code.
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

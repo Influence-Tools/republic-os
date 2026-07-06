@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 4805"
+description: "Call report simplification"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "48"
+chapter_name: "FINANCIAL INSTITUTIONS REGULATORY IMPROVEMENT"
+section: "4805"
+citation: "12 U.S.C. § 4805"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s4805"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "804bda133a05b80468586c188e9ba71810e2a4dcfc643a9dad6ffba34a216da7"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "3dfe11472260969201b3ba2b7f47a1124c139c79dfca04bf89535cd5b7f1238a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 4805 - Call report simplification
+
+## Text
+
+(a) Modernization of call report filing and disclosure system In order to reduce the administrative requirements pertaining to bank reports of condition, savings association financial reports, and bank holding company consolidated and parent-only financial statements, and to improve the timeliness of such reports and statements, the Federal banking agencies shall—
+
+(1) work jointly to develop a system under which—
+
+(A) insured depository institutions and their affiliates may file such reports and statements electronically; and
+
+(B) the Federal banking agencies may make such reports and statements available to the public electronically; and
+
+(2) not later than 1 year after September 23, 1994, report to the Congress and make recommendations for legislation that would enhance efficiency for filers and users of such reports and statements.
+
+(b) Uniform reports and simplification of instructions The Federal banking agencies shall, consistent with the principles of safety and soundness, work jointly—
+
+(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a); and
+
+(2) to simplify instructions accompanying such reports and statements and to provide an index to the instructions that is adequate to meet the needs of both filers and users.
+
+(c) Review of call report schedule Each Federal banking agency shall—
+
+(1) review the information required by schedules supplementing the core information referred to in subsection (b); and
+
+(2) eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
+
+(Pub. L. 103–325, title III, § 307, Sept. 23, 1994, 108 Stat. 2217.)
+
+## Notes
+
+Editorial Notes
+
+Codification Provisions similar to this section are contained in section 4805a of this title.

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 59bb–1"
+description: "Declaration of nonnavigability for Lake Erie, New York"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "1"
+chapter_name: "NAVIGABLE WATERS GENERALLY"
+section: "59bb–1"
+citation: "33 U.S.C. § 59bb–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s59bb–1"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "559fa18cf636c332eed00aa7c885f5ab9be6fa47f1ebbf352c0d7ebca827a022"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "63abf197b3419fade364fa7095d8926644ed5d928a2aa2abe11cf64c264e35c2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 59bb–1 - Declaration of nonnavigability for Lake Erie, New York
+
+## Text
+
+(a) Area to be declared nonnavigable; public interest Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries in the portion of Erie County, New York, described in subsection (b), are not in the public interest then, subject to subsection (c), those portions of such county that were once part of Lake Erie and are now filled are declared to be nonnavigable waters of the United States.
+
+(b) Boundaries The portion of Erie County, New York, referred to in subsection (a) is all that tract or parcel of land, situated in the town of Hamburg and the city of Lackawanna, Erie County, New York, being part of Lots 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, and 25 of the Ogden Gore Tract and part of Lots 23, 24, and 36 of the Buffalo Creek Reservation, Township 10, Range 8 of the Holland Land Company’s Survey and more particularly bounded and described as follows: [Omitted.]
+
+(c) Limits on applicability; regulatory requirements The declaration under subsection (a) shall apply to those parts of the areas described in subsection (b) that are filled portions of Lake Erie. Any work on these filled portions shall be subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+(d) Expiration date If, 20 years from December 11, 2000, any area or part thereof described in subsection (a) is not occupied by permanent structures in accordance with the requirements set out in subsection (c), or if work in connection with any activity permitted in subsection (c) is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
+
+(Pub. L. 106–541, title III, § 346, Dec. 11, 2000, 114 Stat. 2614.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+Codification The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, have been omitted. Such provisions appear at 114 Stat. 2614 to 2618.
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.

@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "41 U.S.C. § 4704"
+description: "Prohibition of contractors limiting subcontractor sales directly to Federal Government"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 41
+title_name: "PUBLIC CONTRACTS"
+chapter_number: "47"
+chapter_name: "MISCELLANEOUS"
+section: "4704"
+citation: "41 U.S.C. § 4704"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc41@119-100.zip"
+source_identifier: "/us/usc/t41/s4704"
+source_file: "data/legal/raw/us/code/title-41/usc41.xml"
+source_hash: "85d79d162bbe8fc7f3f1df4de606c806c33578f5c0129f4efc75b818bd6b4c0b"
+raw_snapshot_hash: "0977ff7e7fefd99bbd25a86e009a9e4c2707301ec8c49233d17b6604e38702e3"
+text_hash: "552aaec390dc86e0b0f8d5c741af3d703cf87ca66abe1706da7b03edc511aa17"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 41 U.S.C. § 4704 - Prohibition of contractors limiting subcontractor sales directly to Federal Government
+
+## Text
+
+(a) Contract Restrictions.— Each contract for the purchase of property or services made by an executive agency shall provide that the contractor will not—
+
+(1) enter into an agreement with a subcontractor under the contract that has the effect of unreasonably restricting sales by the subcontractor directly to the Federal Government of any item or process (including computer software) made or furnished by the subcontractor under the contract (or any follow-on production contract); or
+
+(2) otherwise act to restrict unreasonably the ability of a subcontractor to make sales described in paragraph (1) to the Federal Government.
+
+(b) Rights Under Law Preserved.— This section does not prohibit a contractor from asserting rights it otherwise has under law.
+
+(c) Inapplicability to Certain Contracts.— This section does not apply to a contract for an amount that is not greater than the simplified acquisition threshold.
+
+(d) Inapplicability When Government Treated Similarly to Other Purchasers.— An agreement between the contractor in a contract for the acquisition of commercial products or commercial services and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial products or commercial services from that subcontractor.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3795; Pub. L. 115–232, div. A, title VIII, § 836(b)(19), Aug. 13, 2018, 132 Stat. 1864.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 4704(a)41:253g(a).June 30, 1949, ch. 288, title III, § 303G(a), (b), formerly § 303H, as added Pub. L. 98–577, title II, § 206(a), Oct. 30, 1984, 98 Stat. 3073; renumbered § 303G, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. 4704(b)41:253g(b). 4704(c)41:253g(c).June 30, 1949, ch. 288, title III, § 303G(c), as added Pub. L. 103–355, title IV, § 4103(b), Oct. 13, 1994, 108 Stat. 3341. 4704(d)41:253g(d).June 30, 1949, ch. 288, title III, § 303G(d), as added Pub. L. 103–355, title VIII, § 8204(a), Oct. 13, 1994, 108 Stat. 3396.
+
+Editorial Notes
+
+Amendments2018—Subsec. (d). Pub. L. 115–232 substituted “commercial products or commercial services” for “commercial items” in two places.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.

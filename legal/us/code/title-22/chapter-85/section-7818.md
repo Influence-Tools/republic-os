@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7818"
+description: "National registry of Korean American divided families"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "85"
+chapter_name: "NORTH KOREAN HUMAN RIGHTS"
+section: "7818"
+citation: "22 U.S.C. § 7818"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7818"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "1d2fe78937946aec381f52a92a123077637ca4c388dcef30780ee40b08e72a81"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "c6ce9be2677b3f1b1c3e026090dd153346ed2012a4554afdb4b6ddc3b565e0cc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7818 - National registry of Korean American divided families
+
+## Text
+
+(a) National registry (1) In general The Secretary of State, acting through the Special Envoy on North Korean Human Rights Issues, the Assistant Secretary of State for Consular Affairs, or such other individual as the Secretary may designate, shall—
+
+(A) engage, to the extent practicable, Korean American families who wish to be reunited with family members residing in North Korea from which such Korean American families were divided after the signing of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the “Korean War Armistice Agreement” ), in anticipation of future reunions for such families and family members, including in-person and video reunions; and
+
+(B) establish a private, internal national registry of the names and other relevant information of such Korean American families—
+
+(i) to facilitate such future reunions; and
+
+(ii) to provide for a repository of information about such Korean American families and family members in North Korea, including information about individuals who may be deceased.
+
+(2) Disclosure of information The Secretary of State may enter into agreements with Korean individuals and families, academic institutions, or other members of the public, as appropriate, to share, in whole or in part, information collected and housed in the database if—
+
+(A) the United States person whose personally identifiable information would be disclosed as a result of an agreement has provided consent to such disclosure; and
+
+(B) the agreement outlines reasonable steps and commitments to ensure that any information disclosed as a result of such agreement is—
+
+(i) kept private and confidential; and
+
+(ii) will not be disclosed improperly to other parties outside the agreement.
+
+(b) Actions to facilitate dialogue between the United States and North Korea (1) In general The Secretary of State should take steps to ensure that any direct dialogue between the United States and North Korea includes progress towards holding future reunions for Korean American families and their family members in North Korea.
+
+(2) Consultations The Secretary of State shall consult with the Government of the Republic of Korea, as appropriate, in carrying out this subsection.
+
+(3) Reporting requirement (A) In general The Secretary of State, acting through the Special Envoy on North Korean Human Rights Issues, shall include in each report required under section 7817(d) of this title a description of the consultations described in paragraph (2) conducted during the year preceding the submission of the report.
+
+(B) Elements The reporting required under subparagraph (A) should include—
+
+(i) the status of the national registry established pursuant to subsection (a)(1)(B);
+
+(ii) the number of individuals included on the registry who—
+
+(I) have met their family members in North Korea during previous reunions; and
+
+(II) have yet to meet their family members in North Korea;
+
+(iii) a summary of responses by North Korea to requests by the United States Government to hold reunions of divided families; and
+
+(iv) a description of actions taken by North Korea that prevent the emigration of family members of Korean American families.
+
+(c) Appropriate congressional committees defined In this section, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+(Pub. L. 119–60, div. H, title LXXXIII, § 8361, Dec. 18, 2025, 139 Stat. 1884.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2026, and not as part of the North Korean Human Rights Act of 2004, which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Consultations on Reuniting Korean Americans With Family Members in North KoreaPub. L. 117–263, div. E, title LV, § 5599B, Dec. 23, 2022, 136 Stat. 3400, provided that: “(a) Consultations.—“(1) Consultations with south korea.—The Secretary of State, or a designee of the Secretary, should consult with officials of South Korea, as appropriate, on potential opportunities to reunite Korean American families with family members in North Korea from which such Korean American families were divided after the signing of the Korean War Armistice Agreement, including potential opportunities for video reunions for Korean Americans with such family members. “(2) Consultations with korean americans.—The Special Envoy on North Korean Human Rights Issues of the Department of State should regularly consult with representatives of Korean Americans who have family members in North Korea with respect to efforts to reunite families divided after the signing of the Korean War Armistice Agreement, including potential opportunities for video reunions for Korean Americans with such family members. “(b) Report.—Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], and annually thereafter for three years, the Secretary of State, acting through the Special Envoy on North Korean Human Rights Issues or other appropriate designee, shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the consultations conducted pursuant to this section during the preceding year.”

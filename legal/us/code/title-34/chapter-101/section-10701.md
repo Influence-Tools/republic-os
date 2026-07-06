@@ -1,0 +1,103 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 10701"
+description: "Description"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "101"
+chapter_name: "JUSTICE SYSTEM IMPROVEMENT"
+section: "10701"
+citation: "34 U.S.C. § 10701"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s10701"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "79f85f5c16c1b8e07a6ae5a49f3e1d425c380fab1ad8c51913dcfe292ff06421"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "be94b4168eeef32311c7e5cc979a544e751510fa9e9803f7cd8a93dc14f575eb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 10701 - Description
+
+## Text
+
+(a) Grants authorized From amounts made available to carry out this subchapter, the Attorney General may make grants to States, units of local government, and Indian tribes, for use by the State, unit of local government, or Indian tribe to provide services primarily relating to opioid abuse, including for any one or more of the following:
+
+(1) Developing, implementing, or expanding a treatment alternative to incarceration program, which may include—
+
+(A) prebooking or postbooking components, which may include the activities described in subchapter XXIX or XXXIII of this chapter;
+
+(B) training for criminal justice agency personnel on substance use disorders and co-occurring mental illness and substance use disorders;
+
+(C) a mental health court, including the activities described in subchapter XXI of this chapter;
+
+(D) a drug court, including the activities described in subchapter XXX of this chapter;
+
+(E) a veterans treatment court program, including the activities described in subsection (i) of section 10651 of this title;
+
+(F) a focus on parents whose incarceration could result in their children entering the child welfare system;
+
+(G) a community-based substance use diversion program sponsored by a law enforcement agency; and
+
+(H) a pilot program for rural areas to implement community response programs that focus on reducing opioid overdose deaths, which may include presenting alternatives to incarceration, as described in subsection (f).
+
+(2) In the case of a State, facilitating or enhancing planning and collaboration between State criminal justice agencies and State substance abuse agencies in order to more efficiently and effectively carry out activities or services described in any paragraph of this subsection that address problems related to opioid abuse.
+
+(3) Providing training and resources for first responders on carrying and administering an opioid overdose reversal drug or device approved or cleared by the Food and Drug Administration, and purchasing such a drug or device for first responders who have received such training to so carry and administer.
+
+(4) Locating or investigating illicit activities related to the unlawful distribution of opioids.
+
+(5) Developing, implementing, or expanding a medication-assisted treatment program used or operated by a criminal justice agency, which may include training criminal justice agency personnel on medication-assisted treatment, and carrying out the activities described in subchapter XVIII of this chapter.
+
+(6) In the case of a State, developing, implementing, or expanding a prescription drug monitoring program to collect and analyze data related to the prescribing of schedules II, III, and IV controlled substances through a centralized database administered by an authorized State agency, which includes tracking the dispensation of such substances, and providing for interoperability and data sharing with each other such program in each other State, and with any interstate entity that shares information between such programs.
+
+(7) Developing, implementing, or expanding a program to prevent and address opioid abuse by juveniles.
+
+(8) Developing, implementing, or expanding a program (which may include demonstration projects) to utilize technology that provides a secure container for prescription drugs that would prevent or deter individuals, particularly adolescents, from gaining access to opioid medications that are lawfully prescribed for other individuals.
+
+(9) Developing, implementing, or expanding a prescription drug take-back program.
+
+(10) Developing, implementing, or expanding an integrated and comprehensive opioid abuse response program.
+
+(b) Contracts and subawards A State, unit of local government, or Indian tribe may, in using a grant under this subchapter for purposes authorized by subsection (a), use all or a portion of that grant to contract with, or make one or more subawards to, one or more—
+
+(1) local or regional organizations that are private and nonprofit, including faith-based organizations;
+
+(2) units of local government; or
+
+(3) tribal organizations.
+
+(c) Program assessment component; waiver (1) Program assessment component Each program funded under this subchapter shall contain a program assessment component, developed pursuant to guidelines established by the Attorney General, in coordination with the National Institute of Justice.
+
+(2) Waiver The Attorney General may waive the requirement of paragraph (1) with respect to a program if, in the opinion of the Attorney General, the program is not of sufficient size to justify a full program assessment.
+
+(d) Administrative costs Not more than 10 percent of a grant made under this subchapter may be used for costs incurred to administer such grant.
+
+(e) Period The period of a grant made under this subchapter may not be longer than 4 years, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General.
+
+(f) Rural pilot program (1) In general The pilot program described under this subsection shall make grants to rural areas to implement community response programs to reduce opioid overdose deaths. Grants issued under this subsection shall be jointly operated by units of local government, in collaboration with public safety and public health agencies or public safety, public health and behavioral health collaborations. A community response program under this subsection shall identify gaps in community prevention, treatment, and recovery services for individuals who encounter the criminal justice system and shall establish treatment protocols to address identified shortcomings. The Attorney General, through the Office of Justice Programs, shall increase the amount provided as a grant under this section for a pilot program by no more than five percent for each of the two years following certification by the Attorney General of the submission of data by the rural area on the prescribing of schedules II, III, and IV controlled substances to a prescription drug monitoring program, or any other centralized database administered by an authorized State agency, which includes tracking the dispensation of such substances, and providing for interoperability and data sharing with each other such program (including an electronic health records system) in each other State, and with any interstate entity that shares information between such programs.
+
+(2) Rules of construction Nothing in this subsection shall be construed to—
+
+(A) direct or encourage a State to use a specific interstate data sharing program; or
+
+(B) limit or prohibit the discretion of a prescription drug monitoring program for interoperability connections to other programs (including electronic health records systems, hospital systems, pharmacy dispensing systems, or health information exchanges).
+
+(Pub. L. 90–351, title I, § 3021, as added Pub. L. 114–198, title II, § 201(a)(1), July 22, 2016, 130 Stat. 711; amended Pub. L. 117–250, § 2, Dec. 20, 2022, 136 Stat. 2352.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 3797ff of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2022—Subsec. (a)(1)(H). Pub. L. 117–250, § 2(1), added subpar. (H). Subsec. (f). Pub. L. 117–250, § 2(2), added subsec. (f).

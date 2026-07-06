@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 2313"
+description: "Description of sanctions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "28"
+chapter_name: "SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS"
+section: "2313"
+citation: "21 U.S.C. § 2313"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s2313"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "83d448f26df93d2bcdd68554d1f35e82db4f43f5a113ae7ebf606b3ed5792326"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "55490a6bda01b7d8228738b541dba1b1f2af364f8c8e4dfa28da60397d05ff9b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 2313 - Description of sanctions
+
+## Text
+
+(a) In general The sanctions that may be imposed with respect to a foreign person under section 2312 of this title are the following:
+
+(1) Loans from United States financial institutions The United States Government may prohibit any United States financial institution from making loans or providing credits to the foreign person.
+
+(2) Prohibitions on financial institutions The following prohibitions may be imposed with respect to a foreign person that is a financial institution:
+
+(A) Prohibition on designation as primary dealer Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, the financial institution as a primary dealer in United States Government debt instruments.
+
+(B) Prohibition on service as a repository of Government funds The financial institution may not serve as agent of the United States Government or serve as repository for United States Government funds.
+
+The imposition of either sanction under subparagraph (A) or (B) shall be treated as one sanction for purposes of section 2312 of this title, and the imposition of both such sanctions shall be treated as 2 sanctions for purposes of that section.
+
+(3) Procurement ban The United States Government may not procure, or enter into any contract for the procurement of, any goods or services from the foreign person.
+
+(4) Foreign exchange The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the foreign person has any interest.
+
+(5) Banking transactions The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
+
+(6) Property transactions The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
+
+(A) acquiring, holding, withholding, using, transferring, withdrawing, or transporting any property that is subject to the jurisdiction of the United States and with respect to which the foreign person has any interest;
+
+(B) dealing in or exercising any right, power, or privilege with respect to such property; or
+
+(C) conducting any transaction involving such property.
+
+(7) Ban on investment in equity or debt of sanctioned person The President may, pursuant to such regulations or guidelines as the President may prescribe, prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of the foreign person.
+
+(8) Exclusion of corporate officers The President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, any alien that the President determines is a corporate officer or principal of, or a shareholder with a controlling interest in, the foreign person.
+
+(9) Sanctions on principal executive officers The President may impose on the principal executive officer or officers of the foreign person, or on individuals performing similar functions and with similar authorities as such officer or officers, any of the sanctions described in paragraphs (1) through (8) that are applicable.
+
+(b) Penalties A person that violates, attempts to violate, conspires to violate, or causes a violation of any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b) and (c) of section 1705 of title 50 to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+(c) Exceptions (1) Intelligence and law enforcement activities Sanctions under this section shall not apply with respect to—
+
+(A) any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.); or
+
+(B) any authorized intelligence or law enforcement activities of the United States.
+
+(2) Exception to comply with United Nations headquarters agreement Sanctions under subsection (a)(8) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
+
+(d) Implementation The President may exercise all authorities provided under sections 1702 and 1704 of title 50 to carry out this section.
+
+(Pub. L. 116–92, div. F, title LXXII, § 7213, Dec. 20, 2019, 133 Stat. 2266.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe National Security Act of 1947, referred to in subsec. (c)(1)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Imposition of Sanctions With Respect to Agencies or Instrumentalities of Foreign StatesPub. L. 119–60, div. H, title LXXXIII, § 8317, Dec. 18, 2025, 139 Stat. 1858, provided that: “(a) Definitions.—In this section, the terms ‘knowingly’ and ‘opioid trafficking’ have the meanings given such terms in section 7203 of the Fentanyl Sanctions Act (21 U.S.C. 2302). “(b) In General.—The President may—“(1) impose one or more of the sanctions described in section 7213 of the Fentanyl Sanctions Act (21 U.S.C. 2313) with respect to any political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act [Dec. 18, 2025]—“(A) engaged in a significant activity that has materially contributed to opioid trafficking; or “(B) provided financial, material, or technological support for (including through the provision of goods or services in support of) any significant activity described in subclause (A); and “(2) impose one or more of the sanctions described in section 7213(a)(6) of the Fentanyl Sanctions Act (21 U.S.C. 2313(a)(6)) with respect to any senior official of a political subdivision, agency, or instrumentality of a foreign government that the President determines has knowingly, on or after the date of the enactment of this Act engaged in a significant activity described in paragraph (1). “(c) Sunset.—The provisions of this section shall have no force or effect beginning on the date that is 5 years after the date of the enactment of this Act.”
+
+Executive Documents
+
+Delegation of Functions Functions and authorities of President under subsections (a)(4) to (9) and (d) of this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(vi) and (vii) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.

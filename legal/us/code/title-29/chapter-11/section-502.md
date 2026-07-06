@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "29 U.S.C. § 502"
+description: "Bonding of officers and employees of labor organizations; amount, form, and placement of bonds; penalty for violation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 29
+title_name: "LABOR"
+chapter_number: "11"
+chapter_name: "LABOR-MANAGEMENT REPORTING AND DISCLOSURE PROCEDURE"
+section: "502"
+citation: "29 U.S.C. § 502"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc29@119-100.zip"
+source_identifier: "/us/usc/t29/s502"
+source_file: "data/legal/raw/us/code/title-29/usc29.xml"
+source_hash: "85aa477c777107595ed09396995ef6d9342b5f94a12cc06945d2fb8bc2976600"
+raw_snapshot_hash: "123f65eaf0f6719b01d66f4a47cd03d5134b66fbd92ae96d7387b67454b98476"
+text_hash: "3783143c33b29d088c381d8c286df110ff2637360351f171e8bd0a2971eab29c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 29 U.S.C. § 502 - Bonding of officers and employees of labor organizations; amount, form, and placement of bonds; penalty for violation
+
+## Text
+
+(a) Every officer, agent, shop steward, or other representative or employee of any labor organization (other than a labor organization whose property and annual financial receipts do not exceed $5,000 in value), or of a trust in which a labor organization is interested, who handles funds or other property thereof shall be bonded to provide protection against loss by reason of acts of fraud or dishonesty on his part directly or through connivance with others. The bond of each such person shall be fixed at the beginning of the organization’s fiscal year and shall be in an amount not less than 10 per centum of the funds handled by him and his predecessor or predecessors, if any, during the preceding fiscal year, but in no case more than $500,000. If the labor organization or the trust in which a labor organization is interested does not have a preceding fiscal year, the amount of the bond shall be, in the case of a local labor organization, not less than $1,000, and in the case of any other labor organization or of a trust in which a labor organization is interested, not less than $10,000. Such bonds shall be individual or schedule in form, and shall have a corporate surety company as surety thereon. Any person who is not covered by such bonds shall not be permitted to receive, handle, disburse, or otherwise exercise custody or control of the funds or other property of a labor organization or of a trust in which a labor organization is interested. No such bond shall be placed through an agent or broker or with a surety company in which any labor organization or any officer, agent, shop steward, or other representative of a labor organization has any direct or indirect interest. Such surety company shall be a corporate surety which holds a grant of authority from the Secretary of the Treasury under sections 9304–9308 of title 31, as an acceptable surety on Federal bonds: Provided, That when in the opinion of the Secretary a labor organization has made other bonding arrangements which would provide the protection required by this section at comparable cost or less, he may exempt such labor organization from placing a bond through a surety company holding such grant of authority.
+
+(b) Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
+
+(Pub. L. 86–257, title V, § 502, Sept. 14, 1959, 73 Stat. 536; Pub. L. 89–216, § 1, Sept. 29, 1965, 79 Stat. 888.)
+
+## Notes
+
+Editorial Notes
+
+Codification In subsec. (a), “sections 9304–9308 of title 31” substituted for “the Act of July 30, 1947 (6 U.S.C. 6–13)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+Amendments1965—Subsec. (a). Pub. L. 89–216 substituted “to provide protection against loss by reason of act of fraud or dishonesty on his part directly or through connivance with others” for “for the faithful discharge of his duties” in first sentence and inserted proviso allowing Secretary to permit other arrangements to provide necessary protection.

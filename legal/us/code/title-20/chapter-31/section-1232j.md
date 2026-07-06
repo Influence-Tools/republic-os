@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 1232j"
+description: "Prohibition on federally sponsored testing"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "31"
+chapter_name: "GENERAL PROVISIONS CONCERNING EDUCATION"
+section: "1232j"
+citation: "20 U.S.C. § 1232j"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s1232j"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "1b351055ce865b2b6f0e62a9158fc78ba15c29dd512294ea692bf8136f109443"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "648bb5050b1ad09cd6cba92e56d1dda9383fc1401941411ef40b815eeca975d3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 1232j - Prohibition on federally sponsored testing
+
+## Text
+
+(a) General prohibition Notwithstanding any other provision of Federal law and except as provided in subsection (b), no funds provided to the Department of Education or to an applicable program, may be used to pilot test, field test, implement, administer or distribute in any way any federally sponsored national test in reading, mathematics, or any other subject that is not specifically and explicitly provided for in authorizing legislation enacted into law.
+
+(b) Exceptions Subsection (a) shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of section 9543(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
+
+(Pub. L. 90–247, title IV, § 447, as added Pub. L. 105–277, div. A, § 101(f) [title III, § 305(a)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374; amended Pub. L. 107–110, title X, § 1062(4), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–279, title IV, § 404(c), Nov. 5, 2002, 116 Stat. 1985.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 447 of Pub. L. 90–247 was classified to section 1233f of this title prior to repeal by Pub. L. 103–382. Prior sections 1233 to 1233h comprising a former subchapter IV of this chapter were repealed by Pub. L. 103–382, title II, § 212(a)(2), Oct. 20, 1994, 108 Stat. 3913. Section 1233, Pub. L. 90–247, title IV, § 441, formerly § 431, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 170; renumbered § 441, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, defined terms for purposes of former subchapter IV of this chapter. Section 1233a, Pub. L. 90–247, title IV, § 442, formerly § 432, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 442, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 678, 692, authorized Secretary to establish necessary advisory councils. Section 1233b, Pub. L. 90–247, title IV, § 443, formerly § 433, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 443, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 516(a), Aug. 21, 1974, 88 Stat. 575; Pub. L. 94–482, title IV, § 411, title V, § 501(a)(10), Oct. 12, 1976, 90 Stat. 2234, 2235; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to statutory advisory councils. Section 1233c, Pub. L. 90–247, title IV, § 444, formerly § 434, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 444, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to compensation and travel expenses of members of advisory councils. Section 1233d, Pub. L. 90–247, title IV, § 445, formerly § 435, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 171; renumbered § 445, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 517(a), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to professional, technical, and clerical staff of advisory councils. Section 1233e, Pub. L. 90–247, title IV, § 446, formerly § 436, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 446, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to advisory council meetings. Section 1233f, Pub. L. 90–247, title IV, § 447, formerly § 437, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 447, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended Pub. L. 93–380, title V, § 517(b), Aug. 21, 1974, 88 Stat. 575; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692, related to auditing and review of advisory council activities. Section 1233g, Pub. L. 90–247, title IV, § 448, formerly § 438, as added Pub. L. 91–230, title IV, § 401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered § 448, Pub. L. 92–318, title III, § 301(a)(1), June 23, 1972, 86 Stat. 326; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–43, § 1(d), June 15, 1977, 91 Stat. 219; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–437, § 7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to reports by Secretary. Section 1233h, Pub. L. 90–247, title IV, § 449, as added Pub. L. 93–380, title V, § 518(a), Aug. 21, 1974, 88 Stat. 575, related to application of other laws to advisory councils under former subchapter IV of this chapter.
+
+Amendments2002—Subsec. (b). Pub. L. 107–279 substituted “section 9543(a)(6) of this title” for “section 9003(a)(6) of this title”. Pub. L. 107–110 made technical amendment to reference in original act which appears in text as reference to section 9003(a)(6) of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.

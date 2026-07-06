@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 313"
+description: "Chief of Staff to President: appointment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "3"
+chapter_name: "COMPOSITION AND ORGANIZATION"
+section: "313"
+citation: "14 U.S.C. § 313"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s313"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "8362eb5cbbc0ff731ac0237fae006f1f6c8df19c8295a64b645384204f99fc32"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "6f4012edf2689169ac7ad86737dac19c09b7e6519cc89067276df18c7e69c3bc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 313 - Chief of Staff to President: appointment
+
+## Text
+
+The President, by and with the advice and consent of the Senate, may appoint a flag officer of the Coast Guard as the Chief of Staff to the President.
+
+(Added Pub. L. 109–163, div. A, title V, § 597(a), Jan. 6, 2006, 119 Stat. 3283, § 54; renumbered § 310, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; renumbered § 313, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 313 was renumbered section 331 of this title. Another prior section 313, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 15, 64 Stat. 407, provided that any warrant officer who was retired under sections 303 to 305 or 307 of this title should be retired from active service with the highest grade held by him in which his performance of duty was satisfactory, but not lower than his permanent grade, with retired pay of the grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177. A prior section 313a, added Pub. L. 85–144, § 2(a), Aug. 14, 1957, 71 Stat. 367, related to retirement of warrant officers in cases where higher grade has been held, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+
+Amendments2025—Pub. L. 119–60 renumbered section 310 of this title as this section.

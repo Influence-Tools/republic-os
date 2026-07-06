@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 2507"
+description: "Entries and final proofs, made out of proper district, confirmed"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "43"
+chapter_name: "SUSPENDED ENTRIES AND CLAIMS; PATENTS"
+section: "2507"
+citation: "43 U.S.C. § 2507"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s2507"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "5c4a3ab2fb99b52d5f7c788fc283684ec4efa5fcfead67ddb725a7a7281cde99"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "d64dc6b6890f31fe95755b8a937e423a777ec574cadbc3b3d106fde35f3f64be"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 2507 - Entries and final proofs, made out of proper district, confirmed
+
+## Text
+
+Whenever it shall appear to the Secretary of the Interior, or such officer as he may designate, that an error was made prior to March 9, 1904, by the officers of any local land office in receiving any application, declaratory statement, entry, or final proof under the homestead or other land laws, and that there was no fraud practiced by the entryman, and that there are no prior adverse claimants to the land described in the entry, and that no other reason why the title should not vest in the entryman exists, except that said application, declaratory statement, entry, or proof was not made within the land district in which the lands applied for were situated, as provided by the Act of March 11, 1902, such entry or proof shall be confirmed.
+
+(Mar. 9, 1904, ch. 503, § 1, 33 Stat. 64; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+## Notes
+
+Editorial Notes
+
+References in TextAct of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch. 182, 32 Stat. 63, which was classified to section 254 of this title, prior to repeal by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of this Act to the Code, see Tables.
+
+Codification Section was formerly classified to section 1167 of this title prior to editorial reclassification and renumbering as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateAct Mar. 9, 1904, ch. 503, § 2, 33 Stat. 64, provided: “That this Act [enacting this section] shall be in force from and after its passage and approval.”
+
+Executive Documents
+
+Transfer of Functions For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title. “Secretary of the Interior, or such officer as he may designate,” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.

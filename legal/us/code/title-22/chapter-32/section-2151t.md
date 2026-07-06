@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2151t"
+description: "Development assistance authority"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "32"
+chapter_name: "FOREIGN ASSISTANCE"
+section: "2151t"
+citation: "22 U.S.C. § 2151t"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2151t"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "bd2be1e9eea61468c04252a9300afcbe6749ae1660efa478fcdbe7db5b40ccd0"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "def15c5039a422324ff64218810b51fe3903dcee84478e632c25b49fe0be2908"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2151t - Development assistance authority
+
+## Text
+
+(a) Authority of President to furnish assistance In order to carry out the purposes of this part, the President is authorized to furnish assistance, on such terms and conditions as he may determine, to countries and areas through programs of grant and loan assistance, bilaterally or through regional, multilateral, or private entities.
+
+(b) Authority of President to make loans; terms and conditions The President is authorized to make loans payable as to principal and interest in United States dollars on such terms and conditions as he may determine, in order to promote the economic development of countries and areas, with emphasis upon assisting long-range plans and programs designed to develop economic resources and increase productive capacities. The President shall determine the interest payable on any loan. In making loans under this part, the President shall consider the economic circumstances of the borrower and other relevant factors, including the capacity of the recipient country to repay the loan at a reasonable rate of interest, except that loans may not be made at a rate of interest of less than 3 per centum per annum commencing not later than ten years following the date on which the funds are initially made available under the loan, during which ten-year period the rate of interest shall not be lower than 2 per centum per annum, nor higher than the applicable legal rate of interest of the country in which the loan is made.
+
+(c) Dollar receipts from loans to be paid into Treasury Dollar receipts paid during any fiscal year from loans made under subchapter I of this chapter or from loans made under predecessor foreign assistance legislation shall be deposited in the Treasury as miscellaneous receipts.
+
+(d) Assistance to research and educational institutions in United States; limitation on amounts Not to exceed $10,000,000 of the funds made available each fiscal year for the purposes of this part may be used for assistance, on such terms and conditions as the President may determine, to research and educational institutions in the United States for the purpose of strengthening their capacity to develop and carry out programs concerned with the economic and social development of developing countries.
+
+(e) Development Loan Committee; establishment; duties; appointment of officers The President shall establish an interagency Development Loan Committee, consisting of such officers from such agencies of the United States Government as he may determine, which shall, under the direction of the President, establish standards and criteria for lending operations under this part in accordance with the foreign and financial policies of the United States. Except in the case of officers serving in positions to which they were appointed by the President by and with the advice and consent of the Senate, officers assigned to the Committee shall be so assigned by the President by and with the advice and consent of the Senate.
+
+(Pub. L. 87–195, pt. I, § 122, as added Pub. L. 95–424, title I, § 102(a), (b)(1), (c)(1), (d), Oct. 6, 1978, 92 Stat. 940, 941.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsSubsec. (b) of this section consists of provisions formerly contained in subsections (b), (c), and (d) of section 2161 of this title. Subsec. (e) of this section consists of provisions formerly contained in section 2164 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+References to Subchapter I Deemed To Include Certain Parts of Subchapter IIReferences to subchapter I of this chapter are deemed to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+Effective DateSection effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
+
+Executive Documents
+
+Delegation of Functions For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.

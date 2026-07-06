@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 7381"
+description: "Findings and purposes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "84"
+chapter_name: "DEPARTMENT OF ENERGY"
+section: "7381"
+citation: "42 U.S.C. § 7381"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s7381"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "7bd216f293e98cfb9a7b923c8a497c3e511bf3d734513bc0f74af86864066c1f"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "c43fea023bc704fae763ee72e6feace9e9b4af15f222a4fe507f35722f243703"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 7381 - Findings and purposes
+
+## Text
+
+(a) Findings The Congress finds the following:
+
+(1) Scientific, technical, and engineering competence is essential to the Nation’s future well-being.
+
+(2) The scientific, technical, and engineering capability at the Federal laboratories is unmatched throughout the world.
+
+(3) Superb research, development, testing, and evaluation occur in Department of Energy research and development facilities.
+
+(4) Department of Energy research and development facilities will play an increasing role in assuring that the United States remains competitive in world markets.
+
+(5) Improvements in mathematics, science, and engineering education are needed desperately to provide the trained and educated citizenry essential to the future competitiveness of the United States.
+
+(6) The future health and vitality of the economy of the United States is predicated on the availability of an adequate supply of scientists, mathematicians, and engineers to provide for growing needs and to replenish the workforce.
+
+(7) United States college and university enrollment in science, mathematics, and engineering programs is sharply declining at undergraduate, graduate, and post-graduate levels.
+
+(8) The Federal Government is the largest United States employer of research scientists, mathematicians, and engineers, and the Department of Energy has a growing need for scientists, mathematicians, and engineers at a time when these enrollments are declining.
+
+(9) Women and minorities are grossly underrepresented in science and mathematics fields, and this group represents more than 80 percent of the projected increase in the national workforce through the year 2000.
+
+(b) Purposes The purposes of this subchapter are—
+
+(1) to encourage the development and implementation of science, mathematics, and engineering education programs at the Department of Energy and at its research and development facilities as part of a national effort to improve science, mathematics, and engineering education; and
+
+(2) to provide more efficient coordination among science, mathematics, and engineering education programs.
+
+(Pub. L. 101–510, div. C, title XXXI, § 3162, Nov. 5, 1990, 104 Stat. 1840.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in subsec. (b), was in the original “this part”, meaning part E of title XXXI of div. C of Pub. L. 101–510, which is classified principally to this subchapter. For complete classification of part E to the Code, see Short Title note set out below and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 101–510, div. C, title XXXI, § 3161, Nov. 5, 1990, 104 Stat. 1840, provided that: “This part [part E (§§ 3161–3168) of title XXXI of div. C of Pub. L. 101–510, enacting this subchapter and amending section 7112 of this title] may be cited as the ‘Department of Energy Science Education Enhancement Act’.”
+
+University-Based Research Collaboration ProgramPub. L. 105–85, div. C, title XXXI, § 3155, Nov. 18, 1997, 111 Stat. 2044, which was formerly set out as a note under this section, was renumbered section 4814 of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(k)(9)(A)–(C), Nov. 24, 2003, 117 Stat. 1785, and classified to section 2795 of Title 50, War and National Defense, and was repealed and restated as section 6338 of Title 10, Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1451, 1458.

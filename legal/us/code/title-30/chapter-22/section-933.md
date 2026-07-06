@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "30 U.S.C. § 933"
+description: "Duties of operators in States not qualifying under workmen’s compensation laws"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 30
+title_name: "MINERAL LANDS AND MINING"
+chapter_number: "22"
+chapter_name: "MINE SAFETY AND HEALTH"
+section: "933"
+citation: "30 U.S.C. § 933"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc30@119-100.zip"
+source_identifier: "/us/usc/t30/s933"
+source_file: "data/legal/raw/us/code/title-30/usc30.xml"
+source_hash: "a23dfb53398d817686826b0d05338fa27cc3b6741ec394b91b1ca96a0decc3c4"
+raw_snapshot_hash: "355f8eb5c6ad5372de4a8e665d9ed90202d53d2aac19ac001d43948af4a4dd2f"
+text_hash: "0a4258136eaf3479fbcaa2e61195e95aa42c381459932ae8d318912d985e3492"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 30 U.S.C. § 933 - Duties of operators in States not qualifying under workmen’s compensation laws
+
+## Text
+
+(a) Securing of benefits for miners; self-insurers; mutual companies During any period in which a State workmen’s compensation law is not included on the list published by the Secretary under section 931(b) of this title each operator of a coal mine in such State shall secure the payment of benefits for which he is liable under section 932 of this title by (1) qualifying as a self-insurer in accordance with regulations prescribed by the Secretary, or (2) insuring and keeping insured the payment of such benefits with any stock company or mutual company or association, or with any other person or fund, including any State fund, while such company, association, person or fund is authorized under the laws of any State to insure workmen’s compensation.
+
+(b) Required provisions of insurance contracts In order to meet the requirements of clause (2) of subsection (a) of this section, every policy or contract of insurance must contain—
+
+(1) a provision to pay benefits required under section 932 of this title, notwithstanding the provisions of the State workmen’s compensation law which may provide for lesser payments;
+
+(2) a provision that insolvency or bankruptcy of the operator or discharge therein (or both) shall not relieve the carrier from liability for such payments; and
+
+(3) such other provisions as the Secretary, by regulation, may require.
+
+(c) Cancellation of insurance contracts No policy or contract of insurance issued by a carrier to comply with the requirements of clause (2) of subsection (a) of this subsection 11 So in original. Probably should be “section”. shall be canceled prior to the date specified in such policy or contract for its expiration until at least thirty days have elapsed after notice of cancellation has been sent by registered or certified mail to the Secretary and to the operator at his last known place of business.
+
+(d) Penalties for failure to secure payment of benefits (1) Any employer required to secure the payment of benefits under this section who fails to secure such benefits shall be subject to a civil penalty assessed by the Secretary of not more than $1,000 for each day during which such failure occurs. In any case where such employer is a corporation, the president, secretary, and treasurer thereof also shall be severally liable to such civil penalty as provided in this subsection for the failure of such corporation to secure the payment of benefits. Such president, secretary, and treasurer shall be severally personally liable, jointly with such corporation, for any benefit which may accrue under this subchapter in respect to any disability which may occur to any employee of such corporation while it shall so fail to secure the payment of benefits as required by this section.
+
+(2) Any employer of a miner who knowingly transfers, sells, encumbers, assigns, or in any manner disposes of, conceals, secrets,22 So in original. Probably should be “secretes,”. or destroys any property belonging to such employer, after any miner employed by such employer has filed a claim under this subchapter, and with intent to avoid the payment of benefits under this subchapter to such miner or his or her dependents, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000, or by imprisonment for not more than one year, or both. In any case where such employer is a corporation, the president, secretary, and treasurer thereof also shall be severally liable for such penalty of imprisonment as well as jointly liable with such corporation for such fine.
+
+(3) This subsection shall not affect any other liability of the employer under this part.
+
+(Pub. L. 91–173, title IV, § 423, Dec. 30, 1969, 83 Stat. 797; Pub. L. 92–303, § 3(b), May 19, 1972, 86 Stat. 153; Pub. L. 95–239, § 8, Mar. 1, 1978, 92 Stat. 100.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1978—Subsec. (d). Pub. L. 95–239 added subsec. (d). 1972—Subsec. (a). Pub. L. 92–303 substituted “a coal mine” for “an underground coal mine”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as a note under section 901 of this title.
+
+Effective Date of 1972 AmendmentAmendment by Pub. L. 92–303 effective Dec. 30, 1969, see section 3(c) of Pub. L. 92–303, set out as a note under section 901 of this title.

@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 735"
+description: "Marking pierheads in certain lakes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "16"
+chapter_name: "LIGHTHOUSES"
+section: "735"
+citation: "33 U.S.C. § 735"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s735"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "ee86d70070eea10c74fac08a6f86d8c3533c8a9ac5327a532216f1def76115cd"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "fae8be16a3269e1080b5a2e59a36e321a7c12dcdd9fb7b576281af3974098712"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 735 - Marking pierheads in certain lakes
+
+## Text
+
+The Commandant of the Coast Guard shall properly mark all pierheads belonging to the United States situated on the northern and northwestern lakes, whenever he is duly notified by the department charged with the construction or repair of pierheads that the construction or repair of any such pierheads has been completed.
+
+(R.S. § 4677; June 17, 1910, ch. 301, §§ 6, 13, 36 Stat. 538, 539; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Aug. 4, 1949, ch. 393, §§ 1, 20, 63 Stat. 496, 561.)
+
+## Notes
+
+Editorial Notes
+
+Codification R.S. § 4677 derived from act July 15, 1870, ch. 292, § 3, 16 Stat. 309.
+
+Statutory Notes and Executive Documents
+
+Transfer of Functions “Commandant of the Coast Guard” substituted in text for “Light-House Board” on authority of sections 6 and 13 of act June 17, 1910, which abolished the board and transferred its powers and duties to the Commissioner of Lighthouses, who was the head of the Bureau of Lighthouses. Said sections 6 and 13 were repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished the Coast Guard by enacting Title 14, Coast Guard. Section 2(a) of Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, consolidated the Bureau of Lighthouses with the Coast Guard, the Chief of which is the Commandant of the Coast Guard. For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard. Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See section 108 of Title 49, Transportation. For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.

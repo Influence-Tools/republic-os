@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 11851"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "123"
+chapter_name: "DRUG ABUSE EDUCATION AND PREVENTION"
+section: "11851"
+citation: "42 U.S.C. § 11851"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s11851"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "24293924b72a121b18932613affd750cf2ab074b094ac3d646caa6d491d508cf"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "25b06508ce2113b0e2c5d43c60cf256146fed4bdbf40412bec66d7f87c3066ab"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 11851 - Definitions
+
+## Text
+
+Unless otherwise defined by an Act amended by this title,11 See References in Text note below. for purposes of this title 1 and the amendments made by this title— 1
+
+(1) the term “community based” has the meaning given it in section 11103(1) of title 34,
+
+(2) the term “controlled substance” has the meaning given it in section 802(6) of title 21,
+
+(3) the term “controlled substance analogue” has the meaning given it in section 802(32) of title 21,
+
+(4) the term “drug” means—
+
+(A) a beverage containing alcohol,
+
+(B) a controlled substance, or
+
+(C) a controlled substance analogue,
+
+(5) the term “Director” means the Chief Executive Officer of the Corporation for National and Community Service,
+
+(6) the term “illicit” means unlawful or injurious,
+
+(7) the term “institution of higher education” has the meaning given it in section 1001 of title 20,
+
+(8) the term “public agency” has the meaning given it in section 11103(11) of title 34,
+
+(9) the term “Secretary” means—
+
+(A) the Secretary of Education for purposes of subtitle A (other than section 3201),
+
+(B) the Secretary of Agriculture for purposes of the amendments made by section 3201, and
+
+(C) the Secretary of Health and Human Services for purposes of subtitle B,
+
+(10) the term “State” has the meaning given it in section 11103(7) of title 34,
+
+(11) the term “treatment” has the meaning given it in section 11103(15) of title 34, and
+
+(12) the term “unit of general local government” has the meaning given it in section 11103(8) 1 of title 34.
+
+(Pub. L. 100–690, title III, § 3601, Nov. 18, 1988, 102 Stat. 4260; Pub. L. 101–204, title X, § 1001(c)(2), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 103–82, title IV, § 405(n), Sept. 21, 1993, 107 Stat. 922; Pub. L. 105–244, title I, § 102(a)(13)(J), Oct. 7, 1998, 112 Stat. 1621.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis title, referred to in introductory provisions, means title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4244, which enacted this chapter and sections 3156–1, 3201, and 3227 of Title 20, Education, and amended sections 1786, 4994, and 5081 of this title and sections 3156a, 3181, 3191 to 3195, 3197, 3212, and 3222 of Title 20. For complete classification of title III to the Code, see Tables. Subtitle A (other than section 3201), referred to in par. (9)(A), is subtitle A (§§ 3101–3402) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4245, which enacted former sections 3156–1, 3201, and 3227 of Title 20, and amended sections 4994 and 5081 of this title and former sections 3156a, 3181, 3191 to 3195, 3197, 3212, and 3222 of Title 20. For complete classification of subtitle A to the Code, see Tables. Section 3201, referred to in par. (9)(A), (B), is section 3201 of Pub. L. 100–690, title III, Nov. 18, 1988, 102 Stat. 4246, which amended section 1786 of this title. Subtitle B, referred to in par. (9)(C), is subtitle B (§§ 3501–3522) of title III of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4254, which enacted subchapters I to III of this chapter. For complete classification of subtitle B to the Code, see Tables. Section 11103(8) of title 34, referred to in par. (12), was subsequently amended, and no longer defines “unit of general local government”. However, it now defines “unit of local government”.
+
+Amendments1998—Par. (7). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”. 1993—Par. (5). Pub. L. 103–82 added par. (5) and struck out former par. (5) which read as follows: “the term ‘Director’ means the Director of the ACTION Agency,”. 1989—Pub. L. 101–204 redesignated pars. (2) to (13) as (1) to (12), respectively, and struck out former par. (1) which read as follows: “the term ‘Administrator’ means the Administrator of the Office of Juvenile Justice and Delinquency Prevention,”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1998 AmendmentAmendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
+Effective Date of 1993 AmendmentAmendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.

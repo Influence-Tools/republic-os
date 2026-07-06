@@ -1,0 +1,97 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 53106"
+description: "Payments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "531"
+chapter_name: "MARITIME SECURITY FLEET"
+section: "53106"
+citation: "46 U.S.C. § 53106"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s53106"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "001d6d877300745506471b3d46ec655dca2f00042d7d50c2f839e7fd3f4c9a7c"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "1e516595754ae78f4445346b79ca1e3f75e272a6ff0124068007832c4e590554"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 53106 - Payments
+
+## Text
+
+(a) Annual Payment.— (1) In general.— The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
+
+(A) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
+
+(B) $8,233,463 for fiscal year 2021;
+
+(C) $5,300,000 for each of fiscal years 2022, 2023,,11 So in original. Second comma probably should not appear. and 2024;
+
+(D) $6,500,000 for each of fiscal years 2025 and 2026;
+
+(E) $6,675,500 for each of fiscal years 2027 and 2028;
+
+(F) $6,855,000 for each of fiscal years 2029and 2030;
+
+(G) $7,040,000 for each of fiscal years 2031 and 2032;
+
+(H) $7,230,000 for each of fiscal years 2033 and 2034;
+
+(I) $7,426,000 for each of fiscal years 2035 and 2036;
+
+(J) $7,626,000 for each of fiscal years 2037 and 2038; and
+
+(K) $7,832,000 for each of fiscal years 2039 and 2040.
+
+(2) Timing.— The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section or section 51307(b).
+
+(b) Certification Required for Payment.— As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+
+(c) General Limitations.— The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—
+
+(1) under a charter to the United States Government, other than a charter pursuant to an Emergency Preparedness Agreement under section 53107;
+
+(2) not operated or maintained in accordance with an operating agreement under this chapter; or
+
+(3) more than—
+
+(A) 25 years of age, except as provided in subparagraph (B); or
+
+(B) 20 years of age, in the case of a tank vessel.
+
+(d) Reductions in Payments.— With respect to payments under this chapter for a vessel covered by an operating agreement, the Secretary—
+
+(1) except as provided in paragraph (2), shall not reduce any payment for the operation of the vessel to carry military or other preference cargoes under section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10, or any other cargo preference law of the United States;
+
+(2) shall not make any payment for any day that the vessel is engaged in transporting more than 7,500 tons of civilian bulk preference cargoes pursuant to section 55302(a), 55305, or 55314 of this title that is bulk cargo; and
+
+(3) shall make a pro rata reduction in payment for each day less than 320 in a fiscal year that the vessel is not operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, with days during which the vessel is drydocked or undergoing survey, inspection, or repair considered to be days on which the vessel is operated.
+
+(e) Limitation Regarding Noncontiguous Domestic Trade.— (1) In general.— No contractor shall receive payments pursuant to this chapter during a period in which it participates in noncontiguous domestic trade.
+
+(2) Limitation on application.— Paragraph (1) shall not apply to any person that is a citizen of the United States within the meaning of section 50501 of this title, applying the 75 percent ownership requirement of that section.
+
+(3) Participates in a noncontiguous domestic trade defined.— In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
+
+(Added Pub. L. 108–136, div. C, title XXXV, § 3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, § 13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, § 3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, § 3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, § 3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, § 101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, § 3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, § 3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, § 3546(o), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, § 3502(c), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. C, title XXXV, § 3501(b), Jan. 1, 2021, 134 Stat. 4397; Pub. L. 117–263, div. C, title XXXV, § 3517(b)(1), Dec. 23, 2022, 136 Stat. 3074; Pub. L. 118–159, div. C, title XXXV, § 3502(c), Dec. 23, 2024, 138 Stat. 2304.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a)(1)(C). Pub. L. 118–159, § 3502(c)(1), substituted “, and 2024” for “2024, and 2025”. Subsec. (a)(1)(D). Pub. L. 118–159, § 3502(c)(3), added subpar. (D). Former subpar. (D) redesignated (E). Subsec. (a)(1)(E). Pub. L. 118–159, § 3502(c)(4), substituted “$6,675,500” for “$5,800,000” and “2026, 2027,” for “2027”. Pub. L. 118–159, § 3502(c)(2), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F). Subsec. (a)(1)(F). Pub. L. 118–159, § 3502(c)(5), substituted “$6,855,000” for “$6,300,000” and “and 2030;” for “, 2030, and 2031; and”. Pub. L. 118–159, § 3502(c)(2), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (G). Subsec. (a)(1)(G). Pub. L. 118–159, § 3502(c)(6), substituted “$7,040,000” for “$6,800,000” and “2032;” for “2032, 2033, 2034, and 2035.”, and inserted “2031 and” before “2032”. Pub. L. 118–159, § 3502(c)(2), redesignated subpar. (F) as (G). Subsec. (a)(1)(H) to (K). Pub. L. 118–159, § 3502(c)(7), added subpars. (H) to (K). 2022—Subsec. (a)(2). Pub. L. 117–263 inserted “or section 51307(b)” after “this section”. 2021—Subsec. (a)(1)(B). Pub. L. 116–283 substituted “$8,233,463” for “$5,233,463”. 2019—Subsec. (a)(1)(C) to (F). Pub. L. 116–92 substituted “$5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;” for “$3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.” in subpar. (C) and added subpars. (D) to (F). 2018—Subsec. (a)(1). Pub. L. 115–232 redesignated subpars. (E) to (G) as (A) to (C), respectively, and struck out former subpars. (A) to (D) which set out payment amounts for fiscal years 2006 to 2017. 2017—Subsec. (b). Pub. L. 115–91, § 3503(b)(1), substituted “paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel,” for “section 53105(a)(1)”. Subsec. (d)(3). Pub. L. 115–91, § 3503(b)(2), substituted “paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel” for “section 53105(a)(1)”. 2016—Subsec. (c)(3). Pub. L. 114–328 substituted “; or” for “or (C);” at end of subpar. (A) and a period for “; or” at end of subpar. (B) and struck out subpar. (C) which read as follows: “30 years of age, in the case of a lighter aboard ship vessel.” 2015—Subsec. (a)(1)(B). Pub. L. 114–113, § 101(e)(1)(A), struck out comma before “for each”. Subsec. (a)(1)(C). Pub. L. 114–113, § 101(e)(1)(B), substituted “and 2015;” for “2015, 2016, 2017, and 2018;”. Subsec. (a)(1)(D) to (G). Pub. L. 114–113, § 101(e)(1)(C), (D), added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which read as follows: “$3,500,000 for each of fiscal years 2019, 2020, and 2021; and”. 2013—Subsec. (a)(1)(B) to (E). Pub. L. 112–239, § 3508(f)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: “$3,100,000 for each of fiscal years 2012 though 2025.” Subsec. (c)(3)(C). Pub. L. 112–239, § 3508(f)(2), substituted “a lighter aboard ship vessel.” for “a LASH vessel.” Subsec. (f). Pub. L. 112–239, § 3508(f)(3), struck out subsec. (f). Text read as follows: “If the amount available for a fiscal year for making payments under operating agreements under this chapter is not sufficient to pay the full amount authorized under each agreement pursuant to this section for such fiscal year, the amount available shall be allocated among such agreements in a manner that gives priority to payments for vessels that are subject to agreements under section 3517 of the Maritime Security Act of 2003 (46 U.S.C. 53101 note).” 2011—Subsec. (a)(1)(C). Pub. L. 111–383 substituted “for each of fiscal years 2012 though 2025” for “for each fiscal years 2012, 2013, 2014, and 2015”. 2006—Subsec. (d)(1). Pub. L. 109–304, § 13(a)(5)(A), substituted “section 55302(a), 55304, 55305, or 55314 of this title, section 2631 of title 10” for “section 2631 of title 10, United States Code, the Act of March 26, 1934 (46 U.S.C. App. 1241–1), section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f)”. Subsec. (d)(2). Pub. L. 109–304, § 13(a)(5)(B), substituted “section 55302(a), 55305, or 55314 of this title” for “section 901(a), 901(b), or 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(a), 1241(b), or 1241f),”. Subsec. (e)(2). Pub. L. 109–304, § 13(a)(5)(C), substituted “section 50501 of this title, applying the 75 percent ownership requirement of that section” for “section 2(c) of the Shipping Act, 1916 (46 U.S.C. App. 802(c))”. Subsec. (f). Pub. L. 109–364 added subsec. (f).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2013 AmendmentAmendment by section 3508(f)(2) of Pub. L. 112–239 effective Dec. 31, 2014, see section 3508(j)(2) of Pub. L. 112–239, set out as a note under section 53101 of this title.

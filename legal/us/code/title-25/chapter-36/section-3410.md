@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 3410"
+description: "Federal responsibilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "36"
+chapter_name: "INDIAN EMPLOYMENT, TRAINING AND RELATED SERVICES"
+section: "3410"
+citation: "25 U.S.C. § 3410"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s3410"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "39b0d6083023d18a8f9a0646ba88da21382287b0645ba208dd4892a42d12f8aa"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "82747ab4f05c7eb2f3ab837bd3dcdfeb2a68da4a6f8d6be200f84001a4a294cf"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 3410 - Federal responsibilities
+
+## Text
+
+(a) Lead agency (1) In general Notwithstanding any other provision of law, the lead agency responsible for implementation of this chapter shall be the Bureau of Indian Affairs.
+
+(2) Inclusions The responsibilities of the Director of the Bureau of Indian Affairs in carrying out this chapter shall include—
+
+(A) in coordination with the head of each Federal agency overseeing a program identified in the plan, the development of a single model report for each Indian tribe that has in place an approved plan under this chapter to submit to the Director reports on any consolidated activities undertaken and joint expenditures made under the plan;
+
+(B) the provision, directly or through contract, of appropriate voluntary and technical assistance to participating Indian tribes;
+
+(C) the development and use of a single monitoring and oversight system for plans approved under this chapter;
+
+(D) (i) the receipt of all funds covered by a plan approved under this chapter; and
+
+(ii) the distribution of the funds to the respective Indian tribes by not later than 45 days after the date of receipt of the funds from the appropriate Federal department or agency; and
+
+(E) (i) the performance of activities described in section 3406 of this title relating to agency waivers; and
+
+(ii) the establishment of an interagency dispute resolution process.
+
+(3) Memorandum of agreement (A) In general Not later than 1 year after December 18, 2017, the Secretary (acting through the Director of the Bureau of Indian Affairs), in conjunction with the Secretaries of Agriculture, Commerce, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Labor, Transportation, and Veterans Affairs and the Attorney General, shall enter into an interdepartmental memorandum of agreement providing for the implementation of this chapter.
+
+(B) Inclusions The memorandum of agreement under subparagraph (A) shall include provisions relating to—
+
+(i) an annual meeting of participating Indian tribes and Federal departments and agencies, to be co-chaired by—
+
+(I) a representative of the President; and
+
+(II) a representative of the participating Indian tribes;
+
+(ii) an annual review of the achievements under this chapter, including the number and percentage of program participants in unsubsidized employment during the second quarter after exit from the program, and any statutory, regulatory, administrative, or policy obstacles that prevent participating Indian tribes from fully and efficiently carrying out the purposes of this chapter; and
+
+(iii) a forum comprised of participating Indian tribes and Federal departments and agencies to identify and resolve interagency conflicts and conflicts between the Federal Government and Indian tribes in the administration of this chapter.
+
+(b) Report format (1) In general The lead agency shall develop and distribute to Indian tribes that have in place an approved plan under this chapter a single report format, in accordance with the requirements of this chapter.
+
+(2) Requirements The lead agency shall ensure that the report format developed under paragraph (1), together with records maintained by each participating Indian tribe, contains information sufficient—
+
+(A) to determine whether the Indian tribe has complied with the requirements of the approved plan of the Indian tribe;
+
+(B) to determine the number and percentage of program participants in unsubsidized employment during the second quarter after exit from the program; and
+
+(C) to provide assurances to the head of each applicable Federal department or agency that the Indian tribe has complied with all directly applicable statutory and regulatory requirements not waived under section 3406 of this title.
+
+(3) Limitation The report format developed under paragraph (1) shall not require a participating Indian tribe to report on the expenditure of funds expressed by fund source or single agency code transferred to the Indian tribe under an approved plan under this chapter but instead shall require the Indian tribe to submit a single report on the expenditure of consolidated funds under such plan.
+
+(Pub. L. 102–477, § 11, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, § 11, Dec. 18, 2017, 131 Stat. 2032.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Pub. L. 115–93 amended section generally. Prior to amendment, section related to Federal responsibilities, specifying the responsibilities of Department of the Interior, and report requirements.

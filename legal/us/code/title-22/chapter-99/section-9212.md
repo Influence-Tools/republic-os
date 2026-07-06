@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 9212"
+description: "Investigations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "99"
+chapter_name: "NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT"
+section: "9212"
+citation: "22 U.S.C. § 9212"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s9212"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "28f54a38109efa594a8e5547898e0154ea9324c55f842b2984cc65d68b526578"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "c7674e4a135b11c2cb716ed1c8fc95e1bfd5b0f64b0313e137cea87ada3ef3d6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 9212 - Investigations
+
+## Text
+
+(a) Initiation The President shall initiate an investigation into the possible designation of a person under section 9214(a) or (g) of this title upon receipt by the President of credible information indicating that such person has engaged in conduct described in section 9214(a) or (g) of this title.
+
+(b) Personnel The President may direct the Secretary of State, the Secretary of the Treasury, and the heads of other Federal departments and agencies as may be necessary to assign sufficient experienced and qualified investigators, attorneys, and technical personnel—
+
+(1) to investigate the conduct described in subsections (a), (b), and (g) of section 9214 of this title; and
+
+(2) to coordinate and ensure the effective enforcement of this chapter.
+
+(Pub. L. 114–122, title I, § 102, Feb. 18, 2016, 130 Stat. 98; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(2), Dec. 20, 2019, 133 Stat. 2248.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+
+Amendments2019—Subsec. (a). Pub. L. 116–92, § 7122(b)(2)(A), inserted “or (g)” after “section 9214(a)” in two places. Subsec. (b)(1). Pub. L. 116–92, § 7122(b)(2)(B), substituted “(a), (b), and (g)” for “(a) and (b)”.
+
+Executive Documents
+
+Delegation of Certain Functions and Authorities Under the North Korea Sanctions and Policy Enhancement Act of 2016 Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, provided: Memorandum for the Secretary of State[,] the Secretary of the Treasury[,] the Director of National Intelligence[, and] the Secretary of Commerce By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows: I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, functions and authorities vested in the President by section 103(a) of the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122, 22 U.S.C. 9201 note [22 U.S.C. 9201 et seq.]) (the “Act”). I hereby delegate to the Secretary of State the functions and authorities vested in the President by sections 208(b), 208(c), 401(a), 401(b), and 402. These functions and authorities shall be executed in consultation with the Secretary of the Treasury when affecting actions undertaken by the Department of the Treasury pursuant to authorities delegated herein or pursuant to authorities conferred by the Act. I hereby delegate to the Secretary of State the functions and authorities vested in the President by section 301 of the Act and direct the Secretary of State to develop, in coordination with other executive departments and agencies, as appropriate, the strategy described in section 202(c) of the Act. I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by sections 104(a), 104(b), 104(d), 209(b), and 304(b) of the Act. I hereby delegate to the Secretary of the Treasury the functions and authorities vested in the President by sections 102(a), 104(c), 104(e), and 208(d) of the Act. I hereby delegate to the Director of National Intelligence, in consultation with the Secretary of State, the functions and authorities vested in the President by section 205(a) of the Act. I hereby delegate the functions and authorities vested in the President by section 209(a) as follows: The Secretary of the Treasury, in consultation with the Secretary of State and the Director of National Intelligence, shall have the responsibility for submitting the report described in subsection 209(a)(1) and for providing the information described in subsections 209(a)(2)(A) and (B). The Director of National Intelligence, in consultation with the Secretary of the Treasury and the Secretary of State, shall have the responsibility for providing the description of significant activities described by subsection 209(a)(1) and the assessment described in subsection 209(a)(2)(C). The Secretary of State, in consultation with the Secretary of the Treasury and the Director of National Intelligence, shall have the responsibility for providing the strategy described in subsection 209(a)(2)(D). I hereby delegate to the Secretary of State, the Secretary of the Treasury, the Secretary of Commerce, and the Director of National Intelligence the functions and authorities vested in the President by section 404(a) of the Act as may be necessary to carry out the provisions of the Act, including the foregoing delegations. Any reference herein to provisions of any act related to the subject of this memorandum shall be deemed to include references to any hereafter-enacted provisions of law that are the same or substantially the same as such provisions. The Secretary of State is authorized and directed to publish this memorandum in the Federal Register. Barack Obama.

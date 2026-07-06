@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 53724"
+description: "Rights to secured property"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "537"
+chapter_name: "LOANS AND GUARANTEES"
+section: "53724"
+citation: "46 U.S.C. § 53724"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s53724"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "b6b3816d9ea0202a8e899e42226876abc11a650f1ee7c890306cdb0baddd5caa"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "d9e4f368d868e0cb716dad000cf4a47da7736292c483fc2adc2956546e01f7fa"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 53724 - Rights to secured property
+
+## Text
+
+(a) Acquisition of Security Rights.— When the Secretary or Administrator makes a payment on, or assumes, an obligation under section 53721 or 53722 of this title, the Secretary or Administrator acquires the rights under the security agreement with the obligor in the security held by the Secretary or Administrator to guarantee the obligation.
+
+(b) Use and Disposition of Secured Property.— Notwithstanding any other law relating to the acquisition, handling, or disposal of property by the United States Government, the Secretary or Administrator has the right, in the Secretary’s or Administrator’s discretion, to complete, reconstruct, recondition, renovate, repair, maintain, operate, charter, or sell any property acquired under a security agreement with an obligor, or to place a vessel so acquired in the National Defense Reserve Fleet. The terms of a sale under this subsection shall be as approved by the Secretary or Administrator.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1619; Pub. L. 109–163, div. C, title XXXV, § 3507(a)(1)(F), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, § 3522(a)(10)(B), (11), (b), Jan. 28, 2008, 122 Stat. 598.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 5372446 App.:1275(c).June 29, 1936, ch. 858, title XI, § 1105(c), as added June 23, 1938, ch. 600, § 46, 52 Stat. 971; Aug. 15, 1953, ch. 513, § 3, 67 Stat. 626; Sept. 3, 1954, ch. 1265, § 5, 68 Stat. 1272; Aug. 7, 1956, ch. 1026, § 1(e)–(g), 70 Stat. 1087; Pub. L. 85–520, July 15, 1958, 72 Stat. 358; Pub. L. 91–469, § 33, Oct. 21, 1970, 84 Stat. 1035; restated Pub. L. 92–507, § 3, Oct. 19, 1972, 86 Stat. 914; Pub. L. 97–31, § 12(136), Aug. 6, 1981, 95 Stat. 166; Pub. L. 98–595, § 1(10), Oct. 30, 1984, 98 Stat. 3131.
+
+Editorial Notes
+
+Amendments2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(F). See 2006 Amendment note below. Pub. L. 110–181, § 3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(F), into this section by inserting “or Administrator” after “Secretary” wherever appearing and, in subsec. (b), “or Administrator’s” after “Secretary’s”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. 2006—Pub. L. 109–163, § 3507(a)(1)(F), which directed the amendment of section 1275(c) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, § 3522(b). See 2008 Amendment notes and Historical and Revision notes above.

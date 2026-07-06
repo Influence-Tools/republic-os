@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3334o"
+description: "Requirements and report on workforce needs of intelligence community relating to science, technology, engineering, and math, and related areas"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "45"
+chapter_name: "MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES"
+section: "3334o"
+citation: "50 U.S.C. § 3334o"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3334o"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "d14f5cd16760cb251c0371726a90dc14326270dbe9b18fb1752f457190f109c7"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "7e791c5ca16677ba44b3dbef8bf12cb527391bb0426c0ab5e63e8ce86757ea15"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3334o - Requirements and report on workforce needs of intelligence community relating to science, technology, engineering, and math, and related areas
+
+## Text
+
+(a) Requirements The Director of National Intelligence, in coordination with the heads of human capital from each element of the intelligence community, shall—
+
+(1) develop a plan for the recruitment and retention of personnel to positions the primary duties of which involve the integration, maintenance, or use of artificial intelligence (and the retention and training of personnel serving in such positions), including with respect to the authorities and requirements under section 6732(b); 11 See References in Text note below.
+
+(2) develop a plan for the review and evaluation, on a continuous basis, of the expertise necessary to accelerate the adoption of artificial intelligence and other emerging technology solutions; and
+
+(3) coordinate and share information and best practices relating to such recruitment and retention within the element and across the intelligence community.
+
+(b) Report (1) Submission Not later than January 1, 2024, the Director of National Intelligence, in coordination with heads of human capital from each element of the intelligence community, shall submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives a single report on the workforce needs of each element of the intelligence community relating to emerging technologies, with a specific focus on artificial intelligence.
+
+(2) Elements The report under paragraph (1) shall include, with respect to each element of the intelligence community, the following:
+
+(A) A description of the number and types of personnel in work roles whose primary official duties include artificial intelligence responsibilities.
+
+(B) A detailed description of the plans for each element developed pursuant to subsection (a).
+
+(3) Other matters The report under paragraph (1) shall also include an assessment of the quality and sustainability of the talent pipeline of the intelligence community with respect to talent in emerging technologies, including artificial intelligence. Such assessment shall include the following:
+
+(A) A description of the education, recruitment, and retention programs (including skills-based training and career and technical educational programs) available to personnel of the intelligence community, regardless of whether such programs are administered by the head of an element of the intelligence community or the head of another Federal department or agency, and an analysis of how such programs support the quality and sustainability of such talent pipeline.
+
+(B) A description of the relevant authorities available to the heads of the elements of the intelligence community to promote the quality and sustainability of such talent pipeline.
+
+(C) An assessment of any gaps in authorities, resources, recruitment or retention incentives, skills-based training, or educational programs, that may negatively affect the quality or sustainability of such talent pipeline.
+
+(4) Form The report under paragraph (1) shall be submitted in classified or unclassified form, as appropriate.
+
+(c) Information access The heads of the elements of the intelligence community shall furnish to the Director of National Intelligence such information as may be necessary for the development of the report under subsection (b).
+
+(Pub. L. 117–263, div. F, title LXVII, § 6723, Dec. 23, 2022, 136 Stat. 3581.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 6732(b), referred to in subsec. (a)(1), means section 6732(b) of Pub. L. 117–263, which is set out in a note under section 3024 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Enhancing Biotechnology Talent Within the Intelligence CommunityPub. L. 119–60, div. F, title LXVI, § 6613, Dec. 18, 2025, 139 Stat. 1638, provided that: “(a) Plan.—Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of National Intelligence shall develop a plan to use existing and future funding and resources of the intelligence community to ensure the intelligence community has sufficient personnel with appropriate security clearances, including private-sector experts, to identify and respond to biotechnology threats. “(b) Elements.—The plan required by subsection (a) shall include the following:“(1) An identification of the exact number of personnel dedicated to biotechnology threats other than biological weapons in each element of the intelligence community as of the date on which such plan is completed, including personnel breakdowns by position function. “(2) An identification of the exact number of personnel dedicated to biological weapons issues in each element of the intelligence community as of such date, including personnel breakdowns by position function. “(3) An identification of areas within the intelligence community with respect to which the addition of full-time employees or detailees may be appropriate to address biotechnology expertise gaps. “(4) Strategies for increasing partnerships with the National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801)) and other government and private-sector entities, including strategies for using existing funding and resources of the intelligence community to secure expertise on biotechnology issues and provide appropriate security clearances to personnel who can provide such expertise. “(5) Strategies to make use of special hiring authorities to ensure the intelligence community has sufficient personnel to inform analysis and provide independent recommendations to address emerging biotechnology threats. “(6) Strategies to increase recruitment and retention of persons with biotechnology expertise. “(c) Implementation.—Not later than 180 days after the completion of the plan required by subsection (a), the Director of National Intelligence shall direct the funding and resources described in subsection (b)(4) towards securing sufficient expertise to identify and respond to biotechnology threats.” [For definition of “intelligence community” as used in section 6613 of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under section 3003 of this title.]
+
+Definitions For definitions of “intelligence community” and “congressional intelligence committees” as used in this section, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title. For definitions of “artificial intelligence” and “emerging technology” as used in this section, see section 6701 of Pub. L. 117–263, set out as a note under section 3024 of this title.

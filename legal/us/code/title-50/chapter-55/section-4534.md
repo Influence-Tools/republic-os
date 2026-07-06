@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 4534"
+description: "Defense Production Act Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "55"
+chapter_name: "DEFENSE PRODUCTION"
+section: "4534"
+citation: "50 U.S.C. § 4534"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s4534"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "fd93d38cebac89f9e7ae7888838bca2ded640e1064e3793db27a1900c6bb0acd"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "3b878e10a9b520d9ea5cf1806635caf21c0a9de891e4bbd14a27d59cef8de144"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 4534 - Defense Production Act Fund
+
+## Text
+
+(a) Establishment of Fund There is established in the Treasury of the United States a separate fund to be known as the “Defense Production Act Fund” (in this section referred to as the “Fund”).
+
+(b) Moneys in Fund There shall be credited to the Fund—
+
+(1) all moneys appropriated for the Fund, as authorized by section 4561 of this title; and
+
+(2) all moneys received by the Fund on transactions entered into pursuant to section 4533 of this title.
+
+(c) Use of Fund The Fund shall be available to carry out the provisions and purposes of this subchapter, subject to the limitations set forth in this chapter and in appropriations Acts.
+
+(d) Duration of Fund Moneys in the Fund shall remain available until expended.
+
+(e) Fund balance The Fund balance at the close of each fiscal year shall not exceed $750,000,000, excluding any moneys appropriated to the Fund during that fiscal year or obligated funds. If, at the close of any fiscal year, the Fund balance exceeds $750,000,000, the amount in excess of $750,000,000 shall be paid into the general fund of the Treasury.
+
+(f) Fund manager The President shall designate a Fund manager. The duties of the Fund manager shall include—
+
+(1) determining the liability of the Fund in accordance with subsection (g);
+
+(2) ensuring the visibility and accountability of transactions engaged in through the Fund; and
+
+(3) reporting to the Congress each year regarding activities of the Fund during the previous fiscal year.
+
+(g) Liabilities against Fund When any agreement entered into pursuant to this subchapter after December 31, 1991, imposes any contingent liability upon the United States, such liability shall be considered an obligation against the Fund.
+
+(Sept. 8, 1950, ch. 932, title III, § 304, as added Pub. L. 111–67, § 7, Sept. 30, 2009, 123 Stat. 2017.)
+
+## Notes
+
+Termination of SectionFor termination of section, see section 4564(a) of this title.
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (c), was in the original “this Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
+
+Codification Section was formerly classified to section 2094 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+Prior ProvisionsA prior section 304, act Sept. 8, 1950, ch. 932, title III, 64 Stat. 802; June 2, 1951, ch. 121, Ch. XI, 65 Stat. 61; July 31, 1951, ch. 275, title I, § 103(b), (c), 65 Stat. 134; Pub. L. 86–560, § 2, June 30, 1960, 74 Stat. 282; Pub. L. 88–343, § 3, June 30, 1964, 78 Stat. 235; Pub. L. 93–426, § 2, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 102–558, title I, § 122, Oct. 28, 1992, 106 Stat. 4206; Pub. L. 107–47, § 4(4), Oct. 5, 2001, 115 Stat. 260, related to Defense Production Act Fund, was omitted in the general amendment of title III of the Act by Pub. L. 111–67.
+
+Statutory Notes and Related Subsidiaries
+
+Increasing Access to Materials Necessary for National Security and Pandemic RecoveryRequirement described in subsec. (e) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017(1) of Pub. L. 116–136, set out in a note under section 4532 of this title.
+
+Defense Production Act Fund ManagerSecretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of this section, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under section 4553 of this title.
+
+Executive Documents
+
+Executive Order No. 12346 Ex. Ord. No. 12346, Feb. 8, 1982, 47 F.R. 5993, related to the transition of synthetic fuel responsibilities from the Department of Energy to the United States Synthetic Fuels Corporation, revoked Ex. Ord. No. 12242, and provided that the provisions of Ex. Ord. No. 12242 would continue in full force and effect with respect to any loan guarantee issued under its provisions.

@@ -1,0 +1,115 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 2302"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "28"
+chapter_name: "SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS"
+section: "2302"
+citation: "21 U.S.C. § 2302"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s2302"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "cdaa8046a33fe2e48a0c6c3bc5ac64417111839ec54ebac72903bce70fdca5a3"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "47c3ac9bad9bcb78bc4c9db6c75b5d177641b4f6be69d457fb605a061d5d4a6f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 2302 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) Alien; national; national of the United States The terms “alien”, “national”, and “national of the United States” have the meanings given those terms in section 1101 of title 8.
+
+(2) Appropriate congressional committees and leadership The term “appropriate congressional committees and leadership” means—
+
+(A) the Committee on Appropriations, the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, and the majority leader and the minority leader of the Senate; and
+
+(B) the Committee on Appropriations, the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, the Committee on Homeland Security, the Committee on the Judiciary, the Committee on Oversight and Reform, the Permanent Select Committee on Intelligence, and the Speaker and the minority leader of the House of Representatives.
+
+(3) Controlled substance; listed chemical The terms “controlled substance”, “listed chemical”, “narcotic drug”, and “opioid” have the meanings given those terms in section 802 of this title.
+
+(4) Entity The term “entity” means a partnership, joint venture, association, corporation, organization, network, group, or subgroup, or any form of business collaboration.
+
+(5) Foreign opioid trafficker The term “foreign opioid trafficker” means— 11 So in original.
+
+(A) means 1 any foreign person that the President determines plays a significant role in opioid trafficking; and
+
+(B) may 1 include—
+
+(i) any entity of the People’s Republic of China that the President determines—
+
+(I) produces, manufactures, distributes, sells, or knowingly finances or transports any goods described in clause (i) or (ii) of paragraph (8)(A); and
+
+(II) demonstrates a pattern of failing to take credible steps (including implementing appropriate know-your-customer procedures or cooperating with United States counternarcotics efforts) to detect or prevent opioid trafficking; and
+
+(ii) any senior official of the Government of the People’s Republic of China that—
+
+(I) has significant regulatory or law enforcement responsibilities with respect to the activities of an entity described in clause (i); and
+
+(II) aids and abets opioid trafficking.
+
+(6) Foreign person The term “foreign person”—
+
+(A) means—
+
+(i) any citizen or national of a foreign country; or
+
+(ii) any entity not organized under the laws of the United States or a jurisdiction within the United States; and
+
+(B) does not include the government of a foreign country.
+
+(7) Knowingly The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+(8) Opioid trafficking The term “opioid trafficking” means any illicit activity—
+
+(A) to produce, manufacture, distribute, sell, or knowingly finance or transport—
+
+(i) synthetic opioids, including controlled substances that are synthetic opioids and listed chemicals that are synthetic opioids; or
+
+(ii) active pharmaceutical ingredients or chemicals that are used in the production of controlled substances that are synthetic opioids;
+
+(B) to attempt to carry out an activity described in subparagraph (A); or
+
+(C) to assist, abet, conspire, or collude with other persons to carry out such an activity.
+
+(9) Person The term “person” means an individual or entity.
+
+(10) United States person The term “United States person” means—
+
+(A) any citizen or national of the United States;
+
+(B) any alien lawfully admitted for permanent residence in the United States;
+
+(C) any entity organized under the laws of the United States or any jurisdiction within the United States (including a foreign branch of such an entity); or
+
+(D) any person located in the United States.
+
+(Pub. L. 116–92, div. F, title LXXII, § 7203, Dec. 20, 2019, 133 Stat. 2262; Pub. L. 119–60, div. H, title LXXXIII, § 8314, Dec. 18, 2025, 139 Stat. 1856.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this title”, meaning title LXXII of div. F of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 2262, known as the Fentanyl Sanctions Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+
+Amendments2025—Par. (5). Pub. L. 119–60 designated existing provisions as subpar. (A) and added subpar. (B).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
+Rule of Construction Regarding the Use of Military ForcePub. L. 119–60, div. H, title LXXXIII, § 8320, Dec. 18, 2025, 139 Stat. 1863, provided that: “Nothing in this subtitle [subtitle B (§§ 8311–8320) of title LXXXIII of div. H of Pub. L. 119–60, amending this section, sections 2311 and 2312 of this title, and section 2291h of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under section 2313 of this title, section 2151 of Title 22, and section 1701 of Title 50, War and National Defense, and amending provisions set out as a note under section 2291 of Title 22], or the amendments made by this subtitle, may be construed as authorizing the use of military force.”

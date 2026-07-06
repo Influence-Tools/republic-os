@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 7144"
+description: "Termination of authority"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "90"
+chapter_name: "SECURE RURAL SCHOOLS AND COMMUNITY SELF-DETERMINATION"
+section: "7144"
+citation: "16 U.S.C. § 7144"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s7144"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "87120a800ef669914b1c9dadbf463654a3ac6fe2a3d6a2433ebcbd6ae0064c80"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "cfba9d8fa443910c324b7cabd404a537e3ded3c598fb4b7bceb307ca637ebc54"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 7144 - Termination of authority
+
+## Text
+
+(a) In general The authority to initiate projects under this subchapter terminates on September 30, 2028.
+
+(b) Availability Any county funds not obligated by September 30, 2029, shall be returned to the Treasury of the United States.
+
+(Pub. L. 106–393, title III, § 305, formerly § 304, as added Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3910; amended Pub. L. 112–141, div. F, title I, § 100101(a)(2), (10), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, § 10(a)(3), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, § 524(d), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, § 401(c), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 116–94, div. I, title III, § 301(c), Dec. 20, 2019, 133 Stat. 3021; renumbered § 305 and amended Pub. L. 117–58, div. D, title XII, § 41202(f), (g)(1), Nov. 15, 2021, 135 Stat. 1134; Pub. L. 119–58, § 2(d), Dec. 18, 2025, 139 Stat. 715.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–58, § 2(d)(1), substituted “2028” for “2025”. Subsec. (b). Pub. L. 119–58, § 2(d)(2), substituted “2029” for “2026”. 2021—Subsec. (a). Pub. L. 117–58, § 41202(f)(1), substituted “2025” for “2022”. Subsec. (b). Pub. L. 117–58, § 41202(f)(2), substituted “2026” for “2023”. 2019—Subsec. (a). Pub. L. 116–94, § 301(c)(1), substituted “2022” for “2020”. Subsec. (b). Pub. L. 116–94, § 301(c)(2), substituted “2023” for “2021”. 2018—Subsec. (a). Pub. L. 115–141, § 401(c)(1), substituted “2020” for “2017”. Subsec. (b). Pub. L. 115–141, § 401(c)(2), substituted “2021” for “2018”. 2015—Subsec. (a). Pub. L. 114–10, § 524(d)(1), substituted “2017” for “2013”. Subsec. (b). Pub. L. 114–10, § 524(d)(2), substituted “2018” for “2014”. 2013—Subsec. (a). Pub. L. 113–40, § 10(a)(3)(A), substituted “2013” for “2012”. Subsec. (b). Pub. L. 113–40, § 10(a)(3)(B), substituted “2014” for “2013”. 2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”. Subsec. (b). Pub. L. 112–141, § 100101(a)(10), substituted “2013” for “2012”.
+
+Statutory Notes and Related Subsidiaries
+
+Wage Rate RequirementsFor provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.

@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 1543a"
+description: "Report on hostilities involving United States Armed Forces"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "33"
+chapter_name: "WAR POWERS RESOLUTION"
+section: "1543a"
+citation: "50 U.S.C. § 1543a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s1543a"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "8d7c9cbf497eed80b200c7c2c899b306b1b2011a63a1fea7b3c3adc1e9625eba"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "31e0d8cbe4811d1e89a358c915e8dd55f6e22297058a811e97ed4ee3e9223fd7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 1543a - Report on hostilities involving United States Armed Forces
+
+## Text
+
+(a) In general Not later than 48 hours after any incident in which the United States Armed Forces are involved in an attack or hostilities, whether in an offensive or defensive capacity, the President shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the incident, unless the President—
+
+(1) otherwise reports the incident within 48 hours pursuant to section 1543 of this title; or
+
+(2) has determined prior to the incident, and so reported pursuant to section 1549 of this title, that the United States Armed Forces involved in the incident would be operating under specific statutory authorization within the meaning of section 1544(b) of this title.
+
+(b) Matters to be included Each report required by subsection (a) shall include—
+
+(1) the authority or authorities under which the United States Armed Forces were operating when the incident occurred;
+
+(2) the date, location, and duration of the incident and the other parties involved;
+
+(3) a description of the United States Armed Forces involved in the incident and the mission of such Armed Forces;
+
+(4) the numbers of any combatant casualties and civilian casualties that occurred as a result of the incident; and
+
+(5) any other information the President determines appropriate.
+
+(Pub. L. 118–31, div. A, title XII, § 1230, Dec. 22, 2023, 137 Stat. 457.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the War Powers Resolution which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+“Congressional Defense Committees” Defined Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 118–31, 137 Stat. 164. See note under section 101 of Title 10, Armed Forces.
+
+Executive Documents
+
+Delegation of Authority Under Section 1230 of the National Defense Authorization Act for Fiscal Year 2024 Memorandum of President of the United States, Feb. 16, 2024, 89 F.R. 13261, provided: Memorandum for the Secretary of State[,] the Secretary of Defense[, and] the Attorney General By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of Defense, in consultation with the Secretary of State and, as appropriate, the Attorney General, the authority to transmit to certain congressional committees the report required by section 1230 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) [50 U.S.C. 1543a]. The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum. The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register. J.R. Biden, Jr.

@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 2512"
+description: "Family leave policies for the Coast Guard"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "25"
+chapter_name: "PERSONNEL; GENERAL PROVISIONS"
+section: "2512"
+citation: "14 U.S.C. § 2512"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s2512"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "b6b937587ef13745841708902e219dcb385751dfc443d2f41522f88fae9702a5"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "e395c87d32c034acff9038a3f42a0097f9b0bdce9aec16158834c10b5f888450"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 2512 - Family leave policies for the Coast Guard
+
+## Text
+
+(a) In General.— Except as provided in subsection (b), not later than 1 year after the date on which the Secretary of the Navy promulgates a new rule, policy, or memorandum pursuant to section 704 of title 10 or, with respect to the reserve component of the Coast Guard, the Secretary of Defense promulgates a new regulation for members of the reserve component of the Coast Guard pursuant to section 711 of title 10, with respect to leave associated with the birth or placement of a minor child with the member for adoption or long term foster care, the Secretary of the department in which the Coast Guard is operating shall promulgate a similar rule, policy, or memorandum that provides leave to officers, enlisted members, and members of the reserve component of the Coast Guard that is equal in duration and compensation to that provided by the Secretary of the Navy or, with respect to members of the reserve component of the Coast Guard, the Secretary of Defense.
+
+(b) Leave Associated With Birth or Placement of Minor Child With Member for Adoption or Long Term Foster Care.— Notwithstanding subsection (a), sections 701, 704, and 711 of title 10, or any other provision of law, all officers, enlisted members, and members of the reserve component of the Coast Guard shall be authorized leave associated with the birth, adoption, or long term foster care of a child during the 1-year period following such birth, placement of a minor child with the member for long-term foster care, or adoption, and, at the discretion of the Commanding Officer, such officer or, enlisted member, or member of the reserve component shall be permitted—
+
+(1) to take such leave in increments; and
+
+(2) to use flexible work schedules (pursuant to a program established by the Secretary in accordance with chapter 61 of title 5).
+
+(c) Period of Leave.— (1) In general.— The Secretary of the department in which the Coast Guard is operating, may authorize leave described under subparagraph 11 So in original. Probably should be “subsection”. (b) to be taken after the one-year period described in subparagraph 1 (b) in the case of a member described in subsection (b) who, except for this subparagraph 1, would lose unused family leave at the end of the one-year period described in subparagraph (A) 22 So in original. Probably should be “subsection (b)”. as a result of—
+
+(A) operational requirements;
+
+(B) professional military education obligations; or
+
+(C) other circumstances that the Secretary determines reasonable and appropriate.
+
+(2) Extended deadline.— The regulation, rule, policy, or memorandum prescribed under paragraph 1 (a) shall require that any leave authorized to be taken after the one-year period described in subparagraph (c)(1)(A) 2 shall be taken within a reasonable period of time, as determined by the Secretary of the department in which the Coast Guard is operating, after cessation of the circumstances warranting the extended deadline.
+
+(d) Member of the Reserve Component of the Coast Guard Defined.— In this section, the term “member of the reserve component of the Coast Guard” means a member of the Coast Guard who is a member of—
+
+(1) the selected reserve who is entitled to compensation under section 206 of title 37; or
+
+(2) the individual ready reserve who is entitled to compensation under section 206 of title 37 when attending or participating in a sufficient number of periods of inactive-duty training during a year to count the year as a qualifying year of creditable service toward eligibility for retired pay.
+
+(Added Pub. L. 114–120, title II, § 222(a), Feb. 8, 2016, 130 Stat. 49, § 431; renumbered § 2512 and amended Pub. L. 115–282, title I, § 114(b), title III, § 315(a), Dec. 4, 2018, 132 Stat. 4223, 4250; Pub. L. 119–60, div. G, title LXXII, § 7225(a), Dec. 18, 2025, 139 Stat. 1703.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Pub. L. 119–60, § 7225(a)(1), substituted “Family leave” for “Leave” in section catchline. Subsec. (a). Pub. L. 119–60, § 7225(a)(2), substituted “or, with respect to the reserve component of the Coast Guard, the Secretary of Defense promulgates a new regulation for members of the reserve component of the Coast Guard pursuant to section 711 of title 10,” for “, United States Code,”, “or placement of a minor child with the member for adoption or long term foster care” for “or adoption of a child”, and “, enlisted members, and members of the reserve component” for “and enlisted members”, and inserted “or, with respect to members of the reserve component of the Coast Guard, the Secretary of Defense” after “provided by the Secretary of the Navy”. Subsec. (b). Pub. L. 119–60, § 7225(a)(3), substituted, in heading, “Placement of Minor Child With Member for Adoption or Long Term Foster Care” for “Adoption of Child”, and, in introductory provisions, “, 704, and 711” for “and 704”, “, enlisted members, and members of the reserve component” for “and enlisted members”, “the birth, adoption, or long term foster care” for “the birth or adoption”, “following such birth, placement of a minor child with the member for long-term foster care, or adoption,” for “immediately following such birth or adoption”, and “, enlisted member, or member of the reserve component” for “enlisted member”. Subsecs. (c), (d). Pub. L. 119–60, § 7225(a)(4), added subsecs. (c) and (d). 2018—Pub. L. 115–282, § 315(a), designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), not later than 1 year” for “Not later than 1 year”, and added subsec. (b). Pub. L. 115–282, § 114(b), renumbered section 431 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Flexible Work SchedulesPub. L. 115–282, title III, § 315(b), Dec. 4, 2018, 132 Stat. 4250, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall ensure that a flexible work schedule program under chapter 61 of title 5, United States Code, is in place for officers and enlisted members of the Coast Guard.”

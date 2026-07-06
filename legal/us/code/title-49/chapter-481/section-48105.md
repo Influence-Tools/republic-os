@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 48105"
+description: "Weather reporting services"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "481"
+chapter_name: "AIRPORT AND AIRWAY TRUST FUND AUTHORIZATIONS"
+section: "48105"
+citation: "49 U.S.C. § 48105"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s48105"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "b60ee98f6c161309e7e83efd66d05a1c03bc4cc693456e6b95045a30773ce163"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "10418887cd0243497826bd56b62373b91407fe473446f2be18f6719e63969e20"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 48105 - Weather reporting services
+
+## Text
+
+To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation may expend from amounts available under section 48104 of this title not more than the following amounts:
+
+(1) for the fiscal year ending September 30, 1993, $35,596,000.
+
+(2) for the fiscal year ending September 30, 1994, $37,800,000.
+
+(3) for the fiscal year ending September 30, 1995, $39,000,000.
+
+(4) $39,000,000 for each of fiscal years 2019 through 2023.
+
+(5) $60,000,000 for each of fiscal years 2024 through 2028.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 115–254, div. B, title I, § 114, Oct. 5, 2018, 132 Stat. 3201; Pub. L. 118–15, div. B, title II, § 2202(j), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, § 102(j), Dec. 26, 2023, 137 Stat. 1113; Pub. L. 118–41, title I, § 102(j), Mar. 8, 2024, 138 Stat. 22; Pub. L. 118–63, title I, § 104(c), May 16, 2024, 138 Stat. 1035.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 4810549 App.:2205(d).Sept. 3, 1982, Pub. L. 97–248, § 506(d), 96 Stat. 678; Dec. 30, 1987, Pub. L. 100–223, § 105(c)(2), 101 Stat. 1493; Nov. 5, 1990, Pub. L. 101–508, §§ 9108, 9204, 104 Stat. 1388–355, 1388–373; Oct. 31, 1992, Pub. L. 102–581, § 103(d), 106 Stat. 4877. The words “for fiscal years beginning after September 30, 1982” are omitted as obsolete. The words “Secretary of Commerce” are substituted for “National Oceanic and Atmospheric Administration” because of 15:1501. The words “The Federal Aviation Administration with” are omitted as surplus.
+
+Editorial Notes
+
+Amendments2024—Par. (5). Pub. L. 118–63 added par. (5) and struck out former par. (5) which read as follows: “$23,762,295 for the period beginning on October 1, 2023, and ending on May 10, 2024.” Pub. L. 118–41 added par. (5) and struck out former par. (5) which read as follows: “$17,049,180 for the period beginning on October 1, 2023, and ending on March 8, 2024.” 2023—Par. (5). Pub. L. 118–34 added par. (5) and struck out former par. (5) which read as follows: “$9,803,278 for the period beginning on October 1, 2023, and ending on December 31, 2023.” Pub. L. 118–15 added par. (5). 2018—Pub. L. 115–254, § 114(1), substituted “To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation” for “To reimburse the Secretary of Commerce for the cost incurred by the National Oceanic and Atmospheric Administration of providing weather reporting services to the Federal Aviation Administration, the Secretary of Transportation” in introductory provisions. Par. (4). Pub. L. 115–254, § 114(2), added par. (4).

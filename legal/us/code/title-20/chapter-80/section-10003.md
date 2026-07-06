@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 10003"
+description: "Uses of funds by local educational agencies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "80"
+chapter_name: "STATE FISCAL STABILIZATION FUND"
+section: "10003"
+citation: "20 U.S.C. § 10003"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s10003"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "3c5e79de5fb5e5ba1395bfef64fb9774af7a8359692c1d4f1725d827c91721c7"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "8147ad05f13e3259801e3b4c707c50339847d0870f36bc76af58909a4c7393a0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 10003 - Uses of funds by local educational agencies
+
+## Text
+
+(a) In general A local educational agency that receives funds under this chapter may use the funds for any activity authorized by the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) (“ESEA”), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) (“IDEA”), the Adult Education and Family Literacy Act (20 U.S.C. 9201 et seq.),11 See References in Text note below. or the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.) (“the Perkins Act”) or for modernization, renovation, or repair of public school facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
+
+(b) Prohibition A local educational agency may not use funds received under this chapter for—
+
+(1) payment of maintenance costs;
+
+(2) stadiums or other facilities primarily used for athletic contests or exhibitions or other events for which admission is charged to the general public;
+
+(3) purchase or upgrade of vehicles; or
+
+(4) improvement of stand-alone facilities whose purpose is not the education of children, including central office administration or operations or logistical support facilities.
+
+(c) Rule of construction Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.
+
+(Pub. L. 111–5, div. A, title XIV, § 14003, Feb. 17, 2009, 123 Stat. 281; Pub. L. 111–8, div. F, title V, § 523(c), Mar. 11, 2009, 123 Stat. 806.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables. The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables. The Adult Education and Family Literacy Act, referred to in subsec. (a), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the “Adult Education and Family Literacy Act”, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables. The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+
+Amendments2009—Subsec. (a). Pub. L. 111–8 substituted “the Adult Education and Family Literacy Act (20 U.S.C. 9201 et seq.)” for “the Adult and Family Literacy Act (20 U.S.C. 1400 et seq.)”.

@@ -1,0 +1,115 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 2019"
+description: "Early childhood development program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "22"
+chapter_name: "BUREAU OF INDIAN AFFAIRS PROGRAMS"
+section: "2019"
+citation: "25 U.S.C. § 2019"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s2019"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "33bc2b940d76042ea8b56c7aceb276d29f20c1d7d42e5c506dcd3a6b6786aed8"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "9d10c85d0c621cf2aff99594ba1648470dac837e1c1f60f13dbd1cc6a96f099b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 2019 - Early childhood development program
+
+## Text
+
+(a) In general The Secretary shall provide grants to tribes, tribal organizations, and consortia of tribes and tribal organizations to fund early childhood development programs that are operated by such tribes, organizations, or consortia.
+
+(b) Amount of grants (1) In general The total amount of the grants provided under subsection (a) with respect to each tribe, tribal organization, or consortium of tribes or tribal organizations for each fiscal year shall be equal to the amount which bears the same relationship to the total amount appropriated under the authority of subsection (g) for such fiscal year (less amounts provided under subsection (f)) as—
+
+(A) the total number of children under 6 years of age who are members of—
+
+(i) such tribe;
+
+(ii) the tribe that authorized such tribal organization; or
+
+(iii) any tribe that—
+
+(I) is a member of such consortium; or
+
+(II) authorizes any tribal organization that is a member of such consortium; bears to
+
+(B) the total number of all children under 6 years of age who are members of any tribe that—
+
+(i) is eligible to receive funds under subsection (a);
+
+(ii) is a member of a consortium that is eligible to receive such funds; or
+
+(iii) authorizes a tribal organization that is eligible to receive such funds.
+
+(2) Limitation No grant may be provided under subsection (a)—
+
+(A) to any tribe that has less than 500 members;
+
+(B) to any tribal organization which is authorized—
+
+(i) by only one tribe that has less than 500 members; or
+
+(ii) by one or more tribes that have a combined total membership of less than 500 members; or
+
+(C) to any consortium composed of tribes, or tribal organizations authorized by tribes, that have a combined total tribal membership of less than 500 members.
+
+(c) Application (1) In general A grant may be provided under subsection (a) to a tribe, tribal organization, or consortium of tribes and tribal organizations only if the tribe, organization, or consortium submits to the Secretary an application for the grant at such time and in such form as the Secretary shall prescribe.
+
+(2) Contents Applications submitted under paragraph (1) shall set forth the early childhood development program that the applicant desires to operate.
+
+(d) Requirement of programs funded The early childhood development programs that are funded by grants provided under subsection (a)—
+
+(1) shall coordinate existing programs and may provide services that meet identified needs of parents and children under 6 years of age which are not being met by existing programs, including—
+
+(A) prenatal care;
+
+(B) nutrition education;
+
+(C) health education and screening;
+
+(D) family literacy services;
+
+(E) educational testing; and
+
+(F) other educational services;
+
+(2) may include instruction in the language, art, and culture of the tribe; and
+
+(3) shall provide for periodic assessment of the program.
+
+(e) Coordination of family literacy programs Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6641 et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
+
+(f) Administrative costs The Secretary shall, out of funds appropriated under subsection (g), include in the grants provided under subsection (a) amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
+
+(g) Authorization of appropriations There are authorized to be appropriated to carry out this section such sums as may be necessary.
+
+(Pub. L. 95–561, title XI, § 1139, as added Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2058; amended Pub. L. 114–95, title IX, § 9215(cc)(1), Dec. 10, 2015, 129 Stat. 2173.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Elementary and Secondary Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 2 of part B of title II of the Act is classified generally to subpart 2 (§ 6641 et seq.) of part B of subchapter II of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+
+Prior ProvisionsA prior section 2019, Pub. L. 95–561, title XI, § 1139, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to promulgation of regulations, prior to repeal by Pub. L. 105–362, title VIII, § 801(c)(5), Nov. 10, 1998, 112 Stat. 3288. See section 2017 of this title. Another prior section 2019, Pub. L. 95–561, title XI, § 1139, Nov. 1, 1978, 92 Stat. 2328; Pub. L. 100–297, title V, § 5117, Apr. 28, 1988, 102 Stat. 382; Pub. L. 100–427, § 1(c)(1), (2), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, § 5(a), May 24, 1990, 104 Stat. 207, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+Amendments2015—Subsec. (e). Pub. L. 114–95 substituted “subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965” for “part B of title I of the Elementary and Secondary Education Act of 1965”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
+Effective DateSection effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.

@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 1833"
+description: "Exceptions to prohibitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "90"
+chapter_name: "PROTECTION OF TRADE SECRETS"
+section: "1833"
+citation: "18 U.S.C. § 1833"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s1833"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "420c4ab6750ceb9df430fc1e6a321ebffac264acb92e9a14414f98879c39b70f"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "478750d6391f5a3cf95593e75f6df289dfaabf172be942ee7fd7ea2496e2123b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 1833 - Exceptions to prohibitions
+
+## Text
+
+(a) In General.— This chapter does not prohibit or create a private right of action for—
+
+(1) any otherwise lawful activity conducted by a governmental entity of the United States, a State, or a political subdivision of a State; or
+
+(2) the disclosure of a trade secret in accordance with subsection (b).
+
+(b) Immunity From Liability for Confidential Disclosure of a Trade Secret to the Government or in a Court Filing.— (1) Immunity.— An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that—
+
+(A) is made—
+
+(i) in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and
+
+(ii) solely for the purpose of reporting or investigating a suspected violation of law; or
+
+(B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal.
+
+(2) Use of trade secret information in anti-retaliation lawsuit.— An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual—
+
+(A) files any document containing the trade secret under seal; and
+
+(B) does not disclose the trade secret, except pursuant to court order.
+
+(3) Notice.— (A) In general.— An employer shall provide notice of the immunity set forth in this subsection in any contract or agreement with an employee that governs the use of a trade secret or other confidential information.
+
+(B) Policy document.— An employer shall be considered to be in compliance with the notice requirement in subparagraph (A) if the employer provides a cross-reference to a policy document provided to the employee that sets forth the employer’s reporting policy for a suspected violation of law.
+
+(C) Non-compliance.— If an employer does not comply with the notice requirement in subparagraph (A), the employer may not be awarded exemplary damages or attorney fees under subparagraph (C) or (D) of section 1836(b)(3) in an action against an employee to whom notice was not provided.
+
+(D) Applicability.— This paragraph shall apply to contracts and agreements that are entered into or updated after the date of enactment of this subsection.
+
+(4) Employee defined.— For purposes of this subsection, the term “employee” includes any individual performing work as a contractor or consultant for an employer.
+
+(5) Rule of construction.— Except as expressly provided for under this subsection, nothing in this subsection shall be construed to authorize, or limit liability for, an act that is otherwise prohibited by law, such as the unlawful access of material by unauthorized means.
+
+(Added Pub. L. 104–294, title I, § 101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 114–153, §§ 2(c), 7(a), May 11, 2016, 130 Stat. 381, 384.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of enactment of this subsection, referred to in subsec. (b)(3)(D), is the date of enactment of Pub. L. 114–153, which was approved May 11, 2016.
+
+Amendments2016—Pub. L. 114–153, § 7(a)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). Pub. L. 114–153, § 2(c), inserted “or create a private right of action for” after “prohibit” in introductory provisions. Subsec. (a)(2). Pub. L. 114–153, § 7(a)(2), substituted “the disclosure of a trade secret in accordance with subsection (b)” for “the reporting of a suspected violation of law to any governmental entity of the United States, a State, or a political subdivision of a State, if such entity has lawful authority with respect to that violation”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentPub. L. 114–153, § 2(e), May 11, 2016, 130 Stat. 381, provided that: “The amendments made by this section [amending this section and sections 1836 and 1839 of this title] shall apply with respect to any misappropriation of a trade secret (as defined in section 1839 of title 18, United States Code, as amended by this section) for which any act occurs on or after the date of the enactment of this Act [May 11, 2016].”
+
+Construction of 2016 AmendmentPub. L. 114–153, § 2(f), May 11, 2016, 130 Stat. 382, provided that: “Nothing in the amendments made by this section [amending this section and sections 1836 and 1839 of this title] shall be construed to modify the rule of construction under section 1838 of title 18, United States Code, or to preempt any other provision of law.”
+
+Applicability of Section 2 of Pub. L. 114–153 to Other LawsPub. L. 114–153, § 2(g), May 11, 2016, 130 Stat. 382, provided that: “This section [amending this section and sections 1836 and 1839 of this title and enacting provisions set out as notes under this section] and the amendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress.”

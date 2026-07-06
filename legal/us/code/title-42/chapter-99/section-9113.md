@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 9113"
+description: "Protection of submarine electric transmission cables and equipment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "99"
+chapter_name: "OCEAN THERMAL ENERGY CONVERSION"
+section: "9113"
+citation: "42 U.S.C. § 9113"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s9113"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "ed917076dfeb5ae49153b99cf409f6b9e8c0c376418a4280cdc01b4f62b323bd"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "0359d0f2c00b5fb8dbd13d7dbf9e3866e094dcf92941a690fc20820f98326351"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 9113 - Protection of submarine electric transmission cables and equipment
+
+## Text
+
+(a) Prohibited acts; misdemeanor; penalty and fine Any person who shall willfully and wrongfully break or injure, or attempt to break or injure, or who shall in any manner procure, counsel, aid, abet, or be accessory to such breaking or injury, or attempt to break or injure, any submarine electric transmission cable or equipment being constructed or operated under a license issued pursuant to this chapter shall be guilty of a misdemeanor and, on conviction thereof, shall be liable to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $5,000, or to both fine and imprisonment, at the discretion of the court.
+
+(b) Culpable negligence; misdemeanor; penalty and fine Any person who by culpable negligence shall break or injure any submarine electric transmission cable or equipment being constructed or operated under a license issued pursuant to this chapter shall be guilty of a misdemeanor and, on conviction thereof, shall be liable to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $500, or to both fine and imprisonment, at the discretion of the court.
+
+(c) Exceptions The provisions of subsections (a) and (b) of this section shall not apply to any person who, after having taken all necessary precautions to avoid such breaking or injury, breaks or injures any submarine electric transmission cable or equipment in an effort to save the life or limb of himself or of any other person, or to save his own or any other vessel.
+
+(d) Suits for damages The penalties provided in subsections (a) and (b) of this section for the breaking or injury of any submarine electric transmission cable or equipment shall not be a bar to a suit for damages on account of such breaking or injury.
+
+(e) Indemnity Whenever any vessel sacrifices any anchor, fishing net, or other fishing gear to avoid injuring any submarine electric transmission cable or equipment being constructed or operated under a license issued pursuant to this chapter, the licensee shall indemnify the owner of such vessel for the items sacrificed: Provided, That the owner of the vessel had taken all reasonable precautionary measures beforehand.
+
+(f) Repair costs Any licensee who causes any break in or injury to any submarine cable or pipeline of any type shall bear the cost of the repairs.
+
+(Pub. L. 96–320, title I, § 103, Aug. 3, 1980, 94 Stat. 982.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a), (b), and (e), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.

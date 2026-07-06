@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1728"
+description: "Reimbursement of certain medical expenses"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "17"
+chapter_name: "HOSPITAL, NURSING HOME, DOMICILIARY, AND MEDICAL CARE"
+section: "1728"
+citation: "38 U.S.C. § 1728"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1728"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "695a7e7eb0f99a435ed18d12663ee6b6b4763490a873c901d2fc56b3eb9e63fc"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "2f5b32019931c77679a753709f0cc06c8ed952551540a4d5af58d09f02663e0b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1728 - Reimbursement of certain medical expenses
+
+## Text
+
+(a) The Secretary shall, under such regulations as the Secretary prescribes, reimburse veterans eligible for hospital care or medical services under this chapter for the customary and usual charges of emergency treatment (including travel and incidental expenses under the terms and conditions set forth in section 111 of this title) for which such veterans have made payment, from sources other than the Department, where such emergency treatment was rendered to such veterans in need thereof for any of the following:
+
+(1) An adjudicated service-connected disability.
+
+(2) A non-service-connected disability associated with and held to be aggravating a service-connected disability.
+
+(3) Any disability of a veteran if the veteran has a total disability permanent in nature from a service-connected disability.
+
+(4) Any illness, injury, or dental condition of a veteran who—
+
+(A) is a participant in a vocational rehabilitation program (as defined in section 3101 of this title); and
+
+(B) is medically determined to have been in need of care or treatment to make possible the veteran’s entrance into a course of training, or prevent interruption of a course of training, or hasten the return to a course of training which was interrupted because of such illness, injury, or dental condition.
+
+(b) In any case where reimbursement would be in order under subsection (a) of this section, the Secretary may, in lieu of reimbursing such veteran, make payment of the reasonable value of emergency treatment directly—
+
+(1) to the hospital or other health facility furnishing the emergency treatment; or
+
+(2) to the person or organization making such expenditure on behalf of such veteran.
+
+(c) No veteran described in subsection (a) may be held liable for payment for emergency treatment described in such subsection if—
+
+(1) a claim for direct payment was submitted by an individual or entity under subsection (b)(2); and
+
+(2) such claim was submitted after a deadline established by the Secretary for purposes of this section due to—
+
+(A) an administrative error made by the individual or entity, such as submission of the claim to the wrong Federal agency or submission of the claim after the deadline; or
+
+(B) an administrative error made by the Department, such as misplacement of a paper claim or deletion of an electronic claim.
+
+(d) In this section, the term “emergency treatment” has the meaning given such term in section 1725(h)(1) of this title.
+
+(Added Pub. L. 93–82, title I, § 106(a), Aug. 2, 1973, 87 Stat. 183, § 628; amended Pub. L. 94–581, title II, §§ 202(n), 210(a)(13), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–151, title II, § 201(d), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 101–237, title II, § 202(a), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–54, § 14(b)(14), June 13, 1991, 105 Stat. 284; renumbered § 1728 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 110–387, title IV, § 402(b), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 117–328, div. U, title I, § 142(b), (c)(3), Dec. 29, 2022, 136 Stat. 5424; Pub. L. 117–333, § 3(e)(3)(B)(i), Jan. 5, 2023, 136 Stat. 6128.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2023—Subsec. (a)(4)(A). Pub. L. 117–333 substituted “section 3101 of” for “section 3101(9) of”. 2022—Subsecs. (c), (d). Pub. L. 117–328 added subsec. (c), redesignated former subsec. (c) as (d) and substituted “section 1725(h)(1)” for “section 1725(f)(1)”. 2008—Subsec. (a). Pub. L. 110–387, § 402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veterans made payment from sources other than the Department under certain conditions. Subsec. (b). Pub. L. 110–387, § 402(b)(2), substituted “emergency treatment” for “care or services” in introductory provisions and in par. (1). Subsec. (c). Pub. L. 110–387, § 402(b)(3), added subsec. (c). 1991—Pub. L. 102–83, § 5(a), renumbered section 628 of this title as this section. Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions. Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (3). Subsec. (a)(2)(D). Pub. L. 102–83, § 5(c)(1), substituted “3101(9)” for “1501(9)”. Pub. L. 102–54 substituted “(i) is” for “is (i)”. Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions. 1989—Subsec. (a)(2)(D). Pub. L. 101–237 substituted “(i) a participant in a vocational rehabilitation program (as defined in section 1501(9) of this title), and (ii)” for “found to be (i) in need of vocational rehabilitation under chapter 31 of this title and for whom an objective had been selected or (ii) pursuing a course of vocational rehabilitation training and”. 1979—Subsec. (a). Pub. L. 96–151 substituted provisions relating to travel and incidental expenses for provisions relating to necessary travel. 1976—Subsec. (a). Pub. L. 94–581 substituted “as the Administrator shall prescribe” for “as he shall prescribe” in provisions preceding par. (1), substituted “delay” for “they” in par. (1), and substituted “make possible such veteran’s entrance” for “make possible his entrance” in par. (2)(D)(ii).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1989 AmendmentPub. L. 101–237, title II, § 202(b), Dec. 18, 1989, 103 Stat. 2067, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to hospital care and medical services received on or after the date of the enactment of this Act [Dec. 18, 1989].”
+
+Effective Date of 1979 AmendmentAmendment by Pub. L. 96–151 effective Jan. 1, 1980, see section 206 of Pub. L. 96–151, set out as a note under section 111 of this title.
+
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
+
+Effective DateSection effective Jan. 1, 1971, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
+
+Reimbursement of Ambulance Cost for Care for Certain Rural VeteransPub. L. 118–210, title I, § 143, Jan. 2, 2025, 138 Stat. 2747, provided that: “(a) In General.—The Secretary of Veterans Affairs shall pay, or reimburse a covered veteran for, the cost of transporting the veteran by ambulance, including air ambulance, from a covered location to a provider of the Department of Veterans Affairs, a non-Department provider, or the nearest hospital that can meet the needs of the veteran (including a hospital that compacts with the Indian Health Service) for covered care. “(b) Amount Covered.—The maximum cumulative amount covered under this section for a covered veteran is $46,000. “(c) Sunset.—This section shall cease to be effective on September 30, 2026. “(d) Definitions.—In this section:“(1) The term ‘covered care’ means care for a veteran eligible for care provided by the Department of Veterans Affairs under title 38, United States Code, or any other law administered by the Secretary of Veterans Affairs, even if the care associated with the transport described in subsection (a) is not authorized by the Department. “(2) The term ‘covered location’ means a location that is—“(A) in a State that is 100 miles or more from the nearest medical center of the Department of Veterans Affairs; and “(B) in an area rated as a 10 or higher under the rural-urban commuting areas coding system of the Department of Agriculture. “(3) The term ‘covered veteran’ means a veteran who—“(A) has a service-connected disability rated by the Secretary as between 0 and 30 percent disabling; “(B) is not eligible for payments or reimbursements for beneficiary travel or other transportation under the laws administered by the Secretary of Veterans Affairs, other than under this section; and “(C) is not entitled to care or services under a non-Department of Veterans Affairs health-plan contract. “(4) The term ‘health-plan contract’ has the meaning given that term in section 1725 of title 38, United States Code. “(5) The term ‘service-connected’ has the meaning given that term in section 101 of such title.”

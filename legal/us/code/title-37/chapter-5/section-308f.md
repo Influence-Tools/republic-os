@@ -1,0 +1,37 @@
+---
+type: "LegalText"
+title: "37 U.S.C. § 308f"
+description: "Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 624(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153]"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 37
+title_name: "PAY AND ALLOWANCES OF THE UNIFORMED SERVICES"
+chapter_number: "5"
+chapter_name: "SPECIAL AND INCENTIVE PAYS"
+section: "308f"
+citation: "37 U.S.C. § 308f"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc37@119-100.zip"
+source_identifier: "/us/usc/t37/s308f"
+source_file: "data/legal/raw/us/code/title-37/usc37.xml"
+source_hash: "b1062c0a2e3a8294ed8c3deed2a2395d79ab39a4cac569d00798999cf7cbbc76"
+raw_snapshot_hash: "e0a35eb7ef12b7ff3b62c2d230c815f864ad090f207afa5aca869467bb414b1c"
+text_hash: "4c1c1ae8ebb8c881f227c7ff3b282e826de8d97c8ea417cef564d018a6f09713"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 37 U.S.C. § 308f - Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 624(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153]
+
+## Notes
+
+Section, added Pub. L. 97–60, title I, § 117(c)(1), Oct. 14, 1981, 95 Stat. 996; amended Pub. L. 98–14, § 2, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, § 621(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 100–180, div. A, title VI, § 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 102–25, title VII, § 702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–160, div. A, title VI, § 613(e), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, § 613(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, § 613(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, § 613(c), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, § 613(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§ 613(c), 620, Oct. 17, 1998, 112 Stat. 2039, 2042; Pub. L. 106–65, div. A, title VI, §§ 613(d), 622(a), Oct. 5, 1999, 113 Stat. 650, 653, related to bonus for enlistment in the Army.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of RepealRepeal effective Oct. 1, 2000, and not to affect the validity or terms of any bonus provided under such section for enlistments in the Armed Forces made before that date, see section 1 [[div. A], title VI, § 624(c)(2)] of Pub. L. 106–398, set out as a note under section 308a of this title.

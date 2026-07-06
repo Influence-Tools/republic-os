@@ -1,0 +1,97 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 4201"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "55"
+chapter_name: "SAVE OUR SEAS 2.0"
+section: "4201"
+citation: "33 U.S.C. § 4201"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s4201"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "70e55efa31ada1357d6adbefa6263a419dc889395d457d6aa84ee08364334c81"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "eb3359c910722de5dd78816565f8bf60eb7ac3af9fbc6f44262c6c1373ddcf63"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 4201 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) Circular economy The term “circular economy” means an economy that uses a systems-focused approach and involves industrial processes and economic activities that—
+
+(A) are restorative or regenerative by design;
+
+(B) enable resources used in such processes and activities to maintain their highest values for as long as possible; and
+
+(C) aim for the elimination of waste through the superior design of materials, products, and systems (including business models).
+
+(2) EPA Administrator The term “EPA Administrator” means the Administrator of the Environmental Protection Agency.
+
+(3) Indian Tribe The term “Indian Tribe” has the meaning given the term “Indian tribe” in section 5304 of title 25, without regard to capitalization.
+
+(4) Interagency Marine Debris Coordinating Committee The term “Interagency Marine Debris Coordinating Committee” means the Interagency Marine Debris Coordinating Committee established under section 1954 of this title.
+
+(5) Marine debris The term “marine debris” has the meaning given that term in section 1981 11 See References in Text note below. of this title.
+
+(6) Marine debris event The term “marine debris event” means an event or related events that affects or may imminently affect the United States involving—
+
+(A) marine debris caused by a natural event, including a tsunami, flood, landslide, hurricane, or other natural source;
+
+(B) distinct, nonrecurring marine debris, including derelict vessel groundings and container spills, that have immediate or long-term impacts on habitats with high ecological, economic, or human-use values; or
+
+(C) marine debris caused by an intentional or grossly negligent act or acts that causes substantial economic or environmental harm.
+
+(7) Nonprofit organization The term “nonprofit organization” means an organization that is described in section 501(c) of title 26 and exempt from tax under section 501(a) of such title.
+
+(8) Post-consumer materials management The term “post-consumer materials management” means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—
+
+(A) collection;
+
+(B) transport;
+
+(C) safe disposal of waste that cannot be recovered, reused, recycled, repaired, or refurbished; and
+
+(D) systems and processes related to post-use materials that can be recovered, reused, recycled, repaired, or refurbished.
+
+(9) State The term “State” means—
+
+(A) a State;
+
+(B) an Indian Tribe;
+
+(C) the District of Columbia;
+
+(D) a territory or possession of the United States; or
+
+(E) any political subdivision of an entity described in subparagraphs (A) through (D).
+
+(10) Under Secretary The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+
+(Pub. L. 116–224, § 2, Dec. 18, 2020, 134 Stat. 1073; Pub. L. 119–65, § 5(b), Dec. 26, 2025, 139 Stat. 1990.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1072, known as the Save Our Seas 2.0 Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables. Section 1981 of this title, referred to in par. (5), was in the original “section 7 of the Marine Debris Act”, and was translated as reading “section 131” of that Act to reflect the probable intent of Congress and the renumbering of section 7 as 131 by Pub. L. 119–65, § 4(b)(1), Dec. 26, 2025, 139 Stat. 1989.
+
+Amendments2025—Pars. (7) to (11). Pub. L. 119–65 transferred par. (7) of this section to section 1981(8) of this title and redesignated former pars. (8) to (11) as (7) to (10), respectively.
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 116–224, § 1(a), Dec. 18, 2020, 134 Stat. 1072, provided that: “This Act [enacting this chapter and section 1959 of this title and amending sections 1951 and 1958 of this title] may be cited as the ‘Save Our Seas 2.0 Act’.”

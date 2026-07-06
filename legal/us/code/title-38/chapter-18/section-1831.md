@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1831"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "18"
+chapter_name: "BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS"
+section: "1831"
+citation: "38 U.S.C. § 1831"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1831"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "ac4039dbda8547536f4a75a05b2b5a9075899cd5ad12c4304bfc465ebcaa9e15"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "e1eb047d73e0cde1353c8eb6fc0e0f44b17f74133713f5b7b68ba003a149442f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1831 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) The term “child” means the following:
+
+(A) For purposes of subchapters I and II of this chapter, an individual, regardless of age or marital status, who—
+
+(i) is the natural child of a Vietnam veteran; and
+
+(ii) was conceived after the date on which that veteran first entered the Republic of Vietnam during the Vietnam era.
+
+(B) For purposes of section 1821 of this title, an individual, regardless of age or marital status, who—
+
+(i) is the natural child of a veteran of covered service in Korea (as determined for purposes of that section); and
+
+(ii) was conceived after the date on which that veteran first entered service described in subsection (c) of that section.
+
+(C) For purposes of section 1822 of this title, an individual, regardless of age or marital status, who—
+
+(i) is the natural child of a veteran of covered service in Thailand (as determined for purposes of that section); and
+
+(ii) was conceived after the date on which that veteran first entered service described in subsection (c) of that section.
+
+(2) The term “covered child” means a child who is eligible for health care and benefits under this chapter.
+
+(3) The term “covered veteran” means an individual whose children are eligible for health care and benefits under this chapter.
+
+(4) The term “Vietnam veteran” means an individual who performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era, without regard to the characterization of that individual’s service.
+
+(5) The term “Vietnam era” with respect to—
+
+(A) subchapter I of this chapter, means the period beginning on January 9, 1962, and ending on May 7, 1975; and
+
+(B) subchapter II of this chapter, means the period beginning on February 28, 1961, and ending on May 7, 1975.
+
+(Added Pub. L. 106–419, title IV, § 401(b), Nov. 1, 2000, 114 Stat. 1859, § 1821; renumbered § 1831 and amended Pub. L. 108–183, title I, § 102(a)(1), (b), Dec. 16, 2003, 117 Stat. 2653, 2654; Pub. L. 116–23, § 4(b), June 25, 2019, 133 Stat. 971; Pub. L. 118–18, § 1(a), Oct. 6, 2023, 137 Stat. 103.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 1831 was renumbered section 3731 of this title.
+
+Amendments2023—Pars. (2) to (5). Pub. L. 118–18 added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively. 2019—Par. (1)(B). Pub. L. 116–23, § 4(b)(1)(A), substituted “section 1821 of this title” for “subchapter III of this chapter” in introductory provisions. Par. (1)(B)(i). Pub. L. 116–23, § 4(b)(1)(B), substituted “that section” for “section 1821 of this title”. Par. (1)(C). Pub. L. 116–23, § 4(b)(2), added subpar. (C). 2003—Pub. L. 108–183, § 102(a)(1), renumbered section 1821 of this title as this section. Par. (1). Pub. L. 108–183, § 102(b), added par. (1) and struck out former par. (1) which read as follows: “The term ‘child’ means an individual, regardless of age or marital status, who— “(A) is the natural child of a Vietnam veteran; and “(B) was conceived after the date on which that veteran first entered the Republic of Vietnam during the Vietnam era.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2019 AmendmentAmendment by Pub. L. 116–23 effective Jan. 1, 2020, see section 4(f) of Pub. L. 116–23, set out as an Effective Date note under section 1822 of this title.
+
+Effective DateSubchapter effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as a note under section 1811 of this title.
+
+Memorandum of UnderstandingPub. L. 118–18, § 1(c), Oct. 6, 2023, 137 Stat. 104, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 6, 2023], the Under Secretary for Benefits of the Department of Veterans Affairs and the Under Secretary for Health of the Department shall enter into a memorandum of understanding— “(1) to better assist covered children (as defined in section 1831 of title 38, United States Code, as amended by subsection (a)); and “(2) to establish conditions to be included in the report required by section 1836(c) of title 38, United States Code, as added by subsection (b).”

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 5310"
+description: "Labor standards; rate of wages; exceptions; enforcement powers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "69"
+chapter_name: "COMMUNITY DEVELOPMENT"
+section: "5310"
+citation: "42 U.S.C. § 5310"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s5310"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "0fe586d1a881673448736bf94f682690f25f64761705369ae4d29918b89866ff"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "3821a4a85a8179d01a7a840d8b4ede39e30ede4da5d5f999a299fefb25c95e8f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 5310 - Labor standards; rate of wages; exceptions; enforcement powers
+
+## Text
+
+(a) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed in whole or in part with assistance received under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40: Provided, That this section shall apply to the rehabilitation of residential property only if such property contains not less than 8 units. The Secretary of Labor shall have, with respect to such labor standards, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 3145 of title 40.
+
+(b) Subsection (a) shall not apply to any individual that—
+
+(1) performs services for which the individual volunteered;
+
+(2) (A) does not receive compensation for such services; or
+
+(B) is paid expenses, reasonable benefits, or a nominal fee for such services; and
+
+(3) is not otherwise employed at any time in the construction work.
+
+(Pub. L. 93–383, title I, § 110, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, § 309(j), Aug. 13, 1981, 95 Stat. 397; Pub. L. 100–242, title V, § 523, Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–625, title IX, § 955(a), Nov. 28, 1990, 104 Stat. 4420.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables. Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Codification In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (48 Stat. 948; 40 U.S.C. 276(c))”, meaning 276c, on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+Amendments1990—Pub. L. 101–625 designated existing provisions as subsec. (a) and added subsec. (b). 1988—Pub. L. 100–242, which directed the substitution of “contains not less than 8 units” for “is designed for residential use of eight or more families”, was executed by making the substitution for “is designed for residential use for eight or more families” as the probable intent of Congress. 1981—Pub. L. 97–35 substituted “assistance” for “grants”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1990 AmendmentAmendment by Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of this title.
+
+Effective Date of 1981 AmendmentAmendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.

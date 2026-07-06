@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "37 U.S.C. § 910"
+description: "Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 37
+title_name: "PAY AND ALLOWANCES OF THE UNIFORMED SERVICES"
+chapter_number: "17"
+chapter_name: "MISCELLANEOUS RIGHTS AND BENEFITS"
+section: "910"
+citation: "37 U.S.C. § 910"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc37@119-100.zip"
+source_identifier: "/us/usc/t37/s910"
+source_file: "data/legal/raw/us/code/title-37/usc37.xml"
+source_hash: "f866285a2fc8ca5be019b63ecde21e9ed0090cc246ea48ec8b6fa1e8c30ac605"
+raw_snapshot_hash: "e0a35eb7ef12b7ff3b62c2d230c815f864ad090f207afa5aca869467bb414b1c"
+text_hash: "8cbaae9509fe5d85663a145264584702ff91d585456adaed29347f991bc2310a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 37 U.S.C. § 910 - Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service
+
+## Text
+
+(a) Payment Required.— The Secretary concerned shall pay to an eligible member of a reserve component of the armed forces or of the Space Force an amount equal to the monthly active-duty income differential of the member, as determined by the Secretary, when the total monthly military compensation of the member is less than the average monthly civilian income of the member. The payments shall be made on a monthly basis.
+
+(b) Eligibility.— (1) A member of a reserve component or the Space Force is entitled to a payment under this section for any full month of active duty of the member, when the total monthly military compensation of the member is less than the average monthly civilian income of the member, while the member is on active duty under an involuntary mobilization order, following the date on which the member—
+
+(A) completes 547 continuous days of service on active duty under an involuntary mobilization order;
+
+(B) completes 730 cumulative days on active duty under an involuntary mobilization order during the previous 1,826 days; or
+
+(C) is involuntarily mobilized for service on active duty for a period of 180 days or more within 180 days after the date of the member’s separation from a previous period of active duty for a period of 180 days or more.
+
+(2) The entitlement of a member of a reserve component or the Space Force to a payment under this section also shall commence or, if previously commenced under paragraph (1), shall continue if the member—
+
+(A) satisfies the required number of days on active duty specified in subparagraph (A) or (B) of paragraph (1) or was involuntarily mobilized as provided in subparagraph (C) of such paragraph; and
+
+(B) is retained on active duty under subparagraph (A) or (B) of section 12301(h)(1) of title 10 because of an injury or illness incurred or aggravated while the member was assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of this title is available.
+
+(3) A civilian employee of the Federal Government who is also a member of a reserve component or the Space Force is not entitled to a payment under this section for any period for which the employee is entitled to—
+
+(A) a differential payment under section 5538 of title 5; or
+
+(B) a comparable benefit under an administratively established program for civilian employees absent from a position of employment with the Federal Government in order to perform active duty in the uniformed services.
+
+(c) Minimum and Maximum Payment Amounts.— (1) A payment under this section shall be made to a member for a month only if the amount of the monthly active-duty income differential for the month is greater than $50.
+
+(2) Notwithstanding the amount determined under subsection (d) for a member for a month, the monthly payment to a member under this section may not exceed $3,000.
+
+(d) Monthly Active-Duty Income Differential.— For purposes of this section, the monthly active-duty income differential of a member is the difference between—
+
+(1) the average monthly civilian income of the member; and
+
+(2) the member’s total monthly military compensation.
+
+(e) Definitions.— In this section:
+
+(1) The term “average monthly civilian income”, with respect to a member of a reserve component or the Space Force, means the amount, determined by the Secretary concerned, of the earned income of the member for either the 12 months preceding the member’s mobilization or the 12 months covered by the member’s most recent Federal income tax filing, divided by 12.
+
+(2) The term “total monthly military compensation” means the amount, computed on a monthly basis, of the sum of—
+
+(A) the amount of the regular military compensation (RMC) of the member; and
+
+(B) any amount of special pay or incentive pay and any allowance (other than an allowance included in regular military compensation) that is paid to the member on a monthly basis.
+
+(f) Regulations.— This section shall be administered under regulations to be prescribed by the Secretary of Defense.
+
+(g) Termination.— No payment shall be made to a member under this section for months beginning after December 31, 2026, unless the entitlement of the member to payments under this section commenced on or before that date.
+
+(Added Pub. L. 109–163, div. A, title VI, § 614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, § 604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, [div. A], title VI, § 605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, § 611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§ 601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236; Pub. L. 112–81, div. A, title VI, § 611(7), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 611(8), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 611(8), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 611(8), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, § 611(8), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §§ 611(8), 618(h)(5), Dec. 23, 2016, 130 Stat. 2157, 2161; Pub. L. 115–91, div. A, title VI, § 611(8), Dec. 12, 2017, 131 Stat. 1421; Pub. L. 115–232, div. A, title VI, § 611(a), Aug. 13, 2018, 132 Stat. 1796; Pub. L. 116–92, div. A, title VI, § 611(a), Dec. 20, 2019, 133 Stat. 1425; Pub. L. 116–283, div. A, title VI, § 611(a), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, § 611(a), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, § 601(a), Dec. 23, 2022, 136 Stat. 2619; Pub. L. 118–31, div. A, title VI, § 613(a), Dec. 22, 2023, 137 Stat. 291; Pub. L. 118–159, div. A, title VI, § 611(a), Dec. 23, 2024, 138 Stat. 1932; Pub. L. 119–60, div. A, title VI, §§ 601(g)(2), 611(a), Dec. 18, 2025, 139 Stat. 905, 906.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Pub. L. 119–60, § 601(g)(2)(A), inserted “and members of the Space Force” after “reserve component members” in section catchline. Catchline text was editorially conformed to the style used in this title. Subsec. (a). Pub. L. 119–60, § 601(g)(2)(B), inserted “or of the Space Force” after “of the armed forces”. Subsec. (b)(1) to (3). Pub. L. 119–60, § 601(g)(2)(C), inserted “or the Space Force” after “a reserve component” in introductory provisions. Subsec. (e)(1). Pub. L. 119–60, § 601(g)(2)(C), inserted “or the Space Force” after “a reserve component”. Subsec. (g). Pub. L. 119–60, § 611(a), substituted “December 31, 2026” for “December 31, 2025”. 2024—Subsec. (g). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”. 2023—Subsec. (g). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”. 2022—Subsec. (g). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”. 2021—Subsec. (g). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”. Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”. 2019—Subsec. (g). Pub. L. 116–92 substituted “December 31, 2020” for “December 31, 2019”. 2018—Subsec. (g). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”. 2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”. 2016—Subsec. (b)(2)(B). Pub. L. 114–328, § 618(h)(5), inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”. Subsec. (g). Pub. L. 114–328, § 611(8), substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”. 2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”. 2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”. Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”. 2011—Subsec. (b)(3). Pub. L. 111–383, § 601(a), added par. (3). Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”. Pub. L. 111–383, § 611(7), substituted “December 31, 2011” for “December 31, 2010”. 2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”. 2008—Subsec. (a). Pub. L. 110–181, § 604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”. Subsec. (b). Pub. L. 110–181, § 604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member— “(1) completes 18 continuous months of service on active duty under such an order; “(2) completes 24 months on active duty during the previous 60 months under such an order; or “(3) is involuntarily mobilized for service on active duty for a period of 180 days or more within six months or less following the member’s separation from a previous period of involuntary active duty for a period of 180 days or more.” Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”. Pub. L. 110–181, § 604(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “No payment shall be made under this section after December 31, 2008.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2011 AmendmentPub. L. 111–383, div. A, title VI, § 601(b), Jan. 7, 2011, 124 Stat. 4235, provided that: “Subsection (b)(3) of section 910 of title 37, United States Code, as added by subsection (a), shall apply with respect to payments under such section for months beginning on or after the date of the enactment of this Act [Jan. 7, 2011].”
+
+Effective DatePub. L. 109–163, div. A, title VI, § 614(c), Jan. 6, 2006, 119 Stat. 3293, provided that: “Section 910 of title 37, United States Code, as added by subsection (a), may apply only with respect to months beginning after the end of the 180-day period beginning on the date of the enactment of this Act [Jan. 6, 2006].”

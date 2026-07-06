@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 77hhh"
+description: "Integration of procedure with Securities Act and other Acts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "2A"
+chapter_name: "SECURITIES AND TRUST INDENTURES"
+section: "77hhh"
+citation: "15 U.S.C. § 77hhh"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s77hhh"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "dfb183f0c7f3df19cf4880aad4f0a88d8a6984f207660c09f7f5d48e39e5b093"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "48e98093cdae734966c84be7acca1930e2f4ac90199a056b00728ad80c9218b7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 77hhh - Integration of procedure with Securities Act and other Acts
+
+## Text
+
+(a) Incorporation by reference The Commission, by such rules and regulations or orders as it deems necessary or appropriate in the public interest or for the protection of investors, shall authorize the filing of any information or documents required to be filed with the Commission under this subchapter, or under the Securities Act of 1933 [15 U.S.C. 77a et seq.] or the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], by incorporating by reference any information or documents on file with the Commission under this subchapter or under any such Act.
+
+(b) Consolidation of applications, reports, etc. The Commission, by such rules and regulations or orders as it deems necessary or appropriate in the public interest or for the protection of investors, shall provide for the consolidation of applications, reports, and proceedings under this subchapter with registration statements, applications, reports, and proceedings under the Securities Act of 1933 [15 U.S.C. 77a et seq.] or the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.].
+
+(May 27, 1933, ch. 38, title III, § 308, as added Aug. 3, 1939, ch. 411, 53 Stat. 1156; amended Pub. L. 111–203, title IX, § 986(b)(2), July 21, 2010, 124 Stat. 1936.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Securities Act of 1933, referred to in subsecs. (a) and (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables. The Securities Exchange Act of 1934, referred to in subsecs. (a) and (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+
+Amendments2010—Pub. L. 111–203 substituted “Securities Act of 1933 or the Securities Exchange Act of 1934” for “Securities Act of 1933, the Securities Exchange Act of 1934, or the Public Utility Holding Company Act of 1935” in subsecs. (a) and (b).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Executive Documents
+
+Transfer of Functions For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.

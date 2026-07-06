@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 1784"
+description: "Contempt"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "117"
+chapter_name: "EVIDENCE; DEPOSITIONS"
+section: "1784"
+citation: "28 U.S.C. § 1784"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s1784"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "4832c1cfed996f895fedbfafc539d242c54660e0da4dbe927e1454585a8d8f4a"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "7eb29630878956530ff1b917e58adc297bd1f48348b4506653fb6eb55ce9b437"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 1784 - Contempt
+
+## Text
+
+(a) The court of the United States which has issued a subpoena served in a foreign country may order the person who has failed to appear or who has failed to produce a document or other thing as directed therein to show cause before it at a designated time why he should not be punished for contempt.
+
+(b) The court, in the order to show cause, may direct that any of the person’s property within the United States be levied upon or seized, in the manner provided by law or court rules governing levy or seizure under execution, and held to satisfy any judgment that may be rendered against him pursuant to subsection (d) of this section if adequate security, in such amount as the court may direct in the order, be given for any damage that he might suffer should he not be found in contempt. Security under this subsection may not be required of the United States.
+
+(c) A copy of the order to show cause shall be served on the person in accordance with section 1783(b) of this title.
+
+(d) On the return day of the order to show cause or any later day to which the hearing may be continued, proof shall be taken. If the person is found in contempt, the court, notwithstanding any limitation upon its power generally to punish for contempt, may fine him not more than $100,000 and direct that the fine and costs of the proceedings be satisfied by a sale of the property levied upon or seized, conducted upon the notice required and in the manner provided for sales upon execution.
+
+(June 25, 1948, ch. 646, 62 Stat. 949; Pub. L. 88–619, § 11, Oct. 3, 1964, 78 Stat. 998.)
+
+## Notes
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., §§ 714, 715, 716, 717, and 718 (July 3, 1926, ch. 762, §§ 4–8, 44 Stat. 836). Sections 714–718 of title 28, U.S.C., 1940 ed., were consolidated, since all relate to contempt by a witness served personally in a foreign country. The last sentence omits specific reference to section 118 of title 28, U.S.C., 1940 ed., now incorporated in section 1655 of this title, which provides for the method of opening judgments rendered on publication of process. (See also Rule 60(b) of the Federal Rules of Civil Procedure.) Changes were made in phraseology.
+
+Editorial Notes
+
+Amendments1964—Pub. L. 88–619 amended section generally, and among other changes, authorized the court to order a person to show cause for failing to produce a document or other thing in subsec. (a), provided that a copy of the order to show cause shall be served in accordance with section 1783(b) of this title, and struck out provisions requiring the marshal making levy or seizure to forward to any United States consul in the country where the witness may be, a copy of the order and a request for its personal service, and to cause publication of the order in the district where the issuing court sits, in subsec. (c), and struck out provisions in subsec. (d) permitting any judgment rendered upon service by publication only to be opened for answer within one year.

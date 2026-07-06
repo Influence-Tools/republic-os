@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "40 U.S.C. § 14504"
+description: "Telecommunications and technology initiative"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 40
+title_name: "PUBLIC BUILDINGS, PROPERTY, AND WORKS"
+chapter_number: "145"
+chapter_name: "SPECIAL APPALACHIAN PROGRAMS"
+section: "14504"
+citation: "40 U.S.C. § 14504"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc40@119-100.zip"
+source_identifier: "/us/usc/t40/s14504"
+source_file: "data/legal/raw/us/code/title-40/usc40.xml"
+source_hash: "c88970d25273a3a76c45d1d7072d1be257ddca9879a22248453da35e7daa5859"
+raw_snapshot_hash: "9e671d5f37f9148634c9ba568a4c16d4864b567130b66bcf607f680414560a29"
+text_hash: "59c132edd875a72cbbd0d1dce04d1f09419d1b6431d8a4f0537f89aa82d90681"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 40 U.S.C. § 14504 - Telecommunications and technology initiative
+
+## Text
+
+(a) Projects To Be Assisted.— The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to persons or entities in the region for projects—
+
+(1) to increase affordable access to advanced telecommunications, entrepreneurship, and management technologies or applications in the region;
+
+(2) to provide education and training in the use of telecommunications and technology;
+
+(3) to develop programs to increase the readiness of industry groups and businesses in the region to engage in electronic commerce; or
+
+(4) to support entrepreneurial opportunities for businesses in the information technology sector.
+
+(b) Limitation on Available Amounts.— Of the cost of any activity eligible for a grant under this section, not more than—
+
+(1) 50 percent may be provided from amounts appropriated to carry out this section;
+
+(2) in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent may be provided from amounts appropriated to carry out this section; or
+
+(3) in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this section.
+
+(c) Sources of Assistance.— Assistance under this section may be provided entirely from amounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
+
+(d) Federal Share.— Notwithstanding any provision of law limiting the federal share under any other federal program, amounts made available to carry out this section may be used to increase that federal share, as the Commission decides is appropriate.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1270; Pub. L. 110–371, § 2(d), Oct. 8, 2008, 122 Stat. 4039.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 14504(a)40 App.:203(a).Pub. L. 89–4, title II, § 203, as added Pub. L. 107–149, § 5, Mar. 12, 2002, 116 Stat. 67. 14504(b)40 App.:203(c). 14504(c)40 App.:203(b)(1). 14504(d)40 App.:203(b)(2).
+
+Editorial Notes
+
+Amendments2008—Subsec. (b). Pub. L. 110–371 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.”

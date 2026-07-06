@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 491"
+description: "Approval of and deviation from plans; exemptions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "11"
+chapter_name: "BRIDGES OVER NAVIGABLE WATERS"
+section: "491"
+citation: "33 U.S.C. § 491"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s491"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "b381a6ccae8aa64d1215adf8ce98afff5f1d42df2566cc640f3486012b027cc9"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "2c65d629751368d4381a1270fb53bd0ecd4d12bae69a6ba1a3a5693d51920711"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 491 - Approval of and deviation from plans; exemptions
+
+## Text
+
+When, after March 23, 1906, authority is granted by Congress to any persons to construct and maintain a bridge across or over any of the navigable waters of the United States, such bridge shall not be built or commenced until the plans and specifications for its construction, together with such drawings of the proposed construction and such map of the proposed location as may be required for a full understanding of the subject, have been submitted to the Secretary of the department in which the Coast Guard is operating for the Secretary’s approval, nor until the Secretary shall have approved such plans and specifications and the location of such bridge and accessory works; and when the plans for any bridge to be constructed under the provisions of sections 491 to 494 and 495 to 498 of this title, have been approved by the Secretary it shall not be lawful to deviate from such plans, either before or after completion of the structure, unless the modification of such plans has previously been submitted to and received the approval of the Secretary. This section shall not apply to any bridge over waters which are not subject to the ebb and flow of the tide and which are not used and are not susceptible to use in their natural condition or by reasonable improvement as a means to transport interstate or foreign commerce.
+
+(Mar. 23, 1906, ch. 1130, § 1, 34 Stat. 84; Pub. L. 97–322, title I, § 107(c), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 98–557, § 17(g)(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 114–120, title III, § 306(b)(2)(A), Feb. 8, 2016, 130 Stat. 55.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation”. 1984—Pub. L. 98–557 substituted “for the Secretary’s approval, nor until the Secretary” for “and Chief of Engineers for their approval, nor until they” and struck out “by the Chief of Engineers and” after “have been approved”, “of the Chief of Engineers and” after “received the approval”, and “of Transportation” after “by the Secretary” and after “of the Secretary”. 1983—Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below. 1982—Pub. L. 97–322 inserted sentence at end relating to exemption.
+
+Statutory Notes and Related Subsidiaries
+
+Short TitleSections 491 to 494 and 495 to 498 of this title are popularly known as the “Bridge Act of 1906” and the “General Bridge Act of 1906”.
+
+Transfer of Functions Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).

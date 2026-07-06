@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 2809"
+description: "Compilation of aggregate data"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "29"
+chapter_name: "HOME MORTGAGE DISCLOSURE"
+section: "2809"
+citation: "12 U.S.C. § 2809"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s2809"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "20c688f70a9edeb02dfcc48f7bfae4ad754baf9e7719ce3c4d6240ca4f20b5fc"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "e961c5d12f246f92365d0c6a00c1f57a78dcb9556acb258a39af0d615281b1de"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 2809 - Compilation of aggregate data
+
+## Text
+
+(a) Commencement; scope of data and tables Beginning with data for calendar year 1980, the Federal Financial Institutions Examination Council shall compile each year, for each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, aggregate data by census tract for all depository institutions which are required to disclose data under section 2803 of this title or which are exempt pursuant to section 2805(b) of this title. The Council shall also produce tables indicating, for each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, aggregate lending patterns for various categories of census tracts grouped according to location, age of housing stock, income level, and racial characteristics.
+
+(b) Staff and data processing resources The Bureau shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a).
+
+(c) Availability to public The data and tables required pursuant to subsection (a) shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
+
+(Pub. L. 94–200, title III, § 310, as added Pub. L. 96–399, title III, § 340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title I [title VII, § 701(a)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 111–203, title X, § 1094(1), July 21, 2010, 124 Stat. 2097.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 2809, Pub. L. 94–200, title III, § 310, Dec. 31, 1975, 89 Stat. 1128, provided for termination of authority granted by this chapter, prior to repeal by section 340(b) of Pub. L. 96–399. See section 2811 of this title.
+
+Amendments2010—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board”. 1983—Subsec. (a). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical areas” in two places.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.

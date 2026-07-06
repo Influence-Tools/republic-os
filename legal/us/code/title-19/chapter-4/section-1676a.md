@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 1676a"
+description: "Required determinations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "4"
+chapter_name: "TARIFF ACT OF 1930"
+section: "1676a"
+citation: "19 U.S.C. § 1676a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s1676a"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "8bf870cea65ed2a86670f64d39f8798a42a8f69a495260dfaa935a5dfcfda356"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "20106e374be631df407dc4dab7b096820d6dcd52c2001ec1c5b6cc1d70d18301"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 1676a - Required determinations
+
+## Text
+
+(a) In general Before the expiration date, if any, of a quantitative restriction agreement accepted under section 1671c(a)(2) or 1671c(c)(3) of this title (if suspension of the related investigation is still in effect)—
+
+(1) the administering authority shall, at the direction of the President, initiate a proceeding to determine whether any countervailable subsidy is being provided with respect to the subject merchandise and, if being so provided, the net countervailable subsidy; and
+
+(2) if the administering authority initiates a proceeding under paragraph (1), the Commission shall determine whether imports of the merchandise of the kind subject to the agreement will, upon termination of the agreement, materially injure, or threaten with material injury, an industry in the United States or materially retard the establishment of such an industry.
+
+(b) Determinations The determinations required to be made by the administering authority and the Commission under subsection (a) shall be made under such procedures as the administering authority and the Commission, respectively, shall by regulation prescribe, and shall be treated as final determinations made under section 1671d of this title for purposes of judicial review under section 1516a of this title. If the determinations by each are affirmative, the administering authority shall—
+
+(1) issue a countervailing duty order under section 1671e of this title effective with respect to merchandise entered on and after the date on which the agreement terminates; and
+
+(2) order the suspension of liquidation of all entries of subject merchandise which are entered, or withdrawn from warehouse for consumption, on or after the date of publication of the order in the Federal Register.
+
+(c) Hearings The determination proceedings required to be prescribed under subsection (b) shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with section 1677c of this title on the issues involved.
+
+(June 17, 1930, ch. 497, title VII, § 762, as added Pub. L. 98–573, title VI, § 611(a)(4), Oct. 30, 1984, 98 Stat. 3032; amended Pub. L. 103–465, title II, §§ 233(a)(5)(Z), (AA), 270(a)(1)(J), Dec. 8, 1994, 108 Stat. 4900, 4917.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1994—Subsec. (a)(1). Pub. L. 103–465, §§ 233(a)(5)(Z), 270(a)(1)(J), inserted “countervailable” before “subsidy” in two places and substituted “subject merchandise” for “merchandise subject to the agreement”. Subsec. (b)(2). Pub. L. 103–465, § 233(a)(5)(AA), substituted “subject merchandise” for “merchandise subject to the order”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1994 AmendmentAmendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+
+Effective DateSection applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, or reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as an Effective Date of 1984 Amendment note under section 1671 of this title.

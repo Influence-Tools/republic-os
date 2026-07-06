@@ -1,0 +1,137 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 10104"
+description: "Requirement to report sexual offenses"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "101"
+chapter_name: "GENERAL"
+section: "10104"
+citation: "46 U.S.C. § 10104"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s10104"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "581445ae356c1f40dd55701dec90493d532044dc7c9668a292b2c479b91c3f04"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "42872c19bc5f2b923a577b6016ee00764798715c1a0133b7f2936dfdf2a595f9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 10104 - Requirement to report sexual offenses
+
+## Text
+
+(a) Mandatory Reporting by Responsible Entity of a Vessel.— (1) In general.— The responsible entity of a vessel shall report to the Commandant any complaint or incident of sexual harassment or sexual assault in violation of employer policy or law or harassment, of which such entity is made aware.
+
+(2) Penalty.— A responsible entity of a vessel who knowingly fails to report in compliance with paragraph (1) is liable to the United States Government for a civil penalty of not more than $50,000.
+
+(b) Reporting Procedures.— (1) Responsible entity of a vessel reporting.— A report required under subsection (a) shall be made immediately after the responsible entity of a vessel gains knowledge of a sexual assault or sexual harassment incident by the fastest telecommunication channel available to—
+
+(A) a single entity in the Coast Guard designated by the Commandant to receive such reports; and
+
+(B) the appropriate officer or agency of the government of the country in whose waters the incident occurs.
+
+(2) Contents.— Such shall include, to the best of the knowledge of the individual making the report—
+
+(A) the name, official position or role in relation to the vessel, and contact information of such individual;
+
+(B) the name and official number of the documented vessel;
+
+(C) the time and date of the incident;
+
+(D) the geographic position or location of the vessel when the incident occurred; and
+
+(E) a brief description of the alleged sexual harassment or sexual assault being reported.
+
+(3) Receiving reports; collection of information.— (A) Receiving reports.— With respect to reports submitted under subsection (a), the Commandant—
+
+(i) may establish additional reporting procedures, including procedures for receiving reports through—
+
+(I) a single telephone number that is continuously manned at all times; and
+
+(II) a single email address that is continuously monitored; and
+
+(ii) shall use procedures that include preserving evidence in such reports and providing emergency service referrals.
+
+(B) Collection of information.— After receipt of the report made under subsection (a), the Coast Guard shall collect information related to the identity of each alleged victim, alleged perpetrator, and any witnesses identified in the report through means designed to protect, to the extent practicable, the personal identifiable information of such individuals.
+
+(c) Subpoena Authority.— (1) In general.— The Commandant may compel the testimony of witnesses and the production of any evidence by subpoena to determine compliance with this section.
+
+(2) Jurisdictional limits.— The jurisdictional limits of a subpoena issued under this section are the same as, and are enforceable in the same manner as, subpoenas issued under chapter 63 of this title.
+
+(d) Company After-action Summary.— (1) A responsible entity of a vessel that makes a report under subsection (a) shall—
+
+(A) submit to the Commandant a document with detailed information to describe the actions taken by such entity after becoming aware of the sexual assault or sexual harassment incident, including the results of any investigation into the complaint or incident and any action taken against the offending individual; and
+
+(B) make such submission not later than 10 days after such entity made the report under subsection (a).
+
+(2) Civil penalty.— A responsible entity of a vessel that fails to comply with paragraph (1) is liable to the United States Government for a civil penalty of $25,000 and $500 shall be added for each day of noncompliance, except that the total amount of a penalty with respect to a complaint or incident shall not exceed $50,000 per violation.
+
+(e) Investigatory Audit.— The Commandant shall periodically perform an audit or other systematic review of the submissions made under this section to determine if there were any failures to comply with the requirements of this section.
+
+(f) Applicability; Regulations.— (1) Regulations.— The Secretary may issue regulations to implement the requirements of this section.
+
+(2) Interim reports.— Any report required to be made to the Commandant under this section shall be made to the Coast Guard National Command Center, until regulations implementing the procedures required by this section are issued.
+
+(g) Definition of Responsible Entity of a Vessel.— In this section, the term “responsible entity of a vessel” means—
+
+(1) the owner, master, or managing operator of a documented vessel engaged in commercial service; or
+
+(2) the employer of a seafarer on such a vessel.
+
+(h) Harassment Defined.— In this section, the term “harassment” means—
+
+(1) (A) unwelcome remarks about an individual’s race, color, religion, sex, national origin, age, disability, genetic information, or other physical or physiological attribute, or other unwelcome verbal or physical conduct towards an individual based on 1 or more of those categories, as prohibited by any Federal law, including—
+
+(i) title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.);
+
+(ii) the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.);
+
+(iii) the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
+
+(iv) title II of the Genetic Information Nondisclosure Act 11 See References in Text note below. (42 U.S.C. 2000ff et seq.); and
+
+(B) (i) submission to such remarks or conduct is made either explicitly or implicitly a term or condition of employment, pay, career, benefits, or entitlements of an individual; or
+
+(ii) submission to or rejection of such remarks or conduct by an individual is used as the basis for decisions affecting that individual’s job, pay, career, benefits, or entitlements; or
+
+(iii) such remarks or conduct have the purpose or effect of unreasonably interfering with an individual’s work performance; and
+
+(C) such remarks or conduct are so severe or pervasive that a reasonable person would perceive, and the alleged harassed individual does perceive, the environment as hostile or offensive.
+
+(i) Response to Incidents.— Nothing in this section shall be construed to impede the ability of the responsible entity of the vessel to take immediate personnel action in response to an incident described in subsection (a)(1) to preserve the safety and security of individuals on the vessel.
+
+(j) Education and Outreach.— Not later than 1 year after the date of the enactment of this Act, the Coast Guard, after consultation with the Equal Employment Opportunity Commission (referred to in this subsection as the “Commission”), shall—
+
+(1) develop and disseminate informational guidance to seafarers, vessel owners and operators, employers of seafarers, and other relevant stakeholders, which shall—
+
+(A) describe, in general terms—
+
+(i) the purpose, functions, and powers of the Commission;
+
+(ii) the role of the Commission in addressing employment discrimination complaints; and
+
+(B) identify the publicly available websites and contact information for the Commission; and
+
+(2) make available trainings or other presentations to inform seafarers of employment and anti-discrimination rights under the laws administered by the Coast Guard and the Commission.
+
+(Added Pub. L. 101–225, title II, § 214(a)(2), Dec. 12, 1989, 103 Stat. 1914; amended Pub. L. 117–263, div. K, title CXVI, § 11609, Dec. 23, 2022, 136 Stat. 4152; Pub. L. 119–60, div. G, title LXXIII, § 7315, Dec. 18, 2025, 139 Stat. 1762.)
+
+## Notes
+
+Editorial Notes
+
+References in TextTitle II of the Genetic Information Nondisclosure Act, referred to in subsec. (h)(1)(A)(iv), probably means title II of the Genetic Information Nondiscrimination Act of 2008, Pub. L. 110–233, May 21, 2008, 122 Stat. 905, which is classified to chapter 21F (§ 2000ff et seq.) of Title 42, The Public Health and Welfare. The date of the enactment of this Act, referred to in subsec. (j), probably means the date of enactment of Pub. L. 119–60, which enacted subsec. (j) of this section and was approved Dec. 18, 2025.
+
+Prior ProvisionsA prior section 10104, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 561, related to regulations, prior to repeal by Pub. L. 101–225, § 214(a)(1).
+
+Amendments2025—Subsec. (a)(1). Pub. L. 119–60, § 7315(1), substituted “sexual harassment or sexual assault in violation of employer policy or law or harassment” for “harassment, sexual harassment, or sexual assault in violation of employer policy or law”. Subsecs. (h) to (j). Pub. L. 119–60, § 7315(2), added subsecs. (h) to (j). 2022—Pub. L. 117–263 added subsecs. (a) to (g) and struck out former subsecs. (a) and (b) which read as follows: “(a) A master or other individual in charge of a documented vessel shall report to the Secretary a complaint of a sexual offense prohibited under chapter 109A of title 18, United States Code. “(b) A master or other individual in charge of a documented vessel who knowingly fails to report in compliance with this section is liable to the United States Government for a civil penalty of not more than $5,000.”

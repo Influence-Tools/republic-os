@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "41 U.S.C. § 8703"
+description: "Contractor responsibilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 41
+title_name: "PUBLIC CONTRACTS"
+chapter_number: "87"
+chapter_name: "KICKBACKS"
+section: "8703"
+citation: "41 U.S.C. § 8703"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc41@119-100.zip"
+source_identifier: "/us/usc/t41/s8703"
+source_file: "data/legal/raw/us/code/title-41/usc41.xml"
+source_hash: "6297993d411d4fc8bc6686610fe879ccd20675a323eb557de04d3043e4232bbd"
+raw_snapshot_hash: "0977ff7e7fefd99bbd25a86e009a9e4c2707301ec8c49233d17b6604e38702e3"
+text_hash: "8276b97185f2ce89f4f9e5df61b4e709c9d75856439c57f760ac05c527ac7838"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 41 U.S.C. § 8703 - Contractor responsibilities
+
+## Text
+
+(a) Requirements Included in Contracts.— Each contracting agency shall include in each prime contract awarded by the agency a requirement that the prime contractor shall—
+
+(1) have in place and follow reasonable procedures designed to prevent and detect violations of section 8702 of this title in its own operations and direct business relationships; and
+
+(2) cooperate fully with a Federal Government agency investigating a violation of section 8702 of this title.
+
+(b) Full Cooperation Required.— Notwithstanding subsection (d), a prime contractor shall cooperate fully with a Federal Government agency investigating a violation of section 8702 of this title.
+
+(c) Reporting Requirement.— (1) In general.— A prime contractor or subcontractor that has reasonable grounds to believe that a violation of section 8702 of this title may have occurred shall promptly report the possible violation in writing to the inspector general of the contracting agency, the head of the contracting agency if the agency does not have an inspector general, or the Attorney General.
+
+(2) Supplying information as favorable evidence.— In an administrative or contractual action to suspend or debar a person who is eligible to enter into contracts with the Federal Government, evidence that the person has supplied information to the Federal Government pursuant to paragraph (1) is favorable evidence of the person’s responsibility for the purposes of Federal procurement laws and regulations.
+
+(d) Inapplicability to Certain Prime Contracts.— Subsection (a) does not apply to a prime contract—
+
+(1) that is not greater than $100,000; or
+
+(2) for the acquisition of commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title).
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3839; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 8703(a)41:57(a), (b).Mar. 8, 1946, ch. 80, § 7, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, § 2(a), Nov. 7, 1986, 100 Stat. 3525; Pub. L. 103–355, title IV, § 4104(a), title VIII, § 8301(c)(1), Oct. 13, 1994, 108 Stat. 3341, 3397; Pub. L. 104–106, div. D, title XLIII, § 4321(g), Feb. 10, 1996, 110 Stat. 675. 8703(b)41:57(e). 8703(c)41:57(c). 8703(d)41:57(d). In subsection (c)(1), the words “Attorney General” are substituted for “Department of Justice” because of 28:503.
+
+Editorial Notes
+
+Amendments2018—Subsec. (d)(2). Pub. L. 115–232 substituted “commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)” for “commercial items (as defined in section 103 of this title)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.

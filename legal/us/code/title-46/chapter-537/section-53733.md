@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 53733"
+description: "Shipyard modernization and improvement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "537"
+chapter_name: "LOANS AND GUARANTEES"
+section: "53733"
+citation: "46 U.S.C. § 53733"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s53733"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "bd7f3ed16d5fee8eacd25f6f1b8be291f544d8e46463ec98fcdf97e212e24d62"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "4a59e06495c7e242bace91a9fb69509aaa2a9aa8403c11c440d87939e0ef51f4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 53733 - Shipyard modernization and improvement
+
+## Text
+
+(a) Definitions.— In this section:
+
+(1) Advanced shipbuilding technology.— The term “advanced shipbuilding technology” includes—
+
+(A) numerically controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving shipbuilding and related industrial production that advance the state-of-the-art; and
+
+(B) novel techniques and processes designed to improve shipbuilding quality, productivity, and practice, and to promote sustainable development, including engineering design, quality assurance, concurrent engineering, continuous process production technology, energy efficiency, waste minimization, design for recyclability or parts reuse, inventory management, upgraded worker skills, and communications with customers and suppliers.
+
+(2) General shipyard facility.— The term “general shipyard facility” means—
+
+(A) for operations on land—
+
+(i) a structure or appurtenance thereto designed for the construction, reconstruction, repair, rehabilitation, or refurbishment of a vessel, including a graving dock, building way, ship lift, wharf, or pier crane;
+
+(ii) the land necessary for the structure or appurtenance; and
+
+(iii) equipment that is for use with the structure or appurtenance and that is necessary for performing a function referred to in clause (i); and
+
+(B) for operations not on land, a vessel, floating drydock, or barge built in the United States and used for, equipped to be used for, or of a type normally used for, performing a function referred to in subparagraph (A)(i).
+
+(3) Modern shipbuilding technology.— The term “modern shipbuilding technology” means the best available proven technology, techniques, and processes appropriate to enhancing the productivity of shipyards.
+
+(b) General Authority.— Under subchapter I of this chapter, the Administrator may guarantee or make a commitment to guarantee the payment of the principal of and interest on an obligation for advanced shipbuilding technology and modern shipbuilding technology of a general shipyard facility in the United States. Only a private shipyard is eligible to receive a guarantee.
+
+(c) Applicability of Other Provisions.— Except as otherwise provided in this section, a guarantee or commitment to guarantee under this section is subject to all the provisions applicable to a guarantee or commitment to guarantee under subchapter I of this chapter.
+
+(d) Amount of Obligation.— The principal amount of an obligation guaranteed under this chapter may not exceed 87.5 percent of the actual cost of the advanced shipbuilding technology or modern shipbuilding technology.
+
+(e) Transfer of Amounts.— The Administrator may accept the transfer of amounts from a department, agency, or instrumentality of the United States Government and may use those amounts to cover the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) of making guarantees or commitments to guarantee under this section.
+
+(f) Buy America.— Part I of subtitle A of title IX of division G of the Infrastructure Investment and Jobs Act (Public Law 117–58; 41 U.S.C. 8301 note) shall apply to any funds obligated by the Administrator under this section.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1623; Pub. L. 109–163, div. C, title XXXV, § 3507(a)(2)(K), Jan. 6, 2006, 119 Stat. 3555; Pub. L. 110–181, div. C, title XXXV, § 3522(a)(9)(F), (b), Jan. 28, 2008, 122 Stat. 598; Pub. L. 118–159, div. C, title XXXV, § 3536, Dec. 23, 2024, 138 Stat. 2315.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 53733(a)46 App.:1279e(d).June 29, 1936, ch. 858, title XI, § 1112, as added Pub. L. 103–160, div. A, title XIII, § 1357(a), Nov. 30, 1993, 107 Stat. 1814. 53733(b)46 App.:1279e(a). 46 App.:1280a.Pub. L. 103–160, title XIII, § 1358, Nov. 30, 1993, 107 Stat. 1816. 53733(c)46 App.:1279e(b) (words before “except”). 53733(d)46 App.:1279e(b) (words beginning with “except”). 53733(e)46 App.:1279e(c). In subsection (a)(2)(A)(i), the words “(as defined in title 1)” are omitted as unnecessary because chapter 1 of the revised title contains a title-wide definition of “vessel” that incorporates the definition in title 1, United States Code. In subsection (b), the words “and subject to the terms the Secretary shall be prescribe” are omitted as unnecessary because section 53702(a) of the revised title provides the Secretary authority to prescribe the terms. The words “Only a private shipyard is eligible to receive a guarantee” are substituted for 46 App. U.S.C. 1280a to eliminate unnecessary words.
+
+Editorial Notes
+
+Amendments2024—Subsec. (f). Pub. L. 118–159 added subsec. (f). 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(2)(K). See 2006 Amendment note below. Subsecs. (b), (e). Pub. L. 110–181, § 3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(2)(K), into this section by substituting “Administrator” for “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title. 2006—Pub. L. 109–163, § 3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, § 3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.

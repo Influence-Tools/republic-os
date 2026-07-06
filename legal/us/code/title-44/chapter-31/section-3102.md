@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "44 U.S.C. § 3102"
+description: "Establishment of program of management"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 44
+title_name: "PUBLIC PRINTING AND DOCUMENTS"
+chapter_number: "31"
+chapter_name: "RECORDS MANAGEMENT BY FEDERAL AGENCIES"
+section: "3102"
+citation: "44 U.S.C. § 3102"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc44@119-100.zip"
+source_identifier: "/us/usc/t44/s3102"
+source_file: "data/legal/raw/us/code/title-44/usc44.xml"
+source_hash: "395f75615ec3c657ef1ab793be0798e56e817432a74e4231e44e7c583b7fceb9"
+raw_snapshot_hash: "2d7109056b4815718203e8d99c9ee6fe3ab744f578883b59654fe3adb211b4a0"
+text_hash: "fd6cfeec4a12e743599235dad761a45f2a6149a4ebb41ec36d11d1f3dc6cc457"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 44 U.S.C. § 3102 - Establishment of program of management
+
+## Text
+
+The head of each Federal agency shall establish and maintain an active, continuing program for the economical and efficient management of the records of the agency. The program, among other things, shall provide for
+
+(1) effective controls over the creation and over the maintenance and use of records in the conduct of current business;
+
+(2) procedures for identifying records of general interest or use to the public that are appropriate for public disclosure, and for posting such records in a publicly accessible electronic format;
+
+(3) cooperation with the Archivist in applying standards, procedures, and techniques designed to improve the management of records, promote the maintenance and security of records deemed appropriate for preservation, and facilitate the segregation and disposal of records of temporary value; and
+
+(4) compliance with sections 2101–2117, 2501–2507, 2901–2909, and 3101–3107, of this title and the regulations issued under them.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298; Pub. L. 94–575, § 3(a)(1), (2), Oct. 21, 1976, 90 Stat. 2726; Pub. L. 98–497, title I, § 107(b)(19), Oct. 19, 1984, 98 Stat. 2290; Pub. L. 113–187, § 9(f), formerly § 9(g), Nov. 26, 2014, 128 Stat. 2014, renumbered § 9(f), Pub. L. 115–85, § 2(a)(5), Nov. 21, 2017, 131 Stat. 1275; Pub. L. 114–185, § 4, June 30, 2016, 130 Stat. 544.)
+
+## Notes
+
+Historical and Revision NotesBased on 44 U.S. Code, 1964 ed., § 396(b) (June 30, 1949, ch. 288, title V, § 506(b), as added Sept. 5, 1950, ch. 849, § 6(d), 64 Stat. 583).
+
+Editorial Notes
+
+Amendments2016—Pars. (2) to (4). Pub. L. 114–185 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. 2014—Par. (2). Pub. L. 113–187 struck out “the Administrator of General Services and” before “the Archivist”. 1984—Pars. (2), (3). Pub. L. 98–497 inserted “and the Archivist” after “Administrator of General Services” in par. (2), and substituted “sections 2101–2117” for “sections 2101–2113” and struck out “2701,” before “2901” in par. (3). 1976—Pub. L. 94–575, § 3(a)(1), (2), substituted in par. (1) “the creation and over the maintenance” for “the creation, maintenance,” and in par. (3) reference to sections “2901–2909” for “2901, 2903–2909” of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentAmendment by Pub. L. 114–185 applicable to any request for records under section 552 of title 5 made after June 30, 2016, see section 6 of Pub. L. 114–185, set out as a note under section 552 of Title 5, Government Organization and Employees.
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.

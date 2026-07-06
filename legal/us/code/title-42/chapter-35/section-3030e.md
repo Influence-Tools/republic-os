@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3030e"
+description: "Grants for establishment and operation of nutrition projects"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "35"
+chapter_name: "PROGRAMS FOR OLDER AMERICANS"
+section: "3030e"
+citation: "42 U.S.C. § 3030e"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3030e"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "7d04f81fcaaef5c5bc0ca613770945b58e47348fd2bd81a6faa65ae519e5fd1a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "6f1bf1cdaf7789595c2a172e82f999490866bb77a2334d66abd9059f201ed4e1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3030e - Grants for establishment and operation of nutrition projects
+
+## Text
+
+The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the establishment and operation of nutrition projects that—
+
+(1) 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by regulation) and a lesser frequency is approved by the State agency), provide at least one hot or other appropriate meal per day and any additional meals which the recipient of a grant or contract under this subpart may elect to provide;
+
+(2) shall be provided in congregate settings, including adult day care facilities and multigenerational meal sites; and
+
+(3) provide nutrition education, nutrition counseling, and other nutrition services, as appropriate, based on the needs of meal participants.
+
+(Pub. L. 89–73, title III, § 331, as added Pub. L. 95–478, title I, § 103(b), Oct. 18, 1978, 92 Stat. 1536; amended Pub. L. 102–375, title III, § 313, Sept. 30, 1992, 106 Stat. 1238; Pub. L. 103–171, § 3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, § 312(c), Nov. 13, 2000, 114 Stat. 2252; Pub. L. 109–365, title III, § 313, Oct. 17, 2006, 120 Stat. 2548.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2006—Pub. L. 109–365, § 313(1), substituted “projects that—” for “projects—” in introductory provisions. Par. (1). Pub. L. 109–365, § 313(2), struck out “which,” before “5 or more days”. Par. (2). Pub. L. 109–365, § 313(3), struck out “which” before “shall be provided”. Par. (3). Pub. L. 109–365, § 313(4), added par. (3) and struck out former par. (3) which read as follows: “which may include nutrition education services and other appropriate nutrition services for older individuals.” 2000—Par. (2). Pub. L. 106–501 inserted “, including adult day care facilities and multigenerational meal sites” before semicolon. 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in introductory provisions and par. (1). 1992—Par. (1). Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before semicolon at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, set out as an Effective Date of 1978 Amendment note under section 3001 of this title.
+
+Nutrition ServicesPub. L. 116–136, div. A, title III, § 3222, Mar. 27, 2020, 134 Stat. 379, provided that: “(a) Definitions.—In this section, the terms ‘Assistant Secretary’, ‘Secretary’, ‘State agency’, and ‘area agency on aging’ have the meanings given the terms in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002). “(b) Nutrition Services Transfer Criteria.—During any portion of the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), the Secretary shall allow a State agency or an area agency on aging, without prior approval, to transfer not more than 100 percent of the funds received by the State agency or area agency on aging, respectively, and attributable to funds appropriated under paragraph (1) or (2) of section 303(b) of the Older Americans Act of 1965 (42 U.S.C. 3023(b)), between subpart 1 and subpart 2 of part C (42 U.S.C. 3030d–2 et seq.) [probably means subparts 1 and 2 of part C of title III of the Act, 42 U.S.C. 3030e; 3030f, 3030g] for such use as the State agency or area agency on aging, respectively, considers appropriate to meet the needs of the State or area served. “(c) Home-delivered Nutrition Services Waiver.—For purposes of State agencies’ determining the delivery of nutrition services under section 337 of the Older Americans Act of 1965 (42 U.S.C. 3030g), during the period of the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), the same meaning shall be given to an individual who is unable to obtain nutrition because the individual is practicing social distancing due to the emergency as is given to an individual who is homebound by reason of illness. “(d) Dietary Guidelines Waiver.—To facilitate implementation of subparts 1 and 2 of part C of title III of the Older Americans Act of 1965 (42 U.S.C. 3030d–2 et seq.) [42 U.S.C. 3030e; 3030f, 3030g] during any portion of the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), the Assistant Secretary may waive the requirements for meals provided under those subparts to comply with the requirements of clauses (i) and (ii) of section 339(2)(A) of such Act (42 U.S.C. 3030g–21(2)(A)).”
+
+Nutrition Projects for Elderly Under Prior Provisions, Qualified Under Successor Provisions, Eligible for Funds Under Such Provisions; Discontinuance of Payments for Ineffective ActivitiesOperation of predecessor projects under successor provisions, see section 501(b) of Pub. L. 95–478, set out as a note under section 3045 of this title.

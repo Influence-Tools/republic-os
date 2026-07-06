@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 4909"
+description: "Enforcement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "49"
+chapter_name: "HOMEOWNERS PROTECTION"
+section: "4909"
+citation: "12 U.S.C. § 4909"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s4909"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "67cc50dec19c2ffc9e790c7ff6aae1d151cf0d178c0c1feee940f85042ad03e8"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "37fa528230f52a5b18a69172cbd99d66851fa3376e6b29417549a8b07de25313"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 4909 - Enforcement
+
+## Text
+
+(a) In general Subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], compliance with the requirements imposed under this chapter shall be enforced under—
+
+(1) section 8 of the Federal Deposit Insurance Act [12 U.S.C. 1818], by the appropriate Federal banking agency (as defined in section 3(q) of that Act [12 U.S.C. 1813(q)]), with respect to—
+
+(A) insured depository institutions (as defined in section 3(c)(2) of that Act [12 U.S.C. 1813(c)(2)]);
+
+(B) depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act [12 U.S.C. 461(b)(1)(A)] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act [12 U.S.C. 1813(c)(2)]); and
+
+(C) depository institutions described in clause (v) or (vi) of section 19(b)(1)(A) of the Federal Reserve Act [12 U.S.C. 461(b)(1)(A)] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act [12 U.S.C. 1813(c)(2)]);
+
+(2) the Federal Credit Union Act [12 U.S.C. 1751 et seq.], by the National Credit Union Administration Board in the case of depository institutions described in clause (iv) of section 19(b)(1)(A) of the Federal Reserve Act [12 U.S.C. 461(b)(1)(A)];
+
+(3) part C of title V of the Farm Credit Act of 1971 (12 U.S.C. 2261 et seq.), by the Farm Credit Administration in the case of an institution that is a member of the Farm Credit System; and
+
+(4) subtitle E of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5561 et seq.], by the Bureau of Consumer Financial Protection, with respect to any person subject to this chapter.
+
+(b) Additional enforcement powers (1) Violation of this chapter treated as violation of other Acts For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
+
+(2) Enforcement authority under other Acts In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.].
+
+(c) Enforcement and reimbursement In carrying out its enforcement activities under this section, each agency referred to in subsection (a) shall—
+
+(1) notify the mortgagee or servicer of any failure of the mortgagee or servicer to comply with 1 or more provisions of this chapter;
+
+(2) with respect to each such failure to comply, require the mortgagee or servicer, as applicable, to correct the account of the mortgagor to reflect the date on which the mortgage insurance should have been canceled or terminated under this chapter; and
+
+(3) require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiums paid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.
+
+(Pub. L. 105–216, § 10, July 29, 1998, 112 Stat. 907; Pub. L. 111–203, title X, § 1095, July 21, 2010, 124 Stat. 2101.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§ 5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables. The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables. The Farm Credit Act of 1971, referred to in subsec. (a)(3), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583. Part C of title V of the Act is classified generally to part C (§ 2261 et seq.) of subchapter V of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+
+Amendments2010—Subsec. (a). Pub. L. 111–203, § 1095(1)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under— “(1) section 8 of the Federal Deposit Insurance Act— “(A) by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act) in the case of insured depository institutions (as defined in section 3(c)(2) of such Act); “(B) by the Federal Deposit Insurance Corporation in the case of depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act that are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act); and “(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act that are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);”. Subsec. (a)(4). Pub. L. 111–203, § 1095(1)(B)–(D), added par. (4). Subsec. (b)(2). Pub. L. 111–203, § 1095(2), inserted “, subject to subtitle B of the Consumer Financial Protection Act of 2010” before the period.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+Effective DateSection effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 4152"
+description: "Conversion to Foreign Service Schedule"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "52"
+chapter_name: "FOREIGN SERVICE"
+section: "4152"
+citation: "22 U.S.C. § 4152"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s4152"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "0e39e4994a5a928629ee756f61bcac9bb36a1fa7aa6cb7eb02b97725dfb66ff5"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "e1ee4fe6f777cda50e0a455539a5cf2776e467e1f53abf11858a91d80314a6f0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 4152 - Conversion to Foreign Service Schedule
+
+## Text
+
+(a) Not later than 120 days after February 15, 1981, the Secretary shall, in accordance with section 4156 of this title, convert to the appropriate class in the Foreign Service Schedule established under section 3963 of this title those individuals in the Foreign Service who are serving immediately before February 15, 1981, under appointments at or below class 3 of the schedule established under section 412 or 414 of the Foreign Service Act of 1946, or at any class in the schedule established under section 415 of such Act, as—
+
+(1) Foreign Service officers, or
+
+(2) Foreign Service Reserve officers with limited or unlimited tenure, and Foreign Service staff officers or employees, who the Secretary determines are available for worldwide assignment.
+
+(b) Not later than 3 years after February 15, 1981, Foreign Service Reserve officers and staff officers and employees who the Secretary determines under subsection (a)(2) are not available for worldwide assignment shall also be converted, in accordance with section 4156 of this title, to the appropriate class in the Foreign Service Schedule established under section 3963 of this title if—
+
+(1) the Secretary certifies that there is a need for their services in the Foreign Service; and
+
+(2) they agree in writing to accept availability for worldwide assignment as a condition of continued employment.
+
+(Pub. L. 96–465, title II, § 2102, Oct. 17, 1980, 94 Stat. 2148.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSections 412, 414 and 415 of the Foreign Service Act of 1946, referred to in subsec. (a), which were classified to sections 867, 869 and 870, respectively, of this title, were repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+
+Codification In subsecs. (a) and (b), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

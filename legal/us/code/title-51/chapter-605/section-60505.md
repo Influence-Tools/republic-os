@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "51 U.S.C. § 60505"
+description: "Coordination with the National Oceanic and Atmospheric Administration"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 51
+title_name: "NATIONAL AND COMMERCIAL SPACE PROGRAMS"
+chapter_number: "605"
+chapter_name: "EARTH SCIENCE"
+section: "60505"
+citation: "51 U.S.C. § 60505"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc51@119-100.zip"
+source_identifier: "/us/usc/t51/s60505"
+source_file: "data/legal/raw/us/code/title-51/usc51.xml"
+source_hash: "eeee97421534ab6dc7a5f09a199bf09ad9d342e81d029dbe3b4db5166884fddf"
+raw_snapshot_hash: "247760e048bc0c854023cd923eddd6011c857ad6958b62a813e0392121390bd5"
+text_hash: "68c1e276e219ed3f7fa9fcb1b9e078dd85a22c836068270cf8d0c2f6c473bbd5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 51 U.S.C. § 60505 - Coordination with the National Oceanic and Atmospheric Administration
+
+## Text
+
+(a) Joint Working Group.— The Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall appoint a Joint Working Group, which shall review and monitor missions of the two agencies to ensure maximum coordination in the design, operation, and transition of missions where appropriate. The Joint Working Group shall also prepare the plans required by subsection (c).
+
+(b) Coordination Report.— Not later than February 15 of each year, the Administrator and the Administrator of the National Oceanic and Atmospheric Administration shall jointly transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on how the Earth science programs of the Administration and the National Oceanic and Atmospheric Administration will be coordinated during the fiscal year following the fiscal year in which the report is transmitted.
+
+(c) Coordination of Transition Planning and Reporting.— The Administrator, in conjunction with the Administrator of the National Oceanic and Atmospheric Administration and in consultation with other relevant agencies, shall evaluate relevant Administration science missions for their potential operational capabilities and shall prepare transition plans for the existing and future Earth observing systems found to have potential operational capabilities.
+
+(d) Limitation.— The Administrator shall not transfer any Administration Earth science mission or Earth observing system to the National Oceanic and Atmospheric Administration until the plan required under subsection (c) has been approved by the Administrator and the Administrator of the National Oceanic and Atmospheric Administration and until financial resources have been identified to support the transition or transfer in the President’s budget request for the National Oceanic and Atmospheric Administration.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3426.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 6050542 U.S.C. 16656.Pub. L. 109–155, title III, § 306, Dec. 30, 2005, 119 Stat. 2919. In subsection (b), the words “beginning with the first fiscal year after the date of enactment of this Act [December 30, 2005]” are omitted as obsolete. In subsection (b), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.

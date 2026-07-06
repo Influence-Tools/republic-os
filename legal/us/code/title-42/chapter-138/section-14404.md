@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 14404"
+description: "Restriction on use of Federal funds by advocacy programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "138"
+chapter_name: "ASSISTED SUICIDE FUNDING RESTRICTION"
+section: "14404"
+citation: "42 U.S.C. § 14404"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s14404"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "b061deae98ca210cb0f145a9a3b611123629d4a53089ad9b979f8d83a9d0056c"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "350476f53f083539fedffdfd51f73941d6f7128f84547386eced3ab842c908b0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 14404 - Restriction on use of Federal funds by advocacy programs
+
+## Text
+
+(a) In general Subject to section 14402(b) of this title (relating to construction and treatment of certain services), no funds appropriated by Congress may be used to assist in, to support, or to fund any activity or service which has a purpose of assisting in, or to bring suit or provide any other form of legal assistance for the purpose of—
+
+(1) securing or funding any item, benefit, program, or service furnished for the purpose of causing, or the purpose of assisting in causing, the suicide, euthanasia, or mercy killing of any individual;
+
+(2) compelling any person, institution, governmental entity 11 So in original. Probably should be “or governmental entity”. to provide or fund any item, benefit, program, or service for such purpose; or
+
+(3) asserting or advocating a legal right to cause, or to assist in causing, the suicide, euthanasia, or mercy killing of any individual.
+
+(b) List of programs to which restrictions apply (1) In general Subsection (a) applies to funds appropriated under or to carry out the following:
+
+(A) Protection and advocacy systems under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 Subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.].
+
+(B) Protection and advocacy systems under the Protection and Advocacy for Mentally Ill Individuals Act The Protection and Advocacy for Mentally Ill Individuals Act of 1986 22 See References in Text note below. [42 U.S.C. 10801 et seq.].
+
+(C) Protection and advocacy systems under the Rehabilitation Act of 1973 Section 509 of the Rehabilitation Act of 1973 (29 U.S.C. 794e).
+
+(D) Ombudsman programs under the Older Americans Act of 1965 Ombudsman programs under the Older Americans Act of 1965 [42 U.S.C. 3001 et seq.].
+
+(E) Legal assistance Legal assistance programs under the Legal Services Corporation Act [42 U.S.C. 2996 et seq.].
+
+(2) Nonexclusive list Nothing in this subsection shall be construed as limiting the application of subsection (a) to the programs specified in paragraph (1).
+
+(Pub. L. 105–12, § 5, Apr. 30, 1997, 111 Stat. 25; Pub. L. 106–402, title IV, § 401(b)(15)(B), Oct. 30, 2000, 114 Stat. 1740.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (b)(1)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables. The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (b)(1)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables. The Older Americans Act of 1965, referred to in subsec. (b)(1)(D), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables. The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, § 2, July 25, 1974, 88 Stat. 378, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+Amendments2000—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Part C of the Developmental Disabilities Assistance and Bill of Rights Act.”

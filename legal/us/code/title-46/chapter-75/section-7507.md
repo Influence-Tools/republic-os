@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 7507"
+description: "Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "75"
+chapter_name: "GENERAL PROCEDURES FOR LICENSING, CERTIFICATION, AND DOCUMENTATION"
+section: "7507"
+citation: "46 U.S.C. § 7507"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s7507"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "2fb87d7f7399d13d689704f155d01107a85fd0881d0fc7e9dd2e8b56ac019cc4"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "89d08f9fbeccefd0c4dc028608711763f0f96a51e1d3fbf01077cc3f6701d2ef"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 7507 - Authority to extend the duration of licenses, certificates of registry, and merchant mariner documents
+
+## Text
+
+(a) Licenses and Certificates of Registry.— Notwithstanding sections 7106 and 7107, the Secretary of the department in which the Coast Guard is operating may—
+
+(1) extend for not more than one year an expiring license or certificate of registry issued for an individual under chapter 71 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for those licenses or certificates of registry or in response to a national emergency or natural disaster, as deemed necessary by the Secretary; or
+
+(2) issue for not more than five years an expiring license or certificate of registry issued for an individual under chapter 71 for the exclusive purpose of aligning the expiration date of such license or certificate of registry with the expiration date of a merchant mariner’s document.
+
+(b) Merchant Mariner Documents.— Notwithstanding section 7302(g), the Secretary may—
+
+(1) extend for not more than one year an expiring merchant mariner’s document issued for an individual under chapter 73 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for those merchant mariner documents or in response to a national emergency or natural disaster, as deemed necessary by the Secretary; or
+
+(2) issue for not more than five years an expiring merchant mariner’s document issued for an individual under chapter 73 for the exclusive purpose of aligning the expiration date of such merchant mariner’s document with the expiration date of a license or certificate of registry.
+
+(c) Manner of Extension.— Any extensions granted under this section may be granted to individual seamen or a specifically identified group of seamen.
+
+(d) Renewal.— With respect to any renewal of an active merchant mariner credential issued under this part that is not an extension under subsection (a) or (b), such credential shall begin the day after the expiration of the active credential of the credential holder.
+
+(Added Pub. L. 111–281, title VI, § 615(a), Oct. 15, 2010, 124 Stat. 2971; amended Pub. L. 112–213, title III, § 311, Dec. 20, 2012, 126 Stat. 1569; Pub. L. 115–282, title V, § 510(3), (4), Dec. 4, 2018, 132 Stat. 4274; Pub. L. 119–60, div. G, title LXXIII, § 7301(g)(1), Dec. 18, 2025, 139 Stat. 1755.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (d). Pub. L. 119–60 added subsec. (d). 2018—Subsec. (b)(1). Pub. L. 115–282, § 510(3), substituted “merchant mariner documents” for “licenses or certificates of registry”. Subsec. (b)(2). Pub. L. 115–282, § 510(4), substituted “license or certificate of registry.” for “merchant mariner’s document.” 2012—Subsec. (a). Pub. L. 112–213 substituted “chapter 71” for “chapter 73” in pars. (1) and (2).

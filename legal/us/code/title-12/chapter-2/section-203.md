@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 203"
+description: "Appointment of conservator"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "2"
+chapter_name: "NATIONAL BANKS"
+section: "203"
+citation: "12 U.S.C. § 203"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s203"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "9d4e22a29a8daccf72ea71b8ac1326fa66dc5756ccef79fef54e8836ab785685"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "2d851e58128b839f3093382664ca817ff465f4edeac3ce2cefdbfb48fe16277f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 203 - Appointment of conservator
+
+## Text
+
+(a) Appointment The Comptroller of the Currency may, without prior notice or hearings, appoint a conservator (which may be the Federal Deposit Insurance Corporation) to the possession and control of a bank whenever the Comptroller of the Currency determines that 1 or more of the grounds specified in section 11(c)(5) of the Federal Deposit Insurance Act [12 U.S.C. 1821(c)(5)] exist.
+
+(b) Judicial review (1) In general Not later than 20 days after the initial appointment of a conservator pursuant to this section, the bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located, or in the United States District Court for the District of Columbia, for an order requiring the Comptroller to terminate the appointment of the conservator, and the court, upon the merits, shall dismiss such action or shall direct the Comptroller to terminate the appointment of such conservator. The Comptroller’s decision to appoint a conservator pursuant to this section shall be set aside only if the court finds that such decision was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+
+(2) Stay The conservator may request that any judicial action or proceeding to which the conservator or the bank is or may become a party be stayed for a period of up to 45 days after the appointment of the conservator. Upon petition, the court shall grant such stay as to all parties.
+
+(3) Actions and orders Except as otherwise provided in this subsection, no court may take any action regarding the removal of a conservator, or restrain, or affect the exercise of powers or functions of a conservator. A court, upon application by the Comptroller, shall have jurisdiction to enforce an order of the Comptroller relating to—
+
+(A) the conservatorship and the bank in conservatorship, or
+
+(B) restraining or affecting the exercise of powers or functions of a conservator.
+
+(c) Additional grounds for appointment In addition to the foregoing provisions, the Comptroller may appoint a conservator for a bank if—
+
+(1) the bank, by an affirmative vote of a majority of its board of directors or by an affirmative vote of a majority of its shareholders, consents to such appointment, or
+
+(2) the Federal Deposit Insurance Corporation terminates the bank’s status as an insured bank.
+
+The appointment of a conservator pursuant to this subsection shall not be subject to review.
+
+(d) Exclusive authority The Comptroller shall have exclusive power and jurisdiction to appoint a conservator for a bank. Whenever the Comptroller appoints a conservator for any bank, the Comptroller may appoint the Federal Deposit Insurance Corporation conservator for such bank. The Federal Deposit Insurance Corporation, as such conservator, shall have all the powers granted under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.], and (when not inconsistent therewith) any other rights, powers, and privileges possessed by conservators of banks under this Act and any other provision of law. The Comptroller may also appoint another person as conservator, who shall be subject to the provisions of this Act.
+
+(e) Replacement of conservator The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank’s right under subsection (b) to obtain judicial review of the Comptroller’s original decision to appoint a conservator.
+
+(Mar. 9, 1933, ch. 1, title II, § 203, 48 Stat. 2; Pub. L. 101–73, title VIII, § 802, Aug. 9, 1989, 103 Stat. 442; Pub. L. 102–242, title I, § 133(c), Dec. 19, 1991, 105 Stat. 2271.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables. This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to section 4305 of Title 50, War and National Defense, and classified as a note under section 4305 of Title 50. Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (o), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
+
+Amendments1991—Subsec. (a). Pub. L. 102–242 amended subsec. (a) generally, substituting present provisions for provisions which specified circumstances under which Comptroller could appoint conservator. 1989—Pub. L. 101–73 amended section generally, changing structure of section from a single unlettered paragraph to one consisting of subsections (a) to (e).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1991 AmendmentAmendment by Pub. L. 102–242 effective 1 year after Dec. 19, 1991, see section 133(g) of Pub. L. 102–242, set out as a note under section 191 of this title.
+
+Executive Documents
+
+Exception as to Transfer of Functions Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+
+Conservators of State BanksEx. Ord. No. 6080, Mar. 18, 1933, provided for appointment of conservators of State banks under certain regulations.

@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2242"
+description: "Remote and subsistence harbors"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2242"
+citation: "33 U.S.C. § 2242"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2242"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "1ee5c6c3f847a8187d1fa172db9a4db8d980798ceb0790b638b8195a2d9c845f"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "b0b3b8a37d15b18ebb2045186201fc6422436bc093064e6e20f75ce50b15af72"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2242 - Remote and subsistence harbors
+
+## Text
+
+(a) In general In conducting a study of harbor and navigation improvements, the Secretary may recommend a project without the need to demonstrate that the project is justified solely by national economic development benefits if the Secretary determines that—
+
+(1) the project would be located in the State of Hawaii or Alaska, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, or American Samoa; and
+
+(2) (A) over 80 percent of the goods transported through the harbor would be consumed within the United States, as determined by the Secretary, including consideration of information provided by the non-Federal interest; or
+
+(B) the long-term viability of the community in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project, would be threatened without the harbor and navigation improvement.
+
+(b) Justification In considering whether to recommend a project under subsection (a), the Secretary shall consider the benefits of the project to any of—
+
+(1) public health and safety of the local community and communities that are located in the region to be served by the project and that will rely on the project, including access to facilities designed to protect public health and safety;
+
+(2) access to natural resources for subsistence purposes;
+
+(3) local and regional economic opportunities;
+
+(4) welfare of the regional population to be served by the project; or
+
+(5) social and cultural value to the local community and communities that are located in the region to be served by the project and that will rely on the project.
+
+(c) Prioritization Projects recommended by the Secretary under subsection (a) shall be given equivalent budget consideration and priority as projects recommended solely by national economic development benefits.
+
+(d) Disposition (1) In general The Secretary may carry out any project identified in the study carried out pursuant to subsection (a) in accordance with the criteria for projects carried out under the authority of the Secretary under section 577 of this title.
+
+(2) Non-Federal interests In evaluating and implementing a project under this section, the Secretary shall allow a non-Federal interest to participate in the financing of a project in accordance with the criteria established for flood control projects under section 903(c) of the Water Resources Development Act of 1986 (Public Law 99–662; 100 Stat. 4184).
+
+(e) Annual report For a project that cannot be carried out under the authority specified in subsection (d), on a determination by the Secretary of the feasibility of the project under subsection (a), the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title.
+
+(Pub. L. 110–114, title II, § 2006, Nov. 8, 2007, 121 Stat. 1073; Pub. L. 113–121, title II, § 2104, June 10, 2014, 128 Stat. 1279; Pub. L. 114–322, title I, § 1105, Dec. 16, 2016, 130 Stat. 1633; Pub. L. 118–272, div. A, title I, § 1147, Jan. 4, 2025, 138 Stat. 3038.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 903(c) of the Water Resources Development Act of 1986 (Public Law 99–662; 100 Stat. 4184), referred to in subsec. (d)(2), is not classified to the Code.
+
+Codification Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 118–272, § 1147(1), added par. (1) and struck out former par. (1) which read as follows: “(1)(A) the community to be served by the project is at least 70 miles from the nearest surface accessible commercial port and has no direct rail or highway link to another community served by a surface accessible port or harbor; or “(B) the project would be located in the State of Hawaii or Alaska, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, or American Samoa;”. Subsec. (a)(2). Pub. L. 118–272, § 1147(1), added par. (2) and struck out former par. (2) which read as follows: “the harbor is economically critical such that over 80 percent of the goods transported through the harbor would be consumed within the region served by the harbor and navigation improvement, as determined by the Secretary, including consideration of information provided by the non-Federal interest; and”. Subsec. (a)(3). Pub. L. 118–272, § 1147(1), struck out par. (3) which read as follows: “the long-term viability of the community in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project, would be threatened without the harbor and navigation improvement.” Subsec. (b). Pub. L. 118–272, § 1147(2)(A), in introductory provisions, substituted “benefits of the project to any of” for “benefits of the project to”. Subsec. (b)(4). Pub. L. 118–272, § 1147(2)(B), substituted “; or” for “; and”. 2016—Subsec. (a)(3). Pub. L. 114–322, § 1105(1), inserted “in which the project is located, or the long-term viability of a community that is located in the region that is served by the project and that will rely on the project,” after “the community”. Subsec. (b)(1). Pub. L. 114–322, § 1105(2)(A), inserted “and communities that are located in the region to be served by the project and that will rely on the project” after “local community”. Subsec. (b)(4). Pub. L. 114–322, § 1105(2)(B), substituted “regional population to be served by the project” for “local population”. Subsec. (b)(5). Pub. L. 114–322, § 1105(2)(C), substituted “local community and communities that are located in the region to be served by the project and that will rely on the project” for “community”. 2014—Subsec. (a)(1)(B). Pub. L. 113–121, § 2104(1)(A), inserted “or Alaska” after “Hawaii”. Subsec. (a)(2). Pub. L. 113–121, § 2104(1)(B), substituted “region” for “community” and inserted “, as determined by the Secretary, including consideration of information provided by the non-Federal interest” after “improvement”. Subsecs. (c) to (e). Pub. L. 113–121, § 2104(2), added subsecs. (c) to (e).
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.

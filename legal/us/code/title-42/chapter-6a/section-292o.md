@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 292o"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "292o"
+citation: "42 U.S.C. § 292o"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s292o"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "c79839a7b5bd5df52422a9930215b2f7983f2ea8d9d6728d78c133c2611ff27f"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "ce3c1cd560f1101d25f8a6a93a39aeca83d53f92057b7bac8ac1f6e4886dc144"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 292o - Definitions
+
+## Text
+
+For purposes of this subpart:
+
+(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
+
+(2) The term “eligible lender” means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
+
+(3) The term “line of credit” means an arrangement or agreement between the lender and the borrower whereby a loan is paid out by the lender to the borrower in annual installments, or whereby the lender agrees to make, in addition to the initial loan, additional loans in subsequent years.
+
+(4) The term “school of allied health” means a program in a school of allied health (as defined in section 295p of this title) which leads to a masters’ degree or a doctoral degree.
+
+(5) (A) The term “default rate”, in the case of an eligible entity, means the percentage constituted by the ratio of—
+
+(i) the principal amount of loans insured under this subpart—
+
+(I) that are made with respect to the entity and that enter repayment status after April 7, 1987; and
+
+(II) for which amounts have been paid under section 292f(a) of this title to insurance beneficiaries, exclusive of any loan for which amounts have been so paid as a result of the death or total and permanent disability of the borrower; exclusive of any loan for which the borrower begins payments to the Secretary on the loan pursuant to section 292f(b) of this title and maintains payments for 12 consecutive months in accordance with the agreement involved (with the loan subsequently being included or excluded, as the case may be, as amounts paid under section 292f(a) of this title according to whether further defaults occur and whether with respect to the default involved compliance with such requirement regarding 12 consecutive months occurs); and exclusive of any loan on which payments may not be recovered by reason of the obligation under the loan being discharged in bankruptcy under title 11; to
+
+(ii) the total principal amount of loans insured under this subpart that are made with respect to the entity and that enter repayment status after April 7, 1987.
+
+(B) For purposes of subparagraph (A), a loan insured under this subpart shall be considered to have entered repayment status if the applicable period described in subparagraph (B) of section 292d(a)(2) of this title regarding the loan has expired (without regard to whether any period described in subparagraph (C) of such section is applicable regarding the loan).
+
+(C) For purposes of subparagraph (A), the term “eligible entity” means an eligible institution, an eligible lender, or a holder, as the case may be.
+
+(D) For purposes of subparagraph (A), a loan is made with respect to an eligible entity if—
+
+(i) in the case of an eligible institution, the loan was made to students of the institution;
+
+(ii) in the case of an eligible lender, the loan was made by the lender; and
+
+(iii) in the case of a holder, the loan was purchased by the holder.
+
+(6) The term “Secretary” means the Secretary of Education.
+
+(July 1, 1944, ch. 373, title VII, § 719, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2009; amended Pub. L. 105–392, title I, § 141(c)(2), Nov. 13, 1998, 112 Stat. 3579; Pub. L. 113–76, div. H, title V, § 525(e), Jan. 17, 2014, 128 Stat. 413.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2014—Par. (6). Pub. L. 113–76 added par. (6). 1998—Par. (1). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2014 AmendmentPub. L. 113–76, div. H, title V, § 525(e), Jan. 17, 2014, 128 Stat. 413, provided in part that the amendment made by section 525(e) is effective as of the date on which the transfer of the HEAL program under subsec. (a) of section 525 of Pub. L. 113–76, set out as a note under section 292 of this title, takes effect [no later than the end of the first fiscal quarter that begins after Jan. 17, 2014].

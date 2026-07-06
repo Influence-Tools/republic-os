@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2018"
+description: "Agency jurisdiction"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2018"
+citation: "42 U.S.C. § 2018"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2018"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "6c57234966abb17d632a2ca6957cd01e384a623743455696c00ac4ef1bfde5ea"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "b978d141a0062b6a1397593fdc8bcb8fa8fc20878577c0b8623c43f0056fd9e2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2018 - Agency jurisdiction
+
+## Text
+
+Nothing in this chapter shall be construed to affect the authority or regulations of any Federal, State, or local agency with respect to the generation, sale, or transmission of electric power produced through the use of nuclear facilities licensed by the Commission: Provided, That this section shall not be deemed to confer upon any Federal, State, or local agency any authority to regulate, control, or restrict any activities of the Commission.
+
+(Aug. 1, 1946, ch. 724, title I, § 271, as added Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 960; amended Pub. L. 89–135, Aug. 24, 1965, 79 Stat. 551; renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+Amendments1965—Pub. L. 89–135 inserted “produced through the use of nuclear facilities licensed by the Commission: Provided, That this section shall not be deemed to confer upon any Federal, State, or local agency any authority to regulate, control, or restrict any activities of the Commission.”

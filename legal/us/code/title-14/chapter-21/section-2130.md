@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 2130"
+description: "Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "21"
+chapter_name: "PERSONNEL; OFFICERS"
+section: "2130"
+citation: "14 U.S.C. § 2130"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s2130"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "8df82e74570917501940fc6869e8cce063cf8f3666cb35c76278c359aa178fc6"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "984dd03f11f9394600655e3d3673587e3bad20ddb7ce9a7dd3563d7e340652e3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 2130 - Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant
+
+## Text
+
+(a) In General.— An officer in the grade of lieutenant (junior grade), lieutenant, lieutenant commander, or commander who is described in subsection (b) may be temporarily promoted to the grade of lieutenant, lieutenant commander, commander, or captain under regulations prescribed by the Secretary. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+
+(b) Covered Officers.— An officer described in this subsection is any officer in a grade specified in subsection (a) who—
+
+(1) has a skill in which the Coast Guard has a critical shortage of personnel (as determined by the Secretary); and
+
+(2) is serving in a position (as determined by the Secretary) that—
+
+(A) is designated to be held by a lieutenant, lieutenant commander, commander, or captain; and
+
+(B) requires that an officer serving in such position have the skill possessed by such officer.
+
+(c) Preservation of Position and Status of Officers Appointed.— (1) The temporary positions authorized under this section shall not be counted among or included in the list of positions on the active duty promotion list.
+
+(2) An appointment under this section does not change the position on the active duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
+
+(d) Board Recommendation Required.— A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary for the purpose of recommending officers for such promotions.
+
+(e) Acceptance and Effective Date of Appointment.— Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of the temporary promotion under this section beginning on the date the appointment is made.
+
+(f) Termination of Appointment.— Unless sooner terminated, an appointment under this section terminates—
+
+(1) on the date the officer who received the appointment is promoted to the permanent grade of lieutenant, lieutenant commander, commander, or captain;
+
+(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of lieutenant, lieutenant commander, commander, or captain, in which case the appointment terminates on the date the officer is promoted to that grade;
+
+(3) when the appointment officer determines that the officer who received the appointment has engaged in misconduct or has displayed substandard performance; or
+
+(4) when otherwise determined by the Commandant to be in the best interests of the Coast Guard.
+
+(g) Limitation on Number of Eligible Positions.— An appointment under this section may only be made for service in a position designated by the Secretary for the purposes of this section. The number of positions so designated may not exceed the following percentages of the respective grades:
+
+(1) As lieutenant, 0.5 percent.
+
+(2) As lieutenant commander, 3.0 percent.
+
+(3) As commander, 2.6 percent.
+
+(4) As captain, 2.6 percent.
+
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8203(a), Jan. 1, 2021, 134 Stat. 4643.)

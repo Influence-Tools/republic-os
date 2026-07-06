@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 5523"
+description: "Department of Energy activities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "81"
+chapter_name: "HIGH-PERFORMANCE COMPUTING"
+section: "5523"
+citation: "15 U.S.C. § 5523"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s5523"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "4fbcbbe229c03fe876c4e755799f8723e2e79f442d7eea4b3bf1462447754b01"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "7c08e83bc889c0cfb2231ec06f36c92f8eecc7f30f2e84aca5e0aca50a13d72e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 5523 - Department of Energy activities
+
+## Text
+
+As part of the Program described in subchapter I, the Secretary of Energy shall—
+
+(1) conduct and support basic and applied research in networking and information technology to support fundamental research in science and engineering disciplines related to energy applications; and
+
+(2) provide computing and networking infrastructure support, including—
+
+(A) the provision of high-end computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
+
+(B) support for advanced software and applications development for science and engineering disciplines related to energy applications.
+
+(Pub. L. 102–194, title II, § 203, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 104–66, title I, § 1052(j), Dec. 21, 1995, 109 Stat. 719; Pub. L. 109–58, title IX, § 976(b), Aug. 8, 2005, 119 Stat. 903; Pub. L. 114–329, title I, § 105(l), Jan. 6, 2017, 130 Stat. 2984.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Pub. L. 114–329, § 105(l)(1), (4), struck out subsec. (a) designation and heading “General responsibilities” and struck out subsec. (b) which authorized to be appropriated to the Secretary of Energy such sums as necessary to carry out this section. Par. (1). Pub. L. 114–329, § 105(l)(2), substituted “networking and information technology” for “high-performance computing and networking”. Par. (2)(A). Pub. L. 114–329, § 105(l)(3), substituted “high-end” for “high-performance”. 2005—Pub. L. 109–58 reenacted section catchline without change and amended text generally, substituting provisions relating to general responsibilities and authorization of appropriations for provisions relating to general responsibilities, establishment of High-Performance Computing Research and Development Collaborative Consortia, transfer of technology to private sector and others, reports on activities, and authorization of appropriations. 1995—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter.”

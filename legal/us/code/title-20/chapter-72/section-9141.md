@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 9141"
+description: "Grants to States"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "72"
+chapter_name: "MUSEUM AND LIBRARY SERVICES"
+section: "9141"
+citation: "20 U.S.C. § 9141"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s9141"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "ad826979ec55dba64428ef712e55ddfadb75ddac7708200a5b72f911f6614897"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "d695429e53f0d7119628c753895288b1dc6cbbfe9b4b616dfd0164e1271fd084"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 9141 - Grants to States
+
+## Text
+
+(a) In general Of the funds provided to a State library administrative agency under section 9123 of this title, such agency shall expend, either directly or through subgrants or cooperative agreements, at least 96 percent of such funds for—
+
+(1) expanding services for learning and access to information and educational resources in a variety of formats (including new and emerging technology), in all types of libraries, for individuals of all ages in order to support such individuals’ needs for education, lifelong learning, workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, and financial literacy and other types of literacy skills;
+
+(2) establishing or enhancing electronic and other linkages and improved coordination among and between libraries and entities, as described in section 9134(b)(6) of this title, for the purpose of improving the quality of and access to library and information services;
+
+(3) (A) providing training and professional development, including continuing education, to enhance the skills of the current library workforce and leadership, and advance the delivery of library and information services; and
+
+(B) enhancing efforts to recruit future professionals, including those from diverse and underrepresented backgrounds, to the field of library and information services;
+
+(4) developing public and private partnerships with other agencies, tribes, and community-based organizations;
+
+(5) targeting library services to individuals of diverse geographic, cultural, and socioeconomic backgrounds, to individuals with disabilities, and to individuals with limited functional literacy or information skills;
+
+(6) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved;
+
+(7) developing library services that provide all users access to information through local, State, regional, national, and international collaborations and networks; and
+
+(8) carrying out other activities consistent with the purposes set forth in section 9121 of this title, as described in the State library administrative agency’s plan.
+
+(b) Special rule Each State library administrative agency receiving funds under this part may apportion the funds available for the priorities described in subsection (a) as appropriate to meet the needs of the individual State.
+
+(Pub. L. 94–462, title II, § 231, as added Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, § 206, Sept. 25, 2003, 117 Stat. 999; Pub. L. 111–340, title II, § 205, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, § 12, Dec. 31, 2018, 132 Stat. 5417.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Subsec. (a)(1). Pub. L. 115–410, § 12(1), inserted “(including new and emerging technology)” after “formats” and substituted “workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, and financial literacy and other types of literacy skills” for “workforce development, and digital literacy skills”. Subsec. (a)(3)(B). Pub. L. 115–410, § 12(2), inserted “, including those from diverse and underrepresented backgrounds,” after “professionals”. Subsec. (a)(4). Pub. L. 115–410, § 12(3), inserted “, tribes,” after “agencies”. 2010—Subsec. (a). Pub. L. 111–340, § 205(1), inserted “in order to support such individuals’ needs for education, lifelong learning, workforce development, and digital literacy skills” before semicolon at end in par. (1), added pars. (2) and (3), redesignated former par. (2) as (7) and substituted “collaborations and networks; and” for “electronic networks;”, struck out former par. (3) which read “providing electronic and other linkages among and between all types of libraries;”, and added par. (8). Subsec. (b). Pub. L. 111–340, § 205(2), added subsec. (b) and struck out heading and text of former subsec. (b). Prior to amendment, text read as follows: “Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section among such purposes, as appropriate, to meet the needs of the individual State.” 2003—Subsec. (a)(1) to (6). Pub. L. 108–81, § 206(1), added pars. (1) to (6) and struck out former pars. (1) and (2) which read as follows: “(1)(A) establishing or enhancing electronic linkages among or between libraries; “(B) electronically linking libraries with educational, social, or information services; “(C) assisting libraries in accessing information through electronic networks; “(D) encouraging libraries in different areas, and encouraging different types of libraries, to establish consortia and share resources; or “(E) paying costs for libraries to acquire or share computer systems and telecommunications technologies; and “(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.” Subsec. (b). Pub. L. 108–81, § 206(2), substituted “among such purposes,” for “between the two purposes described in paragraphs (1) and (2) of such subsection,”.

@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 304"
+description: "Biannual report on overseas capital construction projects"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "8"
+chapter_name: "FOREIGN SERVICE BUILDINGS"
+section: "304"
+citation: "22 U.S.C. § 304"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s304"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "8e07dbd009480d7b71ff8661b429684fdd65604050e3c3f54fc793c239b79bb6"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "89e438535eb3b7fda035bef6b1d4edd08a3f11037fa346380706da2aefae0e44"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 304 - Biannual report on overseas capital construction projects
+
+## Text
+
+(a) In general Not later than 180 days after December 27, 2021, and every 180 days thereafter until the date that is 4 years after such date, the Secretary shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a comprehensive report regarding all ongoing overseas capital construction projects and major embassy security upgrade projects.
+
+(b) Contents Each report required under subsection (a) shall include the following with respect to each ongoing overseas capital construction project and major embassy security upgrade project:
+
+(1) The initial cost estimate as specified in the proposed allocation of capital construction and maintenance funds required by the Committees on Appropriations for Acts making appropriations for the Department of State, foreign operations, and related programs.
+
+(2) The current cost estimate.
+
+(3) The value of each request for equitable adjustment received by the Department to date.
+
+(4) The value of each certified claim received by the Department to date.
+
+(5) The value of any usage of the project’s contingency fund to date and the value of the remainder of the project’s contingency fund.
+
+(6) An enumerated list of each request for adjustment and certified claim that remains outstanding or unresolved.
+
+(7) An enumerated list of each request for equitable adjustment and certified claim that has been fully adjudicated or that the Department has settled, and the final dollar amount of each adjudication or settlement.
+
+(8) The date of estimated completion specified in the proposed allocation of capital construction and maintenance funds required by the Committees on Appropriations not later than 45 days after the date of the enactment of an Act making appropriations for the Department of State, foreign operations, and related programs.
+
+(9) The current date of estimated completion.
+
+(c) Initial report The first report required under subsection (a) shall include an annex regarding all embassy construction projects and major embassy security upgrade projects completed during the 10-year period ending on December 16, 2016, including, for each such project, the following:
+
+(1) The initial cost estimate.
+
+(2) The amount actually expended on the project.
+
+(3) Any additional time required to complete the project beyond the initial timeline.
+
+(4) Any cost overruns incurred by the project.
+
+(Pub. L. 114–323, title I, § 118, Dec. 16, 2016, 130 Stat. 1912; Pub. L. 115–94, § 2(b), Dec. 18, 2017, 131 Stat. 2038; Pub. L. 117–81, div. E, title LII, § 5203(a), Dec. 27, 2021, 135 Stat. 2353.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
+
+Amendments2021—Pub. L. 117–81, § 5203(a)(1), substituted “Biannual report on overseas capital construction projects” for “Annual report on embassy construction costs” in section catchline. Subsec. (a). Pub. L. 117–81, § 5203(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Not later than 180 days after December 16, 2016, and annually thereafter, the Secretary shall submit to the appropriate congressional committees and the Committees on Appropriations of the Senate and the House of Representatives a comprehensive report regarding all ongoing embassy construction projects and major embassy security upgrade projects.” Subsec. (b). Pub. L. 117–81, § 5203(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Each report required under subsection (a) shall include the following with respect to each ongoing embassy construction projects and major embassy security upgrade projects: “(1) The initial cost estimate. “(2) The amount expended on the project to date. “(3) The projected timeline for completing the project. “(4) Any cost overruns incurred by the project.” 2017—Subsec. (a). Pub. L. 115–94 inserted “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under section 2651 of this title.

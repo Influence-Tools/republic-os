@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 941"
+description: "Findings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "15B"
+chapter_name: "GREAT LAKES FISH AND WILDLIFE RESTORATION"
+section: "941"
+citation: "16 U.S.C. § 941"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s941"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "ae6227a8ea221a14fce047af13e1ca02e6da932dc9153c27c0cec62ab227b0c8"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "8c74877b3538bb4e766ae3928b437c31267a8d86226cf08d784b2bfcada9567c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 941 - Findings
+
+## Text
+
+Congress finds that—
+
+(1) the Great Lakes have fish and wildlife communities that are structurally and functionally changing;
+
+(2) successful fish and wildlife management focuses on the lakes as ecosystems, and effective management requires the coordination and integration of efforts of many partners;
+
+(3) additional actions and better coordination are needed to protect and effectively manage the fish and wildlife resources, and the habitats on which the resources depend, in the Great Lakes Basin; and
+
+(4) this chapter allows Federal agencies, States, and Indian tribes to work in an effective partnership by providing the funding for restoration work.
+
+(Pub. L. 101–537, title I, § 1002, as added Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 941, Pub. L. 101–537, title I, § 1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, § 2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358, related to Congressional findings, prior to repeal by Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2025 AmendmentPub. L. 119–67, § 1, Dec. 26, 2025, 139 Stat. 1993, provided that: “This Act [amending section 941h of this title] may be cited as the ‘Great Lakes Fishery Research Reauthorization Act’.”
+
+Short Title of 2022 AmendmentPub. L. 117–287, § 1, Dec. 27, 2022, 136 Stat. 4363, provided that: “This Act [amending sections 941f and 941g of this title] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022’.”
+
+Short Title of 2006 AmendmentPub. L. 109–326, § 1, Oct. 11, 2006, 120 Stat. 1761, provided that: “This Act [amending sections 941b to 941g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 2006’.”
+
+Short Title of 1998 AmendmentPub. L. 105–265, § 1, Oct. 19, 1998, 112 Stat. 2358, provided that: “This Act [amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1998’.”
+
+Short TitlePub. L. 101–537, title I, § 1001, Nov. 8, 1990, 104 Stat. 2370, and Pub. L. 101–646, title II, § 2001, Nov. 29, 1990, 104 Stat. 4773, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.” Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358.
+
+Continued Monitoring and Assessment of Study Findings and RecommendationsPub. L. 109–326, § 8, Oct. 11, 2006, 120 Stat. 1766, which required the Director of the United States Fish and Wildlife Service to monitor fish and wildlife resources of the Great Lakes Basin and to update findings and recommendations of the Great Lakes Fishery Resources Restoration Study, was repealed by Pub. L. 114–322, title III, § 3901(h), Dec. 16, 2016, 130 Stat. 1851.
+
+Congressional FindingsPub. L. 109–326, § 2, Oct. 11, 2006, 120 Stat. 1761, provided that: “Congress finds that— “(1) the Great Lakes have fish and wildlife communities that are structurally and functionally changing; “(2) successful fish and wildlife management focuses on the lakes as ecosystems, and effective management requires the coordination and integration of efforts of many partners; “(3) it is in the national interest to undertake activities in the Great Lakes Basin that support sustainable fish and wildlife resources of common concern provided under the recommendations of the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force) [33 U.S.C. 1268 note]; “(4) additional actions and better coordination are needed to protect and effectively manage the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; “(5) as of the date of enactment of this Act [Oct. 11, 2006], actions are not funded that are considered essential to meet the goals and objectives in managing the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; and “(6) the Great Lakes Fish and Wildlife Restoration Act [of 1990] (16 U.S.C. 941 et seq.) allows Federal agencies, States, and tribes to work in an effective partnership by providing the funding for restoration work.” Pub. L. 105–265, § 2, Oct. 19, 1998, 112 Stat. 2358, provided that: “Congress finds that— “(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and “(2) the study—“(A) found that, although State, Provincial, Native American Tribal, and Federal agencies have made significant progress toward the goal of restoring a healthy fish community to the Great Lakes Basin, additional actions and better coordination are needed to protect and effectively manage the fisheries and related resources in the Great Lakes Basin; and “(B) recommended actions that are not currently funded but are considered essential to meet goals and objectives in managing the resources of the Great Lakes Basin.”

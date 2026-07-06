@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 3521"
+description: "Tariff modifications"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "22"
+chapter_name: "URUGUAY ROUND TRADE AGREEMENTS"
+section: "3521"
+citation: "19 U.S.C. § 3521"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s3521"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "ba99b724a9a58608959da48877ec910ea23284ae6918a66fb6bd295f3a50c528"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "9be3d8b71194d9277da7a6a907fc0da9f7a57a55c70fb47a56a885d0b5c1ae09"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 3521 - Tariff modifications
+
+## Text
+
+(a) In general In addition to the authority provided by section 2902 of this title, the President shall have the authority to proclaim—
+
+(1) such other modification of any duty,
+
+(2) such other staged rate reduction, or
+
+(3) such additional duties,
+
+as the President determines to be necessary or appropriate to carry out Schedule XX.
+
+(b) Other tariff modifications Subject to the consultation and layover requirements of section 3524 of this title, the President may proclaim—
+
+(1) the modification of any duty or staged rate reduction of any duty set forth in Schedule XX if—
+
+(A) the United States agrees to such modification or staged rate reduction in a multilateral negotiation under the auspices of the WTO, and
+
+(B) such modification or staged rate reduction applies to the rate of duty on an article contained in a tariff category that was the subject of reciprocal duty elimination or harmonization negotiations during the Uruguay Round of multilateral trade negotiations, and
+
+(2) such modifications as are necessary to correct technical errors in Schedule XX or to make other rectifications to the Schedule.
+
+(c) Authority to increase duties on articles from certain countries (1) In general (A) Determination with respect to certain countries Notwithstanding section 1881 of this title, after the entry into force of the WTO Agreement with respect to the United States, if the President—
+
+(i) determines that a foreign country (other than a foreign country that is a WTO member country) is not according adequate trade benefits to the United States, including substantially equal competitive opportunities for the commerce of the United States, and
+
+(ii) consults with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate,
+
+the President may proclaim an increase in the rate of duty with respect to any article of such country in accordance with subparagraph (B).
+
+(B) Rate of duty described The President may proclaim a rate of duty on any article of a country identified under subparagraph (A) that is equal to the greater of—
+
+(i) the rate of duty set forth for such article in the base rate of duty column of Schedule XX, or
+
+(ii) the rate of duty set forth for such article in the bound rate of duty column of Schedule XX.
+
+(2) Termination of increased duties The President shall terminate any increase in the rate of duty proclaimed under this subsection by a proclamation which shall be effective on the earlier of—
+
+(A) the date set out in such proclamation of termination, or
+
+(B) the date the WTO Agreement enters into force with respect to the foreign country with respect to which the determination under paragraph (1) was made.
+
+(3) Publication of determination and termination The President shall publish in the Federal Register notice of a determination made under paragraph (1) and a termination occurring by reason of paragraph (2).
+
+(d) Adjustments to certain column 2 rates of duty At such time as the President proclaims any modification to the HTS to implement the provisions of Schedule XX, the President shall also proclaim the rate of duty set forth in Column B as the column 2 rate of duty for the subheading of the HTS that corresponds to the subheading in Schedule XX listed in Column A. Column AColumn B Schedule XX subheading:Rate of duty for column 2 of the HTS: 0201.10.5031.1% 0201.20.8031.1% 0201.30.8031.1% 0202.10.5031.1% 0202.20.8031.1% 0202.30.8031.1% 0401.30.2590.8¢/liter 0401.30.75$1.936/kg 0402.10.50$1.018/kg 0402.21.25$1.018/kg 0402.21.50$1.285/kg 0402.21.90$1.831/kg 0402.29.50$1.299/kg + 17.5% 0402.91.6036.8¢/kg 0402.99.5058.4¢/kg 0402.99.9054.5¢/kg + 17.5% 0403.10.50$1.217/kg + 20% 0403.90.1690.8¢/liter 0403.90.45$1.03/kg 0403.90.55$1.285/kg 0403.90.65$1.831/kg 0403.90.78$1.936/kg 0403.90.95$1.217/kg + 20% 0404.10.1120% 0404.10.15$1.217/kg + 10% 0404.10.90$1.03/kg 0404.90.3025% 0404.90.50$1.399/kg + 10% 0405.00.40$1.813/kg 0405.00.90$2.194/kg + 10% 0406.10.08$1.775/kg 0406.10.18$2.67/kg 0406.10.28$1.443/kg 0406.10.38$1.241/kg 0406.10.48$2.121/kg 0406.10.58$2.525/kg 0406.10.68$1.631/kg 0406.10.78$1.328/kg 0406.10.88$1.775/kg 0406.20.28$2.67/kg 0406.20.33$1.443/kg 0406.20.39$1.241/kg 0406.20.48$2.121/kg 0406.20.53$2.525/kg 0406.20.63$2.67/kg 0406.20.67$1.443/kg 0406.20.71$1.241/kg 0406.20.75$2.121/kg 0406.20.79$2.525/kg 0406.20.83$1.631/kg 0406.20.87$1.328/kg 0406.20.91$1.775/kg 0406.30.18$2.67/kg 0406.30.28$1.443/kg 0406.30.38$1.241/kg 0406.30.48$2.121/kg 0406.30.53$1.631/kg 0406.30.63$2.67/kg 0406.30.67$1.443/kg 0406.30.71$1.241/kg 0406.30.75$2.121/kg 0406.30.79$2.525/kg 0406.30.83$1.631/kg 0406.30.87$1.328/kg 0406.30.91$1.775/kg 0406.40.70$2.67/kg 0406.90.12$1.443/kg 0406.90.18$2.121/kg 0406.90.33$2.525/kg 0406.90.38$2.525/kg 0406.90.43$2.525/kg 0406.90.48$2.208/kg 0406.90.64$1.241/kg 0406.90.68$2.525/kg 0406.90.74$2.67/kg 0406.90.78$1.443/kg 0406.90.84$1.241/kg 0406.90.88$2.121/kg 0406.90.92$1.631/kg 0406.90.94$1.328/kg 0406.90.97$1.775/kg 1202.10.80192.7% 1202.20.80155% 1517.90.6040.2¢/kg 1701.11.5039.85¢/kg 1701.12.106.58170¢/kg less 0.0622005¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 5.031562¢/kg 1701.12.5042.05¢/kg 1701.91.106.58170¢/kg less 0.0622005¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 5.031562¢/kg 1701.91.3042.05¢/kg 1701.91.4839.9¢/kg + 6% 1701.91.5839.9¢/kg + 6% 1701.99.106.58170¢/kg less 0.0622005¢/kg for each degree under 100 degrees (and fractions of a degree in proportion) but not less than 5.031562¢/kg 1701.99.5042.05¢/kg 1702.20.2819.9¢/kg of total sugars + 6% 1702.30.2819.9¢/kg of total sugars + 6% 1702.40.2839.9¢/kg of total sugars + 6% 1702.60.2839.9¢/kg of total sugars + 6% 1702.90.106.58170¢/kg of total sugars 1702.90.2042.05¢/kg 1702.90.5839.9¢/kg of total sugars + 6% 1702.90.6839.9¢/kg + 6% 1704.90.5847.4¢/kg + 12.2% 1704.90.6847.4¢/kg + 12.2% 1704.90.7847.4¢/kg + 12.2% 1806.10.1525.5¢/kg 1806.10.2839.5¢/kg 1806.10.3839.5¢/kg 1806.10.5539.5¢/kg 1806.10.7539.5¢/kg 1806.20.2643.8¢/kg + 5% 1806.20.2862.1¢/kg + 5% 1806.20.3643.8¢/kg + 5% 1806.20.3862.1¢/kg + 5% 1806.20.7335.9¢/kg + 10% 1806.20.7735.9¢/kg + 10% 1806.20.8243.8¢/kg + 10% 1806.20.8362.1¢/kg + 10% 1806.20.8743.8¢/kg + 10% 1806.20.8962.1¢/kg + 10% 1806.20.9243.8¢/kg + 10% 1806.20.9362.1¢/kg + 10% 1806.20.9643.8¢/kg + 10% 1806.20.9762.1¢/kg + 10% 1806.32.0643.8¢/kg + 5% 1806.32.0862.1¢/kg + 5% 1806.32.1643.8¢/kg + 5% 1806.32.1862.1¢/kg + 5% 1806.32.7043.8¢/kg + 7% 1806.32.8062.1¢/kg + 7% 1806.90.0843.8¢/kg + 7% 1806.90.1062.1¢/kg + 7% 1806.90.1843.8¢/kg + 7% 1806.90.2062.1¢/kg + 7% 1806.90.2843.8¢/kg + 7% 1806.90.3062.1¢/kg + 7% 1806.90.3843.8¢/kg + 7% 1806.90.4062.1¢/kg + 7% 1806.90.4843.8¢/kg + 7% 1806.90.5062.1¢/kg + 7% 1806.90.5843.8¢/kg + 7% 1806.90.6062.1¢/kg + 7% 1901.10.30$1.217/kg + 17.5% 1901.10.40$1.217/kg + 17.5% 1901.10.75$1.217/kg + 17.5% 1901.10.85$1.217/kg + 17.5% 1901.20.1549.8¢/kg + 10% 1901.20.2549.8¢/kg + 10% 1901.20.3549.8¢/kg + 10% 1901.20.5049.8¢/kg + 10% 1901.20.6049.8¢/kg + 10% 1901.20.7049.8¢/kg + 10% 1901.90.36$1.328/kg 1901.90.4225% 1901.90.44$1.217/kg + 16% 1901.90.4625% 1901.90.48$1.217/kg + 16% 1901.90.5427.9¢/kg + 10% 1901.90.5827.9¢/kg + 10% 2008.11.15155% 2008.11.35155% 2008.11.60155% 2101.10.3835.9¢/kg + 10% 2101.10.4835.9¢/kg + 10% 2101.10.5835.9¢/kg + 10% 2101.20.3835.9¢/kg + 10% 2101.20.4835.9¢/kg + 10% 2101.20.5835.9¢/kg + 10% 2103.90.7835.9¢/kg + 7.5% 2105.00.2059¢/kg + 20% 2105.00.4059¢/kg + 20% 2106.90.02$1.014/kg 2106.90.04$2.348/kg 2106.90.08$2.348/kg 2106.90.116.58170¢/kg of total sugars 2106.90.1242.05¢/kg 2106.90.3482.8¢/kg + 10% 2106.90.3882.8¢/kg + 10% 2106.90.4482.8¢/kg + 10% 2106.90.4882.8¢/kg + 10% 2106.90.5733.9¢/kg + 10% 2106.90.6733.9¢/kg + 10% 2106.90.7733.9¢/kg + 10% 2106.90.8733.9¢/kg + 10% 2202.90.2827.6¢/liter + 17.5% 2309.90.2894.6¢/kg + 7.5% 2309.90.4894.6¢/kg + 7.5% 2401.10.7085¢/kg 2401.10.9085¢/kg 2401.20.30$1.21/kg 2401.20.45$1.15/kg 2401.20.55$1.15/kg 2801.30.2037% 2805.30.0031.3% 2805.40.005.7% 2811.19.104.9% 2818.10.204.1% 2822.00.001.7% 2827.39.2031.9% 2833.11.503.6% 2833.27.004.2% 2836.40.204.8% 2836.60.008.4% 2837.20.105.1% 2840.11.001.2% 2840.19.000.4% 2849.20.201.6% 2903.15.0088% 2903.16.0033.3% 2903.30.0546.3% 2906.11.006.2% 2907.12.0048.3% 2909.11.004% 2912.11.0012.1% 2916.15.1035.2% 2916.19.3024.4% 2923.20.2033.4% 3213.90.0048.6% 3307.10.2081.7% 3307.49.0073.2% 3403.11.200.4% 3403.19.100.4% 3506.10.1030.4% 3603.00.308.3% 3603.00.900.3% 3604.10.0012.5% 3606.90.3056.7% 3706.10.307% 3807.00.000.2% 3823.90.3326.3% 3904.61.0034.1% 3916.90.1040.6% 3920.51.5048.2% 3920.59.8051.7% 3926.90.658.4% 5201.00.1836.9¢/kg 5201.00.2836.9¢/kg 5201.00.3836.9¢/kg 5201.00.8036.9¢/kg 5202.99.309.2¢/kg 5203.00.3036.9¢/kg
+
+(e) Authority to consolidate subheadings and modify column 2 rates of duty for tariff simplification purposes (1) In general Whenever the HTS column 1 general rates of duty for 2 or more 8-digit subheadings are at the same level and such subheadings are subordinate to a provision required by the International Convention on the Harmonized Commodity Description and Coding System, the President may proclaim, subject to the consultation and layover requirements of section 3524 of this title, that the goods described in such subheadings be provided for in a single 8-digit subheading of the HTS, and that—
+
+(A) the HTS column 1 general rate of duty for such single subheading be the column 1 general rate of duty common to all such subheadings, and
+
+(B) the HTS column 2 rate of duty for such single subheading be the highest column 2 rate of duty for such subheadings that is in effect on the day before the effective date of such proclamation.
+
+(2) Same level of duty The provisions of this subsection apply to subheadings described in paragraph (1) that have the same column 1 general rate of duty—
+
+(A) on December 8, 1994, or
+
+(B) after December 8, 1994, as a result of a staged reduction in such column 1 rates of duty.
+
+(Pub. L. 103–465, title I, § 111, Dec. 8, 1994, 108 Stat. 4819.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 103–465, title I, § 116, Dec. 8, 1994, 108 Stat. 4828, provided that: “(a) In General.—Except as provided in section 114(a) [108 Stat. 4827] and subsection (b) of this section, this subtitle [subtitle B (§§ 111–116) of title I of Pub. L. 103–465, enacting this part and amending section 1466 of this title and provisions set out as a note under section 1466 of this title] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995]. “(b) Section 115.—Section 115 [enacting section 3524 of this title] takes effect on the date of the enactment of this Act [Dec. 8, 1994].”
+
+Executive Documents
+
+Uruguay Round Agreements: Entry Into ForceThe Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.

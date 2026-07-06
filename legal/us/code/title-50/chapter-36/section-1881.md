@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 1881"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "36"
+chapter_name: "FOREIGN INTELLIGENCE SURVEILLANCE"
+section: "1881"
+citation: "50 U.S.C. § 1881"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s1881"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "231372f1171cb5f36fccbaa560f9abb8578eb0c5c2d3ce4bec5fc433a7f37473"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "dc51a12210a82fc6276a5c35aeb83bf79341c046facc56446eba92460e288a78"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 1881 - Definitions
+
+## Text
+
+(a) In general In this subchapter, the terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
+
+(b) Additional definitions In this subchapter:
+
+(1) Congressional intelligence committees The term “congressional intelligence committees” means—
+
+(A) the Select Committee on Intelligence of the Senate; and
+
+(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+(2) Foreign Intelligence Surveillance Court; Court The terms “Foreign Intelligence Surveillance Court” and “Court” mean the court established under section 1803(a) of this title.
+
+(3) Foreign Intelligence Surveillance Court of Review; Court of Review The terms “Foreign Intelligence Surveillance Court of Review” and “Court of Review” mean the court established under section 1803(b) of this title.
+
+(4) Electronic communication service provider The term “electronic communication service provider” means—
+
+(A) a telecommunications carrier, as that term is defined in section 153 of title 47;
+
+(B) a provider of electronic communication service, as that term is defined in section 2510 of title 18;
+
+(C) a provider of a remote computing service, as that term is defined in section 2711 of title 18;
+
+(D) any other communication service provider who has access to wire or electronic communications either as such communications are transmitted or as such communications are stored;
+
+(E) any other service provider who has access to equipment that is being or may be used to transmit or store wire or electronic communications, but not including any entity that serves primarily as—
+
+(i) a public accommodation facility, as that term is defined in section 1861(4) of this title;
+
+(ii) a dwelling, as that term is defined in section 3602 of title 42;
+
+(iii) a community facility, as that term is defined in section 1592n of title 42; or
+
+(iv) a food service establishment, as that term is defined in section 1638 of title 7; or
+
+(F) an officer, employee, custodian, or agent of an entity described in subparagraph (A), (B), (C), (D), or (E).
+
+(5) Intelligence community The term “intelligence community” has the meaning given the term in section 3003(4) of this title.
+
+(Pub. L. 95–511, title VII, § 701, as added Pub. L. 110–261, title I, § 101(a)(2), July 10, 2008, 122 Stat. 2437; amended Pub. L. 115–118, title II, § 205(a)(5), Jan. 19, 2018, 132 Stat. 21; Pub. L. 118–49, § 25(a), Apr. 20, 2024, 138 Stat. 893.)
+
+## Notes
+
+Repeal of SectionPub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, § 7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, § 19(a)(1), Apr. 20, 2024, 138 Stat. 891; Pub. L. 119–84, § 1(a)(1), Apr. 18, 2026, 140 Stat. 770; Pub. L. 119–87, § 1(a)(1), Apr. 30, 2026, 140 Stat. 811, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective June 12, 2026, this section is repealed.
+
+Editorial Notes
+
+Prior ProvisionsA prior section 701 of Pub. L. 95–511 was set out as a note under section 1801 of this title, prior to repeal by Pub. L. 110–261.
+
+Amendments2024—Subsec. (b)(4)(D). Pub. L. 118–49, § 25(a)(2), struck out “or” at end. Subsec. (b)(4)(E). Pub. L. 118–49, § 25(a)(3), added subpar. (E). Former subpar. (E) redesignated (F). Subsec. (b)(4)(F). Pub. L. 118–49, § 25(a)(1), (4), redesignated subpar. (E) as (F), inserted “custodian,” after “employee,” and substituted “(C), (D), or (E)” for “(C), or (D)”. 2018—Subsec. (a). Pub. L. 115–118, § 205(a)(5)(A), substituted “In this subchapter, the terms” for “The terms”. Subsec. (b). Pub. L. 115–118, § 205(a)(5)(B)(i), inserted introductory provisions. Subsec. (b)(5). Pub. L. 115–118, § 205(a)(5)(B)(ii), made technical amendment to reference in original act which appears in text as reference to section 3003(4) of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2017 AmendmentPub. L. 115–96, div. A, § 1002, Dec. 22, 2017, 131 Stat. 2045, which temporarily extended the effective date of the amendments made by section 403(b) of Pub. L. 110–261 to Jan. 19, 2018, was repealed by its own terms upon the enactment, on Jan. 19, 2018, of section 201(a) of Pub. L. 115–118, which amended the dates specified in section 403(b) of Pub. L. 110–261, and by Pub. L. 115–120, div. B, § 2002, Jan. 22, 2018, 132 Stat. 31, which was effective on Jan. 22, 2018.
+
+Effective Date of RepealPub. L. 110–261, title IV, § 403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, § 2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, § 201(a)(1), Jan. 19, 2018, 132 Stat. 19; Pub. L. 118–31, div. G, title IX, § 7902(a)(1), Dec. 22, 2023, 137 Stat. 1108; Pub. L. 118–49, § 19(a)(1), Apr. 20, 2024, 138 Stat. 891; Pub. L. 119–84, § 1(a)(1), Apr. 18, 2026, 140 Stat. 770; Pub. L. 119–87, § 1(a)(1), Apr. 30, 2026, 140 Stat. 811, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, the repeals made by section 403(b)(1) are effective June 12, 2026. [Pub. L. 119–87, § 1(b), Apr. 30, 2026, 140 Stat. 811, provided that: “The amendments made by this section [amending sections 1881 to 1881h of this title and provisions set out as notes under this section and section 2511 of Title 18, Crimes and Criminal Procedure] shall take effect on the earlier of the date of the enactment of this Act [Apr. 30, 2026] or April 29, 2026.” ] [Pub. L. 119–84, § 1(c), Apr. 18, 2026, 140 Stat. 771, provided that: “The amendments made by this section [amending sections 1881 to 1881h of this title and provisions set out as notes under this section, section 1801 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure] shall take effect on the earlier of the date of the enactment of this Act [Apr. 18, 2026] or April 19, 2026.” ] [Pub. L. 115–118, title II, § 201(c), Jan. 19, 2018, 132 Stat. 19, provided that: “The amendments made to the FISA Amendments Act of 2008 (Public Law 110–261) by this section [amending sections 1881 to 1881g of this title and provisions set out as notes under this section, section 1801 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure] shall take effect on December 31, 2017.” ]

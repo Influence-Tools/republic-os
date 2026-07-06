@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 4376"
+description: "Self-insured health plans"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "34"
+chapter_name: "TAXES ON CERTAIN INSURANCE POLICIES"
+section: "4376"
+citation: "26 U.S.C. § 4376"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s4376"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "696f0d84ad68fd90dc5dac82f9061b58e6d6860b81937deeda82b0b25b48cf11"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "cc4e48f3743f5707123efed6fd066d18b3678327a262c145767b27f92bf034db"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 4376 - Self-insured health plans
+
+## Text
+
+(a) Imposition of fee In the case of any applicable self-insured health plan for each plan year ending after September 30, 2012, there is hereby imposed a fee equal to $2 ($1 in the case of plan years ending during fiscal year 2013) multiplied by the average number of lives covered under the plan.
+
+(b) Liability for fee (1) In general The fee imposed by subsection (a) shall be paid by the plan sponsor.
+
+(2) Plan sponsor For purposes of paragraph (1) the term “plan sponsor” means—
+
+(A) the employer in the case of a plan established or maintained by a single employer,
+
+(B) the employee organization in the case of a plan established or maintained by an employee organization,
+
+(C) in the case of—
+
+(i) a plan established or maintained by 2 or more employers or jointly by 1 or more employers and 1 or more employee organizations,
+
+(ii) a multiple employer welfare arrangement, or
+
+(iii) a voluntary employees’ beneficiary association described in section 501(c)(9), the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan, or
+
+(D) the cooperative or association described in subsection (c)(2)(F) in the case of a plan established or maintained by such a cooperative or association.
+
+(c) Applicable self-insured health plan For purposes of this section, the term “applicable self-insured health plan” means any plan for providing accident or health coverage if—
+
+(1) any portion of such coverage is provided other than through an insurance policy, and
+
+(2) such plan is established or maintained—
+
+(A) by 1 or more employers for the benefit of their employees or former employees,
+
+(B) by 1 or more employee organizations for the benefit of their members or former members,
+
+(C) jointly by 1 or more employers and 1 or more employee organizations for the benefit of employees or former employees,
+
+(D) by a voluntary employees’ beneficiary association described in section 501(c)(9),
+
+(E) by any organization described in section 501(c)(6), or
+
+(F) in the case of a plan not described in the preceding subparagraphs, by a multiple employer welfare arrangement (as defined in section 3(40) of Employee Retirement Income Security Act of 1974), a rural electric cooperative (as defined in section 3(40)(B)(iv) of such Act), or a rural telephone cooperative association (as defined in section 3(40)(B)(v) of such Act).
+
+(d) Adjustments for increases in health care spending In the case of any plan year ending in any fiscal year beginning after September 30, 2014, the dollar amount in effect under subsection (a) for such plan year shall be equal to the sum of such dollar amount for plan years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of—
+
+(1) such dollar amount for plan years ending in the previous fiscal year, multiplied by
+
+(2) the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year.
+
+(e) Termination This section shall not apply to plan years ending after September 30, 2029.
+
+(Added Pub. L. 111–148, title VI, § 6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 744; amended Pub. L. 116–94, div. N, title I, § 104(c), Dec. 20, 2019, 133 Stat. 3098.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 3(40) of Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(2)(F), is classified to section 1002(40) of Title 29, Labor.
+
+Amendments2019—Subsec. (e). Pub. L. 116–94 substituted “2029” for “2019”.

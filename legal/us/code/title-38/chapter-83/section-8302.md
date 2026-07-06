@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 8302"
+description: "Legal proceedings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "83"
+chapter_name: "ACCEPTANCE OF GIFTS AND BEQUESTS"
+section: "8302"
+citation: "38 U.S.C. § 8302"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s8302"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "6deab8fd5f88cdfae2bec7661a485c484a9657a120de630c247017fb5f462455"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "2550be6cfbbfd8ef4159347a1bb65c9ed640bfd9dc9e0b6a3888c56b78f1ecb5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 8302 - Legal proceedings
+
+## Text
+
+For the purpose of acquiring title to and possession of any property which the Secretary is by this chapter authorized to accept, the Secretary may initiate and appear in any appropriate legal proceedings, and take such steps therein or in connection therewith as in the Secretary’s discretion may be desirable and appropriate to reduce said property to possession. The Secretary may incur such expenses incident to such proceedings as the Secretary deems necessary or appropriate, which shall be paid as are other administrative expenses of the Department. All funds received by devise, bequest, gift, or otherwise, for the purposes contemplated in this chapter, including net proceeds of sales authorized by this chapter, shall be deposited with the Treasurer of the United States to the credit of the General Post Fund.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1254, § 5102; Pub. L. 99–576, title VII, § 701(90), Oct. 28, 1986, 100 Stat. 3299; renumbered § 8302, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1991—Pub. L. 102–40 renumbered section 5102 of this title as this section. Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing, “Secretary’s” for “Administrator’s”, and “Department” for “Veterans’ Administration”. 1986—Pub. L. 99–576 substituted “the Administrator” for “he” in two places, “the Administrator’s” for “his”, and “The Administrator” for “He”.

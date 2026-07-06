@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 1343"
+description: "Civil rights and elective franchise"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "85"
+chapter_name: "DISTRICT COURTS; JURISDICTION"
+section: "1343"
+citation: "28 U.S.C. § 1343"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s1343"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "ac6b379bb950b0eb6912eb11e9ac0d8b63e25cd3c33e546a6858fde222f4788d"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "cef93c148ac20abe025a3b5a82c821c0a949b70840aaf19da61d8b133642eab1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 1343 - Civil rights and elective franchise
+
+## Text
+
+(a) The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person:
+
+(1) To recover damages for injury to his person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtherance of any conspiracy mentioned in section 1985 of Title 42;
+
+(2) To recover damages from any person who fails to prevent or to aid in preventing any wrongs mentioned in section 1985 of Title 42 which he had knowledge were about to occur and power to prevent;
+
+(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right, privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
+
+(4) To recover damages or to secure equitable or other relief under any Act of Congress providing for the protection of civil rights, including the right to vote.
+
+(b) For purposes of this section—
+
+(1) the District of Columbia shall be considered to be a State; and
+
+(2) any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
+
+(June 25, 1948, ch. 646, 62 Stat. 932; Sept. 3, 1954, ch. 1263, § 42, 68 Stat. 1241; Pub. L. 85–315, part III, § 121, Sept. 9, 1957, 71 Stat. 637; Pub. L. 96–170, § 2, Dec. 29, 1979, 93 Stat. 1284.)
+
+## Notes
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., § 41(12), (13), and (14) (Mar. 3, 1911, ch. 231, § 24, pars. 12, 13, 14, 36 Stat. 1092). Words “civil action” were substituted for “suits,” “suits at law or in equity” in view of Rule 2 of the Federal Rules of Civil Procedure. Numerous changes were made in arrangement and phraseology.
+
+Editorial Notes
+
+Amendments1979—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b). 1957—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4). 1954—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1979 AmendmentPub. L. 96–170, § 3, Dec. 29, 1979, 93 Stat. 1284, provided that: “The amendments made by this Act [amending this section and section 1983 of Title 42, The Public Health and Welfare] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act [Dec. 29, 1979].”

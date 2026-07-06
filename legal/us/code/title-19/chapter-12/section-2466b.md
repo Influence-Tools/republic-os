@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2466b"
+description: "Termination of benefits for sub-Saharan African countries"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2466b"
+citation: "19 U.S.C. § 2466b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2466b"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "8cebdd8fddc817198f0862c7992febf0fa1ae9add3b11a407de052ea5378f2ff"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "580292a9d199644c461807761af82fe861704c73dcb314d3aabc58b718316ea4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2466b - Termination of benefits for sub-Saharan African countries
+
+## Text
+
+In the case of a beneficiary sub-Saharan African country, as defined in section 2466a(c) 11 See References in Text note below. of this title, duty-free treatment provided under this subchapter shall remain in effect through December 31, 2026.
+
+(Pub. L. 93–618, title V, § 506B, as added Pub. L. 106–200, title I, § 114, May 18, 2000, 114 Stat. 266; amended Pub. L. 108–274, § 7(a)(1), July 13, 2004, 118 Stat. 823; Pub. L. 114–27, title I, § 103(a), June 29, 2015, 129 Stat. 364; Pub. L. 119–75, div. I, § 5019(a)(1)(A), Feb. 3, 2026, 140 Stat. 632.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 2466a(c) of this title, referred to in text, was redesignated section 2466a(e) of this title by Pub. L. 114–27, title I, § 105(b), (c), June 29, 2015, 129 Stat. 366.
+
+Amendments2026—Pub. L. 119–75 substituted “December 31, 2026” for “September 30, 2025”. 2015—Pub. L. 114–27 substituted “September 30, 2025” for “September 30, 2015”. 2004—Pub. L. 108–274 substituted “2015” for “2008”.
+
+Statutory Notes and Related Subsidiaries
+
+Retroactive Application of 2026 AmendmentPub. L. 119–75, div. I, § 5019(a)(2), Feb. 3, 2026, 140 Stat. 632, provided that: “(A) In general.—Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, and subject to subparagraph (B), any entry of a covered article to which duty-free treatment or other preferential treatment under section 506A of the Trade Act of 1974 (19 U.S.C. 2466a) or section 112 of the African Grown [sic] and Opportunity Act (19 U.S.C. 3721) would have applied if the entry had been made on September 30, 2025, that was made—“(i) after September 30, 2025, and “(ii) before the date of the enactment of this Act [Feb. 3, 2026], shall be liquidated or reliquidated as though such entry occurred on the date of the enactment of this Act. “(B) Requests.—A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with the Commissioner of U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act that contains sufficient information to enable such Commissioner—“(i) to locate the entry; or “(ii) to reconstruct the entry if it cannot be located. “(C) Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of a covered article under subparagraph (A) shall be paid, without interest of any kind, not later than 90 days after the date of the liquidation or reliquidation (as the case may be). “(D) Definitions.—In this paragraph:“(i) Covered article.—The term ‘covered article’ means an article from a country that is designated by the President as a beneficiary sub-Saharan African country under section 104 of the African Growth and Opportunity Act (19 U.S.C. 3703) as of the day before the date of the enactment of this Act. “(ii) Entry.—The term ‘entry’ includes a withdrawal from warehouse for consumption.”

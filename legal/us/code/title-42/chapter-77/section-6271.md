@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 6271"
+description: "International oil allocations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "77"
+chapter_name: "ENERGY CONSERVATION"
+section: "6271"
+citation: "42 U.S.C. § 6271"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s6271"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "56fb472a19f997f8e28ffc2ad3c956b233283b2d3c275594a72a6f435c194d01"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "19124c3ab6aa332a7fac5b27f3b5573b550f60919abd55684c8c3546649cdde7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 6271 - International oil allocations
+
+## Text
+
+(a) Authority of President to prescribe rules for implementation of obligations of United States relating to international allocation of petroleum products; amounts of allocation and prices; petroleum products subject to rule; term of rule The President may, by rule, require that persons engaged in producing, transporting, refining, distributing, or storing petroleum products, take such action as he determines to be necessary for implementation of the obligations of the United States under chapters III and IV of the international energy program insofar as such obligations relate to the international allocation of petroleum products. Allocation under such rule shall be in such amounts and at such prices as are specified in (or determined in a manner prescribed by) such rule. Such rule may apply to any petroleum product owned or controlled by any person described in the first sentence of this subsection who is subject to the jurisdiction of the United States, including any petroleum product destined, directly or indirectly, for import into the United States or any foreign country, or produced in the United States. Subject to subsection (b)(2), such a rule shall remain in effect until amended or rescinded by the President.
+
+(b) Prerequisites to rule taking effect; time rule may be put into effect or remain in effect (1) No rule under subsection (a) may take effect unless the President—
+
+(A) has transmitted such rule to the Congress;
+
+(B) has found that putting such rule into effect is required in order to fulfill obligations of the United States under the international energy program; and
+
+(C) has transmitted such finding to the Congress, together with a statement of the effective date and manner for exercise of such rule.
+
+(2) No rule under subsection (b) may be put into effect or remain in effect after the expiration of 12 months after the date such rule was transmitted to Congress under paragraph (1)(A).
+
+(c) Consistency of rule with attainment of objectives specified in section 753(b)(1) 11 See References in Text note below. of title 15; limitation on authority of officers or agencies of United States (1) Any rule under this section shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in section 753(b)(1) 1 of title 15.
+
+(2) No officer or agency of the United States shall have any authority, other than authority under this section, to require that petroleum products be allocated to other countries for the purpose of implementation of the obligations of the United States under the international energy program.
+
+(d) Nonapplicability of export restrictions under other laws Neither section 6212 1 of this title nor section 185(u) of title 30 shall preclude the allocation and export, to other countries in accordance with this section, of petroleum products produced in the United States.
+
+(e) Prerequisites for effectiveness of rule No rule under this section may be put into effect unless—
+
+(1) an international energy supply emergency, as defined in the first sentence of section 6272(k)(1) of this title, is in effect; and
+
+(2) the allocation of available oil referred to in chapter III of the international energy program has been activated pursuant to chapter IV of such program.
+
+(Pub. L. 94–163, title II, § 251, Dec. 22, 1975, 89 Stat. 894; Pub. L. 97–229, § 2(b)(1), Aug. 3, 1982, 96 Stat. 248; Pub. L. 105–177, § 1(3), June 1, 1998, 112 Stat. 105.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 753 of title 15, referred to in subsec. (c), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President’s authority under that section on Sept. 30, 1981. Section 6212 of this title, referred to in subsec. (d), was repealed by Pub. L. 114–113, div. O, title I, § 101(a), Dec. 18, 2015, 129 Stat. 2987.
+
+Amendments1998—Subsec. (e)(1). Pub. L. 105–177 substituted reference to section 6272(k)(1) for reference to section 6272(l)(1). 1982—Subsec. (e). Pub. L. 97–229 added subsec. (e).

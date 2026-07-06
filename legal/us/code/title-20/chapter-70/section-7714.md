@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 7714"
+description: "Authorization of appropriations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "70"
+chapter_name: "STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS"
+section: "7714"
+citation: "20 U.S.C. § 7714"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s7714"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "fd2804f55aa6b25da71c3322fafcd4074b3fe15f073409f992d9858fc3ead0e5"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "7a4a96e9b18f5624cbd2bab0f170097775c78c11ab9c0c7298c0bc4fb5b8f30a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 7714 - Authorization of appropriations
+
+## Text
+
+(a) Payments for Federal acquisition of real property For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $66,813,000 for each of fiscal years 2017 through 2019, and $71,997,917 for fiscal year 2020.
+
+(b) Basic payments; payments for heavily impacted local educational agencies For the purpose of making payments under section 7703(b) of this title, there are authorized to be appropriated $1,151,233,000 for each of fiscal years 2017 through 2019, and $1,240,572,618 for fiscal year 2020.
+
+(c) Payments for children with disabilities For the purpose of making payments under section 7703(d) of this title, there are authorized to be appropriated $48,316,000 for each of fiscal years 2017 through 2019, and $52,065,487 for fiscal year 2020.
+
+(d) Construction For the purpose of carrying out section 7707 of this title, there are authorized to be appropriated $17,406,000 for each of fiscal years 2017 through 2019, and $18,756,765 for fiscal year 2020.
+
+(e) Facilities maintenance For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $4,835,000 for each of fiscal years 2017 through 2019, and $5,210,213 for fiscal year 2020.
+
+(Pub. L. 89–10, title VII, § 7014, formerly title VIII, § 8014, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817], Oct. 30, 2000, 114 Stat. 1654, 1654A–388; Pub. L. 107–110, title VIII, § 805, Jan. 8, 2002, 115 Stat. 1956; renumbered title VII, § 7014, and amended Pub. L. 114–95, title VII, §§ 7001(c)(2), (d)(1), (6), 7013, Dec. 10, 2015, 129 Stat. 2074, 2088.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2015—Subsec. (a). Pub. L. 114–95, § 7013(1), substituted “$66,813,000 for each of fiscal years 2017 through 2019, and $71,997,917 for fiscal year 2020” for “$32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years”. Pub. L. 114–95, § 7001(d)(1), made technical amendment to reference in original act which appears in text as reference to section 7702 of this title. Subsec. (b). Pub. L. 114–95, § 7013(2), substituted “$1,151,233,000 for each of fiscal years 2017 through 2019, and $1,240,572,618 for fiscal year 2020” for “$809,400,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years”. Pub. L. 114–95, § 7001(d)(6), made technical amendment to reference in original act which appears in text as reference to section 7703(b) of this title. Subsec. (c). Pub. L. 114–95, § 7013(3), made technical amendment to reference in original act which appears in text as reference to section 7703(d) of this title and substituted “$48,316,000 for each of fiscal years 2017 through 2019, and $52,065,487 for fiscal year 2020” for “$50,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years”. Subsec. (d). Pub. L. 114–95, § 7013(5), made technical amendment to reference in original act which appears in text as reference to section 7707 of this title and substituted “$17,406,000 for each of fiscal years 2017 through 2019, and $18,756,765 for fiscal year 2020” for “$10,052,000 for fiscal year 2000 and such sums as may be necessary for fiscal year 2001, $150,000,000 for fiscal year 2002, and such sums as may be necessary for each of the five succeeding fiscal years”. Pub. L. 114–95, § 7013(4), redesignated subsec. (e) as (d). Subsec. (e). Pub. L. 114–95, § 7013(6), made technical amendment to reference in original act which appears in text as reference to section 7708 of this title and substituted “$4,835,000 for each of fiscal years 2017 through 2019, and $5,210,213 for fiscal year 2020” for “$5,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years”. Pub. L. 114–95, § 7013(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d). Subsec. (f). Pub. L. 114–95, § 7013(4), redesignated subsec. (f) as (e). 2002—Subsecs. (a) to (c). Pub. L. 107–110, § 805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”. Subsec. (e). Pub. L. 107–110, § 805(b), substituted “for fiscal year 2001, $150,000,000 for fiscal year 2002, and such sums as may be necessary for each of the five succeeding fiscal years” for “for each of the three succeeding fiscal years”. Subsec. (f). Pub. L. 107–110, § 805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”. Subsec. (g). Pub. L. 107–110, § 805(c), struck out heading and text of subsec. (g). Text read as follows: “For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated $1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.” 2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817(a)], substituted “$32,000,000 for fiscal year 2000” for “$16,750,000 for fiscal year 1995” and “three” for “four”. Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817(b)], substituted “section 7703(b)” for “subsections (b) and (f) of section 7703”, “$809,400,000 for fiscal year 2000” for “$775,000,000 for fiscal year 1995”, and “three” for “four” and struck out “, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title” before period at end. Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817(c)], substituted “$50,000,000 for fiscal year 2000” for “$45,000,000 for fiscal year 1995” and “three” for “four”. Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817(d)], struck out heading and text of subsec. (d). Text read as follows: “For the purpose of making payments under section 7706 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.” Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817(e)], substituted “$10,052,000 for fiscal year 2000” for “$25,000,000 for fiscal year 1995” and “three” for “four”. Subsec. (f). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817(f)], substituted “$5,000,000 for fiscal year 2000” for “$2,000,000 for fiscal year 1995” and “three” for “four”. Subsec. (g). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1817(g)], amended heading and substituted “$1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years” for “such sums as are necessary beginning in fiscal year 1998 and for each succeeding fiscal year” in text. 1997—Subsec. (g). Pub. L. 105–78 added subsec. (g).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.

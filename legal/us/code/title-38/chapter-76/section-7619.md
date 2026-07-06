@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 7619"
+description: "Expiration of program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "76"
+chapter_name: "HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM"
+section: "7619"
+citation: "38 U.S.C. § 7619"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s7619"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "0475141c15954d77e45910d6d7049e79e4200572ba583bfaa39d134a0f72fef1"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "af4d98bfc1c444bde0b40a38361081f8d562cb4fa5737ba61ed90deb8507419f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 7619 - Expiration of program
+
+## Text
+
+The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 2033.
+
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 525, § 4318; renumbered § 7618, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title V, § 523(a), Nov. 4, 1992, 106 Stat. 4959; Pub. L. 104–110, title I, § 101(j), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, § 207(a), Nov. 21, 1997, 111 Stat. 2289; renumbered § 7619 and amended Pub. L. 111–163, title VI, § 603(a), (c)(1), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, § 302(a), Aug. 7, 2014, 128 Stat. 1788; Pub. L. 115–182, title III, § 301(c), June 6, 2018, 132 Stat. 1463.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–182 substituted “December 31, 2033” for “December 31, 2019”. 2014—Pub. L. 113–146 substituted “December 31, 2019” for “December 31, 2014”. 2010—Pub. L. 111–163, § 603(c)(1), renumbered section 7618 of this title as this section. Pub. L. 111–163, § 603(a), substituted “December 31, 2014” for “December 31, 1998”. 1997—Pub. L. 105–114 substituted “December 31, 1998” for “December 31, 1997”. 1996—Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”. 1992—Pub. L. 102–585 substituted “December 31, 1995” for “September 30, 1992”. 1991—Pub. L. 102–40 renumbered section 4318 of this title as this section. Pub. L. 102–83 substituted “Secretary” for “Administrator”.
+
+Statutory Notes and Related Subsidiaries
+
+Ratification of Actions During Period of Expired AuthorityAny action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.

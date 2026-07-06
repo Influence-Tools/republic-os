@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 300cc–31"
+description: "Fellowships and training"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "300cc–31"
+citation: "42 U.S.C. § 300cc–31"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s300cc–31"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "324315d8bb34bdfd68ce5181820a1cae379285648273779c19b0aec836efca36"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "acb575132ab1a2103789c2cd768c18d0cb6d7dee100a503e9f15b0278e7e916d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 300cc–31 - Fellowships and training
+
+## Text
+
+(a) In general The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish fellowship and training programs to be conducted by the Centers for Disease Control and Prevention to train individuals to develop skills in epidemiology, surveillance, testing, counseling, education, information, and laboratory analysis relating to acquired immune deficiency syndrome. Such programs shall be designed to enable health professionals and health personnel trained under such programs to work, after receiving such training, in national and international efforts toward the prevention, diagnosis, and treatment of acquired immune deficiency syndrome.
+
+(b) Programs conducted by National Institute of Mental Health The Secretary, acting through the Director of the National Institute of Mental Health, shall conduct or support fellowship and training programs for individuals pursuing graduate or postgraduate study in order to train such individuals to conduct scientific research into the psychological and social sciences as such sciences relate to acquired immune deficiency syndrome.
+
+(c) Relationship to limitation on number of employees Any individual receiving a fellowship or receiving training under subsection (a) or (b) shall not be included in any determination of the number of full-time equivalent employees of the Department of Health and Human Services for the purpose of any limitation on the number of such employees established by law prior to, on, or after November 4, 1988.
+
+(d) Authorization of appropriations For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
+
+(July 1, 1944, ch. 373, title XXIII, § 2341, as added Pub. L. 100–607, title II, § 201(4), Nov. 4, 1988, 102 Stat. 3076; amended Pub. L. 100–690, title II, § 2617(e), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, § 312(d)(21), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XVIII, § 1811(7), June 10, 1993, 107 Stat. 200.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1993—Subsec. (d). Pub. L. 103–43 substituted “fiscal year” for “of the fiscal years 1989 through 1991”. 1992—Subsec. (a). Pub. L. 102–531, which directed the substitution of “Centers for Disease Control and Prevention” for “Centers for Disease Control”, was executed by making the substitution in two places to reflect the probable intent of Congress. 1988—Subsec. (c). Pub. L. 100–690 substituted “date of the enactment of the AIDS Amendments of 1988” for “date of the enactment of the AIDS Federal Policy Act of 1988” which for purposes of codification was translated as “November 4, 1988”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.

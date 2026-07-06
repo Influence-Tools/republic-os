@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 300mm–64"
+description: "Pentagon/Shanksville Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "300mm–64"
+citation: "42 U.S.C. § 300mm–64"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s300mm–64"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "d3ef3237d1a6b43ac67e1b2423478d27c23f00552e411aac5298ebad87db1ab8"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "ac51cfb929ecb315e52cef558f454c0ba28f1d2ab39909fb28b0667bf37cafd1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 300mm–64 - Pentagon/Shanksville Fund
+
+## Text
+
+(a) In general There is established a fund to be known as the World Trade Center Health Program Fund for Certain WTC Responders at the Pentagon and Shanksville, Pennsylvania (referred to in this section as the “Pentagon/Shanksville Fund”), consisting of amounts deposited into the Pentagon/Shanksville Fund under subsection (b).
+
+(b) Amount Out of any money in the Treasury not otherwise appropriated, there is appropriated for fiscal year 2024 $232,000,000 for deposit into the Pentagon/Shanksville Fund, which amounts shall remain available in such Fund through fiscal year 2033.
+
+(c) Uses of funds (1) In general Amounts deposited into the Pentagon/Shanksville Fund under subsection (b) shall be available, without further appropriation and without regard to any spending limitation under section 300mm–61(c) of this title, to the WTC Program Administrator for the purpose of carrying out section 300mm–22 of this title with regard to WTC responders enrolled in the WTC Program based on eligibility criteria described in subclause (III) or (IV) of section 300mm–21(a)(2)(C)(i) of this title.
+
+(2) Limitation on other funding Notwithstanding sections 300mm–41(a), 300mm–61(b)(1), 300mm–62(c), and 300mm–63(c) of this title, and any other provision in this subchapter, for the period of fiscal years 2024 through 2033, no amounts made available under this subchapter other than those amounts appropriated under subsection (b) may be available for the purpose described in paragraph (1).
+
+(d) Remaining amounts Any unobligated amounts that remain in the Pentagon/Shanksville Fund on September 30, 2033, shall be deposited into the Treasury as miscellaneous receipts.
+
+(July 1, 1944, ch. 373, title XXXIII, § 3354, as added Pub. L. 118–31, div. A, title XVIII, § 1851(b), Dec. 22, 2023, 137 Stat. 708; Pub. L. 119–75, div. J, title IV, § 6411(c)(3), Feb. 3, 2026, 140 Stat. 689.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2026—Subsec. (d). Pub. L. 119–75 substituted “Any unobligated amounts” for “Any amounts”.

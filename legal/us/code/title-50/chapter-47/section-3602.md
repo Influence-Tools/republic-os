@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3602"
+description: "Director of the Agency and Director of Compliance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "47"
+chapter_name: "NATIONAL SECURITY AGENCY"
+section: "3602"
+citation: "50 U.S.C. § 3602"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3602"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "a35ad7d1df37c4b58d3ea8bfbb61eef1750f8332336079d8a8b546ad55ffc9ea"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "4531829e233754f4f5bb73b1a1d3d09a1c51c441f0eadac35e54bc0c378bd571"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3602 - Director of the Agency and Director of Compliance
+
+## Text
+
+(a) (1) There is a Director of the National Security Agency.
+
+(2) The Director of the National Security Agency shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(3) The Director of the National Security Agency shall be the head of the National Security Agency and shall discharge such functions and duties as are provided by this chapter or otherwise by law or executive order.
+
+(b) There is a Director of Compliance of the National Security Agency, who shall be appointed by the Director of the National Security Agency and who shall be responsible for the programs of compliance over mission activities of the National Security Agency.
+
+(Pub. L. 86–36, § 2, as added Pub. L. 111–259, title IV, § 433, Oct. 7, 2010, 124 Stat. 2732; amended Pub. L. 113–126, title IV, § 401(a), July 7, 2014, 128 Stat. 1407.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified in a note under section 402 of this title prior to editorial reclassification as this section.
+
+Prior ProvisionsA prior section 2 of Pub. L. 86–36, May 29, 1959, 73 Stat. 63; Pub. L. 87–367, title II, § 201, Oct. 4, 1961, 75 Stat. 789; Sept. 23, 1950, ch. 1024, title III, § 306(a), as added Pub. L. 88–290, Mar. 26, 1964, 78 Stat. 170; Pub. L. 88–426, title III, § 306(h), Aug. 14, 1964, 78 Stat. 430; Pub. L. 88–631, § 3(d), Oct. 6, 1964, 78 Stat. 1008; Pub. L. 89–632, § 1(e)(1), Oct. 8, 1966, 80 Stat. 878; Pub. L. 102–496, title IV, § 405, Oct. 24, 1992, 106 Stat. 3186, related to authority of Secretary of Defense to establish positions and fix compensation, prior to repeal by Pub. L. 104–201, div. A, title XVI, §§ 1633(b)(1), 1635, Sept. 23, 1996, 110 Stat. 2751, 2752, effective Oct. 1, 1996.
+
+Amendments2014—Pub. L. 113–126 added subsec. (a) and designated existing provisions as subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2014 AmendmentPub. L. 113–126, title IV, § 403, July 7, 2014, 128 Stat. 1408, as amended by Pub. L. 117–286, § 4(b)(11), Dec. 27, 2022, 136 Stat. 4344, provided that: “(a) In General.—Except as otherwise specifically provided, the amendments made by sections 401 [amending this section] and 402 [amending sections 8G and 12 of Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees] shall take effect on October 1, 2014, and shall apply upon the earlier of—“(1) in the case of section 401—“(A) the date of the first nomination by the President of an individual to serve as the Director of the National Security Agency that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Director of the National Security Agency by the individual performing such duties on October 1, 2014; and “(2) in the case of section 402—“(A) the date of the first nomination by the President of an individual to serve as the Inspector General of the National Security Agency that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Inspector General of the National Security Agency by the individual performing such duties on October 1, 2014. “(b) Exception for Initial Nominations.—Notwithstanding paragraph (1)(A) or (2)(A) of subsection (a), an individual serving as the Director of the National Security Agency or the Inspector General of the National Security Agency on the date that the President first nominates an individual for such position on or after October 1, 2014, may continue to perform in that position after such date of nomination and until the individual appointed to the position, by and with the advice and consent of the Senate, assumes the duties of the position. “(c) Incumbent Inspector General.—The individual serving as Inspector General of the National Security Agency on the date of the enactment of this Act [July 7, 2014] shall be eligible to be appointed by the President to a new term of service under section 403 of title 5, United States Code, by and with the advice and consent of the Senate.”
+
+Establishment of Artificial Intelligence Security CenterPub. L. 118–159, div. F, title LXV, § 6504, Dec. 23, 2024, 138 Stat. 2495, as amended by Pub. L. 119–60, div. F, title LXVI, § 6601, Dec. 18, 2025, 139 Stat. 1633, provided that: “(a) Definition of Counter-artificial Intelligence.—In this section, the term ‘counter-artificial intelligence’ means techniques or procedures to extract information about the behavior or characteristics of an artificial intelligence system, or to learn how to manipulate an artificial intelligence system, in order to subvert the confidentiality, integrity, or availability of an artificial intelligence system or adjacent system. “(b) Establishment.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of the National Security Agency shall establish an Artificial Intelligence Security Center (referred to in this section as the ‘Center’) within the Cybersecurity Collaboration Center of the National Security Agency. “(c) Functions.—The functions of the Artificial Intelligence Security Center shall be as follows:“(1) Developing guidance to prevent or mitigate counter-artificial intelligence techniques. “(2) Promoting secure artificial intelligence adoption practices for managers of national security systems (as defined in section 3552 of title 44, United States Code) and elements of the defense industrial base. “(3) In accordance with subsection (d), developing security guidance to defend artificial intelligence technologies from technology theft by nation-state adversaries. “(4) Such other functions as the Director considers appropriate. “(d) Artificial Intelligence Security Guidance.—“(1) Elements.—In developing the guidance pursuant to subsection (c)(3), the Director of the National Security Agency shall—“(A) identify vulnerabilities in advanced artificial intelligence technologies, with a focus on cybersecurity risks and security challenges unique to protecting such technologies from theft or sabotage by nation-state adversaries; “(B) identify elements of the artificial intelligence supply chain or development or product lifecycle that, if accessed by nation-state adversaries, would contribute to progress made by nation-state adversaries on advanced artificial intelligence or would provide opportunities to adversaries to compromise the confidentiality, integrity, or availability of artificial intelligence systems or associated supply chains; and “(C) identify strategies for artificial intelligence technologies to identify, protect, detect, respond, and recover from nation-state adversary cyber threats. “(2) External collaboration.—In developing the guidance pursuant to subsection (c)(3), the Director of the National Security Agency may collaborate, on a voluntary basis, with other departments and agencies of the United States Government, research entities, and private sector entities, as determined appropriate by the Director, on artificial intelligence model safety and security, including through the provision of any computing resources the Director determines appropriate. “(3) Security guidance form.—The Director of the National Security Agency shall publish, and may update from time to time, the security guidance developed under subsection (c)(3) to share with departments and agencies of the United States Government, research entities, and private sector entities, as determined appropriate by the Director, at unclassified or classified levels. “(e) Disestablishment.—The Director of the National Security Agency may disestablish the Center established in subsection (b) not earlier than 3 years after the date of the enactment of this Act provided that the Director of the National Security Agency submits to the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives] a report documenting the rationale for disestablishment of the Center, including resource trades, effectiveness, priority, and any other pertinent considerations not later than 6 months prior to the disestablishment.”
+
+Position of Importance and ResponsibilityPub. L. 113–126, title IV, § 401(b), July 7, 2014, 128 Stat. 1408, provided that: “(1) In general.—The President may designate the Director of the National Security Agency as a position of importance and responsibility under section 601 of title 10, United States Code. “(2) Effective date.—Paragraph (1) shall take effect on the date of the enactment of this Act [July 7, 2014].”

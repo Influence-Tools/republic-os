@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 460d–3"
+description: "Recreational user fees"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "460d–3"
+citation: "16 U.S.C. § 460d–3"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s460d–3"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "32e530d37cc46b6bcd964fbe20f4a003035cd1d0893204eb6f9bf12caf2ef882"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "4ba31fb6c6085c6bd9146ff52af64e67124d13be3d70e02b300a398fb7071606"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 460d–3 - Recreational user fees
+
+## Text
+
+(a) Prohibition on admissions fees No entrance or admission fees shall be collected after March 31, 1970, by any officer or employee of the United States at public recreation areas located at lakes and reservoirs under the jurisdiction of the Corps of Engineers, United States Army.
+
+(b) Fees for use of developed recreation sites and facilities (1) Establishment and collection Subject to paragraphs (2) and (3), the Secretary of the Army may establish and collect fees for the use of developed recreation sites and facilities, including campsites, swimming beaches, and boat launching ramps but excluding a site or facility which includes only a boat launch ramp and a courtesy dock.
+
+(2) Exemption of certain facilities The Secretary shall not establish or collect fees under this subsection for the use or provision of drinking water, wayside exhibits, roads, scenic drives, overlook sites, picnic tables, toilet facilities, surface water areas, undeveloped or lightly developed shoreland, or general visitor information.
+
+(3) Per vehicle limit The fee under this subsection for use of a site or facility (other than an overnight camping site or facility or any other site or facility at which a fee is charged for use of the site or facility as of August 10, 1993) for persons entering the site or facility by private, noncommercial vehicle transporting not more than 8 persons (including the driver) shall not exceed $3 per day per vehicle, which amount may be adjusted annually by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+(4) Use of funds The fees collected under this subsection shall be credited to the currently applicable appropriation, account, or fund of the Department of the Army as discretionary offsetting collections, and shall be available only to the extent provided in advance in appropriations Acts, for the operation and maintenance of recreation sites and facilities under the jurisdiction of the Secretary, subject to the condition that not less than 80 percent of fees collected at recreation areas of a specific water resources development project shall be used at such project.
+
+(Pub. L. 90–483, title II, § 210, Aug. 13, 1968, 82 Stat. 746; Pub. L. 103–66, title V, § 5001(a), Aug. 10, 1993, 107 Stat. 378; Pub. L. 104–303, title II, § 208(b)(1), Oct. 12, 1996, 110 Stat. 3680; Pub. L. 118–272, div. A, title I, § 1154, Jan. 4, 2025, 138 Stat. 3045.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (b)(1). Pub. L. 118–272, § 1154(1), substituted “Subject to paragraphs (2) and (3), the Secretary of the Army may establish” for “Notwithstanding section 460l–6a(b) of this title, the Secretary of the Army is authorized, subject to paragraphs (2) and (3), to establish”. Subsec. (b)(3). Pub. L. 118–272, § 1154(2), substituted “vehicle, which amount” for “vehicle. Such maximum amount”. Subsec. (b)(4). Pub. L. 118–272, § 1154(3), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “All fees collected under this subsection shall be deposited into the Treasury account for the Corps of Engineers established by section 460l–6a(i) of this title and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) of this title at the water resources development project at which the fees were collected.” 1996—Subsec. (b)(4). Pub. L. 104–303 inserted before period at end “and, subject to the availability of appropriations, shall be used for the purposes specified in section 460l–6a(i)(3) of this title at the water resources development project at which the fees were collected”. 1993—Pub. L. 103–66 inserted section catchline, struck out second sentence, designated remaining text as subsec. (a) and inserted heading, and added subsec. (b). Prior to amendment, second sentence read as follows: “User fees at these lakes and reservoirs shall be collected by officers and employees of the United States only from users of highly developed facilities requiring continuous presence of personnel for maintenance and supervision of the facilities, and shall not be collected for access to or use of water areas, undeveloped or lightly developed shoreland, picnic grounds, overlook sites, scenic drives, or boat launching ramps where no mechanical or hydraulic equipment is provided.”
+
+Statutory Notes and Related Subsidiaries
+
+Alternative to Annual PassesSection 208(c) of Pub. L. 104–303, as amended by Pub. L. 106–53, title II, § 218, Aug. 17, 1999, 113 Stat. 294, provided that: “(1) In general.—The Secretary shall evaluate the feasibility of implementing an alternative to the $25 annual pass that the Secretary currently offers to users of recreation facilities at water resources projects of the Corps of Engineers. “(2) Annual pass.—The evaluation under paragraph (1) shall include the establishment on a test basis of an annual pass that costs $10 or less for the use of recreation facilities, including facilities at Raystown Lake, Pennsylvania. “(3) Report.—Not later than December 31, 1999, the Secretary shall transmit to Congress a report on the results of the evaluation carried out under this subsection, together with recommendations concerning whether annual passes for individual projects should be offered on a nationwide basis. “(4) Expiration of authority.—The authority to establish an annual pass under paragraph (2) shall expire on the [sic] December 31, 2003.”

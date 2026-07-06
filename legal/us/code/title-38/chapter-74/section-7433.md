@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 7433"
+description: "Administrative matters"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "74"
+chapter_name: "VETERANS HEALTH ADMINISTRATION—PERSONNEL"
+section: "7433"
+citation: "38 U.S.C. § 7433"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s7433"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "c024b51e38d0c66fdfe1e99958390f226ddc9d522bf0e6a642fdabd13661ee62"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "0b006390aa756b2784d8d0119bdb2c883454277afcc861bc1df77d2567fa028e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 7433 - Administrative matters
+
+## Text
+
+(a) Regulations.— The Secretary shall prescribe regulations relating to the pay of physicians, optometrists, podiatrists, and dentists in the Veterans Health Administration under this subchapter.
+
+(b) Recommendations and Views.— In prescribing the regulations, the Secretary shall take into account the recommendations of the Under Secretary for Health on the administration of this subchapter. In formulating recommendations for the purpose of this subsection, the Under Secretary shall request the views of representatives of labor organizations that are exclusive representatives of physicians, optometrists, podiatrists, and dentists of the Department and the views of representatives of professional organizations of physicians, optometrists, podiatrists, and dentists of the Department.
+
+(Added Pub. L. 108–445, § 3(b), Dec. 3, 2004, 118 Stat. 2640; amended Pub. L. 116–12, § 1(b)(2), (5), Apr. 8, 2019, 133 Stat. 845; Pub. L. 118–210, title I, § 142(a)(3)(B), Jan. 2, 2025, 138 Stat. 2746.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsPrior sections 7433 to 7440 were omitted in the general amendment of this subchapter by Pub. L. 108–445. Section 7433, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 191; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(22), Nov. 2, 1994, 108 Stat. 4686, related to special pay for full-time physicians. Section 7434, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 192, related to special pay of part-time physicians. Section 7435, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 193; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(22), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 106–419, title II, § 202(a)–(f), Nov. 1, 2000, 114 Stat. 1840, 1841, related to special pay of full-time dentists. Section 7436, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 194, related to special pay of part-time dentists. Section 7437, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 194; amended Pub. L. 102–405, title II, § 204(a), title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984, related to general provisions concerning special pay of physicians and dentists. Section 7438, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 196; amended Pub. L. 106–419, title II, § 202(g), Nov. 1, 2000, 114 Stat. 1841, related to coordination of special pay with other benefits laws. Section 7439, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 197, related to periodic review and quadrennial reports regarding pay of physicians and dentists. Section 7440, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII, § 1201(c)(6), Nov. 2, 1994, 108 Stat. 4684, related to annual reports of the use of authorities provided in this subchapter.
+
+Amendments2025—Pub. L. 118–210 inserted “optometrists,” after “physicians,” wherever appearing. 2019—Pub. L. 116–12, § 1(b)(2), substituted “physicians, podiatrists, and dentists” for “physicians and dentists” wherever appearing. Subsec. (a). Pub. L. 116–12, § 1(b)(5)(B), struck out par. (1) designation before “The Secretary” and redesignated par. (2) as subsec. (b). Subsec. (b). Pub. L. 116–12, § 1(b)(5)(C), inserted heading and substituted “this subsection” for “this paragraph”. Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and struck out former subsec. (b) which required reports on the pay of physicians and dentists in the Veterans Health Administration under this subchapter.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025, see section 142(a)(5) of Pub. L. 118–210, set out as a note under section 7431 of this title.

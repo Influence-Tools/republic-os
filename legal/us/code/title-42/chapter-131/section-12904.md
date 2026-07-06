@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 12904"
+description: "Eligible activities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "131"
+chapter_name: "HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS"
+section: "12904"
+citation: "42 U.S.C. § 12904"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s12904"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "b68bff3cccecb56800cca2992c170b8204652b1a0e674825015ea3a7ecb6f39e"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "b9878a05465db491cbe89580a5668aae744682515d98d4c1bca32821890e0095"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 12904 - Eligible activities
+
+## Text
+
+Grants allocated under this chapter shall be available only for approved activities to carry out strategies designed to prevent homelessness among eligible persons. Approved activities shall include activities that—
+
+(1) enable public and nonprofit organizations or agencies to provide housing information to such persons and coordinate efforts to expand housing assistance resources for such persons under section 12906 of this title;
+
+(2) facilitate the development and operation of shelter and services for such persons under section 12907 of this title;
+
+(3) provide rental assistance to such persons under section 12908 of this title;
+
+(4) facilitate (through project-based rental assistance or other means) the moderate rehabilitation of single room occupancy dwellings (SROs) that would be made available only to such persons under section 12909 of this title;
+
+(5) facilitate the development of community residences for eligible persons under section 12910 of this title;
+
+(6) carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3) 11 See References in Text note below. of this title.
+
+The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
+
+(Pub. L. 101–625, title VIII, § 855, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, § 606(e), (h)(2), (j)(3), Oct. 28, 1992, 106 Stat. 3808, 3810.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 12903(c)(3) of this title, referred to in par. (6), was redesignated section 12903(c)(5) of this title by Pub. L. 114–201, title VII, § 701(a)(1), July 29, 2016, 130 Stat. 812.
+
+Amendments1992—Pub. L. 102–550, § 606(j)(3)(A), in introductory provisions, substituted “eligible persons” for “such persons with acquired immunodeficiency syndrome”. Par. (3). Pub. L. 102–550, § 606(h)(2), struck out “short-term” after “provide”. Par. (5). Pub. L. 102–550, § 606(j)(3)(B), struck out “with acquired immunodeficiency syndrome” after “persons”. Par. (6). Pub. L. 102–550, § 606(e), inserted before period at end “, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3) of this title”.

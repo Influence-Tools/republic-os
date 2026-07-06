@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "54 U.S.C. § 200103"
+description: "Authority of Secretary to carry out certain functions and activities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 54
+title_name: "NATIONAL PARK SERVICE AND RELATED PROGRAMS"
+chapter_number: "2001"
+chapter_name: "COORDINATION OF PROGRAMS"
+section: "200103"
+citation: "54 U.S.C. § 200103"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc54@119-100.zip"
+source_identifier: "/us/usc/t54/s200103"
+source_file: "data/legal/raw/us/code/title-54/usc54.xml"
+source_hash: "371c4f8e17ba3ea0a876fa4a20f379a4e54aaf15961b0c5d48c1d4f8ad844581"
+raw_snapshot_hash: "ae37e9ba9ffe98b17fb5695939469d1407e46b028e81e9ffb76abd1481eeb360"
+text_hash: "652f6d3d15889c596220dc1bcf391a6137dd616bbb5898b4443a24ebdbd569e5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 54 U.S.C. § 200103 - Authority of Secretary to carry out certain functions and activities
+
+## Text
+
+(a) In General.— To carry out this chapter, the Secretary may perform the functions and activities described in this section.
+
+(b) Inventory and Evaluation.— The Secretary may prepare and maintain a continuing inventory and evaluation of outdoor recreation needs and resources of the United States.
+
+(c) Classification System.— The Secretary may prepare a system for classification of outdoor recreation resources to assist in the effective and beneficial use and management of such resources.
+
+(d) Technical Assistance and Advice.— The Secretary may provide technical assistance and advice to and cooperate with States, political subdivisions, and private interests, including nonprofit organizations, with respect to outdoor recreation.
+
+(e) Interstate and Regional Cooperation.— The Secretary may encourage interstate and regional cooperation in the planning, acquisition, and development of outdoor recreation resources.
+
+(f) Research, Information, and Education Programs and Activities.— The Secretary may—
+
+(1) sponsor, engage in, and assist in research relating to outdoor recreation, directly or by contract or cooperative agreements, and make payments for such purposes without regard to the limitations of section 3324(a) and (b) of title 31 concerning advances of funds when the Secretary considers such action to be in the public interest;
+
+(2) undertake studies and assemble information concerning outdoor recreation, directly or by contract or cooperative agreement, and disseminate the information without regard to section 3204 of title 39; and
+
+(3) cooperate with educational institutions and others to assist in establishing education programs and activities and to encourage public use and benefits from outdoor recreation.
+
+(g) Cooperation and Coordination with Federal Agencies.— (1) In general.— The Secretary may—
+
+(A) cooperate with and provide technical assistance to Federal agencies and obtain from them information, data, reports, advice, and assistance that are needed and can reasonably be furnished in carrying out the purposes of this chapter; and
+
+(B) promote coordination of Federal plans and activities generally relating to outdoor recreation.
+
+(2) Funding.— An agency furnishing advice or assistance under this paragraph may expend its own funds for those purposes, with or without reimbursement, as may be agreed to by that agency.
+
+(h) Donations.— The Secretary may accept and use donations of money, property, personal services, or facilities for the purposes of this chapter.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3170; Pub. L. 118–234, title I, § 112(c), Jan. 4, 2025, 138 Stat. 2839.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 20010316 U.S.C. 460l–1.Pub. L. 88–29, § 2, May 28, 1963, 77 Stat. 49; Pub. L. 91–375, § 6(h), Aug. 12, 1970, 84 Stat. 776. In subsection (d), the words “which shall be prepared as soon as practicable within 5 years on and after May 28, 1963” and “Future” are omitted as obsolete. In subsection (h), the word “department” is omitted as being included in “agency”.
+
+Editorial Notes
+
+Amendments2025—Subsecs. (d) to (i). Pub. L. 118–234 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which related to formulation and maintenance of a comprehensive nationwide outdoor recreation plan.

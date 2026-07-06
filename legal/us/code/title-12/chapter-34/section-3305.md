@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 3305"
+description: "Functions of Council"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "34"
+chapter_name: "FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL"
+section: "3305"
+citation: "12 U.S.C. § 3305"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s3305"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "72a9ad08388edfb99d1cf4f2fe27fc4f3c0363eb31cf080a9be8fc1f0ebda718"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "751fc0aca7050f4002d2cf040f2bccd49099c4ed4dee4e396dc52137e0741fb6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 3305 - Functions of Council
+
+## Text
+
+(a) Establishment of principles and standards The Council shall establish uniform principles and standards and report forms for the examination of financial institutions which shall be applied by the Federal financial institutions regulatory agencies.
+
+(b) Making recommendations regarding supervisory matters and adequacy of supervisory tools (1) The Council shall make recommendations for uniformity in other supervisory matters, such as, but not limited to, classifying loans subject to country risk, identifying financial institutions in need of special supervisory attention, and evaluating the soundness of large loans that are shared by two or more financial institutions. In addition, the Council shall make recommendations regarding the adequacy of supervisory tools for determining the impact of holding company operations on the financial institutions within the holding company and shall consider the ability of supervisory agencies to discover possible fraud or questionable and illegal payments and practices which might occur in the operation of financial institutions or their holding companies.
+
+(2) When a recommendation of the Council is found unacceptable by one or more of the applicable Federal financial institutions regulatory agencies, the agency or agencies shall submit to the Council, within a time period specified by the Council, a written statement of the reasons the recommendation is unacceptable.
+
+(c) Development of uniform reporting system The Council shall develop uniform reporting systems for federally supervised financial institutions, their holding companies, and nonfinancial institution subsidiaries of such institutions or holding companies. The authority to develop uniform reporting systems shall not restrict or amend the requirements of section 78l(i) of title 15.
+
+(d) Conducting schools for examiners and assistant examiners The Council shall conduct schools for examiners and assistant examiners employed by the Federal financial institutions regulatory agencies. Such schools shall be open to enrollment by employees of State financial institutions supervisory agencies and employees of the Federal Housing Finance Board under conditions specified by the Council.
+
+(e) Affect on Federal regulatory agency research and development of new financial institutions supervisory agencies Nothing in this chapter shall be construed to limit or discourage Federal regulatory agency research and development of new financial institutions supervisory methods and tools, nor to preclude the field testing of any innovation devised by any Federal regulatory agency.
+
+(f) Annual report Not later than April 1 of each year, the Council shall prepare an annual report covering its activities during the preceding year.
+
+(g) Flood insurance The Council shall consult with and assist the Federal entities for lending regulation, as such term is defined in section 4121(a) of title 42, in developing and coordinating uniform standards and requirements for use by regulated lending institutions under the national flood insurance program.
+
+(Pub. L. 95–630, title X, § 1006, Nov. 10, 1978, 92 Stat. 3695; Pub. L. 97–320, title IV, § 431, Oct. 15, 1982, 96 Stat. 1527; Pub. L. 101–73, title VII, § 744(a)(3), Aug. 9, 1989, 103 Stat. 438; Pub. L. 103–325, title V, § 530, Sept. 23, 1994, 108 Stat. 2267.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1994—Subsec. (g). Pub. L. 103–325 added subsec. (g). 1989—Subsec. (d). Pub. L. 101–73 inserted “and employees of the Federal Housing Finance Board” after “supervisory agencies”. 1982—Subsec. (b)(2). Pub. L. 97–320 substituted “unacceptable” for “unaccepted”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+
+Update of ManualPub. L. 116–283, div. F, title LXII, § 6209(b), Jan. 1, 2021, 134 Stat. 4574, provided that: “The Financial Institutions Examination Council shall ensure that any manual prepared by the Council is— “(1) updated to reflect the rulemaking required by subsection (o) section 5318 of title 31, United States Code, as added by subsection (a) of this section; and “(2) consistent with relevant FinCEN [Financial Crimes Enforcement Network of the Department of the Treasury] and Federal functional regulator guidance, including the December 2018 Joint Statement on Innovative Efforts to Combat Money Laundering and Terrorist Financing.” [For definition of “Federal functional regulator” as used in section 6209(b) of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under section 5311 of Title 31, Money and Finance.]
+
+Strengthening the Role of Anti-Money Laundering and Other Financial Tools in Combating Human TraffickingPub. L. 116–92, div. F, title LXXI, § 7154(c), (d), Dec. 20, 2019, 133 Stat. 2260, 2261, provided that: “(c) Required Review of Procedures.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Federal Financial Institutions Examination Council, in consultation with the Secretary of the Treasury, victims of severe forms of trafficking in persons, advocates of persons at risk of becoming victims of severe forms of trafficking in persons, the United States Advisory Council on Trafficking, civil society organizations, the private sector, and appropriate law enforcement agencies, shall—“(1) review and enhance training and examination procedures to improve the surveillance capabilities of anti-money laundering programs and programs countering the financing of terrorism to detect human trafficking-related financial transactions; “(2) review and enhance procedures for referring potential human trafficking cases to the appropriate law enforcement agency; and “(3) determine, as appropriate, whether requirements for financial institutions and covered financial institutions are sufficient to detect and deter money laundering related to human trafficking. “(d) Limitations.—Nothing in this section [amending section 7103 of Title 22, Foreign Relations and Intercourse, and enacting this note and provisions not set out in the Code] shall be construed to—“(1) grant rulemaking authority to the Interagency Task Force to Monitor and Combat Trafficking; or “(2) authorize financial institutions to deny services to or violate the privacy of victims of trafficking, victims of severe forms of trafficking, or individuals not responsible for promoting severe forms of trafficking in persons.”
+
+Report on Consistent Use of Financial TerminologyPub. L. 103–325, title II, § 210, Sept. 23, 1994, 108 Stat. 2203, provided that: “Not later than 2 years after the date of enactment of this Act [Sept. 23, 1994], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(53)(A)]).”
+
+Examination Improvement ProgramPub. L. 102–242, title I, § 111(d), Dec. 19, 1991, 105 Stat. 2241, provided that: “(1) In general.—The appropriate Federal banking agencies, acting through the Federal Financial Institutions Examination Council, shall each establish a comparable examination improvement program that meets the requirements of paragraph (2). “(2) Requirements.—An examination improvement program meets the requirements of this paragraph if, under the program, the agency is required—“(A) to periodically review the organization and training of the staff of the agency who are responsible for conducting examinations of insured depository institutions and to make such improvements as the agency determines to be appropriate to ensure frequent, objective, and thorough examinations of such institutions; and “(B) to increase the number of examiners, supervisors, and other individuals employed by the agency in connection with conducting or supervising examinations of insured depository institutions to the extent necessary to ensure frequent, objective, and thorough examinations of such institutions.”
+
+Study on Regulatory BurdenPub. L. 102–242, title II, § 221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federal banking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
+
+Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan InformationPub. L. 96–399, title III, § 340(d), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council, in consultation with Administrator of Small Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
+
+Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and RegulationsPub. L. 96–399, title III, § 340(e), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council to transmit a report to Congress not later than Sept. 30, 1982, on feasibility and desirability of establishing a unified system for enforcing fair lending laws and regulations, implementing Community Reinvestment Act of 1977 [12 U.S.C. 2901 et seq.], and satisfying public disclosure purposes of Home Mortgage Disclosure Act of 1975 [12 U.S.C. 2801 et seq.], such report to evaluate status and effectiveness of data collection and analysis systems of such agencies involving fair lending and community reinvestment, and to outline possible specific timetables for implementing such a unified system.

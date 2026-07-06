@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 6004"
+description: "Support for Cuban people"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "69"
+chapter_name: "CUBAN DEMOCRACY"
+section: "6004"
+citation: "22 U.S.C. § 6004"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s6004"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "29655f014fede960ad5fddd20112046d649af4c10a6b4d8e46286cbc376a56ff"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "2e7175d07aafa44dd87583c9a1a43456b2f655f6712145ff0dec821b57dc6338"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 6004 - Support for Cuban people
+
+## Text
+
+(a) Provisions of law affected The provisions of this section apply notwithstanding any other provision of law, including section 2370(a) of this title, and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act [50 U.S.C. 4305(b)], the International Emergency Economic Powers Act [50 U.S.C. 1701 et seq.], or the Export Administration Act of 1979.
+
+(b) Donations of food Nothing in this or any other Act shall prohibit donations of food to nongovernmental organizations or individuals in Cuba.
+
+(c) Exports of medicines and medical supplies Exports of medicines or medical supplies, instruments, or equipment to Cuba shall not be restricted—
+
+(1) except to the extent such restrictions would be permitted under section 5(m) 11 See References in Text note below. of the Export Administration Act of 1979 or section 203(b)(2) of the International Emergency Economic Powers Act [50 U.S.C. 1702(b)(2)];
+
+(2) except in a case in which there is a reasonable likelihood that the item to be exported will be used for purposes of torture or other human rights abuses;
+
+(3) except in a case in which there is a reasonable likelihood that the item to be exported will be reexported; and
+
+(4) except in a case in which the item to be exported could be used in the production of any biotechnological product.
+
+(d) Requirements for certain exports (1) Onsite verifications (A) Subject to subparagraph (B), an export may be made under subsection (c) only if the President determines that the United States Government is able to verify, by onsite inspections and other appropriate means, that the exported item is to be used for the purposes for which it was intended and only for the use and benefit of the Cuban people.
+
+(B) Subparagraph (A) does not apply to donations to nongovernmental organizations in Cuba of medicines for humanitarian purposes.
+
+(2) Licenses Exports permitted under subsection (c) shall be made pursuant to specific licenses issued by the United States Government.
+
+(e) Telecommunications services and facilities (1) Telecommunications services Telecommunications services between the United States and Cuba shall be permitted.
+
+(2) Telecommunications facilities Telecommunications facilities are authorized in such quantity and of such quality as may be necessary to provide efficient and adequate telecommunications services between the United States and Cuba.
+
+(3) Licensing of payments to Cuba (A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act [50 U.S.C. 4305(b)].
+
+(B) If only partial payments are made to Cuba under subparagraph (A), the amounts withheld from Cuba shall be deposited in an account in a banking institution in the United States. Such account shall be blocked in the same manner as any other account containing funds in which Cuba has any interest, pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act.
+
+(4) Authority of Federal Communications Commission Nothing in this subsection shall be construed to supersede the authority of the Federal Communications Commission.
+
+(5) Prohibition on investment in domestic telecommunications services Nothing in this subsection shall be construed to authorize the investment by any United States person in the domestic telecommunications network within Cuba. For purposes of this paragraph, an “investment” in the domestic telecommunications network within Cuba includes the contribution (including by donation) of funds or anything of value to or for, and the making of loans to or for, such network.
+
+(6) Reports to Congress The President shall submit to the Congress on a semiannual basis a report detailing payments made to Cuba by any United States person as a result of the provision of telecommunications services authorized by this subsection.
+
+(f) Direct mail delivery to Cuba The United States Postal Service shall take such actions as are necessary to provide direct mail service to and from Cuba, including, in the absence of common carrier service between the 2 countries, the use of charter service providers.
+
+(g) Assistance to support democracy in Cuba The United States Government may provide assistance, through appropriate nongovernmental organizations, for the support of individuals and organizations to promote nonviolent democratic change in Cuba.
+
+(Pub. L. 102–484, div. A, title XVII, § 1705, Oct. 23, 1992, 106 Stat. 2577; Pub. L. 104–114, title I, § 102(g), Mar. 12, 1996, 110 Stat. 793.)
+
+## Notes
+
+Amendment of SectionPub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsection (d).
+
+Editorial Notes
+
+References in TextThe International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables. The Export Administration Act of 1979, referred to in subsecs. (a) and (c)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 5 of the Act was classified to section 4604 of Title 50 prior to repeal.
+
+Amendments1996—Subsec. (e)(5), (6). Pub. L. 104–114, § 102(g), added pars. (5) and (6).
+
+Executive Documents
+
+Delegation of Functions For delegation of congressional reporting functions of President under subsec. (e) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under section 301 of Title 3, The President.

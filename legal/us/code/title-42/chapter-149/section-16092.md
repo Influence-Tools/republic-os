@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 16092"
+description: "Diesel truck retrofit and fleet modernization program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "149"
+chapter_name: "NATIONAL ENERGY POLICY AND PROGRAMS"
+section: "16092"
+citation: "42 U.S.C. § 16092"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s16092"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "77b9b72167ff91169335e4b90b21acaee7259189e6e7fdded66a1286c3eba5aa"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "bfd6badcde7ffa63d172ebe3c1957e83db8d8f542112a9d8ae0f595096ade78d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 16092 - Diesel truck retrofit and fleet modernization program
+
+## Text
+
+(a) Establishment The Administrator, in consultation with the Secretary, shall establish a program for awarding grants on a competitive basis to public agencies and entities for fleet modernization programs including installation of retrofit technologies for diesel trucks.
+
+(b) Eligible recipients A grant shall be awarded under this section only to a State or local government or an agency or instrumentality of a State or local government or of two or more State or local governments who will allocate funds, with preference to ports and other major hauling operations.
+
+(c) Awards (1) In general The Administrator shall seek, to the maximum extent practicable, to ensure a broad geographic distribution of grants under this section.
+
+(2) Preferences In making awards of grants under this section, the Administrator shall give preference to proposals that—
+
+(A) will achieve the greatest reductions in emissions of nonmethane hydrocarbons, oxides of nitrogen, and/or particulate matter per proposal or per truck; or
+
+(B) involve the use of Environmental Protection Agency or California Air Resources Board verified emissions control retrofit technology on diesel trucks that operate solely on ultra-low sulfur diesel fuel after September 2006.
+
+(d) Conditions of grant A grant shall be provided under this section on the conditions that—
+
+(1) trucks which are replacing scrapped trucks and on which retrofit emissions-control technology are to be demonstrated—
+
+(A) will operate on ultra-low sulfur diesel fuel where such fuel is reasonably available or required for sale by State or local law or regulation;
+
+(B) were manufactured in model year 1998 and before; and
+
+(C) will be used for the transportation of cargo goods especially in port areas or used in goods movement and major hauling operations;
+
+(2) grant funds will be used for the purchase of emission control retrofit technology, including State taxes and contract fees; and
+
+(3) grant recipients will provide at least 50 percent of the total cost of the retrofit, including the purchase of emission control retrofit technology and all necessary labor for installation of the retrofit, from any source other than this section.
+
+(e) Verification Not later than 90 days after August 8, 2005, the Administrator shall publish in the Federal Register procedures to—
+
+(1) make grants pursuant to this section;
+
+(2) verify that trucks powered by ultra-low sulfur diesel fuel on which retrofit emissions-control technology are to be demonstrated will operate on diesel fuel containing not more than 15 parts per million of sulfur after September 2006; and
+
+(3) verify that grants are administered in accordance with this section.
+
+(f) Authorization of appropriations There are authorized to be appropriated to the Administrator to carry out this section, to remain available until expended the following sums:
+
+(1) $20,000,000 for fiscal year 2006.
+
+(2) $35,000,000 for fiscal year 2007.
+
+(3) $45,000,000 for fiscal year 2008.
+
+(4) Such sums as are necessary for each of fiscal years 2009 and 2010.
+
+(Pub. L. 109–58, title VII, § 742, Aug. 8, 2005, 119 Stat. 824.)

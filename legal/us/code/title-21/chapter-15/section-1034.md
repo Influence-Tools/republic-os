@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 1034"
+description: "Inspection of egg products"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "15"
+chapter_name: "EGG PRODUCTS INSPECTION"
+section: "1034"
+citation: "21 U.S.C. § 1034"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s1034"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "229fd81eba81c9079d289bbadfb9c62b009674d210dd35a5d2b210650ec03f2e"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "a861976459efe51da9bef565ea0a1600debbac68f8cc78e350aa527d95474c3f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 1034 - Inspection of egg products
+
+## Text
+
+(a) Processing operations and establishments subject to coverage; rules and regulations For the purpose of preventing the entry into or flow or movement in commerce of, or the burdening of commerce by, any egg product which is capable of use as human food and is misbranded or adulterated, the Secretary shall, whenever processing operations are being conducted, cause continuous inspection to be made, in accordance with the regulations promulgated under this chapter, of the processing of egg products, in each plant processing egg products for commerce, unless exempted under section 1044 of this title. Without restricting the application of the preceding sentence to other kinds of establishments within its provisions, any food manufacturing establishment, institution, or restaurant which uses any eggs that do not meet the requirements of section 1044(a)(1) of this title in the preparation of any articles for human food shall be deemed to be a plant processing egg products, with respect to such operations.
+
+(b) Authority of Secretary to retain, segregate, and reinspect eggs and egg products The Secretary, at any time, shall cause such retention, segregation, and reinspection as he deems necessary of eggs and egg products capable of use as human food in each official plant.
+
+(c) Condemnation of adulterated products; destruction or reprocessing; procedure upon appeal from determination of adulteration Eggs and egg products found to be adulterated at official plants shall be condemned and, if no appeal be taken from such determination of condemnation, such articles shall be destroyed for human food purposes under the supervision of an inspector: Provided, That articles which may by reprocessing be made not adulterated need not be condemned and destroyed if so reprocessed under the supervision of an inspector and thereafter found to be not adulterated. If an appeal be taken from such determination, the eggs or egg products shall be appropriately marked and segregated pending completion of an appeal inspection, which appeal shall be at the cost of the appellant if the Secretary determines that the appeal is frivolous. If the determination of condemnation is sustained, the eggs or egg products shall be destroyed for human food purposes under the supervision of an inspector.
+
+(d) Inspection of business premises, facilities, inventory, operations, and records of egg handlers; inspection of records and inventory of others required to keep records; authority of Secretary of Health and Human Services to inspect food manufacturing establishments, institutions, and restaurants; access to places of business The Secretary shall cause such other inspections to be made of the business premises, facilities, inventory, operations, and records of egg handlers, and the records and inventory of other persons required to keep records under section 1040 of this title, as he deems appropriate (and in the case of shell egg packers, packing eggs for the ultimate consumer, at least once each calendar quarter) to assure that only eggs fit for human food are used for such purpose, and otherwise to assure compliance by egg handlers and other persons with the requirements of section 1037 of this title, except that the Secretary of Health and Human Services shall cause such inspections to be made as he deems appropriate to assure compliance with such requirements at food manufacturing establishments, institutions, and restaurants, other than plants processing egg products. Representatives of said Secretaries shall be afforded access to all such places of business for purposes of making the inspections provided for in this chapter.
+
+(e) Refrigeration and labeling requirements (1) Subject to paragraphs (2), (3), and (4), the Secretary shall make such inspections as the Secretary considers appropriate of a facility of an egg handler (including a transport vehicle) to determine if shell eggs destined for the ultimate consumer—
+
+(A) are being held under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit after packing; and
+
+(B) contain labeling that indicates that refrigeration is required.
+
+(2) In the case of a shell egg packer packing eggs for the ultimate consumer, the Secretary shall make an inspection in accordance with paragraph (1) at least once each calendar quarter.
+
+(3) The Secretary of Health and Human Services shall cause such inspections to be made as the Secretary considers appropriate to ensure compliance with the requirements of paragraph (1) at food manufacturing establishments, institutions, and restaurants, other than plants packing eggs.
+
+(4) The Secretary shall not make an inspection as provided in paragraph (1) on any egg handler with a flock of not more than 3,000 layers.
+
+(5) A representative of the Secretary and the Secretary of Health and Human Services shall be afforded access to a place of business referred to in this subsection, including a transport vehicle, for purposes of making an inspection required under this subsection.
+
+(Pub. L. 91–597, § 5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, § 1012(b), Dec. 13, 1991, 105 Stat. 1899.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+
+Amendments1991—Subsec. (e). Pub. L. 102–237 added subsec. (e).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+Effective Date of 1991 AmendmentPub. L. 102–237, title X, § 1012(h), Dec. 13, 1991, 105 Stat. 1901, provided that: “This section and the amendments made by this section [amending this section and sections 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under section 1031 of this title] shall become effective 12 months after the Secretary of Agriculture promulgates final regulations implementing this section and the amendments.” [Final regulations were promulgated Aug. 20, 1998, effective Aug. 27, 1999. See 63 F.R. 45663.]
+
+Effective DateFor effective date of this section, see section 29 of Pub. L. 91–597, set out as a note under section 1031 of this title.

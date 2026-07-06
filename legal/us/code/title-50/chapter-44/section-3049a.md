@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3049a"
+description: "Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3049a"
+citation: "50 U.S.C. § 3049a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3049a"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "19adf11d8a9569250c194c919fc25d763241c0db6711dc7ca20b8298771acedf"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "07d2ef363de85d515c7663c0d75dd26099315f39f09a8848ab195821d9102df7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3049a - Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise
+
+## Text
+
+(a) Special rates of pay for positions requiring expertise in science, technology, engineering, or mathematics or in banking or financial services (1) In general Notwithstanding part III of title 5, the head of each element of the intelligence community may, for one or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics or in banking or financial services (including expertise relating to critical financial infrastructure operations, capital markets, banking compliance programs, or international investments)—
+
+(A) establish higher minimum rates of pay; and
+
+(B) make corresponding increases in all rates of pay of the pay range for each grade or level, subject to subsection (b) or (c), as applicable.
+
+(2) Limitation on number of recipients For each element of the intelligence community, the number of individuals serving in a position in such element who receive a higher rate of pay established or increased under paragraph (1) may not, at any time during a given fiscal year, exceed 50 individuals or 5 percent of the total number of full-time equivalent positions authorized for such element for the preceding fiscal year, whichever is greater.
+
+(3) Treatment The special rate supplements resulting from the establishment of higher rates under paragraph (1) shall be basic pay for the same or similar purposes as those specified in section 5305(j) of title 5.
+
+(b) Special rates of pay for cyber positions (1) In general Notwithstanding subsection (c), the Director of the National Security Agency may establish a special rate of pay—
+
+(A) not to exceed the rate of basic pay payable for level II of the Executive Schedule under section 5313 of title 5 if the Director certifies to the Under Secretary of Defense for Intelligence and Security, in consultation with the Under Secretary of Defense for Personnel and Readiness, that the rate of pay is for positions that perform functions that execute the cyber mission of the Agency; or
+
+(B) not to exceed the rate of basic pay payable for the Vice President of the United States under section 104 of title 3 if the Director certifies to the Secretary of Defense, by name, individuals that have advanced skills and competencies and that perform critical functions that execute the cyber mission of the Agency.
+
+(2) Pay limitation Employees receiving a special rate under paragraph (1) shall be subject to an aggregate pay limitation that parallels the limitation established in section 5307 of title 5, except that—
+
+(A) any allowance, differential, bonus, award, or other similar cash payment in addition to basic pay that is authorized under title 10 (or any other applicable law in addition to title 5, excluding the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.)) shall also be counted as part of aggregate compensation; and
+
+(B) aggregate compensation may not exceed the rate established for the Vice President of the United States under section 104 of title 3.
+
+(3) Limitation on number of recipients The number of individuals who receive basic pay established under paragraph (1)(B) may not exceed 100 at any time.
+
+(4) Limitation on use as comparative reference Notwithstanding any other provision of law, special rates of pay and the limitation established under paragraph (1)(B) may not be used as comparative references for the purpose of fixing the rates of basic pay or maximum pay limitations of qualified positions under section 1599f of title 10 or section 658 of title 6.
+
+(c) Maximum special rate of pay Except as provided in subsection (b), a minimum rate of pay established for a category of positions under subsection (a) may not exceed the maximum rate of basic pay (excluding any locality-based comparability payment under section 5304 of title 5 or similar provision of law) for the position in that category of positions without the authority of subsection (a) by more than 30 percent, and no rate may be established under this section in excess of the rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5.
+
+(d) Notification of removal from special rate of pay If the head of an element of the intelligence community removes a category of positions from coverage under a rate of pay authorized by subsection (a) or (b) after that rate of pay takes effect—
+
+(1) the head of such element shall provide notice of the loss of coverage of the special rate of pay to each individual in such category; and
+
+(2) the loss of coverage will take effect on the first day of the first pay period after the date of the notice.
+
+(e) Revision of special rates of pay Subject to the limitations in this section, rates of pay established under this section by the head of an element of the intelligence community may be revised from time to time by the head of such element and the revisions have the force and effect of statute.
+
+(f) Regulations The head of each element of the intelligence community shall promulgate regulations to carry out this section with respect to such element, which shall, to the extent practicable, be comparable to the regulations promulgated to carry out section 5305 of title 5.
+
+(g) Reports (1) Requirement for reports Not later than 90 days after the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019,11 See References in Text note below. the head of each element of the intelligence community shall submit to the congressional intelligence committees a report on any rates of pay established for such element under this section.
+
+(2) Contents Each report required by paragraph (1) shall contain for each element of the intelligence community—
+
+(A) a description of any rates of pay established under subsection (a) or (b); and
+
+(B) the number of positions in such element that will be subject to such rates of pay.
+
+(July 26, 1947, ch. 343, title I, § 113B, as added Pub. L. 115–31, div. N, title III, § 305(a), May 5, 2017, 131 Stat. 811; amended Pub. L. 116–92, div. E, title LXIII, § 6303, Dec. 20, 2019, 133 Stat. 2186; Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(2), div. G, title LXXI, § 7143(d)(6), Dec. 23, 2022, 136 Stat. 3615, 3664; Pub. L. 118–31, div. G, title III, § 7311(a), Dec. 22, 2023, 137 Stat. 1029.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Fair Labor Standards Act of 1938, referred to in subsec. (b)(2)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables. The date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019, referred to in subsec. (g)(1), probably means the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020, div. E of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+Amendments2023—Pub. L. 118–31, § 7311(a)(1), inserted “and positions requiring banking or financial services expertise” after “mathematics positions” in section catchline. Subsec. (a). Pub. L. 118–31, § 7311(a)(2)(A), inserted “or in banking or financial services” after “mathematics” in heading. Subsec. (a)(1). Pub. L. 118–31, § 7311(a)(2)(B), inserted “or in banking or financial services (including expertise relating to critical financial infrastructure operations, capital markets, banking compliance programs, or international investments)” after “or mathematics” in introductory provisions. Subsec. (a)(2), (3). Pub. L. 118–31, § 7311(a)(2)(C), (D), added par. (2) and redesignated former par. (2) as (3). Subsec. (e). Pub. L. 118–31, § 7311(a)(3), substituted “an element” for “the element”. 2022—Subsec. (b)(1)(A). Pub. L. 117–263, § 6824(a)(2)(A), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”. Subsec. (b)(4). Pub. L. 117–263, § 7143(d)(6), which directed substitution of “section 658 of title 6” for “226 of the Homeland Security Act of 2002 (6 U.S.C. 147)”, could not be executed because of the substantially identical amendment made by Pub. L. 117–263, § 6824(a)(2)(B). See below. Pub. L. 117–263, § 6824(a)(2)(B), substituted “section 658 of title 6” for “section 226 of the Homeland Security Act of 2002 (6 U.S.C. 147)”. 2019—Subsec. (a). Pub. L. 116–92, § 6303(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Notwithstanding part III of title 5, the head of each element of the intelligence community may establish higher minimum rates of pay for 1 or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics (STEM).” Subsec. (b). Pub. L. 116–92, § 6303(3), added subsec. (b). Former subsec. (b) redesignated (c). Subsec. (c). Pub. L. 116–92, § 6303(2), (4), redesignated subsec. (b) as (c) and substituted “Except as provided in subsection (b), a minimum” for “A minimum”. Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 116–92, § 6303(2), (5), redesignated subsec. (c) as (d) and inserted “or (b)” after “by subsection (a)” in introductory provisions. Former subsec. (d) redesignated (e). Subsecs. (e), (f). Pub. L. 116–92, § 6303(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g). Subsec. (g). Pub. L. 116–92, § 6303(2), redesignated subsec. (f) as (g). Subsec. (g)(1). Pub. L. 116–92, § 6303(6)(A), substituted “Not later than 90 days after the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019” for “Not later than 90 days after May 5, 2017”. Subsec. (g)(2)(A). Pub. L. 116–92, § 6303(6)(B), inserted “or (b)” after “subsection (a)”.

@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 1966"
+description: "Report requirements; petition of Attorney General for equitable relief"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "33A"
+chapter_name: "MARINE DEBRIS RESEARCH, PREVENTION, AND REDUCTION"
+section: "1966"
+citation: "33 U.S.C. § 1966"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s1966"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "ccd02f5316ed92454560db75752f12094ab1064bf386f7e4b7fc8d0768f4f557"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "94f3a6aef724dc9760d984aa78fda440b210c74edb01a6e937c6b5cae9e8691a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 1966 - Report requirements; petition of Attorney General for equitable relief
+
+## Text
+
+(a) Report The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources, the Committee on Transportation and Infrastructure, and the Committee on Energy and Commerce of the House of Representatives a report—
+
+(1) describing the proceedings and activities of the Foundation during that fiscal year, including a full and complete statement of its receipts, expenditures, and investments; and
+
+(2) including a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.
+
+(b) Relief with respect to certain Foundation acts or failure to act If the Foundation—
+
+(1) engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with its purposes set forth in section 1961(b) of this title; or
+
+(2) refuses, fails, or neglects to discharge its obligations under this title,11 See References in Text note below. or threatens to do so,
+
+the Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
+
+(Pub. L. 109–449, § 116, formerly Pub. L. 116–224, title I, § 116, Dec. 18, 2020, 134 Stat. 1079; renumbered Pub. L. 109–449, § 116, by Pub. L. 119–65, § 3(a), Dec. 26, 2025, 139 Stat. 1987.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis title, referred to in subsec. (b)(2), means title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which was classified principally to subchapter I (§ 4211 et seq.) of chapter 55 of this title. Subtitles B and C of title I of Pub. L. 116–224 were transferred to subtitles B and C of Pub. L. 109–449 by Pub. L. 119–65, §§ 3(a), 4(a), Dec. 26, 2025, 139 Stat. 1987, 1989, and are classified to this subchapter and subchapter III of this chapter, respectively. Subtitle A of title I of Pub. L. 116–224 amended sections 1951, 1958, and 1959 of this title, and subtitle D of title I of Pub. L. 116–224 is classified to part C (§ 4251) of subchapter I of chapter 55 of this title.
+
+Codification Section was formerly classified to section 4216 of this title prior to renumbering by Pub. L. 119–65.

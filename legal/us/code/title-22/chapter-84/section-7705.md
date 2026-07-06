@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7705"
+description: "Candidate countries"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "84"
+chapter_name: "MILLENNIUM CHALLENGE"
+section: "7705"
+citation: "22 U.S.C. § 7705"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7705"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "42087f0003e2e2785056d585b847a294dd145c27d70d9f147238c51262c9acb1"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "19f1eef1ac2435cbbbc6b77e98ed3dec44576990c050ba480b12b4258fba0088"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7705 - Candidate countries
+
+## Text
+
+(a) In general A country shall be a candidate country for purposes of eligibility to receive assistance under section 7704 of this title if—
+
+(1) the per capita income of the country in a fiscal year is equal to or less than the World Bank threshold for initiating the International Bank for Reconstruction and Development graduation process for the fiscal year; and
+
+(2) subject to subsection (b), the country is not ineligible to receive United States economic assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) by reason of the application of any provision of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] or any other provision of law.
+
+(b) Rule of construction For the purposes of determining whether a country is eligible, pursuant to subsection (a)(2), to receive assistance under section 7704 of this title, the exercise by the President, the Secretary of State, or any other officer or employee of the United States Government of any waiver or suspension of any provision of law referred to in subsection (a)(2), and notification to the appropriate congressional committees in accordance with such provision of law, shall be construed as satisfying the requirements under subsection (a).
+
+(c) Determination by the Board The Board shall determine whether a country is a candidate country for purposes of this section.
+
+(Pub. L. 108–199, div. D, title VI, § 606, Jan. 23, 2004, 118 Stat. 215; Pub. L. 115–167, title II, § 201, Apr. 23, 2018, 132 Stat. 1278; Pub. L. 118–159, div. E, title LI, § 5122(b), Dec. 23, 2024, 138 Stat. 2430.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+Amendments2024—Pub. L. 118–159 amended section generally. Prior to amendment, section related to candidate countries for purposes of eligibility for assistance. 2018—Subsec. (a)(1)(B). Pub. L. 115–167, § 201(a)(1), substituted “(4)” for “(3)”. Subsec. (a)(2). Pub. L. 115–167, § 201(a)(2), substituted “Fiscal years 2005 through 2012” for “Fiscal year 2005 and subsequent fiscal years” in heading and “each of fiscal years 2005 through 2012” for “fiscal year 2005 or a subsequent fiscal year” in introductory provisions. Subsec. (a)(3), (4). Pub. L. 115–167, § 201(a)(3), (4), added par. (3) and redesignated former par. (3) as (4). Subsec. (b)(1). Pub. L. 115–167, § 201(b)(1), substituted “Fiscal years 2006 through 2012” for “In general” in heading and “fiscal years 2006 through 2012” for “fiscal year 2006 or a subsequent fiscal year” in introductory provisions. Subsec. (b)(2), (3). Pub. L. 115–167, § 201(b)(2), (3), added par. (2) and redesignated former par. (2) as (3). Subsecs. (c), (d). Pub. L. 115–167, § 201(c), added subsec. (c) and redesignated former subsec. (c) as (d).

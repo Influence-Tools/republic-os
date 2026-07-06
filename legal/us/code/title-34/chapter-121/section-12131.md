@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 12131"
+description: "Ounce of Prevention Council"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "121"
+chapter_name: "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT"
+section: "12131"
+citation: "34 U.S.C. § 12131"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s12131"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "f55b3e6fc182d21f8cdac7f3ac36184c0cea0fc334dd9722b3bd70aeb36726ca"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "a6ef9262664881d9895f4bfa4d8d42cbd25bc678f7e4f9cc462cd46be4a6fe0e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 12131 - Ounce of Prevention Council
+
+## Text
+
+(a) Establishment (1) In general There is established an Ounce of Prevention Council (referred to in this subchapter as the “Council”), the members of which—
+
+(A) shall include the Attorney General, the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary of Labor, the Secretary of Agriculture, the Secretary of the Treasury, the Secretary of the Interior, and the Director of the Office of National Drug Control Policy; and
+
+(B) may include other officials of the executive branch as directed by the President.
+
+(2) Chair The President shall designate the Chair of the Council from among its members (referred to in this subchapter as the “Chair”).
+
+(3) Staff The Council may employ any necessary staff to carry out its functions, and may delegate any of its functions or powers to a member or members of the Council.
+
+(b) Program coordination For any program authorized under the Violent Crime Control and Law Enforcement Act of 1994, the Ounce of Prevention Council Chair, only at the request of the Council member with jurisdiction over that program, may coordinate that program, in whole or in part, through the Council.
+
+(c) Administrative responsibilities and powers In addition to the program coordination provided in subsection (b), the Council shall be responsible for such functions as coordinated planning, development of a comprehensive crime prevention program catalogue, provision of assistance to communities and community-based organizations seeking information regarding crime prevention programs and integrated program service delivery, and development of strategies for program integration and grant simplification. The Council shall have the authority to audit the expenditure of funds received by grantees under programs administered by or coordinated through the Council. In consultation with the Council, the Chair may issue regulations and guidelines to carry out this part and programs administered by or coordinated through the Council.
+
+(Pub. L. 103–322, title III, § 30101, Sept. 13, 1994, 108 Stat. 1836.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in subsec. (a)(1), (2), was in the original “this title”, meaning title III of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1836. For complete classification of title III to the Code, see Tables. The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (b), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
+
+Codification Section was formerly classified to section 13741 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

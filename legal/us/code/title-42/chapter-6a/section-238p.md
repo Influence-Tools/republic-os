@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 238p"
+description: "Recommendations and guidelines regarding automated external defibrillators for Federal buildings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "238p"
+citation: "42 U.S.C. § 238p"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s238p"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "94b34929e31ef80930077463b0d27fbbab79ce5dab87e71d540fa192ee2dc3c7"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "947d1c31736ec70759c2bc585b7b8049fd678699b92546efc953132a71c3d56d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 238p - Recommendations and guidelines regarding automated external defibrillators for Federal buildings
+
+## Text
+
+(a) Guidelines on placement The Secretary shall establish guidelines with respect to placing automated external defibrillator devices in Federal buildings. Such guidelines shall take into account the extent to which such devices may be used by lay persons, the typical number of employees and visitors in the buildings, the extent of the need for security measures regarding the buildings, buildings or portions of buildings in which there are special circumstances such as high electrical voltage or extreme heat or cold, and such other factors as the Secretary determines to be appropriate.
+
+(b) Related recommendations The Secretary shall publish in the Federal Register the recommendations of the Secretary on the appropriate implementation of the placement of automated external defibrillator devices under subsection (a), including procedures for the following:
+
+(1) Implementing appropriate training courses in the use of such devices, including the role of cardiopulmonary resuscitation.
+
+(2) Proper maintenance and testing of the devices.
+
+(3) Ensuring coordination with appropriate licensed professionals in the oversight of training of the devices.
+
+(4) Ensuring coordination with local emergency medical systems regarding the placement and incidents of use of the devices.
+
+(c) Consultations; consideration of certain recommendations In carrying out this section, the Secretary shall—
+
+(1) consult with appropriate public and private entities;
+
+(2) consider the recommendations of national and local public-health organizations for improving the survival rates of individuals who experience cardiac arrest in nonhospital settings by minimizing the time elapsing between the onset of cardiac arrest and the initial medical response, including defibrillation as necessary; and
+
+(3) consult with and counsel other Federal agencies where such devices are to be used.
+
+(d) Date certain for establishing guidelines and recommendations The Secretary shall comply with this section not later than 180 days after November 13, 2000.
+
+(e) Definitions For purposes of this section:
+
+(1) The term “automated external defibrillator device” has the meaning given such term in section 238q of this title.
+
+(2) The term “Federal building” includes a building or portion of a building leased or rented by a Federal agency, and includes buildings on military installations of the United States.
+
+(July 1, 1944, ch. 373, title II, § 247, as added Pub. L. 106–505, title IV, § 403, Nov. 13, 2000, 114 Stat. 2337.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+FindingsPub. L. 106–505, title IV, § 402, Nov. 13, 2000, 114 Stat. 2336, provided that: “Congress makes the following findings: “(1) Over 700 lives are lost every day to sudden cardiac arrest in the United States alone. “(2) Two out of every three sudden cardiac deaths occur before a victim can reach a hospital. “(3) More than 95 percent of these cardiac arrest victims will die, many because of lack of readily available life saving medical equipment. “(4) With current medical technology, up to 30 percent of cardiac arrest victims could be saved if victims had access to immediate medical response, including defibrillation and cardiopulmonary resuscitation. “(5) Once a victim has suffered a cardiac arrest, every minute that passes before returning the heart to a normal rhythm decreases the chance of survival by 10 percent. “(6) Most cardiac arrests are caused by abnormal heart rhythms called ventricular fibrillation. Ventricular fibrillation occurs when the heart’s electrical system malfunctions, causing a chaotic rhythm that prevents the heart from pumping oxygen to the victim’s brain and body. “(7) Communities that have implemented programs ensuring widespread public access to defibrillators, combined with appropriate training, maintenance, and coordination with local emergency medical systems, have dramatically improved the survival rates from cardiac arrest. “(8) Automated external defibrillator devices have been demonstrated to be safe and effective, even when used by lay people, since the devices are designed not to allow a user to administer a shock until after the device has analyzed a victim’s heart rhythm and determined that an electric shock is required. “(9) Increasing public awareness regarding automated external defibrillator devices and encouraging their use in Federal buildings will greatly facilitate their adoption. “(10) Limiting the liability of Good Samaritans and acquirers of automated external defibrillator devices in emergency situations may encourage the use of automated external defibrillator devices, and result in saved lives.”
+
+Certain Technologies and Practices Regarding Survival Rates for Cardiac ArrestPub. L. 106–129, § 7, Dec. 6, 1999, 113 Stat. 1676, provided that: “The Secretary of Health and Human Services shall, in consultation with the Administrator of the General Services Administration and other appropriate public and private entities, develop recommendations regarding the placement of automatic external defibrillators in Federal buildings as a means of improving the survival rates of individuals who experience cardiac arrest in such buildings, including recommendations on training, maintenance, and medical oversight, and on coordinating with the system for emergency medical services.”

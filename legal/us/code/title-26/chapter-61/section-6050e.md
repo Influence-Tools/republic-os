@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 6050E"
+description: "State and local income tax refunds"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "61"
+chapter_name: "INFORMATION AND RETURNS"
+section: "6050E"
+citation: "26 U.S.C. § 6050E"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s6050E"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "2d07c90adcc5fcd8a0bb63c1f723400af673d0411a207252c443d1c801be466c"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "4b2b12f9919d3a933ef95b7ddaacf80e415271ccf5c643ac33599d5a2e9ef15c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 6050E - State and local income tax refunds
+
+## Text
+
+(a) Requirement of reporting Every person who, with respect to any individual, during any calendar year makes payments of refunds of State or local income taxes (or allows credits or offsets with respect to such taxes) aggregating $10 or more shall make a return according to forms or regulations prescribed by the Secretary setting forth the aggregate amount of such payments, credits, or offsets, and the name and address of the individual with respect to whom such payment, credit, or offset was made.
+
+(b) Statements to be furnished to individuals with respect to whom information is required Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
+
+(1) the name of the State or political subdivision thereof, and
+
+(2) the information required to be shown on the return with respect to refunds, credits, and offsets to the individual.
+
+The written statement required under the preceding sentence shall be furnished to the individual during January of the calendar year following the calendar year for which the return under subsection (a) was required to be made. No statement shall be required under this subsection with respect to any individual if it is determined (in the manner provided by regulations) that such individual did not claim itemized deductions under chapter 1 for the taxable year giving rise to the refund, credit, or offset.
+
+(c) Person defined For purposes of this section, the term “person” means the officer or employee having control of the payment of the refunds (or the allowance of the credits or offsets) or the person appropriately designated for purposes of this section.
+
+(Added Pub. L. 97–248, title III, § 313(a), Sept. 3, 1982, 96 Stat. 603; amended Pub. L. 98–369, div. A, title I, § 151(a), July 18, 1984, 98 Stat. 690; Pub. L. 99–514, title XV, § 1501(c)(8), Oct. 22, 1986, 100 Stat. 2738.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1986—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth. 1984—Subsec. (b). Pub. L. 98–369 inserted provision that no statement is required under this subsection with respect to any individual if it is determined (in the manner provided by regulations) that such individual did not claim itemized deductions under chapter 1 for the taxable year giving rise to the refund, credit, or offset.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+
+Effective Date of 1984 AmendmentPub. L. 98–369, div. A, title I, § 151(b), July 18, 1984, 98 Stat. 691, provided that: “The amendment made by subsection (a) [amending this section] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”
+
+Effective DatePub. L. 97–248, title III, § 313(c), Sept. 3, 1982, 96 Stat. 603, provided that: “The amendments made by this section [enacting this section] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”

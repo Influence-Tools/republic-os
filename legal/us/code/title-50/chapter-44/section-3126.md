@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3126"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3126"
+citation: "50 U.S.C. § 3126"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3126"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "b05be8e52f602387d1a3e1c3bb0d22d96b80a78d385a57e48ac96586b5a2dd07"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "5a132e9176e42bb4f3402f7a9202a8354b4e08b223a7c9820a7670a40d724582"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3126 - Definitions
+
+## Text
+
+For the purposes of this subchapter:
+
+(1) The term “classified information” means information or material designated and clearly marked or clearly represented, pursuant to the provisions of a statute or Executive order (or a regulation or order issued pursuant to a statute or Executive order), as requiring a specific degree of protection against unauthorized disclosure for reasons of national security.
+
+(2) The term “authorized”, when used with respect to access to classified information, means having authority, right, or permission pursuant to the provisions of a statute, Executive order, directive of the head of any department or agency engaged in foreign intelligence or counterintelligence activities, order of any United States court, or provisions of any Rule of the House of Representatives or resolution of the Senate which assigns responsibility within the respective House of Congress for the oversight of intelligence activities.
+
+(3) The term “disclose” means to communicate, provide, impart, transmit, transfer, convey, publish, or otherwise make available.
+
+(4) The term “covert agent” means—
+
+(A) a present or retired officer or employee of an intelligence agency or a present or retired member of the Armed Forces assigned to duty with an intelligence agency whose identity as such an officer, employee, or member is classified information; or
+
+(B) a United States citizen whose intelligence relationship to the United States is classified information, and—
+
+(i) who acts as an agent of, or informant or source of operational assistance to, an intelligence agency, or
+
+(ii) who is at the time of the disclosure acting as an agent of, or informant to, the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation; or
+
+(C) an individual, other than a United States citizen, whose past or present intelligence relationship to the United States is classified information and who is a present or former agent of, or a present or former informant or source of operational assistance to, an intelligence agency.
+
+(5) The term “intelligence agency” means the elements of the intelligence community, as that term is defined in section 3003(4) of this title.
+
+(6) The term “informant” means any individual who furnishes information to an intelligence agency in the course of a confidential relationship protecting the identity of such individual from public disclosure.
+
+(7) The terms “officer” and “employee” have the meanings given such terms by section 2104 and 2105, respectively, of title 5.
+
+(8) The term “Armed Forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+
+(9) The term “United States”, when used in a geographic sense, means all areas under the territorial sovereignty of the United States and the Trust Territory of the Pacific Islands.
+
+(10) The term “pattern of activities” requires a series of acts with a common purpose or objective.
+
+(July 26, 1947, ch. 343, title VI, § 605, formerly § 606, as added Pub. L. 97–200, § 2(a), June 23, 1982, 96 Stat. 123; amended Pub. L. 106–120, title III, § 304(a), Dec. 3, 1999, 113 Stat. 1611; renumbered § 605 and amended Pub. L. 112–277, title III, § 310(a)(4)(B), title V, § 506, Jan. 14, 2013, 126 Stat. 2475, 2478; Pub. L. 113–126, title VII, § 703(a), July 7, 2014, 128 Stat. 1422; Pub. L. 116–92, div. E, title LIII, § 5303, Dec. 20, 2019, 133 Stat. 2119.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 426 of this title prior to editorial reclassification and renumbering as this section.
+
+Prior ProvisionsA prior section 605 of act July 26, 1947, was renumbered section 604 and is classified to section 3125 of this title.
+
+Amendments2019—Par. (4)(A). Pub. L. 116–92, § 5303(1), struck out cl. (i) designation before “whose identity”, substituted “agency” for “agency—” and “; or” for “, and”, and struck out cl. (ii) which read as follows: “who is serving outside the United States or has within the last five years served outside the United States; or”. Par. (4)(B)(i). Pub. L. 116–92, § 5303(2), substituted “acts” for “resides and acts outside the United States”. 2014—Pub. L. 113–126, § 703(a), made technical amendments to directory language of Pub. L. 112–277, § 506. See 2013 Amendment note below. 2013—Par. (5). Pub. L. 112–277, § 506, as amended by Pub. L. 113–126, § 703(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘intelligence agency’ means the Central Intelligence Agency, a foreign intelligence component of the Department of Defense, or the foreign counterintelligence or foreign counterterrorism components of the Federal Bureau of Investigation.” 1999—Par. (4)(A). Pub. L. 106–120 substituted “a present or retired officer or employee” for “an officer or employee” and “a present or retired member” for “a member”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2014 AmendmentPub. L. 113–126, title VII, § 703(b), July 7, 2014, 128 Stat. 1423, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Intelligence Authorization Act for Fiscal Year 2013 (Public Law 112–277).”
+
+Transfer of Functions For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Executive Documents
+
+Termination of Trust Territory of the Pacific Islands For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

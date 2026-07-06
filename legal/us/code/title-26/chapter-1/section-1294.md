@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 1294"
+description: "Election to extend time for payment of tax on undistributed earnings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "1"
+chapter_name: "NORMAL TAXES AND SURTAXES"
+section: "1294"
+citation: "26 U.S.C. § 1294"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s1294"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "99b176be8bb907abf217780c7a127a327d9eeaf53154a09b273756e5cb3b24a2"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "1002e286fb6f83e49c2c84ae68a896cc908aa7067e4baced5e293ffc082eea93"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 1294 - Election to extend time for payment of tax on undistributed earnings
+
+## Text
+
+(a) Extension allowed by election (1) In general At the election of the taxpayer, the time for payment of any undistributed PFIC earnings tax liability of the taxpayer for the taxable year shall be extended to the extent and subject to the limitations provided in this section.
+
+(2) Election not permitted where amounts otherwise includible under section 951 The taxpayer may not make an election under paragraph (1) with respect to the undistributed PFIC earnings tax liability attributable to a qualified electing fund for the taxable year if any amount is includible in the gross income of the taxpayer under section 951 with respect to such fund for such taxable year.
+
+(b) Definitions For purposes of this section—
+
+(1) Undistributed PFIC earnings tax liability The term “undistributed PFIC earnings tax liability” means, in the case of any taxpayer, the excess of—
+
+(A) the tax imposed by this chapter for the taxable year, over
+
+(B) the tax which would be imposed by this chapter for such year without regard to the inclusion in gross income under section 1293 of the undistributed earnings of a qualified electing fund.
+
+(2) Undistributed earnings The term “undistributed earnings” means, with respect to any qualified electing fund, the excess (if any) of—
+
+(A) the amount includible in gross income by reason of section 1293(a) for the taxable year, over
+
+(B) the amount not includible in gross income by reason of section 1293(c) for such taxable year.
+
+(c) Termination of extension (1) Distributions (A) In general If a distribution is not includible in gross income for the taxable year by reason of section 1293(c), then the extension under subsection (a) for payment of the undistributed PFIC earnings tax liability with respect to the earnings to which such distribution is attributable shall expire on the last date prescribed by law (determined without regard to extensions) for filing the return of tax for such taxable year.
+
+(B) Ordering rule For purposes of subparagraph (A), a distribution shall be treated as made from the most recently accumulated earnings and profits.
+
+(2) Transfers, etc. If—
+
+(A) stock in a passive foreign investment company is transferred during the taxable year, or
+
+(B) a passive foreign investment company ceases to be a qualified electing fund,
+
+all extensions under subsection (a) for payment of undistributed PFIC earnings tax liability attributable to such stock (or, in the case of such a cessation, attributable to any stock in such company) which had not expired before the date of such transfer or cessation shall expire on the last date prescribed by law (determined without regard to extensions) for filing the return of tax for the taxable year in which such transfer or cessation occurs. To the extent provided in regulations, the preceding sentence shall not apply in the case of a transfer in a transaction with respect to which gain or loss is not recognized (in whole or in part), and the transferee in such transaction shall succeed to the treatment under this section of the transferor.
+
+(3) Jeopardy If the Secretary believes that collection of an amount to which an extension under this section relates is in jeopardy, the Secretary shall immediately terminate such extension with respect to such amount, and notice and demand shall be made by him for payment of such amount.
+
+(d) Election The election under subsection (a) shall be made not later than the time prescribed by law (including extensions) for filing the return of tax imposed by this chapter for the taxable year.
+
+(e) Authority to require bond Section 6165 shall apply to any extension under this section as though the Secretary were extending the time for payment of the tax.
+
+(f) Treatment of loans to shareholder For purposes of this section and section 1293, any loan by a qualified electing fund (directly or indirectly) to a shareholder of such fund shall be treated as a distribution to such shareholder.
+
+(g) Cross reference For provisions providing for interest for the period of the extension under this section, see section 6601.
+
+(Added Pub. L. 99–514, title XII, § 1235(a), Oct. 22, 1986, 100 Stat. 2570; amended Pub. L. 100–647, title I, § 1012(p)(4), (8), (25), (34), Nov. 10, 1988, 102 Stat. 3515, 3517, 3519, 3522; Pub. L. 108–357, title IV, § 413(c)(25), Oct. 22, 2004, 118 Stat. 1509.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2004—Subsec. (a)(2). Pub. L. 108–357 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The taxpayer may not make an election under paragraph (1) with respect to the undistributed PFIC earnings tax liability attributable to a qualified electing fund for the taxable year if— “(A) any amount is includible in the gross income of the taxpayer under section 551 with respect to such fund for such taxable year, or “(B) any amount is includible in the gross income of the taxpayer under section 951 with respect to such fund for such taxable year.” 1988—Subsec. (c)(2). Pub. L. 100–647, § 1012(p)(4), (34), substituted “Transfers” for “Dispositions” in heading and “is transferred” for “is disposed of” in subpar. (A), and in closing provisions substituted “such transfer” for “such disposition” in two places and inserted at end “To the extent provided in regulations, the preceding sentence shall not apply in the case of a transfer in a transaction with respect to which gain or loss is not recognized (in whole or in part), and the transferee in such transaction shall succeed to the treatment under this section of the transferor.” Subsec. (f). Pub. L. 100–647, § 1012(p)(25), added subsec. (f). Subsec. (g). Pub. L. 100–647, § 1012(p)(8), added subsec. (g).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2004 AmendmentAmendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+Effective DateSection applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.

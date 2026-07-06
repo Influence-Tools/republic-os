@@ -1,0 +1,109 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 355c–1"
+description: "Report"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "9"
+chapter_name: "FEDERAL FOOD, DRUG, AND COSMETIC ACT"
+section: "355c–1"
+citation: "21 U.S.C. § 355c–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s355c–1"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "c436406f946637504eb80d42a524ec8b1e53a34300ea8bc60c3a431dc9ee0932"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "2138dc64ff073c8cfaab09abb1addf0f889bd205fe90af530c5b1eb5b25487db"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 355c–1 - Report
+
+## Text
+
+(a) In general Not later than four years after July 9, 2012, and every five years thereafter, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and make publicly available, including through posting on the Internet Web site of the Food and Drug Administration, a report on the implementation of sections 355a and 355c of this title.
+
+(b) Contents Each report under subsection (a) shall include—
+
+(1) an assessment of the effectiveness of sections 355a and 355c of this title in improving information about pediatric uses for approved drugs and biological products, including the number and type of labeling changes made since July 9, 2012, and the importance of such uses in the improvement of the health of children;
+
+(2) the number of required studies under such section 355c of this title that have not met the initial deadline provided under such section 355c of this title, including—
+
+(A) the number of deferrals and deferral extensions granted and the reasons such extensions were granted;
+
+(B) the number of waivers and partial waivers granted; and
+
+(C) the number of letters issued under subsection (d) of such section 355c of this title;
+
+(3) an assessment of the timeliness and effectiveness of pediatric study planning since July 9, 2012, including the number of initial pediatric study plans not submitted in accordance with the requirements of subsection (e) of such section 355c of this title and any resulting rulemaking;
+
+(4) the number of written requests issued, accepted, and declined under such section 355a of this title since July 9, 2012, and a listing of any important gaps in pediatric information as a result of such declined requests;
+
+(5) a description and current status of referrals made under subsection (n) of such section 355a of this title;
+
+(6) an assessment of the effectiveness of studying biological products in pediatric populations under such sections 355a and 355c of this title and section 284m of title 42;
+
+(7) (A) the efforts made by the Secretary to increase the number of studies conducted in the neonatal population (including efforts made to encourage the conduct of appropriate studies in neonates by companies with products that have sufficient safety and other information to make the conduct of the studies ethical and safe); and
+
+(B) the results of such efforts;
+
+(8) (A) the number and importance of drugs and biological products for children with cancer that are being tested as a result of the programs under such sections 355a and 355c of this title and under section 284m of title 42; and
+
+(B) any recommendations for modifications to such programs that would lead to new and better therapies for children with cancer, including a detailed rationale for each recommendation;
+
+(9) any recommendations for modification to such programs that would improve pediatric drug research and increase pediatric labeling of drugs and biological products;
+
+(10) an assessment of the successes of and limitations to studying drugs for rare diseases under such sections 355a and 355c of this title;
+
+(11) an assessment of the impact of the amendments to such section 355c of this title made by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer, including an evaluation of compliance with deadlines provided for in deferrals and deferral extensions;
+
+(12) an assessment of the efforts of the Secretary to implement the plan developed under section 505C–1 of the Federal Food, Drug, and Cosmetic Act,11 See References in Text note below. regarding earlier submission of pediatric studies under sections 355a and 355c of this title and section 262(m) of title 42, including—
+
+(A) the average length of time after the approval of an application under section 355(b)(1) of this title or section 262(a) of title 42 before studies conducted pursuant to such section 355a of this title, 355c of this title, or section 262(m) of title 42 are completed, submitted, and incorporated into labeling;
+
+(B) the average length of time after the receipt of a proposed pediatric study request before the Secretary responds to such request;
+
+(C) the average length of time after the submission of a proposed pediatric study request before the Secretary issues a written request for such studies;
+
+(D) the number of written requests issued for each investigational new drug or biological product prior to the submission of an application under section 355(b)(1) of this title or section 262(a) of title 42; and
+
+(E) the average number, and range of numbers, of amendments to written requests issued, and the time the Secretary requires to review and act on proposed amendments to written requests;
+
+(13) a list of sponsors of applications or holders of approved applications who received exclusivity under such section 355a of this title or such section 262(m) of title 42 after receiving a letter issued under such section 355c(d)(1) of this title for any drug or biological product before the studies referred to in such letter were completed and submitted;
+
+(14) a list of assessments and investigations required under such section 355c of this title;
+
+(15) how many requests under such section 355a of this title for molecular targeted cancer drugs, as defined by subsection (a)(1)(B) of such section 355c of this title, approved prior to 3 years after August 18, 2017, have been issued by the Food and Drug Administration, and how many such requests have been completed;
+
+(16) the Secretary’s assessment of the overall impact of the amendments made by section 504 of the FDA Reauthorization Act of 2017 on the conduct and effectiveness of pediatric cancer research and the orphan drug program, as well any subsequent recommendations; and
+
+(17) a listing of penalties, settlements, or payments under section 353 of this title for failure to comply with requirements under such section 355c of this title, including, for each penalty, settlement, or payment, the name of the drug, the sponsor thereof, and the amount of the penalty, settlement, or payment imposed.
+
+(c) Stakeholder comment At least 180 days prior to the submission of each report under subsection (a), the Secretary shall consult with representatives of patient groups (including pediatric patient groups), consumer groups, regulated industry, academia, and other interested parties to obtain any recommendations or information relevant to the report including suggestions for modifications that would improve pediatric drug research and pediatric labeling of drugs and biological products.
+
+(Pub. L. 112–144, title V, § 508, July 9, 2012, 126 Stat. 1045; Pub. L. 115–52, title V, § 504(d), Aug. 18, 2017, 131 Stat. 1044; Pub. L. 119–75, div. J, title VI, § 6603, Feb. 3, 2026, 140 Stat. 699.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe FDA Reauthorization Act of 2017, referred to in subsec. (b)(11), (16), is Pub. L. 115–52, Aug. 18, 2017, 131 Stat. 1005. Section 504 of the Act amended this section and section 355c of this title. For complete classification of this Act to the Code, see Short Title of 2017 Amendment note set out under section 301 of this title and Tables. Section 505C–1 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(12), probably means section 505(c) of Pub. L. 115–52, the FDA Reauthorization Act of 2017, which is set out as a note under section 355a of this title. The Federal Food, Drug, and Cosmetic Act does not contain a section 505C–1, and section 505(c) of the FDA Reauthorization Act of 2017 relates to the development and implementation of a plan for earlier submission of pediatric studies under sections 355a and 355c of this title and section 262(m) of Title 42, The Public Health and Welfare.
+
+Codification Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+Amendments2026—Subsec. (b)(11). Pub. L. 119–75, § 6603(1), substituted “, including an evaluation of compliance with deadlines provided for in deferrals and deferral extensions;” for semicolon at end. Subsec. (b)(17). Pub. L. 119–75, § 6603(2)–(4), added par. (17). 2017—Subsec. (b)(11) to (16). Pub. L. 115–52 added pars. (11) to (16) and struck out former par. (11) which read as follows: “an assessment of the Secretary’s efforts to address the suggestions and options described in any prior report issued by the Comptroller General, Institute of Medicine, or the Secretary, and any subsequent reports, including recommendations therein, regarding the topics addressed in the reports under this section, including with respect to— “(A) improving public access to information from pediatric studies conducted under such sections 355a and 355c of this title; and “(B) improving the timeliness of pediatric studies and pediatric study planning under such sections 355a and 355c of this title.”
+
+Statutory Notes and Related Subsidiaries
+
+Rule of ConstructionNothing in amendment by Pub. L. 115–52 to limit the authority of the Secretary of Health and Human Services to issue written requests under section 355a of this title or section 262(m) of Title 42, The Public Health and Welfare, or to negotiate or implement amendments to such requests proposed by applicants, see section 504(e) of Pub. L. 115–52, set out as a note under section 355c of this title.
+
+Definition of “Secretary” The term “Secretary” as used in this section means the Secretary of Health and Human Services, see section 503 of Pub. L. 112–144, set out as a note under section 355a of this title.

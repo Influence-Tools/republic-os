@@ -1,0 +1,101 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3334m"
+description: "Additional responsibilities of Director of National Intelligence for artificial intelligence policies, standards, and guidance for the intelligence community"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "45"
+chapter_name: "MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES"
+section: "3334m"
+citation: "50 U.S.C. § 3334m"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3334m"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "87d6294b552deca8a07ebc7a84addad62695c4aa578f6afe2a7734a469d1241a"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "26eae91809fb69f774628597bc5d64e12720077a66c19095c17b46c555ddc328"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3334m - Additional responsibilities of Director of National Intelligence for artificial intelligence policies, standards, and guidance for the intelligence community
+
+## Text
+
+(a) Responsibilities of Director of National Intelligence The Director of National Intelligence, in consultation with the heads of the elements of the intelligence community or the Chief Artificial Intelligence Officers designated under subsection (e), shall—
+
+(1) establish, and periodically conduct reviews of, policies, standards, and procedures relating to the acquisition, adoption, development, use, coordination, and maintenance of artificial intelligence capabilities and associated data, frameworks, computing environments, and other enablers by the intelligence community (including by incorporating and updating such policies based on emerging technology capabilities), to accelerate and increase the adoption of artificial intelligence capabilities within the intelligence community;
+
+(2) ensure policies established or updated pursuant to paragraph (1) are consistent with—
+
+(A) the principles outlined in the guidance of the Office of the Director of National Intelligence titled “Principles of Artificial Intelligence Ethics for the Intelligence Community and its Artificial Intelligence Ethics Framework for the Intelligence Community”, or any successor guidance; and
+
+(B) any other principles developed by the Director relating to the governance, documentation, auditability, or evaluation of artificial intelligence systems or the accurate, secure, ethical, and reliable adoption or use of artificial intelligence; and
+
+(3) provide to the heads of the elements of the intelligence community guidance for developing the National Intelligence Program budget pertaining to such elements to facilitate the acquisition, adoption, development, use, and maintenance of element-specific artificial intelligence capabilities, and to ensure the associated data, frameworks, computing environments, and other enablers are appropriately prioritized.
+
+(b) Policies (1) In general In carrying out subsection (a)(1), not later than 1 year after December 22, 2023, the Director of National Intelligence, in consultation with the heads of the elements of the intelligence community, the Director of the Office of Management and Budget, and such other officials as the Director of National Intelligence determines appropriate, shall establish the policies described in paragraph (2).
+
+(2) Policies described The policies described in this paragraph are policies for the acquisition, adoption, development, use, coordination, and maintenance of artificial intelligence capabilities that—
+
+(A) establish a lexicon relating to the use of machine learning and artificial intelligence developed or acquired by elements of the intelligence community;
+
+(B) establish minimum guidelines for evaluating the performance of models developed or acquired by elements of the intelligence community, such as by—
+
+(i) specifying conditions for the continuous monitoring of artificial intelligence capabilities for performance, including the conditions for retraining or retiring models based on performance;
+
+(ii) documenting performance objectives, including specifying how performance objectives shall be developed and contractually enforced for capabilities procured from third parties;
+
+(iii) specifying the manner in which models should be audited, as necessary, including the types of documentation that should be provided to any auditor; and
+
+(iv) specifying conditions under which models used by elements of the intelligence community should be subject to testing and evaluation for vulnerabilities to techniques meant to undermine the availability, integrity, or privacy of an artificial intelligence capability;
+
+(C) establish minimum guidelines for tracking dependencies in adjacent systems, capabilities, or processes impacted by the retraining or sunsetting of any model described in subparagraph (B);
+
+(D) establish minimum documentation requirements for capabilities procured from third parties, aligning such requirements, as necessary, with existing documentation requirements applicable to capabilities developed by elements of the intelligence community;
+
+(E) establish minimum standards for the documentation of imputed, augmented, or synthetic data used to train any model developed, procured, or used by an element of the intelligence community; and
+
+(F) provide guidance on the acquisition and usage of models that have previously been trained by a third party for subsequent modification and usage by such an element.
+
+(3) Policy review and revision The Director of National Intelligence shall annually review or revise each policy established under paragraph (1).
+
+(c) Application of policies to publicly available models hosted in classified environments In carrying out subsections (a) and (b), the Director shall ensure that the policies established under such subsections apply to the greatest extent possible to artificial intelligence models generally available to the public and hosted in classified environments.
+
+(d) Testing standards and benchmarks (1) Establishment The Chief Artificial Intelligence Officer of the Intelligence Community, or any officer designated by the Director of National Intelligence, shall establish standards for testing of artificial intelligence models in proportion to risk, including benchmarks and methodologies for the performance, efficacy, safety, fairness, transparency, accountability, appropriateness, lawfulness, and trustworthiness of artificial intelligence models across common use cases, including machine translation, object detection, and object recognition.
+
+(2) Identification of computing model The Chief Artificial Intelligence Officer of the Intelligence Community, in coordination with the Chief Artificial Intelligence Officers of the elements of the intelligence community, shall set standards for an appropriate secure computing environment, at a level (or multiple levels) of classification deemed appropriate, for elements of the intelligence community to engage in testing and evaluation of models prior to acquisition.
+
+(e) Designated Chief Artificial Intelligence Officers within each element of the intelligence community Each head of an element of the intelligence community, in coordination with the Director of National Intelligence, shall identify a senior official within the element to serve as the designated Chief Artificial Intelligence Officer, with lead responsibility for overseeing and coordinating efforts relating to artificial intelligence, including through the integration of the acquisition, technology, human capital, and financial management aspects necessary for the adoption of artificial intelligence solutions. Such designated Chief Artificial Intelligence Officers shall meet regularly to consult and coordinate with the Director of National Intelligence regarding the implementation of this section and this title.11 See References in Text note below.
+
+(Pub. L. 117–263, div. F, title LXVII, § 6702, Dec. 23, 2022, 136 Stat. 3561; Pub. L. 118–31, div. G, title V, § 7513(a), Dec. 22, 2023, 137 Stat. 1095; Pub. L. 119–60, div. F, title LXVI, §§ 6602(a), 6603(a), Dec. 18, 2025, 139 Stat. 1634, 1635.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis title, referred to in subsec. (e), means title LXVII of div. F of Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 3560, which enacted this section and sections 3034b, 3334n, and 3334o of this title, amended sections 3024 and 3030 of this title, and enacted provisions set out as notes under sections 3024 and 3030 of this title. For complete classification of title LXVII to the Code, see Tables.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 6603(a)(1), substituted “subsection (e)” for “subsection (c)” in introductory provisions. Pub. L. 119–60, § 6602(a)(1), substituted “the Chief Artificial Intelligence Officers” for “the officials” in introductory provisions. Subsec. (c). Pub. L. 119–60, § 6603(a)(3), added subsec. (c). Former subsec. (c) redesignated (e). Pub. L. 119–60, § 6602(a)(2), substituted “Chief Artificial Intelligence Officers” for “leads” in heading and “the designated Chief Artificial Intelligence Officer, with lead responsibility” for “the designated element lead responsible” and “designated Chief Artificial Intelligence Officers” for “designated element leads” in text. Subsecs. (d), (e). Pub. L. 119–60, § 6603(a)(2), (3), added subsec. (d) and redesignated subsec. (c) as (e). 2023—Subsec. (a). Pub. L. 118–31, § 7513(a)(1), substituted “subsection (c)” for “subsection (b)” in introductory provisions. Subsecs. (b), (c). Pub. L. 118–31, § 7513(a)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+Statutory Notes and Related Subsidiaries
+
+Rule of ConstructionPub. L. 119–60, div. F, title LXVI, § 6603(b), Dec. 18, 2025, 139 Stat. 1635, provided that: “Nothing in subsection (c) or (d) of section 6702 of the Intelligence Authorization Act for Fiscal Year 2023 (50 U.S.C. 3334m), as added by subsection (a)(3) of this section, shall be construed— “(1) to authorize an officer or employee of the intelligence community to direct a vendor or prospective vendor to alter a model to favor a particular viewpoint; or “(2) to apply to, limit, restrict, or otherwise affect any department, agency, or division or function of a department or agency outside of the intelligence community.” [For definition of “intelligence community” as used in section 6603(b) of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under section 3003 of this title.]
+
+Artificial Intelligence Development and Usage by Intelligence CommunityPub. L. 119–60, div. F, title LXVI, § 6602, Dec. 18, 2025, 139 Stat. 1634, provided that: “(a) Chief Artificial Intelligence Officers for Elements of the Intelligence Community.— [Amended this section] “(b) Identification of Commonly Used Artificial Intelligence Systems and Functions That Can Be Re-used by Other Elements.—Not later than 1 year after the date of the enactment of this Act [Dec. 18, 2025], the Chief Information Officer of the Intelligence Community shall, in coordination with the Chief Artificial Intelligence Officer of the Intelligence Community, identify commonly used artificial intelligence systems or functions that have the greatest potential for re-use without significant modification by other intelligence community elements. “(c) Sharing of Identified Applications and Functions.—To the extent consistent with the protection of intelligence sources and methods, for any artificial intelligence system or function identified pursuant to subsection (b), each Chief Artificial Intelligence Officer of an element of the intelligence community shall adopt a policy to promote the sharing, to the extent practical, of any custom-developed code and other key technical components, including models and model weights, whether agency-developed or procured, with other elements of the intelligence community that rely on common artificial intelligence systems or functions. “(d) Model Contract Terms.—The Chief Information Officer of the Intelligence Community shall provide the elements of the intelligence community with model contractual terms for consideration by the heads of those elements to appropriately address technical data rights and rights related to artificial intelligence dataset requirements, minimize dependency on proprietary information, and promote the adoption of procurement practices that encourage competition to sustain a robust marketplace for artificial intelligence products and services, including through contractual preferences for interoperable artificial intelligence products and services. “(e) Tracking and Evaluating Performance.—Each head of an element of the intelligence community shall track and evaluate performance of procured and element-developed artificial intelligence, including efficacy, safety, fairness, transparency, accountability, appropriateness, lawfulness, and trustworthiness.” [For definition of “intelligence community” as used in section 6602 of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under section 3003 of this title.]
+
+[Amended this section]
+
+UpdatesPub. L. 119–60, div. F, title LXVI, § 6603(c), Dec. 18, 2025, 139 Stat. 1636, provided that: “The Director shall make such revisions to the policies issued under subsections (a) and (b) of section 6702 of such Act [Intelligence Authorization Act for Fiscal Year 2023, 50 U.S.C. 3334m] as the Director considers necessary.”
+
+Prohibition on Use of Deepseek on Intelligence Community SystemsPub. L. 119–60, div. F, title LXVI, § 6604, Dec. 18, 2025, 139 Stat. 1636, provided that: “(a) Prohibition.—The Director of National Intelligence, in consultation with the other heads of the elements of the intelligence community, shall develop standards and guidelines for elements of the intelligence community that require the removal of any covered application from national security systems operated by an element of the intelligence community, a contractor to an element of the intelligence community, or another entity on behalf of an element of the intelligence community. “(b) Applicability of Information Security Requirements.—The standards and guidelines developed under subsection (a) shall be consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code. “(c) National Security and Research Exceptions.—The standards and guidelines developed under subsection (a) shall include—“(1) exceptions for national security purposes and research activities; and “(2) risk mitigation standards and guidelines that shall apply in the case of an exception described in paragraph (1). “(d) Initial Standards and Guidelines.—The Director of National Intelligence shall develop the initial standards and guidelines under subsection (a) not later than 60 days after the date of the enactment of this Act [Dec. 18, 2025]. “(e) Definitions.—In this section:“(1) Covered application.—The term ‘covered application’ means the DeepSeek application or any successor application or service. “(2) National security system.—The term ‘national security system’ has the meaning given the term in section 3552 of title 44, United States Code.” [For definition of “intelligence community” as used in section 6604 of Pub. L. 119–60, set out above, see section 6002 of Pub. L. 119–60, set out as a note under section 3003 of this title.]
+
+Definitions For definition of “intelligence community” as used in this section, see section 6002 of Pub. L. 119–60, set out as a note under section 3003 of this title. For definition of “intelligence community” as used in this section, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title. For definitions of “artificial intelligence” and “emerging technology” as used in this section, see section 6701 of Pub. L. 117–263, set out as a note under section 3024 of this title.

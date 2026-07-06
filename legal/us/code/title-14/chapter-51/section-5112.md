@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 5112"
+description: "Sexual assault and sexual harassment in the Coast Guard"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "51"
+chapter_name: "REPORTS"
+section: "5112"
+citation: "14 U.S.C. § 5112"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s5112"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "4d92cd7fdc7c40273d7d5e2b0349b2cdcf8bab122fdadff19db2af809f6bf7be"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "dadbe8e5fd78872e0c8bd336cd9b12a70f9c5621f2391b807cc17839484ce154"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 5112 - Sexual assault and sexual harassment in the Coast Guard
+
+## Text
+
+(a) In General.— Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults and incidents of sexual harassment involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(b) Contents.— The report required under subsection (a) shall contain the following:
+
+(1) The number of sexual assaults and incidents of sexual harassment against members of the Coast Guard, and the number of sexual assaults and incidents of sexual harassment by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated.
+
+(2) A synopsis of, and the disciplinary action taken in, each substantiated case.
+
+(3) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault and sexual harassment involving members of the Coast Guard concerned.
+
+(4) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault and sexual harassment involving members of the Coast Guard concerned.
+
+(5) (A) The number of instances in which a covered individual was accused of misconduct or crimes considered collateral to the investigation of a sexual assault committed against the individual.
+
+(B) The number of instances in which adverse action was taken against a covered individual who was accused of collateral misconduct or crimes as described in subparagraph (A).
+
+(C) The percentage of investigations of sexual assaults that involved an accusation or adverse action against a covered individual as described in subparagraphs (A) and (B).
+
+(D) In this paragraph, the term “covered individual” means an individual who is identified as a victim of a sexual assault in the case files of a military criminal investigative organization.
+
+(Added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(7), Jan. 1, 2021, 134 Stat. 4745.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, formerly set out as a note under section 504 of this title, was redesignated as this section, transferred to appear after section 5111 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(7)(A).
+
+Amendments2021—Pub. L. 116–283, § 8501(a)(7)(A), (B)(i), redesignated section 217 of Pub. L. 111–281 as this section, made technical changes to conform this section to other sections of this title, and substituted section catchline for former section catchline “Report on Sexual Assaults in the Coast Guard”. See Codification note above. Subsec. (b)(5). Pub. L. 116–283, § 8501(a)(7)(B)(ii), added par. (5).
+
+Statutory Notes and Related Subsidiaries
+
+Coast Guard Implementation of Independent Review Commission Recommendations on Addressing Sexual Assault and Sexual Harassment in the MilitaryPub. L. 119–60, div. G, title LXXV, § 7502, Dec. 18, 2025, 139 Stat. 1789, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall review the report of the Independent Review Commission titled ‘Hard Truths and the Duty to Change: Recommendations from the Independent Review Commission on Sexual Assault in the Military’ referred to in the memorandum of the Department of Defense titled ‘Memorandum for Senior Pentagon Leadership Commanders of the Combatant Commands Defense Agency and DoD Field Activity Directors’, dated September 22, 2021, (relating to commencing Department of Defense actions and implementation of the recommendations of the Independent Review Commission to address sexual assault and sexual harassment in the military). “(b) Strategy and Action Plan.—On completion of the review required under subsection (a), and not later than 1 year after the date of enactment of this Act, the Commandant [of the Coast Guard] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written and detailed strategy and a written and detailed action plan that—“(1)(A) identifies any recommendation set forth in the report by the Independent Review Commission described in subsection (a) that addresses a matter that is not within the jurisdiction of the Coast Guard, does not apply to the Coast Guard, or otherwise would not be beneficial to members of the Coast Guard, as determined by the Commandant [of the Coast Guard]; and “(B) includes a brief rationale for such determination; and “(2) with respect to each recommendation set forth in such report that is not identified under paragraph (1), includes—“(A)(i) a detailed action plan for implementation of the recommendation; “(ii) a description of changes the Commandant [of the Coast Guard] will make to associated Coast Guard policies so as to enable the implementation of the recommendation; “(iii) an estimated timeline for implementation of the recommendation; “(iv) the estimated cost of the implementation; “(v) legislative proposals for such implementation, as appropriate; and “(vi) any other information the Commandant [of the Coast Guard] considers appropriate; or “(B) in the case of such a recommendation that the Commandant [of the Coast Guard] is unable to implement, an explanation of the reason the recommendation cannot be implemented. “(c) Briefing.—Not later than 90 days after the date of enactment of this Act, and every 180 days thereafter through 2028, the Commandant [of the Coast Guard] shall provide the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives with a briefing on the status of the implementation of this section and any modification to the strategy and plan submitted under subsection (b).”

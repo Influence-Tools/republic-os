@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 6804"
+description: "Rulemaking"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "94"
+chapter_name: "PRIVACY"
+section: "6804"
+citation: "15 U.S.C. § 6804"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s6804"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "f2888e8eed71e320592db0ab6466167a38bdab67547f0cbe59047282f86da8f0"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "c7b2201211ca8c3bef6620b5f1b81012d99d8e3e13f192eb9777cddea9e5f1c6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 6804 - Rulemaking
+
+## Text
+
+(a) Regulatory authority (1) Rulemaking (A) In general Except as provided in subparagraph (C), the Bureau of Consumer Financial Protection and the Securities and Exchange Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to financial institutions and other persons subject to their respective jurisdiction under section 6805 of this title (and notwithstanding subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.]), except that the Bureau of Consumer Financial Protection shall not have authority to prescribe regulations with respect to the standards under section 6801 of this title.
+
+(B) CFTC The Commodity Futures Trading Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to financial institutions and other persons subject to the jurisdiction of the Commodity Futures Trading Commission under section 7b–2 of title 7.
+
+(C) Federal Trade Commission authority Notwithstanding the authority of the Bureau of Consumer Financial Protection under subparagraph (A), the Federal Trade Commission shall have authority to prescribe such regulations as may be necessary to carry out the purposes of this subchapter with respect to any financial institution that is a person described in section 1029(a) of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5519(a)].
+
+(D) Rule of construction Nothing in this paragraph shall be construed to alter, affect, or otherwise limit the authority of a State insurance authority to adopt regulations to carry out this subchapter.
+
+(2) Coordination, consistency, and comparability Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with 11 So in original. Probably should be “and, as appropriate, with”. representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
+
+(3) Procedures and deadline Such regulations shall be prescribed in accordance with applicable requirements of title 5.
+
+(b) Authority to grant exceptions The regulations prescribed under subsection (a) may include such additional exceptions to subsections (a) through (d) of section 6802 of this title as are deemed consistent with the purposes of this subchapter.
+
+(Pub. L. 106–102, title V, § 504, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 111–203, title X, § 1093(3), July 21, 2010, 124 Stat. 2095.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in subsecs. (a)(1) and (b), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables. The Consumer Financial Protection Act of 2010, referred to in subsec. (a)(1)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B (§§ 1021–1029A) of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
+
+Amendments2010—Subsec. (a)(1), (2). Pub. L. 111–203, § 1093(3)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which related, respectively, to rulemaking by the Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission, and consultation and coordination among these agencies and authorities to assure consistency and comparability of regulations. Subsec. (a)(3). Pub. L. 111–203, § 1093(3)(B), struck out “and shall be issued in final form not later than 6 months after November 12, 1999” after “title 5”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.

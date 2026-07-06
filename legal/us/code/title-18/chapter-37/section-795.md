@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 795"
+description: "Photographing and sketching defense installations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "37"
+chapter_name: "ESPIONAGE AND CENSORSHIP"
+section: "795"
+citation: "18 U.S.C. § 795"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s795"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "d1f43412716b0f4cd4460bd0c38b63e10bd1b4ff83a1098621689991dd9fb245"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "ea57b907c5752837d2afdea49c53fda09b82616cf671f986ba444ac08b2773ec"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 795 - Photographing and sketching defense installations
+
+## Text
+
+(a) Whenever, in the interests of national defense, the President defines certain vital military and naval installations or equipment as requiring protection against the general dissemination of information relative thereto, it shall be unlawful to make any photograph, sketch, picture, drawing, map, or graphical representation of such vital military and naval installations or equipment without first obtaining permission of the commanding officer of the military or naval post, camp, or station, or naval vessels, military and naval aircraft, and any separate military or naval command concerned, or higher authority, and promptly submitting the product obtained to such commanding officer or higher authority for censorship or such other action as he may deem necessary.
+
+(b) Whoever violates this section shall be fined under this title or imprisoned not more than one year, or both.
+
+(June 25, 1948, ch. 645, 62 Stat. 737; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+
+## Notes
+
+Historical and Revision NotesBased on sections 45 and 45c of title 50, U.S.C., 1940 ed., War and National Defense (Jan. 12, 1938, ch. 2, §§ 1, 4, 52 Stat. 3, 4). Section consolidated sections 45 and 45c of title 50, U.S.C., 1940 ed., War and National Defense. Minor changes were made in phraseology.
+
+Editorial Notes
+
+Amendments1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+
+Executive Documents
+
+Ex. Ord. No. 10104. Defining Certain Vital Military and Naval Installations and Equipment as Requiring Protection Against the General Dissemination of Information Relative Thereto Ex. Ord. No. 10104, Feb. 1, 1950, 15 F.R. 597, provided: WHEREAS section 795 of title 18 of the United States Code provides: [Omitted.] AND WHEREAS section 797 of title 18 of the United States Code provides: [Omitted.] NOW, THEREFORE, by virtue of the authority vested in me by the foregoing statutory provisions, and in the interests of national defense, I hereby define the following as vital military and naval installations or equipment requiring protection against the general dissemination of information relative thereto: 1. All military, naval, or air-force installations and equipment which are now classified, designated, or marked under the authority or at the direction of the President, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force as “top secret”, “secret”, “confidential”, or “restricted”, and all military, naval, or air-force installations and equipment which may hereafter be so classified, designated, or marked with the approval or at the direction of the President, and located within: (a) Any military, naval, or air-force reservation, post, arsenal, proving ground, range, mine field, camp, base, airfield, fort, yard, station, district, or area. (b) Any defensive sea area heretofore established by Executive order and not subsequently discontinued by Executive order, and any defensive sea area hereafter established under authority of section 2152 of title 18 of the United States Code. (c) Any airspace reservation heretofore or hereafter established under authority of section 4 of the Air Commerce Act of 1926 (44 Stat. 570; 49 U.S.C. 174) except the airspace reservation established by Executive Order No. 10092 of December 17, 1949. (d) Any naval harbor closed to foreign vessels. (e) Any area required for fleet purposes. (f) Any commercial establishment engaged in the development or manufacture of classified military or naval arms, munitions, equipment, designs, ships, aircraft, or vessels for the United States Army, Navy, or Air Force. 2. All military, naval, or air-force aircraft, weapons, ammunition, vehicles, ships, vessels, instruments, engines, manufacturing machinery, tools, devices, or any other equipment whatsoever, in the possession of the Army, Navy, or Air Force or in the course of experimentation, development, manufacture, or delivery for the Army, Navy, or Air Force which are now classified, designated, or marked under the authority or at the direction of the President, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force as “top secret”, “secret”, “confidential”, or “restricted”, and all such articles, materials, or equipment which may hereafter be so classified, designated, or marked with the approval or at the direction of the President. 3. All official military, naval, or air-force books, pamphlets, documents, reports, maps, charts, plans, designs, models, drawings, photographs, contracts, or specifications which are now marked under the authority or at the direction of the President, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force as “top secret”, “secret”, “confidential”, or “restricted”, and all such articles or equipment which may hereafter be so marked with the approval or at the direction of the President. This order supersedes Executive Order No. 8381 of March 22, 1940 entitled “Defining Certain Vital Military and Naval Installations and Equipment”[.] Harry S. Truman.

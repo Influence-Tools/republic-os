@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 2004"
+description: "Continuing appraisal of soil, water, and related resources"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "40"
+chapter_name: "SOIL AND WATER RESOURCES CONSERVATION"
+section: "2004"
+citation: "16 U.S.C. § 2004"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s2004"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "b7a7ad797d9917b86f9fb253d995a4d2f315ff4606c9bf4f9ebb6a9cd5d126d7"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "7ffbab1f2c4d832dd6a481adf11fe73fb740f7200105ba76faabeb6f31950e44"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 2004 - Continuing appraisal of soil, water, and related resources
+
+## Text
+
+(a) Data In recognition of the importance of and need for obtaining and maintaining information on the current status of soil, water, and related resources, the Secretary is authorized and directed to carry out a continuing appraisal of the soil, water, and related resources of the Nation. The appraisal shall include, but not be limited to—
+
+(1) data on the quality and quantity of soil, water, and related resources, including fish and wildlife habitats;
+
+(2) data on the capability and limitations of those resources for meeting current and projected demands on the resource base;
+
+(3) data on the changes that have occurred in the status and condition of those resources resulting from various past uses, including the impact of farming technologies, techniques, and practices;
+
+(4) data on current Federal, State, and tribal laws, policies, programs, rights, regulations, ownerships, and their trends and other considerations relating to the use, development, and conservation of soil, water, and related resources;
+
+(5) data on the costs and benefits of alternative soil and water conservation practices;
+
+(6) data on alternative irrigation techniques regarding their costs, benefits, and impact on soil and water conservation, crop production, and environmental factors; and
+
+(7) data on conservation plans, conservation practices planned or implemented, environmental outcomes, economic costs, and related matters under conservation programs administered by the Secretary.
+
+(b) Collection of data The appraisal shall utilize data collected under this chapter and pertinent data and information collected by the Department of Agriculture and other Federal, State, tribal, and local agencies and organizations. The Secretary shall establish an integrated system capable of using combinations of resource data to determine the quality and capabilities for alternative uses of the resource base and to identify areas of local, State, tribal, and National concerns and related roles pertaining to soil and water conservation, resource use and development, and environmental improvement.
+
+(c) Public participation The appraisal shall be made in cooperation with conservation districts, State and tribal soil and water conservation agencies, and other appropriate citizen groups, and local, tribal, and State agencies under such procedures as the Secretary may prescribe to insure public participation.
+
+(d) Evaluation of appraisal In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
+
+(e) Completion dates The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, December 31, 2015, and December 31, 2022. The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
+
+(Pub. L. 95–192, § 5, Nov. 18, 1977, 91 Stat. 1408; Pub. L. 99–198, title XII, § 1252(a), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 110–234, title II, § 2804(b), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, § 4(a), title II, § 2804(b), June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, § 2508(b), Feb. 7, 2014, 128 Stat. 756; Pub. L. 115–334, title II, § 2402(1), Dec. 20, 2018, 132 Stat. 4570.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2018—Subsec. (e). Pub. L. 115–334 substituted “December 31, 2015, and December 31, 2022” for “and December 31, 2015”. 2014—Subsec. (a)(4). Pub. L. 113–79, § 2508(b)(1), substituted “, State, and tribal” for “and State”. Subsec. (b). Pub. L. 113–79, § 2508(b)(2), inserted “, tribal” after “State” in two places. Subsec. (c). Pub. L. 113–79, § 2508(b)(3), substituted “State and tribal soil” for “State soil” and “local, tribal,” for “local”. 2008—Subsec. (a)(7). Pub. L. 110–246, § 2804(b)(1), added par. (7). Subsecs. (d), (e). Pub. L. 110–246, § 2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.” 1985—Subsec. (d). Pub. L. 99–198 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The appraisal shall be completed by December 31, 1979, and at each five-year interval thereafter during the period this chapter is in effect.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+Executive Documents
+
+Transfer of Functions For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 2002 of this title.

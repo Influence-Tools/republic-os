@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 523"
+description: "Coordination and promotion of other programs affecting veterans and their dependents"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "5"
+chapter_name: "AUTHORITY AND DUTIES OF THE SECRETARY"
+section: "523"
+citation: "38 U.S.C. § 523"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s523"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "e9b355fb2f3dc9a26827daecf12432efb12ff4b5dd60bb21aff7186c4544c7a8"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "911c2d1415c2e6023cd2255785b468e44d235de874427ea6d16e7a4fa4e259e7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 523 - Coordination and promotion of other programs affecting veterans and their dependents
+
+## Text
+
+(a) The Secretary shall seek to achieve (1) the maximum feasible effectiveness, coordination, and interrelationship of services among all programs and activities affecting veterans and their dependents carried out by and under all other departments, agencies, and instrumentalities of the executive branch, and (2) the maximum feasible coordination of such programs with programs carried out under this title. The Secretary shall actively promote the effective implementation, enforcement, and application of all provisions of law and regulations providing for special consideration, emphasis, or preference for veterans.
+
+(b) The Secretary shall seek to achieve the effective coordination of the provision, under laws administered by the Department, of benefits and services (and information about such benefits and services) with appropriate programs (and information about such programs) conducted by State and local governmental agencies and by private entities at the State and local level. In carrying out this subsection, the Secretary shall place special emphasis on veterans who are 65 years of age or older.
+
+(c) The Secretary shall maintain a publicly available website of the Department through which a veteran or dependent of a veteran may search by ZIP code for programs for—
+
+(1) veterans who recently separated from active military, naval, air, or space service; or
+
+(2) dependents of veterans described in paragraph (1).
+
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 390; amended Pub. L. 119–60, div. A, title V, § 571(e), Dec. 18, 2025, 139 Stat. 885.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsPrior sections 523 and 524 were renumbered sections 1523 and 1524 of this title, respectively. Provisions similar to those in this section were contained in section 220 of this title prior to repeal by Pub. L. 102–83, § 2(a).
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Pilot Program on Use of Community-Based Organizations and Local and State Government Entities To Ensure That Veterans Receive Care and Benefits for Which They Are EligiblePub. L. 111–163, title V, § 506, May 5, 2010, 124 Stat. 1160, as amended by Pub. L. 114–228, title I, § 108, Sept. 29, 2016, 130 Stat. 938, provided that: “(a) Pilot Program Required.—The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of using community-based organizations and local and State government entities—“(1) to increase the coordination of community, local, State, and Federal providers of health care and benefits for veterans to assist veterans who are transitioning from military service to civilian life in such transition; “(2) to increase the availability of high quality medical and mental health services to veterans transitioning from military service to civilian life; “(3) to provide assistance to families of veterans who are transitioning from military service to civilian life to help such families adjust to such transition; and “(4) to provide outreach to veterans and their families to inform them about the availability of benefits and connect them with appropriate care and benefit programs. “(b) Duration of Program.—The pilot program shall be carried out during the 2-year period beginning on the date that is 180 days after the date of the enactment of this Act [May 5, 2010]. “(c) Program Locations.—“(1) In general.—The pilot program shall be carried out at five locations selected by the Secretary for purposes of the pilot program. “(2) Considerations.—In selecting locations for the pilot program, the Secretary shall consider the advisability of selecting locations in—“(A) rural areas; “(B) areas with populations that have a high proportion of minority group representation; “(C) areas with populations that have a high proportion of individuals who have limited access to health care; and “(D) areas that are not in close proximity to an active duty military installation. “(d) Grants.—The Secretary shall carry out the pilot program through the award of grants to community-based organizations and local and State government entities. “(e) Selection of Grant Recipients.—“(1) In general.—A community-based organization or local or State government entity seeking a grant under the pilot program shall submit to the Secretary an application therefor in such form and in such manner as the Secretary considers appropriate. “(2) Elements.—Each application submitted under paragraph (1) shall include the following:“(A) A description of the consultations, if any, with the Department of Veterans Affairs in the development of the proposal under the application. “(B) A plan to coordinate activities under the pilot program, to the greatest extent possible, with the local, State, and Federal providers of services for veterans to reduce duplication of services and to enhance the effect of such services. “(f) Use of Grant Funds.—The Secretary shall prescribe appropriate uses of grant funds received under the pilot program. “(g) Report on Program.—“(1) In general.—Not later than September 30, 2017, the Secretary shall submit to Congress a report on the pilot program. “(2) Elements.—The report required by paragraph (1) shall include the following:“(A) The findings and conclusions of the Secretary with respect to the pilot program. “(B) An assessment of the benefits to veterans of the pilot program. “(C) The recommendations of the Secretary as to the advisability of continuing the pilot program.”

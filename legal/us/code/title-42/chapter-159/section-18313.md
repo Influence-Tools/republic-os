@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 18313"
+description: "Assurance of core capabilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "159"
+chapter_name: "SPACE EXPLORATION, TECHNOLOGY, AND SCIENCE"
+section: "18313"
+citation: "42 U.S.C. § 18313"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s18313"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "2993e8930cfc41c4b854441312e2f9558bfb7c56e902487c4d0d646373cebcf7"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "cf36031a1a9baaa3e0ef779d1ab40de0ff229876a8deb9100f1c1dfa0037e961"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 18313 - Assurance of core capabilities
+
+## Text
+
+(a) Sense of Congress It is the sense of Congress that—
+
+(1) the ISS, technology developments, the current Space Shuttle program, and follow-on transportation systems authorized by this chapter form the foundation of initial capabilities for missions beyond low-Earth orbit to a variety of lunar and Lagrangian orbital locations; and
+
+(2) these initial missions and related capabilities should be utilized to provide operational experience, technology development, and the placement and assured use of in-space infrastructure and in-space servicing of existing and future assets.
+
+(b) Sense of Congress regarding human space flight capability assurance It is the sense of Congress that the Administrator shall proceed with the utilization of the ISS, technology development, and follow-on transportation systems (including the Space Launch System, multi-purpose crew vehicle, and commercial crew and cargo transportation capabilities) under subchapters II and III of this chapter in a manner that ensures—
+
+(1) that these capabilities remain inherently complementary and interrelated;
+
+(2) a balance of the development, sustainment, and use of each of these capabilities, which are of critical importance to the viability and sustainability of the U.S. space program; and
+
+(3) that resources required to support the timely and sustainable development of these capabilities authorized in either subchapter II or subchapter III of this chapter are not derived from a reduction in resources for the capabilities authorized in the other subchapter.
+
+(c) Limitation Nothing in subsection (b) shall apply to or affect any capability authorized by any other subchapter of this chapter 11 So in original. Probably should be followed by a period.
+
+(Pub. L. 111–267, title II, § 203, Oct. 11, 2010, 124 Stat. 2812; Pub. L. 112–273, § 2, Jan. 14, 2013, 126 Stat. 2454; Pub. L. 115–10, title IV, § 416(a), Mar. 21, 2017, 131 Stat. 34.)
+
+## Notes
+
+Editorial Notes
+
+References in TextAny other subchapter of this chapter, referred to in subsec. (d), was in the original “any other title of this Act”, meaning any other title of Pub.L. 111–267, Oct. 11, 2010, 124 Stat. 2805. In addition to title II which is classified generally to this subchapter, Pub. L. 111–267 contains titles III to XII which are classified generally to subchapters II to XI, respectively, of this chapter and titles I and XIII, 126 Stat. 2809, 2846, which are not classified to the Code.
+
+Amendments2017—Subsec. (b). Pub. L. 115–10, § 416(a)(1), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “(1) Development of follow-on space transportation systems.—The Administrator shall proceed with the development of follow-on space transportation systems in a manner that ensures that the national capability to restart and fly Space Shuttle missions can be initiated if required by the Congress, in an Act enacted after October 11, 2010, or by a Presidential determination transmitted to the Congress, before the last Space Shuttle mission authorized by this chapter is completed. “(2) Required actions.—In carrying out the requirement in paragraph (1), the Administrator shall authorize refurbishment of the manufactured external tank of the Space Shuttle, designated as ET–94, and take all actions necessary to enable its readiness for use in the Space Launch System development as a critical skills and capability retention effort or for test purposes, while preserving the ability to use this tank if needed for an ISS contingency if deemed necessary under paragraph (1).” Subsecs. (c), (d). Pub. L. 115–10, § 416(a)(2), (3), substituted “subsection (b)” for “subsection (c)” in subsec. (d) and redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b). 2013—Subsecs. (c), (d). Pub. L. 112–273 added subsecs. (c) and (d).

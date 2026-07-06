@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 241"
+description: "Creation; membership; compensation and expenses"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "3"
+chapter_name: "FEDERAL RESERVE SYSTEM"
+section: "241"
+citation: "12 U.S.C. § 241"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s241"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "ca423927d7b4c65dbd016fdf1bfd951b875fdfd923e53a18bd5a5ce38d52fec4"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "58926fa58ad2bea03a09713fe71d92499494f244bf2fea19efdc0546349444e2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 241 - Creation; membership; compensation and expenses
+
+## Text
+
+The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
+
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; Aug. 23, 1935, ch. 614, title II, § 203(b), 49 Stat. 704; Pub. L. 114–1, title I, § 109(a), Jan. 12, 2015, 129 Stat. 9.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added June 3, 1922, ch. 205, 42 Stat. 621; par. 10 of section 10, as added Aug. 23, 1935, ch. 614, § 203(d), 49 Stat. 705; and par. (12) of section 10, as added Pub. L. 111–203, title XI, § 1108(b), July 21, 2010, 124 Stat. 2126, are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
+
+Amendments2015—Pub. L. 114–1 inserted after second sentence “In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets.” 1935—Act Aug. 23, 1935, § 203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, provided that: “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
+
+Effective Date of 2015 AmendmentPub. L. 114–1, title I, § 109(b), Jan. 12, 2015, 129 Stat. 9, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [Jan. 12, 2015] and apply to appointments made on and after that effective date, excluding any nomination pending in the Senate on that date.”
+
+RepealsAct Oct. 15, 1949, ch. 695, § 4, 63 Stat. 880, formerly cited as a credit to this section, which was used as authority to substitute “$16,000” for “$15,000” in the last sentence, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
+
+General Accounting Office Study of Conflicts of InterestPub. L. 106–102, title VII, § 728, Nov. 12, 1999, 113 Stat. 1475, provided that the Comptroller General of the United States was to conduct a study analyzing the conflict of interest faced by the Board of Governors of the Federal Reserve System between its role as a primary regulator of the banking industry and its role as a vendor of services to the banking and financial services industry and, before the end of the 1-year period beginning on Nov. 12, 1999, submit a report to the Congress, together with recommendations for such legislative or administrative actions as the Comptroller General determined to be appropriate.
+
+Compensation of Board of GovernorsAnnual basic compensation of Chairman and Members of Board of Governors, see sections 5313 and 5314 of Title 5, Government Organization and Employees.

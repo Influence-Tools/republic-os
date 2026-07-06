@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3161"
+description: "Eligibility of areas"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "38"
+chapter_name: "PUBLIC WORKS AND ECONOMIC DEVELOPMENT"
+section: "3161"
+citation: "42 U.S.C. § 3161"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3161"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "04eedbc6e0ef0da745ec5c29fb4a1dfdfdb87d61b0bfc16dd525d6e197a8c224"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "483c4b3645f6c7be2d5d7d83dd84fdc747b883030d7fdf0caac5a2462d510446"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3161 - Eligibility of areas
+
+## Text
+
+(a) In general For a project to be eligible for assistance under section 3141 or 3149 of this title, the project shall be located in an area that, on the date of submission of the application, meets 1 or more of the following criteria:
+
+(1) Low per capita income The area has a per capita income of 80 percent or less of the national average.
+
+(2) Unemployment rate above national average The area has an unemployment rate that is, for the most recent 24-month period for which data are available, at least 1 percent greater than the national average unemployment rate.
+
+(3) Unemployment, underemployment, or economic adjustment problems The area is an area that the Secretary determines has experienced or is about to experience a special need arising from actual or threatened severe unemployment, underemployment, or economic adjustment problems resulting from severe short-term or long-term changes in economic conditions.
+
+(4) Low median household income The area has a median household income of 80 percent or less of the national average.
+
+(5) Workforce participation The area has—
+
+(A) a labor force participation rate of 90 percent or less of the national average; or
+
+(B) a prime-age employment gap of 5 percent or more.
+
+(6) Expected economic dislocation and distress from energy industry transitions The area is an area that is expected to experience actual or threatened severe unemployment or economic adjustment problems resulting from severe short-term or long-term changes in economic conditions from energy industries that are experiencing accelerated contraction.
+
+(b) Political boundaries of areas An area that meets 1 or more of the criteria of subsection (a), including a small area of poverty or high unemployment within a larger community in less economic distress, shall be eligible for assistance under section 3141 or 3149 of this title without regard to political or other subdivisions or boundaries.
+
+(c) Documentation (1) In general A determination of eligibility under subsection (a) shall be supported by the most recent Federal data available (including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate), or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
+
+(2) Acceptance by Secretary The documentation shall be accepted by the Secretary unless the Secretary determines that the documentation is inaccurate.
+
+(d) Prior designations Any designation of a redevelopment area made before the effective date of the Economic Development Administration Reform Act of 1998 shall not be effective after that effective date.
+
+(e) Transparency To the extent the Secretary includes neighboring counties and communities in an economic development district in accordance with subsection (a)(3), the Secretary shall submit to Congress, and make publicly available online, a notification describing the justification for such inclusion and detailing the economic indicators of such neighboring counties and communities.
+
+(Pub. L. 89–136, title III, § 301, as added Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3607; amended Pub. L. 108–373, title III, § 301, Oct. 27, 2004, 118 Stat. 1767; Pub. L. 118–272, div. B, title II, § 2225, Jan. 4, 2025, 138 Stat. 3191.)
+
+## Notes
+
+Editorial Notes
+
+References in TextFor the effective date of the Economic Development Administration Reform Act of 1998, referred to in subsec. (d), see section 105 of Pub. L. 105–393, set out as an Effective Date note under section 3121 of this title.
+
+Prior ProvisionsA prior section 3161, Pub. L. 89–136, title IV, § 401, Aug. 26, 1965, 79 Stat. 560; Pub. L. 89–794, title XI, § 1102, Nov. 8, 1966, 80 Stat. 1477; Pub. L. 91–123, title III, § 304, Nov. 25, 1969, 83 Stat. 219; Pub. L. 92–65, title I, § 106, Aug. 5, 1971, 85 Stat. 167; Pub. L. 93–423, §§ 3(a), 6, Sept. 27, 1974, 88 Stat. 1158, 1161; Pub. L. 94–487, title I, §§ 113, 114, Oct. 12, 1976, 90 Stat. 2334, set forth criteria for determining eligible redevelopment areas, prior to repeal by Pub. L. 105–393, § 102(a). A prior section 301 of Pub. L. 89–136 was classified to section 3151 of this title prior to repeal by Pub. L. 105–393, § 102(a).
+
+Amendments2025—Subsec. (a)(3) to (6). Pub. L. 118–272, § 2225(1), added pars. (3) to (6) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: “The area is an area that the Secretary determines has experienced or is about to experience a special need arising from actual or threatened severe unemployment or economic adjustment problems resulting from severe short-term or long-term changes in economic conditions.” Subsec. (e). Pub. L. 118–272, § 2225(2), added subsec. (e). 2004—Subsec. (c)(1). Pub. L. 108–373 inserted “(including data available from the Bureau of Economic Analysis, the Bureau of Labor Statistics, the Census Bureau, the Bureau of Indian Affairs, or any other Federal source determined by the Secretary to be appropriate)” after “most recent Federal data available”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.

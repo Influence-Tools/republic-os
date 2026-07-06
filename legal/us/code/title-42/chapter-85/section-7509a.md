@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 7509a"
+description: "International border areas"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "85"
+chapter_name: "AIR POLLUTION PREVENTION AND CONTROL"
+section: "7509a"
+citation: "42 U.S.C. § 7509a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s7509a"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "0a2f06f8263cc9fcd2aa7bda44f88fda14f47aeeadb4c63b59dcafb661167613"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "0c7ba50c933f55d981d5ed7be8ef900b6ab83d84acbeef09180c4092315b1762"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 7509a - International border areas
+
+## Text
+
+(a) Implementation plans and revisions Notwithstanding any other provision of law, an implementation plan or plan revision required under this chapter shall be approved by the Administrator if—
+
+(1) such plan or revision meets all the requirements applicable to it under the 11 So in original. Probably should be “this”. chapter other than a requirement that such plan or revision demonstrate attainment and maintenance of the relevant national ambient air quality standards by the attainment date specified under the applicable provision of this chapter, or in a regulation promulgated under such provision, and
+
+(2) the submitting State establishes to the satisfaction of the Administrator that the implementation plan of such State would be adequate to attain and maintain the relevant national ambient air quality standards by the attainment date specified under the applicable provision of this chapter, or in a regulation promulgated under such provision, but for emissions emanating from outside of the United States.
+
+(b) Attainment of ozone levels Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to an ozone nonattainment area in such State, such State would have attained the national ambient air quality standard for ozone by the applicable attainment date, but for emissions emanating from outside of the United States, shall not be subject to the provisions of section 7511(a)(2) or (5) of this title or section 7511d of this title.
+
+(c) Attainment of carbon monoxide levels Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator, with respect to a carbon monoxide nonattainment area in such State, that such State has attained the national ambient air quality standard for carbon monoxide by the applicable attainment date, but for emissions emanating from outside of the United States, shall not be subject to the provisions of section 7512(b)(2) or (9) 22 So in original. Section 7512(b) of this title does not contain a par. (9). of this title.
+
+(d) Attainment of PM–10 levels Notwithstanding any other provision of law, any State that establishes to the satisfaction of the Administrator that, with respect to a PM–10 nonattainment area in such State, such State would have attained the national ambient air quality standard for carbon monoxide by the applicable attainment date, but for emissions emanating from outside the United States, shall not be subject to the provisions of section 7513(b)(2) of this title.
+
+(July 14, 1955, ch. 360, title I, § 179B, as added Pub. L. 101–549, title VIII, § 818, Nov. 15, 1990, 104 Stat. 2697.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Establishment of Program To Monitor and Improve Air Quality in Regions Along Border Between United States and MexicoPub. L. 101–549, title VIII, § 815, Nov. 15, 1990, 104 Stat. 2693, provided that the Administrator of the Environmental Protection Agency was authorized, in cooperation with the Department of State and the affected border States, to negotiate with representatives of Mexico to authorize a program, not to extend beyond July 1, 1995, to monitor and improve air quality in regions along the border between the United States and Mexico, with requirements for monitoring, remediation, annual reports, and funding and personnel.

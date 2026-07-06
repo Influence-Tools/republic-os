@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 80302"
+description: "Patrol services"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "803"
+chapter_name: "ICE AND DERELICTS"
+section: "80302"
+citation: "46 U.S.C. § 80302"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s80302"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "0c2a9c64a1069504b50a0c441b6b436b8f5a1c8d0c3c23c5b93327b38685174b"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "803e0b49e39f71467af3066f67aa8475824341220db940764d1960713c093d8b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 80302 - Patrol services
+
+## Text
+
+(a) General Requirements.— Unless the agreements made under section 80301 of this title provide otherwise, an ice patrol shall be maintained during the entire ice season in guarding the southeastern, southern, and southwestern limits of the region of icebergs in the vicinity of the Grand Banks of Newfoundland. The patrol shall inform trans-Atlantic and other passing vessels by radio and other available means of the ice conditions and the extent of the dangerous region. During the ice season, there shall be maintained a service of study of ice and current conditions, a service of providing assistance to vessels and crews requiring assistance, and a service of removing and destroying derelicts. Any of these services may be maintained during the remainder of the year as may be advisable.
+
+(b) Warnings to Vessels.— The ice patrol shall warn any vessel known to be approaching a dangerous area and recommend safe routes.
+
+(c) Recording and Reporting Incidents.— (1) Recording.— The ice patrol shall record the name of a vessel and the facts of the case when the patrol observes or knows that the vessel—
+
+(A) is on other than a regular recognized or advertised route crossing the North Atlantic Ocean;
+
+(B) has crossed the fishing banks of Newfoundland north of latitude 43 degrees north during the fishing season; or
+
+(C) has passed through regions known or believed to be endangered by ice when proceeding to and from ports of North America.
+
+(2) Reporting.— The name of the vessel and all pertinent information about the incident shall be reported to the government of the country to which the vessel belongs if that government requests.
+
+(d) Administration.— The Commandant, under the direction of the Secretary of the department in which the Coast Guard is operating, shall carry out the services provided for in this section and shall assign necessary aircraft, material, and personnel of the Coast Guard. On request of such Secretary, the head of an agency may detail personnel, lend or contribute material or equipment, or otherwise assist in carrying out the services provided for in this section.
+
+(e) Annual Report.— The Commandant shall publish an annual report of the activities of the services provided for in this section. A copy of the report shall be provided to each interested foreign government and to each agency assisting in the work.
+
+(Pub. L. 109–304, § 11, Oct. 6, 2006, 120 Stat. 1692; Pub. L. 113–281, title III, § 314(a)(2), Dec. 18, 2014, 128 Stat. 3049; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(16), Aug. 13, 2018, 132 Stat. 2324.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 8030246 App.:738a.June 25, 1936, ch. 807, § 2, 49 Stat. 1922; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. In subsection (d), the words “Secretary of the department in which the Coast Guard is operating” are substituted for “Secretary of Transportation” because of the transfer of the Coast Guard to the Department of Homeland Security (except when operating as a service in the Navy) by section 888 of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2249). See also sections 1 and 3 of title 14, as amended by section 1704(a) of such Act (116 Stat. 2314).
+
+Editorial Notes
+
+Amendments2018—Subsec. (d). Pub. L. 115–232 struck out “of the Coast Guard” after “The Commandant”. 2014—Subsec. (b). Pub. L. 113–281, § 314(a)(2)(A), substituted “The ice patrol” for “An ice patrol vessel”. Subsec. (c)(1). Pub. L. 113–281, § 314(a)(2)(B), substituted “The ice patrol” for “An ice patrol vessel” in introductory provisions. Subsec. (d). Pub. L. 113–281, § 314(a)(2)(C), substituted “aircraft” for “vessels”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2014 AmendmentAmendment by Pub. L. 113–281 effective Jan. 1, 2017, see section 314(c) of Pub. L. 113–281, set out as a note under section 80301 of this title.

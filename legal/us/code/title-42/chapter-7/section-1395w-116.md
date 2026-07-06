@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1395w–116"
+description: "Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "7"
+chapter_name: "SOCIAL SECURITY"
+section: "1395w–116"
+citation: "42 U.S.C. § 1395w–116"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1395w–116"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "373785ae364821105044066e3e2de1bb1d4f0057d895c381e55f07ce4fabc65a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "8f8e23aefad24dac352674d57f74e48765198ef3bc0ebc7f0a6f30bd46360cf4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1395w–116 - Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund
+
+## Text
+
+(a) Establishment and operation of Account (1) Establishment There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “Medicare Prescription Drug Account” (in this section referred to as the “Account”).
+
+(2) Funding The Account shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, accrued interest on balances in the Account, and such amounts as may be deposited in, or appropriated to, such Account as provided in this part.
+
+(3) Separate from rest of Trust Fund Funds provided under this part to the Account shall be kept separate from all other funds within the Federal Supplementary Medical Insurance Trust Fund, but shall be invested, and such investments redeemed, in the same manner as all other funds and investments within such Trust Fund.
+
+(b) Payments from Account (1) In general The Managing Trustee shall pay from time to time from the Account such amounts as the Secretary certifies are necessary to make payments to operate the program under this part, including—
+
+(A) payments under section 1395w–114 of this title (relating to low-income subsidy payments);
+
+(B) payments under section 1395w–115 of this title (relating to subsidy payments and payments for fallback plans);
+
+(C) payments to sponsors of qualified retiree prescription drug plans under section 1395w–132(a) of this title;
+
+(D) payments with respect to administrative expenses under this part in accordance with section 401(g) of this title; and
+
+(E) payments under section 1395w–114d of this title (relating to selected drug subsidy payments).
+
+(2) Transfers to Medicaid account for increased administrative costs The Managing Trustee shall transfer from time to time from the Account to the Grants to States for Medicaid account amounts the Secretary certifies are attributable to increases in payment resulting from the application of section 1396u–5(b) of this title.
+
+(3) Payments of premiums withheld The Managing Trustee shall make payment to the PDP sponsor or MA organization involved of the premiums (and the portion of late enrollment penalties) that are collected in the manner described in section 1395w–24(d)(2)(A) of this title and that are payable under a prescription drug plan or MA–PD plan offered by such sponsor or organization.
+
+(4) Treatment in relation to part B premium Amounts payable from the Account shall not be taken into account in computing actuarial rates or premium amounts under section 1395r of this title.
+
+(c) Deposits into Account (1) Low-income transfer Amounts paid under section 1396u–5(c) of this title (and any amounts collected or offset under paragraph (1)(C) of such section) are deposited into the Account.
+
+(2) Amounts withheld Pursuant to sections 1395w–113(c) and 1395w–24(d) of this title (as applied under this part), amounts that are withheld (and allocated) to the Account are deposited into the Account.
+
+(3) Appropriations to cover Government contributions There are authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, to the Account, an amount equivalent to the amount of payments made from the Account under subsection (b) plus such amounts as the Managing Trustee certifies is necessary to maintain an appropriate contingency margin, reduced by the amounts deposited under paragraph (1) or subsection (a)(2).
+
+(4) Initial funding and reserve In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part and to provide an initial contingency reserve, there are authorized to be appropriated to the Account, out of any moneys in the Treasury not otherwise appropriated, such amount as the Secretary certifies are required, but not to exceed 10 percent of the estimated total expenditures from such Account in 2006.
+
+(5) Transfer of any remaining balance from Transitional Assistance Account Any balance in the Transitional Assistance Account that is transferred under section 1395w–141(k)(5) of this title shall be deposited into the Account.
+
+(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–16, as added Pub. L. 108–173, title I, § 101(a)(2), Dec. 8, 2003, 117 Stat. 2120; amended Pub. L. 117–169, title I, § 11201(c)(3), Aug. 16, 2022, 136 Stat. 1888.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Subsec. (b)(1)(E). Pub. L. 117–169 added subpar. (E).

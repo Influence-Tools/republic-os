@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 5858"
+description: "Notice and reports to Congress"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "67"
+chapter_name: "FREEDOM FOR RUSSIA AND EMERGING EURASIAN DEMOCRACIES AND OPEN MARKETS SUPPORT"
+section: "5858"
+citation: "22 U.S.C. § 5858"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s5858"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "80d96849fb23fb5e115108e17fa2e51bef9bb6e860c251fe4b847a855c470d6d"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "16ded28e0cc95f65b677bb0a50cd6388ae9feb00c10e90b0bec81a0792f39823"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 5858 - Notice and reports to Congress
+
+## Text
+
+(a) Notice of proposed obligations Not less than 15 days before obligating any funds under section 5853 or 5854 of this title or the amendments made by section 506(a),11 See References in Text note below. the President shall transmit to the Speaker of the House of Representatives, the President Pro Tempore of the Senate, and the appropriate congressional committees a report on the proposed obligation. Each such report shall specify—
+
+(1) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligations; and
+
+(2) the activities and forms of assistance for which the President plans to obligate such funds.
+
+(b) Semiannual report Not later than April 30, 1993, and not later than October 30, 1993, the President shall transmit to the Speaker of the House of Representatives, the President Pro Tempore of the Senate, and the appropriate congressional committees a report on the activities carried out under sections 5853 and 5854 of this title and the amendments made by section 506(a).1 Each such report shall set forth, for the preceding 6-month period and cumulatively, the following:
+
+(1) The amounts expended for such activities and the purposes for which they were expended.
+
+(2) The source of the funds obligated for such activities, specified by program.
+
+(3) A description of the participation of all United States Government departments and agencies in such activities.
+
+(4) A description of the activities carried out and the forms of assistance provided.
+
+(5) Such other information as the President considers appropriate to fully inform the Congress concerning the operation of the programs and activities carried out under sections 5853 and 5854 of this title and the amendments made by section 506(a).1
+
+(c) Appropriate congressional committees As used in this section—
+
+(1) the term “appropriate congressional committees” means—
+
+(A) the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the House and the Senate, wherever the account, budget activity, or program is funded from appropriations made under the international affairs budget function (150);
+
+(B) the Committees on Armed Services and the Committees on Appropriations of the Senate and the House of Representatives, wherever the account, budget activity, or program is funded from appropriations made under the national defense budget function (050); and
+
+(2) the committee to which the specified activities of section 5853(a) or 5854(a) of this title or subtitle B 1 of the Soviet Nuclear Threat Reduction Act of 1991 (as the case may be), if the subject of separate legislation, would be referred, under the rules of the respective House of Congress.
+
+(Pub. L. 102–511, title V, § 508, Oct. 24, 1992, 106 Stat. 3342.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 506(a), referred to in subsecs. (a) and (b), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, which was set out in a note under section 2551 of this title, but did not become effective, pursuant to section 5856(c) of this title. Section 221 of Pub. L. 102–228 was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. The Soviet Nuclear Threat Reduction Act of 1991, referred to in subsec. (c)(2), is title II of Pub. L. 102–228, Dec. 12, 1991, 105 Stat. 1693. The reference to subtitle B of the Act probably means part B of the Act because title II of Pub. L. 102–228 does not contain a subtitle B. Part B was set out in a note under section 2551 of this title and was comprised of sections 211 and 212, which were repealed, respectively, by Pub. L. 110–181, div. A, title XIII, § 1304(a)(1)(A), Jan. 28, 2008, 122 Stat. 412, and Pub. L. 113–291, div. A, title XIII, § 1351(1), Dec. 19, 2014, 128 Stat. 3606. For complete classification of this Act to the Code, see Tables.
+
+Executive Documents
+
+Delegation of Functions For delegation of certain functions of the President under this section, see Memorandum of President of the United States, Apr. 21, 1994, 59 F.R. 21619, set out as a note under section 5854 of this title. Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.

@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "47 U.S.C. § 215"
+description: "Examination of transactions relating to furnishing of services, equipment, etc.; reports to Congress"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 47
+title_name: "TELECOMMUNICATIONS"
+chapter_number: "5"
+chapter_name: "WIRE OR RADIO COMMUNICATION"
+section: "215"
+citation: "47 U.S.C. § 215"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc47@119-100.zip"
+source_identifier: "/us/usc/t47/s215"
+source_file: "data/legal/raw/us/code/title-47/usc47.xml"
+source_hash: "997ed8f441601795cf701115b1f2b4c8d03d00cb283e7d69a54911b4b048fcf7"
+raw_snapshot_hash: "7cfb2d22df305544d8fac4913876d34c6b712d99019bd01ec134ed44ef145534"
+text_hash: "36e779609d85b3c3129a3f3e3f986996e78378248dc00655a3cd1594ed6df100"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 47 U.S.C. § 215 - Examination of transactions relating to furnishing of services, equipment, etc.; reports to Congress
+
+## Text
+
+(a) Access to records and documents The Commission shall examine into transactions entered into by any common carrier which relate to the furnishing of equipment, supplies, research, services, finances, credit, or personnel to such carrier and/or which may affect the charges made or to be made and/or the services rendered or to be rendered by such carrier, in wire or radio communication subject to this chapter, and shall report to the Congress whether any such transactions have affected or are likely to affect adversely the ability of the carrier to render adequate service to the public, or may result in any undue or unreasonable increase in charges or in the maintenance of undue or unreasonable charges for such service; and in order to fully examine into such transactions the Commission shall have access to and the right of inspection and examination of all accounts, records, and memoranda, including all documents, papers, and correspondence now or hereafter existing, of persons furnishing such equipment, supplies, research, services, finances, credit, or personnel. The Commission shall include in its report its recommendations for necessary legislation in connection with such transactions, and shall report specifically whether in its opinion legislation should be enacted (1) authorizing the Commission to declare any such transactions void or to permit such transactions to be carried out subject to such modification of their terms and conditions as the Commission shall deem desirable in the public interest; and/or (2) subjecting such transactions to the approval of the Commission where the person furnishing or seeking to furnish the equipment, supplies, research, services, finances, credit, or personnel is a person directly or indirectly controlling or controlled by, or under direct or indirect common control with, such carrier; and/or (3) authorizing the Commission to require that all or any transactions of carriers involving the furnishing of equipment, supplies, research, services, finances, credit, or personnel to such carrier be upon competitive bids on such terms and conditions and subject to such regulations as it shall prescribe as necessary in the public interest.
+
+(b) Exclusive dealing contracts The Commission shall examine all contracts of common carriers subject to this chapter which prevent the other party thereto from dealing with another common carrier subject to this chapter, and shall report its findings to Congress, together with its recommendations as to whether additional legislation on this subject is desirable.
+
+(June 19, 1934, ch. 652, title II, § 215, 48 Stat. 1076; Pub. L. 115–141, div. P, title IV, § 402(i)(2), Mar. 23, 2018, 132 Stat. 1089.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
+Amendments2018—Subsecs. (b), (c). Pub. L. 115–141 redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Commission shall investigate the methods by which and the extent to which wire telephone companies are furnishing wire telegraph service and wire telegraph companies are furnishing wire telephone service, and shall report its findings to Congress, together with its recommendations as to whether additional legislation on this subject is desirable.”

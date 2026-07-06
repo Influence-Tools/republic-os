@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1959"
+description: "Waiver of disability for reinstatement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "19"
+chapter_name: "INSURANCE"
+section: "1959"
+citation: "38 U.S.C. § 1959"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1959"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "1d0344c99f9c56f3be01dfabe63f80e797275e520e0edfe735b6538747067afa"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "22577ac6e173f069d11e03e0dd35bb00a48d1dad8771061737d2e4ca3e1e69c0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1959 - Waiver of disability for reinstatement
+
+## Text
+
+(a) In the event that all provisions of the rules and regulations other than the requirements as to the physical condition of the applicant have been complied with, an application for reinstatement, in whole or in part, of lapsed United States Government life insurance may be approved if made within two years after the date of lapse and if the applicant’s disability is the result of an injury or disease, or of an aggravation thereof, suffered or contracted in the active military or naval service during the period beginning April 6, 1917, and ending July 2, 1921, and the applicant during the applicant’s lifetime submits proof satisfactory to the Secretary showing that the applicant is not totally and permanently disabled. As a condition to the acceptance of an application for reinstatement under this section, the applicant shall be required to pay all the back monthly premiums which would have become payable if such insurance had not lapsed, together with interest at the rate of 5 per centum per annum, compounded annually, on each premium from the date said premium is due by the terms of the policy.
+
+(b) Premium liens established under the provisions of section 304 of the World War Veterans’ Act, 1924, shall continue to bear interest at the rate of 5 per centum per annum, compounded annually, and will be deducted from any settlement of insurance to which they are attached.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, § 759; Pub. L. 99–576, title VII, § 701(33), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1959 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 304 of the World War Veteran’s Act, 1924, referred to in subsec. (b), is section 304 of act June 7, 1924, ch. 320, title III, 43 Stat. 625, which enacted section 515 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, § 14(51), Sept. 2, 1958, 72 Stat. 1271.
+
+Amendments1991—Pub. L. 102–83 renumbered section 759 of this title as this section and substituted “Secretary” for “Administrator” in subsec. (a). 1986—Subsec. (a). Pub. L. 99–576 substituted “the applicant’s” for “his” and “the applicant” for “he”.

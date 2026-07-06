@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 2452"
+description: "Planning, programming, and budgeting process"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "41"
+chapter_name: "NATIONAL NUCLEAR SECURITY ADMINISTRATION"
+section: "2452"
+citation: "50 U.S.C. § 2452"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s2452"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "637747d905ed2dfa24371218582a603f23d61c62352f463a86081af2247a5547"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "be63efa1b6c967919b048414e18079cf6fe58ac13490a520dae12eb0af86453a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 2452 - Planning, programming, and budgeting process
+
+## Text
+
+(a) Procedures required The Administrator shall establish procedures to ensure that the planning, programming, budgeting, and financial activities of the Administration comport with sound financial and fiscal management principles. Those procedures shall, at a minimum, provide for the planning, programming, and budgeting of activities of the Administration using funds that are available for obligation for a limited number of years.
+
+(b) Annual plan for obligation of funds (1) Each year, the Administrator shall prepare a plan for the obligation of the amounts that, in the President’s budget submitted to Congress that year under section 1105(a) of title 31, are proposed to be appropriated for the Administration for the fiscal year that begins in that year (in this section referred to as the “budget year”) and the two succeeding fiscal years.
+
+(2) For each program element and construction line item of the Administration, the plan shall provide the goal of the Administration for the obligation of those amounts for that element or item for each fiscal year of the plan, expressed as a percentage of the total amount proposed to be appropriated in that budget for that element or item.
+
+(c) Submission of plan and report The Administrator shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress under section 1105(a) of title 31, each of the following:
+
+(1) The plan required by subsection (b) prepared with respect to that budget.
+
+(2) A report on the plans prepared with respect to the preceding years’ budgets, which shall include, for each goal provided in those plans—
+
+(A) the assessment of the Administrator as to whether or not that goal was met; and
+
+(B) if that assessment is that the goal was not met—
+
+(i) the reasons why that goal was not met; and
+
+(ii) the plan of the Administrator for meeting or, if necessary, adjusting that goal.
+
+(Pub. L. 106–65, div. C, title XXXII, § 3252, Oct. 5, 1999, 113 Stat. 966; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–469.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2000—Pub. L. 106–398 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
+
+Updated Financial Integration PolicyPub. L. 118–31, div. C, title XXXI, § 3132, Dec. 22, 2023, 137 Stat. 804, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Administrator for Nuclear Security shall issue an updated financial integration policy, which shall include the following: “(1) Updated responsibilities for offices of the National Nuclear Security Administration and requirements for management and operating contractors, including contractors at sites that are not sites of the Administration. “(2) Guidance for how offices of the Administration should use common financial data, including guidance requiring that such data be used as the primary source of financial data by program offices, to the extent practicable. “(3) Processes recommended by the Government Accountability Office to improve financial integration efforts of the Administration, including an internal process to verify how management and operating contractors crosswalk data from their systems to the appropriate work breakdown structure of the Administration and apply common cost element definitions. “(4) Any other matters the Administrator considers appropriate.”
+
+First Report on Assessment of Prior Plans; GAO ReportPub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–469, provided that the first report submitted under subsec. (c)(2) of this section was to be the report prepared with respect to the budget submitted in calendar year 2001, and that, not later than Mar. 15, 2001, the Comptroller General would submit to Congress an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.

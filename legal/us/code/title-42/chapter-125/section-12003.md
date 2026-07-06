@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 12003"
+description: "National goals and multi-year funding for Federal alcohol from biomass and other technology programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "125"
+chapter_name: "RENEWABLE ENERGY AND ENERGY EFFICIENCY TECHNOLOGY COMPETITIVENESS"
+section: "12003"
+citation: "42 U.S.C. § 12003"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s12003"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "5fa607acfd51a2a7ea5b7c1f83ba8d35290e6c9fdac33af971bce1902ecf2053"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "7369ff17a096856e98d7f3513d727921e97c9dba25fbb93f08a9574b4593bd14"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 12003 - National goals and multi-year funding for Federal alcohol from biomass and other technology programs
+
+## Text
+
+(a) National goals The following are declared to be the national goals for the alcohol from biomass and other energy technology programs being carried out by the Secretary:
+
+(1) Alcohol from biomass (A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
+
+(B) (i) Specific goals for producing ethanol from biomass shall be to—
+
+(I) reduce the cost of alcohol to 70 cents per gallon;
+
+(II) improve the overall biomass carbohydrate conversion efficiency to 91 percent;
+
+(III) reduce the capital cost component of the cost of alcohol to 23 cents per gallon; and
+
+(IV) reduce the operating and maintenance component of the cost of alcohol to 47 cents per gallon.
+
+(ii) Specific goals for producing methanol from biomass shall be to—
+
+(I) reduce the cost of alcohol to 47 cents per gallon; and
+
+(II) reduce the capital component of the cost of alcohol to 16 cents per gallon.
+
+(2) Other technologies The Secretary shall submit to the Congress, as part of the first report submitted under section 12006 of this title, recommendations for specific cost goals and other pertinent goals for 1995 for Department of Energy research, development, and demonstration programs in Biofuels Energy Systems, Biodiesel Energy Systems, Hydrogen Energy Systems, Solar Buildings Energy Systems, Marine Energy Systems, Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
+
+(b) Amended goals Whenever the Secretary determines that any of the goals established under this section is no longer appropriate, the Secretary shall notify Congress, as part of a report submitted under section 12006 of this title, of the reason for the determination and provide an amended goal that is consistent with the purpose stated in section 12001(b) of this title.
+
+(c) Authorizations There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Marine Energy Systems Program, and the Geothermal Energy Systems Program—
+
+(1) not to exceed $113,000,000 for fiscal year 1991, of which—
+
+(A) not to exceed $19,000,000 shall be available for the Geothermal Energy Systems Program; and
+
+(B) not to exceed $4,000,000 shall be available for the Hydrogen Energy Systems Program; and
+
+(2) not to exceed $121,000,000 for fiscal year 1992, of which—
+
+(A) not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
+
+(B) not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.
+
+Each of the President’s annual budget requests submitted to Congress after December 11, 1989, shall include as separate line items each of the categories of renewable energy programs described in this subsection.
+
+(Pub. L. 101–218, § 4, Dec. 11, 1989, 103 Stat. 1860; Pub. L. 102–486, title XII, § 1202(b), title XXI, § 2125(1)–(3), Oct. 24, 1992, 106 Stat. 2958, 3085; Pub. L. 116–260, div. Z, title III, § 3006(a)(1), Dec. 27, 2020, 134 Stat. 2511.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2020—Pub. L. 116–260, § 3006(a)(1)(A), substituted “alcohol from biomass and other technology” for “wind, photovoltaics, and solar thermal” in section catchline. Subsec. (a). Pub. L. 116–260, § 3006(a)(1)(B)(ii)–(iv), redesignated pars. (4) and (5) as (1) and (2), respectively, in par. (2), as redesignated, substituted “Marine” for “Ocean”, and struck out former pars. (1) to (3) which related to national goals for wind energy, photovoltaic energy, and solar thermal energy programs, respectively. Pub. L. 116–260, § 3006(a)(1)(B)(i), substituted “alcohol from biomass and other energy technology” for “wind, photovoltaics, and solar thermal energy” in introductory provisions. Subsec. (c). Pub. L. 116–260, § 3006(a)(1)(C)(i), in introductory provisions, struck out “the Wind Energy Research Program, the Photovoltaic Energy Systems Program, the Solar Thermal Energy Systems Program,” after “demonstration programs:” and substituted “Marine” for “Ocean”. Subsec. (c)(1). Pub. L. 116–260, § 3006(a)(1)(C)(ii), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “not to exceed $39,000,000 shall be available for the Photovoltaic Energy Systems Program;”. Subsec. (c)(2). Pub. L. 116–260, § 3006(a)(1)(C)(iii), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out form subpar. (A) which read as follows: “not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;”. 1992—Subsec. (a)(4), (5). Pub. L. 102–486, § 1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”. Subsec. (c)(3). Pub. L. 102–486, § 2125(1)–(3), struck out par. (3) which read as follows: “not to exceed $124,000,000 for fiscal year 1993, of which— “(A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program; “(B) not to exceed $23,000,000 shall be available for the Geothermal Energy Systems Program; and “(C) not to exceed $6,000,000 shall be available for the Hydrogen Energy Systems Program.”

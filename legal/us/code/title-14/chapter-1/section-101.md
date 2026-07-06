@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 101"
+description: "Establishment of Coast Guard"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "1"
+chapter_name: "ESTABLISHMENT AND DUTIES"
+section: "101"
+citation: "14 U.S.C. § 101"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s101"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "b1e1ffd1274abf7417c505e5617e49523cac6f8880b5d983760ebca2864c10ab"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "d8aedda036ab064e6a96375b03b15a0b49493b1c5f003080620e91191ed7974a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 101 - Establishment of Coast Guard
+
+## Text
+
+The Coast Guard, established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 496, § 1; Pub. L. 94–546, § 1(1), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–213, title II, § 217(1), Dec. 20, 2012, 126 Stat. 1555; renumbered § 101, Pub. L. 115–282, title I, § 103(b), Dec. 4, 2018, 132 Stat. 4195.)
+
+## Notes
+
+Historical and Revision NotesBased on title 14, U.S.C., 1946 ed., § 1 (Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; July 11, 1941, ch. 290, §§ 5, 6(a), 55 Stat. 585). Said section has been divided. Provisions relating to operation under the Navy in time of war are placed in sections 3 and 4 of this title, and the remainder is in this section. This section continues the Coast Guard as a military service and branch of the armed forces of the United States at all times. By the act of July 11, 1941, 55 Stat. 585 (title 14, U.S.C., 1946 ed., § 1), the Coast Guard was constituted a branch of the land and naval forces of the United States at all times. This section therefore merely continues an existing agency and codifies existing law on the military status of the Coast Guard, substituting “armed forces” for “land and naval forces” because of the recent establishment of the Department of the Air Force as an “armed force” rather than as a part of the “land and naval forces”. The Coast Guard is designated a service in the Treasury Department except when operating as a service in the Navy. This is a better definition of the status of the Coast Guard than one which defines it as a service under the Treasury Department in time of peace, because the President is authorized to place the Coast Guard under the Navy in time of emergency, which could be in time of peace. Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+Editorial Notes
+
+Prior ProvisionsA prior section 101 was renumbered section 562 of this title. For redesignation of prior sections 1 to 100 not listed below as having been previously repealed or omitted, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding this section. A prior section 5, act Aug. 4, 1949, ch. 393, 63 Stat. 497, which defined the term “Secretary” for purposes of this title, was omitted in the general amendment of this chapter by Pub. L. 112–213, title II, § 217(1), Dec. 20, 2012, 126 Stat. 1555. See section 105 of this title. A prior section 43, act Aug. 4, 1949, ch. 393, 63 Stat. 498, provided for relative rank of commissioned officers with respect to Army and Navy officers, prior to repeal by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. See section 741 of Title 10, Armed Forces. A prior section 45, act Aug. 4, 1949, ch. 393, 63 Stat. 498, related to permanent grade of Commandant on expiration of term, prior to repeal by Pub. L. 86–474, § 1(4), May 14, 1960, 74 Stat. 144. Prior sections 48 and 49 were repealed by Pub. L. 86–474, § 1(7), May 14, 1960, 74 Stat. 145. Section 48, act Aug. 4, 1949, ch. 393, 63 Stat. 499, related to permanent grade of that Assistant Commandant and Engineer in Chief on expiration of term. Section 49, act Aug. 4, 1949, ch. 393, 63 Stat. 499, related to grade and retired pay upon retirement of Assistant Commandant or Engineer in Chief. A prior section 50a, added Pub. L. 103–206, title II, § 205(b)(1), Dec. 20, 1993, 107 Stat. 2422, related to appointment and grade of Chief of Staff of the Coast Guard, prior to repeal by Pub. L. 111–281, title V, § 511(b), Oct. 15, 2010, 124 Stat. 2952. A prior section 55, added Pub. L. 111–281, title II, § 214(a), Oct. 15, 2010, 124 Stat. 2915, related to appointment and functions of District Ombudsman, prior to repeal by Pub. L. 112–213, title II, § 216(a), Dec. 20, 2012, 126 Stat. 1555. A prior section 82, act Aug. 4, 1949, ch. 393, 63 Stat. 500; Sept. 3, 1954, ch. 1263, § 31, 68 Stat. 1237; Pub. L. 85–726, title XIV, § 1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 89–662, § 2, Oct. 14, 1966, 80 Stat. 912; Pub. L. 94–546, § 1(4), (5), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–295, § 2(3), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–640, § 10(a)(3), Nov. 10, 1986, 100 Stat. 3549; Pub. L. 103–272, § 5(d), July 5, 1994, 108 Stat. 1373; Pub. L. 104–201, div. A, title XI, § 1122(c), Sept. 23, 1996, 110 Stat. 2687, related to cooperation with Administrator of the Federal Aviation Administration with respect to aids to air navigation, prior to repeal by Pub. L. 112–213, title II, § 216(b), Dec. 20, 2012, 126 Stat. 1555. A prior section 87, act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 501, related to color and numbering of buoys along coast, or in bays, harbors, sounds, or channels, as indicating whether such buoys were to be passed on the starboard or port hand and prescribed the coloring for buoys in channel ways, prior to repeal by Pub. L. 94–546, § 1(6), (7), Oct. 18, 1976, 90 Stat. 2519. A prior section 90, act Aug. 4, 1949, ch. 393, 63 Stat. 502; Pub. L. 85–726, title XIV, § 1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 94–546, § 1(8), Oct. 18, 1976, 90 Stat. 2519, authorized the Coast Guard to operate and maintain floating ocean stations, prior to repeal by Pub. L. 112–213, title II, § 216(c), Dec. 20, 2012, 126 Stat. 1555.
+
+Amendments2018—Pub. L. 115–282 renumbered section 1 of this title as this section. 2012—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The Coast Guard as established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times. The Coast Guard shall be a service in the Department of Homeland Security, except when operating as a service in the Navy.” 2002—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”. 1976—Pub. L. 94–546 substituted “Department of Transportation” for “Treasury Department”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
+Short Title of 2021 AmendmentPub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8271, Jan. 1, 2021, 134 Stat. 4681, provided that: “This subtitle [subtitle E (§§ 8271–8278) of title LVXXXII [LXXXII] of div. G of Pub. L. 116–283, enacting sections 1905, 2131, and 5111 of this title and section 417 of Title 6, Domestic Security, amending section 1903 of this title, and enacting provisions set out as a note under section 1901 of this title] may be cited as the ‘Coast Guard Academy Improvement Act’.”
+
+Short Title of 2018 AmendmentPub. L. 115–265, title III, § 301, Oct. 11, 2018, 132 Stat. 3752, provided that: “This title [enacting provisions set out as a note under section 313 of this title] may be cited as the ‘Coast Guard Blue Technology Center of Expertise Act’.”
+
+Short Title of 2014 AmendmentPub. L. 113–281, § 1, Dec. 18, 2014, 128 Stat. 3022, provided that: “This Act [see Tables for classification] may be cited as the ‘Howard Coble Coast Guard and Maritime Transportation Act of 2014’.”
+
+Short Title of 2012 AmendmentPub. L. 112–213, § 1(a), Dec. 20, 2012, 126 Stat. 1540, provided that: “This Act [see Tables for classification] may be cited as the ‘Coast Guard and Maritime Transportation Act of 2012’.”
+
+Short Title of 2010 AmendmentPub. L. 111–281, title V, § 501, Oct. 15, 2010, 124 Stat. 2951, provided that: “This title [enacting sections 57 to 59, 102, and 200 of this title and section 2116 of Title 46, Shipping, amending sections 47, 50, 51, 52, 93, and 290 of this title and section 3309 of Title 46, repealing section 50a of this title, and enacting provisions set out as a note under section 50 of this title] may be cited as the ‘Coast Guard Modernization Act of 2010’.”
+
+Short Title of 2006 AmendmentPub. L. 109–241, § 1, July 11, 2006, 120 Stat. 516, provided that: “This Act [see Tables for classification] may be cited as the ‘Coast Guard and Maritime Transportation Act of 2006’.”
+
+Short Title of 2004 AmendmentPub. L. 108–293, § 1, Aug. 9, 2004, 118 Stat. 1028, provided that: “This Act [see Tables for classification] may be referred to as the ‘Coast Guard and Maritime Transportation Act of 2004’.”
+
+Short Title of 2002 AmendmentPub. L. 107–295, title III, § 301, Nov. 25, 2002, 116 Stat. 2102, provided that: “This title [amending sections 259, 260, 271, 336, and 511 of this title, sections 1203, 1231a, 2073, 2302, and 2752 of Title 33, Navigation and Navigable Waters, and sections 2110, 2302, 4508, 7302, 8701, and 13110 of Title 46, Shipping, and enacting provisions set out as notes under sections 88 and 92 of this title and section 1113 of Title 33] may be cited as the ‘Coast Guard Personnel and Maritime Safety Act of 2002’.” Pub. L. 107–295, title IV, § 401, Nov. 25, 2002, 116 Stat. 2113, provided that: “This title [see Tables for classification] may be cited as the ‘Omnibus Maritime and Coast Guard Improvements Act of 2002’.”
+
+Transfer of Functions For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of this title. See section 108 of Title 49, Transportation.
+
+DirectionsPub. L. 119–60, div. G, § 7002(b), Dec. 18, 2025, 139 Stat. 1661, provided that: “In this division [div. G (§§ 7001–7701) of Pub. L. 119–60, see Tables for classification], when Secretary [sic] or the Commandant are [sic] directed to provide or develop— “(1) a briefing, such briefing shall be accompanied by a narrative description, and at the option of any committee designated as a recipient, be delivered in person; “(2) a policy, such policy shall be detailed, in writing, and publicly available, but may contain a classified annex; “(3) a plan, such plan shall be detailed, and in writing; “(4) a report, such report shall be detailed and in writing; and “(5) a strategy, such strategy shall be detailed and in writing.” [For definitions of “Commandant” and “Secretary” as used in section 7002(b) of Pub. L. 119–60, set out above, see section 7002(a) of Pub. L. 119–60, set out as a note under section 106 of this title.]
+
+Designation of Coast Guard Headquarters BuildingPub. L. 113–31, Aug. 9, 2013, 127 Stat. 511, provided that: “SECTION 1. DESIGNATION.“The headquarters building of the Coast Guard on the campus located at 2701 Martin Luther King, Jr., Avenue Southeast in the District of Columbia shall be known and designated as the ‘Douglas A. Munro Coast Guard Headquarters Building’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Douglas A. Munro Coast Guard Headquarters Building’.”

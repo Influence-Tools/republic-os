@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 47521"
+description: "Findings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "475"
+chapter_name: "NOISE"
+section: "47521"
+citation: "49 U.S.C. § 47521"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s47521"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "40f6bcb51f83e6f030fdf5c139b6495dcd65cfb64a51755bedaf2621a2ab434b"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "fd63f286c869a4871f6d8eebd76f3f71774ad7f6ee2d1512cc68a8dc8d96e18e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 47521 - Findings
+
+## Text
+
+Congress finds that—
+
+(1) aviation noise management is crucial to the continued increase in airport capacity;
+
+(2) community noise concerns have led to uncoordinated and inconsistent restrictions on aviation that could impede the national air transportation system;
+
+(3) a noise policy must be carried out at the national level;
+
+(4) local interest in aviation noise management shall be considered in determining the national interest;
+
+(5) community concerns can be alleviated through the use of new technology aircraft and the use of revenues, including those available from passenger facility charges, for noise management;
+
+(6) revenues controlled by the United States Government can help resolve noise problems and carry with them a responsibility to the national airport system;
+
+(7) revenues derived from a passenger facility charge may be applied to noise management and increased airport capacity; and
+
+(8) a precondition to the establishment and collection of a passenger facility charge is the prescribing by the Secretary of Transportation of a regulation establishing procedures for reviewing airport noise and access restrictions on operations of stage 2 and stage 3 aircraft.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1287; Pub. L. 112–95, title I, § 111(c)(2)(A)(vi), (B), Feb. 14, 2012, 126 Stat. 18.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 4752149 App.:2151.Nov. 5, 1990, Pub. L. 101–508, § 9302, 104 Stat. 1388–378.
+
+Editorial Notes
+
+Amendments2012—Par. (5). Pub. L. 112–95, § 111(c)(2)(B), substituted “charges” for “fees”. Pars. (7), (8). Pub. L. 112–95, § 111(c)(2)(A)(vi), substituted “charge” for “fee”.
+
+Statutory Notes and Related Subsidiaries
+
+Authorization of Certain Flights by Stage 2 AircraftPub. L. 115–254, div. B, title I, § 172, Oct. 5, 2018, 132 Stat. 3227, provided that: “(a) In General.—Notwithstanding chapter 475 of title 49, United States Code, not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator of the Federal Aviation Administration shall initiate a pilot program to permit an operator of a stage 2 aircraft to operate that aircraft in nonrevenue service into not more than 4 medium hub airports or nonhub airports if—“(1) the airport—“(A) is certified under part 139 of title 14, Code of Federal Regulations; “(B) has a runway that—“(i) is longer than 8,000 feet and not less than 200 feet wide; and “(ii) is load bearing with a pavement classification number of not less than 38; and “(C) has a maintenance facility with a maintenance certificate issued under part 145 of such title; and “(2) the operator of the stage 2 aircraft operates not more than 10 flights per month using that aircraft. “(b) Termination.—The pilot program shall terminate on the earlier of—“(1) the date that is 10 years after the date of the enactment of this Act [Oct. 5, 2018]; or “(2) the date on which the Administrator determines that no stage 2 aircraft remain in service. “(c) Definitions.—In this section:“(1) Medium hub airport; nonhub airport.—The terms ‘medium hub airport’ and ‘nonhub airport’ have the meanings given those terms in section 40102 of title 49, United States Code. “(2) Stage 2 aircraft.—The term ‘stage 2 aircraft’ has the meaning given the term ‘stage 2 airplane’ in section 91.851 of title 14, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act [Oct. 5, 2018]).”

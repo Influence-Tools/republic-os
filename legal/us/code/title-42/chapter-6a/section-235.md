@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 235"
+description: "Administration of grants in multigrant proj­ects; promulgation of regulations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "235"
+citation: "42 U.S.C. § 235"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s235"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "a1ecfd9d4b53d13a035f7f689befb2fe22aae980ff6ad24642647e7f7a8b3d3c"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "a1625c495a808390899befc4cab6118fb913fd064fef59f17388b9e1de58883a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 235 - Administration of grants in multigrant proj­ects; promulgation of regulations
+
+## Text
+
+For the purpose of facilitating the administration of, and expediting the carrying out of the purposes of, the programs established by subchapters V, VI, and VII,11 See References in Text note below. and sections 242b, 246(a), 246(b), 246(c), 246(d),1 and 246(e) 1 of this title in situations in which grants are sought or made under two or more of such programs with respect to a single project, the Secretary is authorized to promulgate regulations—
+
+(1) under which the administrative functions under such programs with respect to such project will be performed by a single administrative unit which is the administrative unit charged with the administration of any of such programs or is the administrative unit charged with the supervision of two or more of such programs;
+
+(2) designed to reduce the number of applications, reports, and other materials required under such programs to be submitted with respect to such project, and otherwise to simplify, consolidate, and make uniform (to the extent feasible), the data and information required to be contained in such applications, reports, and other materials; and
+
+(3) under which inconsistent or duplicative requirements imposed by such programs will be revised and made uniform with respect to such project;
+
+except that nothing in this section shall be construed to authorize the Secretary to waive or suspend, with respect to any such project, any requirement with respect to any of such programs if such requirement is imposed by law or by any regulation required by law.
+
+(July 1, 1944, ch. 373, title II, § 226, formerly title III, § 310A, as added Pub. L. 91–515, title II, § 270, Oct. 30, 1970, 84 Stat. 1306; amended Pub. L. 92–157, title II, § 201, Nov. 18, 1971, 85 Stat. 461; renumbered § 226, Pub. L. 93–353, title I, § 102(e), July 23, 1974, 88 Stat. 362.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSubchapters V and VI, referred to in text, are classified to sections 292 et seq. and 296 et seq., respectively, of this title. Subchapter VII, referred to in text, which was classified to section 299 et seq. of this title, was repealed by Pub. L. 99–117, § 12(d), Oct. 7, 1985, 99 Stat. 495. Section 246(d) of this title, referred to in text, was repealed by Pub. L. 97–35, title IX, § 902(b), Aug. 13, 1981, 95 Stat. 559. Section 246(e) of this title, referred to in text, was repealed by Pub. L. 94–63, title V, § 501(b), July 29, 1975, 89 Stat. 346.
+
+Codification Section was formerly classified to section 242i of this title.
+
+Amendments1971—Pub. L. 92–157 provided for administration of programs established under subchapters V and VI of this chapter.

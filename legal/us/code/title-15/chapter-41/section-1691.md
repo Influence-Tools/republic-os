@@ -1,0 +1,111 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 1691"
+description: "Scope of prohibition"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "41"
+chapter_name: "CONSUMER CREDIT PROTECTION"
+section: "1691"
+citation: "15 U.S.C. § 1691"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s1691"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "ca549e076f4a52b0c4f9182efbb7a9a77db37aa207a316cc93075c4276d62c6e"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "fa332406bf35bd5423107ea335fa5d38999fb1ae4265450305eadbc18e39be6b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 1691 - Scope of prohibition
+
+## Text
+
+(a) Activities constituting discrimination It shall be unlawful for any creditor to discriminate against any applicant, with respect to any aspect of a credit transaction—
+
+(1) on the basis of race, color, religion, national origin, sex or marital status, or age (provided the applicant has the capacity to contract);
+
+(2) because all or part of the applicant’s income derives from any public assistance program; or
+
+(3) because the applicant has in good faith exercised any right under this chapter.
+
+(b) Activities not constituting discrimination It shall not constitute discrimination for purposes of this subchapter for a creditor—
+
+(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor’s rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness;
+
+(2) to make an inquiry of the applicant’s age or of whether the applicant’s income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness as provided in regulations of the Bureau;
+
+(3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Bureau, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value;
+
+(4) to make an inquiry or to consider the age of an elderly applicant when the age of such applicant is to be used by the creditor in the extension of credit in favor of such applicant; or
+
+(5) to make an inquiry under section 1691c–2 of this title, in accordance with the requirements of that section.
+
+(c) Additional activities not constituting discrimination It is not a violation of this section for a creditor to refuse to extend credit offered pursuant to—
+
+(1) any credit assistance program expressly authorized by law for an economically disadvantaged class of persons;
+
+(2) any credit assistance program administered by a nonprofit organization for its members or an economically disadvantaged class of persons; or
+
+(3) any special purpose credit program offered by a profit-making organization to meet special social needs which meets standards prescribed in regulations by the Bureau;
+
+if such refusal is required by or made pursuant to such program.
+
+(d) Reason for adverse action; procedure applicable; “adverse action” defined (1) Within thirty days (or such longer reasonable time as specified in regulations of the Bureau for any class of credit transaction) after receipt of a completed application for credit, a creditor shall notify the applicant of its action on the application.
+
+(2) Each applicant against whom adverse action is taken shall be entitled to a statement of reasons for such action from the creditor. A creditor satisfies this obligation by—
+
+(A) providing statements of reasons in writing as a matter of course to applicants against whom adverse action is taken; or
+
+(B) giving written notification of adverse action which discloses (i) the applicant’s right to a statement of reasons within thirty days after receipt by the creditor of a request made within sixty days after such notification, and (ii) the identity of the person or office from which such statement may be obtained. Such statement may be given orally if the written notification advises the applicant of his right to have the statement of reasons confirmed in writing on written request.
+
+(3) A statement of reasons meets the requirements of this section only if it contains the specific reasons for the adverse action taken.
+
+(4) Where a creditor has been requested by a third party to make a specific extension of credit directly or indirectly to an applicant, the notification and statement of reasons required by this subsection may be made directly by such creditor, or indirectly through the third party, provided in either case that the identity of the creditor is disclosed.
+
+(5) The requirements of paragraph (2), (3), or (4) may be satisfied by verbal statements or notifications in the case of any creditor who did not act on more than one hundred and fifty applications during the calendar year preceding the calendar year in which the adverse action is taken, as determined under regulations of the Bureau.
+
+(6) For purposes of this subsection, the term “adverse action” means a denial or revocation of credit, a change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially the amount or on substantially the terms requested. Such term does not include a refusal to extend additional credit under an existing credit arrangement where the applicant is delinquent or otherwise in default, or where such additional credit would exceed a previously established credit limit.
+
+(e) Copies furnished to applicants (1) In general Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant’s application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion, but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant’s request for credit or the application is incomplete or withdrawn.
+
+(2) Waiver The applicant may waive the 3 day requirement provided for in paragraph (1), except where otherwise required in law.
+
+(3) Reimbursement The applicant may be required to pay a reasonable fee to reimburse the creditor for the cost of the appraisal, except where otherwise required in law.
+
+(4) Free copy Notwithstanding paragraph (3), the creditor shall provide a copy of each written appraisal or valuation at no additional cost to the applicant.
+
+(5) Notification to applicants At the time of application, the creditor shall notify an applicant in writing of the right to receive a copy of each written appraisal and valuation under this subsection.
+
+(6) Valuation defined For purposes of this subsection, the term “valuation” shall include any estimate of the value of a dwelling developed in connection with a creditor’s decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.
+
+(Pub. L. 90–321, title VII, § 701, as added Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, § 2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, § 223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§ 1071(b), 1085(1), title XIV, § 1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2010—Pub. L. 111–203, § 1085(1), substituted “Bureau” for “Board” wherever appearing. Subsec. (b)(5). Pub. L. 111–203, § 1071(b), added par. (5). Subsec. (e). Pub. L. 111–203, § 1474, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant’s application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.” 1991—Subsec. (e). Pub. L. 102–242 added subsec. (e). 1976—Subsec. (a). Pub. L. 94–239 designated existing provisions as cl. (1), expanded prohibition against discrimination to include race, color, religion, national origin and age, and added cls. (2) and (3). Subsec. (b). Pub. L. 94–239 designated existing provisions as cl. (1) and added cls. (2) to (4). Subsecs. (c), (d). Pub. L. 94–239 added subsecs. (c) and (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentPub. L. 111–203, title X, § 1071(d), July 21, 2010, 124 Stat. 2059, provided that: “This section [enacting section 1691c–2 of this title and amending this section] shall become effective on the designated transfer date.” [The term “designated transfer date” is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12.] Amendment by section 1085(1) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees. Amendment by section 1474 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
+
+Effective DateSection 708, formerly § 707, of title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94–239, §§ 7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title [enacting this subchapter and provisions set out as notes under section 1691 of this title] takes effect upon the expiration of one year after the date of its enactment [Oct. 28, 1974]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 [enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section] shall take effect on the date of enactment thereof [Mar. 23, 1976] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act [this section] shall take effect 12 months after the date of enactment [Mar. 23, 1976].”
+
+Short TitleThis subchapter known as the “Equal Credit Opportunity Act”, see Short Title note set out under section 1601 of this title.
+
+Congressional Findings and Statement of PurposePub. L. 93–495, title V, § 502, Oct. 28, 1974, 88 Stat. 1521, provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act [see Short Title note set out under section 1601 of this title] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
+
+Executive Documents
+
+Ex. Ord. No. 14331. Guaranteeing Fair Banking for All Americans Ex. Ord. No. 14331, Aug. 7, 2025, 90 F.R. 38925, provided: By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. Financial institutions have engaged in unacceptable practices to restrict law-abiding individuals’ and businesses’ access to financial services on the basis of political or religious beliefs or lawful business activities. Some financial institutions participated in Government-directed surveillance programs targeting persons participating in activities and causes commonly associated with conservatism and the political right following the events that occurred at or near the United States Capitol on January 6, 2021. The Federal Government suggested that such institutions flag individuals who made transactions related to companies like “Cabela’s” and “Bass Pro Shop” or who made peer-to-peer payments that involved terms like “Trump” or “MAGA,” even though there was no specific evidence tying those individuals to criminal conduct. Bank regulators have used supervisory scrutiny and other influence over regulated banks to direct or otherwise encourage politicized or unlawful debanking activities. “Operation Chokepoint,” for example, was a well-documented and systemic means by which Federal regulators pushed banks to minimize their involvement with individuals and companies engaged in lawful activities and industries disfavored by regulators based on factors other than individualized, objective, risk-based standards. As a result, individuals, their businesses, and their families have been subjected to debanking on the basis of their political affiliations, religious beliefs or lawful business activities, and have suffered frozen payrolls, debt and crushing interest, and other significant harms to their livelihoods, reputations, and financial well-being. Such practices are incompatible with a free society and the principle that the provision of banking services should be based on material, measurable, and justifiable risks. Such practices, when wielded to discriminate against customers and businesses in credit transactions due to their religion, are also unlawful under the Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.). They further undermine public trust in banking institutions and their regulators, discriminate against political beliefs and free expression of those beliefs, and weaponize a politicized regulatory state. Sec. 2. Policy. It is the policy of the United States that no American should be denied access to financial services because of their constitutionally or statutorily protected beliefs, affiliations, or political views, and to ensure that politicized or unlawful debanking is not used as a tool to inhibit such beliefs, affiliations, or political views. Banking decisions must instead be made on the basis of individualized, objective, and risk-based analyses. Sec. 3. Definitions. (a) The term “politicized or unlawful debanking” refers to an act by a bank, savings association, credit union, or other financial services provider to directly or indirectly adversely restrict access to, or adversely modify the conditions of, accounts, loans, or other banking products or financial services of any customer or potential customer on the basis of the customer’s or potential customer’s political or religious beliefs, or on the basis of the customer’s or potential customer’s lawful business activities that the financial service provider disagrees with or disfavors for political reasons. (b) The term “Federal banking regulators” refers to the Small Business Administration (SBA) and the Federal member agencies of the Financial Stability Oversight Council with supervisory and regulatory authority over banks, savings associations, or credit unions. Sec. 4. Removing Reputation Risk and Politicized or Unlawful Debanking. (a) Within 180 days of the date of this order [Aug. 7, 2025], each appropriate Federal banking regulator shall, to the greatest extent permitted by law, remove the use of reputation risk or equivalent concepts that could result in politicized or unlawful debanking, as well as any other considerations that could be used to engage in such debanking, from their guidance documents, manuals, and other materials (other than existing regulations or other materials requiring notice-and-comment rulemaking) used to regulate or examine financial institutions over which they have jurisdiction. The removal of such concepts shall be made clear by each appropriate Federal banking regulator through formal guidance to their examiners. The Federal banking regulators shall also consider rescinding or amending existing regulations, consistent with applicable law, to eliminate or amend any regulations that could result in politicized or unlawful debanking and to ensure that any regulated firm’s or individual’s reputation is considered for regulatory, supervisory, banking, or enforcement purposes solely to the extent necessary to reach a reasonable and apolitical risk-based assessment. (b) The SBA shall, within 60 days of the date of this order, give notice to all financial institutions with which it guarantees loans under its lending programs, requiring that each financial institution that is subject to the SBA’s jurisdiction and supervision: (i) within 120 days of the date of this order, makes reasonable efforts to identify and reinstate any previous clients of the institution or any subsidiaries denied service through a politicized or unlawful debanking action in violation of a statutory or regulatory requirement under section 7(a) of the Small Business Act (15 U.S.C. 636) or any requirement in a Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access, with notice of the reinstatement sent to the victim; (ii) within 120 days of the date of this order, identifies all potential clients denied access to financial services provided by the financial institution or any subsidiaries through a politicized or unlawful debanking action in violation of a statutory or regulatory requirement under section 7(a) of the Small Business Act or any requirement in a Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access, and provides notice to each victim advising of the denied access and the renewed option to engage in such services previously denied; and (iii) within 120 days of the date of this order, identifies all potential clients denied access to payment processing services provided by the financial institution or any subsidiaries through a politicized or unlawful debanking action in violation of a statutory or regulatory requirement under section 7(a) of the Small Business Act or any requirement in a Standard Operating Procedures Manual or Policy Notice related to a program or function of the Office of Capital Access, and provides notice to each victim advising of the denied access and the renewed option to engage in such services previously denied. Sec. 5. Scrutinizing Politicized or Unlawful Debanking. (a) Within 180 days of the date of this order, the Secretary of the Treasury, in consultation with the Assistant to the President for Economic Policy, shall develop a comprehensive strategy for further measures to combat politicized or unlawful debanking activities of financial regulators and financial institutions across the Federal Government, including consideration of legislative or regulatory options to eliminate such debanking. (b) Within 120 days of the date of this order, each Federal banking regulator shall conduct a review to identify financial institutions subject to its jurisdiction that have had any past or current, formal or informal, policies or practices that require, encourage, or otherwise influence such financial institution to engage in politicized or unlawful debanking and to take appropriate remedial action, to the extent authorized and consistent with applicable law, including levying fines, issuing consent decrees, or imposing other disciplinary measures against any financial institution subject to the jurisdiction of such Federal banking regulator that such Federal banking regulator finds has engaged in politicized or unlawful debanking that violates applicable law (including section 5 of the Federal Trade Commission Act (15 U.S.C. 45), section 1031 of the Consumer Financial Protection Act (12 U.S.C. 5531), and the Equal Credit Opportunity Act). (c) Within 180 days of the date of this order, the Federal banking regulators shall review their current supervisory and complaint data to identify any financial institution that has engaged in unlawful debanking on the basis of religion and, if such financial institution is unable to obtain compliance within the meaning of 15 U.S.C. 1691 and 1691e(g), refer such matters to the Attorney General for an appropriate civil action, as appropriate. Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect: (i) the authority granted by law to an executive department or agency, or the head thereof; or (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals. (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations. (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. (d) The costs for publication of this order shall be borne by the Small Business Administration. Donald J. Trump.

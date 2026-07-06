@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "37 U.S.C. § 356"
+description: "Continuation pay: full TSP members with 7 to 12 years of service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 37
+title_name: "PAY AND ALLOWANCES OF THE UNIFORMED SERVICES"
+chapter_number: "5"
+chapter_name: "SPECIAL AND INCENTIVE PAYS"
+section: "356"
+citation: "37 U.S.C. § 356"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc37@119-100.zip"
+source_identifier: "/us/usc/t37/s356"
+source_file: "data/legal/raw/us/code/title-37/usc37.xml"
+source_hash: "1ea083a6b3bea9bd40121967abc6a2dcd5d1eebe06260141064dc3d64176cc89"
+raw_snapshot_hash: "e0a35eb7ef12b7ff3b62c2d230c815f864ad090f207afa5aca869467bb414b1c"
+text_hash: "1b9bea03284789480b26a609789064c957dfc31b367850f37163011a486ec086"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 37 U.S.C. § 356 - Continuation pay: full TSP members with 7 to 12 years of service
+
+## Text
+
+(a) Continuation Pay.— The Secretary concerned shall make a payment of continuation pay to each full TSP member (as defined in section 8440e(a) of title 5) of the uniformed services under the jurisdiction of the Secretary who—
+
+(1) has completed not less than 7 and not more than 12 years of service in a uniformed service; and
+
+(2) enters into an agreement with the Secretary to serve for not less than 3 additional years of obligated service.
+
+(b) Payment Amount.— The Secretary concerned shall determine the payment amount under this section as a multiple of a full TSP member’s monthly basic pay. The multiple for a full TSP member who is a member of a regular component, a member of the Space Force on sustained duty, or a member of a reserve component, if the member is performing active Guard and Reserve duty (as defined in section 101(d)(6) of title 10), shall not be less than 2.5 times the member’s monthly basic pay. The multiple for a full TSP member who is a member of a reserve component not performing active Guard or Reserve duty (as so defined) or a member of the Space Force in space force active status not on sustained duty shall not be less than 0.5 times the monthly basic pay to which the member would be entitled if the member were a member of a regular component. The maximum amount the Secretary concerned may pay a member under this section is—
+
+(1) in the case of a member of a regular component or a member of the Space Force on sustained duty—
+
+(A) the monthly basic pay of the member at 12 years of service multiplied by 2.5; plus
+
+(B) at the discretion of the Secretary concerned, the monthly basic pay of the member at 12 years of service multiplied by such number of months (not to exceed 13 months) as the Secretary concerned shall specify in the agreement of the member under subsection (a); and
+
+(2) in the case of a member of a reserve component or a member of the Space Force in space force active status and not on sustained duty—
+
+(A) the amount of monthly basic pay to which the member would be entitled at 12 years of service if the member were a member of a regular component or a member of the Space Force on sustained duty, respectively, multiplied by 0.5; plus
+
+(B) at the discretion of the Secretary concerned, the amount of monthly basic pay described in subparagraph (A) multiplied by such number of months (not to exceed 6 months) as the Secretary concerned shall specify in the agreement of the member under subsection (a).
+
+(c) Additional Discretionary Authority.— In addition to the continuation pay required under subsection (a), the Secretary concerned may provide continuation pay under this subsection to a full TSP member described in subsection (a), and subject to the service agreement referred to in paragraph (2) of such subsection, in an amount determined by the Secretary concerned.
+
+(d) Timing of Payment.— The Secretary concerned shall pay continuation pay under subsection (a) to a full TSP member when the member has completed not less than 7 and not more than 12 years of service in a uniformed service.
+
+(e) Lump Sum or Installments.— A full TSP member may elect to receive continuation pay provided under subsection (a) or (c) in a lump sum or in a series of not more than four payments.
+
+(f) Relationship to Other Pay and Allowances.— Continuation pay under this section is in addition to any other pay or allowance to which the full TSP member is entitled.
+
+(g) Repayment.— A full TSP member who receives continuation pay under this section (a) 11 So in original. and fails to complete the obligated service required under such subsection shall be subject to the repayment provisions of section 373 of this title.
+
+(h) Regulations.— Each Secretary concerned shall prescribe regulations to carry out this section.
+
+(Added Pub. L. 114–92, div. A, title VI, § 634(a), Nov. 25, 2015, 129 Stat. 850; amended Pub. L. 114–328, div. A, title VI, § 633(a)–(d)(1), Dec. 23, 2016, 130 Stat. 2163; Pub. L. 118–31, div. A, title VI, § 611(a), Dec. 22, 2023, 137 Stat. 290; Pub. L. 119–60, div. A, title VI, § 601(c)(6), Dec. 18, 2025, 139 Stat. 904.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (b). Pub. L. 119–60, § 601(c)(6)(A), substituted “, a member of the Space Force on sustained duty, or a member of a reserve component” for “or a reserve component” and inserting “or a member of the Space Force in space force active status not on sustained duty” after “(as so defined)” in introductory provisions. Subsec. (b)(1). Pub. L. 119–60, § 601(c)(6)(B), inserted “or a member of the Space Force on sustained duty” after “of a regular component” in introductory provisions. Subsec. (b)(2). Pub. L. 119–60, § 601(c)(6)(C)(i), inserted “or a member of the Space Force in space force active status and not on sustained duty” after “of a reserve component” in introductory provisions. Subsec. (b)(2)(A). Pub. L. 119–60, § 601(c)(6)(C)(ii), inserted “or a member of the Space Force on sustained duty, respectively,” after “of a regular component”. 2023—Pub. L. 118–31, § 611(a)(1), substituted “7” for “8” in section catchline. Subsec. (a)(1). Pub. L. 118–31, § 611(a)(2), substituted “7” for “8”. Subsec. (d). Pub. L. 118–31, § 611(a)(2), substituted “7” for “8”. 2016—Pub. L. 114–328, § 633(d)(1), substituted “Continuation pay: full TSP members with 8 to 12 years of service” for “Continuation pay: full TSP members with 12 years of service” in section catchline. Subsec. (a)(1). Pub. L. 114–328, § 633(a)(1), added par. (1) and struck out former par. (1) which read as follows: “completes 12 years of service; and”. Subsec. (a)(2). Pub. L. 114–328, § 633(a)(2), substituted “not less than 3 additional years” for “an additional 4 years”. Subsec. (b). Pub. L. 114–328, § 633(b), substituted heading and introductory provisions for former heading and introductory provisions which read as follows: “Amount.—The amount of continuation pay payable to a full TSP member under subsection (a) shall be the amount that is equal to—”. Subsec. (d). Pub. L. 114–328, § 633(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary concerned shall pay continuation pay under subsection (a) to a full TSP member when the member completes 12 years of service. If the Secretary concerned also provides continuation pay under subsection (c) to the member, that continuation pay shall be provided when the member completes 12 years of service.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentPub. L. 114–328, div. A, title VI, § 633(e), Dec. 23, 2016, 130 Stat. 2163, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments providing for section 356 of title 37, United States Code, to which the amendments made by this section relate.”
+
+Effective Date; ImplementationSection effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as an Effective Date of 2015 Amendment; Implementation note under section 8432 of Title 5, Government Organization and Employees.

@@ -1,0 +1,101 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 3071"
+description: "Applicability of certain provisions of title 10"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "43"
+chapter_name: "NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION COMMISSIONED OFFICER CORPS"
+section: "3071"
+citation: "33 U.S.C. § 3071"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s3071"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "7f8b8d000a27abca196d4c46091217dc1798a50437ef36b9bff776df7d219120"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "181c299690c6c76893620896dbd2edb03e8a7daa961d01d8a59a68b4f81a9a7b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 3071 - Applicability of certain provisions of title 10
+
+## Text
+
+(a) Provisions made applicable to the corps The rules of law that apply to the Armed Forces under the following provisions of title 10, as those provisions are in effect from time to time, apply also to the commissioned officer corps of the Administration:
+
+(1) Chapter 40, relating to leave.
+
+(2) Section 533(b), relating to constructive service.
+
+(3) Section 716, relating to transfers between the armed forces and to and from National Oceanic and Atmospheric Administration.
+
+(4) Section 771, relating to unauthorized wearing of uniforms.
+
+(5) Section 774, relating to wearing religious apparel while in uniform.
+
+(6) Section 982, relating to service on State and local juries.
+
+(7) Section 1031, relating to administration of oaths.
+
+(8) Section 1034, relating to protected communications and prohibition of retaliatory personnel actions.
+
+(9) Section 1035, relating to deposits of savings.
+
+(10) Section 1036, relating to transportation and travel allowances for escorts for dependents of members.
+
+(11) Section 1052, relating to reimbursement for adoption expenses.
+
+(12) Section 1074n, relating to annual mental health assessments.
+
+(13) Section 1090a, relating to referrals for mental health evaluations.
+
+(14) Chapter 58, relating to the benefits and services for members being separated or recently separated.
+
+(15) Section 1174a, relating to special separation benefits (except that benefits under subsection (b)(2)(B) of such section are subject to the availability of appropriations for such purpose and are provided at the discretion of the Secretary of Commerce).
+
+(16) Chapter 61, relating to retirement or separation for physical disability.
+
+(17) Section 1251(e), relating to retirement or separation based on years of creditable service.
+
+(18) Chapter 69, relating to retired grade, except sections 1370, 1375, and 1376.
+
+(19) Chapter 71, relating to computation of retired pay.
+
+(20) Chapter 73, relating to annuities based on retired or retainer pay.
+
+(21) Subchapter II of chapter 75, relating to death benefits.
+
+(22) Subchapter I of chapter 88, relating to military family programs, applicable on an as-available and fully reimbursable basis.
+
+(23) Section 2005, relating to advanced education assistance, active duty agreements, and reimbursement requirements.
+
+(24) Section 2634, relating to transportation of motor vehicles for members on permanent change of station.
+
+(25) Sections 2731 and 2735, relating to property loss incident to service.
+
+(26) Section 2771, relating to final settlement of accounts of deceased members.
+
+(27) Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
+
+(b) References The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee. For purposes of paragraph (8) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Commerce.
+
+(c) Regulations regarding protected communications and prohibition of retaliatory personnel actions The Secretary may prescribe regulations to carry out the application of section 1034 of title 10 to the commissioned officer corps of the Administration, including by prescribing such administrative procedures for investigation and appeal within the commissioned officer corps as the Secretary considers appropriate.
+
+(Pub. L. 107–372, title II, § 261, Dec. 19, 2002, 116 Stat. 3091; Pub. L. 116–259, title II, §§ 205(a), 207, Dec. 23, 2020, 134 Stat. 1166, 1168; Pub. L. 117–263, div. K, title CXVII, § 11705(c), Dec. 23, 2022, 136 Stat. 4157.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 857a of this title prior to repeal by Pub. L. 107–372.
+
+Amendments2022—Subsec. (a)(17) to (27). Pub. L. 117–263 added par. (17) and redesignated former pars. (17) to (26) as (18) to (27), respectively. 2020—Subsec. (a). Pub. L. 116–259, § 207(a), added par. (8) and redesignated former pars. (8) to (25) (as added and redesignated by section 205(a), see note below) as (9) to (26), respectively. Pub. L. 116–259, § 205(a), added pars. (4) to (7), (11) to (13), (20), and (21), and redesignated former pars. (4) to (6) as (8) to (10), former pars. (7) to (12) as (14) to (19), and former pars. (13) to (16) as (22) to (25), respectively. Subsec. (b). Pub. L. 116–259, § 207(b), inserted at end “For purposes of paragraph (8) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Commerce.” Subsec. (c). Pub. L. 116–259, § 207(c), added subsec. (c).

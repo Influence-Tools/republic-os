@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1962a"
+description: "Establishment; composition; other Federal agency participation; designation of Chairman"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "19B"
+chapter_name: "WATER RESOURCES PLANNING"
+section: "1962a"
+citation: "42 U.S.C. § 1962a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1962a"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "af035c703ba48dcad1c21c679c452f962c343f46f240a0b77e04a4c58bb5c657"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "43260301fc9c8fc1ff7244f0f5b9931371e69dd078dfe6a7a07b193866ead893"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1962a - Establishment; composition; other Federal agency participation; designation of Chairman
+
+## Text
+
+There is hereby established a Water Resources Council (hereinafter referred to as the “Council”) which shall be composed of the Secretary of the Interior, the Secretary of Agriculture, the Secretary of the Army, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Administrator of the Environmental Protection Agency, and the Secretary of Energy. The Chairman of the Council shall request the heads of other Federal agencies to participate with the Council when matters affecting their responsibilities are considered by the Council. The Chairman of the Council shall be designated by the President.
+
+(Pub. L. 89–80, title I, § 101, July 22, 1965, 79 Stat. 245; Pub. L. 94–112, § 1(a), Oct. 16, 1975, 89 Stat. 575; Pub. L. 95–91, title III, § 301(b), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 578, 606, 607.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1975—Pub. L. 94–112 included in the membership of the Water Resources Council, the Secretaries of Commerce, Housing and Urban Development, and Transportation and the Administrator of the Environmental Protection Agency, and terminated the membership for the Secretary of Health, Education, and Welfare.
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions “Secretary of Energy” substituted for “Chairman of the Federal Power Commission” in text pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of this title, and which terminated the Federal Power Commission and transferred its functions and functions of Chairman thereof (with certain exceptions) to the Secretary of Energy.
+
+National Water CommissionPub. L. 90–515, Sept. 26, 1968, 82 Stat. 868, provided for establishment of National Water Commission, its membership, chairman, compensation, powers, duties, and functions, required Commission to review national water resource problems and submit interim and final reports, and provided that Commission terminate no later than five years from Sept. 26, 1968.

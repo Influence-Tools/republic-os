@@ -1,0 +1,151 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3020e–1"
+description: "Pension counseling and information programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "35"
+chapter_name: "PROGRAMS FOR OLDER AMERICANS"
+section: "3020e–1"
+citation: "42 U.S.C. § 3020e–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3020e–1"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "de5ad67fc671f52540ca217eec7c3d7d26d94e44a66619d8f08e6b243969d53a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "a996cab563091af98a5ae06c07a5d69f4144e96a47fe80c2ac7ae6622c99a27f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3020e–1 - Pension counseling and information programs
+
+## Text
+
+(a) Definitions In this section:
+
+(1) Pension and other retirement benefits The term “pension and other retirement benefits” means private, civil service, and other public pensions and retirement benefits, including benefits provided under—
+
+(A) the Social Security program under title II of the Social Security Act (42 U.S.C. 401 et seq.);
+
+(B) the railroad retirement program under the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.);
+
+(C) the government retirement benefits programs under the Civil Service Retirement System set forth in chapter 83 of title 5, the Federal Employees Retirement System set forth in chapter 84 of title 5, or other Federal retirement systems; or
+
+(D) employee pension benefit plans as defined in section 1002(2) of title 29.
+
+(2) Pension counseling and information program The term “pension counseling and information program” means a program described in subsection (b).
+
+(b) Program authorized The Assistant Secretary shall award grants to eligible entities to establish and carry out pension counseling and information programs that create or continue a sufficient number of pension assistance and counseling programs to provide outreach, information, counseling, referral, and other assistance regarding pension and other retirement benefits, and rights related to such benefits, to individuals in the United States.
+
+(c) Eligible entities The Assistant Secretary shall award grants under this section to—
+
+(1) State agencies or area agencies on aging; and
+
+(2) nonprofit organizations with a proven record of providing—
+
+(A) services related to retirement of older individuals;
+
+(B) services to Native Americans; or
+
+(C) specific pension counseling.
+
+(d) Citizen advisory panel The Assistant Secretary shall establish a citizen advisory panel to advise the Assistant Secretary regarding which entities should receive grant awards under this section. Such panel shall include representatives of business, labor, national senior advocates, and national pension rights advocates. The Assistant Secretary shall consult such panel prior to awarding grants under this section.
+
+(e) Application To be eligible to receive a grant under this section, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
+
+(1) a plan to establish a pension counseling and information program that—
+
+(A) establishes or continues a State or area pension counseling and information program;
+
+(B) serves a specific geographic area;
+
+(C) provides counseling (including direct counseling and assistance to individuals who need information regarding pension and other retirement benefits) and information that may assist individuals in obtaining, or establishing rights to, and filing claims or complaints regarding, pension and other retirement benefits;
+
+(D) provides information on sources of pension and other retirement benefits;
+
+(E) establishes a system to make referrals for legal services and other advocacy programs;
+
+(F) establishes a system of referral to Federal, State, and local departments or agencies related to pension and other retirement benefits;
+
+(G) provides a sufficient number of staff positions (including volunteer positions) to ensure information, counseling, referral, and assistance regarding pension and other retirement benefits;
+
+(H) provides training programs for staff members, including volunteer staff members, of pension and other retirement benefits programs;
+
+(I) makes recommendations to the Administration, the Department of Labor and other Federal, State, and local agencies concerning issues for older individuals related to pension and other retirement benefits; and
+
+(J) establishes or continues an outreach program to provide information, counseling, referral and assistance regarding pension and other retirement benefits, with particular emphasis on outreach to women, minorities, older individuals residing in rural areas, low-income retirees, and older individuals with limited English proficiency; and
+
+(2) an assurance that staff members (including volunteer staff members) have no conflict of interest in providing the services described in the plan described in paragraph (1).
+
+(f) Criteria The Assistant Secretary shall consider the following criteria in awarding grants under this section:
+
+(1) Evidence of a commitment by the entity to carry out a proposed pension counseling and information program.
+
+(2) The ability of the entity to perform effective outreach to affected populations, particularly populations with limited English proficiency and other populations that are identified as in need of special outreach.
+
+(3) Reliable information that the population to be served by the entity has a demonstrable need for the services proposed to be provided under the program.
+
+(4) The ability of the entity to provide services under the program on a statewide or regional basis.
+
+(g) Training and technical assistance program (1) In general The Assistant Secretary shall award grants to eligible entities to establish training and technical assistance programs that shall provide information and technical assistance to the staffs of entities operating pension counseling and information programs described in subsection (b), and general assistance to such entities, including assistance in the design of program evaluation tools.
+
+(2) Eligible entities Entities that are eligible to receive a grant under this subsection include nonprofit private organizations with a record of providing national information, referral, and advocacy in matters related to pension and other retirement benefits.
+
+(3) Application To be eligible to receive a grant under this subsection, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
+
+(h) Pension assistance hotline and intragency coordination (1) Hotline The Assistant Secretary shall enter into agreements with other Federal agencies to establish and administer a national telephone hotline that shall provide information regarding pension and other retirement benefits, and rights related to such benefits.
+
+(2) Content Such hotline described in paragraph (1) shall provide information for individuals (including individuals with limited English proficiency) seeking outreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
+
+(3) Agreements The Assistant Secretary may enter into agreements with the Secretary of Labor and the heads of other Federal agencies that regulate the provision of pension and other retirement benefits in order to carry out this subsection.
+
+(i) Report to Congress Not later than 30 months after November 13, 2000, the Assistant Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that—
+
+(1) summarizes the distribution of funds authorized for grants under this section and the expenditure of such funds;
+
+(2) summarizes the scope and content of training and assistance provided under a program carried out under this section and the degree to which the training and assistance can be replicated;
+
+(3) outlines the problems that individuals participating in programs funded under this section encountered concerning rights related to pension and other retirement benefits; and
+
+(4) makes recommendations regarding the manner in which services provided in programs funded under this section can be incorporated into the ongoing programs of State agencies, area agencies on aging, multipurpose senior centers and other similar entities.
+
+(j) Administrative expenses Of the funds appropriated under section 3020f of this title to carry out this section for a fiscal year, not more than $100,000 may be used by the Administration for administrative expenses.
+
+(k) National Resource Center for Women and Retirement (1) The Assistant Secretary shall, directly or by grant or contract, operate the National Resource Center for Women and Retirement (in this subsection referred to as the “Center”).
+
+(2) The Center shall—
+
+(A) provide tools, such as basic financial management, retirement planning, and other tools that promote financial literacy and help to identify and prevent exploitation (including fraud), and integrate these with information on health and long-term care;
+
+(B) annually disseminate a summary of outreach activities provided, including work to provide user-friendly consumer information and public education materials;
+
+(C) develop targeted outreach strategies;
+
+(D) provide technical assistance to State agencies and to other public and nonprofit private agencies and organizations; and
+
+(E) develop partnerships and collaborations to address program objectives.
+
+(Pub. L. 89–73, title II, § 215, as added Pub. L. 106–501, title II, § 202(5), Nov. 13, 2000, 114 Stat. 2231; amended Pub. L. 109–365, title II, § 209, Oct. 17, 2006, 120 Stat. 2537; Pub. L. 116–131, title I, § 121, title VII, § 701(4), Mar. 25, 2020, 134 Stat. 247, 271.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Social Security Act, referred to in subsec. (a)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+Prior ProvisionsA prior section 215 of Pub. L. 89–73 was renumbered section 216 and is classified to section 3020f of this title.
+
+Amendments2020—Subsec. (i). Pub. L. 116–131, § 701(4), substituted “Committee on Education and Labor” for “Committee on Education and the Workforce” in introductory provisions. Subsec. (k). Pub. L. 116–131, § 121, added subsec. (k). 2006—Subsec. (e)(1)(J). Pub. L. 109–365, § 209(1), substituted “, low-income retirees, and older individuals with limited English proficiency” for “and low income retirees”. Subsec. (f)(2). Pub. L. 109–365, § 209(2), added par. (2) and struck out former par. (2) which read as follows: “The ability of the entity to perform effective outreach to affected populations, particularly populations that are identified in need of special outreach.” Subsec. (h)(2). Pub. L. 109–365, § 209(3), inserted “(including individuals with limited English proficiency)” after “for individuals”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.

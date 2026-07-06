@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 3905"
+description: "Contract authority"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "41"
+chapter_name: "INDIAN LANDS OPEN DUMP CLEANUP"
+section: "3905"
+citation: "25 U.S.C. § 3905"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s3905"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "1f3c8ea03fbb68c28162041502c182e221fd1a54912805c6c94c2f6ff5c0687d"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "63d8ae991a7ae49e39fd32dd9d6fb18272da296c2c0daae141d75bd09d6cba3b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 3905 - Contract authority
+
+## Text
+
+(a) Authority of Director To the maximum extent feasible, the Director shall carry out duties under this chapter through contracts, compacts, or memoranda of agreement with Indian tribal governments or Alaska Native entities pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),11 See References in Text note below. section 2004a of title 42, or section 1632 of this title.
+
+(b) Cooperative agreements The Director is authorized, for purposes of carrying out the duties of the Director under this chapter, to contract with or enter into such cooperative agreements with such other Federal agencies as is considered necessary to provide cost-sharing for closure and postclosure activities, to obtain necessary technical and financial assistance and expertise, and for such other purposes as the Director considers necessary.
+
+(Pub. L. 103–399, § 6, Oct. 22, 1994, 108 Stat. 4167.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.

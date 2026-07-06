@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 20920"
+description: "Public access to sex offender information through the Internet"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "209"
+chapter_name: "CHILD PROTECTION AND SAFETY"
+section: "20920"
+citation: "34 U.S.C. § 20920"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s20920"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "992470fae7dfa5f9fa1cc2ad7f5afd036b7bd5ecb9a494dc19a99633e23080ad"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "5eebe4adbcba3c2dc6a8f7da043f0177dafddb51e2ef8dffcd4fc44df0422c7f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 20920 - Public access to sex offender information through the Internet
+
+## Text
+
+(a) In general Except as provided in this section, each jurisdiction shall make available on the Internet, in a manner that is readily accessible to all jurisdictions and to the public, all information about each sex offender in the registry. The jurisdiction shall maintain the Internet site in a manner that will permit the public to obtain relevant information for each sex offender by a single query for any given zip code or geographic radius set by the user. The jurisdiction shall also include in the design of its Internet site all field search capabilities needed for full participation in the Dru Sjodin National Sex Offender Public Website and shall participate in that website as provided by the Attorney General.
+
+(b) Mandatory exemptions A jurisdiction shall exempt from disclosure—
+
+(1) the identity of any victim of a sex offense;
+
+(2) the Social Security number of the sex offender;
+
+(3) any reference to arrests of the sex offender that did not result in conviction; and
+
+(4) any other information exempted from disclosure by the Attorney General.
+
+(c) Optional exemptions A jurisdiction may exempt from disclosure—
+
+(1) any information about a tier I sex offender convicted of an offense other than a specified offense against a minor;
+
+(2) the name of an employer of the sex offender;
+
+(3) the name of an educational institution where the sex offender is a student; and
+
+(4) any other information exempted from disclosure by the Attorney General.
+
+(d) Links The site shall include, to the extent practicable, links to sex offender safety and education resources.
+
+(e) Correction of errors The site shall include instructions on how to seek correction of information that an individual contends is erroneous.
+
+(f) Warning The site shall include a warning that information on the site should not be used to unlawfully injure, harass, or commit a crime against any individual named in the registry or residing or working at any reported address. The warning shall note that any such action could result in civil or criminal penalties.
+
+(Pub. L. 109–248, title I, § 118, July 27, 2006, 120 Stat. 596.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Dru Sjodin National Sex Offender Public Website, referred to in subsec. (a), is located at https://www.nsopw.gov.
+
+Codification Section was formerly classified to section 16918 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

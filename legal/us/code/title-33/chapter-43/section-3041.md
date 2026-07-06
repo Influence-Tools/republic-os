@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 3041"
+description: "Involuntary retirement or separation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "43"
+chapter_name: "NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION COMMISSIONED OFFICER CORPS"
+section: "3041"
+citation: "33 U.S.C. § 3041"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s3041"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "0af49d097421874f4ac92009385807b350b31a5eb7315c1da02fac4da5016bf8"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "4b37cfd35385cfef694703303bb0160425053fa276bd02a890c899b9539d6929"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 3041 - Involuntary retirement or separation
+
+## Text
+
+(a) Transfer of officers to retired list; separation from service As recommended by a personnel board convened under section 3022 of this title—
+
+(1) an officer in the permanent grade of captain or commander may—
+
+(A) except as provided by subparagraph (B), be transferred to the retired list; or
+
+(B) if the officer is not qualified for retirement, be separated from service; and
+
+(2) an officer in the permanent grade of lieutenant commander, lieutenant, or lieutenant (junior grade) who is not qualified for retirement may be separated from the service.
+
+(b) Computations In any fiscal year, the total number of officers selected for retirement or separation under subsection (a) plus the number of officers retired for age may not exceed the whole number nearest 4 percent of the total number of officers authorized to be on the active list, except as otherwise provided by law.
+
+(c) Effective date of retirements and separations (1) In general Subject to paragraph (2), a retirement or separation under subsection (a) shall take effect on such date as is determined by the Secretary.
+
+(2) Determination of date The effective date determined under paragraph (1) for a retirement or separation under subsection (a) shall be—
+
+(A) except as provided by subparagraph (B), not earlier than 60 days after the date on which the Secretary approves the retirement or separation; or
+
+(B) if the officer concerned requests an earlier effective date, such earlier date as is determined by the Secretary.
+
+(d) Deferment of retirement or separation for medical reasons (1) In general If the Secretary determines that the evaluation of the medical condition of an officer requires hospitalization or medical observation that cannot be completed with confidence in a manner consistent with the officer’s well-being before the date on which the officer would otherwise be required to retire or be separated under this section, the Secretary may defer the retirement or separation of the officer.
+
+(2) Consent required A deferment may only be made with the written consent of the officer involved. If the officer does not provide written consent to the deferment, the officer shall be retired or separated as scheduled.
+
+(3) Limitation A deferment of retirement or separation under this subsection may not extend for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.
+
+(Pub. L. 107–372, title II, § 241, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, § 401, Dec. 23, 2020, 134 Stat. 1177; Pub. L. 117–263, div. K, title CXVII, § 11705(a), Dec. 23, 2022, 136 Stat. 4157; Pub. L. 119–60, div. H, title LXXXIV, § 8406, Dec. 18, 2025, 139 Stat. 1913.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 853g of this title prior to repeal by Pub. L. 107–372.
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 amended subsec. (c) generally. Prior to amendment, text read as follows: “A retirement or separation under subsection (a) shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.” 2022—Subsec. (a)(1). Pub. L. 117–263 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “an officer in the permanent grade of captain or commander may be transferred to the retired list; and”. 2020—Subsec. (d). Pub. L. 116–259 added subsec. (d).

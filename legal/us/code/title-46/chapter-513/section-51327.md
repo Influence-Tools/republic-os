@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 51327"
+description: "Sexual Assault Advisory Council"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "513"
+chapter_name: "UNITED STATES MERCHANT MARINE ACADEMY"
+section: "51327"
+citation: "46 U.S.C. § 51327"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s51327"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "318c7f2a363efa043de5fb5f399b03fd2a378ea3ba2f0ced056e1f8df3bd4627"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "6ad6bde7ad48bc07b9aec8c1b397a977adf7f21e67562714585cb3fa13e39ccd"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 51327 - Sexual Assault Advisory Council
+
+## Text
+
+(a) Establishment.— The Secretary of Transportation shall establish a Sexual Assault Advisory Council (in this section referred to as the “Council”).
+
+(b) Membership.— (1) In general.— The Council shall be composed of not fewer than 8 and not more than 14 individuals selected by the Secretary of Transportation who are alumni that have graduated within the last 4 years or current midshipmen of the United States Merchant Marine Academy (including midshipmen or alumni who were victims of sexual assault, to the maximum extent practicable, and midshipmen or alumni who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field.
+
+(2) Experts included.— The Council shall include—
+
+(A) not less than 1 member who is licensed in the field of mental health and has prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization; and
+
+(B) not less than 1 member who has prior experience developing or implementing sexual assault or sexual harassment prevention and response policies in an academic setting.
+
+(3) Rules regarding membership.— No employee of the Department of Transportation shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
+
+(c) Duties; Authorized Activities.— (1) In general.— The Council shall meet not less often than semiannually to—
+
+(A) review—
+
+(i) the policies on sexual harassment, dating violence, domestic violence, sexual assault, and stalking under section 51318 of this title;
+
+(ii) the trends and patterns of data contained in the system described under section 51325 of this title; and
+
+(iii) related matters the Council views as appropriate; and
+
+(B) develop recommendations designed to ensure that such policies and such matters conform, to the extent practicable, to best practices in the field of sexual assault and sexual harassment response and prevention.
+
+(2) Authorized activities.— To carry out this subsection, the Council may—
+
+(A) interview current and former midshipmen of the United States Merchant Marine Academy (to the extent that such midshipmen provide the Department of Transportation express consent to be interviewed by the Council); and
+
+(B) review surveys under section 51322(d).11 See References in Text note below.
+
+(3) Personally identifiable information.— In carrying out this subsection, the Council shall comply with the obligations of the Department of Transportation to protect personally identifiable information.
+
+(d) Reports.— On an annual basis for each of the 5 years after the date of enactment of this section, and at the discretion of the Council thereafter, the Council shall submit, to the President and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, a report on the Council’s findings based on the reviews conducted pursuant to subsection (c) and related recommendations.
+
+(e) Employee Status.— Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with section 5703 of title 5.
+
+(f) Nonapplicability of FACA.— The Federal Advisory Committee Act (5 U.S.C. App.) 1 shall not apply to the Council.
+
+(Added Pub. L. 117–263, div. C, title XXXV, § 3531(a), Dec. 23, 2022, 136 Stat. 3086.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 51322(d), referred to in subsec. (c)(2)(B), probably should be a reference to section 51322(g) of this title. Subsec. (d) of section 51322, which relates to the completion of a survey by a cadet upon the completion of the cadet’s Sea Year, was redesignated as subsec. (g) of section 51322 by Pub. L. 117–263, § 3513(a)(2). Subsec. (d) of section 51322, as added by Pub. L. 117–263, § 3513(a)(1), provides that the Maritime Administrator is to ensure that a cadet participating in Sea Year has certain information, training, and resources. The date of enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022. The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.

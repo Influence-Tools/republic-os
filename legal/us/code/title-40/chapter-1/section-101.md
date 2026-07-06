@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "40 U.S.C. § 101"
+description: "Purpose"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 40
+title_name: "PUBLIC BUILDINGS, PROPERTY, AND WORKS"
+chapter_number: "1"
+chapter_name: "GENERAL"
+section: "101"
+citation: "40 U.S.C. § 101"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc40@119-100.zip"
+source_identifier: "/us/usc/t40/s101"
+source_file: "data/legal/raw/us/code/title-40/usc40.xml"
+source_hash: "d9e0f9b35f92f36b6b4ffdb0305143f01cdde1dfd882758a73abef8b05babfb5"
+raw_snapshot_hash: "9e671d5f37f9148634c9ba568a4c16d4864b567130b66bcf607f680414560a29"
+text_hash: "22f88569403649ead6db74824be9610ac91ce2bbfb43d862e0a4dbc372bfd930"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 40 U.S.C. § 101 - Purpose
+
+## Text
+
+The purpose of this subtitle is to provide the Federal Government with an economical and efficient system for the following activities:
+
+(1) Procuring and supplying property and nonpersonal services, and performing related functions including contracting, inspection, storage, issue, setting specifications, identification and classification, transportation and traffic management, establishment of pools or systems for transportation of Government personnel and property by motor vehicle within specific areas, management of public utility services, repairing and converting, establishment of inventory levels, establishment of forms and procedures, and representation before federal and state regulatory bodies.
+
+(2) Using available property.
+
+(3) Disposing of surplus property.
+
+(4) Records management.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 10140:471.June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126.
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2024 AmendmentPub. L. 118–182, § 1, Dec. 23, 2024, 138 Stat. 2623, provided that: “This Act [amending sections 321 and 323 of this title] may be cited as the ‘GSA Technology Accountability Act’.” Pub. L. 118–99, § 1, Oct. 1, 2024, 138 Stat. 1578, provided that: “This Act [enacting section 530 of this title, amending sections 529 and 530 of this title, and enacting provisions set out as a note under section 529 of this title] may be cited as the ‘Reuse Excess Property Act’.”
+
+Short Title of 2022 AmendmentPub. L. 117–328, div. Z, § 101, Dec. 29, 2022, 136 Stat. 5523, provided that: “This division [enacting section 549a of this title and provisions set out as a note under section 549a of this title] may be cited as the ‘Computers for Veterans and Students Act of 2022’ or the ‘COVS Act’.” Pub. L. 117–202, § 1, Oct. 17, 2022, 136 Stat. 2224, provided that: “This Act [amending section 3313 of this title and enacting provisions set out as a note under section 3313 of this title] may be cited as the ‘Bulb Replacement Improving Government with High-efficiency Technology Act’ or the ‘BRIGHT Act’.” Pub. L. 117–148, § 1, June 16, 2022, 136 Stat. 1288, provided that: “This Act [amending section 6121 of this title] may be cited as the ‘Supreme Court Police Parity Act of 2022’.”
+
+Short Title of 2021 AmendmentPub. L. 116–333, § 1, Jan. 13, 2021, 134 Stat. 5113, provided that: “This Act [enacting section 3318 of this title] may be cited as the ‘Transparency in Federal Buildings Projects Act of 2019’.”
+
+Short Title of 2020 AmendmentPub. L. 116–194, § 1, Dec. 3, 2020, 134 Stat. 981, provided that: “This Act [enacting provisions set out as a note under section 11301 of this title] may be cited as the ‘Information Technology Modernization Centers of Excellence Program Act’.”
+
+Short Title of 2019 AmendmentPub. L. 116–75, § 1, Nov. 27, 2019, 133 Stat. 1160, provided that: “This Act [amending section 6121 of this title] may be cited as the ‘Reauthorizing Security for Supreme Court Justices Act of 2019’.” Pub. L. 116–30, § 1, July 25, 2019, 133 Stat. 1032, provided that: “This Act [enacting section 3318 of this title and provisions set out as a note under section 3318 of this title] may be cited as the ‘Fairness For Breastfeeding Mothers Act of 2019’.” Pub. L. 115–419, § 1, Jan. 3, 2019, 132 Stat. 5442, provided that: “This Act [amending sections 506 and 524 of this title] may be cited as the ‘Federal Personal Property Management Act of 2018’.”
+
+Short Title of 2018 AmendmentPub. L. 115–271, title VIII, § 8061, Oct. 24, 2018, 132 Stat. 4094, provided that: “This subtitle [subtitle E (§§ 8061, 8062) of title VIII of Pub. L. 115–271, enacting section 14510 of this title] may be cited as the ‘Treating Barriers to Prosperity Act of 2018’.”
+
+Short Title of 2017 AmendmentPub. L. 115–88, § 1, Nov. 21, 2017, 131 Stat. 1278, provided that: “This Act [amending sections 11302 and 11319 of this title and provisions set out as a note under section 3601 of Title 44, Public Printing and Documents] may be cited as the ‘FITARA Enhancement Act of 2017’.”
+
+Short Title of 2016 AmendmentPub. L. 114–318, § 1, Dec. 16, 2016, 130 Stat. 1608, provided that: “This Act [enacting subchapter VII of chapter 5 of this title and chapter 29 of Title 39, Postal Service, amending sections 102, 524, and 571 of this title, enacting provisions set out as notes under sections 571 and 621 of this title, and amending provisions set out as a note under section 1303 of this title] may be cited as the ‘Federal Property Management Reform Act of 2016’.” Pub. L. 114–235, § 1, Oct. 7, 2016, 130 Stat. 964, provided that: “This Act [enacting section 3314 of this title, renumbering former section 3314 and sections 3315 and 3316 of this title as sections 3315 to 3317 of this title, respectively, and enacting provisions set out as a note under section 3314 of this title] may be cited as the ‘Bathrooms Accessible in Every Situation Act’ or ‘BABIES Act’.”
+
+Short Title of 2014 AmendmentPub. L. 113–291, div. A, title VIII, subtitle D (§§ 831–837), Dec. 19, 2014, 128 Stat. 3438, which enacted section 11319 of this title, amended sections 11302 and 11319 of this title, and enacted provisions set out as notes under sections 1704 and 3301 of Title 41, Public Contracts, and section 3601 of Title 44, Public Printing and Documents, is popularly known as the “Federal Information Technology Acquisition Reform Act” or “FITARA”.
+
+Short Title of 2013 AmendmentPub. L. 113–50, § 1, Nov. 21, 2013, 127 Stat. 578, provided that: “This Act [amending sections 3144 and 3703 of this title] may be cited as the ‘Streamlining Claims Processing for Federal Contractor Employees Act’.” Pub. L. 113–26, § 1, Aug. 9, 2013, 127 Stat. 502, provided that: “This Act [amending section 549 of this title] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013’ or the ‘FOR VETS Act of 2013’.”
+
+Short Title of 2010 AmendmentPub. L. 111–338, § 1, Dec. 22, 2010, 124 Stat. 3590, provided that: “This Act [amending section 549 of this title] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2010’or ‘FOR VETS Act of 2010’.” Pub. L. 111–263, § 1, Oct. 8, 2010, 124 Stat. 2787, provided that: “This Act [amending section 502 of this title] may be cited as the ‘Federal Supply Schedules Usage Act of 2010’.”
+
+Short Title of 2008 AmendmentPub. L. 110–371, § 1, Oct. 8, 2008, 122 Stat. 4037, provided that: “This Act [enacting section 14508 of this title and amending sections 14102, 14321, 14502 to 14507, 14526, 14703, and 14704 of this title] may be cited as the ‘Appalachian Regional Development Act Amendments of 2008’.” Pub. L. 110–248, § 1, June 26, 2008, 122 Stat. 2316, provided that: “This Act [amending section 502 of this title] may be cited as the ‘Local Preparedness Acquisition Act’.”
+
+Short Title of 2006 AmendmentPub. L. 109–396, § 1, Dec. 15, 2006, 120 Stat. 2711, provided that: “This Act [enacting provisions set out as notes under sections 524 and 5102 of this title, provisions listed in a table of Commemorative Works set out under section 8903 of this title, and provisions set out as a note under section 225b of Title 24, Hospitals and Asylums] may be cited as the ‘Federal and District of Columbia Government Real Property Act of 2006’.” Pub. L. 109–313, § 1, Oct. 6, 2006, 120 Stat. 1734, provided that: “This Act [amending sections 303, 321, 549, 573, 604, and 605 of this title, section 5316 of Title 5, Government Organization and Employees, section 2669 of Title 22, Foreign Relations and Intercourse, and section 433 of Title 41, Public Contracts, repealing section 322 of this title, enacting provisions set out as notes under sections 303 and 321 of this title and section 5316 of Title 5, and amending provisions set out as notes under section 2302 of Title 10, Armed Forces, and section 2107 of Title 44, Public Printing and Documents] may be cited as the ‘General Services Administration Modernization Act’.”
+
+Short Title of 2003 AmendmentPub. L. 108–126, title II, § 201, Nov. 17, 2003, 117 Stat. 1349, provided that: “This title [amending sections 8901 to 8906 and 8908 of this title and enacting provisions set out as notes under section 8901 of this title] may be cited as the ‘Commemorative Works Clarification and Revision Act of 2003’.”

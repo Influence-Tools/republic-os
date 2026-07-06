@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "41 U.S.C. § 1302"
+description: "Establishment and membership"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 41
+title_name: "PUBLIC CONTRACTS"
+chapter_number: "13"
+chapter_name: "ACQUISITION COUNCILS"
+section: "1302"
+citation: "41 U.S.C. § 1302"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc41@119-100.zip"
+source_identifier: "/us/usc/t41/s1302"
+source_file: "data/legal/raw/us/code/title-41/usc41.xml"
+source_hash: "7294e73eab72d6d2233f56a04e8f4fe9df87e94172f807668a17d85b415616df"
+raw_snapshot_hash: "0977ff7e7fefd99bbd25a86e009a9e4c2707301ec8c49233d17b6604e38702e3"
+text_hash: "0488179ddeb7f7db4bbbc299727e64920cd3b32d876764e68227d926f55ed312"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 41 U.S.C. § 1302 - Establishment and membership
+
+## Text
+
+(a) Establishment.— There is a Federal Acquisition Regulatory Council to assist in the direction and coordination of Government-wide procurement policy and Government-wide procurement regulatory activities in the Federal Government.
+
+(b) Membership.— (1) Makeup of council.— The Council consists of—
+
+(A) the Administrator;
+
+(B) the Secretary of Defense;
+
+(C) the Administrator of National Aeronautics and Space; and
+
+(D) the Administrator of General Services.
+
+(2) Designation of other officials.— (A) Officials who may be designated.— Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (B) to (D) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official—
+
+(i) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Sustainment; or
+
+(ii) if no official of that agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 1702(c) of this title.
+
+(B) Limitation on designation.— No other official or employee may be designated to serve on the Council.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 116–92, div. A, title IX, § 902(88), Dec. 20, 2019, 133 Stat. 1554.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 1302(a)41:421(a).Pub. L. 93–400, § 25(a), (b), as added Pub. L. 100–679, § 4, Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, title VIII, § 807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, title XLIII, § 4322(a)(2), Feb. 10, 1996, 110 Stat. 677. 1302(b)41:421(b). In subsection (a), the words “(hereinafter in this section referred to as the ‘Council’)” are omitted as unnecessary. In subsection (b)(2)(A)(i), the words “Under Secretary of Defense for Acquisition, Technology, and Logistics” are substituted for “Under Secretary of Defense for Acquisition and Technology” because of section 911(a)(1) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65, 113 Stat. 717, 10 U.S.C. 133 note). In subsection (b)(2)(A)(ii), the cross-reference to section 16(3) of the Office of Federal Procurement Policy Act (41:414(3)) is treated as a cross-reference to section 16(c) of the Act to reflect the amendment of section 16 by section 1421(a)(1) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136, 117 Stat. 1666).
+
+Editorial Notes
+
+Amendments2019—Subsec. (b)(2)(A)(i). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Statutory Notes and Related Subsidiaries
+
+Status of Director of Defense ProcurementPub. L. 102–190, div. A, title VIII, § 809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 421(b)(2)) [now 41 U.S.C. 1302(b)(2)], the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”

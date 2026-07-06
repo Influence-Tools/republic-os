@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2732"
+description: "Public diplomacy responsibilities of the Department of State"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "38"
+chapter_name: "DEPARTMENT OF STATE"
+section: "2732"
+citation: "22 U.S.C. § 2732"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2732"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "e514ef9b81d610008e0da49882e0d7757920b6b6bee4e9ac1a36fe2dc9acabfd"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "e7d02577085d6fab3f74a46ff201c50a8a53c208773493784d88ef15df6aecac"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2732 - Public diplomacy responsibilities of the Department of State
+
+## Text
+
+(a) Integral component The Secretary of State shall make public diplomacy an integral component in the planning and execution of United States foreign policy.
+
+(b) Coordination and development of strategy The Secretary shall make every effort to—
+
+(1) coordinate, subject to the direction of the President, the public diplomacy activities of Federal agencies; and
+
+(2) coordinate with the Broadcasting Board of Governors to—
+
+(A) develop a comprehensive and coherent strategy for the use of public diplomacy resources; and
+
+(B) develop and articulate long-term measurable objectives for United States public diplomacy.
+
+(c) Objectives The strategy developed pursuant to subsection (b) shall include public diplomacy efforts targeting developed and developing countries and select and general audiences, using appropriate media to properly explain the foreign policy of the United States to the governments and populations of such countries, with the objectives of increasing support for United States policies and providing news and information. The Secretary shall, through the most effective mechanisms, counter misinformation and propaganda concerning the United States. The Secretary shall continue to articulate the importance of freedom, democracy, and human rights as fundamental principles underlying United States foreign policy goals.
+
+(d) Identification of United States foreign assistance In cooperation with the United States Agency for International Development (USAID) and other public and private assistance organizations and agencies, the Secretary should ensure that information relating to foreign assistance provided by the United States, nongovernmental organizations, and private entities of the United States is disseminated widely, and particularly, to the extent practicable, within countries and regions that receive such assistance. The Secretary should ensure that, to the extent practicable, projects funded by USAID not involving commodities, including projects implemented by private voluntary organizations, are identified as provided by the people of the United States.
+
+(Aug. 1, 1956, ch. 841, title I, § 60, as added Pub. L. 108–458, title VII, § 7109(a), Dec. 17, 2004, 118 Stat. 3792.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
+Public Diplomacy OutreachPub. L. 118–31, div. F, title LXVI, § 6601, Dec. 22, 2023, 137 Stat. 1010, provided that: “(a) Coordination of Resources.—The Administrator of the United States Agency for International Development and the Secretary [of State] shall direct public affairs sections at United States embassies and USAID Mission Program Officers at USAID missions to coordinate, enhance and prioritize resources for public diplomacy and awareness campaigns around United States diplomatic and development efforts, including through—“(1) the utilization of new media technology for maximum public engagement; and “(2) enact coordinated comprehensive community outreach to increase public awareness and understanding and appreciation of United States diplomatic and development efforts. “(b) Development Outreach and Coordination Officers.—USAID should prioritize hiring of additional Development Outreach and Coordination officers in USAID missions to support the purposes of subsection (a). “(c) Best Practices.—The Secretary and the Administrator of USAID shall identify 10 countries in which Embassies and USAID missions have successfully executed efforts, including monitoring and evaluation of such efforts, described in [subsection] (a) and develop best practices to be turned into Department [of State] and USAID guidance.”

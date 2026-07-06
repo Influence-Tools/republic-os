@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 46102"
+description: "Proceedings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "461"
+chapter_name: "INVESTIGATIONS AND PROCEEDINGS"
+section: "46102"
+citation: "49 U.S.C. § 46102"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s46102"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "497fe9f42888c23ec5e5d585dd8bcbc138074956224e0afe4020822011aacf8a"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "f703f541dad7ec0bece5383e618fcfd865311a3719add08c3be4dd1b8b19390f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 46102 - Proceedings
+
+## Text
+
+(a) Conducting Proceedings.— Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
+
+(b) Appearance.— A person may appear and be heard before the Secretary, the Administrator of the Transportation Security Administration, and the Administrator of the Federal Aviation Administration in person or by an attorney. The Secretary may appear and participate as an interested party in a proceeding the Administrator of the Federal Aviation Administration conducts under section 40113(a) of this title.
+
+(c) Recording and Public Access.— Official action taken by the Secretary, Administrator of the Transportation Security Administration, and Administrator of the Federal Aviation Administration under this part shall be recorded. Proceedings before the Secretary, Administrator of the Transportation Security Administration, and Administrator of the Federal Aviation Administration shall be open to the public on the request of an interested party unless the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration decides that secrecy is required because of national defense.
+
+(d) Conflicts of Interest.— The Secretary, the Administrator of the Transportation Security Administration, the Administrator of the Federal Aviation Administration, or an officer or employee of the Federal Aviation Administration may not participate in a proceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1226; Pub. L. 107–71, title I, § 140(b)(1), (2), (4)–(6), Nov. 19, 2001, 115 Stat. 641; Pub. L. 115–254, div. K, title I, § 1991(f)(1)–(5), Oct. 5, 2018, 132 Stat. 3642.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 46102(a)49 App.:1481 (1st sentence).Aug. 23, 1958, Pub. L. 85–726, § 1001, 72 Stat. 788.  49 App.:1551(b)(1)(E).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, § 3(e), 98 Stat. 1704.  49 App.:1655(c)(1).Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, § 7(b), 96 Stat. 2444. 46102(b)49 App.:1481 (3d, 4th sentences).  49 App.:1551(b)(1)(E).  49 App.:1655(c)(1). 46102(c)49 App.:1481 (last sentence).  49 App.:1551(b)(1)(E).  49 App.:1655(c)(1). 46102(d)49 App.:1481 (2d sentence).  49 App.:1551(b)(1)(E).  49 App.:1655(c)(1). In subsection (a), the cross-reference to chapter 7 of title 5 is omitted as unnecessary. In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma) is omitted as obsolete. The words “National Transportation Safety Board” were substituted for “Board” in 49 App.:1481 (4th sentence) because 49 App.:1655(d) transferred all functions, duties, and powers of the Civil Aeronautics Board under titles VI and VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 775) to the Secretary of Transportation to be carried out through the former National Transportation Safety Board in the Department of Transportation. Title VI includes sections 602 and 609 [49 App.:1422, 1429], that provide for appeals to the Civil Aeronautics Board (subsequently transferred to the National Transportation Safety Board), and section 611(e) [49 App.:1431(e)], that provides for appeals to the National Transportation Safety Board. Under 49 App.:1902(a), the National Transportation Safety Board in the Department of Transportation was replaced by an independent National Transportation Safety Board outside the Department, and 49 App.:1903(a)(9)(A) gave the independent Board the authority to review appeals from actions of the Secretary under 49 App.:1422, 1429, and 1431(e). In subsection (c), the words “vote and” are omitted as surplus. In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–254, § 1991(f)(4), substituted “Administrator of the Transportation Security Administration,” for “Under Secretary,” wherever appearing. Subsec. (a). Pub. L. 115–254, § 1991(f)(3), substituted “by the Administrator of the Federal Aviation Administration)” for “by the Administrator)”. Pub. L. 115–254, § 1991(f)(1), substituted “Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary”. Subsec. (b). Pub. L. 115–254, § 1991(f)(5)(A), substituted “the Administrator of the Federal Aviation Administration” for “the Administrator” in two places. Subsec. (c). Pub. L. 115–254, § 1991(f)(5)(B), substituted “and Administrator of the Federal Aviation Administration” for “and Administrator” in two places. Pub. L. 115–254, § 1991(f)(2), substituted “or Administrator of the Federal Aviation Administration” for “or Administrator”. Subsec. (d). Pub. L. 115–254, § 1991(f)(5)(C), substituted “the Administrator of the Federal Aviation Administration, or an officer or employee of the Federal Aviation Administration” for “the Administrator, or an officer or employee of the Administration”. 2001—Subsec. (a). Pub. L. 107–71, § 140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”. Subsec. (b). Pub. L. 107–71, § 140(b)(4), substituted “, the Under Secretary, and the Administrator” for “and the Administrator”. Subsec. (c). Pub. L. 107–71, § 140(b)(2), (5), substituted “, Under Secretary, and Administrator” for “and Administrator” in two places and “, Under Secretary, or Administrator” for “or Administrator”. Subsec. (d). Pub. L. 107–71, § 140(b)(6), inserted “the Under Secretary,” after “Secretary,”.

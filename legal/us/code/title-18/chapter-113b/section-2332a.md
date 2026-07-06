@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 2332a"
+description: "Use of weapons of mass destruction"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "113B"
+chapter_name: "TERRORISM"
+section: "2332a"
+citation: "18 U.S.C. § 2332a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s2332a"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "4314ab71abd9f7d78f4a48483fb6b7fd4c2dc2fc63c34a1fa247f7f674d7e4e3"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "6453433cb17d0ce1d7da8ddd01398e5a521be74d0908d66b93dbfb262f8cee22"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 2332a - Use of weapons of mass destruction
+
+## Text
+
+(a) Offense Against a National of the United States or Within the United States.— A person who, without lawful authority, uses, threatens, or attempts or conspires to use, a weapon of mass destruction—
+
+(1) against a national of the United States while such national is outside of the United States;
+
+(2) against any person or property within the United States, and
+
+(A) the mail or any facility of interstate or foreign commerce is used in furtherance of the offense;
+
+(B) such property is used in interstate or foreign commerce or in an activity that affects interstate or foreign commerce;
+
+(C) any perpetrator travels in or causes another to travel in interstate or foreign commerce in furtherance of the offense; or
+
+(D) the offense, or the results of the offense, affect interstate or foreign commerce, or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce;
+
+(3) against any property that is owned, leased or used by the United States or by any department or agency of the United States, whether the property is within or outside of the United States; or
+
+(4) against any property within the United States that is owned, leased, or used by a foreign government,
+
+shall be imprisoned for any term of years or for life, and if death results, shall be punished by death or imprisoned for any term of years or for life.
+
+(b) Offense by National of the United States Outside of the United States.— Any national of the United States who, without lawful authority, uses, or threatens, attempts, or conspires to use, a weapon of mass destruction outside of the United States shall be imprisoned for any term of years or for life, and if death results, shall be punished by death, or by imprisonment for any term of years or for life.
+
+(c) Definitions.— For purposes of this section—
+
+(1) the term “national of the United States” has the meaning given in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+
+(2) the term “weapon of mass destruction” means—
+
+(A) any destructive device as defined in section 921 of this title;
+
+(B) any weapon that is designed or intended to cause death or serious bodily injury through the release, dissemination, or impact of toxic or poisonous chemicals, or their precursors;
+
+(C) any weapon involving a biological agent, toxin, or vector (as those terms are defined in section 178 of this title); or
+
+(D) any weapon that is designed to release radiation or radioactivity at a level dangerous to human life; and
+
+(3) the term “property” includes all real and personal property.
+
+(Added Pub. L. 103–322, title VI, § 60023(a), Sept. 13, 1994, 108 Stat. 1980; amended Pub. L. 104–132, title V, § 511(c), title VII, § 725, Apr. 24, 1996, 110 Stat. 1284, 1300; Pub. L. 104–294, title VI, § 605(m), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–277, div. I, title II, § 201(b)(1), Oct. 21, 1998, 112 Stat. 2681–871; Pub. L. 107–188, title II, § 231(d), June 12, 2002, 116 Stat. 661; Pub. L. 108–458, title VI, § 6802(a), (b), Dec. 17, 2004, 118 Stat. 3766, 3767.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2004—Pub. L. 108–458, § 6802(b)(1), struck out “certain” before “weapons” in section catchline. Subsec. (a). Pub. L. 108–458, § 6802(b)(2), struck out “(other than a chemical weapon as that term is defined in section 229F)” after “mass destruction” in introductory provisions. Subsec. (a)(2). Pub. L. 108–458, § 6802(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “against any person within the United States, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce; or”. Subsec. (a)(4). Pub. L. 108–458, § 6802(a)(2), (3), added par. (4). Subsec. (b). Pub. L. 108–458, § 6802(b)(3), struck out “(other than a chemical weapon (as that term is defined in section 229F))” after “mass destruction”. Subsec. (c)(3). Pub. L. 108–458, § 6802(a)(4)–(6), added par. (3). 2002—Subsec. (a). Pub. L. 107–188, § 231(d)(1), substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions. Subsec. (c)(2)(C). Pub. L. 107–188, § 231(d)(2), substituted “a biological agent, toxin, or vector (as those terms are defined in section 178 of this title)” for “a disease organism”. 1998—Pub. L. 105–277, § 201(b)(1)(A), inserted “certain” before “weapons” in section catchline. Subsec. (a). Pub. L. 105–277, § 201(b)(1)(B), inserted “(other than a chemical weapon as that term is defined in section 229F)” after “weapon of mass destruction” in introductory provisions. Subsec. (b). Pub. L. 105–277, § 201(b)(1)(C), inserted “(other than a chemical weapon (as that term is defined in section 229F))” after “weapon of mass destruction”. 1996—Subsec. (a). Pub. L. 104–132, §§ 511(c), 725(1)(A), (B), in heading, inserted “Against a National of the United States or Within the United States” after “Offense”, and in introductory provisions, substituted “, without lawful authority, uses, threatens, or attempts” for “uses, or attempts” and inserted “, including any biological agent, toxin, or vector (as those terms are defined in section 178)” after “mass destruction”. Subsec. (a)(2). Pub. L. 104–132, § 725(1)(C), inserted before semicolon at end “, and the results of such use affect interstate or foreign commerce or, in the case of a threat, attempt, or conspiracy, would have affected interstate or foreign commerce”. Subsec. (b). Pub. L. 104–132, § 725(4), added subsec. (b). Former subsec. (b) redesignated (c). Subsec. (b)(2)(B). Pub. L. 104–132, § 725(2), as amended by Pub. L. 104–294, § 605(m), added subpar. (B) and struck out former subpar. (B) which read as follows: “poison gas;”. Subsec. (c). Pub. L. 104–132, § 725(3), redesignated subsec. (b) as (c).

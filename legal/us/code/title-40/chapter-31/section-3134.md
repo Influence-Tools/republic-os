@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "40 U.S.C. § 3134"
+description: "Waivers for certain contracts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 40
+title_name: "PUBLIC BUILDINGS, PROPERTY, AND WORKS"
+chapter_number: "31"
+chapter_name: "GENERAL"
+section: "3134"
+citation: "40 U.S.C. § 3134"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc40@119-100.zip"
+source_identifier: "/us/usc/t40/s3134"
+source_file: "data/legal/raw/us/code/title-40/usc40.xml"
+source_hash: "760ae6fb27622529cbb9413765ef03162c2035e6c2d617bad9dddff53c1e213c"
+raw_snapshot_hash: "9e671d5f37f9148634c9ba568a4c16d4864b567130b66bcf607f680414560a29"
+text_hash: "b740b21e06cbbf7206c1c76e7d505cca5203ef50dc4f0de2d6b1bc44968f5a7b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 40 U.S.C. § 3134 - Waivers for certain contracts
+
+## Text
+
+(a) Military.— The Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Transportation may waive this subchapter with respect to cost-plus-a-fixed fee and other cost-type contracts for the construction, alteration, or repair of any public building or public work of the Federal Government and with respect to contracts for manufacturing, producing, furnishing, constructing, altering, repairing, processing, or assembling vessels, aircraft, munitions, materiel, or supplies for the Army, Navy, Air Force, or Coast Guard, respectively, regardless of the terms of the contracts as to payment or title.
+
+(b) Transportation.— The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31 or subtitle V of title 46, regardless of the terms of the contracts as to payment or title.
+
+(c) National Oceanic and Atmospheric Administration.— The Secretary of Commerce may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels, regardless of the terms of the contracts as to payment or title, when the contract is made under the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947 (33 U.S.C. 883a et seq.).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1149; Pub. L. 109–304, § 17(g)(2), Oct. 6, 2006, 120 Stat. 1709; Pub. L. 115–91, div. C, title XXXV, § 3502(b)(2), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. C, title XXXV, § 3515(c), Aug. 13, 2018, 132 Stat. 2313.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 3134(a)40:270e.Apr. 29, 1941, ch. 81, § 1, 55 Stat. 147; June 3, 1955, ch. 129, 69 Stat. 83. 3134(b)40:270f.Apr. 29, 1941, ch. 81, § 2, as added Pub. L. 91–469, § 39, Oct. 21, 1970, 84 Stat. 1036; Pub. L. 97–31, § 12(12), Aug. 6, 1981, 95 Stat. 154. In subsection (a), the words “Secretary of Transportation” are substituted for “Secretary of Commerce” because of 49:108. The words “the manufacturing, producing, furnishing, construction, alteration, repair, processing, or assembling of” and “of any kind or nature” are omitted as unnecessary. In subsection (b), the words “of any kind or nature” are omitted as unnecessary. The words “sections 1535 and 1536 of title 31” are substituted for “the Act of June 30, 1932 (47 Stat. 382, 417–418), as amended [31 U.S.C. 686, 686b]” because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
+
+Editorial Notes
+
+References in TextAn Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes, referred to in subsec. (c), is act Aug. 6, 1947, ch. 504, 61 Stat. 787, popularly known as the Coast and Geodetic Survey Act, which is classified generally to subchapter II (§ 883a et seq.) of chapter 17 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+
+Amendments2018—Subsec. (c). Pub. L. 115–232 added subsec. (c). 2017—Subsec. (b). Pub. L. 115–91, § 3502(b)(2), substituted “31 or” for “31,” and struck out “or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.),” after “title 46,”. 2006—Subsec. (b). Pub. L. 109–304 substituted “subtitle V of title 46” for “the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.

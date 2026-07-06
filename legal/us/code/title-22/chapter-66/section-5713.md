@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 5713"
+description: "Commerce between United States and Hong Kong"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "66"
+chapter_name: "UNITED STATES-HONG KONG POLICY"
+section: "5713"
+citation: "22 U.S.C. § 5713"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s5713"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "fa5d30d2fd8ddce63e962b5647716b0d5c480258e6f23e01100145a0e7a186db"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "a26cd2867c15203bb7041f2aff13587b35518235108bec4ac70ca5f2e32f5ecc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 5713 - Commerce between United States and Hong Kong
+
+## Text
+
+It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, are and should continue after June 30, 1997, to be the policy of the United States with respect to commerce between the United States and Hong Kong:
+
+(1) The United States should seek to maintain and expand economic and trade relations with Hong Kong and should continue to treat Hong Kong as a separate territory in economic and trade matters, such as import quotas and certificates of origin.
+
+(2) The United States should continue to negotiate directly with Hong Kong to conclude bilateral economic agreements.
+
+(3) The United States should continue to treat Hong Kong as a territory which is fully autonomous from the United Kingdom and, after June 30, 1997, should treat Hong Kong as a territory which is fully autonomous from the People’s Republic of China with respect to economic and trade matters.
+
+(4) The United States should continue to grant the products of Hong Kong nondiscriminatory trade treatment by virtue of Hong Kong’s membership in the General Agreement on Tariffs and Trade.
+
+(5) The United States should recognize certificates of origin for manufactured goods issued by the Hong Kong Special Administrative Region.
+
+(6) The United States should continue to allow the United States dollar to be freely exchanged with the Hong Kong dollar.
+
+(7) United States businesses should be encouraged to continue to operate in Hong Kong, in accordance with applicable United States and Hong Kong law.
+
+(8) The United States should continue to support access by Hong Kong to sensitive technologies controlled under the agreement of the Coordinating Committee for Multilateral Export Controls (commonly referred to as “COCOM”) for so long as the United States is satisfied that such technologies are protected from improper use or export.
+
+(9) The United States should encourage Hong Kong to continue its efforts to develop a framework which provides adequate protection for intellectual property rights.
+
+(10) The United States should negotiate a bilateral investment treaty directly with Hong Kong, in consultation with the Government of the People’s Republic of China.
+
+(11) The change in the exercise of sovereignty over Hong Kong should not affect ownership in any property, tangible or intangible, held in the United States by any Hong Kong person.
+
+(Pub. L. 102–383, title I, § 103, Oct. 5, 1992, 106 Stat. 1450; Pub. L. 105–206, title V, § 5003(b)(7), July 22, 1998, 112 Stat. 790.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1998—Par. (4). Pub. L. 105–206 struck out “(commonly referred to as ‘most-favored-nation status’)” after “nondiscriminatory trade treatment”.

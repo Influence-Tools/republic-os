@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 605"
+description: "Unlawful cutting on mineral lands; notice to Secretary"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "4"
+chapter_name: "PROTECTION OF TIMBER, AND DEPREDATIONS"
+section: "605"
+citation: "16 U.S.C. § 605"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s605"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "b43c8ab58a0c8c0979bc9e515441c7f09ba7fbfed4fd413e8cd0fda8e755c99e"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "22334b9418625ded53ce8ee34b43a3f70eb2952c77a83098570cda21c64046ea"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 605 - Unlawful cutting on mineral lands; notice to Secretary
+
+## Text
+
+It shall be the duty of such officer as the Secretary of the Interior may designate in whose district any mineral land may be situated to ascertain from time to time whether any timber is being cut or used upon any such lands, except for the purposes authorized by section 604 of this title, within such land district; and, if so, he shall immediately notify the Secretary of the Interior of that fact; and all necessary expenses incurred in making such proper examinations shall be paid for and allowed such officer in making up his next quarterly account.
+
+(June 3, 1878, ch. 150, § 2, 20 Stat. 88; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+## Notes
+
+Executive Documents
+
+Transfer of Functions For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees. “Such officer as the Secretary of the Interior may designate” substituted in text for “the register and the receiver of any local land office”, “Secretary of the Interior” for “Commissioner of the General Land Office”, and “such officer” for “such register and receiver” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.

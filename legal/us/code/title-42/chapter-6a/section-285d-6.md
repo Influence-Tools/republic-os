@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 285d–6"
+description: "Multipurpose arthritis and musculoskeletal diseases centers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "285d–6"
+citation: "42 U.S.C. § 285d–6"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s285d–6"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "7655c1c9b8cd93179813abf5f6db55c2e1623ce98672ebd1b7159254bd94826f"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "85d5eca36aea559683a152dbe5892f6b8ab8205a3ca0798f560b2a6c20274fad"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 285d–6 - Multipurpose arthritis and musculoskeletal diseases centers
+
+## Text
+
+(a) Development, modernization, and operation The Director of the Institute shall, after consultation with the advisory council for the Institute, provide for the development, modernization, and operation (including staffing and other operating costs such as the costs of patient care required for research) of new and existing centers for arthritis and musculoskeletal diseases. For purposes of this section, the term “modernization” means the alteration, remodeling, improvement, expansion, and repair of existing buildings and the provision of equipment for such buildings to the extent necessary to make them suitable for use as centers described in the preceding sentence.
+
+(b) Duties and functions Each center assisted under this section shall—
+
+(1) (A) use the facilities of a single institution or a consortium of cooperating institutions, and (B) meet such qualifications as may be prescribed by the Secretary; and
+
+(2) conduct—
+
+(A) basic and clinical research into the cause, diagnosis, early detection, prevention, control, and treatment of and rehabilitation from arthritis and musculoskeletal diseases and complications resulting from arthritis and musculoskeletal diseases, including research into implantable biomaterials and biomechanical and other orthopedic procedures;
+
+(B) training programs for physicians, scientists, and other health and allied health professionals;
+
+(C) information and continuing education programs for physicians and other health and allied health professionals who provide care for patients with arthritis and musculoskeletal diseases; and
+
+(D) programs for the dissemination to the general public of information—
+
+(i) on the importance of early detection of arthritis and musculoskeletal diseases, of seeking prompt treatment, and of following an appropriate regimen; and
+
+(ii) to discourage the promotion and use of unapproved and ineffective diagnostic, preventive, treatment, and control methods and unapproved and ineffective drugs and devices.
+
+A center may use funds provided under subsection (a) to provide stipends for health professionals enrolled in training programs described in paragraph (2)(B).
+
+(c) Optional programs Each center assisted under this section may conduct programs to—
+
+(1) establish the effectiveness of new and improved methods of detection, referral, and diagnosis of individuals with a risk of developing arthritis and musculoskeletal diseases;
+
+(2) disseminate the results of research, screening, and other activities, and develop means of standardizing patient data and recordkeeping; and
+
+(3) develop community consultative services to facilitate the referral of patients to centers for treatment.
+
+(d) Geographical distribution The Director of the Institute shall, insofar as practicable, provide for an equitable geographical distribution of centers assisted under this section. The Director shall give appropriate consideration to the need for centers especially suited to meeting the needs of children affected by arthritis and musculoskeletal diseases.
+
+(e) Period of support; additional periods Support of a center under this section may be for a period of not to exceed five years. Such period may be extended by the Director of the Institute for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+
+(f) Treatment and rehabilitation of children Not later than October 1, 1993, the Director shall establish a multipurpose arthritis and musculoskeletal disease center for the purpose of expanding the level of research into the cause, diagnosis, early detection, prevention, control, and treatment of, and rehabilitation of children with arthritis and musculoskeletal diseases.
+
+(July 1, 1944, ch. 373, title IV, § 441, as added Pub. L. 99–158, § 2, Nov. 20, 1985, 99 Stat. 851; amended Pub. L. 100–607, title I, § 137, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 103–43, title VII, § 701(c), June 10, 1993, 107 Stat. 162.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1993—Subsec. (f). Pub. L. 103–43 added subsec. (f). 1988—Subsec. (b)(2)(A). Pub. L. 100–607 inserted “and rehabilitation from” after “and treatment of”.

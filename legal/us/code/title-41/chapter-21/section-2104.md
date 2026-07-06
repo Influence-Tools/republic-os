@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "41 U.S.C. § 2104"
+description: "Prohibition on former official’s acceptance of compensation from contractor"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 41
+title_name: "PUBLIC CONTRACTS"
+chapter_number: "21"
+chapter_name: "RESTRICTIONS ON OBTAINING AND DISCLOSING CERTAIN INFORMATION"
+section: "2104"
+citation: "41 U.S.C. § 2104"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc41@119-100.zip"
+source_identifier: "/us/usc/t41/s2104"
+source_file: "data/legal/raw/us/code/title-41/usc41.xml"
+source_hash: "b770914dad6c76137934eedac9d4fbe343c7da72dc5fbae302c4a8acea2e370c"
+raw_snapshot_hash: "0977ff7e7fefd99bbd25a86e009a9e4c2707301ec8c49233d17b6604e38702e3"
+text_hash: "3fbc085e4c2510f37445d377e6dcd8dc9451339d2f9ee6c69a31540df0dea84a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 41 U.S.C. § 2104 - Prohibition on former official’s acceptance of compensation from contractor
+
+## Text
+
+(a) Prohibition.— A former official of a Federal agency may not accept compensation from a contractor as an employee, officer, director, or consultant of the contractor within one year after the official—
+
+(1) served, when the contractor was selected or awarded a contract, as the procuring contracting officer, the source selection authority, a member of the source selection evaluation board, or the chief of a financial or technical evaluation team in a procurement in which that contractor was selected for award of a contract in excess of $10,000,000;
+
+(2) served as the program manager, deputy program manager, or administrative contracting officer for a contract in excess of $10,000,000 awarded to that contractor; or
+
+(3) personally made for the Federal agency a decision to—
+
+(A) award a contract, subcontract, modification of a contract or subcontract, or a task order or delivery order in excess of $10,000,000 to that contractor;
+
+(B) establish overhead or other rates applicable to one or more contracts for that contractor that are valued in excess of $10,000,000;
+
+(C) approve issuance of one or more contract payments in excess of $10,000,000 to that contractor; or
+
+(D) pay or settle a claim in excess of $10,000,000 with that contractor.
+
+(b) When Compensation May Be Accepted.— Subsection (a) does not prohibit a former official of a Federal agency from accepting compensation from a division or affiliate of a contractor that does not produce the same or similar products or services as the entity of the contractor that is responsible for the contract referred to in paragraph (1), (2), or (3) of subsection (a).
+
+(c) Implementing Regulations.— Regulations implementing this section shall include procedures for an official or former official of a Federal agency to request advice from the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this section from accepting compensation from a particular contractor.
+
+(d) Persons Subject to Penalties.— The following are subject to the penalties and administrative actions set forth in section 2105 of this title:
+
+(1) A former official who knowingly accepts compensation in violation of this section.
+
+(2) A contractor that provides compensation to a former official knowing that the official accepts the compensation in violation of this section.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3729.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 2104(a)41:423(d)(1).Pub. L. 93–400, § 27(d), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(l)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 660. 2104(b)41:423(d)(2). 2104(c)41:423(d)(5). 2104(d)41:423(d)(3), (4).

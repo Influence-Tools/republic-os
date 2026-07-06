@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 44911"
+description: "Intelligence"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "449"
+chapter_name: "SECURITY"
+section: "44911"
+citation: "49 U.S.C. § 44911"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s44911"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "b276b2bbda193464179696ec09e1048aa9af30a9a44f36773986bff6207ae356"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "4bea60f955ebb8d65f1f21497755373debc30287e507cc496780547777d140c0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 44911 - Intelligence
+
+## Text
+
+(a) Definition.— In this section, “intelligence community” means the intelligence and intelligence-related activities of the following units of the United States Government:
+
+(1) the Department of State.
+
+(2) the Department of Defense.
+
+(3) the Department of the Treasury.
+
+(4) the Department of Energy.
+
+(5) the Departments of the Army, Navy, and Air Force.
+
+(6) the Central Intelligence Agency.
+
+(7) the National Security Agency.
+
+(8) the Defense Intelligence Agency.
+
+(9) the Federal Bureau of Investigation.
+
+(10) the Drug Enforcement Administration.
+
+(b) Policies and Procedures on Report Availability.— The head of each unit in the intelligence community shall prescribe policies and procedures to ensure that intelligence reports about terrorism are made available, as appropriate, to the heads of other units in the intelligence community, the Secretary of Transportation, and the Administrator of the Transportation Security Administration.
+
+(c) Unit for Strategic Planning on Terrorism.— The heads of the units in the intelligence community shall place greater emphasis on strategic intelligence efforts by establishing a unit for strategic planning on terrorism.
+
+(d) Designation of Intelligence Officer.— At the request of the Secretary of Homeland Security, the Director of Central Intelligence shall designate at least one intelligence officer of the Central Intelligence Agency to serve in a senior position in the Office of the Secretary.
+
+(e) Written Working Agreements.— The heads of units in the intelligence community, the Secretary of Homeland Security, and the Administrator of the Transportation Security Administration shall review and, as appropriate, revise written working agreements between the intelligence community and the Administrator of the Transportation Security Administration.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1212; Pub. L. 107–71, title I, §§ 101(f)(7), (9), 102(b), (c), Nov. 19, 2001, 115 Stat. 603, 605; Pub. L. 115–254, div. K, title I, § 1991(d)(9), Oct. 5, 2018, 132 Stat. 3633.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 44911(a)49 App.:1358d (note).Nov. 16, 1990, Pub. L. 101–604, § 111(e), 104 Stat. 3080. 44911(b)49 App.:1358d (note).Nov. 16, 1990, Pub. L. 101–604, § 111(a), 104 Stat. 3080. 44911(c)49 App.:1358d (note).Nov. 16, 1990, Pub. L. 101–604, § 111(b), 104 Stat. 3080. 44911(d)49 App.:1358d (note).Nov. 16, 1990, Pub. L. 101–604, § 111(c), 104 Stat. 3080. 44911(e)49 App.:1358d (note).Nov. 16, 1990, Pub. L. 101–604, § 111(d), 104 Stat. 3080. In this section, the word “units” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code. In subsections (b) and (e), the words “Not later than 180 days after the date of enactment of this Act” in section 111(a) and (d) of the Aviation Security Improvement Act of 1990 (Public Law 101–640, 104 Stat. 3080) are omitted as obsolete. In subsection (b), the words “the heads of other units in the intelligence community, the Secretary of Transportation, and the Administrator of the Federal Aviation Administration” are substituted for “other members of the intelligence community, the Department of Transportation, and the Federal Aviation Administration” for clarity and consistency in the revised title and with other titles of the Code. In subsections (c) and (e), the words “heads of units in the intelligence community” are substituted for “intelligence community” for clarity and consistency in the revised title and with other titles of the Code. In subsection (e), the words “memorandums of understanding” are omitted as being included in “written working agreements”.
+
+Editorial Notes
+
+Amendments2018—Subsec. (b). Pub. L. 115–254, § 1991(d)(9)(A), substituted “Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for Security”. Subsec. (d). Pub. L. 115–254, § 1991(d)(9)(B), substituted “request of the Secretary of Homeland Security” for “request of the Secretary”. Subsec. (e). Pub. L. 115–254, § 1991(d)(9)(C), substituted “Secretary of Homeland Security, and the Administrator of the Transportation Security Administration” for “Secretary, and the Under Secretary” and “intelligence community and the Administrator of the Transportation Security Administration” for “intelligence community and the Under Secretary”. 2001—Subsec. (b). Pub. L. 107–71, § 102(b), struck out “international” before “terrorism”. Pub. L. 107–71, § 101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”. Subsec. (c). Pub. L. 107–71, § 102(c), substituted “place” for “consider placing”. Subsec. (e). Pub. L. 107–71, § 101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.

@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 381"
+description: "Imposition of net income tax"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "10B"
+chapter_name: "STATE TAXATION OF INCOME FROM INTERSTATE COMMERCE"
+section: "381"
+citation: "15 U.S.C. § 381"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s381"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "84f10f0b3d392eb55fa7c12dcc43d5684d4a2ab0f6a123f444ca2d0933982714"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "f37984d9aa18f9233fce521b192e054002d723a2f7c5bf9122c894cae257e27f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 381 - Imposition of net income tax
+
+## Text
+
+(a) Minimum standards No State, or political subdivision thereof, shall have power to impose, for any taxable year ending after September 14, 1959, a net income tax on the income derived within such State by any person from interstate commerce if the only business activities within such State by or on behalf of such person during such taxable year are either, or both, of the following:
+
+(1) the solicitation of orders by such person, or his representative, in such State for sales of tangible personal property, which orders are sent outside the State for approval or rejection, and, if approved, are filled by shipment or delivery from a point outside the State; and
+
+(2) the solicitation of orders by such person, or his representative, in such State in the name of or for the benefit of a prospective customer of such person, if orders by such customer to such person to enable such customer to fill orders resulting from such solicitation are orders described in paragraph (1).
+
+(b) Domestic corporations; persons domiciled in or residents of a State The provisions of subsection (a) shall not apply to the imposition of a net income tax by any State, or political subdivision thereof, with respect to—
+
+(1) any corporation which is incorporated under the laws of such State; or
+
+(2) any individual who, under the laws of such State, is domiciled in, or a resident of, such State.
+
+(c) Sales or solicitation of orders for sales by independent contractors For purposes of subsection (a), a person shall not be considered to have engaged in business activities within a State during any taxable year merely by reason of sales in such State, or the solicitation of orders for sales in such State, of tangible personal property on behalf of such person by one or more independent contractors, or by reason of the maintenance, of an office in such State by one or more independent contractors whose activities on behalf of such person in such State consist solely of making sales, or soliciting orders for sales, or tangible personal property.
+
+(d) Definitions For purposes of this section—
+
+(1) the term “independent contractor” means a commission agent, broker, or other independent contractor who is engaged in selling, or soliciting orders for the sale of, tangible personal property for more than one principal and who holds himself out as such in the regular course of his business activities; and
+
+(2) the term “representative” does not include an independent contractor.
+
+(Pub. L. 86–272, title I, § 101, Sept. 14, 1959, 73 Stat. 555.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Study and Report by Congressional Committees of State Taxation From Interstate CommerceTitle II of Pub. L. 86–272, as amended by Pub. L. 87–17, Apr. 7, 1961, 75 Stat. 41; Pub. L. 87–435, Apr. 21, 1962, 76 Stat. 55; Pub. L. 88–42, June 21, 1963, 77 Stat. 67; Pub. L. 88–286, Mar. 18, 1964, 78 Stat. 166, and repealed by Pub. L. 94–455, title XXI, § 2121(a), Oct. 4, 1976, 90 Stat. 1914, provided for a study by the Committee on the Judiciary of the House of Representatives and the Committee on Finance of the United States Senate, acting separately or jointly, or any duly authorized subcommittee thereof, of all matters pertaining to the taxation of interstate commerce by the States, territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, or any political or taxing subdivision of the foregoing, and for a report together with their proposals for legislation on or before June 30, 1965.

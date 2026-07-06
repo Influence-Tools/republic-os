@@ -1,0 +1,37 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 2364"
+description: "Purchase of low-enriched uranium derived from Russian highly enriched uranium"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "40"
+chapter_name: "DEFENSE AGAINST WEAPONS OF MASS DESTRUCTION"
+section: "2364"
+citation: "50 U.S.C. § 2364"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s2364"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "c5e1672c8077176b73f669600543aa815ef54861d8f3b5521e0611b271680eef"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "d76c7dacf6c37ed825e5dc259fe43d12f609e4c9f44f62e4ab33ab4b84af5dc4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 2364 - Purchase of low-enriched uranium derived from Russian highly enriched uranium
+
+## Text
+
+(a) Sense of Congress It is the sense of Congress that the allies of the United States and other nations should participate in efforts to ensure that stockpiles of weapons-grade nuclear material are reduced.
+
+(b) Actions by Secretary of State Congress urges the Secretary of State to encourage, in consultation with the Secretary of Energy, other countries to purchase low-enriched uranium that is derived from highly enriched uranium extracted from Russian nuclear weapons.
+
+(Pub. L. 104–201, div. A, title XIV, § 1454, Sept. 23, 1996, 110 Stat. 2730.)

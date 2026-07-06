@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 3006"
+description: "Obligated service requirement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "43"
+chapter_name: "NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION COMMISSIONED OFFICER CORPS"
+section: "3006"
+citation: "33 U.S.C. § 3006"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s3006"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "02119c095245c3be040113944a6c9bf8cf194c382eb84db4757dce3b772e8cbd"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "4bb595e12cb7431be384fab1a59300b701d8038daf21f5f20ef9c398ee2fef1a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 3006 - Obligated service requirement
+
+## Text
+
+(a) In general (1) Regulations The Secretary shall prescribe the obligated service requirements for appointments, training, promotions, separations, continuations, and retirements of officers not otherwise covered by law.
+
+(2) Written agreements The Secretary and officers shall enter into written agreements that describe the officers’ obligated service requirements prescribed under paragraph (1) in return for such appointments, training, promotions, separations, continuations, and retirements as the Secretary considers appropriate.
+
+(b) Repayment for failure to satisfy requirements (1) In general The Secretary may require an officer who fails to meet the service requirements prescribed under subsection (a)(1) to reimburse the Secretary in an amount that bears the same ratio to the total costs of the training provided to that officer by the Secretary as the unserved portion of active duty bears to the total period of active duty the officer agreed to serve.
+
+(2) Obligation as debt to United States An obligation to reimburse the Secretary under paragraph (1) is, for all purposes, a debt owed to the United States.
+
+(3) Discharge in bankruptcy A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a written agreement entered into under subsection (a)(2) does not discharge the individual signing the agreement from a debt arising under such agreement.
+
+(c) Waiver or suspension of compliance The Secretary may waive the service obligation of an officer who—
+
+(1) becomes unqualified to serve on active duty in the commissioned officer corps of the Administration because of a circumstance not within the control of that officer; or
+
+(2) is—
+
+(A) not physically qualified for appointment; and
+
+(B) determined to be unqualified for service in the commissioned officer corps of the Administration because of a physical or medical condition that was not the result of the officer’s own willful misconduct.
+
+(Pub. L. 107–372, title II, § 216, as added Pub. L. 116–259, title I, § 103(a), Dec. 23, 2020, 134 Stat. 1155; Pub. L. 119–60, div. H, title LXXXIV, § 8405, Dec. 18, 2025, 139 Stat. 1913.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (c)(2)(B). Pub. L. 119–60 substituted “willful misconduct” for “misconduct or grossly negligent conduct”.

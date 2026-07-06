@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 6601"
+description: "Findings and purposes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "85"
+chapter_name: "MARINE TURTLE CONSERVATION"
+section: "6601"
+citation: "16 U.S.C. § 6601"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s6601"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "002cdff015eb485595ef48662560dc4c5d21c32e9e8c40907f086cbc128bd3ef"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "a7b9d6ec500dd1c492a67b2b35b8156b70e8dedef8547430eafd4d48ca24936c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 6601 - Findings and purposes
+
+## Text
+
+(a) Findings The Congress finds that—
+
+(1) marine turtle populations have declined to the point that the long-term survival of the loggerhead, green, hawksbill, Kemp’s ridley, olive ridley, and leatherback turtle in the wild is in serious jeopardy;
+
+(2) 6 of the 7 recognized species of marine turtles are listed as threatened or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), and all 7 species have been included in Appendix I of CITES;
+
+(3) because marine turtles are long-lived, late-maturing, and highly migratory, marine turtles are particularly vulnerable to the impacts of human exploitation and habitat loss;
+
+(4) illegal international trade seriously threatens wild populations of some marine turtle species, particularly the hawksbill turtle;
+
+(5) the challenges facing marine turtles are immense, and the resources available have not been sufficient to cope with the continued loss of nesting habitats caused by human activities and the consequent diminution of marine turtle populations;
+
+(6) because marine turtles are flagship species for the ecosystems in which marine turtles are found, sustaining healthy populations of marine turtles provides benefits to many other species of wildlife, including many other threatened or endangered species;
+
+(7) marine turtles are important components of the ecosystems that they inhabit, and studies of wild populations of marine turtles have provided important biological insights;
+
+(8) changes in marine turtle populations are most reliably indicated by changes in the numbers of nests and nesting females; and
+
+(9) the reduction, removal, or other effective addressing of the threats to the long-term viability of populations of marine turtles will require the joint commitment and effort of—
+
+(A) countries that have within their boundaries marine turtle nesting habitats; and
+
+(B) persons with expertise in the conservation of marine turtles.
+
+(b) Purpose The purpose of this chapter is to assist in the conservation of marine turtles, freshwater turtles, and tortoises and the habitats of marine turtles, freshwater turtles, and tortoises in foreign countries and territories of the United States by supporting and providing financial resources for projects—
+
+(1) to conserve marine turtle, freshwater turtle, and tortoise habitats under the jurisdiction of United States Fish and Wildlife Service programs;
+
+(2) to conserve marine turtles, freshwater turtles, and tortoises in those habitats; and
+
+(3) to address other threats to the survival of marine turtles, freshwater turtles, and tortoises, including habitat loss, poaching of turtles or their eggs, and wildlife trafficking.
+
+(Pub. L. 108–266, § 2, July 2, 2004, 118 Stat. 791; Pub. L. 116–9, title VII, § 7001(c)(3)(A), Mar. 12, 2019, 133 Stat. 786.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+Amendments2019—Subsec. (b). Pub. L. 116–9 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The purpose of this chapter is to assist in the conservation of marine turtles and the nesting habitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.”
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 108–266, § 1, July 2, 2004, 118 Stat. 791, provided that: “This Act [enacting this chapter] may be cited as the ‘Marine Turtle Conservation Act of 2004’.”

@@ -1,0 +1,95 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 300jj–19"
+description: "Miscellaneous provisions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "300jj–19"
+citation: "42 U.S.C. § 300jj–19"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s300jj–19"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "733aaf0c4d82da5a85590e3e5d5fbe99f92cba7cb815d0bd847a6ac87e539fd8"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "b7b317dc89e8d3e04682355703f2baa2e141fb047a77b5a85abbbff5aabb6c8f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 300jj–19 - Miscellaneous provisions
+
+## Text
+
+(a) Relation to HIPAA privacy and security law (1) In general With respect to the relation of this subchapter to HIPAA privacy and security law:
+
+(A) This subchapter may not be construed as having any effect on the authorities of the Secretary under HIPAA privacy and security law.
+
+(B) The purposes of this subchapter include ensuring that the health information technology standards and implementation specifications adopted under section 300jj–14 of this title take into account the requirements of HIPAA privacy and security law.
+
+(2) Definition For purposes of this section, the term “HIPAA privacy and security law” means—
+
+(A) the provisions of part C of title XI of the Social Security Act [42 U.S.C. 1320d et seq.], section 264 of the Health Insurance Portability and Accountability Act of 1996, and subtitle D of title IV 11 See References in Text note below. of the Health Information Technology for Economic and Clinical Health Act; and
+
+(B) regulations under such provisions.
+
+(b) Flexibility In administering the provisions of this subchapter, the Secretary shall have flexibility in applying the definition of health care provider under section 300jj(3) of this title, including the authority to omit certain entities listed in such definition when applying such definition under this subchapter, where appropriate.
+
+(c) Promoting patient access to electronic health information through health information exchanges (1) In general The Secretary shall use existing authorities to encourage partnerships between health information exchange organizations and networks and health care providers, health plans, and other appropriate entities with the goal of offering patients access to their electronic health information in a single, longitudinal format that is easy to understand, secure, and may be updated automatically.
+
+(2) Education of providers The Secretary, in coordination with the Office for Civil Rights of the Department of Health and Human Services, shall—
+
+(A) educate health care providers on ways of leveraging the capabilities of health information exchanges (or other relevant platforms) to provide patients with access to their electronic health information;
+
+(B) clarify misunderstandings by health care providers about using health information exchanges (or other relevant platforms) for patient access to electronic health information; and
+
+(C) to the extent practicable, educate providers about health information exchanges (or other relevant platforms) that employ some or all of the capabilities described in paragraph (1).
+
+(3) Requirements In carrying out paragraph (1), the Secretary, in coordination with the Office for Civil Rights, shall issue guidance to health information exchanges related to best practices to ensure that the electronic health information provided to patients is—
+
+(A) private and secure;
+
+(B) accurate;
+
+(C) verifiable; and
+
+(D) where a patient’s authorization to exchange information is required by law, easily exchanged pursuant to such authorization.
+
+(4) Rule of construction Nothing in this subsection shall be construed to preempt State laws applicable to patient consent for the access of information through a health information exchange (or other relevant platform) that provide protections to patients that are greater than the protections otherwise provided for under applicable Federal law.
+
+(d) Efforts to promote access to health information The National Coordinator and the Office for Civil Rights of the Department of Health and Human Services shall jointly promote patient access to health information in a manner that would ensure that such information is available in a form convenient for the patient, in a reasonable manner, without burdening the health care provider involved.
+
+(e) Accessibility of patient records (1) Accessibility and updating of information (A) In general The Secretary, in consultation with the National Coordinator, shall promote policies that ensure that a patient’s electronic health information is accessible to that patient and the patient’s designees, in a manner that facilitates communication with the patient’s health care providers and other individuals, including researchers, consistent with such patient’s consent.
+
+(B) Updating education on accessing and exchanging personal health information To promote awareness that an individual has a right of access to inspect, obtain a copy of, and transmit to a third party a copy of such individual’s protected health information pursuant to the Health Information Portability and Accountability Act, Privacy Rule (subpart E of part 164 of title 45, Code of Federal Regulations), the Director of the Office for Civil Rights, in consultation with the National Coordinator, shall assist individuals and health care providers in understanding a patient’s rights to access and protect personal health information under the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191), including providing best practices for requesting personal health information in a computable format, including using patient portals or third-party applications and common cases when a provider is permitted to exchange and provide access to health information.”.22 So in original.
+
+(2) Certifying usability for patients In carrying out certification programs under section 300jj–11(c)(5) of this title, the National Coordinator may require that—
+
+(A) the certification criteria support—
+
+(i) patient access to their electronic health information, including in a single longitudinal format that is easy to understand, secure, and may be updated automatically;
+
+(ii) the patient’s ability to electronically communicate patient-reported information (such as family history and medical history); and
+
+(iii) patient access to their personal electronic health information for research at the option of the patient; and
+
+(B) the HIT Advisory Committee develop and prioritize standards, implementation specifications, and certification criteria required to help support patient access to electronic health information, patient usability, and support for technologies that offer patients access to their electronic health information in a single, longitudinal format that is easy to understand, secure, and may be updated automatically.
+
+(July 1, 1944, ch. 373, title XXX, § 3009, as added Pub. L. 111–5, div. A, title XIII, § 13101, Feb. 17, 2009, 123 Stat. 242; amended Pub. L. 114–255, div. A, title IV, § 4006(a), Dec. 13, 2016, 130 Stat. 1181.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Social Security Act, referred to in subsec. (a)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables. The Health Insurance Portability and Accountability Act of 1996, referred to in subsecs. (a)(2)(A) and (e)(1)(B), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. Section 264 of the Act is set out as a note under section 1320d–2 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables. The Health Information Technology for Economic and Clinical Health Act, referred to in subsec. (a)(2)(A), is title XIII of div. A and title IV of div. B of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 226, 467, also known as the HITECH Act. Subtitle D of title IV of the Act probably means subtitle D of title XIII of div. A of the Act, which is classified generally to subchapter III (§ 17921 et seq.) of chapter 156 of this title. Title IV of div. B of the Act does not contain a subtitle D. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 201 of this title and Tables.
+
+Amendments2016—Subsecs. (c) to (e). Pub. L. 114–255 added subsecs. (c) to (e).

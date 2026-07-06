@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 8101"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "81"
+chapter_name: "ACQUISITION AND OPERATION OF HOSPITAL AND DOMICILIARY FACILITIES; PROCUREMENT AND SUPPLY; ENHANCED-USE LEASES OF REAL PROPERTY"
+section: "8101"
+citation: "38 U.S.C. § 8101"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s8101"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "067b21529ac7cde36b35d831dcec2d409092308c56d2297e6a23583155c6f212"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "ea4c3c09a19e3eb5f25acad0bf54e24fe5d0d53673eb2a91baffa043be51e94e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 8101 - Definitions
+
+## Text
+
+For the purposes of this subchapter:
+
+(1) The term “alter”, with respect to a medical facility, means to repair, remodel, improve, or extend such medical facility.
+
+(2) The terms “construct” and “alter”, with respect to a medical facility, include such engineering, architectural, legal, fiscal, and economic investigations and studies and such surveys, designs, plans, construction documents, specifications, procedures, and other similar actions as are necessary for the construction or alteration, as the case may be, of such medical facility and as are carried out after the completion of the advanced planning (including the development of project requirements and design development) for such facility.
+
+(3) The term “medical facility” means any facility or part thereof which is, or will be, under the jurisdiction of the Secretary, or as otherwise authorized by law, for the provision of health-care services (including hospital, outpatient clinic, nursing home, or domiciliary care or medical services), including any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, trackage facilities leading thereto, abutting sidewalks, accommodations for attending personnel, and recreation facilities associated therewith.
+
+(4) The term “committee” means the Committee on Veterans’ Affairs of the House of Representatives or the Committee on Veterans’ Affairs of the Senate, and the term “committees” means both such committees.
+
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 55, § 5001; renumbered § 8101, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title II, § 207(a), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 115–182, title V, § 503(a), June 6, 2018, 132 Stat. 1476.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Par. (3). Pub. L. 115–182, which directed substitution of “Secretary, or as otherwise authorized by law, for the provision of health-care services (including hospital, outpatient clinic, nursing home,” for “Secretary for the provision of health-care services (including hospital, nursing home,” in section 8101(3), without specifying the Code title to be amended, was executed by making the substitution in par. (3) of this section, to reflect the probable intent of Congress. 1996—Par. (2). Pub. L. 104–262 substituted “construction documents” for “working drawings” and “design development” for “preliminary plans”. 1991—Pub. L. 102–40 renumbered section 5001 of this title as this section. Par. (3). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 96–22, title III, § 302, June 13, 1979, 93 Stat. 62, provided that: “(a) Except as provided in subsection (b) of this section, the amendments made by section 301 [enacting this subchapter, redesignating sections 5011 to 5014 of this title as sections 5021 to 5024 [now 8121 to 8124], respectively, and amending section 5022 [now 8122] of this title as so redesignated] shall take effect on October 1, 1979. “(b)(1) The amendments made by section 301 shall not apply with respect to the acquisition, construction, or alteration of any medical facility (as defined in section 5001(3) [now 8101(3)] of title 38, United States Code, as amended by section 301(a) of this Act) if such acquisition, construction, or alteration (not including exchange) was approved before October 1, 1979, by the President. “(2) The provisions of [former] section 5007(a) of title 38, United States Code, as amended by section 301(a) of this Act, shall take effect on the date of the enactment of this Act [June 13, 1979].”

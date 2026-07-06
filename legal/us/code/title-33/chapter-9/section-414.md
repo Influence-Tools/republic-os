@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 414"
+description: "Vessel removal by Corps of Engineers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "9"
+chapter_name: "PROTECTION OF NAVIGABLE WATERS AND OF HARBOR AND RIVER IMPROVEMENTS GENERALLY"
+section: "414"
+citation: "33 U.S.C. § 414"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s414"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "6f4b18a21e36746ee0e6e998aecb377e2d9b96d7b10a8df333e8b2275fbf6057"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "69120f8595e76c877486ae96eca1a7e7b9cd6997a36cf208cad586f894eaa9a6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 414 - Vessel removal by Corps of Engineers
+
+## Text
+
+(a) Removal of obstructive vessels (1) In general Whenever the navigation of any river, lake, harbor, sound, bay, canal, or other navigable waters of the United States shall be obstructed or endangered by any sunken vessel, boat, water craft, raft, or other similar obstruction, and such obstruction has existed for a longer period than thirty days, or whenever the abandonment of such obstruction can be legally established in a less space of time, the sunken vessel, boat, water craft, raft, or other obstruction shall be subject to be broken up, removed, sold, or otherwise disposed of by the Secretary of the Army at his discretion, without liability for any damage to the owners of the same: Provided, That in his discretion, the Secretary of the Army may cause reasonable notice of such obstruction of not less than thirty days, unless the legal abandonment of the obstruction can be established in a less time, to be given by publication, addressed “To whom it may concern,” in a newspaper published nearest to the locality of the obstruction, requiring the removal thereof: And provided also, That the Secretary of the Army may, in his discretion, at or after the time of giving such notice, cause sealed proposals to be solicited by public advertisement, giving reasonable notice of not less than ten days, for the removal of such obstruction as soon as possible after the expiration of the above specified thirty days’ notice, in case it has not in the meantime been so removed, these proposals and contracts, at his discretion, to be conditioned that such vessel, boat, water craft, raft, or other obstruction, and all cargo and property contained therein, shall become the property of the contractor, and the contract shall be awarded to the bidder making the proposition most advantageous to the United States: Provided, That such bidder shall give satisfactory security to execute the work: Provided further, That any money received from the sale of any such wreck, or from any contractor for the removal of wrecks, under this paragraph shall be covered into the Treasury of the United States.
+
+(2) Liability of owner, lessee, or operator The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this subsection shall be liable to the United States for the cost of removal or destruction and disposal as described which exceeds the costs recovered under paragraph (1). Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
+
+(b) Removal of abandoned vessel (1) In general The Secretary is authorized to remove from the navigable waters of the United States a covered vessel that does not obstruct the navigation of such waters, if—
+
+(A) such removal is determined to be in the public interest by the Secretary, in consultation with any State in which the vessel is located or any Indian Tribe with jurisdiction over the area in which the vessel is located, as applicable; and
+
+(B) in the case of a vessel that is not under the control of the United States by reason of seizure or forfeiture, the Commandant of the Coast Guard determines that the vessel is abandoned.
+
+(2) Interagency agreements In removing a covered vessel under this subsection, the Secretary—
+
+(A) is authorized to enter into an interagency agreement with the head of any Federal department, agency, or instrumentality that has control of such vessel; and
+
+(B) is authorized to accept funds from such department, agency, or instrumentality for the removal of such vessel.
+
+(3) Liability The owner of a covered vessel shall be liable to the United States for the costs of removal, destruction, and disposal of such vessel under this subsection.
+
+(4) Covered vessel defined (A) In general In this subsection, the term “covered vessel” means a vessel—
+
+(i) determined to be abandoned by the Commandant of the Coast Guard; or
+
+(ii) under the control of the United States by reason of seizure or forfeiture pursuant to any law.
+
+(B) Exclusion The term “covered vessel” does not include—
+
+(i) any vessel for which the Secretary has removal authority under subsection (a) or section 415 of this title;
+
+(ii) an abandoned barge for which the Commandant of the Coast Guard has the authority to remove under chapter 47 of title 46; and
+
+(iii) a vessel—
+
+(I) for which the owner is not identified, unless determined to be abandoned by the Commandant of the Coast Guard; or
+
+(II) for which the owner has not agreed to pay the costs of removal, destruction, or disposal.
+
+(5) Authorization of appropriations There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2025 through 2029.
+
+(Mar. 3, 1899, ch. 425, § 19, 30 Stat. 1154; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 118–272, div. A, title I, § 1124(a), Jan. 4, 2025, 138 Stat. 3016.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”.
+
+Prior ProvisionsSection superseded act June 14, 1880, ch. 211, § 4, 21 Stat. 197, and act Aug. 2, 1882, ch. 375, 22 Stat. 208, which required the Secretary of War to give notice to the persons interested in wrecks obstructing navigation of the purpose of the Secretary to remove the same unless such parties should do so, and authorized the Secretary to remove the same on the failure of the parties interested to do so, and to sell the same to the highest bidder, and also authorized the Secretary to dispose of any sunken vessel or cargo before removal. Section also superseded act Sept. 19, 1890, ch. 907, § 8, 26 Stat. 454, which authorized the Secretary of War to remove wrecks remaining for more than two months.
+
+Amendments2025—Pub. L. 118–272 inserted section catchline and subsec. (a) heading, designated existing provisions of subsec. (a) as par. (1) of subsec. (a), redesignated subsec. (b) as par. (2) of subsec. (a), inserted par. (1) and (2) headings, substituted “described in this subsection” for “described in this section” and “under paragraph (1)” for “under subsection (a)” in par. (2), and added subsec. (b). 1986—Pub. L. 99–662 designated existing provision as subsec. (a) and added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+Transfer of Functions Functions, powers and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+
+Executive Documents
+
+Transfer of Functions Pertaining to Air Force For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 [App. A(57)], July 22, 1949.

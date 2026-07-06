@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 44905"
+description: "Information about threats to civil aviation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "449"
+chapter_name: "SECURITY"
+section: "44905"
+citation: "49 U.S.C. § 44905"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s44905"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "3be4490992b3292c968e206d9e1960cf34241203258878514d93b7b54de79081"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "3fe336d40078e317ff9f1ab54a80af0c40f0c2f0e1bb3b54c13e1fb7790e1a07"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 44905 - Information about threats to civil aviation
+
+## Text
+
+(a) Providing Information.— Under guidelines the Administrator of the Transportation Security Administration prescribes, an air carrier, airport operator, ticket agent, or individual employed by an air carrier, airport operator, or ticket agent, receiving information (except a communication directed by the United States Government) about a threat to civil aviation shall provide the information promptly to the Administrator.
+
+(b) Flight Cancellation.— If a decision is made that a particular threat cannot be addressed in a way adequate to ensure, to the extent feasible, the safety of passengers and crew of a particular flight or series of flights, the Administrator of the Transportation Security Administration shall cancel the flight or series of flights.
+
+(c) Guidelines on Public Notice.— (1) The President shall develop guidelines for ensuring that public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
+
+(A) deciding, on a case-by-case basis, if public notice of a threat is in the best interest of the United States and the traveling public;
+
+(B) ensuring that public notice is provided in a timely and effective way, including the use of a toll-free telephone number; and
+
+(C) canceling the departure of a flight or series of flights under subsection (b) of this section.
+
+(2) The guidelines shall provide for consideration of—
+
+(A) the specificity of the threat;
+
+(B) the credibility of intelligence information related to the threat;
+
+(C) the ability to counter the threat effectively;
+
+(D) the protection of intelligence information sources and methods;
+
+(E) cancellation, by an air carrier or the Administrator of the Transportation Security Administration, of a flight or series of flights instead of public notice;
+
+(F) the ability of passengers and crew to take steps to reduce the risk to their safety after receiving public notice of a threat; and
+
+(G) other factors the Administrator of the Transportation Security Administration considers appropriate.
+
+(d) Guidelines on Notice to Crews.— The Administrator of the Transportation Security Administration shall develop guidelines for ensuring that notice in appropriate cases of threats to the security of an air carrier flight is provided to the flight crew and cabin crew of that flight.
+
+(e) Limitation on Notice to Selective Travelers.— Notice of a threat to civil aviation may be provided to selective potential travelers only if the threat applies only to those travelers.
+
+(f) Restricting Access to Information.— In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Administrator of the Transportation Security Administration shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
+
+(g) Distribution of Guidelines.— The guidelines developed under this section shall be distributed for use by appropriate officials of the Department of Transportation, the Department of State, the Department of Justice, and air carriers.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1207; Pub. L. 107–71, title I, § 101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603; Pub. L. 115–254, div. K, title I, § 1991(d)(5), Oct. 5, 2018, 132 Stat. 3632.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 44905(a)49 App.:1358d(a).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 321; added Nov. 16, 1990, Pub. L. 101–604, § 109(a), 104 Stat. 3078. 44905(b)49 App.:1358d(b). 44905(c)(1)49 App.:1358d(c)(1), (d). 44905(c)(2)49 App.:1358d(e). 44905(d)49 App.:1358d(c)(2). 44905(e)49 App.:1358d(f). 44905(f)49 App.:1358d(h). 44905(g)49 App.:1358d(g). In subsection (a), the words “employed by an air carrier, airport operator, or ticket agent” are substituted for “employed by such an entity” for clarity. The words “or a designee of the Secretary” are omitted as unnecessary. In subsections (c)(1), before clause (A), and (d), the words “Not later than 180 days after November 16, 1990” are omitted as obsolete. In subsection (c)(1)(B), the words “when considered appropriate” are omitted as unnecessary because of the restatement. In subsection (e), the words “selective potential travelers” are substituted for “only selective potential travelers” to eliminate an unnecessary word. In subsection (f), the words “departments, agencies, and instrumentalities of the Government” are substituted for “agencies” for clarity and consistency in the revised title and with other titles of the United States Code. The words “However, a restriction on access to that information may be imposed only if the restriction does not diminish” are substituted for “Any restriction adopted pursuant to this subsection shall not diminish” for clarity.
+
+Editorial Notes
+
+Amendments2018—Subsec. (a). Pub. L. 115–254, § 1991(d)(5)(A), substituted “Administrator of the Transportation Security Administration” for “Secretary of Transportation” and “Administrator.” for “Secretary.” Subsec. (b). Pub. L. 115–254, § 1991(d)(5)(B), substituted “Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for Security”. Subsecs. (c)(2)(E), (G), (d), (f). Pub. L. 115–254, § 1991(d)(5)(C), substituted “Administrator of the Transportation Security Administration” for “Under Secretary”. 2001—Subsec. (b). Pub. L. 107–71, § 101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”. Subsecs. (c)(2)(E), (G), (d), (f). Pub. L. 107–71, § 101(f)(7), substituted “Under Secretary” for “Administrator”.

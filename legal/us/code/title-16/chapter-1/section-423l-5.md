@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 423l–5"
+description: "Park administration"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "423l–5"
+citation: "16 U.S.C. § 423l–5"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s423l–5"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "d182d25a8680ef5ce8b29d838f6e9a4afc6c987274f890fe647bb044ca31bb88"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "b211c2adbd8c48e6394a4f9b5c02616ea63f5ff158d32bc1aaa0257d90d6a209"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 423l–5 - Park administration
+
+## Text
+
+(a) Applicable laws The Secretary, acting through the Director of the National Park Service, shall administer the battlefield park in accordance with sections 423l–1 to 423l–6 of this title and laws generally applicable to units of the National Park System, including the Act of August 25, 1916 (16 U.S.C. 1 et seq.) 11 See References in Text note below. and the Act of August 21, 1935 (16 U.S.C. 461 et seq.).1
+
+(b) New Market Heights Battlefield The Secretary shall provide for the establishment of a monument or memorial suitable to honor the 14 Medal of Honor recipients from the United States Colored Troops who fought in the Battle of New Market Heights. The Secretary shall include the Battle of New Market Heights and the role of black Union soldiers in the battle in historical interpretations provided to the public at the battlefield park.
+
+(c) Cooperative agreements The Secretary may enter into cooperative agreements with the Commonwealth of Virginia, its political subdivisions (including the City of Richmond), private property owners, and other members of the private sector to develop mechanisms to protect and interpret the historical resources within the battlefield park in a manner that would allow for continued private ownership and use where compatible with the purposes for which the battlefield is established.
+
+(d) Technical assistance The Secretary may provide technical assistance to the Commonwealth of Virginia, its political subdivisions, nonprofit entities, and private property owners for the development of comprehensive plans, land use guidelines, special studies, and other activities that are consistent with the identification, protection, interpretation, and commemoration of historically significant Civil War resources located inside and outside of the boundaries of the battlefield park. The technical assistance does not authorize the Secretary to own or manage any of the resources outside the battlefield park boundaries.
+
+(Pub. L. 106–511, title V, § 505, Nov. 13, 2000, 114 Stat. 2375.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSections 423l–1 to 423l–6 of this title, referred to in subsec. (a), was in the original “this title”, meaning title V of Pub. L. 106–511, Nov. 13, 2000, 114 Stat. 2373, which enacted sections 423l–1 to 423l–6 of this title and repealed sections 423j to 423l of this title. For complete classification of title V to the Code, see Tables. The Act of August 25, 1916 (16 U.S.C. 1 et seq.), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54. The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.

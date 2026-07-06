@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2272"
+description: "Violation of specific sections"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2272"
+citation: "42 U.S.C. § 2272"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2272"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "5e16ea0c7d6130c3380e33416b8aadaa1244d0678983646b9a9e534c5187afb3"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "9f056e833fa3857430a34101fcef5dc1119f4bfd9bf2e17ec20f35bd34de61b8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2272 - Violation of specific sections
+
+## Text
+
+(a) Whoever willfully violates, attempts to violate, or conspires to violate, any provision of sections 11 So in original. Probably should be “section”. 2077 or 2131 of this title, or whoever unlawfully interferes, attempts to interfere, or conspires to interfere with any recapture or entry under section 2138 of this title, shall, upon conviction thereof, be punished by a fine of not more than $10,000 or by imprisonment for not more than ten years, or both, except that whoever commits such an offense with intent to injure the United States or with intent to secure an advantage to any foreign nation shall, upon conviction thereof, be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $20,000 or both.
+
+(b) Any person who violates, or attempts or conspires to violate, section 2122 of this title shall be fined not more than $2,000,000 and sentenced to a term of imprisonment not less than 25 years or to imprisonment for life. Any person who, in the course of a violation of section 2122 of this title, uses, attempts or conspires to use, or possesses and threatens to use, any atomic weapon shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life. If the death of another results from a person’s violation of section 2122 of this title, the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
+
+(Aug. 1, 1946, ch. 724, title I, § 222, as added Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 958; amended Pub. L. 91–161, §§ 2, 3(a), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 108–458, title VI, § 6904(b), Dec. 17, 2004, 118 Stat. 3771.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to this section were contained in section 1816(a), (b) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+Amendments2004—Pub. L. 108–458 designated existing provisions as subsec. (a), struck out “, 2122,” after “2077”, and added subsec. (b). 1969—Pub. L. 91–161 increased maximum term of imprisonment from five years to ten years for willful violation, or attempted violation of enumerated sections, and struck out applicability of death penalty for violation of same offenses committed with intent to injure the United States, or secure an advantage to any foreign nation.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1969 AmendmentPub. L. 91–161, § 7, Dec. 24, 1969, 83 Stat. 445, provided that: “The amendments contained in sections 2 and 3 of this Act [amending this section and sections 2274 and 2276 of this title] shall apply only to offenses under sections 222, 224, 225, and 226 [this section and sections 2274, 2275, and 2276 of this title] which are committed on or after the date of enactment of this Act [Dec. 24, 1969]. Nothing in section 2 or 3 of this Act shall affect penalties authorized under existing law for offenses under section 222, 224, 225, or 226 of the Atomic Energy Act of 1954, as amended, committed prior to the date of enactment of this Act.”

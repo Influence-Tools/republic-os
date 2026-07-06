@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2378"
+description: "Prohibition on assistance to countries that provide military equipment to terrorist states"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "32"
+chapter_name: "FOREIGN ASSISTANCE"
+section: "2378"
+citation: "22 U.S.C. § 2378"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2378"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "adee1c66dadcbbe79927460d0a447987392d0d63b237cf2faf4f141c679aa7c4"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "df64c43124f6000f4fc71cdb377111ba2488a313dcb0853b5bc09eb3f880cb1d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2378 - Prohibition on assistance to countries that provide military equipment to terrorist states
+
+## Text
+
+(a) Prohibition (1) In general The President shall withhold assistance under this chapter to the government of any country that provides lethal military equipment to a country the government of which the Secretary of State has determined is a terrorist government for the purposes of section 4605(j) 11 See References in Text note below. of title 50, or 2371 of this title.
+
+(2) Applicability The prohibition under this section with respect to a foreign government shall terminate 1 year after that government ceases to provide lethal military equipment. This section applies with respect to lethal military equipment provided under a contract entered into after April 24, 1996.
+
+(b) Waiver Notwithstanding any other provision of law, assistance may be furnished to a foreign government described in subsection (a) if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
+
+(1) a statement of the determination;
+
+(2) a detailed explanation of the assistance to be provided;
+
+(3) the estimated dollar amount of the assistance; and
+
+(4) an explanation of how the assistance furthers United States national interests.
+
+(Pub. L. 87–195, pt. III, § 620H, as added Pub. L. 104–132, title III, § 326, Apr. 24, 1996, 110 Stat. 1256.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. Section 4605(j) of title 50, referred to in subsec. (a)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+Codification April 24, 1966, referred to in subsec. (a)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–132, which enacted this section, to reflect the probable intent of Congress.
+
+Statutory Notes and Related Subsidiaries
+
+“Assistance” Defined Assistance defined for purposes of title III of Pub. L. 104–132, see section 329 of Pub. L. 104–132, set out as a note under section 2349aa–10 of this title.
+
+Executive Documents
+
+Delegation of Functions For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.

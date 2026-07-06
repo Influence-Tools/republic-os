@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 1105"
+description: "Prohibition on use of lead systems integrators"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "11"
+chapter_name: "ACQUISITIONS"
+section: "1105"
+citation: "14 U.S.C. § 1105"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s1105"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "222aaf6af5d3de6a1446f84f1ad14000725dc20584f5c1a0036345f30fef5f36"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "2c31569ba3b5032629958f4ece5120682b0eed9567ef123c66e0e0bcd7a1fc8d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 1105 - Prohibition on use of lead systems integrators
+
+## Text
+
+(a) In General.— (1) Use of lead systems integrator.— The Commandant may not use a private sector entity as a lead systems integrator.
+
+(2) Full and open competition.— The Commandant shall use full and open competition for any acquisition contract unless otherwise excepted in accordance with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
+
+(3) No effect on small business act.— Nothing in this subsection shall be construed to supersede or otherwise affect the authorities provided by and under the Small Business Act (15 U.S.C. 631 et seq.).
+
+(b) Limitation on Financial Interest in Subcontractors.— Neither an entity performing lead systems integrator functions for a Coast Guard acquisition nor a Tier 1 subcontractor for any acquisition may have a financial interest in a subcontractor below the Tier 1 subcontractor level unless—
+
+(1) the subcontractor was selected by the prime contractor through full and open competition for such procurement;
+
+(2) the procurement was awarded by an entity performing lead systems integrator functions or a subcontractor through full and open competition;
+
+(3) the procurement was awarded by a subcontractor through a process over which the entity performing lead systems integrator functions or a Tier 1 subcontractor exercised no control; or
+
+(4) the Commandant has determined that the procurement was awarded in a manner consistent with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
+
+(c) Lead Systems Integrator Defined.— In this section, the term “lead systems integrator” has the meaning given such term in section 805(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163).
+
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2935, § 564; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, § 217(7), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(D), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1105 and amended Pub. L. 115–282, title I, § 108(b), title III, § 304(d), Dec. 4, 2018, 132 Stat. 4208, 4245; Pub. L. 119–60, div. G, title LXXII, § 7211, Dec. 18, 2025, 139 Stat. 1693.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables. Section 805(c) of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (c), is section 805(c) of Pub. L. 109–163, div. A, title VIII, Jan. 6, 2006, 119 Stat. 3372, which is not classified to the Code.
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 added subsec. (c). 2018—Pub. L. 115–282, § 108(b), renumbered section 564 of this title as this section. Subsec. (c). Pub. L. 115–282, § 304(d), struck out subsec. (c) which related to acquisition of unmanned aerial systems. 2016—Subsec. (c). Pub. L. 114–328 added subsec. (c). 2012—Pub. L. 112–213 amended section generally. Prior to amendment, section related to prohibition on use of lead systems integrators and provided for certain exceptions to such prohibition. 2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentPub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.

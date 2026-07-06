@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 11707"
+description: "Liability when property is delivered in violation of routing instructions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "117"
+chapter_name: "ENFORCEMENT: INVESTIGATIONS, RIGHTS, AND REMEDIES"
+section: "11707"
+citation: "49 U.S.C. § 11707"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s11707"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "dacd80e38cbd917667990e2ceb304e105f7281278d730d30a7b9363d25798b88"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "20730aa5fb5b88b84f8289a4d6afdd923821e21a115bb394a82917e4d758512c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 11707 - Liability when property is delivered in violation of routing instructions
+
+## Text
+
+(a) (1) When a rail carrier providing transportation subject to the jurisdiction of the Board under this part diverts or delivers property to another rail carrier in violation of routing instructions in the bill of lading, both of those rail carriers are jointly and severally liable to the rail carrier that was deprived of its right to participate in hauling that property for the total amount of the rate it would have received if it participated in hauling the property.
+
+(2) A rail carrier is not liable under paragraph (1) of this subsection when it diverts or delivers property in compliance with an order or regulation of the Board.
+
+(3) A rail carrier to whom property is transported is not liable under this subsection if it shows that it had no notice of the routing instructions before transporting the property. The burden of proving lack of notice is on that rail carrier.
+
+(b) The court shall award a reasonable attorney’s fee to the plaintiff in a judgment against the defendant rail carrier under subsection (a) of this section. The court shall tax and collect that fee as a part of the costs of the action.
+
+(Added Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 849.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 11710 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). Prior sections 11707 to 11712 were omitted in the general amendment of this subtitle by Pub. L. 104–88, § 102(a). Section 11707, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1453; Pub. L. 96–258, § 1(14), June 3, 1980, 94 Stat. 427; Pub. L. 96–296, § 26(b), July 1, 1980, 94 Stat. 818; Pub. L. 96–448, title II, § 211(c), Oct. 14, 1980, 94 Stat. 1911; Pub. L. 99–521, § 12(d), Oct. 22, 1986, 100 Stat. 2998; Pub. L. 100–690, title IX, § 9114, Nov. 18, 1988, 102 Stat. 4535, related to liability of common carriers under receipts and bills of lading. See sections 11706, 14706, and 15906 of this title. Section 11708, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1454; Pub. L. 99–521, § 12(e)(1), (2), Oct. 22, 1986, 100 Stat. 2998, related to private enforcement of motor carrier and household goods freight forwarder licensing requirements. See section 14707 of this title. Section 11709, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1454, related to liability for issuance of securities by certain carriers. Section 11710, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1455, related to liability when property is delivered in violation of routing instructions. See section 11707 of this title. Section 11711, added Pub. L. 96–454, § 7(a)(1), Oct. 15, 1980, 94 Stat. 2016; amended Pub. L. 97–261, § 6(d)(2), Sept. 20, 1982, 96 Stat. 1107, related to dispute settlement program for household goods carriers. See section 14708 of this title. Section 11712, added Pub. L. 103–180, § 4(a), Dec. 3, 1993, 107 Stat. 2049, related to tariff reconciliation rules for motor common carriers of property. See section 14709 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.

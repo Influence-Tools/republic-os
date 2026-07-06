@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 11434a"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "119"
+chapter_name: "HOMELESS ASSISTANCE"
+section: "11434a"
+citation: "42 U.S.C. § 11434a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s11434a"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "d45e92a086bb125e63925849554b079b118af89925ecb2caeda11d4f63a93473"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "3aba8a35ec1d44b7b1f92b009c8aacd1cae55d7d6d7708a5a01867027cf78663"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 11434a - Definitions
+
+## Text
+
+For purposes of this part:
+
+(1) The terms “enroll” and “enrollment” include attending classes and participating fully in school activities.
+
+(2) The term “homeless children and youths”—
+
+(A) means individuals who lack a fixed, regular, and adequate nighttime residence (within the meaning of section 11302(a)(1) of this title); and
+
+(B) includes—
+
+(i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailer parks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitional shelters; or are abandoned in hospitals;
+
+(ii) children and youths who have a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings (within the meaning of section 11302(a)(2)(C) 11 See References in Text note below. of this title);
+
+(iii) children and youths who are living in cars, parks, public spaces, abandoned buildings, substandard housing, bus or train stations, or similar settings; and
+
+(iv) migratory children (as such term is defined in section 6399 of title 20) who qualify as homeless for the purposes of this part because the children are living in circumstances described in clauses (i) through (iii).
+
+(3) The terms “local educational agency” and “State educational agency” have the meanings given such terms in section 7801 of title 20.
+
+(4) The term “Secretary” means the Secretary of Education.
+
+(5) The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+(6) The term “unaccompanied youth” includes a homeless child or youth not in the physical custody of a parent or guardian.
+
+(Pub. L. 100–77, title VII, § 725, as added Pub. L. 107–110, title X, § 1032, Jan. 8, 2002, 115 Stat. 2005; amended Pub. L. 114–95, title IX, §§ 9105(a), 9215(zz), Dec. 10, 2015, 129 Stat. 2136, 2184.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 11302 of this title, referred to in par. (2)(B)(ii), was amended by Pub. L. 111–22, div. B, § 1003(a)(2), May 20, 2009, 123 Stat. 1664, and, as so amended, section 11302(a)(2) of this title no longer contains a subpar. (C).
+
+Prior ProvisionsA prior section 11434a, Pub. L. 100–77, title VII, § 725, as added Pub. L. 103–382, title III, § 323, Oct. 20, 1994, 108 Stat. 3965, defined terms, prior to the general amendment of this part by Pub. L. 107–110. Another prior section 11434a, Pub. L. 100–77, title VII, § 725, as added Pub. L. 101–645, title VI, § 613(2), Nov. 29, 1990, 104 Stat. 4743, related to reports by Comptroller General, prior to the general amendment of this part by Pub. L. 103–382. A prior section 725 of Pub. L. 100–77 was renumbered section 726 and was classified to section 11435 of this title, prior to the general amendment of this part by Pub. L. 103–382.
+
+Amendments2015—Par. (2)(B)(i). Pub. L. 114–95, § 9105(a)(1), inserted “or” before “are abandoned” and struck out “or are awaiting foster care placement;” after “hospitals;”. Par. (3). Pub. L. 114–95, § 9215(zz), made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20. Pub. L. 114–95, § 9105(a)(2), which directed technical amendment to reference in original act which appears in text as reference to section 7801 of title 20, could not be executed because of the intervening amendment by Pub. L. 114–95, § 9215(zz). See above and Effective Date of 2015 Amendment notes below. Par. (6). Pub. L. 114–95, § 9105(a)(3), substituted “homeless child or youth not” for “youth not”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2015 AmendmentAmendment by section 9215(zz) of Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title. Pub. L. 114–95, title IX, § 9105(b), Dec. 10, 2015, 129 Stat. 2137, provided that: “(1) In general.—In the case of a State that is not a covered State, the amendment made by subsection (a)(1) [amending this section] shall take effect on the date that is 1 year after the date of enactment of this Act [Dec. 10, 2015]. “(2) Covered state.—In the case of a covered State, the amendment made by subsection (a)(1) shall take effect on the date that is 2 years after the date of enactment of this Act.” Amendment by section 9105(a) of Pub. L. 114–95 effective Oct. 1, 2016, except as provided in section 9105(b) of Pub. L. 114–95 (set out above), see section 9107 of Pub. L. 114–95, set out as a note under section 11431 of this title.
+
+Effective DateSection effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
+
+Definition of Covered State Pub. L. 114–95, title IX, § 9105(c), Dec. 10, 2015, 129 Stat. 2137, provided that: “For purposes of this section [amending this section and enacting provisions set out as a note above] the term ‘covered State’ means a State that has a statutory law that defines or describes the phrase ‘awaiting foster care placement’, for purposes of a program under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.).”

@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 1473"
+description: "Acceptance of contributions from private and public sources by Mineral Management Service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "31"
+chapter_name: "DEPARTMENT OF THE INTERIOR"
+section: "1473"
+citation: "43 U.S.C. § 1473"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s1473"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "092951e7c212834f088635f8496c24cf85388a5fc37b89f05056a09d8e09821e"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "3e762f26c3e097bbf915ff387d8515ce08528f0d2176de8ef47503ac94f1408e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 1473 - Acceptance of contributions from private and public sources by Mineral Management Service
+
+## Text
+
+In fiscal year 1987 and thereafter, the Minerals Management Service is authorized to accept land, buildings, equipment and other contributions, from public and private sources, which shall be available for the purposes provided for in this account, including, in fiscal years 2010 through 2013, contributions of money and services to conduct work in support of the orderly exploration and development of Outer Continental Shelf resources, including but not limited to, preparation of environmental documents such as impact statements and assessments, studies, and related research.
+
+(Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–253, and Pub. L. 99–591, § 101(h) [title I, § 100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–253; Pub. L. 110–161, div. F, title I, § 121, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 111–8, div. E, title I, § 111, Mar. 11, 2009, 123 Stat. 723; Pub. L. 111–88, div. A, title I, § 111, Oct. 30, 2009, 123 Stat. 2928.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+Amendments2009—Pub. L. 111–88, which directed that title 43 U.S.C. 1473 be amended by substituting “in fiscal years 2010 through 2013” for “in fiscal years 2008 and 2009 only”, was executed to section 101(h) [title I, § 100] of Pub. L. 99–591, which is classified to this section, to reflect the probable intent of Congress. Pub. L. 111–8, which directed that title 43 U.S.C. 1473 be amended by substituting “in fiscal years 2008 and 2009 only” for “in fiscal year 2008 only”, was executed to section 101(h) [title I, § 100] of Pub. L. 99–591, which is classified to this section, to reflect the probable intent of Congress. 2007—Pub. L. 110–161 which directed that title 43 U.S.C. 1473 be amended by inserting before period at end of section “, including, in fiscal year 2008 only, contributions of money and services to conduct work in support of the orderly exploration and development of Outer Continental Shelf resources, including but not limited to, preparation of environmental documents such as impact statements and assessments, studies, and related research”, was executed to section 101(h) [title I, § 100] of Pub. L. 99–591, which is classified to this section, to reflect the probable intent of Congress.
+
+Executive Documents
+
+Transfer of Functions The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.

@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 53412"
+description: "Acquisition of Fleet vessels"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "534"
+chapter_name: "TANKER SECURITY FLEET"
+section: "53412"
+citation: "46 U.S.C. § 53412"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s53412"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "cfca2927ea9e526f899011805771e4b165823a9b0dbb315951d36ec98e941d0e"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "96dc3e61e0628f04054a924ffc8e298ddc9843ae7a999cd6551ed821a0775686"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 53412 - Acquisition of Fleet vessels
+
+## Text
+
+(a) In General.— Upon replacement of a Fleet vessel under an operating agreement under this chapter, and subject to agreement by the program participant of the vessel, the Secretary of Transportation is authorized, subject to the concurrence of the Secretary of Defense, acquire the vessel being replaced for inclusion in the National Defense Reserve Fleet.
+
+(b) Requirements.— To be eligible for acquisition by the Secretary of Transportation under this section a vessel shall—
+
+(1) have been covered by an operating agreement under this chapter for not less than 3 years; and
+
+(2) meet recapitalization requirements for the Ready Reserve Force.
+
+(c) Fair Market Value.— A fair market value shall be established by the Maritime Administration for acquisition of an eligible vessel under this section.
+
+(d) Appropriations.— Vessel acquisitions under this section shall be subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts authorized to be appropriated for the National Defense Reserve Fleet. Amounts authorized to be appropriated to carry out the Maritime Security Program may not be use to carry out this section.
+
+(Added Pub. L. 116–283, div. C, title XXXV, § 3511(a), Jan. 1, 2021, 134 Stat. 4418.)

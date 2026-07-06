@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 442"
+description: "George Washington Birthplace National Monument"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "442"
+citation: "16 U.S.C. § 442"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s442"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "29ecc0eb9b25372cea655b09e91b33e0a8b05a0b919368345f17a473a2910d8a"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "991f5fc9a47e089fbdd694b43a9f43d384826038c94fa07f286caed5d8e0ce7c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 442 - George Washington Birthplace National Monument
+
+## Text
+
+The land owned by the United States at Wakefield, Westmoreland County, Virginia, and all structures thereon shall constitute the George Washington Birthplace National Monument at Wakefield, Virginia, which is established and set apart for the preservation of the historical associations connected therewith, for the benefit and enjoyment of the people, and the said national monument shall be after January 23, 1930, administered by the National Park Service under the direction of the Secretary of the Interior subject to the provisions of the Act of August 25, 1916 (Thirty-ninth Statutes, page 535),11 See References in Text note below. as amended.
+
+(Jan. 23, 1930, ch. 24, §§ 1, 2, 46 Stat. 58.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Act of August 25, 1916 (Thirty-ninth Statutes, page 535), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+Statutory Notes and Related Subsidiaries
+
+George Washington’s Boyhood Home, Ferry FarmPub. L. 105–355, title V, § 509, Nov. 6, 1998, 112 Stat. 3264, provided that: “(a) Acquisition of Easement.—The Secretary of the Interior may acquire no more than a less than fee interest in the property generally known as George Washington’s Boyhood Home, Ferry Farm, located in Stafford County, Virginia, across the Rappahannock River from Fredericksburg, Virginia, comprising approximately 85 acres as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 322/80,020, and dated April 1998, to ensure the preservation of the important cultural and natural resources associated with Ferry Farm. The Secretary of the Interior shall keep the map on file and available for public inspection in appropriate offices of the National Park Service. “(b) Management of Easement.—The Secretary shall enter into a cooperative agreement with Kenmore Association, Inc., for the management of Ferry Farm pending completion of the study referred to in subsection (c). “(c) Resource Study.—Not later than 18 months after the date on which funds are made available to carry out this section, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives a resource study of the property described in subsection (a). The study shall—“(1) identify the full range of resources and historic themes associated with Ferry Farm, including those associated with George Washington’s tenure at the property and those associated with the Civil War period; “(2) identify alternatives for further National Park Service involvement at the property beyond those that may be provided for in the acquisition authorized under subsection (a); and “(3) include cost estimates for any necessary acquisition, development, interpretation, operation, and maintenance associated with the alternatives identified. “(d) Agreements.—Upon completion of the resource study under subsection (c), the Secretary of the Interior may enter into an agreement with the owner of the property described in subsection (a) or other entities for the purpose of providing programs, services, facilities, or technical assistance that further the preservation and public use of the property.”
+
+Revision of Boundaries; Acquisition of Lands; Administration; Authorization of AppropriationsPub. L. 107–354, Dec. 17, 2002, 116 Stat. 2984, provided that: “SECTION 1. ADDITION TO NATIONAL MONUMENT.“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 115 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,023 and dated October 2001, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior. “SEC. 2. ACQUISITION OF LANDS.“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) is authorized to acquire lands, or interests therein, from willing owners by donation, purchase with donated money or appropriated funds, or exchange. “SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.“In administering the National Monument, the Secretary shall take actions necessary to preserve and interpret the history and resources associated with George Washington, the generations of the Washington family who lived in the vicinity and their contemporaries, and 18th century plantation life and society.” Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that: “SECTION 1. ADDITION TO NATIONAL MONUMENT.“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior. “SEC. 2. ACQUISITION OF LANDS.“Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the ‘Secretary’) is authorized to acquire lands, or interests therein, by donation, purchase with donated or appropriated funds, or exchange. “SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.“In administering the National Monument, the Secretary shall take such action as is necessary to preserve and interpret the history and resources associated with George Washington, the generations of the Washington family who lived in the vicinity, and their contemporaries, as well as 18th century plantation life and society. “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
+
+Executive Documents
+
+Transfer of Functions For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Additional LandsAdditional lands were added to and made part of the monument by Presidential Proc. No. 1944, Mar. 30, 1931, 47 Stat. 2446.

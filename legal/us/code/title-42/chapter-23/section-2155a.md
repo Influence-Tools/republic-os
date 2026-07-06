@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2155a"
+description: "Regulations establishing Commission procedures covering grant, suspension, revocation, or amendment of nuclear export licenses or exemptions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2155a"
+citation: "42 U.S.C. § 2155a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2155a"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "63642a1b0d1c3dc1822bb76542348d9a871abe8553d882947ceac0857f80eae5"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "66688815759dc548ecf40b2c76f60e05abf9658ac23608421e92a04d51ee98a6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2155a - Regulations establishing Commission procedures covering grant, suspension, revocation, or amendment of nuclear export licenses or exemptions
+
+## Text
+
+(a) Omitted
+
+(b) Within one hundred and twenty days of March 10, 1978, the Commission shall, after consultations with the Secretary of State, promulgate regulations establishing procedures (1) for the granting, suspending, revoking, or amending of any nuclear export license or exemption pursuant to its statutory authority; (2) for public participation in nuclear export licensing proceedings when the Commission finds that such participation will be in the public interest and will assist the Commission in making the statutory determinations required by the 1954 Act, including such public hearings and access to information as the Commission deems appropriate: Provided, That judicial review as to any such finding shall be limited to the determination of whether such finding was arbitrary and capricious; (3) for a public written Commission opinion accompanied by the dissenting or separate views of any Commissioner, in those proceedings where one or more Commissioners have dissenting or separate views on the issuance of an export license; and (4) for public notice of Commission proceedings and decisions, and for recording of minutes and votes of the Commission: Provided further, That until the regulations required by this subsection have been promulgated, the Commission shall implement the provisions of this Act under temporary procedures established by the Commission.
+
+(c) The procedures to be established pursuant to subsection (b) shall constitute the exclusive basis for hearings in nuclear export licensing proceedings before the Commission and, notwithstanding section 189 a. of the 1954 Act [42 U.S.C. 2239(a)], shall not require the Commission to grant any person an on-the-record hearing in such a proceeding.
+
+(Pub. L. 95–242, title III, § 304(b), (c), Mar. 10, 1978, 92 Stat. 135.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in subsec. (b), means the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
+
+Codification Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and not as part of the Atomic Energy Act of 1954 which comprises this chapter. Section is based on subsecs. (b) and (c) of Pub. L. 95–242. Subsecs. (a) and (d) of Pub. L. 95–242 enacted sections 2155 and 2156a, respectively, of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+Definitions For definitions of terms used in this section, see section 3203 of Title 22, Foreign Relations and Intercourse.
+
+Executive Documents
+
+Performance of Functions Pending Development of ProceduresThe performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.

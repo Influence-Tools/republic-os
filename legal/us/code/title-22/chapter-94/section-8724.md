@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 8724"
+description: "Continuation in effect of sanctions with respect to the Government of Iran, the Central Bank of Iran, and sanctions evaders"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "94"
+chapter_name: "IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS"
+section: "8724"
+citation: "22 U.S.C. § 8724"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s8724"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "edf1b0082b4b6f6dc6107f70790a31af8b47a7ad85cb7213f560a8a783c68400"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "cb8d6fb0f5dc111bf5b46eda899c0322c77da8713568e3f3388386aaa4f947a9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 8724 - Continuation in effect of sanctions with respect to the Government of Iran, the Central Bank of Iran, and sanctions evaders
+
+## Text
+
+(a) Sanctions relating to blocking of property of the Government of Iran and Iranian financial institutions United States sanctions with respect to Iran provided for in Executive Order No. 13599 (77 Fed. Reg. 6659), as in effect on the day before August 10, 2012, shall remain in effect until the date that is 90 days after the date on which the President submits to the appropriate congressional committees the certification described in subsection (d).
+
+(b) Sanctions relating to foreign sanctions evaders United States sanctions with respect to Iran provided for in Executive Order No. 13608 (77 Fed. Reg. 26409), as in effect on the day before August 10, 2012, shall remain in effect until the date that is 30 days after the date on which the President submits to the appropriate congressional committees the certification described in section 401(a) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8551(a)).
+
+(c) Continuation of sanctions with respect to the Central Bank of Iran In addition to the sanctions referred to in subsection (a), the President shall continue to apply to the Central Bank of Iran sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), including blocking of property and restrictions or prohibitions on financial transactions and the exportation of property, until the date that is 90 days after the date on which the President submits to Congress the certification described in subsection (d).
+
+(d) Certification described (1) In general The certification described in this subsection is the certification of the President to Congress that the Central Bank of Iran is not—
+
+(A) providing financial services in support of, or otherwise facilitating, the ability of Iran to—
+
+(i) acquire or develop chemical, biological, or nuclear weapons, or related technologies;
+
+(ii) construct, equip, operate, or maintain nuclear facilities that could aid Iran’s effort to acquire a nuclear capability; or
+
+(iii) acquire or develop ballistic missiles, cruise missiles, or destabilizing types and amounts of conventional weapons; or
+
+(B) facilitating transactions or providing financial services for—
+
+(i) Iran’s Revolutionary Guard Corps; or
+
+(ii) financial institutions the property or interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) in connection with—
+
+(I) Iran’s proliferation of weapons of mass destruction or delivery systems for weapons of mass destruction; or
+
+(II) Iran’s support for international terrorism.
+
+(2) Submission to Congress (A) In general The President shall submit the certification described in paragraph (1) to the appropriate congressional committees in writing and shall include a justification for the certification.
+
+(B) Form of certification The certification described in paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
+
+(e) Rule of construction Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.).
+
+(Pub. L. 112–158, title II, § 217, Aug. 10, 2012, 126 Stat. 1233.)
+
+## Notes
+
+Editorial Notes
+
+References in TextExecutive Order No. 13599, referred to in subsec. (a), is Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under section 1701 of Title 50, War and National Defense. Executive Order No. 13608, referred to in subsec. (b), is Ex. Ord. No. 13608, May 1, 2012, 77 F.R. 26409, which is listed in tables under section 1701 of Title 50, War and National Defense. The International Emergency Economic Powers Act, referred to in subsecs. (c), (d)(1)(B)(ii), and (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables. The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (e), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.

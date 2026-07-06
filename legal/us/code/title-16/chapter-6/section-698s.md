@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 698s"
+description: "Acquisition"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "6"
+chapter_name: "GAME AND BIRD PRESERVES; PROTECTION"
+section: "698s"
+citation: "16 U.S.C. § 698s"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s698s"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "38c4d0f59c3ce11b130ee6ece1bdc919355fa3716a0dac509354abef1ca37734"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "90a5222f0b40a5afc6ab10ae6bf3c137b4a10d1279c4abf651cbaea7c0431dd5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 698s - Acquisition
+
+## Text
+
+(a) Authorization (1) In general Subject to paragraphs (2) and (3), the Secretary is authorized to acquire lands, waters, and interests in lands and waters within the boundaries of the Preserve by donation, purchase with donated or appropriated funds, or exchange.
+
+(2) Consent of the owner The Secretary may not acquire lands, waters, or interests in lands and waters for the Preserve without the consent of the owner.
+
+(3) State lands Lands, waters, and interests in lands and waters within the boundaries of the Preserve that are owned by the State of Alabama, or any political subdivision of the State, may be acquired only by donation or exchange.
+
+(b) Negotiations for acquisition (1) Commencement of negotiations Immediately after publication of a description of the boundaries of the Preserve in accordance with section 698q(d) of this title, the Secretary shall commence negotiations for the acquisition of the lands, waters, and interests in lands and waters within the boundaries of the Preserve.
+
+(2) Report to Congress Not later than 1 year after October 21, 1992, the Secretary shall submit, in writing, a detailed schedule of actions and a progress report regarding the acquisition to—
+
+(A) the Committee on Energy and Natural Resources of the Senate;
+
+(B) the Committee on Natural Resources of the House of Representatives; and
+
+(C) the Committees on Appropriations of Congress.
+
+(3) Acquisition deadline The Secretary shall substantially complete the acquisition of the lands, waters, and interests in lands and waters within the Preserve, in accordance with the purposes of sections 698q to 698t of this title, not later than 2 years after October 21, 1992, subject to the availability of funds.
+
+(c) Environmental audits (1) Availability to owner Promptly following completion of any environmental audit performed by or on behalf of the Secretary with respect to any property proposed to be acquired for the purposes of sections 698q to 698t of this title, the Secretary shall make available to the owner of the property a copy of the audit.
+
+(2) Inclusion in documents transferring title Any audit described in paragraph (1), and any environmental audit performed by the owner of the property and submitted to the Secretary prior to the date of the acquisition, shall be included as part of the documents transferring title to the property to the United States.
+
+(d) Future additions No lands or interest in lands may be added to the Preserve after October 21, 1992, without specific authorization by Congress and the consent of the owner of the lands or interest.
+
+(Pub. L. 102–427, § 4, Oct. 21, 1992, 106 Stat. 2181; Pub. L. 103–437, § 6(d)(36), Nov. 2, 1994, 108 Stat. 4585.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1994—Subsec. (b)(2)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs”.

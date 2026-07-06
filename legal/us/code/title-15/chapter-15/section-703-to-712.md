@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 703 to 712"
+description: "Omitted"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "15"
+chapter_name: "ECONOMIC RECOVERY"
+section: "703 to 712"
+citation: "15 U.S.C. § 703 to 712"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s703...712"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "c21717dc13c9c3b26a91859ec4f1e79cdfe4a699ea3003f8b5c621d8fd060ab6"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "9491024e43b599bdf63a0c1196591f24b88777339dbe72e6396dde6541f802c2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 703 to 712 - Omitted
+
+## Notes
+
+Editorial Notes
+
+Codification Sections 703 to 712 of this title were sections 3 to 10, 303, and 304 of the National Industrial Recovery Act of June 16, 1933, ch. 90, 48 Stat. 195, as amended and modified by act June 14, 1935, ch. 246, 49 Stat. 375. After the act was held unconstitutional in A. L. A. Schechter Poultry Corporation v. U.S. (N. Y. 1935, 55 S. Ct. 837, 295 U. S. 495, 79 L. Ed. 1570, 97 A. L. R. 947), the National Recovery Administration was terminated and its functions and agencies transferred by Executive Order Nos. 7252 and 7323, see below. Subsequently, sections 303 and 304 of the Act, classified to sections 711 and 712 of this title, were repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. For history of the Commodity Credit Corporation, the Electric Home and Farm Authority, and the Export-Import Bank of Washington, see notes set out under section 712a of this title.
+
+Executive Documents
+
+Ex. Ord. No. 7252. Terminating the National Recovery Administration and Transferring Certain Agencies and Functions Thereof to the Departments of Commerce and Labor Ex. Ord. No. 7252, Dec. 21, 1935, provided: 1. The National Recovery Administration and the office of Administrator thereof are hereby terminated. 2. The Division of Review, the Division of Business Cooperation, and the Advisory Council, as constituted by Ex. Ord. No. 7075 of June 15, 1935, together with all of their officers and employees, files, records, equipment, and property of every kind, are hereby transferred to the Department of Commerce. The Secretary of Commerce is authorized and directed, under the general direction of the President, to appoint, employ, discharge, and fix the compensation and define the duties and direct the conduct of all officers and employees engaged in the administration of the agencies transferred by this Order to the Department of Commerce, to exercise and perform in connection with the said agencies the functions and duties now exercised and performed, or authorized to be exercised and performed, by the National Recovery Administration, to report to the President on all matters relating thereto, and to terminate the functions and duties of the said agencies not later than April 1, 1936. 3. The Consumers’ Division, established within the National Recovery Administration by Executive Order No. 7120 of July 30, 1935, together with all of its officers and employees, files, records, equipment, and property of every kind, are hereby transferred to the Department of Labor. The Secretary of Labor is authorized and directed, under the general direction of the President, to appoint, employ, discharge, and fix the compensation and define the duties and direct the conduct of all officers and employees as may be engaged in the administration of the said Consumers’ Division, to exercise and perform in connection with said Consumers’ Division the functions and duties now exercised and performed, or authorized to be exercised and performed, by the National Recovery Administration, and to report to the President on all matters relating thereto. 4. No person transferred by this Order shall by such transfer acquire a civil service status. Any new appointments under this Order may be made without regard to the Civil Service Rules and Regulations. 5. All Orders and Regulations heretofore issued concerning the administration of Title I of the National Industrial Recovery Act, as amended, are hereby modified to the extent necessary to make this Order fully effective. 6. This Order shall become effective on January 1, 1936.
+
+Executive Order No. 7323 Ex. Ord. No. 7323, Mar. 26, 1936, 1 F.R. 69, created the Committee of Industrial Analysis to complete the summary of the results and accomplishments of the National Industrial Recovery Administration and report thereon, which report was transmitted to the President on February 17, 1937.
+
+National Emergency CouncilNational Emergency Council abolished and functions transferred to Executive Office of President and to Office of Education in Federal Security Agency by Reorg. Plan No. II of 1939, §§ 201(a), 301, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434, 1435, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of Reorg. Plan No. II of 1939, for provisions relating to transfer of functions, records, property, personnel, and funds.
+
+National Resources CommitteeNational Resources Committee abolished and functions and personnel transferred to National Resources Planning Board in Executive Office of President, which Board was also directed to wind up affairs of the Committee, by Reorg. Plan No. I of 1939, §§ 4, 5, eff. July 1, 1939, 4 F.R. 2727, 2728, 53 Stat. 1423, 1424, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 7 to 9 of 1939 Reorg. Plan for provisions relating to transfer of records, property, funds, and personnel.

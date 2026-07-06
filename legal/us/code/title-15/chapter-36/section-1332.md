@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 1332"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "36"
+chapter_name: "CIGARETTE LABELING AND ADVERTISING"
+section: "1332"
+citation: "15 U.S.C. § 1332"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s1332"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "4f9ec4caac348b838946d16d9954fd3a0c3ab1d7fe3aae80c050eb3b36da8d41"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "2a4f4369e3b75270d8b69b3c2862915fab56520611a8b1d6debdd036b447673d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 1332 - Definitions
+
+## Text
+
+As used in this chapter—
+
+(1) The term “cigarette” means—
+
+(A) any roll of tobacco wrapped in paper or in any substance not containing tobacco, and
+
+(B) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in subparagraph (A).
+
+(2) The term “commerce” means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island and any place outside thereof; (B) commerce between points in any state, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island, but through any place outside thereof; or (C) commerce wholly within the District of Columbia, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island.
+
+(3) The term “United States”, when used in a geographical sense, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, and Johnston Island. The term “State” includes any political division of any State.
+
+(4) The term “package” means a pack, box, carton, or container of any kind in which cigarettes are offered for sale, sold, or otherwise distributed to consumers.
+
+(5) The term “person” means an individual, partnership, corporation, or any other business or legal entity.
+
+(6) The term “sale or distribution” includes sampling or any other distribution not for sale.
+
+(7) The term “little cigar” means any roll of tobacco wrapped in leaf tobacco or any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsection (1)) and as to which one thousand units weigh not more than three pounds.
+
+(8) The term “brand style” means a variety of cigarettes distinguished by the tobacco used, tar and nicotine content, flavoring used, size of the cigarette, filtration on the cigarette, or packaging.
+
+(9) The term “Secretary” means the Secretary of Health and Human Services.
+
+(Pub. L. 89–92, § 3, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, § 2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 93–109, § 2, Sept. 21, 1973, 87 Stat. 352; Pub. L. 98–474, § 6(b), Oct. 12, 1984, 98 Stat. 2204; Pub. L. 99–92, § 11(b), Aug. 16, 1985, 99 Stat. 403.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1985—Pars. (8), (9). Pub. L. 99–92 added par. (8) and redesignated former par. (8) as (9). 1984—Par. (8). Pub. L. 98–474 added par. (8). 1973—Subsec. (7). Pub. L. 93–109 added subsec. (7). 1970—Subsec. (3). Pub. L. 91–222 inserted provisions defining “State”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1973 AmendmentPub. L. 93–109, § 4, Sept. 21, 1973, 87 Stat. 352, provided that: “The amendment made by this Act [amending this section and section 1335 of this title] shall become effective thirty days after the date of enactment [Sept. 21, 1973].”
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.

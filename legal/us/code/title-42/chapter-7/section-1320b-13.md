@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1320b–13"
+description: "Social security account statements"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "7"
+chapter_name: "SOCIAL SECURITY"
+section: "1320b–13"
+citation: "42 U.S.C. § 1320b–13"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1320b–13"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "33c4f42bce3501090e96bd65f001545282cf13b1aab475a7849746ecc5e54207"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "d1e311bdbcf3d6bcec0ad75f59e4ff5c406dd51380d98bab12f7ee5b19a92828"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1320b–13 - Social security account statements
+
+## Text
+
+(a) Provision upon request (1) Beginning not later than October 1, 1990, the Commissioner of Social Security shall provide upon the request of an eligible individual a social security account statement (hereinafter referred to as the “statement”).
+
+(2) Each statement shall contain—
+
+(A) the amount of wages paid to and self-employment income derived by the eligible individual as shown by the records of the Commissioner at the date of the request;
+
+(B) an estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for old-age, survivors, and disability insurance as shown by the records of the Commissioner on the date of the request;
+
+(C) a separate estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for hospital insurance as shown by the records of the Commissioner on the date of the request;
+
+(D) an estimate of the potential monthly retirement, disability, survivor, and auxiliary benefits payable on the eligible individual’s account together with a description of the benefits payable under the medicare program of subchapter XVIII; and
+
+(E) in the case of an eligible individual described in paragraph (3)(C)(ii), an explanation, in language calculated to be understood by the average eligible individual, of the operation of the provisions under sections 402(k)(5) 11 See References in Text note below. and 415(a)(7) 1 of this title and an explanation of the maximum potential effects of such provisions on the eligible individual’s monthly retirement, survivor, and auxiliary benefits.
+
+(3) For purposes of this section, the term “eligible individual” means an individual—
+
+(A) who has a social security account number,
+
+(B) who has attained age 25 or over, and
+
+(C) (i) who has wages or net earnings from self-employment, or (ii) with respect to whom the Commissioner has information that the pattern of wages or self-employment income indicate a likelihood of noncovered employment.
+
+(b) Notice to eligible individuals The Commissioner shall, to the maximum extent practicable, take such steps as are necessary to assure that eligible individuals are informed of the availability of the statement described in subsection (a).
+
+(c) Mandatory provision of statements (1) By not later than September 30, 1995, the Commissioner shall provide a statement to each eligible individual who has attained age 60 by October 1, 1994, and who is not receiving benefits under subchapter II and for whom a current mailing address can be determined through such methods as the Commissioner determines to be appropriate. In fiscal years 1995 through 1999 the Commissioner shall provide a statement to each eligible individual who attains age 60 in such fiscal years and who is not receiving benefits under subchapter II and for whom a current mailing address can be determined through such methods as the Commissioner determines to be appropriate. The Commissioner shall provide with each statement to an eligible individual notice that such statement is updated annually and is available upon request.
+
+(2) Beginning not later than October 1, 1999, the Commissioner shall provide a statement on an annual basis to each eligible individual who is not receiving benefits under subchapter II and for whom a mailing address can be determined through such methods as the Commissioner determines to be appropriate. With respect to statements provided to eligible individuals who have not attained age 50, such statements need not include estimates of monthly retirement benefits. However, if such statements provided to eligible individuals who have not attained age 50 do not include estimates of retirement benefit amounts, such statements shall include a description of the benefits (including auxiliary benefits) that are available upon retirement.
+
+(d) Disclosure to governmental employees of effect of noncovered employment (1) In the case of any individual commencing employment on or after January 1, 2005, in any agency or instrumentality of any State (or political subdivision thereof, as defined in section 418(b)(2) of this title) in a position in which service performed by the individual does not constitute “employment” as defined in section 410 of this title, the head of the agency or instrumentality shall ensure that, prior to the date of the commencement of the individual’s employment in the position, the individual is provided a written notice setting forth an explanation, in language calculated to be understood by the average individual, of the maximum effect on computations of primary insurance amounts (under section 415(a)(7) 1 of this title) and the effect on benefit amounts (under section 402(k)(5) 1 of this title) of monthly periodic payments or benefits payable based on earnings derived in such service. Such notice shall be in a form which shall be prescribed by the Commissioner of Social Security.
+
+(2) The written notice provided to an individual pursuant to paragraph (1) shall include a form which, upon completion and signature by the individual, would constitute certification by the individual of receipt of the notice. The agency or instrumentality providing the notice to the individual shall require that the form be completed and signed by the individual and submitted to the agency or instrumentality and to the pension, annuity, retirement, or similar fund or system established by the governmental entity involved responsible for paying the monthly periodic payments or benefits, before commencement of service with the agency or instrumentality.
+
+(Aug. 14, 1935, ch. 531, title XI, § 1143, formerly § 1142, as added Pub. L. 101–239, title X, § 10308, Dec. 19, 1989, 103 Stat. 2485; renumbered § 1143 and amended Pub. L. 101–508, title V, § 5111(a), Nov. 5, 1990, 104 Stat. 1388–272; Pub. L. 105–78, title VI, § 605, Nov. 13, 1997, 111 Stat. 1521; Pub. L. 108–203, title IV, §§ 419(a)–(c), 421, Mar. 2, 2004, 118 Stat. 533–535.)
+
+## Notes
+
+Editorial Notes
+
+References in TextParagraph (5) of section 402(k) of this title, referred to in subsecs. (a)(2)(E) and (d)(1), was repealed by Pub. L. 118–273, § 2(a), Jan. 5, 2025, 138 Stat. 3232. Paragraph (7) of section 415(a) of this title, referred to in subsecs. (a)(2)(E) and (d)(1), was repealed by Pub. L. 118–273, § 3(a)(1), Jan. 5, 2025, 138 Stat. 3232.
+
+Amendments2004—Subsec. (a)(1). Pub. L. 108–203, § 421(1), substituted “Commissioner of Social Security” for “Secretary”. Subsec. (a)(2)(A) to (C). Pub. L. 108–203, § 421(2), substituted “Commissioner” for “Secretary”. Subsec. (a)(2)(E). Pub. L. 108–203, § 419(b), added subpar. (E). Subsec. (a)(3). Pub. L. 108–203, § 419(a)(1), struck out “who” after “an individual” in introductory provisions. Subsec. (a)(3)(A), (B). Pub. L. 108–203, § 419(a)(1), inserted “who” before “has”. Subsec. (a)(3)(C). Pub. L. 108–203, § 419(a)(2), (3), designated existing provisions as cl. (i), inserted “who” before “has wages”, and inserted “, or” and cl. (ii) before period. Subsecs. (b), (c). Pub. L. 108–203, § 421(2), substituted “Commissioner” for “Secretary” wherever appearing. Subsec. (d). Pub. L. 108–203, § 419(c), added subsec. (d). 1997—Subsec. (a)(2)(B), (C). Pub. L. 105–78 substituted “employer, employee,” for “employee”. 1990—Subsec. (c)(2). Pub. L. 101–508, § 5111(a)(2), substituted “an annual” for “a biennial”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2004 AmendmentPub. L. 108–203, title IV, § 419(d), Mar. 2, 2004, 118 Stat. 534, provided that: “The amendments made by subsections (a) and (b) of this section [amending this section] shall apply with respect to social security account statements issued on or after January 1, 2007.”

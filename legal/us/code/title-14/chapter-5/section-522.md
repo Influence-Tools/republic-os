@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 522"
+description: "Law enforcement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "5"
+chapter_name: "FUNCTIONS AND POWERS"
+section: "522"
+citation: "14 U.S.C. § 522"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s522"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "eaec4b8ec9807293c84f6dca132fc6322ca3c6cad63830e3c7c470a02b74bea2"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "6b1a157933568263f8f4cb5ff9696d716413ed5d6152bea5c69efa39688efd09"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 522 - Law enforcement
+
+## Text
+
+(a) The Coast Guard may make inquiries, examinations, inspections, searches, seizures, and arrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship’s documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering an individual liable to arrest is being, or has been committed, by any individual, such individual shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
+
+(b) The officers of the Coast Guard insofar as they are engaged, pursuant to the authority contained in this section, in enforcing any law of the United States shall:
+
+(1) be deemed to be acting as agents of the particular executive department or independent establishment charged with the administration of the particular law; and
+
+(2) be subject to all the rules and regulations promulgated by such department or independent establishment with respect to the enforcement of that law.
+
+(c) The provisions of this section are in addition to any powers conferred by law upon such officers, and not in limitation of any powers conferred by law upon such officers, or any other officers of the United States.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 502, § 89; Aug. 3, 1950, ch. 536, § 1, 64 Stat. 406; renumbered § 522, Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(5), Jan. 1, 2021, 134 Stat. 4748.)
+
+## Notes
+
+Historical and Revision NotesBased on title 14, U.S.C., 1946 ed., §§ 45–47, 51, 52, 66, 67, 104, and on title 33, U.S.C., 1946 ed., § 755 (R.S. 2747, 2758, 2760, 2762; June 18, 1878, ch. 265, § 4, 20 Stat. 163; June 16, 1880, ch. 235, 21 Stat. 263; June 22, 1936, ch. 705, §§ 1–3, 49 Stat. 1820; July 11, 1941, ch. 290, § 7, 55 Stat. 585). The words “or such merchandise” are inserted in the last clause of subsection (a) in order to provide for situations where it may be desirable to seize merchandise without seizing the vessel. Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+Editorial Notes
+
+Amendments2021—Subsec. (a). Pub. L. 116–283 substituted “an individual” for “a person” and “individual” for “person” in two places. 2018—Pub. L. 115–282 renumbered section 89 of this title as this section. 1950—Subsec. (a). Act Aug. 3, 1950, struck out “to” before “examine” in second sentence.
+
+Statutory Notes and Related Subsidiaries
+
+Policy on Methods To Reduce Incentives for Illicit Maritime Drug TraffickingPub. L. 119–60, div. G, title LXXII, § 7262, Dec. 18, 2025, 139 Stat. 1737, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard], in consultation with the Administrator of the Drug Enforcement Administration, the Secretary of State, and the Secretary of Defense, shall develop a policy, consistent with the Constitution of the United States, as well as domestic and international law, to address, disincentivize, and interdict illicit trafficking by sea of controlled substances (and precursors of controlled substances) being transported to produce illicit synthetic drugs. “(b) Elements.—In developing the policy required under subsection (a), the Commandant shall—“(1) include a requirement that, to the maximum extent practicable, a vessel unlawfully transporting a controlled substance or precursors of a controlled substance being transported to produce illicit synthetic drugs, be seized or appropriately disposed of consistent with domestic and international law, as well as any international agreements to which the United States is a party; and “(2) aim to reduce incentives for illicit maritime drug trafficking on a global scale, including in the Eastern Pacific Ocean, the Indo-Pacific region, the Caribbean, and the Middle East. “(c) Briefing.—Not later than 1 year after the date of the enactment of this Act, the Commandant shall brief the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on the Judiciary of the Senate and the Committee on Transportation and Infrastructure, the Committee on Foreign Affairs, and the Committee on Homeland Security, and the Committee on the Judiciary of the House of Representatives on—“(1) the policy developed pursuant to subsection (a); and “(2) additional resources necessary to implement the policy required under subsection (a) and methods recommended under subparagraph (A).”
+
+Review of Drug Interdiction Equipment and Standards; Testing for Fentanyl During Interdiction OperationsPub. L. 117–263, div. K, title CXII, § 11268, Dec. 23, 2022, 136 Stat. 4063, provided that: “(a) Review.—“(1) In general.—The Commandant [of the Coast Guard], in consultation with the Administrator of the Drug Enforcement Administration and the Secretary of Health and Human Services, shall—“(A) conduct a review of—“(i) the equipment, testing kits, and rescue medications used to conduct Coast Guard drug interdiction operations; and “(ii) the safety and training standards, policies, and procedures with respect to such operations; and “(B) determine whether the Coast Guard is using the latest equipment and technology and up-to-date training and standards for recognizing, handling, testing, and securing illegal drugs, fentanyl and other synthetic opioids, and precursor chemicals during such operations. “(2) Report.—Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], the Commandant shall submit to the appropriate committees of Congress a report on the results of the review conducted under paragraph (1). “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and “(B) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives. “(b) Requirement.—If, as a result of the review required by subsection (a), the Commandant determines that the Coast Guard is not using the latest equipment and technology and up-to-date training and standards for recognizing, handling, testing, and securing illegal drugs, fentanyl and other synthetic opioids, and precursor chemicals during drug interdiction operations, the Commandant shall ensure that the Coast Guard acquires and uses such equipment and technology, carries out such training, and implements such standards. “(c) Testing for Fentanyl.—The Commandant shall ensure that Coast Guard drug interdiction operations include the testing of substances encountered during such operations for fentanyl, as appropriate.”
+
+Public Availability of Information on Monthly Migrant InterdictionsPub. L. 117–263, div. K, title CXII, § 11269, Dec. 23, 2022, 136 Stat. 4064, which directed the Commandant of the Coast Guard to make available to the public the monthly number of migrant interdictions, was redesignated as section 529 of this title and transferred to appear at the end of this subchapter by Pub. L. 119–60, div. G, title LXXII, § 7202(a)(1)–(3)(A), Dec. 18, 2025, 139 Stat. 1687.
+
+Currency Detection Canine Team ProgramPub. L. 115–282, title VIII, § 806, Dec. 4, 2018, 132 Stat. 4300, provided that: “(a) Definitions.—In this section:“(1) Canine currency detection team.—The term ‘canine currency detection team’ means a canine and a canine handler that are trained to detect currency. “(2) Secretary.—The term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating. “(b) Establishment.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Secretary shall establish a program to allow the use of canine currency detection teams for purposes of Coast Guard maritime law enforcement, including underway vessel boardings. “(c) Operation.—The Secretary may cooperate with, or enter into an agreement with, the head of another Federal agency to meet the requirements under subsection (b).”

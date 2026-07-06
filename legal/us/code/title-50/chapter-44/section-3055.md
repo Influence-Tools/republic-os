@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3055"
+description: "Annual report on financial intelligence on terrorist assets"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3055"
+citation: "50 U.S.C. § 3055"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3055"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "c54f3bc9a29ed93de57a17834f62dea48146b1454d92c547be3f7a494c41a07b"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "6fe2f99ddd6c8030eb1e3faee6ef4cff929739b0b74756488098572867e84113"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3055 - Annual report on financial intelligence on terrorist assets
+
+## Text
+
+(a) Annual report On an annual basis, the Secretary of the Treasury (acting through the head of the Office of Intelligence Support) shall submit a report to the appropriate congressional committees that fully informs the committees concerning operations against terrorist financial networks. Each such report shall include with respect to the preceding one-year period—
+
+(1) the total number of asset seizures, designations, and other actions against individuals or entities found to have engaged in financial support of terrorism;
+
+(2) the total number of physical searches of offices, residences, or financial records of individuals or entities suspected of having engaged in financial support for terrorist activity; and
+
+(3) whether the financial intelligence information seized in these cases has been shared on a full and timely basis with the all departments, agencies, and other entities of the United States Government involved in intelligence activities participating in the Foreign Terrorist Asset Tracking Center.
+
+(b) Immediate notification for emergency designation In the case of a designation of an individual or entity, or the assets of an individual or entity, as having been found to have engaged in terrorist activities, the Secretary of the Treasury shall report such designation within 24 hours of such a designation to the appropriate congressional committees.
+
+(c) Submittal date of reports to congressional intelligence committees In the case of the reports required to be submitted under subsection (a) to the congressional intelligence committees, the submittal dates for such reports shall be as provided in section 3106 of this title.
+
+(d) Appropriate congressional committees defined In this section, the term “appropriate congressional committees” means the following:
+
+(1) The Permanent Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Financial Services of the House of Representatives.
+
+(2) The Select Committee on Intelligence, the Committee on Appropriations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+(July 26, 1947, ch. 343, title I, § 118, as added Pub. L. 107–306, title III, § 342(a)(1), Nov. 27, 2002, 116 Stat. 2398; amended Pub. L. 111–259, title III, § 347(d), Oct. 7, 2010, 124 Stat. 2698; Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(3), Dec. 23, 2022, 136 Stat. 3615.)
+
+## Notes
+
+Repeal of SectionFor repeal of section by section 6801(a)(1)(A) of Pub. L. 119–60, see Effective Date of Repeal note below.
+
+Editorial Notes
+
+Codification Section was formerly classified to section 404m of this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2022—Subsec. (a). Pub. L. 117–263 substituted “an annual” for “a annual” in introductory provisions. 2010—Pub. L. 111–259, § 347(d)(1), substituted “Annual” for “Semiannual” in section catchline. Subsec. (a). Pub. L. 111–259, § 347(d)(2)(A), (B), in heading, substituted “Annual” for “Semiannual” and, in introductory provisions, substituted “annual basis” for “semiannual basis” and “preceding one-year period” for “preceding six-month period”. Subsec. (a)(2) to (4). Pub. L. 111–259, § 347(d)(2)(C), (D), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the total number of applications for asset seizure and designations of individuals or entities suspected of having engaged in financial support of terrorist activities that were granted, modified, or denied;”. Subsec. (d)(1), (2). Pub. L. 111–259, § 347(d)(3), inserted “the Committee on Armed Services,” after “the Committee on Appropriations,”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of RepealPub. L. 119–60, div. F, title LXVIII, § 6801(a)(1)(C), Dec. 18, 2025, 139 Stat. 1652, provided that: “The amendments made by subparagraphs (A) and (B) [amending section 3106 of this title and repealing this section] shall take effect on December 31, 2026.”

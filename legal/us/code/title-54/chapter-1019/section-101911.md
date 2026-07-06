@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "54 U.S.C. § 101911"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 54
+title_name: "NATIONAL PARK SERVICE AND RELATED PROGRAMS"
+chapter_number: "1019"
+chapter_name: "CONCESSIONS AND COMMERCIAL USE AUTHORIZATIONS"
+section: "101911"
+citation: "54 U.S.C. § 101911"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc54@119-100.zip"
+source_identifier: "/us/usc/t54/s101911"
+source_file: "data/legal/raw/us/code/title-54/usc54.xml"
+source_hash: "26a6d17d22c256badfba229c91c368f643447c007a8d86a2fb3736f918e66944"
+raw_snapshot_hash: "ae37e9ba9ffe98b17fb5695939469d1407e46b028e81e9ffb76abd1481eeb360"
+text_hash: "afb1cdcd0082d82cdec366b8c25d21de2738d9fcadc359b4af5d88dad8072f3d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 54 U.S.C. § 101911 - Definitions
+
+## Text
+
+In this subchapter:
+
+(1) Advisory board.— The term “Advisory Board” means the National Park Service Concessions Management Advisory Board established under section 101919 of this title.
+
+(2) Preferential right of renewal.— The term “preferential right of renewal” means the right of a concessioner, subject to a determination by the Secretary that the facilities or services authorized by a prior contract continue to be necessary and appropriate within the meaning of section 101912 of this title, to match the terms and conditions of any competing proposal that the Secretary determines to be the best proposal for a proposed new concession contract that authorizes the continuation of the facilities and services provided by the concessioner under its prior contract.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3138.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 101911(1)no source. 101911(2)16 U.S.C. 5952(7)(C).Pub. L. 105–391, title IV, § 403(7)(C), Nov. 13, 1998, 112 Stat. 3506.
+
+Statutory Notes and Related Subsidiaries
+
+Savings ProvisionPub. L. 105–391, title IV, § 419, Nov. 13, 1998, 112 Stat. 3517, provided that: “(a) Treatment of Glacier Bay Concession Permits Prospectus.—Nothing contained in this title [enacting former sections 5951 to 5966 of Title 16, Conservation, which were repealed and restated in sections 101911 et seq. and 101524 of this title, amending former sections 1a–7 and 3 of Title 16, repealing section 17b–1 and subchapter IV of chapter 1 of Title 16, and enacting provisions set out as notes under this section and sections 100101 and 101912 of this title] shall authorize or require the Secretary to withdraw, revise, amend, modify, or reissue the February 19, 1998, Prospectus Under Which Concession Permits Will be Open for Competition for the Operation of Cruise Ship Services Within Glacier Bay National Park and Preserve (in this section referred to as the ‘1998 Glacier Bay Prospectus’). The award of concession permits pursuant to the 1998 Glacier Bay Prospectus shall be under provisions of existing law at the time the 1998 Glacier Bay Prospectus was issued. “(b) Preferential Right of Renewal.—Notwithstanding any provision of this title, the Secretary, in awarding future Glacier Bay cruise ship concession permits covering cruise ship entries for which a preferential right of renewal existed prior to the effective date of this title [probably means the date of enactment of title IV of Pub. L. 105–391, which was approved Nov. 13, 1998], shall provide for such cruise ship entries a preferential right of renewal, as described in subparagraphs (C) and (D) of section 403(7) [see 54 U.S.C. 101911(2), 101913(7)(C)]. Any Glacier Bay concession permit awarded under the authority contained in this subsection shall expire by December 31, 2009.”
+
+Alaska National Interest Lands Conservation ActPub. L. 105–391, title IV, § 415(c), Nov. 13, 1998, 112 Stat. 3516, provided that: “Nothing in this title [enacting former sections 5951 to 5966 of Title 16, Conservation, which were repealed and restated in sections 101911 et seq. and 101524 of this title, amending former sections 1a–7 and 3 of Title 16, repealing section 17b–1 and subchapter IV of chapter 1 of Title 16, and enacting provisions set out as notes under this section and sections 100101 and 101912 of this title] amends, supersedes, or otherwise affects any provision of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.) relating to revenue-producing visitor services.”

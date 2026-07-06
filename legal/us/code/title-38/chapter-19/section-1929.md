@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1929"
+description: "Authority to adjust premium discount rates"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "19"
+chapter_name: "INSURANCE"
+section: "1929"
+citation: "38 U.S.C. § 1929"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1929"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "c994159b7ab4c87af30a8cf6dd84bec10cdecc234f67c66d89a93c5472bcf3c6"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "f53f9f125eaf4abbf19bdef94c93aa5310b3df42314540194101715824f5d368"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1929 - Authority to adjust premium discount rates
+
+## Text
+
+(a) Notwithstanding sections 1902, 1923, and 1925 of this title and subject to subsection (b) of this section, the Secretary may from time to time adjust the discount rates for premiums paid in advance on National Service Life Insurance, Veterans’ Special Life Insurance, and Veterans Reopened Insurance.
+
+(b) (1) In adjusting a discount rate pursuant to subsection (a) of this section, the Secretary may not set such rate at a rate lower than the rate authorized for the program of insurance involved under section 1902, 1923, or 1925 of this title.
+
+(2) The Secretary may make an adjustment under subsection (a) of this section only if the Secretary determines that the adjustment is administratively and actuarially sound for the program of insurance involved.
+
+(Added Pub. L. 100–687, div. B, title XIV, § 1401(b)(1), Nov. 18, 1988, 102 Stat. 4129, § 729; renumbered § 1929 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1991—Pub. L. 102–83, § 5(a), renumbered section 729 of this title as this section. Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725” in subsec. (a) and “1902, 1923, or 1925” for “702, 723, or 725” in subsec. (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 100–687, div. B, title XIV, § 1401(b)(2), Nov. 18, 1988, 102 Stat. 4129, provided that: “The amendment made by paragraph (1) [enacting this section] shall take effect with respect to premiums paid after the date of the enactment of this Act [Nov. 18, 1988].”

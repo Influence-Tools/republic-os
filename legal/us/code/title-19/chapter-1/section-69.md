@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 69"
+description: "Erection of protective gates and fences across and around roads crossing borders"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "1"
+chapter_name: "COLLECTION DISTRICTS, PORTS, AND OFFICERS"
+section: "69"
+citation: "19 U.S.C. § 69"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s69"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "dabdd13fba34c05890b15c35149d0ab2b3b0a7b691b41d121fa9ecccb35ab8cb"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "064eec677f37a326d257003f597acc036605ebf6a6beecf13a93b17507c98435"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 69 - Erection of protective gates and fences across and around roads crossing borders
+
+## Text
+
+The Secretary of the Treasury is authorized to expend, from the funds appropriated for the general maintenance and operation of the Customs Service, such amounts as may be necessary for the erection of protective gates across international highways and roads crossing the Canadian and Mexican borders and for the erection of such fences in the immediate vicinity of such highways and roads as may be necessary to prevent unlawful entry or smuggling.
+
+(June 26, 1930, ch. 617, § 2, as added Oct. 10, 1940, ch. 837, 54 Stat. 1092.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+Executive Documents
+
+Transfer of Functions Functions of officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury. Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, § 2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.

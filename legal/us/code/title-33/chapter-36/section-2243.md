@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2243"
+description: "Arctic deep draft port development partnerships"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2243"
+citation: "33 U.S.C. § 2243"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2243"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "4501d16422840d44dda53e5abff6284b78868eb54d495af885fa6cec5437bf31"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "ac030b6c653a2d897411d6660be77e384833c5c64b64fe1be28789c5858fe8bc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2243 - Arctic deep draft port development partnerships
+
+## Text
+
+(a) In general The Secretary may provide technical assistance to non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 11 So in original. Probably should be followed by a closing parenthesis., for the development, construction, operation, and maintenance of channels, harbors, and related infrastructure associated with deep draft ports for purposes of dealing with Arctic development and security needs.
+
+(b) Acceptance of funds The Secretary is authorized to accept and expend funds provided by non-Federal public entities, including Indian tribes (as defined in section 5304 of title 25) and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43 1, to carry out the technical assistance activities described in subsection (a).
+
+(c) Limitation No assistance may be provided under this section until after the date on which the entity to which that assistance is to be provided enters into a written agreement with the Secretary that includes such terms and conditions as the Secretary determines to be appropriate and in the public interest.
+
+(d) Prioritization The Secretary shall prioritize technical assistance provided under this section for Arctic deep draft ports identified by the Secretary, the Secretary of the department in which the Coast Guard is operating, and the Secretary of Defense as important for Arctic development and security.
+
+(e) Consideration of national security interests In carrying out a study of the feasibility of an Arctic deep draft port, the Secretary—
+
+(1) shall consult with the Secretary of the department in which the Coast Guard is operating to identify benefits in carrying out the missions specified in section 468 of title 6 associated with an Arctic deep draft port;
+
+(2) shall consult with the Secretary of Defense to identify national security benefits associated with an Arctic deep draft port; and
+
+(3) may consider such benefits in determining whether an Arctic deep draft port is feasible.
+
+(Pub. L. 113–121, title II, § 2105, June 10, 2014, 128 Stat. 1279; Pub. L. 114–322, title I, § 1202(c), Dec. 16, 2016, 130 Stat. 1684.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2016—Subsecs. (a), (b). Pub. L. 114–322, § 1202(c)(1), inserted “and a Native village, Regional Corporation, or Village Corporation (as those terms are defined in section 1602 of title 43” after “title 25)” and made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25. Subsec. (d). Pub. L. 114–322, § 1202(c)(2), substituted “the Secretary of the department in which the Coast Guard is operating” for “the Secretary of Homeland Security”. Subsec. (e). Pub. L. 114–322, § 1202(c)(3), added subsec. (e).
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

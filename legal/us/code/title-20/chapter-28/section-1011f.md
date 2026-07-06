@@ -1,0 +1,105 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 1011f"
+description: "Disclosures of foreign gifts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "28"
+chapter_name: "HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE"
+section: "1011f"
+citation: "20 U.S.C. § 1011f"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s1011f"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "f04b9c209fd532d8b900bcfb5242bac320240c366864303cdfd9e8e2e8f436d6"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "4bbc579155bc86c10bfaebe9b45d66e7da67e3aad8e92048b5008ab3ae5282a5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 1011f - Disclosures of foreign gifts
+
+## Text
+
+(a) Disclosure report Whenever any institution is owned or controlled by a foreign source or receives a gift from or enters into a contract with a foreign source, the value of which is $250,000 or more, considered alone or in combination with all other gifts from or contracts with that foreign source within a calendar year, the institution shall file a disclosure report with the Secretary on January 31 or July 31, whichever is sooner.
+
+(b) Contents of report Each report to the Secretary required by this section shall contain the following:
+
+(1) For gifts received from or contracts entered into with a foreign source other than a foreign government, the aggregate dollar amount of such gifts and contracts attributable to a particular country. The country to which a gift is attributable is the country of citizenship, or if unknown, the principal residence for a foreign source who is a natural person, and the country of incorporation, or if unknown, the principal place of business, for a foreign source which is a legal entity.
+
+(2) For gifts received from or contracts entered into with a foreign government, the aggregate amount of such gifts and contracts received from each foreign government.
+
+(3) In the case of an institution which is owned or controlled by a foreign source, the identity of the foreign source, the date on which the foreign source assumed ownership or control, and any changes in program or structure resulting from the change in ownership or control.
+
+(c) Additional disclosures for restricted and conditional gifts Notwithstanding the provisions of subsection (b), whenever any institution receives a restricted or conditional gift or contract from a foreign source, the institution shall disclose the following:
+
+(1) For such gifts received from or contracts entered into with a foreign source other than a foreign government, the amount, the date, and a description of such conditions or restrictions. The report shall also disclose the country of citizenship, or if unknown, the principal residence for a foreign source which is a natural person, and the country of incorporation, or if unknown, the principal place of business for a foreign source which is a legal entity.
+
+(2) For gifts received from or contracts entered into with a foreign government, the amount, the date, a description of such conditions or restrictions, and the name of the foreign government.
+
+(d) Relation to other reporting requirements (1) State requirements If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
+
+(2) Use of other Federal reports If an institution receives a gift from, or enters into a contract with, a foreign source, where any other department, agency, or bureau of the executive branch requires a report containing requirements substantially similar to those required under this section, a copy of the report may be filed with the Secretary in lieu of a report required under subsection (a).
+
+(e) Public inspection All disclosure reports required by this section shall be public records open to inspection and copying during business hours.
+
+(f) Enforcement (1) Court orders Whenever it appears that an institution has failed to comply with the requirements of this section, including any rule or regulation promulgated under this section, a civil action may be brought by the Attorney General, at the request of the Secretary, in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, to request such court to compel compliance with the requirements of this section.
+
+(2) Costs For knowing or willful failure to comply with the requirements of this section, including any rule or regulation promulgated thereunder, an institution shall pay to the Treasury of the United States the full costs to the United States of obtaining compliance, including all associated costs of investigation and enforcement.
+
+(g) Regulations The Secretary may promulgate regulations to carry out this section.
+
+(h) Definitions For the purpose of this section—
+
+(1) the term “contract” means any agreement for the acquisition by purchase, lease, or barter of property or services by the foreign source, for the direct benefit or use of either of the parties;
+
+(2) the term “foreign source” means—
+
+(A) a foreign government, including an agency of a foreign government;
+
+(B) a legal entity, governmental or otherwise, created solely under the laws of a foreign state or states;
+
+(C) an individual who is not a citizen or a national of the United States or a trust territory or protectorate thereof; and
+
+(D) an agent, including a subsidiary or affiliate of a foreign legal entity, acting on behalf of a foreign source;
+
+(3) the term “gift” means any gift of money or property;
+
+(4) the term “institution” means any institution, public or private, or, if a multicampus institution, any single campus of such institution, in any State, that—
+
+(A) is legally authorized within such State to provide a program of education beyond secondary school;
+
+(B) provides a program for which the institution awards a bachelor’s degree (or provides not less than a 2-year program which is acceptable for full credit toward such a degree) or more advanced degrees; and
+
+(C) is accredited by a nationally recognized accrediting agency or association and to which institution Federal financial assistance is extended (directly or indirectly through another entity or person), or which institution receives support from the extension of Federal financial assistance to any of the institution’s subunits; and
+
+(5) the term “restricted or conditional gift or contract” means any endowment, gift, grant, contract, award, present, or property of any kind which includes provisions regarding—
+
+(A) the employment, assignment, or termination of faculty;
+
+(B) the establishment of departments, centers, research or lecture programs, or new faculty positions;
+
+(C) the selection or admission of students; or
+
+(D) the award of grants, loans, scholarships, fellowships, or other forms of financial aid restricted to students of a specified country, religion, sex, ethnic origin, or political opinion.
+
+(Pub. L. 89–329, title I, § 117, as added Pub. L. 105–244, title I, § 101(a), Oct. 7, 1998, 112 Stat. 1593.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to this section were contained in section 1145d of this title prior to repeal by Pub. L. 105–244. A prior section 1011f, Pub. L. 89–329, title I, § 127, as added Pub. L. 102–325, title I, § 101, July 23, 1992, 106 Stat. 464, related to priority grant applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
+
+Executive Documents
+
+Ex. Ord. No. 14282. Transparency Regarding Foreign Influence at American Universities Ex. Ord. No. 14282, Apr. 23, 2025, 90 F.R. 17541, provided: By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose and Policy. Section 117 of the Higher Education Act of 1965, 20 U.S.C. 1011f, requires institutions of higher education to report significant sources of foreign funding. But, because section 117 has not been robustly enforced, the true amounts, sources, and purposes of foreign money flowing to American campuses are unknown. From 2010 to 2016, according to one study, universities failed to disclose more than half of reportable foreign gifts. Even when foreign funding is reported, its true sources are often hidden. Protecting American educational, cultural, and national security interests requires transparency regarding foreign funds flowing to American higher education and research institutions. During my first term, the Department of Education opened investigations on 19 campuses from 2019–2021, which led universities to report $6.5 billion in previously undisclosed foreign funds. Yet the prior administration undid this work, moving the Department of Education’s specialized investigatory work on foreign funds to a unit ill-equipped to perform it, undermining investigations, and hindering public access to information on foreign gifts and contracts. It is the policy of my Administration to end the secrecy surrounding foreign funds in American educational institutions, protect the marketplace of ideas from propaganda sponsored by foreign governments, and safeguard America’s students and research from foreign exploitation. Sec. 2. Robust Enforcement to Prevent Harm to American Interests. The Secretary of Education (Secretary) shall take all appropriate actions to enforce the requirements of section 1011f of title 20, United States Code, including by working with the Attorney General and the heads of other executive departments, agencies, and offices, where appropriate, to require complete and timely disclosure by higher education institutions of foreign funding. These actions shall include the following: (a) the Secretary shall take appropriate steps to reverse or rescind any actions by the prior administration that permit higher education institutions to maintain improper secrecy regarding their foreign funding; (b) the Secretary shall take appropriate steps to require universities to more specifically disclose details about foreign funding, including the true source and purpose of the funds; (c) the Secretary shall provide the American people with greater access to information about foreign funding to higher education institutions; and (d) the Secretary and the Attorney General shall hold accountable higher education institutions that fail to comply with the law concerning disclosure of foreign funding. In furtherance of this directive, the Secretary shall work with the heads of other executive departments, agencies, and offices, where appropriate, to conduct audits and investigations as appropriate and where necessary to ensure compliance with the law concerning disclosure of foreign funding and shall seek enforcement through appropriate action by the Attorney General. Sec. 3. Compliance by Federal Funding Recipients. The Secretary of Education and the heads of other appropriate executive departments and agencies shall take appropriate action, as consistent with applicable law, to prospectively ensure that certification of compliance by higher education institutions with 20 U.S.C. 1011f and any other applicable foreign funding disclosure requirements is material for purposes of 31 U.S.C. 3729 and for receipt of appropriate Federal grant funds, which shall not be provided in cases of noncompliance with 20 U.S.C. 1011f and any other applicable foreign funding disclosure requirements. Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect: (i) the authority granted by law to an executive department or agency, or the head thereof; or (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals. (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations. (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. (d) If any provision of this order, or the application of any provision to any agency, person or circumstance, is held to be invalid, the remainder of this order and the application of its provisions to any other agencies, persons or circumstances shall not be affected thereby. Donald J. Trump.

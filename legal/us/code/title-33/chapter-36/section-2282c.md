@@ -1,0 +1,105 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2282c"
+description: "Vertical integration and acceleration of studies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2282c"
+citation: "33 U.S.C. § 2282c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2282c"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "ec9d5cca529c444808ab8d2da730cb31fe896a35f8dc341659c47cb8bcd3156e"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "067f22f8b7016640e79eb43ae4a73950f6b27e84cb63d3a1925b1bf27b0b30f1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2282c - Vertical integration and acceleration of studies
+
+## Text
+
+(a) In general To the extent practicable, a feasibility study initiated by the Secretary, after June 10, 2014, under section 2282(a) of this title shall—
+
+(1) result in the completion of a final feasibility report not later than 4 years after the date on which the Secretary determines the Federal interest for purposes of the report pursuant to section 2282(b) of this title;
+
+(2) have a maximum total cost of $5,000,000; and
+
+(3) ensure that personnel from the district, division, and headquarters levels of the Corps of Engineers concurrently conduct the review required under that section.
+
+(b) Extension If the Secretary determines that a feasibility study described in subsection (a) will not be conducted in accordance with subsection (a), the Secretary, not later than 30 days after the date of making the determination, shall—
+
+(1) prepare an updated feasibility study schedule and cost estimate;
+
+(2) notify the non-Federal feasibility cost-sharing partner that the feasibility study has been delayed; and
+
+(3) provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives as to the reasons the requirements of subsection (a) are not attainable.
+
+(c) Exception (1) In general The Secretary may extend the timeline of a study by a period not to exceed 3 years, if the Secretary determines that the feasibility study is too complex to comply with the requirements of subsection (a).
+
+(2) Factors In making a determination that a study is too complex to comply with the requirements of subsection (a), the Secretary shall consider—
+
+(A) the type, size, location, scope, and overall cost of the project;
+
+(B) whether the project will use any innovative design or construction techniques;
+
+(C) whether the project will require significant action by other Federal, State, or local agencies;
+
+(D) whether there is significant public dispute as to the nature or effects of the project; and
+
+(E) whether there is significant public dispute as to the economic or environmental costs or benefits of the project.
+
+(3) Notification Each time the Secretary makes a determination under this subsection, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives as to the results of that determination, including an identification of the specific 1 or more factors used in making the determination that the project is complex.
+
+(d) Reviews Not later than 90 days after the date of the initiation of a study described in subsection (a) for a project, the Secretary shall—
+
+(1) take all steps necessary to initiate the process for completing federally mandated reviews that the Secretary is required to complete as part of the study, including the environmental review process under section 1005;
+
+(2) convene a meeting of all Federal, tribal, and State agencies identified under section 2348(e) of this title that may be required by law to conduct or issue a review, analysis, or opinion on or to make a determination concerning a permit or license for the study; and
+
+(3) take all steps necessary to provide information that will enable required reviews and analyses related to the project to be conducted by other agencies in a thorough and timely manner.
+
+(e) Interim report Not later than 18 months after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
+
+(1) the status of the implementation of the planning process under this section, including the number of participating projects;
+
+(2) a review of project delivery schedules, including a description of any delays on those studies participating in the planning process under this section; and
+
+(3) any recommendations for additional authority necessary to support efforts to expedite the feasibility study process for water resource projects.
+
+(f) Final report Not later than 4 years after June 10, 2014, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report that describes—
+
+(1) the status of the implementation of this section, including a description of each feasibility study subject to the requirements of this section;
+
+(2) the amount of time taken to complete each feasibility study; and
+
+(3) any recommendations for additional authority necessary to support efforts to expedite the feasibility study process, including an analysis of whether the limitation established by subsection (a)(2) needs to be adjusted to address the impacts of inflation.
+
+(Pub. L. 113–121, title I, § 1001, June 10, 2014, 128 Stat. 1196; Pub. L. 115–270, title I, § 1330(b), Oct. 23, 2018, 132 Stat. 3827; Pub. L. 116–260, div. AA, title III, § 360(c), Dec. 27, 2020, 134 Stat. 2733; Pub. L. 118–272, div. A, title I, § 1103(a), Jan. 4, 2025, 138 Stat. 3000.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1005, referred to in subsec. (d)(1), is section 1005 of Pub. L. 113–121, which enacted section 2349 of this title and amended generally section 2348 of this title.
+
+Codification Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 118–272, § 1103(a)(1), substituted “4 years after the date on which the Secretary determines the Federal interest for purposes of the report pursuant to section 2282(b) of this title” for “3 years after the date of initiation”. Subsec. (a)(2). Pub. L. 118–272, § 1103(a)(2), added par. (2) and struck out former par. (2) which read as follows: “have a maximum Federal cost of $3,000,000; and”. 2020—Subsec. (c). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “A feasibility study for which the Secretary has issued a determination under subsection (b) is not authorized after the last day of the 1-year period beginning on the date of the determination if the Secretary has not completed the study on or before such last day.” Subsec. (d). Pub. L. 116–260, § 360(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c). Subsec. (d)(1). Pub. L. 116–260, § 360(c)(1)(A), (B), substituted “The Secretary” for “Notwithstanding the requirements of subsection (c), the Secretary” and “subsection (a)” for “subsections (a) and (c)”. Subsec. (d)(2). Pub. L. 116–260, § 360(c)(1)(B), substituted “subsection (a)” for “subsections (a) and (c)” in introductory provisions. Subsec. (d)(4). Pub. L. 116–260, § 360(c)(1)(C), struck out par. (4). Text read as follows: “The Secretary shall not extend the timeline for a feasibility study for a period of more than 10 years, and any feasibility study that is not completed before that date shall no longer be authorized.”. Subsecs. (e) to (g). Pub. L. 116–260, § 360(c)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d). 2018—Subsec. (d)(4). Pub. L. 115–270 substituted “10 years” for “7 years”.
+
+Statutory Notes and Related Subsidiaries
+
+Savings ClausePub. L. 118–272, div. A, title I, § 1103(b), Jan. 4, 2025, 138 Stat. 3000, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed to affect a feasibility study that was initiated prior to the date of the enactment of this Act [Jan. 4, 2025].”
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

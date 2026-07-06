@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 2279aa–11"
+description: "Supervision, examination, and report of condition"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "23"
+chapter_name: "FARM CREDIT SYSTEM"
+section: "2279aa–11"
+citation: "12 U.S.C. § 2279aa–11"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s2279aa–11"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "dc487c2c1c0c9f961096e1c3a5fb1bdfbbcb267e537b1ec98e2fb300aaecab56"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "3f7d92f7fcce973b501d68ab923b690b7ed4b60d0308b8629a706dc1656c935a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 2279aa–11 - Supervision, examination, and report of condition
+
+## Text
+
+(a) Regulation (1) Authority Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to provide, acting through the Office of Secondary Market Oversight—
+
+(A) for the examination of the Corporation and its affiliates; and
+
+(B) for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the authorities granted to the Farm Credit Administration under—
+
+(i) part C of subchapter V; and
+
+(ii) beginning 6 months after December 13, 1991, section 2252(a)(9) of this title.
+
+(2) Considerations In exercising its authority pursuant to this section, the Farm Credit Administration shall consider—
+
+(A) the purposes for which the Corporation was created;
+
+(B) the practices appropriate to the conduct of secondary markets in agricultural loans; and
+
+(C) the reduced levels of risk associated with appropriately structured secondary market transactions.
+
+(3) Office of Secondary Market Oversight (A) Not later than 180 days after December 13, 1991, the Farm Credit Administration Board shall establish within the Farm Credit Administration the Office of Secondary Market Oversight.
+
+(B) The Farm Credit Administration Board shall carry out the authority set forth in this section through the Office of Secondary Market Oversight.
+
+(C) The Office of Secondary Market Oversight shall be managed by a full-time Director who shall be selected by and report to the Farm Credit Administration Board.
+
+(b) Examinations and audits (1) In general The financial transactions of the Corporation shall be examined by examiners of the Farm Credit Administration in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Administration.
+
+(2) Frequency The examinations shall occur at such times as the Farm Credit Administration Board may determine, but in no event less than once each year.
+
+(3) Access The examiners shall—
+
+(A) have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audit; and
+
+(B) be afforded full access for verifying transactions with certified facilities and other entities with whom the Corporation conducts transactions.
+
+(c) Annual report of condition The Corporation shall make and publish an annual report of condition as prescribed by the Farm Credit Administration. Each report shall contain financial statements prepared in accordance with generally accepted accounting principles and contain such additional information as the Farm Credit Administration may by regulation prescribe. The financial statements of the Corporation shall be audited by an independent public accountant.
+
+(d) FCA assessments to cover costs The Farm Credit Administration shall assess the Corporation for the cost to the Administration of any regulatory activities conducted under this section, including the cost of any examination.
+
+(e) “Affiliate” defined As used in this subchapter, the term “affiliate” shall mean an entity effectively controlled or owned by the Corporation, except that such term shall not include an originator (as defined in section 2279aa of this title).
+
+(f) Employees and personnel The Farm Credit Administration Board shall ensure that—
+
+(1) the Office of Secondary Market Oversight has access to a sufficient number of qualified and trained employees to adequately supervise the secondary market activities of the Corporation; and
+
+(2) the supervision of the powers, functions, and duties of the Corporation is performed, to the extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.
+
+(Pub. L. 92–181, title VIII, § 8.11, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1702; amended Pub. L. 101–624, title XVIII, § 1840, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–237, title V, § 503(a), Dec. 13, 1991, 105 Stat. 1870; Pub. L. 102–552, title III, § 308(b)(2), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, § 111, Feb. 10, 1996, 110 Stat. 165; Pub. L. 115–334, title V, § 5411(47), Dec. 20, 2018, 132 Stat. 4685.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Subsec. (e). Pub. L. 115–334 substituted “2279aa of this title)” for “2279aa(7) of this title)”. 1996—Subsec. (e). Pub. L. 104–105 substituted “section 2279aa(7) of this title” for “paragraphs (3) and (7), respectively, of section 2279aa of this title” and struck out “a certified facility or” before “an originator”. 1992—Subsec. (a)(1)(B)(ii). Pub. L. 102–552 substituted “December 13, 1991” for “the date of enactment of this section”. 1991—Subsec. (a)(1). Pub. L. 102–237, § 503(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the Farm Credit Administration shall have the authority to— “(A) provide for the examination of the condition of the Corporation and its affiliates; and “(B) provide for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.” Subsec. (a)(3). Pub. L. 102–237, § 503(a)(2), added par. (3). Subsec. (f). Pub. L. 102–237, § 503(a)(3), added subsec. (f). 1990—Subsec. (a)(1). Pub. L. 101–624, § 1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to— “(A) providing for the examination of the condition of the Corporation; and “(B) providing for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter.” Subsec. (e). Pub. L. 101–624, § 1840(2), added subsec. (e).

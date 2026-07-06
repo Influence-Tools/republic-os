@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "45 U.S.C. § 1116"
+description: "Applicability of other laws"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 45
+title_name: "RAILROADS"
+chapter_number: "20"
+chapter_name: "NORTHEAST RAIL SERVICE"
+section: "1116"
+citation: "45 U.S.C. § 1116"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc45@119-100.zip"
+source_identifier: "/us/usc/t45/s1116"
+source_file: "data/legal/raw/us/code/title-45/usc45.xml"
+source_hash: "01bc01965680bd9bb39b65cdbbdcf2c0d4e8a2bb057de2e2b22c54404c10c76e"
+raw_snapshot_hash: "6ff04cb352e22f8a18f24c94e9adb8036909cf2a75f41489d768a5934fb9667c"
+text_hash: "35a5ad38a9a2ccea3c89b638a1be296ef904272cda902ef6cac36debfffd7180"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 45 U.S.C. § 1116 - Applicability of other laws
+
+## Text
+
+(a) The provisions of chapters 5 and 7 of title 5 (popularly known as the Administrative Procedure Act and including provisions popularly known as the Government in the Sunshine Act), chapter 10 of title 5, section 102(2)(C) of the National Environmental Policy Act of 1969 [42 U.S.C. 4332(2)(C)], division A of subtitle III of title 54, and section 303 of title 49 are inapplicable to actions taken in negotiating, approving, or implementing service transfers under title IV of the Regional Rail Reorganization Act of 1973 [45 U.S.C. 761 et seq.] 11 See References in Text note below. and to the implementation of the sale of the interest of the United States in Conrail under the Conrail Privatization Act [45 U.S.C. 1301 et seq.].
+
+(b) The operation of trains by Conrail shall not be subject to the requirement of any State or local law which specifies the minimum number of crew members who must be employed in connection with the operation of such trains.
+
+(Pub. L. 97–35, title XI, § 1168, Aug. 13, 1981, 95 Stat. 687; Pub. L. 99–509, title IV, § 4033(c)(1)(B), Oct. 21, 1986, 100 Stat. 1908; Pub. L. 113–287, § 5(m)(1), Dec. 19, 2014, 128 Stat. 3271; Pub. L. 117–286, § 4(a)(288), Dec. 27, 2022, 136 Stat. 4337.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, formerly set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 552b of Title 5 and Tables. The Regional Rail Reorganization Act of 1973, referred to in subsec. (a), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985. Title IV of the Regional Rail Reorganization Act of 1973 was classified generally to subchapter IV (§ 761 et seq.) of chapter 16 of this title, and was repealed by Pub. L. 99–509, title IV, § 4033(a)(1), Oct. 21, 1986, 100 Stat. 1908. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables. The Conrail Privatization Act, referred to in subsec. (a), is subtitle A (§§ 4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§ 1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+
+Codification In subsec. (a), “section 303 of title 49” substituted for “section 4(f) of the Department of Transportation Act of 1966 [49 U.S.C. 1653(f)]” on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) and chapter 31 (§ 3101 et seq.) of subtitle II of Title 49, Transportation.
+
+Amendments2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,”. 2014—Subsec. (a). Pub. L. 113–287, which directed substitution of “division A of subtitle III of title 54” for “the National Historic Preservation Act”, was executed by making the substitution for “the National Historic Preservation Act of 1966” to reflect the probable intent of Congress. 1986—Subsec. (a). Pub. L. 99–509 inserted “and to the implementation of the sale of the interest of the United States in Conrail under the Conrail Privatization Act”.

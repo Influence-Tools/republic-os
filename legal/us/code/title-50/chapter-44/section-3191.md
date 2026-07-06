@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3191"
+description: "Scholarships and work-study for pursuit of graduate degrees in science and technology"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3191"
+citation: "50 U.S.C. § 3191"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3191"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "1dc5e04065998c45ba1ce6d6fd2c94c11811e160502c394a2ad6cfe0e6240c0c"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "c8fd86e83b6252cb1be742c54aff03073fca0b484725fc04cffdb7d9ccd8b08d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3191 - Scholarships and work-study for pursuit of graduate degrees in science and technology
+
+## Text
+
+(a) Program authorized The Director of National Intelligence may carry out a program to provide scholarships and work-study for individuals who are pursuing graduate degrees in fields of study in science and technology that are identified by the Director as appropriate to meet the future needs of the intelligence community for qualified scientists and engineers.
+
+(b) Administration If the Director of National Intelligence carries out the program under subsection (a), the Director of National Intelligence shall administer the program through the Office of the Director of National Intelligence.
+
+(c) Identification of fields of study If the Director of National Intelligence carries out the program under subsection (a), the Director shall identify fields of study under subsection (a) in consultation with the other heads of the elements of the intelligence community.
+
+(d) Eligibility for participation An individual eligible to participate in the program is any individual who—
+
+(1) either—
+
+(A) is an employee of the intelligence community; or
+
+(B) meets criteria for eligibility for employment in the intelligence community that are established by the Director of National Intelligence;
+
+(2) is accepted in a graduate degree program in a field of study in science or technology identified under subsection (a); and
+
+(3) is eligible for a security clearance at the level of Secret or above.
+
+(e) Regulations If the Director of National Intelligence carries out the program under subsection (a), the Director shall prescribe regulations for purposes of the administration of this section.
+
+(July 26, 1947, ch. 343, title X, § 1001, as added Pub. L. 107–306, title III, § 331(a)(3), Nov. 27, 2002, 116 Stat. 2394; amended Pub. L. 108–458, title I, §§ 1071(a)(1)(MM), (3)(C)–(F), 1072(a)(8), Dec. 17, 2004, 118 Stat. 3689, 3690, 3692.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 441g of this title prior to editorial reclassification and renumbering as this section.
+
+Prior ProvisionsA prior section 1001 of act July 26, 1947, ch. 343, was renumbered section 1101 and is classified to section 3231 of this title.
+
+Amendments2004—Subsec. (a). Pub. L. 108–458, § 1071(a)(1)(MM), substituted “Director of National Intelligence” for “Director of Central Intelligence”. Subsec. (b). Pub. L. 108–458, § 1072(a)(8), substituted “Office of the Director of National Intelligence” for “Assistant Director of Central Intelligence for Administration”. Pub. L. 108–458, § 1071(a)(3)(C), which directed amendment of subsec. (b) by substituting “Director of National Intelligence” for “Director” each place it appeared, was executed by making the substitution the first two places it appeared to reflect the probable intent of Congress. Subsec. (c). Pub. L. 108–458, § 1071(a)(3)(D), substituted “If the Director of National Intelligence” for “If the Director”. Subsec. (d)(1)(B). Pub. L. 108–458, § 1071(a)(3)(E), substituted “Director of National Intelligence” for “Director”. Subsec. (e). Pub. L. 108–458, § 1071(a)(3)(F), substituted “If the Director of National Intelligence” for “If the Director”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2004 AmendmentFor Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title. Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+Pilot Program on Recruitment and Training of Intelligence AnalystsPub. L. 108–177, title III, § 318, Dec. 13, 2003, 117 Stat. 2613, as amended by Pub. L. 108–458, title I, §§ 1071(g)(3)(A)(iii), 1072(d)(2)(B), Dec. 17, 2004, 118 Stat. 3692, 3693, which required the Director of National Intelligence to carry out a pilot program during fiscal years 2004 through 2006 to provide financial assistance for academic training in areas of deficiency in the analytic capabilities of the intelligence community, and to submit reports to Congress not later than 120 days after Dec. 13, 2003, and not later than one year after the commencement of the program, was repealed by Pub. L. 111–259, title III, § 311(b)(2)(A), Oct. 7, 2010, 124 Stat. 2663.

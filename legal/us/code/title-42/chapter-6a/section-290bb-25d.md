@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 290bb–25d"
+description: "Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "290bb–25d"
+citation: "42 U.S.C. § 290bb–25d"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s290bb–25d"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "1c82ba112716ec374a1523e30d50b958f07e1e2211a022f4810b3a0464445ab1"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "a56a2b34285c6d5311f80906da0e244a6817a4e95577185b27044f9b0d3b4d04"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 290bb–25d - Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families
+
+## Text
+
+(a) In general The Secretary shall make awards of grants, cooperative agreements, or contracts to public or nonprofit private entities for the purposes of establishing not more than four centers of excellence to study techniques for the prevention of fetal alcohol syndrome and alcohol-related birth defects and adaptations of innovative clinical interventions and service delivery improvements for the provision of comprehensive services to individuals with fetal alcohol syndrome or alcohol-related birth defects and their families and for providing training on such conditions.
+
+(b) Use of funds An award under subsection (a) may be used to—
+
+(1) study adaptations of innovative clinical interventions and service delivery improvements strategies for children and adults with fetal alcohol syndrome or alcohol-related birth defects and their families;
+
+(2) identify communities which have an exemplary comprehensive system of care for such individuals so that they can provide technical assistance to other communities attempting to set up such a system of care;
+
+(3) provide technical assistance to communities who do not have a comprehensive system of care for such individuals and their families;
+
+(4) train community leaders, mental health and substance abuse professionals, families, law enforcement personnel, judges, health professionals, persons working in financial assistance programs, social service personnel, child welfare professionals, and other service providers on the implications of fetal alcohol syndrome and alcohol-related birth defects, the early identification of and referral for such conditions;
+
+(5) develop innovative techniques for preventing alcohol use by women in child bearing years;
+
+(6) perform other functions, to the extent authorized by the Secretary after consideration of recommendations made by the National Task Force on Fetal Alcohol Syndrome.
+
+(c) Report (1) In general A recipient of an award under subsection (a) shall at the end of the period of funding report to the Secretary on any innovative techniques that have been discovered for preventing alcohol use among women of child bearing years.
+
+(2) Dissemination of findings The Secretary shall upon receiving a report under paragraph (1) disseminate the findings to appropriate public and private entities.
+
+(d) Duration of awards With respect to an award under subsection (a), the period during which payments under such award are made to the recipient may not exceed 5 years.
+
+(e) Evaluation The Secretary shall evaluate each project carried out under subsection (a) and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+
+(f) Authorization of appropriations For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+
+(July 1, 1944, ch. 373, title V, § 519D, as added Pub. L. 106–310, div. B, title XXXI, § 3110, Oct. 17, 2000, 114 Stat. 1185.)

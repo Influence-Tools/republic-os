@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3364"
+description: "Assignment of responsibilities relating to analytic integrity"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "45"
+chapter_name: "MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES"
+section: "3364"
+citation: "50 U.S.C. § 3364"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3364"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "ba26c34b2afda00166c5896e7b2bbbb0bb31f3c6729b9586c4a4f9a81f665c87"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "1975fb31f20a4d526f192b87de92d98e29dfa1ce2a568deca20b4a0252e3c6b6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3364 - Assignment of responsibilities relating to analytic integrity
+
+## Text
+
+(a) Assignment of responsibilities For purposes of carrying out section 3024(g) of this title, the Director of National Intelligence shall, not later than 180 days after December 17, 2004, assign an individual or entity to be responsible for ensuring that finished intelligence products produced by any element or elements of the intelligence community are timely, objective, independent of political considerations, based upon all sources of available intelligence, and employ the standards of proper analytic tradecraft.
+
+(b) Responsibilities (1) The individual or entity assigned responsibility under subsection (a)—
+
+(A) may be responsible for general oversight and management of analysis and production, but may not be directly responsible for, or involved in, the specific production of any finished intelligence product;
+
+(B) shall perform, on a regular basis, detailed reviews of finished intelligence product or other analytic products by an element or elements of the intelligence community covering a particular topic or subject matter;
+
+(C) shall be responsible for identifying on an annual basis functional or topical areas of analysis for specific review under subparagraph (B); and
+
+(D) upon completion of any review under subparagraph (B), may draft lessons learned, identify best practices, or make recommendations for improvement to the analytic tradecraft employed in the production of the reviewed product or products.
+
+(2) Each review under paragraph (1)(B) should—
+
+(A) include whether the product or products concerned were based on all sources of available intelligence, properly describe the quality and reliability of underlying sources, properly caveat and express uncertainties or confidence in analytic judgments, properly distinguish between underlying intelligence and the assumptions and judgments of analysts, and incorporate, where appropriate, alternative analyses; and
+
+(B) ensure that the analytic methodologies, tradecraft, and practices used by the element or elements concerned in the production of the product or products concerned meet the standards set forth in subsection (a).
+
+(3) Information drafted under paragraph (1)(D) should, as appropriate, be included in analysis teaching modules and case studies for use throughout the intelligence community.
+
+(4) (A) The individual or entity assigned responsibility under subsection (a) shall annually conduct a survey of analytic objectivity among officers and employees of the intelligence community.
+
+(B) The head of each element of the intelligence community shall take all practical actions to encourage maximum participation by officers and employees of such element with respect to the survey conducted under subparagraph (A).
+
+(Pub. L. 108–458, title I, § 1019, Dec. 17, 2004, 118 Stat. 3671; Pub. L. 116–92, div. E, title LVII, § 5701(b), Dec. 20, 2019, 133 Stat. 2159; Pub. L. 118–159, div. F, title LXIX, § 6901(b), Dec. 23, 2024, 138 Stat. 2516; Pub. L. 119–60, div. F, title LXIII, § 6305(a), title LXIV, § 6402(c)(2)(F), title LXVIII, § 6801(c)(2)(A), Dec. 18, 2025, 139 Stat. 1611, 1616, 1653.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 403–1a of this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 6402(c)(2)(F), substituted “section 3024(g)” for “section 3024(h)”. Subsec. (b)(4). Pub. L. 119–60, § 6305(a), added par. (4). Subsecs. (c), (d). Pub. L. 119–60, § 6801(c)(2)(A), struck out subsecs. (c) and (d), which required the Director of National Intelligence to provide annual briefings of the review under subsec. (b)(1)(B) and defined congressional intelligence committees, respectively. 2024—Subsec. (c). Pub. L. 118–159 substituted “February 1” for “December 1”. 2019—Subsec. (c). Pub. L. 116–92 substituted “briefings” for “reports” in heading and “provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with” for “submit to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a report containing” in text.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateFor Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title. Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+Annual Training Requirement and Report Regarding Analytic StandardsPub. L. 117–263, div. F, title LXIII, § 6312, Dec. 23, 2022, 136 Stat. 3510, as amended by Pub. L. 119–60, div. F, title LXIII, § 6306, title LXVIII, § 6801(c)(2)(B), Dec. 18, 2025, 139 Stat. 1612, 1653, provided that: “(a) Policy for Training Program Required.—Consistent with sections 1019 and 1020 of the Intelligence Reform and Terrorism Prevention Act of 2004 [Pub. L. 108–458] (50 U.S.C. 3364 and 3364 note), the Director of National Intelligence shall issue a policy that requires each head of an element of the intelligence community, that has not already done so, to create, before the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2022], an annual training program on the standards set forth in Intelligence Community Directive 203, Analytic Standards (or successor directive). “(b) Conduct of Training.—Training required pursuant to the policy required by subsection (a) shall—“(1) be a dedicated, stand-alone training; and “(2) include instruction on how to report concerns regarding lack of objectivity, bias, politicization, or other issues relating to the standards set forth in Intelligence Community Directive 203, Analytic Standards (or any successor directive). “(c) Certification of Completion of Training.—Each year, each head of an element of the intelligence community shall submit to the congressional intelligence committees a certification as to whether all of the analysts of that element have completed the training required pursuant to the policy required by subsection (a) and if the analysts have not, an explanation of why the training has not been completed. “(d) Reports.—“(1) Annual report.—Not later than February 1 each year, the Director shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report on the compliance incidents reported to intelligence community analytic ombudspersons relating to the standards set forth in Intelligence Community Directive 203 (relating to analytic standards), or successor directive, including the number and themes of such incidents and a list of each intelligence product reported during the preceding 1-year period to the Analytic Ombudsman of the Office of the Director of National Intelligence or other designated official specified in law or policy to receive complaints related to, or review compliance with, analytic standards. “(2) Report on performance evaluation.—Not later than 90 days after the date of the enactment of this Act, the head of analysis at each element of the intelligence community that conducts all-source analysis shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report describing how compliance with the standards set forth in Intelligence Community Directive 203 (relating to analytic standards), or successor directive, is considered in the performance evaluations and consideration for merit pay, bonuses, promotions, and any other personnel actions for analysts within the element. “(e) Rule of Construction.—Nothing in this section shall be construed to prohibit the Director from providing training described in this section as a service of common concern. “(f) Sunset.—This section shall cease to be effective on the date that is 5 years after the date of the enactment of this Act [Dec. 23, 2022].” [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 6312 of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.]
+
+Safeguard of Objectivity in Intelligence AnalysisPub. L. 108–458, title I, § 1020, Dec. 17, 2004, 118 Stat. 3672, provided that: “(a) In General.—Not later than 180 days after the effective date of this Act [probably means the effective date of title I of Pub. L. 108–458, see Effective Date of 2004 Amendment; Transition Provisions note set out under section 3001 of this title], the Director of National Intelligence shall identify an individual within the Office of the Director of National Intelligence who shall be available to analysts within the Office of the Director of National Intelligence to counsel, conduct arbitration, offer recommendations, and, as appropriate, initiate inquiries into real or perceived problems of analytic tradecraft or politicization, biased reporting, or lack of objectivity in intelligence analysis. “(b) Report.—Not later than 270 days after the effective date of this Act, the Director of National Intelligence shall provide a report to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives on the implementation of subsection (a).”

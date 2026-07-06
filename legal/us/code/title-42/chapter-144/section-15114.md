@@ -1,0 +1,105 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 15114"
+description: "Staff development curriculum authorization"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "144"
+chapter_name: "DEVELOPMENTAL DISABILITIES ASSISTANCE AND BILL OF RIGHTS"
+section: "15114"
+citation: "42 U.S.C. § 15114"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s15114"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "e174297058e618629270a93f101045ec20aa7ba73b95590234c5243d69692f92"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "3ef4e1849f2570a0c2fa631811b36835dbf057cb8226ede65cd0b15f1d827714"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 15114 - Staff development curriculum authorization
+
+## Text
+
+(a) Funding (1) In general The Secretary shall award funding, on a competitive basis, through a grant, cooperative agreement, or contract, to a public or private entity or a combination of such entities, for the development, evaluation, and dissemination of a staff development curriculum, and related guidelines, for computer-assisted, competency-based, multimedia, interactive instruction, relating to service as a direct support worker.
+
+(2) Participants The curriculum shall be developed for individuals who—
+
+(A) seek to become direct support workers who assist individuals with developmental disabilities or are such direct support workers; and
+
+(B) seek to upgrade their skills and competencies related to being a direct support worker.
+
+(b) Application requirements To be eligible to receive an award under this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
+
+(1) a comprehensive analysis of the content of direct support roles;
+
+(2) information identifying an advisory group that—
+
+(A) is comprised of individuals with experience and expertise with regard to the support provided by direct support workers, and effective ways to provide the support, for individuals with developmental disabilities in diverse settings; and
+
+(B) will advise the entity throughout the development, evaluation, and dissemination of the staff development curriculum and guidelines;
+
+(3) information describing how the entity will—
+
+(A) develop, field test, and validate a staff development curriculum that—
+
+(i) relates to the appropriate reading level for direct service workers who assist individuals with disabilities;
+
+(ii) allows for multiple levels of instruction;
+
+(iii) provides instruction appropriate for direct support workers who work in diverse settings; and
+
+(iv) is consistent with subsections (b) and (c) of section 15001 of this title and section 15009 of this title;
+
+(B) develop, field test, and validate guidelines for the organizations that use the curriculum that provide for—
+
+(i) providing necessary technical and instructional support to trainers and mentors for the participants;
+
+(ii) ensuring easy access to and use of such curriculum by workers that choose to participate in using, and agencies that choose to use, the curriculum;
+
+(iii) evaluating the proficiency of the participants with respect to the content of the curriculum;
+
+(iv) providing necessary support to the participants to assure that the participants have access to, and proficiency in using, a computer in order to participate in the development, testing, and validation process;
+
+(v) providing necessary technical and instructional support to trainers and mentors for the participants in conjunction with the development, testing, and validation process;
+
+(vi) addressing the satisfaction of participants, individuals with developmental disabilities and their families, providers of services for such individuals and families, and other relevant entities with the curriculum; and
+
+(vii) developing methods to maintain a record of the instruction completed, and the content mastered, by each participant under the curriculum; and
+
+(C) nationally disseminate the curriculum and guidelines, including dissemination through—
+
+(i) parent training and information centers funded under part D of the Individuals with Disabilities Education Act (20 U.S.C. 1451 et seq.);
+
+(ii) community-based organizations of and for individuals with developmental disabilities and their families;
+
+(iii) entities funded under subchapter I;
+
+(iv) centers for independent living;
+
+(v) State educational agencies and local educational agencies;
+
+(vi) entities operating appropriate medical facilities;
+
+(vii) postsecondary education entities; and
+
+(viii) other appropriate entities; and
+
+(4) such other information as the Secretary may require.
+
+(Pub. L. 106–402, title III, § 304, Oct. 30, 2000, 114 Stat. 1735.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Individuals with Disabilities Education Act, referred to in subsec. (b)(3)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part D of the Act is classified generally to subchapter IV (§ 1450 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.

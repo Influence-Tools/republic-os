@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2282c"
+description: "Worker health and safety rules for Department of Energy nuclear facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2282c"
+citation: "42 U.S.C. § 2282c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2282c"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "3f9baa1bca02b193b658520f066aface90517bff0e96af634ca3cf5160dbdf0e"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "7a4ccbc725a26eeca099b6dfa75ba36ba653a55d16b022af5a25949ab6034f54"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2282c - Worker health and safety rules for Department of Energy nuclear facilities
+
+## Text
+
+(a) Regulations required (1) In general The Secretary shall promulgate regulations for industrial and construction health and safety at Department of Energy facilities that are operated by contractors covered by agreements of indemnification under section 2210(d) of this title, after public notice and opportunity for comment under section 553 of title 5 (commonly known as the “Administrative Procedure Act”). Such regulations shall, subject to paragraph (3), provide a level of protection for workers at such facilities that is substantially equivalent to the level of protection currently provided to such workers at such facilities.
+
+(2) Applicability The regulations promulgated under paragraph (1) shall not apply to any facility that is a component of, or any activity conducted under, the Naval Nuclear Propulsion Program provided for under Executive Order No. 12344, dated February 1, 1982 (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525)).
+
+(3) Flexibility In promulgating the regulations under paragraph (1), the Secretary shall include flexibility—
+
+(A) to tailor implementation of such regulations to reflect activities and hazards associated with a particular work environment;
+
+(B) to take into account special circumstances at a facility that is, or is expected to be, permanently closed and that is expected to be demolished, or title to which is expected to be transferred to another entity for reuse; and
+
+(C) to achieve national security missions of the Department of Energy in an efficient and timely manner.
+
+(4) No effect on health and safety enforcement This subsection does not diminish or otherwise affect the enforcement or the application of any other law, regulation, order, or contractual obligation relating to worker health and safety.
+
+(b) Civil penalties (1) In general A person (or any subcontractor or supplier of the person) who has entered into an agreement of indemnification under section 2210(d) of this title (or any subcontractor or supplier of the person) that violates (or is the employer of a person that violates) any regulation promulgated under subsection (a) shall be subject to a civil penalty of not more than $70,000 for each such violation.
+
+(2) Continuing violations If any violation under this subsection is a continuing violation, each day of the violation shall constitute a separate violation for the purpose of computing the civil penalty under paragraph (1).
+
+(c) Contract penalties (1) In general The Secretary shall include in each contract with a contractor of the Department who has entered into an agreement of indemnification under section 2210(d) of this title provisions that provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any regulation promulgated under subsection (a).
+
+(2) Contents The provisions shall specify various degrees of violations and the amount of the reduction attributable to each degree of violation.
+
+(d) Coordination of penalties (1) Choice of penalties For any violation by a person of a regulation promulgated under subsection (a), the Secretary shall pursue either civil penalties under subsection (b) or contract penalties under subsection (c), but not both.
+
+(2) Maximum amount In the case of an entity described in subsection (d) of section 2282a of this title, the total amount of civil penalties under subsection (b) and contract penalties under subsection (c) in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
+
+(3) Coordination with section 2282a of this title The Secretary shall ensure that a contractor of the Department is not penalized both under this section and under section 2282a of this title for the same violation.
+
+(Aug. 1, 1946, ch. 724, title I, § 234C, as added Pub. L. 107–314, div. C, title XXXI, § 3173(a), Dec. 2, 2002, 116 Stat. 2743.)
+
+## Notes
+
+Editorial Notes
+
+References in TextExecutive Order No. 12344, referred to in subsec. (a)(2), is set out as a note under section 6102 of Title 10, Armed Forces. Section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525), referred to in subsec. (a)(2), was formerly set out as a note under section 7158 of this title, was renumbered section 4101 of Pub. L. 107–314 by Pub. L 108–136, div. C, title XXXI, § 3141(d)(2), Nov. 24, 2003, 117 Stat. 1757, and classified to section 2511 of Title 50, War and National Defense, and was repealed and restated as section 6102 of Title 10, Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1340, 1458.
+
+Statutory Notes and Related Subsidiaries
+
+Promulgation of Initial RegulationsPub. L. 107–314, div. C, title XXXI, § 3173(b), Dec. 2, 2002, 116 Stat. 2745, provided that: “(1) Deadline for promulgating regulations.—The Secretary of Energy shall promulgate the regulations required by subsection a. of section 234C of the Atomic Energy Act of 1954 [42 U.S.C. 2282c(a)] (as added by subsection (a)) not later than one year after the date of the enactment of this Act [Dec. 2, 2002]. “(2) Effective date.—The regulations promulgated under paragraph (1) shall take effect on the date that is one year after the promulgation date of the regulations.”
+
+ProhibitionPub. L. 107–314, div. C, title XXXI, § 3173(c), Dec. 2, 2002, 116 Stat. 2745, provided that: “The Secretary of Energy shall not participate in or otherwise support any study or other project relating to a modification in the scope of the regulations enforceable by civil penalties under section 234A or 234C of the Atomic Energy Act of 1954 [42 U.S.C. 2282a, 2282c], or the responsibility of the Secretary to implement and enforce such regulations, until after the date on which the regulations for such purposes under such section 234C take effect in accordance with subsection (b) [set out as a note above].”

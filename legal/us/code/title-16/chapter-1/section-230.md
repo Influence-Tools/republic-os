@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 230"
+description: "Establishment; description of area"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "230"
+citation: "16 U.S.C. § 230"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s230"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "d12e702d04dc01ce43218cb9d4b83d6e8bf92795758ce0cf827878f3696586f8"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "ff44c79acb3c9c9f92ce09d8c8cf9441ee48ef942a0571fd817a42ebccd6977b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 230 - Establishment; description of area
+
+## Text
+
+In order to preserve for the education, inspiration, and benefit of present and future generations significant examples of natural and historical resources of the Mississippi Delta region and to provide for their interpretation in such manner as to portray the development of cultural diversity in the region, there is authorized to be established in the State of Louisiana the Jean Lafitte National Historical Park and Preserve (hereinafter referred to as the “park”). The park shall consist of (1) the area generally depicted on the map entitled “Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve”, numbered 467/80100A, and dated December 2007, which shall be on file and available for public inspection in the office of the National Park Service, Department of the Interior; (2) the area known as Big Oak Island; (3) an area or areas within the French Quarter section of the city of New Orleans as may be designated by the Secretary of the Interior for an interpretive and administrative facility; (4) folk life centers to be established in the Acadian region; (5) the Chalmette Unit of the Jean Lafitte National Historical Park and Preserve; and (6) such additional natural, cultural, and historical resources in the French Quarter and Garden District of New Orleans, forts in the delta region, plantations, and Acadian towns and villages in the Saint Martinville area and such other areas and sites as are subject to cooperative agreements in accordance with the provisions of this part.
+
+(Pub. L. 95–625, title IX, §§ 901, 909, Nov. 10, 1978, 92 Stat. 3534, 3538; Pub. L. 100–250, § 1(a), Feb. 16, 1988, 102 Stat. 16; Pub. L. 111–11, title VII, § 7105(a), (f)(1)(B), (2)(B), Mar. 30, 2009, 123 Stat. 1191, 1193.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2009—Pub. L. 111–11, § 7105(f)(2)(B), which directed amendment of title IX of Pub. L. 95–625 by substituting “Jean Lafitte National Historical Park and Preserve” for “Jean Lafitte National Historical Park” each place it appears, was not executed to first sentence or cl. (1) of second sentence of this section, to reflect the probable intent of Congress, because “Jean Lafitte National Historical Park” already appeared in those places preceding “and Preserve”. Pub. L. 111–11, § 7105(a), in second sentence, substituted “generally depicted on the map entitled ‘Boundary Map, Barataria Preserve Unit, Jean Lafitte National Historical Park and Preserve’, numbered 467/80100A, and dated December 2007,” for “of approximately twenty thousand acres generally depicted on the map entitled ‘Barataria Marsh Unit-Jean Lafitte National Historical Park and Preserve’ numbered 90,000B and dated April 1978,”. 1988—Pub. L. 100–250 added cl. (4) and redesignated former cls. (4) and (5) as (5) and (6), respectively.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Pub. L. 111–11, title VII, § 7105(f)(1), Mar. 30, 2009, 123 Stat. 1193, provided that: “Any reference in a law (including regulations), map, document, paper, or other record of the United States— “(A) to the Barataria Marsh Unit shall be considered to be a reference to the Barataria Preserve Unit; or “(B) to the Jean Lafitte National Historical Park shall be considered to be a reference to the Jean Lafitte National Historical Park and Preserve.” “Jean Lafitte National Historical Park and Preserve” substituted for “Jean Lafitte National Historical Park” in cl. (5) pursuant to section 7105(f)(1)(B) of Pub. L. 111–11, set out above. “Chalmette Unit of the Jean Lafitte National Historical Park” substituted for “Chalmette National Historical Park” pursuant to section 230h of this title.
+
+Save the Liberty TheatrePub. L. 117–112, Apr. 19, 2022, 136 Stat. 1171, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Save the Liberty Theatre Act of 2021’. “SEC. 2. DEFINITIONS.“In this Act:“(1) City.—The term ‘City’ means the City of Eunice, Louisiana. “(2) Map.—The term ‘map’ means the map entitled ‘Jean Lafitte National Historical Park and Preserve, Proposed Boundary Revision and Disposal’, numbered 467/168813, and dated December 2020. “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “SEC. 3. LAND CONVEYANCE.“(a) Conveyance Authority.—The Secretary shall convey to the City, by quitclaim deed and without consideration, all right, title, and interest of the United States in and to the parcels of land described in subsection (b). “(b) Description of Land.—The parcels of land referred to in subsection (a) are Lots 5 and 6, less the North 27 feet of Lot 5, Block 22, of the Original Townsite of Eunice, generally depicted as ‘Proposed Disposal Area’ on the map. “(c) Availability of Map.—The map shall be on file and available for public inspection in the appropriate offices of the National Park Service. “SEC. 4. BOUNDARY ADJUSTMENTS.“Upon the conveyance to the City of the land described in section 3(b), the boundary of the Jean Lafitte National Historical Park and Preserve shall be adjusted to exclude—“(1) the conveyed land; and “(2) Lots 7 and 8 of the Original Townsite of Eunice generally depicted as ‘Non-NPS in Current Boundary’ on the map.”
+
+Laura C. Hudson Visitor CenterPub. L. 104–333, div. I, title VIII, § 808, Nov. 12, 1996, 110 Stat. 4188, as amended by Pub. L. 111–11, title VII, § 7105(f)(1)(B), Mar. 30, 2009, 123 Stat. 1193, provided that: “(a) Designation.—The visitor center at Jean Lafitte National Historical Park and Preserve, located at 419 Rue Decatur in New Orleans, Louisiana, is hereby designated as the ‘Laura C. Hudson Visitor Center’. “(b) Legal References.—Any reference in any law, regulation, paper, record, map, or any other document of the United States to the visitor center referred to in subsection (a) shall be deemed to be a reference to the ‘Laura C. Hudson Visitor Center’.”

@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 300jj–17"
+description: "Federal health information technology"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "300jj–17"
+citation: "42 U.S.C. § 300jj–17"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s300jj–17"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "dab8a341b37aa83cef252113faf86e620c330888dc720a334a634aaf40e4b063"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "7e6acbeb170b1e57c4a26226b40573bb2e951a88283436ec4b244008823df5cc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 300jj–17 - Federal health information technology
+
+## Text
+
+(a) In general The National Coordinator shall support the development and routine updating of qualified electronic health record technology (as defined in section 300jj of this title) consistent with subsections (b) and (c) and make available such qualified electronic health record technology unless the Secretary determines through an assessment that the needs and demands of providers are being substantially and adequately met through the marketplace.
+
+(b) Certification In making such electronic health record technology publicly available, the National Coordinator shall ensure that the qualified electronic health record technology described in subsection (a) is certified under the program developed under section 300jj–11(c)(3) of this title to be in compliance with applicable standards adopted under section 300jj–12(a)(2) 11 So in original. No par. (2) of section 300jj–12(a) has been enacted. of this title.
+
+(c) Authorization to charge a nominal fee The National Coordinator may impose a nominal fee for the adoption by a health care provider of the health information technology system developed or approved under subsection 22 So in original. Probably should be “subsections”. (a) and (b). Such fee shall take into account the financial circumstances of smaller providers, low income providers, and providers located in rural or other medically underserved areas.
+
+(d) Rule of construction Nothing in this section shall be construed to require that a private or government entity adopt or use the technology provided under this section.
+
+(July 1, 1944, ch. 373, title XXX, § 3007, as added Pub. L. 111–5, div. A, title XIII, § 13101, Feb. 17, 2009, 123 Stat. 241; amended Pub. L. 114–255, div. A, title IV, § 4003(e)(2)(E), Dec. 13, 2016, 130 Stat. 1175.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Subsec. (b). Pub. L. 114–255 substituted “300jj–12(a)(2)” for “300jj–13(a)”.

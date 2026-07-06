@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 1622"
+description: "National emergencies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "34"
+chapter_name: "NATIONAL EMERGENCIES"
+section: "1622"
+citation: "50 U.S.C. § 1622"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s1622"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "03babda116f7990d7555f9d1d89cd035a1d3c96c83fac7223c727f5d2eec59f0"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "a2f78276049956bb9c77fe93723b6960ceae7ce6a67a5b09a474a529a17b21e5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 1622 - National emergencies
+
+## Text
+
+(a) Termination methods Any national emergency declared by the President in accordance with this subchapter shall terminate if—
+
+(1) there is enacted into law a joint resolution terminating the emergency; or
+
+(2) the President issues a proclamation terminating the emergency.
+
+Any national emergency declared by the President shall be terminated on the date specified in any joint resolution referred to in clause (1) or on the date specified in a proclamation by the President terminating the emergency as provided in clause (2) of this subsection, whichever date is earlier, and any powers or authorities exercised by reason of said emergency shall cease to be exercised after such specified date, except that such termination shall not affect—
+
+(A) any action taken or proceeding pending not finally concluded or determined on such date;
+
+(B) any action or proceeding based on any act committed prior to such date; or
+
+(C) any rights or duties that matured or penalties that were incurred prior to such date.
+
+(b) Termination review of national emergencies by Congress Not later than six months after a national emergency is declared, and not later than the end of each six-month period thereafter that such emergency continues, each House of Congress shall meet to consider a vote on a joint resolution to determine whether that emergency shall be terminated.
+
+(c) Joint resolution; referral to Congressional committees; conference committee in event of disagreement; filing of report; termination procedure deemed part of rules of House and Senate (1) A joint resolution to terminate a national emergency declared by the President shall be referred to the appropriate committee of the House of Representatives or the Senate, as the case may be. One such joint resolution shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution is referred to such committee, unless such House shall otherwise determine by the yeas and nays.
+
+(2) Any joint resolution so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days after the day on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
+
+(3) Such a joint resolution passed by one House shall be referred to the appropriate committee of the other House and shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution is referred to such committee and shall thereupon become the pending business of such House and shall be voted upon within three calendar days after the day on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
+
+(4) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the day on which managers on the part of the Senate and the House have been appointed. Notwithstanding any rule in either House concerning the printing of conference reports or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed in the House in which such report is filed first. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.
+
+(5) Paragraphs (1)–(4) of this subsection, subsection (b) of this section, and section 1651(b) of this title are enacted by Congress—
+
+(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the House in the case of resolutions described by this subsection; and they supersede other rules only to the extent that they are inconsistent therewith; and
+
+(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+(d) Automatic termination of national emergency; continuation notice from President to Congress; publication in Federal Register Any national emergency declared by the President in accordance with this subchapter, and not otherwise previously terminated, shall terminate on the anniversary of the declaration of that emergency if, within the ninety-day period prior to each anniversary date, the President does not publish in the Federal Register and transmit to the Congress a notice stating that such emergency is to continue in effect after such anniversary.
+
+(Pub. L. 94–412, title II, § 202, Sept. 14, 1976, 90 Stat. 1255; Pub. L. 99–93, title VIII, § 801, Aug. 16, 1985, 99 Stat. 448.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1985—Subsecs. (a) to (c). Pub. L. 99–93 substituted “there is enacted into law a joint resolution terminating the emergency” for “Congress terminates the emergency by concurrent resolution” in par. (1) of subsec. (a), and substituted “joint resolution” for “concurrent resolution” wherever appearing in second sentence of subsec. (a), subsec. (b), and pars. (1) to (4) of subsec. (c).

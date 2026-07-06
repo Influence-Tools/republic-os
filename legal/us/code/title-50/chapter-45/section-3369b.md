@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3369b"
+description: "Oversight of foreign influence in academia"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "45"
+chapter_name: "MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES"
+section: "3369b"
+citation: "50 U.S.C. § 3369b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3369b"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "4eab8dc7950a284f8d72089cbe360d4fe84a47a7d9802314ebde72e740675d62"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "4f49335ea64da1a4aab3be0d6b0914a309880d9cab31fd5fff5f8a7a13d905d1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3369b - Oversight of foreign influence in academia
+
+## Text
+
+(a) Definitions In this section:
+
+(1) Covered institution of higher education The term “covered institution of higher education” means an institution described in section 1002 of title 20 that receives Federal funds in any amount and for any purpose.
+
+(2) Sensitive research subject The term “sensitive research subject” means a subject of research that is carried out at a covered institution of higher education that receives funds that were appropriated for—
+
+(A) the National Intelligence Program; or
+
+(B) any Federal agency the Director of National Intelligence deems appropriate.
+
+(b) Report required Not later than 180 days after December 20, 2019, and not less frequently than once each year thereafter, the Director of National Intelligence, in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shall provide to congressional intelligence committees a briefing on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
+
+(c) Contents The briefing required by subsection (b) shall include the following:
+
+(1) A list of sensitive research subjects that could affect national security.
+
+(2) A list of foreign entities, including governments, corporations, nonprofit organizations and for-profit organizations, and any subsidiary or affiliate of such an entity, that the Director determines pose a counterintelligence, espionage (including economic espionage), or other national security threat with respect to sensitive research subjects.
+
+(3) A list of any known or suspected attempts by foreign entities to exert pressure on covered institutions of higher education, including attempts to limit freedom of speech, propagate misinformation or disinformation, or to influence professors, researchers, or students.
+
+(4) Recommendations for collaboration between covered institutions of higher education and the intelligence community to mitigate threats to sensitive research subjects associated with foreign influence in academia, including any necessary legislative or administrative action.
+
+(d) Congressional notifications required Not later than 30 days after the date on which the Director identifies a change to either list described in paragraph (1) or (2) of subsection (c), the Director shall notify the congressional intelligence committees of the change.
+
+(Pub. L. 116–92, div. E, title LVII, § 5713, Dec. 20, 2019, 133 Stat. 2172; Pub. L. 118–159, div. F, title LXIX, § 6901(c), Dec. 23, 2024, 138 Stat. 2516.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (b). Pub. L. 118–159, § 6901(c)(1), substituted “shall provide” for “shall submit” and “briefing” for “report”. “Report” in subsec. heading was not amended. Subsec. (c). Pub. L. 118–159, § 6901(c)(2), substituted “briefing” for “report” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of “intelligence community” and “congressional intelligence committees” as used in this section, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.

@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 6404"
+description: "Coral reef action plans"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "83"
+chapter_name: "CORAL REEF CONSERVATION"
+section: "6404"
+citation: "16 U.S.C. § 6404"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s6404"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "81eaa190910401c126009bb6081370730dc9ed297767a81a19db5aef0504813f"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "6405799488a7054eb5d4229ad6f45e54a1c60bb6c4c95c452ea9d2c3745f4f4f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 6404 - Coral reef action plans
+
+## Text
+
+(a) Plans prepared by Federal reef managers (1) In general Not later than 3 years after December 23, 2022, and 2 years after the date of publication of each National Coral Reef Resilience Strategy, each Federal reef manager shall—
+
+(A) prepare a coral reef action plan to guide management and restoration activities to be undertaken within the responsibilities and jurisdiction of the manager; or
+
+(B) in the case of a reef under the jurisdiction of a Federal reef manager for which there is an action plan in effect as of December 23, 2022, update that plan to comply with the requirements of this subsection.
+
+(2) Elements A plan prepared under paragraph (1) by a Federal reef manager shall include a discussion of the following:
+
+(A) Short- and medium-term coral reef conservation and restoration objectives within the jurisdiction of the manager.
+
+(B) A current adaptive management framework to inform research, monitoring, and assessment needs.
+
+(C) Tools, strategies, and partnerships necessary to identify, monitor, and address pollution, water quality, and other negative impacts to coral reef ecosystems within the jurisdiction of the manager.
+
+(D) The status of efforts to improve coral reef ecosystem management cooperation and integration between Federal reef managers and covered reef managers, including the identification of existing research and monitoring activities that can be leveraged for coral reef status and trends assessments within the jurisdiction of the manager.
+
+(E) Estimated budgetary and resource considerations necessary to carry out the plan.
+
+(F) Contingencies for response to and recovery from emergencies and disasters.
+
+(G) In the case of an updated plan, annual records of significant management and restoration actions taken under the previous plan, cash and noncash resources used to undertake the actions, and the source of such resources.
+
+(H) Documentation by the Federal reef manager that the plan is consistent with the National Coral Reef Resilience Strategy.
+
+(I) A data management plan to ensure data, assessments, and accompanying information are appropriately preserved, curated, publicly accessible, and broadly reusable.
+
+(3) Submission to Task Force Each Federal reef manager shall submit a plan prepared under paragraph (1) to the Task Force.
+
+(4) Application of Administrative Procedure Act Each plan prepared under paragraph (1) shall be subject to the requirements of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”).
+
+(b) Plans prepared by covered reef managers (1) In general A covered reef manager may elect to prepare, submit to the Task Force, and maintain a coral reef action plan to guide management and restoration activities to be undertaken within the responsibilities and jurisdiction of the manager.
+
+(2) Effective period A plan prepared under this subsection shall remain in effect for 5 years, or until an updated plan is submitted to the Task Force, whichever occurs first.
+
+(3) Elements A plan prepared under paragraph (1) by a covered reef manager—
+
+(A) shall contain a discussion of—
+
+(i) short- and medium-term coral reef conservation and restoration objectives within the jurisdiction of the manager;
+
+(ii) estimated budgetary and resource considerations necessary to carry out the plan;
+
+(iii) in the case of an updated plan, annual records of significant management and restoration actions taken under the previous plan, cash and noncash resources used to undertake the actions, and the source of such resources; and
+
+(iv) contingencies for response to and recovery from emergencies and disasters; and
+
+(B) may contain a discussion of— (i) the status of efforts to improve coral reef ecosystem management cooperation and integration between Federal reef managers and covered reef managers, including the identification of existing research and monitoring activities that can be leveraged for coral reef status and trends assessments within the jurisdiction of the manager;
+
+(ii) a current adaptive management framework to inform research, monitoring, and assessment needs;
+
+(iii) tools, strategies, and partnerships necessary to identify, monitor, and address pollution and water quality impacts to coral reef ecosystems within the jurisdiction of the manager; and
+
+(iv) a data management plan to ensure data, assessments, and accompanying information are appropriately preserved, curated, publicly accessible, and broadly reusable.
+
+(c) Technical assistance The Administrator and the Task Force shall make reasonable efforts to provide technical assistance upon request by a Federal reef manager or covered reef manager developing a coral reef action plan under this section.
+
+(d) Publication The Administrator shall publish each coral reef action plan prepared and submitted to the Task Force under this section on the public website of the Coral Reef Conservation Program of the National Oceanic and Atmospheric Administration.
+
+(Pub. L. 106–562, title II, § 205, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3935.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Administrative Procedure Act, referred to in subsec. (a)(4), is act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former Title 5, Executive Departments and Government Officers and Employees, and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
+
+Prior ProvisionsA prior section 6404, Pub. L. 106–562, title II, § 205, Dec. 23, 2000, 114 Stat. 2803, related to creation of a coral reef conservation fund, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.

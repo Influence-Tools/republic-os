@@ -1,0 +1,301 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 10281"
+description: "Payment of death benefits"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "101"
+chapter_name: "JUSTICE SYSTEM IMPROVEMENT"
+section: "10281"
+citation: "34 U.S.C. § 10281"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s10281"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "001b55aca79ca79eccb39d5b68189abb6d47a18d74e5ec86e4eb8e61cf4612ec"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "e542c7627b80511e14bc96f5401f4f33a962cebd12d1e93ace9a6002956a5e41"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 10281 - Payment of death benefits
+
+## Text
+
+(a) Amount; recipients In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, a benefit of $250,000, adjusted in accordance with subsection (h), and calculated in accordance with subsection (i), shall be payable by the Bureau, as follows (if the payee indicated is living on the date on which the determination is made)—
+
+(1) if there is no child who survived the public safety officer, to the surviving spouse of the public safety officer;
+
+(2) if there is at least 1 child who survived the public safety officer and a surviving spouse of the public safety officer, 50 percent to the surviving child (or children, in equal shares) and 50 percent to the surviving spouse;
+
+(3) if there is no surviving spouse of the public safety officer, to the surviving child (or children, in equal shares);
+
+(4) if there is no surviving spouse of the public safety officer and no surviving child—
+
+(A) to the surviving individual (or individuals, in shares per the designation, or, otherwise, in equal shares) designated by the public safety officer to receive benefits under this subsection in the most recently executed designation of beneficiary of the public safety officer on file at the time of death with the public safety agency, organization, or unit; or
+
+(B) if there is no individual qualifying under subparagraph (A), to the surviving individual (or individuals, in equal shares) designated by the public safety officer to receive benefits under the most recently executed life insurance policy of the public safety officer on file at the time of death with the public safety agency, organization, or unit;
+
+(5) if there is no individual qualifying under paragraph (1), (2), (3), or (4), to the surviving parent (or parents, in equal shares) of the public safety officer; or
+
+(6) if there is no individual qualifying under paragraph (1), (2), (3), (4), or (5), to the surviving individual (or individuals, in equal shares) who would qualify under the definition of the term “child” under section 10284 of this title but for age.
+
+(b) Benefits for permanent and total disability In accordance with regulations issued pursuant to this subchapter, in any case in which the Bureau determines that a public safety officer has become permanently and totally disabled as the direct and proximate result of a personal injury sustained in the line of duty, a benefit shall be payable to the public safety officer (if living on the date on which the determination is made) in the same amount that would be payable, as of the date such injury was sustained (including as adjusted in accordance with subsection (h), and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a): Provided, That for the purposes of making these benefit payments, there are authorized to be appropriated for each fiscal year such sums as may be necessary.
+
+(c) Interim benefit payment Whenever the Bureau determines upon showing of need and prior to final action that the death of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $6,000, adjusted in accordance with subsection (h), to the individual entitled to receive a benefit under subsection (a) of this section.
+
+(d) Deduction of interim payment The amount of an interim payment under subsection (c) shall be deducted from the amount of any final benefit paid to such individual.
+
+(e) Repayment of interim payment; waiver Where there is no final benefit paid, the recipient of any interim payment under subsection (c) shall be liable for repayment of such amount. The Bureau may waive all or part of such repayment, considering for this purpose the hardship which would result from such repayment.
+
+(f) Reductions from final benefit payment The benefit payable under this subchapter shall be in addition to any other benefit that may be due from any other source, except—
+
+(1) payments authorized by section 12(k) of the Act of September 1, 1916;
+
+(2) benefits authorized by section 8191 of title 5, such that beneficiaries shall receive only such benefits under such section 8191 as are in excess of the benefits received under this subchapter; or
+
+(3) payments under the September 11th Victim Compensation Fund of 2001 (49 U.S.C. 40101 note; Public Law 107–42).
+
+(g) Execution or attachment prohibited No benefit paid under this subchapter shall be subject to execution or attachment.
+
+(h) Consumer Price Index adjustment On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsections (a) and (b) and the level of the interim benefit payable immediately before such October 1 under subsection (c), to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
+
+(i) Amount payable The amount payable under subsections (a) and (b), with respect to the death or permanent and total disability of a public safety officer, shall be the greater of—
+
+(1) the amount payable under the relevant subsection as of the date of death or of the catastrophic injury of the public safety officer; or
+
+(2) in any case in which the claim filed thereunder has been pending for more than 365 days at the time of final determination by the Bureau, the amount that would be payable under the relevant subsection if the death or the catastrophic injury of the public safety officer had occurred on the date on which the Bureau makes such final determination.
+
+(j) Limitations on benefits (1) No benefit is payable under this subchapter with respect to the death of a public safety officer if a benefit is paid under this subchapter with respect to the disability of such officer.
+
+(2) No benefit is payable under this subchapter with respect to the disability of a public safety officer if a benefit is payable under this subchapter with respect to the death of such public safety officer.
+
+(k) Death by heart attack, stroke, or vascular rupture; presumption As determined by the Bureau, a heart attack, stroke, or vascular rupture suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer and directly and proximately resulting in death, if—
+
+(1) the public safety officer, while on duty—
+
+(A) engages in a situation involving nonroutine stressful or strenuous physical law enforcement, fire suppression, rescue, hazardous material response, emergency medical services, prison security, disaster relief, or other emergency response activity; or
+
+(B) participates in a training exercise involving nonroutine stressful or strenuous physical activity;
+
+(2) the heart attack, stroke, or vascular rupture commences—
+
+(A) while the officer is engaged or participating as described in paragraph (1);
+
+(B) while the officer remains on that duty after being engaged or participating as described in paragraph (1); or
+
+(C) not later than 24 hours after the officer is engaged or participating as described in paragraph (1); and
+
+(3) the heart attack, stroke, or vascular rupture directly and proximately results in the death of the public safety officer,
+
+unless competent medical evidence establishes that the heart attack, stroke, or vascular rupture was unrelated to the engagement or participation or was directly and proximately caused by something other than the mere presence of cardiovascular-disease risk factors.
+
+(l) Definition For purposes of subsection (k), “nonroutine stressful or strenuous physical” excludes actions of a clerical, administrative, or nonmanual nature.
+
+(m) Suspension or end of collection action The Bureau may suspend or end collection action on an amount disbursed pursuant to a statute enacted retroactively or otherwise disbursed in error under subsection (a), (b), or (c), where such collection would be impractical, or would cause undue hardship to a debtor who acted in good faith.
+
+(n) Confidentiality The public safety agency, organization, or unit responsible for maintaining on file an executed designation of beneficiary or executed life insurance policy for purposes of subsection (a)(4) shall maintain the confidentiality of the designation or policy in the same manner as the agency, organization, or unit maintains personnel or other similar records of the public safety officer.
+
+(o) Post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders (1) Definitions In this section:
+
+(A) Mass casualty event The term “mass casualty event” means an incident resulting in casualties to not fewer than 3 victims, including—
+
+(i) an incident that exceeds the normal resources for emergency response available in the jurisdiction where the incident takes place; and
+
+(ii) an incident that results in a sudden and timely surge of injured individuals necessitating emergency services.
+
+(B) Mass fatality event The term “mass fatality event” means an incident resulting in the fatalities of not fewer than 3 individuals at 1 or more locations close to one another with a common cause.
+
+(C) Mass shooting The term “mass shooting” means a multiple homicide incident in which not fewer than 3 victims are killed—
+
+(i) with a firearm;
+
+(ii) during one event; and
+
+(iii) in one or more locations in close proximity.
+
+(D) Exposed The term “exposed” includes—
+
+(i) directly experiencing or witnessing an event; or
+
+(ii) being subjected, in an intense way, to aversive consequences of the event (including a public safety officer collecting human remains).
+
+(E) Traumatic event The term “traumatic event” means, in the case of a public safety officer exposed to an event, an event that is—
+
+(i) a homicide, suicide, or the violent or gruesome death of another individual (including such a death resulting from a mass casualty event, mass fatality event, or mass shooting);
+
+(ii) a harrowing circumstance posing an extraordinary and significant danger or threat to the life of or of serious bodily harm to any individual (including such a circumstance as a mass casualty event, mass fatality event, or mass shooting); or
+
+(iii) an act of criminal sexual violence committed against any individual.
+
+(2) Personal injury sustained in line of duty As determined by the Bureau—
+
+(A) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders suffered by a public safety officer and diagnosed by a licensed medical or mental health professional, shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer, if the officer was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder;
+
+(B) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who has contacted or attempted to contact the employee assistance program of the agency or entity that the officer serves, a licensed medical or mental health professional, suicide prevention services, or another mental health assistance service in order to receive help, treatment, or diagnosis for post-traumatic stress disorder or acute stress disorder, shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer, if the officer, was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder; and
+
+(C) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who was exposed, while on duty, to one or more traumatic events shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b), sustained in the line of duty by the officer if such exposure was a substantial factor in the disorder.
+
+(3) Presumption of death or total disability A public safety officer shall be presumed to have died or become permanently and totally disabled (within the meaning of subsection (a) or (b)) as the direct and proximate result of a personal injury sustained in the line of duty, if (as determined by the Bureau) the officer either—
+
+(A) took an action, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability and exposure, while on duty, to one or more traumatic events was a substantial factor in the action taken by the officer; or
+
+(B) took an action within 45 days of the end of exposure, while on duty, to a traumatic event, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability, if such action was not inconsistent with a psychiatric disorder.
+
+(4) Applicability of limitations on benefits (A) Intentional actions Section 10282(a)(1) of this title shall not apply to any claim for a benefit under this part that is payable in accordance with this subsection.
+
+(B) Substance use Section 10282(a)(2) of this title shall not preclude the payment of a benefit under this part if the benefit is otherwise payable in accordance with this subsection.
+
+(p) Personal injury to retired law enforcement officer (1) Definition In this subsection, the term “retired law enforcement officer” means an individual who separated from service in good standing as a law enforcement officer in an official capacity at a public agency with or without compensation.
+
+(2) Eligibility A retired law enforcement officer shall be eligible for a benefit under this subchapter if the officer died or became permanently and totally disabled as the direct and proximate result of a personal injury resulting from a targeted attack because of the retired law enforcement officer’s service as a law enforcement officer.
+
+(q) Exposure-related cancers (1) Definitions In this subsection:
+
+(A) Carcinogen The term “carcinogen” means an agent that is—
+
+(i) classified by the International Agency for Research on Cancer under Group 1 or Group 2A; and
+
+(ii) reasonably linked to an exposure-related cancer.
+
+(B) Director The term “Director” means the Director of the Bureau.
+
+(C) Exposure-related cancer As updated from time to time in accordance with paragraph (3), the term “exposure-related cancer” means—
+
+(i) bladder cancer;
+
+(ii) brain cancer;
+
+(iii) breast cancer;
+
+(iv) cervical cancer;
+
+(v) colon cancer;
+
+(vi) colorectal cancer;
+
+(vii) esophageal cancer;
+
+(viii) kidney cancer;
+
+(ix) leukemia;
+
+(x) lung cancer;
+
+(xi) malignant melanoma;
+
+(xii) mesothelioma;
+
+(xiii) multiple myeloma;
+
+(xiv) non-Hodgkins lymphoma;
+
+(xv) ovarian cancer;
+
+(xvi) prostate cancer;
+
+(xvii) skin cancer;
+
+(xviii) stomach cancer;
+
+(xix) testicular cancer;
+
+(xx) thyroid cancer;
+
+(xxi) any form of cancer that is considered a WTC-related health condition under section 300mm–22(a) of title 42; and
+
+(xxii) any form of cancer added to this definition pursuant to an update in accordance with paragraph (3).
+
+(2) Personal injury sustained in the line of duty (A) In general Subject to subparagraph (B), as determined by the Bureau, the exposure of a public safety officer to a carcinogen shall be presumed to constitute a personal injury within the meaning of subsection (a) or (b) sustained in the line of duty by the officer and directly and proximately resulting in death or permanent and total disability, if—
+
+(i) the exposure occurred while the public safety officer was engaged in line of duty action or activity;
+
+(ii) the public safety officer began serving as a public safety officer not fewer than 5 years before the date of the diagnosis of the public safety officer with an exposure-related cancer;
+
+(iii) the public safety officer was diagnosed with the exposure-related cancer not more than 15 years after the public safety officer’s last date of active service as a public safety officer; and
+
+(iv) the exposure-related cancer directly and proximately results in the death or permanent and total disability of the public safety officer.
+
+(B) Exception The presumption under subparagraph (A) shall not apply if competent medical evidence establishes that the exposure of the public safety officer to the carcinogen was not a substantial contributing factor in the death or disability of the public safety officer.
+
+(3) Additional exposure-related cancers (A) In general From time to time but not less frequently than once every 3 years, the Director shall—
+
+(i) review the definition of ‘exposure-related cancer’ under paragraph (1); and
+
+(ii) if appropriate, update the definition, in accordance with this paragraph—
+
+(I) by rule; or
+
+(II) by publication in the Federal Register or on the public website of the Bureau.
+
+(B) Basis for updates (i) In general The Director shall make an update under subparagraph (A)(ii) in any case in which the Director finds such an update to be appropriate based on competent medical evidence of significant risk to public safety officers of developing the form of exposure-related cancer that is the subject of the update from engagement in their public safety activities.
+
+(ii) Evidence The competent medical evidence described in clause (i) may include recommendations, risk assessments, and scientific studies by—
+
+(I) the National Institute for Occupational Safety and Health;
+
+(II) the National Toxicology Program;
+
+(III) the National Academies of Sciences, Engineering, and Medicine; or
+
+(IV) the International Agency for Research on Cancer.
+
+(C) Petitions to add to the list of exposure-related cancers (i) In general Any person may petition the Director to add a form of cancer to the definition of “exposure-related cancer” under paragraph (1).
+
+(ii) Content of petition A petition under clause (i) shall provide information to show that there is sufficient competent medical evidence of significant risk to public safety officers of developing the cancer from engagement in their public safety activities.
+
+(iii) Timely and substantive decisions (I) Referral Not later than 180 days after receipt of a petition satisfying clause (ii), the Director shall refer the petition to appropriate medical experts for review, analysis (including risk assessment and scientific study), and recommendation.
+
+(II) Consideration The Director shall consider each recommendation under subclause (I) and promptly take appropriate action in connection with the recommendation pursuant to subparagraph (B).
+
+(iv) Notification to Congress Not later than 30 days after taking any substantive action in connection with a recommendation under clause (iii)(II), the Director shall notify the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives of the substantive action.
+
+(Pub. L. 90–351, title I, § 1201, as added Pub. L. 98–473, title II, § 609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, § 6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, § 1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, § 1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, § 330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, § 613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, § 2(b), June 24, 2002, 116 Stat. 719; Pub. L. 108–182, § 2, Dec. 15, 2003, 117 Stat. 2649; Pub. L. 109–162, title XI, § 1164(c)–(e), Jan. 5, 2006, 119 Stat. 3120, 3121; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(B), Jan. 2, 2013, 126 Stat. 1964; Pub. L. 117–61, § 2, Nov. 18, 2021, 135 Stat. 1474; Pub. L. 117–172, § 3(a), Aug. 16, 2022, 136 Stat. 2099; Pub. L. 119–60, div. H, title LXXXII, §§ 8204(a), 8205(a)(1), (c)(1), Dec. 18, 2025, 139 Stat. 1846, 1849.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 12 of the Act of September 1, 1916, referred to in subsec. (f)(1), is section 12 of act Sept. 1, 1916, ch. 433, 39 Stat. 718, which is not classified to the Code. The September 11th Victim Compensation Fund of 2001, referred to in subsec. (f)(3), is title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under section 40101 of Title 49, Transportation.
+
+Codification Section was formerly classified to section 3796 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+
+Prior ProvisionsA prior section 1201 of title I of Pub. L. 90–351, as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1219; amended Pub. L. 98–411, title II, § 204(a)(1), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, § 609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of part L of title I of Pub. L. 90–351 by section 609F of Pub. L. 98–473. Another prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
+
+Amendments2025—Subsec. (o)(2). Pub. L. 119–60, § 8205(c)(1), inserted “or (b)” after “subsection (a)” in pars. (A) to (C). Subsec. (p). Pub. L. 119–60, § 8204(a), added subsec. (p). Subsec. (q). Pub. L. 119–60, § 8205(a)(1), added subsec. (q). 2022—Subsec. (o). Pub. L. 117–172 added subsec. (o). 2021—Subsec. (a). Pub. L. 117–61, § 2(1), in introductory provisions, struck out “the Bureau shall pay” before “a benefit of $250,000,” and inserted “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “ subsection (h)”. Subsec. (b). Pub. L. 117–61, § 2(2), substituted “a benefit shall be payable” for “the Bureau shall pay the same benefit”, “in the same amount that would be payable, as of the date such injury was sustained (including” for “that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred,”, and “necessary.” for “necessary: Provided further, That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” and inserted “, and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a)” before “: Provided, That”. Subsec. (c). Pub. L. 117–61, § 2(3), substituted “$6,000, adjusted in accordance with subsection (h),” for “$3,000”. Subsec. (h). Pub. L. 117–61, § 2(4), substituted “subsections (a) and (b) and the level of the interim benefit payable immediately before such October 1 under subsection (c)” for “subsection (a)”. Subsec. (i). Pub. L. 117–61, § 2(5), added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “The amount payable under subsection (a) with respect to the death of a public safety officer shall be the amount payable under subsection (a) as of the date of death of such officer.” Subsec. (m). Pub. L. 117–61, § 2(6), inserted “, (b),” after “subsection (a)”. 2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(B)(i), substituted “follows (if the payee indicated is living on the date on which the determination is made)—” for “follows:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (6) which listed a succession of beneficiaries. Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(B)(ii), substituted “direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) of this section with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h) of this section:” for “direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a) of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer:”, “That for the purposes” for “That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes”, and “That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” for “That these benefit payments are subject to the availability of appropriations and that each beneficiary’s payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated.” Subsec. (f)(1). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(I), substituted semicolon at end for “, as amended (D.C. Code, sec. 4–622); or”. Subsec. (f)(2). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(II), substituted “, such that beneficiaries shall receive only such benefits under such section 8191 as are in excess of the benefits received under this subchapter; or” for “. Such beneficiaries shall only receive benefits under such section 8191 that are in excess of the benefits received under this subchapter.” Subsec. (f)(3). Pub. L. 112–239, § 1086(b)(1)(B)(iii)(III), added par. (3). Subsec. (k). Pub. L. 112–239, § 1086(b)(1)(B)(iv), amended subsec. (k) generally. Prior to amendment, subsec. (k) related to presumption with respect to death by heart attack or stroke. Subsec. (n). Pub. L. 112–239, § 1086(b)(1)(B)(v), added subsec. (n). 2006—Subsec. (a)(4). Pub. L. 109–162, § 1164(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer’s most recently executed life insurance policy, provided that such individual survived such officer; or”. Subsec. (a)(6). Pub. L. 109–162, § 1164(e), which directed amendment of section 1201(1)(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796(a)) by adding par. (6) at end, was executed by adding par. (6) at end of subsec. (a) of this section to reflect the probable intent of Congress. Subsec. (m). Pub. L. 109–162, § 1164(c), added subsec. (m). 2003—Subsecs. (k), (l). Pub. L. 108–182 added subsecs. (k) and (l). 2002—Subsec. (a)(4), (5). Pub. L. 107–196 added par. (4) and redesignated former par. (4) as (5). 2001—Subsec. (a). Pub. L. 107–56 substituted “$250,000” for “$100,000” in introductory provisions. 1994—Subsec. (a). Pub. L. 103–322, § 330001(e)(1)(A), substituted “subsection (h) of this section,” for “subsection (g) of this section” in introductory provisions. Subsec. (b). Pub. L. 103–322, § 330001(e)(1)(B), substituted “catastrophic injury” for “catastrophic personal injury”, “subsection (h)” for “subsection (g)”, and “benefits paid under this subsection” for “benefits paid under this section”. 1992—Subsec. (b). Pub. L. 102–520 substituted “the same benefit in any year that is payable under subsection (a) of this section in such year,” for “a benefit of up to $100,000,”. 1990—Subsec. (b). Pub. L. 101–647, § 1301(a)(3), added subsec. (b). Former subsec. (b) redesignated (c). Subsec. (c). Pub. L. 101–647, § 1301(a)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d). Subsecs. (d), (e). Pub. L. 101–647, § 1301(a)(1), (2), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “(c)” for “(b)”. Former subsec. (e) redesignated (f). Subsecs. (f) to (i). Pub. L. 101–647, § 1301(a)(2), redesignated former subsecs. (e) to (h) as (f) to (i), respectively. Subsec. (j). Pub. L. 101–647, § 1301(a)(4), added subsec. (j). 1988—Subsec. (a). Pub. L. 100–690, § 6105(a), substituted “$100,000, adjusted in accordance with subsection (g) of this section” for “$50,000”. Subsec. (a)(4). Pub. L. 100–690, § 6105(c), struck out “dependent” before “parent”. Subsecs. (g), (h). Pub. L. 100–690, § 6105(b), added subsecs. (g) and (h).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentPub. L. 119–60, div. H, title LXXXII, § 8204(b), Dec. 18, 2025, 139 Stat. 1846, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall—“(A) take effect on the date of enactment of this Act [Dec. 18, 2025] ; and “(B) apply to any matter—“(i) pending before the Bureau of Justice Assistance or otherwise on the date of enactment of this Act; or “(ii) filed (consistent with pre-existing effective dates) or accruing after the date of enactment of this Act. “(2) Exceptions.—The amendment made by this section shall apply to any action taken against a retired law enforcement officer described in section 1201(p) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10281(p)(3)] (as added by this Act) on or after January 1, 2012.”
+
+Effective Date of 2022 AmendmentPub. L. 117–172, § 3(b), Aug. 16, 2022, 136 Stat. 2099, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall—“(A) take effect on the date of enactment of this Act [Aug. 16, 2022]; and “(B) apply to any matter pending, before the Bureau of Justice Assistance or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(2) Exceptions.—The amendments made by this section shall apply to any action taken by a public safety officer described in paragraph (3) of section 1201(o) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10281(o)(3)] (as added by this Act) that occurred on or after January 1, 2019.”
+
+Effective Date of 2021 AmendmentPub. L. 117–61, § 8, Nov. 18, 2021, 135 Stat. 1479, provided that: “(a) In General.—Except as otherwise provided in this section, the amendments made by this Act [amending this section and sections 10225, 10284, 10285, 10288, and 10306 of this title, and amending provisions set out as a note below] shall take effect on the date of enactment of this Act [Nov. 18, 2021]. “(b) Applicability.—“(1) Certain injuries.—The amendments made to paragraphs (2) and (7) of section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284) shall apply with respect to injuries occurring on or after January 1, 2008. “(2) Matters pending.—Except as provided in paragraph (1), the amendments made by this Act shall apply to any matter pending, before the Bureau or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(c) Effective Date for WTC Responders.—“(1) Certain new claims.—Not later than two years after the effective date of this Act, a WTC responder may file a claim, under section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(b)), that is predicated on a personal injury sustained in the line of duty by such responder as a result of the September 11, 2001, attacks, where—“(A) no claim under such section 1201(b) so predicated has previously been filed; or “(B) a claim under such section 1201(b) so predicated had previously been denied, in a final agency determination, on the basis (in whole or in part) that the claimant was not totally disabled. “(2) Claims for a deceased wtc responder.—Not later than two years after the effective date of this Act, a claim may be filed, constructively under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(a)), where a WTC responder who otherwise could have filed a claim pursuant to paragraph (1) has died before such effective date (or dies not later than 365 days after such effective date), or where a WTC responder has filed such a claim but dies while it is pending before the Bureau: Provided, That—“(A) no claim under such section 1201(a) otherwise shall have been filed, or determined, in a final agency determination; and “(B) if it is determined, in a final agency determination, that a claim under such paragraph (1) would have been payable had the WTC responder not died, then the WTC responder shall irrebutably be presumed (solely for purposes of determining to whom benefits otherwise pursuant to such paragraph (1) may be payable under the claim filed constructively under such section 1201(a)) to have died as the direct and proximate result of the injury on which the claim under such paragraph (1) would have been predicated. “(3) Difference in benefit pay.—In the event that a claim under section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(b)) and predicated on an injury sustained in the line of duty by a WTC responder as a result of the September 11, 2001, attacks was approved, in a final agency determination, before the effective date of this Act, the Bureau shall, upon application filed (not later than three years after such effective date of this Act) by the payee (or payees) indicated in subparagraphs (A) or (B), pay a bonus in the amount of the difference (if any) between the amount that was paid pursuant to such determination and the amount that would have been payable had the amendments made by this Act, other than those indicated in subsection (b)(1), been in effect on the date of such determination—“(A) to the WTC responder, if living on the date the application is determined, in a final agency determination; or “(B) if the WTC responder is not living on the date indicated in subparagraph (A), to the individual (or individuals), if living on such date, to whom benefits would have been payable on such date under section 1201(a) of such title I (34 U.S.C. 10281(a)) had the application been, instead, a claim under such section 1201(a). “(4) Special limited rule of construction.—A claim filed pursuant to paragraph (1) or (2) shall be determined as though the date of catastrophic injury of the public safety officer were the date of enactment of this Act [Nov. 18, 2021], for purposes of determining the amount that may be payable.”
+
+Effective Date of 2013 AmendmentAmendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
+
+Effective Date of 2002 AmendmentPub. L. 107–196, § 2(c), June 24, 2002, 116 Stat. 720, provided that: “The amendments made by this section [amending this section and section 10284 of this title] shall take effect on September 11, 2001, and shall apply to injuries or deaths that occur in the line of duty on or after such date.”
+
+Effective Date of 2001 AmendmentPub. L. 107–56, title VI, § 613(b), Oct. 26, 2001, 115 Stat. 370, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any death or disability occurring on or after January 1, 2001.”
+
+Effective Date of 1992 AmendmentPub. L. 102–520, § 2, Oct. 25, 1992, 106 Stat. 3402, provided that: “The amendments made by section 1 of this Act [amending this section] shall apply with respect to injuries occurring on or after November 29, 1990, using the calculation method used to determine benefits under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [34 U.S.C. 10281(a)].”
+
+Effective Date of 1990 AmendmentPub. L. 101–647, title XIII, § 1303, Nov. 29, 1990, 104 Stat. 4835, provided that: “The amendments made by this title [amending this section and sections 10282 and 10284 of this title] shall take effect upon enactment [Nov. 29, 1990] and shall not apply with respect to injuries occurring before the effective date of such amendments.”
+
+Effective Date of 1988 AmendmentPub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341, provided that: “The amendments made by this section [amending this section and section 10284 of this title] shall take effect on June 1, 1988.”
+
+Effective DateSubchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sustained before Oct. 1, 1984, see section 609AA(b)(1) of Pub. L. 98–473, set out as a note under section 10101 of this title.
+
+ApplicabilityPub. L. 119–60, div. H, title LXXXII, § 8205(a)(2), (3), Dec. 18, 2025, 139 Stat. 1849, provided that: “(2) Applicability.—The amendment made by paragraph (1) [amending this section] shall apply to any claim under—“(A) section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(a)) that is predicated upon the death of a public safety officer on or after January 1, 2020, that is the direct and proximate result of an exposure-related cancer; or “(B) section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(b)) that is filed on or after January 1, 2020, and predicated upon a disability that is the direct and proximate result of an exposure-related cancer. “(3) Time for filing claim.—Notwithstanding any other provision of law, an individual who desires to file a claim that is predicated upon the amendment made by paragraph (1) shall not be precluded from filing such a claim within 3 years of the date of enactment of this Act [Dec. 18, 2025].” Pub. L. 119–60, div. H, title LXXXII, § 8205(c)(2), Dec. 18, 2025, 139 Stat. 1849, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to any matter pending before the Department of Justice as of the date of enactment of this Act [Dec. 18, 2025].” Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(2), Dec. 18, 2025, 139 Stat. 1850, provided that: “(A) In general.—The amendment made by paragraph (1) [amending this section] shall apply to any claim under section 3 of the Safeguarding America’s First Responders Act of 2020 (34 U.S.C. 10281 note)—“(i) that is predicated upon the death of a public safety officer on or after January 1, 2020; or “(ii) that is—“(I) predicated upon the disability of a public safety officer; and “(II) filed on or after January 1, 2020. “(B) Time for filing claim.—Notwithstanding any other provision of law, an individual who desires to file a claim that is predicated upon the amendment made by paragraph (1) shall not be precluded from filing such a claim within 3 years of the date of enactment of this Act [Dec. 18, 2025].”
+
+FindingsPub. L. 117–172, § 2, Aug. 16, 2022, 136 Stat. 2098, provided that: “Congress finds the following: “(1) Every day, public safety officers, including police officers, firefighters, emergency medical technicians, and others, work to maintain the safety, health, and well-being of the communities they serve. “(2) This means public safety officers are routinely called to respond to stressful and potentially traumatic situations, often putting their own lives in danger. “(3) This work not only puts public safety officers at-risk for experiencing harm, serious injury, and cumulative and acute trauma, but also places them at up to 25.6 times higher risk for developing post-traumatic stress disorder when compared to individuals without such experiences. “(4) Psychological evidence indicates that law enforcement officers experience significant job-related stressors and exposures that may confer increased risk for mental health morbidities (such as post-traumatic stress disorder and suicidal thoughts, ideation, intents, and behaviors) and hastened mortality. “(5) Public safety officers often do not have the resources or support they need, leaving them at higher risk for long-term mental health consequences. “(6) Whereas, although the Department of Defense already considers servicemember suicides to be line-of-duty deaths and provides Federal support to eligible surviving families, the Federal Government does not recognize public safety officer suicides as deaths in the line of duty. “(7) In 2017, the Department of Justice approved 481 claims under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281 et seq.), but not one of them for the more than 240 public safety officers who died by suicide that year. “(8) Public safety officers who have died or are disabled as a result of suicide or post-traumatic stress disorder do not qualify for the Public Safety Officers’ Benefits Program, despite the fact that public safety officers are more likely to die by suicide than from any other line-of-duty cause of death.”
+
+Safeguarding America’s First RespondersPub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61, § 9, Nov. 18, 2021, 135 Stat. 1481; Pub. L. 119–60, div. H, title LXXXII, § 8205(d)(1), Dec. 18, 2025, 139 Stat. 1850, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Safeguarding America’s First Responders Act of 2020’. “SEC. 2. SENSE OF CONGRESS; PURPOSE.“(a) Sense of Congress.—It is the sense of Congress that—“(1) an infectious disease pandemic known as COVID–19 exists; “(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal; “(3) services provided by public safety officers are nonetheless essential during this pandemic; “(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and “(5) although the Public Safety Officers’ Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—“(A) definitive testing and medical records at this time; and “(B) a definitive uniform body of medical information about how the disease is spread or its effects. “(b) Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers’ Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards. “SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.“(a) Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284)) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(a)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and “(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer’s death. “(b) Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(b)), sustained in the line of duty by the officer, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; and “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer. “(c) Termination Date.—For purposes of this section, the term ‘termination date’ means the earlier of—“(1) the date on which the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to the Coronavirus Disease (COVID–19), expires; and “(2) December 31, 2023. “(d) Definition.—In this section, the term ‘line of duty action’ includes any action—“(1) in which a public safety officer engaged at the direction of the agency served by the public safety officer; or “(2) the public safety officer is authorized or obligated to perform.”

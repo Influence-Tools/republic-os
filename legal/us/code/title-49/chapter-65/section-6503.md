@@ -1,0 +1,103 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 6503"
+description: "Transportation research and development 5-year strategic plan"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "65"
+chapter_name: "RESEARCH PLANNING"
+section: "6503"
+citation: "49 U.S.C. § 6503"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s6503"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "598cc456b1d0bd06ef4f950acdb9012c5098a11a2191248714396c02a941333b"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "6144f9d1d03f064eb346eda10611c8280a85c0dd12a296b4aa34f5504b64bd35"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 6503 - Transportation research and development 5-year strategic plan
+
+## Text
+
+(a) In General.— Not later than 180 days after the date of publication of the Department of Transportation Strategic Plan and not less frequently than once every 5 years thereafter, the Secretary shall develop a 5-year transportation research and development strategic plan to guide future Federal transportation research and development activities.
+
+(b) Consistency.— Each strategic plan developed under subsection (a) shall be consistent with—
+
+(1) section 306 of title 5;
+
+(2) sections 1115 and 1116 of title 31; and
+
+(3) any other research and development plan within the Department of Transportation.
+
+(c) Contents.— Each strategic plandeveloped under subsection (a) shall—
+
+(1) describe how the plan furthers the primary purposes of the transportation research and development program, which shall include—
+
+(A) improving mobility of people and goods;
+
+(B) reducing congestion;
+
+(C) promoting safety;
+
+(D) improving the durability and extending the life of transportation infrastructure;
+
+(E) preserving the environment;
+
+(F) preserving the existing transportation system; and
+
+(G) reducing transportation cybersecurity risks;
+
+(2) for each of the purposes referred to in paragraph (1), list the primary proposed research and development activities that the Department of Transportation intends to pursue to accomplish that purpose, which may include—
+
+(A) fundamental research pertaining to the applied physical and natural sciences;
+
+(B) applied science and research;
+
+(C) technology development research; and
+
+(D) social science research; and
+
+(3) for each research and development activity—
+
+(A) identify the anticipated annual funding levels for the period covered by the strategic plan; and
+
+(B) describe the research findings the Department expects to discover at the end of the period covered by the strategic plan.
+
+(d) Considerations.— The Secretary shall ensure that each strategic plan developed under this section—
+
+(1) reflects input from a wide range of external stakeholders;
+
+(2) includes and integrates the research and development programs of all of the modal administrations of the Department of Transportation, including aviation, transit, rail, and maritime and joint programs;
+
+(3) takes into account research and development by other Federal, State, local, private sector, and nonprofit institutions;
+
+(4) not later than December 31, 2021, and not less frequently than once every 5 years thereafter, is published on a public website; and
+
+(5) takes into account how research and development by other Federal, State, private sector, and nonprofit institutions—
+
+(A) contributes to the achievement of the purposes identified under subsection (c)(1); and
+
+(B) avoids unnecessary duplication of those efforts.
+
+(Added Pub. L. 114–94, div. A, title VI, § 6019(b)(1), Dec. 4, 2015, 129 Stat. 1580; amended Pub. L. 117–58, div. B, title V, § 25014, Nov. 15, 2021, 135 Stat. 869.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Subsec. (a). Pub. L. 117–58, § 25014(1), substituted “Not later than 180 days after the date of publication of the Department of Transportation Strategic Plan and not less frequently than once every 5 years thereafter, the Secretary” for “The Secretary”. Subsec. (b). Pub. L. 117–58, § 25014(2), substituted “Each strategic” for “The strategic” in introductory provisions. Subsec. (c). Pub. L. 117–58, § 25014(3)(A), substituted “Each strategic” for “The strategic” in introductory provisions. Subsec. (c)(1)(G). Pub. L. 117–58, § 25014(3)(B), added subpar. (G). Subsec. (d). Pub. L. 117–58, § 25014(4)(A), substituted “each strategic” for “the strategic” in introductory provisions. Subsec. (d)(4). Pub. L. 117–58, § 25014(4)(B), substituted “2021, and not less frequently than once every 5 years thereafter” for “2016”. Subsec. (e). Pub. L. 117–58, § 25014(5), struck out subsec. (e). Prior to amendment, text read as follows: “Not later than 2 ½ years after the date of enactment of this chapter, the Secretary may publish on a public website an interim report that— “(1) provides an assessment of the 5-year research and development strategic plan of the Department of Transportation described in this section; and “(2) includes a description of the extent to which the research and development is or is not successfully meeting the purposes described under subsection (c)(1).”
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.

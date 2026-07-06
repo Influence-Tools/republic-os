@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 3284"
+description: "Concealment of bankrupt’s assets"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "213"
+chapter_name: "LIMITATIONS"
+section: "3284"
+citation: "18 U.S.C. § 3284"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s3284"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "ad3a67ee6846f844ebbba044eb7692f973647d5f4480604c01a5452e072b86b6"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "09000de012bc8c159f47135ab941f95c066a873097e843d51556b8e7e94891a3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 3284 - Concealment of bankrupt’s assets
+
+## Text
+
+The concealment of assets of a debtor in a case under title 11 shall be deemed to be a continuing offense until the debtor shall have been finally discharged or a discharge denied, and the period of limitations shall not begin to run until such final discharge or denial of discharge.
+
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 95–598, title III, § 314(k), Nov. 6, 1978, 92 Stat. 2678.)
+
+## Notes
+
+Historical and Revision NotesBased on section 52(d) of title 11, U.S.C., 1940 ed., Bankruptcy (May 27, 1926, ch. 406, § 11d, 44 Stat. 665; June 22, 1938, ch. 575, § 1, 52 Stat. 856). The 3-year-limitation provision was omitted as unnecessary in view of the general statute, section 3282 of this title. The words “or a discharge denied” and “or denial of discharge” were added on the recommendation of the Department of Justice to supply an omission in existing law. Other subsections of said section 52 of title 11, U.S.C., 1940 ed., are incorporated in sections 151–154 and 3057 of this title. Other minor changes of phraseology were made.
+
+Editorial Notes
+
+Amendments1978—Pub. L. 95–598 substituted “debtor in a case under title 11” for “bankrupt or other debtor”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1978 AmendmentAmendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+Savings ProvisionAmendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.

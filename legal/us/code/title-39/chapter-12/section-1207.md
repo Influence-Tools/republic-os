@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "39 U.S.C. § 1207"
+description: "Labor disputes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 39
+title_name: "POSTAL SERVICE"
+chapter_number: "12"
+chapter_name: "EMPLOYEE-MANAGEMENT AGREEMENTS"
+section: "1207"
+citation: "39 U.S.C. § 1207"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc39@119-100.zip"
+source_identifier: "/us/usc/t39/s1207"
+source_file: "data/legal/raw/us/code/title-39/usc39.xml"
+source_hash: "ade0b5e6ce4803fce1498487f32e4cec10c9c487f988ca4ea3fcca34dbe49f0f"
+raw_snapshot_hash: "ccea35969be78d053165f1170bf2aa826a68e5b4dea1fe3356d8a09e86e19a65"
+text_hash: "16206c0441dcbcc04809e163020ecb4fdc04bed8fbdbe8247a1281a4300a0c10"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 39 U.S.C. § 1207 - Labor disputes
+
+## Text
+
+(a) If there is a collective-bargaining agreement in effect, no party to such agreement shall terminate or modify such agreement unless the party desiring such termination or modification serves written notice upon the other party to the agreement of the proposed termination or modification not less than 90 days prior to the expiration date thereof, or not less than 90 days prior to the time it is proposed to make such termination or modification. The party serving such notice shall notify the Federal Mediation and Conciliation Service of the existence of a dispute within 45 days after such notice, if no agreement has been reached by that time.
+
+(b) If the parties fail to reach agreement or to adopt a procedure providing for a binding resolution of a dispute by the expiration date of the agreement in effect, or the date of the proposed termination or modification, the Director of the Federal Mediation and Conciliation Service shall within 10 days appoint a mediator of nationwide reputation and professional stature, and who is also a member of the National Academy of Arbitrators. The parties shall cooperate with the mediator in an effort to reach an agreement and shall meet and negotiate in good faith at such times and places that the mediator, in consultation with the parties, shall direct.
+
+(c) (1) If no agreement is reached within 60 days after the expiration or termination of the agreement or the date on which the agreement became subject to modification under subsection (a) of this section, or if the parties decide upon arbitration but do not agree upon the procedures therefore, an arbitration board shall be established consisting of 3 members, 1 of whom shall be selected by the Postal Service, 1 by the bargaining representative of the employees, and the third by the 2 thus selected. If either of the parties fails to select a member, or if the members chosen by the parties fail to agree on the third person within 5 days after their first meeting, the selection shall be made from a list of names provided by the Director. This list shall consist of not less then 9 names of arbitrators of nationwide reputation and professional nature, who are also members of the National Academy of Arbitrators, and whom the Director has determined are available and willing to serve.
+
+(2) The arbitration board shall give the parties a full and fair hearing, including an opportunity to present evidence in support of their claims, and an opportunity to present their case in person, by counsel or by other representative as they may elect. Decisions of the arbitration board shall be conclusive and binding upon the parties. The arbitration board shall render its decision within 45 days after its appointment.
+
+(3) Costs of the arbitration board and mediation shall be shared equally by the Postal Service and the bargaining representative.
+
+(d) In the case of a bargaining unit whose recognized collective-bargaining representative does not have an agreement with the Postal Service, if the parties fail to reach the agreement within 90 days after the commencement of collective bargaining, a mediator shall be appointed in accordance with the terms in subsection (b) of this section, unless the parties have previously agreed to another procedure for a binding resolution of their differences. If the parties fail to reach agreement within 180 days after the commencement of collective bargaining, and if they have not agreed to another procedure for binding resolution, an arbitration board shall be established to provide conclusive and binding arbitration in accordance with the terms of subsection (c) of this section.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 735; Pub. L. 109–435, title V, § 505(a), Dec. 20, 2006, 120 Stat. 3235.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2006—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to labor disputes between the Postal Service and bargaining representatives.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.

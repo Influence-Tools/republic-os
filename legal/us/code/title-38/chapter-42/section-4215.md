@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 4215"
+description: "Priority of service for veterans in Department of Labor job training programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "42"
+chapter_name: "EMPLOYMENT AND TRAINING OF VETERANS"
+section: "4215"
+citation: "38 U.S.C. § 4215"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s4215"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "74c9048c646820f0f2219a96831fe6bb7ba4ca1d3ac3056d7db777fb42c1efea"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "340f28489cf9dbb87d1d847fddce23cfa82aa12e6a334daad5699ad030b779e2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 4215 - Priority of service for veterans in Department of Labor job training programs
+
+## Text
+
+(a) Definitions.— In this section:
+
+(1) The term “covered person” means any of the following individuals:
+
+(A) A veteran.
+
+(B) The spouse of any of the following individuals:
+
+(i) Any veteran who died of a service-connected disability.
+
+(ii) Any member of the Armed Forces serving on active duty who, at the time of application for assistance under this section, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than 90 days: (I) missing in action, (II) captured in line of duty by a hostile force, or (III) forcibly detained or interned in line of duty by a foreign government or power.
+
+(iii) Any veteran who has a total disability resulting from a service-connected disability.
+
+(iv) Any veteran who died while a disability so evaluated was in existence.
+
+(2) The term “qualified job training program” means any workforce preparation, development, or delivery program or service that is directly funded, in whole or in part, by the Department of Labor and includes the following:
+
+(A) Any such program or service that uses technology to assist individuals to access workforce development programs (such as job and training opportunities, labor market information, career assessment tools, and related support services).
+
+(B) Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998,11 See References in Text note below. a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
+
+(C) Any such program or service that is a workforce development program targeted to specific groups.
+
+(3) The term “priority of service” means, with respect to any qualified job training program, that a covered person shall be given priority over nonveterans for the receipt of employment, training, and placement services provided under that program, notwithstanding any other provision of law. Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.
+
+(b) Entitlement to Priority of Service.— (1) A covered person is entitled to priority of service under any qualified job training program if the person otherwise meets the eligibility requirements for participation in such program.
+
+(2) The Secretary of Labor may establish priorities among covered persons for purposes of this section to take into account the needs of disabled veterans and special disabled veterans, and such other factors as the Secretary determines appropriate.
+
+(c) Administration of Programs at State and Local Levels.— An entity of a State or a political subdivision of the State that administers or delivers services under a qualified job training program shall—
+
+(1) provide information and priority of service to covered persons regarding benefits and services that may be obtained through other entities or service providers; and
+
+(2) ensure that each covered person who applies to or who is assisted by such a program is informed of the employment-related rights and benefits to which the person is entitled under this section.
+
+(d) Addition to Annual Report.— (1) In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs. Such evaluation shall include—
+
+(A) an analysis of the implementation of providing such priority at the local level;
+
+(B) whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any; and
+
+(C) performance measures, as determined by the Secretary, to determine whether veterans are receiving priority of service and are being fully served by qualified job training programs.
+
+(2) The Secretary may not use the proportion of representation of veterans described in subparagraph (B) of paragraph (1) as the basis for determining under such paragraph whether veterans are receiving priority of service and are being fully served by qualified job training programs.
+
+(Added Pub. L. 107–288, § 2(a)(1), Nov. 7, 2002, 116 Stat. 2033; amended Pub. L. 112–56, title II, § 239, Nov. 21, 2011, 125 Stat. 727.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+
+Amendments2011—Subsec. (a)(3). Pub. L. 112–56, § 239(1), inserted at end “Such priority includes giving access to such services to a covered person before a non-covered person or, if resources are limited, giving access to such services to a covered person instead of a non-covered person.” Subsec. (d). Pub. L. 112–56, § 239(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “In the annual report required under section 4107(c) of this title for the program year beginning in 2003 and each subsequent program year, the Secretary of Labor shall evaluate whether covered persons are receiving priority of service and are being fully served by qualified job training programs, and whether the representation of veterans in such programs is in proportion to the incidence of representation of veterans in the labor market, including within groups that the Secretary may designate for priority under such programs, if any.”
+
+Statutory Notes and Related Subsidiaries
+
+Department of Labor Implementation of Regulations for Priority of ServicePub. L. 109–461, title VI, § 605, Dec. 22, 2006, 120 Stat. 3439, provided that: “Not later than two years after the date of the enactment of this Act [Dec. 22, 2006], the Secretary of Labor shall prescribe regulations to implement section 4215 of title 38, United States Code.”
+
+Requirement To Promptly Establish One-Stop Employment ServicesPub. L. 107–288, § 4(c), Nov. 7, 2002, 116 Stat. 2044, provided that: “By not later than 18 months after the date of the enactment of this Act [Nov. 7, 2002], the Secretary of Labor shall provide one-stop services and assistance to covered persons electronically by means of the Internet, as defined in section 231(e)(3) of the Communications Act of 1934 [47 U.S.C. 231(e)(3)], and such other electronic means to enhance the delivery of such services and assistance.”

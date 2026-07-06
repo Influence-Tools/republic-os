@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 254i"
+description: "Annual report to Congress; contents"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "254i"
+citation: "42 U.S.C. § 254i"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s254i"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "a5bc7745ae3df0b4d24b6538b37dd7df0e397a5d659702688819d7fb5bafc834"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "6ad29a2b6f5f47efbb16df3be32527c33819dbd3796fe5cc89e6f5eb59917887"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 254i - Annual report to Congress; contents
+
+## Text
+
+The Secretary shall submit an annual report to Congress, and shall include in such report with respect to the previous calendar year—
+
+(1) the number, identity, and priority of all health professional shortage areas designated in such year and the number of health professional shortage areas which the Secretary estimates will be designated in the subsequent year;
+
+(2) the number of applications filed under section 254f of this title in such year for assignment of Corps members and the action taken on each such application;
+
+(3) the number and types of Corps members assigned in such year to health professional shortage areas, the number and types of additional Corps members which the Secretary estimates will be assigned to such areas in the subsequent year, and the need for additional members for the Corps;
+
+(4) the recruitment efforts engaged in for the Corps in such year and the number of qualified individuals who applied for service in the Corps in such year;
+
+(5) the number of patients seen and the number of patient visits recorded during such year with respect to each health professional shortage area to which a Corps member was assigned during such year;
+
+(6) the number of Corps members who elected, and the number of Corps members who did not elect, to continue to provide health services in health professional shortage areas after termination of their service in the Corps and the reasons (as reported to the Secretary) of members who did not elect for not making such election;
+
+(7) the results of evaluations and determinations made under section 254f(a)(1)(D) of this title during such year; and
+
+(8) the amount charged during such year for health services provided by Corps members, the amount which was collected in such year by entities in accordance with section 254g of this title, and the amount which was paid to the Secretary in such year under such agreements.
+
+(July 1, 1944, ch. 373, title III, § 336A, formerly § 336, as added Pub. L. 94–484, title IV, § 407(b)(3), Oct. 12, 1976, 90 Stat. 2277, renumbered § 336A, Pub. L. 97–35, title XXVII, § 2706(a), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 97–375, title II, § 206(a), Dec. 21, 1982, 96 Stat. 1823; Pub. L. 101–597, title IV, § 401(b)[(a)], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, § 307(b), Oct. 26, 2002, 116 Stat. 1649.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2002—Par. (8). Pub. L. 107–251 struck out “agreements under” after “in accordance with”. 1990—Pars. (1), (3), (5), (6). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing. 1982—Pub. L. 97–375 struck out “on May 1 of each year” after “report to Congress”.

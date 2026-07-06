@@ -1,0 +1,109 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 312"
+description: "Western Alaska Oil Spill Planning Criteria Program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "3"
+chapter_name: "COMPOSITION AND ORGANIZATION"
+section: "312"
+citation: "14 U.S.C. § 312"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s312"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "85b5ab0b6b8eff920b6ecb0c3a9d29264d1522ba858302e0cbcf1b7f506c1076"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "eedb9e42a0df327f911008fc66297bc73a7e57b066cb2529c8317a6ccb2340c3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 312 - Western Alaska Oil Spill Planning Criteria Program
+
+## Text
+
+(a) Establishment.— There is established within the Coast Guard a Western Alaska Oil Spill Planning Criteria Program (referred to in this section as the “Program”) to develop and administer the Western Alaska oil spill planning criteria.
+
+(b) Program Manager.— (1) In general.— Not later than 1 year after the date of enactment of this section, the Commandant shall select a permanent civilian career employee through a competitive search process for a term of not less than 5 years to serve as the Western Alaska Oil Spill Criteria Program Manager (referred to in this section as the “Program Manager”)—
+
+(A) the primary duty of whom shall be to administer the Program; and
+
+(B) who shall not be subject to frequent or routine reassignment.
+
+(2) Conflicts of interest.— The individual selected to serve as the Program Manager shall not have conflicts of interest relating to entities regulated by the Coast Guard.
+
+(3) Duties.— (A) Development of guidance.— The Program Manager shall develop guidance for—
+
+(i) approval, drills, and testing relating to the Western Alaska oil spill planning criteria; and
+
+(ii) gathering input concerning such planning criteria from Federal agencies, State and local governments, Tribes, and relevant industry and nongovernmental entities.
+
+(B) Assessments.— Not less frequently than once every 5 years, the Program Manager shall—
+
+(i) assess whether such existing planning criteria adequately meet the needs of vessels operating in the geographic area; and
+
+(ii) identify methods for advancing response capability so as to achieve, with respect to a vessel, compliance with national planning criteria.
+
+(C) Onsite verifications.— The Program Manager shall address the relatively small number and limited nature of verifications of response capabilities for vessel response plans by increasing, within the Coast Guard Arctic District, the quantity and frequency of onsite verifications of the providers identified in vessel response plans.
+
+(c) Training.— The Commandant shall enhance the knowledge and proficiency of Coast Guard personnel with respect to the Program by—
+
+(1) developing formalized training on the Program that, at a minimum—
+
+(A) provides in-depth analysis of—
+
+(i) the national planning criteria described in part 155 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section);
+
+(ii) alternative planning criteria;
+
+(iii) Western Alaska oil spill planning criteria;
+
+(iv) Captain of the Port and Federal On-Scene Coordinator authorities related to activation of a vessel response plan;
+
+(v) the responsibilities of vessel owners and operators in preparing a vessel response plan for submission; and
+
+(vi) responsibilities of the Area Committee, including risk analysis, response capability, and development of alternative planning criteria;
+
+(B) explains the approval processes of vessel response plans that involve alternative planning criteria or Western Alaska oil spill planning criteria; and
+
+(C) provides instruction on the processes involved in carrying out the actions described in paragraphs (9)(D) and (9)(F) of section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)), including instruction on carrying out such actions—
+
+(i) in any geographic area in the United States; and
+
+(ii) specifically in the Coast Guard Arctic District; and
+
+(2) providing such training to all Coast Guard personnel involved in the Program.
+
+(d) Definitions.— In this section:
+
+(1) Alternative planning criteria.— The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section), for vessel response plans.
+
+(2) Tribe.— The term “Tribe” has the meaning given the term “Indian Tribe” in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+(3) Vessel response plan.— The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under section 311(j)(5) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(5)).
+
+(4) Western alaska oil spill planning criteria.— The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)).
+
+(Added Pub. L. 117–263, div. K, title CXIII, § 11309(a)(1), Dec. 23, 2022, 136 Stat. 4079; renumbered § 312 and amended, Pub. L. 119–60, div. G, title LXXII, § 7201(b), title LXXVII, § 7701(k), Dec. 18, 2025, 139 Stat. 1675, 1837.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of enactment of this section, referred to in subsecs. (b)(1), (c)(1)(A)(i), and (d)(1), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+Prior ProvisionsA prior section 312 was renumbered section 339 of this title. Another prior section 312, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 14, 64 Stat. 407, related to relief of retired warrant officer promoted while on active duty, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+
+Amendments2025—Pub. L. 119–60, § 7201(b), renumbered section 323 of this title as this section. Subsecs. (b)(3)(C), (c)(1)(C)(ii). Pub. L. 119–60, § 7701(k), which directed amendment of section 324 of this title by substituting “Coast Guard Arctic District” for “Seventeenth Coast Guard District” wherever appearing, was executed to this section, to reflect the probable intent of Congress and the renumbering of section 323 of this title as this section by Pub. L. 119–60, see above. There is no section 324 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Rule of ConstructionNothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under section 245 of Title 6, Domestic Security.

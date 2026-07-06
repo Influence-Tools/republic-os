@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 10203"
+description: "Reports"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "101"
+chapter_name: "JUSTICE SYSTEM IMPROVEMENT"
+section: "10203"
+citation: "34 U.S.C. § 10203"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s10203"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "93c785d6265dc8ec980e88369c885e30dc98b34ea6bd46b97962184491bb804e"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "43b6e0f61879b812304d53525876215820b311b1edd3451c65e7149afb81a354"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 10203 - Reports
+
+## Text
+
+(a) Each State which receives a grant under section 10156 of this title shall submit to the Director, for each year in which any part of such grant is expended by a State or unit of local government, a report which contains—
+
+(1) a summary of the activities carried out with such grant and an assessment of the impact of such activities on meeting the purposes of part A;
+
+(2) a summary of the activities carried out in such year with any grant received under part B by such State;
+
+(3) the evaluation result of programs and projects;
+
+(4) an explanation of how the Federal funds provided under this subchapter were coordinated with State agencies receiving Federal funds for drug abuse education, prevention, treatment, and research activities; and
+
+(5) such other information as the Director may require by rule.
+
+Such report shall be submitted in such form and by such time as the Director may require by rule.
+
+(b) Not later than 180 days after the end of each fiscal year for which grants are made under this subchapter, the Director shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report that includes with respect to each State—
+
+(1) the aggregate amount of grants made under part A and part B to such State for such fiscal year;
+
+(2) the amount of such grants awarded for each of the purposes specified in part A;
+
+(3) a summary of the information provided in compliance with paragraphs (1) and (2) of subsection (a);
+
+(4) an explanation of how Federal funds provided under this subchapter have been coordinated with Federal funds provided to States for drug abuse education, prevention, treatment, and research activities; and
+
+(5) evaluation results of programs and projects and State strategy implementation.
+
+(Pub. L. 90–351, title I, § 522, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 109–162, title XI, § 1111(c)(2)(C), Jan. 5, 2006, 119 Stat. 3101.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 3766b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+
+Prior ProvisionsA prior section 522 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208, amended section 3334 of Title 42, The Public Health and Welfare.
+
+Amendments2006—Subsec. (a). Pub. L. 109–162 substituted “section 3755” for “section 3756” in introductory provisions and “an assessment of the impact of such activities on meeting the purposes of part A” for “an assessment of the impact of such activities on meeting the needs identified in the State strategy submitted under section 3753 of this title” in par. (1).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2006 AmendmentAmendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
+
+Transfer of Functions Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of this title.

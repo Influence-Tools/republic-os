@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 8753"
+description: "Expedited consideration of requests for authorization of certain human rights-, humanitarian-, and democracy-related activities with respect to Iran"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "94"
+chapter_name: "IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS"
+section: "8753"
+citation: "22 U.S.C. § 8753"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s8753"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "b63cdf407bfc77ffda82931500d171b839b6bdc97c4adcdc126b40bd83ccc2a3"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "d94174d20101d1ad9e194b2ca575801ec4a822c4cf065780d205c317d29629e5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 8753 - Expedited consideration of requests for authorization of certain human rights-, humanitarian-, and democracy-related activities with respect to Iran
+
+## Text
+
+(a) Requirement The Office of Foreign Assets Control, in consultation with the Department of State, shall establish an expedited process for the consideration of complete requests for authorization to engage in human rights-, humanitarian-, or democracy-related activities relating to Iran that are submitted by—
+
+(1) entities receiving funds from the Department of State to engage in the proposed activity;
+
+(2) the Broadcasting Board of Governors; and
+
+(3) other appropriate agencies of the United States Government.
+
+(b) Procedures Requests for authorization under subsection (a) shall be submitted to the Office of Foreign Assets Control in conformance with the Office’s regulations, including section 501.801 of title 31, Code of Federal Regulations (commonly known as the Reporting, Procedures and Penalties Regulations). Applicants shall fully disclose the parties to the transactions as well as describe the activities to be undertaken. License applications involving the exportation or reexportation of goods, technology, or software to Iran shall include a copy of an official Commodity Classification issued by the Department of Commerce, Bureau of Industry and Security, as part of the license application.
+
+(c) Foreign policy review The Department of State shall complete a foreign policy review of a request for authorization under subsection (a) not later than 30 days after the request is referred to the Department by the Office of Foreign Assets Control.
+
+(d) License determinations License determinations for complete requests for authorization under subsection (a) shall be made not later than 90 days after receipt by the Office of Foreign Assets Control, with the following exceptions:
+
+(1) Any requests involving the exportation or reexportation to Iran of goods, technology, or software listed on the Commerce Control List maintained pursuant to part 774 of title 15, Code of Federal Regulations, shall be processed in a manner consistent with the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484) and other applicable provisions of law.
+
+(2) Any other requests presenting unusual or extraordinary circumstances.
+
+(e) Regulations The Secretary of the Treasury may prescribe such regulations as are appropriate to carry out this section.
+
+(Pub. L. 112–158, title IV, § 413, Aug. 10, 2012, 126 Stat. 1256.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Iran-Iraq Arms Non-Proliferation Act of 1992, referred to in subsec. (d)(1), is title XVI of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2571, which is set out as a note under section 1701 of Title 50, War and National Defense.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.

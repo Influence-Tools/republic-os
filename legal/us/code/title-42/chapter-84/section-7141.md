@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 7141"
+description: "Office of Minority Economic Impact"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "84"
+chapter_name: "DEPARTMENT OF ENERGY"
+section: "7141"
+citation: "42 U.S.C. § 7141"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s7141"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "d414eb96fa3851465696eab10cfb749b67774e1a6ad400766766b54666f6ff38"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "d4aa34bb496c3b2d9ef0b3b7ac0c633f4f9fda62a86062f5ca3a8e4232401a0d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 7141 - Office of Minority Economic Impact
+
+## Text
+
+(a) Establishment; appointment of Director; compensation There shall be established within the Department an Office of Minority Economic Impact. The Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+
+(b) Advice to Secretary on effect of energy policies, regulations, and other actions of Department respecting minority participation in energy programs The Director shall have the duty and responsibility to advise the Secretary on the effect of energy policies, regulations, and other actions of the Department and its components on minorities and minority business enterprises and on ways to insure that minorities are afforded an opportunity to participate fully in the energy programs of the Department.
+
+(c) Research programs respecting effects of national energy programs, policies, and regulations of Department on minorities The Director shall conduct an ongoing research program, with the assistance of the Administrator of the Energy Information Administration, and such other Federal agencies as the Director determines appropriate, to determine the effects (including the socio-economic and environmental effects) of national energy programs, policies, and regulations of the Department on minorities. In conducting such program, the Director shall, from time to time, develop and recommend to the Secretary policies to assist, where appropriate, such minorities and minority business enterprises concerning such effects. In addition, the Director shall, to the greatest extent practicable—
+
+(1) determine the average energy consumption and use patterns of minorities relative to other population categories;
+
+(2) evaluate the percentage of disposable income spent on energy by minorities relative to other population categories; and
+
+(3) determines 11 So in original. Probably should be “determine”. how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
+
+(d) Management and technical assistance to minority educational institutions and business enterprises to foster participation in research, development, demonstration, and contract activities of Department The Director may provide the management any 22 So in original. Probably should be “and”. technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with section 7256 of this title and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
+
+(1) a national information clearinghouse which will develop and disseminate information on the aspects of energy programs to minority business enterprises, minority educational institutions and other appropriate minority organizations;
+
+(2) market research, planning economic and business analysis, and feasibility studies to identify and define economic opportunities for minorities in energy research, production, conservation, and development;
+
+(3) technical assistance programs to encourage, promote, and assist minority business enterprises in establishing and expanding energy-related business opportunities which are located in minority communities and that can provide jobs to workers in such communities; and
+
+(4) programs to assist minority business enterprises in the commercial application of energy-related technologies.
+
+(e) Loans to minority business enterprises; restriction on use of funds; interest; deposits into Treasury (1) The Secretary, acting through the Office, may provide financial assistance in the form of loans to any minority business enterprise under such rules as he shall prescribe to assist such enterprises in participating fully in research, development, demonstration, and contract activities of the Department to the extent he considers appropriate. He shall limit the use of financial assistance to providing funds necessary for such enterprises to bid for and obtain contracts or other agreements, and shall limit the amount of the financial assistance to any recipient to not more than 75 percent of such costs.
+
+(2) The Secretary shall determine the rate of interest on loans under this section in consultation with the Secretary of the Treasury.
+
+(3) The Secretary shall deposit into the Treasury as miscellaneous receipts amounts received in connection with the repayment and satisfaction of such loans.
+
+(f) Definitions As used in this section, the term—
+
+(1) “minority” means any individual who is a citizen of the United States and who is Asian American, Native Hawaiian, a Pacific Islander, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native;
+
+(2) “minority business enterprise” means a firm, corporation, association, or partnership which is at least 50 percent owned or controlled by a minority or group of minorities; and
+
+(3) “minority educational institution” means an educational institution with an enrollment in which a substantial proportion (as determined by the Secretary) of the students are minorities.
+
+(g) Authorization of appropriations There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e).
+
+(Pub. L. 95–91, title II, § 211, as added Pub. L. 95–619, title VI, § 641, Nov. 9, 1978, 92 Stat. 3284; amended Pub. L. 114–157, § 1(a), May 20, 2016, 130 Stat. 393.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Subsec. (f)(1). Pub. L. 114–157 substituted “Asian American, Native Hawaiian, a Pacific Islander, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native” for “a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent”.

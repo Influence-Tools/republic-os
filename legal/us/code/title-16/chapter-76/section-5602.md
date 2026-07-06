@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 5602"
+description: "Requests for scientific advice"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "76"
+chapter_name: "NORTHWEST ATLANTIC FISHERIES CONVENTION"
+section: "5602"
+citation: "16 U.S.C. § 5602"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s5602"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "ee7f8b011855fc21bc7218782c19b806b5be014b5cec05374b62a399674eca5f"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "f7843bceda76f722f8126263906f30ace85227a514e72f2c656c7b9a4896fc16"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 5602 - Requests for scientific advice
+
+## Text
+
+(a) Restriction A Representative may not make a request or specification described in paragraph (1) or (2) of subsection (b), respectively, unless the Representative has first—
+
+(1) consulted with the appropriate Regional Fishery Management Councils; and
+
+(2) received the consent of the Commissioners for that action.
+
+(b) Requests and terms of reference described The requests and specifications referred to in subsection (a) are, respectively—
+
+(1) any request, under Article VII(10)(b) of the Convention, that the Scientific Council consider and report on a question pertaining to the scientific basis for the management and conservation of fishery resources in waters under the jurisdiction of the United States within the Convention Area; and
+
+(2) any specification, under Article VII(11) of the Convention, of the terms of reference for the consideration of a question referred to the Scientific Council pursuant to Article VII(10)(b) of the Convention.
+
+(Pub. L. 104–43, title II, § 203, Nov. 3, 1995, 109 Stat. 378; Pub. L. 114–327, title V, § 503, Dec. 16, 2016, 130 Stat. 1995.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Subsec. (a). Pub. L. 114–327, § 503(1), in introductory provisions, substituted “A Representative may” for “The Representatives may”, “described in paragraph (1) or (2) of subsection (b)” for “described in subsection (b)(1) or (2)”, and “the Representative has” for “the Representatives have”. Subsec. (b)(1). Pub. L. 114–327, § 503(2), substituted “VII(10)(b)” for “VII(1)”. Subsec. (b)(2). Pub. L. 114–327, § 503(2),(3), substituted “VII(11)” for “VIII(2)” and “VII(10)(b)” for “VII(1)”.

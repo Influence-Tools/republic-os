@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 1693h"
+description: "Liability of financial institutions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "41"
+chapter_name: "CONSUMER CREDIT PROTECTION"
+section: "1693h"
+citation: "15 U.S.C. § 1693h"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s1693h"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "96c961324bf6e2d5c1a18a907d8f019233bd7248ae6ddbe402c7b9b21709ef37"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "e1adb7a052761db68640ddd5f30d8eb36ebcb759774728526124d18f9fae0f7f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 1693h - Liability of financial institutions
+
+## Text
+
+(a) Action or failure to act proximately causing damages Subject to subsections (b) and (c), a financial institution shall be liable to a consumer for all damages proximately caused by—
+
+(1) the financial institution’s failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timely manner when properly instructed to do so by the consumer, except where—
+
+(A) the consumer’s account has insufficient funds;
+
+(B) the funds are subject to legal process or other encumbrance restricting such transfer;
+
+(C) such transfer would exceed an established credit limit;
+
+(D) an electronic terminal has insufficient cash to complete the transaction; or
+
+(E) as otherwise provided in regulations of the Bureau;
+
+(2) the financial institution’s failure to make an electronic fund transfer due to insufficient funds when the financal 11 So in original. Probably should be “financial”. institution failed to credit, in accordance with the terms and conditions of an account, a deposit of funds to the consumer’s account which would have provided sufficient funds to make the transfer, and
+
+(3) the financial institution’s failure to stop payment of a preauthorized transfer from a consumer’s account when instructed to do so in accordance with the terms and conditions of the account.
+
+(b) Acts of God and technical malfunctions A financial institution shall not be liable under subsection (a)(1) or (2) if the financial institution shows by a preponderance of the evidence that its action or failure to act resulted from—
+
+(1) an act of God or other circumstance beyond its control, that it exercised reasonable care to prevent such an occurrence, and that it exercised such diligence as the circumstances required; or
+
+(2) a technical malfunction which was known to the consumer at the time he attempted to initiate an electronic fund transfer or, in the case of a preauthorized transfer, at the time such transfer should have occurred.
+
+(c) Intent In the case of a failure described in subsection (a) which was not intentional and which resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error, the financial institution shall be liable for actual damages proved.
+
+(d) Exception for damaged notices If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of this title by an automated teller machine operator has been posted by such operator in compliance with such section and the notice is subsequently removed, damaged, or altered by any person other than the operator of the automated teller machine, the operator shall have no liability under this section for failure to comply with section 1693b(d)(3)(B)(i) of this title.
+
+(Pub. L. 90–321, title IX, § 910, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3735; amended Pub. L. 106–102, title VII, § 705, Nov. 12, 1999, 113 Stat. 1465; Pub. L. 111–203, title X, § 1084(1), July 21, 2010, 124 Stat. 2081.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2010—Subsec. (a)(1)(E). Pub. L. 111–203 substituted “Bureau” for “Board”. 1999—Subsec. (d). Pub. L. 106–102 added subsec. (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.

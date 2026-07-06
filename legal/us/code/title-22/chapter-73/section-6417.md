@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 6417"
+description: "Prisoner lists and issue briefs on religious freedom concerns"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "73"
+chapter_name: "INTERNATIONAL RELIGIOUS FREEDOM"
+section: "6417"
+citation: "22 U.S.C. § 6417"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s6417"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "d157bccb9b4c48570a1b534fb417c206318fe0eb1292276504a21f79ceee8cca"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "d833ff6ab23ce6a30102f16fca2e0af785033579b5efbf3c9335f675ef047818"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 6417 - Prisoner lists and issue briefs on religious freedom concerns
+
+## Text
+
+(a) Sense of Congress To encourage involvement with religious freedom concerns at every possible opportunity and by all appropriate representatives of the United States Government, it is the sense of the Congress that officials of the executive branch of Government should promote increased advocacy on such issues during meetings between foreign dignitaries and executive branch officials or Members of Congress.
+
+(b) Prisoner lists and issue briefs on religious freedom concerns The Secretary of State, in consultation with the Ambassador at Large, the Assistant Secretary of State for Democracy, Human Rights and Labor, United States chiefs of mission abroad, regional experts, and nongovernmental human rights and religious groups, shall prepare and maintain issue briefs on religious freedom, on a country-by-country basis, consisting of lists of persons believed to be imprisoned, detained, or placed under house arrest for their religious activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion, together with brief evaluations and critiques of the policies of the respective country restricting religious freedom. In considering the inclusion of names of prisoners on such lists, the Secretary of State shall exercise appropriate discretion, including concerns regarding the safety, security, and benefit to such prisoners.
+
+(c) Availability of information The Secretary shall make available religious freedom issue briefs under subsection (b) to executive branch officials and Members of Congress in anticipation of bilateral contacts with foreign leaders, both in the United States and abroad.
+
+(d) Victims list maintained by the United States Commission on International Religious Freedom (1) In general The Commission shall make publicly available, to the extent practicable, online and in official publications, lists of persons it determines are imprisoned or detained, have disappeared, been placed under house arrest, been tortured, or subjected to forced renunciations of faith for their religious activity or religious freedom advocacy by the government of a foreign country that the Commission recommends for designation as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title or by a non-state actor that the Commission recommends for designation as an entity of particular concern for religious freedom under section 6442a of this title and include as much publicly available information as practicable on the conditions and circumstances of such persons.
+
+(2) Discretion In compiling lists under paragraph (1), the Commission shall exercise all appropriate discretion, including consideration of the safety and security of, and benefit to, the persons who may be included on the lists and the families of such persons.
+
+(Pub. L. 105–292, title I, § 108, Oct. 27, 1998, 112 Stat. 2796; Pub. L. 114–281, title I, § 104, Dec. 16, 2016, 130 Stat. 1432.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Subsec. (b). Pub. L. 114–281, § 104(1), substituted “activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion,” for “faith,”. Subsec. (c). Pub. L. 114–281, § 104(2), substituted “make available” for “, as appropriate, provide”. Subsec. (d). Pub. L. 114–281, § 104(3), added subsec. (d).

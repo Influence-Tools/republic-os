@@ -1,0 +1,39 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3830"
+description: "Repealed. Pub. L. 113–79, title II, § 2701, Feb. 7, 2014, 128 Stat. 766"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "58"
+chapter_name: "ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM"
+section: "3830"
+citation: "16 U.S.C. § 3830"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3830"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "e7fcf53bdbaea489f1b44c2c62278abcfc92f77d467e6db643f6469ecd18ee74"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "f71dce35f6a21d8054c92bf61197791c5bc10406d0e476ae0e67b285426e581d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3830 - Repealed. Pub. L. 113–79, title II, § 2701, Feb. 7, 2014, 128 Stat. 766
+
+## Notes
+
+Section, Pub. L. 99–198, title XII, § 1230, as added Pub. L. 101–624, title XIV, § 1431(2), Nov. 28, 1990, 104 Stat. 3576; amended Pub. L. 103–66, title I, § 1402(a), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, § 331, Apr. 4, 1996, 110 Stat. 992; Pub. L. 107–171, title II, § 2006(b), May 13, 2002, 116 Stat. 237, related to comprehensive conservation enhancement program.
+
+Statutory Notes and Related Subsidiaries
+
+Conservation AssistancePub. L. 106–224, title II, § 211, June 20, 2000, 114 Stat. 406, as amended by Pub. L. 107–171, title II, § 2503(b)(1)(B), May 13, 2002, 116 Stat. 269, authorized Secretary to use $40,000,000 of funds of the Commodity Credit Corporation to provide financial assistance to farmers and ranchers to address threats to soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat; comply with Federal and State environmental laws; and make beneficial, cost-effective changes to cropping systems, grazing management, manure, nutrient, pest, or irrigation management, land uses, or other measures needed to conserve and improve soil, water, and related natural resources.
+
+Farmland Protection ProgramPub. L. 104–127, title III, § 388, Apr. 4, 1996, 110 Stat. 1020, directed Secretary of Agriculture to establish and carry out a farmland protection program, prior to repeal by Pub. L. 107–171, title II, § 2503(b)(1)(A), May 13, 2002, 116 Stat. 269. [Pub. L. 107–171, title II, § 2503(b)(2), May 13, 2002, 116 Stat. 269, provided that: “The amendment made by paragraph (1)(A) [repealing section 388 of Pub. L. 104–127, formerly set out above] shall have no effect on any contract entered into under section 388 of the Federal Agriculture Improvement and Reform Act of 1996 [Pub. L. 104–127] (16 U.S.C. 3830 note) that is in effect as of the date of enactment of this Act [May 13, 2002].” ]

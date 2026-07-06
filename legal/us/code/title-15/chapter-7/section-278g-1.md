@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 278g–1"
+description: "Education and outreach"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "7"
+chapter_name: "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY"
+section: "278g–1"
+citation: "15 U.S.C. § 278g–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s278g–1"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "6efdddcd3c05d80c59ee30cf0bc3d98ff36683aeecc633072039ce6644cc437a"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "90975a01e9848381f73b22ae280668d49d3b49f5dcd574bacf1855609d55f88f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 278g–1 - Education and outreach
+
+## Text
+
+(a) In general The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director shall carry out activities under this subsection, including education and outreach activities to the general public, industry and diverse types of institutions of higher education, including historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, and community colleges in support of the Institute’s mission.
+
+(b) Hiring The Director, in coordination with the Director of the Office of Personnel Management, may revise the procedures the Director applies when making appointments to laboratory positions within the competitive service—
+
+(1) to ensure corporate memory of and expertise in the fundamental ongoing work, and on developing new capabilities in priority areas;
+
+(2) to maintain high overall technical competence;
+
+(3) to improve staff diversity;
+
+(4) to balance emphases on the noncore and core areas; or
+
+(5) to improve the ability of the Institute to compete in the marketplace for qualified personnel.
+
+(c) Volunteers (1) In general The Director may establish a program to use volunteers in carrying out the programs of the Institute.
+
+(2) Acceptance of personnel The Director may accept, subject to regulations issued by the Office of Personnel Management, voluntary service for the Institute for such purpose if the service—
+
+(A) is to be without compensation; and
+
+(B) will not be used to displace any current employee or act as a substitute for any future full-time employee of the Institute.
+
+(3) Federal employee status Any individual who provides voluntary service under this subsection shall not be considered a Federal employee, except for purposes of chapter 81 of title 5 (relating to compensation for injury), and sections 2671 through 2680 of title 28 (relating to tort claims).
+
+(d) Research fellowships (1) In general The Director may expend funds appropriated for activities of the Institute in any fiscal year, as the Director considers appropriate, for awards of research fellowships and other forms of financial and logistical assistance, including direct stipend awards to—
+
+(A) students at institutions of higher learning within the United States who show promise as present or future contributors to the mission of the Institute; and
+
+(B) United States citizens for research and technical activities of the Institute, including programs.
+
+(2) Selection criteria The selection of persons to receive such fellowships and assistance shall be made on the basis of ability and of the relevance of the proposed work to the mission and programs of the Institute.
+
+(3) Financial and logistical assistance Notwithstanding section 1345 of title 31 or any other law to the contrary, the Director may include as a form of financial or logistical assistance under this subsection temporary housing and transportation to and from Institute facilities.
+
+(e) Educational outreach activities The Director may—
+
+(1) facilitate education programs for undergraduate and graduate students, postdoctoral researchers, and academic and industry employees;
+
+(2) sponsor summer workshops for STEM kindergarten through grade 12 teachers as appropriate;
+
+(3) develop programs for graduate student internships and visiting faculty researchers;
+
+(4) document publications, presentations, and interactions with visiting researchers and sponsoring interns as performance metrics for improving and continuing interactions with those individuals;
+
+(5) facilitate laboratory tours and provide presentations for educational, industry, and community groups; and 11 So in original. The word “and” probably should not appear.
+
+(6) conduct outreach to and develop research collaborations with historically Black colleges and universities, Tribal Colleges or Universities, and minority serving institutions, including through the recruitment of students and faculty at such institutions to participate in programs developed under paragraph (3);
+
+(7) conduct outreach to and develop research collaborations with community colleges, including through the recruitment of students and faculty at such institutions to participate in programs developed under paragraph (3);
+
+(8) carry out other activities to increase the participation of persons historically underrepresented in STEM in the Institute’s programs; and
+
+(9) conduct outreach to and develop collaborations with nontraditional educational organizations, including those that offer training through nonprofit associations and professional associations or professional societies, to engage persons historically underrepresented in STEM through programs developed under this subsection.
+
+(Mar. 3, 1901, ch. 872, § 18, as added Pub. L. 114–329, title III, § 306(b), Jan. 6, 2017, 130 Stat. 3008; amended Pub. L. 117–167, div. B, title II, § 10241, Aug. 9, 2022, 136 Stat. 1486.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 278g–1, act Mar. 3, 1901, ch. 872, § 18, as added Pub. L. 99–574, § 6(a), Oct. 28, 1986, 100 Stat. 3237; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(h)(1), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, §§ 3008, 3013(a), Aug. 9, 2007, 121 Stat. 591, 598; Pub. L. 111–358, title IV, §§ 406(a), § 407(b), Jan. 4, 2011, 124 Stat. 4003, 4004, related to research fellowships and other financial assistance to students at institutes of higher education, prior to repeal by Pub. L. 114–329, title III, § 306(a), Jan. 6, 2017, 130 Stat. 3008. A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
+
+Amendments2022—Subsec. (a). Pub. L. 117–167, § 10241(1), substituted “shall” for “may” and “diverse types of institutions of higher education, including historically Black colleges and universities, Tribal Colleges and Universities, and minority-serving institutions, and community colleges” for “academia”. Subsec. (e)(6) to (9). Pub. L. 117–167, § 10241(2), added pars. (6) to (9).
+
+Statutory Notes and Related Subsidiaries
+
+Savings Clause for Research Fellowships and Other Financial Assistance to Students at Institutes of Higher EducationPub. L. 114–329, title III, § 306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: “The repeal made by subsection (a) of this section [repealing this section] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–1) before the date of enactment of this Act [Jan. 6, 2017]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act.”

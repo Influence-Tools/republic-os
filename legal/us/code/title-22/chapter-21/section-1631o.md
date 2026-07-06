@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 1631o"
+description: "Eligibility for return of interest in property"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "21"
+chapter_name: "SETTLEMENT OF INTERNATIONAL CLAIMS"
+section: "1631o"
+citation: "22 U.S.C. § 1631o"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s1631o"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "3f31247701d1b01344690a66421487bcd53663c899cb2a597790411e839c0e2e"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "d77d429f149f083befbf0983cce684fada84aa987bbbfda95c7d0b279ddfd376"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 1631o - Eligibility for return of interest in property
+
+## Text
+
+(a) Persons eligible; determination; prerequisites Notwithstanding any other provision of this chapter or any provision of the Trading With the Enemy Act, as amended, any person (1) who was formerly a national of Bulgaria, Hungary, or Rumania, and (2) who, as a consequence of any law, decree, or regulation of the nation of which he was a national discriminating against political, racial or religious groups, at no time between December 7, 1941, and the time when such law, decree, or regulation was abrogated enjoyed full rights of citizenship under the law of such nation, shall be eligible hereunder to receive the return of his interest in property which was vested under section 1631a(a) of this title or under the Trading With the Enemy Act, as amended [50 U.S.C. 4301 et seq.], as the property of a corporation organized under the laws of Bulgaria, Hungary, or Rumania if 25 per centum or more of the outstanding capital stock of such corporation was owned at the date of vesting by such persons and nationals of countries other than Bulgaria, Hungary, Rumania, Germany, or Japan, or if such corporation was subjected after December 7, 1941, under the laws of its country, to special wartime measures directed against it because of the enemy character of some or all of its stockholders; and no certificate by the Department of State as provided under section 1631f(c) of this title shall be required for such persons.
+
+(b) Notice of claim; time of claim; fund for payment An interest in property vested under the Trading With the Enemy Act, as amended, as the property of a corporation organized under the laws of Bulgaria, Hungary, or Rumania shall be subject to return under subsection (a) of this section only if a notice of claim for the return of any such interest has been timely filed under the provisions of section 4330 of Title 50, provided that application may be made therefore within six months after July 24, 1968. In the event such interest has been liquidated and the net proceeds thereof transferred to the Bulgarian Claims Fund, Hungarian Claims Fund, or Rumanian Claims Fund, the net proceeds of any other interest representing vested property held in the United States Treasury may be used for the purpose of making the return hereunder.
+
+(c) Finality of determination Determinations by the designee of the President or any other officer or agency with respect to claims under this section, including the allowance or disallowance thereof, shall be final and shall not be subject to review by any court.
+
+(Mar. 10, 1950, ch. 54, title II, § 216, as added Pub. L. 90–421, § 1(7), July 24, 1968, 82 Stat. 421.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Trading With the Enemy Act, as amended, referred to in subsecs. (a) and (b), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.

@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3839aa–7"
+description: "Limitation on payments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "58"
+chapter_name: "ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM"
+section: "3839aa–7"
+citation: "16 U.S.C. § 3839aa–7"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3839aa–7"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "ba8362d8b2118daba8c124e2b5809c871fa11f2dfefc69a1aa8c78cae973f5e8"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "ed33924533d6f780d40e82690ee7c886687610da095d79d81bedbcfed3e530ff"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3839aa–7 - Limitation on payments
+
+## Text
+
+Not including payments made under section 3839aa–2(j) of this title, a person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this subpart that, in aggregate, exceed $450,000 for all contracts entered into under this subpart by the person or legal entity during the period of fiscal years 2014 through 2018, or the period of fiscal years 2019 through 2023, regardless of the number of contracts entered into under this subpart by the person or legal entity.
+
+(Pub. L. 99–198, title XII, § 1240G, as added Pub. L. 107–171, title II, § 2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 108–447, div. A, title VII, § 794(b), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, § 1203(b), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, § 2508, May 22, 2008, 122 Stat. 1063; Pub. L. 110–246, § 4(a), title II, § 2508, June 18, 2008, 122 Stat. 1664, 1791; Pub. L. 113–79, title II, § 2206, Feb. 7, 2014, 128 Stat. 730; Pub. L. 115–334, title II, §§ 2301(d)(1)(I), 2306, Dec. 20, 2018, 132 Stat. 4554, 4561.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Prior ProvisionsA prior section 3839aa–7, Pub. L. 99–198, title XII, § 1240G, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to limitation on payments, prior to the general amendment of this part by Pub. L. 107–171.
+
+Amendments2018—Pub. L. 115–334, § 2306, substituted “Not including payments made under section 3839aa–2(j) of this title, a person” for “A person” and inserted “or the period of fiscal years 2019 through 2023,” after “2018,”. Pub. L. 115–334, § 2301(d)(1)(I), substituted “this subpart” for “this part” wherever appearing. 2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to limitation on payments and included waiver authority in the case of contracts for projects of special environmental significance as determined by the Secretary. 2008—Pub. L. 110–246, § 2508, designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), a person or legal entity” for “An individual or entity” and “$300,000” for “$450,000”, substituted “the person” for “the individual” in two places, and added subsec. (b). 2006—Pub. L. 109–171 substituted “any six-year period” for “the period of fiscal years 2002 through 2007”. 2004—Pub. L. 108–447 inserted “(excluding funding arrangements with federally recognized Native American Indian Tribes or Alaska Native Corporations under section 3839aa–2(h) of this title)” after “2007,”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.

@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 8422"
+description: "Authorization of assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "91"
+chapter_name: "ENHANCED PARTNERSHIP WITH PAKISTAN"
+section: "8422"
+citation: "22 U.S.C. § 8422"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s8422"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "ca76cd5338f9b5e6711551ca89912057176338647291c5f1fea4534099e30d69"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "6405a247ba6bc401e6636cda77a768a641f0071239905357087ec95f0e811565"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 8422 - Authorization of assistance
+
+## Text
+
+(a) International military education and training (1) In general There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.; relating to international military education and training) for Pakistan, including expanded international military education and training (commonly known as “E–IMET”).
+
+(2) Use of funds It is the sense of Congress that a substantial amount of funds made available to carry out this subsection for a fiscal year should be used to pay for courses of study and training in counterinsurgency and civil-military relations.
+
+(b) Foreign Military Financing program (1) In general There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 for grant assistance under section 2763 of this title (relating to the Foreign Military Financing program) for the purchase of defense articles, defense services, and military education and training for Pakistan.
+
+(2) Use of funds (A) In general A significant portion of the amount made available to carry out this subsection for a fiscal year shall be for the purchase of defense articles, defense services, and military education and training for activities relating to counterinsurgency and counterterrorism operations in Pakistan.
+
+(B) Sense of Congress It is the sense of Congress that a significant majority of funds made available to carry out this subsection for a fiscal year should be used for the purpose described in subparagraph (A).
+
+(3) Additional authority Except as provided in sections 2753 and 2799aa–1 of this title, the second section 620J 11 See References in Text note below. of the Foreign Assistance Act of 1961 (as added by Public Law 110–161) [22 U.S.C. 2378d], and any provision of an Act making appropriations for the Department of State, foreign operations, and related programs that restricts assistance to the government of any country whose duly elected head of government is deposed by military coup or decree, and except as otherwise provided in this subchapter, amounts authorized to be made available to carry out paragraph (2) for fiscal years 2010 and 2011 are authorized to be made available notwithstanding any other provision of law.
+
+(4) Definitions In this section, the terms “defense articles”, “defense services”, and “military education and training” have the meaning given such terms in section 644 of the Foreign Assistance Act of 1961 (22 U.S.C. 2403).
+
+(c) Sense of Congress It is the sense of Congress that the United States should facilitate Pakistan’s establishment of a program to provide reconstruction assistance, including through Pakistan’s military as appropriate, in areas damaged by combat operations.
+
+(d) Exchange program between military and civilian personnel of Pakistan and certain other countries (1) In general The Secretary of State is authorized to establish an exchange program between—
+
+(A) military and civilian personnel of Pakistan; and
+
+(B) (i) military and civilian personnel of countries determined by the Secretary of State to be in the process of consolidating and strengthening a democratic form of government; or
+
+(ii) military and civilian personnel of North Atlantic Treaty Organization member countries,
+
+in order to foster greater mutual respect for and understanding of the principle of civilian rule of the military.
+
+(2) Elements of program The program authorized under paragraph (1) may include conferences, seminars, exchanges, and other events, distribution of publications and reimbursements of expenses of foreign military personnel participating in the program, including transportation, translation and administrative expenses.
+
+(3) Role of nongovernmental organizations Amounts authorized to be appropriated to carry out this section for a fiscal year are authorized to be made available for nongovernmental organizations to facilitate the implementation of the program authorized under paragraph (1).
+
+(4) Authorization of appropriations There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 to carry out the program established by this subsection.
+
+(Pub. L. 111–73, title II, § 202, Oct. 15, 2009, 123 Stat. 2069.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The second section 620J of the Foreign Assistance Act of 1961 (as added by Public Law 110–161), referred to in subsec. (b), which is classified to section 2378d of this title, was renumbered section 620M of the Foreign Assistance Act of 1961 by Pub. L. 112–74, div. I, title VII, § 7034(k)(1), Dec. 23, 2011, 125 Stat. 1216.

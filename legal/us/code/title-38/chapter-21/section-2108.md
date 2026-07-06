@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 2108"
+description: "Specially adapted housing assistive technology grant program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "21"
+chapter_name: "SPECIALLY ADAPTED HOUSING FOR DISABLED VETERANS"
+section: "2108"
+citation: "38 U.S.C. § 2108"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s2108"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "5c072e095d4882d391e159e691ac1f93234f504eab0292ed64cd3e363f962413"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "cf63f3e689e235ddc780252c82eb6de1c64b9a86e1fb9bf24fbe95b03a28c94c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 2108 - Specially adapted housing assistive technology grant program
+
+## Text
+
+(a) Authority to Make Grants.— The Secretary shall make grants to encourage the development of new assistive technologies for specially adapted housing.
+
+(b) Application.— A person or entity seeking a grant under this section shall submit to the Secretary an application for the grant in such form and manner as the Secretary shall specify.
+
+(c) Grant Funds.— (1) Each grant awarded under this section shall be in an amount of not more than $200,000 per fiscal year.
+
+(2) For each fiscal year in which the Secretary makes a grant under this section, the Secretary shall make the grant by not later than April 1 of that year.
+
+(d) Use of Funds.— The recipient of a grant under this section shall use the grant to develop assistive technologies for use in specially adapted housing.
+
+(e) Report.— Not later than March 1 of each fiscal year following a fiscal year in which the Secretary makes a grant, the Secretary shall submit to Congress a report containing information related to each grant awarded under this section during the preceding fiscal year, including—
+
+(1) the name of the grant recipient;
+
+(2) the amount of the grant; and
+
+(3) the goal of the grant.
+
+(f) Funding.— From amounts appropriated to the Department for readjustment benefits for each fiscal year for which the Secretary is authorized to make a grant under this section, $1,000,000 shall be available for that fiscal year for the purposes of the program under this section.
+
+(g) Duration.— The authority to make a grant under this section shall begin on October 1, 2011, and shall terminate on September 30, 2026.
+
+(Added Pub. L. 111–275, title II, § 203(a), Oct. 13, 2010, 124 Stat. 2874; amended Pub. L. 114–228, title IV, § 409, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, § 408, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, § 122, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–159, div. E, title II, § 5201, Oct. 1, 2020, 134 Stat. 749; Pub. L. 117–180, div. E, title II, § 205, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 322, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 119–37, div. G, title III, § 7306, Nov. 12, 2025, 139 Stat. 651.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (g). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”. 2024—Subsec. (g). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”. 2022—Subsec. (g). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”. 2020—Subsec. (g). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”. 2018—Subsec. (g). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2018”. 2017—Subsec. (g). Pub. L. 115–62 substituted “September 30, 2018” for “September 30, 2017”. 2016—Subsec. (g). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.

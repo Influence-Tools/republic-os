@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 1087h"
+description: "Funds for administrative expenses"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "28"
+chapter_name: "HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE"
+section: "1087h"
+citation: "20 U.S.C. § 1087h"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s1087h"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "9cf441a311e39b943155fbc0f761680b096b85f5fb7d3422fab989f6ffff4f96"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "e77d592d4c6938b45b81f9ecce1d7805cc44a743237f3c47c938f1ca2b16fee7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 1087h - Funds for administrative expenses
+
+## Text
+
+(a) Administrative expenses (1) Additional mandatory funds for servicing There shall be available to the Secretary (in addition to any other amounts appropriated under any appropriations Act for administrative costs under this part and part B and out of any money in the Treasury not otherwise appropriated) $1,000,000,000 to be obligated for administrative costs under this part and part B, including the costs of servicing the direct student loan programs under this part, which shall remain available until expended.
+
+(2) Repealed. Pub. L. 113–67, div. A, title V, § 502(2), Dec. 26, 2013, 127 Stat. 1187
+
+(3) Authorization for administrative costs beginning in fiscal years 2007 through 2014 For each of the fiscal years 2007 through 2014, there are authorized to be appropriated such sums as may be necessary for administrative costs under this part and part B, including the costs of the direct student loan programs under this part.
+
+(4) Continuing mandatory funds for account maintenance fees For each of the fiscal years 2007 through 2021,11 See Funds for Account Maintenance Fees note below. there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsection (b).
+
+(5) Account maintenance fees Account maintenance fees under paragraph (3) 22 See References in Text note below. shall be paid quarterly and deposited in the Agency Operating Fund established under section 1072b of this title.
+
+(6) Technical assistance to institutions of higher education (A) Provision of assistance The Secretary shall provide institutions of higher education participating, or seeking to participate, in the loan programs under this part with technical assistance in establishing and administering such programs.
+
+(B) Funds There are authorized to be appropriated, and there are appropriated, to carry out this paragraph (in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated), $50,000,000 for fiscal year 2010.
+
+(C) Definition In this paragraph, the term “assistance” means the provision of technical support, training, materials, technical assistance, and financial assistance.
+
+(7) Additional payments (A) Provision of assistance The Secretary shall provide payments to loan servicers for retaining jobs at locations in the United States where such servicers were operating under part B on January 1, 2010.
+
+(B) Funds There are authorized to be appropriated, and there are appropriated, to carry out this paragraph (in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated), $25,000,000 for each of the fiscal years 2010 and 2011.
+
+(8) Carryover The Secretary may carry over funds made available under this section to a subsequent fiscal year.
+
+(b) Calculation basis Account maintenance fees payable to guaranty agencies under subsection (a)(4) shall be calculated on the basis of 0.06 percent of the original principal amount of outstanding loans on which insurance was issued under part B.
+
+(c) Budget justification No funds may be expended under this section unless the Secretary includes in the Department of Education’s annual budget justification to Congress a detailed description of the specific activities for which the funds made available by this section have been used in the prior and current years (if applicable), the activities and costs planned for the budget year, and the projection of activities and costs for each remaining year for which administrative expenses under this section are made available.
+
+(Pub. L. 89–329, title IV, § 458, as added Pub. L. 102–325, title IV, § 451, July 23, 1992, 106 Stat. 573; amended Pub. L. 103–66, title IV, § 4021, Aug. 10, 1993, 107 Stat. 353; Pub. L. 104–19, title I, § 601, July 27, 1995, 109 Stat. 219; Pub. L. 105–33, title VI, § 6103, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, § 609(l), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, § 454, Oct. 7, 1998, 112 Stat. 1717; Pub. L. 109–171, title VIII, § 8015, Feb. 8, 2006, 120 Stat. 172; Pub. L. 109–292, § 5, Sept. 30, 2006, 120 Stat. 1341; Pub. L. 110–84, title III, § 306, Sept. 27, 2007, 121 Stat. 800; Pub. L. 110–315, title IV, § 452, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 111–152, title II, § 2212(b), Mar. 30, 2010, 124 Stat. 1080; Pub. L. 113–67, div. A, title V, § 502(2), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 114–113, div. H, title III, § 310, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, § 309, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, § 309, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, § 307, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, § 306, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, § 306, Dec. 27, 2020, 134 Stat. 1608; Pub. L. 119–21, title VIII, § 82005, July 4, 2025, 139 Stat. 349.)
+
+## Notes
+
+Editorial Notes
+
+References in TextParagraph (3), referred to in subsec. (a)(5), was redesignated par. (4) by Pub. L. 111–152, § 2212(b)(1)(B).
+
+Amendments2025—Subsec. (a)(1). Pub. L. 119–21 amended par. (1) generally. Prior to amendment, text read as follows: “For fiscal year 2006, there shall be available to the Secretary, from funds not otherwise appropriated, funds to be obligated for— “(A) administrative costs under this part and part B, including the costs of the direct student loan programs under this part; and “(B) account maintenance fees payable to guaranty agencies under part B and calculated in accordance with subsections (b) and (c), not to exceed (from such funds not otherwise appropriated) $820,000,000 in fiscal year 2006.” 2020—Subsec. (a)(4). Pub. L. 116–260 substituted “2021” for “2020”. 2019—Subsec. (a)(4). Pub. L. 116–94 substituted “2020” for “2019”. 2018—Subsec. (a)(4). Pub. L. 115–245 substituted “2019” for “2018”. Pub. L. 115–141 substituted “2018” for “2017”. 2017—Subsec. (a)(4). Pub. L. 115–31 substituted “2017” for “2016”. 2015—Subsec. (a)(4). Pub. L. 114–113 substituted “2016” for “2014”. 2013—Subsec. (a)(2). Pub. L. 113–67 struck out par. (2). Text read as follows: “For fiscal years 2010 through 2019, there shall be available to the Secretary, in addition to any other amounts appropriated to carry out this paragraph and out of any money in the Treasury not otherwise appropriated, funds to be obligated for administrative costs of servicing contracts with eligible not-for-profit servicers as described in section 1087f of this title.” 2010—Subsec. (a)(2) to (8). Pub. L. 111–152, § 2212(b)(1), added pars. (2), (6), and (7) and redesignated former pars. (2), (3), (4), and (5) as (3), (4), (5), and (8), respectively. Subsec. (b). Pub. L. 111–152, § 2212(b)(2), substituted “subsection (a)(4)” for “subsection (a)(3)”. 2008—Subsec. (a)(2). Pub. L. 110–315, § 452(1), substituted “2014” for “2011” in heading and text. Subsec. (a)(3). Pub. L. 110–315, § 452(2), substituted “2014” for “2011”. 2007—Subsec. (b). Pub. L. 110–84 substituted “0.06 percent” for “0.10 percent”. 2006—Pub. L. 109–171 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to administrative expenses, calculation basis for account maintenance fees payable to guaranty agencies, special rules relating to caps on account maintenance fees and insufficient funding, and budget justification for funds expended, respectively. Subsec. (b). Pub. L. 109–292 substituted “shall be calculated on” for “shall not exceed”. 1998—Subsec. (a). Pub. L. 105–244, § 454(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) related to availability of funds for administrative costs and cost allowances. Subsec. (b). Pub. L. 105–244, § 454(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds made available under subsection (a) of this section shall remain available until expended.” Subsec. (c). Pub. L. 105–244, § 454(5), added subsec. (c). Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 105–244, § 454(4), redesignated subsec. (c) as (d). Pub. L. 105–244, § 454(3), struck out heading and text of subsec. (d). Text read as follows: “In the event the Secretary finds it necessary to use the authority provided to the Secretary under subsection (a) of this section to draw funds for administrative expenses from a future year’s funds, no funds may be expended under this section unless the Secretary immediately notifies the Committees on Appropriations of the Senate and of the House of Representatives, and the Labor and Human Resources Committee of the Senate and the Education and Labor Committee of the House of Representatives, of such action and explain the reasons for such action.” 1997—Subsec. (a). Pub. L. 105–33 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each fiscal year, there shall be available to the Secretary of Education from funds available pursuant to section 1072(g) of this title and from funds not otherwise appropriated, funds to be obligated for administrative costs under this part, including the costs of the transition from the loan programs under part B of this subchapter to the direct student loan programs under this part (including the costs of annually assessing the program under this part and the progress of the transition) and transition support (including administrative costs) for the expenses of guaranty agencies in servicing outstanding loans in their portfolios and in guaranteeing new loans, not to exceed (from such funds not otherwise appropriated) $260,000,000 in fiscal year 1994, $284,000,000 in fiscal year 1995, $550,000,000 in fiscal year 1996, $595,000,000 in fiscal year 1997, and $750,000,000 in fiscal year 1998. If in any fiscal year the Secretary determines that additional funds for administrative expenses are needed as a result of such transition or the expansion of the direct student loan programs under this part, the Secretary is authorized to use funds available under this section for a subsequent fiscal year for such expenses, except that the total expenditures by the Secretary (from such funds not otherwise appropriated) shall not exceed $2,439,000,000 in fiscal years 1994 through 1998. The Secretary is also authorized to carry over funds available under this section to a subsequent fiscal year.” Subsec. (a)(1). Pub. L. 105–78 substituted “$507,000,000” for “$532,000,000” in closing provisions. 1995—Subsec. (a). Pub. L. 104–19 substituted “$284,000,000 in fiscal year 1995” for “$345,000,000 in fiscal year 1995” and “$2,439,000,000 in fiscal years 1994 through 1998” for “$2,500,000,000 in fiscal years 1994 through 1998”. 1993—Pub. L. 103–66 amended section generally, substituting provisions relating to funds for administrative expenses for former provisions relating to reports.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2007 AmendmentAmendment by Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
+
+Effective Date of 2006 AmendmentAmendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+
+Effective Date of 1998 AmendmentAmendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+Effective DateSection effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title.
+
+ConstructionPub. L. 105–78, title VI, § 609(m), Nov. 13, 1997, 111 Stat. 1524, provided that: “Nothing in this Act [see Tables for classification] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 (20 U.S.C. 1072(g)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act (20 U.S.C. 1087h).”
+
+Funds for Account Maintenance FeesPub. L. 119–75, div. B, title III, § 306, Feb. 3, 2026, 140 Stat. 305, provided that: “Section 458(a)(4) of the HEA [Higher Education Act of 1965] (20 U.S.C. 1087h(a)[4]) shall be applied by substituting ‘2027’ for ‘2021’.” Similar provisions were contained in the following prior appropriation acts: Pub. L. 118–47, div. D, title III, § 306, Mar. 23, 2024, 138 Stat. 692, as amended by Pub. L. 119–4, div. A, title IX, § 1909, Mar. 15, 2025, 139 Stat. 33. Pub. L. 117–328, div. H, title III, § 306, Dec. 29, 2022, 136 Stat. 4897. Pub. L. 117–103, div. H, title III, § 306, Mar. 15, 2022, 136 Stat. 484.
+
+Use of Funds for Administrative Expenses of William D. Ford Direct Loan Program ProhibitedPub. L. 104–208, div. A, title I, § 101(e) [title III, § 304], Sept. 30, 1996, 110 Stat. 3009–233, 3009–261, provided in part that: “Notwithstanding section 458 of the Higher Education Act [of 1965] [20 U.S.C. 1087h], the Secretary may not use funds available under that section or any other section for subsequent fiscal years for administrative expenses of the William D. Ford Direct Loan Program.” Similar provisions were contained in the following prior appropriation act: Pub. L. 104–134, title I, § 101(d) [title III, § 305], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.

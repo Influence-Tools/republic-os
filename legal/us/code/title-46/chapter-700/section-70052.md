@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 70052"
+description: "Seizure and forfeiture of vessel; fine and imprisonment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "700"
+chapter_name: "PORTS AND WATERWAYS SAFETY"
+section: "70052"
+citation: "46 U.S.C. § 70052"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s70052"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "93de110b04bd4866b3e4fc3c2dbbf8f8862df1e0b55ed263efe852effec649bf"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "e625e6bf07388a197dd450bb18e30eaf88e7044f0dfb13056f03beb8d0d0e4e8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 70052 - Seizure and forfeiture of vessel; fine and imprisonment
+
+## Text
+
+(a) In General.— If any owner, agent, master, officer, or person in charge, or any member of the crew of any such vessel fails to comply with any regulation or rule issued or order given under the provisions of this subchapter, or obstructs or interferes with the exercise of any power conferred by this subchapter, the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws; and the person guilty of such failure, obstruction, or interference shall be punished by imprisonment for not more than ten years and may, in the discretion of the court, be fined not more than $10,000.
+
+(b) Application to Others.— If any other person knowingly fails to comply with any regulation or rule issued or order given under the provisions of this subchapter, or knowingly obstructs or interferes with the exercise of any power conferred by this subchapter, he shall be punished by imprisonment for not more than ten years and may, at the discretion of the court, be fined not more than $10,000.
+
+(c) Civil Penalty.— A person violating this subchapter, or a regulation prescribed under this subchapter, shall be liable to the United States Government for a civil penalty of not more than $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation.
+
+(d) In Rem Liability.— Any vessel that is used in violation of this subchapter, or of any regulation issued under this subchapter, shall be liable in rem for any civil penalty assessed pursuant to subsection (c) and may be proceeded against in the United States district court for any district in which such vessel may be found.
+
+(e) Withholding of Clearance.— (1) In general.— If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary of the department in which the Coast Guard is operating may, with respect to such vessel, refuse or revoke any clearance required by section 60105.
+
+(2) Clearance upon filing of bond or other surety.— The Secretary of the department in which the Coast Guard is operating may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
+
+(Added Pub. L. 115–282, title IV, § 407(c)(3), Dec. 4, 2018, 132 Stat. 4267; amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(a)(11), Jan. 1, 2021, 134 Stat. 4754; Pub. L. 119–60, div. G, title LXXVII, § 7701(f)(7), Dec. 18, 2025, 139 Stat. 1836.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section, as added by Pub. L. 115–282, is based on acts June 15, 1917, ch. 30, title II, § 2, 40 Stat. 220; Mar. 28, 1940, ch. 72, § 3(a), 54 Stat. 79; Nov. 15, 1941, ch. 471, § 3, 55 Stat. 763; Aug. 9, 1950, ch. 656, § 3, 64 Stat. 428; Pub. L. 107–295, title I, § 104(b), Nov. 25, 2002, 116 Stat. 2085; Pub. L. 108–293, title VIII, § 802(b), Aug. 9, 2004, 118 Stat. 1079; Pub. L. 115–282, title IV, § 407(c)(1), (2), Dec. 4, 2018, 132 Stat. 4267, which was formerly classified to section 192 of Title 50, War and National Defense, before being transferred to this chapter and renumbered as this section.
+
+Amendments2025—Subsec. (e)(1). Pub. L. 119–60 substituted “section 60105” for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)”. 2021—Subsec. (e). Pub. L. 116–283 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary” in pars. (1) and (2).

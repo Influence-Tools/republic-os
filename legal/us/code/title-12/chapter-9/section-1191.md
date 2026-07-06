@@ -1,0 +1,33 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 1191"
+description: "Repealed. Pub. L. 86–230, § 24, Sept. 8, 1959, 73 Stat. 466"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "9"
+chapter_name: "NATIONAL AGRICULTURAL CREDIT CORPORATIONS"
+section: "1191"
+citation: "12 U.S.C. § 1191"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s1191"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "47b0d8449839abd7db9db4564572dd6ce6383e8d4284422680535ba0c0a8c308"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "1e7fa1ce2644cc4750e7f665c8a4625f905ebdbafd84f6949bac1c839772c361"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 1191 - Repealed. Pub. L. 86–230, § 24, Sept. 8, 1959, 73 Stat. 466
+
+## Notes
+
+Section, act Mar. 4, 1923, ch. 252, title II, § 204, 42 Stat. 1464, related to restrictions on amount of indebtedness and on advances, etc., to single persons and on dealings in livestock.

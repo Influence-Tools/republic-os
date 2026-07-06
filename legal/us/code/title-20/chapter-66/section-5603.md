@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 5603"
+description: "Establishment of Morris K. Udall and Stewart L. Udall Foundation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "66"
+chapter_name: "MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION"
+section: "5603"
+citation: "20 U.S.C. § 5603"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s5603"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "3d44137bccf33b66b6bb779517f5d1f1ac3b6f0530793e8fe6cf312239183366"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "7d3a13e2544a415cec609beb07e46d5cdcbc563b5dd98aa6a9d30cf6738f1be2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 5603 - Establishment of Morris K. Udall and Stewart L. Udall Foundation
+
+## Text
+
+(a) Establishment There is established as an independent entity of the executive branch of the United States Government, the Morris K. Udall and Stewart L. Udall Foundation.
+
+(b) Board of Trustees The Foundation shall be subject to the supervision and direction of the Board of Trustees. The Board shall be comprised of thirteen trustees, eleven of whom shall be voting members of the Board, as follows:
+
+(1) Two Trustees, shall be appointed by the President, with the advice and consent of the Senate, after considering the recommendation of the Speaker of the House of Representatives, in consultation with the Minority Leader of the House of Representatives.
+
+(2) Two Trustees, shall be appointed by the President, with the advice and consent of the Senate, after considering the recommendation of the President pro tempore of the Senate, in consultation with the Majority and Minority Leaders of the Senate.
+
+(3) Five Trustees, not more than three of whom shall be of the same political party, shall be appointed by the President with the advice and consent of the Senate, who have shown leadership and interest in—
+
+(A) the continued use, enjoyment, education, and exploration of our Nation’s rich and bountiful natural resources, such as presidents of major foundations involved with the environment; or
+
+(B) in the improvement of the health status of Native Americans and Alaska Natives and in strengthening tribal self-governance, such as tribal leaders involved in health and public policy development affecting Native American and Alaska Native communities.
+
+(4) The Secretary of the Interior, or the Secretary’s designee, who shall serve as a voting ex officio member of the Board but shall not be eligible to serve as Chairperson.
+
+(5) The Secretary of Education, or the Secretary’s designee, who shall serve as a voting ex officio member of the Board but shall not be eligible to serve as Chairperson.
+
+(6) The President of the University of Arizona shall serve as a nonvoting, ex officio member and shall not be eligible to serve as chairperson.11 So in original. Probably should be capitalized.
+
+(7) The chairperson of the President’s Council on Environmental Quality, who shall serve as a nonvoting, ex officio member and shall not be eligible to serve as chairperson.1
+
+(c) Term of office (1) 22 So in original. No par. (2) has been enacted. In general.— The term of office of each member of the Board shall be six years, except that—
+
+(A) in the case of the Trustees first taking offices—
+
+(i) as designated by the President, one Trustee appointed pursuant to subsection (b)(2) and two trustees appointed pursuant to subsection (b)(3) shall each serve two years; and
+
+(ii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) and two Trustees appointed pursuant to subsection (b)(3) shall each serve four years; and
+
+(iii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1), one Trustee appointed pursuant to subsection (b)(2), and one Trustee appointed pursuant to subsection (b)(3) shall each serve six years;
+
+(B) a Trustee appointed to fill a vacancy shall serve for the remainder of the term for which the Trustee’s predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
+
+(C) a Trustee may serve after the expiration of the Trustee’s term until a successor has been chosen.
+
+(d) Travel and subsistence pay Trustees shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Board.
+
+(e) Location of Foundation The Foundation shall be located in Tucson, Arizona and the District of Columbia.
+
+(f) Executive Director (1) In general There shall be an Executive Director of the Foundation who shall be appointed by the Board. The Executive Director shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent with the provisions of this chapter as the Board shall prescribe.
+
+(2) Compensation The Executive Director of the Foundation shall be compensated at a rate determined by the Board in accordance with section 5383 of title 5.
+
+(Pub. L. 102–259, § 5, Mar. 19, 1992, 106 Stat. 79; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 655], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 105–156, § 3, Feb. 11, 1998, 112 Stat. 8; Pub. L. 111–90, § 5, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, § 303, Dec. 20, 2019, 133 Stat. 3187.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2019—Subsec. (e). Pub. L. 116–94 substituted “Arizona and the District of Columbia.” for “Arizona.” 2009—Pub. L. 111–90, § 5(1), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline. Subsec. (a). Pub. L. 111–90, § 5(2), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”. Subsec. (f)(2). Pub. L. 111–90, § 5(3), substituted “a rate determined by the Board in accordance with section 5383 of title 5” for “the rate specified for employees in level IV of the Executive Schedule under section 5315 of title 5”. 1998—Subsec. (b). Pub. L. 105–156, § 3(1), substituted “thirteen” for “twelve” in introductory provisions. Subsec. (b)(7). Pub. L. 105–156, § 3(2), added par. (7). 1996—Subsec. (c)(1)(C). Pub. L. 104–208 added subpar. (C).

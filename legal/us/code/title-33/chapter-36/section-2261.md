@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2261"
+description: "Territories development study"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2261"
+citation: "33 U.S.C. § 2261"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2261"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "3fc6aacecf6c2ca8828d8ea8e54811bad1fe2e2d9b31b1485591d8e1445e5903"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "877843094c15d0ef4c25fb37ab6e74f8fd933595ed6a34f0061a62584c772cc0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2261 - Territories development study
+
+## Text
+
+The Secretary is hereby authorized and directed to make studies in cooperation with the Secretary of the Interior and the governments of the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands for the purposes of providing plans for the development, utilization, and conservation of water and related land resources of such jurisdiction, at a total cost of $2,000,000 for each of the five studies. Such studies shall include appropriate consideration of the needs for flood protection, wise use of flood plain lands, navigation facilities, hydroelectric power generation, regional water supply and waste water management facilities systems, general recreation facilities, enhancement and control of water quality, enhancement and conservation of fish and wildlife, and other measures for environmental enhancement, economic and human resources development. Such studies shall be compatible with comprehensive development plans formulated by local planning agencies and other interested Federal agencies. Any funds made available under this section for a study for any such jurisdiction which is not needed for such study shall be available to the Secretary to construct authorized water resources projects in such jurisdiction and to implement the findings of such study with appropriate cost sharing as provided in this Act.
+
+(Pub. L. 99–662, title VII, § 702, Nov. 17, 1986, 100 Stat. 4156.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+
+Executive Documents
+
+Termination of Trust Territory of the Pacific Islands For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

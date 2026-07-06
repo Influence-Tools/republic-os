@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "37 U.S.C. § 302c–1"
+description: "Special pay: accession and retention bonuses for psychologists"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 37
+title_name: "PAY AND ALLOWANCES OF THE UNIFORMED SERVICES"
+chapter_number: "5"
+chapter_name: "SPECIAL AND INCENTIVE PAYS"
+section: "302c–1"
+citation: "37 U.S.C. § 302c–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc37@119-100.zip"
+source_identifier: "/us/usc/t37/s302c–1"
+source_file: "data/legal/raw/us/code/title-37/usc37.xml"
+source_hash: "0a6a23082499ac2e6273eb2a8b0524c5312bdbaa40ae5c5f5befa8720d0926ef"
+raw_snapshot_hash: "e0a35eb7ef12b7ff3b62c2d230c815f864ad090f207afa5aca869467bb414b1c"
+text_hash: "276672188bd5cc018fdd30ec121181f661165b425443245aada99fd85ac198d8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 37 U.S.C. § 302c–1 - Special pay: accession and retention bonuses for psychologists
+
+## Text
+
+(a) Accession Bonus.— (1) Accession bonus authorized.— A person described in paragraph (2) who executes a written agreement described in subsection (d) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four consecutive years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount, subject to subsection (c)(1), determined by the Secretary concerned.
+
+(2) Eligible persons.— A person described in paragraph (1) is any person who—
+
+(A) is a graduate of an accredited school of psychology; and
+
+(B) holds a valid State license to practice as a doctoral level psychologist.
+
+(3) Limitation on eligibility.— A person may not be paid a bonus under this subsection if—
+
+(A) the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a course of study in psychology; or
+
+(B) the Secretary concerned determines that the person is not qualified to become and remain certified as a psychologist.
+
+(b) Multiyear Retention Bonus.— (1) Retention bonus authorized.— An officer described in paragraph (2) who executes a written agreement described in subsection (d) to remain on active duty for up to four years after completion of any other active-duty service commitment may, upon acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+
+(2) Eligible officers.— An officer described in paragraph (1) is an officer of the armed forces who—
+
+(A) is a psychologist of the armed forces;
+
+(B) is in a pay grade below pay grade O–7;
+
+(C) has at least eight years of creditable service (computed as described in section 302b(f) of this title) or has completed any active-duty service commitment incurred for psychology education and training;
+
+(D) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into the agreement under this subsection); and
+
+(E) holds a valid State license to practice as a doctoral level psychologist.
+
+(c) Maximum Amount of Bonus.— (1) Accession bonus.— The amount of an accession bonus under subsection (a) may not exceed $400,000.
+
+(2) Retention bonus.— The amount of a retention bonus under subsection (b) may not exceed $25,000 for each year of the agreement of the officer concerned.
+
+(d) Agreement.— The agreement referred to in subsections (a) and (b) shall provide that, consistent with the needs of the armed force concerned, the person or officer executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of such armed force as a psychologist.
+
+(e) Repayment.— (1) Accession bonus.— A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become licensed as a psychologist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
+
+(2) Retention bonus.— An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b) shall be subject to the repayment provisions of section 303a(e) of this title.
+
+(f) Termination of Authority.— No agreement under subsection (a) or (b) may be entered into after December 31, 2018.
+
+(Added Pub. L. 110–417, [div. A], title VI, § 620(b)(1), Oct. 14, 2008, 122 Stat. 4490; amended Pub. L. 111–84, div. A, title VI, § 612(b)(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, § 612(b)(1), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, § 612(b)(1), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 612(b)(1), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 612(b)(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 612(b)(1), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, § 612(b)(1), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, § 612(b)(1), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, § 612(b)(1), Dec. 12, 2017, 131 Stat. 1421.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Subsec. (f). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”. 2016—Subsec. (f). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”. 2015—Subsec. (f). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”. 2014—Subsec. (f). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”. 2013—Subsec. (f). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”. Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”. 2011—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”. Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”. 2009—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.

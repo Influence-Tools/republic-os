@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 1254"
+description: "Courts of appeals; certiorari; certified questions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "81"
+chapter_name: "SUPREME COURT"
+section: "1254"
+citation: "28 U.S.C. § 1254"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s1254"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "92860fbe85b6029bae6087e4b21ed6089cbbdb5447bcff7c65151db76b839270"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "1005d3574d4356f2f5344a967a0cbba0e642020d5393e57ba31feb02f1ddf9d7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 1254 - Courts of appeals; certiorari; certified questions
+
+## Text
+
+Cases in the courts of appeals may be reviewed by the Supreme Court by the following methods:
+
+(1) By writ of certiorari granted upon the petition of any party to any civil or criminal case, before or after rendition of judgment or decree;
+
+(2) By certification at any time by a court of appeals of any question of law in any civil or criminal case as to which instructions are desired, and upon such certification the Supreme Court may give binding instructions or require the entire record to be sent up for decision of the entire matter in controversy.
+
+(June 25, 1948, ch. 646, 62 Stat. 928; Pub. L. 100–352, § 2(a), (b), June 27, 1988, 102 Stat. 662.)
+
+## Notes
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., §§ 346 and 347 (Mar. 3, 1911, ch. 231, §§ 239, 240, 36 Stat. 1157; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 938; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 926). Section consolidates sections 346 and 347 of title 28, U.S.C., 1940 ed. Words “or in the United States Court of Appeals for the District of Columbia” and “or of the United States Court of Appeals for the District of Columbia” in sections 346 and 347 of title 28, U.S.C., 1940 ed., were omitted. (See section 41 of this title.) The prefatory words of this section preceding paragraph (1) were substituted for subsection (c) of said section 347. The revised section omits the words of section 347 of title 28, U.S.C., 1940 ed., “and with like effect as if the case had been brought there with unrestricted appeal”, and the words of section 346 of such title “in the same manner as if it had been brought there by appeal”. The effect of subsections (1) and (3) of the revised section is to preserve existing law and retain the power of unrestricted review of cases certified or brought up on certiorari. Only in subsection (2) is review restricted. Changes were made in phraseology and arrangement.
+
+Editorial Notes
+
+Amendments1988—Pub. L. 100–352, § 2(b), struck out “appeal;” after “certiorari;” in section catchline. Pars. (2), (3). Pub. L. 100–352, § 2(a), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “By appeal by a party relying on a State statute held by a court of appeals to be invalid as repugnant to the Constitution, treaties or laws of the United States, but such appeal shall preclude review by writ of certiorari at the instance of such appellant, and the review on appeal shall be restricted to the Federal questions presented;”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1988 AmendmentPub. L. 100–352, § 7, June 27, 1988, 102 Stat. 664, provided that: “The amendments made by this Act [amending sections 1254, 1257, 1258, 2101, 2104, and 2350 of this title, section 136w of Title 7, Agriculture, section 1631e of Title 22, Foreign Relations and Intercourse, section 652 of Title 25, Indians, section 988 of Title 33, Navigation and Navigable Waters, section 1652 of Title 43, Public Lands, sections 719, 743, and 1105 of Title 45, Railroads, and section 30110 of Title 52, Voting and Elections, and repealing sections 1252 and 2103 of this title] shall take effect ninety days after the date of the enactment of this Act [June 27, 1988], except that such amendments shall not apply to cases pending in the Supreme Court on the effective date of such amendments or affect the right to review or the manner of reviewing the judgment or decree of a court which was entered before such effective date.”

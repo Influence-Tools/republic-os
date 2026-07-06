@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 410oo–1"
+description: "Establishment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "410oo–1"
+citation: "16 U.S.C. § 410oo–1"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s410oo–1"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "6377bc5e27eece135668403b9047ebd04efc7ef7cfd82f48b2581650dcccd085"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "5018d7e0a6a0805832a1ad5787e8daec3b29edb9933f767c69b4464423b450f0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 410oo–1 - Establishment
+
+## Text
+
+(a) In general In order to provide for the benefit, inspiration, and education of the American people, there is hereby established the Natchez National Historical Park (hereinafter in this subchapter referred to as the “park”) in the State of Mississippi.
+
+(b) Area included The park shall consist of the historic districts established under this subchapter and the following properties:
+
+(1) The lands and structures known as Melrose, together with all personal property located on such lands.
+
+(2) The lands and improvements thereon known as, or associated with, Fort Rosalie.
+
+(3) The lands and structures known as the William Johnson House, together with all personal property located on such lands, and the building adjacent thereto which bears a common wall.
+
+The property referred to in paragraph (2) shall be included within the park only if the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) determines that the historic resources of Fort Rosalie are of sufficient national significance and integrity to warrant inclusion in the National Park System. The Secretary shall make such determination after receiving from the Governor of the State of Mississippi and the mayor of the city of Natchez, in consultation with the State Historic Preservation Officer, a recommendation based on scholarly research as to the national significance and integrity of such historic resources.
+
+(c) Boundaries; map The Secretary shall prepare a map of the lands included within the park. Such map shall be on file and available for public inspection in the offices of the National Park Service at the park and at the Department of the Interior in the District of Columbia. The Secretary may from time to time make minor revisions in the boundary of the park in accordance with section 100506(c) of title 54.
+
+(Pub. L. 100–479, § 2, Oct. 7, 1988, 102 Stat. 2324; Pub. L. 101–399, § 1(a), Sept. 28, 1990, 104 Stat. 860.)
+
+## Notes
+
+Editorial Notes
+
+Codification In subsec. (c), “section 100506(c) of title 54” substituted for “section 7(c) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–4 [sic] and following)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+Amendments1990—Subsec. (b)(3). Pub. L. 101–399 added par. (3).

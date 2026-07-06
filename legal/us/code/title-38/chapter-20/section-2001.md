@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 2001"
+description: "Purpose"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "20"
+chapter_name: "BENEFITS FOR HOMELESS VETERANS"
+section: "2001"
+citation: "38 U.S.C. § 2001"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s2001"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "27440a3983c17d6981503f6104a8f3f394ab90dabff04396e225d0f034c978a5"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "114e67da08674b4b59081683897c99011a62bee2e78071c057de6fbea397060b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 2001 - Purpose
+
+## Text
+
+The purpose of this chapter is to provide for the special needs of homeless veterans.
+
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 905.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 2001 was renumbered section 4101 of this title. Another prior section 2001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, related to compensation for veterans under agreements with States, prior to repeal by section 1(a) of Pub. L. 87–675.
+
+Statutory Notes and Related Subsidiaries
+
+Authorization for Secretary of Veterans Affairs To Use Certain Funds for Improved Flexibility in Assistance to Homeless VeteransPub. L. 118–210, title IV, § 403, Jan. 2, 2025, 138 Stat. 2796, provided that: “(a) Use of Funds.—During the period beginning on the date of the enactment of this Act [Jan. 2, 2025] and ending on the termination date specified in subsection (d), the Secretary of Veterans Affairs may provide to a covered veteran, as the Secretary determines necessary—“(1) food, shelter, clothing, blankets, and hygiene items required for the safety and survival of the veteran; “(2) transportation required to support the stability and health of the veteran for appointments with service providers, the conduct of housing and employment searches, and the obtainment of food and supplies; and “(3) tablets, smartphones, disposable phones and other technology, and related service plans required to support the stability and health of the veteran through the maintenance of contact with service providers, prospective landlords, and family members. “(b) Homeless Veterans on Department of Veterans Affairs Land.—“(1) In general.—The Secretary may collaborate, to the extent practicable, with one or more organizations to manage the use of land of the Department of Veterans Affairs for homeless veterans for living and sleeping. “(2) Forms of collaboration.—Collaboration under paragraph (1) may include the provision by either the Secretary or the head of the organization concerned of food services and security for property, buildings, and other facilities owned or controlled by the Department of Veterans Affairs. “(c) Report Required.—Not later than six months after the date of the enactment of this Act, and annually thereafter until the date specified in subsection (d), the Secretary shall submit to Congress a report that includes, with respect to the period covered by such report—“(1) a statement, disaggregated by each medical center of the Department of Veterans Affairs, of the amount of funds under this section—“(A) each such medical center requested from the Secretary; and “(B) to which the Secretary provided each such medical center; “(2) data, disaggregated by each such medical center, relating to how each such medical center used amounts provided by the Secretary under this section; “(3) the number of covered veterans to which the Secretary provided assistance under this section; “(4) the total amount of assistance the Secretary provided to covered veterans pursuant to subsection (a)(3) for communications equipment, broken down by the type of equipment provided; “(5) the total amount of assistance the Secretary provided covered veterans pursuant to subsection (a)(2) for ridesharing; “(6) the number of covered veterans who received such assistance; and “(7) a description, for each rideshare used by a covered veteran with such assistance, of the reasons such covered veteran used such rideshare. “(8) the number of covered veterans who lived or slept on Department land; “(9) the amount of funds used to make available Department land for covered veterans to live and sleep; “(10) the number of Department employees whose primary responsibilities involved providing services for covered veterans living or sleeping on Department land; “(11) the average length of time a covered veteran lived or slept on Department land, and “(12) the period of time the Secretary expects Department land will be made available for covered veterans to live and sleep. “(d) Termination Date.—The termination date specified in this subsection is September 30, 2027. “(e) Definitions.—In this section, the term ‘covered veteran’ means—“(1) a homeless veteran, as such term is defined in section 2002 of title 38, United States Code; and “(2) a veteran participating in the program carried out under section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)).”
+
+Annual ReportsPub. L. 116–283, div. H, title XCI, § 9103(c), Jan. 1, 2021, 134 Stat. 4781, provided that: “(1) In general.—Not less frequently than once each year, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the homelessness services provided under programs of the Department of Veterans Affairs, including services under HUD–VASH program under section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)). “(2) Included information.—Each such annual report shall include, with respect to the year preceding the submittal of the report, a statement of the number of eligible individuals who were furnished such homelessness services and the number of individuals furnished such services under each such program, disaggregated by the number of men who received such services and the number of women who received such services, and such other information as the Secretary considers appropriate.”
+
+National Goal To End Homelessness Among VeteransPub. L. 109–461, title VII, § 701, Dec. 22, 2006, 120 Stat. 3439, provided that: “(a) Reaffirmation.—Congress reaffirms the national goal to end chronic homelessness among veterans within a decade of the enactment of the Homeless Veterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903) [Dec. 21, 2001]. “(b) Reaffirmation of Encouragement of Cooperative Efforts.—Congress reaffirms its encouragement, as specified in the Homeless Veterans Comprehensive Assistance Act of 2001 (Public Law 107–95; 115 Stat. 903), that all departments and agencies of the Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals, work cooperatively to end chronic homelessness among veterans.” Pub. L. 107–95, § 3, Dec. 21, 2001, 115 Stat. 903, provided that: “(a) National Goal.—Congress hereby declares it to be a national goal to end chronic homelessness among veterans within a decade of the enactment of this Act [Dec. 21, 2001]. “(b) Cooperative Efforts Encouraged.—Congress hereby encourages all departments and agencies of Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals to work cooperatively to end chronic homelessness among veterans within a decade.”
+
+Sense of the Congress Regarding the Needs of Homeless Veterans and the Responsibility of Federal AgenciesPub. L. 107–95, § 4, Dec. 21, 2001, 115 Stat. 904, provided that: “It is the sense of the Congress that— “(1) homelessness is a significant problem in the veterans community and veterans are disproportionately represented among homeless men; “(2) while many effective programs assist homeless veterans to again become productive and self-sufficient members of society, current resources provided to such programs and other activities that assist homeless veterans are inadequate to provide all needed essential services, assistance, and support to homeless veterans; “(3) the most effective programs for the assistance of homeless veterans should be identified and expanded; “(4) federally funded programs for homeless veterans should be held accountable for achieving clearly defined results; “(5) Federal efforts to assist homeless veterans should include prevention of homelessness; and “(6) Federal agencies, particularly the Department of Veterans Affairs, the Department of Housing and Urban Development, and the Department of Labor, should cooperate more fully to address the problem of homelessness among veterans.”
+
+Evaluation Centers for Homeless Veterans ProgramsPub. L. 107–95, § 6(a), Dec. 21, 2001, 115 Stat. 919, provided that: “The Secretary of Veterans Affairs shall support the continuation within the Department of Veterans Affairs of at least one center for evaluation to monitor the structure, process, and outcome of programs of the Department of Veterans Affairs that address homeless veterans.”
+
+Definitions in Pub. L. 107–95 Pub. L. 107–95, § 2, Dec. 21, 2001, 115 Stat. 903, provided that: “For purposes of this Act [see Short Title of 2001 Amendments note set out under section 101 of this title]: “(1) The term ‘homeless veteran’ has the meaning given such term in section 2002 of title 38, United States Code, as added by section 5(a)(1). “(2) The term ‘grant and per diem provider’ means an entity in receipt of a grant under section 2011 or 2012 of title 38, United States Code, as so added.”

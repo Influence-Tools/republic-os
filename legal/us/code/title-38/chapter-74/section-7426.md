@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 7426"
+description: "Retirement rights"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "74"
+chapter_name: "VETERANS HEALTH ADMINISTRATION—PERSONNEL"
+section: "7426"
+citation: "38 U.S.C. § 7426"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s7426"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "f6ffa5fbb1100416d1135b365981a3b56167d26716e9eedfd5c8eceb6da54fd1"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "c94268b66c9ae471a7eb18441d21fd3c2d2c49753161b89674896ffa2828cec0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 7426 - Retirement rights
+
+## Text
+
+(a) Except as provided in subsection (b), persons appointed to the Administration shall be subject to the provisions of and entitled to benefits under subchapter III of chapter 83 of title 5 or subchapter II of chapter 84 of title 5, whichever is applicable.
+
+(b) (1) In computing the annuity under subchapter III of chapter 83, or subchapter II of chapter 84, of title 5 of an individual who retires under such subchapter (other than under section 8337 or 8451 of such title) after December 31, 1981, and who served at any time on a less-than-full-time basis in a position in the Administration to which such individual was appointed under subchapter I—
+
+(A) for the purpose of determining such individual’s average pay, as defined by section 8331(4) or 8401(3) of title 5, whichever is applicable, the annual rate of basic pay for full-time service shall be deemed to be such individual’s rate of basic pay; and
+
+(B) the amount of such individual’s annuity as computed under section 8339 or 8415 of title 5 (before application of any reduction required by subsection (i) of section 8339) shall be multiplied by the fraction equal to the ratio that that individual’s total full-time equivalent service bears to that individual’s creditable service as determined under section 8332 or 8411 of title 5, whichever is applicable.
+
+(2) For the purposes of paragraph (1)(B), an individual’s full-time equivalent service is the individual’s creditable service as determined under section 8332 or 8411 of title 5, whichever is applicable, except that any period of service of such individual served on a less-than-full-time basis shall be prorated based on the fraction such service bears to full-time service. For the purposes of the preceding sentence, full-time service shall be considered to be 80 hours of service per biweekly pay period.
+
+(3) A survivor annuity computed under section 8341, or subchapter IV of chapter 84, of title 5 based on the service of an individual described in paragraph (1) shall be computed based upon such individual’s annuity as determined in accordance with such paragraph.
+
+(c) The provisions of subsection (b) shall not apply to the part-time service before April 7, 1986, of a registered nurse, physician assistant, or expanded-function dental auxiliary. In computing the annuity under the applicable provision of law specified in that subsection of an individual covered by the preceding sentence, the service described in that sentence shall be credited as full-time service.
+
+(Added Pub. L. 102–40, title IV, § 401(b)(3)(B), May 7, 1991, 105 Stat. 231; amended Pub. L. 102–585, title V, § 522, Nov. 4, 1992, 106 Stat. 4959; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(5)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–135, title I, § 132, Jan. 23, 2002, 115 Stat. 2454.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in sections 4107(i) and 4109 of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+
+Amendments2002—Subsec. (c). Pub. L. 107–135 added subsec. (c). 2000—Subsec. (c). Pub. L. 106–398 struck out subsec. (c) which read as follows: “The Secretary may authorize an exception to the restrictions in subsections (a), (b), and (c) of section 5532 of title 5 if necessary to meet special or emergency employment needs which result from a severe shortage of well-qualified candidates in physician positions, and registered nurse positions, which otherwise cannot be readily met. The authority of the Secretary under the preceding sentence with respect to registered-nurse positions expires on December 31, 1994.” 1992—Subsec. (c). Pub. L. 102–585 substituted “December 31, 1994” for “September 30, 1992”.

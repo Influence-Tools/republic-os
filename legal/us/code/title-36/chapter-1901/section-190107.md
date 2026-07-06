@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "36 U.S.C. § 190107"
+description: "Restrictions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 36
+title_name: "PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS"
+chapter_number: "1901"
+chapter_name: "RESERVE OFFICERS ASSOCIATION OF THE UNITED STATES"
+section: "190107"
+citation: "36 U.S.C. § 190107"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc36@119-100.zip"
+source_identifier: "/us/usc/t36/s190107"
+source_file: "data/legal/raw/us/code/title-36/usc36.xml"
+source_hash: "4d76bf5bfd957d3a03601d361bd02755eb610fdcc720beacbe39a48d92229ff6"
+raw_snapshot_hash: "d8bb3c94f12bbd56e49d7a2bc029b1f4ab0bb8b69327e9ddbdf94d7adcac580d"
+text_hash: "5182fdb3f5e91fb0a198e8712c5b96b02f9072d2292d310a2dda0b1f162b7bc8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 36 U.S.C. § 190107 - Restrictions
+
+## Text
+
+(a) Profit.— The corporation may not engage in business for profit.
+
+(b) Stock.— The corporation may not issue stock.
+
+(c) Political Activities.— The corporation or an officer or member as such may not contribute to, support, or assist a political party or candidate for public office.
+
+(d) Distribution of Income or Assets.— The income or assets of the corporation may not inure to the benefit of, or be distributed to, an officer or member except on dissolution or final liquidation of the corporation.
+
+(e) Loans.— The corporation may not make a loan or advance to an officer or member of the national executive committee. Members of the national executive committee who vote for or assent to making a loan or advance to an officer, and officers who participate in making the loan or advance, are jointly and severally liable to the corporation for the amount of the loan or advance until it is repaid.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1448.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 190107(a), (b)36:229.June 30, 1950, ch. 431, §§ 9, 10, 11 (words before 2d comma), 14, 64 Stat. 314. 190107(c)36:230.  190107(d)36:231 (words before 2d comma).  190107(e)36:234.  In subsection (a), the words “pecuniary” and “or gain” are omitted as unnecessary. In subsection (b), the word “capital” is omitted as unnecessary. In subsection (d), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. In subsection (e), the words “or advance” are added in 2 places for consistency in the subsection.

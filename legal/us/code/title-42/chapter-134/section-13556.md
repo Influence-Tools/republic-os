@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 13556"
+description: "Disadvantaged business enterprises"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "134"
+chapter_name: "ENERGY POLICY"
+section: "13556"
+citation: "42 U.S.C. § 13556"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s13556"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "ece89fcb6bd58e3184f850c3e4b2ee71e27266ddaa50f26a019266379b34249d"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "8e3357f8aae7493c37c893f9fc3005f8ef3d876f6c0450da6c43cc6161a476c2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 13556 - Disadvantaged business enterprises
+
+## Text
+
+(a) General rule To the extent practicable, the head of each agency shall provide that the obligation of not less than 10 percent of the total combined amounts obligated for contracts and subcontracts by each agency under this Act and amendments made by this Act pursuant to competitive procedures within the meaning of either division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or chapter 137 legacy provisions (as such term is defined in section 3016 of title 10), shall be expended either with—
+
+(1) small business concerns controlled by socially and economically disadvantaged individuals or women;
+
+(2) historically Black colleges and universities;
+
+(3) colleges and universities having a student body in which more than 20 percent of the students are Hispanic Americans or Native Americans; or
+
+(4) qualified HUBZone small business concerns.
+
+(b) Definitions For purposes of this section, the following definitions shall apply:
+
+(1) The term “small business concern” has the meaning such term has under section 632 of title 15. However, for purposes of contracts and subcontracts requiring engineering services the applicable size standard shall be that established for military and aerospace equipment and military weapons.
+
+(2) The term “socially and economically disadvantaged individuals” has the meaning such term has under section 637(d) of title 15 and relevant subcontracting regulations promulgated pursuant thereto.
+
+(3) The term “qualified HUBZone small business concern” has the meaning given that term in section 632(p) 11 See References in Text note below. of title 15.
+
+(Pub. L. 102–486, title XXX, § 3021, Oct. 24, 1992, 106 Stat. 3133; Pub. L. 105–135, title VI, § 604(g), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 117–81, div. A, title XVII, § 1702(j)(6), Dec. 27, 2021, 135 Stat. 2159.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables. Section 632(p) of title 15, referred to in subsec. (b)(3), was redesignated section 657a(b) of Title 15, Commerce and Trade, by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
+
+Codification In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+Amendments2021—Subsec. (a). Pub. L. 117–81 substituted “chapter 137 legacy provisions (as such term is defined in section 3016 of title 10)” for “chapter 137 of title 10”. 1997—Subsec. (a)(4). Pub. L. 105–135, § 604(g)(1), added par. (4). Subsec. (b)(3). Pub. L. 105–135, § 604(g)(2), added par. (3).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1997 AmendmentAmendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of Title 15, Commerce and Trade.

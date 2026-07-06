@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3813"
+description: "Notice of requirements of this chapter; voluntary enlistments unaffected"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "49"
+chapter_name: "MILITARY SELECTIVE SERVICE"
+section: "3813"
+citation: "50 U.S.C. § 3813"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3813"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "4a163dc4babd64c5029a73913c4c874321d105d8f89cda7a6a211bb9d949597a"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "5cfca1c610a62e0e9020ce8e7c92dee76fc4a8ab704a3db2dbf49ec7df64c1be"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3813 - Notice of requirements of this chapter; voluntary enlistments unaffected
+
+## Text
+
+(a) Deeming of notice upon publication Every person shall be deemed to have notice of the requirements of this chapter upon publication by the President of a proclamation or other public notice fixing a time for any registration under section 3802 of this title.
+
+(b) Duty to inform local board of current address and changes in status It shall be the duty of every registrant to keep his local board informed as to his current address and changes in status as required by such rules and regulations as may be prescribed by the President.
+
+(c) Separability of provisions If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+
+(d) Voluntary enlistments or reenlistments; absence of affect Except as provided in section 3803(c) of this title, nothing contained in this chapter shall be construed to repeal, amend, or suspend the laws now in force authorizing voluntary enlistment or reenlistment in the Armed Forces of the United States, including the reserve components thereof, except that no person shall be accepted for enlistment after he has been issued an order to report for induction unless authorized by the Director and the Secretary of Defense and except that, whenever the Congress or the President has declared that the national interest is imperiled, voluntary enlistment or reenlistment in such forces, and their reserve components, may be suspended by the President to such extent as he may deem necessary in the interest of national defense.
+
+(e) Furnishing of names and addresses to Secretary of Defense or Secretary of Homeland Security In order to assist the Armed Forces in recruiting individuals for voluntary service in the Armed Forces, the Director shall, upon the request of the Secretary of Defense or the Secretary of Homeland Security, furnish to the Secretary the full names, email addresses (if available), dates of birth, phone numbers (if available), and mailing addresses of individuals registered under this Act. Full names, email addresses, dates of birth, phone numbers, and mailing addresses furnished pursuant to the preceding sentence may be used by the Secretary of Defense or Secretary of Homeland Security only for recruiting purposes.
+
+(June 24, 1948, ch. 625, title I, § 15, 62 Stat. 624; Pub. L. 92–129, title I, § 101(a)(33), Sept. 28, 1971, 85 Stat. 353; Pub. L. 97–86, title IX, § 916(c), Dec. 1, 1981, 95 Stat. 1129; Pub. L. 107–296, title XVII, § 1704(e)(11)(E), Nov. 25, 2002, 116 Stat. 2316; Pub. L. 118–159, div. A, title V, § 532(a), Dec. 23, 2024, 138 Stat. 1886; Pub. L. 119–60, div. A, title V, § 535(b)(5), Dec. 18, 2025, 139 Stat. 872.)
+
+## Notes
+
+Amendment of Subsection (a)Pub. L. 119–60, div. A, title V, § 535(b)(5), (c), Dec. 18, 2025, 139 Stat. 872, provided that, effective one year after Dec. 18, 2025, subsection (a) of this section is amended by striking “upon publication by the President of a proclamation or other public notice fixing a time for any registration under section 3802 of this title”. See 2025 Amendment note below.
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a), (c), and (d), was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables. This Act, referred to in subsec. (e), is act June 24, 1948, ch. 625, 62 Stat. 604, known as the Military Selective Service Act. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of this title and Tables.
+
+Codification Section was formerly classified to section 465 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60 struck out “upon publication by the President of a proclamation or other public notice fixing a time for any registration under section 3802 of this title” after “this chapter”. 2024—Subsec. (e). Pub. L. 118–159 substituted “the full names, email addresses (if available), dates of birth, phone numbers (if available), and mailing addresses” for “the names and addresses” and “Full names, email addresses, dates of birth, phone numbers, and mailing addresses furnished” for “Names and addresses furnished”. 2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places. 1981—Subsec. (e). Pub. L. 97–86 added subsec. (e). 1971—Subsec. (d). Pub. L. 92–129 inserted provision empowering the Director and the Secretary of Defense to authorize voluntary enlistments and reenlistments in the Armed Forces after a person has been issued an order to report for induction and struck out reference to section 3803(g) of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–60 effective one year after Dec. 18, 2025, see section 535(c) of Pub. L. 119–60, set out as an Effective Date of Repeal note under section 3802 of this title.
+
+Effective Date of 2024 AmendmentPub. L. 118–159, div. A, title V, § 532(b), Dec. 23, 2024, 138 Stat. 1887, provided that: “The amendments made by this section [amending this section] shall take effect 120 days after the date of the enactment of this Act [Dec. 23, 2024].”
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.

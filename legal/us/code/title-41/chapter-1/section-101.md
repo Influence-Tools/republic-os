@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "41 U.S.C. § 101"
+description: "Administrator"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 41
+title_name: "PUBLIC CONTRACTS"
+chapter_number: "1"
+chapter_name: "DEFINITIONS"
+section: "101"
+citation: "41 U.S.C. § 101"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc41@119-100.zip"
+source_identifier: "/us/usc/t41/s101"
+source_file: "data/legal/raw/us/code/title-41/usc41.xml"
+source_hash: "72fa7ea99c92023172ec9c170b704a22f187f37a8611d54c364030f30b6d24cf"
+raw_snapshot_hash: "0977ff7e7fefd99bbd25a86e009a9e4c2707301ec8c49233d17b6604e38702e3"
+text_hash: "a27daca9515f3054215169bbd4764b317bd11e39bce24babf323668e5d74b5a8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 41 U.S.C. § 101 - Administrator
+
+## Text
+
+In this subtitle, the term “Administrator” means the Administrator for Federal Procurement Policy appointed under section 1102 of this title.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3678.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 101no source.
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2024 AmendmentPub. L. 118–74, § 1, July 30, 2024, 138 Stat. 1505, provided that: “This Act [enacting section 6310 of this title and provisions set out as a note under section 6310 of this title] may be cited as the ‘All-American Flag Act’.”
+
+Short Title of 2021 AmendmentPub. L. 117–28, § 1, July 26, 2021, 135 Stat. 304, provided that: “This Act [amending provisions set out as a note under section 3309 of this title] may be cited as the ‘Construction Consensus Procurement Improvement Act of 2021’.”
+
+Short Title of 2020 AmendmentPub. L. 116–260, div. U, title IV, § 401, Dec. 27, 2020, 134 Stat. 2292, provided that: “This title [enacting provisions set out as a note under section 3309 of this title] may be cited as the ‘Construction Consensus Procurement Improvement Act of 2020’.”
+
+Short Title of 2018 AmendmentPub. L. 115–390, § 1(a), Dec. 21, 2018, 132 Stat. 5173, provided that: “This Act [enacting subchapter III of chapter 13 of this title and section 4713 of this title, amending sections 3553 and 3554 of Title 44, Public Printing and Documents, and section 3348 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 1321 and 4713 of this title, section 663 of Title 6, Domestic Security, and section 3553 of Title 44] may be cited as the ‘Strengthening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Technology Act’ or the ‘SECURE Technology Act’.” Pub. L. 115–390, title II, § 201, Dec. 21, 2018, 132 Stat. 5178, provided that: “This title [enacting subchapter III of chapter 13 of this title and section 4713 of this title, amending sections 3553 and 3554 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under sections 1321 and 4713 of this title and section 3553 of Title 44] may be cited as the ‘Federal Acquisition Supply Chain Security Act of 2018’.”
+
+Short Title of 2016 AmendmentPub. L. 114–260, § 1, Dec. 14, 2016, 130 Stat. 1361, provided that: “This Act [amending section 4106 of this title] may be cited as the ‘GAO Civilian Task and Delivery Order Protest Authority Act of 2016’.”
+
+Short Title of 2012 AmendmentPub. L. 112–194, § 1, Oct. 5, 2012, 126 Stat. 1445, provided that: “This Act [enacting section 1909 of this title, amending section 2784 of Title 10, Armed Forces, enacting provisions set out as notes under section 1909 of this title and section 5701 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 5701 of Title 5] may be cited as the ‘Government Charge Card Abuse Prevention Act of 2012’.”
+
+Short Title of 2008 ActPub. L. 110–417, [div. A], title VIII, § 861, Oct. 14, 2008, 122 Stat. 4546, provided that: “This subtitle [subtitle G (§§ 861–874) of title VIII of Pub. L. 110–417, see Tables for classification] may be cited as the ‘Clean Contracting Act of 2008’.” Pub. L. 110–252, title VI, § 6101, June 30, 2008, 122 Stat. 2386, provided that: “This chapter [chapter 1 (§§ 6101–6103) of title VI of Pub. L. 110–252, see Tables for classification] may be cited as the ‘Close the Contractor Fraud Loophole Act’.”
+
+Short Title of 2003 ActPub. L. 108–136, div. A, title XIV, § 1401, Nov. 24, 2003, 117 Stat. 1663, provided that: “This title [see Tables for classification] may be cited as the ‘Services Acquisition Reform Act of 2003’.”
+
+Short Title of 1996 ActPub. L. 104–106, div. D, § 4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VIII, § 808(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: “This division [div. D (§§ 4001–4402) of Pub. L. 104–106, see Tables for classification] and division E [§§ 5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§ 11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification] may be cited as the ‘Clinger-Cohen Act of 1996’.”
+
+Short Title of 1994 ActPub. L. 103–355, § 1, Oct. 13, 1994, 108 Stat. 3243, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Acquisition Streamlining Act of 1994’.”
+
+Short Title of 1988 ActPub. L. 100–679, § 1, Nov. 17, 1988, 102 Stat. 4055, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Federal Procurement Policy Act Amendments of 1988’.” Pub. L. 100–418, title VII, § 7001, Aug. 23, 1988, 102 Stat. 1545, provided that: “This title [see Tables for classification] may be cited as the ‘Buy American Act of 1988’.”
+
+Short Title of 1986 ActPub. L. 99–634, § 1, Nov. 7, 1986, 100 Stat. 3523, provided: “That this Act [see Tables for classification] may be cited as the ‘Anti-Kickback Enforcement Act of 1986’.”
+
+Short Title of 1984 ActPub. L. 98–577, § 1, Oct. 30, 1984, 98 Stat. 3066, provided that this Act [see Tables for classification] may be cited as the “Small Business and Federal Procurement Competition Enhancement Act of 1984”. Pub. L. 98–369, div. B, title VII, § 2701, July 18, 1984, 98 Stat. 1175, provided that: “This title [see Tables for classification] may be cited as the ‘Competition in Contracting Act of 1984’.”
+
+Short Title of 1983 ActPub. L. 98–191, § 1, Dec. 1, 1983, 97 Stat. 1325, provided: “That this Act [see Tables for classification] may be cited as the ‘Office of Federal Procurement Policy Act Amendments of 1983’.”
+
+Short Title of 1979 ActPub. L. 96–83, § 1(a), Oct. 10, 1979, 93 Stat. 648, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Federal Procurement Policy Act Amendments of 1979’.”
+
+Short Title of 1974 ActPub. L. 93–400, § 1(a), Aug. 30, 1974, 88 Stat. 796, as amended by Pub. L. 103–355, title X, § 10005(a)(1), Oct. 13, 1994, 108 Stat. 3406, provided that: “This Act [see Tables for classification] may be cited as the ‘Office of Federal Procurement Policy Act’.”
+
+Short Title of 1949 ActAct June 30, 1949, ch. 288, § 1(a), 63 Stat. 377, as amended by Pub. L. 103–355, title X, § 10005(a)(2), Oct. 13, 1994, 108 Stat. 3406; Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304; Pub. L. 108–178, § 2(b)(1), Dec. 15, 2003, 117 Stat. 2640, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Property and Administrative Services Act of 1949’.” [Pub. L. 107–217, § 6(b), which had repealed section 1(a) of act June 30, 1949, set out above, was itself repealed effective Aug. 21, 2002, by Pub. L. 108–178, § 2(b)(1), insofar as it related to section 1(a) of act June 30, 1949, and Pub. L. 108–178, § 2(b)(1), further provided that section 1(a) of act June 30, 1949, was revived to read as if Pub. L. 107–217, § 6(b), had not been enacted.]
+
+Short Title of 1936 ActAct June 30, 1936, ch. 881, § 14, formerly § 12, as added by Pub. L. 103–355, title X, § 10005(f)(5), Oct. 13, 1994, 108 Stat. 3409; renumbered § 14, Pub. L. 104–106, div. D, title XLIII, § 4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675, provided that: “This Act [see Tables for classification] may be cited as the ‘Walsh-Healey Act’.”
+
+Short Title of 1933 ActAct Mar. 3, 1933, ch. 212, title III, § 7, formerly § 5, as added by Pub. L. 103–355, title X, § 10005(f)(4), Oct. 13, 1994, 108 Stat. 3409; renumbered § 7 and amended by Pub. L. 104–106, div. D, title XLIII, § 4321(a)(11), Feb. 10, 1996, 110 Stat. 671, provided that: “This title [see Tables for classification] may be cited as the ‘Buy American Act’.”

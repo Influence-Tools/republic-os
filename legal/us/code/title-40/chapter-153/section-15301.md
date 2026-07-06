@@ -1,0 +1,97 @@
+---
+type: "LegalText"
+title: "40 U.S.C. § 15301"
+description: "Establishment, membership, and employees"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 40
+title_name: "PUBLIC BUILDINGS, PROPERTY, AND WORKS"
+chapter_number: "153"
+chapter_name: "REGIONAL COMMISSIONS"
+section: "15301"
+citation: "40 U.S.C. § 15301"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc40@119-100.zip"
+source_identifier: "/us/usc/t40/s15301"
+source_file: "data/legal/raw/us/code/title-40/usc40.xml"
+source_hash: "0768f874fc31c7fd40a8e0b5236ade30c221a57542728acb114e2727545ecf4e"
+raw_snapshot_hash: "9e671d5f37f9148634c9ba568a4c16d4864b567130b66bcf607f680414560a29"
+text_hash: "efaa540203715cbb7f2f3173ed634cc890b28380bf862ef36e64fd9e600d234c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 40 U.S.C. § 15301 - Establishment, membership, and employees
+
+## Text
+
+(a) Establishment.— There are established the following regional Commissions:
+
+(1) The Southeast Crescent Regional Commission.
+
+(2) The Southwest Border Regional Commission.
+
+(3) The Northern Border Regional Commission.
+
+(4) The Great Lakes Authority.
+
+(5) The Mid-Atlantic Regional Commission.
+
+(6) The Southern New England Regional Commission.
+
+(b) Membership.— (1) Federal and state members.— Each Commission shall be composed of the following members:
+
+(A) A Federal Cochairperson, to be appointed by the President, by and with the advice and consent of the Senate.
+
+(B) The Governor of each participating State in the region of the Commission.
+
+(2) Alternate members.— (A) Alternate federal cochairperson.— The President shall appoint an alternate Federal Cochairperson for each Commission. The alternate Federal Cochairperson, when not actively serving as an alternate for the Federal Cochairperson, shall perform such functions and duties as are delegated by the Federal Cochairperson.
+
+(B) State alternates.— The State member of a participating State may have a single alternate, who shall be appointed by the Governor of the State from among the members of the Governor’s cabinet or personal staff.
+
+(C) Voting.— (i) In general.— An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
+
+(ii) State alternates.— If the alternate State member is unable to vote in accordance with clause (i), the alternate State member may delegate voting authority to a designee, subject to the condition that the executive director shall be notified, in writing, of the designation not less than 1 week before the applicable vote is to take place.
+
+(3) Cochairpersons.— A Commission shall be headed by—
+
+(A) the Federal Cochairperson, who shall serve as a liaison between the Federal Government and the Commission; and
+
+(B) a State Cochairperson, who shall be a Governor of a participating State in the region and shall be elected by the State members for a term of not less than 1 year.
+
+(4) Consecutive terms.— A State member may not be elected to serve as State Cochairperson for more than 2 consecutive terms.
+
+(c) Compensation.— (1) Federal cochairpersons.— Each Federal Cochairperson shall be compensated by the Federal Government at level III of the Executive Schedule as set out in section 5314 of title 5.
+
+(2) Alternate federal cochairpersons.— Each Federal Cochairperson’s alternate shall be compensated by the Federal Government at level V of the Executive Schedule as set out in section 5316 of title 5.
+
+(3) State members and alternates.— Each State member and alternate shall be compensated by the State that they represent at the rate established by the laws of that State.
+
+(d) Executive Director and Staff.— (1) In general.— A Commission shall appoint and fix the compensation of an executive director and such other personnel as are necessary to enable the Commission to carry out its duties. Compensation under this paragraph may not exceed the maximum rate of basic pay established for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of that title.
+
+(2) Executive director.— The executive director shall be responsible for carrying out the administrative duties of the Commission, directing the Commission staff, and such other duties as the Commission may assign.
+
+(e) No Federal Employee Status.— No member, alternate, officer, or employee of a Commission (other than the Federal Cochairperson, the alternate Federal Cochairperson, staff of the Federal Cochairperson, and any Federal employee detailed to the Commission) shall be considered to be a Federal employee for any purpose.
+
+(f) Succession.— Subject to the time limitations under section 3346 of title 5, the Federal Cochairperson may designate an employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
+
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, § 6304(f), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 117–328, div. O, title IV, § 401(a)(1), Dec. 29, 2022, 136 Stat. 5228; Pub. L. 118–272, div. B, title II, §§ 2242(a), 2249(a), 2250(a), Jan. 4, 2025, 138 Stat. 3202, 3209.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2025—Subsec. (a)(5). Pub. L. 118–272, § 2249(a), added par. (5). Subsec. (a)(6). Pub. L. 118–272, § 2250(a), added par. (6). Subsec. (b)(2)(C). Pub. L. 118–272, § 2242(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii). Subsec. (f). Pub. L. 118–272, § 2242(a)(2), substituted “an employee” for “a Federal employee”. 2022—Subsec. (a)(4). Pub. L. 117–328 added par. (4). 2018—Subsec. (f). Pub. L. 115–334 added subsec. (f).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
+
+Establishment of the Northwest Regional CommissionPub. L. 119–74, div. B, title IV, Jan. 23, 2026, 140 Stat. 90, provided that: “For expenses necessary to establish a Northwest Regional Commission located in Washington, Oregon, Idaho, and Montana, $1,000,000, to remain available until expended: Provided, That amounts provided to the Northwest Regional Commission shall be used to carry out activities authorized for other regional Commissions by subtitle V of title 40, United States Code.”

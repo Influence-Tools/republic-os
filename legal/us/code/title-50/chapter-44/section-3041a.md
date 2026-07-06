@@ -1,0 +1,95 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3041a"
+description: "Director of the National Reconnaissance Office"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3041a"
+citation: "50 U.S.C. § 3041a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3041a"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "a2d787b52875ff5b4d6dae7352ba27573c90475e083c340239b8a20ea6f76df8"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "475eab782d6598f871e474b8776a0ffe0bef96b6d395d052d907f8bd21873d26"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3041a - Director of the National Reconnaissance Office
+
+## Text
+
+(a) In general There is a Director of the National Reconnaissance Office.
+
+(b) Appointment The Director of the National Reconnaissance Office shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(c) Functions and duties The Director of the National Reconnaissance Office shall be the head of the National Reconnaissance Office and shall discharge such functions and duties as are provided by this chapter or otherwise by law or executive order.
+
+(d) Advisory Board (1) Establishment There is established in the National Reconnaissance Office an advisory board (in this section referred to as the “Board”).
+
+(2) Duties The Board shall—
+
+(A) study matters relating to the mission of the National Reconnaissance Office, including with respect to promoting innovation, competition, and resilience in space, overhead reconnaissance, acquisition, and other matters; and
+
+(B) advise and report directly to the Director with respect to such matters.
+
+(3) Members (A) Number and appointment (i) In general The Board shall be composed of up to 8 members appointed by the Director, in consultation with the Director of National Intelligence and the Secretary of Defense, from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office, and who do not present any actual or potential conflict of interest.
+
+(ii) Membership structure The Director shall ensure that no more than 2 concurrently serving members of the Board qualify for membership on the Board based predominantly on a single qualification set forth under clause (i).
+
+(iii) Notification Not later than 30 days after the date on which the Director appoints a member to the Board, the Director shall notify the congressional intelligence committees and the congressional defense committees (as defined in section 101(a) of title 10) of such appointment.
+
+(B) Terms Each member shall be appointed for a term of 2 years. Except as provided by subparagraph (C), a member may not serve more than three terms.
+
+(C) Vacancy Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
+
+(D) Chair The Board shall have a Chair, who shall be appointed by the Director from among the members.
+
+(E) Travel expenses Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+
+(F) Executive secretary The Director may appoint an executive secretary, who shall be an employee of the National Reconnaissance Office, to support the Board.
+
+(4) Meetings The Board shall meet not less than quarterly, but may meet more frequently at the call of the Director.
+
+(5) Charter The Director shall establish a charter for the Board that includes the following:
+
+(A) Mandatory processes for identifying potential conflicts of interest, including the submission of initial and periodic financial disclosures by Board members.
+
+(B) The vetting of potential conflicts of interest by the designated agency ethics official, except that no individual waiver may be granted for a conflict of interest identified with respect to the Chair of the Board.
+
+(C) The establishment of a process and associated protections for any whistleblower alleging a violation of applicable conflict of interest law, Federal contracting law, or other provision of law.
+
+(6) Reports Not later than March 31 of each year, the Board shall submit to the Director and to the congressional intelligence committees a report on the activities and significant findings of the Board during the preceding year.
+
+(7) Nonapplicability of certain requirements The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Board.
+
+(8) Termination The Board shall terminate on August 31, 2027.
+
+(July 26, 1947, ch. 343, title I, § 106A, as added Pub. L. 113–126, title IV, § 411(a), July 7, 2014, 128 Stat. 1409; amended Pub. L. 116–92, div. E, title LXIV, § 6433(a), Dec. 20, 2019, 133 Stat. 2200; Pub. L. 117–263, div. F, title LXIV, § 6431, Dec. 23, 2022, 136 Stat. 3532; Pub. L. 118–159, div. F, title LXIII, § 6304, Dec. 23, 2024, 138 Stat. 2473.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (c), was in the original “this Act”, meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables. The Federal Advisory Committee Act, referred to in subsec. (d)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+
+Amendments2024—Subsec. (d)(3)(A)(i). Pub. L. 118–159, § 6304(1)(A), substituted “up to 8 members appointed by the Director” for “five members appointed by the Director” and inserted “, and who do not present any actual or potential conflict of interest” before period at end. Subsec. (d)(3)(A)(ii), (iii). Pub. L. 118–159, § 6304(1)(B), (C), added cl. (ii) and redesignated former cl. (ii) as (iii). Subsec. (d)(5) to (7). Pub. L. 118–159, § 6304(2), (3), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8). Subsec. (d)(8). Pub. L. 118–159, § 6304(2), (4), redesignated par. (7) as (8) and substituted “August 31, 2027” for “September 30, 2024”. 2022—Subsec. (d)(3)(A)(i). Pub. L. 117–263, § 6431(1), inserted “, in consultation with the Director of National Intelligence and the Secretary of Defense,” after “Director”. Subsec. (d)(7). Pub. L. 117–263, § 6431(2), substituted “September 30, 2024” for “the date that is 3 years after the date of the first meeting of the Board”. 2019—Subsec. (d). Pub. L. 116–92 added subsec. (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 113–126, title IV, § 413, July 7, 2014, 128 Stat. 1410, as amended by Pub. L. 117–286, § 4(b)(12), Dec. 27, 2022, 136 Stat. 4344, provided that: “(a) In General.—The amendments made by sections 411 [enacting this section] and 412 [amending sections 8G and 12 of Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees] shall take effect on October 1, 2014, and shall apply upon the earlier of—“(1) in the case of section 411—“(A) the date of the first nomination by the President of an individual to serve as the Director of the National Reconnaissance Office that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Director of the National Reconnaissance Office by the individual performing such duties on October 1, 2014; and “(2) in the case of section 412—“(A) the date of the first nomination by the President of an individual to serve as the Inspector General of the National Reconnaissance Office that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Inspector General of the National Reconnaissance Office by the individual performing such duties on October 1, 2014. “(b) Exception for Initial Nominations.—Notwithstanding paragraph (1)(A) or (2)(A) of subsection (a), an individual serving as the Director of the National Reconnaissance Office or the Inspector General of the National Reconnaissance Office on the date that the President first nominates an individual for such position on or after October 1, 2014, may continue to perform in that position after such date of nomination and until the individual appointed to the position, by and with the advice and consent of the Senate, assumes the duties of the position. “(c) Incumbent Inspector General.—The individual serving as Inspector General of the National Reconnaissance Office on the date of the enactment of this Act [July 7, 2014] shall be eligible to be appointed by the President to a new term of service under section 403 of title 5, United States Code, by and with the advice and consent of the Senate.”
+
+Initial AppointmentsPub. L. 116–92, div. E, title LXIV, § 6433(b), Dec. 20, 2019, 133 Stat. 2201, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of the National Reconnaissance Office shall appoint the initial five members to the advisory board under subsection (d) of section 106A of the National Security Act of 1947 (50 U.S.C. 3041a), as added by subsection (a).”
+
+Position of Importance and ResponsibilityPub. L. 113–126, title IV, § 411(b), July 7, 2014, 128 Stat. 1409, provided that: “(1) In general.—The President may designate the Director of the National Reconnaissance Office as a position of importance and responsibility under section 601 of title 10, United States Code. “(2) Effective date.—Paragraph (1) shall take effect on the date of the enactment of this Act [July 7, 2014].”

@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 1156"
+description: "Intoxicants possessed unlawfully"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "53"
+chapter_name: "INDIANS"
+section: "1156"
+citation: "18 U.S.C. § 1156"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s1156"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "e76ee79c292f369851a17aa5f128925d298d9fdf494cd09ecb038206c0831bfa"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "b05f46d1704bff85ae7db0e3ed7d311ac94d77cf4c39c5c388afe07bb827f7f9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 1156 - Intoxicants possessed unlawfully
+
+## Text
+
+Whoever, except for scientific, sacramental, medicinal or mechanical purposes, possesses intoxicating liquors in the Indian country or where the introduction is prohibited by treaty or an Act of Congress, shall, for the first offense, be fined under this title or imprisoned not more than one year, or both; and, for each subsequent offense, be fined under this title or imprisoned not more than five years, or both. The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
+
+(June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, § 28, 63 Stat. 94; Pub. L. 103–322, title XXXIII, § 330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
+
+## Notes
+
+Historical and Revision Notes
+
+1948 ActBased on sections 241, 244, 244a, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. 2139; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; May 25, 1918, ch. 86, § 1, 40 Stat. 563; June 30, 1919, ch. 4, § 1, 41 Stat. 4; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, § 1, 52 Stat. 696). The revision of section 244 of title 25, U.S.C., 1940 ed., Indians, conforms with the effect thereon of sections 241, 244a, and 254 of said title. The provisions relating to scope of term “Indian country” were omitted as unnecessary in view of definition of “Indian country” in section 1151 of this title. Mandatory punishment provisions were rephrased in the alternative and provision for commitment for nonpayment of fine was deleted. Such change was also recommended by United States District Judge T. Blake Kennedy. (See reviser’s note under section 1154 of this title.) The exception of intoxicating liquor for scientific, sacramental, medicinal or mechanical purposes was inserted for the same reason that makes this exception appropriate to section 1262 of this title. Minor changes were made in phraseology.
+
+1949 ActThis section [section 28] adds to section 1156 of title 18, U.S.C., a paragraph to conform this section and section 1154 of such title more closely to the laws relating to intoxicating liquors in the Indian country as they have been heretofore construed.
+
+Editorial Notes
+
+Amendments1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” after “first offense, be” and for “fined not more than $2,000” after “subsequent offense, be” in first par. 1949—Act May 24, 1949, inserted last par.

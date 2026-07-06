@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7602"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "83"
+chapter_name: "UNITED STATES LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA"
+section: "7602"
+citation: "22 U.S.C. § 7602"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7602"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "5755f958839ccdf6344455127dec7b42a440f4f8e3f89a8105ac45d131ebfb3e"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "3d23ecad64bd4e5e5784293cf8daf36dfbce374c32a98e326cb926f9f5a60d75"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7602 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) AIDS The term “AIDS” means the acquired immune deficiency syndrome.
+
+(2) Appropriate congressional committees The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives.
+
+(3) Global AIDS Coordinator The term “Global AIDS Coordinator” means the Coordinator of United States Government Activities to Combat HIV/AIDS Globally.
+
+(4) Global Fund The term “Global Fund” means the public-private partnership known as the Global Fund to Fight AIDS, Tuberculosis and Malaria established pursuant to Article 80 of the Swiss Civil Code.
+
+(5) HIV The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.
+
+(6) HIV/AIDS The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
+
+(7) Impact evaluation research The term “impact evaluation research” means the application of research methods and statistical analysis to measure the extent to which change in a population-based outcome can be attributed to program intervention instead of other environmental factors.
+
+(8) Operations research The term “operations research” means the application of social science research methods, statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
+
+(9) Paraprofessional The term “paraprofessional” means an individual who is trained and employed as a health agent for the provision of basic assistance in the identification, prevention, or treatment of illness or disability.
+
+(10) Partner government The term “partner government” means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf of people living within the jurisdiction of such government.
+
+(11) Program monitoring The term “program monitoring” means the collection, analysis, and use of routine program data to determine—
+
+(A) how well a program is carried out; and
+
+(B) how much the program costs.
+
+(12) Relevant executive branch agencies The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.].
+
+(Pub. L. 108–25, § 3, May 27, 2003, 117 Stat. 717; Pub. L. 110–293, § 3, July 30, 2008, 122 Stat. 2921.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables. The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+Amendments2008—Pub. L. 110–293 substituted “Committee on Foreign Affairs of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Appropriations” for “Committee on International Relations” in par. (2), added pars. (3) and (7) to (11), and redesignated former pars. (3) to (5) and (6) as (4) to (6) and (12), respectively.

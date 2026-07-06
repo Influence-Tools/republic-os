@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3350a"
+description: "Promoting efficient declassification review"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "45"
+chapter_name: "MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES"
+section: "3350a"
+citation: "50 U.S.C. § 3350a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3350a"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "3f021466f43b78b1610f1d51228fba902d71ba009c50b4cd3f650245d8149046"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "260e56fe4281df2e4ae6c6e52567c790ba143150c5c162f2d94315edf677e864"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3350a - Promoting efficient declassification review
+
+## Text
+
+(a) In general Whenever an agency is processing a request pursuant to section 552 of title 5 (commonly known as the “Freedom of Information Act”) or the mandatory declassification review provisions of Executive Order 13526 (50 U.S.C. 3161 note; relating to classified national security information), or successor order, and identifies responsive classified records that are more than 25 years of age as of December 31 of the year in which the request is received, the head of the agency shall, in accordance with existing processes to protect national security under the Freedom of Information Act and the mandatory review provisions of Executive Order 12526,11 So in original. Probably should be “13526,”. review the record and process the record for declassification and release by the National Declassification Center of the National Archives and Records Administration, unless the head of agency—
+
+(1) makes a certification to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, that the declassification of certain components within the record would be harmful to the protection of sources and methods or national security, pursuant to existing processes; and
+
+(2) provides an explanation to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, for such certification.
+
+(b) Application Subsection (a) shall apply regardless of whether or not the record described in such subsection is in the legal custody of the National Archives and Records Administration.
+
+(Pub. L. 118–31, div. G, title VI, § 7602, Dec. 22, 2023, 137 Stat. 1096.)
+
+## Notes
+
+Editorial Notes
+
+References in TextExecutive Order 13526, referred to in subsec. (a), is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, 1013, which is set out as a note under section 3161 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definition of “congressional intelligence committees” as used in this section, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.

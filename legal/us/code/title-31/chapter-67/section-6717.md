@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "31 U.S.C. § 6717"
+description: "Judicial review"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 31
+title_name: "MONEY AND FINANCE"
+chapter_number: "67"
+chapter_name: "FEDERAL PAYMENTS"
+section: "6717"
+citation: "31 U.S.C. § 6717"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc31@119-100.zip"
+source_identifier: "/us/usc/t31/s6717"
+source_file: "data/legal/raw/us/code/title-31/usc31.xml"
+source_hash: "217cee58635a98f08d12b5399265169c6343e3310481d5a2ab8ed8f4171e708b"
+raw_snapshot_hash: "94d3fba324cbbc12277242f872f8f47cff5250dbcdc0057fe857212764e4b704"
+text_hash: "91a89e15c4abbe4074a2b9a24b901897bf60cf41c44346450728e74661954921"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 31 U.S.C. § 6717 - Judicial review
+
+## Text
+
+(a) Appeals in Federal Court of Appeals.— A unit of general local government which receives notice from the Secretary about withholding payments under section 6703(f), suspending payments under section 6713(a)(1)(B), or terminating payments under section 6712(d)(2)(A), may apply for review of the action of the Secretary by filing a petition for review with the court of appeals of the United States for the circuit in which the government is located. The petition shall be filed by the 60th day after the date the notice is received. The clerk of the court shall immediately send a copy of the petition to the Secretary.
+
+(b) Filing of Record of Administrative Proceeding.— The Secretary shall file with the court a record of the proceeding on which the Secretary based the action. The court may consider only objections to the action of the Secretary that were presented before the Secretary.
+
+(c) Court Action.— The court may affirm, change, or set aside any part of the action of the Secretary. The findings of fact by the Secretary are conclusive if supported by substantial evidence in the record. If a finding is not supported by substantial evidence in the record, the court may remand the case to the Secretary to take additional evidence. Upon such a remand, the Secretary may make new or modified findings and shall certify additional proceedings to the court.
+
+(d) Review Only by Supreme Court.— A judgment of a court under this section may be reviewed only by the Supreme Court under section 1254 of title 28, United States Code.
+
+(Added Pub. L. 103–322, title III, § 31001(a), Sept. 13, 1994, 108 Stat. 1878.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 6717, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1025; Pub. L. 98–185, §§ 7, 9(h), Nov. 30, 1983, 97 Stat. 1310, 1312, related to discrimination proceedings, prior to repeal by Pub. L. 99–272, title XIV, § 14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.

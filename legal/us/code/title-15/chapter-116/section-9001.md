@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 9001"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "116"
+chapter_name: "CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT)"
+section: "9001"
+citation: "15 U.S.C. § 9001"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s9001"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "6d0d7a6ddf1c5adbb78a673f48b4815f80e417374e015134bf7a33f021336967"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "dd108a686eb454f2f8996bd07ab7fcff1d7562f1b287e98b755335972eb84573"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 9001 - Definitions
+
+## Text
+
+In this title— 11 See References in Text note below.
+
+(1) the terms “Administration” and “Administrator” mean the Small Business Administration and the Administrator thereof, respectively; and
+
+(2) the term “small business concern” has the meaning given the term in section 632 of this title.
+
+(Pub. L. 116–136, div. A, title I, § 1101, Mar. 27, 2020, 134 Stat. 286.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis title, referred to in text, is title I of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286, which enacted this subchapter and amended, and enacted provisions set out as notes under, section 636 of this title and several sections in Title 11, Bankruptcy. For complete classification of title I to the Code, see Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2022 AmendmentPub. L. 117–165, § 1, Aug. 5, 2022, 136 Stat. 1363, provided that: “This Act [amending sections 636, 9009, and 9009b of this title] may be cited as the ‘COVID–19 EIDL Fraud Statute of Limitations Act of 2022’.”
+
+Short Title of 2021 AmendmentPub. L. 117–2, § 1, Mar. 11, 2021, 135 Stat. 4, provided that: “This Act [see Tables for classification] may be cited as the ‘American Rescue Plan Act of 2021’.”
+
+Short Title of 2020 AmendmentPub. L. 116–260, div. N, title II, § 200, Dec. 27, 2020, 134 Stat. 1950, provided that: “This chapter [chapter 1 (§§ 200–266) of subtitle A of title II of div. N of Pub. L. 116–260, see Tables for classification] may be cited as the ‘Continued Assistance for Unemployed Workers Act of 2020’.” Pub. L. 116–260, div. N, title III, § 301, Dec. 27, 2020, 134 Stat. 1993, provided that: “This title [see Tables for classification] may be cited as the ‘Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act’.” Pub. L. 116–260, div. N, title IV, § 420, Dec. 27, 2020, 134 Stat. 2061, provided that: “This subtitle [subtitle B (§§ 420, 421) of title IV of div. N of Pub. L. 116–260, enacting part D of subchapter III of this chapter] may be cited as the ‘Coronavirus Economic Relief for Transportation Services Act’.” Pub. L. 116–139, § 1, Apr. 24, 2020, 134 Stat. 620, provided that: “This Act [amending sections 636, 9006, and 9009 of this title] may be cited as the ‘Paycheck Protection Program and Health Care Enhancement Act’.”
+
+Short TitlePub. L. 116–136, § 1, Mar. 27, 2020, 134 Stat. 281, provided that: “This Act [see Tables for classification] may be cited as the ‘Coronavirus Aid, Relief, and Economic Security Act’ or the ‘CARES Act’.” Pub. L. 116–136, div. A, title II, § 2101, Mar. 27, 2020, 134 Stat. 313, provided that: “This subtitle [subtitle A (§§ 2101–2116) of title II of div. A of Pub. L. 116–136, enacting subchapter II of this chapter, amending section 3306 of Title 26, Internal Revenue Code, section 1103 of Title 42, The Public Health and Welfare, and section 352 of Title 45, Railroads, enacting provisions set out as a note under section 352 of Title 45, amending provisions set out as a note under section 3304 of Title 26, and repealing provisions set out as a note under section 3306 of Title 26], may be cited as the ‘Relief for Workers Affected by Coronavirus Act’.” Pub. L. 116–136, div. A, title IV, § 4001, Mar. 27, 2020, 134 Stat. 469, provided that: “This subtitle [subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, enacting part A of subchapter III of this chapter, amending section 1681s–2 of this title, sections 84, 1795a, 1795c, 1795e, 1795f, and 5612 of Title 12, Banks and Banking, and section 5302 of Title 31, Money and Finance, and enacting provisions set out as notes under sections 84, 1795a, and 5236 of Title 12 and section 4532 of Title 50, War and National Defense] may be cited as the ‘Coronavirus Economic Stabilization Act of 2020’.”
+
+Definitions Pub. L. 116–260, div. N, title III, § 302, Dec. 27, 2020, 134 Stat. 1993, provided that: “In this Act [probably means “this title”, title III of div. N of Pub. L. 116–260, see Tables for classification]: “(1) Administration; administrator.—The terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively. “(2) Small business concern.—The term ‘small business concern’ has the meaning given the term in section 3 of the Small Business Act (15 U.S.C. 632).”
+
+Executive Documents
+
+Executive Order No. 14002 Ex. Ord. No. 14002, Jan. 22, 2021, 86 F.R. 7229, providing economic relief related to the COVID–19 pandemic, was revoked by Ex. Ord. No. 14148, § 2(n), Jan. 20, 2025, 90 F.R. 8238.

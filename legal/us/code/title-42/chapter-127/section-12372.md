@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 12372"
+description: "Authority of President and Secretary; final report"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "127"
+chapter_name: "COORDINATED SERVICES FOR CHILDREN, YOUTH, AND FAMILIES"
+section: "12372"
+citation: "42 U.S.C. § 12372"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s12372"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "3982fc86007ede9b3c7c55deedf02ed16ef00330543da1b3cdee0ae7de71baa8"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "c716d857c133c7383cf0e0dbf5e530e826215e1594f7751e90dfc56b3f3d124e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 12372 - Authority of President and Secretary; final report
+
+## Text
+
+(a) Calling of Conference The President shall call a White House Conference on Children, Youth, and Families in 1993 in order to develop recommendations for further action in the field of children, youth, and families which will further the policy set forth in section 12371(b) of this title. The Conference shall be planned and conducted under the direction of the Secretary in cooperation with the Commissioner and with the heads of such other Federal departments and agencies as are appropriate. Such assistance may include the assignment of personnel.
+
+(b) Purposes of Conference The purposes of the Conference shall be—
+
+(1) to increase the public awareness of the value and needs of young individuals;
+
+(2) to examine the well-being of young individuals as well as the problems which they face;
+
+(3) to describe the extent to which young individuals with identified needs do not receive services to meet such needs;
+
+(4) to determine the reasons why young individuals are not receiving needed services; and
+
+(5) to develop such specific and comprehensive recommendations for executive and legislative action as may be appropriate to improve the well-being of youth and their families.
+
+(c) Conference participants and delegates (1) Participants In order to carry out the purposes of the Conference, the Conference shall bring together—
+
+(A) representatives of Federal, State, and local governments, including representatives of the Government Accountability Office;
+
+(B) professionals who are working in the field of children, youth, and families; and
+
+(C) representatives of the general public, particularly young individuals.
+
+(2) Selection of delegates The delegates to attend the Conference shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority’s ability, be representative of the spectrum of thought in the field of children, youth, and families.
+
+(Pub. L. 101–501, title IX, § 983, Nov. 3, 1990, 104 Stat. 1280; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2004—Subsec. (c)(1)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.

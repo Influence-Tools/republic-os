@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "40 U.S.C. § 14703"
+description: "Authorization of appropriations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 40
+title_name: "PUBLIC BUILDINGS, PROPERTY, AND WORKS"
+chapter_number: "147"
+chapter_name: "MISCELLANEOUS"
+section: "14703"
+citation: "40 U.S.C. § 14703"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc40@119-100.zip"
+source_identifier: "/us/usc/t40/s14703"
+source_file: "data/legal/raw/us/code/title-40/usc40.xml"
+source_hash: "8f0268818f52f449eae49db3c8569f9ceb7ba2aa775fc2520dbff6bc450db297"
+raw_snapshot_hash: "9e671d5f37f9148634c9ba568a4c16d4864b567130b66bcf607f680414560a29"
+text_hash: "af98b77382eecf2215ec6a218500f42cd863dc2132c5c28702e954010eb0f7a2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 40 U.S.C. § 14703 - Authorization of appropriations
+
+## Text
+
+(a) In General.— In addition to amounts made available under section 14501, there is authorized to be appropriated to the Appalachian Regional Commission to carry out this subtitle—
+
+(1) $87,000,000 for fiscal year 2008;
+
+(2) $100,000,000 for fiscal year 2009;
+
+(3) $105,000,000 for fiscal year 2010;
+
+(4) $108,000,000 for fiscal year 2011;
+
+(5) $110,000,000 for each of fiscal years 2012 through 2021; and
+
+(6) $200,000,000 for each of fiscal years 2022 through 2026.
+
+(b) Economic and Energy Development Initiative.— Of the amounts made available under subsection (a), the following amounts may be used to carry out section 14508—
+
+(1) $12,000,000 for fiscal year 2008;
+
+(2) $12,500,000 for fiscal year 2009;
+
+(3) $13,000,000 for fiscal year 2010;
+
+(4) $13,500,000 for fiscal year 2011; and
+
+(5) $14,000,000 for fiscal year 2012.
+
+(c) High-speed Broadband Deployment Initiative.— Of the amounts made available under subsection (a), $20,000,000 may be used to carry out section 14509 for each of fiscal years 2022 through 2026.
+
+(d) Appalachian Regional Energy Hub Initiative.— Of the amounts made available under subsection (a), $5,000,000 shall be used to carry out section 14511 for each of fiscal years 2022 through 2026.
+
+(e) Availability.— Amounts made available under subsection (a) remain available until expended.
+
+(f) Allocation of Funds.— Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, § 5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, § 1436(b), Dec. 4, 2015, 129 Stat. 1431; Pub. L. 116–159, div. B, title I, § 1107(a), Oct. 1, 2020, 134 Stat. 727; Pub. L. 117–58, div. A, title I, § 11506(f), Nov. 15, 2021, 135 Stat. 586.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 1470340 App.:401.Pub. L. 89–4, title IV, § 401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, title I, § 122, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title I, § 109, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, § 212, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, § 121, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, § 3(5), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, § 1822(a)(3), (4), Aug. 13, 1981, 95 Stat. 767; Pub. L 105–393, title II, § 221, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, § 10, Mar. 12, 2002, 116 Stat. 70.
+
+Editorial Notes
+
+Amendments2021—Subsec. (a)(6). Pub. L. 117–58, § 11506(f)(1), added par. (6). Subsec. (c). Pub. L. 117–58, § 11506(f)(2), substituted “$20,000,000 may be used to carry out section 14509 for each of fiscal years 2022 through 2026” for “$10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2021”. Subsecs. (d) to (f). Pub. L. 117–58, § 11506(f)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. 2020—Subsec. (a)(5). Pub. L. 116–159, § 1107(a)(1), substituted “2021” for “2020”. Subsec. (c). Pub. L. 116–159, § 1107(a)(2), substituted “2021” for “2020”. 2015—Subsec. (a)(5). Pub. L. 114–94, § 1436(b)(1), substituted “each of fiscal years 2012 through 2020” for “fiscal year 2012”. Subsecs. (c) to (e). Pub. L. 114–94, § 1436(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. 2008—Subsec. (a). Pub. L. 110–371, § 5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006. Subsec. (b). Pub. L. 110–371, § 5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out section 14504 of this title for fiscal years 2002 to 2006. Subsec. (d). Pub. L. 110–371, § 5(c), added subsec. (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of Title 23, Highways.
+
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1436(d) of Pub. L. 114–94, set out as an Effective Date note under section 14509 of this title.

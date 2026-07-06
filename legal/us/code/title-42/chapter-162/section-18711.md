@@ -1,0 +1,225 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 18711"
+description: "Preventing outages and enhancing the resilience of the electric grid"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "162"
+chapter_name: "ENERGY INFRASTRUCTURE"
+section: "18711"
+citation: "42 U.S.C. § 18711"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s18711"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "169dd0041312b167068d25b111b9195f9c42b0715933152d10266c4b83fec316"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "c47d8570733999d36793138dc82d30f2d317d29923a6a9162b2807dfe4abeb8d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 18711 - Preventing outages and enhancing the resilience of the electric grid
+
+## Text
+
+(a) Definitions In this section:
+
+(1) Disruptive event The term “disruptive event” means an event in which operations of the electric grid are disrupted, preventively shut off, or cannot operate safely due to extreme weather, wildfire, or a natural disaster.
+
+(2) Eligible entity The term “eligible entity” means—
+
+(A) an electric grid operator;
+
+(B) an electricity storage operator;
+
+(C) an electricity generator;
+
+(D) a transmission owner or operator;
+
+(E) a distribution provider;
+
+(F) a fuel supplier; and
+
+(G) any other relevant entity, as determined by the Secretary.
+
+(3) Natural disaster The term “natural disaster” has the meaning given the term in section 5195a(a) of this title.
+
+(4) Power line The term “power line” includes a transmission line or a distribution line, as applicable.
+
+(5) Program The term “program” means the program established under subsection (b).
+
+(b) Establishment of program Not later than 180 days after November 15, 2021, the Secretary shall establish a program under which the Secretary shall make grants to eligible entities, States, and Indian Tribes in accordance with this section.
+
+(c) Grants to eligible entities (1) In general The Secretary may make a grant under the program to an eligible entity to carry out activities that—
+
+(A) are supplemental to existing hardening efforts of the eligible entity planned for any given year; and
+
+(B) (i) reduce the risk of any power lines owned or operated by the eligible entity causing a wildfire; or
+
+(ii) increase the ability of the eligible entity to reduce the likelihood and consequences of disruptive events.
+
+(2) Application (A) In general An eligible entity desiring a grant under the program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(B) Requirement As a condition of receiving a grant under the program, an eligible entity shall submit to the Secretary, as part of the application of the eligible entity submitted under subparagraph (A), a report detailing past, current, and future efforts by the eligible entity to reduce the likelihood and consequences of disruptive events.
+
+(3) Limitation The Secretary may not award a grant to an eligible entity in an amount that is greater than the total amount that the eligible entity has spent in the previous 3 years on efforts to reduce the likelihood and consequences of disruptive events.
+
+(4) Priority In making grants to eligible entities under the program, the Secretary shall give priority to projects that, in the determination of the Secretary, will generate the greatest community benefit (whether rural or urban) in reducing the likelihood and consequences of disruptive events.
+
+(5) Small utilities set aside The Secretary shall ensure that not less than 30 percent of the amounts made available to eligible entities under the program are made available to eligible entities that sell not more than 4,000,000 megawatt hours of electricity per year.
+
+(d) Grants to States and Indian Tribes (1) In general The Secretary, in accordance with this subsection, may make grants under the program to States and Indian Tribes, which each State or Indian Tribe may use to award grants to eligible entities.
+
+(2) Annual application (A) In general For each fiscal year, to be eligible to receive a grant under this subsection, a State or Indian Tribe shall submit to the Secretary an application that includes a plan described in subparagraph (B).
+
+(B) Plan required A plan prepared by a State or Indian Tribe for purposes of an application described in subparagraph (A) shall—
+
+(i) describe the criteria and methods that will be used by the State or Indian Tribe to award grants to eligible entities;
+
+(ii) be adopted after notice and a public hearing; and
+
+(iii) describe the proposed funding distributions and recipients of the grants to be provided by the State or Indian Tribe.
+
+(3) Distribution of funds (A) In general The Secretary shall provide grants to States and Indian Tribes under this subsection based on a formula determined by the Secretary, in accordance with subparagraph (B).
+
+(B) Requirement The formula referred to in subparagraph (A) shall be based on the following factors:
+
+(i) The total population of the State or Indian Tribe.
+
+(ii) (I) The total area of the State or the land of the Indian Tribe; or
+
+(II) the areas in the State or on the land of the Indian Tribe with a low ratio of electricity customers per mileage of power lines.
+
+(iii) The probability of disruptive events in the State or on the land of the Indian Tribe during the previous 10 years, as determined based on the number of federally declared disasters or emergencies in the State or on the land of the Indian Tribe, as applicable, including—
+
+(I) disasters for which Fire Management Assistance Grants are provided under section 5187 of this title;
+
+(II) major disasters declared by the President under section 5170 of this title;
+
+(III) emergencies declared by the President under section 5191 of this title; and
+
+(IV) any other federally declared disaster or emergency in the State or on the land of the Indian Tribe.
+
+(iv) The number and severity, measured by population and economic impacts, of disruptive events experienced by the State or Indian Tribe on or after January 1, 2011.
+
+(v) The total amount, on a per capita basis, of public and private expenditures during the previous 10 years to carry out mitigation efforts to reduce the likelihood and consequences of disruptive events in the State or on the land of the Indian Tribe, with States or Indian Tribes with higher per capita expenditures receiving additional weight or consideration as compared to States or Indian Tribes with lower per capita expenditures.
+
+(C) Annual update of data used in distribution of funds Beginning 1 year after November 15, 2021, the Secretary shall annually update—
+
+(i) all data relating to the factors described in subparagraph (B); and
+
+(ii) all other data used in distributing grants to States and Indian Tribes under this subsection.
+
+(4) Oversight The Secretary shall ensure that each grant provided to a State or Indian Tribe under the program is allocated, pursuant to the applicable plan of the State or Indian Tribe, to eligible entities for projects within the State or on the land of the Indian Tribe.
+
+(5) Priority In making grants to eligible entities using funds made available to the applicable State or Indian Tribe under the program, the State or Indian Tribe shall give priority to projects that, in the determination of the State or Indian Tribe, will generate the greatest community benefit (whether rural or urban) in reducing the likelihood and consequences of disruptive events.
+
+(6) Small utilities set aside A State or Indian Tribe receiving a grant under the program shall ensure that, of the amounts made available to eligible entities from funds made available to the State or Indian Tribe under the program, the percentage made available to eligible entities that sell not more than 4,000,000 megawatt hours of electricity per year is not less than the percentage of all customers in the State or Indian Tribe that are served by those eligible entities.
+
+(7) Technical assistance and administrative expenses Of the amounts made available to a State or Indian Tribe under the program each fiscal year, the State or Indian Tribe may use not more than 5 percent for—
+
+(A) providing technical assistance under subsection (g)(1)(A); and
+
+(B) administrative expenses associated with the program.
+
+(8) Matching requirement Each State and Indian Tribe shall be required to match 15 percent of the amount of each grant provided to the State or Indian Tribe under the program.
+
+(e) Use of grants (1) In general A grant awarded to an eligible entity under the program may be used for activities, technologies, equipment, and hardening measures to reduce the likelihood and consequences of disruptive events, including—
+
+(A) weatherization technologies and equipment;
+
+(B) fire-resistant technologies and fire prevention systems;
+
+(C) monitoring and control technologies;
+
+(D) the undergrounding of electrical equipment;
+
+(E) utility pole management;
+
+(F) the relocation of power lines or the reconductoring of power lines with low-sag, advanced conductors;
+
+(G) vegetation and fuel-load management;
+
+(H) the use or construction of distributed energy resources for enhancing system adaptive capacity during disruptive events, including—
+
+(i) microgrids; and
+
+(ii) battery-storage subcomponents;
+
+(I) adaptive protection technologies;
+
+(J) advanced modeling technologies;
+
+(K) hardening of power lines, facilities, substations, of 11 So in original. other systems; and
+
+(L) the replacement of old overhead conductors and underground cables.
+
+(2) Prohibitions and limitations (A) In general A grant awarded to an eligible entity under the program may not be used for—
+
+(i) construction of a new—
+
+(I) electric generating facility; or
+
+(II) large-scale battery-storage facility that is not used for enhancing system adaptive capacity during disruptive events; or
+
+(ii) cybersecurity.
+
+(B) Certain investments eligible for recovery (i) In general An eligible entity may not seek cost recovery for the portion of the cost of any system, technology, or equipment that is funded through a grant awarded under the program.
+
+(ii) Savings provision Nothing in this subparagraph prohibits an eligible entity from recovering through traditional or incentive-based ratemaking any portion of an investment in a system, technology, or equipment that is not funded by a grant awarded under the program.
+
+(C) Application limitations An eligible entity may not submit an application for a grant provided by the Secretary under subsection (c) and a grant provided by a State or Indian Tribe pursuant to subsection (d) during the same application cycle.
+
+(f) Distribution of funding Of the amounts made available to carry out the program for a fiscal year, the Secretary shall ensure that—
+
+(1) 50 percent is used to award grants to eligible entities under subsection (c); and
+
+(2) 50 percent is used to make grants to States and Indian Tribes under subsection (d).
+
+(g) Technical and other assistance (1) In general The Secretary, States, and Indian Tribes may—
+
+(A) provide technical assistance and facilitate the distribution and sharing of information to reduce the likelihood and consequences of disruptive events; and
+
+(B) promulgate consumer-facing information and resources to inform the public of best practices and resources relating to reducing the likelihood and consequences of disruptive events.
+
+(2) Use of funds by the Secretary Of the amounts made available to the Secretary to carry out the program each fiscal year, the Secretary may use not more than 5 percent for—
+
+(A) providing technical assistance under paragraph (1)(A); and
+
+(B) administrative expenses associated with the program.
+
+(h) Matching requirement (1) In general Except as provided in paragraph (2), an eligible entity that receives a grant under this section shall be required to match 100 percent of the amount of the grant.
+
+(2) Exception for small utilities An eligible entity that sells not more than 4,000,000 megawatt hours of electricity per year shall be required to match ⅓ of the amount of the grant.
+
+(i) Biennial report to Congress (1) In general Not later than 2 years after November 15, 2021, and every 2 years thereafter through 2026, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the program.
+
+(2) Requirements The report under paragraph (1) shall include information and data on—
+
+(A) the costs of the projects for which grants are awarded to eligible entities;
+
+(B) the types of activities, technologies, equipment, and hardening measures funded by those grants; and
+
+(C) the extent to which the ability of the power grid to withstand disruptive events has increased.
+
+(j) Authorization of appropriations There is authorized to be appropriated to the Secretary to carry out the program $5,000,000,000 for the period of fiscal years 2022 through 2026.
+
+(Pub. L. 117–58, div. D, title I, § 40101, Nov. 15, 2021, 135 Stat. 923.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Wage Rate RequirementsFor provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+
+Executive Documents
+
+Ex. Ord. No. 14262. Strengthening the Reliability and Security of the United States Electric Grid Ex. Ord. No. 14262, Apr. 8, 2025, 90 F.R. 15521, provided: By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Purpose. The United States is experiencing an unprecedented surge in electricity demand driven by rapid technological advancements, including the expansion of artificial intelligence data centers and an increase in domestic manufacturing. This increase in demand, coupled with existing capacity challenges, places a significant strain on our Nation’s electric grid. Lack of reliability in the electric grid puts the national and economic security of the American people at risk. The United States’ ability to remain at the forefront of technological innovation depends on a reliable supply of energy from all available electric generation sources and the integrity of our Nation’s electric grid. Sec. 2. Policy. It is the policy of the United States to ensure the reliability, resilience, and security of the electric power grid. It is further the policy of the United States that in order to ensure adequate and reliable electric generation in America, to meet growing electricity demand, and to address the national emergency declared pursuant to Executive Order 14156 of January 20, 2025 (Declaring a National Energy Emergency) [50 U.S.C. 1621 note], our electric grid must utilize all available power generation resources, particularly those secure, redundant fuel supplies that are capable of extended operations. Sec. 3. Addressing Energy Reliability and Security with Emergency Authority. (a) To safeguard the reliability and security of the United States’ electric grid during periods when the relevant grid operator forecasts a temporary interruption of electricity supply is necessary to prevent a complete grid failure, the Secretary of Energy, in consultation with such executive department and agency heads as the Secretary of Energy deems appropriate, shall, to the maximum extent permitted by law, streamline, systemize, and expedite the Department of Energy’s processes for issuing orders under section 202(c) of the Federal Power Act [16 U.S.C. 824a(c)] during the periods of grid operations described above, including the review and approval of applications by electric generation resources seeking to operate at maximum capacity. (b) Within 30 days of the date of this order [Apr. 8, 2025], the Secretary of Energy shall develop a uniform methodology for analyzing current and anticipated reserve margins for all regions of the bulk power system regulated by the Federal Energy Regulatory Commission and shall utilize this methodology to identify current and anticipated regions with reserve margins below acceptable thresholds as identified by the Secretary of Energy. This methodology shall: (i) analyze sufficiently varied grid conditions and operating scenarios based on historic events to adequately inform the methodology; (ii) accredit generation resources in such conditions and scenarios based on historical performance of each specific generation resource type in the real time conditions and operating scenarios of each grid scenario; and (iii) be published, along with any analysis it produces, on the Department of Energy’s website within 90 days of the date of this order. (c) The Secretary of Energy shall establish a process by which the methodology described in subsection (b) of this section, and any analysis and results it produces, are assessed on a regular basis, and a protocol to identify which generation resources within a region are critical to system reliability. This protocol shall additionally: (i) include all mechanisms available under applicable law, including section 202(c) of the Federal Power Act, to ensure any generation resource identified as critical within an at-risk region is appropriately retained as an available generation resource within the at-risk region; and (ii) prevent, as the Secretary of Energy deems appropriate and consistent with applicable law, including section 202 of the Federal Power Act, an identified generation resource in excess of 50 megawatts of nameplate capacity from leaving the bulk-power system or converting the source of fuel of such generation resource if such conversion would result in a net reduction in accredited generating capacity, as determined by the reserve margin methodology developed under subsection (b) of this section. Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect: (i) the authority granted by law to an executive department or agency, or the head thereof; or (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals. (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations. (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. Donald J. Trump.

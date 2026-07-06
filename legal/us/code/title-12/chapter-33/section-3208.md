@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 3208"
+description: "Powers available to Attorney General for enforcement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "33"
+chapter_name: "DEPOSITORY INSTITUTION MANAGEMENT INTERLOCKS"
+section: "3208"
+citation: "12 U.S.C. § 3208"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s3208"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "89d40e115b3327cc4b4850e6350964e82e138304d5f15dcadc3ab74abdc1e356"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "a6a357cb7f853936c97497fa05f8c4542d1f50cdc7bfb54f22e42f8da9486682"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 3208 - Powers available to Attorney General for enforcement
+
+## Text
+
+(a) For the purpose of the exercise by the Attorney General of the enforcement functions of the Attorney General under section 3206(6) 11 See References in Text note below. of this title, all of the functions and powers of the Attorney General under the Clayton Act [15 U.S.C. 12 et seq.] are available to the Attorney General, irrespective of any jurisdictional tests in the Clayton Act, including the power to take enforcement actions in the same manner as if the violation had been a violation of the Clayton Act.
+
+(b) All of the functions and powers of the Attorney General or the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice are available to the Attorney General or to such Assistant Attorney General to investigate possible violations under section 3206(6) 1 of this title in the same manner as if such possible violations were possible violations of the Clayton Act [15 U.S.C. 12 et seq.].
+
+(Pub. L. 95–630, title II, § 210, as added Pub. L. 97–320, title IV, § 426, Oct. 15, 1982, 96 Stat. 1524; amended Pub. L. 111–203, title III, § 360(3), July 21, 2010, 124 Stat. 1549.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 3206(6) of this title, referred to in text, was redesignated section 3206(5) by Pub. L. 111–203, title III, § 360(1)(E), July 21, 2010, 124 Stat. 1549. The Clayton Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+
+Amendments2010—Subsec. (a). Pub. L. 111–203 substituted “the enforcement functions of the Attorney General” for “his enforcement functions”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.

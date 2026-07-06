@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 253"
+description: "Medical services to Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "253"
+citation: "42 U.S.C. § 253"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s253"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "9c8aa640a885ec4640a96f7f4399abd836d461a623a695bcfd93b61ef2aa072a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "ad070b2d2cf7cbf1ed40440ae4e02042dd97b4734c57b4da49aa18124f0b1e9d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 253 - Medical services to Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service
+
+## Text
+
+(a) Persons entitled to medical services Subject to regulations of the President—
+
+(1) commissioned officers, chief warrant officers, warrant officers, cadets, and enlisted personnel of the Regular Coast Guard on active duty, including those on shore duty and those on detached duty; and Regular, and temporary members of the United States Coast Guard Reserve when on active duty;
+
+(2) commissioned officers, ships’ officers, and members of the crews of vessels of the National Oceanic and Atmospheric Administration on active duty, including those on shore duty and those on detached duty; and
+
+(3) commissioned officers of the Regular or Reserve Corps 11 See Change of Name note below. of the Public Health Service on active duty;
+
+shall be entitled to medical, surgical, and dental treatment and hospitalization by the Service. The Surgeon General may detail commissioned officers for duty aboard vessels of the Coast Guard or the National Oceanic and Atmospheric Administration.
+
+(b) Health care for involuntarily separated officers and dependents (1) The Secretary may provide health care for an officer of the Regular or Reserve Corps 1 involuntarily separated from the Service, and for any dependent of such officer, if—
+
+(A) the officer or dependent was receiving health care at the expense of the Service at the time of separation; and
+
+(B) the Secretary finds that the officer or dependent is unable to obtain appropriate insurance for the conditions for which the officer or dependent was receiving health care.
+
+(2) Health care may be provided under paragraph (1) for a period of not more than one year from the date of separation of the officer from the Service.
+
+(c) Examination of personnel of Service assigned to Coast Guard or National Oceanic and Atmospheric Administration The Service shall provide all services referred to in subsection (a) required by the Coast Guard or National Oceanic and Atmospheric Administration and shall perform all duties prescribed by statute in connection with the examinations to determine physical or mental condition for purposes of appointment, enlistment, and reenlistment, promotion and retirement, and officers of the Service assigned to duty on Coast Guard or National Oceanic and Atmospheric Administration vessels may extend aid to the crews of American vessels engaged in deep-sea fishing.
+
+(July 1, 1944, ch. 373, title III, § 326, 58 Stat. 697; June 7, 1956, ch. 374, § 306(3), 70 Stat. 254; Pub. L. 86–415, § 5(d), Apr. 8, 1960, 74 Stat. 34; Pub. L. 88–71, § 2, July 19, 1963, 77 Stat. 83; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 99–117, § 5, Oct. 7, 1985, 99 Stat. 492.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1985—Subsec. (b). Pub. L. 99–117 added subsec. (b). 1963—Subsec. (b). Pub. L. 88–71, § 2(a), repealed subsec. (b) which provided for treatment of dependents of personnel. See section 253a(b) of this title. Subsec. (c). Pub. L. 88–71, § 2(b), inserted “or Coast and Geodetic Survey” after “Coast Guard” in two places. 1960—Subsec. (a). Pub. L. 86–415 struck out provisions which authorized medical, surgical, and dental care and hospitalization for retired personnel of Coast Guard, Coast and Geodetic Survey, and Public Health Service. 1956—Subsec. (b). Act June 7, 1956, repealed subsec. (b) except insofar as it related to dependent members of families of ships’ officers and members of crews of vessels of Coast and Geodetic Survey.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title. “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+Effective Date of 1956 AmendmentAmendment by act June 7, 1956, effective six months after June 7, 1956, see section 307 of act June 7, 1956.
+
+Transfer of Functions For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Executive Documents
+
+Change of Name Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, abolished Environmental Science Services Administration, established National Oceanic and Atmospheric Administration, and redesignated Commissioned Officer Corps of ESSA as Commissioned Officer Corps of NOAA. For further details, see Transfer of Functions note set out under section 851 of Title 33, Navigation and Navigable Waters.
+
+Transfer of Functions Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855 80 Stat. 1610, set out as a note under section 202 of this title.

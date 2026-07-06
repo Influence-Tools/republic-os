@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3035"
+description: "Central Intelligence Agency"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3035"
+citation: "50 U.S.C. § 3035"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3035"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "c603a8f54de41cefc3b0d77eaadd7dbaeebdb41cbc9001c7c69f887bb5da08be"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "fef8d39bb5b88a06d771091c6098e2cca07ab9cc60d3aedf85b4bb3109992c18"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3035 - Central Intelligence Agency
+
+## Text
+
+(a) Central Intelligence Agency There is a Central Intelligence Agency.
+
+(b) Function The function of the Central Intelligence Agency is to assist the Director of the Central Intelligence Agency in carrying out the responsibilities specified in section 3036(c) of this title.
+
+(July 26, 1947, ch. 343, title I, § 104, as added Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3660.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 403–4 of this title prior to editorial reclassification and renumbering as this section.
+
+Prior ProvisionsA prior section 104 of act July 26, 1947, ch. 343, title I, as added Pub. L. 102–496, title VII, § 705(a)(3), Oct. 24, 1992, 106 Stat. 3192; amended Pub. L. 104–106, div. A, title XV, § 1502(f)(5), Feb. 10, 1996, 110 Stat. 510; Pub. L. 104–293, title VIII, § 807(b), Oct. 11, 1996, 110 Stat. 3480; Pub. L. 106–65, div. A, title X, § 1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–567, title I, § 105, Dec. 27, 2000, 114 Stat. 2834; Pub. L. 107–306, title III, §§ 321, 353(b)(1)(A), (4), Nov. 27, 2002, 116 Stat. 2391, 2402, related to authorities of Director of Central Intelligence, prior to repeal by Pub. L. 108–458, title I, §§ 1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See sections 3024 and 3036 of this title. Another prior section 104 of act July 26, 1947, was renumbered section 108 and is classified to section 3043 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateFor Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title. Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+Executive Documents
+
+Communication of Restricted DataAuthorization for the communication of Restricted Data by the Central Intelligence Agency, see Ex. Ord. No. 10899, eff. Dec. 9, 1960, 25 F.R. 12729, set out as a note under section 2162 of Title 42, The Public Health and Welfare.

@@ -1,0 +1,141 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 6801"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "87"
+chapter_name: "FEDERAL LANDS RECREATION ENHANCEMENT"
+section: "6801"
+citation: "16 U.S.C. § 6801"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s6801"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "8b52414aea6ca16ece6e513b39622f9e542bdab90c7b304d87dedf5292178562"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "3f173f9c2a1dccbd080837d21b2183197d9f98859369b8815577df2233ac5a37"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 6801 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) Entrance fee The term “entrance fee” means the recreation fee authorized to be charged to enter onto lands managed by the National Park Service or the United States Fish and Wildlife Service.
+
+(2) Expanded amenity recreation fee The term “expanded amenity recreation fee” means the recreation fee authorized by section 6802(g) of this title.
+
+(3) Federal land management agency The term “Federal land management agency” means the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service.
+
+(4) Federal recreational lands and waters The term “Federal recreational lands and waters” means lands or waters managed by a Federal land management agency.
+
+(5) National Parks and Federal Recreational Lands Pass The term “National Parks and Federal Recreational Lands Pass” means the interagency national pass authorized by section 6804 of this title.
+
+(6) Passholder The term “passholder” means the person who is issued a recreation pass.
+
+(7) Recreation fee The term “recreation fee” means an entrance fee, standard amenity recreation fee, expanded amenity recreation fee, or special recreation permit fee.
+
+(8) Recreation pass The term “recreation pass” means the National Parks and Federal Recreational Lands Pass or one of the other recreation passes available as authorized by section 6804 of this title.
+
+(9) Recreation service provider The term “recreation service provider” means a person that provides recreational services to the public under a special recreation permit under clause (iii) or (iv) of paragraph (13)(A).
+
+(10) Secretaries The term “Secretaries” means the Secretary of the Interior and the Secretary of Agriculture acting jointly.
+
+(11) Secretary The term “Secretary” means—
+
+(A) the Secretary of the Interior, with respect to a Federal land management agency (other than the Forest Service); and
+
+(B) the Secretary of Agriculture, with respect to the Forest Service.
+
+(12) Special account The term “special account” means the special account established in the Treasury under section 6806 of this title for a Federal land management agency.
+
+(13) Special recreation permit (A) In general The term “special recreation permit” means a permit issued by a Federal land management agency for the use of Federal recreational lands and waters—
+
+(i) for a specialized recreational use not described in clause (ii), (iii), or (iv), such as—
+
+(I) an organizational camp;
+
+(II) a single event that does not require an entry or participation fee that is not strictly a sharing of expenses for the purposes of the event; and
+
+(III) participation by the public in a recreation activity or recreation use of a specific area of Federal recreational lands and waters in which use by the public is allocated;
+
+(ii) for a large-group activity or event of 75 participants or more;
+
+(iii) for—
+
+(I) at the discretion of the Secretary, a single organized group recreation activity or event (including an activity or event in which motorized recreational vehicles are used or in which outfitting and guiding services are used) that—
+
+(aa) is a structured or scheduled event or activity;
+
+(bb) is not competitive and is for fewer than 75 participants;
+
+(cc) may charge an entry or participation fee;
+
+(dd) involves fewer than 200 visitor-use days; and
+
+(ee) is undertaken or provided by the recreation service provider at the same site not more frequently than 3 times a year;
+
+(II) a single competitive event; or
+
+(III) at the discretion of the Secretary, a recurring organized group recreation activity (including an outfitting and guiding activity) that—
+
+(aa) is a structured or scheduled activity;
+
+(bb) is not competitive;
+
+(cc) may charge a participation fee;
+
+(dd) occurs in a group size of fewer than 7 participants;
+
+(ee) involves fewer than 40 visitor-use days; and
+
+(ff) is undertaken or provided by the recreation service provider for a term of not more than 180 days; or
+
+(iv) for—
+
+(I) a recurring outfitting, guiding, or, at the discretion of the Secretary, other recreation service, the authorization for which is for a term of not more than 10 years; or
+
+(II) a recurring outfitting, guiding, or, at the discretion of the Secretary, other recreation service, that occurs under a temporary special recreation permit authorized under section 8545 of this title.
+
+(B) Exclusions The term “special recreation permit” does not include—
+
+(i) a concession contract for the provision of accommodations, facilities, or services;
+
+(ii) a commercial use authorization issued under section 101925 of title 54; or
+
+(iii) any other type of permit, including a special use permit administered by the National Park Service.
+
+(14) Special recreation permit fee The term “special recreation permit fee” means the fee authorized by section 6802(h)(2) of this title.
+
+(15) Standard amenity recreation fee The term “standard amenity recreation fee” means the recreation fee authorized by section 6802(f) of this title.
+
+(16) State The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
+
+(Pub. L. 108–447, div. J, title VIII, § 802, Dec. 8, 2004, 118 Stat. 3377; Pub. L. 118–234, title III, § 311(a), Jan. 4, 2025, 138 Stat. 2891.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Pub. L. 118–234, § 311(a)(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter. Par. (1). Pub. L. 118–234, § 311(a)(8), redesignated par. (3) as (1). Former par. (1) redesignated (15). Pub. L. 118–234, § 311(a)(2), prior to redesignation of par. (1) as (15), made technical amendment to reference in original act which appears in text as reference to section 6802(f) of this title. Par. (2). Pub. L. 118–234, § 311(a)(3), made technical amendment to reference in original act which appears in text as reference to section 6802(g) of this title. Pars. (3) to (5). Pub. L. 118–234, § 311(a)(8), redesignated pars. (4) to (6) as (3) to (5), respectively. Former par. (3) redesignated (1). Par. (6). Pub. L. 118–234, § 311(a)(8), redesignated par. (7) as (6). Former par. (6) redesignated (5). Pub. L. 118–234, § 311(a)(4), prior to redesignation of par. (6) as (5), made technical amendment to reference in original act which appears in text as reference to section 6804 of this title. Pars. (7), (8). Pub. L. 118–234, § 311(a)(8), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6). Par. (9). Pub. L. 118–234, § 311(a)(9), added par. (9). Former par. (9) redesignated (8). Pub. L. 118–234, § 311(a)(5), prior to redesignation of par. (9) as (8), made technical amendment to reference in original act which appears in text as reference to section 6804 of this title. Pars. (10), (11). Pub. L. 118–234, § 311(a)(8), redesignated pars. (10) and (11) as (11) and (10), respectively. Par. (12). Pub. L. 118–234, § 311(a)(6), made technical amendment to reference in original act which appears in text as reference to section 6806 of this title. Par. (13). Pub. L. 118–234, § 311(a)(10), added par. (13). Former par. (13) redesignated (14). Pub. L. 118–234, § 311(a)(7), prior to redesignation of par. (13) as (14), substituted “section 6802(h)(2) of this title” for “section 6802(h) of this title”. Par. (14). Pub. L. 118–234, § 311(a)(8), redesignated par. (13) as (14). Par. (15). Pub. L. 118–234, § 311(a)(8), redesignated par. (1) as (15). Par. (16). Pub. L. 118–234, § 311(a)(11), added par. (16).
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2020 AmendmentPub. L. 116–205, § 1, Dec. 3, 2020, 134 Stat. 996, provided that: “This Act [amending section 6804 of this title] may be cited as the ‘Wounded Veterans Recreation Act’.”
+
+Short TitlePub. L. 108–447, div. J, title VIII, § 801(a), Dec. 8, 2004, 118 Stat. 3377, provided that: “This title [enacting this chapter, amending section 460l–6a of this title, repealing sections 3911, 5982, and 5991 to 5995 of this title, and repealing provisions set out as a note under 460l–6a of this title] may be cited as the ‘Federal Lands Recreation Enhancement Act’.”
+
+Executive Documents
+
+Ex. Ord. No. 14314. Making America Beautiful Again by Improving Our National Parks Ex. Ord. No. 14314, July 3, 2025, 90 F.R. 30201, provided: By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. Policy. From the awe-inspiring Grand Canyon to the tranquility of the Great Smoky Mountains, America’s national parks have provided generations of American families with unforgettable memories. It is the policy of my Administration to preserve these opportunities for American families in future generations by increasing entry fees for foreign tourists, improving affordability for United States residents, and expanding opportunities to enjoy America’s splendid national treasures. Sec. 2. Making America Beautiful Again by Improving Our National Parks. (a) The Secretary of the Interior shall develop a strategy to increase revenue and improve the recreational experience at national parks by appropriately increasing entrance fees and recreation pass fees for nonresidents in areas of the National Park System that charge entrance fees or recreation pass fees as defined in 16 U.S.C. 6801 [section 802 of Pub. L. 108–447]. Additionally, to the extent consistent with applicable law, the Secretary of the Interior, working with the Secretary of Agriculture as appropriate, shall take steps to increase the prices at which the America the Beautiful Pass—the National Parks and Federal Recreational Lands Pass—and any site-specific agency or regional multi-entity passes are sold to nonresidents. (b) The Secretary of the Interior shall use any increased fee revenue generated pursuant to subsection (a) of this section to improve the infrastructure of, or otherwise enhance enjoyment of or access to, America’s Federal recreational areas, consistent with 16 U.S.C. 6807 [section 808 of Pub. L. 108–447]. (c) The Secretary of the Interior, working with the Secretary of Agriculture as appropriate, shall take steps to improve services and affordability for United States residents visiting national parks, as consistent with applicable law. (d) The Secretary of the Interior, working with the Secretary of State, shall work to encourage international tourism to America’s national parks and outdoor recreation areas, and especially wider utilization of America’s many such areas that may be underutilized. (e) The Secretary of the Interior shall review the maintenance backlog within the National Park Service and take all appropriate action to fully implement the National Parks and Public Land Legacy Restoration Fund established in the Great American Outdoors Act (Public Law 116–152) [see Tables for classification], invest in the infrastructure of national parks, and increase visitor capacity to allow more Americans to visit national parks. (f) The Secretary of the Interior shall review all of the Department of the Interior’s rules and policies related to public use of national parks and take actions consistent with applicable law to ensure that the National Park Service manages national parks consistent with the policy of this order. The Secretary of the Interior shall review all of the Department’s recreational access rules and take steps to rescind any that unnecessarily restrict recreation in national parks. In conducting this review, the Secretary of the Interior shall especially scrutinize all recreational access rules or other restrictions promulgated or enacted during the prior administration. The Secretary of the Interior shall take appropriate actions to grant American residents preferential treatment with respect to any remaining recreational access rules, including permitting or lottery rules, consistent with applicable law. Sec. 3. Revocation. The Presidential Memorandum of January 12, 2017 (Promoting Diversity and Inclusion in Our National Parks, National Forests, and Other Public Lands and Waters) [42 U.S.C. 2000e note], is hereby revoked. Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect: (i) the authority granted by law to an executive department, agency, or the head thereof; or (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals. (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations. (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. (d) The costs for publication of this order shall be borne by the Department of the Interior. Donald J. Trump.

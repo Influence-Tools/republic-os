@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 5622"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "53"
+chapter_name: "WALL STREET REFORM AND CONSUMER PROTECTION"
+section: "5622"
+citation: "12 U.S.C. § 5622"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s5622"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "0d5615ad647ed3b321855f9aee015cd0e9b9b31cf537721bdda810424d9d9f74"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "e4fd8b5fca90c5e05ac8f49c59ed9340eff242e119b3a625bb6ec4d02d521fbb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 5622 - Definitions
+
+## Text
+
+In this subchapter, the following definitions shall apply:
+
+(1) Account The term “account” means an agreement between an individual and an eligible entity under which the individual obtains from or through the entity 1 or more banking products and services, and includes a deposit account, a savings account (including a money market savings account), an account for a closed-end loan, and other products or services, as the Secretary deems appropriate.
+
+(2) Community development financial institution The term “community development financial institution” has the same meaning as in section 4702(5) of this title.
+
+(3) Eligible entity The term “eligible entity” means—
+
+(A) an organization described in section 501(c)(3) of title 26, and exempt from tax under section 501(a) of such title;
+
+(B) a federally insured depository institution;
+
+(C) a community development financial institution;
+
+(D) a State, local, or tribal government entity; or
+
+(E) a partnership or other joint venture comprised of 1 or more of the entities described in subparagraphs (A) through (D), in accordance with regulations prescribed by the Secretary under this subchapter.
+
+(4) Federally insured depository institution The term “federally insured depository institution” means any insured depository institution (as that term is defined in section 1813 of this title) and any insured credit union (as that term is defined in section 1752 of this title).
+
+(Pub. L. 111–203, title XII, § 1203, July 21, 2010, 124 Stat. 2129.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under section 5301 of this title and Tables.

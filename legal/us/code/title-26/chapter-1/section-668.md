@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 668"
+description: "Interest charge on accumulation distributions from foreign trusts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "1"
+chapter_name: "NORMAL TAXES AND SURTAXES"
+section: "668"
+citation: "26 U.S.C. § 668"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s668"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "42fccace6278e85984c64c3732cc1835b8510280711221176b4522dcea03d98f"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "a38a4cdbc75b139256f4f1bb34a663d7d472c1be2e45a8b3e27c8f4dffbd4e37"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 668 - Interest charge on accumulation distributions from foreign trusts
+
+## Text
+
+(a) General rule For purposes of the tax determined under section 667(a)—
+
+(1) Interest determined using underpayment rates The interest charge determined under this section with respect to any distribution is the amount of interest which would be determined on the partial tax computed under section 667(b) for the period described in paragraph (2) using the rates and the method under section 6621 applicable to underpayments of tax.
+
+(2) Period For purposes of paragraph (1), the period described in this paragraph is the period which begins on the date which is the applicable number of years before the date of the distribution and which ends on the date of the distribution.
+
+(3) Applicable number of years For purposes of paragraph (2)—
+
+(A) In general The applicable number of years with respect to a distribution is the number determined by dividing—
+
+(i) the sum of the products described in subparagraph (B) with respect to each undistributed income year, by
+
+(ii) the aggregate undistributed net income.
+
+The quotient determined under the preceding sentence shall be rounded under procedures prescribed by the Secretary.
+
+(B) Product described For purposes of subparagraph (A), the product described in this subparagraph with respect to any undistributed income year is the product of—
+
+(i) the undistributed net income for such year, and
+
+(ii) the sum of the number of taxable years between such year and the taxable year of the distribution (counting in each case the undistributed income year but not counting the taxable year of the distribution).
+
+(4) Undistributed income year For purposes of this subsection, the term “undistributed income year” means any prior taxable year of the trust for which there is undistributed net income, other than a taxable year during all of which the beneficiary receiving the distribution was not a citizen or resident of the United States.
+
+(5) Determination of undistributed net income Notwithstanding section 666, for purposes of this subsection, an accumulation distribution from the trust shall be treated as reducing proportionately the undistributed net income for undistributed income years.
+
+(6) Periods before 1996 Interest for the portion of the period described in paragraph (2) which occurs before January 1, 1996, shall be determined—
+
+(A) by using an interest rate of 6 percent, and
+
+(B) without compounding until January 1, 1996.
+
+(b) Limitation The total amount of the interest charge shall not, when added to the total partial tax computed under section 667(b), exceed the amount of the accumulation distribution (other than the amount of tax deemed distributed by section 666(b) or (c)) in respect of which such partial tax was determined.
+
+(c) Interest charge not deductible The interest charge determined under this section shall not be allowed as a deduction for purposes of any tax imposed by this title.
+
+(Added Pub. L. 94–455, title X, § 1014(b), Oct. 4, 1976, 90 Stat. 1617; amended Pub. L. 101–508, title XI, § 11802(f)(3), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 104–188, title I, § 1906(a), Aug. 20, 1996, 110 Stat. 1914.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, § 7(d), 76 Stat. 986; Dec. 30, 1969, Pub. L. 91–172, title III, § 331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L. 94–455, title VII, § 701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
+
+Amendments1996—Subsec. (a). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of the tax determined under section 667(a), the interest charge is an amount equal to 6 percent of the partial tax computed under section 667(b) multiplied by a fraction— “(1) the numerator of which is the sum of the number of taxable years between each taxable year to which the distribution is allocated under section 666(a) and the taxable year of the distribution (counting in each case the taxable year to which the distribution is allocated but not counting the taxable year of the distribution), and “(2) the denominator of which is the number of taxable years to which the distribution is allocated under section 666(a).” 1990—Subsec. (c). Pub. L. 101–508 substituted heading for one which read “Special rules” and amended text generally, restating provisions of former par. (1) as entire subsection and striking out former par. (2) which provided that for purposes of this section, undistributed net income existing in a trust as of January 1, 1977, would be treated as allocated under section 666(a) to the first taxable year beginning after December 31, 1976.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1996 AmendmentPub. L. 104–188, title I, § 1906(d)(1), Aug. 20, 1996, 110 Stat. 1916, provided that: “The amendment made by subsection (a) [amending this section] shall apply to distributions after the date of the enactment of this Act [Aug. 20, 1996].”
+
+Effective DatePub. L. 94–455, title X, § 1014(d), Oct. 4, 1976, 90 Stat. 1617, provided that: “The amendments made by this section [enacting this section and amending section 667 of this title] shall apply to taxable years beginning after December 31, 1976.”
+
+Savings ProvisionFor provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.

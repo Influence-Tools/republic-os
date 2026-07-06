@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "29 U.S.C. § 1144a"
+description: "Clarification of church welfare plan status under State insurance law"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 29
+title_name: "LABOR"
+chapter_number: "18"
+chapter_name: "EMPLOYEE RETIREMENT INCOME SECURITY PROGRAM"
+section: "1144a"
+citation: "29 U.S.C. § 1144a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc29@119-100.zip"
+source_identifier: "/us/usc/t29/s1144a"
+source_file: "data/legal/raw/us/code/title-29/usc29.xml"
+source_hash: "68a941b13bcfa72f1013e5a1627351431f616cf9c28b826b05c8998dc5af7cf2"
+raw_snapshot_hash: "123f65eaf0f6719b01d66f4a47cd03d5134b66fbd92ae96d7387b67454b98476"
+text_hash: "4eb84b20b08747a04bc66f2068a8ca9f42bfed3e20a65770dbfd512a4aa939b5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 29 U.S.C. § 1144a - Clarification of church welfare plan status under State insurance law
+
+## Text
+
+(a) In general For purposes of determining the status of a church plan that is a welfare plan under provisions of a State insurance law described in subsection (b), such a church plan (and any trust under such plan) shall be deemed to be a plan sponsored by a single employer that reimburses costs from general church assets, or purchases insurance coverage with general church assets, or both.
+
+(b) State insurance law A State insurance law described in this subsection is a law that—
+
+(1) requires a church plan, or an organization described in section 414(e)(3)(A) of title 26 and section 1002(33)(C)(i) of this title to the extent that it is administering or funding such a plan, to be licensed; or
+
+(2) relates solely to the solvency or insolvency of a church plan (including participation in State guaranty funds and associations).
+
+(c) Definitions For purposes of this section:
+
+(1) Church plan The term “church plan” has the meaning given such term by section 414(e) of title 26 and section 1002(33) of this title.
+
+(2) Reimburses costs from general church assets The term “reimburses costs from general church assets” means engaging in an activity that is not the spreading of risk solely for the purposes of the provisions of State insurance laws described in subsection (b).
+
+(3) Welfare plan The term “welfare plan”—
+
+(A) means any church plan to the extent that such plan provides medical, surgical, or hospital care or benefits, or benefits in the event of sickness, accident, disability, death or unemployment, or vacation benefits, apprenticeship or other training programs, or day care centers, scholarship funds, or prepaid legal services; and
+
+(B) does not include any entity, such as a health insurance issuer described in section 9832(b)(2) of title 26 or a health maintenance organization described in section 9832(b)(3) of title 26, or any other organization that does business with the church plan or organization sponsoring or maintaining such a plan.
+
+(d) Enforcement authority Notwithstanding any other provision of this section, for purposes of enforcing provisions of State insurance laws that apply to a church plan that is a welfare plan, the church plan shall be subject to State enforcement as if the church plan were an insurer licensed by the State.
+
+(e) Application of section Except as provided in subsection (d), the application of this section is limited to determining the status of a church plan that is a welfare plan under the provisions of State insurance laws described in subsection (b). This section shall not otherwise be construed to recharacterize the status, or modify or affect the rights, of any plan participant or beneficiary, including participants or beneficiaries who make plan contributions.
+
+(Pub. L. 106–244, § 2, July 10, 2000, 114 Stat. 499.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was not enacted as part of the Employee Retirement Income Security Act of 1974 which comprises this chapter.
+
+PurposePub. L. 106–244, § 1, July 10, 2000, 114 Stat. 499, provided that: “The purpose of this Act [enacting this section] is only to clarify the application to a church plan that is a welfare plan of State insurance laws that require or solely relate to licensing, solvency, insolvency, or the status of such plan as a single employer plan.”

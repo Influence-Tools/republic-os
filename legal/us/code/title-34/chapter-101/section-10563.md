@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 10563"
+description: "Allocation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "101"
+chapter_name: "JUSTICE SYSTEM IMPROVEMENT"
+section: "10563"
+citation: "34 U.S.C. § 10563"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s10563"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "8c868eb46be5823dc337d84dfe87a26f184eb2f11a977097a3f913b3d8f4702f"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "a7fd9ec20b4f89faea0a6031178d005c9c86b84d9bedc102c89ec41dcf705fcf"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 10563 - Allocation
+
+## Text
+
+(a) In general (1) Population allocation Eighty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated to each State that meets the requirements of section 10562 of this title so that each State shall receive an amount that bears the same ratio to the 85 percent of the total amount made available to carry out this subchapter for that fiscal year as the population of the State bears to the population of all States.
+
+(2) Discretionary allocation Fifteen percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated pursuant to the Attorney General’s discretion for competitive awards to States and units of local government. In making awards under this subchapter, the Attorney General shall consider the average annual number of part 1 violent crimes reported by each State to the Federal Bureau of Investigation for the 3 most recent calendar years for which data is available and consider the existing resources and current needs of the potential grant recipient.
+
+(3) Minimum requirement Each State shall receive not less than 1 percent of the amount made available to carry out this subchapter in each fiscal year.
+
+(4) Proportional reduction If the amounts available to carry out this subchapter in each fiscal year are insufficient to pay in full the total payment that any State is otherwise eligible to receive under paragraph (3), then the Attorney General shall reduce payments under paragraph (1) for such payment period to the extent of such insufficiency. Reductions under the preceding sentence shall be allocated among the States (other than States whose payment is determined under paragraph (3)) in the same proportions as amounts would be allocated under paragraph (1) without regard to paragraph (3).
+
+(b) State defined In this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, except that—
+
+(1) for purposes of the allocation under this section, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as 1 State; and
+
+(2) for purposes of paragraph (1), 67 percent of the amount allocated shall be allocated to American Samoa, and 33 percent shall be allocated to the Commonwealth of the Northern Mariana Islands.
+
+(Pub. L. 90–351, title I, § 2803, as added Pub. L. 106–561, § 2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, § 5001(b)(3), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 114–324, § 9(a)(2), Dec. 16, 2016, 130 Stat. 1955.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 3797l of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2016—Subsec. (a)(1). Pub. L. 114–324, § 9(a)(2)(A), substituted “Eighty-five percent” for “Seventy-five percent” and “85 percent” for “75 percent”. Subsec. (a)(2). Pub. L. 114–324, § 9(a)(2)(B), substituted “Fifteen percent” for “Twenty-five percent”. Subsec. (a)(3). Pub. L. 114–324, § 9(a)(2)(C), substituted “1 percent” for “0.6 percent”. 2002—Subsec. (a)(2). Pub. L. 107–273 substituted “for competitive awards to States and units of local government. In making awards under this subchapter, the Attorney General shall consider the average annual number of part 1 violent crimes reported by each State to the Federal Bureau of Investigation for the 3 most recent calendar years for which data is available and consider the existing resources and current needs of the potential grant recipient” for “to States with above average rates of part 1 violent crimes based on the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available”.

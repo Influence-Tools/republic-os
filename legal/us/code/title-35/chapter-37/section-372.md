@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "35 U.S.C. § 372"
+description: "National stage: Requirements and procedure"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 35
+title_name: "PATENTS"
+chapter_number: "37"
+chapter_name: "NATIONAL STAGE"
+section: "372"
+citation: "35 U.S.C. § 372"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc35@119-100.zip"
+source_identifier: "/us/usc/t35/s372"
+source_file: "data/legal/raw/us/code/title-35/usc35.xml"
+source_hash: "e232290363c012f377c4456cd4b4bdda7cdfd3fb0b70913226ff23f8cbb6238b"
+raw_snapshot_hash: "736cab508592dcf50013a1aed5ab108f72fd8493e76afc46848cdc35da38bbe3"
+text_hash: "af26f7321109f4eef1cf750e80643dfb8f6ee48491840a9903c5332ab9a52118"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 35 U.S.C. § 372 - National stage: Requirements and procedure
+
+## Text
+
+(a) All questions of substance and, within the scope of the requirements of the treaty and Regulations, procedure in an international application designating the United States shall be determined as in the case of national applications regularly filed in the Patent and Trademark Office.
+
+(b) In case of international applications designating but not originating in, the United States—
+
+(1) the Director may cause to be reexamined questions relating to form and contents of the application in accordance with the requirements of the treaty and the Regulations;
+
+(2) the Director may cause the question of unity of invention to be reexamined under section 121, within the scope of the requirements of the treaty and the Regulations; and
+
+(3) the Director may require a verification of the translation of the international application or any other document pertaining to the application if the application or other document was filed in a language other than English.
+
+(Added Pub. L. 94–131, § 1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 98–622, title IV, §§ 402(e), (f), 403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2011—Subsec. (b)(2). Pub. L. 112–29 struck out “of this title” after “121”. 2002—Subsec. (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below. 1999—Subsec. (b). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing. 1984—Subsec. (a). Pub. L. 98–622, § 403(a), substituted “Patent and Trademark Office” for “Patent Office”. Subsec. (b)(3). Pub. L. 98–622, § 402(e), added par. (3). Subsec. (c). Pub. L. 98–622, § 402(f), struck out subsec. (c) which related to cancellation of claims and payment of special fees.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2011 AmendmentAmendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+
+Effective Date of 1999 AmendmentAmendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+
+Effective Date of 1984 AmendmentAmendment by section 402(e), (f) of Pub. L. 98–622 effective six months after Nov. 8, 1984, see section 406(b) of Pub. L. 98–622, set out as a note under section 3 of this title. Amendment by section 403(a) of Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under section 351 of this title.
+
+Effective DateSection effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.

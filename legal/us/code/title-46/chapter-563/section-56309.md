@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 56309"
+description: "Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "563"
+chapter_name: "EMERGENCY ACQUISITION OF VESSELS"
+section: "56309"
+citation: "46 U.S.C. § 56309"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s56309"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "1a07678a3d584c1167dc29262d3b6a63b6299c1d3c1a25eeb89d6b18efef2750"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "4a0ebe4d9ff5c5b53081a1fc91219e34f5c2d5f698bce4e69a9c6b37d81b219e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 56309 - Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters
+
+## Text
+
+During any period in which vessels may be requisitioned under this chapter, the President is authorized and empowered through the Secretary of Transportation to purchase, or to requisition, or for any part of such period to charter or requisition the use of, or to take over the title to or possession of, for such use or disposition as he shall direct, any merchant vessel not owned by citizens of the United States which is lying idle in waters within the jurisdiction of the United States and which the President finds to be necessary to the national defense. Just compensation shall be determined and made to the owner or owners of any such vessel in accordance with the applicable provisions of this chapter. Such compensation hereunder, or advances on account thereof, shall be deposited with the Treasurer of the United States in a separate deposit fund. Payments for such compensation and also for payment of any valid claim upon such vessel in accord with the provisions of section 56305, shall be made from such fund upon the certificate of the Secretary of Transportation.
+
+(Added and amended Pub. L. 115–91, div. C, title XXXV, § 3504(a), Dec. 12, 2017, 131 Stat. 1911.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section, as added and amended by section 3504(a) of Pub. L. 115–91, is based on act Aug. 9, 1954, ch. 659, § 1, 68 Stat. 675; Pub. L. 96–70, title III, § 3302(c), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–31, § 12(152), Aug. 6, 1981, 95 Stat. 167, which was formerly classified to section 196 of Title 50, War and National Defense, before being transferred to this chapter and renumbered as this section.
+
+Amendments2017—Pub. L. 115–91, § 3504(a)(2), inserted section enumerator and catchline and, in text, substituted “this chapter” for “section 902 of the Merchant Marine Act, 1936, as amended” in two places and “section 56305” for “the second paragraph of subsection (d) of such section 902, as amended”. Pub. L. 115–91, § 3504(a)(1), transferred section 1 of act Aug. 9, 1954, to this chapter and renumbered it as this section. See Codification note above.
+
+Statutory Notes and Related Subsidiaries
+
+ReferencesPub. L. 115–91, div. C, title XXXV, § 3504(f), Dec. 12, 2017, 131 Stat. 1913, provided that: “Any reference in a law, regulation, document, paper, or other record of the United States to a section that is redesignated and transferred by this section [sections 1 to 3 of act Aug. 9, 1954, former 50 U.S.C. 196 to 198] is deemed to refer to such section as so redesignated and transferred [now 46 U.S.C. 56309 to 56311].”

@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 285o–2"
+description: "Drug Abuse Research Centers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "285o–2"
+citation: "42 U.S.C. § 285o–2"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s285o–2"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "86d6b1a957cd21d9090994edb176f46d042841fab6fd3f002ba32fa7dfaed07d"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "be2e5a834deb3d493a85e62c47f106dc91eb74ae45fb56f965d7e0767c7e59ec"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 285o–2 - Drug Abuse Research Centers
+
+## Text
+
+(a) Authority The Director of the Institute may designate National Drug Abuse Research Centers for the purpose of interdisciplinary research relating to drug abuse and other biomedical, behavioral, and social issues related to drug abuse. No entity may be designated as a Center unless an application therefore has been submitted to, and approved by, the Secretary. Such an application shall be submitted in such manner and contain such information as the Secretary may reasonably require. The Secretary may not approve such an application unless—
+
+(1) the application contains or is supported by reasonable assurances that—
+
+(A) the applicant has the experience, or capability, to conduct, through biomedical, behavioral, social, and related disciplines, long-term research on drug abuse and to provide coordination of such research among such disciplines;
+
+(B) the applicant has available to it sufficient facilities (including laboratory, reference, and data analysis facilities) to carry out the research plan contained in the application;
+
+(C) the applicant has facilities and personnel to provide training in the prevention and treatment of drug abuse;
+
+(D) the applicant has the capacity to train predoctoral and postdoctoral students for careers in research on drug abuse;
+
+(E) the applicant has the capacity to conduct courses on drug abuse problems and research on drug abuse for undergraduate and graduate students, and medical and osteopathic, nursing, social work, and other specialized graduate students; and
+
+(F) the applicant has the capacity to conduct programs of continuing education in such medical, legal, and social service fields as the Secretary may require.11 So in original. The period probably should be “; and”.
+
+(2) the application contains a detailed five-year plan for research relating to drug abuse.
+
+(b) Grants The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term “construction” has the meaning given that term by section 292a(1) 22 See References in Text note below. of this title.
+
+(c) Drug abuse and addiction research (1) Grants or cooperative agreements The Director of the Institute may make grants or enter into cooperative agreements to expand the current and ongoing interdisciplinary research and clinical trials with treatment centers of the National Drug Abuse Treatment Clinical Trials Network relating to drug abuse and addiction, including related biomedical, behavioral, and social issues.
+
+(2) Use of funds Amounts made available under a grant or cooperative agreement under paragraph (1) for drug abuse and addiction may be used for research and clinical trials relating to—
+
+(A) the effects of drug abuse on the human body, including the brain;
+
+(B) the addictive nature of drugs and how such effects differ with respect to different individuals;
+
+(C) the connection between drug abuse and mental health;
+
+(D) the identification and evaluation of the most effective methods of prevention of drug abuse and addiction;
+
+(E) the identification and development of the most effective methods of treatment of drug addiction, including pharmacological treatments;
+
+(F) risk factors for drug abuse;
+
+(G) effects of drug abuse and addiction on pregnant women and their fetuses; and
+
+(H) cultural, social, behavioral, neurological, and psychological reasons that individuals abuse drugs, or refrain from abusing drugs.
+
+(3) Research results The Director shall promptly disseminate research results under this subsection to Federal, State, and local entities involved in combating drug abuse and addiction.
+
+(July 1, 1944, ch. 373, title IV, § 464N, as added Pub. L. 102–321, title I, § 123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, § 2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, § 3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, § 2203, Nov. 2, 2002, 116 Stat. 1794; Pub. L. 109–482, title I, § 103(b)(34), Jan. 15, 2007, 120 Stat. 3688.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 292a of this title, referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292o and 295p of this title.
+
+Amendments2007—Subsec. (c)(4). Pub. L. 109–482 struck out par. (4) which authorized appropriations and provided they were supplemental to other funding of research on drug abuse. 2002—Subsec. (c). Pub. L. 107–273 amended heading and text of subsec. (c) generally, substituting provisions relating to grants or cooperative agreements for research and clinical trials relating to drug abuse and addiction for similar provisions relating to grants or cooperative agreements for research and clinical trials relating to methamphetamine abuse and addiction. 2000—Subsec. (c). Pub. L. 106–310 added subsec. (c). 1992—Subsec. (b). Pub. L. 102–352 substituted “292a(1)” for “292a(2)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2007 AmendmentAmendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+
+Effective DateSection effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.

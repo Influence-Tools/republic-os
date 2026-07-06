@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 1377"
+description: "Enforcement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "31"
+chapter_name: "MARINE MAMMAL PROTECTION"
+section: "1377"
+citation: "16 U.S.C. § 1377"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s1377"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "089ccd03081c2a35179eceb21f062cf2d444808f5469287dfe6e16bf36f17fd2"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "148b287c581dd718336502a8d9d0bff5a69eede0da01abfc6428b752b1d749d2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 1377 - Enforcement
+
+## Text
+
+(a) Utilization of personnel Except as otherwise provided in this subchapter, the Secretary shall enforce the provisions of this subchapter. The Secretary may utilize, by agreement, the personnel, services, and facilities of any other Federal agency for purposes of enforcing this subchapter.
+
+(b) State officers and employees The Secretary may also designate officers and employees of any State or of any possession of the United States to enforce the provisions of this subchapter. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes, but they shall not be held and considered as employees of the United States for the purposes of any laws administered by the Director of the Office of Personnel Management.
+
+(c) Warrants and other process for enforcement The judges of the district courts of the United States and the United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
+
+(d) Execution of process; arrest; search; seizure Any person authorized by the Secretary to enforce this subchapter may execute any warrant or process issued by any officer or court of competent jurisdiction for the enforcement of this subchapter. Such a person so authorized may, in addition to any other authority conferred by law—
+
+(1) with or without warrant or other process, arrest any person committing in his presence or view a violation of this subchapter or the regulations issued thereunder;
+
+(2) with a warrant or other process, or without a warrant if he has reasonable cause to believe that a vessel, other conveyance, or container subject to the jurisdiction of the United States or any person on board is in violation of any provision of this subchapter or the regulations issued thereunder, search such vessel or conveyance and arrest such person;
+
+(3) seize the cargo of any vessel or other conveyance subject to the jurisdiction of the United States used or employed contrary to the provisions of this subchapter or the regulations issued hereunder or which reasonably appears to have been so used or employed; and
+
+(4) seize, whenever and wherever found, all marine mammals and marine mammals products taken or retained in violation of this subchapter or the regulations issued thereunder and shall dispose of them, in accordance with regulations prescribed by the Secretary.
+
+(e) Disposition of seized cargo (1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant to this section, the Secretary shall expedite any proceedings commenced under section 1375(a) or (b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marine mammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
+
+(2) The Secretary may, with respect to any proceeding under section 1375(a) or (b) of this title, in lieu of holding any marine mammal or marine mammal product or other cargo, permit the person concerned to post bond or other surety satisfactory to the Secretary pending the disposition of such proceeding.
+
+(3) (A) Upon the assessment of a penalty pursuant to section 1375(a) of this title, all marine mammals and marine mammal products or other cargo seized in connection therewith may be proceeded against in any court of competent jurisdiction and forfeited to the Secretary for disposition by him in such manner as he deems appropriate.
+
+(B) Upon conviction for violation of section 1375(b) of this title, all marine mammals and marine mammal products seized in connection therewith shall be forfeited to the Secretary for disposition by him in such manner as he deems appropriate. Any other property or item so seized may, at the discretion of the court, be forfeited to the United States or otherwise disposed of.
+
+(4) If with respect to any marine mammal or marine mammal product or other cargo so seized—
+
+(A) a civil penalty is assessed under section 1375(a) of this title and no judicial action is commenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
+
+(B) no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with 11 So in original. Probably should be “within”. thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title.
+
+(Pub. L. 92–522, title I, § 107, Oct. 21, 1972, 86 Stat. 1037; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–479, title IX, § 902(c), Jan. 12, 2007, 120 Stat. 3665.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2007—Subsec. (d)(2). Pub. L. 109–479 substituted “vessel, other conveyance, or container” for “vessel or other conveyance”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name “United States magistrate judges” substituted for “United States magistrates” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+Effective DateSection effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
+
+Executive Documents
+
+Transfer of Functions “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.

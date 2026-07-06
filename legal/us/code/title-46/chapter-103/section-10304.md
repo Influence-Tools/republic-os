@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 10304"
+description: "Form of agreement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "103"
+chapter_name: "FOREIGN AND INTERCOASTAL VOYAGES"
+section: "10304"
+citation: "46 U.S.C. § 10304"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s10304"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "c5acb4188eeeba92e03854a5e97c83a8f20626ec1c21d1fabdf8628c2c7d1845"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "71ee195b80cae0a43edd7e0fcd7b7fd3a9d514e81b9a33335fe9e91b3648886f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 10304 - Form of agreement
+
+## Text
+
+The form of the agreement required by section 10302 of this title shall be in substance as follows: United States of America (Date and place of first signature of agreement): It is agreed between the master and seamen of the , of which is at present master, or whoever shall go for master, now bound from the port of to (here the voyage is to be described, and the places named at which the vessel is to touch, or if that cannot be done, the general nature and probable length of the voyage is to be stated). The seamen agree to conduct themselves in an orderly, faithful, honest, and sober manner, and to be at all times diligent in their respective duties, and to be obedient to the lawful commands of the master, or of an individual who lawfully succeeds the master, and of their superior officers in everything related to the vessel, and the stores and cargo of the vessel, whether on board, in boats, or on shore. In consideration of this service by the seamen to be performed, the master agrees to pay the crew, as wages, the amounts beside their names respectively expressed, and to supply them with provisions according to the annexed scale. It is agreed that any embezzlement, or willful or negligent destruction of any part of the vessel’s cargo or stores, shall be made good to the owner out of the wages of the person guilty of the embezzlement or destruction. If an individual holds himself or herself out as qualified for a duty which the individual proves incompetent to perform, the individual’s wages shall be reduced in proportion to the incompetency. It also is agreed that if a seaman considers himself or herself to be aggrieved by any breach of this agreement or otherwise, the seaman shall present the complaint to the master or officer in charge of the vessel, in a quiet and orderly manner, who shall take steps that the case requires. It also is agreed that (here any other stipulations may be inserted to which the parties agree, and that are not contrary to law). In witness whereof, the parties have subscribed their names to this agreement, on the dates beside their respective signatures. Signed by , master, on the day of , nineteen hundred and . Signature of seamanTime of service: Birthplace  Months Age  Days Height:Hospital money   FeetWhole wages   InchesWages due Description:Place and time of entry   ComplexionTime at which seaman is to   Hair be on board Wages each monthIn what capacity Wages each voyageAllotment payable to Advance wagesConduct qualifications Amount of monthly  allotment Note.—In the place for signature and descriptions of individuals engaged after the first departure of the vessel, the entries are to be made as above, except that the signature of the consul or vice consul, customs officer, or witness before whom the individual is engaged, is to be entered.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 562; Pub. L. 103–206, title IV, § 402, Dec. 20, 1993, 107 Stat. 2436.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource section (U.S. Code) 1030446:713 Section 10304 provides the form of the shipping articles of agreement. While the exact format need not be followed, the form that is used must contain all the pertinent elements.
+
+Editorial Notes
+
+Amendments1993—Pub. L. 103–206 struck out “Shipping commissioner’s signature or initials” immediately below “In what capacity” in the form.

@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 3521"
+description: "Approval of application"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "35"
+chapter_name: "SURVIVORS’ AND DEPENDENTS’ EDUCATIONAL ASSISTANCE"
+section: "3521"
+citation: "38 U.S.C. § 3521"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s3521"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "d43538580ca1dd384ae98588ceba7a551def4fac54a5d1b8fd7be4c734cfbbdc"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "f2d785532b52c7b2f23b0c4d85933f5eb3559c600cbe255c70cb36f2705759eb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 3521 - Approval of application
+
+## Text
+
+The Secretary shall approve an application if the Secretary finds that—
+
+(1) the proposed program of education constitutes a “program of education” as that term is defined in this chapter;
+
+(2) the eligible person is not already qualified, by reason of previous education or training, for the educational, professional, or vocational objective for which the program of education is offered;
+
+(3) the eligible person’s proposed educational institution or training establishment is in compliance with all the requirements of this chapter and chapter 36 of this title; and
+
+(4) it does not appear that the enrollment in or pursuit of such person’s program of education would violate any provisions of this chapter or chapter 36 of this title.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, § 1721; Pub. L. 94–502, title III, § 310(11), Oct. 15, 1976, 90 Stat. 2391; Pub. L. 96–466, title III, § 324, Oct. 17, 1980, 94 Stat. 2196; Pub. L. 99–576, title III, § 314(b)(1), (2), Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered § 3521, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1991—Pub. L. 102–83 renumbered section 1721 of this title as this section. 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing. 1986—Pub. L. 99–576 substituted “Approval of application” for “Final approval of application” in section catchline, struck out “finally” before “approve an application” in introductory provisions, struck out former cl. (1) which read “section 1720 of this title has been complied with;”, and redesignated cls. (2) to (5) as cls. (1) to (4), respectively. 1980—Pub. L. 96–466, among other changes, inserted provision conditioning approval of an application upon the educational institution’s or training establishment’s compliance with all the requirements of this chapter and chapter 36 of this title and substituted reference to the enrollment in or pursuit of such person’s program of education violating any provisions of this chapter or chapter 36 of this title for reference to the pursuit of such program violating any provision of this chapter. 1976—Pub. L. 94–502 substituted “if the Administrator finds” for “if he finds”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.

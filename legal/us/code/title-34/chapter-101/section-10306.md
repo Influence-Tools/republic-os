@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 10306"
+description: "Special rule"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "101"
+chapter_name: "JUSTICE SYSTEM IMPROVEMENT"
+section: "10306"
+citation: "34 U.S.C. § 10306"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s10306"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "e81a6cbeabc737807eb1721bd11eb52980491ffd2159a924b63879997ae561f1"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "6cacdb75c6e27cd764d7a0ef255f7db449296c181b2a4756b77be42d16847065"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 10306 - Special rule
+
+## Text
+
+(a) Retroactive eligibility Notwithstanding any other provision of law, a spouse or child of a Federal law enforcement officer killed in the line of duty on or after January 1, 1978,,11 So in original. and a spouse or child of a public safety officer killed in the line of duty on or after January 1, 1978, shall be eligible for assistance under this part, subject to the other limitations of this part.
+
+(b) Retroactive assistance The Attorney General shall (unless prospective assistance has been provided) provide retroactive assistance to a person eligible under this section for each month in which the person pursued a program of education at an eligible educational institution. The Attorney General shall apply the limitations contained in this part to retroactive assistance.
+
+(c) Prospective assistance The Attorney General may provide prospective assistance to a person eligible under this section on the same basis as assistance to a person otherwise eligible. In applying the limitations on assistance under this part, the Attorney General shall include assistance provided retroactively. A person eligible under this section may waive retroactive assistance and apply only for prospective assistance on the same basis as a person otherwise eligible.
+
+(Pub. L. 90–351, title I, § 1216, as added Pub. L. 104–238, § 2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 105–390, § 2(5), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 106–276, § 1(a), Oct. 2, 2000, 114 Stat. 812; Pub. L. 112–239, div. A, title X, § 1086(b)(1)(G), (J), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 117–61, § 5, Nov. 18, 2021, 135 Stat. 1479.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 3796d–5 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2021—Subsec. (b). Pub. L. 117–61 substituted “shall (unless prospective assistance has been provided)” for “may”. 2013—Subsec. (a). Pub. L. 112–239, § 1086(b)(1)(J)(i), substituted “a spouse or child” for “each dependent” in two places. Subsec. (b). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “to a person” for “to dependents” and “the person” for “the dependent”. Subsec. (c). Pub. L. 112–239, § 1086(b)(1)(G), (J)(ii), substituted “A person” for “A dependent” and substituted “a person” for “dependents” wherever appearing. 2000—Subsec. (a). Pub. L. 106–276 substituted “January 1, 1978,” for “May 1, 1992” and “January 1, 1978, shall” for “October 1, 1997, shall”. 1998—Subsec. (a). Pub. L. 105–390 inserted “and each dependent of a public safety officer killed in the line of duty on or after October 1, 1997,” after “1992,”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, see section 8(a) and (b)(2) of Pub. L. 117–61, set out in a note under section 10281 of this title.
+
+Effective Date of 2013 AmendmentAmendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
+
+Effective Date of 2000 AmendmentPub. L. 106–276, § 1(b), Oct. 2, 2000, 114 Stat. 812, provided that: “The amendments made by subsection (a) [amending this section] shall take effect October 1, 1999.”

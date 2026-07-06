@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1171"
+description: "Procedures to determine presumptions of service connection based on toxic exposure; definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "11"
+chapter_name: "COMPENSATION FOR SERVICE-CONNECTED DISABILITY OR DEATH"
+section: "1171"
+citation: "38 U.S.C. § 1171"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1171"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "11e0355dd865b09e45d74f9253c501ce0f3c975d461765368305a1e998ba86cf"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "f3f7a9a19370aea142d2f64b5738a427f18e080edc0b72c1763695a26ed970a3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1171 - Procedures to determine presumptions of service connection based on toxic exposure; definitions
+
+## Text
+
+(a) Procedures.— The Secretary shall determine whether to establish, or to remove, presumptions of service connection based on toxic exposure pursuant to this subchapter, whereby—
+
+(1) under section 1172 of this title—
+
+(A) the Secretary provides—
+
+(i) public notice regarding what formal evaluations the Secretary plans to conduct; and
+
+(ii) the public an opportunity to comment on the proposed formal evaluations;
+
+(B) the working group established under subsection (b) of such section provides—
+
+(i) advice to the Secretary on toxic-exposed veterans and cases in which veterans who, during active military, naval, air, or space service, may have experienced a toxic exposure or their dependents may have experienced a toxic exposure while the veterans were serving in the active military, naval, air, or space service;
+
+(ii) recommendations to the Secretary on corrections needed in the Individual Longitudinal Exposure Record to better reflect veterans and dependents described in clause (i); and
+
+(iii) recommendations to the Secretary regarding which cases of possible toxic exposure should be reviewed;
+
+(2) the Secretary provides for formal evaluations of such recommendations under section 1173 of this title and takes into account reports received by the Secretary from the National Academies of Sciences, Engineering, and Medicine under section 1176 of this title; and
+
+(3) the Secretary issues regulations under section 1174 of this title.
+
+(b) Definitions.— In this subchapter:
+
+(1) The term “illness” includes a disease or other condition affecting the health of an individual, including mental and physical health.
+
+(2) The term “Individual Longitudinal Exposure Record” means the data system maintained under section 996 of title 10.
+
+(Added Pub. L. 117–168, title II, § 202(a), Aug. 10, 2022, 136 Stat. 1767; amended Pub. L. 119–60, div. A, title V, § 521(b), Dec. 18, 2025, 139 Stat. 864.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (b)(2). Pub. L. 119–60 amended par. (2) generally. Prior to amendment, par. (2) defined the term “Individual Longitudinal Exposure Record”.
+
+Statutory Notes and Related Subsidiaries
+
+Correction of Exposure Records by Members of the Armed Forces and VeteransPub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided that: “(a) In General.—The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense to provide a means for veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or veteran in the Individual Longitudinal Exposure Record. “(b) Evidence.—“(1) Provision of evidence.—To update a record under subsection (a), a veteran shall provide such evidence as the Secretary of Veterans Affairs considers necessary. “(2) Regulations.—The Secretary of Veterans Affairs shall prescribe by regulation the evidence considered necessary under paragraph (1). “(c) Definitions.—In this section:“(1) Individual longitudinal exposure record.—The term ‘Individual Longitudinal Exposure Record’ has the meaning given such term in section 1171 of title 38, United States Code, as added by section 202. “(2) Toxic exposure.—The term ‘toxic exposure’ has the meaning given such term in section 101 of title 38, United States Code, as amended by section 102(b).”

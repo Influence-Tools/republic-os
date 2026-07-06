@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 2516"
+description: "Members asserting post-traumatic stress disorder or traumatic brain injury"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "25"
+chapter_name: "PERSONNEL; GENERAL PROVISIONS"
+section: "2516"
+citation: "14 U.S.C. § 2516"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s2516"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "44d50656ae5c12bf1a47ac46659202f0e1e750b0f1fcf9b53d959f2674a9e836"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "bc92449db699fcd9648111579eecbb1d1f34fece9d38281ceaf0d81588056c9d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 2516 - Members asserting post-traumatic stress disorder or traumatic brain injury
+
+## Text
+
+(a) Medical Examination Required.— (1) In general.— The Secretary shall ensure that a member of the Coast Guard who has performed Coast Guard operations described in section 102, and who is diagnosed by an appropriate licensed or certified healthcare professional as experiencing post-traumatic stress disorder or traumatic brain injury or who otherwise alleges, based on the service of the member the signs and symptoms of either such a condition, receives a medical examination to evaluate a diagnosis of post-traumatic stress disorder or traumatic brain injury.
+
+(2) Mental, behavioral, or emotional disorder.— A member of the Coast Guard who has been sexually assaulted during the preceding 5-year period and who alleges, based on such sexual assault, the signs and symptoms of a diagnosable mental, behavioral, or emotional disorder described within the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association—
+
+(A) is provided the opportunity to request a medical examination to clinically evaluate such signs and symptoms; and
+
+(B) receives such a medical examination to evaluate a diagnosis of post-traumatic stress disorder, traumatic brain injury, or diagnosable mental, behavioral, or emotional disorder described within the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
+
+(3) Restriction on administrative separation.— A member described in this subsection shall not be administratively separated under conditions other than honorable, including an administrative separation in lieu of a court-martial, until the results of the medical examination have been reviewed by appropriate authorities responsible for evaluating, reviewing, and approving the separation case, as determined by the Secretary.
+
+(4) Post-traumatic stress disorder.— In a case involving post-traumatic stress disorder or a diagnosable mental, behavioral, or emotional disorder under this subsection, a medical examination shall be performed by—
+
+(A) a board-certified psychiatrist;
+
+(B) a licensed doctorate-level psychologist;
+
+(C) any other appropriate licensed or certified healthcare professional designated by the Commandant; or
+
+(D) a psychiatry resident or board-eligible psychologist who—
+
+(i) has completed a 1-year internship or residency; and
+
+(ii) is under the close supervision of a board-certified psychiatrist or licensed doctorate-level psychologist.
+
+(5) Traumatic brain injury.— In a case involving traumatic brain injury under this subsection, a medical examination shall be performed by a physiatrist, psychiatrist, neurosurgeon, or neurologist.
+
+(b) Purpose of Medical Examination.— The medical examination required under subsection (a) shall assess whether the effects of mental or neurocognitive disorders, including post-traumatic stress disorder and traumatic brain injury or a diagnosable mental, behavioral, or emotional disorder, constitute matters in extenuation that relate to the basis for administrative separation under conditions other than honorable or the overall characterization of the service of the member as other than honorable.
+
+(c) Inapplicability to Proceedings Under Uniform Code of Military Justice.— The medical examination and procedures required by this section do not apply to courts-martial or other proceedings conducted pursuant to the Uniform Code of Military Justice.
+
+[(d) Repealed. Pub. L. 119–60, div. G, title LXXII, § 7201(k)(1)(B), Dec. 18, 2025, 139 Stat. 1687.]
+
+(e) Notification of Right to Request Medical Examination.— (1) In general.— Any member of the Coast Guard who receives a notice of involuntary administrative separation shall be advised at the time of such notice of the right of the member to request a medical examination under subsection (a) if any condition described in such subsection applies to the member.
+
+(2) Policy.— The Commandant shall—
+
+(A) develop and issue a clear policy for carrying out the notification required under paragraph (1) with respect to any member of the Coast Guard described in that paragraph who has made an unrestricted report of sexual assault; and
+
+(B) provide information on such policy to sexual assault response coordinators of the Coast Guard for the purpose of ensuring that such policy is communicated to members of the Coast Guard who may be eligible for a medical examination under this section.
+
+(Added Pub. L. 117–263, div. K, title CXIV, § 11410(a), Dec. 23, 2022, 136 Stat. 4116; amended Pub. L. 119–60, div. G, title LXXII, §§ 7201(k)(1), 7227, Dec. 18, 2025, 139 Stat. 1687, 1705.)
+
+## Notes
+
+Editorial Notes2025—Subsec. (a)(1). Pub. L. 119–60, § 7227(1)(A), struck out “or has been sexually assaulted during the preceding 2-year period” after “Coast Guard operations described in section 102” and substituted “the signs and symptoms of either” for “or based on such sexual assault, the influence of”. Pub. L. 119–60, § 7201(k)(1)(A), inserted “described in section 102” after “Coast Guard operations”. Subsec. (a)(2). Pub. L. 119–60, § 7227(1)(C), added par. (2). Former par. (2) redesignated (3). Subsec. (a)(3). Pub. L. 119–60, § 7227(1)(B), (D), redesignated par. (2) as (3) and substituted “this subsection” for “paragraph (1)”. Former par. (3) redesignated (4). Subsec. (a)(4). Pub. L. 119–60, § 7227(1)(B), (E)(i), (ii), redesignated par. (3) as (4) and inserted “or a diagnosable mental, behavioral, or emotional disorder” before “under this subsection” and “performed by” after “shall be” in introductory provisions. Former par. (4) redesignated (5). Subsec. (a)(4)(A) to (D). Pub. L. 119–60, § 7227(1)(E)(iii), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows: “(A) performed by—“(i) a board-certified or board-eligible psychiatrist; or “(ii) a licensed doctorate-level psychologist; or “(B) performed under the close supervision of—“(i) a board-certified or board-eligible psychiatrist; or “(ii) a licensed doctorate-level psychologist, a doctorate-level mental health provider, a psychiatry resident, or a clinical or counseling psychologist who has completed a 1-year internship or residency.” Subsec. (a)(5). Pub. L. 119–60, § 7227(1)(B), redesignated par. (4) as (5). Subsec. (b). Pub. L. 119–60, § 7227(2), inserted “or a diagnosable mental, behavioral, or emotional disorder” after “traumatic brain injury”. Subsec. (d). Pub. L. 119–60, § 7201(k)(1)(B), struck out subsec. (d). Prior to amendment, text read as follows: “In this section, the term ‘Coast Guard operations’ has the meaning given that term in section 888(a) of the Homeland Security Act of 2002 (6 U.S.C. 468(a)).” Subsec. (e). Pub. L. 119–60, § 7227(3), added subsec. (e).

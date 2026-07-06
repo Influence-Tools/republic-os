@@ -1,0 +1,89 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 21112"
+description: "Establishment of National ICAC Task Force Program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "211"
+chapter_name: "COMBATING CHILD EXPLOITATION"
+section: "21112"
+citation: "34 U.S.C. § 21112"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s21112"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "bfde05eaa8221cab72280776447c68757d8291db1ef906a37b2a56593c5a58be"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "fa8784f4db82173fbd413e4e9b752f416d522bf79b0ba87dbd1dbb099467a7cc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 21112 - Establishment of National ICAC Task Force Program
+
+## Text
+
+(a) Establishment (1) In general There is established within the Department of Justice, under the general authority of the Attorney General, a National Internet Crimes Against Children Task Force Program (hereinafter in this subchapter referred to as the “ICAC Task Force Program”), which shall consist of a national program of State, Tribal, military, and local law enforcement task forces dedicated to developing effective responses to online enticement of children by sexual predators, child exploitation, child obscenity and pornography cases, and the identification of child victims.
+
+(2) Intent of Congress It is the purpose and intent of Congress that the ICAC Task Force Program established under paragraph (1) is intended to continue the ICAC Task Force Program authorized under title I of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, and funded under title IV of the Juvenile Justice and Delinquency Prevention Act of 1974 [34 U.S.C. 11291 et seq.].
+
+(b) National program (1) State representation The ICAC Task Force Program established under subsection (a) shall include at least 1 ICAC task force in each State.
+
+(2) Capacity and continuity of investigations In order to maintain established capacity and continuity of investigations and prosecutions of child exploitation cases, the Attorney General, shall, in establishing the ICAC Task Force Program under subsection (a), evaluate the task forces funded under the ICAC Task Force Program to determine if those task forces are operating in an effective manner.
+
+(3) Ongoing review The Attorney General shall—
+
+(A) conduct periodic reviews of the effectiveness of each ICAC task force established under this section; and
+
+(B) have the discretion to establish a new or continue an existing task force if the Attorney General determines that such decision will enhance the effectiveness of combating child exploitation provided that the Attorney General notifies Congress in advance of any such decision and that each State maintains at least 1 ICAC task force at all times.
+
+(4) Training (A) In general The Attorney General shall establish national training programs to support the mission of the ICAC task forces, including the effective use of the National Internet Crimes Against Children Data System.
+
+(B) Review The Attorney General shall—
+
+(i) conduct periodic reviews of the effectiveness of each training session authorized by this paragraph; and
+
+(ii) consider outside reports related to the effective use of Federal funding in making future grant awards for training.
+
+(c) Limited liability for ICAC Task Forces (1) In general Except as provided in paragraph (2), a civil claim or criminal charge against an ICAC task force established pursuant to this section and sections 21113 and 21114 of this title, including any law enforcement agency that participates on such a task force or a director, officer, employee, or agent of such a law enforcement agency, arising from the prioritization decisions with respect to leads related to Internet crimes against children described in section 21114(8) of this title, may not be brought in any Federal or State court.
+
+(2) Intentional, reckless, or other misconduct Paragraph (1) shall not apply to a claim if the ICAC task force or law enforcement agency, or a director, officer, employee, or agent of that law enforcement agency—
+
+(A) engaged in intentional misconduct; or
+
+(B) acted, or failed to act—
+
+(i) with actual malice;
+
+(ii) with gross negligence or reckless disregard to a substantial risk of causing physical injury without legal justification; or
+
+(iii) for a purpose unrelated to the performance of any responsibility or function under section 21114(8) of this title.
+
+(3) Rule of construction Nothing in this section shall be construed to—
+
+(A) create any independent basis of liability on behalf of, or any cause of action against—
+
+(i) an ICAC task force; or
+
+(ii) a law enforcement agency or a director, officer, employee, or agent of the law enforcement agency; or
+
+(B) expand any liability otherwise imposed, or limit any defense to that liability, otherwise available under Federal or State law.
+
+(Pub. L. 110–401, title I, § 102, Oct. 13, 2008, 122 Stat. 4233; Pub. L. 112–206, § 5, Dec. 7, 2012, 126 Stat. 1493; Pub. L. 119–60, div. H, title LXXXII, § 8202(b), Dec. 18, 2025, 139 Stat. 1841.)
+
+## Notes
+
+Editorial Notes
+
+References in TextTitle I of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (a)(2), is title I of Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. For complete classification of title I to the Code, see Tables. The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109. Title IV of the Act is classified generally to subchapter IV (§ 11291 et seq.) of chapter 111 of this title. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
+
+Codification Section was formerly classified to section 17612 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 119–60, § 8202(b)(1), inserted “, Tribal, military,” after “State” and substituted “child obscenity and pornography cases, and the identification of child victims” for “and child obscenity and pornography cases”. Subsec. (b)(2). Pub. L. 119–60, § 8202(b)(2)(A), substituted “, evaluate the task forces funded under the ICAC Task Force Program to determine if those task forces are operating in an effective manner.” for “consult with and consider all 59 task forces in existence on October 13, 2008. The Attorney General shall include all existing ICAC task forces in the ICAC Task Force Program, unless the Attorney General makes a determination that an existing ICAC does not have a proven track record of success.” Subsec. (b)(3)(B). Pub. L. 119–60, § 8202(b)(2)(B), substituted “establish a new or continue an existing task force” for “establish a new task force” and “State” for “state”. Subsec. (b)(4)(A). Pub. L. 119–60, § 8202(b)(2)(C)(i), substituted “shall establish” for “may establish”. Subsec. (b)(4)(B), (C). Pub. L. 119–60, § 8202(b)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Text read as follows: “In establishing training courses under this paragraph, the Attorney General may not award any one entity other than a law enforcement agency more than $4,000,000 annually to establish and conduct training courses for ICAC task force members and other law enforcement officials.” Subsec. (c). Pub. L. 119–60, § 8202(b)(3), added subsec. (c). 2012—Subsec. (b)(4)(B). Pub. L. 112–206 substituted “$4,000,000” for “$2,000,000”.

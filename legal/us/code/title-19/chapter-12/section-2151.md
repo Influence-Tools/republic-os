@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2151"
+description: "Advice from International Trade Commission"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2151"
+citation: "19 U.S.C. § 2151"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2151"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "e55a25001da8c89fb52abf6eafa17a79a00aacf952c21366c1730cb5a3c05c93"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "2159176ddd79f72bae703ad39c89d8f32c92adf201b44c3057a657120d67f0f8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2151 - Advice from International Trade Commission
+
+## Text
+
+(a) Lists of articles which may be considered for action (1) In connection with any proposed trade agreement under section 2133 of this title or subsection (a) or (b) of section 4202 of this title, the President shall from time to time publish and furnish the International Trade Commission (hereafter in this section referred to as the “Commission”) with lists of articles which may be considered for modification or continuance of United States duties, continuance of United States duty-free or excise treatment, or additional duties. In the case of any article with respect to which consideration may be given to reducing or increasing the rate of duty, the list shall specify the provision of this subchapter under which such consideration may be given.
+
+(2) In connection with any proposed trade agreement under section 4202(b) of this title, the President may from time to time publish and furnish the Commission with lists of nontariff matters which may be considered for modification.
+
+(b) Advice to President by Commission Within 6 months after receipt of a list under subsection (a) or, in the case of a list submitted in connection with a trade agreement, within 90 days after receipt of such list, the Commission shall advise the President, with respect to each article or nontariff matter, of its judgment as to the probable economic effect of modification of the tariff or nontariff measure on industries producing like or directly competitive articles and on consumers, so as to assist the President in making an informed judgment as to the impact which might be caused by such modifications on United States interests, such as sectors involved in manufacturing, agriculture, mining, fishing, services, intellectual property, investment, labor, and consumers. Such advice may include in the case of any article the advice of the Commission as to whether any reduction in the rate of duty should take place over a longer period of time than the minimum period provided for in section 4202(a)(4)(A) of this title.
+
+(c) Additional investigations and reports requested by President or Trade Representative In addition, in order to assist the President in his determination whether to enter into any agreement under section 2133 of this title or section 4202(a) of this title, or how to develop trade policy, priorities or other matters (such as priorities for actions to improve opportunities in foreign markets), the Commission shall make such investigations and reports as may be requested by the President or the United States Trade Representative on matters such as effects of modification of any barrier to (or other distortion of) international trade on domestic workers, industries or sectors, purchasers, prices and quantities of articles in the United States.
+
+(d) Commission steps in preparing its advice to President In preparing its advice to the President under this section, the Commission shall to the extent practicable—
+
+(1) investigate conditions, causes, and effects relating to competition between the foreign industries producing the articles or services in question and the domestic industries producing the like or directly competitive articles or services;
+
+(2) analyze the production, trade, and consumption of each like or directly competitive article or service, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production;
+
+(3) describe the probable nature and extent of any significant change in employment, profit levels, and use of productive facilities; the overall impact of such or other possible changes on the competitiveness of relevant domestic industries or sectors; and such other conditions as it deems relevant in the domestic industries or sectors concerned which it believes such modifications would cause; and
+
+(4) make special studies (including studies of real wages paid in foreign supplying countries), whenever deemed to be warranted, of particular proposed modifications affecting United States manufacturing, agriculture, mining, fishing, labor, consumers, services, intellectual property and investment, using to the fullest extent practicable United States Government facilities abroad and appropriate personnel of the United States.
+
+(e) Public hearings In preparing its advice to the President under this section, the Commission shall, after reasonable notice, hold public hearings.
+
+(Pub. L. 93–618, title I, § 131, Jan. 3, 1975, 88 Stat. 1994; Pub. L. 100–418, title I, § 1111(a), Aug. 23, 1988, 102 Stat. 1135; Pub. L. 107–210, div. B, title XXI, § 2110(a)(2), Aug. 6, 2002, 116 Stat. 1019; Pub. L. 114–26, title I, § 110(a)(1), June 29, 2015, 129 Stat. 357.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2015—Subsec. (a)(1). Pub. L. 114–26, § 110(a)(1)(A)(i), substituted “subsection (a) or (b) of section 4202 of this title” for “section 3803(a) or (b) of this title”. Subsec. (a)(2). Pub. L. 114–26, § 110(a)(1)(A)(ii), substituted “section 4202(b) of this title” for “section 3803(b) of this title”. Subsec. (b). Pub. L. 114–26, § 110(a)(1)(B), substituted “section 4202(a)(4)(A) of this title” for “section 3803(a)(3)(A) of this title”. Subsec. (c). Pub. L. 114–26, § 110(a)(1)(C), substituted “section 4202(a) of this title” for “section 3803 of this title”. 2002—Subsec. (a)(1). Pub. L. 107–210, § 2110(a)(2)(A)(i), substituted “section 2133 of this title or section 3803(a) or (b) of this title,” for “section 2133 of this title or section 2902(a) or (c) of this title,”. Subsec. (a)(2). Pub. L. 107–210, § 2110(a)(2)(A)(ii), substituted “section 3803(b) of this title” for “section 2902(b) or (c) of this title”. Subsec. (b). Pub. L. 107–210, § 2110(a)(2)(B), substituted “section 3803(a)(3)(A) of this title” for “section 2902(a)(3)(A) of this title”. Subsec. (c). Pub. L. 107–210, § 2110(a)(2)(C), substituted “section 3803 of this title,” for “section 2902 of this title,”. 1988—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), lists of articles which could be considered for modification or continuance of duties, duty-free or excise treatment, or additional duties; in subsec. (b), advice to President following receipt of list by Commission; in subsec. (c), additional investigations and reports requested by President; in subsec. (d), Commission steps in preparing its advice to President; and in subsec. (e), public hearings.
+
+Executive Documents
+
+Delegation of Authority For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.

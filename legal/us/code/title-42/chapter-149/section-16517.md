@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 16517"
+description: "Energy infrastructure reinvestment financing"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "149"
+chapter_name: "NATIONAL ENERGY POLICY AND PROGRAMS"
+section: "16517"
+citation: "42 U.S.C. § 16517"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s16517"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "c299c59e36b640f0778ebc0c064c6987eb595eaa9d4f0e23be42205c15709a8e"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "9ab744cc503d39564943b77ae5fbcd53969afb6ffc3566e18797021a9cc6bc32"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 16517 - Energy infrastructure reinvestment financing
+
+## Text
+
+(a) In general Notwithstanding section 16513 of this title, the Secretary may make guarantees, including refinancing, under this section only for projects that—
+
+(1) retool, repower, repurpose, or replace energy infrastructure that has ceased operations;
+
+(2) enable operating energy infrastructure to increase capacity or output; or
+
+(3) support or enable the provision of known or forecastable electric supply at time intervals necessary to maintain or enhance grid reliability or other system adequacy needs.
+
+(b) Inclusion A project under subsection (a) may include the remediation of environmental damage associated with energy infrastructure.
+
+(c) Application To apply for a guarantee under this section, an applicant shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
+
+(1) a detailed plan describing the proposed project; and
+
+(2) in the case of an applicant that is an electric utility, an assurance that the electric utility shall pass on any financial benefit from the guarantee made under this section to the customers of, or associated communities served by, the electric utility.
+
+(d) Term Notwithstanding section 16512(f) of this title, the term of an obligation shall require full repayment over a period not to exceed 30 years.
+
+(e) Definition of energy infrastructure In this section, the term “energy infrastructure” means a facility, and associated equipment, used for enabling the identification, leasing, development, production, processing, transportation, transmission, refining, and generation needed for energy and critical minerals.
+
+(f) Funding (1) In general In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, $1,000,000,000, to remain available through September 30, 2028, to carry out activities under this section.
+
+(2) Administrative costs Of the amount made available under paragraph (1), the Secretary shall use not more than 3 percent for administrative expenses.
+
+(Pub. L. 109–58, title XVII, § 1706, as added Pub. L. 117–169, title V, § 50144(c), Aug. 16, 2022, 136 Stat. 2045; amended Pub. L. 119–21, title V, § 50403(a), July 4, 2025, 139 Stat. 152.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a)(2). Pub. L. 119–21, § 50403(a)(1)(B), substituted “increase capacity or output; or” for “avoid, reduce, utilize, or sequester air pollutants or anthropogenic emissions of greenhouse gases.” Subsec. (a)(3). Pub. L. 119–21, § 50403(a)(1)(A), (C), added par. (3). Subsec. (c). Pub. L. 119–21, § 50403(a)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “A project under subsection (a)(1) that involves electricity generation through the use of fossil fuels shall be required to have controls or technologies to avoid, reduce, utilize, or sequester air pollutants and anthropogenic emissions of greenhouse gases.” Subsec. (c)(2), (3). Pub. L. 119–21, § 50403(a)(4), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “an analysis of how the proposed project will engage with and affect associated communities; and”. Subsec. (d). Pub. L. 119–21, § 50403(a)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c). Subsec. (e). Pub. L. 119–21, § 50403(a)(3), (5), redesignated subsec. (f) as (e) and substituted “for enabling the identification, leasing, development, production, processing, transportation, transmission, refining, and generation needed for energy and critical minerals.” for “for— “(1) the generation or transmission of electric energy; or “(2) the production, processing, and delivery of fossil fuels, fuels derived from petroleum, or petrochemical feedstocks.” Former subsec. (e) redesignated (d). Subsec. (f). Pub. L. 119–21, § 50403(a)(6), added subsec. (f). Former subsec. (f) redesignated (e).

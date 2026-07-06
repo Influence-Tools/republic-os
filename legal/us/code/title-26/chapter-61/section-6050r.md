@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 6050R"
+description: "Returns relating to certain purchases of fish"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "61"
+chapter_name: "INFORMATION AND RETURNS"
+section: "6050R"
+citation: "26 U.S.C. § 6050R"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s6050R"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "e5f3b1b0b0772883d8f7c64457350a490bb31300488730eddafa8b94ce32740b"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "7d41e63f02f178ec89a963945a80750c9e8b772a545010e582caec1ac7bf09d5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 6050R - Returns relating to certain purchases of fish
+
+## Text
+
+(a) Requirement of reporting Every person—
+
+(1) who is engaged in the trade or business of purchasing fish for resale from any person engaged in the trade or business of catching fish; and
+
+(2) who makes payments in cash in the course of such trade or business to such a person of $600 or more during any calendar year for the purchase of fish,
+
+shall make a return (at such times as the Secretary may prescribe) described in subsection (b) with respect to each person to whom such a payment was made during such calendar year.
+
+(b) Return A return is described in this subsection if such return—
+
+(1) is in such form as the Secretary may prescribe, and
+
+(2) contains—
+
+(A) the name, address, and TIN of each person to whom a payment described in subsection (a)(2) was made during the calendar year,
+
+(B) the aggregate amount of such payments made to such person during such calendar year and the date and amount of each such payment, and
+
+(C) such other information as the Secretary may require.
+
+(c) Statement to be furnished with respect to whom information is required Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+
+(1) the name, address, and phone number of the information contact of the person required to make such a return, and
+
+(2) the aggregate amount of payments to the person required to be shown on the return.
+
+The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
+
+(d) Definitions For purposes of this section:
+
+(1) Cash The term “cash” has the meaning given such term by section 6050I(d).
+
+(2) Fish The term “fish” includes other forms of aquatic life.
+
+(Added Pub. L. 104–188, title I, § 1116(b)(1), Aug. 20, 1996, 110 Stat. 1763; amended Pub. L. 105–34, title XVI, § 1601(a), Aug. 5, 1997, 111 Stat. 1086; Pub. L. 105–206, title VI, § 6023(21), July 22, 1998, 112 Stat. 826.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1998—Subsec. (b)(2)(A). Pub. L. 105–206 substituted a comma for the semicolon at end. 1997—Pub. L. 105–34, § 1601(a)(2), provided that amendment made by section 1116(b)(1) of Pub. L. 104–188, shall be applied as if reference to chapter 68 were a reference to chapter 61. Section 1116(b)(1) of Pub. L. 104–188 directed amendment of subpart B of part III of subchapter A of chapter 68 by adding this section. Subsec. (c)(1). Pub. L. 105–34, § 1601(a)(1), substituted “name, address, and phone number of the information contact” for “name and address”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1997 AmendmentAmendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+
+Effective DatePub. L. 104–188, title I, § 1116(b)(3), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this subsection [enacting this section and amending section 6724 of this title] shall apply to payments made after December 31, 1997.”

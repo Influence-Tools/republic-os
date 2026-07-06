@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 10709"
+description: "Contracts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "107"
+chapter_name: "RATES"
+section: "10709"
+citation: "49 U.S.C. § 10709"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s10709"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "6463884ad405cfaeddf6af9773b56a13c6732a095b4c2fae0e7e6564aaad196f"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "968d215dc8ff2c8133c50eed86548885afb6c6a23e2e901c953137428c51c8db"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 10709 - Contracts
+
+## Text
+
+(a) One or more rail carriers providing transportation subject to the jurisdiction of the Board under this part may enter into a contract with one or more purchasers of rail services to provide specified services under specified rates and conditions.
+
+(b) A party to a contract entered into under this section shall have no duty in connection with services provided under such contract other than those duties specified by the terms of the contract.
+
+(c) (1) A contract that is authorized by this section, and transportation under such contract, shall not be subject to this part, and may not be subsequently challenged before the Board or in any court on the grounds that such contract violates a provision of this part.
+
+(2) The exclusive remedy for any alleged breach of a contract entered into under this section shall be an action in an appropriate State court or United States district court, unless the parties otherwise agree. This section does not confer original jurisdiction on the district courts of the United States based on section 1331 or 1337 of title 28, United States Code.
+
+(d) (1) A summary of each contract for the transportation of agricultural products (including grain, as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and products thereof) entered into under this section shall be filed with the Board, containing such nonconfidential information as the Board prescribes. The Board shall publish special rules for such contracts in order to ensure that the essential terms of the contract are available to the general public.
+
+(2) Documents, papers, and records (and any copies thereof) relating to a contract described in subsection (a) shall not be subject to the mandatory disclosure requirements of section 552 of title 5.
+
+(e) Any lawful contract between a rail carrier and one or more purchasers of rail service that was in effect on October 1, 1980, shall be considered a contract authorized by this section.
+
+(f) A rail carrier that enters into a contract as authorized by this section remains subject to the common carrier obligation set forth in section 11101, with respect to rail transportation not provided under such a contract.
+
+(g) (1) No later than 30 days after the date of filing of a summary of a contract under this section, the Board may, on complaint, begin a proceeding to review such contract on the grounds described in this subsection.
+
+(2) (A) A complaint may be filed under this subsection—
+
+(i) by a shipper on the grounds that such shipper individually will be harmed because the proposed contract unduly impairs the ability of the contracting rail carrier or carriers to meet their common carrier obligations to the complainant under section 11101 of this title; or
+
+(ii) by a port only on the grounds that such port individually will be harmed because the proposed contract will result in unreasonable discrimination against such port.
+
+(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph, a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
+
+(i) the rail carrier has unreasonably discriminated by refusing to enter into a contract with such shipper for rates and services for the transportation of the same type of commodity under similar conditions to the contract at issue, and that shipper was ready, willing, and able to enter into such a contract at a time essentially contemporaneous with the period during which the contract at issue was offered; or
+
+(ii) the proposed contract constitutes a destructive competitive practice under this part.
+
+In making a determination under clause (ii) of this subparagraph, the Board shall consider the difference between contract rates and published single car rates.
+
+(C) For purposes of this paragraph, the term “unreasonable discrimination” has the same meaning as such term has under section 10741 of this title.
+
+(3) (A) Within 30 days after the date a proceeding is commenced under paragraph (1) of this subsection, or within such shorter time period after such date as the Board may establish, the Board shall determine whether the contract that is the subject of such proceeding is in violation of this section.
+
+(B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
+
+(Added Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 817; amended Pub. L. 104–287, § 5(24), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 114–110, § 11(d), Dec. 18, 2015, 129 Stat. 2234.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 10713 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). Prior sections 10709 to 10713 were omitted in the general amendment of this subtitle by Pub. L. 104–88, § 102(a). Section 10709, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1382; Pub. L. 96–448, title II, § 202, Oct. 14, 1980, 94 Stat. 1900, related to determination of market dominance in rail carrier rate proceedings. See section 10707 of this title. Section 10710, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to elimination of discrimination against recyclable materials. Section 10711, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to effect of former sections 10701(a), (b), 10707, 10709, 10727, and 10728 of this title on rail rates and practices. Section 10712, added Pub. L. 96–448, title II, § 206(a), Oct. 14, 1980, 94 Stat. 1906, related to inflation-based rate increases. Section 10713, added Pub. L. 96–448, title II, § 208(a), Oct. 14, 1980, 94 Stat. 1908; amended Pub. L. 97–468, title V, § 502, Jan. 14, 1983, 96 Stat. 2552; Pub. L. 99–509, title IV, § 4051, Oct. 21, 1986, 100 Stat. 1910, related to contracts between rail carriers and purchasers of rail services. See section 10709 of this title.
+
+Amendments2015—Subsec. (h). Pub. L. 114–110 struck out subsec. (h) which related to certain contracts for the transportation of agricultural commodities. 1996—Subsec. (e). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.

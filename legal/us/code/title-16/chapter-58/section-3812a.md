@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3812a"
+description: "Development and implementation of conservation plans and conservation systems"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "58"
+chapter_name: "ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM"
+section: "3812a"
+citation: "16 U.S.C. § 3812a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3812a"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "2109800dbe6c6f69ee6476f4ee54643fa41749b6a8b923aa94cf583a9fc7a788"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "c66a0fa2d49707b79c383159cff35a79feb227b38dbba776c548fb78f89d7d84"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3812a - Development and implementation of conservation plans and conservation systems
+
+## Text
+
+(a) Technical requirements In connection with the standards and guidelines contained in Natural Resources Conservation Service field office technical guides applicable to the development and use of conservation measures and management practices as part of a conservation system, the Secretary shall ensure that the standards and guidelines permit a person to use a conservation system that—
+
+(1) is technically and economically feasible;
+
+(2) is based on local resource conditions and available conservation technology;
+
+(3) is cost-effective; and
+
+(4) does not cause undue economic hardship on the person applying the conservation system under the person’s conservation plan.
+
+(b) Measurement of erosion reduction For the purpose of determining whether there is a substantial reduction in soil erosion on a field containing highly erodible cropland, the measurement of erosion reduction achieved by the application of a conservation system under a person’s conservation plan shall be based on the estimated annual level of erosion at the time of the measurement compared to the estimated annual level of erosion that existed before the implementation of the conservation measures and management practices provided for in the conservation system.
+
+(c) Residue measurement (1) Responsibilities of the Secretary For the purpose of measuring the level of residue on a field, the Secretary shall—
+
+(A) take into account any residue incorporated into the top 2 inches of soil, as well as the growing crop, in the measurement;
+
+(B) provide technical guidelines for acceptable residue measurement methods;
+
+(C) provide a certification system for third parties to perform residue measurements; and
+
+(D) provide for the acceptance and use of information and data voluntarily provided by the producer regarding the field.
+
+(2) Acceptance of producer measurements Annual residue measurements supplied by a producer (including measurements performed by a certified third party) shall be used by the Secretary if the Secretary determines that the measurements indicate that the residue level for the field meets the level required under the conservation plan.
+
+(d) Certification of compliance (1) In general For the purpose of determining the eligibility of a person for program benefits specified in section 3811 of this title at the time application is made for the benefits, the Secretary shall permit the person to certify that the person is complying with the person’s conservation plan.
+
+(2) Status reviews If a person makes a certification under paragraph (1), the Secretary shall not be required to carry out a review of the status of compliance of the person with the conservation plan under which the conservation system is being applied.
+
+(3) Revisions and modifications The Secretary shall permit a person who makes a certification under paragraph (1) with respect to a conservation plan to revise the conservation plan in any manner, if the same level of conservation treatment provided for by the conservation system under the person’s conservation plan is maintained. The Secretary may not revise the person’s conservation plan without the concurrence of the person.
+
+(4) Crop insurance premium assistance For the purpose of determining the eligibility of a person for the payment described in section 3811(a)(1)(E) of this title, the Secretary shall apply the procedures described in section 3821(c)(3)(E) of this title and coordinate the certification process so as to avoid duplication or unnecessary paperwork.
+
+(e) Technical assistance The Secretary shall, using available resources and consistent with the Secretary’s other conservation responsibilities and objectives, provide technical assistance to a person throughout the development, revision, and application of the conservation plan and any conservation system of the person. At the request of the person, the Secretary may provide technical assistance regarding conservation measures and management practices for other lands of the person that do not contain highly erodible cropland.
+
+(f) Encouragement of on-farm research To encourage on-farm conservation research, the Secretary may allow a person to include in the person’s conservation plan or a conservation system under the plan, on a field trial basis, practices that are not currently approved but that the Secretary considers have a reasonable likelihood of success.
+
+(Pub. L. 99–198, title XII, § 1213, as added Pub. L. 104–127, title III, § 315(a)(2), Apr. 4, 1996, 110 Stat. 984; amended Pub. L. 113–79, title II, § 2611(a)(3), Feb. 7, 2014, 128 Stat. 763.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 1213 of Pub. L. 99–198 was renumbered section 1214 and is classified to section 3813 of this title.
+
+Amendments2014—Subsec. (d)(4). Pub. L. 113–79 added par. (4).

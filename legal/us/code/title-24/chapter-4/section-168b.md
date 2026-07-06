@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "24 U.S.C. § 168b"
+description: "Computation of maximum amount available from Federal sources"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 24
+title_name: "HOSPITALS AND ASYLUMS"
+chapter_number: "4"
+chapter_name: "SAINT ELIZABETHS HOSPITAL"
+section: "168b"
+citation: "24 U.S.C. § 168b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc24@119-100.zip"
+source_identifier: "/us/usc/t24/s168b"
+source_file: "data/legal/raw/us/code/title-24/usc24.xml"
+source_hash: "2aaa83e9bb83ea97d9e461c54f9abe949b68faaecbd36f7edcbe0140c07ee026"
+raw_snapshot_hash: "0496f109fbd19f0cda0e5cca639449e329ed2357dcb8b8095d1127a2bfcf2c67"
+text_hash: "3158f7d9be11d2a743ea1c7a4f27dcc7b5e4c955ecea812ed9bd4aad244f4d4a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 24 U.S.C. § 168b - Computation of maximum amount available from Federal sources
+
+## Text
+
+Amounts chargeable to and available from Federal sources for inpatient and outpatient services provided through Saint Elizabeths Hospital as authorized by 24 U.S.C. 191, 196, 211, 212, 222, 253,11 See References in Text note below. and 324; 31 U.S.C. 1535; and 42 U.S.C. 249 and 251 shall not exceed the estimated total cost of such services as computed using only the proportionate amount of the direct Federal subsidy appropriated under this heading.
+
+(Pub. L. 100–436, title II, Sept. 20, 1988, 102 Stat. 1693.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSections 191, 196, 211, 212, and 222 of this title, referred to in text, were repealed by Pub. L. 98–621, § 10(a), (f)(2), (m), Nov. 8, 1984, 98 Stat. 3379, 3380. Section 253 of this title, referred to in text, does not exist. This heading, referred to in text, refers to the headings “Alcohol, Drug Abuse, and Mental Health Administration” and “federal subsidy for saint elizabeths hospital” of title II, “Department of Health and Human Services”, of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
+
+Codification Section is from the appropriation act cited as the credit to this section.
+
+Statutory Notes and Related Subsidiaries
+
+Similar ProvisionsSimilar provisions were contained in the following prior appropriation acts: Pub. L. 100–202, § 101(h) [title II], Dec. 22, 1987, 101 Stat. 1329–256, 1329–268. Pub. L. 99–500, § 101(i) [H.R. 5233, title II], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title II], Oct. 30, 1986, 100 Stat. 3341–287. Pub. L. 99–178, title II, Dec. 12, 1985, 99 Stat. 1113. Pub. L. 98–619, title II, Nov. 8, 1984, 98 Stat. 3314. Pub. L. 98–139, title II, Oct. 31, 1983, 97 Stat. 881. Pub. L. 97–377, title I, § 101(e)(1) [title II], Dec. 21, 1982, 96 Stat. 1878, 1887.

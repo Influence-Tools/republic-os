@@ -1,0 +1,115 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 3714"
+description: "Inspection and examination"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "37"
+chapter_name: "CARRIAGE OF LIQUID BULK DANGEROUS CARGOES"
+section: "3714"
+citation: "46 U.S.C. § 3714"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s3714"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "1d4ab4b1a50207c79e422095b49157201b3ff3b8ce6a3bbb59a2655ee4ad00ba"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "bb0ec695c2b18e17f596a4c8d01b0c35d9702df116249e12fe01afad9b7b16c0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 3714 - Inspection and examination
+
+## Text
+
+(a) (1) Except as provided in subsection (c), the Secretary shall have each vessel to which this chapter applies inspected or examined at least once each year.
+
+(2) Each of those vessels that is more than 10 years of age shall undergo a special and detailed inspection of structural strength and hull integrity as specified by the Secretary.
+
+(3) The Secretary may make contracts for conducting inspections or examinations in the United States and in foreign countries. An inspector conducting an inspection or examination under contract may not issue a certificate of inspection or a certificate of compliance, but the inspector may issue a temporary certificate.
+
+(4) The Secretary shall prescribe by regulation reasonable fees for an inspection or examination conducted under this section outside the United States, or which, when involving a foreign vessel, is conducted under a contract authorized by paragraph (3) of this subsection. The owner, charterer, or managing operator of a vessel inspected or examined by the Secretary is liable for the fees. Amounts received as fees shall be deposited in the Treasury.
+
+(5) The Secretary may allow provisional entry of a vessel to conduct an inspection or examination under this chapter.
+
+(b) Each vessel to which this chapter applies shall have on board those documents the Secretary considers necessary for inspection and enforcement, including documents listing—
+
+(1) the type, grade, and approximate quantities of cargo on board;
+
+(2) the shipper and consignee of the cargo;
+
+(3) the places of origin and destination of the vessel; and
+
+(4) the name of an agent in the United States authorized to accept service of legal process.
+
+(c) Performance-driven Examination Schedule.— (1) In general.— With respect to examinations of foreign vessels to which this chapter applies, and subject to paragraph (3), the Secretary may adopt a performance-driven examination schedule to which such vessels are to be examined and the frequency with which such examinations occur, including the frequency of examinations for each vessel. Such schedule shall be consistent with the Secretary’s assessment of the safety performance of such vessels, including each vessel participating in the performance-driven examination schedule, in accordance with paragraph (2).
+
+(2) Considerations.— In developing an examination schedule under paragraph (1) and subject to paragraph (3), with respect to each vessel in determining eligibility to participate in the performance based examination schedule—
+
+(A) the Secretary shall consider—
+
+(i) certificate of compliance and examination history, to include those conducted by foreign countries;
+
+(ii) history of violations, vessel detentions, incidents, and casualties;
+
+(iii) history of notices of violation issued by the Coast Guard;
+
+(iv) safety related information provided by the flag state of the vessel;
+
+(v) owner and operator history;
+
+(vi) historical classification society data, which may include relevant surveys;
+
+(vii) cargo-specific documentation;
+
+(viii) data from port state control safety exams; and
+
+(ix) relevant repair and maintenance history; and
+
+(B) the Secretary may consider—
+
+(i) data from relevant vessel quality assurance and risk assessment programs including Quality Shipping for the 21st Century (QUALSHIP 21);
+
+(ii) data from industry inspection regimes;
+
+(iii) data from vessel self assessments submitted to the International Maritime Organization or other maritime organizations; and
+
+(iv) other safety relevant data or information as determined by the Secretary.
+
+(3) Eligibility.— In developing an examination schedule under paragraph (1), the Secretary shall not consider a vessel eligible to take part in a performance-driven examination schedule under paragraph (1) if, within the last 36 months, the vessel has—
+
+(A) been detained by the Coast Guard;
+
+(B) a record of a violation issued by the Coast Guard against the owners or operators with a finding of proved; or
+
+(C) suffered a marine casualty that, as determined by the Secretary, involves the safe operation of the vessel and overall performance of the vessel.
+
+(4) Restrictions.— The Secretary may not adopt a performance-driven examination schedule under paragraph (1) until the Secretary has—
+
+(A) conducted the assessment recommended in the Government Accountability Office report submitted under section 8254(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283);
+
+(B) concluded through such assessment that a performance-driven examination schedule provides not less than the level of safety provided by the annual examinations required under subsection (a)(1); and
+
+(C) provided the results of such assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(d) Each vessel to which this chapter applies that operates in the United States shall have a person designated as authorized to accept service of legal process for the vessel.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 526; Pub. L. 99–307, § 1(8), May 19, 1986, 100 Stat. 445; Pub. L. 119–60, div. G, title LXXIII, § 7312(a), Dec. 18, 2025, 139 Stat. 1759.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource section (U.S. Code) 371446:391a(15) Section 3714(a) requires the Secretary to establish a program for the inspection of tank vessels, foreign or domestic, at least once each year. The Committee contemplates that United States vessels will be issued a 2 year certificate of inspection with a mid-period examination. The Committee also contemplates that foreign-flag vessels will continue to be tracked and boarded at least once a year or when they first arrive in the United States. The Secretary may examine the foreign-flag tank vessel but may accept, as a basis for the issuance of a certificate of compliance, in whole or in part a foreign-issued certificate. Each vessel over 10 years of age must undergo a special and detailed inspection of structural strength and hull integrity, as specified by the Secretary. An inspection or examination may be conducted by any officer authorized by the Secretary. The Committee expects that, whenever possible, a qualified marine inspector will be used wherever the vessel undergoes these 10-year inspections. The Secretary may also contract for inspections or examinations in the United States and in foreign countries. The primary reason for including a provision that permits the contracting for the conduct of inspections and examinations is to provide flexibility in foreign areas where Coast Guard marine inspectors are not normally available. A contract inspector may be authorized to act on behalf of the Secretary, but may not issue a certificate of inspection or compliance. The inspector may, however, issue a temporary certificate. The Committee understands that the 10-year inspections of United States-flag and foreign-flag vessels may occur at the time the vessel is scheduled for shipyard availability to complete the periodic classification society survey. The Secretary is also authorized and directed to prescribe by regulation reasonable fees for certain inspections or examinations conducted pursuant to this section based on the cost incurred. The owner of any vessel inspected or examined by the Secretary or his designee shall be liable for the fee. Amounts received as fees under this section are to be deposited in the Treasury. Section 3714(b) requires each vessel subject to this chapter to have on board those documents the Secretary declares are necessary for inspection or enforcement, including, but not limited to documents indicating the kind, grade, and approximate quantities of any cargo on board; the shipper and consignee of the cargo; the points of origin and destination of the vessel; and the name of an agent in the United States authorized to accept legal process. Section 3714(c) requires each vessel subject to this chapter to have a person authorized to accept service of legal process for the vessel.
+
+Editorial Notes
+
+References in TextSection 8254(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (d)(4)(A), is section 8254 of Pub. L. 116–283, div. G, title LVXXXII [LXXXII], Jan. 1, 2021, 134 Stat. 4674, which is not set out in the Code.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 119–60, § 7312(a)(1), substituted “Except as provided in subsection (c), the Secretary” for “The Secretary”. Subsecs. (c), (d). Pub. L. 119–60, § 7312(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). 1986—Subsec. (a)(4). Pub. L. 99–307 substituted “charterer” for “charter”.

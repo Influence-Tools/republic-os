@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 1492"
+description: "Destruction of abandoned or forfeited merchandise"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "4"
+chapter_name: "TARIFF ACT OF 1930"
+section: "1492"
+citation: "19 U.S.C. § 1492"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s1492"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "35953a196a5be56e055380906eff1e474f1c30aa27a20da7bb9db21e1b09af5b"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "3a6b9fb36d07799d670c973b7e370bcbd936731cff72f1c81c573359b4888931"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 1492 - Destruction of abandoned or forfeited merchandise
+
+## Text
+
+Except as provided in R.S. § 3369 (relating to tobacco and snuff), and in section 901 of the Revenue Act of 1926 (relating to distilled spirits), any merchandise abandoned or forfeited to the Government under the preceding or any other provision of the customs laws, which is subject to internal revenue tax and which the Customs Service shall be satisfied will not sell for a sufficient amount to pay such taxes, shall be forthwith destroyed, retained for official use, or otherwise disposed of under regulations to be prescribed by the Secretary of the Treasury, instead of being sold at auction.
+
+(June 17, 1930, ch. 497, title IV, § 492, 46 Stat. 727; Pub. L. 91–271, title III, § 301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, § 660, Dec. 8, 1993, 107 Stat. 2214.)
+
+## Notes
+
+Editorial Notes
+
+References in TextR.S. § 3369, referred to in text, is covered by sections 5723(a) and 5753 of Title 26, Internal Revenue Code. Section 901 of Revenue Act of 1926, referred to in text, is covered by section 5243 of Title 26.
+
+Prior ProvisionsProvisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 492, 42 Stat. 963. That section was superseded by section 492 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act. Prior to its incorporation into the Code, this section read: “Except as provided in section 3369 of the Revised Statutes, as amended,” etc. R.S. § 3369, as amended by act Oct. 14, 1921, ch. 107, 42 Stat. 205, related in part to abandoned, condemned or forfeited tobacco, snuff, cigars, or cigarettes, which would not bring a price equal to the internal revenue tax thereon. So far as it related to tobacco and snuff, it was incorporated into the Code as sections 702(a)(1), 803(a)(1), (c), (d), and 890, of Title 26, Internal Revenue Code, and so far as it applied to cigars and cigarettes, it was incorporated into the Code as sections 812(d)(2) and 890, of Title 26.
+
+Amendments1993—Pub. L. 103–182 substituted “Customs Service” for “appropriate customs officer” and inserted “, retained for official use, or otherwise disposed of” after “destroyed”. 1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1970 AmendmentFor effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
+
+Transfer of Functions For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.

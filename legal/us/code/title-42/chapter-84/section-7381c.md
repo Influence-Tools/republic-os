@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 7381c"
+description: "Education partnerships"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "84"
+chapter_name: "DEPARTMENT OF ENERGY"
+section: "7381c"
+citation: "42 U.S.C. § 7381c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s7381c"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "ed386252f81c98fd6327f2630b11a19445f09681bd6dabceb1a9379479641aa4"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "bbc3095b0f2b559ff4903872a200ce2d46be7209f025175fc595c3899c59dfd9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 7381c - Education partnerships
+
+## Text
+
+(a) Education partnerships The Secretary may authorize each Department research and development facility, to the extent practicable and consistent with the provisions of the laboratory’s management and operating contract, to enter into education partnership agreements with educational institutions in the United States (including local educational agencies, colleges, and universities) for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education.
+
+(b) Types of assistance Under a partnership agreement entered into with an educational institution under subsection (a) and as authorized by the Secretary, a Department research and development facility may provide assistance to the educational institution by—
+
+(1) loaning or transferring equipment to the institution;
+
+(2) transferring to the institution equipment determined by the director of the Department research and development facility to be surplus;
+
+(3) making personnel of Department research and development facilities available to teach science courses or to assist in the development of science courses and materials for the institution;
+
+(4) involving faculty and students of the institution in research programs of Department research and development facilities;
+
+(5) cooperating with the institution in developing a program under which students may be given academic credit for work on research projects of Department research and development facilities;
+
+(6) providing academic and career advice and assistance to students of the institution; and
+
+(7) providing funds to educational institutions to hire personnel to facilitate interactions between local school systems, Department research and development facilities, and corporate and governmental entities.
+
+(Pub. L. 101–510, div. C, title XXXI, § 3166, Nov. 5, 1990, 104 Stat. 1843; Pub. L. 109–58, title XI, § 1102(c), Aug. 8, 2005, 119 Stat. 938.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2005—Subsec. (b)(1). Pub. L. 109–58, § 1102(c)(1), added par. (1) and struck out former par. (1) which read as follows: “loaning equipment to the institution;”. Subsec. (b)(7). Pub. L. 109–58, § 1102(c)(2)–(4), added par. (7).

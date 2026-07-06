@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 1446"
+description: "Liquidation or reorganization; acquisition of assets by other banks; assumption of liabilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "11"
+chapter_name: "FEDERAL HOME LOAN BANKS"
+section: "1446"
+citation: "12 U.S.C. § 1446"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s1446"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "751a6bb740d5b56d3844c2dd199ee604a41011e6a11d23131e9bb7b21e7ecf3b"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "bf50287921a11e25bd44eddbc28e15b18fd7d29d65e10a4f4a7382c4c98b4338"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 1446 - Liquidation or reorganization; acquisition of assets by other banks; assumption of liabilities
+
+## Text
+
+(a) In general Whenever the Director finds that the efficient and economical accomplishment of the purposes of this chapter will be aided by such action, and in accordance with such rules, regulations, and orders as the Director may prescribe, any Federal Home Loan Bank may be liquidated or reorganized, and its stock paid off and retired in whole or in part in connection therewith after paying or making provision for the payment of its liabilities. In the case of any such liquidation or reorganization, any other Federal Home Loan Bank may, with the approval of the Director, acquire assets of any such liquidated or reorganized bank and assume liabilities thereof, in whole or in part. At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to section 554 of title 5.
+
+(b) Voluntary mergers authorized (1) In general Any Federal Home Loan Bank may, with the approval of the Director and of the boards of directors of the Banks involved, merge with another Bank.
+
+(2) Regulations required The Director shall promulgate regulations establishing the conditions and procedures for the consideration and approval of any voluntary merger described in paragraph (1), including the procedures for Bank member approval.
+
+(July 22, 1932, ch. 522, § 26, 47 Stat. 740; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §§ 1204(8), 1209, 1214, July 30, 2008, 122 Stat. 2786, 2789, 2791.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2008—Pub. L. 110–289, § 1209, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing. Subsec. (a). Pub. L. 110–289, § 1214, which directed insertion of “At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to section 554 of title 5.” at the end of this section, was executed by making the insertion at the end of subsec. (a), to reflect the probable intent of Congress and the amendment by Pub. L. 110–289, § 1209. See above. 1989—Pub. L. 101–73 substituted “Board” for “board” wherever appearing.

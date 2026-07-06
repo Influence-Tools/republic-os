@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 8104"
+description: "Officers and employees"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "90"
+chapter_name: "NEIGHBORHOOD AND CITY REINVESTMENT, SELF-HELP AND REVITALIZATION"
+section: "8104"
+citation: "42 U.S.C. § 8104"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s8104"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "63b4b39f2691d61e9e70e435c75ee483ec00ec5af1e4b3caef7c09f5ba4c34f9"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "7950f8b94bbe94c4ecddc94f9ef26ee2b2c1e8fc6f526ce6d4c82a755f7cb670"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 8104 - Officers and employees
+
+## Text
+
+(a) Employment, compensation and benefits The board shall have power to select, employ, and fix the salary and benefits of such officers, employees, attorneys, and agents as shall be necessary for the performance of its duties under this subchapter, without regard to the provisions of title 5 governing appointments in the competitive service, classification, and General Schedule pay rates, except that no officer, employee, attorney, or agent of the corporation may be paid salary at a rate in excess of the rate for level IV of the Executive Schedule, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule. The Corporation shall also apply the provisions of section 5307(a)(1), (b)(1) and (b)(2) of title 5 governing limitations on certain pay as if its employees were Federal employees receiving payments under title 5.
+
+(b) Appointment of executive director The directors of the corporation shall appoint an executive director who shall serve as chief executive officer of the corporation.
+
+(c) Appointment and removal of employees by executive director The executive director of the corporation, subject to approval by the board, may appoint and remove such employees of the corporation as he determines necessary to carry out the purposes of the corporation.
+
+(d) Prohibition of political tests and qualifications in selection, etc., of personnel No political test or political qualification shall be used in selecting, appointing, promoting, or taking any other personnel action with respect to any officer, agent, or employee of the corporation or of any recipient, or in selecting or monitoring any grantee, contractor, or person or entity receiving financial assistance under this subchapter.
+
+(e) Employee status; applicability of administrative and cost standards of Office of Management and Budget Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
+
+(Pub. L. 95–557, title VI, § 605, Oct. 31, 1978, 92 Stat. 2116; Pub. L. 108–199, div. G, title III,[(1), (2)], Jan. 23, 2004, 118 Stat. 413; Pub. L. 111–117, div. A, title III, Dec. 16, 2009, 123 Stat. 3108.)
+
+## Notes
+
+Editorial Notes
+
+References in TextLevels II and IV of the Executive Schedule, referred to in subsec. (a), are set out in sections 5313 and 5315, respectively, of Title 5, Government Organization and Employees.
+
+Amendments2009—Subsec. (a). Pub. L. 111–117 inserted “, except that the board-appointed officers may be paid salary at a rate not to exceed level II of the Executive Schedule” before period at end of first sentence. 2004—Subsec. (a). Pub. L. 108–199, title III, [(2)], added second sentence. Pub. L. 108–199, title III, [(1)], which directed the substitution of “salary” for “compensation”, was executed by making the substitution both places that “compensation” appeared to reflect the probable intent of Congress. Pub. L. 108–199, title III, [(1)], which directed substitution of “rate for level IV of the Executive Schedule” for “highest rate provided for GS–18 of the General Schedule under section 5332 of title 5 United States Code”, was executed by making the substitution for “highest rate provided for GS–18 of the General Schedule under section 5332 of title 5, United States Code” to reflect the probable intent of Congress.

@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7909"
+description: "Authorization for the Clean Technology Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "86"
+chapter_name: "CLIMATE CHANGE TECHNOLOGY DEPLOYMENT IN DEVELOPING COUNTRIES"
+section: "7909"
+citation: "22 U.S.C. § 7909"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7909"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "df6a54c3854c033bd1be29c4af677da1a8f74bc75f06d16a335cc5ad9ee99b82"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "a88470089b9905530e64519ad1111e954cc2cf52ec0008a0a445247f003a0b85"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7909 - Authorization for the Clean Technology Fund
+
+## Text
+
+(1) Limitations on authorization of appropriations For fiscal year 2010, up to $300,000,000 is authorized to be appropriated for a United States contribution to the Clean Technology Fund (the Fund).
+
+(2) Limits on country access The Secretary of the Treasury shall use the voice and vote of the United States to ensure that—
+
+(A) The Fund does not provide more than 15 percent of Fund resources to any one country;
+
+(B) Prior to the obligation of funds, recipient countries submit to the governing body of the Fund, and the governing body of the Fund appropriately reviews and considers, an investment plan that will achieve significant net reductions in national-level greenhouse gas emissions;
+
+(C) The investment plan for a recipient country, whose borrowing status is classified by the World Bank as “International Development Association (IDA) blend”, shall have at least 15 percent of its total cost for public sector activities contributed from the public funds of the recipient country, and any recipient country whose borrowing status is classified by the World Bank as “International Bank for Reconstruction and Development (IBRD) Only” status, shall have at least 25 percent of its total cost for public sector activities contributed from public funds of the recipient country; and
+
+(D) Assistance made available by the Fund is used exclusively to support the deployment of clean energy technologies in developing countries (including, where appropriate, through the provision of technical support or support for policy or institutional reforms) in a manner that achieves substantial net reductions in greenhouse gas emissions.
+
+(3) Repealed. Pub. L. 113–76, div. K, title VII, § 7034(i), Jan. 17, 2014, 128 Stat. 514
+
+(4) Definitions For purposes of this section—
+
+(A) Net reductions The term “net reductions” refers to the extent to which a project or program supported under this section results in lower greenhouse gas emissions than would be emitted by the same entity or sector in the same country in the absence of the Fund’s project, taking into account, unless impracticable, effects beyond the physical boundaries of the project or program that result from project or program activities.
+
+(B) Public sector activities The term “public sector activities” may include sovereign loans assumed by the recipient country to contribute to the financing of the investment plan.
+
+(C) Clean energy technology The term “clean energy technology” means a technology that, as compared with technologies being deployed at that time for widespread commercial use in the country involved—
+
+(i) achieves substantial reductions in greenhouse gas emissions;
+
+(ii) does not result in significant incremental adverse effects on public health or the environment; and
+
+(iii) does one or more of the following:
+
+(I) generates electricity or useful thermal energy from a renewable resource;
+
+(II) substantially increases the energy efficiency of buildings, industrial, or agricultural processes, or of electricity transmission, distribution, or end-use consumption; or
+
+(III) substantially increases the energy efficiency of the transportation system or increases utilization of transportation fuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
+
+(Pub. L. 111–117, div. F, title VII, § 7081(g), Dec. 16, 2009, 123 Stat. 3398; Pub. L. 113–76, div. K, title VII, § 7034(i), Jan. 17, 2014, 128 Stat. 514.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2010, and also as part of the Consolidated Appropriations Act, 2010, and not as part of part C of the Global Environmental Protection Assistance Act of 1989 which comprises this chapter.
+
+Amendments2014—Par. (3). Pub. L. 113–76 struck out par. (3), which established a reporting requirement for operations and governance of the Fund.
+
+Statutory Notes and Related Subsidiaries
+
+Continuation of Prior LawPub. L. 113–235, div. J, title VII, § 7060(c)(9), Dec. 16, 2014, 128 Stat. 2672, provided that: “Section 7081(g)(2) and (4) of division F of Public Law 111–117 [22 U.S.C. 7909(2), (4)] shall continue in effect during fiscal year 2015 as if part of this Act [div. J of Pub. L. 113–235, 128 Stat. 2573].” Prior continuations were contained in the following acts: Pub. L. 113–76, div. K, title VII, § 7060(c)(9), Jan. 17, 2014, 128 Stat. 554. Pub. L. 112–74, div. I, title VII, § 7062(c)(8), Dec. 23, 2011, 125 Stat. 1250.

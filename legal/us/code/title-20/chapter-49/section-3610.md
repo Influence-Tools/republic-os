@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 3610"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "49"
+chapter_name: "ASBESTOS SCHOOL HAZARD DETECTION AND CONTROL"
+section: "3610"
+citation: "20 U.S.C. § 3610"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s3610"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "f44c2eda545df19217aa4945d8c844a75e6ecbd053a62b2af1487408ac6dc9cb"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "7c821dd80fcda9ff583a5c7456beae8b52e639cced84f714af9c2b26a815f878"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 3610 - Definitions
+
+## Text
+
+For purposes of this chapter—
+
+(1) the term “asbestos” means—
+
+(A) chrysotile, amosite, or crocidolite; or
+
+(B) in fibrous form, tremolite, anthophyllite, or actinolite;
+
+(2) the term “Attorney General” means the Attorney General of the United States;
+
+(3) the term “imminent hazard to the health and safety” means, for purposes of section 3605 of this title, that an asbestos material is, according to standards established by the Secretary, friable or easily damaged, or within easy reach of students or otherwise susceptible to damage (including damage from water or air circulation) which could result in the dispersal of asbestos fibers into the school environment;
+
+(4) the term “local educational agency” means—
+
+(A) any local educational agency as defined in section 198(a)(10) 11 See References in Text note below. of the Elementary and Secondary Education Act of 1965;
+
+(B) the governing authority of any nonprofit elementary or secondary school;
+
+(5) the term “nonprofit elementary or secondary school” means—
+
+(A) any elementary or secondary school (as defined in section 198(a)(7) 1 of the Elementary and Secondary Education Act of 1965) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual, and
+
+(B) any school of any agency of the United States;
+
+(6) the term “school buildings” means—
+
+(A) structures suitable for use as classrooms, laboratories, libraries, school eating facilities, or facilities used for the preparation of food;
+
+(B) any gymnasium or other facility which is specially designed for athletic or recreational activities for an academic course in physical education;
+
+(C) other facilities used for the instruction of students, for research, or for the administration of educational or research programs; and
+
+(D) maintenance, storage, or utility facilities essential to the operation of the facilities described in subparagraphs (A) through (C) of this paragraph;
+
+(7) the term “Secretary” means the Secretary of Education, or his designee;
+
+(8) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Bureau of Indian Affairs, and the Office of Overseas Schools of the Department of Defense; and
+
+(9) the term “State educational agency” has the same meaning given such term by section 198(a)(17) 1 of the Elementary and Secondary Education Act of 1965.
+
+(Pub. L. 96–270, § 11, June 14, 1980, 94 Stat. 496.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, § 101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 7801 of this title.
+
+Executive Documents
+
+Termination of Trust Territory of the Pacific Islands For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

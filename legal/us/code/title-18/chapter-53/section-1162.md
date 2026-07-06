@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 1162"
+description: "State jurisdiction over offenses committed by or against Indians in the Indian country"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "53"
+chapter_name: "INDIANS"
+section: "1162"
+citation: "18 U.S.C. § 1162"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s1162"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "c253be21b01ab8bcaab531e6c6aca6452a4d440b1e6f2a6c05018539718747c2"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "bc830ade127713a9a227addbc3eaffe3f41430c7665232afd311813966fd60d2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 1162 - State jurisdiction over offenses committed by or against Indians in the Indian country
+
+## Text
+
+(a) Each of the States or Territories listed in the following table shall have jurisdiction over offenses committed by or against Indians in the areas of Indian country listed opposite the name of the State or Territory to the same extent that such State or Territory has jurisdiction over offenses committed elsewhere within the State or Territory, and the criminal laws of such State or Territory shall have the same force and effect within such Indian country as they have elsewhere within the State or Territory: State or Territory ofIndian country affected AlaskaAll Indian country within the State, except that on Annette Islands, the Metlakatla Indian community may exercise jurisdiction over offenses committed by Indians in the same manner in which such jurisdiction may be exercised by Indian tribes in Indian country over which State jurisdiction has not been extended. CaliforniaAll Indian country within the State. MinnesotaAll Indian country within the State, except the Red Lake Reservation. NebraskaAll Indian country within the State. OregonAll Indian country within the State, except the Warm Springs Reservation. WisconsinAll Indian country within the State.
+
+(b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall deprive any Indian or any Indian tribe, band, or community of any right, privilege, or immunity afforded under Federal treaty, agreement, or statute with respect to hunting, trapping, or fishing or the control, licensing, or regulation thereof.
+
+(c) The provisions of sections 1152 and 1153 of this chapter shall not be applicable within the areas of Indian country listed in subsection (a) of this section as areas over which the several States have exclusive jurisdiction.
+
+(d) Notwithstanding subsection (c), at the request of an Indian tribe, and after consultation with and consent by the Attorney General—
+
+(1) sections 1152 and 1153 shall apply in the areas of the Indian country of the Indian tribe; and
+
+(2) jurisdiction over those areas shall be concurrent among the Federal Government, State governments, and, where applicable, tribal governments.
+
+(Added Aug. 15, 1953, ch. 505, § 2, 67 Stat. 588; amended Aug. 24, 1954, ch. 910, § 1, 68 Stat. 795; Pub. L. 85–615, § 1, Aug. 8, 1958, 72 Stat. 545; Pub. L. 91–523, §§ 1, 2, Nov. 25, 1970, 84 Stat. 1358; Pub. L. 111–211, title II, § 221(b), July 29, 2010, 124 Stat. 2272.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2010—Subsec. (d). Pub. L. 111–211 added subsec. (d). 1970—Subsec. (a). Pub. L. 91–523, § 1, substituted provisions relating to the jurisdiction of the State of Alaska over offenses by or against Indians in the Indian country, and certain excepted areas, for provisions relating to the jurisdiction of the Territory of Alaska over offenses by or against Indians in the Indian country. Subsec. (c). Pub. L. 91–523, § 2, inserted “as areas over which the several States have exclusive jurisdiction” after “subsection (a) of this section”. 1958—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over offenses committed by or against Indians in all Indian country within the Territory of Alaska. 1954—Subsec. (a). Act Aug. 24, 1954, brought the Menominee Tribe within the provisions of this section.
+
+Executive Documents
+
+Admission of Alaska as StateAdmission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.

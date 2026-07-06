@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 957"
+description: "Persons required to register"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "13"
+chapter_name: "DRUG ABUSE PREVENTION AND CONTROL"
+section: "957"
+citation: "21 U.S.C. § 957"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s957"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "a69db9a5ca0d4e8bae03f0fe659d36e4193d011614e022804e558411fd437d1c"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "bbef53c9a51d0827c41b53d77e26852d980b92e73db9e21c4036a312259224f9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 957 - Persons required to register
+
+## Text
+
+(a) Coverage No person may—
+
+(1) import into the customs territory of the United States from any place outside thereof (but within the United States), or import into the United States from any place outside thereof, any controlled substance or list I chemical, or
+
+(2) export from the United States any controlled substance or list I chemical,
+
+unless there is in effect with respect to such person a registration issued by the Attorney General under section 958 of this title, or unless such person is exempt from registration under subsection (b).
+
+(b) Exemptions (1) The following persons shall not be required to register under the provisions of this section and may lawfully possess a controlled substance or list I chemical:
+
+(A) An agent or an employee of any importer or exporter registered under section 958 of this title if such agent or employee is acting in the usual course of his business or employment.
+
+(B) A common or contract carrier or warehouseman, or an employee thereof, whose possession of any controlled substance or list I chemical is in the usual course of his business or employment.
+
+(C) An ultimate user who possesses such substance for a purpose specified in section 802(25) 11 See References in Text note below. of this title and in conformity with an exemption granted under section 956(a) of this title.
+
+(2) The Attorney General may, by regulation, waive the requirement for registration of certain importers and exporters if he finds it consistent with the public health and safety; and may authorize any such importer or exporter to possess controlled substances or list I chemicals for purposes of importation and exportation.
+
+(Pub. L. 91–513, title III, § 1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, § 523, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 103–200, § 3(e), Dec. 17, 1993, 107 Stat. 2337.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
+
+Amendments1993—Subsec. (a)(1). Pub. L. 103–200, § 3(e)(1)(A), inserted “or list I chemical” after “controlled substance”. Subsec. (a)(2). Pub. L. 103–200, § 3(e)(1)(B), substituted “or list I chemical,” for “in schedule I, II, III, IV, or V,”. Subsec. (b)(1). Pub. L. 103–200, § 3(e)(2)(A), inserted “or list I chemical” after “controlled substance” in introductory provisions and subpar. (B). Subsec. (b)(2). Pub. L. 103–200, § 3(e)(2)(B), inserted “or list I chemicals” after “controlled substances”. 1984—Subsec. (a)(2). Pub. L. 98–473 inserted reference to schedule V.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1993 AmendmentAmendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under section 802 of this title.
+
+Effective DateSection effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
+
+Provisional RegistrationPub. L. 91–513, title III, § 1104, Oct. 27, 1970, 84 Stat. 1294, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(a)(1) Any person—“(A) who is engaged in importing or exporting any controlled substance on the day before the effective date of section 1007 [May 1, 1971], “(B) who notifies the Attorney General that he is so engaged, and “(C) who is registered on such day under section 510 of the Federal Food, Drug, and Cosmetic Act [section 360 of this title] or under section 4722 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954, section 4722 of title 26], shall, with respect to each establishment for which such registration is in effect under any such section, be deemed to have a provisional registration under section 1008 [section 958 of this title] for the import or export (as the case may be) of controlled substances. “(2) During the period his provisional registration is in effect under this section, the registration number assigned such person under such section 510 or under such section 4722 (as the case may be) shall be his registration number for purposes of part A of this title [this subchapter]. “(b) The provisions of section 304 [section 824 of this title], relating to suspension and revocation of registration, shall apply to a provisional registration under this section. “(c) Unless sooner suspended or revoked under subsection (b), a provisional registration of a person under subsection (a)(1) of this section shall be in effect until—“(1) the date on which such person has registered with the Attorney General under section 1008 [section 958 of this title] or has had his registration denied under such section, or “(2) such date as may be prescribed by the Attorney General for registration of importers or exporters, as the case may be, whichever occurs first.”

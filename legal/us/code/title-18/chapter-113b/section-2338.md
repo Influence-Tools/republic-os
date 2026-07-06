@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 2338"
+description: "Exclusive Federal jurisdiction"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "113B"
+chapter_name: "TERRORISM"
+section: "2338"
+citation: "18 U.S.C. § 2338"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s2338"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "c1288e1eb681eda5828032b52bb2b4fbd0ccec19c2ae35594cb423e627e46bce"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "4efe7763217983b53414ce85e339c9f91880e780ae2d726b0b74202214dbebe3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 2338 - Exclusive Federal jurisdiction
+
+## Text
+
+The district courts of the United States shall have exclusive jurisdiction over an action brought under this chapter.
+
+(Added Pub. L. 102–572, title X, § 1003(a)(4), Oct. 29, 1992, 106 Stat. 4524.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under section 2331 of this title.

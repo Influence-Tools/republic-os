@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 9617"
+description: "Public participation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "103"
+chapter_name: "COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY"
+section: "9617"
+citation: "42 U.S.C. § 9617"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s9617"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "1fcb9fc52746d55e4b569ebf5e4e8229beba373c56285f9a3120b14b5c81d274"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "0a885b641d59aaad1a74a5ae2cfefb7dcaa0a921313d662e87e46cf33ba1fb62"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 9617 - Public participation
+
+## Text
+
+(a) Proposed plan Before adoption of any plan for remedial action to be undertaken by the President, by a State, or by any other person, under section 9604, 9606, 9620, or 9622 of this title, the President or State, as appropriate, shall take both of the following actions:
+
+(1) Publish a notice and brief analysis of the proposed plan and make such plan available to the public.
+
+(2) Provide a reasonable opportunity for submission of written and oral comments and an opportunity for a public meeting at or near the facility at issue regarding the proposed plan and regarding any proposed findings under section 9621(d)(4) of this title (relating to cleanup standards). The President or the State shall keep a transcript of the meeting and make such transcript available to the public.
+
+The notice and analysis published under paragraph (1) shall include sufficient information as may be necessary to provide a reasonable explanation of the proposed plan and alternative proposals considered.
+
+(b) Final plan Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a).
+
+(c) Explanation of differences After adoption of a final remedial action plan—
+
+(1) if any remedial action is taken,
+
+(2) if any enforcement action under section 9606 of this title is taken, or
+
+(3) if any settlement or consent decree under section 9606 of this title or section 9622 of this title is entered into,
+
+and if such action, settlement, or decree differs in any significant respects from the final plan, the President or the State shall publish an explanation of the significant differences and the reasons such changes were made.
+
+(d) Publication For the purposes of this section, publication shall include, at a minimum, publication in a major local newspaper of general circulation. In addition, each item developed, received, published, or made available to the public under this section shall be available for public inspection and copying at or near the facility at issue.
+
+(e) Grants for technical assistance (1) Authority Subject to such amounts as are provided in appropriations Acts and in accordance with rules promulgated by the President, the President may make grants available to any group of individuals which may be affected by a release or threatened release at any facility which is listed on the National Priorities List under the National Contingency Plan. Such grants may be used to obtain technical assistance in interpreting information with regard to the nature of the hazard, remedial investigation and feasibility study, record of decision, remedial design, selection and construction of remedial action, operation and maintenance, or removal action at such facility.
+
+(2) Amount The amount of any grant under this subsection may not exceed $50,000 for a single grant recipient. The President may waive the $50,000 limitation in any case where such waiver is necessary to carry out the purposes of this subsection. Each grant recipient shall be required, as a condition of the grant, to contribute at least 20 percent of the total of costs of the technical assistance for which such grant is made. The President may waive the 20 percent contribution requirement if the grant recipient demonstrates financial need and such waiver is necessary to facilitate public participation in the selection of remedial action at the facility. Not more than one grant may be made under this subsection with respect to a single facility, but the grant may be renewed to facilitate public participation at all stages of remedial action.
+
+(Pub. L. 96–510, title I, § 117, as added Pub. L. 99–499, title I, § 117, Oct. 17, 1986, 100 Stat. 1654.)

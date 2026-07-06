@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 1474b"
+description: "Natural Resource Damage Assessment and Restoration Fund; availability of assessments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "31"
+chapter_name: "DEPARTMENT OF THE INTERIOR"
+section: "1474b"
+citation: "43 U.S.C. § 1474b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s1474b"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "306d36e2db9a9bd9197d4123b04ab2ccfc6ed85f9b758016852789763dee8e23"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "8ace2d67fdb4f3c2b91afb01324f1353c9fa5a9d05d3c6076a6daa6f2428639a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 1474b - Natural Resource Damage Assessment and Restoration Fund; availability of assessments
+
+## Text
+
+Notwithstanding any other provision of law, in fiscal year 1991 and thereafter, sums provided by any party, including sums provided in advance or as a reimbursement for natural resource damage assessments, may be credited to this appropriation and shall remain available until expended.
+
+(Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 994.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis appropriation, referred to in text, probably means appropriations under the heading “natural resource damage assessment and restoration fund” of the annual Department of the Interior and Related Agencies Appropriations Act.
+
+Statutory Notes and Related Subsidiaries
+
+Investment of Exxon Valdez Oil Spill Court Recovery in High Yield Investments and in Marine ResearchPub. L. 106–113, div. B, § 1000(a)(3) [title III, § 350], Nov. 29, 1999, 113 Stat. 1535, 1501A–207, as amended by Pub. L. 119–60, div. G, title LXXIV, § 7405, Dec. 18, 2025, 139 Stat. 1785, provided that: “(a) Definitions.—In this section:“(1) Consent decree.—The term ‘Consent Decree’ means the consent decree issued in United States v. Exxon Corporation, et al. (No. A91–082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91–083 CIV). “(2) Fund.—The term ‘Fund’ means the Natural Resource Damage Assessment and Restoration Fund established pursuant to title I of the Department of the Interior and Related Agencies Appropriations Act, 1992 [Pub. L. 102–154] (43 U.S.C. 1474b). “(3) Outside account.—The term ‘outside account’ means any account outside the United States Treasury. “(4) Trustee.—The term ‘Trustee’ means a Federal or State natural resource trustee for the Exxon Valdez oil spill. “(b) Deposits.—“(1) In general.—Notwithstanding any other provision of law and subject to subsection (g), upon the joint motion of the United States and the State of Alaska and the issuance of an appropriate order by the United States District Court for the District of Alaska, the joint trust funds, or any portion thereof, including any interest accrued thereon, previously received or to be received by the United States and the State of Alaska pursuant to the Agreement and Consent Decree may be deposited in—“(A) the Fund; “(B) an outside account; or “(C) both. “(2) Requirement for deposits in outside accounts.—Any funds deposited in an outside account may be invested only in income-producing obligations and other instruments or securities that have been determined unanimously by the Trustees to have a high degree of reliability and security. “(c) Transfers.—Any joint trust funds deposited in the Fund or an outside account that have been approved unanimously by the Trustees for expenditure by or through a State or Federal agency shall be transferred promptly from the Fund or the outside account to the State of Alaska or United States upon the joint request of the governments. “(d) No Effect on Jurisdiction.—The transfer of joint trust funds outside the Court Registry shall not affect the supervisory jurisdiction of the district court under the Consent Decree or the Memorandum of Agreement and Consent Decree in United States v. State of Alaska (No. A91–081–CIV) over all expenditures of the joint trust funds. “(e) Effect on Other Law.—Nothing in this section affects the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of ‘Operation Desert Shield/Desert Storm’ Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note [43 U.S.C. 1474b note]) that amounts received by the United States and designated by the Trustees for the expenditure by or through a Federal agency must be deposited into the Fund. “(f) Grants.—The Trustees, to the extent authorized by State law, are authorized to issue grants as needed to implement this section, prioritizing the issuance of grants to facilitate habitat protection and habitat restoration programs. “(g) Expiration.—“(1) In general.—The authority provided in this section shall expire on September 30, 2002, unless by September 30, 2001, the Trustees have submitted to the Congress a report recommending a structure the Trustees believe would be most effective and appropriate for the administration and expenditure of remaining funds and interest received. “(2) Return of funds.—On expiration of the authority provided in this section, all monies in the Fund or outside accounts shall be returned to the Court Registry or other account permitted by law.”
+
+Deposit of Funds From Settlement of LitigationPub. L. 102–229, title II, § 207, Dec. 12, 1991, 105 Stat. 1715, provided that: “Notwithstanding any other provision of law, amounts received by the United States for restitution and future restoration (including replacement or acquisition of equivalent natural resources) in settlement of United States v. Exxon Corporation and Exxon Shipping Company (Case No. A90–015–1CR and 2CR), hereinafter the Plea Agreement, United States v. Exxon Corporation et al. (Civil No. A91–082 CIV) and State of Alaska v. Exxon Corporation et al. (Civil No. A91–083 CIV), hereinafter referred to together as the Agreement and Consent Decree, as approved by the United States District Court for the District of Alaska on October 8, 1991, in fiscal year 1992 and thereafter shall be deposited into the Natural Resource Damage Assessment and Restoration Fund established by Public Law 102–154 [105 Stat. 994]. Such amounts, and the interest accruing thereon, shall be available to the Federal Trustees identified in the Agreement and Consent Decree for necessary expenses for assessment and restoration of areas affected by the discharge of oil from the T/V EXXON VALDEZ on March 23–24, 1989, for fiscal year 1992 and thereafter in accordance with the Plea Agreement and the Agreement and Consent Decree: Provided, That such amounts (and accrued interest) shall remain available until expended: Provided further, That such amounts may be transferred to any account, as authorized by section 311(f)(5) of the Federal Water Pollution Control Act (33 U.S.C. 1321(f)(5)), to carry out the provisions of the Plea Agreement and the Agreement and Consent Decree: Provided further, That herein and hereafter any amounts deposited into the Natural Resource Damage Assessment and Restoration Fund shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: Provided further, That interest earned by such investments shall be available for obligation without further appropriation: Provided further, That, for fiscal year 1992, the Federal Trustees shall provide written notification of the proposed transfer of such amounts to the Appropriations Committees of the House of Representatives and the Senate thirty days prior to the actual transfer of such amounts: Provided further, That, for fiscal year 1993 and thereafter, the Federal Trustees shall submit in the President’s Budget for each fiscal year the proposed use of such amounts.”

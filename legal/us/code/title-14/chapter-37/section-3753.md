@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 3753"
+description: "Maximum ages for retention in an active status"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "37"
+chapter_name: "COAST GUARD RESERVE"
+section: "3753"
+citation: "14 U.S.C. § 3753"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s3753"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "0c980804ee8aac582bdb917fe5282f6e5de275af87f9a9d0b494eb0101182c8d"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "48d1ad78b068d93e3640e782ccedec12064234ace4b7d06831ac679e50bcda6d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 3753 - Maximum ages for retention in an active status
+
+## Text
+
+(a) A Reserve officer, if qualified, shall be transferred to the Retired Reserve on the day the officer becomes 60 years of age unless on active duty. If not qualified for retirement, a Reserve officer shall be discharged effective upon the day the officer becomes 60 years of age unless on active duty.
+
+(b) A Reserve officer on active duty shall, if qualified, be retired effective upon the day the officer become 62 years of age. If not qualified for retirement, a Reserve officer on active duty shall be discharged effective upon the day the officer becomes 62 years of age.
+
+(c) Notwithstanding subsections (a) and (b), the Secretary may authorize the retention of a Reserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes 64 years of age.
+
+(d) Retention of Health Professions Officers.— (1) In general.— Notwithstanding subsections (a), (b), and (c), the Secretary may authorize the retention of a Reserve health professions officer in an active status not beyond the first day of the month following the month in which the health professions officer concerned becomes 68 years of age.
+
+(2) Rule of construction.— Nothing in this subsection may be construed to prohibit or modify the application of any provision relating to mandatory separation or disciplinary action.
+
+(3) Health professions officer defined.— In this subsection, the term “health professions officer” means an officer or enlisted member of the Coast Guard in good standing who is—
+
+(A) a physician, surgeon, medical specialist, nurse or nurse practitioner, physician’s assistant, health service technician, therapist, fully licensed clinical psychotherapist, counselor, social worker, medical assistant, radiology assistant, pharmacist, pharmacy assistant, nutritionist, dietitian, any administrative personnel associated with a Coast Guard medical program (including a clinic), personnel who works in a medical laboratory, physical therapist, physical therapist aide, occupational therapist, or occupational therapist aide;
+
+(B) a dentist, dental assistant, oral surgeon, or any other dental-related personnel; or
+
+(C) a member of a category designated by the Secretary under section 2154(c)(3).
+
+(e) For purposes of this section, “active duty” does not include active duty for training, duty on a board, or duty of a limited or temporary nature if assigned to active duty from an inactive duty status.
+
+(Added Pub. L. 96–322, § 1, Aug. 4, 1980, 94 Stat. 1014, § 742; amended Pub. L. 97–417, § 2(16), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 108–293, title II, § 209, Aug. 9, 2004, 118 Stat. 1035; Pub. L. 114–120, title II, § 209(13), Feb. 8, 2016, 130 Stat. 41; renumbered § 3753, Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233; Pub. L. 119–60, div. G, title LXXII, § 7222(b), Dec. 18, 2025, 139 Stat. 1701.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsecs. (d), (e). Pub. L. 119–60 added subsec. (d) and redesignated former subsec. (d) as (e). 2018—Pub. L. 115–282 renumbered section 742 of this title as this section. 2016—Subsec. (c). Pub. L. 114–120 substituted “subsections” for “subsection”. 2004—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “(a) A Reserve officer, if qualified, shall be transferred to the Retired Reserve on the day the officer becomes sixty-two years of age. “(b) Notwithstanding subsection (a) of this section, the Secretary may authorize the retention of a Reserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes sixty-four years of age. “(c) Except as provided for in subsections (a) and (b) of this section, a Reserve officer shall be discharged effective upon the day the officer becomes sixty-two years of age.” 1985—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”. 1983—Subsec. (b). Pub. L. 97–417 inserted “or commodore” after “rear admiral”.

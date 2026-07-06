@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 3702"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "38"
+chapter_name: "MULTIFAMILY MORTGAGE FORECLOSURE"
+section: "3702"
+citation: "12 U.S.C. § 3702"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s3702"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "c8a4e72c13ba8b34ce2f44c39e13a6235ab510170059b0cb543ac53fa65265cd"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "fd8455e41fc6f0c2e915a6782c3483945247eb816e2025e77b86a2908a66ccce"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 3702 - Definitions
+
+## Text
+
+As used in this chapter—
+
+(1) “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any interest in property, real, personal or mixed, or any interest in property including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien, for the purpose of securing the payment of money or the performance of an obligation;
+
+(2) “multifamily mortgage” means a mortgage held by the Secretary pursuant to—
+
+(A) section 608 or 801, or title II or X, of the National Housing Act [12 U.S.C. 1743, 1748, 1707 et seq., 1749aa et seq.];
+
+(B) section 312 of the Housing Act of 1964 [42 U.S.C. 1452b], as it existed immediately before its repeal by section 289 of the Cranston-Gonzalez National Affordable Housing Act;
+
+(C) section 202 of the Housing Act of 1959 [12 U.S.C. 1701q], as it existed immediately before its amendment by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
+
+(D) section 202 of the Housing Act of 1959 [12 U.S.C. 1701q], as amended by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
+
+(E) section 811 of the Cranston-Gonzalez National Affordable Housing Act [42 U.S.C. 8013]; and
+
+(F) section 514 or 515 of the Housing Act of 1949 (42 U.S.C. 1484, 1485).
+
+(3) “mortgage agreement” means the note or debt instrument and the mortgage instrument, deed of trust instrument, trust deed, or instrument or instruments creating the mortgage, including any instrument incorporated by reference therein (including any applicable regulatory agreement), and any instrument or agreement amending or modifying any of the foregoing;
+
+(4) “mortgagor” means the obligor, grantor, or trustor named in the mortgage agreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not personally liable on the mortgage debt;
+
+(5) “person” includes any individual, group of individuals, association, partnership, corporation, or organization;
+
+(6) “record” and “recorded” include “register” and “registered” in the instance of registered land;
+
+(7) “security property” means the property, real, personal or mixed, or an interest in property, including leaseholds, life estates, reversionary interests, and any other estates under applicable State law, together with fixtures and other interests subject to the lien of the mortgage under applicable State law;
+
+(8) “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands, and Indian tribes as defined by the Secretary;
+
+(9) “county” means county as defined in section 2 of title 1; and
+
+(10) “Secretary” means the Secretary of Housing and Urban Development and the Secretary of Agriculture.
+
+(Pub. L. 97–35, title III, § 363, Aug. 13, 1981, 95 Stat. 422; Pub. L. 102–550, title V, § 517(b), Oct. 28, 1992, 106 Stat. 3792; Pub. L. 118–42, div. B, title VII, § 762, Mar. 9, 2024, 138 Stat. 115; Pub. L. 119–37, div. B, title VII, § 765, Nov. 12, 2025, 139 Stat. 554.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§ 1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, § 133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see section 1701 of this title and Tables. Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is section 312 of Pub. L. 88–560, which was classified to section 1452b of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 101–625, title II, § 289(b)(1), Nov. 28, 1990, 104 Stat. 4128. Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred to in par. (2)(C), (D), is section 801 of Pub. L. 101–625.
+
+Amendments2025—Par. (2)(F). Pub. L. 119–37 added subpar. (F). 2024—Par. (10). Pub. L. 118–42, which directed the insertion of “and the Secretary of Agriculture” after “Secretary of Housing Urban Development”, was executed by making the insertion after “Secretary of Housing and Urban Development”, to reflect the probable intent of Congress. 1992—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘multifamily mortgage’ means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;”.
+
+Executive Documents
+
+Termination of Trust Territory of the Pacific Islands For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

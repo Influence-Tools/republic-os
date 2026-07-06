@@ -1,0 +1,97 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2341a"
+description: "Prioritization"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2341a"
+citation: "33 U.S.C. § 2341a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2341a"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "9275abd1022f556c15099919a7d4a86177b0d56f1015582497d0bb1b0a1cb4cd"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "5d6af6e08ac2ac6c1923463b54b0693bc6b17b8818cee8f424793caa28b2fe47"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2341a - Prioritization
+
+## Text
+
+(a) Prioritization of hurricane and storm damage risk reduction efforts (1) Priority For authorized projects and ongoing feasibility studies with a primary purpose of hurricane and storm damage risk reduction, the Secretary shall give funding priority to projects and ongoing studies that—
+
+(A) address an imminent threat to life and property;
+
+(B) prevent storm surge from inundating populated areas;
+
+(C) restore or prevent the loss of coastal wetlands that help reduce the impact of storm surge;
+
+(D) protect emergency hurricane evacuation routes or shelters;
+
+(E) prevent adverse impacts to publicly owned or funded infrastructure and assets;
+
+(F) minimize disaster relief costs to the Federal Government; and
+
+(G) address hurricane and storm damage risk reduction in an area for which the President declared a major disaster in accordance with section 5170 of title 42.
+
+(2) Expedited consideration of currently authorized projects Not later than 180 days after December 16, 2016, the Secretary shall—
+
+(A) submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of all—
+
+(i) ongoing hurricane and storm damage reduction feasibility studies that have signed feasibility cost-share agreements and have received Federal funds since 2009; and
+
+(ii) authorized hurricane and storm damage reduction projects;
+
+(B) identify those projects on the list required under subparagraph (A) that meet the criteria described in paragraph (1); and
+
+(C) provide a plan for expeditiously completing the projects identified under subparagraph (B), subject to available funding.
+
+(b) Prioritization of ecosystem restoration efforts (1) In general For authorized projects with a primary purpose of ecosystem restoration, the Secretary shall give funding priority to projects—
+
+(A) that—
+
+(i) address an identified threat to public health, safety, or welfare;
+
+(ii) preserve or restore ecosystems of national significance; or
+
+(iii) preserve or restore habitats of importance for federally protected species, including migratory birds; and
+
+(B) for which the restoration activities will contribute to other ongoing or planned Federal, State, or local restoration initiatives.
+
+(2) Expedited consideration of currently authorized programmatic authorities Not later than 180 days after December 16, 2016, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that contains—
+
+(A) a list of all programmatic authorities for aquatic ecosystem restoration or improvement of the environment that—
+
+(i) were authorized or modified in the Water Resources Development Act of 2007 (Public Law 110–114; 121 Stat. 1041) or any subsequent Act; and
+
+(ii) that meet the criteria described in paragraph (1); and
+
+(B) a plan for expeditiously completing the projects under the authorities described in subparagraph (A), subject to available funding.
+
+(Pub. L. 113–121, title I, § 1011, June 10, 2014, 128 Stat. 1217; Pub. L. 114–322, title I, § 1322(a), Dec. 16, 2016, 130 Stat. 1706.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Water Resources Development Act of 2007, referred to in subsec. (b)(2)(A)(i), is Pub. L. 110–114, Nov. 8, 2007, 121 Stat. 1041. For complete classificaton of this Act to the Code, see Tables.
+
+Codification Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2016—Subsec. (a)(1)(C). Pub. L. 114–322, § 1322(a)(1)(A), inserted “restore or” before “prevent the loss”. Subsec. (a)(2). Pub. L. 114–322, § 1322(a)(1)(B)(i), substituted “December 16, 2016” for “June 10, 2014” in introductory provisions. Subsec. (a)(2)(A)(ii). Pub. L. 114–322, § 1322(a)(1)(B)(ii), struck out before semicolon at end “that— “(I) have been authorized for more than 20 years but are less than 75 percent complete; or “(II) are undergoing a post-authorization change report, general reevaluation report, or limited reevaluation report”. Subsec. (b). Pub. L. 114–322, § 1322(a)(2), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) to (C) of former par. (1) as cls. (i) to (iii), respectively, of subpar. (A) of par. (1), and added par. (2).
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 3602"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "49"
+chapter_name: "INTEGRATED COASTAL AND OCEAN OBSERVATION SYSTEM"
+section: "3602"
+citation: "33 U.S.C. § 3602"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s3602"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "7a2918aeb150dee8ad8014c6b0d1d3e6eb6965497749cc3f7187c09e3e7ca67b"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "54097b21a46102efb243faa2fe06ed44483c1442b806e419d206d006414bf2af"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 3602 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) Administrator The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere in the Under Secretary’s capacity as Administrator of the National Oceanic and Atmospheric Administration.
+
+(2) Council The term “Council” means the National Ocean Research Leadership Council established by section 8932 of title 10.11 See References in Text note below.
+
+(3) Federal assets The term “Federal assets” means all relevant non-classified civilian coastal and ocean observations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
+
+(4) Interagency Ocean Observation Committee The term “Interagency Ocean Observation Committee” means the committee established under section 3603(c)(2) of this title.
+
+(5) Non-Federal assets The term “non-Federal assets” means all relevant coastal and ocean observation technologies, related basic and applied technology research and development, and public education and outreach programs that are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee.
+
+(6) Regional coastal observing system The term “regional coastal observing system” means an organizational body that is certified or established by contract or memorandum by the lead Federal agency designated in section 3603(c)(3) of this title and coordinates State, Federal, local, tribal, and private interests at a regional level with the responsibility of engaging the private and public sectors in designing, operating, and improving regional coastal observing systems in order to ensure the provision of data and information that meet the needs of user groups from the respective regions.
+
+(7) Secretary The term “Secretary” means the Secretary of Commerce, acting through the Administrator.
+
+(8) System The term “System” means the National Integrated Coastal and Ocean Observation System established under section 3603 of this title.
+
+(9) System Plan The term “System Plan” means the plan contained in the document entitled “Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan”, as updated by the Council under this chapter.
+
+(Pub. L. 111–11, title XII, § 12303, Mar. 30, 2009, 123 Stat. 1428; Pub. L. 116–271, title I, § 102, Dec. 31, 2020, 134 Stat. 3333.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe reference to the National Ocean Research Leadership Council established by section 8932 of title 10, referred to in par. (2), is no longer accurate insofar as section 8932 of title 10 was amended by Pub. L. 116–283 so as to instead refer to the Ocean Policy Committee.
+
+Amendments2020—Par. (2). Pub. L. 116–271, § 102(1), substituted “section 8932” for “section 7902”. Par. (5). Pub. L. 116–271, § 102(2), substituted “managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee” for “integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector”. Par. (6). Pub. L. 116–271, § 102(3), amended par. (6) generally. Prior to amendment, par. (6) related to regional information coordination entities. Par. (7). Pub. L. 116–271, § 102(4), substituted “Administrator” for “National Oceanic and Atmospheric Administration”.

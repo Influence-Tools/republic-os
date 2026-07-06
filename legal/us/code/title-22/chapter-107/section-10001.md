@@ -1,0 +1,109 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 10001"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "107"
+chapter_name: "SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY"
+section: "10001"
+citation: "22 U.S.C. § 10001"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s10001"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "575fed4b200533acc8e2a9c33feac54a475fe0fafdcead6cf2870f5dbf190ebb"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "f6fa5a211aac9d85433f58cb67468d7b425e5703c5394f87dda5521412c3a546"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 10001 - Definitions
+
+## Text
+
+Except as otherwise provided, in this chapter:
+
+(1) Appropriate congressional committees The term “appropriate congressional committees” means—
+
+(A) the Committee on Foreign Relations of the Senate;
+
+(B) the Committee on Appropriations of the Senate;
+
+(C) the Committee on Foreign Affairs of the House of Representatives; and
+
+(D) the Committee on Appropriations of the House of Representatives.
+
+(2) International financial institutions The term “international financial institutions” means—
+
+(A) the International Monetary Fund;
+
+(B) the International Bank for Reconstruction and Development;
+
+(C) the International Development Association;
+
+(D) the International Finance Corporation;
+
+(E) the Inter-American Development Bank;
+
+(F) the Asian Development Bank;
+
+(G) the Inter-American Investment Corporation;
+
+(H) the African Development Bank;
+
+(I) the European Bank for Reconstruction and Development;
+
+(J) the Multilateral Investment Guaranty Agency; and
+
+(K) any multilateral financial institution, established after January 1, 2021, that could provide financial assistance to the Government of Sudan.
+
+(3) Sovereignty Council The term “Sovereignty Council” means the governing body of Sudan during the transitional period that consists of—
+
+(A) 5 civilians selected by the Forces of Freedom and Change;
+
+(B) 5 members selected by the Transitional Military Council; and
+
+(C) 1 member selected by agreement between the Forces of Freedom and Change and the Transitional Military Council.
+
+(4) Sudanese security and intelligence services The term “Sudanese security and intelligence services” means—
+
+(A) the Sudan Armed Forces;
+
+(B) the Rapid Support Forces,11 So in original. The comma probably should be a semicolon.
+
+(C) Sudan’s Popular Defense Forces and other paramilitary units;
+
+(D) Sudan’s police forces;
+
+(E) the General Intelligence Service, previously known as the National Intelligence and Security Services; and
+
+(F) related entities, such as Sudan’s Military Industry Corporation.
+
+(5) Transitional period The term “transitional period” means the 39-month period beginning on August 17, 2019 (the date of the signing of Sudan’s constitutional charter), during which—
+
+(A) the members of the Sovereignty Council described in paragraph (3)(B) select a chair of the Council for the first 21 months of the period; and
+
+(B) the members of the Sovereignty Council described in paragraph (3)(A) select a chair of the Council for the remaining 18 months of the period.
+
+(Pub. L. 116–283, div. A, title XII, § 1262, Jan. 1, 2021, 134 Stat. 3967.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this subtitle”, meaning subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, known as the Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 116–283, div. A, title XII, § 1261, Jan. 1, 2021, 134 Stat. 3967, provided that: “This subtitle [subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, enacting this chapter and amending and repealing provisions set out as notes under section 1701 of Title 50, War and National Defense] may be cited as the ‘Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020’.”
+
+Special Envoy for SudanPub. L. 118–159, div. G, title LXXII, § 7204, Dec. 23, 2024, 138 Stat. 2529, provided that: “(a) Establishment.—The President shall, with the advice and consent of the Senate, appoint a Special Envoy for Sudan at the Department (in this section referred to as the ‘Special Envoy’). The Special Envoy shall report directly to the Secretary [of State] and should not hold another position in the Department [of State] while holding the position of Special Envoy. “(b) Duties.—The Special Envoy shall—“(1) lead United States diplomatic efforts to support negotiations and humanitarian response efforts related to alleviating the crisis in Sudan; “(2) be responsible for coordinating policy development and execution related to ending the conflict and a future path to national recovery and democratic transition in Sudan across all bureaus in the Department and coordinating with interagency partners; and “(3) consult regularly with the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] and keep such committees fully and currently informed on the status of diplomatic efforts and negotiations. “(c) Staffing.—“(1) In general.—The Secretary shall ensure that the Special Envoy is staffed with personnel approved by the envoy, including through reassignment of positions responsible for issues related to Sudan that currently exist within the Department, encouraging details or assignment of employees of the Department from regional and functional bureaus with expertise relevant to Sudan, or through request for interagency details of individuals with relevant experience from other United States Government departments or agencies, including the Department of Treasury. “(2) Briefing requirements.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Department should brief the appropriate congressional committees on the number of full-time equivalent positions supporting the Special Envoy and the relevant expertise and duties of any employees of the Department serving as detailees. “(d) Sunset.—The position of the Special Envoy for Sudan shall terminate on the date that is 2 years after the date of the enactment of this Act.”

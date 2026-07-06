@@ -1,0 +1,113 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3057"
+description: "National Counterproliferation and Biosecurity Center"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3057"
+citation: "50 U.S.C. § 3057"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3057"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "b72b8ba950effb94364d702a4f83404794193f54ba49fb00a29b9d62b1756e8c"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "b4d71d7d90ffa45413419f23876332e6ec455f724c12598a0cb7ae9b4b077fca"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3057 - National Counterproliferation and Biosecurity Center
+
+## Text
+
+(a) Establishment (1) The President shall establish a National Counterproliferation and Biosecurity Center, taking into account all appropriate government tools to—
+
+(A) prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies; and
+
+(B) lead integration and mission management of all intelligence activities pertaining to biosecurity and foreign biological threats.
+
+(2) The head of the National Counterproliferation and Biosecurity Center shall be the Director of the National Counterproliferation and Biosecurity Center, who shall be appointed by the Director of National Intelligence.
+
+(3) The National Counterproliferation and Biosecurity Center shall be located within the Office of the Director of National Intelligence.
+
+(4) The Director of the National Counterproliferation and Biosecurity Center shall serve as the principal coordinator for the intelligence community, and as the principal advisor to the Director of National Intelligence, with respect to counterproliferation, biosecurity, and foreign biological threats.
+
+(b) Missions and objectives (1) Counterproliferation In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies:
+
+(A) Establishing a primary organization within the United States Government for integrating all intelligence possessed or acquired by the United States pertaining to proliferation.
+
+(B) Ensuring that appropriate agencies have full access to and receive all-source intelligence support needed to execute their counterproliferation plans or activities, and perform independent, alternative analyses.
+
+(C) Coordinating the establishment of a central repository on known and suspected proliferation activities, including the goals, strategies, capabilities, networks, and any individuals, groups, or entities engaged in proliferation.
+
+(D) Overseeing the dissemination of proliferation information, including proliferation threats and analyses, to the President, to the appropriate departments and agencies, and to the appropriate committees of Congress.
+
+(E) Conducting and coordinating net assessments and warnings about the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
+
+(F) Coordinating counterproliferation plans and activities of the various departments and agencies of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
+
+(G) Coordinating and advancing strategic operational counterproliferation planning for the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies.
+
+(2) Biosecurity In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to ensure that the Center serves as the lead for the intelligence community for the integration, mission management, and coordination of intelligence activities pertaining to biosecurity and foreign biological threats, regardless of origin:
+
+(A) Ensuring that the elements of the intelligence community provide timely and effective warnings to the President and the Director of National Intelligence regarding emerging foreign biological threats, including diseases with pandemic potential.
+
+(B) Overseeing and coordinating the collection of intelligence on biosecurity and foreign biological threats in support of the intelligence needs of the Federal departments and agencies responsible for public health, including by conveying collection priorities to elements of the intelligence community.
+
+(C) Overseeing and coordinating the analysis of intelligence on biosecurity and foreign biological threats in support of the intelligence needs of Federal departments and agencies responsible for public health, including by providing analytic priorities to elements of the intelligence community and by coordinating net assessments.
+
+(D) Coordinating intelligence support to the Federal departments and agencies responsible for public health on matters relating to biosecurity and foreign biological threats, including by ensuring that intelligence pertaining to biosecurity and foreign biological threats is disseminated among appropriately cleared personnel of such departments and agencies.
+
+(E) Coordinating with the Federal departments and agencies responsible for public health to encourage information sharing with the intelligence community.
+
+(F) Identifying gaps in the capabilities of the intelligence community regarding biosecurity and countering foreign biological threats and providing to the Director of National Intelligence recommended solutions for such gaps, including by encouraging research and development of new capabilities and authorities to counter foreign biological threats.
+
+(G) Enhancing coordination between elements of the intelligence community and private sector entities on information relevant to biosecurity, biotechnology, and foreign biological threats, and coordinating such information with relevant Federal departments and agencies, as applicable.
+
+(c) National security waiver The President may waive the requirements of this section, and any parts thereof, if the President determines that such requirements do not materially improve the ability of the United States Government to prevent and halt the proliferation of weapons of mass destruction, their delivery systems, and related materials and technologies. Such waiver shall be made in writing to Congress and shall include a description of how the missions and objectives in subsection (b) are being met.
+
+(d) Report to Congress (1) Not later than nine months after the implementation of this chapter, the President shall submit to Congress, in classified form if necessary, the findings and recommendations of the President’s Commission on Weapons of Mass Destruction established by Executive Order in February 2004, together with the views of the President regarding the establishment of a National Counterproliferation and Biosecurity Center.
+
+(2) If the President decides not to exercise the waiver authority granted by subsection (c), the President shall submit to Congress from time to time updates and plans regarding the establishment of a National Counterproliferation and Biosecurity Center.
+
+(e) Sense of Congress It is the sense of Congress that a central feature of counterproliferation activities, consistent with the President’s Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
+
+(July 26, 1947, ch. 343, title I, § 119A, as added Pub. L. 108–458, title I, § 1022, Dec. 17, 2004, 118 Stat. 3675; amended Pub. L. 111–259, title IV, § 407(a), Oct. 7, 2010, 124 Stat. 2721; Pub. L. 117–103, div. X, title IV, § 401(a)–(d), Mar. 15, 2022, 136 Stat. 973, 974; Pub. L. 118–159, div. F, title LXV, § 6502, Dec. 23, 2024, 138 Stat. 2494; Pub. L. 119–60, div. F, title LXIV, § 6404(c)(2), (d), Dec. 18, 2025, 139 Stat. 1618.)
+
+## Notes
+
+Amendment of SectionPub. L. 119–60, div. F, title LXIV, § 6404(c)(2), (d), (g), Dec. 18, 2025, 139 Stat. 1618, provided that, effective 180 days after Dec. 18, 2025, section is amended as follows: (1) in the heading, by striking “National Counterproliferation and Biosecurity Center” and inserting “Counterproliferation and Biosecurity”; (2) in subsection (a)— (A) in the heading, by striking “Establishment” and inserting “Organization”; (B) in paragraph (1)— (i) by striking “The President shall establish a National Counterproliferation and Biosecurity Center, taking into account all appropriate government tools to” and inserting “The Director of National Intelligence shall”; and (ii) in subparagraph (A), by inserting “support efforts to” before “prevent and halt”; (C) by striking paragraph (2) and inserting the following: “(2) The Director of National Intelligence shall appoint an appropriate official within the Office of the Director of National Intelligence to oversee the efforts and activities undertaken pursuant to this section.”; and (D) by striking paragraphs (3) and (4); and (3) in subsection (b)— (A) in paragraph (1)— (i) by striking “establishing the National Counterproliferation and Biosecurity Center, the President” and inserting “carrying out this section, the Director”; and (ii) in subparagraph (A), by striking “Establishing a primary organization within the United States Government for integrating” and inserting “Integrating”; and (B) in paragraph (2), by striking “In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to ensure that the Center serves as the lead for the intelligence community for” and inserting “In carrying out this section, the Director shall address the following missions and objectives to ensure”; and (4) by striking subsections (c), (d), and (e). See 2025 Amendment notes below.
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables. The Executive Order in February 2004 establishing the President’s Commission on Weapons of Mass Destruction, referred to in subsec. (d)(1), is Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which was revoked by Ex. Ord. No. 13385, § 3(a), Sept. 29, 2005, 70 F.R. 57990, and was formerly set out as a note under section 2301 of this title.
+
+Codification Section was formerly classified to section 404o–1 of this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2025—Pub. L. 119–60, § 6404(c)(2)(A), substituted “Counterproliferation and Biosecurity” for “National Counterproliferation and Biosecurity Center” in section catchline. Subsec. (a). Pub. L. 119–60, § 6404(c)(2)(B)(i), substituted “Organization” for “Establishment” in heading. Subsec. (a)(1). Pub. L. 119–60, § 6404(c)(2)(B)(ii)(I), substituted “The Director of National Intelligence shall” for “The President shall establish a National Counterproliferation and Biosecurity Center, taking into account all appropriate government tools to” in introductory provisions. Subsec. (a)(1)(A). Pub. L. 119–60, § 6404(c)(2)(B)(ii)(II), inserted “support efforts to” before “prevent and halt”. Subsec. (a)(2). Pub. L. 119–60, § 6404(c)(2)(B)(iii), added par. (2) and struck out former par. (2) which read as follows: “The head of the National Counterproliferation and Biosecurity Center shall be the Director of the National Counterproliferation and Biosecurity Center, who shall be appointed by the Director of National Intelligence.” Subsec. (a)(3), (4). Pub. L. 119–60, § 6404(c)(2)(B)(iv), struck out pars. (3) and (4) which read as follows: “(3) The National Counterproliferation and Biosecurity Center shall be located within the Office of the Director of National Intelligence. “(4) The Director of the National Counterproliferation and Biosecurity Center shall serve as the principal coordinator for the intelligence community, and as the principal advisor to the Director of National Intelligence, with respect to counterproliferation, biosecurity, and foreign biological threats.” Subsec. (b)(1). Pub. L. 119–60, § 6404(c)(2)(C)(i)(I), substituted “carrying out this section, the Director” for “establishing the National Counterproliferation and Biosecurity Center, the President” in introductory provisions. Subsec. (b)(1)(A). Pub. L. 119–60, § 6404(c)(2)(C)(i)(II), substituted “Integrating” for “Establishing a primary organization within the United States Government for integrating”. Subsec. (b)(2). Pub. L. 119–60, § 6404(c)(2)(C)(ii), substituted “In carrying out this section, the Director shall address the following missions and objectives to ensure” for “In establishing the National Counterproliferation and Biosecurity Center, the President shall address the following missions and objectives to ensure that the Center serves as the lead for the intelligence community for” in introductory provisions. Subsecs. (c) to (e). Pub. L. 119–60, § 6404(d), struck out subsecs. (c) to (e) which related to national security waiver, report to Congress, and sense of Congress, respectively. 2024—Subsec. (a)(4). Pub. L. 118–159, § 6502(1), substituted “counterproliferation, biosecurity, and” for “biosecurity and”. Subsec. (b)(1)(A). Pub. L. 118–159, § 6502(2)(A)(i), struck out “analyzing and” before “integrating all intelligence”. Subsec. (b)(1)(C). Pub. L. 118–159, § 6502(2)(A)(ii), substituted “Coordinating the establishment of” for “Establishing”. Subsec. (b)(1)(D). Pub. L. 118–159, § 6502(2)(A)(iii), substituted “Overseeing the dissemination of” for “Disseminating”. Subsec. (b)(1)(E). Pub. L. 118–159, § 6502(2)(A)(iv), inserted “and coordinating” after “Conducting”. Subsec. (b)(1)(G). Pub. L. 118–159, § 6502(2)(A)(v), substituted “Coordinating and advancing” for “Conducting”. Subsec. (b)(2)(B). Pub. L. 118–159, § 6502(2)(B)(i), struck out “and analysis” after “coordinating the collection”. Subsec. (b)(2)(C). Pub. L. 118–159, § 6502(2)(B)(iii), added subpar. (C). Former subpar. (C) redesignated (D). Subsec. (b)(2)(D). Pub. L. 118–159, § 6502(2)(B)(ii), (iv), redesignated subpar. (C) as (D) and inserted “on matters relating to biosecurity and foreign biological threats” after “public health”. Former subpar. (D) redesignated (E). Subsec. (b)(2)(E). Pub. L. 118–159, § 6502(2)(B)(ii), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F). Subsec. (b)(2)(F). Pub. L. 118–159, § 6502(2)(B)(v), which directed insertion of “and authorities” after “capabilities”, was executed by making the insertion after “capabilities” the second place appearing, to reflect the probable intent of Congress. Pub. L. 118–159, § 6502(2)(B)(ii), redesignated subpar. (E) as (F). Subsec. (b)(2)(G). Pub. L. 118–159, § 6502(2)(B)(vi), added subpar. (G). 2022—Pub. L. 117–103, § 401(a), (d), substituted “Counterproliferation and Biosecurity” for “Counter Proliferation” in section catchline and “National Counterproliferation and Biosecurity Center” for “National Counter Proliferation Center” and “counterproliferation” for “counter proliferation” wherever appearing in text. Subsec. (a)(1). Pub. L. 117–103, § 401(b)(1), inserted dash after “government tools to” and subpar. (A) designation before “prevent” and added subpar. (B). Subsec. (a)(4). Pub. L. 117–103, § 401(b)(2), added par. (4). Subsec. (b). Pub. L. 117–103, § 401(c), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, of par. (1) and realigned margins, and added par. (2). 2010—Subsec. (a). Pub. L. 111–259 designated existing provisions as par. (1), substituted “The” for “Not later than 18 months after December 17, 2004, the”, and added pars. (2) and (3).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–60 effective 180 days after Dec. 18, 2025, see section 6404(g) of Pub. L. 119–60, set out as a note under section 3025 of this title.
+
+Effective DateFor Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title. Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+Termination of the National Counterproliferation and Biosecurity Center; DirectorPub. L. 119–60, div. F, title LXIV, § 6404(a), Dec. 18, 2025, 139 Stat. 1617, provided that: “(1) Termination of center.—Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of National Intelligence shall terminate the National Counterproliferation and Biosecurity Center, including such missions, objectives, staff, and resources of the Center, as is consistent with the provisions of this section [amending this section and section 3025 of this title and enacting provisions set out as notes under this section and section 3025 of this title] and the amendments made by this section. “(2) Termination of director of the center.—Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall terminate the position of the Director of the National Counterproliferation and Biosecurity Center, as is consistent with the provisions of this section.”
+
+References in LawPub. L. 119–60, div. F, title LXIV, § 6404(h), Dec. 18, 2025, 139 Stat. 1618, provided that: “On and after the date that is 180 days after the date of enactment of this Act [Dec. 18, 2025], any reference to the National Counterproliferation and Biosecurity Center in law shall be treated as a reference to the Office of the Director of National Intelligence, and any reference to the Director of the National Counterproliferation and Biosecurity Center in law shall be treated as a reference to the Director of National Intelligence.”
+
+Reference to National Counter Proliferation CenterPub. L. 117–103, div. X, title IV, § 401(e), Mar. 15, 2022, 136 Stat. 975, provided that: “Any reference in any law, regulation, guidance, instruction, or other document of the United States Government to the National Counter Proliferation Center shall be deemed to refer to the National Counterproliferation and Biosecurity Center.”
+
+Executive Documents
+
+Delegation of Functions Reporting functions of President under this section assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.

@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 460l–17"
+description: "Miscellaneous provisions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "460l–17"
+citation: "16 U.S.C. § 460l–17"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s460l–17"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "0a8edbb3c390a49de49f9dfdf833341113bc9c75b2cea5993e3b26e92e1621b2"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "26b9c9a6c7ae2c6639673209b4e4d24200d808874ec6efaec09ac0c13d8205a2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 460l–17 - Miscellaneous provisions
+
+## Text
+
+(a) Project reports; outdoor recreation views; conformity to State comprehensive plan The views of the Secretary of the Interior developed in accordance with section 200104 of title 54, with respect to the outdoor recreation aspects shall be set forth in any report of any project or appropriate unit thereof within the purview of this part. Such views shall include a report on the extent to which the proposed recreation and fish and wildlife development conforms to and is in accord with the State comprehensive plan developed pursuant to section 200305(d) of title 54.
+
+(b) Omitted
+
+(c) Migratory waterfowl refuges at Federal projects; expenditure limitation for acquisition of lands Expenditures for lands or interests in lands hereafter acquired by project construction agencies for the establishment of migratory waterfowl refuges recommended by the Secretary of the Interior at Federal water resource projects, when such lands or interests in lands would not have been acquired but for the establishment of a migratory waterfowl refuge at the project, shall not exceed $28,000,000: Provided, That the aforementioned expenditure limitation in this subsection shall not apply to the costs of mitigating damages to migratory waterfowl caused by such water resource project.
+
+(d) Nonapplication to certain projects This part shall not apply to the Tennessee Valley Authority, but the Authority is authorized to recognize and provide for recreational and other public uses at any dams and reservoirs heretofore or hereafter constructed in a manner consistent with the promotion of navigation, flood control, and the generation of electrical energy, as otherwise required by law, nor to projects constructed under authority of the Small Reclamation Projects Act, as amended [43 U.S.C. 422a et seq.], or under authority of the Watershed Protection and Flood Prevention Act, as amended [16 U.S.C. 1001 et seq.].
+
+(e) Nonapplication to certain other projects Sections 460l–13, 460l–14, 460l–15, and 460l–16 of this title shall not apply to nonreservoir local flood control projects, beach erosion control projects, small boat harbor projects, hurricane protection projects, or to project areas or facilities authorized by law for inclusion within a national recreation area or appropriate for administration by a Federal agency as a part of the national forest system, as a part of the public lands classified for retention in Federal ownership, or in connection with an authorized Federal program for the conservation and development of fish and wildlife.
+
+(f) Interpretation of “nonreimbursable” As used in this part, the term “nonreimbursable” shall not be construed to prohibit the imposition of entrance, admission, and other recreation user fees or charges.
+
+(g) Nonapplication of section 200306(a)(3) of title 54 to nonreimbursable costs of the United States section 11 So in original. Probably should be capitalized. 200306(a)(3) of title 54 shall not apply to costs allocated to recreation and fish and wildlife enhancement which are borne by the United States as a nonreimbursable project cost pursuant to section 460l–13(a) or section 460l–14(b)(1) of this title.
+
+(h) Deposits in Treasury as miscellaneous receipts; deposits of revenue from conveyance of certain lands in Land and Water Conservation Fund All payments and repayment by non-Federal public bodies under the provisions of this part shall be deposited in the Treasury as miscellaneous receipts, and revenue from the conveyance by deed, lease, or otherwise, of lands under section 460l–14(b)(2) of this title shall be deposited in the Land and Water Conservation Fund.
+
+(Pub. L. 89–72, § 6, July 9, 1965, 79 Stat. 216; Pub. L. 94–576, Oct. 21, 1976, 90 Stat. 2728; Pub. L. 113–287, § 5(d)(1), Dec. 19, 2014, 128 Stat. 3264.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis part, referred to in subsecs. (a), (d), (f), and (h), was in the original “this Act”, meaning Pub. L. 89–72, which enacted sections 460l–12 to 460l–21 of this title and amended former section 460l–5(a) and section 662(d) of this title. The Small Reclamation Projects Act, referred to in subsec. (d), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§ 422a et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see section 422k of Title 43 and Tables. The Watershed Protection and Flood Prevention Act, referred to in subsec. (d), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+Codification In subsec. (a), “section 200104 of title 54” substituted for “section 3 of the Act of May 28, 1963 (77 Stat. 49)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs. Subsec. (b) of this section amended section 662(d) of this title.
+
+Amendments2014—Subsec. (a). Pub. L. 113–287, § 5(d)(1)(A), substituted “section 200305(d) of title 54” for “section 460l–8(d) of this title”. Subsec. (g). Pub. L. 113–287, § 5(d)(1)(B), substituted “section 200306(a)(3) of title 54” for “Section 460l–9(a)(2) of this title”. 1976—Subsec. (d). Pub. L. 94–576 authorized recreational and other public uses at dams and reservoirs consistent with promotion of navigation, flood control, and generation of electrical energy.

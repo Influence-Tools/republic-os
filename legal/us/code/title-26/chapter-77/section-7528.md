@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 7528"
+description: "Internal Revenue Service user fees"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "77"
+chapter_name: "MISCELLANEOUS PROVISIONS"
+section: "7528"
+citation: "26 U.S.C. § 7528"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s7528"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "fcad522bbb105d0be178a45fb9cfd9fbb8caf3d269d105ea7b1f319dbf7a17a5"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "f26441e1fc53df3857260dd5b7ba2f6d7d06e73446983d2855a8a0b0bb674596"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 7528 - Internal Revenue Service user fees
+
+## Text
+
+(a) General rule The Secretary shall establish a program requiring the payment of user fees for—
+
+(1) requests to the Internal Revenue Service for ruling letters, opinion letters, and determination letters, and
+
+(2) other similar requests.
+
+(b) Program criteria (1) In general The fees charged under the program required by subsection (a)—
+
+(A) shall vary according to categories (or subcategories) established by the Secretary,
+
+(B) shall be determined after taking into account the average time for (and difficulty of) complying with requests in each category (and subcategory), and
+
+(C) shall be payable in advance.
+
+(2) Exemptions, etc. (A) In general The Secretary shall provide for such exemptions (and reduced fees) under such program as the Secretary determines to be appropriate.
+
+(B) Exemption for certain requests regarding pension plans The Secretary shall not require payment of user fees under such program for requests for determination letters with respect to the qualified status of a pension benefit plan maintained solely by 1 or more eligible employers or any trust which is part of the plan. The preceding sentence shall not apply to any request—
+
+(i) made after the later of—
+
+(I) the fifth plan year the pension benefit plan is in existence, or
+
+(II) the end of any remedial amendment period with respect to the plan beginning within the first 5 plan years, or
+
+(ii) made by the sponsor of any prototype or similar plan which the sponsor intends to market to participating employers.
+
+(C) Definitions and special rules For purposes of subparagraph (B)—
+
+(i) Pension benefit plan The term “pension benefit plan” means a pension, profit-sharing, stock bonus, annuity, or employee stock ownership plan.
+
+(ii) Eligible employer The term “eligible employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I)) which has at least 1 employee who is not a highly compensated employee (as defined in section 414(q)) and is participating in the plan. The determination of whether an employer is an eligible employer under subparagraph (B) shall be made as of the date of the request described in such subparagraph.
+
+(iii) Determination of average fees charged For purposes of any determination of average fees charged, any request to which subparagraph (B) applies shall not be taken into account.
+
+(3) Average fee requirement The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table:  Average CategoryFee Employee plan ruling and opinion$250 Exempt organization ruling$350 Employee plan determination$300 Exempt organization determination$275 Chief counsel ruling$200.
+
+(4) Certified professional employer organizations The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
+
+(Added Pub. L. 108–89, title II, § 202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, § 891(a), Oct. 22, 2004, 118 Stat. 1644; Pub. L. 110–28, title VIII, § 8244, May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. B, title II, § 206(f), Dec. 19, 2014, 128 Stat. 4071.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2014—Subsec. (b)(4). Pub. L. 113–295 added par. (4). 2007—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.” 2004—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2014 AmendmentAmendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
+
+Effective Date of 2004 AmendmentPub. L. 108–357, title VIII, § 891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: “The amendment made by this section [amending this section] shall apply to requests after the date of the enactment of this Act [Oct. 22, 2004].”
+
+Effective Date of 2003 AmendmentPub. L. 108–89, title II, § 202(d), Oct. 1, 2003, 117 Stat. 1133, provided that: “The amendments made by this section [enacting this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under section 7801 of this title] shall apply to requests made after the date of the enactment of this Act [Oct. 1, 2003].”
+
+LimitationsPub. L. 108–89, title II, § 202(c), Oct. 1, 2003, 117 Stat. 1133, provided that: “Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act.”

@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 60120"
+description: "Enforcement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "601"
+chapter_name: "SAFETY"
+section: "60120"
+citation: "49 U.S.C. § 60120"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s60120"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "4c16e006360c4c07439a7f4b18c43f19f74bdebf7d71a837cde87114b57bb40a"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "99069f7edb6923729f5d9a89ff372d1f713fafb29b97ea7478aba6dbb23a35b1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 60120 - Enforcement
+
+## Text
+
+(a) Civil Actions.— (1) Civil actions to enforce this chapter.— At the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter, including section 60112, or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including a temporary or permanent injunction, punitive damages, and assessment of civil penalties, considering the same factors as prescribed for the Secretary in an administrative case under section 60122. The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.
+
+(2) Civil actions to require compliance with subpoenas or allow for inspections.— At the request of the Secretary, the Attorney General may bring a civil action in a district court of the United States to require a person to comply immediately with a subpena or to allow an officer, employee, or agent authorized by the Secretary to enter the premises, and inspect the records and property, of the person to decide whether the person is complying with this chapter. The action may be brought in the judicial district in which the defendant resides, is found, or does business. The court may punish a failure to obey the order as a contempt of court.
+
+(b) Jury Trial Demand.— In a trial for criminal contempt for violating an injunction issued under this section, the violation of which is also a violation of this chapter, the defendant may demand a jury trial. The defendant shall be tried as provided in rule 42(b) of the Federal Rules of Criminal Procedure (18 App. U.S.C.).
+
+(c) Effect on Tort Liability.— This chapter does not affect the tort liability of any person.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1323; Pub. L. 107–355, § 8(b)(3), Dec. 17, 2002, 116 Stat. 2993; Pub. L. 112–90, § 2(c), Jan. 3, 2012, 125 Stat. 1905.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 60120(a)(1)49 App.:1677(b)(2).Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 10(b)(2); added Nov. 30, 1979, Pub. L. 96–129, §§ 104(a)(1), 152(a), 93 Stat. 992, 999.  49 App.:1679b(a)(1).Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 12(a); added Nov. 30, 1979, Pub. L. 96–129, § 104(b), 93 Stat. 993.  49 App.:2006(b)(2).Nov. 30, 1979, Pub. L. 96–129, §§ 207(b)(2), (c), 209(a), 93 Stat. 1009, 1010.  49 App.:2008(a)(1). 60120(a)(2)49 App.:1681(f).Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, § 14(f); added Oct. 24, 1992, Pub. L. 102–508, § 112(b), 106 Stat. 3295.  49 App.:2010(f).Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, § 211(f); added Oct. 24, 1992, Pub. L. 102–508, § 211(b), 106 Stat. 3304. 60120(b)49 App.:1679b(a)(2).  49 App.:2008(a)(2). 60120(c)49 App.:1677(c).Aug. 12, 1968, Pub. L. 90–481, § 10(c), 82 Stat. 725; Nov. 30, 1979, Pub. L. 96–129, §§ 104(a)(1), 152(a), 93 Stat. 992, 999.  49 App.:2006(c). In subsection (a)(1), the text of 49 App.:1677(b)(2) and 2006(b)(2) and the words “shall have jurisdiction to determine such actions” in 49 App.:1679b(a)(1) and 2008(a)(1) are omitted as redundant and because of 28:1331 and 1345. The word “civil” is added for consistency in the revised title and with other titles of the United States Code and because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “to enforce this chapter” are substituted for “for equitable relief to redress or restrain a violation by any person of a provision of this chapter” to eliminate unnecessary words. The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the Code. The words “necessary or . . . mandatory or prohibitive injunctive relief, interim equitable relief, and” are omitted as surplus. In subsection (a)(2), the words “the Attorney General may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Attorney General . . . have jurisdiction to issue to such person an order” for clarity and consistency and because of 28:1331 and 1345. The words “contumacy or” are omitted as surplus. The word “premises” is added for clarity and consistency. The words “or examine” are omitted as being included in “inspect”. In subsection (b), the words “mandatory or prohibitive” are omitted as surplus. The words “the defendant may demand a jury trial” are substituted for “trial shall be by the court or, upon demand of the accused, by a jury” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. In subsection (c), the words “common law or statutory” are omitted as surplus.
+
+Editorial Notes
+
+Amendments2012—Subsec. (a)(1). Pub. L. 112–90 added at end “The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.” Subsec. (a). Pub. L. 107–355 reenacted subsec. heading without change, added par. (1) and struck out former par. (1), inserted par. (2) heading and realigned margins. Prior to amendment, par. (1) read as follows: “On the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including punitive damages.”

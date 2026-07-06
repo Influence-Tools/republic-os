@@ -1,0 +1,39 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 141"
+description: "Omitted"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "2"
+chapter_name: "NATIONAL BANKS"
+section: "141"
+citation: "12 U.S.C. § 141"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s141"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "6b7ebaeb72a3991d323c041faa191ecb27e03f04ed39ca82a3e81db882ac1d4d"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "9e4bdf8f88cf5f31e2586a035f1315174eea91c0a9a4d0558b5f732eecbf6301"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 141 - Omitted
+
+## Notes
+
+Editorial Notes
+
+Codification Section, R.S. § 5191 (part); acts Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, which set out a list of reserve and central reserve cities and permitted the Board of Governors of the Federal Reserve System to reclassify, add to, or terminate the designation of such cities, was apparently included in the 1926 ed. of the Code on the basis of authorities other than the source credits. Accordingly, and because the continuing accuracy of the table was doubtful, this section was omitted. Some of the other provisions of R.S. § 5191 are classified to sections 142 and 143 of this title and some were not included in the Code. For classification of other provisions of section 2 of act Dec. 23, 1913, see Codification note set out under section 222 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Central Reserve and Reserve CitiesPub. L. 86–114, § 3(b), July 28, 1959, 73 Stat. 263, provided that: “Effective three years after the date of the enactment of this Act [July 28, 1959]— “(1) New York and Chicago are reclassified as reserve cities under the Federal Reserve Act; “(2) the classification ‘central reserve city’ under the Federal Reserve Act, and the authority of the Board of Governors of the Federal Reserve System to classify or reclassify cities as ‘central reserve cities’ under such Act, are terminated; “(3) section 5192 of the Revised Statutes of the United States (12 U.S.C., sec. 144) is amended by striking out ‘central reserve or’; “(4) section 2 of the Act of March 3, 1887 (ch. 378; 24 Stat. 560) is repealed; “(5) the last paragraph of section 2 of the Federal Reserve act (12 U.S.C., sec. 224) is amended by striking out ‘and central reserve cities’; “(6) section 11(e) of the Federal Reserve Act (12 U.S.C., sec. 248e) is amended by striking out ‘and central reserve’ each place it appears; “(7) the third paragraph (lettered (a)) of section 19 of the Federal Reserve Act (12 U.S.C., sec. 462) is amended by striking out ‘or central reserve’; “(8) the fifth paragraph (lettered (c)) of such section 19 is repealed; “(9) subparagraph (2) of the sixth paragraph of such section 19 (as added by the first section of this Act) is amended by striking out ‘and a member bank in a central reserve city may hold and maintain the reserve balances which are in effect under this section for member banks described in paragraph (a) or (b),’; “(10) the seventh paragraph of such section 19 is amended by striking out clauses (1), (2), (3), and (4) and inserting in lieu thereof the following: ‘(1) by member banks in reserve cities, (2) by member banks not in reserve cities, or (3) by all member banks’; and “(11) the seventh paragraph of such section is further amended by striking out ‘and central reserve cities’.”

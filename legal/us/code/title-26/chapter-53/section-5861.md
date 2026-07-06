@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 5861"
+description: "Prohibited acts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "53"
+chapter_name: "MACHINE GUNS, DESTRUCTIVE DEVICES, AND CERTAIN OTHER FIREARMS"
+section: "5861"
+citation: "26 U.S.C. § 5861"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s5861"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "d2c975a5a5579a35e78b44b23cb66fbfcabfa88f9a8183fcf44458a3201b9687"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "74075bc279761b40286e253e5e61da1c7ae20f57b33aa559d4b8164d14745e05"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 5861 - Prohibited acts
+
+## Text
+
+It shall be unlawful for any person—
+
+(a) to engage in business as a manufacturer or importer of, or dealer in, firearms without having paid the special (occupational) tax required by section 5801 for his business or having registered as required by section 5802; or
+
+(b) to receive or possess a firearm transferred to him in violation of the provisions of this chapter; or
+
+(c) to receive or possess a firearm made in violation of the provisions of this chapter; or
+
+(d) to receive or possess a firearm which is not registered to him in the National Firearms Registration and Transfer Record; or
+
+(e) to transfer a firearm in violation of the provisions of this chapter; or
+
+(f) to make a firearm in violation of the provisions of this chapter; or
+
+(g) to obliterate, remove, change, or alter the serial number or other identification of a firearm required by this chapter; or
+
+(h) to receive or possess a firearm having the serial number or other identification required by this chapter obliterated, removed, changed, or altered; or
+
+(i) to receive or possess a firearm which is not identified by a serial number as required by this chapter; or
+
+(j) to transport, deliver, or receive any firearm in interstate commerce which has not been registered as required by this chapter; or
+
+(k) to receive or possess a firearm which has been imported or brought into the United States in violation of section 5844; or
+
+(l) to make, or cause the making of, a false entry on any application, return, or record required by this chapter, knowing such entry to be false.
+
+(Added Pub. L. 90–618, title II, § 201, Oct. 22, 1968, 82 Stat. 1234.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 5861, act Aug. 16, 1954, ch. 736, 68A Stat. 729, relating to penalties, was omitted in the general revision of this chapter by Pub. L. 90–618. Provisions similar to those comprising subsecs. (a), (b), (d), (g), (j), and (k) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 90–618, as follows: Present subsecs.:Prior sections (a)5854. (b)5851. (d)5854. (g)5852. (j)5855. (k)5853. The prior sections 5851 to 5853, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 728. The prior sections 5854 and 5855, Pub. L. 85–859, title II, § 203(i)(1), Sept. 2, 1958, are set out in 72 Stat. 1428. A prior section 5862, act Aug. 16, 1954, ch. 736, 68A Stat. 729, relating to the forfeiture and disposal of any firearm involved in any violation of the provisions of this chapter or any regulation promulgated thereunder, was omitted in the general revision of this chapter by Pub. L. 90–618. The provisions of prior section 5862 of this title are covered by section 5872 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.

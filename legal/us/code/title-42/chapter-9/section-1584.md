@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1584"
+description: "Removal of all dwelling structures on land under Secretary’s control; temporary housing exempted; preference in fulfilling vacancies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "9"
+chapter_name: "HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE"
+section: "1584"
+citation: "42 U.S.C. § 1584"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1584"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "2a8a3c903ac1f9877fd96a5b7960ec20e9a79c2aa1b7f2723784eeb2708057fc"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "09878fbe56a48cecd1af80fa07778f97eda0c60516cd7e596d40ce82eb4f447c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1584 - Removal of all dwelling structures on land under Secretary’s control; temporary housing exempted; preference in fulfilling vacancies
+
+## Text
+
+With respect to temporary housing remaining under the jurisdiction of the Secretary of Housing and Urban Development on land under his control, the Secretary of Housing and Urban Development shall (1) permit vacancies, occurring or continuing after July 1, 1953, to be filled only by transfer of tenants of other accommodations in the same locality being removed as required by subchapters II to VII of this chapter; (2) notify, on or before March 31, 1954, all tenants to vacate the premises prior to July 1, 1954; (3) promptly after July 1, 1954, cause actions to be instituted to evict any tenants still remaining; and (4) remove (by demolition or otherwise) all dwelling structures as soon as practicable after they become vacant: Provided, That in any case where a request for relinquishment or transfer has been filed pursuant to section 1581 of this title and where under the provisions of section 1581(c) of this title the date for compliance with all conditions to the relinquishment or transfer shall have been extended, each of the foregoing dates shall be extended for a period of time equal to the period of the extension under section 1581(c) of this title: And provided further, That nothing heretofore in this section shall apply (1) to any temporary housing in any municipality in which the total number of persons, who on December 31, 1948, were living in temporary family accommodations provided by the United States or any agency thereof since September 8, 1939, exceeds 30 per centum of the total population of such municipality as shown by the 1940 census, nor (2) to any temporary housing as to which the local governing body has adopted a resolution as provided in section 1582(c) of this title, nor (3) to any temporary housing for which a request has been submitted in accordance with section 1581(b) of this title, but which has not been relinquished or transferred solely because the applicant has been unable to obtain from the landowner the right to possession of the land on reasonable terms as determined by the Secretary of Housing and Urban Development: Provided, That, in filling vacancies in such housing, the preferences set forth in section 1581(d)(1) of this title shall be applicable and that families within such preference classes shall be eligible for admission to such housing, nor (4) to any temporary housing in which accommodations have been reserved, prior to the enactment of this section, for veterans attending an educational institution if (i) such institution certifies that the accommodations are urgently needed for such veterans and submits facts showing, to the satisfaction of the Secretary of Housing and Urban Development, that all reasonable efforts have been made by the institution to find other accommodations for them and (ii) such institution agrees to reimburse the Secretary of Housing and Urban Development for any financial loss to the Secretary of Housing and Urban Development in the operation of the accommodations after June 30, 1951.
+
+(Oct. 14, 1940, ch. 862, title VI, § 604, as added June 28, 1948, ch. 688, § 7, as added Apr. 20, 1950, ch. 94, title II, § 201, 64 Stat. 59; amended June 30, 1951, ch. 197, 65 Stat. 110; Sept. 1, 1951, ch. 378, title VI, § 603(a), 65 Stat. 314; Ex. Ord. No. 10284, §§ 3–5, eff. Sept. 4, 1951, 16 F.R. 8971; Ex. Ord. No. 10339, eff. Apr. 7, 1952, 17 F.R. 3012; Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSubchapters III and VI of this chapter, referred to in text, were comprised of sections 1531 to 1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
+
+Amendments1951—Act Sept. 1, 1951, repealed former fourth and fifth provisos which related to adjustments in rentals that might be set for Government-owned temporary housing. Act June 30, 1951, substituted “August 15, 1951” for “July 1, 1951”.
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
+
+Executive Documents
+
+Executive Order No. 10284 Ex. Ord. No. 10284, Sept. 4, 1951, extended time for filling vacancies from Aug. 15, 1951, to July 1, 1952, for notices to vacate premises from Mar. 31, 1952, to Mar. 31, 1953, for time of vacating from July 1, 1952, to July 1, 1953, and for eviction from July 1, 1952, to July 1, 1953. See note set out under section 1589a of this title.
+
+Executive Order No. 10339 Ex. Ord. No. 10339, Apr. 7, 1952, set out as a note under section 1589a of this title, extended time for filling vacancies from July 1, 1952, to July 1, 1953, for notices to vacate premises from Mar. 31, 1953, to Mar. 31, 1954, for time of vacating from July 1, 1953, to July 1, 1954, and for eviction from July 1, 1953, to July 1, 1954.

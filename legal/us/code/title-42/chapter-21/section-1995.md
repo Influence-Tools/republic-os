@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1995"
+description: "Criminal contempt proceedings; penalties; trial by jury"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "21"
+chapter_name: "CIVIL RIGHTS"
+section: "1995"
+citation: "42 U.S.C. § 1995"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1995"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "6f2e6a64ebc2773607a0d66cf1be470b608018abdbdbc76ef9b5c96b6daa4a90"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "db38ded618f513f3df2f868b4800b154d0e84b4b241458f60d79b233a424df8b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1995 - Criminal contempt proceedings; penalties; trial by jury
+
+## Text
+
+In all cases of criminal contempt arising under the provisions of this Act, the accused, upon conviction, shall be punished by fine or imprisonment or both: Provided however, That in case the accused is a natural person the fine to be paid shall not exceed the sum of $1,000, nor shall imprisonment exceed the term of six months: Provided further, That in any such proceeding for criminal contempt, at the discretion of the judge, the accused may be tried with or without a jury: Provided further, however, That in the event such proceeding for criminal contempt be tried before a judge without a jury and the sentence of the court upon conviction is a fine in excess of the sum of $300 or imprisonment in excess of forty-five days, the accused in said proceeding, upon demand therefore, shall be entitled to a trial de novo before a jury, which shall conform as near as may be to the practice in other criminal cases. This section shall not apply to contempts committed in the presence of the court or so near thereto as to interfere directly with the administration of justice nor to the misbehavior, misconduct, or disobedience, of any officer of the court in respect to the writs, orders, or process of the court. Nor shall anything herein or in any other provision of law be construed to deprive courts of their power, by civil contempt proceedings, without a jury, to secure compliance with or to prevent obstruction of, as distinguished from punishment for violations of, any lawful writ, process, order, rule, decree, or command of the court in accordance with the prevailing usages of law and equity, including the power of detention.
+
+(Pub. L. 85–315, pt. V, § 151, Sept. 9, 1957, 71 Stat. 638.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in text, is Pub. L. 85–315, Sept. 9, 1957, 71 Stat. 634, known as the Civil Rights Act of 1957. For complete classification of this Act to the Code, see Tables.

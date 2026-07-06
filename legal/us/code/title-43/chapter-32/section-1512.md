@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 1512"
+description: "Mexican Water Treaty"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "32"
+chapter_name: "COLORADO RIVER BASIN PROJECT"
+section: "1512"
+citation: "43 U.S.C. § 1512"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s1512"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "a396f45d4103b81810e8e8d2c396e758ed904c5dbd2bd43c393dbaa841894fac"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "ac73ac8d932d497b7298e04d820e58585f131bbbaf363ccf2cee7b6ac97d83c4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 1512 - Mexican Water Treaty
+
+## Text
+
+The Congress declares that the satisfaction of the requirements of the Mexican Water Treaty from the Colorado River constitutes a national obligation which shall be the first obligation of any water augmentation project planned pursuant to section 1511 of this title and authorized by the Congress. Accordingly, the States of the Upper Division (Colorado, New Mexico, Utah, and Wyoming) and the States of the Lower Division (Arizona, California, and Nevada) shall be relieved from all obligations which may have been imposed upon them by article III(c) of the Colorado River Compact so long as the Secretary shall determine and proclaim that means are available and in operation which augment the water supply of the Colorado River system in such quantity as to satisfy the requirements of the Mexican Water Treaty together with any losses of water associated with the performance of that treaty: Provided, That the satisfaction of the requirements of the Mexican Water Treaty (Treaty Series 994, 59 Stat. 1219), shall be from the waters of the Colorado River pursuant to the treaties, laws, and compacts presently relating thereto, until such time as a feasibility plan showing the most economical means of augmenting the water supply available in the Colorado River below Lee Ferry by two and one-half million acre-feet shall be authorized by the Congress and is in operation as provided in this chapter.
+
+(Pub. L. 90–537, title II, § 202, Sept. 30, 1968, 82 Stat. 887.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.

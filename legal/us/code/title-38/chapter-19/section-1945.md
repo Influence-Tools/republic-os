@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1945"
+description: "Renewal"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "19"
+chapter_name: "INSURANCE"
+section: "1945"
+citation: "38 U.S.C. § 1945"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1945"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "ed5adc1cabb42cbdd7a5ee047e31a0411ec944a6276f0bdf266504551b6e5769"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "4421aad272d525ba4dcdb5289c3289cbefd754281cc105edcc3db1dcb4713fac"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1945 - Renewal
+
+## Text
+
+At the expiration of any term period any insurance policy issued on the five-year level premium term plan which has not been exchanged or converted to a permanent plan of insurance and which is not lapsed shall be renewed as level premium term insurance without application for a successive five-year period at the premium rate for the attained age without medical examination. However, renewal shall be effected in cases where the policy is lapsed only if the insured makes application for reinstatement and renewal of the insured’s term policy within five years after the date of lapse, and reinstatement in such cases shall be under the terms and conditions prescribed by the Secretary.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 745; Pub. L. 91–291, § 11, June 25, 1970, 84 Stat. 331; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1945 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1991—Pub. L. 102–83 renumbered section 745 of this title as this section and substituted “Secretary” for “Administrator”. 1986—Pub. L. 99–576 substituted “the insured’s” for “his”. 1970—Pub. L. 91–291 struck out effective date provision for renewal of policies, provisions that, in case of lapsed policies, such lapse have occurred within two months before the expiration of the term period, special provisions for the interim period between July 23, 1953 and December 31, 1953, and provisions that the section take effect on Sept. 2, 1958, and required that the insurer make application for reinstatement and renewal of his term policy within five years after the date of the lapse.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.

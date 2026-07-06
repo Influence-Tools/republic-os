@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 2331"
+description: "Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "28"
+chapter_name: "SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS"
+section: "2331"
+citation: "21 U.S.C. § 2331"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s2331"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "837e559d1f1c3dc07419214d5c520e7b5eabba2229df3d0aabf807c2326b6c60"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "958af3222e2cd9355679bc48f2fb52e7c36d34962be087e858fd6eb415d4f404"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 2331 - Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers
+
+## Text
+
+(a) Program required (1) In general The Director of National Intelligence shall, in consultation with the Director of the Office of National Drug Control Policy, carry out a program to allocate and enhance use of resources of the intelligence community, including intelligence collection and analysis, to assist the Secretary of the Treasury, the Secretary of State, and the Administrator of the Drug Enforcement Administration in efforts to identify and impose sanctions with respect to foreign opioid traffickers under subchapter I.
+
+(2) Focus on illicit finance To the extent practicable, efforts described in paragraph (1) shall—
+
+(A) take into account specific illicit finance risks related to narcotics trafficking; and
+
+(B) be developed in consultation with the Undersecretary of the Treasury for Terrorism and Financial Crimes, appropriate officials of the Office of Intelligence and Analysis of the Department of the Treasury, the Director of the Financial Crimes Enforcement Network, and appropriate Federal law enforcement agencies.
+
+(b) Review of counternarcotics efforts of the intelligence community The Director of National Intelligence shall, in coordination with the Director of the Office of National Drug Control Policy, carry out a comprehensive review of the current intelligence collection priorities of the intelligence community for counternarcotics purposes in order to identify whether such priorities are appropriate and sufficient in light of the number of lives lost in the United States each year due to use of illegal drugs.
+
+(c) Reports and briefings (1) Reports and briefings on program (A) Annual reports Not later than 90 days after December 20, 2019, and annually thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the year ending on the date of the report. The first report under this subparagraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
+
+(B) Semiannual briefings On a semiannual basis, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly brief the appropriate congressional committees and leadership on the status and accomplishments of the program required by subsection (a).
+
+(2) Report on review Not later than 120 days after December 20, 2019, the Director of National Intelligence, in consultation with the Director of the Office of National Drug Control Policy and other relevant agencies, shall submit to the appropriate congressional committees and leadership—
+
+(A) a comprehensive description of the results of the review required by subsection (b); and
+
+(B) an assessment of whether—
+
+(i) the priorities described in that subsection are appropriate and sufficient in light of the number of lives lost in the United States each year due to use of illegal drugs; and
+
+(ii) any changes to such priorities are necessary.
+
+(d) Intelligence community defined In this section, the term “intelligence community” has the meaning given that term in section 3003(4) of title 50.
+
+(Pub. L. 116–92, div. F, title LXXII, § 7231, Dec. 20, 2019, 133 Stat. 2273; Pub. L. 117–263, div. F, title LXVIII, § 6811(h), Dec. 23, 2022, 136 Stat. 3601.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSubchapter I, referred to in subsec. (a)(1), was in the original “subtitle A”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
+
+Amendments2022—Subsec. (c). Pub. L. 117–263, § 6811(h)(1), inserted “and briefings” after “Reports” in heading. Subsec. (c)(1). Pub. L. 117–263, § 6811(h)(2), substituted “Reports and briefings on program” for “Quarterly reports on program” in par. heading; designated existing provisions as subpar. (A) and inserted subpar. heading; in subpar. (A), substituted “annually” for “every 90 days”, “year” for “90-day period”, and “under this subparagraph” for “under this paragraph”; and added subpar. (B).

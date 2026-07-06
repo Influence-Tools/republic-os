@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2297f"
+description: "Gaseous diffusion facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2297f"
+citation: "42 U.S.C. § 2297f"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2297f"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "fb3be200420e751b45b384d382fbdb4d992272321055ac74d5232d0f44ec6224"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "c96352fe2027ac8d8166101226abe210aa93dc98a743fb7fda5ef615b03b795a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2297f - Gaseous diffusion facilities
+
+## Text
+
+(a) Issuance of standards Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall establish by regulation such standards as are necessary to govern the gaseous diffusion uranium enrichment facilities of the Department in order to protect the public health and safety from radiological hazard and provide for the common defense and security. Regulations promulgated pursuant to this subsection shall, among other things, require that adequate safeguards (within the meaning of section 2167 of this title) are in place.
+
+(b) Annual report (1) In general Not later than the date on which a certificate of compliance is issued under subsection (c), the Nuclear Regulatory Commission, in consultation with the Department and the Environmental Protection Agency, shall report to the Congress on the status of health, safety, and environmental conditions at the gaseous diffusion uranium enrichment facilities of the Department.
+
+(2) Required determination Such report shall include a determination regarding whether the gaseous diffusion uranium enrichment facilities of the Department are in compliance with the standards established under subsection (a) and all applicable laws.
+
+(c) Certification process (1) Establishment The Nuclear Regulatory Commission shall establish a certification process to ensure that the Corporation complies with standards established under subsection (a).
+
+(2) Periodic application for certificate of compliance The Corporation shall apply to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1) periodically, as determined by the Commission, but not less than every 5 years. The Commission shall review any such application and any determination made under subsection (b)(2) shall be based on the results of any such review.
+
+(3) Treatment of certificate of compliance The requirement for a certificate of compliance under paragraph (1) shall be in lieu of any requirement for a license for any gaseous diffusion facility of the Department leased by the Corporation.
+
+(4) NRC review (A) In general The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review the operations of the Corporation with respect to any gaseous diffusion uranium enrichment facilities of the Department leased by the Corporation to ensure that public health and safety are adequately protected.
+
+(B) Access to facilities and information The Corporation and the Department shall cooperate fully with the Nuclear Regulatory Commission and the Environmental Protection Agency and shall provide the Nuclear Regulatory Commission and the Environmental Protection Agency with the ready access to the facilities, personnel, and information the Nuclear Regulatory Commission and the Environmental Protection Agency consider necessary to carry out their responsibilities under this subsection. A contractor operating a Corporation facility for the Corporation shall provide the Nuclear Regulatory Commission and the Environmental Protection Agency with ready access to the facilities, personnel, and information of the contractor as the Nuclear Regulatory Commission and the Environmental Protection Agency consider necessary to carry out their responsibilities under this subsection.
+
+(C) Limitation The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) to a determination of whether the facilities are in compliance with the standards established under subsection (a).
+
+(d) Requirement for operation The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) or approves a plan prepared by the Department for achieving compliance required under subsection (b).
+
+(Aug. 1, 1946, ch. 724, title II, § 1701, as added Pub. L. 102–486, title XI, § 1101, Oct. 24, 1992, 106 Stat. 2951; amended Pub. L. 104–134, title III, § 3116(b)(3), Apr. 26, 1996, 110 Stat. 1321–349; Pub. L. 105–362, title XII, § 1202, Nov. 10, 1998, 112 Stat. 3292.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1998—Subsec. (b)(1). Pub. L. 105–362 substituted “Not later than the date on which a certificate of compliance is issued under subsection (c), the Nuclear” for “The Nuclear” and struck out “at least annually” after “report”. 1996—Subsec. (c)(2). Pub. L. 104–134 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.”
+
+Statutory Notes and Related Subsidiaries
+
+References to United States Enrichment CorporationReferences to the Corporation, meaning the United States Enrichment Corporation, deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.

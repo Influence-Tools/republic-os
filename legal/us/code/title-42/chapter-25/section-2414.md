@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2414"
+description: "Issuance of notes by Administrator of Federal Emergency Management Agency; terms and conditions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "25"
+chapter_name: "FEDERAL FLOOD INSURANCE"
+section: "2414"
+citation: "42 U.S.C. § 2414"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2414"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "ebf786c5fe7934b694c9fc86105bc94d449e07f2ca8ac7f52abf8642b71df4f9"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "2c002081a719dfc313f84595a200c4e7f3d23fc750b4ac0b5fb559efe95d3e2a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2414 - Issuance of notes by Administrator of Federal Emergency Management Agency; terms and conditions
+
+## Text
+
+(a) to (d) Repealed. Pub. L. 90–448, title XIII, § 1303(c), Aug. 1, 1968, 82 Stat. 573
+
+(e) Issuance of notes by Administrator of Federal Emergency Management Agency; form, terms and conditions; purchase and sale by Secretary of the Treasury; public debt transactions The Administrator of the Federal Emergency Management Agency is authorized to issue to the Secretary of the Treasury from time to time and have outstanding at any one time, in an amount not exceeding $500,000,000 (or such greater amount as may be approved by the President) notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Administrator of the Federal Emergency Management Agency with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of such notes or other obligations. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations to be issued under this subsection and for such purpose he is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include any purchases of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States.
+
+(Aug. 7, 1956, ch. 1025, § 15, 70 Stat. 1083; Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 90–448, title XIII, § 1303, Aug. 1, 1968, 82 Stat. 573; Pub. L. 98–181, title I [title IV, § 451(f)], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, § 203(g), Oct. 17, 1984, 98 Stat. 2230; Pub. L. 100–242, title V, § 545(f), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 112–141, div. F, title II, § 100238(c), July 6, 2012, 126 Stat. 958.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2012—Subsec. (e). Pub. L. 112–141 substituted “Administrator” for “Director” in two places. 1988—Subsec. (e). Pub. L. 100–242 substituted “title 31, United States Code,” for “title 31, United States Code”, which for purposes of codification was translated as “title 31”, thus requiring no change in text. 1984—Subsec. (e). Pub. L. 98–479 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended”, and “such chapter” for “such Act, as amended,”. 1983—Subsec. (e). Pub. L. 98–181 substituted “Director of the Federal Emergency Management Agency” for “Secretary of Housing and Urban Development” in two places. 1968—Subsecs. (a) to (d). Pub. L. 90–448, § 1303(c), repealed subsecs. (a) to (d), which created three funds, provided for deposits therein, investment of moneys in the funds, and deposit of salvage proceeds. Subsec. (e). Pub. L. 90–448, § 1303(a), (b), substituted “current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month” for “current average rate on outstanding marketable obligations of the United States of comparable maturities as of the last day of the month”, and struck out provisions which permitted Secretary of the Treasury to purchase any notes and other obligations to be issued under this subsection. Subsecs. (f), (g). Pub. L. 90–448, § 1303(c), repealed subsecs. (f) and (g) which provided for use of moneys in the Funds and for payment of administrative expenses.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1968 AmendmentAmendment by Pub. L. 90–448 effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as an Effective Date note under section 4001 of this title.
+
+Transfer of Functions For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security. For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. Functions of Public Housing Administration and of Housing and Home Finance Agency (of which Public Housing Administration is a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.

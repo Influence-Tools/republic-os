@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 3702"
+description: "Application"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "37"
+chapter_name: "CARRIAGE OF LIQUID BULK DANGEROUS CARGOES"
+section: "3702"
+citation: "46 U.S.C. § 3702"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s3702"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "9546cb4ae5975aba1e7414e5e65b99d1178ac8f6a08ad2a0305f7febfede548a"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "a38d0e4b51f535702ad61f546f82244c5c44cf4823253c3f47b378d81255ce78"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 3702 - Application
+
+## Text
+
+(a) Subject to subsections (b)–(e) of this section, this chapter applies to a tank vessel.
+
+(b) This chapter does not apply to a documented vessel that would be subject to this chapter only because of the transfer of fuel from the fuel supply tanks of the vessel to exploration, development, or production of offshore drilling or production facilities in the oil industry and non-mineral energy production if the vessel is—
+
+(1) not a tanker; and
+
+(2) in the service of exploration, development, or production of offshore energy resources.
+
+(c) This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title when engaged only in the fishing industry.
+
+(d) This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title. However, the vessel is subject to regulation by the Secretary when carrying flammable or combustible liquid cargo in bulk.
+
+(e) This chapter does not apply to a foreign vessel on innocent passage on the navigable waters of the United States.
+
+(f) This chapter does not apply to an oil spill response vessel if—
+
+(1) the vessel is used only in response-related activities; or
+
+(2) the vessel is—
+
+(A) not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
+
+(B) designated in its certificate of inspection as an oil spill response vessel; and
+
+(C) engaged in response-related activities.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 521; Pub. L. 98–364, title IV, § 402(6), July 17, 1984, 98 Stat. 446; Pub. L. 104–324, title VII, § 714, title XI, § 1104(b), Oct. 19, 1996, 110 Stat. 3936, 3966; Pub. L. 111–281, title VI, § 617(a)(2), Oct. 15, 2010, 124 Stat. 2973; Pub. L. 119–60, div. G, title LXXIII, § 7348(a), Dec. 18, 2025, 139 Stat. 1781.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource section (U.S. Code) 370246:391a Section 3702, with certain exceptions, makes this chapter applicable to any tank vessel operating in the navigable waters of the United States or transferring oil or hazardous materials in any port or place subject to the jurisdiction of the United States, and which carries oil or any hazardous materials in bulk as cargo or in residue, regardless of tonnage, size or manner of propulsion; whether it is self-propelled or not; whether it is carrying freight or passengers for hire or not; and whether it is a vessel of the United States or a foreign vessel. It exempts certain small vessels documented in the service of oil exploitation, certain small tender and fishing vessels used in the Northwest salmon or crab fisheries, certain vessels used in the processing and assembling of fishery products used in the Northwest fisheries, public vessels, and foreign vessels engaged on innocent passage on the navigable waters of the United States. However, processing vessels, while not treated as tank vessels, are still subject to regulation when carrying flammable or combustible liquid cargo in bulk.
+
+Editorial Notes
+
+Amendments2025—Subsec. (b). Pub. L. 119–60, § 7348(a)(1), substituted “exploration, development, or production of offshore drilling or production facilities in the oil industry and non-mineral energy production” for “offshore drilling or production facilities in the oil industry” in introductory provisions. Subsec. (b)(2). Pub. L. 119–60, § 7348(a)(2), substituted “exploration, development, or production of offshore energy resources” for “oil exploitation”. 2010—Subsec. (b)(1) to (3). Pub. L. 111–281 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1), which read as follows: “not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;”. 1996—Subsec. (b)(1). Pub. L. 104–324, § 714(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”. Subsec. (c). Pub. L. 104–324, § 714(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”. Subsec. (d). Pub. L. 104–324, § 714(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”. Subsec. (f). Pub. L. 104–324, § 1104(b), added subsec. (f). 1984—Subsec. (c). Pub. L. 98–364, § 402(6)(A), substituted “This chapter does not apply to a fishing or fish tender vessel of not more than 500 gross tons when engaged only in the fishing industry” for “This chapter does not apply to a cannery tender, fishing tender, or fishing vessel of not more than 500 gross tons, used in the salmon or crab fisheries of Alaska, Oregon, or Washington, when engaged only in the fishing industry”. Subsec. (d). Pub. L. 98–364, § 402(6)(B), substituted “This chapter does not apply to a fish processing vessel of not more than 5,000 gross tons” for “This chapter does not apply to a vessel of not more than 5,000 gross tons used in processing and assembling fishery products of the fisheries of Alaska, Oregon, and Washington”.
+
+Statutory Notes and Related Subsidiaries
+
+Offshore OperationsPub. L. 119–60, div. G, title LXXIII, § 7348(b), (c), Dec. 18, 2025, 139 Stat. 1782, provided that: “(b) Oil Fuel Tank Protection.—“(1) In general.—Notwithstanding any other provision of law and not later than 60 days after the date of enactment of this Act [Dec. 18, 2025], the Commandant [of the Coast Guard] shall amend section 125.115(b) of title 46, Code of Federal Regulations (as in effect on such date of enactment), to reflect the amendment made in subsection (a) [amending this section]. “(2) Application.—If the Commandant fails to amend the section described in paragraph (1) by the date that is 60 days after the date of enactment of this Act, then, in lieu of the application of such section, the Secretary shall allow vessels to which section 3702 of title 46, United States Code, applies to transfer fuel from the fuel supply tanks of such vessel to offshore facilities in support of exploration, development, or production of offshore energy resources. “(c) Outer Continental Shelf Activities.—“(1) In general.—Not later than 60 days after the date of enactment of this Act, the Commandant shall amend section G6.3.a of the United States Coast Guard Marine Safety Manual, Volume II titled ‘Materiel Inspection: Outer Continental Shelf Activities’, issued September 20, 2021 (COMDTINST M16000.76) (as in effect on such date of enactment), to reflect the amendment made in subsection (a). “(2) Application.—If the Commandant fails to amend the section described in paragraph (1) by the date that is 60 days after the date of enactment of this Act, then the Secretary shall in lieu of such section not apply section 3702 of title 46, United States Code, to a documented vessel transferring fuel from the fuel supply tanks of such vessel to an offshore facility if such vessel is not a tanker and is in the service of exploration, development, or production of offshore energy resources.”

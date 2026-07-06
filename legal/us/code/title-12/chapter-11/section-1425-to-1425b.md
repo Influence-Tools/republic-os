@@ -1,0 +1,37 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 1425 to 1425b"
+description: "Repealed. Pub. L. 101–73, title VII, §§ 705, 716, 720, Aug. 9, 1989, 103 Stat. 416, 421, 423"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "11"
+chapter_name: "FEDERAL HOME LOAN BANKS"
+section: "1425 to 1425b"
+citation: "12 U.S.C. § 1425 to 1425b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s1425...1425b"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "0d5c45752e49ef0f51aea47ad5630049680094e6c43d43903fb0e214b9aadd5c"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "bb2c921f6687f4232a6c0da7b200b3d987dfe54abe18fce22b384b0c1db44c49"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 1425 to 1425b - Repealed. Pub. L. 101–73, title VII, §§ 705, 716, 720, Aug. 9, 1989, 103 Stat. 416, 421, 423
+
+## Notes
+
+Section 1425, acts July 22, 1932, ch. 522, § 5, 47 Stat. 727; Dec. 24, 1969, Pub. L. 91–152, title IV, § 416(a), 83 Stat. 401, related to limitation on lawful contract rate of interest receivable by members and nonmember borrowers, and applicability to home mortgage loans on single-family dwellings.
+
+Section 1425a, act July 22, 1932, ch. 522, § 5A, as added June 27, 1950, ch. 369, § 1, 64 Stat. 256; amended Aug. 11, 1955, ch. 783, title I, § 109(a)(3), 69 Stat. 640; Sept. 21, 1968, Pub. L. 90–505, § 4, 82 Stat. 856; Mar. 31, 1980, Pub. L. 96–221, title I, § 104(b), title IV, § 405, 94 Stat. 139, 158; Oct. 8, 1980, Pub. L. 96–399, title III, § 325(a), 94 Stat. 1648; Oct. 15, 1982, Pub. L. 97–320, title III, § 332, 96 Stat. 1504; Oct. 17, 1984, Pub. L. 98–479, title II, § 207, 98 Stat. 2235, related to liquidity requirements for savings and loan associations and other members.
+
+Section 1425b, act July 22, 1932, ch. 522, § 5B, as added Sept. 21, 1966, Pub. L. 89–597, § 4, 80 Stat. 824; amended Sept. 21, 1968, Pub. L. 90–505, § 2(c), 82 Stat. 856; Dec. 23, 1969, Pub. L. 91–151, § 2(b), 83 Stat. 372; Oct. 29, 1974, Pub. L. 93–501, title I, § 103, title III, § 303, 88 Stat. 1558, 1560; Nov. 5, 1979, Pub. L. 96–104, title II, § 203, 93 Stat. 793; Dec. 28, 1979, Pub. L. 96–161, title II, § 210, 93 Stat. 1239; Mar. 31, 1980, Pub. L. 96–221, title II, § 207(b)(7)–(9), title V, § 529, 94 Stat. 144, 168, related to rate of interest payable on deposits, shares or withdrawable accounts by members, insured institutions and other nonmember financial institutions.

@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2114"
+description: "Sector negotiating objective"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2114"
+citation: "19 U.S.C. § 2114"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2114"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "7adc263f82a2995f2de1a04ef73c5a54b8a9fda3b08a05d7947e84d5d66bc7e4"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "dc87d45696f5201155d8ea25fadde4b5fd52bf0fd0ad57e6501f5a7017a71cef"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2114 - Sector negotiating objective
+
+## Text
+
+(a) Obtaining equivalent competitive opportunities A principal United States negotiating objective under sections 2111 and 2112 of this title shall be to obtain, to the maximum extent feasible, with respect to appropriate product sectors of manufacturing, and with respect to the agricultural sector, competitive opportunities for United States exports to the developed countries of the world equivalent to the competitive opportunities afforded in United States markets to the importation of like or similar products, taking into account all barriers (including tariffs) to and other distortions of international trade affecting that sector.
+
+(b) Conduct of negotiations on basis of appropriate product sectors of manufacturing As a means of achieving the negotiating objective set forth in subsection (a), to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.
+
+(c) Identification of appropriate product sectors of manufacturing For the purposes of this section and section 2155 of this title, the United States Trade Representative together with the Secretary of Commerce, Agriculture, or Labor, as appropriate, shall, after consultation with the Advisory Committee for Trade Negotiations established under section 2155 of this title and after consultation with interested private or non-Federal governmental organizations, identify appropriate product sectors of manufacturing.
+
+(d) Presidential analysis of how negotiating objectives are achieved in each product sector by trade agreements If the President determines that competitive opportunities in one or more product sectors will be significantly affected by a trade agreement concluded under section 2111 or 2112 of this title, he shall submit to the Congress with each such agreement an analysis of the extent to which the negotiating objective set forth in subsection (a) is achieved by such agreement in each product sector or product sectors.
+
+(Pub. L. 93–618, title I, § 104, Jan. 3, 1975, 88 Stat. 1984; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 98–573, title III, § 306(c)(2)(C)(i), Oct. 30, 1984, 98 Stat. 3012.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1984—Subsec. (c). Pub. L. 98–573 inserted “or non-Federal governmental” after “private”.
+
+Executive Documents
+
+Change of Name “United States Trade Representative” substituted for “Special Representative for Trade Negotiations” in subsec. (c), pursuant to Reorg. Plan No. 3 of 1979, § 1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.

@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "30 U.S.C. § 1901"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 30
+title_name: "MINERAL LANDS AND MINING"
+chapter_number: "31"
+chapter_name: "MARINE MINERAL RESOURCES RESEARCH"
+section: "1901"
+citation: "30 U.S.C. § 1901"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc30@119-100.zip"
+source_identifier: "/us/usc/t30/s1901"
+source_file: "data/legal/raw/us/code/title-30/usc30.xml"
+source_hash: "061e2919f187369e42fc0134cfde0190e3fc836e9b4ebfeb11e7c7ace33276f6"
+raw_snapshot_hash: "355f8eb5c6ad5372de4a8e665d9ed90202d53d2aac19ac001d43948af4a4dd2f"
+text_hash: "2a6f066be43fd608d987d0dc4a68cfb203a49639b47206c056cd09c7c62e2244"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 30 U.S.C. § 1901 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) The term “contract” has the same meaning as “procurement contract” in section 6303 of title 31.
+
+(2) The term “cooperative agreement” has the same meaning as in section 6305 of title 31.
+
+(3) The term “eligible entity” means—
+
+(A) a research or educational entity chartered or incorporated under Federal or State law;
+
+(B) an individual who is a United States citizen; or
+
+(C) a State or regional agency.
+
+(4) The term “grant” has the same meaning as “grant agreement” in section 6304 of title 31.
+
+(5) The term “in-kind contribution” means a noncash contribution provided by a non-Federal entity that directly benefits and is related to a specific project or program. An in-kind contribution may include real property, equipment, supplies, other expendable property, goods, and services.
+
+(6) The term “marine mineral resource” means—
+
+(A) sand and aggregates;
+
+(B) placers;
+
+(C) phosphates;
+
+(D) manganese nodules;
+
+(E) cobalt crusts;
+
+(F) metal sulfides;
+
+(G) for purposes of this section and sections 1902 through 1905 of this title only, methane hydrate; and
+
+(H) other marine resources that are not—
+
+(i) oil and gas;
+
+(ii) fisheries; or
+
+(iii) marine mammals.
+
+(7) The term “methane hydrate” means—
+
+(A) a methane clathrate that is in the form of a methane-water ice-like crystalline material and is stable and occurs naturally in deep-ocean and permafrost areas; and
+
+(B) other natural gas hydrates found in association with deep-ocean and permafrost deposits of methane hydrate.
+
+(8) The term “Secretary” means the Secretary of the Interior.
+
+(Pub. L. 91–631, title II, § 201, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3994; amended Pub. L. 106–193, § 4, May 2, 2000, 114 Stat. 236.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2000—Par. (6)(G), (H). Pub. L. 106–193, § 4(1), added subpar. (G) and redesignated former subpar. (G) as (H). Pars. (7), (8). Pub. L. 106–193, § 4(2), (3), added par. (7) and redesignated former par. (7) as (8).
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 104–325, § 1, Oct. 19, 1996, 110 Stat. 3994, provided that: “This Act [enacting this chapter] may be cited as the ‘Marine Mineral Resources Research Act of 1996’.”

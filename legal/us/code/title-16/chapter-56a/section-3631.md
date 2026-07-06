@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3631"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "56A"
+chapter_name: "PACIFIC SALMON FISHING"
+section: "3631"
+citation: "16 U.S.C. § 3631"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3631"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "76bd169f50d46ea124d570b8e1e0bc7fece6e86e6723e04a217f64c2bb7026e1"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "ec8019495bde08fdfb0289bfc748176ef4140fb8f76d7493262d406ed6fc9fea"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3631 - Definitions
+
+## Text
+
+As used in this chapter, unless the context otherwise requires, the term—
+
+(a) “Commission” means the Pacific Salmon Commission established by the Treaty;
+
+(b) “enhancement” means manmade improvements to natural habitats, or the application of artificial fish culture technology, that will lead to the increase of salmon stocks;
+
+(c) “Magnuson Act” means the Act entitled “the Magnuson-Stevens Fishery Conservation and Management Act,” as approved April 13, 1976, and as later amended (16 U.S.C. section 1801 et seq.);
+
+(d) “Panel” means any of the Panels established by the Treaty;
+
+(e) “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State);
+
+(f) “salmon” means any anadromous species of the family Salmonidae and genus Oncorhynchus, commonly known as Pacific salmon, including but not limited to: Popular namesScientific name Chinook or King SalmonOncorhynchus tshawytscha Coho or Silver SalmonOncorhynchus kisutch Pink or Humpback SalmonOncorhynchus gorbuscha Chum or Dog SalmonOncorhynchus keta Sockeye or Red SalmonOncorhynchus nerka and shall also include Steelhead (Salmo gairdneri);
+
+(g) “Secretary” means the Secretary of Commerce;
+
+(h) “Treaty” means the Treaty between the Government of the United States of America and the Government of Canada Concerning Pacific Salmon, signed at Ottawa, January 28, 1985;
+
+(i) “treaty Indian tribe” means any of the federally recognized Indian tribes of the Columbia River basin, Washington coast or Puget Sound areas having reserved fishing rights to salmon stocks subject to the Treaty under treaties with the United States Government; and
+
+(j) “United States Section” means the four United States Commissioners appointed by the President pursuant to this chapter.
+
+(Pub. L. 99–5, § 2, Mar. 15, 1985, 99 Stat. 7; Pub. L. 102–251, title III, § 306(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+
+## Notes
+
+Amendment of SectionPub. L. 102–251, title III, §§ 306(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (h) to (j) as (i) to (k), respectively, and by inserting after subsection (g) the following new subsection: (h) “Special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+
+Editorial Notes
+
+References in TextThe Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+Amendments1996—Subsec. (c). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1996 AmendmentPub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+Effective Date of 1992 AmendmentAmendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+
+Short TitlePub. L. 99–5, § 1, Mar. 15, 1985, 99 Stat. 7, provided: “That this Act [enacting this chapter and repealing sections 776 to 776f of this title and provisions set out as notes under section 776 of this title] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
+
+Executive Documents
+
+Territorial Sea of United States For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.

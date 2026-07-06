@@ -1,0 +1,195 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 3698"
+description: "Comprehensive policy on providing education information to veterans"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "36"
+chapter_name: "ADMINISTRATION OF EDUCATIONAL BENEFITS"
+section: "3698"
+citation: "38 U.S.C. § 3698"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s3698"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "97b0a0c82a7968e32b5797ddb70d42dae778125a9b24eb3114eb876f28dc3fb6"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "41e7800474e1560041cdd50c42ba9b68c8799fff8ed29d91015a58401d3d6aad"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 3698 - Comprehensive policy on providing education information to veterans
+
+## Text
+
+(a) Comprehensive Policy Required.— The Secretary shall develop a comprehensive policy to improve outreach and transparency to individuals entitled to educational assistance under laws administered by the Secretary of Veterans Affairs through the provision of information on institutions of higher learning.
+
+(b) Scope.— In developing the policy required by subsection (a), the Secretary shall include each of the following elements:
+
+(1) Effective and efficient methods to inform individuals of the educational and vocational counseling provided under section 3697A of this title.
+
+(2) A centralized mechanism for tracking and publishing feedback from students and State approving agencies regarding the quality of instruction, recruiting practices, and post-graduation employment placement of institutions of higher learning that—
+
+(A) provides institutions of higher learning—
+
+(i) up to 30 days to review and respond to feedback from individuals described in subsection (a) and address issues regarding the feedback before the feedback is published; and
+
+(ii) if an institution of higher learning contests the accuracy of the feedback, the opportunity to challenge the inclusion of such data with an official appointed by the Secretary;
+
+(B) protects the privacy of students, including by not publishing the names of students;
+
+(C) publishes only feedback, and responses from institutions of higher learning to such feedback, that conform with criteria for relevancy that the Secretary shall determine;
+
+(D) for each institution of higher learning that is approved under this chapter, retains, maintains, and publishes all of such feedback for not less than six years; and
+
+(E) is easily accessible to individuals described in subsection (a) and to the general public.
+
+(3) The merit of and the manner in which a State approving agency shares with an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b) information regarding the State approving agency’s evaluation of an institution of higher learning.
+
+(4) Description of the information provided to individuals participating in the Transition Assistance Program under section 1144 of title 10 relating to institutions of higher learning.
+
+(5) Effective and efficient methods to provide individuals described in subsection (a) with information regarding postsecondary education and training opportunities available to the individual.
+
+(c) Postsecondary Education Information.— (1) The Secretary shall ensure that the information provided pursuant to subsection (b)(5) includes—
+
+(A) an explanation of the different types of accreditation available to educational institutions and programs of education;
+
+(B) for each individual described in subsection (a) seeking information provided under subsection (b)(5), the name of each Federal student aid program, and a description of each such program, from which the individual may receive educational assistance; and
+
+(C) for each institution of higher learning, for the most recent academic year for which information is available—
+
+(i) whether the institution is public, private nonprofit, or proprietary for-profit and a definition of each type of institution;
+
+(ii) the name of the national or regional accrediting agency that accredits the institution, including the contact information used by the agency to receive complaints from students;
+
+(iii) information on the State approving agency, including the contact information used by the agency to receive complaints from students;
+
+(iv) whether the institution participates in any programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) and if so, which programs;
+
+(v) the average annual cost and the total cost to earn an associate’s degree and a bachelor’s degree, with available cost information on any other degree or credential the institution awards;
+
+(vi) the median amount of debt from Federal student loans under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) held by individuals upon completion of programs of education at the institution of higher learning (as determined from information collected by the Secretary of Education) disaggregated by—
+
+(I) the type of beneficiary of educational assistance;
+
+(II) individuals who received a credential and individuals who did not; and
+
+(III) individuals using educational assistance under laws administered by the Secretary and individuals who are not;; 11So in original.
+
+(vii) the cohort default rate, as defined in section 435(m) of the Higher Education Act of 1965 (20 U.S.C. 1085(m)), of the institution;
+
+(viii) the total enrollment, graduation rate, and retention rate, as determined from information collected by the Integrated Postsecondary Education Data System of the Secretary of Education;
+
+(ix) whether the institution provides students with technical support, academic support, and other support services, including career counseling and job placement;
+
+(x) the information regarding the institution’s policies related to transfer of credit from other institutions, as required under section 485(h)(1) of the Higher Education Act of 1965 (20 U.S.C. 1092(h)(1)) and provided to the Secretary of Education under section 132(i)(1)(V)(iv) of such Act (20 U.S.C. 1015a(i)(1)(V)(iv));
+
+(xi) information on whether the institution administers a priority enrollment system that allows certain student veterans to enroll in courses earlier than other students;
+
+(xii) information on whether the institution requires a covered individual to take additional action pursuant to section 3679(e)(4) of this title to stay enrolled in a course pending receipt of educational assistance under a law administered by the Secretary;
+
+(xiii) whether the institution is listed on the College Navigator website as affiliated with a religion and, if so, which religious denomination;
+
+(xiv) whether the Secretary of Education or other head of a department or agency of the Federal Government has determined that the institution is a minority serving institution and, if so, which one or more types of minority serving institutions;
+
+(xv) whether the institution is gender specific;
+
+(xvi) the number of veterans or members who completed covered education at the institution leading to—
+
+(I) a degree, disaggregated by type of program, including—
+
+(aa) an associate degree;
+
+(bb) a bachelor’s degree; and
+
+(cc) a postbaccalaureate degree; and
+
+(II) a certificate or professional license, disaggregated by type of certificate or professional license;
+
+(xvii) programs available and the average time for completion of each program;
+
+(xviii) employment rate and median income of graduates of the institution in general two and five years after graduation, disaggregated by—
+
+(I) specific program; and
+
+(II) individuals using educational assistance under laws administered by the Secretary and individuals who are not; and
+
+(xix) the number of individuals using educational assistance under laws administered by the Secretary who are enrolled in the both the 1 institution and specific program per year.
+
+(2) (A) To the extent practicable, the Secretary shall provide the information described in paragraph (1) by including hyperlinks on the Internet website of the Department to other Internet websites that contain such information, including the Internet website of the Department of Education, in a form that is comprehensive and easily understood by veterans, members of the Armed Forces, and other individuals. To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.
+
+(B) The Secretary shall ensure that information provided pursuant to subsection (b)(5) is provided in a manner that is easy for, and accessible to, individuals described in subsection (a).
+
+(C) In providing information pursuant to subsection (b)(5), the Secretary shall maintain the anonymity of individuals described in subsection (a) and, to the extent that a portion of any data would undermine such anonymity, ensure that such data is not made available pursuant to such subsection.
+
+(3) (A) If the Secretary of Veterans Affairs requires, for purposes of providing information pursuant to subsection (b)(5), information that has been reported, or information that is similar to information that has been reported, by an institution of higher learning to the Secretary of Education, the Secretary of Defense, the Secretary of Labor, or the heads of other Federal agencies under a provision of law other than under this section, the Secretary of Veterans Affairs shall obtain the information the Secretary of Veterans Affairs requires from the Secretary or head with the information rather than the institution of higher learning.
+
+(B) If the Secretary of Veterans Affairs requires, for purposes of providing information pursuant to subsection (b)(5), information from an institution of higher learning that has not been reported to another Federal agency, the Secretary shall, to the degree practicable, obtain such information through the Secretary of Education.
+
+(d) Consistency With Existing Education Policy.— In carrying out this section, the Secretary shall ensure that—
+
+(1) the comprehensive policy is consistent with any requirements and initiatives resulting from Executive Order No. 13607; and
+
+(2) the efforts of the Secretary to implement the comprehensive policy do not duplicate the efforts being taken by any Federal agencies.
+
+(e) Communication With Institutions of Higher Learning.— To the extent practicable, if the Secretary considers it necessary to communicate with an institution of higher learning to carry out the comprehensive policy required by subsection (a), the Secretary shall carry out such communication through the use of a communication system of the Department of Education.
+
+(f) Definitions.— In this section:
+
+(1) The term “institution of higher learning” has the meaning given that term in section 3452(f) of this title.
+
+(2) The term “postsecondary education and training opportunities” means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.
+
+(3) The term “College Navigator website” has the meaning given that term in section 132 of the Higher Education Act 22 So in original. Probably should be followed by “of 1965”. (20 U.S.C. 1015a).
+
+(4) The term “minority serving institution” means any of the following:
+
+(A) A part B institution, as such term is defined in section 322(2) of the Higher Education Act 2 (20 U.S.C. 1061(2)).
+
+(B) A Hispanic-serving institution, as such term is defined in section 502(a)(5) of such Act (20 U.S.C. 1101a(5)).
+
+(C) A Tribal College or University, as such term is defined in section 316(b)(3) of such Act (20 U.S.C. 1059c(b)(3)).
+
+(D) A predominantly Black institution, as such term is defined in section 318(b)(6) of such Act (20 U.S.C. 1059e(b)(6)).
+
+(E) A Native American-serving, nontribal institution, as such term is defined in section 319(b)(2) of such Act (20 U.S.C. 1059f(b)(6)).
+
+(F) An Alaska Native-serving institution or Native Hawaiian-serving institution, as such terms are defined in section 317(b) of such Act (20 U.S.C. 1059d(b)).
+
+(G) An Asian American and Native American Pacific Islander-serving institution, as such term is defined in section 320(b) of such Act (20 U.S.C. 1059g(b)).
+
+(Added Pub. L. 112–249, § 1(a)(1), Jan. 10, 2013, 126 Stat. 2398; amended Pub. L. 115–48, title III, § 303, Aug. 16, 2017, 131 Stat. 991; Pub. L. 115–407, title I, § 104, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 117–16, § 3(a), (b), June 8, 2021, 135 Stat. 282; Pub. L. 118–210, title II, § 215(b)(3)–(c)(1), Jan. 2, 2025, 138 Stat. 2775–2777.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables. Executive Order No. 13607, referred to in subsec. (d)(1), is set out as a note under section 3301 of this title.
+
+Prior ProvisionsA prior section 3698, added Pub. L. 93–508, title III, § 301(a), Dec. 3, 1974, 88 Stat. 1589, § 1798; amended Pub. L. 94–502, title V, §§ 502(a), 513(a)(23), Oct. 15, 1976, 90 Stat. 2399, 2403; Pub. L. 95–202, title I, § 104(3), title II, § 202, Nov. 23, 1977, 91 Stat. 1435, 1438; Pub. L. 95–476, title II, § 201, Oct. 18, 1978, 92 Stat. 1502; Pub. L. 96–466, title II, §§ 203(4), 213(4), title VI, §§ 601(h), 603(b), title VIII, § 801(g), Oct. 17, 1980, 94 Stat. 2189, 2191, 2208, 2209, 2216; Pub. L. 97–35, title XX, § 2005(d), Aug. 13, 1981, 95 Stat. 783; Pub. L. 97–295, § 4(60), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, § 208, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–543, title II, § 204(3), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 100–689, title I, § 124(b), Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, § 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50; renumbered § 3698 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to eligibility for loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, § 306(e), (h)(2), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
+
+Amendments2025—Subsec. (a). Pub. L. 118–210, § 215(b)(3)(A), substituted “individuals entitled to educational assistance under laws administered by the Secretary of Veterans Affairs” for “veterans and members of the Armed Forces”. Subsec. (b)(2)(A). Pub. L. 118–210, § 215(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “allows institutions of higher learning to verify feedback and address issues regarding feedback before the feedback is published;”. Subsec. (b)(2)(C). Pub. L. 118–210, § 215(c)(1)(C), substituted “, and responses from institutions of higher learning to such feedback, that conform with criteria for relevancy that the Secretary shall determine;” for “that conforms with criteria for relevancy that the Secretary shall determine.” Subsec. (b)(2)(D), (E). Pub. L. 118–210, § 215(c)(1)(B), (D), added subpars. (D) and (E). Subsec. (b)(5). Pub. L. 118–210, § 215(b)(3)(B), substituted “individuals described in subsection (a)” for “veterans and members of the Armed Forces” and “the individual” for “the veteran or member”. Subsec. (c)(1)(B). Pub. L. 118–210, § 215(b)(4)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “a description of Federal student aid programs; and”. Subsec. (c)(1)(C)(i). Pub. L. 118–210, § 215(b)(4)(B)(i), inserted “and a definition of each type of institution” before semicolon at end. Subsec. (c)(1)(C)(iv). Pub. L. 118–210, § 215(b)(4)(B)(ii), inserted “and if so, which programs” before semicolon at end. Subsec. (c)(1)(C)(v). Pub. L. 118–210, § 215(b)(4)(B)(iii), added cl. (v) and struck out former cl. (v) which read as follows: “the tuition and fees;”. Subsec. (c)(1)(C)(vi). Pub. L. 118–210, § 215(b)(4)(B)(iv), inserted “disaggregated by—” after “Secretary of Education)” and added subcls. (I) to (III). Subsec. (c)(1)(C)(xvi) to (xix). Pub. L. 118–210, § 215(b)(4)(B)(v)–(vii), added cls. (xvi) to (xix). Subsec. (c)(2). Pub. L. 118–210, § 215(b)(5), designated existing provisions as subpar. (A) and added subpars. (B) and (C). 2021—Subsec. (c)(1)(C)(xiii) to (xv). Pub. L. 117–16, § 3(a)(1), added cls. (xiii) to (xv). Subsec. (c)(2). Pub. L. 117–16, § 3(a)(2), inserted at end “To the extent practicable, the Secretary shall ensure that such information is provided in a searchable format.” Subsec. (f)(3), (4). Pub. L. 117–16, § 3(b), added pars. (3) and (4). 2018—Subsec. (c)(1)(C)(xii). Pub. L. 115–407 added cl. (xii). 2017—Subsec. (c)(1)(C)(xi). Pub. L. 115–48 added cl. (xi).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentPub. L. 117–16, § 3(c), June 8, 2021, 135 Stat. 283, provided that: “The amendments made by this section [amending this section] shall apply with respect to the information provided under section 3698 of title 38, United States Code, beginning on the date that is two years after the date of the enactment of this Act [June 8, 2021].”
+
+Improving Transparency and Accountability of Educational Institutions for Purposes of Veterans Educational AssistancePub. L. 118–210, title II, § 215, Jan. 2, 2025, 138 Stat. 2774, provided that: “(a) Requirement Relating to G.I. Bill Comparison Tool.—“(1) Requirement to maintain tool.—The Secretary of Veterans Affairs shall maintain the G.I. Bill Comparison Tool that was established pursuant to Executive Order 13607 [38 U.S.C. 3301 note] (77 Fed. Reg. 25861; relating to establishing principles of excellence for educational institutions serving service members, veterans, spouses, and other family members) and in effect on the day before the date of enactment of this Act [Jan. 2, 2025], or a successor tool, to provide relevant and timely information about programs of education approved under chapter 36 of title 38, United States Code, and the educational institutions that offer such programs. “(2) Data retention.—The Secretary shall ensure that historical data that is reported via the tool maintained under paragraph (1) remains easily and prominently accessible on the benefits.va.gov website, or a successor website, for a period of not less than six years from the date of initial publication. “(b) Providing Timely and Relevant Education Information to Veterans, Members of the Armed Forces, and Other Individuals.—“(1) In general.—Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, the Secretary of the Treasury, and the heads of other relevant Federal agencies, shall make such changes to the tool maintained under subsection (a) as the Secretary of Veterans Affairs determines appropriate to ensure that such tool is an effective and efficient method for providing information pursuant to section 3698(b)(5) of title 38, United States Code. “(2) Memorandum of understanding required.—Not later than two years after the date of the enactment of this Act, the Secretary of Veterans Affairs shall seek to enter into a memorandum of understanding with the Secretary of Education and the heads other relevant Federal agencies, as the Secretary of Veterans Affairs determines appropriate, to obtain information on outcomes with respect to individuals who are entitled to educational assistance under the laws administered by the Secretary of Veterans Affairs and who are attending educational institutions. Such memorandum of understanding may include data sharing or computer matching agreements. “(3) Modification of scope of comprehensive policy on providing education information.— [Amended this section.] “(4) G.I. bill comparison tool required disclosures.— [Amended this section.] “(5) Clarity and anonymity of information provided.— [Amended this section.] “(c) Improvements for Student Feedback.— [Amended this section.] “(d) Training for Provision of Education Counseling Services.—“(1) In general.—Not less than one year after the date of the enactment of this Act, the Secretary shall ensure that personnel employed by the Department of Veteran Affairs, or a contractor of the Department, to provide education benefits counseling, vocational or transition assistance, or similar functions, including employees or contractors of the Department who provide such counseling or assistance as part of the Transition Assistance Program, are trained on how—“(A) to use properly the tool maintained under subsection (a); and “(B) to provide appropriate educational counseling services to individuals described in section 3698(a) of such title [title 38, United States Code], as amended by subsection (b)(3)(A). “(2) Transition assistance program defined.—In this subsection, the term ‘Transition Assistance Program’ means the program of counseling, information, and services under section 1142 of title 10, United States Code.”
+
+[Amended this section.]
+
+[Amended this section.]
+
+[Amended this section.]
+
+[Amended this section.]
+
+Survey and Report; DefinitionsPub. L. 112–249, § 1(b)–(d), Jan. 10, 2013, 126 Stat. 2400, 2401, provided that: “(b) Survey.—In developing the policy required by section 3698(a) of title 38, United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall conduct a market survey to determine the availability of the following:“(1) A commercially available off-the-shelf online tool that allows a veteran or member of the Armed Forces to assess whether the veteran or member is academically ready to engage in postsecondary education and training opportunities and whether the veteran or member would need any remedial preparation before beginning such opportunities. “(2) A commercially available off-the-shelf online tool that provides a veteran or member of the Armed Forces with a list of providers of postsecondary education and training opportunities based on criteria selected by the veteran or member. “(c) Report.—Not later than 90 days after the date of the enactment of this Act [Jan. 10, 2013], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a report that includes—“(1) a description of the policy developed by the Secretary under section 3698(a) of title 38, United States Code, as added by subsection (a); “(2) a plan of the Secretary to implement such policy; and “(3) the results of the survey conducted under subsection (b), including whether the Secretary plans to implement the tools described in such subsection. “(d) Definitions.—In this section [enacting this note and this section]:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Veterans’ Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate; and “(B) the Committee on Veterans’ Affairs and the Committee on Education and the Workforce of the House of Representatives. “(2) Commercially available off-the-shelf.—The term ‘commercially available off-the-shelf’ has the meaning given that term in section 104 of title 41, United States Code. “(3) Postsecondary education and training opportunities.—The term ‘postsecondary education and training opportunities’ means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces.”

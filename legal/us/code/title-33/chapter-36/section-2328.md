@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2328"
+description: "Challenge cost-sharing program for management of recreation facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2328"
+citation: "33 U.S.C. § 2328"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2328"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "6403a533c0f09f41a0912c899dcc5a951caeb0dab8178e0d7f5d6db15c90b87f"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "ca73401147dfef889439bdc40080d04fed84db0f3f7417d09612b050351d05e0"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2328 - Challenge cost-sharing program for management of recreation facilities
+
+## Text
+
+(a) In general The Secretary is authorized to develop and implement a program to share the cost of managing recreation facilities and natural resources at water resource development projects under the Secretary’s jurisdiction.
+
+(b) Cooperative agreements (1) In general To implement the program under this section, the Secretary is authorized to enter into cooperative agreements with non-Federal public entities and private nonprofit entities to provide for operation and management of recreation facilities and natural resources at civil works projects under the Secretary’s jurisdiction where such facilities and resources are being maintained at complete Federal expense.
+
+(2) Requirements Before entering into an agreement under paragraph (1), the Secretary shall ensure that the non-Federal public entity or private nonprofit entity has the authority and capability—
+
+(A) to carry out the terms of the agreement; and
+
+(B) to pay damages, if necessary, in the event of a failure to perform.
+
+(c) User fees (1) Collection of fees (A) In general The Secretary may allow a non-Federal public entity or private nonprofit entity that has entered into an agreement pursuant to subsection (b) to collect user fees for the use of developed recreation sites and facilities, whether developed or constructed by the non-Federal public entity or private nonprofit entity or the Department of the Army.
+
+(B) Use of visitor reservation services (i) In general A non-Federal public entity or a private nonprofit entity described in subparagraph (A) may use, to manage fee collections and reservations under this section, any visitor reservation service that the Secretary has provided for by contract or interagency agreement, subject to such terms and conditions as the Secretary determines to be appropriate.
+
+(ii) Transfer The Secretary may transfer, or cause to be transferred by another Federal agency, to a non-Federal public entity or a private nonprofit entity described in subparagraph (A) user fees received by the Secretary or other Federal agency under a visitor reservation service described in clause (i) for recreation facilities and natural resources managed by the non-Federal public entity or private nonprofit entity pursuant to a cooperative agreement entered into under subsection (b).
+
+(2) Use of fees (A) In general A non-Federal public entity or private nonprofit entity that collects a user fee under paragraph (1)—
+
+(i) may retain up to 100 percent of the fees collected, as determined by the Secretary; and
+
+(ii) notwithstanding section 460d–3(b)(4) of title 16, shall use any retained amounts for operation, maintenance, and management activities relating to recreation and natural resources at any recreation site or facility that is located at the civil works project at which the fee is collected.
+
+(B) Requirements The use by a non-Federal public entity or private nonprofit entity of user fees collected under paragraph (1)—
+
+(i) shall remain subject to the direction and oversight of the Secretary; and
+
+(ii) shall not affect any existing third-party property interest, lease, or agreement with the Secretary.
+
+(3) Terms and conditions The authority of a non-Federal public entity or private nonprofit entity under this subsection shall be subject to such terms and conditions as the Secretary determines to be necessary to protect the interests of the United States.
+
+(d) Contributions (1) In general For purposes of carrying out this section the Secretary may accept contributions of funds, materials, and services from non-Federal public entities, private nonprofit entities, and other private entities.
+
+(2) Deposit of funds Any funds received by the Secretary under this subsection shall be deposited into the account in the Treasury of the United States entitled “Contributions and Advances, Rivers and Harbors, Corps of Engineers (8862)” and shall be available until expended to carry out the purposes of this section.
+
+(e) Definitions In this section:
+
+(1) Non-Federal public entity The term “non-Federal public entity” means a non-Federal public entity as defined in the memorandum issued by the Corp of Engineers on April 4, 2018, and titled “Implementation Guidance for Section 1155, Management of Recreation Facilities, of the Water Resources Development Act (WRDA) of 2016, Public Law 114–322”.
+
+(2) Private nonprofit entity The term “private nonprofit entity” means an organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of that title.
+
+(Pub. L. 102–580, title II, § 225, Oct. 31, 1992, 106 Stat. 4838; Pub. L. 104–303, title II, § 236(b), Oct. 12, 1996, 110 Stat. 3705; Pub. L. 114–322, title I, § 1155, Dec. 16, 2016, 130 Stat. 1663; Pub. L. 118–272, div. A, title I, § 1153, Jan. 4, 2025, 138 Stat. 3043; Pub. L. 119–74, div. B, title I, § 109, Jan. 23, 2026, 140 Stat. 70.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments2026—Subsec. (c)(2)(A)(ii). Pub. L. 119–74 substituted “at any recreation site or facility that is located at the civil works project at which the fee is collected” for “at recreation site at which the fee is collected”. 2025—Subsec. (b). Pub. L. 118–272, § 1153(1), designated existing provisions as par. (1) and inserted heading, substituted “non-Federal public entities and private nonprofit entities” for “non-Federal public and private entities”, and added par. (2). Subsec. (c). Pub. L. 118–272, § 1153(2), added subsec. (c) and struck out former subsec. (c) which related to user fees. Subsec. (d). Pub. L. 118–272, § 1153(3), designated first sentence of existing provisions as par. (1), inserted heading, and substituted “non-Federal public entities, private nonprofit entities, and other private entities” for “non-Federal public and private entities” and designated second sentence of existing provisions as par. (2), inserted heading, and substituted “under this subsection” for “under this section”. Subsec. (e). Pub. L. 118–272, § 1153(4), added subsec. (e). 2016—Subsecs. (c), (d). Pub. L. 114–322 added subsec. (c) and redesignated former subsec. (c) as (d). 1996—Subsec. (c). Pub. L. 104–303 substituted “(8862)” for “(8662)”.
+
+Recreation Partnership InitiativePub. L. 104–303, title V, § 519, Oct. 12, 1996, 110 Stat. 3765, as amended by Pub. L. 106–53, title III, § 350(a), Aug. 17, 1999, 113 Stat. 310, provided that: “(a) In General.—The Secretary shall promote Federal, non-Federal, and private sector cooperation in creating public recreation opportunities and developing the necessary supporting infrastructure at water resources projects of the Corps of Engineers. “(b) Infrastructure Improvements.—“(1) Recreation infrastructure improvements.—In determining the feasibility of the public-private cooperative under subsection (a), the Secretary shall provide such infrastructure improvements as are necessary to support a potential private recreational development at the Raystown Lake Project, Pennsylvania, generally in accordance with the Master Plan Update (1994) for the project. “(2) Agreement.—The Secretary shall enter into an agreement with an appropriate non-Federal public entity to ensure that the infrastructure improvements constructed by the Secretary on non-project lands pursuant to paragraph (1) are transferred to and operated and maintained by the non-Federal public entity. “(3) Engineering and design services.—The Secretary may perform engineering and design services for project infrastructure expected to be associated with the development of the site at Raystown Lake, Hesston, Pennsylvania. “(4) Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $3,000,000. “(c) Report.—Not later than December 31, 1998, the Secretary shall transmit to Congress a report on the results of the cooperative efforts carried out under this section, including the improvements required by subsection (b).”
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.

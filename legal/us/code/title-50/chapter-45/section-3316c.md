@@ -1,0 +1,101 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3316c"
+description: "Development of definitions for certain terms relating to intelligence"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "45"
+chapter_name: "MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES"
+section: "3316c"
+citation: "50 U.S.C. § 3316c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3316c"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "7c91120115ce1b36cd72dd89cd00097539b7e7b78f5391bba054686579fa4880"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "94cc49e7c71458506ed9bc02b26979b13630d14707b449d73735b9af4d146400"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3316c - Development of definitions for certain terms relating to intelligence
+
+## Text
+
+(a) Development Not later than September 30, 2023, the Director of National Intelligence and the Under Secretary of Defense for Intelligence and Security, in consultation with the heads of the elements of the intelligence community, shall jointly develop and publish definitions for the following terms:
+
+(1) Acoustic intelligence.
+
+(2) All-source intelligence.
+
+(3) Communications intelligence.
+
+(4) Critical intelligence.
+
+(5) Cyber-threat intelligence.
+
+(6) Electronic intelligence.
+
+(7) Explosive ordnance intelligence.
+
+(8) General military intelligence.
+
+(9) Imagery intelligence.
+
+(10) Geospatial intelligence.
+
+(11) Instrumentation signals intelligence.
+
+(12) Intelligence-related activity.
+
+(13) Joint intelligence.
+
+(14) Measurement and signature intelligence.
+
+(15) Medical intelligence.
+
+(16) Open-source intelligence.
+
+(17) Operational intelligence.
+
+(18) Scientific and technical intelligence.
+
+(19) Signals intelligence.
+
+(20) Strategic intelligence.
+
+(21) Tactical intelligence.
+
+(22) Target intelligence.
+
+(23) Technical intelligence.
+
+(24) Such others terms as may be jointly determined necessary by the Director of National Intelligence and the Under Secretary of Defense for Intelligence and Security.
+
+(b) Application to activities of intelligence community The Director of National Intelligence shall ensure that the definitions developed under subsection (a) are used uniformly across activities of the intelligence community with respect to the corresponding terms specified in such subsection.
+
+(c) Notice of modifications The Director of National Intelligence and the Under Secretary of Defense for Intelligence shall submit to the appropriate congressional committees notification of any modification by the Director and Under Secretary to a definition of a term specified in subsection (a) following the initial publication of the definition under such subsection.
+
+(d) Appropriate congressional committees defined In this section, the term “appropriate congressional committees” means—
+
+(1) the congressional intelligence committees; and
+
+(2) the Committees on Armed Services of the House of Representatives and the Senate.
+
+(Pub. L. 117–103, div. X, title III, § 309, Mar. 15, 2022, 136 Stat. 971.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Requirement to Develop Lexicon for Terms Relating to Gray Zone ActivitiesPub. L. 117–103, div. X, title VIII, § 825(b)(5), (c), Mar. 15, 2022, 136 Stat. 1028, 1029, provided that: [“(b) National Intelligence Estimate.—] “(5) Definitions.—In this subsection [pars. (1) to (4) not classified to the Code]: “(A) Gray zone activity.—The term ‘gray zone activity’ means an activity to advance the national interests of a State that— “(i) falls between ordinary statecraft and open warfare; “(ii) is carried out with an intent to maximize the advancement of interests of the state without provoking a kinetic military response by the United States; and “(iii) falls on a spectrum that ranges from covert adversary operations, to detectible covert adversary operations, to unattributable adversary operations, to deniable adversary operations, to open adversary operations. “(B) Covert adversary operation.—The term ‘covert adversary operation’ means an operation by an adversary that— “(i) the adversary intends to remain below the threshold at which the United States detects the operation; and “(ii) does stay below such threshold. “(C) Detectible covert adversary operation.—The term ‘detectible covert adversary operation’ means an operation by an adversary that— “(i) the adversary intends to remain below the threshold at which the United States detects the operation; but “(ii) is ultimately detected by the United States at a level below the level at which the United States will publicly attribute the operation to the adversary. “(D) Unattributable adversary operation.—The term ‘unattributable adversary operation’ means an operation by an adversary that the adversary intends to be detected by the United States, but remains below the threshold at which the United States will publicly attribute the operation to the adversary. “(E) Deniable adversary operation.—The term ‘deniable adversary operation’ means an operation by an adversary that— “(i) the adversary intends to be detected and publicly or privately attributed by the United States; and “(ii) the adversary intends to deny, to limit the response by the United States, and any allies of the United States. “(F) Open adversary operation.—The term ‘open adversary operation’ means an operation by an adversary that the adversary openly acknowledges as attributable to the adversary. “(c) Requirement to Develop Lexicon.— “(1) Requirement.—The Director of National Intelligence, acting through the National Intelligence Council, shall develop a lexicon of common terms (and corresponding definitions for such terms) for concepts associated with gray zone activities. “(2) Considerations.—In developing the lexicon under paragraph (1), the National Intelligence Council shall include in the lexicon each term (and the corresponding definition for each term) specified in subsection (b)(5), unless the National Intelligence Council determines that an alternative term (or alternative definition)— “(A) more accurately describes a concept associated with gray zone activities; or “(B) is preferable for any other reason. “(3) Report.— “(A) Publication.—The Director of National Intelligence shall publish a report containing the lexicon developed under paragraph (1). “(B) Form.—The report under subparagraph (A) shall be published in unclassified form.”
+
+Definitions For definitions of “congressional intelligence committees” and “intelligence community” as used in this section, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.

@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 1136c"
+description: "Authorization of appropriations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "28"
+chapter_name: "HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE"
+section: "1136c"
+citation: "20 U.S.C. § 1136c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s1136c"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "6756b88af759ef5df5b29f652751bb89cf1515519803f2b52375d5139230ae27"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "44f38fd91c4b387cb1790b52bf968982287db1b390ea8f4eb06a70e7b59a8b43"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 1136c - Authorization of appropriations
+
+## Text
+
+(a) Masters degree programs at historically Black colleges and universities There are authorized to be appropriated to carry out section 1136a of this title such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+(b) Masters degree programs at predominantly Black institutions There are authorized to be appropriated to carry out section 1136b of this title such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+
+(Pub. L. 89–329, title VII, § 725, as added Pub. L. 110–315, title VII, § 706(b), Aug. 14, 2008, 122 Stat. 3356.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 1136c, Pub. L. 89–329, title XI, § 1104, as added Pub. L. 102–325, title XI, § 1101, July 23, 1992, 106 Stat. 786, related to allowable activities, prior to repeal by Pub. L. 105–244, § 3, title VII, § 702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. Another prior section 1136c, Pub. L. 89–329, title XI, § 1104, as added Pub. L. 96–374, title XI, § 1101, Oct. 3, 1980, 94 Stat. 1492, placed geographical limitations on assistance to urban universities, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498. A prior section 725 of Pub. L. 89–329 was renumbered section 345, and is classified to section 1066d of this title. Prior sections 1136d to 1136h were repealed by Pub. L. 105–244, § 3, title VII, § 702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. Section 1136d, Pub. L. 89–329, title XI, § 1105, as added Pub. L. 102–325, title XI, § 1101, July 23, 1992, 106 Stat. 786, related to peer review. Another prior section 1136d, Pub. L. 89–329, title XI, § 1105, as added Pub. L. 96–374, title XI, § 1101, Oct. 3, 1980, 94 Stat. 1492, defined terms, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498. Section 1136e, Pub. L. 89–329, title XI, § 1106, as added Pub. L. 102–325, title XI, § 1101, July 23, 1992, 106 Stat. 786; amended Pub. L. 103–208, § 2(j)(46), Dec. 20, 1993, 107 Stat. 2485, related to disbursement of funds. Section 1136f, Pub. L. 89–329, title XI, § 1107, as added Pub. L. 102–325, title XI, § 1101, July 23, 1992, 106 Stat. 787, related to designation of Urban Grant Institutions. Section 1136g, Pub. L. 89–329, title XI, § 1108, as added Pub. L. 102–325, title XI, § 1101, July 23, 1992, 106 Stat. 787, defined terms “urban area” and “eligible institution”. Section 1136h, Pub. L. 89–329, title XI, § 1109, as added Pub. L. 102–325, title XI, § 1101, July 23, 1992, 106 Stat. 787, authorized appropriations for urban community service program.

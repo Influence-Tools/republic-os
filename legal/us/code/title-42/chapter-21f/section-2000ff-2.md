@@ -1,0 +1,89 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2000ff–2"
+description: "Employment agency practices"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "21F"
+chapter_name: "PROHIBITING EMPLOYMENT DISCRIMINATION ON THE BASIS OF GENETIC INFORMATION"
+section: "2000ff–2"
+citation: "42 U.S.C. § 2000ff–2"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2000ff–2"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "ed54c0b197e3650dd19a16d600367c063116f52bb7be4bc7ef5d891206b46919"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "2107c9657f6f2529c872f1467038bbb8ae4aac2f83383a97440f218d50426076"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2000ff–2 - Employment agency practices
+
+## Text
+
+(a) Discrimination based on genetic information It shall be an unlawful employment practice for an employment agency—
+
+(1) to fail or refuse to refer for employment, or otherwise to discriminate against, any individual because of genetic information with respect to the individual;
+
+(2) to limit, segregate, or classify individuals or fail or refuse to refer for employment any individual in any way that would deprive or tend to deprive any individual of employment opportunities, or otherwise adversely affect the status of the individual as an employee, because of genetic information with respect to the individual; or
+
+(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this chapter.
+
+(b) Acquisition of genetic information It shall be an unlawful employment practice for an employment agency to request, require, or purchase genetic information with respect to an individual or a family member of the individual except—
+
+(1) where an employment agency inadvertently requests or requires family medical history of the individual or family member of the individual;
+
+(2) where—
+
+(A) health or genetic services are offered by the employment agency, including such services offered as part of a wellness program;
+
+(B) the individual provides prior, knowing, voluntary, and written authorization;
+
+(C) only the individual (or family member if the family member is receiving genetic services) and the licensed health care professional or board certified genetic counselor involved in providing such services receive individually identifiable information concerning the results of such services; and
+
+(D) any individually identifiable genetic information provided under subparagraph (C) in connection with the services provided under subparagraph (A) is only available for purposes of such services and shall not be disclosed to the employment agency except in aggregate terms that do not disclose the identity of specific individuals;
+
+(3) where an employment agency requests or requires family medical history from the individual to comply with the certification provisions of section 2613 of title 29 or such requirements under State family and medical leave laws;
+
+(4) where an employment agency purchases documents that are commercially and publicly available (including newspapers, magazines, periodicals, and books, but not including medical databases or court records) that include family medical history; or
+
+(5) where the information involved is to be used for genetic monitoring of the biological effects of toxic substances in the workplace, but only if—
+
+(A) the employment agency provides written notice of the genetic monitoring to the individual;
+
+(B) (i) the individual provides prior, knowing, voluntary, and written authorization; or
+
+(ii) the genetic monitoring is required by Federal or State law;
+
+(C) the individual is informed of individual monitoring results;
+
+(D) the monitoring is in compliance with—
+
+(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
+
+(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
+
+(E) the employment agency, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific individuals.
+
+(c) Preservation of protections In the case of information to which any of paragraphs (1) through (5) of subsection (b) applies, such information may not be used in violation of paragraph (1), (2), or (3) of subsection (a) or treated or disclosed in a manner that violates section 2000ff–5 of this title.
+
+(Pub. L. 110–233, title II, § 203, May 21, 2008, 122 Stat. 908.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Occupational Safety and Health Act of 1970, referred to in subsec. (b)(5)(D), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables. The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which is classified principally to chapter 22 (§ 801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables. The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under section 2000ff of this title.

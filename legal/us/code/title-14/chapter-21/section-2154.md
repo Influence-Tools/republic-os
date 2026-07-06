@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 2154"
+description: "Compulsory retirement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "21"
+chapter_name: "PERSONNEL; OFFICERS"
+section: "2154"
+citation: "14 U.S.C. § 2154"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s2154"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "19806a39b05d19d6f771a10e79a4636a01fa63ef74065899608d80eabb910364"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "87155f078b8e77615031a59e7c40674c8a365399fda6399b6b6296459817f4cb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 2154 - Compulsory retirement
+
+## Text
+
+(a) Regular Commissioned Officers.— Any regular commissioned officer, except a commissioned warrant officer, serving in a grade below rear admiral (lower half) shall be retired on the first day of the month following the month in which the officer becomes 62 years of age.
+
+(b) Flag-Officer Grades.— (1) Except as provided in paragraph (2), any regular commissioned officer serving in a grade of rear admiral (lower half) or above shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
+
+(2) The retirement of an officer under paragraph (1) may be deferred—
+
+(A) by the President, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age; or
+
+(B) by the Secretary of the department in which the Coast Guard is operating, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age.
+
+(c) Deferred Retirement or Separation for Health Professions Officers.— (1) In general.— Subject to paragraph (2), the Secretary may defer the retirement or separation under subsection (a) of a health professions officer if, during the period of the deferment, the health professions officer will be performing duties that consist primarily of providing patient care or performing other clinical duties.
+
+(2) Limitation.— A deferment under this subsection may not extend beyond the first day of the month following the month in which the health professions officer concerned becomes 68 years of age.
+
+(3) Designation.— The Secretary may designate as health professions officers a category of members of the Coast Guard whose duties consist primarily of—
+
+(A) providing health care;
+
+(B) performing other clinical care, including radiology, specialty care, behavioral health care, pharmacy care, medical laboratory, or testing; or
+
+(C) performing health care-related administrative duties.
+
+(4) Rule of construction.— Nothing in this subsection may be construed to prohibit or modify the application of any provision relating to mandatory separation or disciplinary action.
+
+(5) Health professions officer defined.— In this subsection, the term “health professions officer” means an officer or enlisted member of the Coast Guard in good standing who is—
+
+(A) a physician, surgeon, medical specialist, nurse or nurse practitioner, physician’s assistant, health service technician, therapist, fully licensed clinical psychotherapist, counselor, social worker, medical assistant, radiology assistant, pharmacist, pharmacy assistant, nutritionist, dietitian, any administrative personnel associated with a Coast Guard medical program (including a clinic), personnel who works in a medical laboratory, physical therapist, physical therapist aide, occupational therapist, or occupational therapist aide;
+
+(B) a dentist, dental assistant, oral surgeon, or any other dental-related personnel; or
+
+(C) a member of a category designated by the Secretary under paragraph (3).
+
+(Added Pub. L. 111–281, title II, § 215(a), Oct. 15, 2010, 124 Stat. 2916, § 293; renumbered § 2154, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; amended Pub. L. 119–60, div. G, title LXXII, § 7222(a), Dec. 18, 2025, 139 Stat. 1700.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 added subsec. (c). 2018—Pub. L. 115–282 renumbered section 293 of this title as this section.

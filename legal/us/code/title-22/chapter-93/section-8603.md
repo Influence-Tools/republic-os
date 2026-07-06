@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 8603"
+description: "United States actions to assist in the defense of Israel and protect United States interests"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "93"
+chapter_name: "UNITED STATES-ISRAEL COOPERATION"
+section: "8603"
+citation: "22 U.S.C. § 8603"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s8603"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "afb3bdaf494929bb3b7898c5c479bb9313feb4c52c3341c263a7de3cba35016d"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "7c52974692eefad1f4ee5387f9de7757601a0162296605c2edba0f8aaee4332c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 8603 - United States actions to assist in the defense of Israel and protect United States interests
+
+## Text
+
+It is the sense of Congress that the United States Government should take the following actions to assist in the defense of Israel:
+
+(1) Seek to enhance the capabilities of the Governments of the United States and Israel to address emerging common threats, increase security cooperation, and expand joint military exercises.
+
+(2) Provide the Government of Israel such support as may be necessary to increase development and production of joint missile defense systems, particularly such systems that defend against the urgent threat posed to Israel and United States forces in the region.
+
+(3) Provide the Government of Israel assistance specifically for the production and procurement of the Iron Dome defense system for purposes of intercepting short-range missiles, rockets, and projectiles launched against Israel.
+
+(4) Provide the Government of Israel defense articles and defense services through such mechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
+
+(5) Provide the Government of Israel additional excess defense articles, as appropriate, in the wake of the withdrawal of United States forces from Iraq.
+
+(6) Examine ways to strengthen existing and ongoing efforts, including the Gaza Counter Arms Smuggling Initiative, aimed at preventing weapons smuggling into Gaza pursuant to the 2009 agreement following the Israeli withdrawal from Gaza, as well as measures to protect against weapons smuggling and terrorist threats from the Sinai Peninsula.
+
+(7) Offer the Air Force of Israel additional training and exercise opportunities in the United States to compensate for Israel’s limited air space.
+
+(8) Work to encourage an expanded role for Israel with the North Atlantic Treaty Organization (NATO), including an enhanced presence at NATO headquarters and exercises.
+
+(9) Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
+
+(Pub. L. 112–150, § 4, July 27, 2012, 126 Stat. 1147.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Continual Assessment of Impact of International State Arms Embargoes on Israel and Actions To Address Defense Capability GapsPub. L. 119–60, div. A, title XVII, § 1706, Dec. 18, 2025, 139 Stat. 1214, provided that: (a) Requirement for Continuous Assessment.—(1) In general.—The Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall conduct a continual assessment of—(A) the scope, nature, and impact on Israel’s defense capabilities of current and emerging arms embargoes, sanctions, restrictions, or limitations imposed by foreign countries or by international organizations; and(B) the resulting gaps or vulnerabilities in Israel’s security posture against shared regional adversaries, such as Iran and Iranian-backed terrorist groups such as Hamas, Palestinian Islamic Jihad, and Hezbollah, and its ability to maintain its qualitative military edge.(2) Frequency.—The assessment required under paragraph (1) shall be updated not less than once every 180 days.(b) Potential United States Mitigation.—(1) Identification of needs.—Each assessment required under subsection (a) shall also include a determination of specific defensive capabilities, systems, or technologies that Israel is unable to procure, sustain, or modernize due to arms embargoes or restrictions.(2) United states actions.—The Secretary of Defense, in coordination with the Secretary of State, shall identify potential actions the United States may take to mitigate such gaps in defensive capabilities, including—(A) addressing barriers to the delivery of defense articles or services under the foreign military sales program;(B) to the extent possible without undermining United States requirements or readiness, leveraging United States industrial base capacity to provide substitute defensive capabilities;(C) expanding joint research, development, and production of defense technologies; and(D) enhancing cooperative training, prepositioning, and logistics support.(c) Reports to Congress.—(1) In general.—Not later than 120 days after the date of enactment of this section, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the findings of the most recent assessment conducted under subsection (a).(2) Form.—The report required by paragraph (1) shall be submitted in unclassified form and may contain a classified annex.(d) Sunset.—The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section [Dec. 18, 2025].
+
+Eligibility of Israel for the Strategic Trade Authorization Exception to Certain Export Control Licensing RequirementsPub. L. 113–296, § 6, Dec. 19, 2014, 128 Stat. 4076, provided that: “(a) Findings.—Congress finds that Israel—“(1) has adopted high standards in the field of export controls; “(2) has declared its unilateral adherence to the Missile Technology Control Regime, the Australia Group, and the Nuclear Suppliers Group; and “(3) is a party to—“(A) the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be Deemed to be Excessively Injurious or to Have Indiscriminate Effects, signed at Geneva October 10, 1980; “(B) the Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare, signed at Geneva June 17, 1925; and “(C) the Convention on the Physical Protection of Nuclear Material, adopted at Vienna on October 26, 1979. “(b) Eligibility for Strategic Trade Authorization Exception.—The President, consistent with the commitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations.”

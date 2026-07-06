@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 5491"
+description: "Establishment of the Bureau of Consumer Financial Protection"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "53"
+chapter_name: "WALL STREET REFORM AND CONSUMER PROTECTION"
+section: "5491"
+citation: "12 U.S.C. § 5491"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s5491"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "807c2e93557dcf097c3bf13fe85c047ef3877b1b4bcb34df52c8c475d149ad1a"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "86c493a1bd8e277a33ce7f9d70b864b3ac6014793380d87328f916341faf0d34"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 5491 - Establishment of the Bureau of Consumer Financial Protection
+
+## Text
+
+(a) Bureau established There is established in the Federal Reserve System, an independent bureau to be known as the “Bureau of Consumer Financial Protection”, which shall regulate the offering and provision of consumer financial products or services under the Federal consumer financial laws. The Bureau shall be considered an Executive agency, as defined in section 105 of title 5. Except as otherwise provided expressly by law, all Federal laws dealing with public or Federal contracts, property, works, officers, employees, budgets, or funds, including the provisions of chapters 5 and 7 of title 5, shall apply to the exercise of the powers of the Bureau.
+
+(b) Director and Deputy Director (1) In general There is established the position of the Director, who shall serve as the head of the Bureau.
+
+(2) Appointment Subject to paragraph (3), the Director shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(3) Qualification The President shall nominate the Director from among individuals who are citizens of the United States.
+
+(4) Compensation The Director shall be compensated at the rate prescribed for level II of the Executive Schedule under section 5313 of title 5.
+
+(5) Deputy Director There is established the position of Deputy Director, who shall—
+
+(A) be appointed by the Director; and
+
+(B) serve as acting Director in the absence or unavailability of the Director.
+
+(c) Term (1) In general The Director shall serve for a term of 5 years.
+
+(2) Expiration of term An individual may serve as Director after the expiration of the term for which appointed, until a successor has been appointed and qualified.
+
+(3) Removal for cause The President may remove the Director for inefficiency, neglect of duty, or malfeasance in office.
+
+(d) Service restriction No Director or Deputy Director may hold any office, position, or employment in any Federal reserve bank, Federal home loan bank, covered person, or service provider during the period of service of such person as Director or Deputy Director.
+
+(e) Offices The principal office of the Bureau shall be in the District of Columbia. The Director may establish regional offices of the Bureau, including in cities in which the Federal reserve banks, or branches of such banks, are located, in order to carry out the responsibilities assigned to the Bureau under the Federal consumer financial laws.
+
+(Pub. L. 111–203, title X, § 1011, July 21, 2010, 124 Stat. 1964.)
+
+## Notes
+
+Editorial Notes
+
+ConstitutionalityFor information regarding the constitutionality of provisions of subsection (c)(3) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 111–203, title X, § 1020, formerly § 1018, July 21, 2010, 124 Stat. 1979, renumbered § 1020 by Pub. L. 117–263, div. E, title LVIII, § 5851(a)(1), Dec. 23, 2022, 136 Stat. 3433, provided that: “This subtitle [subtitle A (§§ 1011–1018), enacting this part and amending section 9702 of Title 20, Education] shall become effective on the date of enactment of this Act [July 21, 2010].”

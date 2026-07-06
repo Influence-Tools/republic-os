@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 4016"
+description: "Enforcement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "60"
+chapter_name: "FISH AND SEAFOOD PROMOTION"
+section: "4016"
+citation: "16 U.S.C. § 4016"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s4016"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "b0263655c15dddb0acc216afabb647be320681687a1a81a1e879364075856779"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "105e4649039c0910b12a64f96295b71378fedbb66780cd95300e5275cf573948"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 4016 - Enforcement
+
+## Text
+
+(a) Authority (1) The district courts of the United States shall have jurisdiction specifically to enforce and to prevent and restrain any person from violating any assessment, order or regulation made or issued under this chapter.
+
+(2) (A) If a council has reason to believe that a person subject to an assessment, order or regulation made or issued under this chapter is violating such assessment, order or regulation, it may refer the matter to the Secretary.
+
+(B) Except as provided in subparagraphs (C) or (D) of this paragraph, any civil action authorized to be brought under this subsection, when referred by a council under subparagraph (A) of this paragraph, shall be referred to the Attorney General for appropriate action.
+
+(C) If the Secretary believes that the administration and enforcement of the provisions of this chapter would be adequately served by taking administrative action under subsection (b) of this section or by providing written notice or warning to any person committing a violation of this chapter, the Secretary is not required to refer such violation to the Attorney General.
+
+(D) Whenever a matter has been referred by a council under subparagraph (A) of this paragraph and the Secretary or the Attorney General fails within 60 days of such referral to take appropriate action, the council may, upon filing notice with the Secretary or Attorney General, as appropriate, and other interested parties, bring an action in its own name.
+
+(b) Recovery of costs (1) (A) When a council brings an action under subsection (a)(2) of this section, the council may recover costs of litigation and, where the action is brought to collect an unpaid assessment, interest from the date the amount became due and payable.
+
+(B) Any person who violates any provision of an order (including a cease and desist order previously issued under this paragraph) or regulation issued by the Secretary under this chapter, or who fails or refuses to pay, collect, or remit any assessment required under this chapter, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense. In addition to, or in lieu of, a civil penalty under this subparagraph, the Secretary may issue an order requiring such person to cease and desist from continuing such violation.
+
+(C) No penalty shall be assessed, or cease and desist order issued, under this paragraph unless the affected person is given notice and opportunity for a hearing before the Secretary with respect to such violation.
+
+(D) Any order of the Secretary under this paragraph assessing a penalty or imposing a cease and desist order shall be final and conclusive, unless the affected person files an appeal from the Secretary’s order with the appropriate United States court of appeals.
+
+(2) (A) Any person against whom a violation is found under paragraph (1) of this subsection may obtain review of such action in the United States court of appeals for the circuit in which such person resides or has his place of business, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within thirty days after the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.
+
+(B) The Secretary shall promptly file in the court a certified copy of the record upon which such violation was found.
+
+(C) The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence or not in accordance with law.
+
+(3) (A) If any person fails to pay a civil penalty under this subsection after it has become final, the Secretary shall refer the matter to the Attorney General.
+
+(B) The Attorney General shall institute appropriate action to recover the amount assessed under this subsection in a district court of the United States.
+
+(C) If, within sixty days after such referral, the Attorney General fails to institute such appropriate action, the council to whose programs the assessment, order or regulation relates may institute an action in its own name.
+
+(Pub. L. 99–659, title II, § 217, Nov. 14, 1986, 100 Stat. 3730.)

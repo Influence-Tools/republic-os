@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 28103"
+description: "Limitations on rail passenger transportation liability"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "281"
+chapter_name: "LAW ENFORCEMENT"
+section: "28103"
+citation: "49 U.S.C. § 28103"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s28103"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "abb16e5f09078410f8b666b2048c5fa38b0e39d3a8e1e79259551e77b80f246d"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "16d99ae9e40f32c0f9878a2b323dac09e1573584558f9226ec40eef7fe3c54e8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 28103 - Limitations on rail passenger transportation liability
+
+## Text
+
+(a) Limitations.— (1) Notwithstanding any other statutory or common law or public policy, or the nature of the conduct giving rise to damages or liability, in a claim for personal injury to a passenger, death of a passenger, or damage to property of a passenger arising from or in connection with the provision of rail passenger transportation, or from or in connection with any rail passenger transportation operations over or rail passenger transportation use of right-of-way or facilities owned, leased, or maintained by any high-speed railroad authority or operator, any commuter authority or operator, any rail carrier, or any State, punitive damages, to the extent permitted by applicable State law, may be awarded in connection with any such claim only if the plaintiff establishes by clear and convincing evidence that the harm that is the subject of the action was the result of conduct carried out by the defendant with a conscious, flagrant indifference to the rights or safety of others. If, in any case wherein death was caused, the law of the place where the act or omission complained of occurred provides, or has been construed to provide, for damages only punitive in nature, this paragraph shall not apply.
+
+(2) The aggregate allowable awards to all rail passengers, against all defendants, for all claims, including claims for punitive damages, arising from a single accident or incident, shall not exceed $200,000,000.
+
+(b) Contractual Obligations.— A provider of rail passenger transportation may enter into contracts that allocate financial responsibility for claims.
+
+(c) Mandatory Coverage.— Amtrak shall maintain a total minimum liability coverage for claims through insurance and self-insurance of at least $200,000,000 per accident or incident.
+
+(d) Effect on Other Laws.— This section shall not affect the damages that may be recovered under the Act of April 27, 1908 (45 U.S.C. 51 et seq.; popularly known as the “Federal Employers’ Liability Act”) or under any workers compensation Act.
+
+(e) Definition.— For purposes of this section—
+
+(1) the term “claim” means a claim made—
+
+(A) against Amtrak, any high-speed railroad authority or operator, any commuter authority or operator, any rail carrier, or any State; or
+
+(B) against an officer, employee, affiliate engaged in railroad operations, or agent, of Amtrak, any high-speed railroad authority or operator, any commuter authority or operator, any rail carrier, or any State;
+
+(2) the term “punitive damages” means damages awarded against any person or entity to punish or deter such person or entity, or others, from engaging in similar behavior in the future; and
+
+(3) the term “rail carrier” includes a person providing excursion, scenic, or museum train service, and an owner or operator of a privately owned rail passenger car.
+
+(Added Pub. L. 105–134, title I, § 161(a), Dec. 2, 1997, 111 Stat. 2577.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Federal Employers’ Liability Act, referred to in subsec. (d), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, which is classified generally to chapter 2 (§ 51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 51 of Title 45 and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Adjustment Based on Consumer Price IndexPub. L. 114–94, div. A, title XI, § 11415(b), Dec. 4, 2015, 129 Stat. 1689, provided that: “The liability cap under section 28103(a)(2) of title 49, United States Code, shall be adjusted on the date of enactment of this Act [Dec. 4, 2015] to reflect the change in the Consumer Price Index-All Urban Consumers between such date and December 2, 1997, and the Secretary [of Transportation] shall provide appropriate public notice of such adjustment. The adjustment of the liability cap shall be effective 30 days after such notice. Every fifth year after the date of enactment of this Act, the Secretary shall adjust such liability cap to reflect the change in the Consumer Price Index-All Urban Consumers since the last adjustment. The Secretary shall provide appropriate public notice of each such adjustment, and the adjustment shall become effective 30 days after such notice.”

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 30103"
+description: "Relationship to other laws"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "301"
+chapter_name: "MOTOR VEHICLE SAFETY"
+section: "30103"
+citation: "49 U.S.C. § 30103"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s30103"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "0b64a8962da97ec18b80a5201769983a02c55b6aa3b5cb7ce362116a00828cbb"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "8c863b92bb2ef287de7583bdbffdb5b87f19a4d53966ab3d7fb095dde42eebe5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 30103 - Relationship to other laws
+
+## Text
+
+(a) Uniformity of Regulations.— The Secretary of Transportation may not prescribe a safety regulation related to a motor vehicle subject to subchapter I of chapter 135 of this title that differs from a motor vehicle safety standard prescribed under this chapter. However, the Secretary may prescribe, for a motor vehicle operated by a carrier subject to subchapter I of chapter 135, a safety regulation that imposes a higher standard of performance after manufacture than that required by an applicable standard in effect at the time of manufacture.
+
+(b) Preemption.— (1) When a motor vehicle safety standard is in effect under this chapter, a State or a political subdivision of a State may prescribe or continue in effect a standard applicable to the same aspect of performance of a motor vehicle or motor vehicle equipment only if the standard is identical to the standard prescribed under this chapter. However, the United States Government, a State, or a political subdivision of a State may prescribe a standard for a motor vehicle or motor vehicle equipment obtained for its own use that imposes a higher performance requirement than that required by the otherwise applicable standard under this chapter.
+
+(2) A State may enforce a standard that is identical to a standard prescribed under this chapter.
+
+(c) Antitrust Laws.— This chapter does not—
+
+(1) exempt from the antitrust laws conduct that is unlawful under those laws; or
+
+(2) prohibit under the antitrust laws conduct that is lawful under those laws.
+
+(d) Warranty Obligations and Additional Legal Rights and Remedies.— Sections 30117(b), 30118–30121, 30166(f), and 30167(a) and (b) of this title do not establish or affect a warranty obligation under a law of the United States or a State. A remedy under those sections and sections 30161 and 30162 of this title is in addition to other rights and remedies under other laws of the United States or a State.
+
+(e) Common Law Liability.— Compliance with a motor vehicle safety standard prescribed under this chapter does not exempt a person from liability at common law.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 943; Pub. L. 104–88, title III, § 308(j), Dec. 29, 1995, 109 Stat. 947.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 30103(a)15:1392(g).Sept. 9, 1966, Pub. L. 89–563, §§ 103(g), 105(a)(6), 116, 80 Stat. 720, 721, 727. 30103(b)15:1392(d).Sept. 9, 1966, Pub. L. 89–563, § 103(d), 80 Stat. 719; Oct. 15, 1982, Pub. L. 97–331, § 3, 96 Stat. 1619. 30103(c)15:1405. 30103(d)15:1394(a)(6).  15:1410a(e).Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §§ 124(e), 160; added Oct. 27, 1974, Pub. L. 93–492, §§ 102(a), 106, 88 Stat. 1477, 1481.  15:1420. 30103(e)15:1397(k).Sept. 9, 1966, Pub. L. 89–563, § 108(k), 80 Stat. 723; Oct. 31, 1988, Pub. L. 100–562, § 2(b), 102 Stat. 2818. In subsection (a), the words “or the Transportation of Explosives Act, as amended (18 U.S.C. 831–835)” are omitted as obsolete because 18:831–835 have been repealed. The word “prescribe” is substituted for “adopt” for consistency. The words “or continue in effect” and “In prescribing safety regulations” are omitted as surplus. The word “prescribed” is substituted for “issued” for consistency. The words “to comply” and “Federal” are omitted as surplus. The words “in effect” are added for clarity. In subsection (b)(1), the word “Federal” is omitted as surplus. The word “prescribe” is substituted for “either to establish, or to continue in effect” for consistency and to eliminate unnecessary words. The words “standard prescribed under this chapter” are substituted for “Federal standard” for clarity. The words “However, the United States . . . may prescribe” are substituted for “Nothing in this section shall be construed to prevent the Federal . . . from establishing” for consistency. The words “of a State” are substituted for “thereof” for clarity. The word “standard” is substituted for “safety requirement” for consistency. The words “performance requirement” are substituted for “standard of performance” to avoid using “standard” in 2 different ways. Subsection (b)(2) is substituted for 15:1392(d) (2d sentence) for consistency and to eliminate unnecessary words. In subsection (c), the words “be deemed to” and “of the United States” are omitted as surplus. In subsection (d), the words “United States” are substituted for “Federal” in 15:1420 for consistency. The words “Consumer” in 15:1420, “not in lieu of” in 15:1410a(e) and 1420, and “not in substitution for” in 15:1394(a)(6) are omitted as surplus. The word “other” is added for clarity.
+
+Editorial Notes
+
+Amendments1995—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in two places.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1995 AmendmentAmendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.

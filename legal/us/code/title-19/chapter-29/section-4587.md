@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 4587"
+description: "Identification of industries facing subsidized imports"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "29"
+chapter_name: "UNITED STATES–MEXICO–CANADA AGREEMENT IMPLEMENTATION"
+section: "4587"
+citation: "19 U.S.C. § 4587"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s4587"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "9ce884440e1b0b03b2c67e4ee9987d8135bd5f93278a4ecd0234e13165b58779"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "6e54fd0484c80a3b9116894538454028109bf877a4b24ffcf6c6da16e14a5857"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 4587 - Identification of industries facing subsidized imports
+
+## Text
+
+(a) Petitions Any entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of a United States industry and has reason to believe—
+
+(1) that—
+
+(A) as a result of implementation of provisions of the USMCA, the industry is likely to face increased competition from subsidized imports, from a USMCA country, with which it directly competes; or
+
+(B) the industry is likely to face increased competition from subsidized imports with which it directly competes from any other country designated by the President, following consultations with the Congress, as benefiting from a reduction of tariffs or other trade barriers under a trade agreement that enters into force with respect to the United States after January 1, 1994; and
+
+(2) that the industry is likely to experience a deterioration of its competitive position before more effective rules and disciplines relating to the use of government subsidies have been developed with respect to the country concerned;
+
+may file with the Trade Representative a petition that such industry be identified under this section.
+
+(b) Identification of industry Within 90 days after receipt of a petition under subsection (a), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) and the deterioration described in subsection (a)(2).
+
+(c) Action after identification At the request of an entity that is representative of an industry identified under subsection (b), the Trade Representative shall—
+
+(1) compile and make available to the industry information under section 2418 of this title;
+
+(2) recommend to the President that an investigation by the International Trade Commission be requested under section 332 of the Tariff Act of 1930 [19 U.S.C. 1332]; or
+
+(3) take actions described in both paragraphs (1) and (2).
+
+The industry may request the Trade Representative to take appropriate action to update (as often as annually) any information obtained under paragraph (1) or (2), or both, as the case may be, until an agreement on more effective rules and disciplines relating to government subsidies is reached between the United States and the USMCA countries.
+
+(d) Initiation of action under other law (1) In general The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) and consult with the industry identified under subsection (b) with a view to deciding whether any action is appropriate—
+
+(A) under section 2411 of this title, including the initiation of an investigation under section 2412(c) of this title (in the case of the Trade Representative); or
+
+(B) under subtitle A of title VII of the Tariff Act of 1930 [19 U.S.C. 1671 et seq.], including the initiation of an investigation under section 702(a) of that Act [19 U.S.C. 1671a(a)] (in the case of the Secretary of Commerce).
+
+(2) Criteria for initiation In determining whether to initiate any investigation under section 2411 of this title or any other trade law, other than title VII of the Tariff Act of 1930 [19 U.S.C. 1671 et seq.], the Trade Representative, after consultation with the Secretary of Commerce—
+
+(A) shall seek the advice of the advisory committees established under section 2155 of this title;
+
+(B) shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives;
+
+(C) shall coordinate with the interagency organization established under section 1872 of this title; and
+
+(D) may ask the President to request advice from the International Trade Commission.
+
+(3) Title III actions In the event an investigation is initiated under section 2412(c) of this title as a result of a review under this subsection and the Trade Representative, following such investigation (including any applicable dispute settlement proceedings under the USMCA or any other trade agreement), determines to take action under section 2411(a) of this title, the Trade Representative shall give preference to actions that most directly affect the products that benefit from governmental subsidies and were the subject of the investigation, unless there are no significant imports of such products or the Trade Representative otherwise determines that application of the action to other products would be more effective.
+
+(e) Effect of decisions Any decision, whether positive or negative, or any action by the Trade Representative or the Secretary of Commerce under this section shall not in any way—
+
+(1) prejudice the right of any industry to file a petition under any trade law;
+
+(2) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, the International Trade Commission, or the Trade Representative pursuant to such a petition; or
+
+(3) prejudice, affect, substitute for, or obviate any proceeding, investigation, or determination under section 2411 of this title, title VII of the Tariff Act of 1930 [19 U.S.C. 1671 et seq.], or any other trade law.
+
+(f) Standing Nothing in this section may be construed to alter in any manner the requirements in effect before January 29, 2020, for standing under any law of the United States or to add any additional requirements for standing under any law of the United States.
+
+(Pub. L. 116–113, title IV, § 417, formerly Pub. L. 103–182, title IV, § 407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, § 21(c)(2), Oct. 11, 1996, 110 Stat. 3530; renumbered § 417 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, § 504(h), Jan. 29, 2020, 134 Stat. 75.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+
+Codification Section was formerly classified to section 3437 of this title prior to renumbering by Pub. L. 116–113.
+
+Amendments2020—Subsec. (a)(1)(A). Pub. L. 116–113, § 504(h)(3)(A), substituted “the USMCA” for “the Agreement” and “USMCA country” for “NAFTA country”. Subsec. (c). Pub. L. 116–113, § 504(h)(3)(B), substituted “USMCA countries” for “NAFTA countries” in concluding provisions. Subsec. (d)(3). Pub. L. 116–113, § 504(h)(3)(C), substituted “the Agreement” for “the USMCA”. 1996—Subsec. (e)(2). Pub. L. 104–295 substituted semicolon for comma after “such a petition”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2020 AmendmentTransfer to and amendment of this section by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 504(k) of Pub. L. 116–113, set out as a note under section 4581 of this title.

@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 3713"
+description: "Authorization of appropriations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "63"
+chapter_name: "TECHNOLOGY INNOVATION"
+section: "3713"
+citation: "15 U.S.C. § 3713"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s3713"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "f835ed321886f1e342d83b88031562e1c09354399f5cacddbbd3b1f1a3758c52"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "ae8d9167bf260b9972248583636447b0e140dc5dd87d6fb4b0d4680aa0d66b31"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 3713 - Authorization of appropriations
+
+## Text
+
+(a) (1) There is authorized to be appropriated to the Secretary for the purposes of carrying out sections 3710(g) and 3711 of this title not to exceed $3,400,000 for the fiscal year ending September 30, 1988.
+
+(2) Of the amount authorized under paragraph (1) of this subsection, $2,400,000 is authorized only for the Office of Productivity, Technology, and Innovation; and $500,000 is authorized only for the patent licensing activities of the National Technical Information Service.
+
+(b) In addition to the authorization of appropriations provided under subsection (a) of this section, there is authorized to be appropriated to the Secretary for the purposes of carrying out section 3704a of this title not to exceed $500,000 for the fiscal year ending September 30, 1988, $1,000,000 for the fiscal year ending September 30, 1989, and $1,500,000 for the fiscal year ending September 30, 1990.
+
+(c) Such sums as may be appropriated under subsections (a) and (b) shall remain available until expended.
+
+(d) To enable the National Science Foundation to carry out its powers and duties under this chapter only such sums may be appropriated as the Congress may authorize by law.
+
+(Pub. L. 96–480, § 21, formerly § 14, Oct. 21, 1980, 94 Stat. 2320; renumbered § 18, Pub. L. 99–502, § 2, Oct. 20, 1986, 100 Stat. 1785; renumbered § 17, Pub. L. 99–502, § 9(e)(1), Oct. 20, 1986, 100 Stat. 1797; renumbered § 18, Pub. L. 100–107, § 3(a), Aug. 20, 1987, 101 Stat. 725; renumbered § 19 and amended Pub. L. 100–418, title V, §§ 5122(a)(1), 5152, Aug. 23, 1988, 102 Stat. 1438, 1449; renumbered § 21, Pub. L. 102–240, title VI, § 6019, Dec. 18, 1991, 105 Stat. 2183; Pub. L. 110–69, title III, § 3002(c)(5), Aug. 9, 2007, 121 Stat. 586.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2007—Subsec. (a)(1). Pub. L. 110–69, § 3002(c)(5)(A), substituted “sections 3710(g) and 3711” for “sections 3704, 3710(g), and 3711”. Subsec. (a)(2). Pub. L. 110–69, § 3002(c)(5)(B), struck out “$500,000 is authorized only for the purpose of carrying out the requirements of the Japanese technical literature program established under section 3704(d) of this title;” after “Innovation;”. 1988—Subsec. (a). Pub. L. 100–418, § 5152, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Secretary for purposes of carrying out section 3705 of this title, not to exceed $19,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for fiscal year ending September 30, 1982, $50,000,000 for the fiscal year ending September 30, 1983, and $60,000,000 for each of the fiscal years ending September 30, 1984, and 1985.” Subsec. (b). Pub. L. 100–418, § 5152, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to authorizations of appropriations under subsection (a) of this section, there is authorized to be appropriated to the Secretary for purposes of carrying out the provisions of this chapter, not to exceed $5,000,000 for the fiscal year ending September 30, 1981, $9,000,000 for the fiscal year ending September 30, 1982, and $14,000,000 for each of the fiscal years ending September 30, 1983, 1984, and 1985.”

@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2326e"
+description: "Non-Federal interest dredging authority"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2326e"
+citation: "33 U.S.C. § 2326e"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2326e"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "3bec011f2c8d1e0f7ae25791628178614cb0b692beab0b11d129fa1bede1e77a"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "6140efd0bfdff17af98ecc11f73b779b418638407e2eafaffbf5c6fb3c0ef9f2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2326e - Non-Federal interest dredging authority
+
+## Text
+
+(a) In general The Secretary may permit a non-Federal interest to carry out, for an authorized navigation project (or a separable element of an authorized navigation project), such maintenance activities as are necessary to ensure that the project is maintained to not less than the minimum project dimensions.
+
+(b) Cost limitations Except as provided in this section and subject to the availability of appropriations, the costs incurred by a non-Federal interest in performing the maintenance activities described in subsection (a) shall be eligible for reimbursement, not to exceed an amount that is equal to the estimated Federal cost for the performance of the maintenance activities, with any reimbursement subject to the non-Federal interest complying with all Federal laws and regulations that would apply to such maintenance activities if carried out by the Secretary.
+
+(c) Agreement Before initiating maintenance activities under this section, a non-Federal interest shall enter into an agreement with the Secretary that specifies, for the performance of the maintenance activities, the terms and conditions that are acceptable to the non-Federal interest and the Secretary.
+
+(d) Provision of equipment In carrying out maintenance activities under this section, a non-Federal interest shall—
+
+(1) provide equipment at no cost to the Federal Government; and
+
+(2) hold and save the United States free from any and all damage that arises from the use of the equipment of the non-Federal interest, except for damage due to the fault or negligence of a contractor of the Federal Government.
+
+(e) Reimbursement eligibility limitations Costs that are eligible for reimbursement under this section are the costs of maintenance activities directly related to the costs associated with operation and maintenance of a dredge based on the lesser of—
+
+(1) the costs associated with operation and maintenance of the dredge during the period of time that the dredge is being used in the performance of work for the Federal Government during a given fiscal year; or
+
+(2) the actual fiscal year Federal appropriations that are made available for the portion of the maintenance activities for which the dredge was used.
+
+(f) Audit Not earlier than 5 years after December 16, 2016, the Secretary may conduct an audit on any maintenance activities for an authorized navigation project (or a separable element of an authorized navigation project) carried out under this section to determine if permitting a non-Federal interest to carry out maintenance activities under this section has resulted in—
+
+(1) improved reliability and safety for navigation; and
+
+(2) cost savings to the Federal Government.
+
+(g) Termination of authority The authority of the Secretary under this section terminates on the date that is 10 years after December 16, 2016.
+
+(Pub. L. 114–322, title I, § 1113, Dec. 16, 2016, 130 Stat. 1637.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.

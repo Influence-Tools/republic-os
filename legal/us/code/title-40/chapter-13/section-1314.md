@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "40 U.S.C. § 1314"
+description: "Easements"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 40
+title_name: "PUBLIC BUILDINGS, PROPERTY, AND WORKS"
+chapter_number: "13"
+chapter_name: "PUBLIC PROPERTY"
+section: "1314"
+citation: "40 U.S.C. § 1314"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc40@119-100.zip"
+source_identifier: "/us/usc/t40/s1314"
+source_file: "data/legal/raw/us/code/title-40/usc40.xml"
+source_hash: "fb9061664f28a4beaf9d801a8e99d863471bfe48e3eb3eeee3b488a7e42c2210"
+raw_snapshot_hash: "9e671d5f37f9148634c9ba568a4c16d4864b567130b66bcf607f680414560a29"
+text_hash: "0892c8c4b9aa59326e12e4760eb11d89de699f72f4be9c1b75764712fc2d6c18"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 40 U.S.C. § 1314 - Easements
+
+## Text
+
+(a) Definitions.— In this section—
+
+(1) Executive agency.— The term “executive agency” means an executive department or independent establishment in the executive branch of the Federal Government, including a wholly owned Government corporation.
+
+(2) Real property of the government.— The term “real property of the Government” excludes—
+
+(A) public land (including minerals, vegetative, and other resources) in the United States, including—
+
+(i) land reserved or dedicated for national forest purposes;
+
+(ii) land the Secretary of the Interior administers or supervises in accordance with section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54;
+
+(iii) Indian-owned trust and restricted land; and
+
+(iv) land the Government acquires primarily for fish and wildlife conservation purposes and the Secretary administers;
+
+(B) land withdrawn from the public domain primarily under the jurisdiction of the Secretary; and
+
+(C) land acquired for national forest purposes.
+
+(3) State.— The term “State” means a State of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
+
+(b) Grant of Easement.— When a State, a political subdivision or agency of a State, or a person applies for the grant of an easement in, over, or on real property of the Government, the executive agency having control of the real property may grant to the applicant, on behalf of the Government, an easement that the head of the agency decides will not be adverse to the interests of the Government, subject to reservations, exceptions, limitations, benefits, burdens, terms, or conditions that the head of the agency considers necessary to protect the interests of the Government. The grant may be made without consideration, or with monetary or other consideration, including an interest in real property.
+
+(c) Relinquishment of Legislative Jurisdiction.— In connection with the grant of an easement, the executive agency concerned may relinquish to the State in which the real property is located legislative jurisdiction that the executive agency considers necessary or desirable. Relinquishment of legislative jurisdiction may be accomplished by filing with the chief executive officer of the State a notice of relinquishment to take effect upon acceptance or by proceeding in the manner that the laws applicable to the State may provide.
+
+(d) Termination of Easement.— (1) When termination occurs.— The instrument granting the easement may provide for termination of any part of the easement if there has been—
+
+(A) a failure to comply with a term or condition of the grant;
+
+(B) a nonuse of the easement for a consecutive 2-year period for the purpose for which granted; or
+
+(C) an abandonment of the easement.
+
+(2) Notice required.— If a termination provision is included, it shall require that written notice of the termination be given to the grantee, or its successors or assigns.
+
+(3) Effective date.— The termination is effective as of the date of the notice.
+
+(e) Additional Easement Authority.— The authority conferred by this section is in addition to, and shall not affect or be subject to, any other law under which an executive agency may grant easements.
+
+(f) Limitation on Issuance of Rights of Way.— Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this section.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1139; Pub. L. 113–287, § 5(j)(4), Dec. 19, 2014, 128 Stat. 3269.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 1314(a)40:319c.Pub. L. 87–852, Oct. 23, 1962, 76 Stat. 1129. 1314(b)40:319 (1st, 2d sentences). 1314(c)40:319 (3d, last sentences). 1314(d)40:319a. 1314(e)40:319b. 1314(f)40:319 note, 319a note, 319b note, 319c note.Pub. L. 94–579, title VII, § 706(a) (related to the Act of Oct. 23, 1962 (Pub. L. 87—852, 76 Stat. 1129)), Oct. 21, 1976, 90 Stat. 2793. In subsection (a), the text of 40:319c(c) is omitted because of 1:1. In clause (3), the words “territories and” are added for consistency in the revised title and with other titles of the United States Code. In subsection (b), the words “for a right-of-way or other purpose” are omitted as unnecessary. In subsection (c), the words “affected” and “concerned” before “a notice” are omitted as unnecessary. The words “chief executive officer” are substituted for “Governor” for clarity.
+
+Editorial Notes
+
+Amendments2014—Subsec. (a)(2)(A)(ii). Pub. L. 113–287 substituted “section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the Act of August 25, 1916 (16 U.S.C. 1, 2, 3, 4) (known as the National Park Service Organic Act)”.

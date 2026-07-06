@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 304"
+description: "Application of categorical exclusions for multimodal projects"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "3"
+chapter_name: "GENERAL DUTIES AND POWERS"
+section: "304"
+citation: "49 U.S.C. § 304"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s304"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "ad06a61f1a00d388d9d85dbd7f52948b412cb18d78f802073064485fd4836472"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "b80d9e68389f85519fe196fc79042201e3423bd9c4ef1e12173ae1a93bda9ff1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 304 - Application of categorical exclusions for multimodal projects
+
+## Text
+
+(a) Definitions.— In this section, the following definitions apply:
+
+(1) Cooperating authority.— The term “cooperating authority” means a Department of Transportation operating administration or secretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
+
+(2) Lead authority.— The term “lead authority” means a Department of Transportation operating administration or secretarial office that has the lead responsibility for compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to a proposed multimodal project.
+
+(3) Multimodal project.— The term “multimodal project” has the meaning given the term in section 139(a) of title 23.
+
+(b) Exercise of Authorities.— The authorities granted in this section may be exercised for a multimodal project, class of projects, or program of projects that are carried out under this title or title 23.
+
+(c) Application of Categorical Exclusions for Multimodal Projects.— In considering the environmental impacts of a proposed multimodal project, a lead authority may apply categorical exclusions designated under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) in implementing regulations or procedures of a cooperating authority for a proposed multimodal project, subject to the conditions that—
+
+(1) the lead authority makes a determination, with the concurrence of the cooperating authority—
+
+(A) on the applicability of a categorical exclusion to a proposed multimodal project; and
+
+(B) that the project satisfies the conditions for a categorical exclusion under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and this section;
+
+(2) the lead authority follows the implementing regulations of the cooperating authority or procedures under that Act; and
+
+(3) the lead authority determines that—
+
+(A) the proposed multimodal project does not individually or cumulatively have a significant impact on the environment; and
+
+(B) extraordinary circumstances do not exist that merit additional analysis and documentation in an environmental impact statement or environmental assessment required under that Act.
+
+(d) Cooperating Authority Expertise.— A cooperating authority shall provide expertise to the lead authority on aspects of the multimodal project in which the cooperating authority has expertise.
+
+(Pub. L. 97–449, § 1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 112–141, div. A, title I, § 1314(a), July 6, 2012, 126 Stat. 547; Pub. L. 114–94, div. A, title I, § 1310, Dec. 4, 2015, 129 Stat. 1397.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 304(a)49:1653(g) (less 3d sentence).Oct. 15, 1966, Pub. L. 89–670, § 4(g), 80 Stat. 934. 304(b)49:1653(g) (3d sentence). In subsection (a), the text of 49:1653(g) (last sentence) is omitted as executed. In subsection (a)(4), the word “ensure” is substituted for “assure” as being more precise. The words “of the United States Government” are substituted for “Federal”, and the words “United States” are substituted for “national”, for clarity and consistency. In subsection (b), the words “The Secretaries shall report on April 1 of each year” are substituted for “They shall, within one year after the effective date of the Act, and annually thereafter, report” to omit executed words and to specify the date of April 1 because the President prescribed April 1, 1967, as the effective date of the Department of Transportation Act (Pub. L. 89–670, 80 Stat. 931) by Executive Order No. 11340, March 30, 1967 (32 F.R. 5443). The word “consider” is substituted for “determine” for consistency.
+
+Editorial Notes
+
+References in TextThe National Environmental Policy Act of 1969, referred to in subsecs. (a)(2) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+Amendments2015—Subsec. (a)(1). Pub. L. 114–94, § 1310(1)(A), substituted “operating administration or secretarial office that has expertise but” for “operating authority that” and inserted “proposed multimodal” after “with respect to a”. Subsec. (a)(2). Pub. L. 114–94, § 1310(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘lead authority’ means a Department of Transportation operating administration or secretarial office that— “(A) is the lead authority over a proposed multimodal project; and “(B) has determined that the components of the project that fall under the modal expertise of the lead authority— “(i) satisfy the conditions for a categorical exclusion under implementing regulations or procedures of the lead authority under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and “(ii) do not require the preparation of an environmental assessment or environmental impact statement under that Act.” Subsec. (b). Pub. L. 114–94, § 1310(2), inserted “or title 23” after “under this title”. Subsec. (c). Pub. L. 114–94, § 1310(3), added subsec. (c) and struck out former subsec. (c) which related to application of categorical exclusions for multimodal projects. Subsec. (d). Pub. L. 114–94, § 1310(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “(1) In general.—A cooperating authority shall provide modal expertise to the lead authority on such aspects of the multimodal project in which the cooperating authority has expertise. “(2) Use of categorical exclusion.—In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and this section.” 2012–Pub. L. 112–141 amended section generally. Prior to amendment, section related to joint activities with the Secretary of Housing and Urban Development.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+Effective Date of 2012 AmendmentAmendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.

@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 521"
+description: "Publication and distribution of opinions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "31"
+chapter_name: "THE ATTORNEY GENERAL"
+section: "521"
+citation: "28 U.S.C. § 521"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s521"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "97026543523e3c85867ff3ea84fef779f3969f558b751cb2cec27a66d88bd229"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "33fa7e458b9ccdbaf2de63d0f4dc3eb6b31fede74e2bfe872f9795420fe6d0a4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 521 - Publication and distribution of opinions
+
+## Text
+
+The Attorney General, from time to time—
+
+(1) shall cause to be edited, and printed in the Government Publishing Office, such of his opinions as he considers valuable for preservation in volumes; and
+
+(2) may prescribe the manner for the distribution of the volumes.
+
+Each volume shall contain headnotes, an index, and such footnotes as the Attorney General may approve.
+
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 614; amended Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+## Notes
+
+Historical and Revision Notes DerivationU.S. CodeRevised Statutes andStatutes at Large  5 U.S.C. 305 (1st sentence, as applicable to the Attorney General; 2d and 3d sentences).R.S. § 383 (1st sentence, as applicable to the Attorney General; 2d and 3d sentences). Section 188 of the Revised Statutes was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed. The words “his opinions” are substituted for “the opinions of the law officers herein authorized to be given” as the opinions of the Attorney General are his and only his and the reference to other “law officers” is misleading. All functions of all other officers of the Department of Justice were transferred to the Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 14, 1950, 64 Stat. 1261. The word “considers” is substituted for “may deem”. In the last sentence, the words “proper” and “complete and full” are omitted as unnecessary.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name “Government Publishing Office” substituted for “Government Printing Office” in par. (1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+Review for Official Publication of Opinions of the Office of Legal Counsel of the Department of Justice Concerning Intelligence ActivitiesPub. L. 113–126, title III, § 322, July 7, 2014, 128 Stat. 1400, provided that: “(a) Process for Review for Official Publication.—Not later than 180 days after the date of the enactment of this Act [July 7, 2014], the Attorney General shall, in coordination with the Director of National Intelligence, establish a process for the regular review for official publication of significant opinions of the Office of Legal Counsel of the Department of Justice that have been provided to an element of the intelligence community. “(b) Factors.—The process of review of opinions established under subsection (a) shall include consideration of the following:“(1) The potential importance of an opinion to other agencies or officials in the Executive branch. “(2) The likelihood that similar questions addressed in an opinion may arise in the future. “(3) The historical importance of an opinion or the context in which it arose. “(4) The potential significance of an opinion to the overall jurisprudence of the Office of Legal Counsel. “(5) Such other factors as the Attorney General and the Director of National Intelligence consider appropriate. “(c) Presumption.—The process of review established under subsection (a) shall apply a presumption that significant opinions of the Office of Legal Counsel should be published when practicable, consistent with national security and other confidentiality considerations. “(d) Construction.—Nothing in this section shall require the official publication of any opinion of the Office of Legal Counsel, including publication under any circumstance as follows:“(1) When publication would reveal classified or other sensitive information relating to national security. “(2) When publication could reasonably be anticipated to interfere with Federal law enforcement efforts or is prohibited by law. “(3) When publication would conflict with preserving internal Executive branch deliberative processes or protecting other information properly subject to privilege. “(e) Requirement To Provide Classified Opinions to Congress.—“(1) In general.—Any opinion of the Office of Legal Counsel that would have been selected for publication under the process of review established under subsection (a) but for the fact that publication would reveal classified or other sensitive information relating to national security shall be provided or made available to the appropriate committees of Congress. “(2) Exception for covert action.—If the President determines that it is essential to limit access to a covert action finding under section 503(c)(2) of the National Security Act of 1947 (50 U.S.C. 3093(c)(2)), the President may limit access to information concerning such finding that would otherwise be provided or made available under this subsection to those members of Congress who have been granted access to such finding under such section 503(c)(2). “(f) Judicial Review.—The determination whether an opinion of the Office of Legal Counsel is appropriate for official publication under the process of review established under subsection (a) is discretionary and is not subject to judicial review.” [For definition of “intelligence community” as used in section 322 of Pub. L. 113–126, set out above, see section 2 of Pub. L. 113–126, set out as a note under section 3003 of Title 50, War and National Defense.]

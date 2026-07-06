@@ -1,0 +1,113 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 5103"
+description: "Major acquisitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "51"
+chapter_name: "REPORTS"
+section: "5103"
+citation: "14 U.S.C. § 5103"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s5103"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "5c84da142255700dc619ea91d197dc8ccc5a938c82b4054956a8df5c9726df5e"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "1262cbe234b76ba6462e993714d1124d766ee3031631a4ff3d90c95805423734"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 5103 - Major acquisitions
+
+## Text
+
+(a) In General.— In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all Level 1 acquisitions or Level 2 acquisitions.
+
+(b) Information To Be Included.— Each report under subsection (a) shall include for each Level 1 acquisition or Level 2 acquisition—
+
+(1) a statement of the Coast Guard’s mission needs and performance goals relating to such program, including a justification for any change to those needs and goals subsequent to a report previously submitted under this section;
+
+(2) a justification explaining how the projected number and capabilities of assets acquired under such program meet applicable mission needs and performance goals;
+
+(3) an identification of any and all mission hour gaps, accompanied by an explanation of how and when the Coast Guard will close those gaps;
+
+(4) an identification of any changes with respect to such program, including—
+
+(A) any changes to the timeline for the acquisition of each new asset and the phaseout of legacy assets; and
+
+(B) any changes to—
+
+(i) the costs of new assets or legacy assets for that fiscal year or future fiscal years; or
+
+(ii) the total acquisition cost;
+
+(5) a justification explaining how any change to such program fulfills the mission needs and performance goals of the Coast Guard;
+
+(6) a description of how the Coast Guard is planning for the integration of each new asset acquired under such program into the Coast Guard, including needs related to shore-based infrastructure and human resources;
+
+(7) an identification of how funds in the applicable fiscal year’s budget request will be allocated, including information on the purchase of specific assets;
+
+(8) a projection of the remaining operational lifespan and life-cycle cost of each legacy asset that also identifies any anticipated resource gaps;
+
+(9) a detailed explanation of how the costs of legacy assets are being accounted for within such program; and
+
+(10) an annual performance comparison of new assets to legacy assets.
+
+(c) Adequacy of Acquisition Workforce.— Each report under subsection (a) shall—
+
+(1) include information on the scope of the acquisition activities to be performed in the next fiscal year and on the adequacy of the current acquisition workforce to meet that anticipated workload;
+
+(2) specify the number of officers, members, and employees of the Coast Guard currently and planned to be assigned to each position designated under section 1102(c); 11 See References in Text note below. and
+
+(3) identify positions that are or will be understaffed and actions that will be taken to correct such understaffing.
+
+(d) Cutters Not Maintained in Class.— Each report under subsection (a) shall identify which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
+
+(e) Long-term Major Acquisitions Plan.— Each report under subsection (a) shall include a plan that describes for the upcoming fiscal year, and for each of the 20 fiscal years thereafter—
+
+(1) the numbers and types of cutters and aircraft to be decommissioned;
+
+(2) the numbers and types of cutters and aircraft to be acquired to—
+
+(A) replace the cutters and aircraft identified under paragraph (1); or
+
+(B) address an identified capability gap; and
+
+(3) the estimated level of funding in each fiscal year required to—
+
+(A) acquire the cutters and aircraft identified under paragraph (2);
+
+(B) operate and sustain the cutters and aircraft described in paragraph (2);
+
+(C) acquire related command, control, communications, computer, intelligence, surveillance, and reconnaissance systems; and
+
+(D) acquire, construct, or renovate shoreside infrastructure.
+
+(f) Definitions.— In this section:
+
+(1) Level 1 acquisition.— The term “Level 1 acquisition” has the meaning given such term in section 1171.
+
+(2) Level 2 acquisition.— The term “Level 2 acquisition” has the meaning given such term in section 1171.
+
+(Added Pub. L. 112–213, title II, § 210(a), Dec. 20, 2012, 126 Stat. 1550, § 569a; renumbered § 2903 and amended Pub. L. 114–120, title I, § 101(d)(3), title II, § 204(e), Feb. 8, 2016, 130 Stat. 31, 35; Pub. L. 115–232, div. C, title XXXV, § 3526(c), Aug. 13, 2018, 132 Stat. 2317; renumbered § 5103 and amended Pub. L. 115–282, title I, §§ 122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8214, Jan. 1, 2021, 134 Stat. 4650; Pub. L. 119–60, div. G, title LXXI, § 7112(a), Dec. 18, 2025, 139 Stat. 1666.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1102(c), referred to in subsec. (c)(2), was, prior to amendment of this section by Pub. L. 115–282, a reference to section 562(c) of this title, which was redesignated as section 562(b) by Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333. Section 562 of this title was renumbered section 1102 of this title by Pub. L. 115–282, title I, § 108(b)(2), Dec. 4, 2018, 132 Stat. 4208.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 7112(a)(1), substituted “Level 1 acquisitions or Level 2 acquisitions” for “major acquisition programs”. Subsec. (b). Pub. L. 119–60, § 7112(a)(2), substituted “Level 1 acquisition or Level 2 acquisition” for “major acquisition program” in introductory provisions. Subsec. (f). Pub. L. 119–60, § 7112(a)(3), amended subsec. (f) generally. Prior to amendment, text read as follows: “In this section, the term ‘major acquisition program’ means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.” 2021—Subsec. (e)(3)(B) to (D). Pub. L. 116–283 added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively. 2018—Pub. L. 115–282, § 122(b), renumbered section 2903 of this title as this section. Subsec. (c)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 1102(c)” for “section 562(c)”. Subsecs. (f), (g). Pub. L. 115–232 redesignated subsec. (g) as (f) and struck out former subsec. (f) which required quarterly updates on risks of programs. 2016—Pub. L. 114–120, § 101(d)(3)(A), (B), renumbered section 569a of this title as this section. Subsec. (c)(2). Pub. L. 114–120, § 101(d)(3)(C), struck out “of this subchapter” after “section 562(c)”. Subsecs. (e) to (g). Pub. L. 114–120, § 204(e), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+
+Statutory Notes and Related Subsidiaries
+
+Additional SubmissionsCommandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives each plan required under subsection (e) of this section, see section 101(f) of Pub. L. 114–120, set out as a note under section 5110 of this title.

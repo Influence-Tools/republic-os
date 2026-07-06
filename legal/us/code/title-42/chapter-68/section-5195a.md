@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 5195a"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "68"
+chapter_name: "DISASTER RELIEF"
+section: "5195a"
+citation: "42 U.S.C. § 5195a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s5195a"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "9c180ddf0786c22a800925b2eecaf6bbad5920ed5bb96d82e645d0797b6442f8"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "2819c8defa620c9d80cb22550a0b4218f6a6aea0f46f652e61e621cc8d3aac42"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 5195a - Definitions
+
+## Text
+
+(a) Definitions For purposes of this subchapter only:
+
+(1) Hazard The term “hazard” means an emergency or disaster resulting from—
+
+(A) a natural disaster; or
+
+(B) an accidental or man-caused event.
+
+(2) Natural disaster The term “natural disaster” means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, or other catastrophe in any part of the United States which causes, or which may cause, substantial damage or injury to civilian property or persons.
+
+(3) Emergency preparedness The term “emergency preparedness” means all those activities and measures designed or undertaken to prepare for or minimize the effects of a hazard upon the civilian population, to deal with the immediate emergency conditions which would be created by the hazard, and to effectuate emergency repairs to, or the emergency restoration of, vital utilities and facilities destroyed or damaged by the hazard. Such term includes the following:
+
+(A) Measures to be undertaken in preparation for anticipated hazards (including the establishment of appropriate organizations, operational plans, and supporting agreements, the recruitment and training of personnel, the conduct of research, the procurement and stockpiling of necessary materials and supplies, the provision of suitable warning systems, the construction or preparation of shelters, shelter areas, and control centers, and, when appropriate, the non-military evacuation of the civilian population).
+
+(B) Measures to be undertaken during a hazard (including the enforcement of passive defense regulations prescribed by duly established military or civil authorities, the evacuation of personnel to shelter areas, the control of traffic and panic, and the control and use of lighting and civil communications).
+
+(C) Measures to be undertaken following a hazard (including activities for fire fighting, rescue, emergency medical, health and sanitation services, monitoring for specific dangers of special weapons, unexploded bomb reconnaissance, essential debris clearance, emergency welfare measures, and immediately essential emergency repair or restoration of damaged vital facilities).
+
+(4) Organizational equipment The term “organizational equipment” means equipment determined by the Administrator to be necessary to an emergency preparedness organization, as distinguished from personal equipment, and of such a type or nature as to require it to be financed in whole or in part by the Federal Government. Such term does not include those items which the local community normally uses in combating local disasters, except when required in unusual quantities dictated by the requirements of the emergency preparedness plans.
+
+(5) Materials The term “materials” includes raw materials, supplies, medicines, equipment, component parts and technical information and processes necessary for emergency preparedness.
+
+(6) Facilities The term “facilities”, except as otherwise provided in this subchapter, includes buildings, shelters, utilities, and land.
+
+(7) Administrator The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+(8) Neighboring countries The term “neighboring countries” includes Canada and Mexico.
+
+(9) United States and States The terms “United States” and “States” includes 11 So in original. Probably should be “include”. the several States, the District of Columbia, and territories and possessions of the United States.
+
+(10) State The term “State” includes interstate emergency preparedness authorities established under section 5196(h) of this title.
+
+(b) Cross reference The terms “national defense” and “defense,” 22 So in original. The comma probably should follow the closing quotation marks. as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),33 See References in Text note below. includes 1 emergency preparedness activities conducted pursuant to this subchapter.
+
+(Pub. L. 93–288, title VI, § 602, as added Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3), Oct. 5, 1994, 108 Stat. 3101; amended Pub. L. 111–351, § 3(c), Jan. 4, 2011, 124 Stat. 3864.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+Prior ProvisionsProvisions similar to those in this section were contained in sections 2252 and 2282 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+
+Amendments2011—Subsec. (a)(4). Pub. L. 111–351, § 3(c)(2), substituted “Administrator” for “Director”. Subsec. (a)(7). Pub. L. 111–351, § 3(c)(1), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘Director’ means the Director of the Federal Emergency Management Agency.”
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security. For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.

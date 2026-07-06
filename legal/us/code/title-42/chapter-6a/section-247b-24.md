@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 247b–24"
+description: "Addressing factors related to improving health outcomes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "247b–24"
+citation: "42 U.S.C. § 247b–24"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s247b–24"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "41aa77f572b6f5d243bad98449d1965310caba0421f7f2434fb7a366c5464570"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "69299c725ee65697817fd95312d868cc19f52f284f0f37ba5a88ad2d6ad9eaa9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 247b–24 - Addressing factors related to improving health outcomes
+
+## Text
+
+(a) In general The Secretary may, as appropriate, award grants, contracts, or cooperative agreements to eligible entities for the conduct of evidence-based or evidence-informed projects, which may include the development of networks to improve health outcomes by improving the capacity of such entities to address factors that contribute to negative health outcomes in communities.
+
+(b) Eligible entities To be eligible to receive an award under this section, an entity shall—
+
+(1) (A) be a State, local, or Tribal health department, community-based organization, Indian Tribe or Tribal organization (as such terms are defined in section 5304 of title 25), urban Indian organization (as defined in section 1603 of title 25), or other public or private entity, as the Secretary determines appropriate; or
+
+(B) be a consortia of entities described in subparagraph (A) or a public-private partnership, including a community partnership;
+
+(2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall require;
+
+(3) in the case of an entity other than a community-based organization, demonstrate a history of successfully working with an established community-based organization to address health outcomes; and
+
+(4) submit a plan to conduct activities described in subsection (a) based on a community needs assessment that takes into account community input.
+
+(c) Use of funds An entity described in subsection (b) shall use funds received under subsection (a), in consultation with State, local, and Tribal health departments, community-based organizations, entities serving medically underserved communities, and other entities, as applicable, for one or more of the following purposes:
+
+(1) Supporting the implementation, evaluation, and dissemination of strategies, through evidence-informed or evidence-based programs and through the support and use of public health and health care professionals to address factors related to health outcomes.
+
+(2) Establishing, maintaining, or improving, in consultation with State, local, or Tribal health departments, technology platforms or networks to support, in a manner that is consistent with applicable Federal and State privacy law—
+
+(A) coordination among appropriate entities, and, as applicable and appropriate, activities to improve such coordination;
+
+(B) information sharing on health and related social services; and
+
+(C) technical assistance and related support for entities participating in the platforms or networks.
+
+(3) Implementing best practices for improving health outcomes and reducing disease among underserved populations.
+
+(4) Supporting consideration of factors related to health outcomes in preparing for, and responding to, public health emergencies, through outreach, education, research, and other relevant activities.
+
+(d) Best practices and technical assistance The Secretary, in consultation with the Director of the Office of Minority Health, the National Coordinator for Health Information Technology, and the Administrator of the Administration for Community Living, may award grants, contracts, and cooperative agreements to public or nonprofit private entities, including minority serving institutions (defined, for purposes of this subsection, as institutions and programs described in section 1063b(e)(1) of title 20 and institutions described in section 1067q(a) of title 20), to—
+
+(1) identify or facilitate the development of best practices to support improved health outcomes for underserved populations;
+
+(2) provide technical assistance, training, and evaluation assistance to award recipients under subsection (a);
+
+(3) disseminate best practices, including to award recipients under subsection (a); and
+
+(4) leverage, establish, or operate regional centers to develop, evaluate, and disseminate effective strategies on factors related to health outcomes, including supporting research and training related to such strategies.
+
+(e) Award periods The Secretary shall issue awards under this section for periods of not more than 5 years and may issue extensions of such award periods for an additional period of up to 3 years.
+
+(f) Report Not later than September 30, 2026, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that includes information on activities funded under this section. Such report shall include a description of—
+
+(1) changes in the capacity of public health entities to address factors related to health outcomes in communities, including any applicable platforms or networks developed or utilized to coordinate health and related social services and any changes in workforce capacity or capabilities;
+
+(2) improvements in health outcomes and in reducing health disparities in medically underserved communities;
+
+(3) activities conducted to support consideration of factors related to health outcomes in preparing for, and responding to, public health emergencies, through outreach, education, and other relevant activities;
+
+(4) communities and populations served by recipients of awards under subsection (a);
+
+(5) activities supported under subsection (e); and
+
+(6) other relevant activities and outcomes, as determined by the Secretary.
+
+(g) Authorization of appropriations To carry out this section, there are authorized to be appropriated $35,000,000 for each of fiscal years 2023 through 2027. Of the amounts appropriated under this subsection for a fiscal year, 5 percent shall be reserved for awards under subsection (a) to Indian Tribes and Tribal organizations (as such terms are defined in section 5304 of title 25), urban Indian organizations (as defined in section 1603 of title 25), and Tribal health departments.
+
+(July 1, 1944, ch. 373, title III, § 317V, as added Pub. L. 117–328, div. FF, title II, § 2201(a)(1), Dec. 29, 2022, 136 Stat. 5727.)

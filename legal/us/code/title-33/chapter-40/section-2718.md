@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2718"
+description: "Relationship to other law"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "40"
+chapter_name: "OIL POLLUTION"
+section: "2718"
+citation: "33 U.S.C. § 2718"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2718"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "ee943f136e73d06f2c9075fd4e62af1fdd038eff18ffb91a880391d7d91f0f2e"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "baa006aaabad39d0630047390649d2cc62538b375286ba3fa1f6d570c31c25b3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2718 - Relationship to other law
+
+## Text
+
+(a) Preservation of State authorities; Solid Waste Disposal Act Nothing in this Act or the Act of March 3, 1851 shall—
+
+(1) affect, or be construed or interpreted as preempting, the authority of any State or political subdivision thereof from imposing any additional liability or requirements with respect to—
+
+(A) the discharge of oil or other pollution by oil within such State; or
+
+(B) any removal activities in connection with such a discharge; or
+
+(2) affect, or be construed or interpreted to affect or modify in any way the obligations or liabilities of any person under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) or State law, including common law.
+
+(b) Preservation of State funds Nothing in this Act or in section 9509 of title 26 shall in any way affect, or be construed to affect, the authority of any State—
+
+(1) to establish, or to continue in effect, a fund any purpose of which is to pay for costs or damages arising out of, or directly resulting from, oil pollution or the substantial threat of oil pollution; or
+
+(2) to require any person to contribute to such a fund.
+
+(c) Additional requirements and liabilities; penalties Nothing in this Act, chapter 305 of title 46, or section 9509 of title 26, shall in any way affect, or be construed to affect, the authority of the United States or any State or political subdivision thereof—
+
+(1) to impose additional liability or additional requirements; or
+
+(2) to impose, or to determine the amount of, any fine or penalty (whether criminal or civil in nature) for any violation of law;
+
+relating to the discharge, or substantial threat of a discharge, of oil.
+
+(d) Federal employee liability For purposes of section 2679(b)(2)(B) of title 28, nothing in this Act shall be construed to authorize or create a cause of action against a Federal officer or employee in the officer’s or employee’s personal or individual capacity for any act or omission while acting within the scope of the officer’s or employee’s office or employment.
+
+(Pub. L. 101–380, title I, § 1018, Aug. 18, 1990, 104 Stat. 505; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(6), Dec. 18, 2025, 139 Stat. 1836.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables. Act of March 3, 1851, referred to in subsec. (a), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§ 4282, 4283, 4284 to 4287 and 4289, and was classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping, prior to being repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46. The Solid Waste Disposal Act, referred to in subsec. (a)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 substituted “chapter 305 of title 46” for “the Act of March 3, 1851 (46 U.S.C. 183 et seq.)” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Report on Vessel Safety and Ability To Meet Legal ObligationsPub. L. 102–241, § 32, Dec. 19, 1991, 105 Stat. 2222, provided that: “Not later than one year after the date of enactment of this Act [Dec. 19, 1991], the Secretary of Transportation shall report to Congress on the effect of section 1018 of the Oil Pollution Act of 1990 (Public Law 101–380; 104 Stat. 484) [33 U.S.C. 2718] on the safety of vessels being used to transport oil and the capability of owners and operators to meet their legal obligations in the event of an oil spill.”

@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2734c"
+description: "Employee assignment restrictions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "38"
+chapter_name: "DEPARTMENT OF STATE"
+section: "2734c"
+citation: "22 U.S.C. § 2734c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2734c"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "9b59e438c62ac55aae7f44da17ce82b7f2a7527d91456777df80d12b0b0429ac"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "898b7844e852759a85d088682f2d98f63ba0764bd34201b5908dea89a4842b7f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2734c - Employee assignment restrictions
+
+## Text
+
+(a) Appeal of assignment restriction The Secretary shall establish and maintain a right and process for employees to appeal a decision related to an assignment, based on a restriction, review, or preclusion. Such right and process shall ensure that any such employee shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.
+
+(b) Certification Upon full implementation of a right and process for employees to appeal an assignment restriction or preclusion under subsection (a), the Secretary shall submit to the appropriate congressional committee 11 So in original. Probably should be “committees”. a report that—
+
+(1) certifies that such process has been fully implemented;
+
+(2) includes a detailed description of such process; and
+
+(3) details the number and nature of assignment restrictions and preclusions for the previous 3 years.
+
+(c) Notice The Secretary shall—
+
+(1) publish in the Foreign Affairs Manual information relating to the right and process established pursuant to subsection (a); and
+
+(2) include a reference to such publication in the report required under subsection (b).
+
+(Pub. L. 114–323, title IV, § 414, Dec. 16, 2016, 130 Stat. 1932; Pub. L. 117–81, div. E, title LIII, § 5311(b), Dec. 27, 2021, 135 Stat. 2364; Pub. L. 118–31, div. F, title LXI, § 6115(f), Dec. 22, 2023, 137 Stat. 970.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section is comprised of section 414 of Pub. L. 114–323. Subsec. (d) of section 414 of Pub. L. 114–323 amended section 3982 of this title.
+
+Amendments2023—Subsec. (a). Pub. L. 118–31 substituted “The Secretary shall establish and maintain a right and process for employees to appeal a decision related to an assignment, based on a restriction, review, or preclusion. Such right and process shall ensure that any such employee shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance.” for “The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion. Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance.” 2021—Subsec. (a). Pub. L. 117–81 inserted at end “Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.”
+
+Statutory Notes and Related Subsidiaries
+
+Notice and CertificationPub. L. 117–81, div. E, title LIII, § 5311(c), Dec. 27, 2021, 135 Stat. 2364, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary shall revise, and certify to the appropriate congressional committees regarding such revision, the Foreign Affairs Manual guidance regarding denial or revocation of a security clearance to expressly state that all review and appeal rights relating thereto shall also apply to any recommendation or decision to impose an assignment restriction or preclusion to an employee.” [For definitions of “Secretary” and “appropriate congressional committees” as used in section 5311(c) of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.]
+
+Definitions For definitions of “Secretary”, “Department”, and “appropriate congressional committee[s]” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under section 2651 of this title.

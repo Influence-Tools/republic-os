@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "31 U.S.C. § 1513"
+description: "Officials controlling apportionments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 31
+title_name: "MONEY AND FINANCE"
+chapter_number: "15"
+chapter_name: "APPROPRIATION ACCOUNTING"
+section: "1513"
+citation: "31 U.S.C. § 1513"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc31@119-100.zip"
+source_identifier: "/us/usc/t31/s1513"
+source_file: "data/legal/raw/us/code/title-31/usc31.xml"
+source_hash: "a5713d6276ddcb80f25827dae7e9ee1407db7c81f2160859859320cf76acd108"
+raw_snapshot_hash: "94d3fba324cbbc12277242f872f8f47cff5250dbcdc0057fe857212764e4b704"
+text_hash: "9a400f53d375a265e3a1f8241828780a464eeaa8582f3ebe16d29ff2766857fa"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 31 U.S.C. § 1513 - Officials controlling apportionments
+
+## Text
+
+(a) The official having administrative control of an appropriation available to the legislative branch, the judicial branch, the United States International Trade Commission, or the District of Columbia government that is required to be apportioned under section 1512 of this title shall apportion the appropriation in writing. An appropriation shall be apportioned not later than the later of the following:
+
+(1) 30 days before the beginning of the fiscal year for which the appropriation is available; or
+
+(2) 30 days after the date of enactment of the law by which the appropriation is made available.
+
+(b) (1) The President shall apportion in writing an appropriation available to an executive agency (except the Commission) that is required to be apportioned under section 1512 of this title. The head of each executive agency to which the appropriation is available shall submit to the President information required for the apportionment in the form and the way and at the time specified by the President. The information shall be submitted not later than the later of the following:
+
+(A) 40 days before the beginning of the fiscal year for which the appropriation is available; or
+
+(B) 15 days after the date of enactment of the law by which the appropriation is made available.
+
+(2) The President shall notify the head of the executive agency of the action taken in apportioning the appropriation under paragraph (1) of this subsection not later than the later of the following:
+
+(A) 20 days before the beginning of the fiscal year for which the appropriation is available; or
+
+(B) 30 days after the date of enactment of the law by which the appropriation is made available.
+
+(c) By the first day of each fiscal year, the head of each executive department of the United States Government shall apportion among the major organizational units of the department the maximum amount to be expended by each unit during the fiscal year out of each contingent fund appropriated for the entire year for the department. Each amount may be changed during the fiscal year only by written direction of the head of the department. The direction shall state the reasons for the change.
+
+(d) An appropriation apportioned under this subchapter may be divided and subdivided administratively within the limits of the apportionment.
+
+(e) This section does not affect the initiation and operation of agricultural price support programs.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 930.)
+
+## Notes
+
+Historical and Revision Notes Revised SectionSource (U.S. Code)Source (Statutes at Large) 1513(a)31:665(d)(1).R.S. § 3679(d)(1), (2)(1st–4th sentences, 6th sentence 1st–22d words), (g)(1st sentence); Mar. 3, 1905, ch. 1484, § 4(1st par.), 33 Stat. 1257; Feb. 27, 1906, ch. 510, § 3, 34 Stat. 48; restated Sept. 6, 1950, ch. 896, § 1211, 64 Stat. 766, 767; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085; Jan. 3, 1975, Pub. L. 93–618, § 175(a)(2), 88 Stat. 2011. 1513(b)31:665(d)(2)(1st–4th sentences). 1513(c)31:669(words before semicolon).Aug. 23, 1912, ch. 350, § 6(words before semicolon), 37 Stat. 414. 1513(d)31:665(g)(1st sentence). 1513(e)31:665(d)(2)(6th sentence 1st–22d words). In the section, the word “apportion” is substituted for “apportionment or reapportionment” because of section 1512(a)(last sentence) of the revised title. In subsection (a), before clause (1), the word “official” is substituted for “officer” for consistency in the revised title. The words “judicial branch” are substituted for “judiciary”, and the words “District of Columbia government” are substituted for “District of Columbia”, for consistency. In subsection (b), the word “President” is substituted for “Director of the Office of Management and Budget”, “Office of Management and Budget”, and “Director” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. In subsection (b)(1), the words “(except the Commission)” are added because the International Trade Commission is covered specifically by the source provisions restated in subsection (a). In subsection (b)(2), the words “head of the executive agency” are substituted for “agency” as being more precise and because of section 102 of the revised title. In subsection (c), the words “In addition to the apportionment required by section 665 of this title” are omitted as unnecessary because of the restatement. The words “By the first day” are substituted for “on or before the beginning”, and the words “of the United States Government” are added, for clarity. The words “major organizational unit” are substituted for “office or bureau” for consistency in the revised section. The word “changed” is substituted for “increased or diminished” to eliminate unnecessary words. In subsection (e), the words “initiation and operation” are substituted for “initiation, operation, and administration” to eliminate unnecessary words.
+
+Statutory Notes and Related Subsidiaries
+
+Automated System for Posting Appropriation Apportionment DocumentsPub. L. 117–328, div. E, title II, § 204, Dec. 29, 2022, 136 Stat. 4667, provided that: “In fiscal year 2023 and each fiscal year thereafter—(1) the Office of Management and Budget shall operate and maintain the automated system required to be implemented by section 204 of the Financial Services and General Government Appropriations Act, 2022 (division E of Public Law 117–103) [see section 204(b) set out below] and shall continue to post each document apportioning an appropriation, pursuant to section 1513(b) of title 31, United States Code, including any associated footnotes, in a format that qualifies each such document as an open Government data asset (as that term is defined in section 3502 of title 44, United States Code); and (2) the requirements specified in subsection (c), the first and second provisos of subsection (d)(1), and subsection (d)(2) of such section 204 [136 Stat. 257] shall continue to apply.” Pub. L. 117–103, div. E, title II, § 204, Mar. 15, 2022, 136 Stat. 256, provided that: “(a) Beginning not later than 10 days after the date of enactment of this Act [Mar, 15, 2022] and until the requirements of subsection (b) are completed, the Office of Management and Budget shall provide to the Committees on Appropriations and the Budget of the House of Representatives and the Senate each document apportioning an appropriation, pursuant to section 1513(b) of title 31, United States Code, approved by the Office of Management and Budget, including any associated footnotes, not later than 2 business days after the date of approval of such apportionment by the Office of Management and Budget. “(b) Not later than 120 days after the date of enactment of this Act, the Office of Management and Budget shall complete implementation of an automated system to post each document apportioning an appropriation, pursuant to section 1513(b) of title 31, United States Code, including any associated footnotes, in a format that qualifies each such document as an Open Government Data Asset (as defined in section 3502 of title 44, United States Code), not later than 2 business days after the date of approval of such apportionment, and shall place on such website each document apportioning an appropriation, pursuant to such section 1513(b), including any associated footnotes, already approved the current fiscal year, and shall report the date of completion of such requirements to the Committees on Appropriations and the Budget of the House of Representatives and Senate. “(c) Each document apportioning an appropriation pursuant to section 1513(b) of title 31, United States Code, that is posted on a publicly accessible website pursuant to such section shall also include a written explanation by the official approving each such apportionment stating the rationale for any footnotes for apportioned amounts: Provided, That the Office of Management and Budget or the applicable department or agency shall make available classified documentation referenced in any apportionment at the request of the chair or ranking member of any appropriate congressional committee or subcommittee. “(d)(1) Not later than 15 days after the date of enactment of this Act, any delegation of apportionment authority pursuant to section 1513(b) of title 31, United States Code, that is in effect as of such date shall be submitted for publication in the Federal Register: Provided, That any delegation of such apportionment authority after the date of enactment of this section shall, on the date of such delegation, be submitted for publication in the Federal Register: Provided further, That the Office of Management and Budget shall publish such delegations in a format that qualifies such publications as an Open Government Data Asset (as defined in section 3502 of title 44, United States Code) on a public Internet website, which shall be continuously updated with the position of each Federal officer or employee to whom apportionment authority has been delegated. “(2) Not later than 5 days after any change in the position of the approving official with respect to such delegated apportionment authority for any account is made, the Office shall submit a report to the appropriate congressional committees explaining why such change was made.”

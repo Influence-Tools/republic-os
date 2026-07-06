@@ -1,0 +1,135 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 6803"
+description: "Public participation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "87"
+chapter_name: "FEDERAL LANDS RECREATION ENHANCEMENT"
+section: "6803"
+citation: "16 U.S.C. § 6803"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s6803"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "5f18af247ff882815f08a37ff5685eec18d7c13015fb259a3e2020548e965bc3"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "5bf96c922e035372c556b4267be3e43209168198b8ef59a1bffb6865744f2282"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 6803 - Public participation
+
+## Text
+
+(a) In general As required in this section, the Secretary shall provide the public with opportunities to participate in the development of or changing of a recreation fee established under this chapter.
+
+(b) Advance notice The Secretary shall publish a notice in the Federal Register of the establishment of a new recreation fee area for each agency 6 months before establishment. The Secretary shall publish notice of a new recreation fee or a change to an existing recreation fee established under this chapter in local newspapers and publications located near the site at which the recreation fee would be established or changed.
+
+(c) Public involvement Before establishing any new recreation fee area, the Secretary shall provide opportunity for public involvement by—
+
+(1) establishing guidelines for public involvement;
+
+(2) establishing guidelines on how agencies will demonstrate on an annual basis how they have provided information to the public on the use of recreation fee revenues; and
+
+(3) publishing the guidelines in paragraphs (1) and (2) in the Federal Register.
+
+(d) Recreation Resource Advisory Committee (1) Establishment (A) Authority to establish Except as provided in subparagraphs (C) and (D), the Secretary or the Secretaries shall establish a Recreation Resource Advisory Committee in each State or region for Federal recreational lands and waters managed by the Forest Service or the Bureau of Land Management to perform the duties described in paragraph (2).
+
+(B) Number of Committees The Secretary may have as many additional Recreation Resource Advisory Committees in a State or region as the Secretary considers necessary for the effective operation of this chapter.
+
+(C) Exception The Secretary shall not establish a Recreation Resource Advisory Committee in a State if the Secretary determines, in consultation with the Governor of the State, that sufficient interest does not exist to ensure that participation on the Committee is balanced in terms of the points of view represented and the functions to be performed.
+
+(D) Use of other entities In lieu of establishing a Recreation Resource Advisory Committee under subparagraph (A), the Secretary may use a Resource Advisory Committee established pursuant to another provision of law and in accordance with that law or a recreation fee advisory board otherwise established by the Secretary to perform the duties specified in paragraph (2).
+
+(2) Duties In accordance with the procedures required by paragraph (9), a Recreation Resource Advisory Committee may make recommendations to the Secretary regarding a standard amenity recreation fee or an expanded amenity recreation fee, whenever the recommendations relate to public concerns in the State or region covered by the Committee regarding—
+
+(A) the implementation of a standard amenity recreation fee or an expanded amenity recreation fee or the establishment of a specific recreation fee site;
+
+(B) the elimination of a standard amenity recreation fee or an expanded amenity recreation fee; or
+
+(C) the expansion or limitation of the recreation fee program.
+
+(3) Meetings A Recreation Resource Advisory Committee shall meet at least annually, but may, at the discretion of the Secretary, meet as often as needed to deal with citizen concerns about the recreation fee program in a timely manner.
+
+(4) Notice of rejection If the Secretary rejects the recommendation of a Recreation Resource Advisory Committee, the Secretary shall issue a notice that identifies the reasons for rejecting the recommendation to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 30 days before the Secretary implements a decision pertaining to that recommendation.
+
+(5) Composition of the Advisory Committee (A) Number A Recreation Resource Advisory Committee shall be comprised of 12 members.
+
+(B) Nominations The Governor and the designated county official from each county in the relevant State or Region may submit a list of nominations in the categories described under subparagraph (D).
+
+(C) Appointment The Secretary may appoint members of the Recreation Resource Advisory Committee from the list as provided in subparagraph (B).
+
+(D) Broad and balanced representation In appointing the members of a Recreation Resource Advisory Committee, the Secretary shall provide for a balanced and broad representation from the recreation community that shall include the following:
+
+(i) Five persons who represent recreation users and that include, as appropriate, persons representing the following:
+
+(I) Winter motorized recreation, such as snowmobiling.
+
+(II) Winter non-motorized recreation, such as snowshoeing, cross country and down hill skiing, and snowboarding.
+
+(III) Summer motorized recreation, such as motorcycles, boaters, and off-highway vehicles.
+
+(IV) Summer nonmotorized recreation, such as backpacking, horseback riding, mountain biking, canoeing, and rafting.
+
+(V) Hunting and fishing.
+
+(ii) Four persons who represent interest groups that include, as appropriate, the following:
+
+(I) Motorized outfitters and guides.
+
+(II) Non-motorized outfitters and guides.
+
+(III) Local environmental groups.
+
+(IV) Veterans organizations, as such term is defined in section 8471 of this title.
+
+(iii) Three persons, as follows:
+
+(I) State tourism official to represent the State.
+
+(II) A person who represents affected Indian tribes.
+
+(III) A person who represents affected local government interests.
+
+(6) Term (A) Length of term The Secretary shall appoint the members of a Recreation Resource Advisory Committee for staggered terms of 2 and 3 years beginning on the date that the members are first appointed. The Secretary may reappoint members to subsequent 2- or 3-year terms.
+
+(B) Effect of vacancy The Secretary shall make appointments to fill a vacancy on a Recreation Resource Advisory Committee as soon as practicable after the vacancy has occurred.
+
+(C) Effect of unexpected vacancy Where an unexpected vacancy occurs, the Governor and the designated county officials from each county in the relevant State shall provide the Secretary with a list of nominations in the relevant category, as described under paragraph (5)(D), not later than two months after notification of the vacancy. To the extent possible, a vacancy shall be filled in the same category and term in which the original appointment was made.
+
+(7) Chairperson The chairperson of a Recreation Resource Advisory Committee shall be selected by the majority vote of the members of the Committee.
+
+(8) Quorum Six members shall constitute a quorum. A quorum must be present to constitute an official meeting of a Recreation Resource Advisory Committee.
+
+(9) Approval procedures A Recreation Resource Advisory Committee shall establish procedures for making recommendations to the Secretary. A recommendation may be submitted to the Secretary only if the recommendation is approved by a majority of the members of the Committee from each of the categories specified in paragraph (5)(D) and general public support for the recommendation is documented.
+
+(10) Compensation Members of the Recreation Resource Advisory Committee shall not receive any compensation.
+
+(11) Public participation in the Recreation Resource Advisory Committee (A) Notice of meetings All meetings of a Recreation Resource Advisory Committee shall be announced at least one week in advance in a local newspaper of record and the Federal Register, and shall be open to the public.
+
+(B) Records A Recreation Resource Advisory Committee shall maintain records of the meetings of the Recreation Resource Advisory Committee and make the records available for public inspection.
+
+(12) Chapter 10 of title 5 A Recreation Resource Advisory Committee is subject to the provisions of chapter 10 of title 5.
+
+(Pub. L. 108–447, div. J, title VIII, § 804, Dec. 8, 2004, 118 Stat. 3382; Pub. L. 117–286, § 4(a)(132), Dec. 27, 2022, 136 Stat. 4320; Pub. L. 118–234, title II, § 225, title III, § 311(c), Jan. 4, 2025, 138 Stat. 2888, 2897.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a), (b), and (d)(1)(B), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+
+Amendments2025—Subsec. (d)(5)(A). Pub. L. 118–234, § 225(1), substituted “12” for “11”. Subsec. (d)(5)(D)(ii). Pub. L. 118–234, § 225(2)(A), substituted “Four” for “Three” in introductory provisions. Subsec. (d)(5)(D)(ii)(IV). Pub. L. 118–234, § 225(2)(B), added subcl. (IV). Subsec. (d)(8). Pub. L. 118–234, § 225(3), substituted “Six” for “Eight”. Subsec. (e). Pub. L. 118–234, § 311(c), struck out subsec. (e) which authorized the Secretary to post clear notice of any entrance fee, standard amenity recreation fee, and available recreation passes and clear notice of locations where work is performed using recreation fee or recreation pass revenues collected. 2022—Subsec. (d)(12). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.

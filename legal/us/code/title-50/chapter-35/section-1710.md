@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 1710"
+description: "Confronting asymmetric and malicious cyber activities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "35"
+chapter_name: "INTERNATIONAL EMERGENCY ECONOMIC POWERS"
+section: "1710"
+citation: "50 U.S.C. § 1710"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s1710"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "eb634b5e4cd35e42d0fdacb25749e18d1e1804a9d03adb6eb99c6715fa6dd76b"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "3a2893a0346faeeac82f6e82351e49f705e6d54afba4cfa912a290ca13b37612"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 1710 - Confronting asymmetric and malicious cyber activities
+
+## Text
+
+(a) In general On and after the date that is 180 days after April 24, 2024, the President may impose the sanctions described in subsection (b) with respect to any foreign person that the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State determine, on or after April 24, 2024—
+
+(1) is responsible for or complicit in, or has engaged knowingly in, significant cyber-enabled activities originating from, or directed by persons located, in whole or in substantial part, outside the United States that are reasonably likely to result in, or have materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States;
+
+(2) materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any activity described in this subsection or any person whose property and interests in property are blocked pursuant to this section;
+
+(3) is owned or controlled by, or has acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this section; or
+
+(4) has attempted to engage in any of the activities described in paragraph (1), (2), or (3).
+
+(b) Sanctions described The sanctions described in this subsection are the following:
+
+(1) Inadmissibility to United States In the case of an alien—
+
+(A) ineligibility to receive a visa to enter the United States or to be admitted to the United States; or
+
+(B) if the individual has been issued a visa or other documentation, revocation, in accordance with section 1201(i) of title 8, of the visa or other documentation.
+
+(2) Blocking of property The blocking, in accordance with the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), of all transactions in all property and interests in property of a foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+(c) Requests by appropriate congressional committees (1) In general Not later than 120 days after receiving a request that meets the requirements of paragraph (2) with respect to whether a foreign person has engaged in an activity described in subsection (a), the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State shall—
+
+(A) determine if that person has engaged in such an activity; and
+
+(B) submit a classified or unclassified report to the chairperson and ranking member of the committee or committees that submitted the request with respect to that determination that includes—
+
+(i) a statement of whether or not the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State imposed or intends to impose sanctions with respect to the person;
+
+(ii) if the President imposed or intends to impose sanctions, a description of those sanctions; and
+
+(iii) if the President does not intend to impose sanctions, a description of actions that meet the threshold for the President to impose sanctions.
+
+(2) Requirements A request under paragraph (1) with respect to whether a foreign person has engaged in an activity described in subsection (a) shall be submitted to the President in writing jointly by the chairperson and ranking member of one of the appropriate congressional committees.
+
+(d) Appropriate congressional committees defined In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on the Judiciary of the House of Representatives; and
+
+(2) the Committee on Foreign Relations, the Committee on the Judiciary, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+(Pub. L. 118–50, div. O, § 5, Apr. 24, 2024, 138 Stat. 990.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe International Emergency Economic Powers Act, referred to in subsec. (b)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+Codification Section was enacted as part of the Strengthening Tools to Counter the Use of Human Shields Act, and not as part of the International Emergency Economic Powers Act which comprises this chapter.
+
+Executive Documents
+
+Delegation of Functions Memorandum of President of the United States, § 6(a), Sept. 13, 2024, 89 F.R. 77758, provided: I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General, the functions and authorities vested in the President by section 5(a) of the Strengthening Tools to Counter the Use of Human Shields Act (Division O of Public Law 118–50) (the “Countering Use of Human Shields Act”) [50 U.S.C. 1710(a)]. J.R. Biden, Jr.

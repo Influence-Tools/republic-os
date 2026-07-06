@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 3127"
+description: "Definitions for chapter"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "206"
+chapter_name: "PEN REGISTERS AND TRAP AND TRACE DEVICES"
+section: "3127"
+citation: "18 U.S.C. § 3127"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s3127"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "0f1401a57f9c0d368d8e361d51b6762300a31d51b202976aabf6315885207d06"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "3e426146c1a618e5c742280ff79f854fa600e0c0abe75c6989eaeafc04629909"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 3127 - Definitions for chapter
+
+## Text
+
+As used in this chapter—
+
+(1) the terms “wire communication”, “electronic communication”, “electronic communication service”, and “contents” have the meanings set forth for such terms in section 2510 of this title;
+
+(2) the term “court of competent jurisdiction” means—
+
+(A) any district court of the United States (including a magistrate judge of such a court) or any United States court of appeals that—
+
+(i) has jurisdiction over the offense being investigated;
+
+(ii) is in or for a district in which the provider of a wire or electronic communication service is located;
+
+(iii) is in or for a district in which a landlord, custodian, or other person subject to subsections (a) or (b) of section 3124 of this title is located; or
+
+(iv) is acting on a request for foreign assistance pursuant to section 3512 of this title; or
+
+(B) a court of general criminal jurisdiction of a State authorized by the law of that State to enter orders authorizing the use of a pen register or a trap and trace device;
+
+(3) the term “pen register” means a device or process which records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication, but such term does not include any device or process used by a provider or customer of a wire or electronic communication service for billing, or recording as an incident to billing, for communications services provided by such provider or any device or process used by a provider or customer of a wire communication service for cost accounting or other like purposes in the ordinary course of its business;
+
+(4) the term “trap and trace device” means a device or process which captures the incoming electronic or other impulses which identify the originating number or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;
+
+(5) the term “attorney for the Government” has the meaning given such term for the purposes of the Federal Rules of Criminal Procedure; and
+
+(6) the term “State” means a State, the District of Columbia, Puerto Rico, and any other possession or territory of the United States.
+
+(Added Pub. L. 99–508, title III, § 301(a), Oct. 21, 1986, 100 Stat. 1871, § 3126; renumbered § 3127, Pub. L. 100–690, title VII, § 7092(a)(1), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 107–56, title II, § 216(c)(1)–(4), Oct. 26, 2001, 115 Stat. 290; Pub. L. 111–79, § 2(3), Oct. 19, 2009, 123 Stat. 2087.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Federal Rules of Criminal Procedure, referred to in par. (5), are set out in the Appendix to this title.
+
+Amendments2009—Par. (2)(A). Pub. L. 111–79 substituted “that—” and cls. (i) to (iv) for “having jurisdiction over the offense being investigated; or”. 2001—Par. (1). Pub. L. 107–56, § 216(c)(4), struck out “and” after “ ‘electronic communication’,” and inserted “, and ‘contents’ ” after “ ‘electronic communication service’ ”. Par. (2)(A). Pub. L. 107–56, § 216(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “a district court of the United States (including a magistrate judge of such a court) or a United States Court of Appeals; or”. Par. (3). Pub. L. 107–56, § 216(c)(2), substituted “dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication” for “electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to which such device is attached” and inserted “or process” after “device” wherever appearing. Par. (4). Pub. L. 107–56, § 216(c)(3), inserted “or process” after “means a device” and substituted “or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;” for “of an instrument or device from which a wire or electronic communication was transmitted;”. 1988—Pub. L. 100–690 renumbered section 3126 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 302 of Pub. L. 99–508, set out as a note under section 3121 of this title.

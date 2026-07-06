@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 1723"
+description: "Avoidance of postage by using lower class matter"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "83"
+chapter_name: "POSTAL SERVICE"
+section: "1723"
+citation: "18 U.S.C. § 1723"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s1723"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "620cab32eeea59a3f3d6477d6312f6aa3cd2448811752bca9d6b0ef9cb297aab"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "cd745f0300342d31d9b38cb17f68125af0ebe9f4ddc3140163ae23a64d405689"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 1723 - Avoidance of postage by using lower class matter
+
+## Text
+
+Matter of the second, third, or fourth class containing any writing or printing in addition to the original matter, other than as authorized by law, shall not be admitted to the mails, nor delivered, except upon payment of postage for matter of the first class, deducting therefrom any amount which may have been prepaid by stamps affixed, unless by direction of a duly authorized officer of the Postal Service such postage shall be remitted. Whoever knowingly conceals or incloses any matter of a higher class in that of a lower class, and deposits the same for conveyance by mail, at a less rate than would be charged for such higher class matter, shall be fined under this title.
+
+(June 25, 1948, ch. 645, 62 Stat. 784; Pub. L. 91–375, § 6(j)(31), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+
+## Notes
+
+Historical and Revision NotesBased on title 18, U.S.C., 1940 ed., § 351 (Mar. 4, 1909, ch. 321, § 221, 35 Stat. 1132). Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title. Minor verbal changes were made.
+
+Editorial Notes
+
+Amendments1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100” in second par. 1970—Pub. L. 91–375 substituted “a duly authorized officer of the Postal Service” for “Postmaster General” in first par.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.

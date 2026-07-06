@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 1597"
+description: "Construction of provisions of subchapter"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "32A"
+chapter_name: "COLORADO RIVER BASIN SALINITY CONTROL"
+section: "1597"
+citation: "43 U.S.C. § 1597"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s1597"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "c23c5871bdbd0c5ad48dc5b349a7011bde1de8529c83cae2c94a2f9b0735da42"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "e1d01f749ff974872432521837362da677ffec987d613fff92251bc8eae6d7cc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 1597 - Construction of provisions of subchapter
+
+## Text
+
+Except as provided in sections 620d(d)(5), 1543(g)(2), and 1595(b) of this title, with respect to the Colorado River Basin Project Act [43 U.S.C. 1501 et seq.] and the Colorado River Storage Project Act [43 U.S.C. 620 et seq.], respectively, nothing in this subchapter shall be construed to alter, amend, repeal, modify, interpret, or be in conflict with the provisions of the Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), the Water Treaty of 1944 with the United Mexican States (Treaty Series 994; 59 Stat. 1219), the decree entered by the Supreme Court of the United States in Arizona against California and others (376 U.S. 340), the Boulder Canyon Project Act (45 Stat. 1057) [43 U.S.C. 617 et seq.], Boulder Canyon Project Adjustment Act (54 Stat. 774; 43 U.S.C. 618a) [43 U.S.C. 618 et seq.], section 15 of the Colorado River Storage Project Act (70 Stat. 111; 43 U.S.C. 620n), the Colorado River Basin Project Act (82 Stat. 885), section 6 of the Fryingpan-Arkansas Project Act (76 Stat. 393) [43 U.S.C. 616e], section 15 of the Navajo Indian irrigation project and initial stage of the San Juan-Chama Project Act (76 Stat. 102) [43 U.S.C. 615ww], the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.], and the Federal Water Pollution Control Act, as amended [33 U.S.C. 1251 et seq.].
+
+(Pub. L. 93–320, title I, § 207, June 24, 1974, 88 Stat. 274.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSections 620d(d)(5), 1543(g)(2), and 1595(b) of this title, referred to in text, was in the original a reference to “section 205(b) and 205(d) of this title”, meaning section 205(b) and (d) of title II of Pub. L. 93–320. Section 205(b)(1) is classified to section 1595(b) of this title; section 205(b)(2) amended section 403(g) of the Colorado River Basin Project Act by inserting a new par. (2), which is classified to section 1543(g)(2) of this title; and section 205(d) amended section 5(d) of the Colorado River Storage Project Act by inserting a new par. (5), which is classified to section 620d(d)(5) of this title. This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 93–320, which enacted this subchapter and amended sections 1620d(d) and 1543(g) of this title. For complete classification of title II to the Code, see Tables. The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables. The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables. The Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), and the Water Treaty of 1944, referred to in text, are not classified to the Code. The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables. The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables. Section 6 of the Fryingpan-Arkansas Project Act [43 U.S.C. 616e] and section 15 of the Navajo Indian irrigation project and initial stage of the San Juan-Chama Project Act [43 U.S.C. 615ww], referred to in text, were omitted from the Code. The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Water Pollution Control Act, as amended, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.

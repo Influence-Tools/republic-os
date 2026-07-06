@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 779"
+description: "Coordination with, and technical assistance to, State governments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "16B"
+chapter_name: "FEDERAL ENERGY ADMINISTRATION"
+section: "779"
+citation: "15 U.S.C. § 779"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s779"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "8b9c392168dbe74d61c792afa1e9a95ac5326ab16f86067f8e4f402c57582156"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "576ec75a290d0689fed6c8265c894606c57a0581608147821f4e6b1f01c02565"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 779 - Coordination with, and technical assistance to, State governments
+
+## Text
+
+(a) Report to Congress and State governments: organization of Administration; report to the public, Congress and State governments; scope of nontechnical report; comments of State governments respecting rules, regulations, or policies and programs; energy shortages, status reports; information clearinghouse The Administrator shall—
+
+(1) coordinate Federal energy programs and policies with such programs and policies of State governments by providing—
+
+(A) within sixty days of the effective date of this chapter, the Congress and State governments with a report on the manner in which he has organized the Administration based upon the functions delegated by the President or assigned to the Administrator by this chapter or under the authority of other Acts; and
+
+(B) within one hundred and twenty days of the effective date of this chapter, the public, State governments, and all Members of the Congress with a report in nontechnical language which—
+
+(i) describes the functions performed by the Administration;
+
+(ii) sets forth in detail the organization of the Administration, the location of its offices (including regional, State, and local offices), the names and phone numbers of Administration officials, and other appropriate information concerning the operation of the Administration;
+
+(iii) delineates the role that State, and Federal governments will or may perform in achieving the purposes of this chapter; and
+
+(iv) provides the public with a clear understanding of their duties and obligations, rights, and responsibilities under any of the programs or functions of the Administration;
+
+(2) before promulgating any rules, regulations, or policies, and before establishing any programs under the authority of this chapter, provide, where practicable, a reasonable period in which State governments may provide written comments if such rules, regulations, policies, or programs substantially affect the authority or responsibility of such State governments;
+
+(3) provide, in accordance with the provisions of this chapter, upon request, to State governments all relevant information he possesses concerning the status and impact of energy shortages, the extent and location of available supplies and shortages of crude oil, petroleum products, natural gas, and coal, within the distribution area serving that particular State government; and
+
+(4) provide for a central clearinghouse for Federal agencies and State governments seeking energy information and assistance from the Federal Government.
+
+(b) Technical assistance; task forces; conferences: expenses of participation; model legislation; uniform criteria, procedures, and forms for grant or contract applications for State government energy proposals Pursuant to his responsibility under this section, the Administrator shall—
+
+(1) provide technical assistance—including advice and consultation relating to State programs, and, where necessary, the use of task forces of public officials and private persons assigned to work with State governments—to assist State governments in dealing with energy problems and shortages and their impact and in the development of plans, programs, and policies to meet the problems and shortages so identified;
+
+(2) convene conferences of State and Federal officials, and such other persons as the Administrator designates, to promote the purposes of this chapter, and the Administrator is authorized to pay reasonable expenses incurred in the participation of individuals in such conferences;
+
+(3) draft and make available to State governments model legislation with respect to State energy programs and policies; and
+
+(4) promote the promulgation of uniform criteria, procedures, and forms for grant or contract applications for energy proposals submitted by State governments.
+
+(Pub. L. 93–275, § 20, May 7, 1974, 88 Stat. 111.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.

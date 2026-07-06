@@ -1,0 +1,137 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2737"
+description: "Department of State paid Student Internship Program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "38"
+chapter_name: "DEPARTMENT OF STATE"
+section: "2737"
+citation: "22 U.S.C. § 2737"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2737"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "ded2c1c1656fd882bd5a514952c4bb80516cbc9499fca94c87cba5f204c398a2"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "9903b3c60f4211cbf9e5d20292b2f2651af9df8ae13b1156b8bd6b4d4dd2f7d7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2737 - Department of State paid Student Internship Program
+
+## Text
+
+(a) In general The Secretary shall establish the Department of State Student Internship Program (referred to in this section as the “Program”) to offer internship opportunities at the Department to eligible students to raise awareness of the essential role of diplomacy in the conduct of United States foreign policy and the realization of United States foreign policy objectives.
+
+(b) Eligibility (1) In general An applicant is eligible to participate in the Program if the applicant is enrolled at—
+
+(A) an institution of higher education (as such term is defined in section 1002(a) of title 20); or
+
+(B) an institution of higher education based outside the United States, as determined by the Secretary of State.
+
+(2) Additional eligibility criteria An applicant in the Program should be—
+
+(A) enrolled at least half-time in an institution described in paragraph (1) or have graduated from such an institution within the six months preceding application to the Program; and
+
+(B) eligible to receive and hold an appropriate security clearance.
+
+(c) Selection The Secretary shall establish selection criteria for students to be admitted into the Program that includes a demonstrated interest in a career in foreign affairs and gives preference as appropriate to individuals who have not previously completed internships within the Department of State and the United States Agency for International Development.
+
+(d) Outreach The Secretary shall—
+
+(1) widely advertise the Program, including—
+
+(A) on the internet;
+
+(B) through the Department’s Diplomats in Residence program; and
+
+(C) through other outreach and recruiting initiatives targeting undergraduate and graduate students; and
+
+(2) conduct targeted outreach to encourage participation in the Program from—
+
+(A) individuals belonging to an underrepresented group; and
+
+(B) students enrolled at minority-serving institutions (which shall include any institution listed in section 1067q(a) of title 20).
+
+(e) Compensation (1) Housing assistance (A) Abroad The Secretary shall provide housing assistance to any student participating in the Program whose permanent address is within the United States if the location of the internship in which such student is participating is outside of the United States.
+
+(B) Domestic The Secretary may provide housing assistance to a student participating in the Program whose permanent address is within the United States if the location of the internship in which such student is participating is more than 50 miles away from such student’s permanent address.
+
+(2) Travel assistance The Secretary shall provide a student participating in the Program whose permanent address is within the United States with financial assistance that is sufficient to cover the travel costs of a single round trip by air, train, bus, or other appropriate transportation between the student’s permanent address and the location of the internship in which such student is participating if such location is—
+
+(A) more than 50 miles from the student’s permanent address; or
+
+(B) outside of the United States.
+
+(f) Working with institutions of higher education The Secretary, to the maximum extent practicable, shall structure internships to ensure that such internships satisfy criteria for academic credit at the institutions of higher education in which participants in such internships are enrolled.
+
+(g) Transition period (1) In general Except as provided in paragraphs (2) and (3), beginning not later than 2 years after December 23, 2022—
+
+(A) the Secretary shall convert unpaid internship programs of the Department, including the Foreign Service Internship Program, to internship programs that offer compensation; and
+
+(B) upon selection as a candidate for entry into an internship program of the Department, a participant in such internship program may refuse compensation, including if doing so allows such participant to receive college or university curricular credit.
+
+(2) Exception The transition required under paragraph (1) shall not apply to unpaid internship programs of the Department that are part of the Virtual Student Federal Service internship program.
+
+(3) Waiver (A) In general The Secretary may waive the requirement under paragraph (1)(A) with respect to a particular unpaid internship program if the Secretary, not later than 30 days after making a determination that the conversion of such internship program to a compensated internship program would not be consistent with effective management goals, submits a report explaining such determination to—
+
+(i) the appropriate congressional committees;
+
+(ii) the Committee on Appropriations of the Senate; and
+
+(iii) the Committee on Appropriations of the House of Representatives.
+
+(B) Report The report required under subparagraph (A) shall—
+
+(i) describe the reasons why converting an unpaid internship program of the Department to an internship program that offers compensation would not be consistent with effective management goals; and
+
+(ii) (I) provide justification for maintaining such unpaid status indefinitely; or
+
+(II) identify any additional authorities or resources that would be necessary to convert such unpaid internship program to offer compensation in the future.
+
+(h) Reports Not later than 18 months after December 23, 2022, the Secretary shall submit a report to the committees referred to in subsection (g)(3)(A) that includes—
+
+(1) data, to the extent the collection of such information is permissible by law, regarding the number of students who applied to the Program, were offered a position, and participated, respectively, disaggregated by race, ethnicity, sex, institution of higher education, home State, State where each student graduated from high school, and disability status;
+
+(2) data regarding the number of security clearance investigations initiated for the students described in paragraph (1), including the timeline for such investigations, whether such investigations were completed, and when an interim security clearance was granted;
+
+(3) information on Program expenditures;
+
+(4) information regarding the Department’s compliance with subsection (g); and
+
+(5) the number of internship participants subsequently employed by the Department, if any, following their participation in the Program.
+
+(i) Voluntary participation (1) In general Nothing in this section may be construed to compel any student who is a participant in an internship program of the Department to participate in the collection of the data or divulge any personal information. Such students shall be informed that their participation in the data collection under this section is voluntary.
+
+(2) Privacy protection Any data collected under this section shall be subject to the relevant privacy protection statutes and regulations applicable to Federal employees.
+
+(j) Special hiring authority Notwithstanding any other provision of law, the Secretary, in consultation with the Director of the Office of Personnel Management, with respect to the number of interns to be hired each year, may—
+
+(1) select, appoint, and employ individuals for up to 1 year through compensated internships in the excepted service; and
+
+(2) remove any compensated intern employed pursuant to paragraph (1) without regard to the provisions of law governing appointments in the excepted service.
+
+(k) Work hours flexibility Students participating in the Program may work fewer than 40 hours per week and a minimum of 24 hours per week to accommodate their academic schedules, provided that the total duration of the internship remains consistent with program requirements.
+
+(l) Mentorship program The Secretary and Administrator are authorized to establish a mentoring and coaching program that pairs Foreign Service or Civil Service employees with interns who choose to participate throughout the duration of their internship.
+
+(Pub. L. 117–263, div. I, title XCII, § 9201, Dec. 23, 2022, 136 Stat. 3861; Pub. L. 118–159, div. G, title LXXI, § 7105(a), Dec. 23, 2024, 138 Stat. 2524.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (b)(2)(A). Pub. L. 118–159, § 7105(a)(1), inserted “or have graduated from such an institution within the six months preceding application to the Program” after “paragraph (1)”. Subsec. (c). Pub. L. 118–159, § 7105(a)(2), inserted “and gives preference as appropriate to individuals who have not previously completed internships within the Department of State and the United States Agency for International Development” after “career in foreign affairs”. Subsecs. (k), (l). Pub. L. 118–159, § 7105(a)(3), added subsecs. (k) and (l).
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of “Secretary”, “Department”, “appropriate congressional committees”, and “Administrator” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under section 2651 of this title.

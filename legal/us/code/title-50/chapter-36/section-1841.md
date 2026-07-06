@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 1841"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "36"
+chapter_name: "FOREIGN INTELLIGENCE SURVEILLANCE"
+section: "1841"
+citation: "50 U.S.C. § 1841"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s1841"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "c7dce56b035631ddb99fc72000ad6b830acc628664393ad7f81e4bb55dbb0c49"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "fecad5f3921dfddcd70816cd975ef9c3f0ec4e7932d58199b554bda90b9d5569"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 1841 - Definitions
+
+## Text
+
+As used in this subchapter:
+
+(1) The terms “foreign power”, “agent of a foreign power”, “international terrorism”, “foreign intelligence information”, “Attorney General”, “United States person”, “United States”, “person”, and “State” shall have the same meanings as in section 1801 of this title.
+
+(2) The terms “pen register” and “trap and trace device” have the meanings given such terms in section 3127 of title 18.
+
+(3) The term “aggrieved person” means any person—
+
+(A) whose telephone line was subject to the installation or use of a pen register or trap and trace device authorized by this subchapter; or
+
+(B) whose communication instrument or device was subject to the use of a pen register or trap and trace device authorized by this subchapter to capture incoming electronic or other communications impulses.
+
+(4) (A) The term “specific selection term”—
+
+(i) is a term that specifically identifies a person, account, address, or personal device, or any other specific identifier; and
+
+(ii) is used to limit, to the greatest extent reasonably practicable, the scope of information sought, consistent with the purpose for seeking the use of the pen register or trap and trace device.
+
+(B) A specific selection term under subparagraph (A) does not include an identifier that does not limit, to the greatest extent reasonably practicable, the scope of information sought, consistent with the purpose for seeking the use of the pen register or trap and trace device, such as an identifier that—
+
+(i) identifies an electronic communication service provider (as that term is defined in section 1881 of this title) or a provider of remote computing service (as that term is defined in section 2711 of title 18), when not used as part of a specific identifier as described in subparagraph (A), unless the provider is itself a subject of an authorized investigation for which the specific selection term is used as the basis for the use; or
+
+(ii) identifies a broad geographic region, including the United States, a city, a county, a State, a zip code, or an area code, when not used as part of a specific identifier as described in subparagraph (A).
+
+(C) For purposes of subparagraph (A), the term “address” means a physical address or electronic address, such as an electronic mail address or temporarily assigned network address (including an Internet protocol address).
+
+(D) Nothing in this paragraph shall be construed to preclude the use of multiple terms or identifiers to meet the requirements of subparagraph (A).
+
+(Pub. L. 95–511, title IV, § 401, as added Pub. L. 105–272, title VI, § 601(2), Oct. 20, 1998, 112 Stat. 2404; amended Pub. L. 114–23, title II, § 201(b), June 2, 2015, 129 Stat. 277.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 401 of Pub. L. 95–511 was renumbered section 701 and was set out as a note under section 1801 of this title, prior to repeal by Pub. L. 110–261.
+
+Amendments2015—Par. (4). Pub. L. 114–23 added par. (4).

@@ -1,0 +1,117 @@
+---
+type: "LegalText"
+title: "31 U.S.C. § 1126"
+description: "Program Management Improvement Officers and Program Management Policy Council"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 31
+title_name: "MONEY AND FINANCE"
+chapter_number: "11"
+chapter_name: "THE BUDGET AND FISCAL, BUDGET, AND PROGRAM INFORMATION"
+section: "1126"
+citation: "31 U.S.C. § 1126"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc31@119-100.zip"
+source_identifier: "/us/usc/t31/s1126"
+source_file: "data/legal/raw/us/code/title-31/usc31.xml"
+source_hash: "69d9eb14dea8038a15ee9dfbdd81dafa5e31c11b0a342ef2161b409adb90b243"
+raw_snapshot_hash: "94d3fba324cbbc12277242f872f8f47cff5250dbcdc0057fe857212764e4b704"
+text_hash: "c04b506f147db917987e2ac04595dc0edea06b476f523f88aa84db5fd442c09e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 31 U.S.C. § 1126 - Program Management Improvement Officers and Program Management Policy Council
+
+## Text
+
+(a) Program Management Improvement Officers.— (1) Designation.— The head of each agency described in section 901(b) shall designate a senior executive of the agency, who has significant program and project management oversight responsibilities, as the Program Management Improvement Officer of the agency.
+
+(2) Functions.— The Program Management Improvement Officer of an agency designated under paragraph (1) shall—
+
+(A) implement program management policies established by the agency under section 503(c); and
+
+(B) develop a strategy for enhancing the role of program managers within the agency that includes the following:
+
+(i) Enhanced training and educational opportunities for program managers that shall include—
+
+(I) training in the relevant competencies encompassed with program and project manager within the private sector for program managers; and
+
+(II) training that emphasizes cost containment for large projects and programs.
+
+(ii) Mentoring of current and future program managers by experienced senior executives and program managers within the agency.
+
+(iii) Improved career paths and career opportunities for program managers.
+
+(iv) A plan to encourage the recruitment and retention of highly qualified individuals to serve as program managers.
+
+(v) Improved means of collecting and disseminating best practices and lessons learned to enhance program management across the agency.
+
+(vi) Common templates and tools to support improved data gathering and analysis for program management and oversight purposes.
+
+(3) Application to department of defense.— This subsection shall not apply to the Department of Defense to the extent that the provisions of this subsection are substantially similar to or duplicative of the provisions of chapter 87 of title 10. For purposes of paragraph (1), the Under Secretary of Defense for Acquisition and Sustainment (or a designee of the Under Secretary) shall be considered the Program Management Improvement Officer.
+
+(b) Program Management Policy Council.— (1) Establishment.— There is established in the Office of Management and Budget a council to be known as the “Program Management Policy Council” (in this subsection referred to as the “Council”).
+
+(2) Purpose and functions.— The Council shall act as the principal interagency forum for improving agency practices related to program and project management. The Council shall—
+
+(A) advise and assist the Deputy Director for Management of the Office of Management and Budget;
+
+(B) review programs identified as high risk by the Government Accountability Office and make recommendations for actions to be taken by the Deputy Director for Management of the Office of Management and Budget or a designee;
+
+(C) discuss topics of importance to the workforce, including—
+
+(i) career development and workforce development needs;
+
+(ii) policy to support continuous improvement in program and project management; and
+
+(iii) major challenges across agencies in managing programs;
+
+(D) advise on the development and applicability of standards governmentwide for program management transparency; and
+
+(E) review the information published on a website described in section 1122.
+
+(3) Membership.— (A) Composition.— The Council shall be composed of the following members:
+
+(i) Five members from the Office of Management and Budget as follows:
+
+(I) The Deputy Director for Management.
+
+(II) The Administrator of the Office of Electronic Government.
+
+(III) The Administrator of Federal Procurement Policy.
+
+(IV) The Controller of the Office of Federal Financial Management.
+
+(V) The Director of the Office of Performance and Personnel Management.
+
+(ii) The Program Management Improvement Officer from each agency described in section 901(b).
+
+(iii) Any other full-time or permanent part-time officer or employee of the Federal Government or member of the Armed Forces designated by the Chairperson.
+
+(B) Chairperson and vice chairperson.— (i) In general.— The Deputy Director for Management of the Office of Management and Budget shall be the Chairperson of the Council. A Vice Chairperson shall be elected by the members and shall serve a term of not more than 1 year.
+
+(ii) Duties.— The Chairperson shall preside at the meetings of the Council, determine the agenda of the Council, direct the work of the Council, and establish and direct subgroups of the Council as appropriate.
+
+(4) Meetings.— The Council shall meet not less than four times per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
+
+(5) Support.— The head of each agency with a Project Management Improvement Officer serving on the Council shall provide administrative support to the Council, as appropriate, at the request of the Chairperson.
+
+(Added Pub. L. 114–264, § 2(b)(1), Dec. 14, 2016, 130 Stat. 1372; amended Pub. L. 116–92, div. A, title IX, § 902(86), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 116–283, div. A, title VIII, § 884, div. H, title XCVI, § 9601(c)(2)(D), Jan. 1, 2021, 134 Stat. 3790, 4828.)
+
+## Notes
+
+Editorial Notes
+
+Similar ProvisionsAnother section 1126, added Pub. L. 114–328, div. A, title VIII, § 861(b)(1), Dec. 23, 2016, 130 Stat. 2299, which was substantially identical to section 1126 as added by Pub. L. 114–264, was repealed by Pub. L. 115–91, div. A, title VIII, § 810(b), Dec. 12, 2017, 131 Stat. 1458.
+
+Amendments2021—Subsec. (a)(1). Pub. L. 116–283, § 884(1), inserted “, who has significant program and project management oversight responsibilities,” after “senior executive of the agency”. Subsec. (b)(2)(E). Pub. L. 116–283, § 9601(c)(2)(D), substituted “a website described in” for “the website of the Office of Management and Budget pursuant to”. Subsec. (b)(4). Pub. L. 116–283, § 884(2), substituted “four times” for “twice”. 2019—Subsec. (a)(3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+
+Statutory Notes and Related Subsidiaries
+
+Program and Project Management Personnel StandardsPub. L. 114–264, § 2(c), Dec. 14, 2016, 130 Stat. 1374, provided that: “(1) Definition.—In this subsection, the term ‘agency’ means each agency described in section 901(b) of title 31, United States Code, other than the Department of Defense. “(2) Regulations required.—Not later than 180 days after the date on which the standards, policies, and guidelines are issued under section 503(c) of title 31, United States Code, as added by subsection (a)(1), the Director of the Office of Personnel Management, in consultation with the Director of the Office of Management and Budget, shall issue regulations that—“(A) identify key skills and competencies needed for a program and project manager in an agency; “(B) establish a new job series, or update and improve an existing job series, for program and project management within an agency; and “(C) establish a new career path for program and project managers within an agency.” Similar provisions were contained in Pub. L. 114–328, div. A, title VIII, § 861(c), Dec. 23, 2016, 130 Stat. 2301, prior to repeal by Pub. L. 115–91, div. A, title VIII, § 810(c), Dec. 12, 2017, 131 Stat. 1458.

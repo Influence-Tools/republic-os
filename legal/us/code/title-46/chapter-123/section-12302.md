@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 12302"
+description: "Standard numbering system"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "123"
+chapter_name: "NUMBERING UNDOCUMENTED VESSELS"
+section: "12302"
+citation: "46 U.S.C. § 12302"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s12302"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "aa414fb14ea0a853c787d6b18440418ed41f0e1849651868bf381cebaaa0d97e"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "8768d431e083c498090b6efd2214de98ae74170c781aa4a6bb314746b7289ba8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 12302 - Standard numbering system
+
+## Text
+
+(a) The Secretary shall prescribe by regulation a standard numbering system for vessels to which this chapter applies. On application by a State, the Secretary shall approve a State numbering system that is consistent with the standard numbering system. In carrying out its numbering system, a State shall adopt any definitions of relevant terms prescribed by regulations of the Secretary.
+
+(b) A State with an approved numbering system is the issuing authority within the meaning of this chapter. The Secretary is the issuing authority in a State in which a State numbering system has not been approved.
+
+(c) When a vessel is numbered in a State, it is deemed in compliance with the numbering system of a State in which it temporarily is operated.
+
+(d) When a vessel is removed to a new State of principal operation, the issuing authority of that State shall recognize the validity of the number issued by the original State for 60 days.
+
+(e) If a State has a numbering system approved after the Secretary issues a number, the State shall recognize the validity of the number issued by the Secretary for one year.
+
+(f) When the Secretary decides that a State numbering system is not being carried out consistent with the standard numbering system or the State has changed the system without the Secretary’s approval, the Secretary may withdraw approval after giving notice to the State, in writing, stating the reasons for the withdrawal.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 590.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource section (U.S. Code) 1230246:1467 Section 12302 provides for a standard numbering system for undocumented vessels and for approval of State numbering systems by the Secretary. It also requires that a State, when implementing its numbering system, adopt any relevant terms required by the Secretary. In States without approved numbering systems, the Federal Government issues the numbers. This section also provides for the operation of a vessel in a State other than the one in which it was numbered.

@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "31 U.S.C. § 3511"
+description: "Prescribing accounting requirements and developing accounting systems"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 31
+title_name: "MONEY AND FINANCE"
+chapter_number: "35"
+chapter_name: "ACCOUNTING AND COLLECTION"
+section: "3511"
+citation: "31 U.S.C. § 3511"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc31@119-100.zip"
+source_identifier: "/us/usc/t31/s3511"
+source_file: "data/legal/raw/us/code/title-31/usc31.xml"
+source_hash: "2187f63bc7bc28747ae6e9fc9e92d8c6ed542f4f4326ac4a2471173fa22e9cd2"
+raw_snapshot_hash: "94d3fba324cbbc12277242f872f8f47cff5250dbcdc0057fe857212764e4b704"
+text_hash: "939de966bb86552cfcb11b3efff3cfa640b1a483f63f214184963e60a7a7cee5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 31 U.S.C. § 3511 - Prescribing accounting requirements and developing accounting systems
+
+## Text
+
+(a) The Comptroller General shall prescribe the accounting principles, standards, and requirements that the head of each executive agency shall observe. Before prescribing the principles, standards, and requirements, the Comptroller General shall consult with the Secretary of the Treasury and the President on their accounting, financial reporting, and budgetary needs, and shall consider the needs of the heads of the other executive agencies.
+
+(b) Requirements prescribed under subsection (a) of this section shall—
+
+(1) provide for suitable integration between the accounting process of each executive agency and the accounting of the Department of the Treasury;
+
+(2) allow the head of each agency to carry out section 3512 of this title; and
+
+(3) provide a method of—
+
+(A) integrated accounting for the United States Government;
+
+(B) complete disclosure of the results of the financial operations of each agency and the Government; and
+
+(C) financial information and control the President and Congress require to carry out their responsibilities.
+
+(c) Consistent with subsections (a) and (b) of this section—
+
+(1) the authority of the Comptroller General continues under section 121(b) of title 40; and
+
+(2) the Comptroller General may prescribe the forms, systems, and procedures that the judicial branch of the Government (except the Supreme Court) shall observe.
+
+(d) The Comptroller General, the Secretary, and the President shall conduct a continuous program for improving accounting and financial reporting in the Government.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–217, § 3(h)(5), Aug. 21, 2002, 116 Stat. 1299.)
+
+## Notes
+
+Historical and Revision Notes Revised SectionSource (U.S. Code)Source (Statutes at Large) 3511(a)31:66(a)(1st sentence words before last comma).Sept. 12, 1950, ch. 946, §§ 111(f), 112(a), 64 Stat. 835; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085. 3511(b)31:66(a)(1st sentence words after last comma, 2d sentence). 3511(c)31:49June 10, 1921, ch. 18, § 309, 42 Stat. 25. 31:66(a)(3d, last sentences). 3511(d)31:65(f). In the section, the words “the head of” are added for consistency in the revised title and with other titles of the United States Code. In subsection (a), the words “of the United States” are omitted as surplus. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. In subsection (b)(3), the words “as a whole” and “respective” are omitted as surplus. Subsection (c)(2) is substituted for 31:49 and the words “and, to the extent he deems necessary, the authority vested in him by section 49 of this title” in 31:66(a) for clarity and consistency. H. Rept. 2556, 81st Cong. (1950), states that the Comptroller General will be able to prescribe appropriation and fund accounting systems under 31:49 “in terms of principles, standards and related requirements rather than in terms of detailed forms and procedures”. The reference to the judicial branch covers authority that the Comptroller General was given under 31:49 that applies to departments and establishments except the Supreme Court that was not superseded by the source provisions restated in subsection (a) of this section.
+
+Editorial Notes
+
+Amendments2002—Subsec. (c)(1). Pub. L. 107–217 substituted “section 121(b) of title 40” for “section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b))”.
+
+Statutory Notes and Related Subsidiaries
+
+Adoption of Capital Accounting StandardsPub. L. 101–576, title III, § 307, Nov. 15, 1990, 104 Stat. 2855, provided that: “No capital accounting standard or principle, including any human capital standard or principle, shall be adopted for use in an executive department or agency until such standard has been reported to the Congress and a period of 45 days of continuous session of the Congress has expired.”

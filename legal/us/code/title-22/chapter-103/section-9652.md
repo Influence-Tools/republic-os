@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 9652"
+description: "Performance measures, evaluation, and learning"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "103"
+chapter_name: "BETTER UTILIZATION OF INVESTMENTS LEADING TO DEVELOPMENT"
+section: "9652"
+citation: "22 U.S.C. § 9652"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s9652"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "e195f2b45daa2a82a8138ee759de8c7855dc3991bf42ed976a89b1bc2093bda6"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "241537be85d86cbb2f78a5d0559aa49e89d7fe65aee113a1a9d0e968330e1043"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 9652 - Performance measures, evaluation, and learning
+
+## Text
+
+(a) In general The Corporation shall develop a performance measurement system to evaluate and monitor projects supported by the Corporation under subchapter II of this chapter and to guide future projects of the Corporation.
+
+(b) Considerations In developing the performance measurement system required by subsection (a), the Corporation shall—
+
+(1) develop a development impact measurement system, to be known as the Corporation’s Impact Quotient, which shall—
+
+(A) serve as a metrics-based measurement system to assess a project’s expected outcomes and development impact on a country, a region, and populations throughout the sourcing, origination, management, monitoring, and evaluation stages of a project’s lifecycle;
+
+(B) enable the Corporation to assess development impact at both the project and portfolio level;
+
+(C) provide guidance on when to take appropriate corrective measures to further development goals throughout a project’s lifecycle; and
+
+(D) inform congressional notification requirements outlining the Corporation’s project development impacts;
+
+(2) develop a mechanism for ensuring that support provided by the Corporation under subchapter II of this chapter is in addition to private investment;
+
+(3) develop standards for, and a method for ensuring, appropriate financial performance of the Corporation’s portfolio;
+
+(4) develop standards for, and a method for evaluating and documenting the development impacts of the Corporation’s portfolio, including—
+
+(A) measurement of the projected and ex post development impact of a project; and
+
+(B) the information necessary to comply with section 9653 of this title;
+
+(5) develop standards for, and a method for ensuring, appropriate monitoring of the Corporation’s compliance with environmental and social standards consistent with the guidance published by the Corporation following broad consultation with appropriate stakeholders to include civil society; and
+
+(6) develop standards for, and a method for ensuring, appropriate monitoring of the Corporation’s portfolio, including standards for ensuring employees or agents of the Corporation identify and conduct in-person site visits of each high-risk loan, loan guarantee, and equity project, as necessary and appropriate, after the initial disbursement of funds.
+
+(c) Required performance measures update for Congressional Strategic Advisory Group At any meeting of the Congressional Strategic Advisory Group, the Corporation shall be prepared discuss the standards developed in subsection (b) for all ongoing projects.
+
+(d) Public availability of certain information The Corporation shall make available to the public on a regular basis information about support provided by the Corporation under subchapter II of this chapter and performance metrics about such support on a country-by-country basis.
+
+(e) Consultation In developing the performance measurement system required by subsection (a), the Corporation shall consult with the Development Advisory Council established under section 9613(i) of this title and other stakeholders and interested parties engaged in sustainable economic growth and development.
+
+(f) Staffing for portfolio oversight and reporting (1) Requirement to maintain capacity The Corporation shall maintain an adequate number of full-time personnel with appropriate expertise to fulfill its obligations under this section and section 9653 of this title, including—
+
+(A) monitoring and evaluating the financial performance of the Corporation’s portfolio;
+
+(B) evaluating the development and strategic impact of investments throughout the program lifecycle;
+
+(C) preparing required annual reporting on the Corporation’s portfolio of investments, including the information set forth in section 9653(a)(6) of this title; and
+
+(D) monitoring for compliance with all applicable laws and ethics requirements.
+
+(2) Qualifications Personnel assigned to carry out the obligations described in paragraph (1) shall possess demonstrable professional experience in relevant areas, such as development finance, financial analysis, investment portfolio management, monitoring and evaluation, impact measurement, or legal and ethics expertise.
+
+(3) Organizational structure The Corporation shall maintain such personnel within 1 or more dedicated units or offices, which shall—
+
+(A) be functionally independent from investment origination teams;
+
+(B) be managed by senior staff who report to the Chief Executive Officer or Deputy Chief Executive Officer; and
+
+(C) be allocated resources sufficient to fulfill the Corporation’s obligations under this section and to support transparency and accountability to Congress and to the public.
+
+(4) Insulation from reductions The Corporation may not reduce the staffing, funding, or organizational independence of the units or personnel responsible for fulfilling the obligations under this section unless—
+
+(A) the Chief Executive Officer certifies in writing to the appropriate congressional committees that such reductions are necessary due to operational exigency, statutory change, or budgetary shortfall; and
+
+(B) the Corporation includes in its annual report a detailed explanation of the impact of any such changes on its capacity to analyze and report on portfolio performance.
+
+(Pub. L. 115–254, div. F, title IV, § 1442, Oct. 5, 2018, 132 Stat. 3504; Pub. L. 119–60, div. H, title LXXXVII, § 8754, Dec. 18, 2025, 139 Stat. 1964.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (b)(1). Pub. L. 119–60, § 8754(1)(A), added par. (1) and struck out former par. (1) which read as follows: “develop a successor for the development impact measurement system of the Overseas Private Investment Corporation (as such system was in effect on the day before October 5, 2018);”. Subsec. (b)(4). Pub. L. 119–60, § 8754(1)(C)(i), substituted “method for evaluating and documenting the development impacts” for “method for ensuring, appropriate development performance” in introductory provisions. Subsec. (b)(5), (6). Pub. L. 119–60, § 8754(1)(B), (C)(ii), (D), added pars. (5) and (6). Subsecs. (c) to (e). Pub. L. 119–60, § 8754(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Subsec. (f). Pub. L. 119–60, § 8754(4), added subsec. (f).

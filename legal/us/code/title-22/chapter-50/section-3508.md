@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 3508"
+description: "Fellowships"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "50"
+chapter_name: "INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION"
+section: "3508"
+citation: "22 U.S.C. § 3508"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s3508"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "3672ea665917b0e1c22538fe3b6eb4683fff2bb9e9d657298221cae9573a1bf1"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "8442c714e5531dd23b8e2f6b07f1e9f823c48e43a522c6c17be8163d0e6325ea"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 3508 - Fellowships
+
+## Text
+
+(a) Authorization; number; duration; renewal; criteria; foreign recipients; designation of recipients as Institute Fellows The President is authorized to award up to twenty fellowships annually for periods up to two years, such awards to be renewable for an additional period not to exceed two years, to individuals who have demonstrated exceptional competence and ability in the fields of scientific, technological, economic, or social endeavor selected by the Institute for concentration. The awards shall be made so as to encompass a wide diversity of disciplines and backgrounds, and shall be made on the basis of criteria established by the President upon the advice of the Council. Up to ten of the awards in any year may be made to citizens of countries other than the United States. Individuals awarded fellowships shall be designated as Institute Fellows.
+
+(b) Activities of Institute Fellows The President may assign Institute Fellows to undertake such activities, in the United States or abroad, as will further the purposes of the Institute.
+
+(c) Amount of awards; transportation, housing, etc., benefits The amount of the awards made pursuant to this section shall be established by the President, but shall not in any case exceed the highest rate which may be paid to an employee under the General Schedule established by section 5332 of title 5. In addition, where appropriate, the President may make provisions for transportation, housing (when assigned outside country of residence), subsistence (or per diem in lieu thereof), and health care or health or accident insurance for Institute Fellows and their dependents while engaged in activities authorized by this chapter.
+
+(d) Status of Institute Fellows Except as provided otherwise in this section, Institute Fellows shall not be deemed employees or otherwise in the service or employment of the United States Government. Institute Fellows shall be considered employees for purposes of compensation of injuries under chapter 81 of title 5 and the tort claim provisions of chapter 171 of title 28. In addition, Institute Fellows who are United States citizens shall be considered Government employees for purposes of sections 202, 203, 205, 207, 208, and 209 of title 18.
+
+(e) Admission into United States of alien participants in program Alien participants in any program of the Institute, including Institute Fellows and their dependents, may be admitted to the United States, if otherwise qualified as non-immigrants under section 1101(a)(15) of title 8, for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
+
+(Pub. L. 96–53, title IV, § 408, Aug. 14, 1979, 93 Stat. 375.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (c), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.
+
+Abolition of Immigration and Naturalization Service and Transfer of Functions For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+References in Other Laws to GS–16, 17, or 18 Pay RatesReferences in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.

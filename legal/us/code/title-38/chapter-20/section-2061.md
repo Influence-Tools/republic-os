@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 2061"
+description: "Grant program for homeless veterans with special needs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "20"
+chapter_name: "BENEFITS FOR HOMELESS VETERANS"
+section: "2061"
+citation: "38 U.S.C. § 2061"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s2061"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "cd8d2461676f8c8a94e62996671b7931a78f4bb7afc1a629bfa286dc9f33fb50"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "0571b0f0823378207c1495f32ac574f3850933db00b6b2f33d213df77d7367ad"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 2061 - Grant program for homeless veterans with special needs
+
+## Text
+
+(a) Establishment.— The Secretary shall carry out a program to make grants to health care facilities of the Department and to entities eligible for grants and per diem payments under sections 2011 and 2012 of this title in order to encourage development by those facilities and entities of programs for homeless veterans with special needs.
+
+(b) Homeless Veterans With Special Needs.— For purposes of this section, homeless veterans with special needs include homeless veterans who are—
+
+(1) women;
+
+(2) frail elderly;
+
+(3) terminally ill;
+
+(4) chronically mentally ill; or
+
+(5) individuals who have care of minor dependents.
+
+(c) Provision of Services to Dependents.— A recipient of a grant under subsection (a) may use amounts under the grant to provide services directly to a dependent of a homeless veteran with special needs who is under the care of such homeless veteran while such homeless veteran receives services from the grant recipient under this section.
+
+(d) Funding.— (1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2026, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+
+(2) The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
+
+(Added Pub. L. 107–95, § 5(a)(1), Dec. 21, 2001, 115 Stat. 913; amended Pub. L. 109–461, title VII, § 706, Dec. 22, 2006, 120 Stat. 3440; Pub. L. 112–37, § 13, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §§ 303, 305(d), Aug. 6, 2012, 126 Stat. 1184, 1188; Pub. L. 113–37, § 2(f)(3), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, § 207, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, § 305, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, § 306, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, § 305, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, § 146, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title III, § 5306, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title III, § 305, Sept. 30, 2022, 136 Stat. 2138; Pub. L. 118–83, div. B, title III, § 326, Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title III, § 7304, Nov. 12, 2025, 139 Stat. 650.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (d)(1). Pub. L. 119–37 substituted “2026” for “2025”. 2024—Subsec. (d)(1). Pub. L. 118–83 substituted “2025” for “2024”. 2022—Subsec. (d)(1). Pub. L. 117–180 substituted “2024” for “2022”. 2020—Subsec. (d)(1). Pub. L. 116–159 substituted “2022” for “2020”. 2018—Subsec. (d)(1). Pub. L. 115–251 substituted “2020” for “2019”. 2017—Subsec. (d)(1). Pub. L. 115–62 substituted “2019” for “2017”. 2016—Subsec. (d)(1). Pub. L. 114–228 substituted “2017” for “2016”. 2015—Subsec. (d)(1). Pub. L. 114–58 substituted “2016” for “2015”. 2014—Subsec. (d)(1). Pub. L. 113–175 substituted “2015” for “2014”. 2013—Subsec. (d)(1). Pub. L. 113–37 substituted “2007 through 2014” for “2007 through 2013”. 2012—Subsec. (a). Pub. L. 112–154, § 303(a), substituted “to entities eligible for grants and per diem payments under sections 2011 and 2012 of this title” for “to grant and per diem providers” and “by those facilities and entities” for “by those facilities and providers”. Subsec. (b)(1). Pub. L. 112–154, § 303(b)(1), struck out “, including women who have care of minor dependents” at end. Subsec. (b)(5). Pub. L. 112–154, § 303(b)(2)–(4), added par. (5). Subsecs. (c), (d). Pub. L. 112–154, § 303(c), added subsec. (c) and redesignated former subsec. (c) as (d). Subsec. (d)(1). Pub. L. 112–154, § 305(d), which directed amendment of subsec. (c)(1) by substituting “through 2013” for “through 2012”, was executed to subsec. (d)(1) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–154, § 303(c)(1). 2011—Subsec. (c)(1). Pub. L. 112–37 substituted “2012” for “2011”. 2006—Subsec. (c)(1). Pub. L. 109–461 substituted “Medical Services” for “Medical Care” and “fiscal years 2007 through 2011” for “fiscal years 2003, 2004, and 2005”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.
+
+Effective Date of 2013 AmendmentAmendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under section 322 of this title.
+
+Pilot Program on Grants for Health Care for Homeless VeteransPub. L. 117–328, div. U, title III, § 310, Dec. 29, 2022, 136 Stat. 5473, provided that: “(a) Pilot Program Required.—Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall commence carrying out a pilot program to assess the feasibility and advisability of awarding grants to eligible entities to meet the health care needs of—“(1) veterans who are homeless; “(2) veterans who were previously homeless and are transitioning to permanent housing; and “(3) veterans who are at risk of becoming homeless. “(b) Locations.—The Secretary shall carry out the pilot program at not fewer than five locations selected by the Secretary for purposes of the pilot program. “(c) Award of Grants.—“(1) In general.—In carrying out the pilot program, the Secretary shall award grants to eligible entities for the purpose described in subsection (a). “(2) Eligible entities.—For purposes of this section, an eligible entity is any entity that is providing transitional housing services to veterans as of the date on which the entity applies for a grant under this section. “(3) Preference.—In awarding grants under this section, the Secretary shall give preference to eligible entities that are recipients of grants under sections 2012 and 2061 of title 38, United States Code, as of the date on which the entity applies for a grant under this section. “(4) Equitable distribution; prioritization.—“(A) Equitable distribution.—The Secretary shall ensure that, to the extent practicable, grant amounts awarded under paragraph (1) are equitably distributed among eligible entities across geographic regions. “(B) Prioritization.—In awarding grants under this section, and in compliance with paragraphs (2) and (3), the Secretary may prioritize eligible entities located—“(i) in rural communities; “(ii) on Tribal lands; and “(iii) in areas where there is a significant population of veterans aged 55 years old and older. “(5) Intervals of payment and maximum grant amount.—The Secretary may establish intervals of payment for the administration of grants under this section and a maximum grant amount to be awarded, in accordance with the services being provided by staff hired using grant amounts and the duration of such services. “(d) Use of Grant Amounts.—The recipient of a grant under the pilot program—“(1) shall use grant amounts for the hiring of appropriately qualified medical staff to care for veterans described in subsection (a) who require assistance with activities of daily living or need consistent medical attention and monitoring; and “(2) may use such amounts for supplies, administrative support, and infrastructure needs associated with the duties of such staff and the needs of such veterans. “(e) Requirements for Receipt of Grants.—“(1) Notification that services are from department.—Each entity receiving a grant under this section shall notify the recipients of services provided pursuant to grant amounts that such services are being paid for, in whole or in part, by the Department. “(2) Coordination.—An entity receiving a grant under this section shall—“(A) coordinate with the Secretary with respect to the provision of clinical services to eligible individuals or any other provisions of the law regarding the delivery of health care by the Secretary; “(B) inform each veteran who receives assistance under this section from the entity of the ability of the veteran to apply for enrollment in the patient enrollment system of the Department under section 1705(a) of title 38, United States Code; and “(C) if such a veteran wishes to so enroll, inform the veteran of a point of contact at the Department who can assist the veteran in such enrollment. “(f) Report on Services Provided.—The Secretary shall require each eligible entity awarded a grant under this section to submit to the Secretary a report that describes the services provided or coordinated with amounts under such grant. “(g) Duration.—The Secretary shall carry out the pilot program during the five-year period beginning on the date on which the pilot program commences. “(h) Reports to Congress.—“(1) In general.—Not later than one year after the date on which the first grants are awarded under this section, and annually thereafter until the program terminates, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the effectiveness of the program. “(2) Elements.—The report required by paragraph (1) shall include the number of veterans served by the pilot program under the care of a staff member the funding for whom is provided by a grant under the program, disaggregated by—“(A) geographic location; “(B) sex; “(C) age; “(D) race and ethnicity; “(E) whether or not a veteran received health care from the Department during the two-year period preceding the date on which the veteran began participating in the program; “(F) the number of veterans who transitioned into permanent housing as a result of participation in the program; “(G) with respect to veterans who did not transition into permanent housing as a result of participation in the program, the main reasons for not so transitioning; “(H) discharge status; and “(I) eligibility for health care provided by the Department of Veterans Affairs.”
+
+Study of Outcome Effectiveness of Grant Program for Homeless Veterans With Special NeedsPub. L. 107–95, § 7, Dec. 21, 2001, 115 Stat. 919, required the Secretary of Veterans Affairs to conduct a study of the effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under this section in meeting the needs of homeless veterans with special needs and to submit to Congress a report on the study not later than Mar. 31, 2005.

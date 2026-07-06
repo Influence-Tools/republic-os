@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 8118"
+description: "Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "81"
+chapter_name: "ACQUISITION AND OPERATION OF HOSPITAL AND DOMICILIARY FACILITIES; PROCUREMENT AND SUPPLY; ENHANCED-USE LEASES OF REAL PROPERTY"
+section: "8118"
+citation: "38 U.S.C. § 8118"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s8118"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "74f9e1c47f64150381ace8a4a692ec0467bf879c5c2fc9fcfc6cec9fd0da5b84"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "4f3df28fe6865545084152c46101e234dc8fdf3d17048c0b17f01793a4105142"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 8118 - Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund
+
+## Text
+
+(a) (1) The Secretary may transfer real property under the jurisdiction or control of the Secretary (including structures and equipment associated therewith) to another department or agency of the United States, to a State (or a political subdivision of a State), or to any public or private entity, including an Indian tribe. Such a transfer may be made only if the Secretary receives compensation of not less than the fair market value of the property, except that no compensation is required, or compensation at less than fair market value may be accepted, in the case of a transfer to a grant and per diem provider (as defined in section 2002 of this title). When a transfer is made to a grant and per diem provider for less than fair market value, the Secretary shall require in the terms of the conveyance that if the property transferred is used for any purpose other than a purpose under chapter 20 of this title, all right, title, and interest to the property shall revert to the United States.
+
+(2) The Secretary may exercise the authority provided by this section notwithstanding sections 521, 522, and 541 through 545 of title 40. Any such transfer shall be in accordance with this section and section 8122 of this title.
+
+(3) The authority provided by this section may not be used in a case to which section 8164 of this title applies.
+
+(4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
+
+(5) The authority of the Secretary under paragraph (1) expires on September 30, 2026.
+
+(b) (1) There is established in the Treasury of the United States a revolving fund to be known as the Department of Veterans Affairs Capital Asset Fund (hereinafter in this section referred to as the “Fund”). Amounts in the Fund shall remain available until expended.
+
+(2) Proceeds from the transfer of real property under this section shall be deposited into the Fund.
+
+(3) To the extent provided in advance in appropriations Acts, amounts in the Fund may be expended for the following purposes:
+
+(A) Costs associated with the transfer of real property under this section, including costs of demolition, environmental remediation, maintenance and repair, improvements to facilitate the transfer, and administrative expenses.
+
+(B) Costs, including costs specified in subparagraph (A), associated with future transfers of property under this section.
+
+(C) Costs associated with enhancing medical care services to veterans by improving, renovating, replacing, updating, or establishing patient care facilities through construction projects to be carried out for an amount less than the amount specified in 8104(a)(3)(A) for a major medical facility project.
+
+(D) Costs, including costs specified in subparagraph (A), associated with the transfer, lease, or adaptive use of a structure or other property under the jurisdiction of the Secretary that is listed on the National Register of Historic Places.
+
+(c) The Secretary shall include in the budget justification materials submitted to Congress for any fiscal year in support of the President’s budget for that fiscal year for the Department specification of the following:
+
+(1) The real property transfers to be undertaken in accordance with this section during that fiscal year.
+
+(2) All transfers completed under this section during the preceding fiscal year and completed and scheduled to be completed during the fiscal year during which the budget is submitted.
+
+(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
+
+(Added Pub. L. 108–422, title IV, § 411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, § 10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, § 105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5103, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title IV, § 405, Sept. 30, 2022, 136 Stat. 2139; Pub. L. 118–83, div. B, title III, § 337, Sept. 26, 2024, 138 Stat. 1542; Pub. L. 119–37, div. G, title IV, § 7405, Nov. 12, 2025, 139 Stat. 654.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a)(5). Pub. L. 119–37 substituted “September 30, 2026” for “September 30, 2025”. 2024—Subsec. (a)(5). Pub. L. 118–83 substituted “September 30, 2025” for “September 30, 2024”. 2022—Subsec. (a)(5). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”. 2020—Subsec. (a)(5). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”. 2018—Subsec. (a)(5). Pub. L. 115–251 substituted “September 30, 2020” for “December 31, 2018”. 2011—Subsec. (a)(5). Pub. L. 112–37 substituted “December 31, 2018” for “the date that is seven years after the date of the enactment of this section”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see section 7406 of Pub. L. 119–37, set out as a note under section 111A of this title.
+
+Transfer of Unobligated Balances to Capital Asset FundPub. L. 108–422, title IV, § 411(d), Nov. 30, 2004, 118 Stat. 2389, provided that: “Any unobligated balances in the nursing home revolving fund under section 8116 of title 38, United States Code, as of the date of the enactment of this Act [Nov. 30, 2004] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of title 38, United States Code (as added by subsection (a)).” [Section 411(d) of Pub. L. 108–422, set out above, is effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, see section 411(f) of Pub. L. 108–422, set out as an Effective Date of 2004 Amendment note under section 1710B of this title.]

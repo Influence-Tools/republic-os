@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 9833"
+description: "Regulations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "100"
+chapter_name: "GROUP HEALTH PLAN REQUIREMENTS"
+section: "9833"
+citation: "26 U.S.C. § 9833"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s9833"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "600a2593c5bfb2672d468053053c9f0e192f10e854b7077f903df3dad78ddb82"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "b8ce54fbdc15cff50015b4d8fdf3d148f14e230b391fc9320d716404600e6e13"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 9833 - Regulations
+
+## Text
+
+The Secretary, consistent with section 104 of the Health Care Portability and Accountability Act of 1996, may promulgate such regulations as may be necessary or appropriate to carry out the provisions of this chapter. The Secretary may promulgate any interim final rules as the Secretary determines are appropriate to carry out this chapter.
+
+(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2082; § 9806; renumbered § 9833, Pub. L. 105–34, title XV, § 1531(a)(2), Aug. 5, 1997, 111 Stat. 1081.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 104 of the Health Care Portability and Accountability Act of 1996, referred to in text, is section 104 of Pub. L. 104–191, which is set out as a note under section 300gg–92 of Title 42, The Public Health and Welfare.
+
+Amendments1997—Pub. L. 105–34 renumbered section 9806 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.

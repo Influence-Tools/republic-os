@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 708"
+description: "Continuation of partnership"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "1"
+chapter_name: "NORMAL TAXES AND SURTAXES"
+section: "708"
+citation: "26 U.S.C. § 708"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s708"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "ad8277ddf04fea057bd9ed0684be5466700d385e75042379860760c4c5949e85"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "64ad0781c6d353954cbd9d92430a0f32782f06d0504ca1eb99ae99972397851f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 708 - Continuation of partnership
+
+## Text
+
+(a) General rule For purposes of this subchapter, an existing partnership shall be considered as continuing if it is not terminated.
+
+(b) Termination (1) General rule For purposes of subsection (a), a partnership shall be considered as terminated only if no part of any business, financial operation, or venture of the partnership continues to be carried on by any of its partners in a partnership.
+
+(2) Special rules (A) Merger or consolidation In the case of the merger or consolidation of two or more partnerships, the resulting partnership shall, for purposes of this section, be considered the continuation of any merging or consolidating partnership whose members own an interest of more than 50 percent in the capital and profits of the resulting partnership.
+
+(B) Division of a partnership In the case of a division of a partnership into two or more partnerships, the resulting partnerships (other than any resulting partnership the members of which had an interest of 50 percent or less in the capital and profits of the prior partnership) shall, for purposes of this section, be considered a continuation of the prior partnership.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 244; Pub. L. 115–97, title I, § 13504(a), Dec. 22, 2017, 131 Stat. 2141.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Subsec. (b)(1). Pub. L. 115–97 struck out dash after “only if” and subpar. (A) designation before “no part” and struck out subpar. (B) which read as follows: “within a 12-month period there is a sale or exchange of 50 percent or more of the total interest in partnership capital and profits”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2017 AmendmentAmendment by Pub. L. 115–97 applicable to partnership taxable years beginning after Dec. 31, 2017, see section 13504(c) of Pub. L. 115–97, set out as a note under section 168 of this title.

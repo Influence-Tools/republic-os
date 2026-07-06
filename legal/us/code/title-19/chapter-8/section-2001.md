@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2001"
+description: "Congressional declaration of purposes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "8"
+chapter_name: "AUTOMOTIVE PRODUCTS"
+section: "2001"
+citation: "19 U.S.C. § 2001"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2001"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "4aea9c384481c1d3df4e96765e5978faf778cdf37c0540cac791e021cf83512c"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "8a16e53d6134b941c24680eef3c7f2db9ddcef539361c901fbb441db7ed66151"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2001 - Congressional declaration of purposes
+
+## Text
+
+The purposes of this chapter are—
+
+(1) to provide for the implementation of the Agreement Concerning Automotive Products Between the Government of the United States of America and the Government of Canada signed on January 16, 1965 (hereinafter referred to as the “Agreement”), in order to strengthen the economic relations and expand trade in automotive products between the United States and Canada; and
+
+(2) to authorize the implementation of such other international agreements providing for the mutual reduction or elimination of duties applicable to automotive products as the Government of the United States may hereafter enter into.
+
+(Pub. L. 89–283, title I, § 102, Oct. 21, 1965, 79 Stat. 1016.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016, as amended. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 89–283, title I, § 101, Oct. 21, 1965, 79 Stat. 1016, provided that: “This Act [enacting this chapter, amending section 1202 of this title and Schedules 2, 3, 5, 6, and 7 of the Tariff Schedules of the United States, and enacting provisions set out as a note preceding section 1202 of this title] may be cited as the ‘Automotive Products Trade Act of 1965’.”

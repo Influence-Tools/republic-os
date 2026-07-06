@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3306"
+description: "Availability to public of certain intelligence funding information"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "45"
+chapter_name: "MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES"
+section: "3306"
+citation: "50 U.S.C. § 3306"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3306"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "891cf363b95e4e2253bb106ae6cb8b95a8d6f2bdbf4e9bcff872db6b81e3e482"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "08af9ef388d784cf5e383e24a25c71091f6eae96d503271b187530630a38b709"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3306 - Availability to public of certain intelligence funding information
+
+## Text
+
+(a) Budget request At the time that the President submits to Congress the budget for a fiscal year pursuant to section 1105 of title 31, the President shall disclose to the public the aggregate amount of appropriations requested for that fiscal year for the National Intelligence Program.
+
+(b) Amounts appropriated each fiscal year Not later than 30 days after the end of each fiscal year, the Director of National Intelligence shall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.
+
+(c) Waiver (1) In general The President may waive or postpone the disclosure required by subsection (a) or (b) for a fiscal year by submitting to the Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives—
+
+(A) a statement, in unclassified form, that the disclosure required in subsection (a) or (b) for that fiscal year would damage national security; and
+
+(B) a statement detailing the reasons for the waiver or postponement, which may be submitted in classified form.
+
+(2) Submission dates The President shall submit the statements required under paragraph (1)—
+
+(A) in the case of a waiver or postponement of a disclosure required under subsection (a), at the time of the submission of the budget for the fiscal year for which such disclosure is waived or postponed; and
+
+(B) in the case of a waiver or postponement of a disclosure required under subsection (b), not later than 30 days after the date of the end of the fiscal year for which such disclosure is waived or postponed.
+
+(d) Definition As used in this section, the term “National Intelligence Program” has the meaning given the term in section 3003(6) of this title.
+
+(Pub. L. 110–53, title VI, § 601, Aug. 3, 2007, 121 Stat. 335; Pub. L. 111–259, title III, § 364, Oct. 7, 2010, 124 Stat. 2702.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 415c of this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2010—Pub. L. 111–259 amended section generally. Prior to amendment, section related to availability to public of certain intelligence funding information.
+
+Statutory Notes and Related Subsidiaries
+
+Increased Transparency Regarding Counterterrorism Budget of the United StatesPub. L. 116–92, div. E, title LVII, § 5702, Dec. 20, 2019, 133 Stat. 2160, provided that: “(a) Findings.—Congress finds the following:“(1) Consistent with section 601(a) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (50 U.S.C. 3306(a)), the recent practice of the intelligence community has been to release to the public—“(A) around the date on which the President submits to Congress a budget for a fiscal year pursuant to section 1105 of title 31, United States Code, the ‘top-line’ amount of total funding requested for the National Intelligence Program for such fiscal year; and “(B) the amount of requested and appropriated funds for the National Intelligence Program and Military Intelligence Program for certain prior fiscal years, consistent with the protection of intelligence sources and methods. “(2) The Directorate of Strategic Operational Planning of the National Counterterrorism Center is responsible for producing an annual National Counterterrorism Budget report, which examines the alignment of intelligence and other resources in the applicable fiscal year budget with the counterterrorism goals and areas of focus in the National Strategy for Counterterrorism. “(b) Sense of Congress.—It is the sense of Congress that—“(1) despite the difficulty of compiling and releasing to the public comprehensive information on the resource commitments of the United States to counterterrorism activities and programs, including with respect to such activities and programs of the intelligence community, the United States Government could take additional steps to enhance the understanding of the public with respect to such resource commitments, in a manner consistent with the protection of intelligence sources and methods and other national security interests; and “(2) the United States Government should release to the public as much information as possible regarding the funding of counterterrorism activities and programs, including activities and programs of the intelligence community, in a manner consistent with the protection of intelligence sources and methods and other national security interests. “(c) Briefing on Public Release of Information.—“(1) Requirement.—Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], and not later than 90 days after the beginning of each fiscal year thereafter, the President shall ensure that the congressional intelligence committees receive a briefing from appropriate personnel of the United States Government on the feasibility of releasing to the public additional information relating to counterterrorism efforts of the intelligence community. “(2) Elements.—Each briefing required by paragraph (1) shall include a discussion of the feasibility of—“(A) subject to paragraph (3), releasing to the public the National Counterterrorism Budget report described in subsection (a)(2) for the prior fiscal year; and “(B) declassifying other reports, documents, or activities of the intelligence community relating to counterterrorism and releasing such information to the public in a manner consistent with the protection of intelligence sources and methods and other national security interests. “(3) Release of national counterterrorism budget report.—The President may satisfy the requirement under paragraph (2)(A) during a fiscal year by, not later than 90 days after the beginning of the fiscal year, releasing to the public the National Counterterrorism Budget report (with any redactions the Director determines necessary to protect intelligence sources and methods and other national security interests) for the prior fiscal year.” [For definitions of “intelligence community” and “congressional intelligence committees” as used in section 5702 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.]

@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 459e–6"
+description: "Administration, protection, and development"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "459e–6"
+citation: "16 U.S.C. § 459e–6"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s459e–6"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "fbb2463e7e390aed6a1fc36661a2463953fcbe576c5a323acde46e574605b607"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "7a761b5352b33b52060b0698225a83493620d62e1247a1077061bab5fdef4703"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 459e–6 - Administration, protection, and development
+
+## Text
+
+(a) Conservation of natural resources of Seashore; preservation and access to Sunken Forest Preserve The Secretary shall administer and protect the Fire Island National Seashore with the primary aim of conserving the natural resources located there. The area known as the Sunken Forest Preserve shall be preserved from bay to ocean in as nearly its present state as possible, without developing roads therein, but continuing the present access by those trails already existing and limiting new access to similar trails limited in number to those necessary to allow visitors to explore and appreciate this section of the seashore.
+
+(b) Access to Davis Park-Smith Point County Park area Access to that section of the seashore lying between the easterly boundary of the Ocean Ridge portion of Davis Park and the westerly boundary of the Smith Point County Park shall be provided by ferries and footpaths only, and no roads shall be constructed in this section except such minimum roads as may be necessary for park maintenance vehicles. No development or plan for the convenience of visitors shall be undertaken therein which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this section of the seashore as well as that set forth in the preceding paragraph in as nearly their present state and condition as possible.
+
+(c) Utilization of authority for conservation and development of natural resources; user fees In administering, protecting, and developing the entire Fire Island National Seashore, the Secretary shall be guided by the provisions of sections 459e to 459e–9 of this title and the applicable provisions of the laws relating to the national park system, and the Secretary may utilize any other statutory authority available to him for the conservation and development of natural resources to the extent he finds that such authority will further the purposes of sections 459e to 459e–9 of this title. Appropriate user fees may be collected notwithstanding any limitation on such authority by any provision of law.
+
+(Pub. L. 88–587, § 7, Sept. 11, 1964, 78 Stat. 931; Pub. L. 95–625, title III, § 322(c), Nov. 10, 1978, 92 Stat. 3489.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1978—Subsec. (b). Pub. L. 95–625 substituted “Ocean Ridge portion of Davis Park” for “Brookhaven town park at”.

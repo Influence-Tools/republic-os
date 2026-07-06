@@ -1,0 +1,103 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 3717"
+description: "National Quality Council"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "63"
+chapter_name: "TECHNOLOGY INNOVATION"
+section: "3717"
+citation: "15 U.S.C. § 3717"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s3717"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "823f00052be56140a605f2df9434d681cefc52d1a9d6c67df07e58379bbe9c28"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "58838ae2f5c0cf1cbd3127a623744084e5fd5e5d7aff862be40eb7a0addcad03"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 3717 - National Quality Council
+
+## Text
+
+(a) Establishment and functions There is established a National Quality Council (hereafter in this section referred to as the “Council”). The functions of the Council shall be—
+
+(1) to establish national goals and priorities for Quality performance in business, education, government, and all other sectors of the Nation;
+
+(2) to encourage and support the voluntary adoption of these goals and priorities by companies, unions, professional and business associations, coalition groups, and units of government, as well as private and nonprofit organizations;
+
+(3) to arouse and maintain the interest of the people of the United States in Quality performance, and to encourage the adoption and institution of Quality performance methods by all corporations, government agencies, and other organizations; and
+
+(4) to conduct a White House Conference on Quality Performance in the American Workplace that would bring together in a single forum national leaders in business, labor, education, professional societies, the media, government, and politics to address Quality performance as a means of improving United States competitiveness.
+
+(b) Membership The Council shall consist of not less than 17 or more than 20 members, appointed by the Secretary. Members shall include—
+
+(1) at least 2 but not more than 3 representatives from manufacturing industry;
+
+(2) at least 2 but not more than 3 representatives from service industry;
+
+(3) at least 2 but not more than 3 representatives from national Quality not-for-profit organizations;
+
+(4) two representatives from education, one with expertise in elementary and secondary education, and one with expertise in post-secondary education;
+
+(5) one representative from labor;
+
+(6) one representative from professional societies;
+
+(7) one representative each from local and State government;
+
+(8) one representative from the Federal Quality Institute;
+
+(9) one representative from the National Institute of Standards and Technology;
+
+(10) one representative from the Department of Defense;
+
+(11) one representative from a civilian Federal agency not otherwise represented on the Council, to be rotated among such agencies every 2 years; and
+
+(12) one representative from the Foundation for the Malcolm Baldrige National Quality Award.
+
+(c) Terms The term of office of each member of the Council appointed under paragraphs (1) through (7) of subsection (b) shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
+
+(d) Chairman and Vice Chairman The Secretary shall designate one of the members initially appointed to the Council as Chairman. Thereafter, the members of the Council shall annually elect one of their number as Chairman. The members of the Council shall also annually elect one of their members as Vice Chairman. No individual shall serve as Chairman or Vice Chairman for more than 2 consecutive years.
+
+(e) Executive Director and employees The Council shall appoint and fix the compensation of an Executive Director, who shall hire and fix the compensation of such additional employees as may be necessary to assist the Council in carrying out its functions. In hiring such additional employees, the Executive Director shall ensure that no individual hired has a conflict of interest with the responsibilities of the Council.
+
+(f) Funding There is established in the Treasury of the United States a National Quality Performance Trust Fund, into which all funds received by the Council, through private donations or otherwise, shall be deposited. Amounts in such Trust Fund shall be available to the Council, to the extent provided in advance in appropriations Acts, for the purpose of carrying out the functions of the Council under this Act.
+
+(g) Contributions The Council may not accept private donations from a single source in excess of $25,000 per year. Private donations from a single source in excess of $10,000 per year may be accepted by the Council only on approval of two-thirds of the Council.
+
+(h) Annual report The Council shall annually submit to the President and the Congress a comprehensive and detailed report on—
+
+(1) the progress in meeting the goals and priorities established by the Council;
+
+(2) the Council’s operations, activities, and financial condition;
+
+(3) contributions to the Council from non-Federal sources;
+
+(4) plans for the Council’s operations and activities for the future; and
+
+(5) any other information or recommendations the Council considers appropriate.
+
+(Pub. L. 102–245, title V, § 507, Feb. 14, 1992, 106 Stat. 27.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in subsec. (f), is Pub. L. 102–245, Feb. 14, 1992, 106 Stat. 7, known as the American Technology Preeminence Act of 1991. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 3701 of this title and Tables.
+
+Codification Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Termination of Reporting RequirementsFor termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to annually submitting a report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 184 of House Document No. 103–7.

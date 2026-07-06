@@ -1,0 +1,105 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 10202"
+description: "General provisions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "101"
+chapter_name: "JUSTICE SYSTEM IMPROVEMENT"
+section: "10202"
+citation: "34 U.S.C. § 10202"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s10202"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "e43b50b5a930c17fda1548ce80c3d48ae9edce3ba4292a73b14eeb0578a97bb9"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "e1bf15de3e238ea0e7001aca8237df769c83a2217e681dd7ab8655eefb1c8dc6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 10202 - General provisions
+
+## Text
+
+(a) The Bureau shall prepare both a “Program Brief” and “Implementation Guide” document for proven programs and projects to be funded under this subchapter.
+
+(b) The functions, powers, and duties specified in this subchapter to be carried out by the Bureau shall not be transferred elsewhere in the Department of Justice unless specifically hereafter authorized by the Congress by law.
+
+(c) (1) Notwithstanding any other provision of law, a grantee that uses funds made available under this subchapter to purchase an armor vest or body armor shall—
+
+(A) comply with any requirements established for the use of grants made under subchapter XXIV;
+
+(B) have a written policy requiring uniformed patrol officers to wear an armor vest or body armor; and
+
+(C) use the funds to purchase armor vests or body armor that meet any performance standards established by the Director of the Bureau of Justice Assistance.
+
+(2) In this subsection, the terms “armor vest”and “body armor” have the meanings given such terms in section 10533 of this title.
+
+(d) Trauma Kits.— (1) Definition.— In this subsection, the term “trauma kit” means a first aid response kit, which includes a bleeding control kit that can be used for controlling a life-threatening hemorrhage.
+
+(2) Requirement for trauma kits.— (A) In general.— Notwithstanding any other provision of law, a grantee may only purchase a trauma kit using funds made available under this subchapter if the trauma kit meets the performance standards established by the Director of the Bureau of Justice Assistance under paragraph (3)(A).
+
+(B) Authority to separately acquire.— Nothing in subparagraph (A) shall prohibit a grantee from separately acquiring the components of a trauma kit and assembling complete trauma kits that meet the performance standards.
+
+(3) Performance standards and optional agency best practices.— Not later than 180 days after December 18, 2025, the Director of the Bureau of Justice Assistance, in consultation with organizations representing trauma surgeons, emergency medical response professionals, emergency physicians, other medical professionals, relevant law enforcement agencies of States and units of local government, professional law enforcement organizations, local law enforcement labor or representative organizations, and law enforcement trade associations, shall—
+
+(A) develop and publish performance standards for trauma kits that are eligible for purchase using funds made available under this subchapter that, at a minimum, require the components described in paragraph (4) to be included in a trauma kit; and
+
+(B) develop and publish optional best practices for law enforcement agencies regarding—
+
+(i) training law enforcement officers in the use of trauma kits;
+
+(ii) the deployment and maintenance of trauma kits in law enforcement vehicles; and
+
+(iii) the deployment, location, and maintenance of trauma kits in law enforcement agency or other government facilities.
+
+(4) Components.— The components of a trauma kit described in this paragraph are—
+
+(A) a tourniquet recommended by the Committee on Tactical Combat Casualty Care;
+
+(B) a bleeding control bandage;
+
+(C) a pair of nonlatex protective gloves and a pen-type marker;
+
+(D) a pair of blunt-ended scissors;
+
+(E) instructional documents developed—
+
+(i) under the “Stop the Bleed” national awareness campaign of the Department of Homeland Security, or any successor thereto;
+
+(ii) by the American College of Surgeons Committee on Trauma;
+
+(iii) by the American Red Cross; or
+
+(iv) by any partner of the Department of Defense;
+
+(F) a bag or other container adequately designed to hold the contents of the kit; and
+
+(G) any additional trauma kit supplies that—
+
+(i) are approved by a State, local, or Tribal law enforcement agency or first responders;
+
+(ii) can adequately treat a traumatic injury; and
+
+(iii) can be stored in a readily available kit.
+
+(Pub. L. 90–351, title I, § 521, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 114–155, § 6, May 16, 2016, 130 Stat. 390; Pub. L. 119–60, div. H, title LXXXII, § 8203, Dec. 18, 2025, 139 Stat. 1844.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 3766a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Prior ProvisionsA prior section 521 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 208; Pub. L. 91–644, title I, § 7(9), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 215; Pub. L. 94–503, title I, §§ 127, 128(a), Oct. 15, 1976, 90 Stat. 2424, related to recordkeeping requirements, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
+
+Amendments2025—Subsec. (d). Pub. L. 119–60 added subsec. (d). 2016—Subsec. (c). Pub. L. 114–155 added subsec. (c).

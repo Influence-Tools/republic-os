@@ -1,0 +1,91 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 6445"
+description: "Description of Presidential actions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "73"
+chapter_name: "INTERNATIONAL RELIGIOUS FREEDOM"
+section: "6445"
+citation: "22 U.S.C. § 6445"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s6445"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "f86f07850f814638d2716345731059baf6470f9e1fa4fa8d83912f7a198d530e"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "66b7399739bbaea24eb25ae7d0e4e75a6c8f174140e421a565097258a61bb0c8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 6445 - Description of Presidential actions
+
+## Text
+
+(a) Description of Presidential actions Except as provided in subsection (d), the Presidential actions referred to in this subsection are the following:
+
+(1) A private demarche.
+
+(2) An official public demarche.
+
+(3) A public condemnation.
+
+(4) A public condemnation within one or more multilateral fora.
+
+(5) The delay or cancellation of one or more scientific exchanges.
+
+(6) The delay or cancellation of one or more cultural exchanges.
+
+(7) The denial of one or more working, official, or state visits.
+
+(8) The delay or cancellation of one or more working, official, or state visits.
+
+(9) The withdrawal, limitation, or suspension of United States development assistance in accordance with section 2151n of this title.
+
+(10) Directing the Export-Import Bank of the United States, the United States International Development Finance Corporation, or the Trade and Development Agency not to approve the issuance of any (or a specified number of) guarantees, insurance, extensions of credit, or participations in the extension of credit with respect to the specific government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
+
+(11) The withdrawal, limitation, or suspension of United States security assistance in accordance with section 2304 of this title.
+
+(12) Consistent with section 262d of this title, directing the United States executive directors of international financial institutions to oppose and vote against loans primarily benefiting the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
+
+(13) Ordering the heads of the appropriate United States agencies not to issue any (or a specified number of) specific licenses, and not to grant any other specific authority (or a specified number of authorities), to export any goods or technology to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title, under—
+
+(A) the Export Administration Act of 1979;
+
+(B) the Arms Export Control Act [22 U.S.C. 2751 et seq.];
+
+(C) the Atomic Energy Act of 1954 [42 U.S.C. 2011 et seq.]; or
+
+(D) any other statute that requires the prior review and approval of the United States Government as a condition for the export or reexport of goods or services.
+
+(14) Prohibiting any United States financial institution from making loans or providing credits totaling more than $10,000,000 in any 12-month period to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
+
+(15) Prohibiting the United States Government from procuring, or entering into any contract for the procurement of, any goods or services from the foreign government, entities, or officials found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
+
+(b) Commensurate action Except as provided in subsection (d), the President may substitute any other action authorized by law for any action described in paragraphs (1) through (15) of subsection (a) if such action is commensurate in effect to the action substituted and if the action would further the policy of the United States set forth in section 6401(b) of this title. The President shall seek to take all appropriate and feasible actions authorized by law to obtain the cessation of the violations. If commensurate action is taken, the President shall report such action, together with an explanation for taking such action, to the appropriate congressional committees.
+
+(c) Binding agreements The President may negotiate and enter into a binding agreement with a foreign government that obligates such government to cease, or take substantial steps to address and phase out, the act, policy, or practice constituting the violation of religious freedom. The entry into force of a binding agreement for the cessation of the violations shall be a primary objective for the President in responding to a foreign government that has engaged in or tolerated particularly severe violations of religious freedom.
+
+(d) Exceptions Any action taken pursuant to subsection (a) or (b) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.
+
+(Pub. L. 105–292, title IV, § 405, Oct. 27, 1998, 112 Stat. 2806; Pub. L. 115–254, div. F, title VI, § 1470(o), Oct. 5, 2018, 132 Stat. 3518.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables. The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+
+Amendments2018—Subsec. (a)(10). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.

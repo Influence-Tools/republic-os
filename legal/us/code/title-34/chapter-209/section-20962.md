@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 20962"
+description: "Schools SAFE Act"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "209"
+chapter_name: "CHILD PROTECTION AND SAFETY"
+section: "20962"
+citation: "34 U.S.C. § 20962"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s20962"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "72daa5a6c71b0096c28bb2308f7d7e06c5de0e13d187433ccb2f21a35ed8f508"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "c60e7a20ae7508d6b642d79d22138430f1158f3e6cd18d8883d3e6171bcaaa58"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 20962 - Schools SAFE Act
+
+## Text
+
+(a) Short title This section may be cited as the “Schools Safely Acquiring Faculty Excellence Act of 2006”.
+
+(b) In general The Attorney General of the United States shall, upon request of the chief executive officer of a State, conduct fingerprint-based checks of the national crime information databases (as defined in section 534(f)(3)(A) of title 28) pursuant to a request submitted by—
+
+(1) a child welfare agency for the purpose of—
+
+(A) conducting a background check required under section 471(a)(20) of the Social Security Act [42 U.S.C. 671(a)(20)] on individuals under consideration as prospective foster or adoptive parents; or
+
+(B) an investigation relating to an incident of abuse or neglect of a minor; or
+
+(2) a private or public elementary school, a private or public secondary school, a local educational agency, or State educational agency in that State, on individuals employed by, under consideration for employment by, or otherwise in a position in which the individual would work with or around children in the school or agency.
+
+(c) Fingerprint-based check Where possible, the check shall include a fingerprint-based check of State criminal history databases.
+
+(d) Fees The Attorney General and the States may charge any applicable fees for the checks.
+
+(e) Protection of information An individual having information derived as a result of a check under subsection (b) may release that information only to appropriate officers of child welfare agencies, public or private elementary or secondary schools, or educational agencies or other persons authorized by law to receive that information.
+
+(f) Criminal penalties An individual who knowingly exceeds the authority in subsection (b), or knowingly releases information in violation of subsection (e), shall be imprisoned not more than 10 years or fined under title 18, or both.
+
+(g) Child welfare agency defined In this section, the term “child welfare agency” means—
+
+(1) the State or local agency responsible for administering the plan under part B or part E of title IV of the Social Security Act [42 U.S.C. 620 et seq., 670 et seq.]; and
+
+(2) any other public agency, or any other private agency under contract with the State or local agency responsible for administering the plan under part B or part E of title IV of the Social Security Act, that is responsible for the licensing or approval of foster or adoptive parents.
+
+(h) Definition of education terms In this section, the terms “elementary school”, “local educational agency”, “secondary school”, and “State educational agency” have the meanings given to those terms in section 7801 of title 20.
+
+(Pub. L. 109–248, title I, § 153, July 27, 2006, 120 Stat. 610; Pub. L. 114–95, title IX, § 9215(b), Dec. 10, 2015, 129 Stat. 2166.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§ 620 et seq.) and part E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Codification Section is comprised of section 153 of Pub. L. 109–248. Subsec. (i) of section 153 of Pub. L. 109–248 amended section 534 of Title 28, Judiciary and Judicial Procedure. Section was formerly classified to section 16962 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+Amendments2015—Subsec. (h). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.

@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 57b–2b"
+description: "Protection for voluntary provision of information"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "2"
+chapter_name: "FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION"
+section: "57b–2b"
+citation: "15 U.S.C. § 57b–2b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s57b–2b"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "66bc481b8f8de694fd2fff737cac7f343e43d25542b6c956b82bd904b28d4f9a"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "249d1cf0f64efb0d99bb00864a3e397a403a9ffdfd57311f0f5028171525ddca"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 57b–2b - Protection for voluntary provision of information
+
+## Text
+
+(a) In general (1) No liability for providing certain material An entity described in paragraphs (2) or (3) of subsection (d) that voluntarily provides material to the Commission that such entity reasonably believes is relevant to—
+
+(A) a possible unfair or deceptive act or practice, as defined in section 45(a) of this title; or
+
+(B) assets subject to recovery by the Commission, including assets located in foreign jurisdictions;
+
+shall not be liable to any person under any law or regulation of the United States, or under the constitution, or any law or regulation, of any State, political subdivision of a State, territory of the United States, or the District of Columbia, for such provision of material or for any failure to provide notice of such provision of material or of intention to so provide material.
+
+(2) Limitations Nothing in this subsection shall be construed to exempt any such entity from liability—
+
+(A) for the underlying conduct reported; or
+
+(B) to any Federal agency for providing such material or for any failure to comply with any obligation the entity may have to notify a Federal agency prior to providing such material to the Commission.
+
+(b) Certain financial institutions An entity described in paragraph (1) of subsection (d) shall, in accordance with section 5318(g)(3) of title 31, be exempt from liability for making a voluntary disclosure to the Commission of any possible violation of law or regulation, including—
+
+(1) a disclosure regarding assets, including assets located in foreign jurisdictions—
+
+(A) related to possibly fraudulent or deceptive commercial practices;
+
+(B) related to persons involved in such practices; or
+
+(C) otherwise subject to recovery by the Commission; or
+
+(2) a disclosure regarding suspicious chargeback rates related to possibly fraudulent or deceptive commercial practices.
+
+(c) Consumer complaints Any entity described in subsection (d) that voluntarily provides consumer complaints sent to it, or information contained therein, to the Commission shall not be liable to any person under any law or regulation of the United States, or under the constitution, or any law or regulation, of any State, political subdivision of a State, territory of the United States, or the District of Columbia, for such provision of material or for any failure to provide notice of such provision of material or of intention to so provide material. This subsection shall not provide any exemption from liability for the underlying conduct.
+
+(d) Application This section applies to the following entities, whether foreign or domestic:
+
+(1) A financial institution as defined in section 5312 of title 31.
+
+(2) To the extent not included in paragraph (1), a bank or thrift institution, a commercial bank or trust company, an investment company, a credit card issuer, an operator of a credit card system, and an issuer, redeemer, or cashier of travelers’ checks, money orders, or similar instruments.
+
+(3) A courier service, a commercial mail receiving agency, an industry membership organization, a payment system provider, a consumer reporting agency, a domain name registrar or registry acting as such, and a provider of alternative dispute resolution services.
+
+(4) An Internet service provider or provider of telephone services.
+
+(Sept. 26, 1914, ch. 311, § 21B, as added Pub. L. 109–455, § 8, Dec. 22, 2006, 120 Stat. 3380.)
+
+## Notes
+
+Repeal of SectionFor repeal of section by section 13 of Pub. L. 109–455, see Effective Date of Repeal note below.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of RepealSection repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.

@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 40114"
+description: "Reports and records"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "401"
+chapter_name: "GENERAL PROVISIONS"
+section: "40114"
+citation: "49 U.S.C. § 40114"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s40114"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "8983e19952967158c5252c36499f6176b0760e65e8c01f5d36894a7459b72194"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "798e80f469fd2c84bcf32561edd85c381c8795716b85ae47e38e65f552cfda5c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 40114 - Reports and records
+
+## Text
+
+(a) Written Reports.— (1) Except as provided in this part, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall make a written report of each proceeding and investigation under this part in which a formal hearing was held and shall provide a copy to each party to the proceeding or investigation. The report shall include the decision, conclusions, order, and requirements of the Secretary or Administrator as appropriate.
+
+(2) The Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall have all reports, orders, decisions, and regulations the Secretary or Administrator, as appropriate, issues or prescribes published in the form and way best adapted for public use. A publication of the Secretary or Administrator is competent evidence of its contents.
+
+(b) Public Records.— Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Department of Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1110.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 40114(a)(1)49 App.:1324(d) (1st, 2d sentences).Aug. 23, 1958, Pub. L. 85–726, §§ 204(d), 313(b), 1103, 72 Stat. 743, 753, 797.  49 App.:1354(b) (1st, 2d sentences).  49 App.:1551(b)(1)(E).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, § 3(e), 98 Stat. 1704.  49 App.:1655(c)(1).Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, § 7(b), 96 Stat. 2444. 40114(a)(2)49 App.:1324(d) (3d, last sentences).  49 App.:1354(b) (3d, last sentences).  49 App.:1551(b)(1)(E).  49 App.:1655(c)(1). 40114(b)49 App.:1503.  49 App.:1551(b)(1)(E). In subsection (a), the word “Administrator” in section 313(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 753) is retained on authority of 49:106(g). In subsection (a)(1), the words “otherwise”, “requirement in the premises”, and “shall be entered of record” are omitted as surplus. In subsection (a)(2), the word “rules” is omitted as being synonymous with “regulations”. The word “prescribes” is added for consistency in the revised title and with other titles of the United States Code. The words “under this chapter” and “information and” are omitted as surplus. The words “A publication of the Secretary or Administrator is competent evidence of its contents” is substituted for 49 App.:1324(d) (last sentence) to eliminate unnecessary words and for consistency. In subsection (b), the words “otherwise”, “all contracts, agreements, understandings, and”, “annual or other”, “of air carriers and other persons”, and “preserved as” are omitted as surplus. The last sentence is substituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
+
+Statutory Notes and Related Subsidiaries
+
+Consolidation or Elimination of Obsolete, Redundant, or Otherwise Unnecessary Reports; Use of Electronic Media FormatPub. L. 112–95, title VIII, § 806, Feb. 14, 2012, 126 Stat. 121, provided that: “(a) Consolidation or Elimination of Reports.—Not later than 2 years after the date of enactment of this Act [Feb. 14, 2012], and every 2 years thereafter, the Administrator of the Federal Aviation Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing—“(1) a list of obsolete, redundant, or otherwise unnecessary reports the Administration is required by law to submit to Congress or publish that the Administrator recommends eliminating or consolidating with other reports; and “(2) an estimate of the cost savings that would result from the elimination or consolidation of those reports. “(b) Use of Electronic Media for Reports.—“(1) In general.—Notwithstanding any other provision of law, the Administration—“(A) may not publish any report required or authorized by law in a printed format; and “(B) shall publish any such report by posting it on the Administration’s Internet Web site in an easily accessible and downloadable electronic format. “(2) Exception.—Paragraph (1) does not apply to any report with respect to which the Administrator determines that—“(A) its publication in a printed format is essential to the mission of the Administration; or “(B) its publication in accordance with the requirements of paragraph (1) would disclose matter—“(i) described in section 552(b) of title 5, United States Code; or “(ii) the disclosure of which would have an adverse impact on aviation safety or security, as determined by the Administrator.”

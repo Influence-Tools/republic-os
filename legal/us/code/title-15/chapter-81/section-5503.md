@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 5503"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "81"
+chapter_name: "HIGH-PERFORMANCE COMPUTING"
+section: "5503"
+citation: "15 U.S.C. § 5503"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s5503"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "06f84a0021a74a9173a3bdaa9c05675cd64ad8b637e6ce0b6025e63c061c1ed0"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "911a2ee35ee062e3348c7dc47c4ec7f0e01cc7e54fb4e67abd68fea50a73c8c5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 5503 - Definitions
+
+## Text
+
+As used in this chapter, the term—
+
+(1) “cyber-physical systems” means physical or engineered systems whose networking and information technology functions and physical elements are deeply integrated and are actively connected to the physical world through sensors, actuators, or other means to enable safe and effective, real-time performance in safety-critical and other applications;
+
+(2) “Director” means the Director of the Office of Science and Technology Policy;
+
+(3) “Grand Challenge” means a fundamental problem in science or engineering, with broad economic and scientific impact, whose solution will require the application of networking and information technology resources and multidisciplinary teams of researchers;
+
+(4) “high-end computing” means the most advanced and capable computing systems, including their hardware, storage, networking and software, encompassing both massive computational capability and large-scale data analytics to solve computational problems of national importance that are beyond the capability of small- to medium-scale systems, including computing formerly known as high-performance computing;
+
+(5) “Internet” means the international computer network of both Federal and non-Federal interoperable data networks;
+
+(6) “networking and information technology” means high-end computing, communications, and information technologies, high-capacity and high-speed networks, special purpose and experimental systems, high-end computing systems software and applications software, and the management of large data sets;
+
+(7) “participating agency” means an agency described in section 5511(a)(3)(C) of this title;
+
+(8) “Program” means the Networking and Information Technology Research and Development Program described in section 5511 of this title; and
+
+(9) “Program Component Areas” means the major subject areas under which related individual projects and activities carried out under the Program are grouped.
+
+(Pub. L. 102–194, § 4, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 105–305, § 7(b), Oct. 28, 1998, 112 Stat. 2924; Pub. L. 110–69, title VII, § 7024(a)(2), Aug. 9, 2007, 121 Stat. 689; Pub. L. 114–329, title I, § 105(d), Jan. 6, 2017, 130 Stat. 2977.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Pars. (1), (2). Pub. L. 114–329, § 105(d)(2), (3), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3). Par. (3). Pub. L. 114–329, § 105(d)(1), (2), (4), redesignated par. (2) as (3), substituted “networking and information technology” for “high-performance computing”, and struck out former par. (3) which read as follows: “ ‘high-performance computing’ means advanced computing, communications, and information technologies, including supercomputer systems, high-capacity and high-speed networks, special purpose and experimental systems, applications and systems software, and the management of large data sets;”. Par. (4). Pub. L. 114–329, § 105(d)(5), added par. (4). Former par. (4) redesignated (5). Par. (5). Pub. L. 114–329, § 105(d)(1), (2), redesignated par. (4) as (5) and struck out former par. (5) which read as follows: “ ‘Network’ means a computer network referred to as the National Research and Education Network established under section 5512 of this title;”. Pars. (6), (7). Pub. L. 114–329, § 105(d)(6), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively. Par. (8). Pub. L. 114–329, § 105(d)(2), (7), redesignated par. (6) as (8) and substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program”. Par. (9). Pub. L. 114–329, § 105(d)(2), redesignated par. (7) as (9). 2007—Par. (2). Pub. L. 110–69, § 7024(a)(2)(A), inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”. Par. (3). Pub. L. 110–69, § 7024(a)(2)(B), struck out “scientific workstations,” after “technologies, including” and “(including vector supercomputers and large scale parallel systems)” after “supercomputer systems”, substituted “applications” for “and applications”, and inserted “, and the management of large data sets” after “systems software”. Par. (4). Pub. L. 110–69, § 7024(a)(2)(C), struck out “packet switched” before “data networks”. Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7). 1998—Pars. (4) to (6). Pub. L. 105–305 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.

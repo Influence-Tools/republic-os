@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 2719b"
+description: "Training and professional development prioritization"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "38"
+chapter_name: "DEPARTMENT OF STATE"
+section: "2719b"
+citation: "22 U.S.C. § 2719b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s2719b"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "615de142f1172188a3194add04ead71f31861136bcddd9be8fa1777816d49638"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "9aa7e9e4fdb7cca7fb6c6ef9ed49d9dac06c8e8a26da442b7b38b58e611dd5ee"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 2719b - Training and professional development prioritization
+
+## Text
+
+In order to provide the Civil Service and the Foreign Service with the level of professional development and training needed to effectively advance United States interests across the world, the Secretary of State shall—
+
+(1) increase relevant offerings provided by the Department of State—
+
+(A) of interactive virtual instruction to make training and professional development more accessible and useful to personnel deployed throughout the world; or
+
+(B) at partner organizations, including universities, industry entities, and nongovernmental organizations, throughout the United States to provide useful outside perspectives to Department of State personnel by providing such personnel—
+
+(i) a more comprehensive outlook on different sectors of United States society;
+
+(ii) practical experience dealing with commercial corporations, universities, labor unions, and other institutions critical to United States diplomatic success; and
+
+(iii) courses specifically focused on commercial diplomacy that increase the understanding of private sector needs that arise as United States companies enter and compete in the international market;
+
+(2) provide the opportunity to participate in courses using computer-based or computer-assisted simulations, allowing civilian officers to lead decision making in a crisis environment, and encourage officers of the Department of State, and reciprocally, officers of other Federal departments to participate in similar exercises held by the Department of State or other government organizations and the private sector;
+
+(3) increase the duration and expand the focus of certain training and professional development courses, including by extending—
+
+(A) the A–100 entry-level course to as long as 12 weeks, which better matches the length of entry-level training and professional development provided to the officers in other national security departments and agencies; and
+
+(B) the Chief of Mission course to as long as 6 weeks for first time Chiefs of Mission and creating comparable courses for new Assistant Secretaries and Deputy Assistant Secretaries to more accurately reflect the significant responsibilities accompanying such roles; and
+
+(4) ensure that Foreign Service officers who are assigned to a country experiencing significant population displacement due to the impacts of climatic and non-climatic shocks and stresses, including rising sea levels and lack of access to affordable and reliable energy and electricity, receive specific instruction on United States policy with respect to resiliency and adaptation to such climatic and non-climatic shocks and stresses.
+
+(Pub. L. 117–81, div. E, title LI, § 5108(c), Dec. 27, 2021, 135 Stat. 2349; Pub. L. 117–263, div. I, title XCII, § 9205(c), Dec. 23, 2022, 136 Stat. 3865.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to prioritization of foreign affairs training by the Department of State.

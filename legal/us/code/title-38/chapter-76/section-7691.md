@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 7691"
+description: "Establishment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "76"
+chapter_name: "HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM"
+section: "7691"
+citation: "38 U.S.C. § 7691"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s7691"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "58523e812194b1192cbe9ca19ca661b1cb71c942de228d2be0a6cc47f43ec7ca"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "e02530c117eb4a99d3a8c26888e1122ec2b4233230eac48fcf8eaf33aa447f4f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 7691 - Establishment
+
+## Text
+
+As part of the Educational Assistance Program, the Secretary may carry out a student loan repayment program under section 5379 of title 5. The program shall be known as the Department of Veterans Affairs Specialty Education Loan Repayment Program (in this chapter referred to as the “Specialty Education Loan Repayment Program”).
+
+(Added Pub. L. 115–182, title III, § 303(a), June 6, 2018, 132 Stat. 1464.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Offer DeadlinePub. L. 115–182, title III, § 303(e), June 6, 2018, 132 Stat. 1467, as amended by Pub. L. 115–251, title II, § 211(b)(6)(B), Sept. 29, 2018, 132 Stat. 3177, provided that: “In the case of an applicant who applies before receiving a residency match and whom the Secretary of Veterans Affairs selects for participation in the Specialty Education Loan Repayment Program under subchapter VIII of chapter 76 of title 38, United States Code, as enacted by subsection (a), the Secretary shall offer participation to the applicant not later than 28 days after— “(1) the applicant matches with a residency in a medical specialty described in section 7692 of title 38, United States Code, as enacted by subsection (a); and “(2) such match is published.”
+
+PublicityPub. L. 115–182, title III, § 303(f), June 6, 2018, 132 Stat. 1467, provided that: “The Secretary of Veterans Affairs shall take such steps as the Secretary determines are appropriate to publicize the Specialty Education Loan Repayment Program established under subchapter VIII of chapter 76 of title 38, United States Code, as enacted by subsection (a).”

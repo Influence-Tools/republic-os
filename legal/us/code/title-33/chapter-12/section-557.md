@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 557"
+description: "Payment of costs of printing"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "12"
+chapter_name: "RIVER AND HARBOR IMPROVEMENTS GENERALLY"
+section: "557"
+citation: "33 U.S.C. § 557"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s557"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "5677439afbd44f030485cae80033bfa65c25e1e6c61970d8dd1a63b87ae59645"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "cda9099f3741b4e6de2efea6845b7aeab28a622007ba9d084faebb8232f0cf80"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 557 - Payment of costs of printing
+
+## Text
+
+The printing of matter relating to river and harbor works, including all reports, compilations, regulations, and so forth, whose preparation is allowable under Department of the Army regulations, shall be done and paid for out of regular annual appropriations for printing and binding for the Department of the Army.
+
+(July 25, 1912, ch. 253, § 13, 37 Stat. 234; July 1, 1916, ch. 209, § 1, 39 Stat. 330; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section is from section 1 of act July 1, 1916, repealing section 13 of act July 25, 1912. Section 1 of that act was a provision, following an appropriation for printing for the War Department, of the Sundry Civil Appropriation Act for 1917. The repealed section 13 of act July 25, 1912, read as follows: “The printing of matter relating to river and harbor works, including all reports, compilations, regulations, and so forth, whose preparation is allowable under War Department regulations, may, upon recommendation of the Chief of Engineers and approval by the Secretary of War, be paid for from river and harbor appropriations.”
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2354"
+description: "Easements for electric, telephone, or broadband service facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2354"
+citation: "33 U.S.C. § 2354"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2354"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "84338636f7a4102ec0c6abe4269cd92d59264236adaced3d4ee1f6bcd2604617"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "a21dd35b64ad538c0e53f368fe8bb6de97eff077b38d5dd955f51d84d1c7a3a5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2354 - Easements for electric, telephone, or broadband service facilities
+
+## Text
+
+(a) Definition of water resources development project In this section, the term “water resources development project” means a project under the administrative jurisdiction of the Corps of Engineers that is subject to part 327 of title 36, Code of Federal Regulations (or successor regulations).
+
+(b) No consideration for easements The Secretary may not collect consideration for an easement across water resources development project land for the electric, telephone, or broadband service facilities of nonprofit organizations eligible for financing under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.).
+
+(c) Administrative expenses Nothing in this section affects the authority of the Secretary under section 2695 of title 10 or under section 9701 of title 31 to collect funds to cover reasonable administrative expenses incurred by the Secretary.
+
+(Pub. L. 114–322, title I, § 1172, Dec. 16, 2016, 130 Stat. 1671.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Rural Electrification Act of 1936, referred to in subsec. (b), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+
+Codification Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Nonrecreation Outgrant PolicyPub. L. 118–272, div. A, title I, § 1113, Jan. 4, 2025, 138 Stat. 3010, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Jan. 4, 2025], the Secretary [of the Army] shall update the policy guidance of the Corps of Engineers for the evaluation and approval of nonrecreational real estate outgrant requests for the installation, on lands and waters operated and maintained by the Secretary, of infrastructure for the provision of broadband services. “(b) Requirements.—In updating the policy guidance under subsection (a), the Secretary shall ensure that the policy guidance—“(1) requires the consideration of benefits to the public in evaluating a request described in subsection (a); “(2) requires the Secretary to consider financial factors when determining whether there is a viable alternative to the installation for which approval is requested as described in subsection (a); “(3) requires that a request described in subsection (a) be expeditiously approved or denied after submission of a completed application for such request; and “(4) requires the Secretary to include in any denial of such a request detailed information on the justification for the denial. “(c) Savings Clause.—Nothing in this section affects or alters the responsibility of the Secretary—“(1) to sustain and protect the natural resources of lands and waters operated and maintained by the Secretary; or “(2) to carry out a water resources development project consistent with the purposes for which such project is authorized.”
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.

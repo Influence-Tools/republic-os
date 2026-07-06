@@ -1,0 +1,143 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 274"
+description: "Organ procurement and transplantation network"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "274"
+citation: "42 U.S.C. § 274"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s274"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "deafc68c470e52fde43f2c4165809534ead12bd86a64ad624fcff6a0518f560b"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "95636da5eeadbed67b2e4818cb6edf526281ee5d90f95972b9282d3e286e26f4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 274 - Organ procurement and transplantation network
+
+## Text
+
+(a) In general The Secretary shall provide for the continued operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b). The Secretary may award grants, contracts, or cooperative agreements, as the Secretary determines appropriate, for purposes of carrying out this section.
+
+(b) Composition (1) In general.— The Organ Procurement and Transplantation Network shall—
+
+(A) be operated through awards to public or private entities made by the Secretary that are distinct from the awards made to support the organization tasked with supporting the board of directors described in subparagraph (B); and
+
+(B) have a board of directors—
+
+(i) that includes representatives of organ procurement organizations (including organizations that have received grants under section 273 of this title), transplant centers, voluntary health associations, and the general public; and
+
+(ii) that shall establish an executive committee and other committees, whose chairpersons shall be selected to ensure continuity of leadership for the board.
+
+(2) The Organ Procurement and Transplantation Network shall—
+
+(A) establish in one location or through regional centers—
+
+(i) a national list of individuals who need organs; and
+
+(ii) a national system, through the use of computers and in accordance with established medical criteria, to match organs and individuals included in the list, especially individuals whose immune system makes it difficult for them to receive organs;
+
+(B) establish membership criteria and medical criteria for allocating organs and provide to members of the public an opportunity to comment with respect to such criteria;
+
+(C) maintain a 24-hour telephone or information technology service to facilitate matching organs with individuals included in the list;
+
+(D) assist organ procurement organizations in the nationwide distribution of organs equitably among transplant patients;
+
+(E) adopt and use standards of quality for the acquisition and transportation of donated organs;
+
+(F) prepare and distribute, on a regionalized basis (and, to the extent practicable, among regions or on a national basis), samples of blood sera from individuals who are included on the list and whose immune system makes it difficult for them to receive organs, in order to facilitate matching the compatibility of such individuals with organ donors;
+
+(G) coordinate, as appropriate, the transportation of organs from organ procurement organizations to transplant centers;
+
+(H) provide information to physicians and other health professionals regarding organ donation;
+
+(I) collect, analyze, and publish data concerning organ donation and transplants;
+
+(J) carry out studies and demonstration projects for the purpose of improving procedures for organ procurement and allocation;
+
+(K) work actively to increase the supply of donated organs;
+
+(L) submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network;
+
+(M) recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children;
+
+(N) carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation;
+
+(O) provide that for purposes of this paragraph, the term “children” refers to individuals who are under the age of 18;
+
+(P) encourage the integration of electronic health records systems through application programming interfaces (or successor technologies) among hospitals, organ procurement organizations, and transplant centers, including the use of automated electronic hospital referrals and the grant of remote, electronic access to hospital electronic health records of potential donors by organ procurement organizations, in a manner that complies with the privacy regulations promulgated under the Health Insurance Portability and Accountability Act of 1996, at part 160 of title 45, Code of Federal Regulations, and subparts A, C, and E of part 164 of such title (or any successor regulations); and
+
+(Q) consider establishing a dashboard to display the number of transplants performed, the types of transplants performed, the number and types of organs that entered the Organ Procurement and Transplantation Network system and failed to be transplanted, and other appropriate statistics, which should be updated more frequently than annually.
+
+(3) Clarification.— In adopting and using standards of quality under paragraph (2)(E), the Organ Procurement and Transplantation Network may adopt and use such standards with respect to organs infected with human immunodeficiency virus (in this paragraph referred to as “HIV”), provided that any such standards ensure that organs infected with HIV may be transplanted only into individuals who—
+
+(A) are infected with HIV before receiving such organ; and
+
+(B) (i) are participating in clinical research approved by an institutional review board under the criteria, standards, and regulations described in subsections (a) and (b) of section 274f–5 of this title; or
+
+(ii) if the Secretary has determined under section 274f–5(c) of this title that participation in such clinical research, as a requirement for such transplants, is no longer warranted, are receiving a transplant under the standards and regulations under section 274f–5(c) of this title.
+
+(c) Consideration of critical comments The Secretary shall establish procedures for—
+
+(1) receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b); and
+
+(2) the consideration by the Secretary of such critical comments.
+
+(d) Registration fees (1) In general The Secretary may collect registration fees from any member of the Organ Procurement and Transplantation Network for each transplant candidate such member places on the list described in subsection (b)(2)(A)(i). Such registration fees shall be collected and distributed only to support the operation of the Organ Procurement and Transplantation Network. Such registration fees are authorized to remain available until expended.
+
+(2) Collection The Secretary may collect the registration fees under paragraph (1) directly or through awards made under subsection (b)(1)(A).
+
+(3) Distribution Any amounts collected under this subsection shall—
+
+(A) be credited to the currently applicable appropriation, account, or fund of the Department of Health and Human Services as discretionary offsetting collections; and
+
+(B) be available, only to the extent and in the amounts provided in advance in appropriations Acts, to distribute such fees among awardees described in subsection (b)(1)(A).
+
+(4) Transparency The Secretary shall—
+
+(A) promptly post on the website of the Organ Procurement and Transplantation Network—
+
+(i) the amount of registration fees collected under this subsection from each member of the Organ Procurement and Transplantation Network; and
+
+(ii) a list of activities such fees are used to support; and
+
+(B) update the information posted pursuant to subparagraph (A), as applicable for each calendar quarter for which fees are collected under paragraph (1).
+
+(5) GAO review Not later than 2 years after February 3, 2026, the Comptroller General of the United States shall, to the extent data are available—
+
+(A) conduct a review concerning the activities under this subsection; and
+
+(B) submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on such review, including related recommendations, as applicable.
+
+(6) Sunset The authority to collect registration fees under paragraph (1) shall expire on the date that is 3 years after February 3, 2026.
+
+(July 1, 1944, ch. 373, title III, § 372, as added Pub. L. 98–507, title II, § 201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, § 403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, § 202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, § 2101(a), Oct. 17, 2000, 114 Stat. 1156; Pub. L. 110–426, § 2, Oct. 15, 2008, 122 Stat. 4835; Pub. L. 113–51, § 2(a)(1), Nov. 21, 2013, 127 Stat. 579; Pub. L. 118–14, § 2, Sept. 22, 2023, 137 Stat. 69; Pub. L. 119–75, div. J, title V, § 6502, Feb. 3, 2026, 140 Stat. 690.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(2)(P), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
+
+Prior ProvisionsA prior section 274, act July 1, 1944, ch. 373, title III, § 372, as added July 28, 1956, ch. 772, title II, § 201, 70 Stat. 710; amended June 25, 1959, Pub. L. 86–70, § 31(b)(2)–(4), 73 Stat. 148, related to grants to Alaska for a mental health program and payment for construction of hospital facilities, prior to the general revision of this part by section 201 of Pub. L. 98–507. Another section 372 of act July 1, 1944, added by act Aug. 3, 1956, ch. 941, § 1, 70 Stat. 960, which related to functions of National Library of Medicine, was renumbered section 382 and classified to section 276 of this title, prior to repeal by Pub. L. 99–158, § 3(b), Nov. 20, 1985, 99 Stat. 879.
+
+Amendments2026—Subsec. (b)(2)(A)(i). Pub. L. 119–75, § 6502(1)(B)(i), substituted “; and” for “, and”. Subsec. (b)(2)(A)(ii). Pub. L. 119–75, § 6502(1)(B)(ii), substituted semicolon for comma at end. Subsec. (b)(2)(B). Pub. L. 119–75, § 6502(1)(D), substituted semicolon for comma at end. Subsec. (b)(2)(C). Pub. L. 119–75, § 6502(1)(C), (D), substituted “24-hour telephone or information technology service” for “twenty-four-hour telephone service” and semicolon for comma at end. Subsec. (b)(2)(D) to (L). Pub. L. 119–75, § 6502(1)(D), substituted semicolon for comma at end. Subsec. (b)(2)(M). Pub. L. 119–75, § 6502(1)(A), (D), realigned margins and substituted semicolon for comma at end. Subsec. (b)(2)(N). Pub. L. 119–75, § 6502(1)(A), (E), realigned margins and substituted “transportation;” for “transportation, and”. Subsec. (b)(2)(O). Pub. L. 119–75, § 6502(1)(A), (F), realigned margins and substituted semicolon for period at end. Subsec. (b)(2)(P), (Q). Pub. L. 119–75, § 6502(1)(G), added subpars. (P) and (Q). Subsec. (d). Pub. L. 119–75, § 6502(2), added subsec. (d). 2023—Subsec. (a). Pub. L. 118–14, § 2(1), inserted heading, substituted “The Secretary shall” for “The Secretary shall by contract”, “continued” for “establishment and”, and “The Secretary may award grants, contracts, or cooperative agreements, as the Secretary determines appropriate, for purposes of carrying out this section.” for “The amount provided under such contract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.” Subsec. (b). Pub. L. 118–14, § 2(2), inserted subsec. and par. (1) headings and, in par. (1), substituted “The Organ Procurement and Transplantation Network shall—” and subpar. (A) for “The Organ Procurement and Transplantation Network shall carry out the functions described in paragraph (2) and shall— “(A) be a private nonprofit entity that has an expertise in organ procurement and transplantation, and”. 2013—Subsec. (b)(2)(E). Pub. L. 113–51, § 2(a)(1)(A), struck out “, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome” after “organs”. Subsec. (b)(3). Pub. L. 113–51, § 2(a)(1)(B), added par. (3). 2008—Subsec. (a). Pub. L. 110–426 substituted “$7,000,000” for “$2,000,000”. 2000—Subsec. (b)(2)(M) to(O). Pub. L. 106–310 added subpars. (M) to (O). 1990—Subsec. (b)(1)(A). Pub. L. 101–616, § 202(a)(1), substituted “that has an expertise in organ procurement and transplantation” for “which is not engaged in any activity unrelated to organ procurement”. Subsec. (b)(1)(B). Pub. L. 101–616, § 202(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “have a board of directors which includes representatives of organ procurement organizations (including organizations which have received grants under section 273 of this title), transplant centers, voluntary health associations, and the general public.” Subsec. (b)(2)(D). Pub. L. 101–616, § 202(b)(1), inserted “nationwide” after “organizations in the” and “equitably among transplant patients” after “organs”. Subsec. (b)(2)(F). Pub. L. 101–616, § 202(c), substituted “compatibility” for “compatability”. Subsec. (b)(2)(K), (L). Pub. L. 101–616, § 202(b)(2)–(4), added subpars. (K) and (L). 1988—Subsec. (b)(2)(B), (C). Pub. L. 100–607, § 403(a)(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively. Subsec. (b)(2)(D). Pub. L. 100–607, § 403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted “organs” for “organs which cannot be placed within the service areas of the organizations”. Former subpar. (D) redesignated (E). Subsec. (b)(2)(E). Pub. L. 100–607, § 403(a)(1), (3), redesignated former subpar. (D) as (E) and inserted “including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,” after “organs,”. Former subpar. (E) redesignated (F). Subsec. (b)(2)(F). Pub. L. 100–607, § 403(a)(1), (4), redesignated former subpar. (E) as (F) and inserted “(and, to the extent practicable, among regions or on a national basis)” after “basis”. Former subpar. (F) redesignated (G). Subsec. (b)(2)(G) to (I). Pub. L. 100–607, § 403(a)(1), redesignated former subpars. (F) to (H) as (G) to (I), respectively. Subsec. (b)(2)(J). Pub. L. 100–607, § 403(a)(5), added subpar. (J). Subsec. (c). Pub. L. 100–607, § 403(b), added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1990 AmendmentPub. L. 101–616, title II, § 202(d), Nov. 16, 1990, 104 Stat. 3284, provided that: “The amendments made by subsection (a) [amending this section] shall become effective on December 31, 1990.”
+
+Report; Limitation on Amendment by Pub. L. 110–426Pub. L. 110–426, § 3, Oct. 15, 2008, 122 Stat. 4835, provided that: “(a) In General.—The Secretary of Health and Human Services shall request that the Executive Director of the Organ Procurement and Transplantation Network submit to Congress, not later than 1 year after the date of enactment of this Act [Oct. 15, 2008], a report that shall include—“(1) the identity of transplant programs that have become inactive or have closed since the heart allocation policy change of 2006; “(2) the distance to the next closest operational heart transplant center from such inactivated or closed programs and an evaluation of whether or not access to care has been reduced to the population previously serviced by such inactive or closed program; “(3) the number of patients with rural zip codes that received transplants after the heart allocation policy change of 2006 as compared with the number of such patients that received such transplants prior to such heart allocation policy change; “(4) a comparison of the number of transplants performed, the mortality rate for individuals on the transplant waiting lists, and the post-transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006; and “(5) specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the post heart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006. “(b) Limitation on Funding.—The increase provided for in the amendment made by section 2 [amending this section] shall not apply with respect to contracts entered into under section 372(a) of the Public Health Service Act (42 U.S.C. 274(a)) after the date that is 1 year after the date of enactment of this Act [Oct. 15, 2008] if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a).”

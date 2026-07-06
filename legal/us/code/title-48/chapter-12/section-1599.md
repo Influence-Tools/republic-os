@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "48 U.S.C. § 1599"
+description: "Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 48
+title_name: "TERRITORIES AND INSULAR POSSESSIONS"
+chapter_number: "12"
+chapter_name: "VIRGIN ISLANDS [1954]"
+section: "1599"
+citation: "48 U.S.C. § 1599"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc48@119-100.zip"
+source_identifier: "/us/usc/t48/s1599"
+source_file: "data/legal/raw/us/code/title-48/usc48.xml"
+source_hash: "85ffaf282522f7014fa849402f465a56d8a8ee9f9182bf428039ff115b04681c"
+raw_snapshot_hash: "2f9a72ec272e6666d7f55f52cc3186aefc6368ca4cc2b9053a531de2fb9288c2"
+text_hash: "52b27d6791630b497d6809fe31336bd19d69daa80f9e065286987372d9eabe64"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 48 U.S.C. § 1599 - Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior
+
+## Text
+
+(a) Functions, powers, and duties transferred The following functions, powers, and duties heretofore vested in the government comptroller for the Virgin Islands are hereby transferred to the Inspector General, Department of the Interior, for the purpose of establishing an organization which will maintain a satisfactory level of independent audit oversight of the government of the Virgin Islands:
+
+(1) The authority to audit all accounts pertaining to the revenue and receipts of the government of the Virgin Islands, and of funds derived from bond issues, and the authority to audit, in accordance with law and administrative regulations, all expenditures of funds and property pertaining to the government of the Virgin Islands including those pertaining to trust funds held by the government of the Virgin Islands.
+
+(2) The authority to report to the Secretary of the Interior and the Governor of the Virgin Islands all failures to collect amounts due the government, and expenditures of funds or uses of property which are irregular or not pursuant to law.
+
+(b) Scope of authority transferred The authority granted in paragraph (a) shall extend to all activities of the government of the Virgin Islands, and shall be in addition to the authority conferred upon the Inspector General by chapter 4 of title 5.
+
+(c) Transfer of personnel, assets, etc., of office of government comptroller for Virgin Islands to Office of Inspector General, Department of the Interior In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for the Virgin Islands related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
+
+(July 22, 1954, ch. 558, § 17, as added Pub. L. 97–357, title III, § 309(b), Oct. 19, 1982, 96 Stat. 1710; amended Pub. L. 117–286, § 4(b)(92), Dec. 27, 2022, 136 Stat. 4352.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 1599, acts July 22, 1954, ch. 558, § 17, 68 Stat. 505; Aug. 28, 1958, Pub. L. 85–851, §§ 4, 5, 72 Stat. 1094, 1095; Mar. 20, 1962, Pub. L. 87–421, 76 Stat. 43; Aug. 23, 1968, Pub. L. 90–496, § 9, 82 Stat. 840; Oct. 15, 1977, Pub. L. 95–134, title III, § 301(a), 91 Stat. 1162, related to appointment, status, and duties of the government comptroller for the Virgin Islands, prior to repeal by Pub. L. 97–357, § 309(b).
+
+Amendments2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (92 Stat. 1101), as amended.”

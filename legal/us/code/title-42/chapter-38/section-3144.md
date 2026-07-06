@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3144"
+description: "Cost sharing"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "38"
+chapter_name: "PUBLIC WORKS AND ECONOMIC DEVELOPMENT"
+section: "3144"
+citation: "42 U.S.C. § 3144"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3144"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "c409dbb608d8c787718b5dc554d43c2781dc231f449b5c3bb480b13b6b9bb655"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "f476729b8e527183464f37f5bfb7c4068fd13bab8a61a84b954a8f48f2058e2b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3144 - Cost sharing
+
+## Text
+
+(a) Federal share Except as provided in subsection (c), the Federal share of the cost of any project carried out under this subchapter shall not exceed—
+
+(1) 60 percent; plus
+
+(2) an additional percent that—
+
+(A) shall not exceed 30 percent; and
+
+(B) is based on the relative needs of the area in which the project will be located, as determined in accordance with regulations promulgated by the Secretary.
+
+(b) Non-Federal share (1) In general In determining the amount of the non-Federal share of the cost of a project, the Secretary may provide credit toward the non-Federal share for all contributions both in cash and in-kind, fairly evaluated, including contributions of space, equipment, assumptions of debt, and services.
+
+(2) Regional Commission funds Notwithstanding any other provision of law, any funds contributed by a Regional Commission for a project under this subchapter may be considered to be part of the non-Federal share of the costs of the project.
+
+(c) Increase in Federal share (1) Indian tribes In the case of a grant to an Indian tribe for a project under this subchapter, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
+
+(2) Certain States, political subdivisions, and nonprofit organizations In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted the effective taxing and borrowing capacity of the State or political subdivision or can otherwise document that no local matching funds are reasonably obtainable, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
+
+(3) Training, research, and technical assistance In the case of a grant provided under section 3143 or 3147 of this title, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
+
+(4) Small communities In the case of a grant to a political subdivision of a State (as described in section 3122(6)(A)(iv) of this title) that has a population of fewer than 10,000 residents and meets 1 or more of the eligibility criteria described in section 3161(a) of this title, the Secretary may increase the Federal share under paragraph (1) up to 100 percent of the total cost of the project.
+
+(Pub. L. 89–136, title II, § 204, as added Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3603; amended Pub. L. 108–373, title II, § 202, Oct. 27, 2004, 118 Stat. 1759; Pub. L. 118–272, div. B, title II, § 2215, Jan. 4, 2025, 138 Stat. 3181.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 3144, Pub. L. 89–136, title II, § 204, as added Pub. L. 94–487, title I, § 109, Oct. 12, 1976, 90 Stat. 2333; amended Pub. L. 96–470, title I, § 201(d), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 96–506, § 1(4), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, § 1821(a)(3), Aug. 13, 1981, 95 Stat. 766, authorized interest free loans to carry out approved redevelopment area plans, prior to repeal by Pub. L. 105–393, § 102(a).
+
+Amendments2025—Subsec. (a)(1). Pub. L. 118–272, § 2215(1), substituted “60” for “50”. Subsec. (b). Pub. L. 118–272, § 2215(2), designated existing provisions as par. (1), inserted heading, and added par. (2). Subsec. (c)(2). Pub. L. 118–272, § 2215(3)(A), inserted “or can otherwise document that no local matching funds are reasonably obtainable” after “or political subdivision”. Subsec. (c)(3). Pub. L. 118–272, § 2215(3)(B), substituted “section 3143 or 3147 of this title” for “section 3147 of this title” and “project.” for “project if the Secretary determines that the project funded by the grant merits, and is not feasible without, such an increase.” Subsec. (c)(4). Pub. L. 118–272, § 2215(3)(C), added par. (4). 2004—Subsec. (a). Pub. L. 108–373, § 202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to section 3145 of this title, the amount of a grant for a project under this subchapter shall not exceed 50 percent of the cost of the project.” Subsec. (b). Pub. L. 108–373, § 202(b), inserted “assumptions of debt,” after “equipment,”. Subsec. (c). Pub. L. 108–373, § 202(c), added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.

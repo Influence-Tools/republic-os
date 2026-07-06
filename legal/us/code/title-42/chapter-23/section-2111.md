@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 2111"
+description: "Domestic distribution"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "23"
+chapter_name: "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY"
+section: "2111"
+citation: "42 U.S.C. § 2111"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s2111"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "aa5f17fdf8bd1f14f13b42b414e9d4760163206ca02d858c41247cb1ade00225"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "d5d095adfbe47e0f803a30fc7ccd89c4430033761d8db12c55fa445d140fcef9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 2111 - Domestic distribution
+
+## Text
+
+(a) In general No person may transfer or receive in interstate commerce, manufacture, produce, transfer, acquire, own, possess, import, or export any byproduct material, except to the extent authorized by this section, section 2112 or section 2114 of this title. The Commission is authorized to issue general or specific licenses to applicants seeking to use byproduct material for research or development purposes, for medical therapy, industrial uses, agricultural uses, or such other useful applications as may be developed. The Commission may distribute, sell, loan, or lease such byproduct material as it owns to qualified applicants with or without charge: Provided, however, That, for byproduct material to be distributed by the Commission for a charge, the Commission shall establish prices on such equitable basis as, in the opinion of the Commission, (a) will provide reasonable compensation to the Government for such material, (b) will not discourage the use of such material or the development of sources of supply of such material independent of the Commission, and (c) will encourage research and development. In distributing such material, the Commission shall give preference to applicants proposing to use such material either in the conduct of research and development or in medical therapy. The Commission shall not permit the distribution of any byproduct material to any licensee, and shall recall or order the recall of any distributed material from any licensee, who is not equipped to observe or who fails to observe such safety standards to protect health as may be established by the Commission or who uses such material in violation of law or regulation of the Commission or in a manner other than as disclosed in the application therefor or approved by the Commission. The Commission is authorized to establish classes of byproduct material and to exempt certain classes or quantities of material or kinds of uses or users from the requirements for a license set forth in this section when it makes a finding that the exemption of such classes or quantities of such material or such kinds of uses or users will not constitute an unreasonable risk to the common defense and security and to the health and safety of the public.
+
+(b) Requirements (1) In general Except as provided in paragraph (2), byproduct material, as defined in paragraphs (3) and (4) of section 2014(e) of this title, may only be transferred to and disposed of in a disposal facility that—
+
+(A) is adequate to protect public health and safety; and
+
+(B) (i) is licensed by the Commission; or
+
+(ii) is licensed by a State that has entered into an agreement with the Commission under section 2021(b) of this title, if the licensing requirements of the State are compatible with the licensing requirements of the Commission.
+
+(2) Effect of subsection Nothing in this subsection affects the authority of any entity to dispose of byproduct material, as defined in paragraphs (3) and (4) of section 2014(e) of this title, at a disposal facility in accordance with any Federal or State solid or hazardous waste law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+
+(c) Treatment as low-level radioactive waste Byproduct material, as defined in paragraphs (3) and (4) of section 2014(e) of this title, disposed of under this section shall not be considered to be low-level radioactive waste for the purposes of—
+
+(1) section 2 of the Low-Level Radioactive Waste Policy Act (42 U.S.C. 2021b); or
+
+(2) carrying out a compact that is—
+
+(A) entered into in accordance with that Act (42 U.S.C. 2021b et seq.); and
+
+(B) approved by Congress.
+
+(Aug. 1, 1946, ch. 724, title I, § 81, as added Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 935; amended Pub. L. 93–377, § 4, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–604, title II, § 205(b), Nov. 8, 1978, 92 Stat. 3039; renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, § 651(e)(3)(A), Aug. 8, 2005, 119 Stat. 807.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables. The Low-Level Radioactive Waste Policy Act, referred to in subsec. (c)(2)(A), is Pub. L. 96–573, as amended generally by Pub. L. 99–240, title I, § 102, Jan. 15, 1986, 99 Stat. 1842, which is classified generally to section 2021b et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2021b of this title and Tables.
+
+Prior ProvisionsProvisions similar to this section were contained in section 1805(c)(2) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+Amendments2005—Pub. L. 109–58 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c). 1978—Pub. L. 95–604 inserted reference to section 2114 of this title. 1974—Pub. L. 93–377 substituted “qualified applicants with or without charge” for “licensees with or without charge”, and struck out “Licensees of the Commission may distribute byproduct material only to applicants therefor who are licensed by the Commission to receive such byproduct material” before “The Commission shall not”.

@@ -1,0 +1,115 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 1665g"
+description: "Indian youth program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "18"
+chapter_name: "INDIAN HEALTH CARE"
+section: "1665g"
+citation: "25 U.S.C. § 1665g"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s1665g"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "297103eb799986111398771c972761ba43313f04dab5a3580e42ae22105d9a27"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "81b7d0684e938d46634f54bb95f86595b10bf234eef1312143d43e4906bd4f9b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 1665g - Indian youth program
+
+## Text
+
+(a) Detoxification and rehabilitation The Secretary, acting through the Service, consistent with section 1665a of this title, shall develop and implement a program for acute detoxification and treatment for Indian youths, including behavioral health services. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis and programs developed and implemented by Indian tribes or tribal organizations at the local level under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).11 See References in Text note below. Regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
+
+(b) Alcohol and substance abuse treatment centers or facilities (1) Establishment (A) In general The Secretary, acting through the Service, shall construct, renovate, or, as necessary, purchase, and appropriately staff and operate, at least 1 youth regional treatment center or treatment network in each area under the jurisdiction of an area office.
+
+(B) Area office in California For the purposes of this subsection, the area office in California shall be considered to be 2 area offices, 1 office whose jurisdiction shall be considered to encompass the northern area of the State of California, and 1 office whose jurisdiction shall be considered to encompass the remainder of the State of California for the purpose of implementing California treatment networks.
+
+(2) Funding For the purpose of staffing and operating such centers or facilities, funding shall be pursuant to section 13 of this title.
+
+(3) Location A youth treatment center constructed or purchased under this subsection shall be constructed or purchased at a location within the area described in paragraph (1) agreed upon (by appropriate tribal resolution) by a majority of the Indian tribes to be served by such center.
+
+(4) Specific provision of funds (A) In general Notwithstanding any other provision of this subchapter, the Secretary may, from amounts authorized to be appropriated for the purposes of carrying out this section, make funds available to—
+
+(i) the Tanana Chiefs Conference, Incorporated, for the purpose of leasing, constructing, renovating, operating, and maintaining a residential youth treatment facility in Fairbanks, Alaska; and
+
+(ii) the Southeast Alaska Regional Health Corporation to staff and operate a residential youth treatment facility without regard to the proviso set forth in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).1
+
+(B) Provision of services to eligible youths Until additional residential youth treatment facilities are established in Alaska pursuant to this section, the facilities specified in subparagraph (A) shall make every effort to provide services to all eligible Indian youths residing in Alaska.
+
+(c) Intermediate adolescent behavioral health services (1) In general The Secretary, acting through the Service, may provide intermediate behavioral health services, which may, if feasible and appropriate, incorporate systems of care, to Indian children and adolescents, including—
+
+(A) pretreatment assistance;
+
+(B) inpatient, outpatient, and aftercare services;
+
+(C) emergency care;
+
+(D) suicide prevention and crisis intervention; and
+
+(E) prevention and treatment of mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence.
+
+(2) Use of funds Funds provided under this subsection may be used—
+
+(A) to construct or renovate an existing health facility to provide intermediate behavioral health services;
+
+(B) to hire behavioral health professionals;
+
+(C) to staff, operate, and maintain an intermediate mental health facility, group home, sober housing, transitional housing or similar facilities, or youth shelter where intermediate behavioral health services are being provided;
+
+(D) to make renovations and hire appropriate staff to convert existing hospital beds into adolescent psychiatric units; and
+
+(E) for intensive home- and community-based services.
+
+(3) Criteria The Secretary, acting through the Service, shall, in consultation with Indian tribes and tribal organizations, establish criteria for the review and approval of applications or proposals for funding made available pursuant to this subsection.
+
+(d) Federally owned structures (1) In general The Secretary, in consultation with Indian tribes and tribal organizations, shall—
+
+(A) identify and use, where appropriate, federally owned structures suitable for local residential or regional behavioral health treatment for Indian youths; and
+
+(B) establish guidelines for determining the suitability of any such federally owned structure to be used for local residential or regional behavioral health treatment for Indian youths.
+
+(2) Terms and conditions for use of structure Any structure described in paragraph (1) may be used under such terms and conditions as may be agreed upon by the Secretary and the agency having responsibility for the structure and any Indian tribe or tribal organization operating the program.
+
+(e) Rehabilitation and aftercare services (1) In general The Secretary, Indian tribes, or tribal organizations, in cooperation with the Secretary of the Interior, shall develop and implement within each Service unit, community-based rehabilitation and follow-up services for Indian youths who are having significant behavioral health problems, and require long-term treatment, community reintegration, and monitoring to support the Indian youths after their return to their home community.
+
+(2) Administration Services under paragraph (1) shall be provided by trained staff within the community who can assist the Indian youths in their continuing development of self-image, positive problem-solving skills, and nonalcohol or substance abusing behaviors. Such staff may include alcohol and substance abuse counselors, mental health professionals, and other health professionals and paraprofessionals, including community health representatives.
+
+(f) Inclusion of family in youth treatment program In providing the treatment and other services to Indian youths authorized by this section, the Secretary, acting through the Service, shall provide for the inclusion of family members of such youths in the treatment programs or other services as may be appropriate. Not less than 10 percent of the funds appropriated for the purposes of carrying out subsection (e) shall be used for outpatient care of adult family members related to the treatment of an Indian youth under that subsection.
+
+(g) Multidrug abuse program The Secretary, acting through the Service, shall provide, consistent with section 1665a of this title, programs and services to prevent and treat the abuse of multiple forms of substances, including alcohol, drugs, inhalants, and tobacco, among Indian youths residing in Indian communities, on or near reservations, and in urban areas and provide appropriate mental health services to address the incidence of mental illness among such youths.
+
+(h) Indian youth mental health The Secretary, acting through the Service, shall collect data for the report under section 1671 of this title with respect to—
+
+(1) the number of Indian youth who are being provided mental health services through the Service and tribal health programs;
+
+(2) a description of, and costs associated with, the mental health services provided for Indian youth through the Service and tribal health programs;
+
+(3) the number of youth referred to the Service or tribal health programs for mental health services;
+
+(4) the number of Indian youth provided residential treatment for mental health and behavioral problems through the Service and tribal health programs, reported separately for on- and off-reservation facilities; and
+
+(5) the costs of the services described in paragraph (4).
+
+(Pub. L. 94–437, title VII, § 708, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (a) and (b)(4)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4(l) of the Act was classified to section 450b(l) of this title prior to editorial reclassification as section 5304(l) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+Codification Section 708 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+Prior ProvisionsA prior section 1665g, Pub. L. 94–437, title VII, § 708, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4578, provided for grants to Indian tribes and tribal organizations to establish fetal alcohol syndrome and fetal alcohol effect programs, prior to the general amendment of this subchapter by Pub. L. 111–148.

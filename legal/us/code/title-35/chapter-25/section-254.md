@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "35 U.S.C. § 254"
+description: "Certificate of correction of Patent and Trademark Office mistake"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 35
+title_name: "PATENTS"
+chapter_number: "25"
+chapter_name: "AMENDMENT AND CORRECTION OF PATENTS"
+section: "254"
+citation: "35 U.S.C. § 254"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc35@119-100.zip"
+source_identifier: "/us/usc/t35/s254"
+source_file: "data/legal/raw/us/code/title-35/usc35.xml"
+source_hash: "06a60312ab3cd1f4996ae8dcea5724a3e3b8f2865dc731995c30ff8cd9017d9d"
+raw_snapshot_hash: "736cab508592dcf50013a1aed5ab108f72fd8493e76afc46848cdc35da38bbe3"
+text_hash: "5d3a0e135fc2186353e6b56b294e4a4e3d4635b66ca98200089708e8b81a744c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 35 U.S.C. § 254 - Certificate of correction of Patent and Trademark Office mistake
+
+## Text
+
+Whenever a mistake in a patent, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office, the Director may issue a certificate of correction stating the fact and nature of such mistake, under seal, without charge, to be recorded in the records of patents. A printed copy thereof shall be attached to each printed copy of the patent, and such certificate shall be considered as part of the original patent. Every such patent, together with such certificate, shall have the same effect and operation in law on the trial of actions for causes thereafter arising as if the same had been originally issued in such corrected form. The Director may issue a corrected patent without charge in lieu of and with like effect as a certificate of correction.
+
+(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+
+## Notes
+
+Historical and Revision NotesBased on Title 35, U.S.C., 1946 ed., § 88 (Mar. 4, 1925, ch. 535, § 1, 43 Stat. 1268). The last sentence of the present section is omitted as obsolete. A sentence is added similar to a provision in the corresponding section in the trade-mark law, 15 U.S.C., 1946 ed., § 1057(f), and provides that the Commissioner may issue a corrected patent instead of a certificate of correction.
+
+Editorial Notes
+
+Amendments2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below. 1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places. 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in section catchline and text.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1999 AmendmentAmendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+
+Effective Date of 1975 AmendmentAmendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.

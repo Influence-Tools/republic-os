@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 4052"
+description: "Mandatory retirement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "52"
+chapter_name: "FOREIGN SERVICE"
+section: "4052"
+citation: "22 U.S.C. § 4052"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s4052"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "a59ffd2c26cef2f14a666b385ec688b9f5f2c0e5d341cb765c2e4355de572081"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "90e8bf05575c05f2e47096578ebb522c8ecc97eff5904b5b542d930e077ee92b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 4052 - Mandatory retirement
+
+## Text
+
+(a) (1) Except as provided in subsection (b), any participant shall be retired from the Service at the end of the month in which the participant has reached age 65 and has at least 5 years of service credit toward retirement under the System (excluding military and naval service), and shall receive retirement benefits in accordance with section 4046 of this title.
+
+(2) Notwithstanding paragraph (1)—
+
+(A) an individual described in section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998 who is otherwise eligible for immediate retirement under this subchapter; or
+
+(B) a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d)(1) of title 5, as applicable, had the employee remained in civil service,
+
+shall be separated from the Service on the last day of the month in which such individual under subparagraph (A) or such Foreign Service criminal investigator/inspector under subparagraph (B) attains 57 years of age or completes 20 years of service if then over that age. If the head of the agency judges that the public interest so requires, that agency head may exempt such an employee from automatic separation under this subsection until that employee attains 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days before that date. Action to separate the employee is not effective without the consent of the employee, until the last day of the month in which the 60-day notice expires.
+
+(b) (1) Any participant who is otherwise required to retire under subsection (a) while occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, may continue to serve until that appointment is terminated.
+
+(2) Whenever the Secretary determines it to be in the public interest, any participant who is otherwise required to retire under subsection (a) may be retained on active service for a period not to exceed 5 years.
+
+(3) Any participant who completes a period of service authorized by this subsection shall be retired at the end of the month in which such authorized service is completed.
+
+(Pub. L. 96–465, title I, § 812, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 101–513, title V, § 587(b), Nov. 5, 1990, 104 Stat. 2056; Pub. L. 102–499, § 4(c), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–382, § 3, Nov. 13, 1998, 112 Stat. 3408; Pub. L. 117–225, § 3(b)(2)(B)(ii), Dec. 9, 2022, 136 Stat. 2296.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 4(a)(2) of the Department of State Special Agents Retirement Act of 1998, referred to in subsec. (a)(2)(A), is section 4(a)(2) of Pub. L. 105–382, which is set out as a note under section 4044 of this title.
+
+Amendments2022—Subsec. (a)(2)(B). Pub. L. 117–225, which directed amendment of title VIII of the Foreign Service Act of 1980 by inserting “(1)” after “or 8412(d)” in subsec. (a)(2)(B) of this section, was executed as if the amendment had been directed to chapter 8 of title I of the Foreign Service Act of 1980, to reflect the probable intent of Congress. 1998—Subsec. (a)(2). Pub. L. 105–382 amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding paragraph (1), a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service, shall be separated from the Service on the last day of the month in which that Foreign Service criminal investigator/inspector attains 57 years of age or completes 20 years of service if then over that age.” 1992—Subsec. (a)(2). Pub. L. 102–499 substituted “57” for “55”. 1990—Subsec. (a). Pub. L. 101–513 designated existing provisions as par. (1) and added par. (2).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2022 AmendmentAmendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under section 8336 of Title 5, Government Organization and Employees.
+
+Effective Date of 1998 AmendmentAmendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.

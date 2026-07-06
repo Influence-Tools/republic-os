@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7556"
+description: "Benchmarks to evaluate the progress being made toward the transition of security responsibilities for Afghanistan to the Government of Afghanistan"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "82"
+chapter_name: "AFGHANISTAN FREEDOM SUPPORT"
+section: "7556"
+citation: "22 U.S.C. § 7556"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7556"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "447713cccecad5b1a51a63a700fea51b32a0993d69e1f510c9c7584322915aab"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "b60312e1c947012cba714903581edd91f5d6412047fc6d567a0e8e32a6448807"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7556 - Benchmarks to evaluate the progress being made toward the transition of security responsibilities for Afghanistan to the Government of Afghanistan
+
+## Text
+
+(a) Options for expansion of capacity of Afghan National Security Forces The President shall, acting through the Secretary of Defense, establish and update as appropriate, and submit to Congress, options to accelerate the expansion of the capacity of Afghan National Security Forces with the goal of—
+
+(1) enabling the Government of the Islamic Republic of Afghanistan, consistent with the Framework for Inteqal, to assume lead responsibility for security in all areas of Afghanistan, to maintain security in those areas, and to sustain the Afghan National Security Forces;
+
+(2) achieving United States national security objectives to disrupt, dismantle, and defeat al-Qaeda and its extremist allies in Afghanistan, and preventing the establishment of safe havens for those entities; and
+
+(3) enabling the United States to move to an enduring partnership with the Government of the Islamic Republic of Afghanistan, fully consistent with the Declaration by the North Atlantic Treaty Organization and the Government of the Islamic Republic of Afghanistan on an Enduring Partnership as issued at the Lisbon conference on November 20, 2010.
+
+(b) Benchmarks The President shall establish, and may update from time to time, a comprehensive set of benchmarks to evaluate progress being made toward meeting the goals set forth in paragraphs (1) through (3) of subsection (a).
+
+(c) Submittal to Congress The President shall include the most current set of benchmarks established pursuant to subsection (b) with each report on progress toward security and stability in Afghanistan that is submitted to Congress under sections 1230 and 1231 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 385, 390).
+
+(Pub. L. 112–81, div. A, title XII, § 1221, Dec. 31, 2011, 125 Stat. 1635.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSections 1230 and 1231 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 385, 390), referred to in subsec. (c), are not classified to the Code.
+
+Codification Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Afghanistan Freedom Support Act of 2002 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Completion of Accelerated Transition of Security Responsibility From United States Armed Forces to the Afghan National Security ForcesPub. L. 113–66, div. A, title XII, § 1222, Dec. 26, 2013, 127 Stat. 917, provided that: “(a) In General.—It is the policy of the United States, in coordination with the Government of Afghanistan, North Atlantic Treaty Organization (NATO) member countries, and other allies in Afghanistan, that—“(1) the accelerated transition of security responsibility from United States Armed Forces to the Afghan National Security Forces and the associated draw down of United States Armed Forces from Afghanistan shall be completed by not later than December 31, 2014; “(2) the United States shall support an Afghan-led and Afghan-owned peace negotiation process leading to a political settlement of the conflict in Afghanistan, with the goal of establishing a secure and independent Afghanistan and promoting regional security and stability; and “(3) any political settlement resulting from such peace negotiations must result in insurgent groups breaking ties with al Qaeda, renouncing violence, and accepting the Afghanistan constitution, including its protections for women and minorities. “(b) Sense of Congress.—It is the sense of Congress that, before making a public announcement regarding a decision on a United States military presence in Afghanistan after December 31, 2014, the President should consult with Congress regarding the size, mission, and estimated duration of such a presence. “(c) Rule of Construction.—Nothing in this section shall be construed so as to limit or prohibit any authority of the President to modify the military strategy, tactics, and operations of United States Armed Forces as such Armed Forces draw down from Afghanistan.”

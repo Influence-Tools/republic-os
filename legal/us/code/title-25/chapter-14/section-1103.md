@@ -1,0 +1,35 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 1103"
+description: "Omitted"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "14"
+chapter_name: "MISCELLANEOUS"
+section: "1103"
+citation: "25 U.S.C. § 1103"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s1103"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "76e495c9abc1b7036d274dc63b0b777add910cf451a8044e55f4cf9ac855447d"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "a2ed00b8911f1b6c7d9a5f6ad58b2a02b25149f8b894a5b88177f0afc957c26e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 1103 - Omitted
+
+## Notes
+
+Editorial Notes
+
+Codification Section, Pub. L. 89–656, § 3, Oct. 14, 1966, 80 Stat. 906, which related to distribution of shares of deceased enrollees and minors or persons under legal disability, was omitted from the Code as being of special and not general application.

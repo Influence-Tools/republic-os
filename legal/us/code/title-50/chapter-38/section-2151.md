@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 2151"
+description: "Application of Federal Employees’ Retirement System to Agency employees"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "38"
+chapter_name: "CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY"
+section: "2151"
+citation: "50 U.S.C. § 2151"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s2151"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "5be3d7f592fc55b598a5ee57cc1a6295754dbc244e145c559f7f93fc80118b68"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "24a83426a1a4c725b49fccf6394bd316617f3350b2c52f4768f4e62a1052995d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 2151 - Application of Federal Employees’ Retirement System to Agency employees
+
+## Text
+
+(a) General rule Except as provided in subsections (b) and (c), all employees of the Agency, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act [42 U.S.C. 401 et seq.] and chapter 21 of title 26, shall be subject to chapter 84 of title 5.
+
+(b) Exception for pre-1984 employees Participants in the Central Intelligence Agency Retirement and Disability System who were participants in such system on or before December 31, 1983, and who have not had a break in service in excess of one year since that date, are not subject to chapter 84 of title 5 without regard to whether they are subject to title II of the Social Security Act [42 U.S.C. 401 et seq.].
+
+(c) Nonapplicability of FERS to certain employees (1) The provisions of chapter 84 of title 5 shall not apply with respect to—
+
+(A) any individual who separates, or who has separated, from Federal Government service after having been an employee of the Agency subject to subchapter II of this chapter; and
+
+(B) any employee of the Agency having at least 5 years of civilian service which was performed before January 1, 1987, and is creditable under subchapter II of this chapter (determined without regard to any deposit or redeposit requirement under subchapter III of chapter 83 of title 5, or under subchapter II of this chapter, or any requirement that the individual become subject to such subchapter or to subchapter II of this chapter after performing the service involved).
+
+(2) Paragraph (1) shall not apply with respect to an individual who has elected under regulations prescribed under section 2157 of this title to become subject to chapter 84 of title 5 to the extent provided in such regulations.
+
+(3) An individual described in paragraph (1) shall be deemed to be an individual excluded under section 8402(b)(2) of title 5.
+
+(d) Election to become subject to FERS An employee who is designated as a participant in the Central Intelligence Agency Retirement and Disability System after December 31, 1987, pursuant to section 2013 of this title may elect to become subject to chapter 84 of title 5. Such election—
+
+(1) shall not be effective unless it is made during the six-month period beginning on the date on which the employee is so designated;
+
+(2) shall take effect beginning with the first pay period beginning after the date of the election; and
+
+(3) shall be irrevocable.
+
+(e) Special rules The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
+
+(Pub. L. 88–643, title III, § 301, as added Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3243.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Prior ProvisionsA prior section 301 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 624; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–453, title V, § 502, Sept. 29, 1988, 102 Stat. 1909, related to application of Federal Employees’ Retirement System to Agency employees and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.

@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 6755"
+description: "Bylaws, standards, and disciplinary actions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "93"
+chapter_name: "INSURANCE"
+section: "6755"
+citation: "15 U.S.C. § 6755"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s6755"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "5a25177aa3419218e3f434936595c46e95c6ad40927d2a9218c929e63e832bca"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "c2e9f79e9127278813217ecf7a9cac7299b00654ce62a5e2158872f625cdc7cb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 6755 - Bylaws, standards, and disciplinary actions
+
+## Text
+
+(a) Adoption and amendment of bylaws and standards (1) Procedures The Association shall adopt procedures for the adoption of bylaws and standards that are similar to procedures under subchapter II of chapter 5 of title 5 (commonly known as the “Administrative Procedure Act”).
+
+(2) Copy required to be filed The Board shall submit to the President, through the Department of the Treasury, and the States (including State insurance regulators), and shall publish on the website of the Association, all proposed bylaws and standards of the Association, or any proposed amendment to the bylaws or standards of the Association, accompanied by a concise general statement of the basis and purpose of such proposal.
+
+(3) Effective date Any proposed bylaw or standard of the Association, and any proposed amendment to the bylaws or standards of the Association, shall take effect, after notice under paragraph (2) and opportunity for public comment, on such date as the Association may designate, unless suspended under section 6759(c) of this title.
+
+(4) Rule of construction Nothing in this section shall be construed to subject the Board or the Association to the requirements of subchapter II of chapter 5 of title 5 (commonly known as the “Administrative Procedure Act”).
+
+(b) Disciplinary action by the Association (1) Specification of charges In any proceeding to determine whether membership shall be denied, suspended, revoked, or not renewed, or to determine whether a member of the Association should be placed on probation (referred to in this section as a “disciplinary action”) or whether to assess fines or monetary penalties, the Association shall bring specific charges, notify the member of the charges, give the member an opportunity to defend against the charges, and keep a record.
+
+(2) Supporting statement A determination to take disciplinary action shall be supported by a statement setting forth—
+
+(A) any act or practice in which the member has been found to have been engaged;
+
+(B) the specific provision of this subchapter or standard of the Association that any such act or practice is deemed to violate; and
+
+(C) the sanction imposed and the reason for the sanction.
+
+(3) Ineligibility of private sector representatives Board members appointed pursuant to section 6754(c)(3) of this title may not—
+
+(A) participate in any disciplinary action or be counted toward establishing a quorum during a disciplinary action; and
+
+(B) have access to confidential information concerning any disciplinary action.
+
+(Pub. L. 106–102, title III, § 325, as added Pub. L. 114–1, title II, § 202(a), Jan. 12, 2015, 129 Stat. 23.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to this section were contained in section 6758 of this title, prior to the general amendment of this subchapter by Pub. L. 114–1. A prior section 6755, Pub. L. 106–102, title III, § 325, Nov. 12, 1999, 113 Stat. 1424, related to membership in the Association, prior to the general amendment of this subchapter by Pub. L. 114–1. See section 6753 of this title.

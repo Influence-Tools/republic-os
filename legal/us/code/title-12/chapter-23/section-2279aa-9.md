@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 2279aa–9"
+description: "Exemption from restructuring and borrowers rights provisions for pooled loans"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "23"
+chapter_name: "FARM CREDIT SYSTEM"
+section: "2279aa–9"
+citation: "12 U.S.C. § 2279aa–9"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s2279aa–9"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "ec59284f7d58e1c0a9b4ec6da2156d4a2670cd566cf8f605f04c675490249988"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "f1c7887a0c7c29dfb353156c5be3e8b9b2658e6f2ee74ef2639483e7ef9ad9b3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 2279aa–9 - Exemption from restructuring and borrowers rights provisions for pooled loans
+
+## Text
+
+(a) Restructuring Notwithstanding any other provision of law, sections 2202, 2202a, 2202b, 2202d, and 2219a of this title shall not apply to any loan included in a pool of qualified loans backing securities or obligations for which the Corporation provides guarantee. The loan servicing standards established by the Corporation shall be patterned after similar standards adopted by other federally sponsored secondary market facilities.
+
+(b) Borrowers rights At the time of application for a loan (as defined in section 2202a(a)(5) of this title), originators that are Farm Credit System institutions shall give written notice to each applicant of the terms and conditions of the loan, setting forth separately terms and conditions for pooled loans and loans that are not pooled. This notice shall include a statement, if applicable, that the loan may be pooled and that, if pooled, sections 2202, 2202a, 2202b, 2202d, and 2219a of this title shall not apply. This notice also shall inform the applicant that he or she has the right not to have the loan pooled. Within 3 days from the time of commitment, an applicant has the right to refuse to allow the loan to be pooled, thereby retaining rights under sections 2202, 2202a, 2202b, 2202d, and 2219a of this title, if applicable.
+
+(Pub. L. 92–181, title VIII, § 8.9, as added Pub. L. 100–233, title VII, § 702, Jan. 6, 1988, 101 Stat. 1701; amended Pub. L. 100–399, title VI, § 601(j), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 104–105, title II, § 208(b), Feb. 10, 1996, 110 Stat. 174; Pub. L. 115–334, title V, § 5411(46), Dec. 20, 2018, 132 Stat. 4685.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–334 struck out “2202c,” after “2202b,” wherever appearing. 1996—Subsec. (b). Pub. L. 104–105 inserted “(as defined in section 2202a(a)(5) of this title)” after “application for a loan”. 1988—Subsecs. (a), (b). Pub. L. 100–399 substituted “2202d, and 2219a” for “and 2219b” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.

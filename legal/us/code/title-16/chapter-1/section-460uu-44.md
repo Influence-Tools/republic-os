@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 460uu–44"
+description: "Mineral exchanges"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "460uu–44"
+citation: "16 U.S.C. § 460uu–44"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s460uu–44"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "369b4b70e6e040e463c147d92844e57469dcf2ddbc961f4354210f1e98d6bc86"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "e7d79be98894437deb8f8daf02dd7b7338bfb2b0254bff010b3e6772802aaba4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 460uu–44 - Mineral exchanges
+
+## Text
+
+(a) Authorization; matters considered The Secretary is authorized and directed to exchange the Federal mineral interests in the lands described in subsection (b) for the private mineral interests in the lands described in subsection (c), if—
+
+(1) the owner of such private mineral interests has made available to the Secretary all information requested by the Secretary as to the respective values of the private and Federal mineral interests to be exchanged; and
+
+(2) on the basis of information obtained pursuant to paragraph (1) and any other information available, the Secretary has determined that the mineral interests to be exchanged are of approximately equal value; and
+
+(3) the Secretary has determined—
+
+(A) that except insofar as otherwise provided in this section, the exchange is not inconsistent with the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1701 et seq.]; and
+
+(B) that the exchange is in the public interest.
+
+(b) Location of Federal mineral interests The Federal mineral interests to be exchanged under this section underlie the lands, comprising approximately 15,008 acres, depicted as “Proposed for transfer to Santa Fe Pacific” on the map referenced in subsection (d).
+
+(c) Location of private mineral interests The private mineral interests to be exchanged pursuant to this section underlie the lands, comprising approximately 15,141 acres, depicted as “Proposed for transfer to U.S.” on the map referenced in subsection (d).
+
+(d) Identification of mineral interests; legal description (1) The mineral interests identified in this section underlie those lands depicted as “Proposed for transfer to Santa Fe Pacific” and as “Proposed for transfer to U.S.” on a map entitled “El Malpais Leg. Boundary, HR3684/S56”, revised 5–8–87.
+
+(2) As soon as practicable after December 31, 1987, the Secretary shall file a legal description of the mineral interest areas designated under this section with the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such legal description. The legal description shall be on file and available for public inspection in the offices of the Director of the Bureau of Land Management, Department of the Interior.
+
+(e) Time of completion of exchanges It is the sense of the Congress that all exchanges pursuant to this section shall be completed no later than three years after December 31, 1987.
+
+(Pub. L. 100–225, title V, § 504, Dec. 31, 1987, 101 Stat. 1545.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

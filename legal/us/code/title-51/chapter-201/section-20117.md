@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "51 U.S.C. § 20117"
+description: "Disposal of excess land"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 51
+title_name: "NATIONAL AND COMMERCIAL SPACE PROGRAMS"
+chapter_number: "201"
+chapter_name: "NATIONAL AERONAUTICS AND SPACE PROGRAM"
+section: "20117"
+citation: "51 U.S.C. § 20117"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc51@119-100.zip"
+source_identifier: "/us/usc/t51/s20117"
+source_file: "data/legal/raw/us/code/title-51/usc51.xml"
+source_hash: "c6b5fe6bbf18a6eee3013a134881408018fdd457c205e832bd1ca3afafa92308"
+raw_snapshot_hash: "247760e048bc0c854023cd923eddd6011c857ad6958b62a813e0392121390bd5"
+text_hash: "0f4f0e1e2b7457c171545854072755a417a240aaa4f83630d489e805925c6031"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 51 U.S.C. § 20117 - Disposal of excess land
+
+## Text
+
+Notwithstanding the provisions of this or any other law, the Administration may not report to a disposal agency as excess to the needs of the Administration any land having an estimated value in excess of $50,000 that is owned by the United States and under the jurisdiction and control of the Administration, unless—
+
+(1) a period of 30 days has passed after the receipt by the Speaker and the Committee on Science and Technology of the House of Representatives and the President and the Committee on Commerce, Science, and Transportation of the Senate of a report by the Administrator or the Administrator’s designee containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of such action; or
+
+(2) each such committee before the expiration of that period has transmitted to the Administrator written notice to the effect that the committee has no objection to the proposed action.
+
+(Pub. L. 111–314, § 3, Dec. 18, 2010, 124 Stat. 3337.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 2011742 U.S.C. 2476a.Pub. L. 85–568, title II, § 207, as added Pub. L. 93–74, § 7, July 23, 1973, 87 Stat. 175; amended Pub. L. 103–437, § 15(j), Nov. 2, 1994, 108 Stat. 4593. In paragraph (1), the words “Committee on Science and Technology” are substituted for “Committee on Science, Space, and Technology” on authority of section 1(a)(10) of Public Law 104–14 (2 U.S.C. note prec. 21), Rule X(1)(n) of the Rules of the House of Representatives, adopted by House Resolution No. 5 (106th Congress, January 6, 1999), and Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.

@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 55112"
+description: "Vessel escort operations and towing assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "551"
+chapter_name: "COASTWISE TRADE"
+section: "55112"
+citation: "46 U.S.C. § 55112"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s55112"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "1371ece6ff3668caac670062322400b38c0b934a7ec7dde784a344d8aea47c69"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "d58ea2fca1c932c7cbed7fae9b84037a65126b295d7acc51dcb8a4b95156f361"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 55112 - Vessel escort operations and towing assistance
+
+## Text
+
+(a) In General.— Except in the case of a vessel in distress, only a vessel of the United States may perform the following escort vessel operations within the navigable waters of the United States:
+
+(1) Operations that commence or terminate at a port or place in the United States.
+
+(2) Operations required by United States law or regulation.
+
+(3) Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the Great Lakes St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.
+
+(b) Escort Vessels.— For purposes of this section, an escort vessel is—
+
+(1) any vessel that is assigned and dedicated to assist another vessel, whether or not tethered to that vessel, solely as a safety precaution to assist in controlling the speed or course of the assisted vessel in the event of a steering or propulsion equipment failure, or any other similar emergency circumstance, or in restricted waters where additional assistance in maneuvering the vessel is required to ensure its safe operation; and
+
+(2) in the case of a vessel being towed under section 55111 of this title, any vessel that is assigned and dedicated to the vessel being towed in addition to any towing vessel required under that section.
+
+(c) Relationship to Other Law.— This section does not affect section 55111 of this title.
+
+(d) Penalty.— A person violating this section is liable to the Government for a civil penalty of not more than $10,000 for each day during which the violation occurs.
+
+(Pub. L. 109–304, § 8(c), Oct. 6, 2006, 120 Stat. 1638; Pub. L. 116–260, div. AA, title V, § 512(c)(6)(D), Dec. 27, 2020, 134 Stat. 2757.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 5511246 App.:316a.Pub. L. 107–295, title IV, § 404, Nov. 25, 2002, 116 Stat. 2114. In subsection (a), the words “(as that term is defined in section 2101 of title 46, United States Code)” are omitted because the definition of “vessel of the United States” is being moved from section 2101 to chapter 1 of the revised title and will apply title-wide.
+
+Editorial Notes
+
+Amendments2020—Subsec. (a)(3). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “St. Lawrence Seaway Development Corporation”.

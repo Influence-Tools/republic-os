@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 7374"
+description: "Energy self-sufficiency initiatives"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "84"
+chapter_name: "DEPARTMENT OF ENERGY"
+section: "7374"
+citation: "42 U.S.C. § 7374"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s7374"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "f40d5f28fa6c71a1ab3f8da0fb15f125e2383a761397d5fb54830829ac0191f7"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "69f2d8a00ecf7809138b5d747013fa2903157f758cb5e7388601bd827f707bc7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 7374 - Energy self-sufficiency initiatives
+
+## Text
+
+(a) Establishment of 3-year pilot program There is hereby established under the direction of the Secretary a 3-year pilot energy self-sufficiency program to demonstrate energy self-sufficiency through the use of renewable energy resources in one or more States in the United States.
+
+(b) Establishment of subprograms to pilot programs; scope of subprograms As a part of the pilot program, the Secretary shall establish such subprograms as the Secretary determines are necessary to achieve the purpose of this section, including subprograms—
+
+(1) to promote the development and utilization of synergistic combinations of different renewable energy resources in specific projects aimed at reducing fossil fuel importation;
+
+(2) to initiate and encourage energy self-sufficiency at appropriate levels of government;
+
+(3) to stimulate private industry participation in the realization of the objective stated in subsection (a); and
+
+(4) to stimulate the utilization of abandoned or underutilized industrial facilities for the generation of energy from any locally available renewable resource, such as municipal solid waste, agricultural waste, or forest products waste.
+
+(c) Implementation of subprograms; preparation of plan of program and additional Federal actions In carrying out the provisions of this section, the Secretary is authorized to assign to an existing office in the Department of Energy the responsibility of undertaking and carrying out the subprograms established under subsection (b). In addition, the Secretary shall prepare a detailed plan within one hundred eighty days of June 30, 1980, setting forth (1) the 3-year pilot program itself, and (2) any additional Federal actions needed to encourage and promote the adoption of programs for energy self-sufficiency.
+
+(d) Submission of plan and implementation report to Congress The Secretary shall submit to the Congress, within one year after June 30, 1980, the plan prepared under the second sentence of subsection (c) along with a report suggesting the legislative initiatives needed to fully implement such plan.
+
+(Pub. L. 96–294, title IV, § 406, June 30, 1980, 94 Stat. 716.)

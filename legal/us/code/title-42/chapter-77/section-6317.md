@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 6317"
+description: "Energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "77"
+chapter_name: "ENERGY CONSERVATION"
+section: "6317"
+citation: "42 U.S.C. § 6317"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s6317"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "2f6eda78d5efb4f35e9db7be7c9bdb9deb25afed3baf39c7616edb6b18f47e0d"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "393d3b09d4d3a17b80c2f97dab2f9a2b19ce9ef5a5faa9e4c92ce6ad4ef9eee8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 6317 - Energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors
+
+## Text
+
+(a) High-intensity discharge lamps and distribution transformers (1) The Secretary shall, within 30 months after October 24, 1992, prescribe testing requirements for those high-intensity discharge lamps and distribution transformers for which the Secretary makes a determination that energy conservation standards would be technologically feasible and economically justified, and would result in significant energy savings.
+
+(2) The Secretary shall, within 18 months after the date on which testing requirements are prescribed by the Secretary pursuant to paragraph (1), prescribe, by rule, energy conservation standards for those high-intensity discharge lamps and distribution transformers for which the Secretary prescribed testing requirements under paragraph (1).
+
+(3) Any standard prescribed under paragraph (2) with respect to high-intensity discharge lamps shall apply to such lamps manufactured 36 months after the date such rule is published.
+
+(b) Small electric motors (1) The Secretary shall, within 30 months after October 24, 1992, prescribe testing requirements for those small electric motors for which the Secretary makes a determination that energy conservation standards would be technologically feasible and economically justified, and would result in significant energy savings.
+
+(2) The Secretary shall, within 18 months after the date on which testing requirements are prescribed by the Secretary pursuant to paragraph (1), prescribe, by rule, energy conservation standards for those small electric motors for which the Secretary prescribed testing requirements under paragraph (1).
+
+(3) Any standard prescribed under paragraph (2) shall apply to small electric motors manufactured 60 months after the date such rule is published or, in the case of small electric motors which require listing or certification by a nationally recognized testing laboratory, 84 months after such date. Such standards shall not apply to any small electric motor which is a component of a covered product under section 6292(a) of this title or a covered equipment under section 6311 of this title.
+
+(c) Consideration of criteria under other law In establishing any standard under this section, the Secretary shall take into consideration the criteria contained in section 6295(n) of this title.
+
+(d) Prescription of labeling requirements by Secretary The Secretary shall, within six months after the date on which energy conservation standards are prescribed by the Secretary for high-intensity discharge lamps and distribution transformers pursuant to subsection (a)(2) and small electric motors pursuant to subsection (b)(2), prescribe labeling requirements for such lamps, transformers, and small electric motors.
+
+(e) Compliance by manufacturers with labeling requirements Beginning on the date which occurs six months after the date on which a labeling rule is prescribed for a product under subsection (d), each manufacturer of a product to which such a rule applies shall provide a label which meets, and is displayed in accordance with, the requirements of such rule.
+
+(f) New covered products; distribution of non-conforming products prohibited; construction with other law (1) After the date on which a manufacturer must provide a label for a product pursuant to subsection (e)—
+
+(A) each such product shall be considered, for purposes of paragraphs (1) and (2) of section 6302(a) of this title, a new covered product to which a rule under section 6294 of this title applies; and
+
+(B) it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) which is not in conformity with the applicable energy conservation standard.
+
+(2) For purposes of section 6303(a) of this title, paragraph (1) of this subsection shall be considered to be a part of section 6302 of this title.
+
+(Pub. L. 94–163, title III, § 346, as added Pub. L. 95–619, title IV, § 441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, § 124(a), Oct. 24, 1992, 106 Stat. 2832.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1992—Pub. L. 102–486 amended section generally, substituting provisions requiring energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors, for provisions authorizing appropriations for fiscal years 1978 and 1979.
+
+Statutory Notes and Related Subsidiaries
+
+Energy Efficient Transformer Rebate ProgramPub. L. 116–260, div. Z, title I, § 1006, Dec. 27, 2020, 134 Stat. 2432, provided that: “(a) Definitions.—In this section:“(1) Qualified energy efficient transformer.—The term ‘qualified energy efficient transformer’ means a transformer that meets or exceeds the applicable energy conservation standards described in the tables in subsection (b)(2) and paragraphs (1) and (2) of subsection (c) of section 431.196 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act [Dec. 27, 2020]). “(2) Qualified energy inefficient transformer.—The term ‘qualified energy inefficient transformer’ means a transformer with an equal number of phases and capacity to a transformer described in any of the tables in subsection (b)(2) and paragraphs (1) and (2) of subsection (c) of section 431.196 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act) that—“(A) does not meet or exceed the applicable energy conservation standards described in paragraph (1); and “(B)(i) was manufactured between January 1, 1987, and December 31, 2008, for a transformer with an equal number of phases and capacity as a transformer described in the table in subsection (b)(2) of section 431.196 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act); or “(ii) was manufactured between January 1, 1992, and December 31, 2011, for a transformer with an equal number of phases and capacity as a transformer described in the table in paragraph (1) or (2) of subsection (c) of that section (as in effect on the date of enactment of this Act). “(3) Qualified entity.—The term ‘qualified entity’ means an owner of industrial or manufacturing facilities, commercial buildings, or multifamily residential buildings, a utility, or an energy service company that fulfills the requirements of subsection (c). “(b) Establishment.—Not later than 90 days after the date of enactment of this Act, the Secretary of Energy (in this section referred to as the ‘Secretary’) shall establish a program to provide rebates to qualified entities for expenditures made by the qualified entity for the replacement of a qualified energy inefficient transformer with a qualified energy efficient transformer. “(c) Requirements.—To be eligible to receive a rebate under this section, an entity shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary may require, including demonstrated evidence—“(1) that the entity purchased a qualified energy efficient transformer; “(2) of the core loss value of the qualified energy efficient transformer; “(3) of the age of the qualified energy inefficient transformer being replaced; “(4) of the core loss value of the qualified energy inefficient transformer being replaced—“(A) as measured by a qualified professional or verified by the equipment manufacturer, as applicable; or “(B) for transformers described in subsection (a)(2)(B)(i), as selected from a table of default values as determined by the Secretary in consultation with applicable industry; and “(5) that the qualified energy inefficient transformer has been permanently decommissioned and scrapped. “(d) Authorized Amount of Rebate.—The amount of a rebate provided under this section shall be—“(1) for a 3-phase or single-phase transformer with a capacity of not less than 10 and not greater than 2,500 kilovolt-amperes, twice the amount equal to the difference in Watts between the core loss value (as measured in accordance with paragraphs (2) and (4) of subsection (c)) of—“(A) the qualified energy inefficient transformer; and “(B) the qualified energy efficient transformer; or “(2) for a transformer described in subsection (a)(2)(B)(i), the amount determined using a table of default rebate values by rated transformer output, as measured in kilovolt-amperes, as determined by the Secretary in consultation with applicable industry. “(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2022 and 2023. “(f) Termination of Effectiveness.—The authority provided by this section terminates on December 31, 2023.”
+
+Study of Utility Distribution Transformers; Report to CongressPub. L. 102–486, title I, § 124(c), Oct. 24, 1992, 106 Stat. 2833, directed the Secretary to evaluate the practicability, cost-effectiveness, and potential energy savings of replacing or upgrading utility distribution transformers during routine maintenance and, not later than 18 months after Oct. 24, 1992, report the findings of the evaluation to Congress with recommendations.

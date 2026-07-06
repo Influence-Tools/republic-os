@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 7307"
+description: "Office of Research Oversight"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "73"
+chapter_name: "VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS"
+section: "7307"
+citation: "38 U.S.C. § 7307"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s7307"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "a560be299368fd144a4c64274ceb4b53e41f1cc1294a6eacd77c237bd10ae9d3"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "492a960c3513f7609b4c125b31ab3fca53c2ccd21208935710da081de5e2447a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 7307 - Office of Research Oversight
+
+## Text
+
+(a) Requirement for Office.— (1) There is in the Veterans Health Administration an Office of Research Oversight (hereinafter in this section referred to as the “Office”). The Office shall advise the Under Secretary for Health on matters of compliance and assurance in human subjects protections, research safety, and research impropriety and misconduct. The Office shall function independently of entities within the Veterans Health Administration with responsibility for the conduct of medical research programs.
+
+(2) The Office shall—
+
+(A) monitor, review, and investigate matters of medical research compliance and assurance in the Department with respect to human subjects protections; and
+
+(B) monitor, review, and investigate matters relating to the protection and safety of human subjects and Department employees participating in medical research in Department programs.
+
+(b) Director.— (1) The head of the Office shall be a Director, who shall report directly to the Under Secretary for Health (without delegation).
+
+(2) Any person appointed as Director shall be—
+
+(A) an established expert in the field of medical research, administration of medical research programs, or similar fields; and
+
+(B) qualified to carry out the duties of the Office based on demonstrated experience and expertise.
+
+(c) Functions.— (1) The Director shall report to the Under Secretary for Health on matters relating to protections of human subjects in medical research projects of the Department under any applicable Federal law and regulation, the safety of employees involved in Department medical research programs, and suspected misconduct and impropriety in such programs. In carrying out the preceding sentence, the Director shall consult with employees of the Veterans Health Administration who are responsible for the management and conduct of Department medical research programs.
+
+(2) The matters to be reported by the Director to the Under Secretary under paragraph (1) shall include allegations of research impropriety and misconduct by employees engaged in medical research programs of the Department.
+
+(3) (A) When the Director determines that such a recommendation is warranted, the Director may recommend to the Under Secretary that a Department research activity be terminated, suspended, or restricted, in whole or in part.
+
+(B) In a case in which the Director reasonably believes that activities of a medical research project of the Department place human subjects’ lives or health at imminent risk, the Director shall direct that activities under that project be immediately suspended or, as appropriate and specified by the Director, be limited.
+
+(d) General Functions.— (1) The Director shall conduct periodic inspections and reviews, as the Director determines appropriate, of medical research programs of the Department. Such inspections and reviews shall include review of required documented assurances.
+
+(2) The Director shall observe external accreditation activities conducted for accreditation of medical research programs conducted in facilities of the Department.
+
+(3) The Director shall investigate allegations of research impropriety and misconduct in medical research projects of the Department.
+
+(4) The Director shall submit to the Under Secretary for Health, the Secretary, and the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on any suspected lapse, from whatever cause or causes, in protecting safety of human subjects and others, including employees, in medical research programs of the Department.
+
+(5) The Director shall carry out such other duties as the Under Secretary for Health may require.
+
+(e) Source of Funds.— Amounts for the activities of the Office, including its regional offices, shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care.
+
+(f) Annual Report.— Not later than March 15 each year, the Director shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Office during the preceding calendar year. Each such report shall include, with respect to that year, the following:
+
+(1) A summary of reviews of individual medical research programs of the Department completed by the Office.
+
+(2) Directives and other communications issued by the Office to field activities of the Department.
+
+(3) Results of any investigations undertaken by the Office during the reporting period consonant with the purposes of this section.
+
+(4) Other information that would be of interest to those committees in oversight of the Department medical research program.
+
+(g) Medical Research.— For purposes of this section, the term “medical research” means medical research described in section 7303(a)(2) of this title.
+
+(Added Pub. L. 108–170, title IV, § 401(a)(1), Dec. 6, 2003, 117 Stat. 2059.)

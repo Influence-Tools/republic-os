@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 1011j"
+description: "Prior rights and obligations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "28"
+chapter_name: "HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE"
+section: "1011j"
+citation: "20 U.S.C. § 1011j"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s1011j"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "8e5a7dde04303e46f2bef8bc25f87239252c5f84112c6c3e9aa036adad3cc3fe"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "3ba91ef636f0182aa9806350e9194c4743e768c811ea7d2a025c7df8d88398c5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 1011j - Prior rights and obligations
+
+## Text
+
+(a) Authorization of appropriations (1) Pre-1987 parts C and D of subchapter VII There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to 1987 under parts C and D of subchapter VII, as such parts were in effect before the effective date of the Higher Education Amendments of 1992.
+
+(2) Post-1992 and pre-1998 part C of subchapter VII There are authorized to be appropriated such sums as may be necessary for fiscal year 2009 and for each succeeding fiscal year to pay obligations incurred prior to October 7, 1998, under part C of subchapter VII, as such part was in effect during the period—
+
+(A) after the effective date of the Higher Education Amendments of 1992; and
+
+(B) prior to October 7, 1998.
+
+(b) Legal responsibilities (1) Pre-1987 subchapter VII All entities with continuing obligations incurred under parts A, B, C, and D of subchapter VII, as such parts were in effect before the effective date of the Higher Education Amendments of 1992, shall be subject to the requirements of such part as in effect before the effective date of the Higher Education Amendments of 1992.
+
+(2) Post-1992 and pre-1998 part C of subchapter VII All entities with continuing obligations incurred under part C of subchapter VII, as such part was in effect during the period—
+
+(A) after the effective date of the Higher Education Amendments of 1992; and
+
+(B) prior to October 7, 1998,
+
+shall be subject to the requirements of such part as such part was in effect during such period.
+
+(Pub. L. 89–329, title I, § 121, as added Pub. L. 105–244, title I, § 101(a), Oct. 7, 1998, 112 Stat. 1601; amended Pub. L. 110–315, title I, § 108, Aug. 14, 2008, 122 Stat. 3094.)
+
+## Notes
+
+Editorial Notes
+
+References in TextParts A, B, C, and D of subchapter VII, as such parts were in effect before the effective date of the Higher Education Amendments of 1992, referred to in subsecs. (a)(1) and (b)(1), means parts A (§ 1132b et seq.), B (§ 1132c et seq.), C (§ 1132d et seq.), and D (§ 1132e et seq.) of subchapter VII of this chapter, as in effect before the effective date of Pub. L. 102–325. For effective date of Pub. L. 102–325, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title. Pub. L. 102–325, title VII, §§ 703–707(a), July 23, 1992, 106 Stat. 738–753, amended subchapter VII of this chapter effective Oct. 1, 1992, by amending parts A to C generally, repealing part D, and redesignating former part E as D. Part C of subchapter VII, as such part was in effect during the period after the effective date of the Higher Education Amendments of 1992 and prior to October 7, 1998, referred to in subsecs. (a)(2) and (b)(2), probably means part C (§ 1132d et seq.) of subchapter VII of this chapter, as in effect during the period after the effective date of Pub. L. 102–325 and before it was amended by Pub. L. 105–244. For effective date of Pub. L. 102–325, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title. Pub. L. 105–244, title VII, § 701, Oct. 7, 1998, 112 Stat. 1786, amended subchapter VII of this chapter generally, effective Oct. 1, 1998, omitting part C which related to loans for construction, reconstruction, and renovation of academic housing, and other educational facilities and adding a new part C (§ 1139 et seq.) relating to urban community service.
+
+Prior ProvisionsProvisions similar to this section were contained in section 1132a–1 of this title prior to the general amendment of subchapter VII of this chapter by Pub. L. 105–244. A prior section 121 of Pub. L. 89–329, title I, as added Pub. L. 99–498, title I, § 101, Oct. 17, 1986, 100 Stat. 1285, related to adult learning research and was classified to section 1016 of this title, prior to the general amendment of this subchapter by Pub. L. 102–325.
+
+Amendments2008—Subsec. (a). Pub. L. 110–315 substituted “2009 and for each succeeding fiscal year” for “1999 and for each of the 4 succeeding fiscal years” in pars. (1) and (2).

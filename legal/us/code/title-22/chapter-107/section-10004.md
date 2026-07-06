@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 10004"
+description: "Support for development programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "107"
+chapter_name: "SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY"
+section: "10004"
+citation: "22 U.S.C. § 10004"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s10004"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "2610be39dde32cac9bc152c007a740f0a0b68d2bd72e60b6b8ce45b5e5ecc41f"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "add99f9ba7be066579102efb38f815be555be3b37c1e596211430ee0423e0f62"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 10004 - Support for development programs
+
+## Text
+
+(a) In general Notwithstanding any other provision of law (other than the Trafficking Victims Protection Act of 2000 [22 U.S.C. 7101 et seq.] and the Child Soldiers Prevention Act of 2008), the President is authorized to provide assistance under part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) and under the Better Utilization of Investments Leading to Development Act of 2018 (22 U.S.C. 9601 et seq.) for programs in Sudan—
+
+(1) to increase agricultural and livestock productivity;
+
+(2) to promote economic growth, increase private sector productivity and advance market-based solutions to address development challenges;
+
+(3) to support women’s economic empowerment and economic opportunities for youth and previously marginalized populations;
+
+(4) to improve equal access to quality basic education;
+
+(5) to support the capacity of universities to equip students to participate in a pluralistic and global society through virtual exchange and other programs;
+
+(6) to improve access to water, sanitation, and hygiene projects;
+
+(7) to build the capacity of national and subnational government officials to support the transparent management of public resources, promote good governance through combating corruption and improving accountability, increase economic productivity, and increase domestic resource mobilization; and
+
+(8) to support other related economic assistance programs and activities.
+
+(b) Authorization of appropriations Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $80,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
+
+(Pub. L. 116–283, div. A, title XII, § 1265, Jan. 1, 2021, 134 Stat. 3970.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Trafficking Victims Protection Act of 2000, referred to in subsec. (a), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables. The Child Soldiers Prevention Act of 2008, referred to in subsec. (a), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables. The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The Better Utilization of Investments Leading to Development Act of 2018, referred to in subsec. (a), is div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, also known as the BUILD Act of 2018. Div. F is classified principally to chapter 103 of this title. For complete classification of div. F to the Code, see Short Title note set out under section 9601 of this title and Tables.

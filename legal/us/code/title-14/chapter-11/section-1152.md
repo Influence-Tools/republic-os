@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 1152"
+description: "Advance procurement funding"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "11"
+chapter_name: "ACQUISITIONS"
+section: "1152"
+citation: "14 U.S.C. § 1152"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s1152"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "ac12e74be6d2ebbec9ba27bed7c5318a3a0ff6d3ddc2aa2762d24f1ba0dca964"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "da25171f761562af5c0d100ac124eb402bbcbf820fe97674ab0a536202db96ad"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 1152 - Advance procurement funding
+
+## Text
+
+(a) In General.— With respect to any Coast Guard vessel for which amounts are appropriated and any amounts otherwise made available for vessels for the Coast Guard in any fiscal year, the Commandant may enter into a contract or place an order, in advance of a contract or order for construction of a vessel, for—
+
+(1) materials, parts, components, and labor for the vessel;
+
+(2) the advance construction of parts or components for the vessel;
+
+(3) protection and storage of materials, parts, or components for the vessel; and
+
+(4) production planning, design, and other related support services that reduce the overall procurement lead time of the vessel.
+
+(b) Use of Materials, Parts, and Components Manufactured in the United States.— In entering into contracts and placing orders under subsection (a), the Commandant may give priority to persons that manufacture materials, parts, and components in the United States.
+
+(Added Pub. L. 112–213, title II, § 211(a), Dec. 20, 2012, 126 Stat. 1551, § 577; amended Pub. L. 115–232, div. C, title XXXV, § 3531(c)(7), Aug. 13, 2018, 132 Stat. 2320; renumbered § 1152, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–282 renumbered section 577 of this title as this section. Subsec. (a). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Long Lead Time Materials and Vessel Production; Immediate Availability of FundingPub. L. 113–6, div. D, title V, § 557, Mar. 26, 2013, 127 Stat. 377, provided that: “(a) Notwithstanding Office of Management and Budget Circular A–11, funds made available in fiscal year 2013, or any fiscal year thereafter, under Department of Homeland Security, Coast Guard, ‘Acquisition, Construction, and Improvements’ for—“(1) long lead time materials, components, and designs of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for production, outfitting, post-delivery activities, and spare or repair parts; and “(2) production of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for outfitting, post-delivery activities, and spare or repair parts. “(b) The Secretary of Homeland Security shall develop fiscal policy that prescribes Coast Guard budgetary policies, procedures and technical direction necessary to comply with subsection (a) of this section and consistent with the Department of Defense Financial Management Regulation (Volume 2A, Chapter 1 C. Procedures for Full Funding) to include the costs associated with outfitting and post-delivery activities; spare and repair parts; and long lead time materials. The requirement set forth in this section shall not preclude the immediate availability or allotment of funds for fiscal year 2013, pursuant to subsection (a). “(c) In this section—“(1) the term ‘long lead time items’ means components, parts, material, or effort which must be procured in advance of the production award in order to maintain the production schedule; “(2) the term ‘outfitting’ means procurement or installation of onboard repair parts, other secondary items, equipage, and recreation items; precommissioning crew support; general use consumables furnished to the shipbuilder; the fitting out activity to fill a vessel’s initial allowances; and contractor-furnished spares; and “(3) the term ‘post-delivery activities’ means design, planning, Government-furnished material, and related labor for non-production and non-long lead time items contract activities and other work, including certifications, full operational capability activities and other equipment installation; spares, logistics, technical analysis, and support; correction of Government-responsible defects and deficiencies identified during builders trials, acceptance trials, and testing during the post-delivery period; costs of all work required to correct defects or deficiencies identified during the post-delivery period; and costs of all work required to correct trial card deficiencies on a vessel of a particular class, as well as on subsequent vessels of that class (whether or not delivered) until the corrective action for that cutter class is completed.”

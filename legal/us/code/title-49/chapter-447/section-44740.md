@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 44740"
+description: "Special rule for certain aircraft operations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "447"
+chapter_name: "SAFETY REGULATION"
+section: "44740"
+citation: "49 U.S.C. § 44740"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s44740"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "8dc62b1eec003c31d4026a0fb0dd792c69b1f77c0ee084c75936d23984c008bb"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "ab420bba2aacf04c0451c3b7a5ca1cf7ce2551073d3a186cd313ae5caca7a62a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 44740 - Special rule for certain aircraft operations
+
+## Text
+
+(a) In General.— The operator of an aircraft with a special airworthiness certification in the experimental category may—
+
+(1) operate the aircraft for the purpose of conducting a space support vehicle flight (as that term is defined in section 50902 of title 51); and
+
+(2) conduct such flight under such certificate carrying persons or property for compensation or hire—
+
+(A) notwithstanding any rule or term of a certificate issued by the Administrator of the Federal Aviation Administration that would prohibit flight for compensation or hire; or
+
+(B) without obtaining a certificate issued by the Administrator to conduct air carrier or commercial operations.
+
+(b) Limited Applicability.— Subsection (a) shall apply only to a space support vehicle flight that satisfies each of the following:
+
+(1) The aircraft conducting the space support vehicle flight—
+
+(A) takes flight and lands at a single site that is operated by an entity licensed for operation under chapter 509 of title 51;
+
+(B) is owned or operated by a launch or reentry vehicle operator licensed under chapter 509 of title 51, or on behalf of a launch or reentry vehicle operator licensed under chapter 509 of title 51;
+
+(C) is a launch vehicle, a reentry vehicle, or a component of a launch or reentry vehicle licensed for operations pursuant to chapter 509 of title 51; and
+
+(D) is used only to simulate space flight conditions in support of—
+
+(i) training for potential space flight participants, government astronauts, or crew (as those terms are defined in chapter 509 of title 51);
+
+(ii) the testing of hardware to be used in space flight; or
+
+(iii) research and development tasks, which require the unique capabilities of the aircraft conducting the flight.
+
+(c) Rules of Construction.— (1) Space support vehicles.— Section 44711(a)(1) shall not apply to a person conducting a space support vehicle flight under this section only to the extent that a term of the experimental certificate under which the person is operating the space support vehicle prohibits the carriage of persons or property for compensation or hire.
+
+(2) Authority of administrator.— Nothing in this section shall be construed to limit the authority of the Administrator of the Federal Aviation Administration to exempt a person from a regulatory prohibition on the carriage of persons or property for compensation or hire subject to terms and conditions other than those described in this section.
+
+(Added Pub. L. 115–254, div. B, title V, § 581(b)(1), Oct. 5, 2018, 132 Stat. 3398, § 44737; renumbered § 44740 and amended Pub. L. 116–260, div. V, title I, § 107(d)(1), (3), Dec. 27, 2020, 134 Stat. 2326.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2020—Pub. L. 116–260, § 107(d)(3)(A), struck out period after “operations” in section catchline. Pub. L. 116–260, § 107(d)(1), renumbered section 44737 of this title as this section. Subsec. (a)(1). Pub. L. 116–260, § 107(d)(3)(B), substituted “section” for “chapter”. Subsec. (b)(1). Pub. L. 116–260, § 107(d)(3)(C), struck out “(1)” the second time appearing before “The” in introductory provisions. Subsec. (c)(2). Pub. L. 116–260, § 107(d)(3)(D), inserted period at end.
+
+Statutory Notes and Related Subsidiaries
+
+Modernization of Special Airworthiness Certification Rulemaking DeadlinePub. L. 118–63, title VIII, § 824, May 16, 2024, 138 Stat. 1332, provided that: “Not later than 24 months after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall issue a final rule for the rulemaking activity titled ‘Modernization of Special Airworthiness Certification’, published in Fall 2022 in the long-term actions of the Unified Agenda of Federal Regulatory and Deregulatory Actions (RIN 2120–AL50).”
+
+Flight Instruction or TestingPub. L. 118–63, title VIII, § 832, May 16, 2024, 138 Stat. 1339, provided that: “(a) Authorized Additional Pilots.—An individual acting as an authorized additional pilot during Phase I flight testing of aircraft holding an experimental airworthiness certificate, in accordance with section 21.191 of title 14, Code of Federal Regulations, and meeting the requirements set forth in FAA [Federal Aviation Administration] regulations and policy in effect as of the date of enactment of this Act [May 16, 2024], shall not be deemed to be operating an aircraft carrying persons or property for compensation or hire. “(b) Use of Aircraft.—An individual who uses, causes to use, or authorizes to use aircraft for flights conducted under subsection (a) shall not be deemed to be operating an aircraft carrying persons or property for compensation or hire. “(c) Revision of Rules.—The Administrator [of the Federal Aviation Administration] shall, as necessary, issue, revise, or repeal the rules, regulations, guidance, or procedures of the FAA to conform to the requirements of this section.”
+
+Rule of Construction Relating to Role of NASAPub. L. 115–254, div. B, title V, § 581(b)(3), Oct. 5, 2018, 132 Stat. 3399, provided that: “Nothing in this subsection [enacting this section] shall be construed as limiting the ability of [the] National Aeronautics and Space Administration (NASA) to place conditions on or otherwise qualify the operations of NASA contractors providing NASA services.”

@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 360ll"
+description: "Notification of defects in and repair or replacement of electronic products"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "9"
+chapter_name: "FEDERAL FOOD, DRUG, AND COSMETIC ACT"
+section: "360ll"
+citation: "21 U.S.C. § 360ll"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s360ll"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "a713a093ad015b255ac1631aa8087eaf2d1883ac79f6ad28f95e3e91a598c296"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "232c105bfbb912dd0288490df4b1d1817ede275040fa211ea9b6ed84f46ff52b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 360ll - Notification of defects in and repair or replacement of electronic products
+
+## Text
+
+(a) Notification; exemption (1) Every manufacturer of electronic products who discovers that an electronic product produced, assembled, or imported by him has a defect which relates to the safety of use of such product by reason of the emission of electronic product radiation, or that an electronic product produced, assembled, or imported by him on or after the effective date of an applicable standard prescribed pursuant to section 360kk of this title fails to comply with such standard, shall immediately notify the Secretary of such defect or failure to comply if such product has left the place of manufacture and shall (except as authorized by paragraph (2)) with reasonable promptness furnish notification of such defect or failure to the persons (where known to the manufacturer) specified in subsection (b) of this section.
+
+(2) If, in the opinion of such manufacturer, the defect or failure to comply is not such as to create a significant risk of injury, including genetic injury, to any person, he may, at the time of giving notice to the Secretary of such defect or failure to comply, apply to the Secretary for an exemption from the requirement of notice to the persons specified in subsection (b). If such application states reasonable grounds for such exemption, the Secretary shall afford such manufacturer an opportunity to present his views and evidence in support of the application, the burden of proof being on the manufacturer. If, after such presentation, the Secretary is satisfied that such defect or failure to comply is not such as to create a significant risk of injury, including genetic injury, to any person, he shall exempt such manufacturer from the requirement of notice to the persons specified in subsection (b) of this section and from the requirements of repair or replacement imposed by subsection (f) of this section.
+
+(b) Method of notification The notification (other than to the Secretary) required by paragraph (1) of subsection (a) of this section shall be accomplished—
+
+(1) by certified mail to the first purchaser of such product for purposes other than resale, and to any subsequent transferee of such product; and
+
+(2) by certified mail or other more expeditious means to the dealers or distributors of such manufacturer to whom such product was delivered.
+
+(c) Requisite elements of notification The notifications required by paragraph (1) of subsection (a) of this section shall contain a clear description of such defect or failure to comply with an applicable standard, an evaluation of the hazard reasonably related to such defect or failure to comply, and a statement of the measures to be taken to repair such defect. In the case of a notification to a person referred to in subsection (b) of this section, the notification shall also advise the person of his rights under subsection (f) of this section.
+
+(d) Copies to Secretary of communications by manufacturers to dealers or distributors regarding defects Every manufacturer of electronic products shall furnish to the Secretary a true or representative copy of all notices, bulletins, and other communications to the dealers or distributors of such manufacturer or to purchasers (or subsequent transferees) of electronic products of such manufacturer regarding any such defect in such product or any such failure to comply with a standard applicable to such product. The Secretary shall disclose to the public so much of the information contained in such notice or other information obtained under section 360nn of this title as he deems will assist in carrying out the purposes of this part, but he shall not disclose any information which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 unless he determines that it is necessary to carry out the purposes of this part.
+
+(e) Notice from Secretary to manufacturer of defects or failure to comply with standards If through testing, inspection, investigation, or research carried out pursuant to this part, or examination of reports submitted pursuant to section 360nn of this title, or otherwise, the Secretary determines that any electronic product—
+
+(1) does not comply with an applicable standard prescribed pursuant to section 360kk of this title; or
+
+(2) contains a defect which relates to the safety of use of such product by reason of the emission of electronic product radiation;
+
+he shall immediately notify the manufacturer of such product of such defect or failure to comply. The notice shall contain the findings of the Secretary and shall include all information upon which the findings are based. The Secretary shall afford such manufacturer an opportunity to present his views and evidence in support thereof, to establish that there is no failure of compliance or that the alleged defect does not exist or does not relate to safety of use of the product by reason of the emission of such radiation hazard. If after such presentation by the manufacturer the Secretary determines that such product does not comply with an applicable standard prescribed pursuant to section 360kk of this title, or that it contains a defect which relates to the safety of use of such product by reason of the emission of electronic product radiation, the Secretary shall direct the manufacturer to furnish the notification specified in subsection (c) of this section to the persons specified in paragraphs (1) and (2) of subsection (b) of this section (where known to the manufacturer), unless the manufacturer has applied for an exemption from the requirement of such notification on the ground specified in paragraph (2) of subsection (a) and the Secretary is satisfied that such noncompliance or defect is not such as to create a significant risk of injury, including genetic injury, to any person.
+
+(f) Correction of defects If any electronic product is found under subsection (a) or (e) to fail to comply with an applicable standard prescribed under this part or to have a defect which relates to the safety of use of such product, and the notification specified in subsection (c) is required to be furnished on account of such failure or defect, the manufacturer of such product shall (1) without charge, bring such product into conformity with such standard or remedy such defect and provide reimbursement for any expenses for transportation of such product incurred in connection with having such product brought into conformity or having such defect remedied, (2) replace such product with a like or equivalent product which complies with each applicable standard prescribed under this part and which has no defect relating to the safety of its use, or (3) make a refund of the cost of such product. The manufacturer shall take the action required by this subsection in such manner, and with respect to such persons, as the Secretary by regulations shall prescribe.
+
+(g) Effective date This section shall not apply to any electronic product that was manufactured before October 18, 1968.
+
+(June 25, 1938, ch. 675, § 535, formerly act July 1, 1944, ch. 373, title III, § 535, formerly § 359, as added Pub. L. 90–602, § 2(3), Oct. 18, 1968, 82 Stat. 1180; renumbered § 535 and amended Pub. L. 101–629, § 19(a)(1)(B), (2)(C), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, § 4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was classified to section 263g of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
+
+Amendments1993—Pub. L. 103–80 amended directory language of Pub. L. 101–629, § 19(a)(4), which renumbered section 263g of Title 42, The Public Health and Welfare, as this section. 1990—Subsec. (a)(1). Pub. L. 101–629, § 19(a)(2)(C)(i), substituted “section 360kk” for “section 263f”. Subsec. (d). Pub. L. 101–629, § 19(a)(1)(B), (2)(C)(ii), substituted “section 360nn” for “section 263i” and “this part” for “this subpart” in two places. Subsec. (e). Pub. L. 101–629, § 19(a)(1)(B), (2)(C), substituted “this part” for “this subpart” and “section 360nn” for “section 263i” in introductory provisions and “section 360kk” for “section 263f” in par. (1) and concluding provisions. Subsec. (f). Pub. L. 101–629, § 19(a)(1)(B), substituted “this part” for “this subpart” in two places.
+
+Statutory Notes and Related Subsidiaries
+
+Noninterference With Other Federal AgenciesEnactment of this section not to be construed to supersede or limit the functions under any other provision of law of any officer or agency of the United States, see section 4 of Pub. L. 90–602, set out as a note under section 360hh of this title.

@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3133"
+description: "Coordination"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "38"
+chapter_name: "PUBLIC WORKS AND ECONOMIC DEVELOPMENT"
+section: "3133"
+citation: "42 U.S.C. § 3133"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3133"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "982ff3da239105080c6374420007746bf13e6f8ae98563e27babbd38c6424ff5"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "5bf9e19e4512a06a6de9ff05a50ba62c7c7af6cf79b42b9ab2c9d80c5540a98f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3133 - Coordination
+
+## Text
+
+(a) In general The Secretary shall coordinate activities relating to the preparation and implementation of comprehensive economic development strategies under this chapter with Federal agencies carrying out other Federal programs, States, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+
+(b) Meetings (1) In general To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+
+(2) Regional commissions (A) In general In addition to meetings described in paragraph (1), not later than 1 year after January 4, 2025, and not less frequently than every 2 years thereafter, the Secretary shall convene a meeting with the Regional Commissions in furtherance of subsection (a).
+
+(B) Attendees The attendees for a meeting convened under this paragraph shall consist of—
+
+(i) the Secretary, acting through the Assistant Secretary of Commerce for Economic Development, serving as Chair;
+
+(ii) the Federal Cochairpersons of the Regional Commissions, or their designees; and
+
+(iii) the State Cochairpersons of the Regional Commissions, or their designees.
+
+(C) Purpose The purposes of a meeting convened under this paragraph shall include—
+
+(i) to enhance coordination between the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
+
+(ii) to reduce duplication of efforts by the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
+
+(iii) to develop best practices and strategies for fostering regional economic development; and
+
+(iv) any other purposes as determined appropriate by the Secretary.
+
+(D) Report Where applicable and pursuant to subparagraph (C), not later than 1 year after a meeting under this paragraph, the Secretary shall prepare and make publicly available a report detailing, at a minimum—
+
+(i) the planned actions by the Economic Development Administration and the Regional Commissions to enhance coordination or reduce duplication of efforts and a timeline for implementing those actions; and
+
+(ii) any best practices and strategies developed.
+
+(Pub. L. 89–136, title I, § 103, as added Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3601; amended Pub. L. 108–373, title I, § 104, Oct. 27, 2004, 118 Stat. 1759; Pub. L. 118–272, div. B, title II, § 2212, Jan. 4, 2025, 138 Stat. 3178.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 3133, Pub. L. 89–136, title I, § 103, Aug. 26, 1965, 79 Stat. 554, set limitation on funds which could be expended in any one State, prior to repeal by Pub. L. 105–393, § 102(a). A prior section 3134, Pub. L. 89–136, title I, § 104, Aug. 26, 1965, 79 Stat. 554, related to the ineligibility of Appalachian region projects for appropriations under this subchapter, prior to repeal by Pub. L. 94–188, title I, § 123, Dec. 31, 1975, 89 Stat. 1086. Prior sections 3135 to 3137 were repealed by Pub. L. 105–393, § 102(a). Section 3135, Pub. L. 89–136, title I, § 105, Aug. 26, 1965, 79 Stat. 554; Pub. L. 91–123, title III, § 301(2), Nov. 25, 1969, 83 Stat. 219; Pub. L. 91–304, § 1(a), July 6, 1970, 84 Stat. 375; Pub. L. 92–65, title I, § 103, Aug. 5, 1971, 85 Stat. 166; Pub. L. 93–46, § 1, June 18, 1973, 87 Stat. 96; Pub. L. 93–423, § 1, Sept. 27, 1974, 88 Stat. 1158; Pub. L. 94–487, title I, § 105, Oct. 12, 1976, 90 Stat. 2331; Pub. L. 96–506, § 1(2), Dec. 8, 1980, 94 Stat. 2745; Pub. L. 97–35, title XVIII, § 1821(a)(1), Aug. 13, 1981, 95 Stat. 766, authorized appropriations to carry out this subchapter from fiscal year ending June 30, 1966, to fiscal year ending Sept. 30, 1982. Section 3136, Pub. L. 89–136, title I, § 106, Aug. 26, 1965, 79 Stat. 554; 1966 Reorg. Plan No. 2, § 1(h)(3), eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608; 1970 Reorg. Plan No. 3, § 2(a)(1), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2087, conditioned use of financial assistance for sewer or other waste disposal facilities upon certification by Administrator of Environmental Protection Agency. Section 3137, Pub. L. 89–136, title I, § 107, as added Pub. L. 94–487, title I, § 106, Oct. 12, 1976, 90 Stat. 2332, authorized increase in amount of grant for construction cost increases after grant had been made.
+
+Amendments2025—Subsec. (b). Pub. L. 118–272 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.” 2004—Pub. L. 108–373 designated existing provisions as subsec. (a), inserted heading, inserted “Indian tribes,” after “districts,”, and added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7512"
+description: "Purposes of assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "82"
+chapter_name: "AFGHANISTAN FREEDOM SUPPORT"
+section: "7512"
+citation: "22 U.S.C. § 7512"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7512"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "619eb2688ed738c0570edfff6e9ed35d61933e02403ef0c4dab8e35e0c781a8a"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "6913d96622171b9382f1dc0ac5a82def03da6cfc57d0608e9ee9da4c33ebf60d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7512 - Purposes of assistance
+
+## Text
+
+The purposes of assistance authorized by this subchapter are—
+
+(1) to help assure the security of the United States and the world by reducing or eliminating the likelihood of violence against United States or allied forces in Afghanistan and to reduce the chance that Afghanistan will again be a source of international terrorism;
+
+(2) to support the continued efforts of the United States and the international community to address the humanitarian crisis in Afghanistan and among Afghan refugees in neighboring countries;
+
+(3) to fight the production and flow of illicit narcotics, to control the flow of precursor chemicals used in the production of heroin, and to enhance and bolster the capacities of Afghan governmental authorities to control poppy cultivation and related activities;
+
+(4) to help achieve a broad-based, multi-ethnic, gender-sensitive, and fully representative government in Afghanistan that is freely chosen by the people of Afghanistan and that respects the human rights of all Afghans, particularly women, including authorizing assistance for the rehabilitation and reconstruction of Afghanistan with a particular emphasis on meeting the educational, health, and sustenance needs of women and children to better enable their full participation in Afghan society;
+
+(5) to support the Government of Afghanistan in its development of the capacity to facilitate, organize, develop, and implement projects and activities that meet the needs of the Afghan people;
+
+(6) to foster the participation of civil society in the establishment of the new Afghan government in order to achieve a broad-based, multi-ethnic, gender-sensitive, fully representative government freely chosen by the Afghan people, without prejudice to any decisions which may be freely taken by the Afghan people about the precise form in which their government is to be organized in the future;
+
+(7) to support the reconstruction of Afghanistan through, among other things, programs that create jobs, facilitate clearance of landmines, and rebuild the agriculture sector, the health care system, and the educational system of Afghanistan;
+
+(8) to provide resources to the Ministry for Women’s Affairs of Afghanistan to carry out its responsibilities for legal advocacy, education, vocational training, and women’s health programs; and
+
+(9) to foster the growth of a pluralistic society that promotes and respects religious freedom.
+
+(Pub. L. 107–327, title I, § 102, Dec. 4, 2002, 116 Stat. 2798.)

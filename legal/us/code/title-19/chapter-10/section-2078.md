@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2078"
+description: "Certification of reason for advance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "10"
+chapter_name: "CUSTOMS SERVICE"
+section: "2078"
+citation: "19 U.S.C. § 2078"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2078"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "bdedaeb3a6cb23fc2af30f0b583942a81c16481d92650fe8ad137d6dd53e089b"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "eb31decf0a30b6002d4110ac177a1308106cef2908d826f8be33fbcace65ebb7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2078 - Certification of reason for advance
+
+## Text
+
+A certificate by the Commissioner of Customs 11 See Change of Name note below. stating the amount of an expenditure made from funds advanced and certifying that the confidential nature of the transaction involved renders it inadvisable to specify the details thereof or impracticable to furnish the payee’s receipt shall be a sufficient voucher for the sum expressed to have been expended.
+
+(Mar. 28, 1928, ch. 266, § 3, as added Aug. 7, 1939, ch. 566, § 1, 53 Stat. 1263; amended Pub. L. 91–513, title III, § 1102(n)(2), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 529d of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+
+Amendments1970—Pub. L. 91–513 struck out reference to Commissioner of Narcotics.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after the day immediately preceding the date of enactment of Pub. L. 91–513, which was approved on Oct. 27, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
+
+Savings ProvisionProsecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under section 171 of Title 21, Food and Drugs.
+
+Transfer of Functions For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+Executive Documents
+
+Transfer of Functions For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.

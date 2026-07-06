@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1320b–2"
+description: "Period within which certain claims must be filed"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "7"
+chapter_name: "SOCIAL SECURITY"
+section: "1320b–2"
+citation: "42 U.S.C. § 1320b–2"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1320b–2"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "844dd0cd697feeefa7065123e2a797d6cc0c6fb8d0291693130429ec2410294c"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "9ec235622148b5a419c7a4c4a6c61de2bff18ca52127122097343cf00f3f89bf"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1320b–2 - Period within which certain claims must be filed
+
+## Text
+
+(a) Claims Notwithstanding any other provision of this chapter (but subject to subsection (b)), any claim by a State for payment with respect to an expenditure made during any calendar quarter by the State—
+
+(1) in carrying out a State plan approved under subchapter I, IV, X, XIV, XVI, XIX, or XX of this chapter, or
+
+(2) under any other provision of this chapter which provides (on an entitlement basis) for Federal financial participation in expenditures made under State plans or programs,
+
+shall be filed (in such form and manner as the Secretary shall by regulations prescribe) within the two-year period which begins on the first day of the calendar quarter immediately following such calendar quarter; and payment shall not be made under this chapter on account of any such expenditure if claim therefor is not made within such two-year period; except that this subsection shall not be applied so as to deny payment with respect to any expenditure involving court-ordered retroactive payments or audit exceptions, or adjustments to prior year costs.
+
+(b) Waiver The Secretary shall waive the requirement imposed under subsection (a) with respect to the filing of any claim if he determines (in accordance with regulations) that there was good cause for the failure by the State to file such claim within the period prescribed under subsection (a). Any such waiver shall be only for such additional period of time as may be necessary to provide the State with a reasonable opportunity to file such claim. A failure to file a claim within such time period which is attributable to neglect or administrative inadequacies shall be deemed not to be for good cause.
+
+(Aug. 14, 1935, ch. 531, title XI, § 1132, as added Pub. L. 96–272, title III, § 306(a), June 17, 1980, 94 Stat. 530; amended Pub. L. 97–35, title XXI, § 2193(c)(5), Aug. 13, 1981, 95 Stat. 827.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1981—Subsec. (a)(1). Pub. L. 97–35 substituted “subchapter I, IV, X” for “subchapter I, IV, V, X”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1981 Amendment, Savings, and Transitional ProvisionsFor effective date, savings, and transitional provisions relating to amendment by Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
+
+Effective DatePub. L. 96–272, title III, § 306(b), (c), June 17, 1980, 94 Stat. 530, provided that: “(b)(1) The amendment made by subsection (a) [enacting this section] shall be effective only in the case of claims filed on account of expenditures made in calendar quarters commencing on or after October 1, 1979. “(2) In the case of claims filed prior to the date of enactment of this Act [June 17, 1980] on account of expenditures described in section 1132 of the Social Security Act [42 U.S.C. 1320b–2] made in calendar quarters commencing prior to October 1, 1979, there shall be no time limit for the payment of such claims. “(3) In the case of such expenditures made in calendar quarters commencing prior to October 1, 1979, for which no claim has been filed on or before the date of enactment of this Act, payment shall not be made under this Act on account of any such expenditure unless claim therefor is filed (in such form and manner as the Secretary shall by regulation prescribe) prior to January 1, 1981. “(4) The provisions of this subsection shall not be applied so as to deny payment with respect to any expenditure involving adjustments to prior year costs or court-ordered retroactive payments or audit exceptions. The Secretary may waive the requirements of paragraph (3) in the same manner as under section 1132(b) of the Social Security Act [42 U.S.C. 1320b–2(b)]. “(c) Notwithstanding any other provision of law, there shall be no time limit for the filing or payment of such claims except as provided in this section, unless such other provision of law, in imposing such a time limitation, specifically exempts such filing or payment from the provisions of this section.”

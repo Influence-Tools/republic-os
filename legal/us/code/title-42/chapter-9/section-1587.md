@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1587"
+description: "Disposition of other permanent war housing"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "9"
+chapter_name: "HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE"
+section: "1587"
+citation: "42 U.S.C. § 1587"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1587"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "eaef59011e94f92f1a5fe4ce1c57ab2f7853abcaf86504c47727064947b547ec"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "1c7d2118341f4856285201937de1e2dae09d3668b070f761aee4f30291b5d511"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1587 - Disposition of other permanent war housing
+
+## Text
+
+(a) Public interest The Secretary of Housing and Urban Development shall, subject to the provisions of this section, dispose of permanent war housing, other than housing conveyed pursuant to section 1586 of this title, as promptly as practicable and in the public interest.
+
+(b) Preference in sales to individuals Preference in the purchase of any dwelling structure designed for occupancy by not more than four families and offered for separate sale shall be granted to occupants and to veterans over other prospective purchasers for such period as the Secretary of Housing and Urban Development may determine and in the following order:
+
+(1) a veteran who occupies a unit in the dwelling structure to be sold and who intends to continue to occupy such unit;
+
+(2) a nonveteran who occupies a unit in the dwelling structure to be sold and who intends to continue to occupy such unit;
+
+(3) a veteran who intends to occupy a unit in the dwelling structure to be sold.
+
+Subject to the above order of preference, the Secretary of Housing and Urban Development may establish subordinate preferences for any such dwelling structure. In the disposition of any dwellings under this section which were acquired by the United States from persons occupying the dwellings at the time of such acquisition, the Secretary of Housing and Urban Development may, notwithstanding the order of preference provided in this section, grant a first preference to such persons in the purchase of any of these dwellings for such period and under such conditions as the Secretary may determine to be appropriate and in the public interest. As used in this subsection, the term “veteran” shall include a veteran, a serviceman, or the family of a veteran or a serviceman, or the family of a deceased veteran or serviceman whose death has been determined by the Secretary of Veterans Affairs to be service-connected.
+
+(c) Preference in sales of projects In the case of any housing project required by this section to be disposed of, which is not offered for separate sale of separate dwelling structures designed for occupancy by not more than four families, such project may be sold as a whole or in such portions as the Secretary of Housing and Urban Development may determine. On such sales of an entire project or portions thereof consisting of more than one dwelling structure or of an individual dwelling structure designed for occupancy by more than four families, first preference shall be given for such period not less than ninety days nor more than six months from the date of the initial offering of such project or portions thereof as the Secretary of Housing and Urban Development may determine, to groups of veterans organized on a mutual ownership or cooperative basis (provided that any such group shall accept as a member of its organization, on the same terms, subject to the same conditions, and with the same privileges and responsibilities, required of, and extended to other members of the group any tenant occupying a dwelling unit in such project, portion thereof or building, at any time during such period as the Secretary of Housing and Urban Development shall deem appropriate, starting on the date of the announcement by the Secretary of Housing and Urban Development of the availability of such project, portion thereof or building for sale), except that a first preference for said period of not less than ninety days nor more than six months shall be given to any group organized on a mutual or cooperative basis, which, with respect to its proposed purchase of a specific housing project or portions thereof, has, prior to August 1, 1949, been granted an exception by the Secretary of Housing and Urban Development from the sales preference provisions of Public Regulation 1 of the Housing and Home Finance Agency and has been designated as a preferred purchaser.
+
+(d) Equitable selection method for each preference class The Secretary of Housing and Urban Development shall provide an equitable method of selecting the purchasers to apply when preferred purchasers (or groups of preferred purchasers) in the same preference class or containing members in the same preference class compete with each other.
+
+(e) Veterans’ preference Any housing disposed of in accordance with this section shall after such disposal be deemed to be housing accommodations the construction of which was completed after June 30, 1947, within the meaning of section 4 of the Housing and Rent Act of 1947, as amended, relating to preference or priority to veterans of World War II or their families.
+
+(f) Terms of sales Sales pursuant to this section shall be upon such terms as the Secretary of Housing and Urban Development shall determine: Provided, That full payment to the Government for the property sold shall be required within a period not exceeding twenty-five years with interest on unpaid balances at not less than 4 per centum per annum, except that in the case of projects initially programmed as mutual housing communities under the defense housing program, the terms of sale shall not require a down payment and shall provide for full payment to the United States over a period of forty-five years with interest on unpaid balances at not more than 3 per centum per annum.
+
+(g) Disregard of preferences in certain cases The Secretary of Housing and Urban Development may dispose of any permanent war housing without regard to the preferences in subsections (b) and (c) of this section when the Secretary determines that (1) such housing, because of design or lack of amenities, is unsuitable for family dwelling use, or (2) it is being used at the time of disposition for other than dwelling purposes, or (3) it was offered, with preferences substantially similar to those provided in the Housing Act of 1950, to veterans and occupants prior to April 20, 1950.
+
+(Oct. 14, 1940, ch. 862, title VI, § 607, as added June 28, 1948, ch. 688, § 7, as added Apr. 20, 1950, ch. 94, title II, § 201, 64 Stat. 59; amended Mar. 10, 1954, ch. 61, 68 Stat. 26; Aug. 2, 1954, ch. 649, title VIII, § 805(2), 68 Stat. 644; Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 102–54, § 13(q)(6)(B), June 13, 1991, 105 Stat. 281.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 4 of the Housing and Rent Act of 1947, as amended, referred to in subsec. (e), is section 4 of act June 30, 1947, ch. 163, title I, 61 Stat. 195, which was formerly classified to section 1884 of the former Appendix to Title 50, War and National Defense, and has been omitted from the Code. The Housing Act of 1950, referred to in subsec. (g), is act Apr. 20, 1950, ch. 94, 64 Stat. 48. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12, Banks and Banking, and Tables.
+
+Amendments1991—Subsec. (b). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration” in last sentence. 1954—Subsec. (b). Act Mar. 10, 1954, in last paragraph, inserted sentence permitting Administrator to give, in the disposition of dwellings under this section which were acquired by the United States from persons occupying the dwellings at the time of such acquisition, a first preference to such persons in the purchase thereof. Subsec. (g). Act Aug. 2, 1954, added subsec. (g).
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.

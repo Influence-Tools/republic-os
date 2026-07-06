@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2326g"
+description: "Beneficial use of dredged material; dredged material management plans"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2326g"
+citation: "33 U.S.C. § 2326g"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2326g"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "3833795a71d413ac5aee480b217a80222cfe0560c71bf626b6e959a0751f8dc7"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "22d7dc9dd739f4f23cd5bcd148a99be2902b614874b29bc4d1f9337995d82dff"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2326g - Beneficial use of dredged material; dredged material management plans
+
+## Text
+
+(a) National policy on the beneficial use of dredged material (1) In general (A) Policy It is the policy of the United States for the Corps of Engineers to maximize the beneficial use, in an environmentally acceptable manner, of suitable dredged material obtained from the construction or operation and maintenance of water resources development projects.
+
+(B) National goal To the greatest extent practicable, the Secretary shall ensure that not less than 70 percent by volume (as measured in cubic yards) of suitable dredged material obtained from the construction or operation and maintenance of water resources development projects is used beneficially.
+
+(2) Placement of dredged materials (A) In general In evaluating the placement of dredged material obtained from the construction or operation and maintenance of water resources development projects, the Secretary shall consider—
+
+(i) the suitability of the dredged material for a full range of beneficial uses; and
+
+(ii) the economic and environmental benefits, efficiencies, and impacts (including the effects on living coral) of using the dredged material for beneficial uses, including, in the case of beneficial use activities that involve more than one water resources development project, the benefits, efficiencies, and impacts that result from the combined activities.
+
+(B) Calculation of Federal standard (i) Determination The economic benefits and efficiencies from the beneficial use of dredged material considered by the Secretary under subparagraph (A) shall be included in any determination relating to the “Federal standard” by the Secretary under section 335.7 of title 33, Code of Federal Regulations, for the placement or disposal of such material.
+
+(ii) Reports The Secretary shall submit to Congress—
+
+(I) a report detailing the method and all of the factors utilized by the Corps of Engineers to determine the Federal standard referred to in clause (i); and
+
+(II) for each evaluation under subparagraph (A), a report displaying the calculations for economic and environmental benefits and efficiencies from the beneficial use of dredged material (including, where appropriate, the utilization of alternative dredging equipment and dredging disposal methods) considered by the Secretary under such subparagraph for the placement or disposal of such material.
+
+(C) Omitted
+
+(Pub. L. 116–260, div. AA, title I, § 125(a), Dec. 27, 2020, 134 Stat. 2636; Pub. L. 118–272, div. A, title I, § 1130(c), Jan. 4, 2025, 138 Stat. 3019.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Water Resources Development Act of 2020, and not as part of the Water Resources Development Act of 1986 which comprises this chapter. Section is comprised of section 125(a) of div. AA of Pub. L. 116–260. Par. (2)(C) of section 125(a) of div. AA of Pub. L. 116–260 amended section 2326 of this title.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 118–272 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.

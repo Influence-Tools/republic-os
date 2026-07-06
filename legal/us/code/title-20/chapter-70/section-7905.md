@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 7905"
+description: "Equal access to public school facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "70"
+chapter_name: "STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS"
+section: "7905"
+citation: "20 U.S.C. § 7905"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s7905"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "297d5265b74486e20dd76f0539e75674bb8e61ac3fc4857ffd17035accad3318"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "c46902c99c9311f56c2b39dcb3ef781c66b03db06d2a1a9a289e71caf1da95fe"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 7905 - Equal access to public school facilities
+
+## Text
+
+(a) Short title This section may be cited as the “Boy Scouts of America Equal Access Act”.
+
+(b) In general (1) Equal access Notwithstanding any other provision of law, no public elementary school, public secondary school, local educational agency, or State educational agency that has a designated open forum or a limited public forum and that receives funds made available through the Department shall deny equal access or a fair opportunity to meet to, or discriminate against, any group officially affiliated with the Boy Scouts of America, or any other youth group listed in title 36 (as a patriotic society), that wishes to conduct a meeting within that designated open forum or limited public forum, including denying such access or opportunity or discriminating for reasons based on the membership or leadership criteria or oath of allegiance to God and country of the Boy Scouts of America or of the youth group listed in title 36 (as a patriotic society).
+
+(2) Voluntary sponsorship Nothing in this section shall be construed to require any school, agency, or a school served by an agency to sponsor any group officially affiliated with the Boy Scouts of America, or any other youth group listed in title 36 (as a patriotic society).
+
+(c) Termination of assistance and other action (1) Departmental action The Secretary is authorized and directed to effectuate subsection (b) by issuing and securing compliance with rules or orders with respect to a public elementary school, public secondary school, local educational agency, or State educational agency that receives funds made available through the Department and that denies equal access, or a fair opportunity to meet, or discriminates, as described in subsection (b).
+
+(2) Procedure The Secretary shall issue and secure compliance with the rules or orders, under paragraph (1), through the Office for Civil Rights and in a manner consistent with the procedure used by a Federal department or agency under section 2000d–1 of title 42. If the public school or agency does not comply with the rules or orders, then notwithstanding any other provision of law, no funds made available through the Department shall be provided to a school that fails to comply with such rules or orders or to any agency or school served by an agency that fails to comply with such rules or orders.
+
+(3) Judicial review Any action taken by the Secretary under paragraph (1) shall be subject to the judicial review described in section 2000d–2 of title 42. Any person aggrieved by the action may obtain that judicial review in the manner, and to the extent, provided in section 2000d–2 of title 42.
+
+(d) Definition and rule (1) Definition In this section, the term “youth group” means any group or organization intended to serve young people under the age of 21.
+
+(2) Rule For the purpose of this section, an elementary school or secondary school has a limited public forum whenever the school involved grants an offering to, or opportunity for, one or more outside youth or community groups to meet on school premises or in school facilities before or after the hours during which attendance at the school is compulsory.
+
+(Pub. L. 89–10, title VIII, § 8525, formerly title IX, § 9525, as added Pub. L. 107–110, title IX, § 901, Jan. 8, 2002, 115 Stat. 1981; renumbered title VIII, § 8525, Pub. L. 114–95, title VIII, § 8001(a)(6), Dec. 10, 2015, 129 Stat. 2088, 2089.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 7905, Pub. L. 89–10, title IX, § 9205, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3800, related to Native Hawaiian Family-Based Education Centers, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.

@@ -1,0 +1,123 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 1098h"
+description: "Procedure and requirements for requesting tax return information from the Internal Revenue Service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "28"
+chapter_name: "HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE"
+section: "1098h"
+citation: "20 U.S.C. § 1098h"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s1098h"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "b59914956cd17dec9bf79586d4f9de5e3658160465a5081b40dec4541c4c64e9"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "de654dfab21ee9616ab34bdd81c4db243ed8a56e5a8c9da249715b1b134062cf"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 1098h - Procedure and requirements for requesting tax return information from the Internal Revenue Service
+
+## Text
+
+(a) Notification and approval requirements (1) Federal student financial aid In the case of any written or electronic application under section 1090 of this title by an individual for Federal student financial aid under a program authorized under subpart 1 of part A, part C, or part D, the Secretary, with respect to such individual and any parent or spouse whose financial information, including return information, is required to be provided on such application, shall—
+
+(A) notify such individuals that—
+
+(i) if such individuals provide approval under subparagraph (B)—
+
+(I) the Secretary will have the authority to request that the Secretary of the Treasury disclose return information of such individuals to authorized persons (as defined in section 6103(l)(13) of title 26) for the relevant purposes described in such section; and
+
+(II) the return information of such individuals may be redisclosed pursuant to clauses (iii), (iv), (v), and (vi) of section 6103(l)(13)(D) of the Internal Revenue Code of 1986, for the relevant purposes described in such section; and
+
+(ii) the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual;
+
+(B) require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i); and
+
+(C) if an individual is pursuing provisional independent student status due to an unusual circumstance, as described in section 1087tt of this title and provided for in section 1087uu–2 of this title, require such individual to provide an affirmative approval under subparagraph (B), but not require a parent of such individual to provide an affirmative approval under subparagraph (B).
+
+(2) Income-contingent and income-based repayment (A) New applicants In the case of any written or electronic application by an individual for an income-contingent or income-based repayment plan for a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall—
+
+(i) provide to such individuals the notification described in paragraph (1)(A)(i);
+
+(ii) require, as a condition of eligibility for such repayment plan, that such individuals—
+
+(I) affirmatively approve the disclosures described in subclauses (I) and (II) of paragraph (1)(A)(i), to the extent applicable, and agree that such approval shall serve as an ongoing approval of such disclosures until the date on which the individual elects to opt out of such disclosures under section 1087e(e)(8) of this title or the equivalent procedures established under section 1098e(c)(2)(B) of this title, as applicable; or
+
+(II) provide such information as the Secretary may require to confirm the eligibility of such individual for such repayment plan.
+
+(B) Recertifications With respect to the first written or electronic recertification (after December 19, 2019) of an individual’s income or family size for purposes of an income-contingent or income-based repayment plan (entered into before December 19, 2019) for a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall meet the requirements of clauses (i) and (ii) of subparagraph (A) with respect to such recertification.
+
+(3) Total and permanent disability In the case of any written or electronic application by an individual for a discharge of a loan under this subchapter based on total and permanent disability (within the meaning of section 1087(a) of this title) that requires income monitoring, the Secretary shall—
+
+(A) provide to such individual the notification described in paragraph (1)(A)(i)(I); and
+
+(B) require, as a condition of eligibility for such discharge, that such individual—
+
+(i) affirmatively approve the disclosure described in paragraph (1)(A)(i)(I) and agree that such approval shall serve as an ongoing approval of such disclosure until the earlier of—
+
+(I) the date on which the individual elects to opt out of such disclosure under section 1087(a)(3)(A) of this title; or
+
+(II) the first day on which such loan may no longer be reinstated; or
+
+(ii) provide such information as the Secretary may require to confirm the eligibility of such individual for such discharge.
+
+(b) Limit on authority The Secretary shall only have authority to request that the Secretary of the Treasury disclose return information under section 6103(l)(13) of title 26 with respect to an individual if the Secretary of Education has obtained approval under subsection (a) for such disclosure.
+
+(c) Access to FAFSA information (1) Redisclosure of information The information in a complete, unredacted Student Aid Report (including any return information disclosed under section 6103(l)(13) of title 26) with respect to an application described in subsection (a)(1) of an applicant for Federal student financial aid—
+
+(A) upon request for such information by such applicant, shall be provided to such applicant by—
+
+(i) the Secretary; or
+
+(ii) in a case in which the Secretary has requested that institutions of higher education carry out the requirements of this subparagraph, an institution of higher education that has received such information; and
+
+(B) with the written consent by the applicant to an institution of higher education, may be provided by such institution of higher education as is necessary to a scholarship granting organization (including a tribal organization (defined in section 5304 of title 25)), or to an organization assisting the applicant in applying for and receiving Federal, State, local, or tribal assistance, that is designated by the applicant to assist the applicant in applying for and receiving financial assistance for any component of the applicant’s cost of attendance (defined in section 1087ll of this title) at that institution.
+
+(2) Discussion of information A discussion of the information in an application described in subsection (a)(1) (including any return information disclosed under section 6103(l)(13) of title 26) of an applicant between an institution of higher education and the applicant may, with the written consent of the applicant, include an individual selected by the applicant (such as an advisor) to participate in such discussion.
+
+(3) Restriction on disclosing information A person receiving information under paragraph (1)(B) or (2) with respect to an applicant shall not use the information for any purpose other than the express purpose for which consent was granted by the applicant and shall not disclose such information to any other person without the express permission of, or request by, the applicant.
+
+(4) Definitions In this subsection:
+
+(A) Student Aid Report The term “Student Aid Report” has the meaning given the term in section 668.2 of title 34, Code of Federal Regulations (or successor regulations).
+
+(B) Written consent The term “written consent” means a separate, written document that is signed and dated (which may include by electronic format) by an applicant, which—
+
+(i) indicates that the information being disclosed includes return information disclosed under section 6103(l)(13) of title 26 with respect to the applicant;
+
+(ii) states the purpose for which the information is being disclosed; and
+
+(iii) states that the information may only be used for the specific purpose and no other purposes.
+
+(5) Record keeping requirement An institution of higher education shall—
+
+(A) keep a record of each written consent made under this subsection for a period of at least 3 years from the date of the student’s last date of attendance at the institution; and
+
+(B) make each such record readily available for review by the Secretary.
+
+(Pub. L. 89–329, title IV, § 494, as added Pub. L. 116–91, § 6(a), Dec. 19, 2019, 133 Stat. 1194; amended Pub. L. 116–260, div. N, title II, § 284(b), div. FF, title I, § 103(b), title VII, § 702(p), Dec. 27, 2020, 134 Stat. 1986, 3086, 3191; Pub. L. 119–21, title VIII, § 82001(c)(2)(D), July 4, 2025, 139 Stat. 341.)
+
+## Notes
+
+Amendment of Subsection (a)(2)Pub. L. 119–21, title VIII, § 82001(c)(2)(D), (3), July 4, 2025, 139 Stat. 341, provided that, effective on July 1, 2028, subsection (a)(2) of this section is amended as follows: (1) in the paragraph heading, by striking “Income-contingent and income-based” and inserting “Income-based”; and (2) in subparagraph (A)— (A) in the matter preceding clause (i), by striking “income-contingent or”; and (B) in clause (ii)(I), by striking “section 1087e(e)(8) of this title or the equivalent procedures established under section 1098e (c)(2)(B) of this title, as applicable” and inserting “section 1098e(c)(2) of this title”. See 2025 Amendment notes below.
+
+Editorial Notes
+
+Amendments2025—Subsec. (a)(2). Pub. L. 119–21, § 82001(c)(2)(D)(i), substituted “Income-based” for “Income-contingent and income-based” in heading. Subsec. (a)(2)(A). Pub. L. 119–21, § 82001(c)(2)(D)(ii)(I), struck out “income-contingent or” before “income-based repayment plan” in introductory provisions. Subsec. (a)(2)(A)(ii)(I). Pub. L. 119–21, § 82001(c)(2)(D)(ii)(II), substituted “section 1098e(c)(2) of this title” for “section 1087e(e)(8) of this title or the equivalent procedures established under section 1098e(c)(2)(B) of this title, as applicable”. 2020—Subsec. (a)(1). Pub. L. 116–260, div. N, § 284(b)(1)(A)(i), and div. FF, § 103(b)(1)(A)(i), amended par. (1) identically, inserting “, including return information,” after “financial information” in introductory provisions. Subsec. (a)(1)(A)(i). Pub. L. 116–260, div. N, § 284(b)(1)(A)(ii)(I), and div. FF, § 103(b)(1)(A)(ii)(I), amended cl. (i) identically, substituting “subparagraph (B)—” and “(I) the” for “subparagraph (B), the” and adding subcl. (II). Subsec. (a)(1)(A)(ii). Pub. L. 116–260, div. N, § 284(b)(1)(A)(ii)(II), and div. FF, § 103(b)(1)(A)(ii)(II), amended cl. (ii) identically, substituting “the disclosures described in subclauses (I) and (II) of clause (i)” for “such disclosure”. Subsec. (a)(1)(B). Pub. L. 116–260, div. N, § 284(b)(1)(A)(iii), and div. FF, § 103(b)(1)(A)(iii), amended subpar. (B) identically, substituting “disclosures described in subclauses (I) and (II) of subparagraph (A)(i)” for “disclosure described in subparagraph (A)(i)”. Subsec. (a)(1)(C). Pub. L. 116–260, div. FF, § 702(p), added subpar. (C). Subsec. (a)(2)(A)(ii)(I). Pub. L. 116–260, div. N, § 284(b)(1)(B), and div. FF, § 103(b)(1)(B), amended subcl. (I) identically, substituting “affirmatively approve the disclosures described in subclauses (I) and (II) of paragraph (1)(A)(i), to the extent applicable, and agree that such approval shall serve as an ongoing approval of such disclosures until the date on which the individual elects to opt out of such disclosures” for “affirmatively approve the disclosure described in paragraph (1)(A)(i) and agree that such approval shall serve as an ongoing approval of such disclosure until the date on which the individual elects to opt out of such disclosure”. Subsec. (a)(3). Pub. L. 116–260, div. N, § 284(b)(2), and div. FF, § 103(b)(2), amended par. (3) identically, substituting “paragraph (1)(A)(i)(I)” for “paragraph (1)(A)(i)” in two places. Subsec. (c). Pub. L. 116–260, div. N, § 284(b)(1)(C), and div. FF, § 103(b)(1)(C), amended section identically, adding subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 119–21 effective July 1, 2028, see section 82001(c)(3) of Pub. L. 119–21, set out as a note under section 1078 of this title.
+
+Effective Date of 2020 AmendmentAmendment by section 702(p) of Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.

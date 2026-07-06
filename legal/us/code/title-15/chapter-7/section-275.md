@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 275"
+description: "Hiring critical technical experts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "7"
+chapter_name: "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY"
+section: "275"
+citation: "15 U.S.C. § 275"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s275"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "d975281217580b864056cf5e609a5a30c93935737086adc40334bce46c646da0"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "ab56bec08d7d40aad44d8197a0ba43b815cdd33351e07ea6776f30453f9d23e3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 275 - Hiring critical technical experts
+
+## Text
+
+(a) In general The officers and employees of the Institute, except the director, shall be appointed by the Secretary at such time as their respective services may become necessary.
+
+(b) Hiring critical technical experts Notwithstanding section 3104 of title 5 or the provisions of any other law relating to the appointment, number, classification, or compensation of employees, the Secretary shall have the authority to make appointments of scientific, engineering, and professional personnel, and to fix the basic pay of such personnel at a rate to be determined by the Secretary at rates not in excess of the highest total annual compensation payable at the rate determined under section 104 of title 3. The Director shall appoint not more than 15 personnel under this section.
+
+(c) Sunset The authority under section 11 So in original. Probably should be “subsection”. (b) shall expire on the date that is 5 years after August 9, 2022.
+
+(Mar. 3, 1901, ch. 872, § 6, 31 Stat. 1450; Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 117–167, div. B, title II, § 10244, Aug. 9, 2022, 136 Stat. 1488.)
+
+## Notes
+
+Editorial Notes
+
+Codification August 9, 2022, referred to in subsec. (c), was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 117–167, which amended this section generally, to reflect the probable intent of Congress.
+
+Amendments2022—Pub. L. 117–167 amended section generally. Prior to amendment, text read as follows: “The officers and employees of the Institute, except the director, shall be appointed by the Secretary of Commerce at such time as their respective services may become necessary.” 1988—Pub. L. 100–418 substituted “Institute” for “bureau”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Act Mar. 4, 1913, substituted “Secretary of Commerce” for “Secretary of Commerce and Labor”.
+
+Transfer of Functions Act Feb. 14, 1903, transferred power and authority of Secretary of the Treasury over Bureau of Standards to Secretary of Commerce and Labor.
+
+Procurement of Temporary and Intermittent ServicesPub. L. 110–69, title III, § 3009, Aug. 9, 2007, 121 Stat. 592, permitted the Director of the National Institute of Standards and Technology, until Sept. 30, 2010, to procure the temporary or intermittent services of no more than 200 experts or consultants per year to assist with urgent or short-term research projects and required the Comptroller General to submit to Congress, no later than 2 years after Aug. 9, 2007, a report on possible additional safeguards needed should the authority under this section be made permanent.
+
+Demonstration Project Relating to Personnel ManagementPub. L. 99–574, § 10, Oct. 28, 1986, 100 Stat. 3238, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, directed the Office of Personnel Management and the National Institute of Standards and Technology to jointly design an alternative personnel management system demonstration project to be commenced not later than Jan. 1, 1988, and to be conducted by the Director of the Institute in accordance with section 4703 of Title 5, Government Organization and Employees, with the Director of the Office of Personnel Management to provide that the project be evaluated annually by a contractor, and a report of the contractor’s findings submitted to the Office, and, along with any comments of the Office and the Institute, submitted to the Congress, and a final report to be submitted to the Congress by the Comptroller General not later than 4 years after the date on which the project commences, such report to include any recommendations for legislation or other action considered appropriate by the Comptroller General. [Pub. L. 104–113, § 10, Mar. 7, 1996, 110 Stat. 779, provided that: “The personnel management demonstration project established under section 10 of the National Bureau of Standards Authorization Act for Fiscal Year 1987 [Pub. L. 99–574] (15 U.S.C. 275 note) is extended indefinitely.” ]

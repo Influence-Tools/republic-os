@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 2667"
+description: "Radon in schools"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "53"
+chapter_name: "TOXIC SUBSTANCES CONTROL"
+section: "2667"
+citation: "15 U.S.C. § 2667"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s2667"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "5501fd2b7b1158255fd5990fa1e93a4dcd35983a62f994d41387b6307f002043"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "755eb6d55fc5c176a283327124566674ec58285057c5ea845e093eba26e27a69"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 2667 - Radon in schools
+
+## Text
+
+(a) Study of radon in schools (1) Authority The Administrator shall conduct a study for the purpose of determining the extent of radon contamination in the Nation’s school buildings.
+
+(2) List of high probability areas In carrying out such study, the Administrator shall identify and compile a list of areas within the United States which the Administrator determines have a high probability of including schools which have elevated levels of radon.
+
+(3) Basis of list In compiling such list, the Administrator shall make such determinations on the basis of, among other things, each of the following:
+
+(A) Geological data.
+
+(B) Data on high radon levels in homes and other structures nearby any such school.
+
+(C) Physical characteristics of the school buildings.
+
+(4) Survey In conducting such study the Administrator shall design a survey which when completed allows Congress to characterize the extent of radon contamination in schools in each State. The survey shall include testing from a representative sample of schools in each high-risk area identified in paragraph (1) and shall include additional testing, to the extent resources are available for such testing. The survey also shall include any reliable testing data supplied by States, schools, or other parties.
+
+(5) Assistance (A) The Administrator shall make available to the appropriate agency of each State, as designated by the Governor of such State, a list of high risk areas within each State, including a delineation of such areas and any other data available to the Administrator for schools in that State. To assist such agencies, the Administrator also shall provide guidance and data detailing the risks associated with high radon levels, technical guidance and related information concerning testing for radon within schools, and methods of reducing radon levels.
+
+(B) In addition to the assistance authorized by subparagraph (A), the Administrator is authorized to make available to the appropriate agency of each State, as designated by the Governor of such State, devices suitable for use by such agencies in conducting tests for radon within the schools under the jurisdiction of any such State agency. The Administrator is authorized to make available to such agencies the use of laboratories of the Environmental Protection Agency, or to recommend laboratories, to evaluate any such devices for the presence of radon levels.
+
+(6) Diagnostic and remedial efforts The Administrator is authorized to select, from high-risk areas identified in paragraph (2), school buildings for purposes of enabling the Administrator to undertake diagnostic and remedial efforts to reduce the levels of radon in such school buildings. Such diagnostic and remedial efforts shall be carried out with a view to developing technology and expertise for the purpose of making such technology and expertise available to any local educational agency and the several States.
+
+(7) Status report On or before October 1, 1989, the Administrator shall submit to the Congress a status report with respect to action taken by the Administrator in conducting the study required by this section, including the results of the Administrator’s diagnostic and remedial work. On or before October 1, 1989, the Administrator shall submit a final report setting forth the results of the study conducted pursuant to this section, including the results of the Administrator’s diagnostic and remedial work, and the recommendations of the Administrator.
+
+(b) Authorization For the purpose of carrying out the provisions of paragraph (6) of subsection (a), there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary. For the purpose of carrying out the provisions of this section other than such paragraph (6), there are authorized to be appropriated such sums, not to exceed $1,000,000, as may be necessary.
+
+(Pub. L. 94–469, title III, § 307, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2761.)

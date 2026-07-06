@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 8522"
+description: "Sale of assets accruing to the Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "85"
+chapter_name: "DISPOSITION OF DECEASED VETERANS’ PERSONAL PROPERTY"
+section: "8522"
+citation: "38 U.S.C. § 8522"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s8522"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "f76ee028efa810eb1b8eb55ef8cdc5a9c2ad4061efdd381cb7960e27d46f98fb"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "1676db2c7c39c080ef3dd9f52936cf681e2d54b92ce1b19582cebdb0a0b06b1b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 8522 - Sale of assets accruing to the Fund
+
+## Text
+
+Any assets heretofore or hereafter accruing to the benefit of the Fund, other than money, but including jewelry and other personal effects, may be sold at the times and places and in the manner prescribed by regulations issued by the Secretary. Upon receipt of the purchase price the Secretary is authorized to deliver at the place of sale, said property sold, and upon request to execute and deliver appropriate assignments or other conveyances thereof in the name of the United States, which shall pass to the purchaser such title as decedent had at date of death. The net proceeds after paying any proper sales expense as determined by the Secretary shall forthwith be paid to the Treasurer of the United States to the credit of the Fund; and may be disbursed as are other moneys in the Fund by the Division of Disbursements, Treasury Department, upon order of said Secretary. Articles of personal adornment which are obviously of sentimental value, shall be retained and not sold or otherwise disposed of until the expiration of five years from the date of death of the veteran, without a claim therefor, unless for sanitary or other proper reasons it is deemed unsafe to retain same, in which event they may be destroyed forthwith. Any other articles coming into possession of the Secretary or the Secretary’s representative by virtue of this subchapter which, under regulations promulgated by the Secretary, are determined to be unsalable may be destroyed forthwith or at the time prescribed by regulations, or may be used for the purposes for which disbursements might properly be made from the Fund, or if not usable, otherwise disposed of in accordance with regulations.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1260, § 5222; Pub. L. 99–576, title VII, § 701(101), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8522, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1991—Pub. L. 102–40 renumbered section 5222 of this title as this section. Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing. 1986—Pub. L. 99–576 substituted “the Administrator” for “he” in second sentence, and “the Administrator’s” for “his” in last sentence.
+
+Executive Documents
+
+Transfer of Functions Division of Disbursements of Treasury Department consolidated into Fiscal Service of Treasury Department by section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees. See section 306 of Title 31, Money and Finance.

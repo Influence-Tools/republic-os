@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 256b"
+description: "Hunting and fishing; general rules and regulations; protection of property; violation of statutes or rules; penalties"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "1"
+chapter_name: "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES"
+section: "256b"
+citation: "16 U.S.C. § 256b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s256b"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "2ca79a109c4b7515d1d7a11d15af316b8db75b1655bea9f7a709d6c595fbeff9"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "f045f0e341188082fb84087b1a6041524e0329f44d61dcc89e91f3e05a138b4e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 256b - Hunting and fishing; general rules and regulations; protection of property; violation of statutes or rules; penalties
+
+## Text
+
+All hunting or the killing, wounding, or capturing at any time of any wild bird or animal, except dangerous animals when it is necessary to prevent them from destroying human lives or inflicting personal injury, is prohibited within the limits of the park, nor shall any fish be taken out of any of the waters of the park, except at such seasons and at such times and in such manner as may be directed by the Secretary of the Interior. The Secretary of the Interior shall make and publish such general rules and regulations as he may deem necessary and proper for the management and care of the park and for the protection of the property therein, especially for the preservation from injury or spoliation of all timber, mineral deposits, natural curiosities, or wonderful objects within the park, and for the protection of the animals and birds in the park from capture or destruction, and to prevent their being frightened or driven from the park; and he shall make rules and regulations governing the taking of fish from the waters in the park. Possession within the park of the dead bodies or any part thereof of any wild bird or animal shall be prima facie evidence that the person or persons having the same are guilty of violating this Act. Any person or persons, stage or express company, railway or other transportation company, who knows or has reason to believe that such wild birds, fish, or animals were taken or killed contrary to the provisions of this Act or the rules and regulations promulgated by the Secretary of the Interior, and who receives for transportation the dead bodies or any part thereof of the wild birds, fish, or animals so taken or killed, or who shall violate any of the other provisions of this Act, or the rules and regulations, with reference to the management and care of the park, or for the protection of the property therein, for the preservation from injury or spoliation of timber, mineral deposits, natural curiosities, or wonderful objects within the park, or for the protection of the animals, birds, and fish in the park, or who shall within the park commit any damage, injury, or spoliation to or upon any building, fence, sign, hedge, gate, guidepost, tree, wood, underwood, timber, garden, crops, vegetables, plants, land, springs, mineral deposits, natural curiosities, or other matter or thing growing or being thereon, or situated therein, shall be deemed guilty of a class B misdemeanor in accordance with provisions of title 18.
+
+(Mar. 6, 1942, ch. 151, § 3, 56 Stat. 136; Pub. L. 100–668, title I, § 104(a), Nov. 16, 1988, 102 Stat. 3962.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in text, is act Mar. 6, 1942, which is classified to sections 256 to 256i of this title. For complete classification of this Act to the Code, see Tables.
+
+Amendments1988—Pub. L. 100–668 substituted “a class B misdemeanor in accordance with provisions of title 18” for “a misdemeanor and shall be subject to a fine of not more than $500 or imprisonment not exceeding six months, or both, and be adjudged to pay all the costs of the proceedings”.

@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "44 U.S.C. § 1506"
+description: "Administrative Committee of the Federal Register; establishment and composition; powers and duties"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 44
+title_name: "PUBLIC PRINTING AND DOCUMENTS"
+chapter_number: "15"
+chapter_name: "FEDERAL REGISTER AND CODE OF FEDERAL REGULATIONS"
+section: "1506"
+citation: "44 U.S.C. § 1506"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc44@119-100.zip"
+source_identifier: "/us/usc/t44/s1506"
+source_file: "data/legal/raw/us/code/title-44/usc44.xml"
+source_hash: "6ca3b55767e8ce735ee04f8095e250af73e30d71c096302bf9f83a6fd47284e6"
+raw_snapshot_hash: "2d7109056b4815718203e8d99c9ee6fe3ab744f578883b59654fe3adb211b4a0"
+text_hash: "a3059807f545709df0807112b159610897dda89b1f8882d65499395ab00c7619"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 44 U.S.C. § 1506 - Administrative Committee of the Federal Register; establishment and composition; powers and duties
+
+## Text
+
+(a) Composition; Duties.— The Administrative Committee of the Federal Register shall consist of the Archivist of the United States or Acting Archivist, who shall chair the committee, an officer of the Department of Justice designated by the Attorney General, and the Director of the Government Publishing Office or Acting Director of the Government Publishing Office. The Director of the Federal Register shall act as secretary of the committee. The committee shall prescribe, with the approval of the President or their designee, regulations for carrying out this chapter. The regulations shall provide for, among other things, the following:
+
+(1) The documents which shall be authorized under section 1505(b) to be published in the Federal Register.
+
+(2) The manner and form in which the Federal Register shall be published.
+
+(3) The manner and form in which agencies submit documents for publication in the Federal Register and special editions of the Federal Register.
+
+(4) Subject to subsection (b), the manner of distribution to Members of Congress, officers and employees of the United States, or Federal agency, for official use, and the number which shall be available for distribution to the public.
+
+(5) The prices to be charged for individual copies of, and subscriptions to, the Federal Register and any reprints and bound volumes of it.
+
+(6) The manner and form by which the Federal Register may receive information and comments from the public, if practicable and efficient.
+
+(7) Special editions of the Federal Register.
+
+(b) Restrictions on Distribution of Free Printed Copies to Members of Congress and Officers and Employees of the United States.— (1) Prohibiting subscription to printed copies without request.— Under the regulations prescribed to carry out subsection (a)(4), the Director of the Government Publishing Office may not provide a printed copy of the Federal Register without charge to any Member of Congress or any other office of the United States during a year unless—
+
+(A) the Member or office requests a printed copy of a specific issue of the Federal Register; or
+
+(B) during that year or during the previous year, the Member or office requested a subscription to printed copies of the Federal Register for that year, as described in paragraph (2).
+
+(2) Administration of subscriptions.— The regulations prescribed to carry out subsection (a)(4) shall include—
+
+(A) provisions regarding notifications to offices of Members of Congress and other offices of the United States of the restrictions of paragraph (1);
+
+(B) provisions describing the process by which Members and other offices may request a specific issue of the Federal Register for purposes of paragraph (1)(A); and
+
+(C) provisions describing the process by which Members and other offices may request a subscription to the Federal Register for purposes of paragraph (1)(B), except that such regulations shall limit the period for such a subscription to not longer than 1 year.
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1275; Pub. L. 98–497, title I, § 107(b)(5), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 113–235, div. H, title I, § 1301(c)(1), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–120, div. A, § 2(a), Jan. 22, 2018, 132 Stat. 28; Pub. L. 118–267, § 2(f), Jan. 4, 2025, 138 Stat. 2985.)
+
+## Notes
+
+Historical and Revision NotesBased on 44 U.S. Code, 1964 ed., §§ 306, 391 (part) (July 26, 1935, ch. 417, § 6, 49 Stat. 501; June 30, 1949, ch. 288, title I, § 104, 63 Stat. 381). This section incorporates only the last sentence from former section 391(b). The remainder of that section will be found in sections 2102, 2301, 2501, and 2902 of the revision.
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 118–267 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the composition and duties of the Administrative Committee of the Federal Register. 2018—Pub. L. 115–120, § 2(a)(1), designated existing provisions as subsec. (a) and inserted heading. Subsec. (a)(4). Pub. L. 115–120, § 2(a)(2), substituted “subject to subsection (b), the number of copies” for “the number of copies”. Subsec. (b). Pub. L. 115–120, § 2(a)(3), added subsec. (b). 2014—Pub. L. 113–235 substituted “Director of the Government Publishing Office” for “Public Printer” in two places in introductory provisions. 1984—Pub. L. 98–497 struck out “The authority of the Administrator of General Services, under section 754 of title 40, to regroup, transfer, and distribute functions within the General Services Administration, does not extend to the Committee or its functions.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentPub. L. 115–120, div. A, § 2(b), Jan. 22, 2018, 132 Stat. 29, provided that: “The amendment made by subsection (a) [amending this section] shall take effect January 1, 2018.”
+
+Effective Date of 1984 AmendmentAmendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
+
+Executive Documents
+
+Delegation of Functions For delegations of functions vested in President by section 6 of Federal Register Act [now this section], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under section 301 of Title 3, The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under section 2102 of this title.

@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 4911"
+description: "Citizen suits"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "65"
+chapter_name: "NOISE CONTROL"
+section: "4911"
+citation: "42 U.S.C. § 4911"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s4911"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "795bf00a372b245c595beae9be88153353a5935eff990e354f80ffd7b858316a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "935e4a59ecf375d5f0b133f628977bb3fd4901222818390d653bf47680d3b3e3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 4911 - Citizen suits
+
+## Text
+
+(a) Authority to commence suits Except as provided in subsection (b), any person (other than the United States) may commence a civil action on his own behalf—
+
+(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) 11 So in original. Probably should be subsection “(f)”.), or
+
+(2) against—
+
+(A) the Administrator of the Environmental Protection Agency where there is alleged a failure of such Administrator to perform any act or duty under this chapter which is not discretionary with such Administrator, or
+
+(B) the Administrator of the Federal Aviation Administration where there is alleged a failure of such Administrator to perform any act or duty under section 44715 of title 49 which is not discretionary with such Administrator.
+
+The district courts of the United States shall have jurisdiction, without regard to the amount in controversy, to restrain such person from violating such noise control requirement or to order such Administrator to perform such act or duty, as the case may be.
+
+(b) Notice No action may be commenced—
+
+(1) under subsection (a)(1)—
+
+(A) prior to sixty days after the plaintiff has given notice of the violation (i) to the Administrator of the Environmental Protection Agency (and to the Federal Aviation Administrator in the case of a violation of a noise control requirement under such section 44715 of title 49) and (ii) to any alleged violator of such requirement, or
+
+(B) if an Administrator has commenced and is diligently prosecuting a civil action to require compliance with the noise control requirement, but in any such action in a court of the United States any person may intervene as a matter of right, or
+
+(2) under subsection (a)(2) prior to sixty days after the plaintiff has given notice to the defendant that he will commence such action.
+
+Notice under this subsection shall be given in such manner as the Administrator of the Environmental Protection Agency shall prescribe by regulation.
+
+(c) Intervention In an action under this section, the Administrator of the Environmental Protection Agency, if not a party, may intervene as a matter of right. In an action under this section respecting a noise control requirement under section 44715 of title 49, the Administrator of the Federal Aviation Administration, if not a party, may also intervene as a matter of right.
+
+(d) Litigation costs The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such an award is appropriate.
+
+(e) Other common law or statutory rights of action Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).
+
+(f) “Noise control requirement” defined For purposes of this section, the term “noise control requirement” means paragraph (1), (2), (3), (4), or (5) of section 4909(a) of this title, or a standard, rule, or regulation issued under section 4916 or 4917 of this title or under section 44715 of title 49.
+
+(Pub. L. 92–574, § 12, Oct. 27, 1972, 86 Stat. 1243.)
+
+## Notes
+
+Editorial Notes
+
+Codification In subsecs. (a)(2)(B), (b)(1)(A), (c), and (f), “section 44715 of title 49” substituted for “section 611 of the Federal Aviation Act of 1958” and “such section 611” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.

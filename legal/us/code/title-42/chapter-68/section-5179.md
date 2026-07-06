@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 5179"
+description: "Benefits and distribution"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "68"
+chapter_name: "DISASTER RELIEF"
+section: "5179"
+citation: "42 U.S.C. § 5179"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s5179"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "d9c8796910c01550308d188a1a5f36820d640bbc5f91561e1e6496d1d9e0eb64"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "eb507fe1843195e052842a4bbd7ad5cde7c1d96ce05cd2e11dddc08e0b7f87ec"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 5179 - Benefits and distribution
+
+## Text
+
+(a) Persons eligible; terms and conditions Whenever the President determines that, as a result of a major disaster, low-income households are unable to purchase adequate amounts of nutritious food, he is authorized, under such terms and conditions as he may prescribe, to distribute through the Secretary of Agriculture or other appropriate agencies benefit allotments to such households pursuant to the provisions of the Food and Nutrition Act of 2008 of 1964 11 So in original. See 2008 Amendment note below. (P.L. 91–671; 84 Stat. 2048) [7 U.S.C. 2011 et seq.] and to make surplus commodities available pursuant to the provisions of this chapter.
+
+(b) Duration of assistance; factors considered The President, through the Secretary of Agriculture or other appropriate agencies, is authorized to continue to make such benefit allotments and surplus commodities available to such households for so long as he determines necessary, taking into consideration such factors as he deems appropriate, including the consequences of the major disaster on the earning power of the households, to which assistance is made available under this section.
+
+(c) Food and Nutrition Act provisions unaffected Nothing in this section shall be construed as amending or otherwise changing the provisions of the Food and Nutrition Act of 2008 of 1964 1 [7 U.S.C. 2011 et seq.] except as they relate to the availability of supplemental nutrition assistance program benefits in an area affected by a major disaster.
+
+(Pub. L. 93–288, title IV, § 412, formerly § 409, May 22, 1974, 88 Stat. 157; renumbered § 412, Pub. L. 100–707, title I, § 106(h), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 110–234, title IV, §§ 4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), May 22, 2008, 122 Stat. 1096, 1097, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(C), (E), (2)(DD), 4115(c)(1)(A)(ii), (iv), (B)(v), June 18, 2008, 122 Stat. 1664, 1857, 1859, 1870, 1871.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Food and Nutrition Act of 2008, referred to in subsecs. (a) and (c), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables. This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Prior ProvisionsA prior section 412 of Pub. L. 93–288 was renumbered section 415 by Pub. L. 100–707 and is classified to section 5182 of this title.
+
+Amendments2008—Pub. L. 110–246, § 4115(c)(1)(A)(iv), (B)(v), substituted “Benefits” for “Food coupons” in section catchline. Pub. L. 110–246, § 4002(b)(1)(C), (2)(DD), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in subsecs. (a) and (c). Subsecs. (a), (b). Pub. L. 110–246, § 4115(c)(1)(A)(ii), (B)(v), substituted “benefit” for “coupon”. Subsec. (c). Pub. L. 110–246, § 4002(b)(1)(E), (2)(DD), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture. Amendment by sections 4002(b)(1)(C), (E), (2)(DD), and 4115(c)(1)(A)(ii), (iv), (B)(v) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
+Executive Dcouments
+
+Delegation of Functions Secretary of Agriculture designated and empowered to exercise, without approval, ratification, or other action of President, all authority vested in President by this section concerning food coupons (benefits) and distribution, see section 3 of Ex. Ord. No. 11795, as amended, set out as a note under section 5121 of this title.

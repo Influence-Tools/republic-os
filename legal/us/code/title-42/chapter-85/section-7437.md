@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 7437"
+description: "Greenhouse gas air pollution plans and implementation grants"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "85"
+chapter_name: "AIR POLLUTION PREVENTION AND CONTROL"
+section: "7437"
+citation: "42 U.S.C. § 7437"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s7437"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "a2bdf31777f4590e57250392095708d487a6e621859cd479d619754f188c6b3a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "5fc04d4159021a1f7827dd092f7de3635876bbf1bfc5608087c44b810531b17a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 7437 - Greenhouse gas air pollution plans and implementation grants
+
+## Text
+
+(a) Appropriations (1) Greenhouse gas air pollution planning grants In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $250,000,000, to remain available until September 30, 2031, to carry out subsection (b).
+
+(2) Greenhouse gas air pollution implementation grants In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $4,750,000,000, to remain available until September 30, 2026, to carry out subsection (c).
+
+(3) Administrative costs Of the funds made available under paragraph (2), the Administrator shall reserve 3 percent for administrative costs necessary to carry out this section, to provide technical assistance to eligible entities, to develop a plan that could be used as a model by grantees in developing a plan under subsection (b), and to model the effects of plans described in this section.
+
+(b) Greenhouse gas air pollution planning grants The Administrator shall make a grant to at least one eligible entity in each State for the costs of developing a plan for the reduction of greenhouse gas air pollution to be submitted with an application for a grant under subsection (c). Each such plan shall include programs, policies, measures, and projects that will achieve or facilitate the reduction of greenhouse gas air pollution. Not later than 270 days after August 16, 2022, the Administrator shall publish a funding opportunity announcement for grants under this subsection.
+
+(c) Greenhouse gas air pollution reduction implementation grants (1) In general The Administrator shall competitively award grants to eligible entities to implement plans developed under subsection (b).
+
+(2) Application To apply for a grant under this subsection, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator shall require, which such application shall include information regarding the degree to which greenhouse gas air pollution is projected to be reduced in total and with respect to low-income and disadvantaged communities.
+
+(3) Terms and conditions The Administrator shall make funds available to a grantee under this subsection in such amounts, upon such a schedule, and subject to such conditions based on its performance in implementing its plan submitted under this section and in achieving projected greenhouse gas air pollution reduction, as determined by the Administrator.
+
+(d) Definitions In this section:
+
+(1) Eligible entity The term “eligible entity” means—
+
+(A) a State;
+
+(B) an air pollution control agency;
+
+(C) a municipality;
+
+(D) an Indian tribe; and
+
+(E) a group of one or more entities listed in subparagraphs (A) through (D).
+
+(2) Greenhouse gas The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+(July 14, 1955, ch. 360, title I, § 137, as added Pub. L. 117–169, title VI, § 60114, Aug. 16, 2022, 136 Stat. 2076.)

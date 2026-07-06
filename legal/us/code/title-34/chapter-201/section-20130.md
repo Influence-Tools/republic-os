@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 20130"
+description: "Study and reports on barriers to survivors’ economic security access"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "201"
+chapter_name: "VICTIM RIGHTS, COMPENSATION, AND ASSISTANCE"
+section: "20130"
+citation: "34 U.S.C. § 20130"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s20130"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "d966b581115ce4f4db757b284054a7669c6dbe8cb8eaa996d284259e9e84233c"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "1a4a3b1a7b6dbe3a8cb433ac9392764017d26a175a50ac4cb45b760a522296f6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 20130 - Study and reports on barriers to survivors’ economic security access
+
+## Text
+
+(a) Study The Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall conduct a study on the barriers that survivors of domestic violence, dating violence, sexual assault, or stalking throughout the United States experience in maintaining economic security, including the impact of the COVID–19 pandemic on such victims’ ability to maintain economic security, as a result of issues related to domestic violence, dating violence, sexual assault, or stalking.
+
+(b) Reports Not later than 1 year after March 15, 2022, and every 5 years thereafter, the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall submit a report to Congress on the study conducted under subsection (a).
+
+(c) Contents The study and reports under this section shall include—
+
+(1) identification of geographic areas in which State laws, regulations, and practices have a strong impact on the ability of survivors of domestic violence, dating violence, sexual assault, or stalking to exercise—
+
+(A) any rights under this title (including any amendments made by this title) without compromising personal safety or the safety of others, including family members and excluding the abuser; and
+
+(B) other components of economic security, including financial empowerment, affordable housing, transportation, health care access, credit history, and quality education and training opportunities;
+
+(2) identification of geographic areas with shortages in resources for such survivors, with an accompanying analysis of the extent and impact of such shortage;
+
+(3) analysis of the unique barriers faced by such survivors living in rural communities;
+
+(4) analysis of factors related to industries, workplace settings, employer practices, trends, and other elements that impact the ability of such survivors to exercise any rights under this Act (including any amendments made by this Act) without compromising personal safety or the safety of others, including family members;
+
+(5) the recommendations of the Secretary of Health and Human Services and the Secretary of Labor with respect to resources, oversight, and enforcement tools to ensure successful implementation of the provisions of this Act in order to support the economic security and safety of survivors of domestic violence, dating violence, sexual assault, or stalking;
+
+(6) best practices for States, employers, health carriers, insurers, and other private entities in addressing issues related to domestic violence, dating violence, sexual assault, or stalking; and
+
+(7) barriers that impede victims’ ability to pursue legal action, including legal costs and filing fees, and complexities of the jurisdiction of law enforcement agencies.
+
+(Pub. L. 117–103, div. W, title VII, § 704, Mar. 15, 2022, 136 Stat. 894.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis title, referred to in subsec. (c)(1)(A), means title VII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 889, which enacted this section, amended section 12501 of this title and section 602 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 12501 of this title and section 602 of Title 42. For complete classification of title VII to the Code, see Tables. This Act, referred to in subsec. (c)(4), (5), is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840, known as the Violence Against Women Act Reauthorization Act of 2022. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under section 10101 of this title, and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under section 6851 of Title 15, Commerce and Trade.
+
+Definitions For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.

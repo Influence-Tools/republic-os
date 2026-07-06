@@ -1,0 +1,139 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3122"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "38"
+chapter_name: "PUBLIC WORKS AND ECONOMIC DEVELOPMENT"
+section: "3122"
+citation: "42 U.S.C. § 3122"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3122"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "3e575eea3d7172546aab46cee79c830934772a6250d557b7b83cc0d8536bf774"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "dbae4bdf33d42505d130e99cdd8591cf7015da5db0862c31d13985e4f4ec6a79"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3122 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) Blue economy The term “blue economy” means the sustainable use of marine, lake, or other aquatic resources in support of economic development objectives.
+
+(2) Capacity building The term “capacity building” includes all activities associated with early stage community-based project formation and conceptualization, prior to project predevelopment activity, including grants to local community organizations for planning participation, community outreach and engagement activities, research, and mentorship support to move projects from formation and conceptualization to project predevelopment.
+
+(3) Comprehensive economic development strategy The term “comprehensive economic development strategy” means a comprehensive economic development strategy approved by the Secretary under section 3162 of this title.
+
+(4) Department The term “Department” means the Department of Commerce.
+
+(5) Economic development district (A) In general The term “economic development district” means any area in the United States that—
+
+(i) is composed of areas described in section 3161(a) of this title and, to the extent determined appropriate by the Secretary, neighboring counties or communities; and
+
+(ii) has been designated by the Secretary as an economic development district under section 3171 of this title.
+
+(B) Inclusion The term “economic development district” includes any economic development district designated by the Secretary under section 3173 of this title (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998).
+
+(6) Eligible recipient (A) In general The term “eligible recipient” means—
+
+(i) an economic development district;
+
+(ii) an Indian tribe;
+
+(iii) a State;
+
+(iv) a city or other political subdivision of a State, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities, or a consortium of political subdivisions;
+
+(v) an institution of higher education or a consortium of institutions of higher education;
+
+(vi) a public or private nonprofit organization or association acting in cooperation with officials of a political subdivision of a State;
+
+(vii) an economic development organization; or
+
+(viii) a public-private partnership for public infrastructure.
+
+(B) Training, research, and technical assistance grants In the case of grants under section 3147 of this title, the term “eligible recipient” also includes private individuals and for-profit organizations.
+
+(7) Federal agency The term “Federal agency” means a department, agency, or instrumentality of the United States.
+
+(8) Grant The term “grant” includes a cooperative agreement (within the meaning of chapter 63 of title 31).
+
+(9) Indian tribe The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+(10) Outdoor recreation The term “outdoor recreation” means all recreational activities, and the economic drivers of those activities, that occur in nature-based environments outdoors.
+
+(11) Project predevelopment The term “project predevelopment” means a measure required to be completed before the initiation of a project, including—
+
+(A) planning and community asset mapping;
+
+(B) training;
+
+(C) technical assistance and organizational development;
+
+(D) feasibility and market studies;
+
+(E) demonstration projects; and
+
+(F) other predevelopment activities determined by the Secretary to be appropriate.
+
+(12) Regional Commission The term “Regional Commission” means any of the following:
+
+(A) The Appalachian Regional Commission established by section 14301(a) of title 40.
+
+(B) The Delta Regional Authority established by section 2009aa–1(a)(1) of title 7.
+
+(C) The Denali Commission established by section 303(a) of the Denali Commission Act of 1998 (42 U.S.C. 3121 note; Public Law 105–277).
+
+(D) The Great Lakes Authority established by section 15301(a)(4) of title 40.
+
+(E) The Mid-Atlantic Regional Commission established by section 15301(a)(5) of title 40.
+
+(F) The Northern Border Regional Commission established by section 15301(a)(3) of title 40.
+
+(G) The Northern Great Plains Regional Authority established by section 2009bb–1(a)(1) of title 7.
+
+(H) The Southeast Crescent Regional Commission established by section 15301(a)(1) of title 40.
+
+(I) The Southern New England Regional Commission established by section 15301(a)(6) of title 40.
+
+(J) The Southwest Border Regional Commission established by section 15301(a)(2) of title 40.
+
+(13) Secretary The term “Secretary” means the Secretary of Commerce.
+
+(14) State The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+
+(15) Travel and tourism The term “travel and tourism” means any economic activity that primarily serves to encourage recreational or business travel in or to the United States, including activities relating to public or nonprofit entertainment venues in the United States.
+
+(16) United States The term “United States” means all of the States.
+
+(17) University center The term “university center” means an institution of higher education or a consortium of institutions of higher education established under section 3147(c)(1) of this title.
+
+(Pub. L. 89–136, § 3, as added Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3599; amended Pub. L. 108–373, title I, § 102, Oct. 27, 2004, 118 Stat. 1758; Pub. L. 118–272, div. B, title II, § 2211(a), Jan. 4, 2025, 138 Stat. 3177.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 3173 of this title (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998), referred to in par. (5)(B), means section 3173 of this title prior to its repeal by Pub. L. 105–393, § 102(a). See Prior Provisions note set out under section 3173 of this title and section 105 of Pub. L. 105–393, set out as an Effective Date note under section 3121 of this title. The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+Prior ProvisionsA prior section 3122, Pub. L. 91–524, title IX, § 901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, § 601, Aug. 30, 1972, 86 Stat. 674; Pub. L. 94–273, § 7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, § 6, Sept. 24, 1980, 94 Stat. 1174, which related to priority to be given to revitalization and development of rural areas, was transferred to section 2204b–1 of Title 7, Agriculture.
+
+Amendments2025—Pars. (1), (2). Pub. L. 118–272, § 2211(a)(2), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively. Pars. (3) to (5). Pub. L. 118–272, § 2211(a)(1), redesignated pars. (1) to (3) as (3) to (5), respectively. Former pars. (4) and (5) redesignated (6) and (7), respectively. Par. (5)(A)(i). Pub. L. 118–272, § 2211(a)(3), substituted “to the extent determined appropriate by the Secretary” for “to the extent appropriate”. Par. (6). Pub. L. 118–272, § 2211(a)(1), redesignated par. (4) as (6). Former par. (6) redesignated (8). Par. (6)(A)(vii), (viii). Pub. L. 118–272, § 2211(a)(4), added cls. (vii) and (viii). Pars. (7) to (9). Pub. L. 118–272, § 2211(a)(1), redesignated pars. (5) to (7) as (7) to (9), respectively. Former pars. (8) and (9) redesignated (12) and (13), respectively. Pars. (10), (11). Pub. L. 118–272, § 2211(a)(5), added pars. (10) and (11). Former pars. (10) and (11) redesignated (14) and (16), respectively. Par. (12). Pub. L. 118–272, § 2211(a)(6), added par. (12) and struck out former par. (12), as redesignated from par. (8), which defined Regional Commissions to include Appalachian Regional Commission, Delta Regional Authority, Denali Commission, and Northern Great Plains Regional Authority. Pub. L. 118–272, § 2211(a)(1), redesignated par. (8) as (12). Former par. (12) redesignated (17). Pars. (13), (14). Pub. L. 118–272, § 2211(a)(1), redesignated pars. (9) and (10) as (13) and (14), respectively. Par. (15). Pub. L. 118–272, § 2211(a)(7), added par. (15). Par. (16). Pub. L. 118–272, § 2211(a)(1), redesignated par. (11) as (16). Par. (17). Pub. L. 118–272, § 2211(a)(1), (8), redesignated par. (12) as (17) and substituted “established under section 3147(c)(1) of this title” for “established as a University Center for Economic Development under section 3147(a)(2)(D) of this title”. 2004—Par. (4)(A). Pub. L. 108–373, § 102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted “, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities,” after “State” in cl. (iv), and struck out cl. (i) which read as follows: “an area described in section 3161(a) of this title;”. Pars. (8) to (12). Pub. L. 108–373, § 102(b), added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.

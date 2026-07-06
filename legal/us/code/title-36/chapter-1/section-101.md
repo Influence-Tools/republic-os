@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "36 U.S.C. § 101"
+description: "American Heart Month"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 36
+title_name: "PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS"
+chapter_number: "1"
+chapter_name: "PATRIOTIC AND NATIONAL OBSERVANCES"
+section: "101"
+citation: "36 U.S.C. § 101"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc36@119-100.zip"
+source_identifier: "/us/usc/t36/s101"
+source_file: "data/legal/raw/us/code/title-36/usc36.xml"
+source_hash: "d170c43ae6b0a0957aadbbacc6d12b819e93f1d13fa3939bb4c128ef15461d1d"
+raw_snapshot_hash: "d8bb3c94f12bbd56e49d7a2bc029b1f4ab0bb8b69327e9ddbdf94d7adcac580d"
+text_hash: "ac0878426b20d660b99de9729bcefaa928b862d1dc9e707cf382f415fc8f6c7d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 36 U.S.C. § 101 - American Heart Month
+
+## Text
+
+The President is requested to issue each year a proclamation—
+
+(1) designating February as American Heart Month;
+
+(2) inviting the chief executive officers of the States, territories, and possessions of the United States to issue proclamations designating February as American Heart Month; and
+
+(3) urging the people of the United States to recognize the nationwide problem of heart and blood vessel diseases and to support all essential programs required to solve the problem.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1254.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 10136:169b.Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843. In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2025 AmendmentPub. L. 119–57, § 1, Dec. 12, 2025, 139 Stat. 711, provided that: “This Act [amending sections 70501, 70503, 70504, 70507, 70508, 70510, and 70512 of this title] may be cited as the ‘Foundation of the Federal Bar Association Charter Amendments Act of 2025’.”
+
+Short Title of 2024 AmendmentPub. L. 118–197, § 1, Dec. 23, 2024, 138 Stat. 2677, provided that: “This Act [amending provisions set out as a note under section 2301 of this title] may be cited as the ‘Never Again Education Reauthorization Act of 2023’.”
+
+Short Title of 2023 AmendmentPub. L. 117–340, § 1, Jan. 5, 2023, 136 Stat. 6175, provided that: “This Act [enacting sections 220514 and 220530A of this title, amending sections 220505 and 220524 of this title, and enacting provisions set out as notes under section 220505 of this title] may be cited as the ‘Equal Pay for Team USA Act of 2022’.”
+
+Short Title of 2022 AmendmentPub. L. 117–103, div. W, title XIII, § 1310(a), Mar. 15, 2022, 136 Stat. 931, provided that: “This section [enacting section 146 of this title relating to Choose Respect Day and section 20131 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Choose Respect Act’.”
+
+Short Title of 2020 AmendmentPub. L. 116–282, § 1, Dec. 31, 2020, 134 Stat. 3386, provided that: “This Act [amending provisions set out as a note preceding this section] may be cited as the ‘United States Semiquincentennial Commission Amendments Act of 2020’.” Pub. L. 116–189, § 1, Oct. 30, 2020, 134 Stat. 943, provided that: “This Act [enacting subchapter V of chapter 2205 and section 220513 of this title, amending sections 220501 to 220507, 220509, 220511, 220512, 220521 to 220524, 220527 to 220531, and 220541 to 220543 of this title, section 362 of Title 11, Bankruptcy, and section 20341 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 220501, 220507, and 220551 of this title] may be cited as the ‘Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020’.”
+
+Short Title of 2019 AmendmentPub. L. 116–67, § 1, Nov. 7, 2019, 133 Stat. 1128, provided that: “This Act [amending section 902 of this title] may be cited as the ‘National POW/MIA Flag Act’.” Pub. L. 116–35, § 1, July 30, 2019, 133 Stat. 1043, provided that: “This Act [enacting section 21704A of this title, amending section 21703 of this title, and enacting provisions set out as a note under section 21703 of this title] may be cited as the ‘Let Everyone Get Involved in Opportunities for National Service Act’ or the ‘LEGION Act’.” Pub. L. 116–7, § 1, Feb. 21, 2019, 133 Stat. 478, provided that: “This Act [amending sections 70901 to 70914 of this title] may be cited as the ‘National FFA Organization’s Federal Charter Amendments Act’.”
+
+Short Title of 2018 AmendmentPub. L. 115–141, div. S, title III, § 301, Mar. 23, 2018, 132 Stat. 1127, provided that: “This title [enacting subchapter III (§ 220531) of this title] may be cited as the ‘Keep Young Athletes Safe Act of 2018’.” Pub. L. 115–126, § 1(a), Feb. 14, 2018, 132 Stat. 318, provided that: “This Act [enacting subchapter III (§ 220541 et seq.) of chapter 2205 of this title and 220530 of this title and amending sections 220501, 220503, and 220525 of this title, sections 2255 and 2258 of Title 18, Crimes and Criminal Procedure, and section 20341 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act of 2017’.”
+
+Short Title of 2016 AmendmentPub. L. 114–240, § 1, Oct. 7, 2016, 130 Stat. 974, provided that: “This Act [enacting section 145 of this title] may be cited as the ‘Veterans Day Moment of Silence Act’.”
+
+Short Title of 2009 AmendmentPub. L. 111–113, § 1, Dec. 14, 2009, 123 Stat. 3026, provided that: “This Act [amending sections 190104 and 190109 of this title] may be cited as the ‘Reserve Officers Association Modernization Act of 2009’.”
+
+Short Title of 2008 AmendmentPub. L. 110–207, § 1, Apr. 30, 2008, 122 Stat. 719, provided that: “This Act [amending section 140503 of this title] may be cited as the ‘Purple Heart Family Equity Act of 2007’.”
+
+Short Title of 2007 AmendmentPub. L. 110–26, § 1, May 11, 2007, 121 Stat. 103, provided that: “This Act [enacting sections 300111 and 300112 of this title, amending sections 300101 to 300105, 300107, 300109, and 300110 of this title, renumbering former section 300111 of this title as section 300113 of this title, and enacting provisions set out as a note under section 300101 of this title] may be cited as the ‘The American National Red Cross Governance Modernization Act of 2007’.”
+
+Short Title of 2005 AmendmentPub. L. 109–9, title III, § 311, Apr. 27, 2005, 119 Stat. 226, provided that: “This subtitle [subtitle B (§§ 311, 312) of title III of Pub. L. 109–9, amending sections 151703, 151705, 151706, and 151711 of this title] may be cited as the ‘National Film Preservation Foundation Reauthorization Act of 2005’.”
+
+Short Title of 2002 AmendmentPub. L. 107–323, § 1, Dec. 4, 2002, 116 Stat. 2787, provided that: “This Act [amending section 902 of this title and enacting provisions set out as a note under section 902 of this title] may be cited as the ‘POW/MIA Memorial Flag Act of 2002’.”
+
+Short Title of 1998 AmendmentPub. L. 105–277, div. C, title I, § 142(a), Oct. 21, 1998, 112 Stat. 2681–603, provided that: “This section [enacting section 220512 of this title, amending sections 220501, 220503 to 220506, 220509 to 220511, 220521 to 220524, and 220528 of this title, and enacting provisions set out as a note under section 220501 of this title] may be cited as the ‘Olympic and Amateur Sports Act Amendments of 1998’.”

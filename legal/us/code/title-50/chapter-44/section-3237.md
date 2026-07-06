@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3237"
+description: "Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3237"
+citation: "50 U.S.C. § 3237"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3237"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "d337de0f49a62244a45116aa3a9b0512e710a9ee8f70b999c5bb0be5b6814d02"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "246d0c3529426cf8ff039588b2d31eb95e83b0b91461d3faac9228068a948ec4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3237 - Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party
+
+## Text
+
+(a) Requirement On an annual basis, consistent with the protection of intelligence sources and methods, the Director of the National Counterintelligence and Security Center, in coordination with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community, shall submit to the congressional intelligence committees, the Committee on the Judiciary of the Senate, the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the influence operations and campaigns in the United States conducted by the Chinese Communist Party.
+
+(b) Contents Each report under subsection (a) shall include the following:
+
+(1) A description of the organization of the United Front Work Department of the People’s Republic of China, or the successors of the United Front Work Department, and the links between the United Front Work Department and the Central Committee of the Chinese Communist Party.
+
+(2) An assessment of the degree to which organizations that are associated with or receive funding from the United Front Work Department, particularly such entities operating in the United States, are formally tasked by the Chinese Communist Party or the Government of China.
+
+(3) A description of the efforts by the United Front Work Department and subsidiary organizations of the United Front Work Department to target, coerce, and influence foreign populations, particularly those of ethnic Chinese descent.
+
+(4) An assessment of attempts by the Chinese Embassy, consulates, and organizations affiliated with the Chinese Communist Party (including, at a minimum, the United Front Work Department) to influence the United States-based Chinese Student Scholar Associations.
+
+(5) A description of the evolution of the role of the United Front Work Department under the leadership of the President of China.
+
+(6) An assessment of the activities of the United Front Work Department designed to influence the opinions of elected leaders of the United States, or candidates for elections in the United States, with respect to issues of importance to the Chinese Communist Party.
+
+(7) A listing of all known organizations affiliated with the United Front Work Department that are operating in the United States as of the date of the report.
+
+(8) An identification of influence activities and operations employed by the Chinese Communist Party against the United States science and technology sectors, specifically employees of the United States Government, researchers, scientists, and students in the science and technology sector in the United States.
+
+(9) A listing of all known Chinese talent recruitment programs operating in the United States as of the date of the report.
+
+(10) A listing of provincial, municipal, or other law enforcement institutions, including police departments, in the People’s Republic of China associated with establishing or maintaining a Chinese police presence in the United States.
+
+(11) A listing of colleges and universities in the People’s Republic of China that conduct military research or host dedicated military initiatives or laboratories.
+
+(12) With respect to reports submitted after the first report, an assessment of the change in goals, tactics, techniques, and procedures of the influence operations and campaigns conducted by the Chinese Communist Party.
+
+(c) Form Each report submitted under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+(July 26, 1947, ch. 343, title XI, § 1107, as added Pub. L. 116–92, div. E, title LV, § 5511(a), Dec. 20, 2019, 133 Stat. 2146; amended Pub. L. 116–260, div. W, title VI, § 605(a), (d)(1), Dec. 27, 2020, 134 Stat. 2386, 2387; Pub. L. 117–103, div. X, title VII, § 701, Mar. 15, 2022, 136 Stat. 999; Pub. L. 119–60, div. F, title LXVII, § 6701, Dec. 18, 2025, 139 Stat. 1643.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 6701(1), inserted “, in coordination with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community,” after “Director of the National Counterintelligence and Security Center” and “the Committee on the Judiciary of the Senate, the Committee on the Judiciary of the House of Representatives,” after “congressional intelligence committees,”. Subsec. (b)(10) to (12). Pub. L. 119–60, § 6701(2), added pars. (10) and (11) and redesignated former par. (10) as (12). Subsecs. (c), (d). Pub. L. 119–60, § 6701(3), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.” 2022—Subsec. (b)(9), (10). Pub. L. 117–103 added par. (9) and redesignated former par. (9) as (10). 2020—Pub. L. 116–260, § 605(d)(1)(A), substituted “Chinese Communist Party” for “Communist Party of China” in section catchline. Subsecs. (a), (b)(1). Pub. L. 116–260, § 605(d)(1)(B), substituted “Chinese Communist Party” for “Communist Party of China”. Subsec. (b)(8), (9). Pub. L. 116–260, § 605(a), added par. (8) and redesignated former par. (8) as (9).
+
+Statutory Notes and Related Subsidiaries
+
+Initial ReportPub. L. 116–92, div. E, title LV, § 5511(c), Dec. 20, 2019, 133 Stat. 2147, provided that: “The Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees [Select Committee on Intelligence and Committee on Appropriations of the Senate and Permanent Select Committee on Intelligence and Committee on Appropriations of the House of Representatives], the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate the first report under section 1107 of the National Security Act of 1947 [50 U.S.C. 3237], as added by subsection (a), by not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019].”

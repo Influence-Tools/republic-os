@@ -1,0 +1,105 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 5367"
+description: "Construction programs and projects"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "46"
+chapter_name: "INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE"
+section: "5367"
+citation: "25 U.S.C. § 5367"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s5367"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "ef4beb8ef75daced5223b19c39e2282b79829e5f7c1d7ad606d9524762075111"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "668a1ae4b6c2993ffd877a89a854c2c86dbafb020f7229690f508cbe7ab65aa1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 5367 - Construction programs and projects
+
+## Text
+
+(a) In general Indian Tribes participating in Tribal self-governance may carry out any construction project included in a compact or funding agreement under this subchapter.
+
+(b) Tribal option to carry out certain Federal environmental activities In carrying out a construction project under this subchapter, an Indian Tribe may, subject to the agreement of the Secretary, elect to assume some Federal responsibilities under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), division A of subtitle III of title 54, and related provisions of other law and regulations that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
+
+(1) designating a certifying Tribal officer to represent the Indian Tribe and to assume the status of a responsible Federal official under those Acts, laws, or regulations; and
+
+(2) accepting the jurisdiction of the United States courts for the purpose of enforcing the responsibilities of the certifying Tribal officer assuming the status of a responsible Federal official under those Acts, laws, or regulations.
+
+(c) Savings clause Notwithstanding subsection (b), nothing in this section authorizes the Secretary to include in any compact or funding agreement duties of the Secretary under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), division A of subtitle III of title 54, and other related provisions of law that are inherent Federal functions.
+
+(d) Codes and standards In carrying out a construction project under this subchapter, an Indian Tribe shall—
+
+(1) adhere to applicable Federal, State, local, and Tribal building codes, architectural and engineering standards, and applicable Federal guidelines regarding design, space, and operational standards, appropriate for the particular project; and
+
+(2) use only architects and engineers who—
+
+(A) are licensed to practice in the State in which the facility will be built; and
+
+(B) certify that—
+
+(i) they are qualified to perform the work required by the specific construction involved; and
+
+(ii) upon completion of design, the plans and specifications meet or exceed the applicable construction and safety codes.
+
+(e) Tribal accountability (1) In general In carrying out a construction project under this subchapter, an Indian Tribe shall assume responsibility for the successful completion of the construction project and of a facility that is usable for the purpose for which the Indian Tribe received funding.
+
+(2) Requirements For each construction project carried out by an Indian Tribe under this subchapter, the Indian Tribe and the Secretary shall negotiate a provision to be included in the funding agreement that identifies—
+
+(A) the approximate start and completion dates for the project, which may extend over a period of one or more years;
+
+(B) a general description of the project, including the scope of work, references to design criteria, and other terms and conditions;
+
+(C) the responsibilities of the Indian Tribe and the Secretary for the project;
+
+(D) how project-related environmental considerations will be addressed;
+
+(E) the amount of funds provided for the project;
+
+(F) the obligations of the Indian Tribe to comply with the codes referenced in subsection (d)(1) and applicable Federal laws and regulations;
+
+(G) the agreement of the parties over who will bear any additional costs necessary to meet changes in scope, or errors or omissions in design and construction; and
+
+(H) the agreement of the Secretary to issue a certificate of occupancy, if requested by the Indian Tribe, based upon the review and verification by the Secretary, to the satisfaction of the Secretary, that the Indian Tribe has secured upon completion the review and approval of the plans and specifications, sufficiency of design, life safety, and code compliance by qualified, licensed, and independent architects and engineers.
+
+(f) Funding (1) In general Funding appropriated for construction projects carried out under this subchapter shall be included in funding agreements as annual or semiannual advance payments at the option of the Indian Tribe.
+
+(2) Advance payments The Secretary shall include all associated project contingency funds with each advance payment, and the Indian Tribe shall be responsible for the management of such contingency funds.
+
+(g) Negotiations At the option of the Indian Tribe, construction project funding proposals shall be negotiated pursuant to the statutory process in section 5324 of this title, and any resulting construction project agreement shall be incorporated into the funding agreement as addenda.
+
+(h) Federal review and verification (1) In general On a schedule negotiated by the Secretary and the Indian Tribe—
+
+(A) the Secretary shall review and verify, to the satisfaction of the Secretary, that project planning and design documents prepared by the Indian Tribe in advance of initial construction are in conformity with the obligations of the Indian Tribe under subsection (d); and
+
+(B) before the project planning and design documents are implemented, the Secretary shall review and verify to the satisfaction of the Secretary that subsequent document amendments which result in a significant change in construction are in conformity with the obligations of the Indian Tribe under subsection (d).
+
+(2) Reports The Indian Tribe shall provide the Secretary with project progress and financial reports not less than semiannually.
+
+(3) Oversight visits The Secretary may conduct onsite project oversight visits semiannually or on an alternate schedule agreed to by the Secretary and the Indian Tribe.
+
+(i) Application of other laws Unless otherwise agreed to by the Indian Tribe and except as otherwise provided in this chapter, no provision of title 41, the Federal Acquisition Regulation, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction program or project carried out under this subchapter.
+
+(j) Future funding Upon completion of a facility constructed under this subchapter, the Secretary shall include the facility among those eligible for annual operation and maintenance funding support comparable to that provided for similar facilities funded by the Department as annual appropriations are available and to the extent that the facility size and complexity and other factors do not exceed the funding formula criteria for comparable buildings.
+
+(Pub. L. 93–638, title IV, § 407, as added Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 870.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe National Environmental Policy Act of 1969, referred to in subsecs. (b) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. This chapter, referred to in subsec. (i), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+Prior ProvisionsA prior section 5367, Pub. L. 93–638, title IV, § 407, as added Pub. L. 103–413, title II, § 204, Oct. 25, 1994, 108 Stat. 4277, related to regulations to carry out this subchapter, prior to repeal by Pub. L. 116–180, title I, § 101(e), Oct. 21, 2020, 134 Stat. 864. See section 5373 of this title. Such section was formerly classified to section 458gg of this title prior to editorial reclassification and renumbering as section 5367.

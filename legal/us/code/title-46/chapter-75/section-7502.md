@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "46 U.S.C. § 7502"
+description: "Records"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 46
+title_name: "SHIPPING"
+chapter_number: "75"
+chapter_name: "GENERAL PROCEDURES FOR LICENSING, CERTIFICATION, AND DOCUMENTATION"
+section: "7502"
+citation: "46 U.S.C. § 7502"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc46@119-100.zip"
+source_identifier: "/us/usc/t46/s7502"
+source_file: "data/legal/raw/us/code/title-46/usc46.xml"
+source_hash: "1f198a8c63e290a68790851f9ee3a2bdd0565b738e62694a543e1e97910534a9"
+raw_snapshot_hash: "eb1331aa3c08ed87231a3606d86b30d1b5942cdf8542f6a3df8ac1d66e86057f"
+text_hash: "d972eb3d1738c153b126a751420c3f8a45130dd5a748f23c38daf6558504cc85"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 46 U.S.C. § 7502 - Records
+
+## Text
+
+(a) The Secretary shall maintain records, including electronic records, on the issuances, denials, suspensions, and revocations of licenses, certificates of registry, merchant mariners’ documents, and endorsements on those licenses, certificates, and documents.
+
+(b) The Secretary may prescribe regulations requiring a vessel owner or managing operator of a commercial vessel, or the employer of a seaman on that vessel, to maintain records of each individual engaged on the vessel subject to inspection under chapter 33 on matters of engagement, discharge, and service for not less than 5 years after the date of the completion of the service of that individual on the vessel. The regulations may require that a vessel owner, managing operator, or employer shall make these records available to the individual and the Coast Guard on request.
+
+(c) A person violating this section, or a regulation prescribed under this section, is liable to the United States Government for a civil penalty of not more than $5,000.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 545; Pub. L. 101–380, title IV, § 4114(e), Aug. 18, 1990, 104 Stat. 517; Pub. L. 111–281, title VI, § 605, Oct. 15, 2010, 124 Stat. 2967.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource section (U.S. Code) 750246:41446:643(f) Section 7502 requires the Secretary to maintain records on the issuances, denials, suspensions, and revocations of licenses, certificates of registry, merchant mariner’s documents, and endorsements.
+
+Editorial Notes
+
+AmendmentsPub. L. 111–281 designated existing provisions as subsec. (a), substituted “records, including electronic records,” for “computerized records”, and added subsecs. (b) and (c). 1990—Pub. L. 101–380 substituted “maintain computerized records” for “maintain records”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1990 AmendmentAmendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+Modernizing Merchant Mariner Credentialing SystemPub. L. 117–263, div. K, title CXV, § 11511, Dec. 23, 2022, 136 Stat. 4138, provided that: “(a) Report.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Dec. 23, 2022], the Commandant shall submit to the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, and the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives, a report on the financial, human, and information technology infrastructure resources needed to establish an electronic merchant mariner licensing and documentation system. “(2) Legislative and regulatory suggestions.—In preparing the report described in paragraph (1), the Commandant—“(A) shall include recommendations for any legislative or administrative actions as the Commandant determines necessary to establish the electronic merchant mariner licensing and documentation system described in paragraph (1) as soon as possible; and “(B) may include findings, conclusions, or recommendations from the study conducted under subsection (b). “(b) Study.—“(1) In general.—In preparing the report required under subsection (a), the Commandant and the Administrator of the Maritime Administration, in coordination with the Commander of the United States Transportation Command, shall conduct a study on the feasibility of developing and maintaining a database as part of an electronic merchant mariner licensing and documentation system that—“(A) contains records with respect to each credentialed mariner, including credential validity, drug and alcohol testing results, and information on any final adjudicated agency action involving a credentialed mariner or regarding any involvement in a marine casualty; and “(B) maintains such records in a manner that allows data to be readily accessed by the Federal Government for the purpose of assessing workforce needs and for the purpose of the economic and national security of the United States. “(2) Contents.—The study required under paragraph (1) shall—“(A) include an assessment of the resources, including information technology, and authorities necessary to develop and maintain the database described in such paragraph; “(B) specifically address ways to protect the privacy interests of any individual whose information may be contained within such database, which shall include limiting access to the database or having access to the database be monitored by, or accessed through, a member of the Coast Guard; and “(C) address the feasibility of incorporating in such database a reporting mechanism to alert the Administrator of the Maritime Administration each time a mariner’s credential is reinstated upon completion of a period of suspension as the result of a suspension and revocation proceeding under section 7702 of title 46, United States Code, with details about the violation that led to such suspension. “(c) Electronic Merchant Mariner Licensing and Documentation System.—Notwithstanding any other provision of law, not later than 2 years after the date of enactment of this Act, the Secretary shall implement an electronic merchant mariner licensing and documentation system.” [For definitions of terms used in section 11511 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of Title 14, Coast Guard, and section 11515 of Pub. L. 117–263, set as as note under section 7302 of this title.]
+
+Electronic Records on Mariner Availability To Meet National Security NeedsPub. L. 115–232, div. C, title XXXV, § 3510, Aug. 13, 2018, 132 Stat. 2310, provided that: “The Secretary of the department in which the Coast Guard is operating shall ensure that electronic records maintained under section 7502 of title 46, United States Code, are able to be used by the Secretary of Transportation— “(1) to determine the potential availability of mariners credentialed under part E of subtitle II of title 46, United States Code, to meet national security sealift needs; and “(2) to receive information on the qualification of such mariners.”

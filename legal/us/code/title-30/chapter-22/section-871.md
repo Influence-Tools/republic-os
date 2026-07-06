@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "30 U.S.C. § 871"
+description: "Fire protection"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 30
+title_name: "MINERAL LANDS AND MINING"
+chapter_number: "22"
+chapter_name: "MINE SAFETY AND HEALTH"
+section: "871"
+citation: "30 U.S.C. § 871"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc30@119-100.zip"
+source_identifier: "/us/usc/t30/s871"
+source_file: "data/legal/raw/us/code/title-30/usc30.xml"
+source_hash: "40c8dbf686cdc8e32a13d3f7073b243edbf48eecd5aa0d99367d7ff12cbc497f"
+raw_snapshot_hash: "355f8eb5c6ad5372de4a8e665d9ed90202d53d2aac19ac001d43948af4a4dd2f"
+text_hash: "18bc03fc6d94c2f660d8c7c1a44391454d035876e06d17f5b34cf00802b9552a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 30 U.S.C. § 871 - Fire protection
+
+## Text
+
+(a) Firefighting equipment; promulgation of minimum requirements for equipment; existing requirements; examinations after blasting Each coal mine shall be provided with suitable firefighting equipment adapted for the size and conditions of the mine. The Secretary shall establish minimum requirements for the type, quality, and quantity of such equipment, and the interpretations of the Secretary or the Director of the United States Bureau of Mines relating to such equipment in effect on the operative date of this subchapter shall continue in effect until modified or superseded by the Secretary. After every blasting operation, an examination shall be made to determine whether fires have been started.
+
+(b) Underground storage areas for lubricating oils and greases; construction; exceptions Underground storage places for lubricating oil and grease shall be of fireproof construction. Except for specially prepared materials approved by the Secretary, lubricating oil and grease kept in all underground areas in a coal mine shall be in fireproof, closed metal containers or other no less effective containers approved by the Secretary.
+
+(c) Housing of underground structures, stations, shops, and pumps; construction; ventilation Underground transformer stations, battery-charging stations, substations, compressor stations, shops, and permanent pumps shall be housed in fireproof structures or areas. Air currents used to ventilate structures or areas enclosing electrical installations shall be coursed directly into the return. Other underground structures installed in a coal mine as the Secretary may prescribe shall be of fireproof construction.
+
+(d) Use of arc or flame in underground mines; fireproof enclosures; operations outside fireproof enclosures; procedures; standards All welding, cutting, or soldering with arc or flame in all underground areas of a coal mine shall, whenever practicable, be conducted in fireproof enclosures. Welding, cutting or soldering with arc or flame in other than a fireproof enclosure shall be done under the supervision of a qualified person who shall make a diligent search for fire during and after such operations and shall, immediately before and during such operations, continuously test for methane with means approved by the Secretary for detecting methane. Welding, cutting, or soldering shall not be conducted in air that contains 1.0 volume per centum or more of methane. Rock dust or suitable fire extinguishers shall be immediately available during such welding, cutting, or soldering.
+
+(e) Installation of fire suppression devices on un­attended underground equipment; flame-resistant hydraulic fluids Within one year after the operative date of this subchapter, fire suppression devices meeting specifications prescribed by the Secretary shall be installed on unattended underground equipment and suitable fire-resistant hydraulic fluids approved by the Secretary shall be used in the hydraulic systems of such equipment. Such fluids shall be used in the hydraulic systems of other underground equipment unless fire suppression devices meeting specifications prescribed by the Secretary are installed on such equipment.
+
+(f) Deluge-type water sprays at main and secondary drives Deluge-type water sprays or foam generators automatically actuated by rise in temperature, or other no less effective means approved by the Secretary of controlling fire, shall be installed at main and secondary belt-conveyor drives. Where sprays or foam generators are used they shall supply a sufficient quantity of water or foam to control fires.
+
+(g) Installation of slippage and sequence switches on belt conveyors; fire suppression devices on belt haulageways Underground belt conveyors shall be equipped with slippage and sequence switches. The Secretary shall, within sixty days after the operative date of this subchapter, require that devices be installed on all such belts which will give a warning automatically when a fire occurs on or near such belt. The Secretary shall prescribe a schedule for installing fire suppression devices on belt haulageways.
+
+(h) Flame-resistant conveyor belt On and after the operative date of this subchapter, all conveyor belts acquired for use underground shall meet the requirements to be established by the Secretary for flame-resistant conveyor belts.
+
+(Pub. L. 91–173, title III, § 311, Dec. 30, 1969, 83 Stat. 783; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+
+## Notes
+
+Editorial Notes
+
+References in TextFor the operative date of this subchapter, referred to subsecs. (a), (e), (g), and (h), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name “United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+
+Effective DateSection operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.

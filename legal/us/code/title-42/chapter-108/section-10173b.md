@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 10173b"
+description: "Review Panel"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "108"
+chapter_name: "NUCLEAR WASTE POLICY"
+section: "10173b"
+citation: "42 U.S.C. § 10173b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s10173b"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "4bfd5643f00aea172db0479aa37d8fca548ebad3eb5fad2e91025f5ecee27754"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "30eccfb73160c07f640c32dec244013afda694e32e8c90822902d1241c7bd14a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 10173b - Review Panel
+
+## Text
+
+(a) In general The Review Panel required to be established by section 10173a(b)(1) of this title shall consist of a Chairman selected by the Secretary in consultation with the Governor of the State or governing body of the Indian tribe, as appropriate, that is party to such agreement and 6 other members as follows:
+
+(1) 2 members selected by the Governor of such State or governing body of such Indian tribe;
+
+(2) 2 members selected by units of local government affected by the repository or monitored retrievable storage facility;
+
+(3) 1 member to represent persons making payments into the Waste Fund, to be selected by the Secretary; and
+
+(4) 1 member to represent other public interests, to be selected by the Secretary.
+
+(b) Terms (1) The members of the Review Panel shall serve for terms of 4 years each.
+
+(2) Members of the Review Panel who are not full-time employees of the Federal Government, shall receive a per diem compensation for each day spent conducting work of the Review Panel, including their necessary travel or other expenses while engaged in the work of the Review Panel.
+
+(3) Expenses of the Panel shall be paid by the Secretary from the Waste Fund.
+
+(c) Duties The Review Panel shall—
+
+(1) advise the Secretary on matters relating to the proposed repository or monitored retrievable storage facility, including issues relating to design, construction, operation, and decommissioning of the facility;
+
+(2) evaluate performance of the repository or monitored retrievable storage facility, as it considers appropriate;
+
+(3) recommend corrective actions to the Secretary;
+
+(4) assist in the presentation of State or affected Indian tribe and local perspectives to the Secretary; and
+
+(5) participate in the planning for and the review of preoperational data on environmental, demographic, and socioeconomic conditions of the site and the local community.
+
+(d) Information The Secretary shall promptly 11 So in original. make available promptly 1 any information in the Secretary’s possession requested by the Panel or its Chairman.
+
+(e) Chapter 10 of title 5 The requirements of chapter 10 of title 5 shall not apply to a Review Panel established under this subchapter.
+
+(Pub. L. 97–425, title I, § 172, as added Pub. L. 100–202, § 101(d) [title III, § 300], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, § 5031, Dec. 22, 1987, 101 Stat. 1330–239; amended Pub. L. 117–286, § 4(a)(272), Dec. 27, 2022, 136 Stat. 4335.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+Amendments2022—Subsec. (e). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act” in text.

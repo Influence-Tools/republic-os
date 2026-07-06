@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 1795a"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "14"
+chapter_name: "FEDERAL CREDIT UNIONS"
+section: "1795a"
+citation: "12 U.S.C. § 1795a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s1795a"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "ebea9e77fd6defc41ee4dfce9829c7e3ceb07e786390ec00619101420ddeca53"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "379580ecf131306732eb37cdcffaf19fde722f440b894046b7823c7bc7ff6fff"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 1795a - Definitions
+
+## Text
+
+As used in this subchapter, the term—
+
+(1) “liquidity needs” means the needs of credit unions primarily serving natural persons for—
+
+(A) short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persist­ent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
+
+(B) seasonal credit available for longer periods to assist in meeting seasonal needs for funds arising from a combination of expected patterns of movement in share and deposit accounts and loans; and
+
+(C) protracted adjustment credit available in the event of unusual or emergency circumstances of a longer term nature resulting from national, regional or local difficulties.11 So in original. The period probably should be a semicolon.
+
+(2) “Central Liquidity Facility” or “Facility” means the National Credit Union Central Liquidity Facility;
+
+(3) “paid-in and unimpaired capital and surplus” means the balance of the paid-in share accounts and deposits as of a given date, less any loss that may have been incurred for which there is no reserve or which has not been charged against undivided earnings, plus the credit balance (or less the debit balance) of the undivided earnings account as of a given date, after all losses have been provided for and net earnings or net losses have been added thereto or deducted therefrom. Reserves shall not be considered as part of surplus,22 So in original. The comma probably should be a semicolon. and
+
+(4) “member” means a Regular or an Agent member of the Facility.
+
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 302, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, § 309(b)(1), (2), Mar. 31, 1980, 94 Stat. 149; Pub. L. 116–136, div. A, title IV, § 4016(a)(1), (b)(1)(A), Mar. 27, 2020, 134 Stat. 481, 482.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
+
+Amendments2020—Par. (1). Pub. L. 116–136, § 4016(b)(1)(A), inserted “primarily serving natural persons” after “credit unions” in introductory provisions. Pub. L. 116–136, § 4016(a)(1), struck out “primarily serving natural persons” after “credit unions” in introductory provisions. 1980—Pub. L. 96–221, § 309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2020 AmendmentPub. L. 116–136, div. A, title IV, § 4016(b)(2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that: “The amendments made by paragraph (1) [amending this section and sections 1795c and 1795e of this title] shall take effect on December 31, 2021.”
+
+Effective DateSection effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.

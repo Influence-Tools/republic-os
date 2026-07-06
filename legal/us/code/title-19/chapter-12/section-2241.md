@@ -1,0 +1,121 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2241"
+description: "Estimates of barriers to market access"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2241"
+citation: "19 U.S.C. § 2241"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2241"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "6dcb614a577afdf2d050ebdf813179ed291fecb2a7f2c2e3061a80547a2adae6"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "4495b09f17d7f7f8b4fb1dc4e02abf65a3fef8bb8c405f0e7a3c3a3f0b1afaf8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2241 - Estimates of barriers to market access
+
+## Text
+
+(a) National trade estimates (1) In general For calendar year 1988, and for each succeeding calendar year, the United States Trade Representative, through the interagency trade organization established pursuant to section 1872(a) of this title and with the assistance of the interagency advisory committee established under section 2171(d)(2) of this title, shall—
+
+(A) identify and analyze acts, policies, or practices of each foreign country which constitute significant barriers to, or distortions of—
+
+(i) United States exports of goods or services (including agricultural commodities; and property protected by trademarks, patents, and copyrights exported or licensed by United States persons),
+
+(ii) foreign direct investment by United States persons, especially if such investment has implications for trade in goods or services; 11 So in original. The semicolon probably should be a comma. and
+
+(iii) United States electronic commerce,22 So in original. The comma probably should be a semicolon.
+
+(B) make an estimate of the trade-distorting impact on United States commerce of any act, policy, or practice identified under subparagraph (A); and
+
+(C) make an estimate, if feasible, of—
+
+(i) the value of additional goods and services of the United States,
+
+(ii) the value of additional foreign direct investment by United States persons, and
+
+(iii) the value of additional United States electronic commerce,
+
+that would have been exported to, or invested in or transacted with,,33 So in original. each foreign country during such calendar year if each of such acts, policies, and practices of such country did not exist.
+
+(2) Certain factors taken into account in making analysis and estimate In making any analysis or estimate under paragraph (1), the Trade Representative shall take into account—
+
+(A) the relative impact of the act, policy, or practice on United States commerce;
+
+(B) the availability of information to document prices, market shares, and other matters necessary to demonstrate the effects of the act, policy, or practice;
+
+(C) the extent to which such act, policy, or practice is subject to international agreements to which the United States is a party;
+
+(D) any advice given through appropriate committees established pursuant to section 2155 of this title; and
+
+(E) the actual increase in—
+
+(i) the value of goods and services of the United States exported to,
+
+(ii) the value of foreign direct investment made in, and
+
+(iii) the value of electronic commerce transacted with,
+
+the foreign country during the calendar year for which the estimate under paragraph (1)(C) is made.
+
+(3) Inclusion of certain discriminatory laws, policies, and practices of the Russian Federation For calender 44 So in original. Probably should be “calendar”. year 2012 and each succeeding calendar year, the Trade Representative shall include in the analyses and estimates under paragraph (1) an identification and analysis of any laws, policies, or practices of the Russian Federation that deny fair and equitable market access to United States digital trade.
+
+(4) Annual revisions and updates The Trade Representative shall annually revise and update the analysis and estimate under paragraph (1).
+
+(b) Reports (1) In general On or before April 30, 1989, and on or before March 31 of each succeeding calendar year, the Trade Representative shall submit a report on the analysis and estimates made under subsection (a) for the calendar year preceding such calendar year (which shall be known as the “National Trade Estimate”) to the President, the Committee on Finance of the Senate, and appropriate committees of the House of Representatives.
+
+(2) Reports to include information with respect to action being taken The Trade Representative shall include in each report submitted under paragraph (1) information with respect to any action taken (or the reasons for no action taken) to eliminate any act, policy, or practice identified under subsection (a), including, but not limited to—
+
+(A) any action under section 2411 of this title,
+
+(B) negotiations or consultations with foreign governments, or
+
+(C) a section on foreign anticompetitive practices, the toleration of which by foreign governments is adversely affecting exports of United States goods or services.
+
+(3) Consultation with Congress on trade policy priorities The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policy priorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.
+
+(c) Assistance of other agencies (1) Furnishing of information The head of each department or agency of the executive branch of the Government, including any independent agency, is authorized and directed to furnish to the Trade Representative or to the appropriate agency, upon request, such data, reports, and other information as is necessary for the Trade Representative to carry out his functions under this section. In preparing the section of the report required by subsection (b)(2)(C), the Trade Representative shall consult in particular with the Attorney General.
+
+(2) Restrictions on release or use of information Nothing in this subsection shall authorize the release of information to, or the use of information by, the Trade Representative in a manner inconsistent with law or any procedure established pursuant thereto.
+
+(3) Personnel and services The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Trade Representative may request to assist in carrying out his functions.
+
+(d) Electronic commerce For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) 55 So in original. See References in Text note below. of the Internet Tax Freedom Act.
+
+(Pub. L. 93–618, title I, § 181, as added Pub. L. 98–573, title III, § 303(a), Oct. 30, 1984, 98 Stat. 3001; amended Pub. L. 100–418, title I, § 1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§ 311(a), 312, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 105–277, div. C, title XII, § 1202, Oct. 21, 1998, 112 Stat. 2681–726; Pub. L. 112–208, title II, § 203, Dec. 14, 2012, 126 Stat. 1501.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1104(3) of the Internet Tax Freedom Act, referred to in subsec. (d), was redesignated section 1105(3) of the Act by Pub. L. 108–435, § 3(1), Dec. 3, 2004, 118 Stat. 2616, and is set out in a note under section 151 of Title 47, Telecommunications.
+
+Amendments2012—Subsec. (a)(3), (4). Pub. L. 112–208 added par. (3) and redesignated former par. (3) as (4). 1998—Subsec. (a)(1)(A)(iii). Pub. L. 105–277, § 1202(1)(A), added cl. (iii). Subsec. (a)(1)(C). Pub. L. 105–277, § 1202(1)(B), added cl. (iii) and inserted “or transacted with,” after “or invested in” in concluding provisions. Subsec. (a)(2)(E)(iii). Pub. L. 105–277, § 1202(2), added cl. (iii). Subsec. (d). Pub. L. 105–277, § 1202(3), added subsec. (d). 1994—Subsec. (b)(2)(C). Pub. L. 103–465, § 311(a)(1), added subpar. (C). Subsec. (b)(3). Pub. L. 103–465, § 312, inserted at end “After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.” Subsec. (c)(1). Pub. L. 103–465, § 311(a)(2), inserted at end “In preparing the section of the report required by subsection (b)(2)(C), the Trade Representative shall consult in particular with the Attorney General.” 1988—Pub. L. 100–418, § 1304(a)(10), substituted “Estimates of” for “Actions concerning” in section catchline. Subsec. (a)(1). Pub. L. 100–418, § 1304(a)(1), substituted “For calendar year 1988, and for each succeeding calendar year,” for “Not later than the date on which the initial report is required under subsection (b)(1) of this section,”. Pub. L. 100–418, § 1304(a)(9), which directed the insertion of “and with the assistance of the interagency advisory committee established under section 2171(d)(2) of this title,” after “section 1872(a) of this title,” was executed by making the insertion after “section 1872(a) of this title” to reflect the probable intent of Congress. Subsec. (a)(1)(A). Pub. L. 100–418, § 1304(a)(2), inserted “of each foreign country” after “or practices”. Subsec. (a)(1)(C). Pub. L. 100–418, § 1304(a)(3)–(5), added subpar. (C). Subsec. (a)(2)(E). Pub. L. 100–418, § 1304(a)(6)–(8), added subpar. (E). Subsec. (b)(1). Pub. L. 100–418, § 1304(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “On or before the date which is one year after October 30, 1984, and each year thereafter, the Trade Representative shall submit the analysis and estimate under subsection (a) of this section to the Committee on Finance of the Senate and to the Committee on Ways and Means of the House of Representatives.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1994 AmendmentAmendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 316 of Pub. L. 103–465, set out as an Effective Date note under section 3581 of this title.
+
+SeverabilityPub. L. 105–277, div. C, title XII, § 1206, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “If any provision of this title [amending this section and enacting provisions set out under this section], or any amendment made by this title, or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that title, and the application of that provision to other persons and circumstances, shall not be affected.”
+
+Construction of 1998 AmendmentsPub. L. 105–277, div. C, title XII, § 1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title [amending this section and enacting provisions set out under this section] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act [Oct. 21, 1998].” Pub. L. 105–277, div. C, title XII, § 1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title [amending this section and enacting provisions set out under this section] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) [see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telecommunications] or the amendments made by such Act.”
+
+Declaration That the Internet Should Be Free of Foreign Tariffs, Trade Barriers, and Other RestrictionsPub. L. 105–277, div. C, title XII, § 1203, Oct. 21, 1998, 112 Stat. 2681–727, provided that: “(a) In General.—It is the sense of Congress that the President should seek bilateral, regional, and multilateral agreements to remove barriers to global electronic commerce through the World Trade Organization, the Organization for Economic Cooperation and Development, the Trans-Atlantic Economic Partnership, the Asia Pacific Economic Cooperation forum, the Free Trade Area of the America, the North American Free Trade Agreement, and other appropriate venues. “(b) Negotiating Objectives.—The negotiating objectives of the United States shall be—“(1) to assure that electronic commerce is free from—“(A) tariff and nontariff barriers; “(B) burdensome and discriminatory regulation and standards; and “(C) discriminatory taxation; and “(2) to accelerate the growth of electronic commerce by expanding market access opportunities for—“(A) the development of telecommunications infrastructure; “(B) the procurement of telecommunications equipment; “(C) the provision of Internet access and telecommunications services; and “(D) the exchange of goods, services, and digitalized information. “(c) Electronic Commerce.—For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) [probably means Pub. L. 105–277, div. C, title XI, § 1105(3), set out in a note under section 151 of Title 47, Telecommunications].”
+
+Executive Documents
+
+Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties Memorandum of President of the United States, Feb. 21, 2025, 90 F.R. 10865, provided: Memorandum for the Secretary of the Treasury[,] the Secretary of Commerce[,] the United States Trade Representative[, and] the Senior Counselor to the President for Trade and Manufacturing Section 1. Purpose. In recent years, the gross domestic product of the United States’ digital economy alone, driven by cutting-edge American technology companies, has been bigger than the entire economy of Australia, Canada, or most members of the European Union. Instead of empowering their own workers and economies, foreign governments have increasingly exerted extraterritorial authority over American companies, particularly in the technology sector, hindering these companies’ success and appropriating revenues that should contribute to our Nation’s well-being, not theirs. Beginning in 2019, several trading partners enacted digital services taxes (DSTs) that could cost American companies billions of dollars and that foreign government officials openly admit are designed to plunder American companies. Foreign countries have additionally adopted regulations governing digital services that are more burdensome and restrictive on United States companies than their own domestic companies. Additional foreign legal regimes limit cross-border data flows, require American streaming services to fund local productions, and charge network usage and Internet termination fees. All of these measures violate American sovereignty and offshore American jobs, limit American companies’ global competitiveness, and increase American operational costs while exposing our sensitive information to potentially hostile foreign regulators. My Administration will not allow American companies and workers and American economic and national security interests to be compromised by one-sided, anti-competitive policies and practices of foreign governments. American businesses will no longer prop up failed foreign economies through extortive fines and taxes. Sec. 2. Policy. It is the policy of my Administration that where a foreign government, through its tax or regulatory structure, imposes a fine, penalty, tax, or other burden that is discriminatory, disproportionate, or designed to transfer significant funds or intellectual property from American companies to the foreign government or the foreign government’s favored domestic entities, my Administration will act, imposing tariffs and taking such other responsive actions necessary to mitigate the harm to the United States and to repair any resulting imbalance. In taking such responsive action, my Administration shall consider: (a) taxes imposed on United States companies by foreign governments, including those that may discriminate against United States companies; (b) regulations imposed on United States companies by foreign governments that could inhibit the growth or intended operation of United States companies; (c) any act, policy, or practice of a foreign government that could require a United States company to jeopardize its intellectual property; and (d) Any other act, policy, or practice of a foreign government that serves to undermine the global competitiveness of United States companies. Sec. 3. Agency Responsibilities. (a) The United States Trade Representative shall determine, in accordance with applicable law, whether to renew investigations under section 301 of the Trade Act of 1974 (19 U.S.C. 2411) of the DSTs of France, Austria, Italy, Spain, Turkey, and the United Kingdom, which were initiated under my Administration on July 16, 2019, and June 5, 2020. If the United States Trade Representative determines to renew such investigations, he shall take all appropriate and feasible action in response to those DSTs. (b) The United States Trade Representative shall determine, consistent with section 302(b) of the Trade Act of 1974 (19 U.S.C. 2412(b)) (section 302(b)), whether to investigate the DST of any other country that may discriminate against United States companies or burden or restrict United States commerce. He shall further determine whether to pursue a panel under the United States-Mexico-Canada Agreement on the DST imposed by Canada and whether to investigate Canada’s DST under section 302(b). In making these determinations, the United States Trade Representative shall consult with the Secretary of the Treasury, as appropriate. (c) The Secretary of the Treasury, the Secretary of Commerce, and the United States Trade Representative shall jointly identify trade and other regulatory practices by other countries, including, without limitation, those described in section 2 of this memorandum, that discriminate against, disproportionately affect, or otherwise undermine the global competitiveness or intended operation of United States companies, in the digital economy and more generally, and recommend to me appropriate actions to counter such practices under applicable authorities. The United States Trade Representative shall include the results of this review as part of the report required in section 5(c) of the Presidential Memorandum of January 20, 2025 (America First Trade Policy) (America First Trade Policy Memorandum) [90 F.R. 8471]. (d) The Secretary of the Treasury, the Secretary of Commerce, and the United States Trade Representative shall investigate whether any act, policy, or practice of any country in the European Union or the United Kingdom has the effect of requiring or incentivizing the use or development of United States companies’ products or services in ways that undermine freedom of speech and political engagement or otherwise moderate content, and recommend appropriate actions to counter such practices under applicable authorities. The United States Trade Representative shall include the results of this review as part of the report required in section 5(c) of the America First Trade Policy Memorandum. (e) The Secretary of the Treasury, in consultation with the Secretary of Commerce and the United States Trade Representative, shall determine whether any foreign country subjects United States citizens or companies, including, without limitation, in the digital economy, to discriminatory or extraterritorial taxes, or has any tax measure in place that otherwise undermines the global competitiveness of United States companies, is inconsistent with any tax treaty of the United States, or is otherwise actionable under section 891 of title 26, United States Code, or other tax-related legal authority. The Secretary of the Treasury shall include the results of this determination as part of the report required in section 2 of the Presidential Memorandum of January 20, 2025 (The Organization for Economic Co-Operation and Development (OECD) Global Tax Deal) [90 F.R. 8483]. (f) The United States Trade Representative shall identify tools the United States can use to secure among trading partners a permanent moratorium on customs duties on electronic transmissions. The United States Trade Representative shall include the results of this review as part of the report required in section 5(c) of the America First Trade Policy Memorandum. (g) The United States Trade Representative, in consultation with the Secretary of Commerce and the Senior Counselor to the President for Trade and Manufacturing, shall establish a process that allows American businesses to report to the United States Trade Representative foreign tax or regulatory practices that disproportionately harm United States companies. Sec. 4. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect: (i) the authority granted by law to an executive department or agency, or the head thereof; or (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals. (b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations. (c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. (d) The United States Trade Representative is authorized and directed to publish this memorandum in the Federal Register. Donald J. Trump.

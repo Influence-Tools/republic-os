@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 3413"
+description: "Administration of funds"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "36"
+chapter_name: "INDIAN EMPLOYMENT, TRAINING AND RELATED SERVICES"
+section: "3413"
+citation: "25 U.S.C. § 3413"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s3413"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "6eb5925740e5b05bc6c24c4b52ef0e6653258e5a6c35de08125cdc8d23130e9f"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "133f7fd7e96cbf429382e8fa4d6cad98fe27c1decdc4aa57a048644d9cdf2f31"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 3413 - Administration of funds
+
+## Text
+
+(a) Requirements (1) In general (A) Consolidation and reallocation of funds Notwithstanding any other provision of law, all amounts transferred to a tribe pursuant to an approved plan may be consolidated, reallocated, and rebudgeted as specified in the approved plan to best meet the employment, training, and related needs of the local community served by the Indian tribe.
+
+(B) Authorized use of funds The amounts used to carry out a plan approved under this chapter shall be administered in such manner as the Secretary determines to be appropriate to ensure the amounts are spent on activities authorized under the approved plan.
+
+(C) Effect Nothing in this section interferes with the ability of the Secretary or the lead agency to use accounting procedures that conform to generally accepted accounting principles, auditing procedures, and safeguarding of funds that conform to chapter 75 of title 31 (commonly known as the “Single Audit Act of 1984”).
+
+(2) Separate records and audits not required Notwithstanding any other provision of law (including regulations and circulars of any agency (including Office of Management and Budget Circular A–133)), an Indian tribe that has in place an approved plan under this chapter shall not be required—
+
+(A) to maintain separate records that trace any service or activity conducted under the approved plan to the program for which the funds were initially authorized or transferred;
+
+(B) to allocate expenditures among such a program; or
+
+(C) to audit expenditures by the original source of the program.
+
+(b) Carryover (1) In general Any funds transferred to an Indian tribe under this chapter that are not obligated or expended prior to the beginning of the fiscal year after the fiscal year for which the funds were appropriated shall remain available for obligation or expenditure without fiscal year limitation, subject to the condition that the funds shall be obligated or expended in accordance with the approved plan of the Indian tribe.
+
+(2) No additional documentation The Indian tribe shall not be required to provide any additional justification or documentation of the purposes of the approved plan as a condition of receiving or expending the funds.
+
+(c) Indirect costs Notwithstanding any other provision of law, an Indian tribe shall be entitled to recover 100 percent of any indirect costs incurred by the Indian tribe as a result of the transfer of funds to the Indian tribe under this chapter.
+
+(d) Overage (1) In general All administrative costs may be commingled and participating Indian tribes shall be entitled to the full amount of such costs (under each program or department’s regulations).
+
+(2) Treatment The amount equal to the difference between the amount of the commingled funds and the actual administrative cost of the programs, as described in paragraph (1), shall be considered to be properly spent for Federal audit purposes if the amount is used to achieve the purposes of this chapter.
+
+(e) Matching funds Notwithstanding any other provision of law, any funds transferred to an Indian tribe under this chapter shall be treated as non-Federal funds for purposes of meeting matching requirements under any other Federal law, except those administered by the Department of Labor or the Department of Health and Human Services.
+
+(f) Claims The following provisions of law shall apply to plans approved under this chapter:
+
+(1) Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991 (Public Law 101–512; 104 Stat. 1959 [25 U.S.C. 5321 note]).
+
+(2) Chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”).
+
+(g) Interest or other income (1) In general An Indian tribe shall be entitled to retain interest earned on any funds transferred to the tribe under an approved plan and such interest shall not diminish the amount of funds the Indian tribe is authorized to receive under the plan in the year the interest is earned or in any subsequent fiscal year.
+
+(2) Prudent investment Funds transferred under a plan shall be managed in accordance with the prudent investment standard.
+
+(Pub. L. 102–477, § 14, Oct. 23, 1992, 106 Stat. 2305; Pub. L. 115–93, § 14, Dec. 18, 2017, 131 Stat. 2035.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Pub. L. 115–93 substituted “Administration of funds” for “Administration of funds and overage” in section catchline, added subsecs. (a) to (c) and (e) to (g), redesignated former subsec. (b) as (d) and designated existing provisions as par. (1), inserted heading, substituted “regulations)” for “regulations), and no overage shall be counted for Federal audit purposes, provided that the overage is used for the purposes provided for under this chapter”, and added par. (2), and struck out former subsec. (a) which related to administration of funds.

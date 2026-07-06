@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3096"
+description: "Specificity of National Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3096"
+citation: "50 U.S.C. § 3096"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3096"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "9d07a793903c4bf7852e439e5bef2c4f26844babdfdd1961de7f496a3676d660"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "44189f5e76ca79399b182f15e3acc5c41182f0def6208bf1fbb99c8a1b103579"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3096 - Specificity of National Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence
+
+## Text
+
+(a) In general The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted to Congress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
+
+(1) Counterterrorism.
+
+(2) Counterproliferation.
+
+(3) Counternarcotics.
+
+(4) Counterintelligence.
+
+(b) Election of classified or unclassified form Amounts set forth under subsection (a) may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.
+
+(July 26, 1947, ch. 343, title V, § 506, as added Pub. L. 107–306, title III, § 311(a), Nov. 27, 2002, 116 Stat. 2390; amended Pub. L. 108–458, title I, § 1074(b)(1)(A), Dec. 17, 2004, 118 Stat. 3694; Pub. L. 112–87, title V, § 505(2), Jan. 3, 2012, 125 Stat. 1897.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 415a of this title prior to editorial reclassification and renumbering as this section.
+
+Amendments2012—Subsec. (b). Pub. L. 112–87 substituted “Director of National Intelligence.” for “Director of Central Intelligence.” 2004—Pub. L. 108–458, § 1074(b)(1)(A)(ii), struck out “Foreign” before “Intelligence” in section catchline. Subsec. (a). Pub. L. 108–458, § 1074(b)(1)(A)(i), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2004 AmendmentFor Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title. Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+Inclusion of Counternarcotics as Special Topic in Certain Budget Justification MaterialsPub. L. 118–31, div. G, title III, § 7320, Dec. 22, 2023, 137 Stat. 1036, as amended by Pub. L. 119–60, div. F, title LXVIII, § 6804(b)(3), Dec. 18, 2025, 139 Stat. 1657, provided that: “(a) Inclusion of Counternarcotics as Special Topic.—For the purposes of the congressional budget justification book for the National Intelligence Program (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) for each of fiscal years 2025 through 2026, and for any subsequent fiscal year as the Director of National Intelligence determines appropriate, information with respect to the aggregate amount of funding requested for counternarcotics required to be included as part of the budget justification materials submitted to Congress under section 506(a)(3) of such Act [50 U.S.C. 3096(a)(3)] shall be included as a provision relating to a special topic in such congressional budget justification book. “(b) Contents.—With respect to a fiscal year, the special topic provision included in the congressional budget justification book pursuant to subsection (a) regarding the aggregate amount of funding requested for counternarcotics shall include—“(1) a summary of the main activities and investments that such requested funding would support; “(2) a breakdown of such requested funding by program, budget category, intelligence discipline, and any other appropriate classification; “(3) a comparison of aggregate requested funding and aggregate enacted funding for counternarcotics for the current fiscal year and the previous fiscal year; “(4) the number of full-time equivalent civilian and military personnel assigned to the counternarcotics mission of the intelligence community; and “(5) such other information as the Director of National Intelligence determines appropriate.” [For definition of “intelligence community” as used in section 7320 of Pub. L. 118–31, set out above, see section 7002 of Pub. L. 118–31, set out as a note under section 3003 of this title.]

@@ -1,0 +1,103 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 262p–8"
+description: "Modification of the Enhanced HIPC Initiative"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "7"
+chapter_name: "INTERNATIONAL BUREAUS, CONGRESSES, ETC."
+section: "262p–8"
+citation: "22 U.S.C. § 262p–8"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s262p–8"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "0385efccf4816ce0f6f0d08739f9b7cddbe5f9c578207d8b1e1a4e01f24f2499"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "2f85573388e531e1c71a11fd616ab8bc262b2b9eda955e9fa0df89e3afce7f52"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 262p–8 - Modification of the Enhanced HIPC Initiative
+
+## Text
+
+(a) Authority (1) In general The Secretary of the Treasury should immediately commence efforts within the Paris Club of Official Creditors, the International Bank for Reconstruction and Development, the International Monetary Fund, and other appropriate multilateral development institutions to modify the Enhanced HIPC Initiative so that the amount of debt stock reduction approved for a country eligible for debt relief under the Enhanced HIPC Initiative shall be sufficient to reduce, for each of the first 3 years after May 27, 2003, or the Decision Point, whichever is later—
+
+(A) the net present value of the outstanding public and publicly guaranteed debt of the country—
+
+(i) as of the decision point 11 So in original. The words “decision point” probably should be capitalized. if the country has already reached its decision point; 1 or
+
+(ii) as of May 27, 2003, if the country has not reached its decision point,1
+
+to not more than 150 percent of the annual value of exports of the country for the year preceding the Decision Point; and
+
+(B) the annual payments due on such public and publicly guaranteed debt to not more than—
+
+(i) 10 percent or, in the case of a country suffering a public health crisis (as defined in subsection (e)), not more than 5 percent, of the amount of the annual current revenues received by the country from internal resources; or
+
+(ii) a percentage of the gross national product of the country, or another benchmark, that will yield a result substantially equivalent to that which would be achieved through application of clause (i).
+
+(2) Limitation In financing the objectives of the Enhanced HIPC Initiative, an international financial institution shall give priority to using its own resources.
+
+(b) Relation to poverty and the environment Debt cancellation under the modifications to the Enhanced HIPC Initiative described in subsection (a) should not be conditioned on any agreement by an impoverished country to implement or comply with policies that deepen poverty or degrade the environment, including any policy that—
+
+(1) implements or extends user fees on primary education or primary health care, including prevention and treatment efforts for HIV/AIDS, tuberculosis, malaria, and infant, child, and maternal well-being;
+
+(2) provides for increased cost recovery from poor people to finance basic public services such as education, health care, clean water, or sanitation;
+
+(3) reduces the country’s minimum wage to a level of less than $2 per day or undermines workers’ ability to exercise effectively their internationally recognized worker rights, as defined under section 262p–4p of this title; 22 See References in Text note below. or
+
+(4) promotes unsustainable extraction of resources or results in reduced budget support for environmental programs.
+
+(c) Conditions A country shall not be eligible for cancellation of debt under modifications to the Enhanced HIPC Initiative described in subsection (a) if the government of the country—
+
+(1) has an excessive level of military expenditures;
+
+(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 4605(j)(1) 2 of title 50 or section 2371(a) of this title;
+
+(3) is failing to cooperate on international narcotics control matters; or
+
+(4) engages in a consistent pattern of gross violations of internationally recognized human rights (including its military or other security forces).
+
+(d) Programs to combat HIV/AIDS and poverty A country that is otherwise eligible to receive cancellation of debt under the modifications to the Enhanced HIPC Initiative described in subsection (a) may receive such cancellation only if the country has agreed—
+
+(1) to ensure that the financial benefits of debt cancellation are applied to programs to combat HIV/AIDS and poverty, in particular through concrete measures to improve basic services in health, education, nutrition, and other development priorities, and to redress environmental degradation;
+
+(2) to ensure that the financial benefits of debt cancellation are in addition to the government’s total spending on poverty reduction for the previous year or the average total of such expenditures for the previous 3 years, whichever is greater;
+
+(3) to implement transparent and participatory policymaking and budget procedures, good governance, and effective anticorruption measures; and
+
+(4) to broaden public participation and popular understanding of the principles and goals of poverty reduction.
+
+(e) Definitions In this section:
+
+(1) Country suffering a public health crisis The term “country suffering a public health crisis” means a country in which the HIV/AIDS infection rate, as reported in the most recent epidemiological data for that country compiled by the Joint United Nations Program on HIV/AIDS, is at least 5 percent among women attending prenatal clinics or more than 20 percent among individuals in groups with high-risk behavior.
+
+(2) Decision Point The term “Decision Point” means the date on which the executive boards of the International Bank for Reconstruction and Development and the International Monetary Fund review the debt sustainability analysis for a country and determine that the country is eligible for debt relief under the Enhanced HIPC Initiative.
+
+(3) Enhanced HIPC Initiative The term “Enhanced HIPC Initiative” means the multilateral debt initiative for heavily indebted poor countries presented in the Report of G–7 Finance Ministers on the Cologne Debt Initiative to the Cologne Economic Summit, Cologne, June 18–20, 1999.
+
+(Pub. L. 95–118, title XVI, § 1625, as added Pub. L. 108–25, title V, § 501, May 27, 2003, 117 Stat. 747; amended Pub. L. 108–199, div. D, title V, § 596, Jan. 23, 2004, 118 Stat. 209.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 262p–4p of this title, referred to in subsec. (b)(3), was in the original “section 526(e) of the Foreign Operations, Export Financing and Related Programs Appropriations Act, 1995 (22 U.S.C. 262p–4p)” meaning section 526(e) of Pub. L. 103–306, which was translated as reading section 1621 of Pub. L. 95–118 which was enacted by section 526(e) of Pub. L. 103–306 and is classified to section 262p–4p of this title, to reflect the probable intent of Congress. Section 4605(j)(1) of title 50, referred to subsec. (c)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+Codification May 27, 2003, referred to in subsec. (a)(1)(A)(ii), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–25, which enacted this section, to reflect the probable intent of Congress.
+
+Amendments2004—Subsec. (a)(1)(B)(ii). Pub. L. 108–199 substituted “clause (i)” for “subparagraph (A)”.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions The definitions in section 262p–5 of this title apply to this section.

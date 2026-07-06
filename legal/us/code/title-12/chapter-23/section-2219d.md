@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 2219d"
+description: "Encouragement of conservation practices"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "23"
+chapter_name: "FARM CREDIT SYSTEM"
+section: "2219d"
+citation: "12 U.S.C. § 2219d"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s2219d"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "d0d4513f15cbe746dc8ff58d244e58e36100a080d7a6c84483c15d27aef96693"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "4f6384aa75d7469a9f77334aaee3a3841f00fe5544396cc856c471ec7239f2f6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 2219d - Encouragement of conservation practices
+
+## Text
+
+At the time a System institution or an agricultural mortgage loan originator (as defined in section 2279aa of this title) approves a loan made to a borrower that, in the opinion of the institution or originator, would be ineligible for a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) by reason of subtitle B or C of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.), the institution or originator, as the case may be, shall encourage the borrower to contact the Department of Agriculture Soil Conservation Service to obtain information about soil conservation methods and practices.
+
+(Pub. L. 92–181, title IV, § 4.39, formerly § 4.38, as added Pub. L. 100–233, title IV, § 428, Jan. 6, 1988, 101 Stat. 1658; renumbered § 4.39, Pub. L. 100–399, title IV, § 413, Aug. 17, 1988, 102 Stat. 1004; amended Pub. L. 115–334, title V, § 5411(27), Dec. 20, 2018, 132 Stat. 4682.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables. The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Food Security Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7 and Tables.
+
+Amendments2018—Pub. L. 115–334 substituted “section 2279aa of this title)” for “section 2279aa(7) of this title)”.

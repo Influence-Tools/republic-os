@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 10382"
+description: "Applications"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "101"
+chapter_name: "JUSTICE SYSTEM IMPROVEMENT"
+section: "10382"
+citation: "34 U.S.C. § 10382"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s10382"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "80c4bd9b8662f786c994709dd5df0fd9d28986770da7c505598f71479cec4f15"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "ad4e845117a5db741fd832b7e6c6d5cbd2f5efc3ff05399ef4f858567f43f8a9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 10382 - Applications
+
+## Text
+
+(a) In general No grant may be made under this subchapter unless an application has been submitted to, and approved by, the Attorney General.
+
+(b) Application An application for a grant under this subchapter shall be submitted in such form, and contain such information, as the Attorney General may prescribe by regulation or guidelines.
+
+(c) Contents In accordance with the regulations or guidelines established by the Attorney General, each application for a grant under this subchapter shall—
+
+(1) include a long-term strategy and detailed implementation plan that reflects consultation with community groups and appropriate private and public agencies;
+
+(2) demonstrate a specific public safety need;
+
+(3) explain the applicant’s inability to address the need without Federal assistance;
+
+(4) identify related governmental and community initiatives which complement or will be coordinated with the proposal;
+
+(5) certify that there has been appropriate coordination with all affected agencies;
+
+(6) outline the initial and ongoing level of community support for implementing the proposal including financial and in-kind contributions or other tangible commitments;
+
+(7) specify plans for obtaining necessary support and continuing the proposed program, project, or activity following the conclusion of Federal support;
+
+(8) if the application is for a grant for hiring or rehiring additional career law enforcement officers, specify plans for the assumption by the applicant of a progressively larger share of the cost in the course of time, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support;
+
+(9) assess the impact, if any, of the increase in police resources on other components of the criminal justice system;
+
+(10) explain how the grant will be utilized to reorient the affected law enforcement agency’s mission toward community-oriented policing or enhance its involvement in or commitment to community-oriented policing; and
+
+(11) provide assurances that the applicant will, to the extent practicable, seek, recruit, and hire members of racial and ethnic minority groups and women in order to increase their ranks within the sworn positions in the law enforcement agency.
+
+(d) Special provisions (1) Small jurisdictions Notwithstanding any other provision of this subchapter, in relation to applications under this subchapter of units of local government or law enforcement agencies having jurisdiction over areas with populations of less than 50,000, the Attorney General may waive 1 or more of the requirements of subsection (c) and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
+
+(2) Small grant amount Notwithstanding any other provision of this subchapter, in relation to applications under section 10381(b) of this title for grants of less than $1,000,000, the Attorney General may waive 1 or more of the requirements of subsection (c) and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
+
+(Pub. L. 90–351, title I, § 1702, as added Pub. L. 103–322, title I, § 10003(a)(3), Sept. 13, 1994, 108 Stat. 1811; amended Pub. L. 109–162, title XI, §§ 1111(c)(2)(I), 1163(b), Jan. 5, 2006, 119 Stat. 3102, 3120.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 3796dd–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
+
+Amendments2006—Subsec. (c)(1). Pub. L. 109–162, § 1111(c)(2)(I), struck out “and reflects consideration of the statewide strategy under section 3753(a)(1) of this title” before semicolon at end. Subsec. (d)(2). Pub. L. 109–162, § 1163(b), substituted “section 3796dd(b)” for “section 3796dd(d)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2006 AmendmentAmendment by section 1111(c)(2)(I) of Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.

@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 1584"
+description: "Sale into involuntary servitude"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "77"
+chapter_name: "PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS"
+section: "1584"
+citation: "18 U.S.C. § 1584"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s1584"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "5139a870ad6fbdd79762ff8cf5e2c1f0c3153c5ffa62805a5041a4f747a9b862"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "50f1d045679007989dff8a9ee3c7c4124fbe0a83293f24ff80f2b9894e94fd4e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 1584 - Sale into involuntary servitude
+
+## Text
+
+(a) Whoever knowingly and willfully holds to involuntary servitude or sells into any condition of involuntary servitude, any other person for any term, or brings within the United States any person so held, shall be fined under this title or imprisoned not more than 20 years, or both. If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.
+
+(b) Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (a).
+
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, § 112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, § 222(b)(2), Dec. 23, 2008, 122 Stat. 5068.)
+
+## Notes
+
+Historical and Revision NotesBased on title 18, U.S.C., 1940 ed., §§ 423, 446 (Mar. 4, 1909, ch. 321, §§ 248, 271, 35 Stat. 1139, 1142). Sections consolidated with changes of phraseology necessary to effect consolidation. Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title. Provisions as to holding of kidnapped persons were omitted as superseded by section 1201 of this title and original text relating to sale or holding to involuntary servitude retained. Words “within the United States” were substituted for “within the jurisdiction of the United States”. (See section 5 of this title defining “United States”.) The punishment provisions were derived from section 446 of title 18, U.S.C., 1940 ed., as more consistent with other sections of this chapter. The requirement of section 423 of title 18, U.S.C., 1940 ed., for payment of one-half the fine “for the use of the person prosecuting the indictment to effect” was omitted as meaningless. (See also reviser’s note under section 1585 of this title.) Mandatory-punishment provisions were rephrased in the alternative. Minor changes were made in phraseology.
+
+Editorial Notes
+
+Amendments2008—Pub. L. 110–457 designated existing provisions as subsec. (a) and added subsec. (b). 2000—Pub. L. 106–386 substituted “20 years” for “10 years” and inserted at end “If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.” 1996—Pub. L. 104–208 substituted “10 years” for “five years”. 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1996 AmendmentAmendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 218(d) of Pub. L. 104–208, set out as a note under section 1581 of this title.

@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 3053"
+description: "Powers of marshals and deputies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "203"
+chapter_name: "ARREST AND COMMITMENT"
+section: "3053"
+citation: "18 U.S.C. § 3053"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s3053"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "dcfc2bd0af9a1f3e28966d61fa63efc171c8b89a93f6ec73fa268bf9a095060f"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "5789a2927e6c4b0ba478d020c7e6e84ba77f6bde4ff43240eb8604e71ab64953"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 3053 - Powers of marshals and deputies
+
+## Text
+
+United States marshals and their deputies may carry firearms and may make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony.
+
+(June 25, 1948, ch. 645, 62 Stat. 817.)
+
+## Notes
+
+Historical and Revision NotesBased on section 504a of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 15, 1935, ch. 259, § 2, 49 Stat. 378). Minor changes were made in phraseology.
+
+Executive Documents
+
+Transfer of Functions Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.

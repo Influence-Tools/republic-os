@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2314a"
+description: "Technical assistance program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2314a"
+citation: "33 U.S.C. § 2314a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2314a"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "523a9d71483a3af3ca21f2040d527e973af52a00595d8ab7af7e787bd22bf790"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "0f2a5ab3a2e8e2cd18708452d14c822812738bece0c2b2cfbebbde74873d202d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2314a - Technical assistance program
+
+## Text
+
+(a) In general The Secretary is authorized to provide technical assistance, on a nonexclusive basis, to any United States firm which is competing for, or has been awarded, a contract for the planning, design, or construction of a project outside the United States, if the United States firm provides, in advance of fiscal obligation by the United States, funds to cover all costs of such assistance. In determining whether to provide such assistance, the Secretary shall consider the effects on the Department of the Army civil works mission, personnel, and facilities. Prior to the Secretary providing such assistance, a United States firm must—
+
+(1) certify to the Secretary that such assistance is not otherwise reasonably and expeditiously available; and
+
+(2) agree to hold and save the United States free from damages due to the planning, design, construction, operation, or maintenance of the project.
+
+(b) Federal employees’ inventions As to an invention made or conceived by a Federal employee while providing assistance pursuant to this section, if the Secretary decides not to retain all rights in such invention, the Secretary may—
+
+(1) grant or agree to grant in advance, to a United States firm, a patent license or assignment, or an option thereto, retaining a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the United States and such other rights as the Secretary deems appropriate; or
+
+(2) waive, subject to reservation by the United States of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the United States, in advance, in whole, or in part, any right which the United States may have to such invention.
+
+(c) Protection of confidential information Information of a confidential nature, such as proprietary or classified information, provided to a United States firm pursuant to this section shall be protected. Such information may be released by a United States firm only after written approval by the Secretary.
+
+(d) Definitions For purposes of this section—
+
+(1) United States firm The term “United States firm” means a corporation, partnership, limited partnership, or sole proprietorship that is incorporated or established under the laws of any of the United States with its principal place of business in the United States.
+
+(2) United States The term “United States”, when used in a geographical sense, means the several States of the United States and the District of Columbia.
+
+(Pub. L. 100–676, § 9, Nov. 17, 1988, 102 Stat. 4024; Pub. L. 101–640, title III, § 318(c), Nov. 28, 1990, 104 Stat. 4642.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly set out as a note under section 2314 of this title. Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+Amendments1990—Pub. L. 101–640, § 318(c)(1), struck out “demonstration” after “Technical assistance” in section catchline. Subsec. (a). Pub. L. 101–640, § 318(c)(2), struck out “to undertake a demonstration program for a 2-year period, which shall begin within 6 months after the date of enactment of this Act,” after “The Secretary is authorized”. Subsecs. (d), (e). Pub. L. 101–640, § 318(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Within 6 months after the end of the demonstration program authorized by this section, the Secretary shall submit to Congress a report on the results of such demonstration program.”
+
+Statutory Notes and Related Subsidiaries
+
+“Secretary” Defined Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.

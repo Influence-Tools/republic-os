@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "30 U.S.C. § 1292"
+description: "Other Federal laws"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 30
+title_name: "MINERAL LANDS AND MINING"
+chapter_number: "25"
+chapter_name: "SURFACE MINING CONTROL AND RECLAMATION"
+section: "1292"
+citation: "30 U.S.C. § 1292"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc30@119-100.zip"
+source_identifier: "/us/usc/t30/s1292"
+source_file: "data/legal/raw/us/code/title-30/usc30.xml"
+source_hash: "bf2fe1f3248c2fa8cfb9351cee27242fe0106d6cfb2c3775c47cffcb3e01429a"
+raw_snapshot_hash: "355f8eb5c6ad5372de4a8e665d9ed90202d53d2aac19ac001d43948af4a4dd2f"
+text_hash: "e1ccd9fcc2a9a26bbdbb142d6f07a20e5eafffd9f5e47b087b3c5c4e01f8b416"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 30 U.S.C. § 1292 - Other Federal laws
+
+## Text
+
+(a) Construction of chapter as superseding, amending, modifying, or repealing certain laws Nothing in this chapter shall be construed as superseding, amending, modifying, or repealing the Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), the National Environmental Policy Act of 1969 (42 U.S.C. 4321–47), or any of the following Acts or with any rule or regulation promulgated thereunder, including, but not limited to—
+
+(1) The Federal Metal and Nonmetallic Mine Safety Act (30 U.S.C. 721–740).
+
+(2) The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742) [30 U.S.C. 801 et seq.].
+
+(3) The Federal Water Pollution Control Act (79 Stat. 903), as amended [33 U.S.C. 1251 et seq.], the State laws enacted pursuant thereto, or other Federal laws relating to preservation of water quality.
+
+(4) The Clean Air Act, as amended [42 U.S.C. 7401 et seq.].
+
+(5) The Solid Waste Disposal Act [42 U.S.C. 6901 et seq.].
+
+(6) The Refuse Act of 1899 (33 U.S.C. 407).
+
+(7) The Fish and Wildlife Coordination Act of 1934 (16 U.S.C. 661–666c).
+
+(8) The Mineral Leasing Act of 1920, as amended (30 U.S.C. 181 et seq.).
+
+(b) Effect on authority of Secretary or heads of other Federal agencies Nothing in this chapter shall affect in any way the authority of the Secretary or the heads of other Federal agencies under other provisions of law to include in any lease, license, permit, contract, or other instrument such conditions as may be appropriate to regulate surface coal mining and reclamation operations on land under their jurisdiction.
+
+(c) Cooperation To the greatest extent practicable each Federal agency shall cooperate with the Secretary and the States in carrying out the provisions of this chapter.
+
+(d) Major Federal action Approval of the State programs, pursuant to section 1253(b) of this title, promulgation of Federal programs, pursuant to section 1254 of this title, and implementation of the Federal lands programs, pursuant to section 1273 of this title, shall not constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332). Adoption of regulations under section 1251(b) of this title shall constitute a major action within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
+
+(Pub. L. 95–87, title VII, § 702, Aug. 3, 1977, 91 Stat. 519.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Mining and Minerals Policy Act of 1970 (30 U.S.C. 21a), referred to in subsec. (a), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which enacted section 21a of this title and provisions set out as a note under section 21a of this title. For complete classification of this Act to the Code, see Short Title note set out under section 21a of this title and Tables. The National Environmental Policy Act of 1969 (42 U.S.C. 4321–47), referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Federal Metal and Nonmetallic Mine Safety Act (30 U.S.C. 721–740), referred to in subsec. (a)(1), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322. The Federal Coal Mine Health and Safety Act of 1969 (83 Stat. 742), referred to in subsec. (a)(2), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables. The Federal Water Pollution Control Act (79 Stat. 903), referred to in subsec. (a)(3), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables. The Clean Air Act, referred to in subsec. (a)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables. The Solid Waste Disposal Act (42 U.S.C. 3251–3259), referred to in subsec. (a)(5), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables. The Refuse Act of 1899 (33 U.S.C. 407), referred to in subsec. (a)(6), probably means act Mar. 3, 1899, ch. 425, § 13, 30 Stat. 1152, which enacted section 407 of Title 33, Navigation and Navigable Waters. The Fish and Wildlife Coordination Act of 1934 (16 U.S.C. 661–666c), referred to in subsec. (a)(7), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables. The Mineral Leasing Act of 1920, as amended (30 U.S.C. 181 et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.

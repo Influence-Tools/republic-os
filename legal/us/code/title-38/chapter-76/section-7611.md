@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 7611"
+description: "Authority for program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "76"
+chapter_name: "HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM"
+section: "7611"
+citation: "38 U.S.C. § 7611"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s7611"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "15ffbaa774afb7e9081087eaa301a184e7e37c323b6c31817a2ab078140de818"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "9eef59bd56eb0bfaa2754e3bb7354e5d767785422d1e4553c12cc8ea0f6b3d97"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 7611 - Authority for program
+
+## Text
+
+As part of the Educational Assistance Program, the Secretary shall carry out a scholarship program under this subchapter. The program shall be known as the Department of Veterans Affairs Health Professional Scholarship Program (hereinafter in this chapter referred to as the “Scholarship Program”).
+
+(Added Pub. L. 100–322, title II, § 216(b), May 20, 1988, 102 Stat. 520, § 4311; renumbered § 7611, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(2)(B)(vi), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1991—Pub. L. 102–40 renumbered section 4311 of this title as this section. Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department of Veterans Affairs” for “Veterans’ Administration”.
+
+Statutory Notes and Related Subsidiaries
+
+Expansion of Health Professional Scholarship ProgramPub. L. 117–328, div. V, title I, § 104(a), Dec. 29, 2022, 136 Stat. 5500, provided that: “Beginning in academic year 2022, the Secretary of Veterans Affairs shall include not fewer than an additional (as compared to academic year 2021) 50 awards per academic year under the Department of Veterans Affairs Health Professional Scholarship Program under subchapter II of chapter 76 of title 38, United States Code, for applicants otherwise eligible for such program who are pursuing degrees or training in mental health disciplines, including advanced practice nursing (with a focus on mental health or substance use disorder), psychology, and social work.”
+
+Submission of Overdue ReportPub. L. 105–114, title II, § 207(b), Nov. 21, 1997, 111 Stat. 2289, required the Secretary of Veterans Affairs to submit to Congress, not later than 180 days after Nov. 21, 1997, the report evaluating the operation of the health professional scholarship program that was required to be submitted not later than Mar. 31, 1997.
+
+Health Professional Scholarship ProgramPub. L. 104–110, title II, § 202(b), Feb. 13, 1996, 110 Stat. 770, provided that the Secretary was to submit to Congress, not later than Mar. 31, 1997, a report setting forth the results of a study evaluating the operation of the health professional scholarship program under this subchapter and provided that the study was to evaluate the efficacy of the program with respect to recruitment and retention of health care personnel for the Department of Veterans Affairs and was to compare the costs and benefits of the program with the costs and benefits of alternative methods of ensuring adequate recruitment and retention of such personnel.

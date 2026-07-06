@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 1154"
+description: "Discovery and use of cockpit and surface vehicle recordings and transcripts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "11"
+chapter_name: "NATIONAL TRANSPORTATION SAFETY BOARD"
+section: "1154"
+citation: "49 U.S.C. § 1154"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s1154"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "f9bf4484fafb92c2342be05230b6b24f1a49234d87116b2deaded30b643a65e8"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "bbdc9ad0ee972a54c7ba2f79dc8da6d7dc412c8a0eb2a5bf29eaeae98f6a625f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 1154 - Discovery and use of cockpit and surface vehicle recordings and transcripts
+
+## Text
+
+(a) In General.— (1) Except as provided by this subsection, a party in a judicial proceeding may not use discovery to obtain—
+
+(A) any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title;
+
+(B) any part of a cockpit or surface vehicle recorder transcript that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title; and
+
+(C) a cockpit or surface vehicle recorder recording.
+
+(2) (A) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recorder transcript if, after an in camera review of the transcript, the court decides that—
+
+(i) the part of the transcript made available to the public under section 1114(c) or 1114(d) of this title does not provide the party with sufficient information for the party to receive a fair trial; and
+
+(ii) discovery of additional parts of the transcript is necessary to provide the party with sufficient information for the party to receive a fair trial.
+
+(B) A court may allow discovery, or require production for an in camera review, of a cockpit or surface vehicle recorder transcript that the Board has not made available under section 1114(c) or 1114(d) of this title only if the cockpit or surface vehicle recorder recording is not available.
+
+(3) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title, if, after an in camera review of the recording, the court decides that—
+
+(A) the parts of the transcript made available to the public under section 1114(c) or 1114(d) of this title and to the party through discovery under paragraph (2) of this subsection do not provide the party with sufficient information for the party to receive a fair trial; and
+
+(B) discovery of the cockpit or surface vehicle recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title, is necessary to provide the party with sufficient information for the party to receive a fair trial.
+
+(4) (A) When a court allows discovery in a judicial proceeding of a still image or a part of a cockpit or surface vehicle recorder transcript not made available to the public under section 1114(c) or 1114(d) of this title or a cockpit or surface vehicle recorder recording, the court shall issue a protective order—
+
+(i) to limit the use of the still image, the part of the transcript, or the recording to the judicial proceeding; and
+
+(ii) to prohibit dissemination of the still image, the part of the transcript, or the recording to any person that does not need access to the still image, the part of the transcript, or the recording for the proceeding.
+
+(B) A court may allow a still image or a part of a cockpit or surface vehicle recorder transcript not made available to the public under section 1114(c) or 1114(d) of this title or a cockpit or surface vehicle recorder recording to be admitted into evidence in a judicial proceeding, only if the court places the still image, the part of the transcript, or the recording under seal to prevent the use of the still image, the part of the transcript, or the recording for purposes other than for the proceeding.
+
+(5) This subsection does not prevent the Board from referring at any time to cockpit or surface vehicle recorder information in making safety recommendations.
+
+(6) In this subsection:
+
+(A) Recorder.— The term “recorder” means a voice or video recorder.
+
+(B) Still image.— The term “still image” means any still image obtained from a video recorder.
+
+(C) Transcript.— The term “transcript” includes any written depiction of visual information obtained from a video recorder.
+
+(b) Reports.— No part of a report of the Board, related to an accident or an investigation of an accident, may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
+
+(Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 757; Pub. L. 106–424, § 5(c)(1), Nov. 1, 2000, 114 Stat. 1885; Pub. L. 115–254, div. C, § 1104(b), Oct. 5, 2018, 132 Stat. 3430.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 1154(a)49 App.:1905(c)(3), (d).Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, § 306(c)(3), (d); added Oct. 14, 1982, Pub. L. 97–309, § 2, 96 Stat. 1453; restated Nov. 28, 1990, Pub. L. 101–641, § 4, 104 Stat. 4655. 1154(b)49 App.:1441(e).Aug. 23, 1958, Pub. L. 85–726, § 701(e), 72 Stat. 781.  49 App.:1655(d) (1st sentence).Oct. 15, 1966, Pub. L. 89–670, § 6(d) (1st sentence), 80 Stat. 938.  49 App.:1903(a)(1)(A), (c).Jan. 3, 1975, Pub. L. 93–633, § 304(a)(1)(A), (c), 88 Stat. 2168, 2171. In subsection (a), the word “transcript” is substituted for “transcriptions” for clarity. In subsection (a)(1)(A), the words “that the National Transportation Safety Board has not made available to the public” are substituted for “other than such portions made available to the public by the Board” for clarity. In subsection (a)(2)(B), the words “prepared by or under the direction of the Board” are omitted as unnecessary and for consistency with the source provisions restated in this subsection. In subsection (b), the words “civil action” are substituted for “suit or action” in 49 App.:1441(e) and 1903(c) for consistency with the Federal Rules of Civil Procedure (28 App. U.S.C.).
+
+Editorial Notes
+
+Amendments2018—Subsec. (a). Pub. L. 115–254, § 1104(b)(1), substituted “In General” for “Transcripts and Recordings” in heading. Subsec. (a)(1). Pub. L. 115–254, § 1104(b)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively. Subsec. (a)(3). Pub. L. 115–254, § 1104(b)(3), substituted “recorder recording, including with regard to a video recording any still image that the National Transportation Safety Board has not made available to the public under section 1114(c) or 1114(d) of this title,” for “recorder recording” in introductory provisions and in subpar. (B). Subsec. (a)(4)(A). Pub. L. 115–254, § 1104(b)(4), inserted “a still image or” before “a part of a cockpit” in introductory provisions and substituted “the still image, the part of the transcript, or the recording” for “the part of the transcript or the recording” wherever appearing. Subsec. (a)(4)(B). Pub. L. 115–254, § 1104(b)(4)(B), inserted “a still image or” before “a part of a cockpit” and substituted “the still image, the part of the transcript, or the recording” for “the part of the transcript or the recording” in two places. Subsec. (a)(6)(B), (C). Pub. L. 115–254, § 1104(b)(5), added subpar. (B) and redesignated former subpar. (B) as (C). 2000—Pub. L. 106–424, § 5(c)(1)(A), substituted “and surface vehicle recordings and transcripts” for “voice and other material” in section catchline. Subsec. (a). Pub. L. 106–424, § 5(c)(1)(B), substituted “cockpit or surface vehicle recorder” for “cockpit voice recorder” wherever appearing. Pub. L. 106–424, § 5(c)(1)(C), substituted “section 1114(c) or 1114(d)” for “section 1114(c)” wherever appearing. Subsec. (a)(6). Pub. L. 106–424, § 5(c)(1)(D), which directed the amendment of this section by adding par. (6) at the end, was executed by adding par. (6) at the end of subsec. (a) to reflect the probable intent of Congress.

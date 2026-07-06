@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1862o–9"
+description: "Broader impacts merit review criterion"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "16"
+chapter_name: "NATIONAL SCIENCE FOUNDATION"
+section: "1862o–9"
+citation: "42 U.S.C. § 1862o–9"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1862o–9"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "515f25d0bd28a7095efd2a78105c31d51c60c8d244b32873b77fd1749b489a17"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "55bf180d779c42820cc80d2325c76c58c4acb2a27b5a7c8e154732f75d974a73"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1862o–9 - Broader impacts merit review criterion
+
+## Text
+
+(a) In general Among the types of activities that the Foundation shall consider as appropriate for meeting the requirements of its broader impacts criterion for the evaluation of research proposals are partnerships between academic researchers and industrial scientists and engineers that address research areas identified as having high importance for future national economic competitiveness, such as nanotechnology.
+
+(b) Report on broader impacts criterion Not later than 1 year after August 9, 2007, the Director shall transmit to Congress a report on the impact of the broader impacts grant criterion used by the Foundation. The report shall—
+
+(1) identify the criteria that each division and directorate of the Foundation uses to evaluate the broader impacts aspects of research proposals;
+
+(2) provide a breakdown of the types of activities by division that awardees have proposed to carry out to meet the broader impacts criterion;
+
+(3) provide any evaluations performed by the Foundation to assess the degree to which the broader impacts aspects of research proposals were carried out and how effective they have been at meeting the goals described in the research proposals;
+
+(4) describe what national goals, such as improving undergraduate science, technology, engineering, and mathematics education, improving kindergarten through grade 12 science and mathematics education, promoting university-industry collaboration, and broadening participation of underrepresented groups, the broader impacts criterion is best suited to promote; and
+
+(5) describe what steps the Foundation is taking and should take to use the broader impacts criterion to improve undergraduate science, technology, engineering, and mathematics education.
+
+(Pub. L. 110–69, title VII, § 7022, Aug. 9, 2007, 121 Stat. 686.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of terms used in this section, see section 7001 of Pub. L. 110–69, set out as a note under section 1862o of this title.

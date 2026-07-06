@@ -1,0 +1,33 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 42"
+description: "Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "2"
+chapter_name: "OFFICERS OF INDIAN AFFAIRS"
+section: "42"
+citation: "25 U.S.C. § 42"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s42"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "58b476041d0946bee29a3172ec651ffd071edfb37862444968d33165e1be9c6a"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "827912804b166bbd30c807320395895b6456800edc56032e8645f8c413fa6cf1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 42 - Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632
+
+## Notes
+
+Section, R.S. § 2068, provided for interpreters for Indian agencies under Department of the Interior.

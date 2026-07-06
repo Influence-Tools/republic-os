@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "20 U.S.C. § 7703a"
+description: "Impact aid for children with severe disabilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 20
+title_name: "EDUCATION"
+chapter_number: "70"
+chapter_name: "STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS"
+section: "7703a"
+citation: "20 U.S.C. § 7703a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc20@119-100.zip"
+source_identifier: "/us/usc/t20/s7703a"
+source_file: "data/legal/raw/us/code/title-20/usc20.xml"
+source_hash: "f58fbf04259eb9e0b31faed52de72ecf5eb54a6c474e31bf016e4d0d7fe3c1a4"
+raw_snapshot_hash: "6022872c5d6a3398d1728f82f8cefcb58db9f5ff548e2a636450be1e4a8bb052"
+text_hash: "5dec1b23bcea88945216e86478d71ada5f0dcf4972af5edd453544ff171511fd"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 20 U.S.C. § 7703a - Impact aid for children with severe disabilities
+
+## Text
+
+(a) Payments Subject to subsection (f), the Secretary of Defense shall make a payment for fiscal years after fiscal year 2001, to each local educational agency eligible to receive a payment for a child described in subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) 11 See References in Text note below. of this title that serves two or more such children with severe disabilities, for costs incurred in providing a free appropriate public education to each such child.
+
+(b) Payment amount The amount of the payment under subsection (a) to a local educational agency for a fiscal year for each child referred to in such subsection with a severe disability shall be—
+
+(1) the payment made on behalf of the child with a severe disability that is in excess of the average per pupil expenditure in the State in which the local educational agency is located; less
+
+(2) the sum of the funds received by the local educational agency—
+
+(A) from the State in which the child resides to defray the educational and related services for such child;
+
+(B) under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) to defray the educational and related services for such child; and
+
+(C) from any other source to defray the costs of providing educational and related services to the child which are received due to the presence of a severe disabling condition of such child.
+
+(c) Exclusions No payment shall be made under subsection (a) on behalf of a child with a severe disability whose individual cost of educational and related services does not exceed—
+
+(1) five times the national or State average per pupil expenditure (whichever is lower), for a child who is provided educational and related services under a program that is located outside the boundaries of the school district of the local educational agency that pays for the free appropriate public education of the student; or
+
+(2) three times the State average per pupil expenditure, for a child who is provided educational and related services under a program offered by the local educational agency, or within the boundaries of the school district served by the local educational agency.
+
+(d) Ratable reduction If the amount available for a fiscal year for payments under subsection (a) is insufficient to pay the full amount all local educational agencies are eligible to receive under such subsection, the Secretary of Defense shall ratably reduce the amounts of the payments made under such subsection to all local educational agencies by an equal percentage.
+
+(e) Report Each local educational agency desiring a payment under subsection (a) shall report to the Secretary of Defense—
+
+(1) the number of severely disabled children for which a payment may be made under this section; and
+
+(2) a breakdown of the average cost, by placement (inside or outside the boundaries of the school district of the local educational agency), of providing education and related services to such children.
+
+(f) Payments subject to appropriation Payments shall be made for any period in a fiscal year under this section only to the extent that funds are appropriated specifically for making such payments for that fiscal year.
+
+(g) Local educational agency defined In this section, the term “local educational agency” has the meaning given that term in section 7713 of this title.
+
+(Pub. L. 106–398, § 1 [[div. A], title III, § 363], Oct. 30, 2000, 114 Stat. 1654, 1654A–77; Pub. L. 114–95, title IX, § 9215(kk), Dec. 10, 2015, 129 Stat. 2175.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 7703(a)(1) of this title, referred to in subsec. (a), was in the original “section 7003(a)(1)” and was translated as meaning section 7003(a)(1) of the Elementary and Secondary Education Act of 1965, which is classified to section 7703(a)(1) of this title, to reflect the probable intent of Congress. The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
+Codification Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+
+Amendments2015—Subsec. (a). Pub. L. 114–95, § 9215(kk)(1), substituted “subparagraph (A)(ii) or (B), or clause (i) or (ii) of subparagraph (D), of section 7703(a)(1) of this title” for “subparagraph (A)(ii), (B), (D)(i) or (D)(ii) of section 7703(a)(1) of this title”. Subsec. (g). Pub. L. 114–95, § 9215(kk)(2), substituted “section 7713 of this title.” for “section 7713(9) of this title.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2015 AmendmentAmendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.

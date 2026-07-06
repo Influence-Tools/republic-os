@@ -1,0 +1,95 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3871a"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "58"
+chapter_name: "ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM"
+section: "3871a"
+citation: "16 U.S.C. § 3871a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3871a"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "dee6835b19745c2d0d23c5b7c21110846c9fe3d65172b06d5f9b62a42444d1db"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "96ebf390224d63de38fa75d1757d3a8df362cce9f2db7f0f4b7e115e3aefdc3e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3871a - Definitions
+
+## Text
+
+In this subchapter:
+
+(1) Covered program The term “covered program” means the following:
+
+(A) The agricultural conservation easement program.
+
+(B) The environmental quality incentives program.
+
+(C) The conservation stewardship program, not including the grassland conservation initiative under section 3839aa–25 of this title.
+
+(D) The healthy forests reserve program established under section 6571 of this title.
+
+(E) The conservation reserve program established under subpart B of part I of subchapter IV.
+
+(F) The programs established by the Secretary to carry out the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001 et seq.), except for any program established by the Secretary to carry out section 14 (16 U.S.C. 1012) of that Act.
+
+(2) Eligible activity The term “eligible activity” means a practice, activity, agreement, easement, or related conservation measure that is available under the statutory authority for a covered program.
+
+(3) Eligible land The term “eligible land” means any agricultural or nonindustrial private forest land or associated land on which the Secretary determines an eligible activity would help achieve conservation benefits.
+
+(4) Eligible partner The term “eligible partner” means any of the following:
+
+(A) An agricultural or silvicultural producer association or other group of producers.
+
+(B) A State or unit of local government.
+
+(C) An Indian tribe.
+
+(D) A farmer cooperative.
+
+(E) A water district, irrigation district, acequia, rural water district or association, or other organization with specific water delivery authority to producers on agricultural land.
+
+(F) A municipal water or wastewater treatment entity.
+
+(G) An institution of higher education.
+
+(H) An organization or entity with an established history of working cooperatively with producers on agricultural land, as determined by the Secretary, to address—
+
+(i) local conservation priorities related to agricultural production, wildlife habitat development, or nonindustrial private forest land management; or
+
+(ii) critical watershed-scale soil erosion, water quality, sediment reduction, or other natural resource issues.
+
+(I) An organization described in section 3865a(3)(B) of this title.
+
+(J) A conservation district.
+
+(5) Partnership agreement The term “partnership agreement” means the programmatic agreement entered into between the Secretary and an eligible partner, subject to the terms and conditions under section 3871b of this title.
+
+(6) Program The term “program” means the regional conservation partnership program established by this subchapter.
+
+(7) Program contract (A) In general The term “program contract” means the contract between the Secretary and a producer entered into under this subchapter.
+
+(B) Exclusion The term “program contract” does not include a contract under a covered program.
+
+(Pub. L. 99–198, title XII, § 1271A, as added Pub. L. 113–79, title II, § 2401, Feb. 7, 2014, 128 Stat. 745; amended Pub. L. 115–334, title II, § 2702, Dec. 20, 2018, 132 Stat. 4593.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Watershed Protection and Flood Prevention Act, referred to in par. (1)(F), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+
+Amendments2018—Par. (1)(C). Pub. L. 115–334, § 2702(1)(A), inserted “, not including the grassland conservation initiative under section 3839aa–25 of this title” before period at end. Par. (1)(E), (F). Pub. L. 115–334, § 2702(1)(B), added subpars. (E) and (F). Pars. (2), (3). Pub. L. 115–334, § 2702(2), added pars. (2) and (3) and struck out former pars. (2) and (3), which defined “eligible activity” as a conservation activity for specified purposes and types of projects and “eligible land” as specified types of land or associated lands on which agricultural commodities, livestock, or forest-related products are produced. Par. (4)(E). Pub. L. 115–334, § 2702(3)(A), inserted “acequia,” after “irrigation district,”. Par. (4)(I), (J). Pub. L. 115–334, § 2702(3)(B), added subpars. (I) and (J). Par. (5). Pub. L. 115–334, § 2702(4), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The term ‘partnership agreement’ means an agreement entered into under section 3871b of this title between the Secretary and an eligible partner.” Par. (7). Pub. L. 115–334, § 2702(5), added par. (7).

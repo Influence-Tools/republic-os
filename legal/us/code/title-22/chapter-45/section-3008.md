@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 3008"
+description: "Commission staff"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "45"
+chapter_name: "COMMISSION ON SECURITY AND COOPERATION IN EUROPE"
+section: "3008"
+citation: "22 U.S.C. § 3008"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s3008"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "0ae1acebb64917d58175f8596d4b9c03eaeea0cd225b83ecda593afe75732d7d"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "017e9d6e0e52dac5dc58f609f1c4a88aec712aebb543b7883629cd44504d3983"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 3008 - Commission staff
+
+## Text
+
+(a) Personnel and administration committee The Commission shall have a personnel and administration committee composed of the Chairman, the Cochairman, the senior Commission member from the minority party in the House of Representatives, and the senior Commission member from the minority party in the Senate.
+
+(b) Committee functions All decisions pertaining to the hiring, firing, and fixing of pay of Commission staff personnel shall be by a majority vote of the personnel and administration committee, except that—
+
+(1) the Chairman shall be entitled to appoint and fix the pay of the staff director, and the Cochairman shall be entitled to appoint and fix the pay of his senior staff person; and
+
+(2) the Chairman and Cochairman each shall have the authority to appoint, with the approval of the personnel and administration committee, at least four professional staff members who shall be responsible to the Chairman or the Cochairman (as the case may be) who appointed them.
+
+The personnel and administration committee may appoint and fix the pay of such other staff personnel as it deems desirable.
+
+(c) Staff appointments All staff appointments shall be made without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and general schedule pay rates.
+
+(d) Commission employees as congressional employees (1) For purposes of pay and other employment benefits, rights, and privileges and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5.
+
+(2) For purposes of section 3304(i)(1) 11 See References in Text note below. of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
+
+(3) The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976.
+
+(Pub. L. 94–304, § 8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, § 5, Mar. 27, 1985, 99 Stat. 19; Pub. L. 104–186, title II, § 218(3), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 118–188, § 2(a)(2)(B), Dec. 23, 2024, 138 Stat. 2645.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 3304(i)(1) of title 5, referred to in subsec. (d)(2), probably means section 3304(c)(1) of title 5 prior to the amendments made by Pub. L. 104–65, § 16(a), (b), Dec. 19, 1995, 109 Stat. 703, which struck out section 3304(c) of title 5 and redesignated section 3304(d) of title 5 as section 3304(c), and by Pub. L. 118–188, § 2(a)(1)(A), Dec. 23, 2024, 138 Stat. 2644, which redesignated section 3304(c) of title 5 as section 3304(i). Prior to these amendments, section 3304(c)(1) related to acquisition of competitive status by an individual who served for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives. After amendment, section 3304(i)(1) of title 5 defines “technician”.
+
+Amendments2024—Subsec. (d)(2). Pub. L. 118–188 substituted “3304(i)(1)” for “3304(c)(1)”. 1996—Subsec. (d)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”. 1985—Subsecs. (a), (b). Pub. L. 99–7, in amending section generally, added subsecs. (a) and (b). Subsec. (c). Pub. L. 99–7, in amending section generally, designated existing provisions as subsec. (c) and substituted “All staff appointments shall be made” for “The Commission may appoint and fix the pay of such staff personnel as it deems desirable,”. Subsec. (d). Pub. L. 99–7, in amending section generally, added subsec. (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1985 AmendmentAmendment by Pub. L. 99–7 effective Apr. 15, 1985, except for enactment of subsec. (d) which was effective June 3, 1976, see section 6(a), (b)(2) of Pub. L. 99–7, set out as a note under section 3002 of this title.

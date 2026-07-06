@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "15 U.S.C. § 6735"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 15
+title_name: "COMMERCE AND TRADE"
+chapter_number: "93"
+chapter_name: "INSURANCE"
+section: "6735"
+citation: "15 U.S.C. § 6735"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc15@119-100.zip"
+source_identifier: "/us/usc/t15/s6735"
+source_file: "data/legal/raw/us/code/title-15/usc15.xml"
+source_hash: "3dffacb0c7617817b37676db890e5d345ad476cd117122b922204a29fa577163"
+raw_snapshot_hash: "6982338d990ef19d6b52bff6825089bdd6d0ee1233d9382673faf533decd5059"
+text_hash: "5c7b58ea08b6705e697ee8d5d54634ac60a0851aed5244297357781f1f4cee52"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 15 U.S.C. § 6735 - Definitions
+
+## Text
+
+For purposes of this subchapter, the following definitions shall apply:
+
+(1) Court of competent jurisdiction The term “court of competent jurisdiction” means a court authorized pursuant to section 6734(a) of this title to adjudicate litigation arising under this subchapter.
+
+(2) Domicile The term “domicile” means the State in which an insurer is incorporated, chartered, or organized.
+
+(3) Insurance licensee The term “insurance licensee” means any person holding a license under State law to act as insurance agent, subagent, broker, or consultant.
+
+(4) Institution The term “institution” means a corporation, joint stock company, limited liability company, limited liability partnership, association, trust, partnership, or any similar entity.
+
+(5) Licensed State The term “licensed State” means any State, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands in which the redomesticating insurer has a certificate of authority in effect immediately prior to the redomestication.
+
+(6) Mutual insurer The term “mutual insurer” means a mutual insurer organized under the laws of any State.
+
+(7) Person The term “person” means an individual, institution, government or governmental agency, State or political subdivision of a State, public corporation, board, association, estate, trustee, or fiduciary, or other similar entity.
+
+(8) Policyholder The term “policyholder” means the owner of a policy issued by a mutual insurer, except that, with respect to voting rights, the term means a member of a mutual insurer or mutual holding company granted the right to vote, as determined under applicable State law.
+
+(9) Redomesticated insurer The term “redomesticated insurer” means a mutual insurer that has redomesticated pursuant to this subchapter.
+
+(10) Redomesticating insurer The term “redomesticating insurer” means a mutual insurer that is redomesticating pursuant to this subchapter.
+
+(11) Redomestication or transfer The term “redomestication” or “transfer” means the transfer of the domicile of a mutual insurer from one State to another State pursuant to this subchapter.
+
+(12) State insurance regulator The term “State insurance regulator” means the principal insurance regulatory authority of a State, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+
+(13) State law The term “State law” means the statutes of any State, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands and any regulation, order, or requirement prescribed pursuant to any such statute.
+
+(14) Transferee domicile The term “transferee domicile” means the State to which a mutual insurer is redomesticating pursuant to this subchapter.
+
+(15) Transferor domicile The term “transferor domicile” means the State from which a mutual insurer is redomesticating pursuant to this subchapter.
+
+(Pub. L. 106–102, title III, § 315, Nov. 12, 1999, 113 Stat. 1420.)
+
+## Notes
+
+Executive Documents
+
+Termination of Trust Territory of the Pacific Islands For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

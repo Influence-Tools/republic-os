@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 7158"
+description: "Naval reactor and military application programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "84"
+chapter_name: "DEPARTMENT OF ENERGY"
+section: "7158"
+citation: "42 U.S.C. § 7158"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s7158"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "f2033b0cb99aeec2102ca0a06ffd7020a63eb95f2fb802df240c9c5cccd8f9e0"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "8a612321a40342760d804fb2e5434b3ab7b719d9ff6c1499d59a91cec54ff25e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 7158 - Naval reactor and military application programs
+
+## Text
+
+The Division of Naval Reactors established pursuant to section 2035 of this title, and responsible for research, design, development, health, and safety matters pertaining to naval nuclear propulsion plants and assigned civilian power reactor programs is transferred to the Department under the Under Secretary for Nuclear Security, and such organizational unit shall be deemed to be an organizational unit established by this chapter.
+
+(Pub. L. 95–91, title III, § 309, Aug. 4, 1977, 91 Stat. 581; Pub. L. 106–65, div. C, title XXXII, § 3294(c), Oct. 5, 1999, 113 Stat. 970.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
+Amendments1999—Pub. L. 106–65 struck out subsec. (a) designation before “The Division of Naval Reactors”, substituted “Under Secretary for Nuclear Security” for “Assistant Secretary to whom the Secretary has assigned the function listed in section 7133(a)(2)(E) of this title”, and struck out subsec. (b) which read as follows: “The Division of Military Application, established by section 2035 of this title, and the functions of the Energy Research and Development Administration with respect to the Military Liaison Committee, established by section 2037 of this title, are transferred to the Department under the Assistant Secretary to whom the Secretary has assigned those functions listed in section 7133(a)(5) of this title, and such organizational units shall be deemed to be organizational units established by this chapter.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1999 AmendmentAmendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under section 2401 of Title 50, War and National Defense.
+
+Transfer of Functions Pub. L. 98–525, title XVI, § 1634, Oct. 19, 1984, 98 Stat. 2649, which was formerly set out as a note under this section, was renumbered section 4101 of Pub. L. 107–314 by Pub. L 108–136, div. C, title XXXI, § 3141(d)(2), Nov. 24, 2003, 117 Stat. 1757, and classified to section 2511 of Title 50, War and National Defense, and was repealed and restated as section 6102 of Title 10, Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1340, 1458.
+
+Executive Documents
+
+Transfer of Functions All national security functions and activities performed immediately before Oct. 5, 1999, by the Office of Naval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344, set out as a note under section 6102 of Title 10, Armed Forces, see sections 2406 and 2481 of Title 50, War and National Defense.

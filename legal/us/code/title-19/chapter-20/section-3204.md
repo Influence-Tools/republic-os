@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 3204"
+description: "International Trade Commission reports on impact of this chapter"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "20"
+chapter_name: "ANDEAN TRADE PREFERENCE"
+section: "3204"
+citation: "19 U.S.C. § 3204"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s3204"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "8d407c3ba6ff91d2d2d4932b30a94859970bb0ddf82ac0b6e28e71fab0cc7050"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "b89ce7daeb9ac2665364caf30c9c77aec1caea013a13db11b7c282f93b769d21"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 3204 - International Trade Commission reports on impact of this chapter
+
+## Text
+
+(a) Reporting requirements (1) In general The United States International Trade Commission (in this section referred to as the “Commission”) shall submit to Congress and the President biennial reports regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries.
+
+(2) Submission During the period that this chapter is in effect, the report required by paragraph (1) shall be submitted on December 31 of each year that the report required by section 2704 of this title is not submitted.
+
+(3) Treatment of Puerto Rico, etc. For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States are considered to be United States industries.
+
+(b) Report requirements (1) Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
+
+(A) the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
+
+(B) the probable future effect that this chapter will have on the United States economy generally, as well as on such domestic industries, before the provisions of this chapter terminate; and
+
+(C) the estimated effect that this chapter has had on the drug-related crop eradication and crop substitution efforts of the beneficiary countries.
+
+(2) In preparing the assessments required under paragraph (1), the Commission shall, to the extent practicable—
+
+(A) analyze the production, trade and consumption of United States products affected by this chapter, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production; and
+
+(B) describe the nature and extent of any significant change in employment, profit levels, and use of productive facilities, and such other conditions as it deems relevant in the domestic industries concerned, which it believes are attributable to this chapter.
+
+(c) Submission dates; public comment (1) Each report required under subsection (a) shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
+
+(2) The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
+
+(Pub. L. 102–182, title II, § 206, Dec. 4, 1991, 105 Stat. 1243; Pub. L. 106–200, title II, § 211(d)(2), May 18, 2000, 114 Stat. 287.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2000—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during— “(1) the 24-month period beginning with December 4, 1991; and “(2) each calendar year occurring thereafter until duty-free treatment under this chapter is terminated under section 3206(b) of this title. For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”

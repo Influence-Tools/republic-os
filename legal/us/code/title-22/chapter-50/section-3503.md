@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 3503"
+description: "Functions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "50"
+chapter_name: "INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION"
+section: "3503"
+citation: "22 U.S.C. § 3503"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s3503"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "c20c18f99f385ff7a3a68bbce177c0b24e2514d5003703afb7058e6a1a197733"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "527665181dd53290803e665dbe653f267c5133af985c124691433fc7b8c14ac9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 3503 - Functions
+
+## Text
+
+(a) Assistance, support, etc., activities in United States and developing countries In carrying out its purposes, the Institute shall—
+
+(1) assist developing countries to strengthen their own scientific and technological capacity in order for them to undertake the research and experimentation necessary for development;
+
+(2) support research, in the United States and in developing countries, on critical development problems, with emphasis on research relating to technologies which are labor-intensive or which do not generate additional unemployment or underemployment and with emphasis on those problems which are the greatest impediment to improvement in the lives of the majority of the poor;
+
+(3) foster the exchange of scientists and other technological experts with developing countries, and other forms of exchange and communication to promote the joint solution of problems of mutual concern to the United States and developing countries;
+
+(4) advise and assist other agencies of the United States Government in planning and executing policies and programs of scientific and technological cooperation with developing countries;
+
+(5) facilitate the participation of private United States institutions, businesses, and individuals in scientific and technological cooperation with developing countries; and
+
+(6) gather, analyze, and disseminate information relevant to the scientific and technological needs of developing countries.
+
+(b) Review of programs, projects, and other activities; objectives of review In carrying out the functions specified in subsection (a), the Institute shall take particular care to review all of its programs, projects, and other activities to ensure that technologies which are developed, utilized, or promoted are assessed with regard to minimizing any new problems and that participants in such programs, projects, and activities are fully aware of the need for such review with respect to any technology-related activities for which the 11 So in original. Probably should be “they”. are responsible.
+
+(c) Presidential utilization of additional statutory authorities For purposes of carrying out the functions of the Institute, the President may utilize, in addition to authorities conferred by this chapter, such authority contained in the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.], the Foreign Service Act of 1980 [22 U.S.C. 3901 et seq.], title V of the Foreign Relations Authorization Act, Fiscal Year 1979 [22 U.S.C. 2656a to 2656d], and title IV of the International Development and Food Assistance Act of 1978 [22 U.S.C. 2385a], as the President deems necessary.
+
+(d) Consultation and cooperation with United States and foreign government agencies, and international organizations The Institute shall carry out its functions in consultation and cooperation with the agencies of the United States Government, international organizations, and agencies of other governments engaged in promoting economic, social, and technological development in developing countries.
+
+(e) Presidential promulgation of coordination procedures concerning other governmental activities The President shall prescribe appropriate procedures to assure coordination of the activities of the Institute with other activities of the United States Government in furthering the use of science and technology in the cause of development.
+
+(Pub. L. 96–53, title IV, § 403, Aug. 14, 1979, 93 Stat. 372; Pub. L. 96–465, title II, § 2206(a)(11), Oct. 17, 1980, 94 Stat. 2162.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (c), was in the original “this title”, meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables. The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables. The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (c), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of this title. For complete classification of this Act to the Code, see Tables. The International Development and Food Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–424, Oct. 6, 1978, 92 Stat. 937. Title IV of the International Development and Food Assistance Act of 1978 is classified to section 2385a of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 2151 of this title and Tables.
+
+Amendments1980—Subsec. (c). Pub. L. 96–465 substituted reference to the Foreign Service Act of 1980 for reference to the Foreign Service Act of 1946.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1980 AmendmentAmendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+
+Effective DateSection effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of this title.

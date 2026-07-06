@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 116"
+description: "Oklahoma"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "5"
+chapter_name: "DISTRICT COURTS"
+section: "116"
+citation: "28 U.S.C. § 116"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s116"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "d857380d40524a18cec5d1a12b565411329d39b6273ab13a252e067025402c44"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "1113c65f6963ddf7acf8a14e4c6b6652dd06bb420fbd070cd4e673fa68359e01"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 116 - Oklahoma
+
+## Text
+
+Oklahoma is divided into three judicial districts to be known as the Northern, Eastern, and Western Districts of Oklahoma. Northern District (a) The Northern District comprises the counties of Craig, Creek, Delaware, Mayes, Nowata, Osage, Ottawa, Pawnee, Rogers, Tulsa, and Washington. Court for the Northern District shall be held at Bartlesville, Miami, Pawhuska, Tulsa, and Vinita. Eastern District (b) The Eastern District comprises the counties of Adair, Atoka, Bryan, Carter, Cherokee, Choctaw, Coal, Haskell, Hughes, Johnston, Latimer, Le Flore Love, McCurtain, McIntosh, Marshall, Murray, Muskogee, Okfuskee, Okmulgee, Pittsburg, Pontotoc, Pushmataha, Seminole, Sequoyah, and Wagoner. Court for the Eastern District shall be held at Ada, Ardmore, Durant, Hugo, Muskogee, Okmulgee, Poteau, and S. McAlester. Western District (c) The Western District comprises the counties of Alfalfa, Beaver, Beckham, Blaine, Caddo, Canadian, Cimarron, Cleveland, Comanche, Cotton, Custer, Dewey, Ellis, Garfield, Garvin, Grady, Grant, Greer, Harmon, Harper, Jackson, Jefferson, Kay, Kingfisher, Kiowa, Lincoln, Logan, McClain, Major, Noble, Oklahoma, Payne, Pottawatomie, Roger Mills, Stephens, Texas, Tillman, Washita, Woods, and Woodward. Court for the Western District shall be held at Chickasha, Enid, Guthrie, Lawton, Mangum, Oklahoma City, Pauls Valley, Ponca City, Shawnee, and Woodward.
+
+(June 25, 1948, ch. 646, 62 Stat. 887; Pub. L. 89–526, § 1, Aug. 4, 1966, 80 Stat. 335.)
+
+## Notes
+
+Historical and Revision NotesBased on title 28, U.S.C., 1940 ed., §§ 182, 182a (Mar. 3, 1911, ch. 231, § 101, 36 Stat. 1122; Feb. 20, 1917, ch. 102, 39 Stat. 927; June 13, 1918, ch. 98, 40 Stat. 604; Feb. 26, 1919, ch. 54, 40 Stat. 1184; June 5, 1924, ch. 259, 43 Stat. 387; Jan. 10, 1925, chs. 68, 69, 43 Stat. 730, 731; Feb. 16, 1925, ch. 233, § 1, 43 Stat. 945; May 7, 1926, ch. 255, 44 Stat. 408; Apr. 21, 1928, ch. 395, 45 Stat. 440; Mar. 2, 1929, ch. 539, 45 Stat. 1518; June 28, 1930, ch. 714, 46 Stat. 829; May 13, 1936, ch. 386, 49 Stat. 1271; Aug. 12, 1937, ch. 595, 50 Stat. 625). Provisions for furnishing rooms and accommodations at Ada, Bartlesville, Mangum, Miami, Okmulgee, and Ponca City were omitted as obsolete, on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available at such places. A provision making inoperative the requirement for furnishing court accommodations without cost to the United States whenever the same shall be provided in federal buildings at Shawnee, was omitted as unnecessary. When such buildings become available the Director will, under section 604 of this title, provide court accommodations therein. A provision for adjournment of any term by an order made in chambers, is incorporated in section 140 of this title. Provisions relating to maintenance of offices by the clerks were omitted as covered by section 751 of this title. The provisions respecting court accommodations at Durant, Hugo, Poteau, Pauls Valley, Pawhuska, and Shawnee were omitted as covered by section 142 of this title. Changes in arrangement and phraseology were made.
+
+Editorial Notes
+
+Amendments1966—Pub. L. 89–526 transferred from the Eastern District in subsec. (b) to the Western District in subsec. (c) the counties of Garvin, Grady, Jefferson, McClain, and Stephens and the places for holding court at Chickasha and Pauls Valley.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1966 AmendmentPub. L. 89–526, § 2, Aug. 4, 1966, 80 Stat. 335, provided that: “The amendments made by this Act [amending this section] shall take effect on the sixtieth day after the date of enactment of this Act [Aug. 4, 1966].”

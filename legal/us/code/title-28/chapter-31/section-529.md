@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 529"
+description: "Annual report of Attorney General"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "31"
+chapter_name: "THE ATTORNEY GENERAL"
+section: "529"
+citation: "28 U.S.C. § 529"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s529"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "faceac78690be3376e74d782189abd3bb0dc4a566e8ff65adffad5958b169e6f"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "3c155fbe7f06e3fec36ea2d2fd40a34f8fbb6e39a0a6616e3c4bf6cfe4964790"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 529 - Annual report of Attorney General
+
+## Text
+
+(a) Beginning on June 1, 1979, and at the beginning of each regular session of Congress thereafter, the Attorney General shall report to Congress on the activities and operations of the Public Integrity Section or any other unit of the Department of Justice designated to supervise the investigation and prosecution of—
+
+(1) any violation of Federal criminal law by any individual who holds or who at the time of such violation held a position, whether or not elective, as a Federal Government officer, employee, or special employee, if such violation relates directly or indirectly to such individual’s Federal Government position, employment, or compensation;
+
+(2) any violation of any Federal criminal law relating to lobbying, conflict of interest, campaigns, and election to public office committed by any person, except insofar as such violation relates to a matter involving discrimination or intimidation on grounds of race, color, religion, or national origin;
+
+(3) any violation of Federal criminal law by any individual who holds or who at the time of such violation held a position, whether or not elective, as a State or local government officer or employee, if such violation relates directly or indirectly to such individual’s State or local government position, employment, or compensation; and
+
+(4) such other matters as the Attorney General may deem appropriate.
+
+Such report shall include the number, type, and disposition of all investigations and prosecutions supervised by such Section or such unit, except that such report shall not disclose information which would interfere with any pending investigation or prosecution or which would improperly infringe upon the privacy rights of any individuals.
+
+(b) Notwithstanding any provision of law limiting the amount of management or administrative expenses, the Attorney General shall, not later than May 2, 2003, and of every year thereafter, prepare and provide to the Committees on the Judiciary and Appropriations of each House of the Congress using funds available for the underlying programs—
+
+(1) a report identifying and describing every grant (other than one made to a governmental entity, pursuant to a statutory formula), cooperative agreement, or programmatic services contract that was made, entered into, awarded, or, for which additional or supplemental funds were provided in the immediately preceding fiscal year, by or on behalf of the Office of Justice Programs (including any component or unit thereof, and the Office of Community Oriented Policing Services), and including, without limitation, for each such grant, cooperative agreement, or contract: the term, the dollar amount or value, a description of its specific purpose or purposes, the names of all grantees or parties, the names of each unsuccessful applicant or bidder, and a description of the specific purpose or purposes proposed in each unsuccessful application or bid, and of the reason or reasons for rejection or denial of the same; and
+
+(2) a report identifying and reviewing every grant (other than one made to a governmental entity, pursuant to a statutory formula), cooperative agreement, or programmatic services contract made, entered into, awarded, or for which additional or supplemental funds were provided, after October 1, 2002, by or on behalf of the Office of Justice Programs (including any component or unit thereof, and the Office of Community Oriented Policing Services) that was programmatically and financially closed out or that otherwise ended in the immediately preceding fiscal year (or even if not yet closed out, was terminated or otherwise ended in the fiscal year that ended 2 years before the end of such immediately preceding fiscal year), and including, without limitation, for each such grant, cooperative agreement, or contract: a description of how the appropriated funds involved actually were spent, statistics relating to its performance, its specific purpose or purposes, and its effectiveness, and a written declaration by each non-Federal grantee and each non-Federal party to such agreement or to such contract, that—
+
+(A) the appropriated funds were spent for such purpose or purposes, and only such purpose or purposes;
+
+(B) the terms of the grant, cooperative agreement, or contract were complied with; and
+
+(C) all documentation necessary for conducting a full and proper audit under generally accepted accounting principles, and any (additional) documentation that may have been required under the grant, cooperative agreement, or contract, have been kept in orderly fashion and will be preserved for not less than 3 years from the date of such close out, termination, or end;
+
+except that the requirement of this paragraph shall be deemed satisfied with respect to any such description, statistics, or declaration if such non-Federal grantee or such non-Federal party shall have failed to provide the same to the Attorney General, and the Attorney General notes the fact of such failure and the name of such grantee or such party in the report.
+
+(Added Pub. L. 95–521, title VI, § 603(a), Oct. 26, 1978, 92 Stat. 1874; amended Pub. L. 107–273, div. A, title II, § 205(a), div. B, title IV, § 4003(b)(3), Nov. 2, 2002, 116 Stat. 1777, 1811.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2002—Pub. L. 107–273, § 205(a), designated existing provisions as subsec. (a) and added subsec. (b). Subsec. (b)(2). Pub. L. 107–273, § 4003(b)(3), struck out “over $5,000,000” after “services contract” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Oct. 26, 1978, see section 604 of Pub. L. 95–521, set out as a note under section 591 of this title.

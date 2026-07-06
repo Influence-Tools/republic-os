@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "54 U.S.C. § 101121"
+description: "Second Century Endowment for the National Park Service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 54
+title_name: "NATIONAL PARK SERVICE AND RELATED PROGRAMS"
+chapter_number: "1011"
+chapter_name: "DONATIONS"
+section: "101121"
+citation: "54 U.S.C. § 101121"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc54@119-100.zip"
+source_identifier: "/us/usc/t54/s101121"
+source_file: "data/legal/raw/us/code/title-54/usc54.xml"
+source_hash: "b44b4dddc758f571672477d8a35103f6160de5287915457453fea361518f9daa"
+raw_snapshot_hash: "ae37e9ba9ffe98b17fb5695939469d1407e46b028e81e9ffb76abd1481eeb360"
+text_hash: "0a2d1e0eda52ebe06c9ce050752c758842c2ac341a9ade98ac82f2254b253153"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 54 U.S.C. § 101121 - Second Century Endowment for the National Park Service
+
+## Text
+
+(a) Second Century Endowment.— To further the mission of the Service, the National Park Foundation shall establish a special account to be known as the “Second Century Endowment for the National Park Service”.
+
+(1) Funds for the endowment.— The following shall apply to the Endowment:
+
+(A) From amounts received by the United States each fiscal year from sales by the National Park Service of Federal Recreational Lands Passes under section 805(b)(1) of the Federal Lands Recreational Enhancement Act,11 See References in Text note below. $10,000,000 shall be deposited into the Endowment.
+
+(B) In addition to deposits otherwise authorized, the Endowment shall consist of any gifts, devises, or bequests that are provided to the National Park Foundation for such purpose.
+
+(C) The National Park Foundation shall deposit any funds received for the Endowment in a federally insured interest-bearing account or may invest funds in appropriate security obligations, as directed by the Board of Directors.
+
+(D) Any accrued interest or dividends earned on funds received for the Endowment shall be added to the principal and form a part of the Endowment.
+
+(2) Use of funds.— (A) Except as provided in subparagraph (B), funds in the Endowment shall be available to the National Park Foundation as offsetting collections for projects and activities approved by the Secretary that further the mission and purposes of the Service.
+
+(B) Gifts, devises, or bequests in the endowment under paragraph (1)(A), and any accrued interest or dividends earned thereon, shall be available to the National Park Foundation for projects and activities approved by the Secretary that further the mission and purposes of the Service.
+
+(C) In administering the Endowment each fiscal year, the National Park Foundation shall be guided by the District of Columbia Uniform Prudent Management of Institutional Funds Act of 2007 (D.C. Code § 44–1631 et seq.), including section 44–1633 on expenditures.
+
+(D) No Federal funds received for the Endowment may be used by the National Park Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
+
+(b) Summary.— Beginning 2 years after the date of the enactment of this section, the National Park Foundation shall include with its annual report a summary of the status of the Endowment. The summary shall include—
+
+(1) a statement of the amounts deposited in the Endowment during the fiscal year;
+
+(2) the amount of the balance remaining in the Endowment at the end of the fiscal year; and
+
+(3) a description of the sums and purposes of the expenditures made from the Endowment for the fiscal year.
+
+(Added Pub. L. 114–289, title II, § 202(a), Dec. 16, 2016, 130 Stat. 1485.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 805(b)(1) of the Federal Lands Recreational Enhancement Act, referred to in subsec. (a)(1)(A), probably means section 805(b)(1) of the Federal Lands Recreation Enhancement Act, which is section 805(b)(1) of Pub. L. 108–447, div. J, title VIII, Dec. 8, 2004, 118 Stat. 3385, and is classified to section 6804(b)(1) of Title 16, Conservation. The District of Columbia Uniform Prudent Management of Institutional Funds Act of 2007, referred to in subsec. (a)(2)(C), is the Act of Jan. 23, 2008, D.C. Law 17–69, 54 DCR 11650, which is not classified to the Code. The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 114–289, which was approved Dec. 16, 2016.

@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 1320a–4"
+description: "Issuance of subpenas by Comptroller General"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "7"
+chapter_name: "SOCIAL SECURITY"
+section: "1320a–4"
+citation: "42 U.S.C. § 1320a–4"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s1320a–4"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "70d00b8776a7c14928f044f4521c59b208107e45fef19912494c86dc389472a7"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "d2612d052e148d17ecf9159b4f99daf487f3acfe0a8d24752b2c1a9e900e5e66"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 1320a–4 - Issuance of subpenas by Comptroller General
+
+## Text
+
+(a) Authorization; scope; service and proof of service For the purpose of any audit, investigation, examination, analysis, review, evaluation, or other function authorized by law with respect to any program authorized under this chapter, the Comptroller General of the United States shall have power to sign and issue subpenas to any person requiring the production of any pertinent books, records, documents, or other information. Subpenas so issued by the Comptroller General shall be served by anyone authorized by him (1) by delivering a copy thereof to the person named therein, or (2) by registered mail or by certified mail addressed to such person at his last dwelling place or principal place of business. A verified return by the person so serving the subpena setting forth the manner of service, or, in the case of service by registered mail or by certified mail, the return post office receipt therefor signed by the person so served, shall be proof of service.
+
+(b) Contumacy or refusal to obey subpena; contempt proceedings In case of contumacy by, or refusal to obey a subpena issued pursuant to subsection (a) of this section and duly served upon, any person, any district court of the United States for the judicial district in which such person charged with contumacy or refusal to obey is found or resides or transacts business, upon application by the Comptroller General, shall have jurisdiction to issue an order requiring such person to produce the books, records, documents, or other information sought by the subpena; and any failure to obey such order of the court may be punished by the court as a contempt thereof. In proceedings brought under this subsection, the Comptroller General shall be represented by attorneys employed in the Government Accountability Office or by counsel whom he may employ without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapters III and VI of chapter 53 of such title, relating to classification and General Schedule pay rates.
+
+(c) Nondisclosure of personal medical records by Government Accountability Office No personal medical record in the possession of the Government Accountability Office shall be subject to subpena or discovery proceedings in a civil action.
+
+(Aug. 14, 1935, ch. 531, title XI, § 1125, as added Pub. L. 95–142, § 6, Oct. 25, 1977, 91 Stat. 1192; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2004—Subsecs. (b), (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.

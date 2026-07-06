@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 2275"
+description: "Benefit information to workers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "12"
+chapter_name: "TRADE ACT OF 1974"
+section: "2275"
+citation: "19 U.S.C. § 2275"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s2275"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "2cb212505bce6d79f91861a8babb46b80ccb3c82fbbd885817f0c2c3da1ef006"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "8f6ae8b77f9651f04e3611641e628bba3002ab0f6ca8efdea2ec5fb560105bd1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 2275 - Benefit information to workers
+
+## Text
+
+(a) The Secretary shall provide full information to workers about the benefit allowances, training, and other employment services available under this part and about the petition and application procedures, and the appropriate filing dates, for such allowances, training and services. The Secretary shall provide whatever assistance is necessary to enable groups of workers to prepare petitions or applications for program benefits. The Secretary shall make every effort to insure that cooperating State agencies fully comply with the agreements entered into under section 2311(a) of this title and shall periodically review such compliance. The Secretary shall inform the State Board for Vocational Education or equivalent agency and other public or private agencies, institutions, and employers, as appropriate, of each certification issued under section 2273 of this title and of projections, if available, of the needs for training under section 2296 of this title as a result of such certification.
+
+(b) (1) The Secretary shall provide written notice through the mail of the benefits available under this part to each worker whom the Secretary has reason to believe is covered by a certification made under this subpart—
+
+(A) at the time such certification is made, if the worker was partially or totally separated from the adversely affected employment before such certification, or
+
+(B) at the time of the total or partial separation of the worker from the adversely affected employment, if subparagraph (A) does not apply.
+
+(2) The Secretary shall publish notice of the benefits available under this part to workers covered by each certification made under this subpart in newspapers of general circulation in the areas in which such workers reside.
+
+(Pub. L. 93–618, title II, § 225, as added Pub. L. 97–35, title XXV, § 2502, Aug. 13, 1981, 95 Stat. 881; amended Pub. L. 100–418, title I, § 1422, Aug. 23, 1988, 102 Stat. 1244; Pub. L. 103–182, title V, § 503(b), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, § 123(b)(1), Aug. 6, 2002, 116 Stat. 944; Pub. L. 111–5, div. B, title I, § 1812, Feb. 17, 2009, 123 Stat. 375; Pub. L. 112–40, title II, § 201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, § 402(b), (c), June 29, 2015, 129 Stat. 374.)
+
+## Notes
+
+Termination of AssistanceFor termination of assistance under this part after June 30, 2022, see Termination Date note below.
+
+Editorial Notes
+
+Codification Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 2014. See Effective and Termination Dates of 2015 Revival note below. Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, § 402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§ 402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below. Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, § 201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+
+Amendments2015—Pub. L. 114–27, §§ 402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below. 2011—Pub. L. 112–40, §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below. 2009—Subsec. (c). Pub. L. 111–5, §§ 1812, 1893, temporarily added subsec. (c). See Codification note above and Effective and Termination Dates of 2009 Amendment note below. 2002—Subsec. (b). Pub. L. 107–210 struck out “or subpart D of this part” after “this subpart” in pars. (1) and (2). 1993—Subsec. (b). Pub. L. 103–182 inserted reference to subpart D in pars. (1) and (2). 1988—Pub. L. 100–418 designated existing provisions as subsec. (a) and added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Effective and Termination Dates of 2015 RevivalFor revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title. For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
+Effective and Termination Dates of 2011 RevivalFor revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title. Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, § 402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
+
+Effective and Termination Dates of 2009 AmendmentExcept as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title. Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, § 201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–210 applicable with respect to petitions filed under this part on or after the date that is 90 days after Aug. 6, 2002, except with respect to certain workers, see section 123(c) of Pub. L. 107–210, set out as an Effective Date of Repeal note under section 2331 of this title.
+
+Effective Date of 1993 AmendmentAmendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–418 effective on date that is 30 days after Aug. 23, 1988, see section 1430(e) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
+
+Effective Date and Transition ProvisionsSection effective Aug. 13, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2291 of this title.
+
+Termination DateNo trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after June 30, 2022, except as otherwise provided, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.

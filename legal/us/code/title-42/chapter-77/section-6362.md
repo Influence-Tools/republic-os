@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 6362"
+description: "Energy conservation policies and practices"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "77"
+chapter_name: "ENERGY CONSERVATION"
+section: "6362"
+citation: "42 U.S.C. § 6362"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s6362"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "9b04f9f821940e527e44a88a572a6ef3d10860aec4a4a802f0b53020439e7fb2"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "7c5e1dfdbc7832e7dd31d8a49066690177ea3525607f5e67183c444cfa1f5513"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 6362 - Energy conservation policies and practices
+
+## Text
+
+(a) “Agency” defined In this section, “agency” means—
+
+(1) the Department of Transportation with respect to part A of subtitle VII of title 49, United States Code;
+
+(2) the Interstate Commerce Commission;
+
+(3) the Federal Maritime Commission; and
+
+(4) the Federal Power Commission.
+
+(b) Statement of probable impact of major regulatory action on energy efficiency Except as provided in subsection (c), each of the agencies specified in subsection (a) shall, where practicable and consistent with the exercise of their authority under other law, include in any major regulatory action (as defined by rule by each such agency) taken by each such agency, a statement of the probable impact of such major regulatory action on energy efficiency and energy conservation.
+
+(c) Application of provisions to authority exercised to protect public health and safety Subsection (b) shall not apply to any authority exercised under any provision of law designed to protect the public health or safety.
+
+(Pub. L. 94–163, title III, § 382, Dec. 22, 1975, 89 Stat. 939; Pub. L. 103–272, § 4(h), July 5, 1994, 108 Stat. 1364.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1994—Subsec. (a). Pub. L. 103–272, § 4(h)(1), added subsec. (a) and struck out former subsec. (a) which related to reports to Congress by Federal agencies, feasibility of additional savings in energy consumption, and administration of laws permitting inefficient use of energy. Subsec. (b). Pub. L. 103–272, § 4(h)(2), substituted “subsection (a)” for “subsection (a)(1)”.
+
+Statutory Notes and Related Subsidiaries
+
+Abolition of Interstate Commerce Commission and Transfer of Functions Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.

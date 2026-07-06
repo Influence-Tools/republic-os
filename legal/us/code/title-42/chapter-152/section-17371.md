@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 17371"
+description: "Energy diplomacy and security within the Department of State"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "152"
+chapter_name: "ENERGY INDEPENDENCE AND SECURITY"
+section: "17371"
+citation: "42 U.S.C. § 17371"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s17371"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "7dc1bff68998fbbd0880e21bae562cee1f3ab9c7c6e0885547c4436685186069"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "8319ea5f7b26840f8b1caf24a2003f4ecc83a0c5b5dd8a19de87c47ec64dc242"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 17371 - Energy diplomacy and security within the Department of State
+
+## Text
+
+(a) State Department Coordinator for International Energy Affairs (1) In general The Secretary of State should ensure that energy security is integrated into the core mission of the Department of State.
+
+(2) Coordinator for International Energy Affairs There is established within the Office of the Secretary of State a Coordinator for International Energy Affairs, who shall be responsible for—
+
+(A) representing the Secretary of State in interagency efforts to develop the international energy policy of the United States;
+
+(B) ensuring that analyses of the national security implications of global energy and environmental developments are reflected in the decision making process within the Department of State;
+
+(C) incorporating energy security priorities into the activities of the Department of State;
+
+(D) coordinating energy activities of the Department of State with relevant Federal agencies; and
+
+(E) coordinating energy security and other relevant functions within the Department of State currently undertaken by offices within—
+
+(i) the Bureau of Economic, Energy and Business Affairs;
+
+(ii) the Bureau of Oceans and International Environmental and Scientific Affairs; and
+
+(iii) other offices within the Department of State.
+
+(3) Authorization of appropriations There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+
+(b) Energy experts in key embassies Not later than 180 days after December 19, 2007, the Secretary of State shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that includes—
+
+(1) a description of the Department of State personnel who are dedicated to energy matters and are stationed at embassies and consulates in countries that are major energy producers or consumers;
+
+(2) an analysis of the need for Federal energy specialist personnel in United States embassies and other United States diplomatic missions; and
+
+(3) recommendations for increasing energy expertise within United States embassies among foreign service officers and options for assigning to such embassies energy attachés from the National Laboratories or other agencies within the Department of Energy.
+
+(c) Energy advisors The Secretary of Energy may make appropriate arrangements with the Secretary of State to assign personnel from the Department of Energy or the National Laboratories of the Department of Energy to serve as dedicated advisors on energy matters in embassies of the United States or other United States diplomatic missions.
+
+(d) Report Not later than 180 days after December 19, 2007, and every 2 years thereafter for the following 20 years, the Secretary of State shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that describes—
+
+(1) the energy-related activities being conducted by the Department of State, including activities within—
+
+(A) the Bureau of Economic, Energy and Business Affairs;
+
+(B) the Bureau of Oceans and Environmental and Scientific Affairs; and
+
+(C) other offices within the Department of State;
+
+(2) the amount of funds spent on each activity within each office described in paragraph (1); and
+
+(3) the number and qualification of personnel in each embassy (or relevant foreign posting) of the United States whose work is dedicated exclusively to energy matters.
+
+(Pub. L. 110–140, title IX, § 931, Dec. 19, 2007, 121 Stat. 1739.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.

@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 6603"
+description: "Conservation assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "85"
+chapter_name: "MARINE TURTLE CONSERVATION"
+section: "6603"
+citation: "16 U.S.C. § 6603"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s6603"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "e55e1fe1605a8043fef934b67a928eca52cb048ef163ae6ba7094fcbc323abba"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "ae6ee60cd77eee1e165fe6ed2648c99eddaa12d322683ac44bf4f50629256ab3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 6603 - Conservation assistance
+
+## Text
+
+(a) In general Subject to the availability of funds and in consultation with other Federal officials, the Secretary shall use amounts in the Fund to provide financial assistance for projects for the conservation of marine turtles, freshwater turtles, or tortoises for which project proposals are approved by the Secretary in accordance with this section.
+
+(b) Project proposals (1) Eligible applicants A proposal for a project for the conservation of marine turtles, freshwater turtles, or tortoises may be submitted to the Secretary by—
+
+(A) any wildlife management authority of a foreign country or territory of the United States that has within its boundaries marine turtle, freshwater turtle, or tortoise habitat, if the activities of the authority directly or indirectly affect marine turtle, freshwater turtle, or tortoise conservation; or
+
+(B) any other person or group with the demonstrated expertise required for the conservation of marine turtles, freshwater turtles, or tortoises.
+
+(2) Required elements A project proposal shall include—
+
+(A) a statement of the purposes of the project;
+
+(B) the name of the individual with overall responsibility for the project;
+
+(C) a description of the qualifications of the individuals that will conduct the project;
+
+(D) a description of—
+
+(i) methods for project implementation and outcome assessment;
+
+(ii) staff and community management for the project; and
+
+(iii) the logistics of the project;
+
+(E) an estimate of the funds and time required to complete the project;
+
+(F) evidence of support for the project by appropriate governmental entities of the countries in which the project will be conducted, if the Secretary determines that such support is required for the success of the project;
+
+(G) information regarding the source and amount of matching funding available for the project; and
+
+(H) any other information that the Secretary considers to be necessary for evaluating the eligibility of the project for funding under this chapter.
+
+(c) Project review and approval (1) In general The Secretary shall—
+
+(A) not later than 30 days after receiving a project proposal, provide a copy of the proposal to other Federal officials, as appropriate; and
+
+(B) review each project proposal in a timely manner to determine whether the proposal meets the criteria specified in subsection (d).
+
+(2) Consultation; approval or disapproval Not later than 180 days after receiving a project proposal, and subject to the availability of funds, the Secretary, after consulting with other Federal officials, as appropriate, shall—
+
+(A) consult on the proposal with the government of each country and territory of the United States in which the project is to be conducted;
+
+(B) after taking into consideration any comments resulting from the consultation, approve or disapprove the project proposal; and
+
+(C) provide written notification of the approval or disapproval to the person that submitted the project proposal, other Federal officials, and each country and territory of the United States described in subparagraph (A).
+
+(d) Criteria for approval The Secretary may approve a project proposal under this section if the Secretary determines that the project will help to restore, recover, and sustain a viable population of marine turtles, freshwater turtles, or tortoises in the wild by assisting efforts in a foreign country or territory of the United States to implement a marine turtle, freshwater turtle, or tortoise conservation program.
+
+(e) Project sustainability To the maximum extent practicable, in determining whether to approve project proposals under this section, the Secretary shall give preference to conservation projects that are designed to ensure effective, long-term conservation of marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises.
+
+(f) Matching funds In determining whether to approve project proposals under this section, the Secretary shall give preference to projects for which matching funds are available.
+
+(g) Project reporting (1) In general Each person that receives assistance under this section for a project shall submit to the Secretary periodic reports (at such intervals as the Secretary may require) that include all information that the Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
+
+(2) Availability to the public Reports under paragraph (1), and any other documents relating to projects for which financial assistance is provided under this chapter, shall be made available to the public.
+
+(h) Multiyear grants (1) Authorization The Secretary may award to a person who is otherwise eligible for a grant under this section a multiyear grant of up to 5 years to carry out a project that the person demonstrates is an effective, long-term conservation strategy for marine turtles, freshwater turtles, or tortoises and the habitat of marine turtles, freshwater turtles, or tortoises.
+
+(2) Effect Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
+
+(Pub. L. 108–266, § 4, July 2, 2004, 118 Stat. 793; Pub. L. 116–9, title VII, § 7001(c)(3)(C), Mar. 12, 2019, 133 Stat. 787; Pub. L. 118–159, div. E, title LIII, § 5307(a), Dec. 23, 2024, 138 Stat. 2446.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (h). Pub. L. 118–159 added subsec. (h). 2019—Pub. L. 116–9, § 7001(c)(3)(C)(i), struck out “Marine turtle” before “Conservation” in section catchline. Subsec. (a). Pub. L. 116–9, § 7001(c)(3)(C)(ii), inserted “, freshwater turtles, or tortoises” after “marine turtles”. Subsec. (b)(1). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(I), inserted “, freshwater turtles, or tortoises” after “marine turtles” in introductory provisions. Subsec. (b)(1)(A). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(II), added subpar. (A) and struck out former subpar. (A) which read as follows: “any wildlife management authority of a foreign country that has within its boundaries marine turtle nesting habitat if the activities of the authority directly or indirectly affect marine turtle conservation; or”. Subsec. (b)(1)(B). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(III), inserted “, freshwater turtles, or tortoises” after “marine turtles”. Subsec. (c)(2)(A), (C). Pub. L. 116–9, § 7001(c)(3)(C)(iv), inserted “and territory of the United States” after “each country”. Subsec. (d). Pub. L. 116–9, § 7001(c)(3)(C)(v), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may approve a project proposal under this section if the project will help recover and sustain viable populations of marine turtles in the wild by assisting efforts in foreign countries to implement marine turtle conservation programs.” Subsec. (e). Pub. L. 116–9, § 7001(c)(3)(C)(vi), substituted “marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises” for “marine turtles and their nesting habitats”.

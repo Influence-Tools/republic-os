@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 1769"
+description: "Existing right-of-way or right-of-use unaffected; exceptions; rights-of-way for railroad and appurtenant communication facilities; applicability of existing terms and conditions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "35"
+chapter_name: "FEDERAL LAND POLICY AND MANAGEMENT"
+section: "1769"
+citation: "43 U.S.C. § 1769"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s1769"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "0fb451426d159ddef5d8f39e5f3a025eb9c41d7eb54a90ea630782af0f515508"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "06a47fb11a2d36dd9071345c03eb53264cad9bdf6fc9ed8072d07743ba55af67"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 1769 - Existing right-of-way or right-of-use unaffected; exceptions; rights-of-way for railroad and appurtenant communication facilities; applicability of existing terms and conditions
+
+## Text
+
+(a) Nothing in this subchapter shall have the effect of terminating any right-of-way or right-of-use heretofore issued, granted, or permitted. However, with the consent of the holder thereof, the Secretary concerned may cancel such a right-of-way or right-of-use and in its stead issue a right-of-way pursuant to the provisions of this subchapter.
+
+(b) When the Secretary concerned issues a right-of-way under this subchapter for a railroad and appurtenant communication facilities in connection with a realinement of a railroad on lands under his jurisdiction by virtue of a right-of-way granted by the United States, he may, when he considers it to be in the public interest and the lands involved are not within an incorporated community and are of approximately equal value, notwithstanding the provisions of this subchapter, provide in the new right-of-way the same terms and conditions as applied to the portion of the existing right-of-way relinquished to the United States with respect to the payment of annual rental, duration of the right-of-way, and the nature of the interest in lands granted. The Secretary concerned or his delegate shall take final action upon all applications for the grant, issue, or renewal of rights-of-way under subsection (b) of this section no later than six months after receipt from the applicant of all information required from the applicant by this subchapter.
+
+(Pub. L. 94–579, title V, § 509, Oct. 21, 1976, 90 Stat. 2781.)
+
+## Notes
+
+Executive Documents
+
+Transfer of Functions See note set out under section 1763 of this title.

@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 4277"
+description: "Compensation of members"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "53"
+chapter_name: "ADVISORY COMMISSION ON INTERGOVERNMENTAL RELATIONS"
+section: "4277"
+citation: "42 U.S.C. § 4277"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s4277"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "4197686ec1f0a14f481cda8fce600253ec965054d608c6f6176a9e497752c430"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "95693cfc20aa1ff3dea8359736e6618eabc67d8ca56a7a4eb4d99ce24bd433bd"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 4277 - Compensation of members
+
+## Text
+
+(a) Members of the Commission who are Members of Congress, officers of the executive branch of the Federal Government, Governors, or full-time salaries officers of city and county governments shall serve without compensation in addition to that received in their regular public employment, but shall be allowed necessary travel expenses (or, in the alternative, a per diem in lieu of subsistence and mileage not to exceed the rates prescribed in subchapter I of chapter 57 of title 5), without regard to subchapter I of chapter 57 of title 5, the Standardized Government Travel Regulations, or section 5731(a) of title 5, and other necessary expenses incurred by them in the performance of duties vested in the Commission.
+
+(b) Unless prohibited by State or local law, members of the Commission, other than those to whom subsection (a) is applicable, shall receive compensation at the rate of $50 per day for each day they are engaged in the performance of their duties as members of the Commission and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Commission, as provided for in subsection (a) of this section.
+
+(Pub. L. 86–380, § 7, Sept. 24, 1959, 73 Stat. 706; Pub. L. 89–733, § 5, Nov. 2, 1966, 80 Stat. 1162.)
+
+## Notes
+
+Editorial Notes
+
+Codification In subsec. (a), “subchapter I of chapter 57 of title 5” substituted for “the Travel Expense Act of 1949, as amended” and for “the Travel Expense Act of 1949, as amended (5 U.S.C. 835–842)”, and “section 5731(a) of title 5” substituted for “section 10 of the Act of March 3, 1933, (5 U.S.C. 73(b)”, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Section was formerly classified to section 2377 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+Amendments1966—Subsec. (b). Pub. L. 89–733 inserted “Unless prohibited by State or local law”.

@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "19 U.S.C. § 1321"
+description: "Administrative exemptions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 19
+title_name: "CUSTOMS DUTIES"
+chapter_number: "4"
+chapter_name: "TARIFF ACT OF 1930"
+section: "1321"
+citation: "19 U.S.C. § 1321"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc19@119-100.zip"
+source_identifier: "/us/usc/t19/s1321"
+source_file: "data/legal/raw/us/code/title-19/usc19.xml"
+source_hash: "cd318fbae410c2c221649ba1e518d65d13c5c70f1156ee0f1d52efbed8af0e23"
+raw_snapshot_hash: "c90da65eeb9b6895d254e48af923eedc3b1275c7e88d986eb56f934bfcdfdf5c"
+text_hash: "d507ad8cfa465d7eb7236f86b42a1ea63f4b65ff65daf19ff5e9fb4b50ee0254"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 19 U.S.C. § 1321 - Administrative exemptions
+
+## Text
+
+(a) The Secretary of the Treasury, in order to avoid expense and inconvenience to the Government disproportionate to the amount of revenue that would otherwise be collected, is authorized, under such regulations as he shall prescribe, to—
+
+(1) disregard a difference of an amount specified by the Secretary by regulation, but not less than $20, between the total estimated duties, fees, and taxes deposited, or the total duties, fees, and taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties, fees, taxes, and interest actually accruing thereon;
+
+(2) admit articles free of duty and of any tax imposed on or by reason of importation, but the aggregate fair retail value in the country of shipment of articles imported by one person on one day and exempted from the payment of duty shall not exceed an amount specified by the Secretary by regulation, but not less than—
+
+(A) $100 in the case of articles sent as bona fide gifts from persons in foreign countries to persons in the United States ($200 in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa), or
+
+(B) $200 in the case of articles accompanying, and for the personal or household use of, persons arriving in the United States who are not entitled to any exemption from duty under subheading 9804.00.30, 9804.00.65, or 9804.00.70 of title I of this Act,11 See References in Text note below. or
+
+(C) $800 in any other case.
+
+The privilege of this subdivision (2) shall not be granted in any case in which merchandise covered by a single order or contract is forwarded in separate lots to secure the benefit of this subdivision (2); and
+
+(3) waive the collection of duties, fees, taxes, and interest due on entered merchandise when such duties, fees, taxes, or interest are less than $20 or such greater amount as may be specified by the Secretary by regulation.
+
+(b) The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) whenever he finds that such action is consistent with the purpose of subsection (a) or is necessary for any reason to protect the revenue or to prevent unlawful importations.
+
+(c) Any person who enters, introduces, facilitates, or attempts to introduce an article into the United States using the privilege of this section, the importation of which violates any other provision of United States customs law, shall be assessed, in addition to any other penalty permitted by law, a civil penalty of up to $5,000 for the first violation and up to $10,000 for each subsequent violation.
+
+(June 17, 1930, ch. 497, title III, § 321, as added June 25, 1938, ch. 679, § 7, 52 Stat. 1081; amended Aug. 8, 1953, ch. 397, § 13, 67 Stat. 515; Pub. L. 87–261, § 2(c), Sept. 21, 1961, 75 Stat. 541; Pub. L. 89–62, § 2, June 30, 1965, 79 Stat. 208; Pub. L. 93–618, title VI, § 610(a), Jan. 3, 1975, 88 Stat. 2075; Pub. L. 95–410, title II, § 205, Oct. 3, 1978, 92 Stat. 900; Pub. L. 97–446, title I, § 115(b), Jan. 12, 1983, 96 Stat. 2335; Pub. L. 100–418, title I, § 1214(h)(2), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 103–182, title VI, § 651, Dec. 8, 1993, 107 Stat. 2209; Pub. L. 104–295, § 3(a)(8), (12), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 114–125, title IX, § 901(c), Feb. 24, 2016, 130 Stat. 223; Pub. L. 119–21, title VII, § 70531(a)(1), (b)(1), (2), July 4, 2025, 139 Stat. 283.)
+
+## Notes
+
+Amendment of SectionPub. L. 119–21, title VII, § 70531(b), July 4, 2025, 139 Stat. 283, provided that, effective on July 1, 2027, this section is amended as follows: (1) in subsection (a)(2), by striking “of this Act, or” and all that follows through “subdivision (2); and” and inserting “of this Act; and”; and (2) by striking subsection (c). See 2025 Amendment notes below.
+
+Editorial Notes
+
+References in TextTitle I of this Act, referred to in subsec. (a)(2)(B), means title I of act June 17, 1930, which contained the Tariff Schedules of the United States and which formerly were set out under section 1202 of this title. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+Amendments2025—Subsec. (a)(2). Pub. L. 119–21, § 70531(b)(1), substituted “of this Act; and” for “of this Act, or” in subpar. (B) and struck out subpar. (C) and concluding provisions which read as follows: “(C) $800 in any other case. “The privilege of this subdivision (2) shall not be granted in any case in which merchandise covered by a single order or contract is forwarded in separate lots to secure the benefit of this subdivision (2); and”. Subsec. (c). Pub. L. 119–21, § 70531(b)(2), struck out subsec. (c) which read as follows: “Any person who enters, introduces, facilitates, or attempts to introduce an article into the United States using the privilege of this section, the importation of which violates any other provision of United States customs law, shall be assessed, in addition to any other penalty permitted by law, a civil penalty of up to $5,000 for the first violation and up to $10,000 for each subsequent violation.” Pub. L. 119–21, § 70531(a)(1), added subsec. (c). 2016—Subsec. (a)(2)(C). Pub. L. 114–125 substituted “$800” for “$200”. 1996—Subsec. (a)(1). Pub. L. 104–295, § 3(a)(12)(A), substituted “duties, fees, taxes, and interest actually accruing” for “duties, fees, and taxes actually accruing”. Subsec. (a)(2)(B). Pub. L. 104–295, § 3(a)(8), inserted “, 9804.00.65,” after “9804.00.30”. Subsec. (a)(3). Pub. L. 104–295, § 3(a)(12)(B), substituted “taxes, and interest” for “and taxes” and “taxes, or interest” for “or taxes”. 1993—Subsec. (a)(1). Pub. L. 103–182, § 651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than $10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end. Subsec. (a)(2). Pub. L. 103–182, § 651(2), substituted “shall not exceed an amount specified by the Secretary by regulation, but not less than—” for “shall not exceed—” in introductory provisions, substituted “$100” and “$200” for “$50” and “$100”, respectively, in subpar. (A), substituted “$200” for “$25” in subpar. (B), substituted “$200” for “$5” in subpar. (C), and substituted “; and” for period at end. Subsec. (a)(3). Pub. L. 103–182, § 651(3), added par. (3). Subsec. (b). Pub. L. 103–182, § 651(4), struck out “to diminish any dollar amount specified in subsection (a) and” after “authorized by regulations” and substituted “subsection (a)” for “such subsection” in two places. 1988—Subsec. (a)(2)(B). Pub. L. 100–418 substituted “subheading 9804.00.30 or 9804.00.70” for “item 812.25 or 813.31”. 1983—Subsec. (a)(2)(A). Pub. L. 97–446 substituted “$50” for “$25” and “$100” for “$40”. 1978—Subsec. (a)(1). Pub. L. 95–410, § 205(a), substituted “$10” for “$3” and “duties and taxes” for “duties or taxes” in three places. Subsec. (a)(2). Pub. L. 95–410, § 205(b)(1)–(3), substituted in: subpar. (A), “$25” and “$40” for “$10” and “$20”; subpar. (B), “$25” for “$10”; and subpar. (C), “$5” for “$1”. 1975—Subsec. (a)(2)(A). Pub. L. 93–618 inserted “($20, in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa)” after “United States”. 1965—Subsec. (a)(2). Pub. L. 89–62 substituted “fair retail value in the country of shipment” for “value” in the material preceding subpar. (A) and “item 812.25 or 813.31 of section 1202 of this title” for “paragraph 1798(b)(2) or (c)(2) of section 1201 of this title” in subpar. (B). 1961—Subsec. (a). Pub. L. 87–261 inserted “(b)(2) or” after “paragraph 1798”. 1953—Act Aug. 8, 1953, amended section generally. Prior to amendment, section read as follows: “Collectors of customs are hereby authorized, under such regulations as the Secretary of the Treasury may prescribe, to disregard a difference of less than $1 between the total estimated duties or taxes deposited, or the total duties or taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties or taxes actually accruing thereon, and to admit articles free of duty when the expense and inconvenience of collecting the duty accruing thereon would be disproportionate to the amount of such duty, but the aggregate value of articles imported by one person on one day and exempted from the payment of duty under the authority of this section shall not exceed $5 in the case of articles accompanying, and for the personal or household use of, persons arriving in the United States, or $1 in any other case.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentPub. L. 119–21, title VII, § 70531(a)(2), July 4, 2025, 139 Stat. 283, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect 30 days after the date of the enactment of this Act [July 4, 2025].” Pub. L. 119–21, title VII, § 70531(b)(3), July 4, 2025, 139 Stat. 283, provided that: “The amendments made by this subsection [amending this section] shall take effect on July 1, 2027.”
+
+Effective Date of 2016 AmendmentPub. L. 114–125, title IX, § 901(d), Feb. 24, 2016, 130 Stat. 223, provided that: “The amendment made by subsection (c) [amending this section] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Feb. 24, 2016].”
+
+Effective Date of 1996 AmendmentPub. L. 104–295, § 3(b), Oct. 11, 1996, 110 Stat. 3516, provided that: “The amendments made by this section [amending this section and sections 1401, 1431, 1504, 1508, 1509, 1515, 1592, and 1631 of this title and repealing section 1707 of this title] shall apply as of December 8, 1993.”
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+
+Effective Date of 1983 AmendmentPub. L. 97–446, title I, § 115(c), Jan. 12, 1983, 96 Stat. 2335, provided that: “The amendments made by this section [amending the Tariff Schedules and this section] shall apply with respect to returning residents of the United States who arrive in the United States on or after the 15th day after the date of the enactment of this Act [Jan. 12, 1983].”
+
+Effective Date of 1975 AmendmentPub. L. 93–618, title VI, § 610(b), Jan. 3, 1975, 88 Stat. 2075, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to articles entered, or withdrawn from warehouse, for consumption after the date of enactment of this Act [Jan. 3, 1975].”
+
+Effective Date of 1965 AmendmentPub. L. 89–62, § 4, June 30, 1965, 79 Stat. 208, provided in part that: “The amendments made by section 2 [amending this section] shall apply with respect to articles arriving in the United States on or after October 1, 1965.”
+
+Effective Date of 1961 AmendmentPub. L. 87–261, § 2(d), Sept. 21, 1961, 75 Stat. 541, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and former section 1201 of this title] shall apply with respect to persons arriving in the United States on or after the 30th day after the date of the enactment of this Act [Sept. 21, 1961].”
+
+Effective Date of 1953 Amendment; Savings ProvisionAmendment by act Aug. 8, 1953, effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
+
+Effective DateSection effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as an Effective Date of 1938 Amendment note under section 1401 of this title.

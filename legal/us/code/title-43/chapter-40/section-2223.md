@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 2223"
+description: "Plan elements"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "40"
+chapter_name: "RECLAMATION STATES EMERGENCY DROUGHT RELIEF"
+section: "2223"
+citation: "43 U.S.C. § 2223"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s2223"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "f7b791a33e958259e4ddf3bb215e9d74050fb9db1320920460fe3474311cf768"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "fcbf2e353854c02dcda01073a58ea6d22033dc58738eae82eee911acf3d0b15a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 2223 - Plan elements
+
+## Text
+
+(a) Plan provisions Elements of the contingency plans prepared pursuant to section 2222 of this title may include, but are not limited to, any or all of the following:
+
+(1) Water banks.
+
+(2) Appropriate water conservation actions.
+
+(3) Water transfers to serve users inside or outside authorized Federal Reclamation project service areas in order to mitigate the effects of drought.
+
+(4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fish and wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
+
+(5) Use of water from dead or inactive reservoir storage or increased use of ground water resources for temporary water supplies.
+
+(6) Water supplies for fish and wildlife resources.
+
+(7) Minor structural actions.
+
+(b) Federal Reclamation projects Each contingency plan shall identify the following two types of plan elements related to Federal Reclamation projects:
+
+(1) Those plan elements which pertain exclusively to the responsibilities and obligations of the Secretary pursuant to Federal Reclamation law and the responsibilities and obligations of the Secretary for a specific Federal Reclamation project.
+
+(2) Those plan elements that pertain to projects, purposes, or activities not constructed, financed, or otherwise governed by the Federal Reclamation law.
+
+(c) Drought levels The Secretary is authorized to work with other Federal and State agencies to improve hydrologic data collection systems and water supply forecasting techniques to provide more accurate and timely warning of potential drought conditions and drought levels that would trigger the implementation of contingency plans.
+
+(d) Compliance with law The contingency plans and plan elements shall comply with all requirements of applicable Federal law, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321), section 2265(a) of title 33, and the Fish and Wildlife Coordination Act [16 U.S.C. 661 et seq.], and shall be in accordance with applicable State law.
+
+(e) Review The contingency plans shall include provisions for periodic review to assure the adequacy of the contingency plan to respond to current conditions, and such plans may be modified accordingly.
+
+(Pub. L. 102–250, title II, § 203, Mar. 5, 1992, 106 Stat. 57.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables. The Fish and Wildlife Coordination Act, referred to in subsec. (d), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.

@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 14401"
+description: "Findings and purpose"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "138"
+chapter_name: "ASSISTED SUICIDE FUNDING RESTRICTION"
+section: "14401"
+citation: "42 U.S.C. § 14401"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s14401"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "61be11a69b1da61616c7b0c936f58d5b2a105ae29377d1cdcf6a80790c9c5189"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "9c765e94b227ba8ae31c9dc98f8af5146e1c6d8198c4e47c73429a419e05af81"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 14401 - Findings and purpose
+
+## Text
+
+(a) Findings Congress finds the following:
+
+(1) The Federal Government provides financial support for the provision of and payment for health care services, as well as for advocacy activities to protect the rights of individuals.
+
+(2) Assisted suicide, euthanasia, and mercy killing have been criminal offenses throughout the United States and, under current law, it would be unlawful to provide services in support of such illegal activities.
+
+(3) Because of recent legal developments, it may become lawful in areas of the United States to furnish services in support of such activities.
+
+(4) Congress is not providing Federal financial assistance in support of assisted suicide, euthanasia, and mercy killing and intends that Federal funds not be used to promote such activities.
+
+(b) Purpose It is the principal purpose of this chapter to continue current Federal policy by providing explicitly that Federal funds may not be used to pay for items and services (including assistance) the purpose of which is to cause (or assist in causing) the suicide, euthanasia, or mercy killing of any individual.
+
+(Pub. L. 105–12, § 2, Apr. 30, 1997, 111 Stat. 23.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, known as the Assisted Suicide Funding Restriction Act of 1997. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 105–12, § 11, Apr. 30, 1997, 111 Stat. 29, provided that: “(a) In General.—The provisions of this Act [see Short Title note below] (and the amendments made by this Act) take effect upon its enactment [Apr. 30, 1997] and apply, subject to subsection (b), to Federal payments made pursuant to obligations incurred after the date of the enactment of this Act for items and services provided on or after such date. “(b) Application to Contracts.—Such provisions shall apply with respect to contracts entered into, renewed, or extended after the date of the enactment of this Act [Apr. 30, 1997] and shall also apply to a contract entered into before such date to the extent permitted under such contract.”
+
+Short TitlePub. L. 105–12, § 1(a), Apr. 30, 1997, 111 Stat. 23, provided that: “This Act [enacting this chapter, section 238o of this title, section 1621x of Title 25, Indians, and section 1707 of Title 38, Veterans’ Benefits, amending sections 295, 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, section 8902 of Title 5, Government Organization and Employees, section 1073 of Title 10, Armed Forces, section 4005 of Title 18, Crimes and Criminal Procedure, section 2504 of Title 22, Foreign Relations and Intercourse, and section 794e of Title 29, Labor, and enacting provisions set out as notes under this section and section 295 of this title] may be cited as the ‘Assisted Suicide Funding Restriction Act of 1997’.”
+
+Construction of Conforming AmendmentsPub. L. 105–12, § 9(p), Apr. 30, 1997, 111 Stat. 29, provided that: “The fact that a law is not amended under this section [enacting section 238o of this title, section 1621x of Title 25, Indians, and section 1707 of Title 38, Veterans’ Benefits, amending sections 701, 1395y, 1395cc, 1396a, 1396b, 1397d, 2996f, 6022, 6042, 6062, 6082, and 10805 of this title, section 8902 of Title 5, Government Organization and Employees, section 1073 of Title 10, Armed Forces, section 4005 of Title 18, Crimes and Criminal Procedure, section 2504 of Title 22, Foreign Relations and Intercourse, and section 794e of Title 29, Labor] shall not be construed as indicating that the provisions of this Act [see Short Title note above] do not apply to such a law.”

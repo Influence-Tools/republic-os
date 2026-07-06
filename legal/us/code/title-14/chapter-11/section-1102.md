@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 1102"
+description: "Improvements in Coast Guard acquisition management"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "11"
+chapter_name: "ACQUISITIONS"
+section: "1102"
+citation: "14 U.S.C. § 1102"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s1102"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "8b48f3308b6c93cae720f201b9d2609d4bec78797d5c763773ea9c8f0fd3c832"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "829c9c7ec46fc520a0323aa12029cd3bff4e1fd50bcc8a0dabc29aa17bd4d6b2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 1102 - Improvements in Coast Guard acquisition management
+
+## Text
+
+(a) Project or Program Managers.— (1) Level 1 projects.— An individual may not be assigned as the project or program manager for a Level 1 acquisition unless the individual holds a Level III acquisition certification as a program manager.
+
+(2) Level 2 projects.— An individual may not be assigned as the project or program manager for a Level 2 acquisition unless the individual holds a Level II acquisition certification as a program manager.
+
+(b) Acquisition Workforce.— (1) In general.— The Commandant shall designate a sufficient number of positions to be in the Coast Guard’s acquisition workforce to perform acquisition-related functions at Coast Guard headquarters and field activities.
+
+(2) Required positions.— In designating positions under subsection (a), the Commandant shall include, at a minimum, positions encompassing the following competencies and functions:
+
+(A) Program management.
+
+(B) Systems planning, research, development, engineering, and testing.
+
+(C) Procurement, including contracting.
+
+(D) Industrial and contract property management.
+
+(E) Life-cycle logistics.
+
+(F) Quality control and assurance.
+
+(G) Manufacturing and production.
+
+(H) Business, cost estimating, financial management, and auditing.
+
+(I) Acquisition education, training, and career development.
+
+(J) Construction and facilities engineering.
+
+(K) Testing and evaluation.
+
+(3) Acquisition management headquarter activities.— The Commandant shall also designate as positions in the acquisition workforce under paragraph (1) those acquisition-related positions located at Coast Guard headquarters units.
+
+(4) Appropriate expertise required.— The Commandant shall ensure that each individual assigned to a position in the acquisition workforce has the appropriate expertise to carry out the responsibilities of that position.
+
+(c) Management Information System.— (1) In general.— The Commandant shall establish a management information system capability to improve acquisition workforce management and reporting.
+
+(2) Information maintained.— Information maintained with such capability shall include the following standardized information on individuals assigned to positions in the workforce:
+
+(A) Qualifications, assignment history, and tenure of those individuals assigned to positions in the acquisition workforce or holding acquisition-related certifications.
+
+(B) Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
+
+(d) Appointments to Acquisition Positions.— The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of individuals for positions in the acquisition workforce.
+
+(e) Career Paths.— (1) Identification of career paths.— To establish acquisition management as a core competency of the Coast Guard, the Commandant shall—
+
+(A) ensure that career paths for officers, members, and employees of the Coast Guard who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of those officers, members, and employees to the most senior positions in the acquisition workforce; and
+
+(B) publish information on such career paths.
+
+(2) Promotion parity.— The Commandant shall ensure that promotion parity is established for officers and members of the Coast Guard who have been assigned to the acquisition workforce relative to officers and members who have not been assigned to the acquisition workforce.
+
+(Added Pub. L. 111–281, title IV, § 402(a), Oct. 15, 2010, 124 Stat. 2931, § 562; amended Pub. L. 111–330, § 1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 112–213, title II, § 210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551; Pub. L. 114–328, div. A, title VIII, § 899(b)(1)(B), Dec. 23, 2016, 130 Stat. 2333; renumbered § 1102, Pub. L. 115–282, title I, § 108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(10), Jan. 1, 2021, 134 Stat. 4748.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of enactment of the Coast Guard Authorization Act of 2010 and the date of enactment of this section, referred to in subsec. (b)(1), (2)(A), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
+
+Amendments2021—Subsec. (d). Pub. L. 116–283 substituted “individuals” for “persons”. 2018—Pub. L. 115–282 renumbered section 562 of this title as this section. 2016—Subsecs. (b) to (g). Pub. L. 114–328 redesignated subsecs. (c), (d), (f), and (g) as (b), (c), (d), and (e), respectively, and struck out former subsec. (b) which related to guidance on tenure and accountability of program and project managers. 2012—Subsec. (e). Pub. L. 112–213 struck out subsec. (e) which related to annual report on adequacy of acquisition workforce. 2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2010 AmendmentPub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(4) is effective with the enactment of Pub. L. 111–281.
+
+Acquisition Workforce Expedited Hiring AuthorityPub. L. 111–281, title IV, § 404, Oct. 15, 2010, 124 Stat. 2950, as amended by Pub. L. 112–213, title II, § 218, Dec. 20, 2012, 126 Stat. 1558; Pub. L. 115–282, title VIII, § 804, Dec. 4, 2018, 132 Stat. 4300, which authorized the Commandant of the Coast Guard to recruit and appoint persons directly to certain acqusition positions in the Coast Guard, was repealed by Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8219(c), Jan. 1, 2021, 134 Stat. 4656.

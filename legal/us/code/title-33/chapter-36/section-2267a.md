@@ -1,0 +1,127 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 2267a"
+description: "Watershed and river basin assessments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "36"
+chapter_name: "WATER RESOURCES DEVELOPMENT"
+section: "2267a"
+citation: "33 U.S.C. § 2267a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s2267a"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "eb27eeac340b43c1c07a10c1b422e5e40b0e34dab5c6a53de4cf8f9fb8f8523f"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "4e8283dfe11699b73d00c094c4a8722394654fbe3eab139a7171097064c977a2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 2267a - Watershed and river basin assessments
+
+## Text
+
+(a) In general The Secretary may assess the water resources needs of river basins and watersheds of the United States, including needs relating to—
+
+(1) ecosystem protection and restoration;
+
+(2) flood damage reduction;
+
+(3) navigation and ports;
+
+(4) watershed protection;
+
+(5) water supply;
+
+(6) drought preparedness;
+
+(7) sea level rise;
+
+(8) coastal storm damage reduction; and
+
+(9) streambank and shoreline protection.
+
+(b) Cooperation An assessment under subsection (a) shall be carried out in cooperation and coordination with—
+
+(1) the Secretary of the Interior;
+
+(2) the Secretary of Agriculture;
+
+(3) the Secretary of Commerce;
+
+(4) the Administrator of the Environmental Protection Agency; and
+
+(5) the heads of other appropriate agencies.
+
+(c) Consultation In carrying out an assessment under subsection (a), the Secretary shall consult with Federal, tribal, State, interstate, and local governmental entities.
+
+(d) Priority river basins and watersheds In selecting river basins and watersheds for assessment under this section, the Secretary shall give priority to—
+
+(1) the Delaware River basin;
+
+(2) the Kentucky River basin;
+
+(3) the Potomac River basin;
+
+(4) the Susquehanna River basin;
+
+(5) the Willamette River basin;
+
+(6) Tuscarawas River Basin, Ohio;
+
+(7) Sauk River Basin, Snohomish and Skagit Counties, Washington;
+
+(8) Niagara River Basin, New York;
+
+(9) Genesee River Basin, New York;
+
+(10) White River Basin, Arkansas and Missouri;
+
+(11) New York-New Jersey Watershed Basin, which encompasses all the watersheds that flow into the New York-New Jersey Harbor and their associated estuaries, including the Hudson, Mohawk, Raritan, Passaic, Hackensack, and Bronx River Watersheds and the Hudson River Estuary;
+
+(12) Mississippi River Watershed;
+
+(13) Chattahoochee River Basin, Alabama, Florida, and Georgia;
+
+(14) the Walla Walla River Basin;
+
+(15) the San Francisco Bay Basin;
+
+(16) Connecticut River Watershed, Connecticut, Massachusetts, New Hampshire, and Vermont;
+
+(17) Lower Rouge River Watershed, Michigan; and
+
+(18) Grand River Watershed, Michigan.
+
+(e) Acceptance of contributions In carrying out an assessment under subsection (a), the Secretary may accept contributions, in cash or in kind, from Federal, tribal, State, interstate, and local governmental entities to the extent that the Secretary determines that the contributions will facilitate completion of the assessment.
+
+(f) Cost-sharing requirements (1) Non-Federal share The non-Federal share of the costs of an assessment carried out under this section on or after December 11, 2000, shall be 25 percent.
+
+(2) Credit (A) In general Subject to subparagraph (B), the Secretary may credit toward the non-Federal share of an assessment under this section the cost of services, materials, supplies, or other in-kind contributions provided by the non-Federal interests for the assessment.
+
+(B) Maximum amount of credit The credit under subparagraph (A) may not exceed an amount equal to 25 percent of the costs of the assessment.
+
+(g) Feasibility report on project specific recommendations from assessments (1) In general At the request of a non-Federal interest for an assessment completed under this section, the Secretary is authorized to prepare a feasibility report, in accordance with the requirements of section 2282 of this title, recommending the construction or modification of a water resources development project to address a water resources need of a river basin or watershed of the United States identified in the assessment.
+
+(2) Priority watersheds In carrying out this subsection, the Secretary shall give priority to—
+
+(A) the watersheds of the island of Maui, Hawaii, including the Wahikuli, Honoko̅wai, Kahana, Honokahua, and Honolua watersheds, including the coral reef habitat north of Lahaina off the northwestern coast of the island of Maui; and
+
+(B) the watersheds of the Northern Mariana Islands, American Samoa, and Guam.
+
+(Pub. L. 99–662, title VII, § 729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, § 202, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, § 2010, Nov. 8, 2007, 121 Stat. 1074; Pub. L. 117–263, div. H, title LXXXI, § 8302, Dec. 23, 2022, 136 Stat. 3776; Pub. L. 118–272, div. A, title I, § 1143, Jan. 4, 2025, 138 Stat. 3034.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (d)(14) to (18). Pub. L. 118–272, § 1143(1), added pars. (14) to (18). Subsec. (g). Pub. L. 118–272, § 1143(2), added subsec. (g). 2022—Subsec. (a)(7) to (9). Pub. L. 117–263, § 8302(1), added pars. (7) to (9). Subsec. (d)(11) to (13). Pub. L. 117–263, § 8302(2), added pars. (11) to (13). 2007—Subsec. (d)(6) to (10). Pub. L. 110–114, § 2010(1), added pars. (6) to (10). Subsec. (f)(1). Pub. L. 110–114, § 2010(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The non-Federal share of the costs of an assessment carried out under this section shall be 50 percent.” Subsec. (g). Pub. L. 110–114, § 2010(3), struck out heading and text of subsec. (g). Text read as follows: “There is authorized to be appropriated to carry out this section $15,000,000.” 2000—Pub. L. 106–541 amended section catchline and text generally. Prior to amendment, section read as follows: “(a) The Secretary, in coordination with the Secretary of the Interior and in consultation with appropriate Federal, State, and local agencies, is authorized to study the water resources needs of river basins and regions of the United States. The Secretaries shall report the results of such study to Congress not later than October 1, 1988. “(b) In carrying out the studies authorized under subsection (a) of this section, the Secretaries shall consult with State, interstate, and local governmental entities. “(c) There is authorized to be appropriated $5,000,000 for fiscal years beginning after September 30, 1986, to carry out this section.”

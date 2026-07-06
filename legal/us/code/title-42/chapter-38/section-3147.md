@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3147"
+description: "Grants for training, research, and technical assistance"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "38"
+chapter_name: "PUBLIC WORKS AND ECONOMIC DEVELOPMENT"
+section: "3147"
+citation: "42 U.S.C. § 3147"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3147"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "311e2b359acf534a6e8c8f3bb3e08086908b597ed56e7822477c9536284f99ab"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "2c765dde1b70190b4055cc7a85e95ea73385974152e747ea0d30a3d872eeec9c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3147 - Grants for training, research, and technical assistance
+
+## Text
+
+(a) In general (1) Grants On the application of an eligible recipient, the Secretary may make grants for training, research, and technical assistance, including grants for program evaluation and economic impact analyses, that would be useful in alleviating or preventing conditions of excessive unemployment or underemployment.
+
+(2) Types of assistance Grants under paragraph (1) may be used for—
+
+(A) project planning, project predevelopment, and feasibility studies;
+
+(B) demonstrations of innovative activities or strategic economic development investments;
+
+(C) management and operational assistance;
+
+(D) establishment of university centers;
+
+(E) establishment of business outreach centers;
+
+(F) studies evaluating the needs of, and development potential for, economic growth of areas that the Secretary determines have substantial need for the assistance;
+
+(G) studies that evaluate the effectiveness of coordinating projects funded under this chapter with projects funded under other Acts;
+
+(H) assessment, marketing, and establishment of business clusters; and
+
+(I) other activities determined by the Secretary to be appropriate.
+
+(3) Cooperation requirement In the case of a project assisted under this section that is national or regional in scope, the Secretary may waive the provision in section 3122(6)(A)(vi) of this title requiring a nonprofit organization or association to act in cooperation with officials of a political subdivision of a State.
+
+(b) Methods of provision of assistance In providing research and technical assistance under this section, the Secretary, in addition to making grants under subsection (a), may—
+
+(1) provide research and technical assistance through officers or employees of the Department;
+
+(2) pay funds made available to carry out this section to Federal agencies; or
+
+(3) employ private individuals, partnerships, businesses, corporations, or appropriate institutions under contracts entered into for that purpose.
+
+(c) University centers (1) Establishment In accordance with subsection (a)(2)(D), the Secretary may make grants to institutions of higher education to serve as university centers.
+
+(2) Geographic coverage The Secretary shall ensure that the network of university centers established under this subsection provides services in each State.
+
+(3) Duties To the maximum extent practicable, a university center established under this subsection shall—
+
+(A) collaborate with other university centers;
+
+(B) collaborate with economic development districts and other relevant Federal economic development technical assistance and service providers to provide expertise and technical assistance to develop, implement, and support comprehensive economic development strategies and other economic development planning at the local, regional, and State levels, with a focus on innovation, entrepreneurship, workforce development, and regional economic development;
+
+(C) provide technical assistance, business development, and technology transfer services to businesses in the area served by the university center;
+
+(D) establish partnerships with 1 or more commercialization intermediaries that are public or nonprofit technology transfer organizations eligible to receive a grant under section 1862s–9 of this title;
+
+(E) promote local and regional capacity building; and
+
+(F) provide to communities and regions assistance relating to data collection and analysis and other research relating to economic conditions and vulnerabilities that can inform economic development and adjustment strategies.
+
+(4) Consideration In making grants under this subsection, the Secretary shall consider—
+
+(A) the significant role of regional public universities in supporting economic development in distressed communities through the planning and the implementation of economic development projects and initiatives; and
+
+(B) the location of the university center in or near a distressed community.
+
+(Pub. L. 89–136, title II, § 207, as added Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3604; amended Pub. L. 108–373, title II, § 205, Oct. 27, 2004, 118 Stat. 1761; Pub. L. 118–272, div. B, title II, §§ 2211(b), 2217, Jan. 4, 2025, 138 Stat. 3178, 3181.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a)(2)(A). Pub. L. 118–272, § 2217(1), inserted “, project predevelopment,” after “planning”. Subsec. (a)(3). Pub. L. 118–272, § 2211(b), substituted “section 3122(4)(A)(vi) of this title” for “section 3122(6)(A)(vi) of this title”. Subsec. (c). Pub. L. 118–272, § 2217(2), added subsec. (c). 2004—Subsec. (a)(2)(G) to (I). Pub. L. 108–373, § 205(a), added subpars. (G) and (H) and redesignated former subpar. (G) as (I). Subsec. (a)(3). Pub. L. 108–373, § 205(b), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “In the case of a project assisted under this section, the Secretary may reduce or waive the non-Federal share, without regard to section 3144 or 3145 of this title, if the Secretary finds that the project is not feasible without, and merits, such a reduction or waiver.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.

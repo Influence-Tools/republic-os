@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 17086"
+description: "Advanced integration of buildings onto the electric grid"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "152"
+chapter_name: "ENERGY INDEPENDENCE AND SECURITY"
+section: "17086"
+citation: "42 U.S.C. § 17086"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s17086"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "c0d4e9e62012ac35ddd170cd921d5a6bb482c746d9216acdd589ce3ca80f1801"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "371405c5184785e6fefa1db97e4c191764adad14c2f2cf468a4c0d019adef026"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 17086 - Advanced integration of buildings onto the electric grid
+
+## Text
+
+(a) In general The Secretary shall establish a program of research, development, and demonstration to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid. The program shall focus on—
+
+(1) developing low-cost, low power, wireless sensors to—
+
+(A) monitor building energy load;
+
+(B) forecast building energy need; and
+
+(C) enable building-level energy control;
+
+(2) developing data management capabilities and standard communication protocols to further interoperability at the building and grid-level;
+
+(3) developing advanced building-level energy management of components through integration of smart technologies, control systems, and data processing, to enable energy efficiency and savings;
+
+(4) optimizing energy consumption at the building level to enable grid stability and resilience;
+
+(5) improving visualization of behind the meter equipment and technologies to provide better insight into the energy needs and energy forecasts of individual buildings;
+
+(6) reducing the cost of key components to accelerate the adoption of smart building technologies;
+
+(7) protecting against cybersecurity threats and addressing security vulnerabilities of building systems or equipment; and
+
+(8) other areas determined appropriate by the Secretary.
+
+(b) Considerations In carrying out the program under subsection (a), the Secretary shall—
+
+(1) work with utility partners, building owners, technology vendors, and building developers to test and validate technologies and encourage the commercial application of these technologies by building owners; and
+
+(2) consider the specific challenges of enabling greater interaction between components of—
+
+(A) small- and medium-sized buildings and the electric grid; and
+
+(B) residential and commercial buildings and the electric grid.
+
+(c) Buildings-to-grid integration report Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the results of a study that examines the research, development, and demonstration opportunities, challenges, and standards needed to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid.
+
+(1) Report requirements The report shall include—
+
+(A) an assessment of the technologies needed to enable building components as dynamic loads on and resources for the electric grid, including how such technologies can be—
+
+(i) incorporated into new commercial and residential buildings; and
+
+(ii) retrofitted in older buildings;
+
+(B) guidelines for the design of new buildings and building components to enable modern grid interactivity and improve energy efficiency;
+
+(C) an assessment of barriers to the adoption by building owners of advanced technologies enabling greater integration of building components onto the electric grid; and
+
+(D) an assessment of the feasibility of adopting technologies developed under subsection (a) at Department facilities.
+
+(2) Recommendations As part of the report, the Secretary shall develop a 10-year roadmap to guide the research, development, and demonstration program to enable components of commercial and residential buildings to serve as dynamic energy loads on and resources for the electric grid.
+
+(3) Updates The Secretary shall update the report required under this section every 3 years for the duration of the program under subsection (a) and shall submit the updated report to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+(d) Program implementation In carrying out this section, the Secretary shall—
+
+(1) implement the recommendations from the report in subsection (c); and
+
+(2) coordinate across all relevant program offices at the Department to achieve the goals established in this section, including the Office of Electricity.
+
+(Pub. L. 110–140, title IV, § 426, as added Pub. L. 116–260, div. Z, title I, § 1007(e)(1), Dec. 27, 2020, 134 Stat. 2435.)

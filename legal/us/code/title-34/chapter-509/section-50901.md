@@ -1,0 +1,129 @@
+---
+type: "LegalText"
+title: "34 U.S.C. § 50901"
+description: "Confidentiality of peer support communications"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 34
+title_name: "CRIME CONTROL AND LAW ENFORCEMENT"
+chapter_number: "509"
+chapter_name: "CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORT COUNSELING"
+section: "50901"
+citation: "34 U.S.C. § 50901"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc34@119-100.zip"
+source_identifier: "/us/usc/t34/s50901"
+source_file: "data/legal/raw/us/code/title-34/usc34.xml"
+source_hash: "518c02f75eba810e0e69ad2b37f6df49d9c135127bf45e95fe239c0966efe719"
+raw_snapshot_hash: "7528207b20373f75fea96478ab5313727f47852e5364ee8c5ea18909f66a9da3"
+text_hash: "27e58481c9011b31f53ae73b84c8380aba6f00fb99aca6b481812c73afcb7e82"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 34 U.S.C. § 50901 - Confidentiality of peer support communications
+
+## Text
+
+(a) Definitions In this section:
+
+(1) Law enforcement agency The term “law enforcement agency” means a Federal agency that employs a law enforcement officer.
+
+(2) Law enforcement officer The term “law enforcement officer” has the meaning given the term “Federal law enforcement officer” in section 115 of title 18.
+
+(3) Peer support communication The term “peer support communication” includes—
+
+(A) an oral or written communication made in the course of a peer support counseling session;
+
+(B) a note or report arising out of a peer support counseling session;
+
+(C) a record of a peer support counseling session; or
+
+(D) with respect to a communication made by a peer support participant in the course of a peer support counseling session, another communication, regarding the first communication, that is made between a peer support specialist and—
+
+(i) another peer support specialist;
+
+(ii) a staff member of a peer support counseling program; or
+
+(iii) a supervisor of the peer support specialist.
+
+(4) Peer support counseling program The term “peer support counseling program” means a program provided by a law enforcement agency that provides counseling services from a peer support specialist to a law enforcement officer of the agency.
+
+(5) Peer support counseling session The term “peer support counseling session” means any counseling formally provided through a peer support counseling program between a peer support specialist and 1 or more law enforcement officers.
+
+(6) Peer support participant The term “peer support participant” means a law enforcement officer who receives counseling services from a peer support specialist.
+
+(7) Peer support specialist The term “peer support specialist” means a law enforcement officer who—
+
+(A) has received training in—
+
+(i) peer support counseling; and
+
+(ii) providing emotional and moral support to law enforcement officers who have been involved in or exposed to an emotionally traumatic experience in the course of employment; and
+
+(B) is designated by a law enforcement agency to provide the services described in subparagraph (A).
+
+(b) Prohibition Except as provided in subsection (c), a peer support specialist or a peer support participant may not disclose the contents of a peer support communication to an individual who was not a party to the peer support communication.
+
+(c) Exceptions Subsection (b) shall not apply to a peer support communication if—
+
+(1) the peer support communication contains—
+
+(A) an explicit threat of suicide by an individual in which the individual—
+
+(i) shares—
+
+(I) an intent to die by suicide; and
+
+(II) a plan for a suicide attempt or the means by which the individual plans to carry out a suicide attempt; and
+
+(ii) does not solely share that the individual is experiencing suicidal thoughts;
+
+(B) an explicit threat by an individual of imminent and serious physical bodily harm or death to another individual;
+
+(C) information—
+
+(i) relating to the abuse or neglect of—
+
+(I) a child; or
+
+(II) an older or vulnerable individual; or
+
+(ii) that is required by law to be reported; or
+
+(D) an admission of criminal conduct;
+
+(2) the disclosure is permitted by each peer support participant who was a party to, as applicable—
+
+(A) the peer support communication;
+
+(B) the peer support counseling session out of which the peer support communication arose;
+
+(C) the peer support counseling session of which the peer support communication is a record; or
+
+(D) the communication made in the course of a peer support counseling session that the peer support communication is regarding;
+
+(3) a court of competent jurisdiction issues an order or subpoena requiring the disclosure of the peer support communication; or
+
+(4) the peer support communication contains information that is required by law to be disclosed.
+
+(d) Rule of construction Nothing in subsection (b) shall be construed to prohibit the disclosure of—
+
+(1) an observation made by a law enforcement officer of a peer support participant outside of a peer support counseling session; or
+
+(2) knowledge of a law enforcement officer about a peer support participant not gained from a peer support communication.
+
+(e) Disclosure of rights Before the initial peer support counseling session of a peer support participant, a peer support specialist shall inform the peer support participant in writing of the confidentiality requirement under subsection (b) and the exceptions to the requirement under subsection (c).
+
+(Pub. L. 117–60, § 2, Nov. 18, 2021, 135 Stat. 1470.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Short TitleFor short title of Pub. L. 117–60, which is classified to this chapter, as the “Confidentiality Opportunities for Peer Support Counseling Act” and also as the “COPS Counseling Act”, see section 1 of Pub. L. 117–60, set out as a Short Title of 2021 Amendment note under section 10101 of this title.

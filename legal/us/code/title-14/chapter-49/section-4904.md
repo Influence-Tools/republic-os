@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "14 U.S.C. § 4904"
+description: "Authorized levels of military strength and training"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 14
+title_name: "COAST GUARD"
+chapter_number: "49"
+chapter_name: "AUTHORIZATIONS"
+section: "4904"
+citation: "14 U.S.C. § 4904"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc14@119-100.zip"
+source_identifier: "/us/usc/t14/s4904"
+source_file: "data/legal/raw/us/code/title-14/usc14.xml"
+source_hash: "241673849666eaa4977bc3a371fc8ac0e0146bc2e64844e95b825f5762c0b698"
+raw_snapshot_hash: "0a287809467d795ac0e1a72d6743ea6b1d340c0f74c77c67bfeba10724006304"
+text_hash: "602213e2d7f3e09ed4ec955a15ba5be2a3cdb351f00725bc70754b0d93f8b906"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 14 U.S.C. § 4904 - Authorized levels of military strength and training
+
+## Text
+
+(a) Active Duty Strength.— The Coast Guard is authorized an end-of-year strength for active duty personnel of 50,000 for fiscal years 2026, and 55,000 for fiscal year 2027.
+
+(b) Military Training Student Loads.— The Coast Guard is authorized average military training student loads as follows:
+
+(1) For recruit and special training, 4,000 student years for each of fiscal years 2026 and 2027.
+
+(2) For flight training, 250 student years for each of fiscal years 2026 and 2027.
+
+(3) For professional training in military and civilian institutions, 700 student years for each of fiscal years 2026 and 2027.
+
+(4) For officer acquisition, 1,600 student years for each of fiscal years 2026 and 2027.
+
+(Added Pub. L. 114–120, title I, § 101(a), Feb. 8, 2016, 130 Stat. 29, § 2704; renumbered § 4904 and amended Pub. L. 115–282, title I, § 121(b), title II, § 203, Dec. 4, 2018, 132 Stat. 4238, 4242; Pub. L. 116–283, div. G, title LVXXXI [LXXXI], § 8102, Jan. 1, 2021, 134 Stat. 4634; Pub. L. 117–263, div. K, title CXI, § 11102, title CXIV, § 11413(c), Dec. 23, 2022, 136 Stat. 4004, 4120; Pub. L. 119–60, div. G, title LXXI, § 7102(a), Dec. 18, 2025, 139 Stat. 1663.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 7102(a)(1), substituted “50,000 for fiscal years 2026, and 55,000 for fiscal year 2027” for “44,500 for each of fiscal years 2022 and 2023”. Subsec. (b). Pub. L. 119–60, § 7102(a)(2)(A), struck out “for each of fiscal years 2022 and 2023” after “average military training student loads” in introductory provisions. Subsec. (b)(1). Pub. L. 119–60, § 7102(a)(2)(B), substituted “4,000 student years for each of fiscal years 2026 and 2027” for “2,500 student years”. Subsec. (b)(2). Pub. L. 119–60, § 7102(a)(2)(C), substituted “250 student years for each of fiscal years 2026 and 2027” for “165 student years”. Subsec. (b)(3). Pub. L. 119–60, § 7102(a)(2)(D), substituted “700 student years for each of fiscal years 2026 and 2027” for “385 student years”. Subsec. (b)(4). Pub. L. 119–60, § 7102(a)(2)(E), substituted “1,600 student years for each of fiscal years 2026 and 2027” for “1,200 student years”. 2022—Subsec. (a). Pub. L. 117–263, § 11102(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”. Subsec. (b). Pub. L. 117–263, § 11102(2), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”. Subsec. (b)(3). Pub. L. 117–263, § 11413(c), substituted “385” for “350”. 2021—Subsec. (a). Pub. L. 116–283, § 8102(1), substituted “44,500 for each of fiscal years 2020 and 2021” for “43,000 for fiscal year 2018 and 44,500 for fiscal year 2019”. Subsec. (b). Pub. L. 116–283, § 8102(2), substituted “fiscal years 2020 and 2021” for “fiscal years 2018 and 2019” in introductory provisions. 2018—Pub. L. 115–282 renumbered section 2704 of this title as this section. Subsec. (a). Pub. L. 115–282, § 203(1), substituted “for fiscal year 2018 and 44,500 for fiscal year 2019” for “for each of fiscal years 2016 and 2017”. Subsec. (b). Pub. L. 115–282, § 203(2), substituted “fiscal years 2018 and 2019” for “fiscal years 2016 and 2017” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Reporting RequirementPub. L. 119–60, div. G, title LXXI, § 7102(b), Dec. 18, 2025, 139 Stat. 1664, provided that: “In any fiscal year in which the submission required under section 1105 of title 31, United States Code, does not include a proportional increase in the Operations and Support funding under section 4902(1)(A) of title 14, United States Code, to support the end strengths authorized under the amendments made by subsection (a) [amending this section]— “(1) the Commandant [of the Coast Guard] shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the plan of the Coast Guard to achieve growth in the Coast Guard’s military strength to 60,000, which shall include—“(A) proposed missions and purposes for the growth of the Coast Guard in military strength; “(B) for each fiscal year from 2027 through 2032—“(i) the additional estimated cost of salaries and all benefits, including housing, education, and medical benefits; “(ii) estimated recruiting and training resources and costs; and “(iii) estimated resources and costs required to achieve sufficient training capacity for growth in enlisted and officer corps; and “(C) an explanation for why the estimated cost in subparagraph (B) was not included in the submission required under section 1105 of title 31, United States Code; and “(2) the Commandant [of the Coast Guard] may not delegate the briefing required in paragraph (1).”

@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "47 U.S.C. § 160"
+description: "Competition in provision of telecommunications service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 47
+title_name: "TELECOMMUNICATIONS"
+chapter_number: "5"
+chapter_name: "WIRE OR RADIO COMMUNICATION"
+section: "160"
+citation: "47 U.S.C. § 160"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc47@119-100.zip"
+source_identifier: "/us/usc/t47/s160"
+source_file: "data/legal/raw/us/code/title-47/usc47.xml"
+source_hash: "83c68d7eb3250b6eccf6948eae92616144e08d7ebfa2f4dcf812706a759e5ee7"
+raw_snapshot_hash: "7cfb2d22df305544d8fac4913876d34c6b712d99019bd01ec134ed44ef145534"
+text_hash: "56d1be17ea4401dc353ee4ef8e9c3b35c45a9ae7fb51181de3d7f7b4fae1e613"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 47 U.S.C. § 160 - Competition in provision of telecommunications service
+
+## Text
+
+(a) Regulatory flexibility Notwithstanding section 332(c)(1)(A) of this title, the Commission shall forbear from applying any regulation or any provision of this chapter to a telecommunications carrier or telecommunications service, or class of telecommunications carriers or telecommunications services, in any or some of its or their geographic markets, if the Commission determines that—
+
+(1) enforcement of such regulation or provision is not necessary to ensure that the charges, practices, classifications, or regulations by, for, or in connection with that telecommunications carrier or telecommunications service are just and reasonable and are not unjustly or unreasonably discriminatory;
+
+(2) enforcement of such regulation or provision is not necessary for the protection of consumers; and
+
+(3) forbearance from applying such provision or regulation is consistent with the public interest.
+
+(b) Competitive effect to be weighed In making the determination under subsection (a)(3), the Commission shall consider whether forbearance from enforcing the provision or regulation will promote competitive market conditions, including the extent to which such forbearance will enhance competition among providers of telecommunications services. If the Commission determines that such forbearance will promote competition among providers of telecommunications services, that determination may be the basis for a Commission finding that forbearance is in the public interest.
+
+(c) Petition for forbearance Any telecommunications carrier, or class of telecommunications carriers, may submit a petition to the Commission requesting that the Commission exercise the authority granted under this section with respect to that carrier or those carriers, or any service offered by that carrier or carriers. Any such petition shall be deemed granted if the Commission does not deny the petition for failure to meet the requirements for forbearance under subsection (a) within one year after the Commission receives it, unless the one-year period is extended by the Commission. The Commission may extend the initial one-year period by an additional 90 days if the Commission finds that an extension is necessary to meet the requirements of subsection (a). The Commission may grant or deny a petition in whole or in part and shall explain its decision in writing.
+
+(d) Limitation Except as provided in section 251(f) of this title, the Commission may not forbear from applying the requirements of section 251(c) or 271 of this title under subsection (a) of this section until it determines that those requirements have been fully implemented.
+
+(e) State enforcement after Commission forbearance A State commission may not continue to apply or enforce any provision of this chapter that the Commission has determined to forbear from applying under subsection (a).
+
+(June 19, 1934, ch. 652, title I, § 10, as added Pub. L. 104–104, title IV, § 401, Feb. 8, 1996, 110 Stat. 128.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.

@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 3566"
+description: "Implementation of a sentence of probation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "227"
+chapter_name: "SENTENCES"
+section: "3566"
+citation: "18 U.S.C. § 3566"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s3566"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "f07f554968484015381c1090a95af75a0cce73ba6253038392bfcb1b88039626"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "f2cad976b10d97afd88e07b4fca515176f4c9a94d5e45c85ce1e0d9cf9c877a2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 3566 - Implementation of a sentence of probation
+
+## Text
+
+The implementation of a sentence of probation is governed by the provisions of subchapter A of chapter 229.
+
+(Added Pub. L. 98–473, title II, § 212(a)(2), Oct. 12, 1984, 98 Stat. 1995.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsFor prior sections 3566 to 3570, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3551 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.

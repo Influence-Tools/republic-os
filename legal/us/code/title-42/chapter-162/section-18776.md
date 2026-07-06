@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 18776"
+description: "Expansion of international energy data"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "162"
+chapter_name: "ENERGY INFRASTRUCTURE"
+section: "18776"
+citation: "42 U.S.C. § 18776"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s18776"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "8c7811df1f8724038f92588fa91f23e284cfc06c475cd2f041e0ebb2922dce39"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "a6cf4e481d0d8861293909d1adcfa9132e5fa1fdc993f322ae29a9d043de5542"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 18776 - Expansion of international energy data
+
+## Text
+
+(a) In general Not later than 1 year after November 15, 2021, the Administrator shall implement measures to expand and improve the international energy data resources of the Energy Information Administration in order to understand—
+
+(1) the production and use of energy in various countries;
+
+(2) changing patterns of energy use internationally;
+
+(3) the relative costs and environmental impacts of energy production and use internationally; and
+
+(4) plans for or construction of major energy facilities or infrastructure.
+
+(b) Requirements In carrying out subsection (a), the Administrator shall—
+
+(1) work with, and leverage the data resources of, the International Energy Agency;
+
+(2) include detail on energy consumption by fuel, economic sector, and end use within countries for which data are available;
+
+(3) collect relevant measures of energy use, including—
+
+(A) cost; and
+
+(B) emissions intensity; and
+
+(4) provide tools that allow for straightforward country-to-country comparisons of energy production and consumption across economic sectors and end uses.
+
+(Pub. L. 117–58, div. D, title IV, § 40416, Nov. 15, 2021, 135 Stat. 1045.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Wage Rate RequirementsFor provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.

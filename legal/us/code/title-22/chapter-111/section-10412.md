@@ -1,0 +1,85 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 10412"
+description: "Designation of senior official for Department of Defense activities relating to, and implementation plan for, the AUKUS partnership"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "111"
+chapter_name: "AUSTRALIA, UNITED KINGDOM, AND UNITED STATES (AUKUS) SECURITY PARTNERSHIP"
+section: "10412"
+citation: "22 U.S.C. § 10412"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s10412"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "b91c720c13ddda202dc0921b2ddc382c7878141703f9e112317961578d843f5f"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "9b7f2f28c65613e69174be0a9752da94d54df0e3b6173c6e1a276d1bc6475edb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 10412 - Designation of senior official for Department of Defense activities relating to, and implementation plan for, the AUKUS partnership
+
+## Text
+
+(a) Designation of senior official Not later than 90 days after December 22, 2023, the Secretary of Defense shall designate a senior civilian official of the Department of Defense who shall be responsible for overseeing Department of Defense activities relating to the AUKUS partnership.
+
+(b) Plan (1) In general Not later than 90 days after December 22, 2023, the Secretary of Defense, in coordination with the Administrator for Nuclear Security and the Secretary of State, shall submit to the appropriate committees of Congress a report containing an implementation plan outlining Department of Defense efforts relating to the AUKUS partnership.
+
+(2) Elements The plan required by paragraph (1) shall include the following:
+
+(A) Timelines and major anticipated milestones for the implementation of the AUKUS partnership.
+
+(B) An identification of dependencies of such milestones on defense requirements that are—
+
+(i) unrelated to the AUKUS partnership; and
+
+(ii) solely within the decisionmaking responsibility of Australia or the United Kingdom.
+
+(C) A consideration of the implications of the plan on the industrial base with respect to—
+
+(i) the expansion of existing United States submarine construction capacity to fulfill United States, United Kingdom, and Australia requirements;
+
+(ii) acceleration of the restoration of United States capabilities for producing highly enriched uranium to fuel submarine reactors;
+
+(iii) stabilization of commodity markets and expanding supplies of high-grade steel, construction materials, and other resources required for improving shipyard condition and expanding throughput capacity; and
+
+(iv) coordination and synchronization of industrial sourcing opportunities among Australia, the United Kingdom, and the United States.
+
+(D) A description of resourcing and personnel requirements, including—
+
+(i) a detailed assessment of the feasibility of hiring and retaining additional foreign disclosure officers to facilitate more rapid technology transfer to Australia and the United Kingdom; and
+
+(ii) an assessment of any additional requirements for Department of Defense personnel to support the transfer of defense articles to Australia and the United Kingdom.
+
+(E) A plan for improving information sharing, including—
+
+(i) recommendations for modifications to foreign disclosure policies and processes;
+
+(ii) the promulgation of written information-sharing guidelines or policies to improve information sharing under the AUKUS partnership;
+
+(iii) the establishment of an information handling caveat specific to the AUKUS partnership; and
+
+(iv) the reduction in use of the Not Releasable to Foreign Nations (NOFORN) information handling caveat.
+
+(F) Processes for the protection of privately held intellectual property, including patents.
+
+(G) Recommended updates to other title 10 authorities or regulatory, policy, or process frameworks.
+
+(c) Semiannual updates Not later than 60 days after the date on which the plan required by subsection (b) is submitted, and semiannually thereafter not later than April 1 and October 1 each year through 2029, the senior civilian official designated under subsection (a) shall provide the congressional defense committees and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate with a briefing on the status of all Department activities to implement the AUKUS partnership.
+
+(Pub. L. 118–31, div. A, title XIII, § 1332, Dec. 22, 2023, 137 Stat. 505.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+“Congressional Defense Committees” Defined Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 118–31, set out as a note under section 101 of Title 10, Armed Forces.

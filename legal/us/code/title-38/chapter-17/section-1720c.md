@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1720C"
+description: "Noninstitutional alternatives to nursing home care"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "17"
+chapter_name: "HOSPITAL, NURSING HOME, DOMICILIARY, AND MEDICAL CARE"
+section: "1720C"
+citation: "38 U.S.C. § 1720C"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1720C"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "d2e5687dd80cd2849d5faf5231720ef7cbf25cd81c276fdaef4c4967c390d87c"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "82003ef17c25a53be79d558c5061b275d2857aebb423debc527fd4fbfe646019"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1720C - Noninstitutional alternatives to nursing home care
+
+## Text
+
+(a) The Secretary may furnish medical, rehabilitative, and health-related services in noninstitutional settings for veterans who are eligible under this chapter for, and are in need of, nursing home care. The Secretary shall give priority for participation in such program to veterans who—
+
+(1) are in receipt of, or are in need of, nursing home care primarily for the treatment of a service-connected disability; or
+
+(2) have a service-connected disability rated at 50 percent or more.
+
+(b) (1) Under the program conducted pursuant to subsection (a), the Secretary shall (A) furnish appropriate health-related services solely through contracts with appropriate public and private agencies that provide such services, and (B) designate Department health-care employees to furnish case management services to veteran furnished services under the program.
+
+(2) For the purposes of paragraph (1), the term “case management services” includes the coordination and facilitation of all services furnished to a veteran by the Department of Veterans Affairs, either directly or through contract, including assessment of needs, planning, referral (including referral for services to be furnished by the Department, either directly or through a contract, or by an entity other than the Department), monitoring, reassessment, and followup.
+
+(c) The Secretary may provide in-kind assistance (through the services of Department of Veterans Affairs employees and the sharing of other Department resources) to a facility furnishing services to veterans under subsection (b)(1)(A). Any such in-kind assistance shall be provided under a contract between the Department and the facility concerned. The Secretary may provide such assistance only for use solely in the furnishing of appropriate services under this section and only if, under such contract, the Department receives reimbursement for the full cost of such assistance (including the cost of services and supplies and normal depreciation and amortization of equipment). Such reimbursement may be made by reduction in the charges to the United States or by payment to the United States. Any funds received through such reimbursement shall be credited to funds allotted to the Department facility that provided the assistance.
+
+(d) (1) Except as provided in paragraph (2), the total cost of providing services or in-kind assistance in the case of any veteran for any fiscal year under the program may not exceed 100 percent of the cost that would have been incurred by the Department during that fiscal year if the veteran had been furnished, instead, nursing home care under section 1710 of this title during that fiscal year.
+
+(2) (A) The total cost of providing services or in-kind assistance in the case of any veteran described in subparagraph (B) for any fiscal year under the program may exceed 100 percent of the cost that would otherwise have been incurred as specified in paragraph (1) if the Secretary determines, based on a consideration of clinical need, geographic market factors, and such other matters as the Secretary may prescribe through regulation, that such higher total cost is in the best interest of the veteran.
+
+(B) A veteran described in this subparagraph is a veteran with amyotrophic lateral sclerosis, a spinal cord injury, or a condition the Secretary determines to be similar to such conditions.
+
+(e) The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to the extent that appropriations are available.
+
+(f) In furnishing services to a veteran under the program conducted pursuant to subsection (a), if a medical center of the Department through which such program is administered is located in a geographic area in which services are available to the veteran under a PACE program (as such term is defined in sections 1894(a)(2) and 1934(a)(2) of the Social Security Act (42 U.S.C. 1395eee(a)(2); 1396u–4(a)(2))), the Secretary shall seek to enter into an agreement with the PACE program operating in that area for the furnishing of such services.
+
+(Added Pub. L. 101–366, title II, § 201(a)(1), Aug. 15, 1990, 104 Stat. 437, § 620C; renumbered § 1720C and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, § 103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, § 206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289; Pub. L. 118–210, title I, §§ 120(a), 121, Jan. 2, 2025, 138 Stat. 2723, 2724.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (d). Pub. L. 118–210, § 120(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the total cost” for “The total cost” and “100 percent” for “65 percent”, and added par. (2). Subsec. (f). Pub. L. 118–210, § 121, added subsec. (f). 1997—Pub. L. 105–114, § 206(b)(2), struck out “: pilot program” after “home care” in section catchline. Subsec. (a). Pub. L. 105–114, § 206(a), substituted “The Secretary may furnish” for “During the period through December 31, 1997, the Secretary may conduct a pilot program for the furnishing of”. Subsec. (b)(1). Pub. L. 105–114, § 206(b)(1), substituted “Under the program” for “Under the pilot program”. Subsec. (d). Pub. L. 105–114, § 206(b)(1), substituted “under the program” for “under the pilot program”. 1996—Subsec. (a). Pub. L. 104–110 substituted “December 31, 1997” for “September 30, 1995” in introductory provisions. 1994—Subsec. (a). Pub. L. 103–452, in introductory provisions, substituted “During the period through September 30, 1995,” for “During the four-year period beginning on October 1, 1990,” and “care. The Secretary shall give priority for participation in such program to veterans who” for “care and who”. 1991—Pub. L. 102–83, § 5(a), renumbered section 620C of this title as this section. Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentPub. L. 118–210, title I, § 120(b), Jan. 2, 2025, 138 Stat. 2724, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning on or after the date of the enactment of this Act [Jan. 2, 2025].”
+
+Effective Date of 1994 AmendmentPub. L. 103–452, title I, § 103(c)(1), Nov. 2, 1994, 108 Stat. 4786, provided that the amendment made by that section is effective Oct. 1, 1994.
+
+Ratification of Actions During Period of Expired AuthorityAny action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+
+Report to Congressional CommitteesPub. L. 101–366, title II, § 201(b), Aug. 15, 1990, 104 Stat. 438, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, § 103(g), Nov. 2, 1994, 108 Stat. 4787, required the Secretary of Veterans Affairs, not later than Feb. 1, 1995, to submit to Congress a report setting forth the Secretary’s evaluation, findings, and conclusions regarding the conduct, through Sept. 30, 1993, of the pilot program required by this section and the results of the furnishing of care under the pilot program for the participating veterans.

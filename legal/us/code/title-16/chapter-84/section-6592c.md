@@ -1,0 +1,111 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 6592c"
+description: "Emergency actions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "84"
+chapter_name: "HEALTHY FOREST RESTORATION"
+section: "6592c"
+citation: "16 U.S.C. § 6592c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s6592c"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "9b77c034adb2a970002aa96273b96ee14767a1501912a28be2a01c588f6d0d14"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "9e5b15abd604fd8b8a1d6549623f179165861613974a83a99b3c3b34b4d482d4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 6592c - Emergency actions
+
+## Text
+
+(a) Definitions In this section:
+
+(1) Authorized emergency action The term “authorized emergency action” means an action carried out pursuant to an emergency situation determination issued under this section to mitigate the harm to life, property, or important natural or cultural resources on National Forest System land or adjacent land.
+
+(2) Emergency situation The term “emergency situation” means a situation on National Forest System land for which immediate implementation of 1 or more authorized emergency actions is necessary to achieve 1 or more of the following results:
+
+(A) Relief from hazards threatening human health and safety.
+
+(B) Mitigation of threats to natural resources on National Forest System land or adjacent land.
+
+(3) Emergency situation determination The term “emergency situation determination” means a determination made by the Secretary under subsection (b)(1)(A).
+
+(4) Land and resource management plan The term “land and resource management plan” means a plan developed under section 1604 of this title.
+
+(5) National Forest System land The term “National Forest System land” means land of the National Forest System (as defined in section 1609(a) of this title).
+
+(6) Secretary The term “Secretary” means the Secretary of Agriculture.
+
+(b) Authorized emergency actions to respond to emergency situations (1) Determination (A) In general The Secretary may make a determination that an emergency situation exists with respect to National Forest System land.
+
+(B) Review An emergency situation determination shall not be subject to objection under the predecisional administrative review processes under part 218 of title 36, Code of Federal Regulations (or successor regulations).
+
+(C) Basis of determination An emergency situation determination shall be based on an examination of the relevant information.
+
+(2) Authorized emergency actions After making an emergency situation determination with respect to National Forest System land, the Secretary may carry out authorized emergency actions on that National Forest System land in order to achieve reliefs from hazards threatening human health and safety or mitigation of threats to natural resources on National Forest System land or adjacent land, including through—
+
+(A) the salvage of dead or dying trees;
+
+(B) the harvest of trees damaged by wind or ice;
+
+(C) the commercial and noncommercial sanitation harvest of trees to control insects or disease, including trees already infested with insects or disease;
+
+(D) the reforestation or replanting of fire-impacted areas through planting, control of competing vegetation, or other activities that enhance natural regeneration and restore forest species;
+
+(E) the removal of hazardous trees in close proximity to roads and trails;
+
+(F) the removal of hazardous fuels;
+
+(G) the restoration of water sources or infrastructure;
+
+(H) the reconstruction of existing utility lines; and
+
+(I) the replacement of underground cables.
+
+(3) Relation to land and resource management plans Any authorized emergency action carried out under paragraph (2) on National Forest System land shall be conducted consistent with the applicable land and resource management plan.
+
+(c) Environmental analysis (1) Environmental assessment or environmental impact statement If the Secretary determines that an authorized emergency action requires an environmental assessment or an environmental impact statement pursuant to section 4332(2) of title 42, the Secretary shall study, develop, and describe—
+
+(A) the proposed agency action, taking into account the probable environmental consequences of the authorized emergency action and mitigating foreseeable adverse environmental effects, to the extent practicable; and
+
+(B) the alternative of no action.
+
+(2) Public notice The Secretary shall provide notice of each authorized emergency action that the Secretary determines requires an environmental assessment or environmental impact statement under paragraph (1), in accordance with applicable regulations and administrative guidelines.
+
+(3) Public comment The Secretary shall provide an opportunity for public comment during the preparation of any environmental assessment or environmental impact statement under paragraph (1).
+
+(4) Savings clause Nothing in this subsection prohibits the Secretary from—
+
+(A) making an emergency situation determination, including a determination that an emergency exists pursuant to section 218.21(a) of title 36, Code of Federal Regulations (or successor regulations); or
+
+(B) taking an emergency action under section 220.4(b) of title 36, Code of Federal Regulations (or successor regulations).
+
+(d) Administrative review of authorized emergency actions An authorized emergency action carried out under this section shall not be subject to objection under the predecisional administrative review processes established under section 6515 of this title and section 428 of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2012 (16 U.S.C. 6515 note; Public Law 112–74).
+
+(e) Judicial review of emergency actions A court shall not enjoin an authorized emergency action under this section if the court determines that the plaintiff is unable to demonstrate that the claim of the plaintiff is likely to succeed on the merits.
+
+(f) Notification and guidance The Secretary shall provide notification and guidance to each local field office of the Forest Service to ensure awareness of, compliance with, and appropriate use of the authorized emergency action authority under this section.
+
+(Pub. L. 117–58, div. D, title VIII, § 40807, Nov. 15, 2021, 135 Stat. 1112.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Healthy Forests Restoration Act of 2003 which comprises this chapter.
+
+Statutory Notes and Related Subsidiaries
+
+Wage Rate RequirementsFor provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.

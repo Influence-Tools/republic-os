@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "30 U.S.C. § 355"
+description: "Disposition of receipts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 30
+title_name: "MINERAL LANDS AND MINING"
+chapter_number: "7"
+chapter_name: "LEASE OF MINERAL DEPOSITS WITHIN ACQUIRED LANDS"
+section: "355"
+citation: "30 U.S.C. § 355"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc30@119-100.zip"
+source_identifier: "/us/usc/t30/s355"
+source_file: "data/legal/raw/us/code/title-30/usc30.xml"
+source_hash: "215e04d52e9d9163edd969f0c3c094a30c99ff15b7c15a04e1e616ec2e80fa28"
+raw_snapshot_hash: "355f8eb5c6ad5372de4a8e665d9ed90202d53d2aac19ac001d43948af4a4dd2f"
+text_hash: "186e31ce222c203e67fb92d2001d8252b2ccb85480bc3f4ba815bfb58849258e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 30 U.S.C. § 355 - Disposition of receipts
+
+## Text
+
+(a) Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all receipts derived from leases issued under the authority of this chapter shall be paid into the same funds or accounts in the Treasury and shall be distributed in the same manner as prescribed for other receipts from the lands affected by the lease, the intention of this provision being that this chapter shall not affect the distribution of receipts pursuant to legislation applicable to such lands: Provided, however, That receipts from leases or permits for minerals in lands set apart for Indian use, including lands the jurisdiction of which has been transferred to the Department of the Interior by the Executive order for Indian use, shall be deposited in a special fund in the Treasury until final disposition thereof by the Congress. Notwithstanding the preceding provisions of this section, all receipts derived from leases on lands acquired for military or naval purposes, except the naval petroleum reserves and national oil shale reserves, shall be paid into the Treasury of the United States and disposed of in the same manner as provided under section 35 of the Act of February 25, 1920 (41 Stat. 450; 30 U.S.C. 191), in the case of receipts from sales, bonuses, royalties, and rentals of the public lands under that Act [30 U.S.C. 181 et seq.].
+
+(b) Notwithstanding any other provision of law, any payment to a State under this section shall be made by the Secretary of the Interior and shall be made not later than the last business day of the month following the month in which such moneys or associated reports are received by the Secretary of the Interior, whichever is later. The preceding sentence shall also apply to any payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16. The Secretary shall pay interest to a State on any amount not paid to the State within that time at the rate prescribed under section 1721 11 See References in Text note below. of this title from the date payment was required to be made under this subsection until the date payment is made.
+
+(Aug. 7, 1947, ch. 513, § 6, 61 Stat. 915; Pub. L. 97–94, § 1, Dec. 17, 1981, 95 Stat. 1205; Pub. L. 102–486, title XXV, § 2506(a), Oct. 24, 1992, 106 Stat. 3106; Pub. L. 103–66, title X, § 10202(a), Aug. 10, 1993, 107 Stat. 408; Pub. L. 107–76, title VII, § 751(e)(2), Nov. 28, 2001, 115 Stat. 739.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Mineral Leasing Act, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables. Section 1721 of this title, referred to in subsec. (b), was in the original “section 111 of the Federal Oil and Gas Royalty Management Act of 1982”, which enacted section 1721 of this title and amended section 191 of this title.
+
+Amendments2001—Subsec. (b). Pub. L. 107–76 inserted after first sentence “The preceding sentence shall also apply to any payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16.” 1993—Subsec. (a). Pub. L. 103–66 substituted “Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all receipts” for “All receipts” in first sentence. 1992—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsec. (b). 1981—Pub. L. 97–94 inserted provision that all receipts derived from leases on lands acquired for military or naval purposes, except the naval petroleum reserves and national shale oil reserves, be paid into the Treasury of the United States and disposed of in the same manner as provided under section 35 of the Act of February 25, 1920, in the case of receipts from sales, bonuses, royalties, and rentals of the public lands under that Act.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1981 AmendmentPub. L. 97–94, § 2, Dec. 17, 1981, 95 Stat. 1205, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect with respect to leases entered into after January 1, 1981.”
+
+Outer Continental Shelf; Revenues From LeasesDisposition of revenues from leases on submerged lands of outer Continental Shelf, see sections 1337(g) and 1338 of Title 43, Public Lands.

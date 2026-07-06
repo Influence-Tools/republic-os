@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 2279c–2"
+description: "Reconsideration"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "23"
+chapter_name: "FARM CREDIT SYSTEM"
+section: "2279c–2"
+citation: "12 U.S.C. § 2279c–2"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s2279c–2"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "8db4b48e40813220575b7e4e2583610efd8c58c2333bb4ab5b8d0145032cd790"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "f38bcfa2890bec16f0c3c5e217d0157b24b72f2e8ea448670c2eb8ef5c8d37e3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 2279c–2 - Reconsideration
+
+## Text
+
+(a) Period A stockholder vote in favor of—
+
+(1) the merger of districts under this chapter;
+
+(2) the merger of banks within a district under section 2279a of this title;
+
+(3) the transfer of the lending authority of a Federal land bank or a merged bank having a Federal land bank as one of its constituents, under section 2279b of this title;
+
+(4) the merger of two or more associations under section 2279c–1 or 2279f–1 of this title;
+
+(5) the termination of the status of an institution as a System institution under section 2279d of this title; or
+
+(6) the merger of similar banks under section 2279f of this title;
+
+shall not take effect except in accordance with subsection (b).
+
+(b) Reconsideration (1) Notice Not later than 30 days after a stockholder vote in favor of any of the actions described in subsection (a), the officer or employee that records such vote shall ensure that all stockholders of the voting entity receive notice of the final results of the vote.
+
+(2) Effective date A voluntary merger, transfer, or termination that is approved by a vote of the stockholders of two or more banks or associations shall not take effect until the expiration of 30 days after the date on which the stockholders of such banks or associations are notified of the final result of the vote in accordance with paragraph (1).
+
+(3) Petition filed If a petition for reconsideration of a merger, transfer, or termination vote, signed by at least 15 percent of the stockholders of one or more of the affected banks or associations, is presented to the Farm Credit Administration within 30 days after the date of the notification required under paragraph (1)—
+
+(A) a voluntary merger, transfer, or termination shall not take effect until the expiration of 60 days after the date on which the stockholders were notified of the final result of the vote; and
+
+(B) a special meeting of the stockholders of the affected banks or associations shall be held during the period referred to in subparagraph (A) to reconsider the vote.
+
+(4) Vote on reconsideration If a majority of stockholders of any one of the affected banks or associations voting, in person or by written proxy, at a duly authorized stockholders’ meeting, vote against the proposed merger, transfer, or termination, such action shall not take place.
+
+(5) Failure to file petition If a petition for reconsideration of such vote is either not filed prior to the 60th day after the vote or, if timely filed, is not signed by at least 15 percent of the stockholders, the merger, transfer, or termination shall become effective in accordance with the plan of merger, transfer, or termination.
+
+(Pub. L. 92–181, title VII, § 7.9, as added Pub. L. 100–233, title IV, § 416, Jan. 6, 1988, 101 Stat. 1648; amended Pub. L. 100–399, title IV, § 408(n), (o), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 115–334, title V, § 5411(40), Dec. 20, 2018, 132 Stat. 4683.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Subsec. (c). Pub. L. 115–334 struck out subsec. (c) which related to special reconsideration regarding the organization as a separate association by certain associations that had voluntarily merged with one or more associations. 1988—Subsec. (a)(1). Pub. L. 100–399, § 408(n)(1), substituted “this chapter” for “section 2252(a)(2) of this title”. Subsec. (a)(4). Pub. L. 100–399, § 408(n)(5), redesignated par. (5) as (4). Pub. L. 100–399, § 408(n)(2), inserted reference to section 2279f–1 of this title. Subsec. (a)(5). Pub. L. 100–399, § 408(n)(5), redesignated par. (6) as (5). Former par. (5) redesignated (4). Pub. L. 100–399, § 408(n)(3), substituted “or” for “and”. Subsec. (a)(6). Pub. L. 100–399, § 408(n)(5), redesignated par. (7) as (6). Former par. (6) redesignated (5). Pub. L. 100–399, § 408(n)(4), substituted “section 2279f” for “section 2279f–1”. Subsec. (a)(7). Pub. L. 100–399, § 408(n)(5), redesignated par. (7) as (6). Subsec. (b)(2). Pub. L. 100–399, § 408(o), struck out comma before “shall not take effect” and substituted “such banks or” for “such”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1988 AmendmentAmendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3839bb–2"
+description: "Grassroots source water protection program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "58"
+chapter_name: "ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM"
+section: "3839bb–2"
+citation: "16 U.S.C. § 3839bb–2"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3839bb–2"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "eca3d749e2189eb21a7b12cb0d0016679c5fa52f5f5bb091995e8ad369b23943"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "e289b82351a3573598f6172353920be55bd7a8e24af9f8039d1649429ee3f2d2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3839bb–2 - Grassroots source water protection program
+
+## Text
+
+(a) In general The Secretary shall establish a national grassroots water protection program to more effectively use onsite technical assistance capabilities of each State rural water association that, as of May 13, 2002, operates a wellhead or groundwater protection program in the State.
+
+(b) Funding (1) Authorization of appropriations There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2008 through 2031.
+
+(2) Availability of funds In addition to funds made available under paragraph (1), of the funds of the Commodity Credit Corporation, the Secretary shall use $5,000,000, to remain available until expended.
+
+(3) Additional funding In addition to any other funds made available under this subsection, of the funds of the Commodity Credit Corporation, the Secretary shall use—
+
+(A) $5,000,000 beginning in fiscal year 2019, to remain available until expended;
+
+(B) $1,000,000 beginning in fiscal year 2024, to remain available until expended; and
+
+(C) $1,000,000 beginning in fiscal year 2026, to remain available until expended.
+
+(Pub. L. 99–198, title XII, § 1240O, as added Pub. L. 107–171, title II, § 2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, § 2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, § 4(a), title II, § 2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, § 2502, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, § 2405, Dec. 20, 2018, 132 Stat. 4573; Pub. L. 118–22, div. B, title I, § 102(d)(1)(A), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10601(c), July 4, 2025, 139 Stat. 108.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2025—Subsec. (b)(1). Pub. L. 119–21, § 10601(c)(1), substituted “2031” for “2023”. Subsec. (b)(3)(C). Pub. L. 119–21, § 10601(c)(2), added subpar. (C). 2023—Subsec. (b)(3). Pub. L. 118–22 inserted dash after “use”, designated remainder of existing provisions as subpar. (A), and added subpar. (B). 2018—Subsec. (b)(1). Pub. L. 115–334, § 2405(a), substituted “2023” for “2018”. Subsec. (b)(3). Pub. L. 115–334, § 2405(b), added par. (3). 2014—Subsec. (b). Pub. L. 113–79 amended subsec. (b) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2008 through 2012.” 2008—Subsec. (b). Pub. L. 110–246, § 2603, substituted “$20,000,000 for each of fiscal years 2008 through 2012” for “$5,000,000 for each of fiscal years 2002 through 2007”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2023 AmendmentAmendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of Title 7, Agriculture.
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.

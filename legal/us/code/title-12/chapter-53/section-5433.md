@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "12 U.S.C. § 5433"
+description: "Property transferred"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 12
+title_name: "BANKS AND BANKING"
+chapter_number: "53"
+chapter_name: "WALL STREET REFORM AND CONSUMER PROTECTION"
+section: "5433"
+citation: "12 U.S.C. § 5433"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc12@119-100.zip"
+source_identifier: "/us/usc/t12/s5433"
+source_file: "data/legal/raw/us/code/title-12/usc12.xml"
+source_hash: "25c86c814bbf00c05d16e92e6e621e0f97cd22f747044d533ecfcf755afd01d8"
+raw_snapshot_hash: "e6b98700ef4156ac33fde5d105824845d727afa91a53f3762be2cf4d1a3b01fa"
+text_hash: "4973ffd041bd7ac73b4990e962a6b3285a81b59f376bd133676cdb0335e753eb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 12 U.S.C. § 5433 - Property transferred
+
+## Text
+
+(a) Property defined For purposes of this section, the term “property” includes all real property (including leaseholds) and all personal property, including computers, furniture, fixtures, equipment, books, accounts, records, reports, files, memoranda, paper, reports of examination, work papers, and correspondence related to such reports, and any other information or materials.
+
+(b) Property of the Office of Thrift Supervision (1) In general No later than 90 days after the transfer date, all property of the Office of Thrift Supervision (other than property described under paragraph (b)(2)) that the Comptroller of the Currency and the Chairperson of the Corporation jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Office of the Comptroller of the Currency or the Corporation under this title,11 See References in Text note below. shall be transferred to the Office of the Comptroller of the Currency or the Corporation in a manner consistent with the transfer of employees under this part.
+
+(2) Personal property All books, accounts, records, reports, files, memoranda, papers, documents, reports of examination, work papers, and correspondence of the Office of Thrift Supervision that the Comptroller of the Currency, the Chairperson of the Corporation, and the Chairman of the Board of Governors jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Board of Governors under this title 1 shall be transferred to the Board of Governors in a manner consistent with the purposes of this title.1
+
+(c) Contracts related to property transferred Each contract, agreement, lease, license, permit, and similar arrangement relating to property transferred to the Office of the Comptroller of the Currency or the Corporation by this section shall be transferred to the Office of the Comptroller of the Currency or the Corporation, as appropriate, together with the property to which it relates.
+
+(d) Preservation of property Property identified for transfer under this section shall not be altered, destroyed, or deleted before transfer under this section.
+
+(Pub. L. 111–203, title III, § 323, July 21, 2010, 124 Stat. 1535.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis title, referred to in subsec. (b), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, section 41501 of Title 34, Crime Control and Law Enforcement, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealed section 1441a of this title, enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title. For complete classification of title III to the Code, see Short title note set out under section 5301 of this title and Tables.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.

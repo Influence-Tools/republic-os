@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "25 U.S.C. § 1812"
+description: "Report on facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 25
+title_name: "INDIANS"
+chapter_number: "20"
+chapter_name: "TRIBALLY CONTROLLED COLLEGES AND UNIVERSITIES ASSISTANCE"
+section: "1812"
+citation: "25 U.S.C. § 1812"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc25@119-100.zip"
+source_identifier: "/us/usc/t25/s1812"
+source_file: "data/legal/raw/us/code/title-25/usc25.xml"
+source_hash: "d1f32f8c646255a010de623cefe0613bfaa8eee0da1511650786c967d9993b22"
+raw_snapshot_hash: "d4661d83bff6862be548ac8e843ba61e942ed983aade7cf83cb7dbc3dcd08168"
+text_hash: "cc1d5e5e6bc0bf4151412d515bed177508c2f5b02dac04411bde4c210f55a518"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 25 U.S.C. § 1812 - Report on facilities
+
+## Text
+
+(a) Study on condition of currently existing facilities; submission of report; contents The Secretary shall provide for the conduct of a study of facilities available for use by tribally controlled colleges or universities. Such study shall consider the condition of currently existing Bureau of Indian Affairs facilities which are vacant or underutilized and shall consider available alternatives for renovation, alteration, repair, and reconstruction of such facilities (including renovation, alteration, repair, and reconstruction necessary to bring such facilities into compliance with local building codes). Such study shall also identify the need for new construction. A report on the results of such study shall be submitted to the Congress not later than eighteen months after September 30, 1986. Such report shall also include an identification of property—
+
+(1) on which structurally sound buildings suitable for use as educational facilities are located, and
+
+(2) which is available for use by tribally controlled colleges or universities under section 523 of title 40 and under the Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a).11 See References in Text note below.
+
+(b) Renovation program The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate a program to conduct necessary renovations, alterations, repairs, and reconstruction identified pursuant to subsection (a) of this section.
+
+(c) Determination and prioritization of construction and renovation needs (1) The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act.
+
+(2) An organization described in this section is any organization that—
+
+(A) is eligible to receive a contract under the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.]; and
+
+(B) has demonstrated expertise in areas and issues dealing with tribally controlled colleges or universities.
+
+(3) The Secretary shall include the priority list established pursuant to this subsection in the budget submitted annually to the Congress.
+
+(d) “Reconstruction” defined For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) 1 of title 20.
+
+(Pub. L. 95–471, title I, § 112, formerly § 111, Oct. 17, 1978, 92 Stat. 1328; renumbered § 112 and amended Pub. L. 98–192, §§ 4(a)(1), 11, Dec. 1, 1983, 97 Stat. 1336, 1339; Pub. L. 99–428, § 6(a), Sept. 30, 1986, 100 Stat. 983; Pub. L. 101–392, title III, § 313, Sept. 25, 1990, 104 Stat. 805; Pub. L. 105–244, title IX, § 901(b)(6), (13), Oct. 7, 1998, 112 Stat. 1828.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Act of August 6, 1956 (70 Stat. 1057; 25 U.S.C. 443a), referred to in subsec. (a)(2), is act Aug. 6, 1956, ch. 979, 70 Stat. 1057, which was formerly classified to section 443a of this title prior to editorial reclassification as a note under section 1457 of Title 43, Public Lands. The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of this title and was omitted from the Code as being of special and not general application. The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 1132e–1 of title 20, referred to in subsec. (d), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, § 701, Oct. 17, 1986, 100 Stat. 1520. See section 1132i–1 of Title 20.
+
+Codification “Section 523 of title 40” substituted in subsec. (a)(2) for “section 202(a)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(a)(2))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+Amendments1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges” in introductory provisions and par. (2). Subsec. (c)(1). Pub. L. 105–244, § 901(b)(13), substituted “colleges or universities” for “colleges”. Subsec. (c)(2)(B). Pub. L. 105–244, § 901(b)(6), substituted “colleges or universities” for “community colleges”. 1990—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d). 1986—Subsec. (a). Pub. L. 99–428, § 6(a), substituted “Secretary” for “Administrator of General Services” and “September 30, 1986” for “December 1, 1983”. Subsec. (b). Pub. L. 99–428, § 6(a)(1), substituted “Secretary” for “Administrator of General Services”. 1983—Pub. L. 98–192 amended section generally, substituting provision requiring a study on the condition of currently existing facilities, submission of a report on the study, contents of the report, establishment of a renovation program, and defining term “reconstruction” for provision which required the Secretary of the Interior, not later than ninety days after Oct. 17, 1978, to prepare and submit a report to the Congress containing a survey of existing and planned physical facilities of tribally controlled community colleges.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1998 AmendmentAmendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
+
+Effective Date of 1990 AmendmentAmendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set out as an Effective Date note under section 3423a of Title 20, Education.

@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 44926"
+description: "Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "449"
+chapter_name: "SECURITY"
+section: "44926"
+citation: "49 U.S.C. § 44926"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s44926"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "91464301875e55b0ae0736d745643b901e4b5e36118dbe21e4be16046e68abe5"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "f3afe7a4e38b9504c0328c3d11b5ecaf113458b7c6868546d0a7a558fa8df5ff"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 44926 - Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight
+
+## Text
+
+(a) In General.— The Secretary of Homeland Security shall establish a timely and fair process for individuals who believe they have been delayed or prohibited from boarding a commercial aircraft because they were wrongly identified as a threat under the regimes utilized by the Transportation Security Administration, United States Customs and Border Protection, or any other office or component of the Department of Homeland Security.
+
+(b) Office of Appeals and Redress.— (1) Establishment.— The Secretary shall establish in the Department an Office of Appeals and Redress to implement, coordinate, and execute the process established by the Secretary pursuant to subsection (a). The Office shall include representatives from the Transportation Security Administration, United States Customs and Border Protection, and such other offices and components of the Department as the Secretary determines appropriate.
+
+(2) Records.— The process established by the Secretary pursuant to subsection (a) shall include the establishment of a method by which the Office, under the direction of the Secretary, will be able to maintain a record of air carrier passengers and other individuals who have been misidentified and have corrected erroneous information.
+
+(3) Information.— To prevent repeated delays of a misidentified passenger or other individual, the Office shall—
+
+(A) ensure that the records maintained under this subsection contain information determined by the Secretary to authenticate the identity of such a passenger or individual;
+
+(B) furnish to the Transportation Security Administration, United States Customs and Border Protection, or any other appropriate office or component of the Department, upon request, such information as may be necessary to allow such office or component to assist air carriers in improving their administration of the advanced passenger prescreening system and reduce the number of false positives; and
+
+(C) require air carriers and foreign air carriers take action to identify passengers determined, under the process established under subsection (a), to have been wrongly identified.
+
+(4) Handling of personally identifiable information.— The Secretary, in conjunction with the Chief Privacy Officer of the Department shall—
+
+(A) require that Federal employees of the Department handling personally identifiable information of passengers (in this paragraph referred to as “PII”) complete mandatory privacy and security training prior to being authorized to handle PII;
+
+(B) ensure that the records maintained under this subsection are secured by encryption, one-way hashing, other data anonymization techniques, or such other equivalent security technical protections as the Secretary determines necessary;
+
+(C) limit the information collected from misidentified passengers or other individuals to the minimum amount necessary to resolve a redress request;
+
+(D) require that the data generated under this subsection shall be shared or transferred via a secure data network, that has been audited to ensure that the anti-hacking and other security related software functions properly and is updated as necessary;
+
+(E) ensure that any employee of the Department receiving the data contained within the records handles the information in accordance with the section 552a of title 5, United States Code, and the Federal Information Security Management Act of 2002 (Public Law 107–296);
+
+(F) only retain the data for as long as needed to assist the individual traveler in the redress process; and
+
+(G) conduct and publish a privacy impact assessment of the process described within this subsection and transmit the assessment to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and Committee on Homeland Security and Governmental Affairs of the Senate.
+
+(5) Initiation of redress process at airports.— The Office shall establish at each airport at which the Department has a significant presence a process to provide information to air carrier passengers to begin the redress process established pursuant to subsection (a).
+
+(Added Pub. L. 110–53, title XVI, § 1606(a), Aug. 3, 2007, 121 Stat. 482; amended Pub. L. 115–254, div. K, title I, § 1991(d)(22), Oct. 5, 2018, 132 Stat. 3637.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Federal Information Security Management Act of 2002, referred to in subsec. (b)(4)(E), is title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6, Domestic Security, and Tables.
+
+Amendments2018—Subsec. (b)(3). Pub. L. 115–254 substituted “a misidentified passenger” for “an misidentified passenger” in introductory provisions.

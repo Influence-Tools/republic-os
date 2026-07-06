@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 247b–13"
+description: "Prenatal and postnatal health"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "247b–13"
+citation: "42 U.S.C. § 247b–13"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s247b–13"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "9681e25f1d79217a3043b6091b6afa67ae2f01d24ef06b61cafe09e6421c301a"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "300626ebd7f96a9ece45f5ded7acb98334722a4970f73ae788b5973967274908"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 247b–13 - Prenatal and postnatal health
+
+## Text
+
+(a) In general The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out programs—
+
+(1) to collect, analyze, and make available data on prenatal smoking and alcohol and other substance abuse and misuse, including—
+
+(A) data on—
+
+(i) the incidence, prevalence, and implications of such activities; and
+
+(ii) the incidence and prevalence of implications and outcomes, including neonatal abstinence syndrome and other maternal and child health outcomes associated with such activities; and
+
+(B) additional information or data, as appropriate, on family health history, medication exposures during pregnancy, demographic information, such as race, ethnicity, geographic location, and family history, and other relevant information, to inform such analysis;
+
+(2) to conduct applied epidemiological research on the prevention and long-term outcomes associated with prenatal and postnatal smoking, alcohol and other substance abuse and misuse;
+
+(3) to support, conduct, and evaluate the effectiveness of educational, treatment, and cessation programs;
+
+(4) to provide information and education to the public on the prevention and implications of prenatal and postnatal smoking, alcohol and other substance abuse and misuse; and
+
+(5) to issue public reports on the analysis of data described in paragraph (1), including analysis of—
+
+(A) long-term outcomes of children affected by neonatal abstinence syndrome;
+
+(B) health outcomes associated with prenatal smoking, alcohol, and substance abuse and misuse; and
+
+(C) relevant studies, evaluations, or information the Secretary determines to be appropriate.
+
+(b) Grants In carrying out subsection (a), the Secretary may award grants to and enter into contracts with States, local governments, tribal entities, scientific and academic institutions, federally qualified health centers, and other public and nonprofit entities, and may provide technical and consultative assistance to such entities.
+
+(c) Coordinating activities To carry out this section, the Secretary may—
+
+(1) provide technical and consultative assistance to entities receiving grants under subsection (b);
+
+(2) ensure a pathway for data sharing between States, tribal entities, and the Centers for Disease Control and Prevention;
+
+(3) ensure data collection under this section is consistent with applicable State, Federal, and Tribal privacy laws; and
+
+(4) coordinate with the National Coordinator for Health Information Technology, as appropriate, to assist States and Tribes in implementing systems that use standards recognized by such National Coordinator, as such recognized standards are available, in order to facilitate interoperability between such systems and health information technology systems, including certified health information technology.
+
+(d) Authorization of appropriations For the purpose of carrying out this section, there are authorized to be appropriated such $4,250,000 for each of fiscal years 2026 through 2030.
+
+(July 1, 1944, ch. 373, title III, § 317L, as added Pub. L. 106–310, div. A, title IX, § 911, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 115–271, title VII, § 7064, Oct. 24, 2018, 132 Stat. 4021; Pub. L. 119–44, title I, § 101, Dec. 1, 2025, 139 Stat. 670.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (d). Pub. L. 119–44 substituted “$4,250,000 for each of fiscal years 2026 through 2030” for “such sums as may be necessary for each of the fiscal years 2019 through 2023”. 2018—Subsec. (a)(1). Pub. L. 115–271, § 7064(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to collect, analyze, and make available data on prenatal smoking, alcohol and illegal drug use, including data on the implications of such activities and on the incidence and prevalence of such activities and their implications;”. Subsec. (a)(2). Pub. L. 115–271, § 7064(1)(B), substituted “prevention and long-term outcomes associated with” for “prevention of” and “other substance abuse and misuse” for “illegal drug use”. Subsec. (a)(3). Pub. L. 115–271, § 7064(1)(C), substituted “, treatment, and cessation programs;” for “and cessation programs; and”. Subsec. (a)(4). Pub. L. 115–271, § 7064(1)(D), substituted “other substance abuse and misuse; and” for “illegal drug use.” Subsec. (a)(5). Pub. L. 115–271, § 7064(1)(E), added par. (5). Subsec. (b). Pub. L. 115–271, § 7064(2), inserted “tribal entities,” after “local governments,”. Subsec. (c). Pub. L. 115–271, § 7064(4), added subsec. (c). Former subsec. (c) redesignated (d). Subsec. (d). Pub. L. 115–271, § 7064(3), (5), redesignated subsec. (c) as (d) and substituted “2019 through 2023” for “2001 through 2005”.
+
+Statutory Notes and Related Subsidiaries
+
+Improving Data and the Public Health ResponsePub. L. 114–91, § 4, Nov. 25, 2015, 129 Stat. 725, provided that: “The Secretary [of Health and Human Services] may continue activities, as appropriate, related to— “(1) providing technical assistance to support States and Federally recognized Indian Tribes in collecting information on neonatal abstinence syndrome through the utilization of existing surveillance systems and collaborating with States and Federally recognized Indian Tribes to improve the quality, consistency, and collection of such data; and “(2) providing technical assistance to support States in implementing effective public health measures, such as disseminating information to educate the public, health care providers, and other stakeholders on prenatal opioid use and neonatal abstinence syndrome.”

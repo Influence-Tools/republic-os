@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 9001"
+description: "Findings and declarations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "97"
+chapter_name: "INTERNATIONAL CHILD ABDUCTION REMEDIES"
+section: "9001"
+citation: "22 U.S.C. § 9001"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s9001"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "59ed95068f08fe77224097fe07901ba17be180922e1096d4a3e39943fee51179"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "737101804d4b37d57e5b18c3a4a56e239281cdcdc531c553ffbb37476055fdac"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 9001 - Findings and declarations
+
+## Text
+
+(a) Findings The Congress makes the following findings:
+
+(1) The international abduction or wrongful retention of children is harmful to their well-being.
+
+(2) Persons should not be permitted to obtain custody of children by virtue of their wrongful removal or retention.
+
+(3) International abductions and retentions of children are increasing, and only concerted cooperation pursuant to an international agreement can effectively combat this problem.
+
+(4) The Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980, establishes legal rights and procedures for the prompt return of children who have been wrongfully removed or retained, as well as for securing the exercise of visitation rights. Children who are wrongfully removed or retained within the meaning of the Convention are to be promptly returned unless one of the narrow exceptions set forth in the Convention applies. The Convention provides a sound treaty framework to help resolve the problem of international abduction and retention of children and will deter such wrongful removals and retentions.
+
+(b) Declarations The Congress makes the following declarations:
+
+(1) It is the purpose of this chapter to establish procedures for the implementation of the Convention in the United States.
+
+(2) The provisions of this chapter are in addition to and not in lieu of the provisions of the Convention.
+
+(3) In enacting this chapter the Congress recognizes—
+
+(A) the international character of the Convention; and
+
+(B) the need for uniform international interpretation of the Convention.
+
+(4) The Convention and this chapter empower courts in the United States to determine only rights under the Convention and not the merits of any underlying child custody claims.
+
+(Pub. L. 100–300, § 2, Apr. 29, 1988, 102 Stat. 437.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (b), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+Codification Section was formerly classified to section 11601 of Title 42, The Public Health and Welfare.
+
+Statutory Notes and Related Subsidiaries
+
+Short Title of 2004 AmendmentPub. L. 108–370, § 1, Oct. 25, 2004, 118 Stat. 1750, provided that: “This Act [amending section 9006 of this title] may be cited as the ‘Prevention of Child Abduction Partnership Act’.”
+
+Short TitlePub. L. 100–300, § 1, Apr. 29, 1988, 102 Stat. 437, provided that: “This Act [enacting this chapter and amending section 663 of Title 42, The Public Health and Welfare] may be cited as the ‘International Child Abduction Remedies Act’.”

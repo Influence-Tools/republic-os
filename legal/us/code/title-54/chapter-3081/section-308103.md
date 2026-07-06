@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "54 U.S.C. § 308103"
+description: "Battlefield acquisition grant program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 54
+title_name: "NATIONAL PARK SERVICE AND RELATED PROGRAMS"
+chapter_number: "3081"
+chapter_name: "AMERICAN BATTLEFIELD PROTECTION PROGRAM"
+section: "308103"
+citation: "54 U.S.C. § 308103"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc54@119-100.zip"
+source_identifier: "/us/usc/t54/s308103"
+source_file: "data/legal/raw/us/code/title-54/usc54.xml"
+source_hash: "31bdb5c3b8a2898677ec359572020932cd1ec676d447ff3f863fb50fd39e22cd"
+raw_snapshot_hash: "ae37e9ba9ffe98b17fb5695939469d1407e46b028e81e9ffb76abd1481eeb360"
+text_hash: "ecb01ba8b3e614b38f977f5735c7a649e2c048aee3cee0005fa1ecb24090729b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 54 U.S.C. § 308103 - Battlefield acquisition grant program
+
+## Text
+
+(a) Eligible Site Defined.— In this section, the term “eligible site”—
+
+(1) means a site that—
+
+(A) is not within the exterior boundaries of a unit of the National Park System; and
+
+(B) is identified in the Battlefield Reports as a battlefield; and
+
+(2) excludes sites identified in the Battlefield Reports as associated historic sites.
+
+(b) Establishment.— The Secretary shall establish a battlefield acquisition grant program under which the Secretary may provide grants to States, Tribes, local governments, and nonprofit organizations to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
+
+(c) Nonprofit Partners.— A State, Tribe, or local government may acquire an interest in an eligible site using a grant under this section in partnership with a nonprofit organization.
+
+(d) Non-Federal Share.— The non-Federal share of the total cost of acquiring an interest in an eligible site under this section shall be not less than 50 percent.
+
+(e) Limitation on Land Use.— An interest in an eligible site acquired under this section, including by States, Tribes, local governments, and nonprofit organizations, shall be subject to section 200305(f)(3) of this title.
+
+(f) Authorization of Appropriations.— There is authorized to be appropriated to the Secretary to provide grants under this section $18,000,000 for each of fiscal years 2020 through 2028.
+
+(Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3234; Pub. L. 113–76, div. G, title IV, § 429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, § 421, Dec. 16, 2014, 128 Stat. 2449; Pub. L. 113–291, div. B, title XXX, § 3050, Dec. 19, 2014, 128 Stat. 3799; Pub. L. 116–94, div. P, title VII, § 702, Dec. 20, 2019, 133 Stat. 3195; Pub. L. 118–234, title I, § 157(c), Jan. 4, 2025, 138 Stat. 2879.)
+
+## Notes
+
+Amendment Not Shown in TextThis section was derived from section 469k–1(c)(1)(A) to (C), (2) to (6) of Title 16, Conservation, which was amended by Pub. L. 113–76, div. G, title IV, § 429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, § 421, Dec. 16, 2014, 128 Stat. 2449; and Pub. L. 113–291, div. B, title XXX, § 3050, Dec. 19, 2014, 128 Stat. 3799. For applicability of those amendments to this section, see section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding section 100101 of this title. Subsec. (c)(6) of former section 469k–1 of Title 16 [restated in subsec. (f) of this section] was amended by Pub. L. 113–76 by striking “2013” and inserting “2014” and by Pub. L. 113–235 by striking “2014” and inserting “2021”. Subsec. (c) of former section 469k–1 of Title 16 was amended by Pub. L. 113–291 as follows: (1) In paragraph (1)— (A) by striking subparagraph (A) [restated in subsec. (a)(2) of this section] and inserting the following: “(A) Battlefield report.—The term ‘battlefield report’ means, collectively— “(i) the report entitled ‘Report on the Nation’s Civil War Battlefields’, prepared by the Civil War Sites Advisory Commission, and dated July 1993; and “(ii) the report entitled ‘Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States’, prepared by the National Park Service, and dated September 2007.”; and (B) in subparagraph (C)(ii) [restated in subsec. (a)(2) of this section], by striking “Battlefield Report” and inserting “battlefield report”; (2) In paragraph (2) [restated in subsec. (b) of this section], by inserting “eligible sites or” after “acquiring”; (3) In paragraph (3) [restated in subsec. (c) of this section], by inserting “an eligible site or” after “acquire”; (4) In paragraph (4) [restated as subsec. (d) of this section], by inserting “an eligible site or” after “acquiring”; (5) In paragraph (5) [restated as subsec. (e) of this section], by striking “An” and inserting “An eligible site or an”; (6) By redesignating paragraph (6) [restated as subsec. (f) of this section] as paragraph (9); (7) By inserting after paragraph (5) [restated as subsec. (e) of this section] the following new paragraphs: “(6) Willing sellers.—Acquisition of land or interests in land under this subsection shall be from willing sellers only. “(7) Report.—Not later than 5 years after the date of the enactment of this paragraph, the Secretary shall submit to Congress a report on the activities carried out under this subsection, including a description of— “(A) preservation activities carried out at the battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the report required under this paragraph; “(B) changes in the condition of the battlefields and associated sites during that period; and “(C) any other relevant developments relating to the battlefields and associated sites during that period. “(8) Prohibition on lobbying.—None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or appropriation matters pending before Congress.”; and (8) In paragraph (9) [restated as subsec. (f) of this section] (as redesignated), by striking “2014” and inserting “2021”.
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 308103(a)16 U.S.C. 469k–1(c)(1)(A), (C).Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(A) through (C), (2) through (6), Mar. 30, 2009, 123 Stat. 1213. 308103(b)16 U.S.C. 469k–1(c)(1)(B), (2). 308103(c)16 U.S.C. 469k–1(c)(1)(B), (3). 308103(d) through (f)16 U.S.C. 469k–1(c)(4) through (6). In subsection (f), reference to fiscal years 2009 to 2011 is omitted as obsolete.
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 118–234, § 157(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) defined “eligible site”. Subsec. (b). Pub. L. 118–234, § 157(c)(2), substituted “States, Tribes, local governments, and nonprofit organizations” for “State and local governments”. Subsec. (c). Pub. L. 118–234, § 157(c)(3), substituted “State, Tribe, or local government” for “State or local government”. Subsec. (e). Pub. L. 118–234, § 157(c)(4), substituted “under this section, including by States, Tribes, local governments, and nonprofit organizations,” for “under this section”. 2019—Subsec. (f). Pub. L. 116–94 substituted “$18,000,000 for each of fiscal years 2020 through 2028” for “$10,000,000 for each of fiscal years 2012 and 2013”.

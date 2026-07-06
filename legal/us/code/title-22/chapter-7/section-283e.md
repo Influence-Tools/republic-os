@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 283e"
+description: "Payment of subscription to Bank and Fund by United States"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "7"
+chapter_name: "INTERNATIONAL BUREAUS, CONGRESSES, ETC."
+section: "283e"
+citation: "22 U.S.C. § 283e"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s283e"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "b544a15f2890fb467bc17a66ef9c55cc9bc90b53b4da471ddaf810c6b35f63ea"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "32e96aef69f9c5f0720ce885ecab31fe87ce1c7f7eeb23e7765696fdf008653e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 283e - Payment of subscription to Bank and Fund by United States
+
+## Text
+
+(a) Authorization of appropriations There is hereby authorized to be appropriated, without fiscal year limitation, for the purchase of thirty-five thousand shares of capital stock in the Bank, $350 million. In addition, there is authorized to be appropriated, without fiscal year limitation, for payment of the subscription of the United States to the Fund for Special Operations, $100 million.
+
+(b) Issuance of special notes For the purpose of keeping to a minimum the cost to the United States of participation in the Bank, the Secretary of the Treasury, after paying the requisite part of the subscription and quota of the United States in the Bank required to be made under article II, section 4, and article IV, section 3, respectively, of the agreement, is authorized and directed to issue special notes of the United States from time to time, at par, and to deliver such notes to the Bank in exchange for dollars to the extent permitted by the agreement. The special notes provided for in this subsection shall be issued under the authority and subject to the provisions of chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include the purposes for which special notes are authorized and directed to be issued under this subsection, but such notes shall bear no interest, shall be nonnegotiable, and shall be payable on demand of the Bank. The face amount of special notes issued to the Bank under the authority of this subsection and outstanding at any one time shall not exceed, in the aggregate, the amount of the subscription and quota of the United States actually paid to the Bank under article II, section 4, and article IV, section 3, respectively, of the agreement.
+
+(c) Income covered into Treasury Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
+
+(Pub. L. 86–147, § 7, Aug. 7, 1959, 73 Stat. 300.)
+
+## Notes
+
+Editorial Notes
+
+Codification In subsec. (b), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

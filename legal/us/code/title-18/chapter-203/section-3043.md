@@ -1,0 +1,33 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 3043"
+description: "Repealed. Pub. L. 98–473, title II, § 204(c), Oct. 12, 1984, 98 Stat. 1986]"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "203"
+chapter_name: "ARREST AND COMMITMENT"
+section: "3043"
+citation: "18 U.S.C. § 3043"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s3043"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "77575e491755af2e6971314eada9eac4dd796996c29caf41d5b23da0d0c8c5ee"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "b36a5636874f74363099ebbbbe53076ae3247c5ed9b75772e6011656d789a7aa"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 3043 - Repealed. Pub. L. 98–473, title II, § 204(c), Oct. 12, 1984, 98 Stat. 1986]
+
+## Notes
+
+Section, acts June 25, 1948, ch. 645, 62 Stat. 816; Oct. 17, 1968, Pub. L. 90–578, title III, § 301(a)(2), 82 Stat. 1115, related to authority of justices, judges, and magistrates to hold to security of the peace and for good behavior. See section 3142 of this title.

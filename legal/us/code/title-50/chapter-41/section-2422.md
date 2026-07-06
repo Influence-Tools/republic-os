@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 2422"
+description: "Office of Defense Nuclear Security"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "41"
+chapter_name: "NATIONAL NUCLEAR SECURITY ADMINISTRATION"
+section: "2422"
+citation: "50 U.S.C. § 2422"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s2422"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "c1935ad9b5b7e8d17b42c141004a6fc2965c86a9ec52831e9070fa49d4066b71"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "34eba60239b5d8e3b471e24497b07b97e3abf5befc44f09e5186d678d10107cc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 2422 - Office of Defense Nuclear Security
+
+## Text
+
+(a) Establishment There is within the Administration an Office of Defense Nuclear Security, headed by a Chief appointed by the Secretary of Energy. The Administrator shall recommend to the Secretary suitable candidates for such position.
+
+(b) Chief of Defense Nuclear Security (1) The head of the Office of Defense Nuclear Security is the Chief of Defense Nuclear Security, who shall report to the Administrator and shall implement the security policies directed by the Secretary and Administrator.
+
+(2) The Chief shall have direct access to the Secretary and all other officials of the Department and the contractors of the Department concerning security matters.
+
+(3) The Chief shall be responsible for the development and implementation of security programs for the Administration, including the protection, control and accounting of materials, and for the physical security for all facilities of the Administration.
+
+(Pub. L. 106–65, div. C, title XXXII, § 3232, Oct. 5, 1999, 113 Stat. 960; Pub. L. 109–364, div. C, title XXXI, § 3117(b)(1), Oct. 17, 2006, 120 Stat. 2507; Pub. L. 118–31, div. C, title XXXI, § 3111(2), Dec. 22, 2023, 137 Stat. 788.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2023—Subsec. (b)(3). Pub. L. 118–31 struck out “and cyber” after “physical”. 2006—Pub. L. 109–364, § 3117(b)(1)(A), struck out “Office of Defense Nuclear Counterintelligence and” before “Office of Defense Nuclear Security” in section catchline. Subsec. (a). Pub. L. 109–364, § 3117(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “(1) There are within the Administration— “(A) an Office of Defense Nuclear Counterintelligence; and “(B) an Office of Defense Nuclear Security. “(2) Each office established under paragraph (1) shall be headed by a Chief appointed by the Secretary of Energy. The Administrator shall recommend to the Secretary suitable candidates for each such position.” Subsecs. (b), (c). Pub. L. 109–364, § 3117(b)(1)(C), (D), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to the Chief of Defense Nuclear Counterintelligence.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.

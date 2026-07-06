@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 516"
+description: "Exchange of lands in the public interest; equal value; cutting and removing timber; publication of contemplated exchange"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "2"
+chapter_name: "NATIONAL FORESTS"
+section: "516"
+citation: "16 U.S.C. § 516"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s516"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "7ce2c97c2ef026678043eace1e163ca4bb733d971d019e694bc0f5d36d5234f4"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "7496acdcf743097631b29501531c0cbdeb129174696597ce38b19b13281d1144"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 516 - Exchange of lands in the public interest; equal value; cutting and removing timber; publication of contemplated exchange
+
+## Text
+
+When the public interests will be benefited thereby, the Secretary of Agriculture is hereby authorized, in his discretion, to accept on behalf of the United States title to any lands within the exterior boundaries of national forests which, in his opinion, are chiefly valuable for the purposes of this Act, and in exchange therefor to convey by deed not to exceed an equal value of such national forest land in the same State, or he may authorize the grantor to cut and remove an equal value of timber within such national forests in the same State, the values in each case to be determined by him: Provided, That before any such exchange is effected notice of the contemplated exchange reciting the lands involved shall be published once each week for four successive weeks in some newspaper of general circulation in the county or counties in which may be situated the lands to be accepted, and in some like newspaper published in any county in which may be situated any lands or timber to be given in such exchange. Timber given in such exchanges shall be cut and removed under the laws and regulations relating to such national forests, and under the direction and supervision and in accordance with the requirements of the Secretary of Agriculture. Lands so accepted by the Secretary of Agriculture shall, upon acceptance, become parts of the national forests within whose exterior boundaries they are located, and be subjected to all provisions of this Act.
+
+(Mar. 1, 1911, ch. 186, § 7, 36 Stat. 962; Mar. 3, 1925, ch. 473, 43 Stat. 1215; Pub. L. 94–588, § 17(a)(4), Oct. 22, 1976, 90 Stat. 2961.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis Act, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted this section, former sections 513 and 514 of this title, and sections 515, 517 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
+
+Amendments1976—Pub. L. 94–588 substituted “When the public interests will be benefited thereby, the Secretary of Agriculture is hereby authorized, in his discretion, to accept on behalf of the United States title to any lands within the exterior boundaries of national forests which, in his opinion, are chiefly valuable for the purposes of this Act, and in exchange therefor to convey by deed not to exceed an equal value of such national forest land in the same State, or he may authorize the grantor to cut and remove an equal value of timber within such national forests in the same State, the values in each case to be determined by him: Provided, That before” for “The Secretary of Agriculture is authorized to purchase, in the name of the United States, such lands as have been approved for purchase by the National Forest Reservation Commission at the price or prices fixed by said commission. No deed or other instrument of conveyance shall be accepted or approved by the Secretary of Agriculture under this section until the legislature of the State in which the land lies shall have consented to the acquisition of such land by the United States for the purpose of preserving the navigability of navigable streams. With the approval of the National Forest Reservation Commission as provided by this section and section 515 of this title, and when the public interests will be benefited thereby, the Secretary of Agriculture is authorized, in his discretion, to accept on behalf of the United States title to any lands within the exterior boundaries of national forests acquired under said sections which, in his opinion, are chiefly valuable for the purposes as therein stated, and in exchange therefor to convey by deed not to exceed an equal value of such national forest land in the same State, or he may authorize the grantor to cut and remove an equal value of timber within such national forests in the same State, the values in each case to be determined by him. Before”. 1925—Act Mar. 3, 1925, inserted provisions covering the exchange of lands.

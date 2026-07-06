@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "26 U.S.C. § 859"
+description: "Adoption of annual accounting period"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 26
+title_name: "INTERNAL REVENUE CODE"
+chapter_number: "1"
+chapter_name: "NORMAL TAXES AND SURTAXES"
+section: "859"
+citation: "26 U.S.C. § 859"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc26@119-100.zip"
+source_identifier: "/us/usc/t26/s859"
+source_file: "data/legal/raw/us/code/title-26/usc26.xml"
+source_hash: "7c6b0d25bd3f13546320be164ad8ecfa62bb0ad6c97238a57007b940fe67401b"
+raw_snapshot_hash: "a261f094809116f42a96648a3d5eee80fa010379d67412551c21dd5c900b27f4"
+text_hash: "a9ebab636b32f83eda08adb533fbd7112171c0ebeaa657258867c80cdd8c9cfc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 26 U.S.C. § 859 - Adoption of annual accounting period
+
+## Text
+
+(a) General rule For purposes of this subtitle—
+
+(1) a real estate investment trust shall not change to any accounting period other than the calendar year, and
+
+(2) a corporation, trust, or association may not elect to be a real estate investment trust for any taxable year beginning after October 4, 1976, unless its accounting period is the calendar year.
+
+Paragraph (2) shall not apply to a corporation, trust, or association which was considered to be a real estate investment trust for any taxable year beginning on or before October 4, 1976.
+
+(b) Change of accounting period without approval Notwithstanding section 442, an entity which has not engaged in any active trade or business may change its accounting period to a calendar year without the approval of the Secretary if such change is in connection with an election under section 856(c).
+
+(Added Pub. L. 94–455, title XVI, § 1604(i)(1), Oct. 4, 1976, 90 Stat. 1752, § 860; renumbered § 859 and amended Pub. L. 95–600, title III, § 362(d)(6), title VII, § 701(t)(1), Nov. 6, 1978, 92 Stat. 2852, 2911; Pub. L. 99–514, title VI, § 661(c), Oct. 22, 1986, 100 Stat. 2300.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 859, added Pub. L. 94–455, title XVI, § 1601(a)(1), Oct. 4, 1976, 90 Stat. 1742; amended Pub. L. 95–600, title VII, § 701(t)(4), Nov. 6, 1978, 92 Stat. 2912, related to a deduction for deficiency dividends, prior to repeal by Pub. L. 95–600, title III, § 362(d)(6), Nov. 6, 1978, 92 Stat. 2852. See section 860 of this title.
+
+Amendments1986—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b). 1978—Pub. L. 95–600, § 701(t)(1), designated existing provisions as par. (1), substituted “change to any accounting period” for “change to or adopt any annual accounting period”, and added par. (2) and provision for nonapplicability of par. (2) to a real estate investment trust for any taxable year beginning on or before Oct. 4, 1976.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1986 AmendmentAmendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 669 of Pub. L. 99–514, set out as a note under section 856 of this title.
+
+Effective Date of 1978 AmendmentRepeal of prior section 859 of this title and redesignation of section 860 of this title as this section by section 362(d)(6) of Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title. Pub. L. 95–600, title VII, § 701(t)(5), Nov. 6, 1978, 92 Stat. 2912, provided that: “The amendments made by this subsection [amending this section and sections 275, 856, 6212, and 6501 of this title] shall take effect on October 4, 1976.”

@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "50 U.S.C. § 3162a"
+description: "Security Executive Agent"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 50
+title_name: "WAR AND NATIONAL DEFENSE"
+chapter_number: "44"
+chapter_name: "NATIONAL SECURITY"
+section: "3162a"
+citation: "50 U.S.C. § 3162a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc50@119-100.zip"
+source_identifier: "/us/usc/t50/s3162a"
+source_file: "data/legal/raw/us/code/title-50/usc50.xml"
+source_hash: "588561a0dd893f333176a9c07ad98ce49806979b2b4c55df6042cc16958ce056"
+raw_snapshot_hash: "708c288b5448617cab7b03b8011860274671c9aec56686858b910a06948cd7ac"
+text_hash: "d8736d2523ebdb7511407e04d112d0904055decf0c2c6e8893dfb863f3c26c92"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 50 U.S.C. § 3162a - Security Executive Agent
+
+## Text
+
+(a) In general The Director of National Intelligence, or such other officer of the United States as the President may designate, shall serve as the Security Executive Agent for all departments and agencies of the United States.
+
+(b) Duties The duties of the Security Executive Agent are as follows:
+
+(1) To direct the oversight of investigations, reinvestigations, adjudications, and, as applicable, polygraphs for eligibility for access to classified information or eligibility to hold a sensitive position made by any Federal agency.
+
+(2) To review the national security background investigation and adjudication programs of Federal agencies to determine whether such programs are being implemented in accordance with this section.
+
+(3) To develop and issue uniform and consistent policies and procedures to ensure the effective, efficient, timely, and secure completion of investigations, polygraphs, and adjudications relating to determinations of eligibility for access to classified information or eligibility to hold a sensitive position.
+
+(4) Unless otherwise designated by law, to serve as the final authority to designate a Federal agency or agencies to conduct investigations of persons who are proposed for access to classified information or for eligibility to hold a sensitive position to ascertain whether such persons satisfy the criteria for obtaining and retaining access to classified information or eligibility to hold a sensitive position, as applicable.
+
+(5) Unless otherwise designated by law, to serve as the final authority to designate a Federal agency or agencies to determine eligibility for access to classified information or eligibility to hold a sensitive position in accordance with Executive Order No. 12968 (50 U.S.C. 3161 note; relating to access to classified information).
+
+(6) To review and approve the policies of the Federal agencies that ensure reciprocal recognition of eligibility for access to classified information or eligibility to hold a sensitive position among Federal agencies, and to act as the final authority to arbitrate and resolve disputes among such agencies involving the reciprocity of investigations and adjudications of eligibility.
+
+(7) To execute all other duties assigned to the Security Executive Agent by law.
+
+(c) Authorities The Security Executive Agent shall—
+
+(1) issue guidelines and instructions to the heads of Federal agencies to ensure appropriate uniformity, centralization, efficiency, effectiveness, timeliness, and security in processes relating to determinations by such agencies of eligibility for access to classified information or eligibility to hold a sensitive position, including such matters as investigations, polygraphs, adjudications, and reciprocity;
+
+(2) have the authority to grant exceptions to, or waivers of, national security investigative requirements, including issuing implementing or clarifying guidance, as necessary;
+
+(3) have the authority to assign, in whole or in part, to the head of any Federal agency (solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate;
+
+(4) define and set standards for continuous vetting for continued access to classified information and for eligibility to hold a sensitive position; and
+
+(5) issue guidelines and instructions to the heads of Federal agencies to ensure that any individual who was appointed by the President to a position in an element of the intelligence community but is no longer employed by the Federal Government shall maintain a security clearance only in accordance with Executive Order 12968 (50 U.S.C. 3161 note; relating to access to classified information), or successor order.
+
+(July 26, 1947, ch. 343, title VIII, § 803, as added Pub. L. 116–92, div. E, title LXVI, § 6605(a)(2), Dec. 20, 2019, 133 Stat. 2213; amended Pub. L. 118–159, div. F, title LXVI, § 6601(a), Dec. 23, 2024, 138 Stat. 2500.)
+
+## Notes
+
+Editorial Notes
+
+References in TextExecutive Order No. 12968, referred to in subsecs. (b)(5) and (c)(5), is Ex. Ord. No. 12968, Aug. 2, 1995, 60 F.R. 40245, which is set out as a note under section 3161 of this title.
+
+Prior ProvisionsA prior section 803 of act July 26, 1947, ch. 343, was renumbered section 804 and is classified to section 3163 of this title.
+
+Amendments2024—Subsec. (c)(5). Pub. L. 118–159 added par. (5).
+
+Statutory Notes and Related Subsidiaries
+
+Submittal of Guidelines and Instructions to Congress RequiredPub. L. 118–159, div. F, title LXVI, § 6601(b), Dec. 23, 2024, 138 Stat. 2501, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Director of National Intelligence, or such other officer of the United States acting as the Security Executive Agent pursuant to subsection (a) of section 803 of the National Security Act of 1947 (50 U.S.C. 3162a), shall submit to the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives] and the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the guidelines and instructions required by subsection (c)(5) of such section, as added by subsection (a) of this section.”
+
+Timeliness in the Administration of PolygraphsPub. L. 117–263, div. F, title LXVI, § 6604, Dec. 23, 2022, 136 Stat. 3558, provided that: “(a) Standards Required.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence shall, in the Director’s capacity as the Security Executive Agent pursuant to section 803(a) of the National Security Act of 1947 (50 U.S.C. 3162a(a)), issue standards for timeliness for Federal agencies to administer polygraphs conducted for the purpose of—“(A) adjudicating decisions regarding eligibility for access to classified information (as defined in the procedures established pursuant to section 801(a) of the National Security Act of 1947 (50 U.S.C. 3161(a))); and “(B) granting reciprocity pursuant to Security Executive Agent Directive 2, or successor directive. “(2) Publication.—The Director shall publish the standards issued under paragraph (1) in the Federal Register or such other venue as the Director considers appropriate. “(b) Report Required.—Not later than 180 days after the date of the enactment of this Act, the Director shall submit to Congress a report on how Federal agencies will comply with the standards issued under subsection (a). Such plan shall specify the resources required by Federal agencies to comply with such standards and the timeline for doing so.”
+
+Policy on Submittal of Applications for Access to Classified Information for Certain PersonnelPub. L. 117–263, div. F, title LXVI, § 6605, Dec. 23, 2022, 136 Stat. 3559, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of National Intelligence shall, in the Director’s capacity as the Security Executive Agent pursuant to section 803(a) of the National Security Act of 1947 (50 U.S.C. 3162a(a)), issue a policy that allows a private person to submit a certain number or proportion of applications, on a nonreimbursable basis, for employee access to classified information for personnel who perform key management and oversight functions who may not merit an application due to their work under any one contract.”

@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7712"
+description: "Annual report"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "84"
+chapter_name: "MILLENNIUM CHALLENGE"
+section: "7712"
+citation: "22 U.S.C. § 7712"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7712"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "dbbd47ca30ec490aecda2a3793effea15ac424de9d5dab96cafeaf4db7f2c16d"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "031754d3e2dd1d448097517373951f7ba69ec88ba99dbfd507fde76acd56ee9c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7712 - Annual report
+
+## Text
+
+(a) Report Not later than the third Friday of December of each year, the Chief Executive Officer shall submit a report to Congress describing the assistance provided pursuant to section 7704 of this title during the most recently concluded fiscal year.
+
+(b) Contents The report shall include the following:
+
+(1) The amount of obligations and expenditures for assistance provided to each eligible country during the prior fiscal year.
+
+(2) For each eligible country, an assessment of—
+
+(A) the progress made during each year by the country toward achieving the objectives set out in any Compact entered into by the country; and
+
+(B) the extent to which assistance provided under section 7704 of this title has been effective in helping the country to achieve such objectives.
+
+(3) A description of the coordination of assistance provided under section 7704 of this title with other United States foreign assistance and related trade policies.
+
+(4) A description of the coordination of assistance provided under section 7704 of this title with assistance provided by other donor countries.
+
+(5) Any other information the President considers relevant with respect to assistance provided under section 7704 of this title.
+
+(Pub. L. 108–199, div. D, title VI, § 613, Jan. 23, 2004, 118 Stat. 221; Pub. L. 115–167, title II, § 204(b), Apr. 23, 2018, 132 Stat. 1280; Pub. L. 118–159, div. E, title LI, § 5122(e), Dec. 23, 2024, 138 Stat. 2431.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a). Pub. L. 118–159 amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than March 31, 2005, and each March 31 thereafter, the President shall submit to Congress a report on the assistance provided under section 7704 of this title during the prior fiscal year.” 2018—Subsec. (b)(2)(A). Pub. L. 115–167 substituted “any Compact” for “the Compact”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–167 applicable to Compacts entered into between the United States and an eligible country under this chapter before, on, or after Apr. 23, 2018, see section 204(c) of Pub. L. 115–167, set out as a note under section 7708 of this title.
+
+Executive Documents
+
+Assignment of Function To Submit a Report Relating to Millennium Challenge Corporation Activities Memorandum of President of the United States, Mar. 31, 2005, 70 F.R. 17195, provided: Memorandum for the Secretary of State Consistent with section 301 of title 3, United States Code, the function of the President under section 613 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2004 (Division D of Public Law 108–199) [22 U.S.C. 7712] is assigned to the Secretary of State. The Secretary of State shall perform such function in a manner consistent with the President’s constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive’s constitutional duties. Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary information the Secretary requests to perform such function, in the format and on the schedule specified by the Secretary. Any reference in this memorandum to the provision of any Act shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision. You are authorized and directed to publish this memorandum in the Federal Register. George W. Bush.

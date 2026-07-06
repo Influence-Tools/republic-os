@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 300j–5"
+description: "National Drinking Water Advisory Council"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "6A"
+chapter_name: "PUBLIC HEALTH SERVICE"
+section: "300j–5"
+citation: "42 U.S.C. § 300j–5"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s300j–5"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "6d964abd7a51237d09dd2449caeb52ee5507014a3da08f90ac7719fcde5c9dd6"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "fd81627f531f1efa57755db9c28734b1d4ada6a37c0fb3bc60322b3d525b4775"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 300j–5 - National Drinking Water Advisory Council
+
+## Text
+
+(a) Establishment; membership; representation of interests; term of office, vacancies; reappointment There is established a National Drinking Water Advisory Council which shall consist of fifteen members appointed by the Administrator after consultation with the Secretary. Five members shall be appointed from the general public; five members shall be appointed from appropriate State and local agencies concerned with water hygiene and public water supply; and five members shall be appointed from representatives of private organizations or groups demonstrating an active interest in the field of water hygiene and public water supply, of which two such members shall be associated with small, rural public water systems. Each member of the Council shall hold office for a term of three years, except that—
+
+(1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
+
+(2) the terms of the members first taking office shall expire as follows: Five shall expire three years after December 16, 1974, five shall expire two years after such date, and five shall expire one year after such date, as designated by the Administrator at the time of appointment.
+
+The members of the Council shall be eligible for reappointment.
+
+(b) Functions The Council shall advise, consult with, and make recommendations to, the Administrator on matters relating to activities, functions, and policies of the Agency under this subchapter.
+
+(c) Compensation and allowances; travel expenses Members of the Council appointed under this section shall, while attending meetings or conferences of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 11 See References in Text note below. of title 5.
+
+(d) Advisory committee termination provision inapplicable Section 1013(a) of title 5 (relating to termination),22 So in original. The comma probably should not appear. shall not apply to the Council.
+
+(July 1, 1944, ch. 373, title XIV, § 1446, as added Pub. L. 93–523, § 2(a), Dec. 16, 1974, 88 Stat. 1688; amended Pub. L. 104–182, title I, § 127, Aug. 6, 1996, 110 Stat. 1659; Pub. L. 117–286, § 4(a)(245), Dec. 27, 2022, 136 Stat. 4332.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 5703 of title 5, referred to in subsec. (c), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+
+Amendments2022—Subsec. (d). Pub. L. 117–286 substituted “Section 1013(a) of title 5 (relating to termination),” for “Section 14(a) of the Federal Advisory Committee Act (relating to termination)”. 1996—Subsec. (a). Pub. L. 104–182 inserted “, of which two such members shall be associated with small, rural public water systems” before period at end of second sentence.
+
+Statutory Notes and Related Subsidiaries
+
+Termination of Advisory CommitteesPub. L. 93–641, § 6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+References in Other Laws to GS–16, 17, or 18 Pay RatesReferences in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.

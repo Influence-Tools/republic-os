@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "43 U.S.C. § 392a"
+description: "Payment into reclamation fund of receipts from irrigation projects; transfer of power revenues to General Treasury after repayment of construction costs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 43
+title_name: "PUBLIC LANDS"
+chapter_number: "12"
+chapter_name: "RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT"
+section: "392a"
+citation: "43 U.S.C. § 392a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc43@119-100.zip"
+source_identifier: "/us/usc/t43/s392a"
+source_file: "data/legal/raw/us/code/title-43/usc43.xml"
+source_hash: "b979846805f8469d80de5d6add588213c73164ffa4d3325c20fa486e904114de"
+raw_snapshot_hash: "d46a16361aa9d10bbc4b27ea0561882d240801c965a2700a4b7cf5f02f552a5f"
+text_hash: "4c9f068c3e19e098a3d97770e367b657dfa4ac3ecb3115d2a43a4768a51cf896"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 43 U.S.C. § 392a - Payment into reclamation fund of receipts from irrigation projects; transfer of power revenues to General Treasury after repayment of construction costs
+
+## Text
+
+All moneys received by the United States in connection with any irrigation projects, including the incidental power features thereof, constructed by the Secretary of the Interior through the Bureau of Reclamation, and financed in whole or in part with moneys heretofore or hereafter appropriated or allocated therefor by the Federal Government, shall be covered into the reclamation fund, except in cases where provision has been made by law or contract for the use of such revenues for the benefit of users of water from such project: Provided, That after the net revenues derived from the sale of power developed in connection with any of said projects shall have repaid those construction costs of such project allocated to power to be repaid by power revenues therefrom and shall no longer be required to meet the contractual obligations of the United States, then said net revenues derived from the sale of power developed in connection with such project shall, after the close of each fiscal year, be transferred to and covered into the General Treasury as “miscellaneous receipts”: Provided further, That nothing in this section shall be construed to amend the Boulder Canyon Project Act (45 Stat. 1057), as amended [43 U.S.C. 617 et seq.], or to apply to irrigation projects of the Office of Indian Affairs.
+
+(May 9, 1938, ch. 187, 52 Stat. 322.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Boulder Canyon Project Act (45 Stat. 1057), as amended, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.
+
+Executive Documents
+
+Transfer of Functions For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.

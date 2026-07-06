@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "36 U.S.C. § 220525"
+description: "Granting sanctions for amateur athletic competitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 36
+title_name: "PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS"
+chapter_number: "2205"
+chapter_name: "UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE"
+section: "220525"
+citation: "36 U.S.C. § 220525"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc36@119-100.zip"
+source_identifier: "/us/usc/t36/s220525"
+source_file: "data/legal/raw/us/code/title-36/usc36.xml"
+source_hash: "4257ec9762289a0870532bab5a9a2cc3951b9e052bd7c0a23c916664d8266675"
+raw_snapshot_hash: "d8bb3c94f12bbd56e49d7a2bc029b1f4ab0bb8b69327e9ddbdf94d7adcac580d"
+text_hash: "5ec2fb803a61b786afd84aa62960f60d4b0a37adb0ee0ff9f84289cd03764742"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 36 U.S.C. § 220525 - Granting sanctions for amateur athletic competitions
+
+## Text
+
+(a) Prompt Review and Decision.— For the sport that it governs, a national governing body promptly shall—
+
+(1) review a request by an amateur sports organization or person for a sanction to hold an international amateur athletic competition in the United States or to sponsor United States amateur athletes to compete in international amateur athletic competition outside the United States; and
+
+(2) grant the sanction if—
+
+(A) the national governing body does not decide by clear and convincing evidence that holding or sponsoring an international amateur athletic competition would be detrimental to the best interest of the sport; and
+
+(B) the requirements of subsection (b) of this section are met.
+
+(b) Requirements.— An amateur sports organization or person may be granted a sanction under this section only if the organization or person meets the following requirements:
+
+(1) The organization or person must pay the national governing body any required sanctioning fee, if the fee is reasonable and nondiscriminatory.
+
+(2) For a sanction to hold an international amateur athletic competition in the United States, the organization or person must—
+
+(A) submit to the national governing body an audited or notarized financial report of similar events, if any, conducted by the organization or person; and
+
+(B) demonstrate that the requirements of paragraph (4) of this subsection have been met.
+
+(3) For a sanction to sponsor United States amateur athletes to compete in international amateur athletic competition outside the United States, the organization or person must—
+
+(A) submit a report of the most recent trip to a foreign country, if any, that the organization or person sponsored for the purpose of having United States amateur athletes compete in international amateur athletic competition; and
+
+(B) submit a letter from the appropriate entity that will hold the international amateur athletic competition certifying that the requirements of paragraph (4) of this subsection have been met.
+
+(4) The requirements referred to in paragraphs (2) and (3) of this subsection are that—
+
+(A) appropriate measures have been taken to protect the amateur status of athletes who will take part in the competition and to protect their eligibility to compete in amateur athletic competition;
+
+(B) appropriate provision has been made for validation of any records established during the competition;
+
+(C) due regard has been given to any international amateur athletic requirements specifically applicable to the competition;
+
+(D) the competition will be conducted by qualified officials;
+
+(E) proper medical supervision will be provided for athletes who will participate in the competition;
+
+(F) proper safety precautions have been taken to protect the personal welfare of the athletes and spectators at the competition; and
+
+(G) the amateur sports organization or person requesting sanction from a national governing body will implement and abide by the policies and procedures to prevent the abuse, including emotional, physical, and child abuse, of amateur athletes participating in amateur athletic activities applicable to such national governing body.
+
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 115–126, title II, § 203, Feb. 14, 2018, 132 Stat. 323.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 220525(a)(1)36:392(a)(4).Sept. 21, 1950, ch. 975, title II, § 202(a)(4), (b), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3052, 3053. 220525(a) (2)(A)36:392(b) (words before cl. (1)).  220525(a) (2)(B)(no source).  220525(b) (words before par. (1))36:392(b)(1) (words before subcl. (A)), (2) (words before subcl. (A)).  220525(b)(1)36:392(b)(1)(A), (2)(A).  220525(b) (2)(A)36:392(b)(1)(C).  220525(b) (2)(B)36:392(b)(1)(B) (words before subcl. (i)).  220525(b) (3)(A)36:392(b)(2)(C).  220525(b) (3)(B)36:392(b)(2)(B) (words before subcl. (i)).  220525(b)(4)36:392(b)(1)(B)(i)– (vi), (2)(B)(i)–(vi).  In subsection (a), the words “and determine whether to grant such sanction, in accordance with the provisions of subsection (b) of this section” and “As a result of its review under subsection (a)(4) of this section” are omitted as unnecessary. Clause (2)(B) is added because of the reorganization of the section. In subsection (b), the language before paragraph (1) is substituted for 36:392(b)(1) (words before subclause (A)) and (2) (words before subclause (A)) because of the reorganization of the section. Paragraph (1) is substituted for 36:392(b)(1)(A) and (2)(A), and paragraph (4) is substituted for 36:392(b)(1)(B)(i)–(vi) and (2)(B)(i)–(vi), to avoid repeating identical language.
+
+Editorial Notes
+
+Amendments2018—Subsec. (b)(4)(G). Pub. L. 115–126, which directed amendment of section 220525(b)(4), without specifying the title to be amended, by adding subpar. (G), was executed to this section, to reflect the probable intent of Congress.

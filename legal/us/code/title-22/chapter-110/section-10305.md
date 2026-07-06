@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 10305"
+description: "Establishment and expansion of Regional Technology Officer Program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "110"
+chapter_name: "INFORMATION SECURITY AND CYBER DIPLOMACY"
+section: "10305"
+citation: "22 U.S.C. § 10305"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s10305"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "a4a5d38e9201e084dcb36b216d1ea762e2c31ac06abcecc3b7e5982bccf9b3d9"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "acc0e8ae7aa06054795e45d81c5ccc918ae75275c1c2511b8c017c561e10f99b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 10305 - Establishment and expansion of Regional Technology Officer Program
+
+## Text
+
+(a) Regional Technology Officer Program (1) Establishment The Secretary shall establish a program, which shall be known as the “Regional Technology Officer Program” (referred to in this section as the “Program”), and shall be administered by the Bureau for Cyberspace and Digital Policy.
+
+(2) Goals The goals of the Program shall include the following:
+
+(A) Promoting United States leadership in technology abroad.
+
+(B) Working with partners to increase the deployment of critical and emerging technology in support of democratic values.
+
+(C) Shaping diplomatic agreements in regional and international fora with respect to critical and emerging technologies.
+
+(D) Building diplomatic capacity for handling critical and emerging technology issues.
+
+(E) Facilitating the role of critical and emerging technology in advancing the foreign policy objectives of the United States through engagement with research labs, incubators, and venture capitalists.
+
+(F) Maintaining the advantages of the United States with respect to critical and emerging technologies.
+
+(b) Implementation plan Not later than 180 days after December 23, 2022, the Secretary shall submit an implementation plan to the appropriate congressional committees that outlines strategies for—
+
+(1) advancing the goals described in subsection (a)(2);
+
+(2) hiring Regional Technology Officers and increasing the competitiveness of the Program within the Foreign Service bidding process;
+
+(3) expanding the Program to include a minimum of 15 Regional Technology Officers; and
+
+(4) assigning not fewer than 2 Regional Technology Officers to posts within—
+
+(A) each regional bureau of the Department; and
+
+(B) the Bureau of International Organization Affairs.
+
+(c) Annual briefing requirement Not later than 180 days after December 23, 2022, and annually thereafter for the following 5 years, the Secretary shall brief the appropriate congressional committees regarding the status of the implementation plan required under subsection (b).
+
+(d) Authorization of appropriations There is authorized to be appropriated up to $25,000,000 for each of the fiscal years 2023 through 2027 to carry out this section.
+
+(Pub. L. 117–263, div. I, title XCV, § 9508, Dec. 23, 2022, 136 Stat. 3906; Pub. L. 118–159, div. G, title LXXIII, § 7301, Dec. 23, 2024, 138 Stat. 2541.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a)(1). Pub. L. 118–159 inserted “, and shall be administered by the Bureau for Cyberspace and Digital Policy” before period at end.
+
+Statutory Notes and Related Subsidiaries
+
+Definitions For definitions of “Secretary”, “appropriate congressional committees”, and “Department” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under section 2651 of this title.

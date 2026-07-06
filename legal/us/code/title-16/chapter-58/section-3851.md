@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 3851"
+description: "Experienced services program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "58"
+chapter_name: "ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM"
+section: "3851"
+citation: "16 U.S.C. § 3851"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s3851"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "7d8f46bc9d11c2e99990de965ba2da623678a0ad087748e5263240c91f073015"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "5e82c5fde314bea48a71cac5ed825ecbc26e5052baae383b609efc5424b1f585"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 3851 - Experienced services program
+
+## Text
+
+(a) Establishment and purpose The Secretary shall establish an experienced services program (referred to in this section as the “program”) for the purpose of utilizing the talents of individuals who are age 55 or older, but who are not employees of the Department of Agriculture or a State agriculture department, to provide—
+
+(1) technical services in support of the conservation-related programs and authorities carried out by the Secretary, including conservation planning assistance, technical consultation, and assistance with design and implementation of conservation practices; and
+
+(2) technical, professional, and administrative services to support the research, education, and economics mission area of the Department of Agriculture (including the Agricultural Research Service, the Economic Research Service, the National Agricultural Library, the National Agricultural Statistics Service, the Office of the Chief Scientist, and the National Institute of Food and Agriculture), including—
+
+(A) supporting agricultural research and information;
+
+(B) advancing scientific knowledge relating to agriculture;
+
+(C) enhancing access to agricultural information;
+
+(D) providing statistical information and research results to farmers, ranchers, agribusiness, and public officials; and
+
+(E) assisting research, education, and extension programs in land-grant colleges and universities (as defined in section 3103 of this title).
+
+(b) Program agreements (1) Relation to older American community service employment program Notwithstanding any other provision of law relating to Federal grants, cooperative agreements, or contracts, to carry out the program during a fiscal year, the Secretary may enter into agreements with nonprofit private agencies and organizations eligible to receive grants for that fiscal year under the Community Service Senior Opportunities Act (42 U.S.C. 3056 et seq.) to secure participants for the program who will provide technical, professional, or administrative services, as applicable, under the program.
+
+(2) Required determination Before entering into an agreement under paragraph (1), the Secretary shall ensure that the agreement would not—
+
+(A) result in the displacement of individuals employed by the Department, including partial displacement through reduction of non-overtime hours, wages, or employment benefits;
+
+(B) result in the use of an individual under the program for a job or function in a case in which a Federal employee is in a layoff status from the same or a substantially-equivalent job or function with the Department; or
+
+(C) affect existing contracts for services.
+
+(c) Funding source (1) Conservation technical services Except as provided in paragraph (2), with respect to subsection (a)(1), the Secretary may carry out the program using funds made available to carry out each program under this chapter.
+
+(2) Exclusion Funds made available to carry out the conservation reserve program may not be used to carry out the program.
+
+(3) Research, education, and economics services With respect to services referred to in subsection (a)(2), the Secretary may carry out the program under the mission area referred to in such subsection to the extent that funds are specifically appropriated to provide such services under such mission area.
+
+(d) Liability An individual providing technical, professional, or administrative services, as applicable, under the program is deemed to be an employee of the United States Government for purposes of chapter 171 of title 28 if the individual—
+
+(1) is providing technical, professional, or administrative services, as applicable, pursuant to an agreement entered into under subsection (b); and
+
+(2) is acting within the scope of the agreement.
+
+(Pub. L. 99–198, title XII, § 1252, as added Pub. L. 110–234, title II, § 2710, May 22, 2008, 122 Stat. 1082, and Pub. L. 110–246, § 4(a), title II, § 2710, June 18, 2008, 122 Stat. 1664, 1810; amended Pub. L. 113–79, title II, § 2504, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title VII, § 7611, Dec. 20, 2018, 132 Stat. 4830.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Community Service Senior Opportunities Act, referred to in subsec. (b)(1), is title V of Pub. L. 89–73, as added Pub. L. 109–365, title V, § 501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables. This chapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+
+Codification Pub. L. 110–234, § 2710, and Pub. L. 110–246, § 2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 (16 U.S.C. 2005a) of title XII of the Food Security Act of 1985 were repealed by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007. Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+Prior ProvisionsA prior section 1252 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1516, amended sections 2004, 2005, 2006, and 2009 of this title, prior to repeal by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
+
+Amendments2018—Pub. L. 115–334, § 7611(1), struck out “Agriculture conservation” before “experienced” in section catchline. Subsec. (a). Pub. L. 115–334, § 7611(2), substituted “an experienced services program (referred to in this section as the ‘program’)” for “a conservation experienced services program (in this section referred to as the ‘ACES Program’)” and “provide—” for “provide”, inserted par. (1) designation before “technical services in support”, substituted “Secretary, including” for “Secretary. Such technical services may include”, and added par. (2). Subsec. (b). Pub. L. 115–334, § 7611(3), striking “ACES” before “program” wherever appearing. Subsec. (b)(1). Pub. L. 115–334, § 7611(4), substituted “technical, professional, or administrative services, as applicable,” for “technical services”. Subsec. (c). Pub. L. 115–334, § 7611(3), substituted “the program” for “the ACES program” in two places. Subsec. (c)(1). Pub. L. 115–334, § 7611(5)(A), substituted “Conservation technical services” for “In general” in heading, and inserted “with respect to subsection (a)(1),” before “the Secretary” in text. Subsec. (c)(3). Pub. L. 115–334, § 7611(5)(B), added par. (3). Subsec. (d). Pub. L. 115–334, § 7611(4), substituted “technical, professional, or administrative services, as applicable,” for “technical services” in introductory provisions and par. (1). Pub. L. 115–334, § 7611(3), struck out “ACES” before “program” in introductory provisions. 2014—Subsec. (c)(2). Pub. L. 113–79 amended par. (2) generally. Prior to amendment, text read as follows: “Funds made available to carry out the following programs may not be used to carry out the ACES program: “(A) The conservation reserve program. “(B) The wetlands reserve program. “(C) The grassland reserve program. “(D) The conservation stewardship program.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateEnactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.

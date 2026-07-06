@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "33 U.S.C. § 4101"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 33
+title_name: "NAVIGATION AND NAVIGABLE WATERS"
+chapter_number: "54"
+chapter_name: "COMMERCIAL ENGAGEMENT THROUGH OCEAN TECHNOLOGY"
+section: "4101"
+citation: "33 U.S.C. § 4101"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc33@119-100.zip"
+source_identifier: "/us/usc/t33/s4101"
+source_file: "data/legal/raw/us/code/title-33/usc33.xml"
+source_hash: "7e949fe781668d93468911fabb9089971006523a5b41594ca8e62da67ce1b861"
+raw_snapshot_hash: "de3d130b31eae77f8c0fc593f61b7287899297718d678d500eea123559828523"
+text_hash: "779a6e4553b0a7a222de0c96922de46c387fff1de7ebdf57d039c862f1121dcf"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 33 U.S.C. § 4101 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) Administration The term “Administration” means the National Oceanic and Atmospheric Administration.
+
+(2) Administrator The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+
+(3) Cooperative activities of the Administration The terms 11 So in original. Probably should be “term”. “cooperative activities of the Administration” means cooperative activities between the Administration and an external entity, such as the Cooperative Institutes, Sea Grant Colleges, National Estuarine Research Reserves, the National Oceanographic Partnership Program established under chapter 665 of title 10, and regional associations of the Integrated Ocean Observing System.
+
+(4) Data specifications The term “data specifications” shall refer to the type, resolution, periodicity, and quality of data required by an program of the Administration.
+
+(5) Test or training range (A) In general The term “test or training range” means an area designated for operating unmanned maritime systems and other types of systems for the purpose of—
+
+(i) evaluating the performance of such systems; or
+
+(ii) training personnel on operating procedures for such systems.
+
+(B) Inclusions The term “test or training range” may include specialized fixed or portable instrumentation for the operation of unmanned maritime systems and other types of systems.
+
+(6) Unmanned maritime systems (A) In general The term “unmanned maritime systems” means remotely operated or autonomous vehicles produced by the commercial sector—
+
+(i) designed to function without an on-board human presence; and
+
+(ii) that may include associated components such as control and communications, instrumentation, data transmission, and processing systems.
+
+(B) Examples The term “unmanned maritime systems” includes the following:
+
+(i) Unmanned undersea vehicles.
+
+(ii) Unmanned surface vehicles.
+
+(iii) Autonomous underwater vehicles.
+
+(iv) Autonomous surface vehicles.
+
+(C) Treatment of aerial vehicles The term “unmanned maritime systems” includes unmanned aerial vehicles and autonomous aerial vehicles that are used to address maritime issues to the extent the Administrator determines it is necessary and appropriate to achieve the purposes of this chapter.
+
+(Pub. L. 115–394, § 2, Dec. 21, 2018, 132 Stat. 5281.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Short TitlePub. L. 115–394, § 1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: “This Act [enacting this chapter] may be cited as the ‘Commercial Engagement Through Ocean Technology Act of 2018’ or the ‘CENOTE Act of 2018’.”
+
+Pilot Program for Governance and Oversight of Small Uncrewed Maritime SystemsPub. L. 119–60, div. G, title LXXIII, § 7331, Dec. 18, 2025, 139 Stat. 1771, provided that: “(a) Limitation.—Notwithstanding any other provision of law, for the period beginning on the date of enactment of this Act [Dec. 18, 2025] and ending on the date that is 2 years after such date of enactment, small uncrewed maritime systems owned, operated, or chartered by the National Oceanic and Atmospheric Administration, or that are performing specified oceanographic surveys on behalf of and pursuant to a contract or other written agreement with the National Oceanic and Atmospheric Administration, shall not be subject to any vessel inspection, design, operations, navigation, credentialing, or training requirement, law, or regulation, that the Assistant Administrator of the Office of Marine and Aviation Operations of the National Oceanic and Atmospheric Administration determines will harm real-time operational extreme weather oceanographic and atmospheric data collection and predictions. “(b) Other Authority.—Nothing in this section shall be construed to limit the authority of the Secretary of the department in which the Coast Guard is operating, acting through the Commandant, if there is an immediate safety or security concern regarding small uncrewed maritime systems. “(c) Definitions.—In this section:“(1) Small uncrewed maritime systems.—The term ‘small uncrewed maritime systems’ means unmanned maritime systems (as defined in section 2 of the CENOTE Act of 2018 (33 U.S.C. 4101)), that—“(A) are not greater than 35 feet overall in length; “(B) are operated remotely or autonomously; and “(C) exclusively perform oceanographic surveys or scientific research. “(2) Uncrewed system.—The term ‘uncrewed system’—“(A) means an uncrewed surface, undersea, or aircraft system and associated elements (including communication links and the components that control the uncrewed system) that are required for the operator to operate the system safely and efficiently; and “(B) includes an unmanned aircraft system (as such term is defined in section 44801 of title 49, United States Code). “(d) Savings Clause.—Nothing in this section may be construed to repeal, replace, or preclude application of chapter 551 of title 46, United States Code.”

@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "21 U.S.C. § 361"
+description: "Adulterated cosmetics"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 21
+title_name: "FOOD AND DRUGS"
+chapter_number: "9"
+chapter_name: "FEDERAL FOOD, DRUG, AND COSMETIC ACT"
+section: "361"
+citation: "21 U.S.C. § 361"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc21@119-100.zip"
+source_identifier: "/us/usc/t21/s361"
+source_file: "data/legal/raw/us/code/title-21/usc21.xml"
+source_hash: "05c3312860721259a3571417d92cac5b523fdd3b03878d5fd5bb2cfdc8ea2afc"
+raw_snapshot_hash: "3dbd7a61c8616baefb8459bd8dac3b93242106deb416308c8d4dd5a9143176d1"
+text_hash: "c2e95bac38db3238dee66e0a0ffd615dbc96d0819938b21b03d14bda1d0ac89f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 21 U.S.C. § 361 - Adulterated cosmetics
+
+## Text
+
+A cosmetic shall be deemed to be adulterated—
+
+(a) If it bears or contains any poisonous or deleterious substance which may render it injurious to users under the conditions of use prescribed in the labeling thereof, or under such conditions of use as are customary or usual, except that this provision shall not apply to coal-tar hair dye, the label of which bears the following legend conspicuously displayed thereon: “Caution—This product contains ingredients which may cause skin irritation on certain individuals and a preliminary test according to accompanying directions should first be made. This product must not be used for dyeing the eyelashes or eyebrows; to do so may cause blindness.”, and the labeling of which bears adequate directions for such preliminary testing. For the purposes of this paragraph and paragraph (e) the term “hair dye” shall not include eyelash dyes or eyebrow dyes.
+
+(b) If it consists in whole or in part of any filthy, putrid, or decomposed substance.
+
+(c) If it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health.
+
+(d) If its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health.
+
+(e) If it is not a hair dye and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 379e(a) of this title.
+
+(f) If it has been manufactured or processed under conditions that do not meet the good manufacturing practice requirements of section 364b of this title.
+
+(g) If it is a cosmetic product, and the cosmetic product, including each ingredient in the cosmetic product, does not have adequate substantiation for 11 So in original. Probably should be “of”. safety, as defined in section 364d(c) of this title.
+
+(June 25, 1938, ch. 675, § 601, 52 Stat. 1054; Pub. L. 86–618, title I, § 102(c)(1), July 12, 1960, 74 Stat. 398; Pub. L. 102–571, title I, § 107(11), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, § 3(x), Aug. 13, 1993, 107 Stat. 778; Pub. L. 117–328, div. FF, title III, § 3503(a)(2), Dec. 29, 2022, 136 Stat. 5858.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Subsecs. (f), (g). Pub. L. 117–328 added subsecs. (f) and (g). 1993—Subsec. (a). Pub. L. 103–80 substituted “usual, except that this” for “usual: Provided, That this”. 1992—Par. (e). Pub. L. 102–571 substituted “379e(a)” for “376(a)”. 1960—Par. (e). Pub. L. 86–618 substituted “and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376(a) of this title” for “and it bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 364 of this title”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2022 AmendmentAmendment by Pub. L. 117–328 effective on the date that is 1 year after Dec. 29, 2022, see section 3503(b)(1) of Pub. L. 117–328, set out as a note under section 331 of this title.
+
+Effective Date of 1960 AmendmentAmendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions of section 203 of Pub. L. 86–618, see section 202 of Pub. L. 86–618, set out as a note under section 379e of this title.
+
+Effective Date; PostponementPar. (e) effective Jan. 1, 1940, see act June 23, 1939, ch. 242, 53 Stat. 853, set out as an Effective Date; Postponement in Certain Cases note under section 301 of this title.
+
+Effective DateSection effective twelve months after June 25, 1938, except par. (a), which, with certain exceptions, became effective on June 25, 1938, see section 1002(a) of act June 25, 1938, set out as a note under section 301 of this title.
+
+Construction; ConfidentialityNothing in amendment made by Pub. L. 117–328, to be construed to authorize the disclosure of information that is prohibited from disclosure under section 331(j) of this title or section 1905 of title 18 or that is subject to withholding under section 552(b)(4) of title 5, see section 3503(c)(2) of Pub. L. 117–328, set out as a note under section 364 of this title.

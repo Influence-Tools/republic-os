@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "45 U.S.C. § 1322"
+description: "Ownership limitations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 45
+title_name: "RAILROADS"
+chapter_number: "22"
+chapter_name: "CONRAIL PRIVATIZATION"
+section: "1322"
+citation: "45 U.S.C. § 1322"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc45@119-100.zip"
+source_identifier: "/us/usc/t45/s1322"
+source_file: "data/legal/raw/us/code/title-45/usc45.xml"
+source_hash: "602acc0c5ca5707536b991c5d0f07969ec02ee8c782fdecdbf01b64e3ba5bfc6"
+raw_snapshot_hash: "6ff04cb352e22f8a18f24c94e9adb8036909cf2a75f41489d768a5934fb9667c"
+text_hash: "67bb92165edf0003a825607724a169ad48d7243819446031005cdb997e6f7f4d"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 45 U.S.C. § 1322 - Ownership limitations
+
+## Text
+
+(a) General (1) During a period of 3 years beginning on the sale date, no person, directly or indirectly, may acquire or hold securities representing more than 10 percent of the total votes of all outstanding voting securities of the Corporation.
+
+(2) This subsection shall not apply—
+
+(A) to the employee stock ownership plan (or successor plans) of the Corporation,
+
+(B) to the Secretary of Transportation,
+
+(C) to a railroad as described under subsection (b),
+
+(D) to underwriting syndicates holding shares for resale, or
+
+(E) in the case of shares beneficially held for others, to commercial banks, broker-dealers, clearing corporations, or other nominees.
+
+(b) Railroads (1) During a period of 1 year beginning on the sale date, no railroad may purchase or hold, directly or indirectly, more than 10 percent of any class of stock of the Corporation. During such period, no railroad may file an application with the Commission for a merger or consolidation with the Corporation or the acquisition of control of the Corporation under section 11344 11 See References in Text note below. of title 49.
+
+(2) During a period of 3 years beginning on the sale date, any railroad which purchases or holds any stock of the Corporation shall vote such stock in the same proportion as all other common stock of the Corporation is voted. After the expiration of 1 year after the sale date, the preceding sentence shall not apply to any railroad with respect to which the Commission has approved an application for a merger or consolidation with the Corporation or the acquisition of control of the Corporation under section 11344 1 of title 49.
+
+(3) As used in this subsection, the term “railroad” means a class I railroad as determined by the Commission under the definition in effect on October 21, 1986, and includes any entity controlling, controlled by, or under common control with any railroad (other than the Corporation or its subsidiaries).
+
+(Pub. L. 99–509, title IV, § 4022, Oct. 21, 1986, 100 Stat. 1900.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 11344 of title 49, referred to in subsec. (b)(1), (2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11344 are contained in sections 11324 and 14303 of Title 49.
+
+Statutory Notes and Related Subsidiaries
+
+Abolition of Interstate Commerce Commission and Transfer of Functions Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.

@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "49 U.S.C. § 44511"
+description: "Aviation research grants"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 49
+title_name: "TRANSPORTATION"
+chapter_number: "445"
+chapter_name: "FACILITIES, PERSONNEL, AND RESEARCH"
+section: "44511"
+citation: "49 U.S.C. § 44511"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc49@119-100.zip"
+source_identifier: "/us/usc/t49/s44511"
+source_file: "data/legal/raw/us/code/title-49/usc49.xml"
+source_hash: "dde76d5b9d485646f1c628301fe0b42d2cc2032397a8202cf56a7e54ffbfb625"
+raw_snapshot_hash: "0786acdd244d8f42c5a8e8ed1ec2a8dcb47dd0e02a286752710a20745702a4fb"
+text_hash: "76ab4d5abf9f862e70e4cf7d45f7406f6a468a369aecb5441d432d4eaeb7c659"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 49 U.S.C. § 44511 - Aviation research grants
+
+## Text
+
+(a) General Authority.— The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations to conduct aviation research in areas the Administrator considers necessary for the long-term growth of civil aviation.
+
+(b) Applications.— An institution of higher education or nonprofit research organization interested in receiving a grant under this section may submit an application to the Administrator. The application must be in the form and contain the information the Administrator requires.
+
+(c) Solicitation, Review, and Evaluation Process.— The Administrator shall establish a solicitation, review, and evaluation process that ensures—
+
+(1) providing grants under this section for proposals having adequate merit and relevancy to the mission of the Administration;
+
+(2) a fair geographical distribution of grants under this section; and
+
+(3) the inclusion of historically black institutions of higher education and other minority nonprofit research organizations for grant consideration under this section.
+
+(d) Records.— Each person receiving a grant under this section shall maintain records that the Administrator requires as being necessary to facilitate an effective audit and evaluation of the use of money provided under the grant.
+
+(e) Annual Report.— The Administrator shall submit an annual report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on carrying out this section.
+
+(f) Airport Cooperative Research Program.— (1) Establishment.— The Secretary of Transportation shall maintain an airport cooperative research program to—
+
+(A) identify problems that are shared by airport operating agencies and can be solved through applied research but that are not being adequately addressed by existing Federal research programs; and
+
+(B) fund research to address those problems.
+
+(2) Governance.— The Secretary of Transportation shall appoint an independent governing board for the research program established under this subsection. The governing board shall be appointed from candidates nominated by national associations representing public airport operating agencies, airport executives, State aviation officials, and the scheduled airlines, and shall include representatives of appropriate Federal agencies. Section 1013 of title 5 shall not apply to the governing board.
+
+(3) Implementation.— The Secretary of Transportation shall enter into an arrangement with the National Academy of Sciences to provide staff support to the governing board established under paragraph (2) and to carry out projects proposed by the governing board that the Secretary considers appropriate.
+
+(4) Report.— Not later than September 30, 2012, the Secretary shall transmit to the Congress a report on the program.
+
+(Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1181; Pub. L. 104–287, § 5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 108–176, title VII, § 712, Dec. 12, 2003, 117 Stat. 2586; Pub. L. 112–95, title IX, § 906, Feb. 14, 2012, 126 Stat. 139; Pub. L. 117–286, § 4(a)(314), Dec. 27, 2022, 136 Stat. 4340.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 4451149 App.:1353(g).Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 312(g); added Nov. 5, 1990, Pub. L. 101–508, § 9205(a), 104 Stat. 1388–373. In this section, the words “institutions of higher education” and “institution of higher education” are substituted for “colleges, universities”, “university, college”, and “colleges and universities” for consistency in the revised title. In subsection (c), the words “providing grants” are substituted for “the funding”, the word “grants” is substituted for “grant funds”, and the words “grant consideration” are substituted for “funding consideration”, for consistency in the revised title. In subsection (d), the words “money provided under the grant” are substituted for “grant funds” for consistency.
+
+Editorial Notes
+
+Amendments2022—Subsec. (f)(2). Pub. L. 117–286 substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act”. 2012—Subsec. (f)(1). Pub. L. 112–95, § 906(1), substituted “maintain an” for “establish a 4-year pilot” in introductory provisions. Subsec. (f)(4). Pub. L. 112–95, § 906(2), substituted “Not later than September 30, 2012,” for “Not later than 6 months after the expiration of the program under this subsection,” and “program” for “program, including recommendations as to the need for establishing a permanent airport cooperative research program”. 2003—Subsec. (f). Pub. L. 108–176 added subsec. (f). 1996—Subsec. (e). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+Effective Date of 2003 AmendmentAmendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.

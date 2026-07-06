@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 3162"
+description: "Comprehensive economic development strategies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "38"
+chapter_name: "PUBLIC WORKS AND ECONOMIC DEVELOPMENT"
+section: "3162"
+citation: "42 U.S.C. § 3162"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s3162"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "e44eff4c9cb102a8db8a3436d406198f26c36ea0deb56a808e3f6e8d73569512"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "8f3a0624f23cc6163a414c600203074153ff82313152a8fbb9c4ca0d2088f958"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 3162 - Comprehensive economic development strategies
+
+## Text
+
+(a) In general The Secretary may provide assistance under section 3141 or 3149 of this title (except for planning assistance under section 3149 of this title) to an eligible recipient for a project only if the eligible recipient submits to the Secretary, as part of an application for the assistance—
+
+(1) an identification of the economic development problems to be addressed using the assistance;
+
+(2) an identification of the past, present, and projected future economic development investments in the area receiving the assistance and public and private participants and sources of funding for the investments; and
+
+(3) (A) a comprehensive economic development strategy for addressing the economic problems identified under paragraph (1) in a manner that promotes economic development and opportunity, fosters effective transportation access, maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications), enhances and protects the environment, including to mitigate and adapt to the economic impacts of extreme weather, and balances resources through sound management of development; and
+
+(B) a description of how the strategy will solve the problems.
+
+(b) Approval of comprehensive economic development strategy The Secretary shall approve a comprehensive economic development strategy that meets the requirements of subsection (a) to the satisfaction of the Secretary.
+
+(c) Approval of other plan (1) In general The Secretary may accept as a comprehensive economic development strategy a satisfactory plan developed under another federally supported program.
+
+(2) Existing strategy To the maximum extent practicable, a plan submitted under this paragraph shall be consistent and coordinated with any existing comprehensive economic development strategy for the area.
+
+(d) Exception This section shall not apply to grants awarded under section 3147 of this title or grants awarded under section 3149(c)(2) of this title for areas to which more than one comprehensive economic development strategy may apply.
+
+(Pub. L. 89–136, title III, § 302, as added Pub. L. 105–393, title I, § 102(a), Nov. 13, 1998, 112 Stat. 3608; amended Pub. L. 108–373, title III, § 302, Oct. 27, 2004, 118 Stat. 1767; Pub. L. 118–272, div. B, title II, § 2226, Jan. 4, 2025, 138 Stat. 3191.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 3162, Pub. L. 89–136, title IV, § 402, Aug. 26, 1965, 79 Stat. 561; Pub. L. 92–65, title I, § 107, Aug. 5, 1971, 85 Stat. 167, required annual review of area eligibility, prior to repeal by Pub. L. 105–393, § 102(a). A prior section 302 of Pub. L. 89–136 was classified to section 3151a of this title prior to repeal by Pub. L. 105–393, § 102(a).
+
+Amendments2025—Subsec. (a)(3)(A). Pub. L. 118–272, § 2226(1), inserted “including to mitigate and adapt to the economic impacts of extreme weather,” after “enhances and protects the environment,”. Subsec. (d). Pub. L. 118–272, § 2226(2), added subsec. (d). 2004—Subsec. (a)(3)(A). Pub. L. 108–373, § 302(a), inserted “maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications),” after “access,”. Subsec. (c). Pub. L. 108–373, § 302(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.

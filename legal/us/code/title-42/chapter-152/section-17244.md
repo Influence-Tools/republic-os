@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 17244"
+description: "Renewable Energy Innovation Manufacturing Partnership"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "152"
+chapter_name: "ENERGY INDEPENDENCE AND SECURITY"
+section: "17244"
+citation: "42 U.S.C. § 17244"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s17244"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "57ca3f3200c7f3366d107fe2b560266c467ed511dc1a029e4762fb3f85f249d7"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "cfebe4440418b57aea9159a70eb94b6bfddf2671b0ddf65741a9ff687d188b3c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 17244 - Renewable Energy Innovation Manufacturing Partnership
+
+## Text
+
+(a) Establishment The Secretary shall carry out a program, to be known as the Renewable Energy Innovation Manufacturing Partnership Program (referred to in this section as the “Program”), to make assistance awards to eligible entities for use in carrying out research, development, and demonstration relating to the manufacturing of renewable energy technologies.
+
+(b) Solicitation To carry out the Program, the Secretary shall annually conduct a competitive solicitation for assistance awards for an eligible project described in subsection (e).
+
+(c) Program purposes The purposes of the Program are—
+
+(1) to develop, or aid in the development of, advanced manufacturing processes, materials, and infrastructure;
+
+(2) to increase the domestic production of renewable energy technology and components; and
+
+(3) to better coordinate Federal, State, and private resources to meet regional and national renewable energy goals through advanced manufacturing partnerships.
+
+(d) Eligible entities An entity shall be eligible to receive an assistance award under the Program to carry out an eligible project described in subsection (e) if the entity is composed of—
+
+(1) 1 or more public or private nonprofit institutions or national laboratories engaged in research, development, demonstration, or technology transfer, that would participate substantially in the project; and
+
+(2) 1 or more private entities engaged in the manufacturing or development of renewable energy system components (including solar energy, wind energy, biomass, geothermal energy, energy storage, or fuel cells).
+
+(e) Eligible projects An eligible entity may use an assistance award provided under this section to carry out a project relating to—
+
+(1) the conduct of studies of market opportunities for component manufacturing of renewable energy systems;
+
+(2) the conduct of multiyear applied research, development, demonstration, and deployment projects for advanced manufacturing processes, materials, and infrastructure for renewable energy systems; and
+
+(3) other similar ventures, as approved by the Secretary, that promote advanced manufacturing of renewable technologies.
+
+(f) Criteria and guidelines The Secretary shall establish criteria and guidelines for the submission, evaluation, and funding of proposed projects under the Program.
+
+(g) Cost sharing Section 16352 of this title shall apply to a project carried out under this section.
+
+(h) Disclosure The Secretary may, for a period of up to 5 years after an award is granted under this section, exempt from mandatory disclosure under section 552 of title 5 (popularly known as the Freedom of Information Act) information that the Secretary determines would be a privileged or confidential trade secret or commercial or financial information under subsection (b)(4) of such section if the information had been obtained from a non-Government party.
+
+(i) Sense of the Congress It is the sense of the Congress that the Secretary should ensure that small businesses engaged in renewable manufacturing be given priority consideration for the assistance awards provided under this section.
+
+(j) Authorization of appropriations There is authorized to be appropriated out of funds already authorized to carry out this section $25,000,000 for each of fiscal years 2008 through 2013, to remain available until expended.
+
+(Pub. L. 110–140, title VI, § 656, Dec. 19, 2007, 121 Stat. 1703.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.

@@ -1,0 +1,191 @@
+---
+type: "LegalText"
+title: "31 U.S.C. § 3801"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 31
+title_name: "MONEY AND FINANCE"
+chapter_number: "38"
+chapter_name: "ADMINISTRATIVE REMEDIES FOR FALSE CLAIMS AND STATEMENTS"
+section: "3801"
+citation: "31 U.S.C. § 3801"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc31@119-100.zip"
+source_identifier: "/us/usc/t31/s3801"
+source_file: "data/legal/raw/us/code/title-31/usc31.xml"
+source_hash: "8005c2f97b6f1702432c717bd4b6b94138c954992414e76e2534c66ca2479bb9"
+raw_snapshot_hash: "94d3fba324cbbc12277242f872f8f47cff5250dbcdc0057fe857212764e4b704"
+text_hash: "75e88e3c89d2b56396a6e7cb5db5af93d5ba53400938b36ce0d709060d886b00"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 31 U.S.C. § 3801 - Definitions
+
+## Text
+
+(a) For purposes of this chapter—
+
+(1) “authority” means—
+
+(A) an executive department;
+
+(B) a military department;
+
+(C) an establishment (as such term is defined in section 401 of title 5) which is not an executive department;
+
+(D) the United States Postal Service;
+
+(E) the National Science Foundation; and
+
+(F) a designated Federal entity (as such term is defined under section 415(a) of title 5);
+
+(2) “authority head” means—
+
+(A) the head of an authority; or
+
+(B) an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
+
+(3) “claim” means any request, demand, or submission—
+
+(A) made to an authority for property, services, or money (including money representing grants, loans, insurance, or benefits);
+
+(B) made to a recipient of property, services, or money from an authority or to a party to a contract with an authority—
+
+(i) for property or services if the United States—
+
+(I) provided such property or services;
+
+(II) provided any portion of the funds for the purchase of such property or services; or
+
+(III) will reimburse such recipient or party for the purchase of such property or services; or
+
+(ii) for the payment of money (including money representing grants, loans, insurance, or benefits) if the United States—
+
+(I) provided any portion of the money requested or demanded; or
+
+(II) will reimburse such recipient or party for any portion of the money paid on such request or demand; or
+
+(C) made to an authority which has the effect of concealing or improperly avoiding or decreasing an obligation to pay or transmit property, services, or money to the authority,
+
+except that such term does not include any claim made in any return of tax imposed by the Internal Revenue Code of 1986;
+
+(4) “investigating official” means an individual who—
+
+(A) (i) in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
+
+(ii) in the case of an authority in which an Office of Inspector General is not established by chapter 4 of title 5 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under section 3803(a)(1) of this title; or
+
+(iii) in the case of a military department, is the Inspector General of the Department of Defense or an officer or employee of the Office of Inspector General of the Department of Defense who is designated by the Inspector General; and
+
+(B) who, if a member of the Armed Forces of the United States on active duty, is serving in grade O–7 or above or, if a civilian employee, is serving in a position for which the rate of basic pay is not less than the minimum rate of basic pay for grade GS–16 under the General Schedule;
+
+(5) “knows or has reason to know”, for purposes of establishing liability under section 3802, means that a person, with respect to a claim or statement—
+
+(A) has actual knowledge that the claim or statement is false, fictitious, or fraudulent;
+
+(B) acts in deliberate ignorance of the truth or falsity of the claim or statement; or
+
+(C) acts in reckless disregard of the truth or falsity of the claim or statement,
+
+and no proof of specific intent to defraud is required;
+
+(6) “person” means any individual, partnership, corporation, association, or private organization;
+
+(7) “presiding officer” means—
+
+(A) in the case of an authority to which the provisions of subchapter II of chapter 5 of title 5 apply, an administrative law judge appointed in the authority pursuant to section 3105 of such title or detailed to the authority pursuant to section 3344 of such title;
+
+(B) in the case of an authority to which the provisions of such subchapter do not apply, an officer or employee of the authority who—
+
+(i) is selected under chapter 33 of title 5 pursuant to the competitive examination process applicable to administrative law judges;
+
+(ii) is appointed by the authority head to conduct hearings under section 3803 of this title;
+
+(iii) is assigned to cases in rotation so far as practicable;
+
+(iv) may not perform duties inconsistent with the duties and responsibilities of a presiding officer;
+
+(v) is entitled to pay prescribed by the Office of Personnel Management independently of ratings and recommendations made by the authority and in accordance with chapter 51 of such title and subchapter III of chapter 53 of such title;
+
+(vi) is not subject to performance appraisal pursuant to chapter 43 of such title; and
+
+(vii) may be removed, suspended, furloughed, or reduced in grade or pay only for good cause established and determined by the Merit Systems Protection Board on the record after opportunity for hearing by such Board; or
+
+(C) a member of the board of contract appeals pursuant to section 7105 of title 41, if the authority does not employ an available presiding officer under subparagraph (A);
+
+(8) “reviewing official” means any officer or employee of an authority—
+
+(A) who is designated by the authority head to make the determination required under section 3803(a)(2) of this title;
+
+(B) who, if a member of the Armed Forces of the United States on active duty, is serving in grade O–7 or above or, if a civilian employee, is serving in a position for which the rate of basic pay is not less than the minimum rate of basic pay for grade GS–16 under the General Schedule; and
+
+(C) who is—
+
+(i) not subject to supervision by, or required to report to, the investigating official; and
+
+(ii) not employed in the organizational unit of the authority in which the investigating official is employed;
+
+(9) “statement” means any representation, certification, affirmation, document, record, or accounting or bookkeeping entry made—
+
+(A) with respect to a claim or to obtain the approval or payment of a claim (including relating to eligibility to make a claim); or
+
+(B) with respect to (including relating to eligibility for)—
+
+(i) a contract with, or a bid or proposal for a contract with; or
+
+(ii) a grant, loan, or benefit from,
+
+an authority, or any State, political subdivision of a State, or other party, if the United States Government provides any portion of the money or property under such contract or for such grant, loan, or benefit, or if the Government will reimburse such State, political subdivision, or party for any portion of the money or property under such contract or for such grant, loan, or benefit,
+
+except that such term does not include any statement made in any return of tax imposed by the Internal Revenue Code of 1986;
+
+(10) “material” has the meaning given the term in section 3729(b) of this title; and
+
+(11) “obligation” has the meaning given the term in section 3729(b) of this title.
+
+(b) For purposes of paragraph (3) of subsection (a)—
+
+(1) each voucher, invoice, claim form, or other individual request or demand for property, services, or money constitutes a separate claim;
+
+(2) each claim for property, services, or money is subject to this chapter regardless of whether such property, services, or money is actually delivered or paid; and
+
+(3) a claim shall be considered made, presented, or submitted to an authority, recipient, or party when such claim is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority, recipient, or party.
+
+(c) For purposes of paragraph (9) of subsection (a)—
+
+(1) each written representation, certification, or affirmation constitutes a separate statement; and
+
+(2) a statement shall be considered made, presented, or submitted to an authority when such statement is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority.
+
+(d) For purposes of subsection (a)(10), materiality shall be determined in the same manner as under section 3729 of this title.
+
+(Added Pub. L. 99–509, title VI, § 6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, § 4(f)(1)(Q), July 5, 1994, 108 Stat. 1362; Pub. L. 110–69, title VII, § 7017, Aug. 9, 2007, 121 Stat. 684; Pub. L. 110–409, § 10, Oct. 14, 2008, 122 Stat. 4314; Pub. L. 117–286, § 4(b)(56), Dec. 27, 2022, 136 Stat. 4349; Pub. L. 118–159, div. E, title LII, § 5203(b)(1), (g)(1)(A), (i), Dec. 23, 2024, 138 Stat. 2440, 2442, 2443.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classified generally to Title 26, Internal Revenue Code.
+
+Amendments2024—Subsec. (a)(3)(C). Pub. L. 118–159, § 5203(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “made to an authority which has the effect of decreasing an obligation to pay or account for property, services, or money,”. Subsec. (a)(7)(C). Pub. L. 118–159, § 5203(g)(1)(A), added subpar. (C). Subsec. (a)(10), (11). Pub. L. 118–159, § 5203(i)(1), added pars. (10) and (11). Subsec. (d). Pub. L. 118–159, § 5203(i)(2), added subsec. (d). 2022—Subsec. (a)(1)(C). Pub. L. 117–286, § 4(b)(56)(A), substituted “section 401 of title 5)” for “section 11(2) of the Inspector General Act of 1978)”. Subsec. (a)(1)(F). Pub. L. 117–286, § 4(b)(56)(B), substituted “section 415(a) of title 5)” for “section 8G(a)(2) of the Inspector General Act of 1978)”. Subsec. (a)(4)(A)(i). Pub. L. 117–286, § 4(b)(56)(C), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”. Subsec. (a)(4)(A)(ii). Pub. L. 117–286, § 4(b)(56)(D), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”. 2008—Subsec. (a)(1)(F). Pub. L. 110–409 added subpar. (F). 2007—Subsec. (a)(1)(E). Pub. L. 110–69 added subpar. (E). 1994—Subsec. (a)(7)(B)(ii). Pub. L. 103–272 substituted “section 3803 of this title” for “section 3803 of such title”. 1986—Subsec. (a)(3), (9). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Pub. L. 118–159, div. E, title LII, § 5203(a)(2), Dec. 23, 2024, 138 Stat. 2440, provided that: “Any reference to the Program Fraud Civil Remedies Act of 1986 in any provision of law, regulation, map, document, record, or other paper of the United States shall be deemed a reference to the Administrative False Claims Act [see Short Title note below].”
+
+Effective DatePub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6104, Oct. 21, 1986, 100 Stat. 1948, provided that: “This subtitle and the amendments made by this subtitle [see Short Title note below] shall take effect on the date of enactment of this Act [Oct. 21, 1986], and shall apply to any claim or statement made, presented, or submitted on or after such date.”
+
+Short TitlePub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6101, Oct. 21, 1986, 100 Stat. 1934, as amended by Pub. L. 118–159, div. E, title LII, § 5203(a)(1)(B), Dec. 23, 2024, 138 Stat. 2440, provided that: “This subtitle [enacting this chapter, amending section 504 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section] may be cited as the ‘Administrative False Claims Act’.”
+
+RegulationsPub. L. 118–159, div. E, title LII, § 5203(g)(3), Dec. 23, 2024, 138 Stat. 2443, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], each authority head, as defined in section 3801 of title 31, United States Code, and each board of contract appeals of a board described in subparagraph (B), (C), or (D) of section 7105(e)[(1)] of title 41, United States Code, shall amend procedures regarding proceedings as necessary to implement the amendments made by this subsection [amending this section, section 3803 of this title, and section 7105 of Title 41, Public Contracts].” Pub. L. 118–159, div. E, title LII, § 5203(j), Dec. 23, 2024, 138 Stat. 2443, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 23, 2024], each authority head, as defined in section 3801 of title 31, United States Code, shall— “(1) promulgate regulations and procedures to carry out this Act [probably should be “this section”, which amended this section, sections 3802, 3803, 3806, and 3808 of this title, section 405 of Title 5, Government Organization and Employees, and section 7105 of Title 41, Public Contracts, and enacted and amended provisions set out as notes under this section] and the amendments made by this Act; and “(2) review and update existing regulations and procedures of the authority to ensure compliance with this Act and the amendments made by this Act.”
+
+References in Other Laws to GS–16, 17, or 18 Pay RatesReferences in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+Congressional Findings and PurposesPub. L. 99–509, title VI, subtitle B (§§ 6101–6104), § 6102, Oct. 21, 1986, 100 Stat. 1934, provided that: “(a) Findings.—The Congress finds that—“(1) false, fictitious, and fraudulent claims and statements in Government programs are a serious problem; “(2) false, fictitious, and fraudulent claims and statements in Government programs result in the loss of millions of dollars annually by allowing persons to receive Federal funds to which they are not entitled; “(3) false, fictitious, and fraudulent claims and statements in Government programs undermine the integrity of such programs by allowing ineligible persons to participate in such programs; and “(4) present civil and criminal remedies for such claims and statements are not sufficiently responsive. “(b) Purposes.—The purposes of this subtitle [see Short Title note above] are—“(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims and statements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and “(2) to provide due process protections to all persons who are subject to the administrative adjudication of false, fictitious, or fraudulent claims or statements.”

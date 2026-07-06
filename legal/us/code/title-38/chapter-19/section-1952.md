@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "38 U.S.C. § 1952"
+description: "Optional settlement"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 38
+title_name: "VETERANS’ BENEFITS"
+chapter_number: "19"
+chapter_name: "INSURANCE"
+section: "1952"
+citation: "38 U.S.C. § 1952"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc38@119-100.zip"
+source_identifier: "/us/usc/t38/s1952"
+source_file: "data/legal/raw/us/code/title-38/usc38.xml"
+source_hash: "8514ff2f466a038e139a3d530a87e385409c0a7fead30663ab52a8d0f5553e8c"
+raw_snapshot_hash: "372998691b72ade88787dfa7633dbda4954bd1b037ec7926c5e06e9b1d17fc66"
+text_hash: "ffff790feeb18d8be34f79c8176404ea8973912c51dc172b05c238176c6edaa3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 38 U.S.C. § 1952 - Optional settlement
+
+## Text
+
+(a) The Secretary may provide in insurance contracts for optional settlements, to be selected by the insured, whereby such insurance may be made payable either in one sum or in installments for thirty-six months or more. A provision may also be included in such contracts authorizing the beneficiary to elect to receive payment of the insurance in installments for thirty-six months or more, but only if the insured has not exercised the right of election as provided in this subchapter. Even though the insured may have exercised the right of election the beneficiary may elect to receive such insurance in installments spread over a greater period of time than that selected by the insured. Notwithstanding any provision to the contrary in any insurance contract, the beneficiary may, in the case of insurance maturing after September 30, 1981, and for which the insured has not exercised the right of election of the insured as provided in this subchapter, elect to receive payment of the insurance in one sum.
+
+(b) Under such regulations as the Secretary may promulgate, the cash surrender value of any policy of insurance or the proceeds of an endowment contract which matures by reason of completion of the endowment period may be paid to the insured (1) in equal monthly installments of from thirty-six to two hundred and forty in number, in multiples of twelve; or (2) as a refund life income in monthly installments payable for such periods certain as may be required in order that the sum of the installments certain, including a last installment of such reduced amount as may be necessary, shall equal the cash value of the contract, less any indebtedness, with such payments continuing throughout the lifetime of the insured. However, all settlements under option (2) above shall be calculated on the basis of The Annuity Table for 1949. If the option selected requires payment of monthly installments of less than $10, the amount payable shall be paid in such maximum number of monthly installments as are a multiple of twelve as will provide a monthly installment of not less than $10.
+
+(c) (1) Following the death of the insured and in a case not covered by section 1950 of this title—
+
+(A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within one year after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
+
+(B) if, within two years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
+
+(2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 752; Pub. L. 91–291, § 12, June 25, 1970, 84 Stat. 332; Pub. L. 97–66, title IV, § 403(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, § 701(32), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1952 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title I, § 103(b), Dec. 16, 2003, 117 Stat. 2655; Pub. L. 117–313, § 2(b), Dec. 27, 2022, 136 Stat. 4399.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2022—Subsec. (c)(1)(A). Pub. L. 117–313, § 2(b)(1), substituted “one year” for “two years”. Subsec. (c)(1)(B). Pub. L. 117–313, § 2(b)(2), substituted “two years” for “four years”. 2003—Subsec. (c). Pub. L. 108–183 added subsec. (c). 1991—Pub. L. 102–83 renumbered section 752 of this title as this section and substituted “Secretary” for “Administrator” in subsecs. (a) and (b). 1986—Subsec. (a). Pub. L. 99–576 substituted “the right” for “his right” in two places. 1981—Subsec. (a). Pub. L. 97–66 inserted provision empowering beneficiaries, in the case of insurance maturing after Sept. 30, 1981, and for which the insured has not exercised the right of election of the insured as provided in this subchapter, to elect to receive payment of the insurance in one sum. 1970—Pub. L. 91–291 designated existing provisions as subsec. (a) and added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2022 AmendmentAmendment by Pub. L. 117–313 applicable with respect to the death of an insured person occurring on or after the date that is two years before Dec. 27, 2022, see section 2(c) of Pub. L. 117–313, set out as a note under section 1917 of this title.
+
+Effective Date of 2003 AmendmentAmendment by Pub. L. 108–183 effective Oct. 1, 2004, see section 103(c) of Pub. L. 108–183, set out as a note under section 1917 of this title.
+
+Effective Date of 1981 AmendmentAmendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
+
+Effective Date of 1970 AmendmentAmendment by Pub. L. 91–291 effective first day of first calendar month which begins more than six calendar months after June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
+
+Transition ProvisionFor transition provision relating to subsec. (c)(1) of this section, see section 103(d) of Pub. L. 108–183, set out as a note under section 1917 of this title.

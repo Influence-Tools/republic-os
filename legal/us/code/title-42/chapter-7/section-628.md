@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 628"
+description: "Payments to Indian tribal organizations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "7"
+chapter_name: "SOCIAL SECURITY"
+section: "628"
+citation: "42 U.S.C. § 628"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s628"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "18434cf67c5029187316e0ceb58c5478d97e22240748ab89ed1414f582821424"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "3311d29d2e63fca64031a10fd0592615c3253199dacd21135069a6e12c807e39"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 628 - Payments to Indian tribal organizations
+
+## Text
+
+(a) Reservation of funds; direct payments Out of any amount appropriated pursuant to section 625 of this title for a fiscal year, the Secretary shall reserve 3 percent for grants to Indian tribes and tribal organizations, which shall be paid directly to Indian tribes and tribal organizations with a plan approved under this subpart, in accordance with section 629c(a) of this title.
+
+(b) Authority to streamline reporting requirements The Secretary shall, in consultation with the affected Indian tribes, modify any reporting requirement imposed by or under this part on an Indian tribe, tribal organization, or tribal consortium if the total of the amounts allotted to the Indian tribe, tribal organization, or tribal consortium under this part for the fiscal year is not more than $50,000, and in a manner that limits the administrative burden on any tribe to which not more than $50,000 is allotted under this subpart for the fiscal year.
+
+(c) Tribal authority to substitute the Federal negotiated indirect cost rate for administrative costs cap For purposes of sections 622(b)(14) and 624(e) of this title, an Indian tribal organization may elect to have the weighted average of the indirect cost rates in effect under part 220 of title 2, Code of Federal Regulations 11 So in original. Probably should be followed by a comma. with respect to the administrative costs of the Indian tribal organization apply in lieu of the percentage specified in each such section.
+
+(d) “Indian tribe” and “tribal organization” defined For purposes of this section, the terms “Indian tribe” and “tribal organization” shall have the meanings given such terms by subsections (e) and (l) of section 5304 of title 25, respectively.
+
+(Aug. 14, 1935, ch. 531, title IV, § 428, as added Pub. L. 96–272, title I, § 103(b), June 17, 1980, 94 Stat. 520; amended Pub. L. 103–66, title XIII, § 13711(b)(3), Aug. 10, 1993, 107 Stat. 655; Pub. L. 104–193, title III, § 375(d), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 109–288, § 6(f)(1), Sept. 28, 2006, 120 Stat. 1247; Pub. L. 118–258, title I, § 107(a)(1)(A), (C), (3)(A), Jan. 4, 2025, 138 Stat. 2953–2955.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsecs. (a), (b). Pub. L. 118–258, § 107(a)(1)(A), (3)(A), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows: “(a) The Secretary may, in appropriate cases (as determined by the Secretary) make payments under this subpart directly to an Indian tribal organization within any State which has a plan for child welfare services approved under this subpart. Such payments shall be made in such manner and in such amounts as the Secretary determines to be appropriate. “(b) Amounts paid under subsection (a) shall be deemed to be a part of the allotment (as determined under section 623 of this title) for the State in which such Indian tribal organization is located.” Subsec. (c). Pub. L. 118–258, § 107(a)(3)(A), added subsec. (c). Former subsec. (c) redesignated (d). Pub. L. 118–258, § 107(a)(1)(C), made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25. Subsec. (d). Pub. L. 118–258, § 107(a)(3)(A), redesignated subsec. (c) as (d). 2006—Subsec. (b). Pub. L. 109–288 substituted “section 623” for “section 621”. 1996—Subsec. (c). Pub. L. 104–193 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section— “(1) the term ‘tribal organization’ means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body; and “(2) the term ‘Indian tribe’ means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (Public Law 92–203; 85 Stat. 688)) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians, or (B) is located on, or in proximity to, a Federal or State reservation or rancheria.” 1993—Subsec. (a). Pub. L. 103–66 substituted “under this subpart” for “under this part” in two places.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2025 AmendmentAmendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
+
+Effective Date of 2006 AmendmentAmendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+
+Effective Date of 1996 AmendmentFor effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
+
+Effective Date of 1993 AmendmentAmendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Oct. 1, 1993, see section 13711(c) of Pub. L. 103–66, set out as a note under section 622 of this title.

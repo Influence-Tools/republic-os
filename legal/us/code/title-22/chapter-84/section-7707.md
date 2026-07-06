@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "22 U.S.C. § 7707"
+description: "Congressional and public notification of candidate countries, eligibility criteria, and eligible countries"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 22
+title_name: "FOREIGN RELATIONS AND INTERCOURSE"
+chapter_number: "84"
+chapter_name: "MILLENNIUM CHALLENGE"
+section: "7707"
+citation: "22 U.S.C. § 7707"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc22@119-100.zip"
+source_identifier: "/us/usc/t22/s7707"
+source_file: "data/legal/raw/us/code/title-22/usc22.xml"
+source_hash: "a12846802b3ae6fc61b1b33db64711e65cc14bd566ad9f5928a8b2ad6cbf7cdb"
+raw_snapshot_hash: "b9c63ede722f5e0bf8eabfe9029e06e312ab9bcfd95c4d1424ed515baff1df83"
+text_hash: "ced718a3ae329169185739bff264e4b8b917a0ee9e75647c69c7b234367ed115"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 22 U.S.C. § 7707 - Congressional and public notification of candidate countries, eligibility criteria, and eligible countries
+
+## Text
+
+(a) Identification of candidate countries Not later than 90 days prior to the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
+
+(1) shall prepare and submit to the appropriate congressional committees a report that contains a list of all candidate countries identified under section 7705 of this title, and all countries that would be candidate countries if the countries met the requirement contained in section 7705(a)(2) of this title, for the fiscal year; and
+
+(2) shall publish in the Federal Register the information contained in the report described in paragraph (1).
+
+(b) Identification of eligibility criteria and methodology Not later than 60 days prior to the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
+
+(1) shall prepare and submit to the appropriate congressional committees a report that contains a list of the criteria and methodology described in subsections (a) and (b) of section 7706 of this title that will be used to determine eligibility for each candidate country identified under subsection (a);
+
+(2) shall publish in the Federal Register the information contained in the report described in paragraph (1); and
+
+(3) may conduct one or more public hearings on the eligibility criteria and methodology.
+
+(c) Public comment and congressional consultation (1) Public comment The Chief Executive Officer shall, for the 30-day period beginning on the date of publication in the Federal Register of the information contained in the report described in subsection (b)(1), accept public comment and consider such comment for purposes of determining eligible countries under section 7706 of this title.
+
+(2) Congressional consultation The Chief Executive Officer shall consult with the appropriate congressional committees on the extent to which the candidate countries meet the criteria described in section 7706(b) of this title.
+
+(d) Identification of eligible countries Not later than 5 days after the date on which the Board determines eligible countries under section 7706 of this title for a fiscal year, the Chief Executive Officer—
+
+(1) shall prepare and submit to the appropriate congressional committees a report that contains a list of all such eligible countries, an identification of those countries on such list with respect to which the Board will seek to enter into a Compact under section 7708 of this title, and a justification for such eligibility determination and selection for Compact negotiation; and
+
+(2) shall publish in the Federal Register the information contained in the report described in paragraph (1).
+
+(Pub. L. 108–199, div. D, title VI, § 608, Jan. 23, 2004, 118 Stat. 217; Pub. L. 118–159, div. E, title LI, § 5122(c)(1), Dec. 23, 2024, 138 Stat. 2430.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a)(1). Pub. L. 118–159 substituted “section 7705(a)(2)” for “section 7705(a)(1)(B)”.

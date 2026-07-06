@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "16 U.S.C. § 669h–2"
+description: "Multistate conservation grant program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 16
+title_name: "CONSERVATION"
+chapter_number: "5B"
+chapter_name: "WILDLIFE RESTORATION"
+section: "669h–2"
+citation: "16 U.S.C. § 669h–2"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc16@119-100.zip"
+source_identifier: "/us/usc/t16/s669h–2"
+source_file: "data/legal/raw/us/code/title-16/usc16.xml"
+source_hash: "78ea126d6803bab7bf96d47dd34e0a5fb61a8911febfa91dd439030c0adfb553"
+raw_snapshot_hash: "7be8950da5a93cac7c98e4576ce00340f2aba5e8e46d29915382c203c421d503"
+text_hash: "fedd6a5538decfcd46524614ceec3cc966e842eeb09bf80cbfd03718b43b0034"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 16 U.S.C. § 669h–2 - Multistate conservation grant program
+
+## Text
+
+(a) In general (1) Amount for grants (A) In general Not more than $3,000,000 of the revenues covered into the fund for a fiscal year shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+
+(B) Availability for hunter and recreational shooter grants Not more than $5,000,000 of the revenues covered into the fund from any tax imposed under section 4161(b) of title 26 for a fiscal year shall be available to the Secretary exclusively for making hunter recruitment and recreational shooter recruitment grants that promote a national hunting and shooting sport recruitment program, including related communication and outreach activities.
+
+(2) Period of availability; apportionment (A) Period of availability Amounts made available under paragraph (1) shall remain available for making grants only for the first fiscal year for which the amount is made available and the following fiscal year.
+
+(B) Apportionment At the end of the period of availability under subparagraph (A), the Secretary of the Interior shall apportion any amounts that remain available among the States in the manner specified in section 669c(b) of this title for use by the States in the same manner as funds apportioned under section 669c(b) of this title.
+
+(b) Selection of projects (1) States or entities to be benefited A project shall not be eligible for a grant under this section unless the project will benefit—
+
+(A) at least 26 States;
+
+(B) a majority of the States in a region of the United States Fish and Wildlife Service; or
+
+(C) a regional association of State fish and game departments.
+
+(2) Use of submitted priority list of projects The Secretary of the Interior may make grants under this section only for projects identified on a priority list of wildlife restoration projects described in paragraph (3).
+
+(3) Priority list of projects A priority list referred to in paragraph (2) is a priority list of wildlife restoration projects that the Association of Fish and Wildlife Agencies—
+
+(A) prepares through a committee comprised of the heads of State fish and game departments (or their designees), in consultation with—
+
+(i) nongovernmental organizations that represent conservation organizations;
+
+(ii) sportsmen organizations; and
+
+(iii) industries that support or promote hunting, trapping, recreational shooting, bow hunting, or archery;
+
+(B) approves by vote of a majority of the heads of State fish and game departments (or their designees); and
+
+(C) not later than October 1 of each fiscal year, submits to the Assistant Director for Wildlife and Sport Fish Restoration Programs.
+
+(4) Publication The Assistant Director for Wildlife and Sport Fish Restoration Programs shall publish in the Federal Register each priority list submitted under paragraph (3)(C).
+
+(c) Eligible grantees (1) In general The Secretary of the Interior may make a grant under this section only to—
+
+(A) a State or group of States;
+
+(B) the United States Fish and Wildlife Service, or a State or group of States, for the purpose of carrying out the National Survey of Fishing, Hunting, and Wildlife-Associated Recreation; and
+
+(C) subject to paragraph (2), a nongovernmental organization.
+
+(2) Nongovernmental organizations (A) In general Any nongovernmental organization that applies for a grant under this section shall submit with the application to the Association of Fish and Wildlife Agencies a certification that the organization—
+
+(i) will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities; and
+
+(ii) will use the grant funds in compliance with subsection (d).
+
+(B) Penalties for certain activities Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
+
+(d) Use of grants A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities.
+
+(e) Nonapplicability of chapter 10 of title 5 Chapter 10 of title 5 shall not apply to any activity carried out under this section.
+
+(Sept. 2, 1937, ch. 899, § 11, as added Pub. L. 106–408, title I, § 113, Nov. 1, 2000, 114 Stat. 1767; amended Pub. L. 116–94, div. P, title V, § 501(g)(1), Dec. 20, 2019, 133 Stat. 3193; Pub. L. 117–286, § 4(a)(101), Dec. 27, 2022, 136 Stat. 4316.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 11 of act Sept. 2, 1937, was classified to section 669j of this title prior to repeal by act Aug. 7, 1946.
+
+Amendments2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text. 2019—Subsec. (a)(1). Pub. L. 116–94, § 501(g)(1)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Subsec. (b)(3). Pub. L. 116–94, § 501(g)(1)(B), struck out “International” before “Association” in introductory provisions. Subsec. (c)(2)(A). Pub. L. 116–94, § 501(g)(1)(C), struck out “International” before “Association” in introductory provisions. Subsec. (c)(2)(A)(i). Pub. L. 116–94, § 501(g)(1)(D), inserted “or to recreational shooting activities” after “wildlife”. Subsec. (d). Pub. L. 116–94, § 501(g)(1)(E), inserted “or to recreational shooting activities” after “wildlife”.
+
+Statutory Notes and Related Subsidiaries
+
+StudyPub. L. 116–94, div. P, title V, § 501(g)(2), Dec. 20, 2019, 133 Stat. 3193, provided that: “Not later than 10 years after the date of enactment of this Act [Dec. 20, 2019], the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall— “(A) review and evaluate the effects of the funds made available under subparagraph (B) of section 11(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h–2(a)(1)) (as added by paragraph (1)(A)(ii)) on funds available for wildlife conservation; and “(B) submit a report describing the results of the review and evaluation under paragraph (1) to—“(i) the Committee on Environment and Public Works of the Senate; and “(ii) the Committee on Natural Resources of the House of Representatives.”

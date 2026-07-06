@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "41 U.S.C. § 6502"
+description: "Required contract terms"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 41
+title_name: "PUBLIC CONTRACTS"
+chapter_number: "65"
+chapter_name: "CONTRACTS FOR MATERIALS, SUPPLIES, ARTICLES, AND EQUIPMENT EXCEEDING $10,000"
+section: "6502"
+citation: "41 U.S.C. § 6502"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc41@119-100.zip"
+source_identifier: "/us/usc/t41/s6502"
+source_file: "data/legal/raw/us/code/title-41/usc41.xml"
+source_hash: "dcc816780273ec9b22623ae49ddb8085f0c8a1e3e010df8bf3593cf78f5ff617"
+raw_snapshot_hash: "0977ff7e7fefd99bbd25a86e009a9e4c2707301ec8c49233d17b6604e38702e3"
+text_hash: "2451a91e50cfedec2ef89b55067f2295dfcd79bb227f2be0c0a5eb068e852a99"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 41 U.S.C. § 6502 - Required contract terms
+
+## Text
+
+A contract made by an agency of the United States for the manufacture or furnishing of materials, supplies, articles, or equipment, in an amount exceeding $10,000, shall include the following representations and stipulations:
+
+(1) Minimum wages to be paid.— All individuals employed by the contractor in the manufacture or furnishing of materials, supplies, articles, or equipment under the contract will be paid, without subsequent deduction or rebate on any account, not less than the prevailing minimum wages, as determined by the Secretary, for individuals employed in similar work or in the particular or similar industries or groups of industries currently operating in the locality in which the materials, supplies, articles, or equipment are to be manufactured or furnished under the contract, except that this paragraph applies only to purchases or contracts relating to industries that have been the subject matter of a determination by the Secretary.
+
+(2) Maximum number of hours to be worked in a week.— No individual employed by the contractor in the manufacture or furnishing of materials, supplies, articles, or equipment under the contract shall be permitted to work in excess of 40 hours in any one week, except that this paragraph does not apply to an employer who has entered into an agreement with employees pursuant to paragraph (1) or (2) of section 7(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(b)(1) or (2)).
+
+(3) Ineligible employees.— No individual under 16 years of age and no incarcerated individual will be employed by the contractor in the manufacture or furnishing of materials, supplies, articles, or equipment under the contract, except that this section, or other law or executive order containing similar prohibitions against the purchase of goods by the Federal Government, does not apply to convict labor that satisfies the conditions of section 1761(c) of title 18.
+
+(4) Standards of places and working conditions where contract performed.— No part of the contract will be performed, and no materials, supplies, articles, or equipment will be manufactured or fabricated under the contract, in plants, factories, buildings, or surroundings, or under working conditions, that are unsanitary, hazardous, or dangerous to the health and safety of employees engaged in the performance of the contract. Compliance with the safety, sanitary, and factory inspection laws of the State in which the work or part of the work is to be performed is prima facie evidence of compliance with this paragraph.
+
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3807.)
+
+## Notes
+
+Historical and Revision Notes RevisedSectionSource (U.S. Code)Source (Statutes at Large) 6502 (matter before par. (1))41:35 (matter before subsec. (a) less words related to definition of “agency of the United States”).June 30, 1936, ch. 881, § 1 (matter before subsec. (a) less words related to definition of “agency of the United States”), (a), 49 Stat. 2036; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. 6502(1)41:35(a).  41:45.June 30, 1936, ch. 881, § 13, formerly § 11, 49 Stat. 2039; renumbered § 12, June 30, 1952, ch. 530, title III, § 301, 66 Stat. 308; renumbered § 13, Pub. L. 104–106, div. D, title XLIII, § 4321(f)(1)(B), Feb. 10, 1996, 110 Stat. 675. 6502(2)–(4)41:35(b)–(d).June 30, 1936, ch. 881, § 1(b)–(d), 49 Stat. 2036; May 13, 1942, ch. 306, 56 Stat. 277; Pub. L. 90–351, title I, § 819(b), formerly § 827(b), as added Pub. L. 96–157, § 2, Dec. 27, 1979, 93 Stat. 1215 and renumbered § 819(b), Pub. L. 98–473, title II, § 609B(f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 99–145, title XII, § 1241(b), Nov. 8, 1985, 99 Stat. 734; Pub. L. 103–355, title VII, § 7201(1), Oct. 13, 1994, 108 Stat. 3378. In the matter before paragraph (1), the words “and entered into” are omitted as unnecessary. In paragraph (1), the words “under the contract” are substituted for “used in the performance of the contract” in 41:35(a) to eliminate unnecessary words and for consistency in the chapter. The words “Sections 35 to 45 of this title shall apply to all contracts entered into pursuant to invitations for bids issued on or after ninety days from June 30, 1936” in 41:45 are omitted as obsolete. In paragraph (2), the words “under the contract” are substituted for “used in the performance of the contract” to eliminate unnecessary words and for consistency in the chapter. In paragraph (3), the words “No individual under 16 years of age” are substituted for “no male person under sixteen years of age and no female person under eighteen years of age” to reflect the interpretation of this provision subsequent to enactment of civil rights laws such as section 703 of the Civil Rights Act of 1964 (42:2000e–2), as carried out by the Department of Labor through 41 C.F.R. Part 50–201.104. The words “incarcerated individual” are substituted for “convict labor” the first time the words appear because the term “convict labor” is ambiguous and may be interpreted to include individuals who are not incarcerated. This would be an inappropriate interpretation because 41:35(c) provides an exception for “convict labor” that satisfies the conditions of 18:1761(c) regarding certain non-Federal prison work projects. The words “or production” are omitted for consistency with the source provisions for paragraphs (1) and (2) and because, in this context, the concept of “production” is included in the words “manufacture or furnishing”. The words “under the contract” are substituted for “included in such contract” for consistency in the chapter.

@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "42 U.S.C. § 13525"
+description: "Limits on participation by companies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 42
+title_name: "THE PUBLIC HEALTH AND WELFARE"
+chapter_number: "134"
+chapter_name: "ENERGY POLICY"
+section: "13525"
+citation: "42 U.S.C. § 13525"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc42@119-100.zip"
+source_identifier: "/us/usc/t42/s13525"
+source_file: "data/legal/raw/us/code/title-42/usc42.xml"
+source_hash: "0c91717a3146689c52208f9a1deadefca7229df3c4851abf960cb5e8251f157b"
+raw_snapshot_hash: "644321055a08eb1f260a6a3e31ac157fa024756abf612a9fd6857e7e400cf24e"
+text_hash: "151e4b65aa8ecd0f5e3dfcedfdf896ac69ef64bbd8fd37b5e065aa5e215ebe1c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 42 U.S.C. § 13525 - Limits on participation by companies
+
+## Text
+
+A company shall be eligible to receive financial assistance under subchapters VIII through XI of this chapter only if—
+
+(1) the Secretary finds that the company’s participation in any program under such subchapters would be in the economic interest of the United States, as evidenced by investments in the United States in research, development, and manufacturing (including, for example, the manufacture of major components or subassemblies in the United States); significant contributions to employment in the United States; an agreement with respect to any technology arising from assistance provided under this section to promote the manufacture within the United States of products resulting from that technology (taking into account the goals of promoting the competitiveness of United States industry), and to procure parts and materials from competitive suppliers; and
+
+(2) either—
+
+(A) the company is a United States-owned company; or
+
+(B) the Secretary finds that the company is incorporated in the United States and has a parent company which is incorporated in a country which affords to United States-owned companies opportunities, comparable to those afforded to any other company, to participate in any joint venture similar to those authorized under this Act; affords to United States-owned companies local investment opportunities comparable to those afforded to any other company; and affords adequate and effective protection for the intellectual property rights of United States-owned companies.
+
+(Pub. L. 102–486, title XXIII, § 2306, Oct. 24, 1992, 106 Stat. 3095.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSubchapters VIII through XI of this chapter, referred to in text, was in the original “titles XX through XXIII of this Act”, meaning titles XX through XXIII of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 3057–3092, which enacted subchapters VIII through XI of this chapter and amended sections 5103, 5107, 5108, 5110, 5307, 5905, 12003, 12004, and 12006 of this title. This Act, referred to in par. (2)(B), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.

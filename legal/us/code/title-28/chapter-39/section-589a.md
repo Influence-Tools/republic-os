@@ -1,0 +1,125 @@
+---
+type: "LegalText"
+title: "28 U.S.C. § 589a"
+description: "United States Trustee System Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 28
+title_name: "JUDICIARY AND JUDICIAL PROCEDURE"
+chapter_number: "39"
+chapter_name: "UNITED STATES TRUSTEES"
+section: "589a"
+citation: "28 U.S.C. § 589a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc28@119-100.zip"
+source_identifier: "/us/usc/t28/s589a"
+source_file: "data/legal/raw/us/code/title-28/usc28.xml"
+source_hash: "3f1e9aebe319209da4316b3bfd2edb92b7826449117830f7a9bbe0d2fc3078c0"
+raw_snapshot_hash: "3390f867a2c02f5d0c496269da780795fe19663a090a3040c64a9ee0a541cdcf"
+text_hash: "114f2e84d5c5b344c1d7b01b0d3cbb626ddcb2554c2a92da48a424edf63da5e4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 28 U.S.C. § 589a - United States Trustee System Fund
+
+## Text
+
+(a) There is hereby established in the Treasury of the United States a special fund to be known as the “United States Trustee System Fund” (hereinafter in this section referred to as the “Fund”). Monies in the Fund shall be available to the Attorney General without fiscal year limitation in such amounts as may be specified in appropriations Acts for the following purposes in connection with the operations of United States trustees—
+
+(1) salaries and related employee benefits;
+
+(2) travel and transportation;
+
+(3) rental of space;
+
+(4) communication, utilities, and miscellaneous computer charges;
+
+(5) security investigations and audits;
+
+(6) supplies, books, and other materials for legal research;
+
+(7) furniture and equipment;
+
+(8) miscellaneous services, including those obtained by contract; and
+
+(9) printing.
+
+(b) For the purpose of recovering the cost of services of the United States Trustee System, there shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended, the following—
+
+(1) (A) $51.49 of the fees collected in each case under section 1930(a)(1)(A); and
+
+(B) 28.33 percent of the fees collected under section 1930(a)(1)(B);
+
+(2) 48.89 percent of the fees collected under section 1930(a)(3) of this title;
+
+(3) one-half of the fees collected under section 1930(a)(4) of this title;
+
+(4) one-half of the fees collected under section 1930(a)(5) of this title;
+
+(5) 100 percent of the fees collected under section 1930(a)(6) of this title; 11 See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.
+
+(6) three-fourths of the fees collected under the last sentence of section 1930(a) of this title;
+
+(7) the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts;
+
+(8) excess fees collected under section 586(e)(2) of this title;
+
+(9) interest earned on Fund investment; and
+
+(10) fines imposed under section 110(l) of title 11, United States Code.
+
+(c) Amounts in the Fund which are not currently needed for the purposes specified in subsections (a) and (f) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+
+(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
+
+(e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
+
+(f) (1) During each of fiscal years 2021 through 2031 and notwithstanding subsection (b)(5), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:
+
+(A) First, the amounts needed to offset the amount specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, pursuant to subsection (a), to remain available until expended.
+
+(B) Second, any remaining amounts shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, to remain available until expended.
+
+(2) Notwithstanding subsection (b), for each of fiscal years 2021 through 2031, $5,400,000 of the fees collected under section 1930(a)(6) shall be deposited in the general fund of the Treasury.
+
+(Added Pub. L. 99–554, title I, § 115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, § 406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, § 111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, § 111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 109(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, § 325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, § 6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, § 212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, § 3(b), May 25, 2012, 126 Stat. 348; Pub. L. 116–325, § 3(b), Jan. 12, 2021, 134 Stat. 5087; Pub. L. 117–151, § 2(g), June 21, 2022, 136 Stat. 1299; Pub. L. 119–76, §§ 3(c), 4(b), Feb. 6, 2026, 140 Stat. 742.)
+
+## Notes
+
+Delayed Applicability of AmendmentFor delayed applicability of amendment made by section 3(c) of Pub. L. 119–76, see Effective Date of 2026 Amendment note below.
+
+Editorial Notes
+
+Codification Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
+
+Amendments2026—Subsec. (b)(1)(A). Pub. L. 119–76, § 3(c)(1), substituted “$51.49 of the fees collected in each case” for “40.46 percent of the fees collected”. Subsec. (f). Pub. L. 119–76, § 4(b), substituted “2031” for “2026” in introductory provisions of par. (1) and in par. (2). Subsec. (f)(1)(B) to (D). Pub. L. 119–76, § 3(c)(2), redesignated subpar. (D) as (B), substituted “Second” for “Fourth”, and struck out former subpars. (B) and (C) which related, respectively, to the deposit of amounts necessary to reimburse the judiciary for the costs of administering payments under section 330(e) of title 11 and the deposit of amounts necessary to pay trustee compensation authorized by section 330(e)(2) of title 11. 2022—Subsec. (c). Pub. L. 117–151, § 2(g)(1), substituted “subsections (a) and (f)” for “subsection (a)”. Subsec. (f)(1). Pub. L. 117–151, § 2(g)(2)(A), substituted “subsection (b)(5)” for “subsections (b) and (c)” in introductory provisions. Subsec. (f)(1)(A). Pub. L. 117–151, § 2(g)(2)(B), inserted “needed to offset the amount” after “amounts”. 2021—Subsec. (f). Pub. L. 116–325 added subsec. (f). 2012—Subsec. (b)(2). Pub. L. 112–121 substituted “48.89” for “55”. 2007—Subsec. (b)(10). Pub. L. 110–161 added par. (10). 2005—Subsec. (b)(1). Pub. L. 109–8, § 325(b)(1), as amended by Pub. L. 109–13, § 6058(a), added par. (1) and struck out former par. (1), which read as follows: “27.42 percent of the fees collected under section 1930(a)(1) of this title;”. Subsec. (b)(2). Pub. L. 109–8, § 325(b)(2), as amended by Pub. L. 109–13, § 6058(a), substituted “55 percent” for “one-half”. 1999—Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(1) [title I, § 113], substituted “27.42 percent” for “23.08 percent”. Subsec. (b)(9). Pub. L. 106–113, § 1000(a)(1) [title I], added par. (9). 1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f). Subsec. (b)(5). Pub. L. 104–91, as amended by Pub. L. 104–99, inserted “until a reorganization plan is confirmed” before semicolon. Subsec. (f)(2). Pub. L. 104–91, as amended by Pub. L. 104–99, substituted “until a reorganization plan is confirmed;” for period at end. Subsec. (f)(3). Pub. L. 104–91, as amended by Pub. L. 104–99, added par. (3). 1993—Subsec. (b)(1). Pub. L. 103–121, § 111(a)(2), substituted “23.08 per centum” for “one-fourth”. Subsec. (b)(2). Pub. L. 103–121, § 111(b)(2), substituted “37.5 per centum” for “50 per centum”. Subsec. (f)(1). Pub. L. 103–121, § 111(b)(3), substituted “12.5 per centum” for “16.7 per centum”. 1991—Subsec. (b)(2). Pub. L. 102–140, § 111(b)(1), substituted “50 per centum” for “three-fifths”. Subsec. (b)(5). Pub. L. 102–140, § 111(b)(2), substituted “60 per centum” for “all”. Subsec. (f). Pub. L. 102–140, § 111(c), added subsec. (f). 1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2026 AmendmentExcept as otherwise provided, amendment by Pub. L. 119–76 effective on the first day of the calendar quarter that first occurs on or after Feb. 6, 2026, see section 6(a) of Pub. L. 119–76, set out in a note under section 330 of Title 11, Bankruptcy. Amendment by section 3(c) of Pub. L. 119–76 applicable to any case under title 11 commenced on or after Oct.1 that first occurs after Feb. 6, 2026, under chapter 7 of title 11 or under chapter 11, 12, or 13 of title 11 that is converted to a case under chapter 7 of title 11, see section 6(b)(1) of Pub. L. 119–76, set out in a note under section 330 of Title 11, Bankruptcy. Amendment by section 4(b) of Pub. L. 119–76 applicable to any case commenced or pending under chapter 11 of title 11 on or after the first day of the calendar quarter that first occurs on or after Feb. 6, 2026, and quarterly fees payable under section 1930(a)(6) of this titlefor disbursements made in any calendar quarter that begins on or after Feb. 6, 2026, see section 6(b)(2) of Pub. L. 119–76, set out in a note under section 330 of Title 11, Bankruptcy.
+
+Effective Date of 2022 AmendmentPub. L. 117–151, § 2(h)(3), June 21, 2022, 136 Stat. 1300, provided that: “The amendments made by subsection (g) [amending this section] shall take effect as if enacted on October 1, 2021.”
+
+Effective Date of 2012 AmendmentPub. L. 112–121, § 3(e), May 25, 2012, 126 Stat. 349, provided that: “This section [amending this section and section 1930 of this title and enacting and amending provisions set out as notes under section 1931 of this title] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [May 25, 2012].”
+
+Effective Date of 2005 AmendmentsPub. L. 109–13, div. A, title VI, § 6058(b), May 11, 2005, 119 Stat. 297, provided that: “This section [amending this section and section 1930 of this title, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section and sections 1930 and 1931 of this title] and the amendment made by this section shall take effect immediately after the enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 [Pub. L. 109–8, approved Apr. 20, 2005].” Pub. L. 109–8, title III, § 325(d), Apr. 20, 2005, 119 Stat. 99, which provided that the amendment made by Pub. L. 109–8, § 325(b), (c), would be effective during the 2-year period beginning on Apr. 20, 2005, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, § 6058(a), May 11, 2005, 119 Stat. 297. See note above.
+
+Effective Date of 1999 AmendmentPub. L. 106–113, div. B, § 1000(a)(1) [title I, § 113], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment made by section 1000(a)(1) [title I, § 113] is effective 30 days after Nov. 29, 1999.
+
+Effective Date of 1996 AmendmentPub. L. 104–208, div. A, title I, § 101(a) [title I, § 109(c)], Sept. 30, 1996, 110 Stat. 3009, 3009–19, provided that: “Notwithstanding any other provision of law or of this Act, the amendments to 28 U.S.C. 589a made by subsection (b) of this section shall take effect upon enactment of this Act [Sept. 30, 1996].”
+
+Effective Date of 1993 AmendmentPub. L. 103–121, title I, § 111(a), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993. Pub. L. 103–121, title I, § 111(b), Oct. 27, 1993, 107 Stat. 1164, provided in part that the amendment made by that section is effective 30 days after Oct. 27, 1993.
+
+Effective Date of 1991 AmendmentPub. L. 102–140, title I, § 111, Oct. 28, 1991, 105 Stat. 795, provided that the amendment made by that section is effective 60 days after Oct. 28, 1991.
+
+Effective DateSection effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
+
+Deposits of Certain Fees for Fiscal Years 2026 Through 2031Pub. L. 119–76, § 4(c), Feb. 6, 2026, 140 Stat. 742, provided that: “Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2026 through 2031— “(1) the fees collected under section 1930(a)(6) of title 28, United States Code, less the amount specified in subparagraph (2) of this subsection, shall be deposited as specified in section 589a(f) of title 28, United States Code, as amended by this Act [see Short Title of 2026 Amendment note set out under section 1 of Title 28, Judiciary and Judicial Procedure]; and “(2) $5,400,000 of the fees collected under section 1930(a)(6) of title 28, United States Code, shall be deposited in the general fund of the Treasury.”
+
+Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal YearsPub. L. 116–325, § 3(a), Jan. 12, 2021, 134 Stat. 5087, provided that: “Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2021 through 2026— “(1) the fees collected under section 1930(a)(6) of such title, less the amount specified in subparagraph [sic] (2), shall be deposited as specified in subsection (b) [amending this section]; and “(2) $5,400,000 of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.” Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided that: “Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2018 through 2022— “(1) 98 percent of the fees collected under section 1930(a)(6) of such title shall be deposited as offsetting collections to the appropriation ‘United States Trustee System Fund’, to remain available until expended; and “(2) 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”

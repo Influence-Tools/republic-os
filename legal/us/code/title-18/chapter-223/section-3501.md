@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "18 U.S.C. § 3501"
+description: "Admissibility of confessions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 18
+title_name: "CRIMES AND CRIMINAL PROCEDURE"
+chapter_number: "223"
+chapter_name: "WITNESSES AND EVIDENCE"
+section: "3501"
+citation: "18 U.S.C. § 3501"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc18@119-100.zip"
+source_identifier: "/us/usc/t18/s3501"
+source_file: "data/legal/raw/us/code/title-18/usc18.xml"
+source_hash: "3ea0b64e637049647d5b68a4ca5f1134af03d53cad41bfd8c193217470eac141"
+raw_snapshot_hash: "1a1bbbbdb59e376ada4eb7ad1056fd68d396679ee7ab59f0561af15006122708"
+text_hash: "a44193885ab89a2cfae9d80d6da43960e5baae5f27e7e68e1315a6214c934f26"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 18 U.S.C. § 3501 - Admissibility of confessions
+
+## Text
+
+(a) In any criminal prosecution brought by the United States or by the District of Columbia, a confession, as defined in subsection (e) hereof, shall be admissible in evidence if it is voluntarily given. Before such confession is received in evidence, the trial judge shall, out of the presence of the jury, determine any issue as to voluntariness. If the trial judge determines that the confession was voluntarily made it shall be admitted in evidence and the trial judge shall permit the jury to hear relevant evidence on the issue of voluntariness and shall instruct the jury to give such weight to the confession as the jury feels it deserves under all the circumstances.
+
+(b) The trial judge in determining the issue of voluntariness shall take into consideration all the circumstances surrounding the giving of the confession, including (1) the time elapsing between arrest and arraignment of the defendant making the confession, if it was made after arrest and before arraignment, (2) whether such defendant knew the nature of the offense with which he was charged or of which he was suspected at the time of making the confession, (3) whether or not such defendant was advised or knew that he was not required to make any statement and that any such statement could be used against him, (4) whether or not such defendant had been advised prior to questioning of his right to the assistance of counsel; and (5) whether or not such defendant was without the assistance of counsel when questioned and when giving such confession.The presence or absence of any of the above-mentioned factors to be taken into consideration by the judge need not be conclusive on the issue of voluntariness of the confession.
+
+(c) In any criminal prosecution by the United States or by the District of Columbia, a confession made or given by a person who is a defendant therein, while such person was under arrest or other detention in the custody of any law-enforcement officer or law-enforcement agency, shall not be inadmissible solely because of delay in bringing such person before a magistrate judge or other officer empowered to commit persons charged with offenses against the laws of the United States or of the District of Columbia if such confession is found by the trial judge to have been made voluntarily and if the weight to be given the confession is left to the jury and if such confession was made or given by such person within six hours immediately following his arrest or other detention: Provided, That the time limitation contained in this subsection shall not apply in any case in which the delay in bringing such person before such magistrate judge or other officer beyond such six-hour period is found by the trial judge to be reasonable considering the means of transportation and the distance to be traveled to the nearest available such magistrate judge or other officer.
+
+(d) Nothing contained in this section shall bar the admission in evidence of any confession made or given voluntarily by any person to any other person without interrogation by anyone, or at any time at which the person who made or gave such confession was not under arrest or other detention.
+
+(e) As used in this section, the term “confession” means any confession of guilt of any criminal offense or any self-incriminating statement made or given orally or in writing.
+
+(Added Pub. L. 90–351, title II, § 701(a), June 19, 1968, 82 Stat. 210; amended Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+
+## Notes
+
+Editorial Notes
+
+ConstitutionalityFor information regarding the constitutionality of this section, as added by section 701(a) of Pub. L. 90–351, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
+
+Amendments1968—Subsec. (c). Pub. L. 90–578 substituted “magistrate” for “commissioner” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+
+Change of Name Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
