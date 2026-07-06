@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Clear Lake, MN"
+classification: city
+geoid: "2711764"
+state: "MN"
+counties: ["Sherburne"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, city, mn]
+timestamp: "2026-07-03"
+---
+
+# Clear Lake, MN
+
+City — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

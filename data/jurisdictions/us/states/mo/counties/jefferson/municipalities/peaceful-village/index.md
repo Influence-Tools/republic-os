@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Peaceful Village, MO"
+classification: village
+geoid: "2956620"
+state: "MO"
+counties: ["Jefferson"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, village, mo]
+timestamp: "2026-07-03"
+---
+
+# Peaceful Village, MO
+
+Village — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

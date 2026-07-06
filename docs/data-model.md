@@ -45,15 +45,17 @@ The format conforms to the [Open Knowledge Format (OKF)](https://github.com/Goog
 
 | `type` | Count | Home | Schema |
 |---|---:|---|---|
-| **Person** | 11,285 | `us/people/`, `us/states/<st>/…/people/` | [person.schema.json](../schemas/person.schema.json) |
+| **Person** | 13,329 | `us/people/`, `us/states/<st>/…/people/` | [person.schema.json](../schemas/person.schema.json) |
 | **Body** | 233 | `us/bodies/…` | [body.schema.json](../schemas/body.schema.json) |
 | **Candidate** | 2,494 | `us/states/<st>/candidates/` | [candidate.schema.json](../schemas/candidate.schema.json) |
-| **Jurisdiction** | 3,494 | county `index.md`, `us/states/<st>/districts/` | [jurisdiction.schema.json](../schemas/jurisdiction.schema.json) |
+| **Jurisdiction** | 29,908 | county / city `index.md`, `us/states/<st>/districts/` | [jurisdiction.schema.json](../schemas/jurisdiction.schema.json) |
+| **LegalText** | 11,221 | `legal/us/code/title-<nn>/…` | [legal_text.schema.json](../schemas/legal_text.schema.json) |
 
 - **Person** — an officeholder, filed by the jurisdiction they serve. Federal members are enriched with their bioguide ID, leadership roles, and committee seats.
 - **Body** — an institution: a chamber, committee, or subcommittee. The "repos" of the government-as-code model. Each lists its leadership; subcommittees name their parent.
 - **Candidate** — someone running for office, distinct from a current officeholder. Sourced from FEC filings.
-- **Jurisdiction** — a place with a government, carrying Census demographics. A county's node is its directory `index.md`; a district's is a file under `districts/`.
+- **Jurisdiction** — a place with a government, carrying Census demographics and/or district edges. A county's node is its directory `index.md`; a **city's** is likewise an `index.md` under `municipalities/`, keyed by Census place GEOID and modelled exactly like a county (place + government fused, officeholders nested beneath); a district's is a file under `districts/`.
+- **LegalText** — a single section of statute, filed under its title and chapter. See the [legal corpus](legal-corpus.md).
 
 ## The jurisdiction tree
 
@@ -77,10 +79,11 @@ data/jurisdictions/
             people/                 county officeholders
             municipalities/
               port-st-lucie/
+                index.md            the city as a Jurisdiction node (GEOID)
                 people/             city officeholders
 ```
 
-The tree is **complete on the map, uneven on the ground**: every U.S. county exists as a node (from Census data), but officeholder depth currently reaches the municipal level only in Florida. An empty directory is not a failure — it is the frontier.
+The tree is **complete on the map, uneven on the ground**: every U.S. county *and* every incorporated municipality (19,513 of them) exists as a node, but officeholder depth is deepest in Florida and thins out elsewhere. A city node with no `people/` yet is a truthful skeleton stub — "governed, not yet mirrored." An empty directory is not a failure — it is the frontier.
 
 A second axis — cross-cutting **issues** that link entities across the tree — is designed but not yet built. See the [roadmap](roadmap.md).
 

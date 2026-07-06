@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Chilhowie, VA"
+classification: town
+geoid: "5116480"
+state: "VA"
+counties: ["Smyth"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, town, va]
+timestamp: "2026-07-03"
+---
+
+# Chilhowie, VA
+
+Town — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

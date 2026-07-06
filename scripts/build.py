@@ -637,8 +637,10 @@ def person_district_node(rec):
 
 
 def jurisdiction_file(title, classification, extra_fm, demog, st, body_intro,
-                      district_edges=None):
-    """district_edges: sorted list of (node_id, dtype, title, area_weight)."""
+                      district_edges=None, sources=None):
+    """district_edges: sorted list of (node_id, dtype, title, area_weight).
+    sources: explicit [(field, source)] list; when None it is derived from
+    whatever data the node carries (demographics / edges / bare boundary)."""
     lines = ["type: Jurisdiction", f"title: {yval(title)}",
              f"classification: {classification}"]
     lines += extra_fm
@@ -649,13 +651,16 @@ def jurisdiction_file(title, classification, extra_fm, demog, st, body_intro,
         for nid, dt, dtitle, w in district_edges:
             lines += [f"  - to: {yval(nid)}", "    rel: in-district",
                       f"    area_weight: {w}"]
-    src = []
-    if demog:
-        src.append(("demographics", "Census ACS 2023"))
-    if district_edges:
-        src.append(("districts", DISTRICT_SOURCE))
-    if not src:                                   # sparse district node
-        src.append(("boundary", "Census TIGER 2024"))
+    if sources is not None:
+        src = sources
+    else:
+        src = []
+        if demog:
+            src.append(("demographics", "Census ACS 2023"))
+        if district_edges:
+            src.append(("districts", DISTRICT_SOURCE))
+        if not src:                                   # sparse district node
+            src.append(("boundary", "Census TIGER 2024"))
     lines.append("sources:")
     for f, s in src:
         lines += [f"  - field: {f}", f"    source: {yval(s)}"]
@@ -672,6 +677,83 @@ def jurisdiction_file(title, classification, extra_fm, demog, st, body_intro,
         body.append("")
     body += ["## Source", ""] + [f"- {f}: {s}" for f, s in src]
     return "---\n" + "\n".join(lines) + "\n---\n\n" + "\n".join(body) + "\n"
+
+
+# --------------------------------------------------------------------------- #
+# City nodes — incorporated Census places (the municipal jurisdiction layer)
+#
+# A city is modelled exactly like a county: a Jurisdiction node that fuses the
+# place and its government, with officeholders nested beneath it — not a
+# separate Body. Identity is the Census place GEOID; officeholders are joined
+# to it by name+state (county-hint disambiguated) off the same jurisdiction_label
+# that city_slug uses for placement, so node and people co-locate by construction.
+# --------------------------------------------------------------------------- #
+
+# Census LSAD descriptor -> node classification. CDPs (statistical, ungoverned)
+# are dropped entirely — only incorporated places become nodes of influence.
+PLACE_CLASS = {"city": "city", "town": "town", "village": "village",
+               "borough": "borough", "municipality": "city",
+               "township": "town", "corporation": "city",
+               "government": "city", "plantation": "town"}
+
+
+def place_classification(namelsad):
+    return PLACE_CLASS.get(namelsad.split()[-1].lower(), "city") if namelsad else "city"
+
+
+def officeholder_place_name(rec):
+    """The place a municipal officeholder serves, taken from jurisdiction_label
+    (the same field city_slug places them under), falling back to the title."""
+    jl = rec.get("jurisdiction_label") or ""
+    m = re.match(r"(.+?),\s*[A-Z]{2}$", jl)                    # "Bronson, FL" -> "Bronson"
+    if m:
+        return m.group(1)
+    if jl:                                                     # bare "Elgin" / "Town of Pecos"
+        return re.sub(r"^(?:town|city|village|borough)\s+of\s+", "", jl, flags=re.I)
+    m = re.match(r"Mayor of (.+)$", rec.get("title") or "")
+    return m.group(1) if m else ""
+
+
+def city_index(crosswalk):
+    """Incorporated Census places only (CDPs dropped). Returns:
+       by_name:    (state, norm_place) -> [ {geoid, county_norm} ]   for resolution
+       geoid_meta: geoid -> {name, state, classification, counties:set}
+    """
+    by_name, geoid_meta = {}, {}
+    for r in crosswalk:
+        namelsad = r["place_namelsad"]
+        if namelsad.split()[-1].lower() == "cdp":
+            continue
+        g = r["place_geoid"]
+        meta = geoid_meta.get(g)
+        if meta is None:
+            meta = geoid_meta[g] = {"name": r["place_name"], "state": r["state_code"],
+                                    "classification": place_classification(namelsad),
+                                    "counties": set()}
+        meta["counties"].add(r["county_name"])
+        by_name.setdefault((r["state_code"], norm_place(r["place_name"])), []).append(
+            {"geoid": g, "county": norm_place(re.sub(r"\s+County$", "", r["county_name"]))})
+    return by_name, geoid_meta
+
+
+def resolve_place_geoid(rec, by_name):
+    """Officeholder -> Census place GEOID (or None). Unique name-in-state match;
+    ambiguous names are disambiguated by the County: hint in the description."""
+    cand = by_name.get((rec.get("state_abbr"), norm_place(officeholder_place_name(rec))), [])
+    if len(cand) == 1:
+        return cand[0]["geoid"]
+    if len(cand) > 1:
+        m = re.search(r"County:\s*([^;]+)", rec.get("description") or "")
+        if m:
+            ch = norm_place(re.sub(r"\s+County$", "", m.group(1).strip()))
+            nar = [c for c in cand if c["county"] == ch]
+            if len(nar) == 1:
+                return nar[0]["geoid"]
+    return None
+
+
+def city_arrays(counties):
+    return "[" + ", ".join(yval(c) for c in counties) + "]"
 
 
 # --------------------------------------------------------------------------- #
@@ -848,9 +930,92 @@ def main():
         path.write_text(jurisdiction_file(title, cls, extra, demog, st.lower(), intro),
                         encoding="utf-8")
 
+    # ---- city jurisdictions (incorporated Census places) ----
+    by_name, geoid_meta = city_index(crosswalk)
+
+    # (a) filled cities — one node per municipal-officeholder folder, written
+    #     into the folder its people already occupy (co-located by construction).
+    folders = {}   # (st, cslug, cityslug) -> {n, geoids:{geoid:votes}, label, st_abbr}
+    for rec in officeholders:
+        if rec["level"] != "municipal":
+            continue
+        st = (rec.get("state_abbr") or "").lower()
+        key = (st, county_slug(rec, place_to_cslug), city_slug(rec))
+        f = folders.get(key)
+        if f is None:
+            f = folders[key] = {"n": 0, "geoids": {},
+                                "label": officeholder_place_name(rec),
+                                "st_abbr": rec.get("state_abbr")}
+        f["n"] += 1
+        g = resolve_place_geoid(rec, by_name)
+        if g:
+            f["geoids"][g] = f["geoids"].get(g, 0) + 1
+
+    written, filled_geoids = set(), set()
+    n_city = n_filled = n_resolved = n_skel = n_skipped = 0
+    for (st, cslug, cityslug), f in sorted(folders.items()):
+        if cslug == "_unresolved" or cityslug == "_unresolved":
+            n_skipped += 1                       # county/place couldn't be placed — honest gap
+            continue
+        g = (sorted(f["geoids"].items(), key=lambda kv: (-kv[1], kv[0]))[0][0]
+             if f["geoids"] else None)
+        meta = geoid_meta.get(g)
+        if meta:
+            filled_geoids.add(g)
+            n_resolved += 1
+            title, cls, counties = f"{meta['name']}, {meta['state']}", meta["classification"], sorted(meta["counties"])
+        else:
+            lbl = f["label"] or cityslug.replace("-", " ").title()
+            title = f"{lbl}, {f['st_abbr']}" if f["st_abbr"] else lbl
+            cls, counties = "city", []
+        extra = ([f"geoid: {yval(g)}"] if g else []) + [f"state: {yval(st.upper())}"]
+        if counties:
+            extra.append(f"counties: {city_arrays(counties)}")
+        srcs = [("government", f"Atlas officeholders v3 ({DATASET_DATE})")]
+        if g:
+            srcs.append(("identity", "Census place GEOID (place_county_crosswalk)"))
+        intro = f"{cls.title()} government — {f['n']} officeholder{'' if f['n'] == 1 else 's'} mapped."
+        path = OUT / "us" / "states" / st / "counties" / cslug / "municipalities" / cityslug / "index.md"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(jurisdiction_file(title, cls, extra, None, st, intro, sources=srcs),
+                        encoding="utf-8")
+        written.add(path)
+        n_city += 1
+        n_filled += 1
+
+    # (b) skeleton — every incorporated place with no officeholder node yet:
+    #     a truthful stub (exists, governed, unmirrored) keyed by GEOID, nested
+    #     under its primary county. Same discipline as the county skeleton.
+    for g in sorted(geoid_meta):
+        if g in filled_geoids:
+            continue
+        meta = geoid_meta[g]
+        st = meta["state"].lower()
+        counties = sorted(meta["counties"])
+        cslug = slugify(norm_county(re.sub(r"\s+County$", "", counties[0])))
+        cityslug = slugify(meta["name"])
+        path = OUT / "us" / "states" / st / "counties" / cslug / "municipalities" / cityslug / "index.md"
+        if path in written:                      # slug collision — filled node or prior stub wins
+            n_skipped += 1
+            continue
+        extra = [f"geoid: {yval(g)}", f"state: {yval(meta['state'])}",
+                 f"counties: {city_arrays(counties)}"]
+        intro = f"{meta['classification'].title()} — no officeholders mirrored yet."
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(jurisdiction_file(
+            title=f"{meta['name']}, {meta['state']}", classification=meta["classification"],
+            extra_fm=extra, demog=None, st=st, body_intro=intro,
+            sources=[("identity", "Census place GEOID (place_county_crosswalk)")]),
+            encoding="utf-8")
+        written.add(path)
+        n_city += 1
+        n_skel += 1
+
     print(f"candidate files: {n_cand}   county jurisdictions: {n_county}   "
           f"CD nodes: {n_cd}   state-leg district nodes: {n_sld}   "
           f"county->district edges: {len(county_district_edges)}")
+    print(f"city jurisdictions: {n_city}  (filled {n_filled}: {n_resolved} GEOID-resolved; "
+          f"skeleton {n_skel}; skipped {n_skipped})")
     print(f"person files: {len(person_files)}  "
           f"(federal enriched: {matched}/{sum(1 for r in officeholders if r['level']=='federal')})")
     print(f"body files: {len(bodies)}  "

@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Nuiqsut, AK"
+classification: city
+geoid: "0256320"
+state: "AK"
+counties: ["North Slope"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, city, ak]
+timestamp: "2026-07-03"
+---
+
+# Nuiqsut, AK
+
+City — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

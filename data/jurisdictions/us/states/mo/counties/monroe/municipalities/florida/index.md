@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Florida, MO"
+classification: village
+geoid: "2924760"
+state: "MO"
+counties: ["Monroe"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, village, mo]
+timestamp: "2026-07-03"
+---
+
+# Florida, MO
+
+Village — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

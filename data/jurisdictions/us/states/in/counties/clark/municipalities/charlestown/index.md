@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Charlestown, IN"
+classification: city
+geoid: "1812124"
+state: "IN"
+counties: ["Clark"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, city, in]
+timestamp: "2026-07-03"
+---
+
+# Charlestown, IN
+
+City — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Derby Center, VT"
+classification: village
+geoid: "5017425"
+state: "VT"
+counties: ["Orleans"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, village, vt]
+timestamp: "2026-07-03"
+---
+
+# Derby Center, VT
+
+Village — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

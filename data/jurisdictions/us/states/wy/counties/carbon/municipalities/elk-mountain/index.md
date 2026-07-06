@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Elk Mountain, WY"
+classification: town
+geoid: "5624025"
+state: "WY"
+counties: ["Carbon"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, town, wy]
+timestamp: "2026-07-03"
+---
+
+# Elk Mountain, WY
+
+Town — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)
