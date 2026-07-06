@@ -1,0 +1,65 @@
+---
+type: "Bill"
+title: "Paying tribute to Charles Chris Hagemeister on the occasion of the 2019 Medal of Honor Host City Weekend in Gainesville."
+description: "Paying tribute to Charles Chris Hagemeister on the occasion of the 2019 Medal of Honor Host City Weekend in Gainesville."
+jurisdiction: "us/states/tx"
+legislature: "Texas Legislature"
+session: "86"
+identifier: "HCR 96"
+citation: "Texas HCR 96 (86)"
+classification: ["concurrent resolution"]
+subjects: ["Resolutions--Congratulatory & Honorary (I0705)", "HAGEMEISTER", "CHARLES CHRIS (NK891)"]
+status: "enacted"
+primary_sponsors: ["Fallon", "Springer"]
+version_count: 1
+action_count: 14
+vote_count: 0
+first_action: "2019-03-05"
+last_action: "2019-04-02"
+source: "openstates"
+source_identifier: "ocd-bill/16352b36-4a40-4fde-92d0-b42f408cef48"
+source_url: "ftp://ftp.legis.state.tx.us/bills/86R/billhistory/house_concurrent_resolutions/HCR00001_HCR00099/HCR 96.xml"
+source_hash: "b201d37c575ae93c224f121128602f1de6b5f5acc48d0a394f75f79a855f3c97"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-tx"]
+---
+
+# Texas HCR 96 (86) — Paying tribute to Charles Chris Hagemeister on the occasion of the 2019 Medal of Honor Host City Weekend in Gainesville.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](http://www.legis.state.tx.us/tlodocs/86R/billtext/html/HC00096I.HTM)
+
+## Sponsors
+
+- Fallon — primary (person)
+- Springer — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2019-03-05** Filed `filing`
+- **2019-03-11** Referred to Resolutions Calendars `referral-committee`
+- **2019-03-12** Considered in Resolutions Calendars
+- **2019-03-13** Placed on Congrat. & Memorial Res. Calendar
+- **2019-03-13** Laid before the House
+- **2019-03-13** Adopted `passage`
+- **2019-03-13** Received from the House `introduction`
+- **2019-03-14** Read & adopted `passage, introduction`
+- **2019-03-18** Senate passage reported
+- **2019-03-20** Reported enrolled
+- **2019-03-21** Signed in the House
+- **2019-03-25** Signed in the Senate
+- **2019-03-25** Sent to the Governor `executive-receipt`
+- **2019-04-02** Signed by the Governor `executive-signature`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/16352b36-4a40-4fde-92d0-b42f408cef48`. Confidence: reported (aggregated from official Texas legislature records).
+

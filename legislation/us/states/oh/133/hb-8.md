@@ -1,0 +1,182 @@
+---
+type: "Bill"
+title: "Regards foster caregiver training"
+description: "Regards foster caregiver training"
+jurisdiction: "us/states/oh"
+legislature: "Ohio General Assembly"
+session: "133"
+identifier: "HB 8"
+citation: "Ohio HB 8 (133)"
+classification: ["bill"]
+subjects: ["Juvenile and Family Law", "Occupational Licensing and Regulation"]
+status: "enacted"
+primary_sponsors: ["Susan Manchester", "Tavia Galonski"]
+version_count: 6
+action_count: 11
+vote_count: 5
+first_action: "2019-05-13"
+last_action: "2021-01-22T05:00:00+00:00"
+source: "openstates"
+source_identifier: "ocd-bill/941d3e15-1725-47e8-962b-08bf5b6375a0"
+source_url: "http://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_133/bills/hb8/"
+source_hash: "55d2237fa68a78b82f4d29a8fbc1d3cc928769befc6f5022357b29c5878a6ccd"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-oh"]
+---
+
+# Ohio HB 8 (133) — Regards foster caregiver training
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **As Introduced** (filed) — [source](https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_133/bills/hb8/IN/00?format=pdf)
+2. **As Passed by the House** (committee substitute) — [source](https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_133/bills/hb8/PH/02?format=pdf)
+3. **As Passed by the Senate** (committee substitute) — [source](https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_133/bills/hb8/PS/04?format=pdf)
+4. **As Reported by the House Health Committee** (committee substitute) — [source](https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_133/bills/hb8/RH/01?format=pdf)
+5. **As Reported by the Senate Health, Human Services and Medicaid Committee** (committee substitute) — [source](https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_133/bills/hb8/RS/03?format=pdf)
+6. **As Enrolled** (enrolled) — [source](https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_133/bills/hb8/EN/05?format=pdf)
+
+## Votes
+
+- Reported - Substitute — **16–0** (pass) · lower
+- Pass — **89–0** (pass) · lower
+- Reported - Substitute — **11–0** (pass) · upper
+- Concurred in Senate amendments — **93–0** (pass) · lower
+- Pass — **31–0** (pass) · upper
+
+## Sponsors
+
+- Susan Manchester — primary (person)
+- Tavia Galonski — primary (person)
+- Adam Holmes, A. — cosponsor (person)
+- Adam Miller, A. — cosponsor (person)
+- Anthony DeVitis — cosponsor (person)
+- Beth Liston — cosponsor (person)
+- Bill Dean — cosponsor (person)
+- Bill Reineke — cosponsor (person)
+- Bill Roemer — cosponsor (person)
+- Bill Seitz — cosponsor (person)
+- Bob Hackett — cosponsor (person)
+- Bob Peterson — cosponsor (person)
+- Brian Baldridge — cosponsor (person)
+- Bride Rose Sweeney — cosponsor (person)
+- Brigid Kelly — cosponsor (person)
+- C. Russo — cosponsor (person)
+- Casey Weinstein — cosponsor (person)
+- Catherine Ingram — cosponsor (person)
+- Cecil Thomas — cosponsor (person)
+- Craig Riedel — cosponsor (person)
+- Darrell Kick — cosponsor (person)
+- Dave Burke — cosponsor (person)
+- Dave Greenspan — cosponsor (person)
+- David Leland — cosponsor (person)
+- Derek Merrin — cosponsor (person)
+- Diane Grendell — cosponsor (person)
+- Dick Stein — cosponsor (person)
+- Don Jones — cosponsor (person)
+- Don Manning, D. — cosponsor (person)
+- Doug Green — cosponsor (person)
+- Emilia Sykes — cosponsor (person)
+- Erica Crawley — cosponsor (person)
+- Fred Strahorn — cosponsor (person)
+- Gayle Manning, G. — cosponsor (person)
+- Gil Blair — cosponsor (person)
+- Haraz Ghanbari — cosponsor (person)
+- Hearcel Craig — cosponsor (person)
+- J. Koehler — cosponsor (person)
+- James Hoops — cosponsor (person)
+- Janine Boyd — cosponsor (person)
+- Jay Edwards — cosponsor (person)
+- Jay Hottinger — cosponsor (person)
+- Jeff LaRe — cosponsor (person)
+- Jeffrey Crossman — cosponsor (person)
+- Jeffrey Smith, T. — cosponsor (person)
+- Jessica Miranda — cosponsor (person)
+- Jim Butler — cosponsor (person)
+- John Eklund — cosponsor (person)
+- John Patterson — cosponsor (person)
+- John Rogers — cosponsor (person)
+- Jon Cross — cosponsor (person)
+- Joseph Miller, J. — cosponsor (person)
+- Juanita Brent — cosponsor (person)
+- Kenny Yuko — cosponsor (person)
+- Kent Smith, K. — cosponsor (person)
+- Kris Jordan — cosponsor (person)
+- Kristin Boggs — cosponsor (person)
+- Kristina Roegner — cosponsor (person)
+- Laura Lanese — cosponsor (person)
+- Lisa Sobecki — cosponsor (person)
+- Louis Blessing — cosponsor (person)
+- Louis Blessing — cosponsor (person)
+- Mark Romanchuk — cosponsor (person)
+- Mary Lightbody — cosponsor (person)
+- Matt Dolan — cosponsor (person)
+- Matt Huffman, M. — cosponsor (person)
+- Michael O'Brien — cosponsor (person)
+- Michael Rulli — cosponsor (person)
+- Michele Lepore-Hagan — cosponsor (person)
+- Nathan Manning — cosponsor (person)
+- Nickie Antonio — cosponsor (person)
+- Nino Vitale — cosponsor (person)
+- P. Lipps — cosponsor (person)
+- Paul Zeltwanger — cosponsor (person)
+- Paula Hicks-Hudson — cosponsor (person)
+- Peggy Lehner — cosponsor (person)
+- Phil Plummer — cosponsor (person)
+- Phillip Robinson — cosponsor (person)
+- Randi Clites — cosponsor (person)
+- Reggie Stoltzfus — cosponsor (person)
+- Richard Brown — cosponsor (person)
+- Rick Carfagna — cosponsor (person)
+- Rick Perales — cosponsor (person)
+- Riordan McClain — cosponsor (person)
+- Robert McColley — cosponsor (person)
+- Sandra Williams — cosponsor (person)
+- Sara Carruthers — cosponsor (person)
+- Scott Oelslager — cosponsor (person)
+- Scott Ryan — cosponsor (person)
+- Scott Wiggam — cosponsor (person)
+- Sean O'Brien — cosponsor (person)
+- Sedrick Denson — cosponsor (person)
+- Shane Wilkin — cosponsor (person)
+- Stephanie Howse — cosponsor (person)
+- Stephanie Kunze — cosponsor (person)
+- Stephen Hambley — cosponsor (person)
+- Stephen Huffman, S. — cosponsor (person)
+- Steve Wilson — cosponsor (person)
+- Steven Arndt — cosponsor (person)
+- Teresa Fedor — cosponsor (person)
+- Terrence Upchurch — cosponsor (person)
+- Terry Johnson — cosponsor (person)
+- Theresa Gavarone — cosponsor (person)
+- Thomas Patton — cosponsor (person)
+- Thomas West — cosponsor (person)
+- Tim Ginter — cosponsor (person)
+- Tim Schaffer — cosponsor (person)
+- Tracy Richardson — cosponsor (person)
+- Vernon Sykes — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2019-05-13** Introduced `introduction`
+- **2019-05-14** Refer to Committee `referral-committee`
+- **2019-06-05** Reported
+- **2019-06-06** Passed `passage`
+- **2019-06-10** Introduced `reading-1`
+- **2019-07-17** Refer to Committee `referral-committee`
+- **2020-09-02** Passed `passage`
+- **2020-09-02** Reported
+- **2020-09-22** Amendments laid over under the rule
+- **2020-09-23** Concurred in Senate amendments `passage`
+- **2021-01-22T05:00:00+00:00** Effective 1/22/21 `became-law`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/941d3e15-1725-47e8-962b-08bf5b6375a0`. Confidence: reported (aggregated from official Ohio legislature records).
+

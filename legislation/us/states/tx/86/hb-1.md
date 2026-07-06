@@ -1,0 +1,712 @@
+---
+type: "Bill"
+title: "General Appropriations Bill."
+description: "General Appropriations Bill."
+jurisdiction: "us/states/tx"
+legislature: "Texas Legislature"
+session: "86"
+identifier: "HB 1"
+citation: "Texas HB 1 (86)"
+classification: ["bill"]
+subjects: ["State Finances--Appropriations (I0746)"]
+status: "enacted"
+primary_sponsors: ["Nelson", "Zerwas"]
+version_count: 1
+action_count: 656
+vote_count: 2
+first_action: "2019-01-23"
+last_action: "2019-06-15"
+source: "openstates"
+source_identifier: "ocd-bill/bedac43f-39a9-4958-8668-e32fb9f6be52"
+source_url: "ftp://ftp.legis.state.tx.us/bills/86R/billhistory/house_bills/HB00001_HB00099/HB 1.xml"
+source_hash: "2d91e6fc7bec07f4237c00f42a7ea7221c697f6eb204857a27ed19a2ad116a81"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-tx"]
+---
+
+# Texas HB 1 (86) — General Appropriations Bill.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](http://www.legis.state.tx.us/tlodocs/86R/billtext/html/HB00001I.HTM)
+
+## Votes
+
+- passage — **149–0** (pass) · lower
+- other — **148–1** (fail) · upper
+
+## Sponsors
+
+- Nelson — primary (person)
+- Zerwas — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2019-01-23** Filed `filing`
+- **2019-02-11** Read first time `introduction, reading-1`
+- **2019-02-11** Referred to Appropriations `referral-committee`
+- **2019-03-18** Considered in public hearing
+- **2019-03-18** Committee substitute considered in committee
+- **2019-03-18** Testimony taken/registration(s) recorded in committee
+- **2019-03-18** Reported favorably as substituted `committee-passage-favorable`
+- **2019-03-18** Comte report filed with Committee Coordinator
+- **2019-03-18** Committee report distributed
+- **2019-03-18** Committee report sent to Calendars
+- **2019-03-19** Considered in Calendars
+- **2019-03-27** Placed on Emergency Calendar
+- **2019-03-20** Calendars Committee rule adopted
+- **2019-03-20** Record vote
+- **2019-03-20** Statement(s) of vote recorded in Journal
+- **2019-03-27** Rules suspended
+- **2019-03-27** Read 2nd time `reading-2`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment to amendment tabled
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Point of order sustained (amendment)
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment withdrawn `amendment-withdrawal`
+- **2019-03-27** Amendment withdrawn `amendment-withdrawal`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Point of order overruled (amendment)
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Point of order sustained (amendment)
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment to amendment offered
+- **2019-03-27** Substitute amendment to amendment fails
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment fails of adoption
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment fails of adoption
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Point of order sustained (amendment)
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Point of order withdrawn (amendment)
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Point of order sustained (amendment)
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amendment fails of adoption
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Point of order sustained (amendment)
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Record vote
+- **2019-03-27** Statement(s) of vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment withdrawn `amendment-withdrawal`
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment(s) offered `amendment-introduction`
+- **2019-03-27** Amendment amended `amendment-amendment`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amendment adopted as amended
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Amended `amendment-passage`
+- **2019-03-27** Nonrecord vote recorded in Journal
+- **2019-03-27** Passed to engrossment as amended
+- **2019-03-28** Constitutional three day rule suspended
+- **2019-03-28** Record vote
+- **2019-03-28** Statement(s) of vote recorded in Journal
+- **2019-03-28** Read 3rd time `reading-3`
+- **2019-03-28** Passed `passage`
+- **2019-03-28** Record vote
+- **2019-03-28** Subject to Art.III Sec.49a Tx. Constitution
+- **2019-03-28** Rules suspended
+- **2019-03-28** Reported engrossed
+- **2019-04-01** Received from the House `introduction`
+- **2019-04-01** Read first time `introduction, reading-1`
+- **2019-04-01** Referred to Finance `referral-committee`
+- **2019-04-03** Scheduled for public hearing on . . .
+- **2019-04-03** Reported favorably as substituted `committee-passage-favorable`
+- **2019-04-03** Considered in public hearing
+- **2019-04-03** Testimony taken in committee
+- **2019-04-03** Printing rule suspended
+- **2019-04-03** Ordered not printed
+- **2019-04-08** Placed on intent calendar
+- **2019-04-09** Rules suspended-Regular order of business
+- **2019-04-09** Record vote
+- **2019-04-09** Read 2nd time & passed to 3rd reading
+- **2019-04-09** Vote recorded in Journal
+- **2019-04-09** Three day rule suspended
+- **2019-04-09** Record vote
+- **2019-04-09** Read 3rd time `reading-3`
+- **2019-04-09** Passed `passage`
+- **2019-04-09** Record vote
+- **2019-04-10** Senate passage as amended reported
+- **2019-04-10** Senate Amendments distributed
+- **2019-04-11** House refuses to concur in Senate amendments
+- **2019-04-11** House requests conference committee
+- **2019-04-11** House appoints conferees
+- **2019-04-11** House refuses to concur-reported
+- **2019-04-11** House requests conference committee-reported
+- **2019-04-11** House appoints conferees-reported
+- **2019-04-17** Senate grants request for conference comm.
+- **2019-04-17** Senate appoints conferees
+- **2019-04-17** Senate grants request for conf comm-reported
+- **2019-04-17** Senate appoints conferees-reported
+- **2019-05-13** Rules suspended
+- **2019-05-15** Rules suspended
+- **2019-05-17** Rules suspended
+- **2019-05-25** Conference committee report filed
+- **2019-05-25** Conf. Comm. Report distributed
+- **2019-05-26** House adopts resolution to go outside bounds
+- **2019-05-26** House adopts conference committee report
+- **2019-05-26** Record vote
+- **2019-05-26** Subject to Art.III Sec.49a Tx. Constitution
+- **2019-05-26** House adopts resolution for tech. correction
+- **2019-05-26** House adopts conf. comm. report-reported
+- **2019-05-26** Rules suspended
+- **2019-05-26** Senate adopts resolution to go outside bounds
+- **2019-05-26** Senate adopts conference committee report
+- **2019-05-26** Record vote
+- **2019-05-26** Reason for vote recorded in Journal
+- **2019-05-26** Senate adopts resolution for tech. correction
+- **2019-05-26** Senate adopts conf. comm. report-reported
+- **2019-05-27** Reported enrolled
+- **2019-05-27** Signed in the House
+- **2019-05-27** Signed in Senate-Art III Sec 49a Tx. Const.
+- **2019-05-27** Sent to the Comptroller
+- **2019-06-05** Sent to the Governor `executive-receipt`
+- **2019-06-15** Signed by the Governor `executive-signature`
+- **2019-06-15** Effective on 9/1/19 `became-law`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/bedac43f-39a9-4958-8668-e32fb9f6be52`. Confidence: reported (aggregated from official Texas legislature records).
+

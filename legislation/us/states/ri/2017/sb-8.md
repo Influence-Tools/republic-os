@@ -1,0 +1,78 @@
+---
+type: "Bill"
+title: "AN ACT RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION (Makes various changes to the sentencing and execution guidelines for purposes of criminal procedure and would add new conditions of criminal probation.)"
+description: "AN ACT RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION (Makes various changes to the sentencing and execution guidelines for purposes of criminal procedure and would add new conditions of criminal probation.)"
+jurisdiction: "us/states/ri"
+legislature: "Rhode Island General Assembly"
+session: "2017"
+identifier: "SB 8"
+citation: "Rhode Island SB 8 (2017)"
+classification: ["bill"]
+subjects: ["Criminal Offense", "Criminal Procedure", "Courts"]
+status: "enacted"
+primary_sponsors: ["Conley", "Lombardi", "Lynch Prata", "McCaffrey", "Metts"]
+version_count: 1
+action_count: 19
+vote_count: 2
+first_action: "2017-01-11"
+last_action: "2017-09-28"
+source: "openstates"
+source_identifier: "ocd-bill/9bafc4f6-4fb8-4b7c-891d-cf8562a3e091"
+source_url: "http://status.rilin.state.ri.us/"
+source_hash: "36e746e0fc84ac6fe09faf9aec110ec51aea637fd909ec8a6167661d301a5abc"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-ri"]
+---
+
+# Rhode Island SB 8 (2017) — AN ACT RELATING TO CRIMINAL PROCEDURE -- SENTENCE AND EXECUTION (Makes various changes to the sentencing and execution guidelines for purposes of criminal procedure and would add new conditions of criminal probation.)
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **8 SUB B** (committee substitute) — [source](http://webserver.rilin.state.ri.us/BillText/BillText17/SenateText17/S0008B.pdf)
+
+## Votes
+
+- RELATING TO CRIMINAL PROCEDURE - — **63–0** (pass) · legislature
+- Passage — **37–0** (pass) · legislature
+
+## Sponsors
+
+- Conley — primary (person)
+- Lombardi — primary (person)
+- Lynch Prata — primary (person)
+- McCaffrey — primary (person)
+- Metts — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2017-01-11** 01/11/2017 Introduced, referred to Senate Judiciary `referral-committee, introduction`
+- **2017-01-13** 01/13/2017 Scheduled for hearing and/or consideration (01/19/2017)
+- **2017-01-19** 01/19/2017 Committee recommended indefinite postponement
+- **2017-01-19** 01/19/2017 Committee recommended Substitute A be held for further study
+- **2017-01-27** 01/27/2017 Scheduled for consideration (01/31/2017)
+- **2017-01-31** 01/31/2017 Committee recommends passage of Sub A `committee-passage-favorable`
+- **2017-01-31** 01/31/2017 Placed on Senate Calendar (02/02/2017)
+- **2017-02-02** 02/02/2017 Senate passed Sub A `passage`
+- **2017-02-03** 02/03/2017 Referred to House Judiciary `referral-committee`
+- **2017-06-30** 06/30/2017 Scheduled for consideration (06/30/2017)
+- **2017-06-30** 06/30/2017 Committee recommends passage of Sub B `committee-passage-favorable`
+- **2017-09-14** 09/14/2017 Scheduled for reconsideration (09/15/2017)
+- **2017-09-15** 09/15/2017 Committee recommends passage of Sub B `committee-passage-favorable`
+- **2017-09-18** 09/18/2017 Placed on the House Consent Calendar (09/19/2017)
+- **2017-09-19** 09/19/2017 House passed Sub B `passage`
+- **2017-09-19** 09/19/2017 Placed on the Senate Consent Calendar (09/19/2017)
+- **2017-09-19** 09/19/2017 Senate passed Sub B in concurrence `passage`
+- **2017-09-25** 09/25/2017 Transmitted to Governor `executive-receipt`
+- **2017-09-28** 09/28/2017 Signed by Governor `executive-signature`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/9bafc4f6-4fb8-4b7c-891d-cf8562a3e091`. Confidence: reported (aggregated from official Rhode Island legislature records).
+

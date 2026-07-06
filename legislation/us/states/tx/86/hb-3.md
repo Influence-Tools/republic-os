@@ -1,0 +1,664 @@
+---
+type: "Bill"
+title: "Relating to public school finance and public education; creating a criminal offense; authorizing the imposition of a fee."
+description: "Relating to public school finance and public education; creating a criminal offense; authorizing the imposition of a fee."
+jurisdiction: "us/states/tx"
+legislature: "Texas Legislature"
+session: "86"
+identifier: "HB 3"
+citation: "Texas HB 3 (86)"
+classification: ["bill"]
+subjects: ["Education--Bilingual (I0213)", "Education--Primary & Secondary--Admission & Attendance (I0227)", "Education--Primary & Secondary--Facilities (I0241)", "Education--Primary & Secondary--Finance (I0250)", "Education--Primary & Secondary--Special (I0243)", "Education--Primary & Secondary--Teachers (I0242)", "Education--Primary & Secondary--Testing (I0229)", "Education--School Districts (I0220)", "Elections--School District (I0283)", "Retirement Systems--Teachers (I0726)", "Salaries & Expenses (I0745)", "State Finances--Appropriations (I0746)", "Taxation--School District (I0785)", "AUDITS & AUDITORS (S4334)", "DYSLEXIA (S9807)", "FOUNDATION SCHOOL PROGRAM (S0541)", "LITERACY (S0178)", "PRESCHOOL & PREKINDERGARTEN (S0040)", "TECHNICAL EDUCATION (S0453)", "AUDITOR", "STATE (V4364)", "COMPTROLLER OF PUBLIC ACCOUNTS (V2608)", "EDUCATION AGENCY", "TEXAS (V9941)", "EDUCATION", "COMMISSIONER OF (V9954)", "EDUCATION", "STATE BOARD OF (V0086)", "EDUCATOR CERTIFICATION", "STATE BOARD FOR (V0492)", "LEGISLATIVE BUDGET BOARD (V0161)", "WORKFORCE COMMISSION", "TEXAS (V0470)"]
+status: "enacted"
+primary_sponsors: ["Allen", "Bernal", "Huberty", "King, Ken", "Taylor", "Zerwas"]
+version_count: 1
+action_count: 412
+vote_count: 67
+first_action: "2019-03-05"
+last_action: "2019-06-12"
+source: "openstates"
+source_identifier: "ocd-bill/36855b4f-a5d3-4f05-93f6-5b96a24a5d11"
+source_url: "ftp://ftp.legis.state.tx.us/bills/86R/billhistory/house_bills/HB00001_HB00099/HB 3.xml"
+source_hash: "87b7c6d1ceabe41f79077b4eb7de5318c7e01a15f0bbbc0d065c23976acc1b07"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-tx"]
+---
+
+# Texas HB 3 (86) — Relating to public school finance and public education; creating a criminal offense; authorizing the imposition of a fee.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](http://www.legis.state.tx.us/tlodocs/86R/billtext/html/HB00003I.HTM)
+
+## Votes
+
+- other — **0–0** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **12–19** (fail) · upper
+- passage — **29–2** (pass) · upper
+- other — **14–17** (fail) · upper
+- other — **0–0** (fail) · upper
+- passage — **24–7** (pass) · upper
+- other — **0–0** (fail) · upper
+- other — **139–0** (fail) · upper
+- passage — **148–1** (pass) · lower
+- other — **13–18** (fail) · upper
+- other — **11–20** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **13–18** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **13–18** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **14–17** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **12–19** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **15–16** (fail) · upper
+- other — **13–18** (fail) · upper
+- other — **0–0** (fail) · upper
+- passage — **148–1** (pass) · lower
+- passage — **26–3** (pass) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- passage — **20–11** (pass) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **14–17** (fail) · upper
+- passage — **18–13** (pass) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **0–0** (fail) · upper
+- other — **11–20** (fail) · upper
+
+## Sponsors
+
+- Allen — primary (person)
+- Bernal — primary (person)
+- Huberty — primary (person)
+- King, Ken — primary (person)
+- Taylor — primary (person)
+- Zerwas — primary (person)
+- Allison — cosponsor (person)
+- Anchia — cosponsor (person)
+- Anderson, Charles "Doc" — cosponsor (person)
+- Ashby — cosponsor (person)
+- Bailes — cosponsor (person)
+- Bell, Cecil — cosponsor (person)
+- Bell, Keith — cosponsor (person)
+- Bettencourt — cosponsor (person)
+- Blanco — cosponsor (person)
+- Bohac — cosponsor (person)
+- Bonnen, Greg — cosponsor (person)
+- Bowers — cosponsor (person)
+- Buckley — cosponsor (person)
+- Bucy — cosponsor (person)
+- Burns — cosponsor (person)
+- Burrows — cosponsor (person)
+- Button — cosponsor (person)
+- Calanni — cosponsor (person)
+- Canales — cosponsor (person)
+- Capriglione — cosponsor (person)
+- Clardy — cosponsor (person)
+- Cole — cosponsor (person)
+- Collier — cosponsor (person)
+- Cortez — cosponsor (person)
+- Craddick — cosponsor (person)
+- Cyrier — cosponsor (person)
+- Darby — cosponsor (person)
+- Davis, Sarah — cosponsor (person)
+- Dean — cosponsor (person)
+- Deshotel — cosponsor (person)
+- Dominguez — cosponsor (person)
+- Dutton — cosponsor (person)
+- Farrar — cosponsor (person)
+- Fierro — cosponsor (person)
+- Flynn — cosponsor (person)
+- Frank — cosponsor (person)
+- Frullo — cosponsor (person)
+- Geren — cosponsor (person)
+- Gervin-Hawkins — cosponsor (person)
+- Goldman — cosponsor (person)
+- González, Mary — cosponsor (person)
+- Goodwin — cosponsor (person)
+- Guerra — cosponsor (person)
+- Guillen — cosponsor (person)
+- Harless — cosponsor (person)
+- Harris — cosponsor (person)
+- Hefner — cosponsor (person)
+- Herrero — cosponsor (person)
+- Hinojosa — cosponsor (person)
+- Holland — cosponsor (person)
+- Howard — cosponsor (person)
+- Hunter — cosponsor (person)
+- Israel — cosponsor (person)
+- Johnson, Eric — cosponsor (person)
+- Johnson, Julie — cosponsor (person)
+- Kacal — cosponsor (person)
+- King, Phil — cosponsor (person)
+- Klick — cosponsor (person)
+- Krause — cosponsor (person)
+- Kuempel — cosponsor (person)
+- Lambert — cosponsor (person)
+- Landgraf — cosponsor (person)
+- Larson — cosponsor (person)
+- Leach — cosponsor (person)
+- Leman — cosponsor (person)
+- Longoria — cosponsor (person)
+- Lopez — cosponsor (person)
+- Lozano — cosponsor (person)
+- Lucio III — cosponsor (person)
+- Martinez Fischer — cosponsor (person)
+- Menéndez — cosponsor (person)
+- Metcalf — cosponsor (person)
+- Meyer — cosponsor (person)
+- Meza — cosponsor (person)
+- Miller — cosponsor (person)
+- Minjarez — cosponsor (person)
+- Moody — cosponsor (person)
+- Morales — cosponsor (person)
+- Morrison — cosponsor (person)
+- Murphy — cosponsor (person)
+- Murr — cosponsor (person)
+- Muñoz, Jr. — cosponsor (person)
+- Neave — cosponsor (person)
+- Nevárez — cosponsor (person)
+- Noble — cosponsor (person)
+- Oliverson — cosponsor (person)
+- Ortega — cosponsor (person)
+- Pacheco — cosponsor (person)
+- Paddie — cosponsor (person)
+- Parker — cosponsor (person)
+- Patterson — cosponsor (person)
+- Paul — cosponsor (person)
+- Perez — cosponsor (person)
+- Phelan — cosponsor (person)
+- Powell — cosponsor (person)
+- Price — cosponsor (person)
+- Raney — cosponsor (person)
+- Reynolds — cosponsor (person)
+- Rodriguez — cosponsor (person)
+- Rose — cosponsor (person)
+- Rosenthal — cosponsor (person)
+- Sanford — cosponsor (person)
+- Shaheen — cosponsor (person)
+- Sheffield — cosponsor (person)
+- Sherman, Sr. — cosponsor (person)
+- Shine — cosponsor (person)
+- Smith — cosponsor (person)
+- Springer — cosponsor (person)
+- Stephenson — cosponsor (person)
+- Stucky — cosponsor (person)
+- Swanson — cosponsor (person)
+- Talarico — cosponsor (person)
+- Thierry — cosponsor (person)
+- Thompson, Ed — cosponsor (person)
+- Thompson, Senfronia — cosponsor (person)
+- Tinderholt — cosponsor (person)
+- Toth — cosponsor (person)
+- Turner, Chris — cosponsor (person)
+- Turner, John — cosponsor (person)
+- VanDeaver — cosponsor (person)
+- Walle — cosponsor (person)
+- White — cosponsor (person)
+- Wilson — cosponsor (person)
+- Wray — cosponsor (person)
+- Wu — cosponsor (person)
+- Zedler — cosponsor (person)
+- Zwiener — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2019-03-05** Filed `filing`
+- **2019-03-05** Read first time `introduction, reading-1`
+- **2019-03-05** Referred to Public Education `referral-committee`
+- **2019-03-12** Considered in public hearing
+- **2019-03-12** Testimony taken/registration(s) recorded in committee
+- **2019-03-12** Left pending in committee
+- **2019-03-19** Considered in public hearing
+- **2019-03-19** Committee substitute considered in committee
+- **2019-03-19** Reported favorably as substituted `committee-passage-favorable`
+- **2019-03-26** Comte report filed with Committee Coordinator
+- **2019-03-26** Committee report distributed
+- **2019-03-26** Committee report sent to Calendars
+- **2019-03-26** Considered in Calendars
+- **2019-04-03** Placed on Emergency Calendar
+- **2019-03-27** Calendars Committee rule adopted
+- **2019-04-03** Read 2nd time `reading-2`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Record vote
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment tabled
+- **2019-04-03** Record vote
+- **2019-04-03** Statement(s) of vote recorded in Journal
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Record vote
+- **2019-04-03** Statement(s) of vote recorded in Journal
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Record vote
+- **2019-04-03** Statement(s) of vote recorded in Journal
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Point of order withdrawn (amendment)
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Point of order withdrawn (amendment)
+- **2019-04-03** Amendment to amendment withdrawn
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Record vote
+- **2019-04-03** Statement(s) of vote recorded in Journal
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Record vote
+- **2019-04-03** Statement(s) of vote recorded in Journal
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment to amendment offered
+- **2019-04-03** Point of order sustained (amendment)
+- **2019-04-03** Amendment withdrawn `amendment-withdrawal`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Point of order sustained (amendment)
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Point of order withdrawn (amendment)
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amended `amendment-passage`
+- **2019-04-03** Amendment(s) offered `amendment-introduction`
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Vote reconsidered
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Vote reconsidered
+- **2019-04-03** Vote reconsidered
+- **2019-04-03** Amendment to amendment withdrawn
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Vote reconsidered
+- **2019-04-03** Amendment amended `amendment-amendment`
+- **2019-04-03** Amendment adopted as amended
+- **2019-04-03** Constitutional three day rule suspended
+- **2019-04-03** Passed to engrossment as amended
+- **2019-04-03** Record vote
+- **2019-04-03** Record vote
+- **2019-04-03** Read 3rd time `reading-3`
+- **2019-04-03** Passed `passage`
+- **2019-04-03** Record vote
+- **2019-04-04** Reported engrossed
+- **2019-04-04** Received from the House `introduction`
+- **2019-04-04** Read first time `introduction, reading-1`
+- **2019-04-04** Referred to Education `referral-committee`
+- **2019-04-25** Scheduled for public hearing on . . .
+- **2019-04-25** Considered in public hearing
+- **2019-04-25** Testimony taken in committee
+- **2019-04-25** Left pending in committee
+- **2019-05-01** Considered in public hearing
+- **2019-05-01** Reported favorably as substituted `committee-passage-favorable`
+- **2019-05-01** Committee report printed and distributed
+- **2019-05-02** Placed on intent calendar
+- **2019-05-03** Not again placed on intent calendar
+- **2019-05-06** Placed on intent calendar
+- **2019-05-06** Rules suspended-Regular order of business
+- **2019-05-06** Record vote
+- **2019-05-06** Read 2nd time `reading-2`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment to amendment offered
+- **2019-05-06** Amendment amended `amendment-amendment`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment adopted as amended
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment to amendment offered
+- **2019-05-06** Amendment amended `amendment-amendment`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment adopted as amended
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment to amendment offered
+- **2019-05-06** Amendment amended `amendment-amendment`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment adopted as amended
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment to amendment offered
+- **2019-05-06** Amendment amended `amendment-amendment`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment adopted as amended
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment to amendment offered
+- **2019-05-06** Amendment amended `amendment-amendment`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment adopted as amended
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment fails of adoption
+- **2019-05-06** Record vote
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment withdrawn `amendment-withdrawal`
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment to amendment offered
+- **2019-05-06** Amendment to amendment withdrawn
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amendment to amendment offered
+- **2019-05-06** Amendment amended `amendment-amendment`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment adopted as amended
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Amendment(s) offered `amendment-introduction`
+- **2019-05-06** Amended `amendment-passage`
+- **2019-05-06** Vote recorded in Journal
+- **2019-05-06** Passed to 3rd reading as amended
+- **2019-05-06** Record vote
+- **2019-05-06** Three day rule suspended
+- **2019-05-06** Record vote
+- **2019-05-06** Read 3rd time `reading-3`
+- **2019-05-06** Passed `passage`
+- **2019-05-06** Record vote
+- **2019-05-06** Reason for vote recorded in Journal
+- **2019-05-06** Senate passage as amended reported
+- **2019-05-07** House refuses to concur in Senate amendments
+- **2019-05-07** House requests conference committee
+- **2019-05-07** House appoints conferees
+- **2019-05-07** House refuses to concur-reported
+- **2019-05-07** House requests conference committee-reported
+- **2019-05-07** House appoints conferees-reported
+- **2019-05-08** Senate grants request for conference comm.
+- **2019-05-08** Senate appoints conferees
+- **2019-05-08** Senate grants request for conf comm-reported
+- **2019-05-08** Senate appoints conferees-reported
+- **2019-05-09** Senate Amendments Analysis distributed
+- **2019-05-10** Scheduled for conference committee meeting
+- **2019-05-24** Conf. Comm. Report distributed
+- **2019-05-24** Conference committee report filed
+- **2019-05-25** Co-sponsor authorized
+- **2019-05-25** House adopts resolution to go outside bounds
+- **2019-05-25** House adopts conference committee report
+- **2019-05-25** Record vote
+- **2019-05-25** Statement(s) of vote recorded in Journal
+- **2019-05-25** House adopts conf. comm. report-reported
+- **2019-05-25** Senate adopts resolution to go outside bounds
+- **2019-05-25** Senate adopts conference committee report
+- **2019-05-25** Record vote
+- **2019-05-26** Senate adopts conf. comm. report-reported
+- **2019-05-27** House adopts resolution for tech. correction
+- **2019-05-27** Senate adopts resolution for tech. correction
+- **2019-05-27** Reported enrolled
+- **2019-05-27** Signed in the House
+- **2019-05-27** Signed in the Senate
+- **2019-05-29** Sent to the Governor `executive-receipt`
+- **2019-06-12** Signed by the Governor `executive-signature`
+- **2019-06-12** See remarks for effective date
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/36855b4f-a5d3-4f05-93f6-5b96a24a5d11`. Confidence: reported (aggregated from official Texas legislature records).
+

@@ -1,0 +1,1079 @@
+---
+type: "Bill"
+title: "General Appropriations Bill."
+description: "General Appropriations Bill."
+jurisdiction: "us/states/tx"
+legislature: "Texas Legislature"
+session: "89R"
+identifier: "SB 1"
+citation: "Texas SB 1 (89R)"
+classification: ["bill"]
+subjects: ["State Finances--Appropriations (I0746)"]
+status: "enacted"
+primary_sponsors: ["Bonnen", "Huffman"]
+version_count: 5
+action_count: 1006
+vote_count: 13
+first_action: "2025-01-22"
+last_action: "2025-06-22"
+source: "openstates"
+source_identifier: "ocd-bill/c34629c6-d357-43d3-880a-b408b2b29f3a"
+source_url: "ftp://ftp.legis.state.tx.us/bills/89R/billhistory/senate_bills/SB00001_SB00099/SB 1.xml"
+source_hash: "db12fae4e9d6bf0e782d1e62c7b9b8fef7af3f5959f322e8f0e517cb7ba4b520"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-tx"]
+---
+
+# Texas SB 1 (89R) — General Appropriations Bill.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00001I.HTM)
+2. **Engrossed** (committee substitute) — [source](http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00001E.HTM)
+3. **House Committee Report** (committee substitute) — [source](http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00001H.HTM)
+4. **Senate Committee Report** (committee substitute) — [source](http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00001S.HTM)
+5. **Enrolled** (enrolled) — [source](http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00001F.HTM)
+
+## Votes
+
+- passage — **88–56** (pass) · upper
+- Senate Rule 7.18 and the Constitutional Rule requiring bills to be read on three several days be suspended and that CSSB 1 be placed on its third reading and final passage. — **31–0** (pass) · upper
+- passage — **31–0** (pass) · upper
+- passage — **31–0** (pass) · upper
+- passage — **30–0** (pass) · upper
+- passage — **107–21** (pass) · upper
+- passage — **135–5** (pass) · lower
+- passage — **118–26** (pass) · lower
+- passage — **107–21** (pass) · lower
+- passage — **86–58** (pass) · lower
+- passage — **118–26** (pass) · lower
+- passage — **88–56** (pass) · lower
+- passage — **97–48** (pass) · lower
+
+## Sponsors
+
+- Bonnen — primary (person)
+- Huffman — primary (person)
+- Birdwell — cosponsor (person)
+- Schwertner — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2025-01-22** Received by the Secretary of the Senate `filing, introduction`
+- **2025-01-22** Filed `filing`
+- **2025-01-22** Read first time `introduction, reading-1`
+- **2025-01-22** Referred to Finance `referral-committee`
+- **2025-01-27** Scheduled for public hearing on . . .
+- **2025-01-27** Considered in public hearing
+- **2025-01-27** Testimony taken in committee
+- **2025-01-27** Left pending in committee
+- **2025-01-28** Scheduled for public hearing on . . .
+- **2025-01-28** Considered in public hearing
+- **2025-01-28** Testimony taken in committee
+- **2025-01-28** Left pending in committee
+- **2025-01-29** Scheduled for public hearing on . . .
+- **2025-01-29** Considered in public hearing
+- **2025-01-29** Testimony taken in committee
+- **2025-01-29** Left pending in committee
+- **2025-01-30** Scheduled for public hearing on . . .
+- **2025-01-30** Considered in public hearing
+- **2025-01-30** Testimony taken in committee
+- **2025-01-30** Left pending in committee
+- **2025-02-03** Scheduled for public hearing on . . .
+- **2025-02-03** Considered in public hearing
+- **2025-02-03** Testimony taken in committee
+- **2025-02-03** Left pending in committee
+- **2025-02-04** Scheduled for public hearing on . . .
+- **2025-02-04** Considered in public hearing
+- **2025-02-04** Testimony taken in committee
+- **2025-02-04** Left pending in committee
+- **2025-02-05** Scheduled for public hearing on . . .
+- **2025-02-05** Considered in public hearing
+- **2025-02-05** Testimony taken in committee
+- **2025-02-05** Left pending in committee
+- **2025-02-06** Scheduled for public hearing on . . .
+- **2025-02-06** Considered in public hearing
+- **2025-02-06** Testimony taken in committee
+- **2025-02-06** Left pending in committee
+- **2025-02-07** Scheduled for public hearing on . . .
+- **2025-02-07** Considered in public hearing
+- **2025-02-07** Testimony taken in committee
+- **2025-02-07** Left pending in committee
+- **2025-02-10** Scheduled for public hearing on . . .
+- **2025-02-10** Considered in public hearing
+- **2025-02-10** Testimony taken in committee
+- **2025-02-10** Left pending in committee
+- **2025-02-11** Scheduled for public hearing on . . .
+- **2025-02-11** Considered in public hearing
+- **2025-02-11** Testimony taken in committee
+- **2025-02-11** Left pending in committee
+- **2025-02-12** Scheduled for public hearing on . . .
+- **2025-02-12** Considered in public hearing
+- **2025-02-12** Testimony taken in committee
+- **2025-02-12** Left pending in committee
+- **2025-02-13** Scheduled for public hearing on . . .
+- **2025-02-13** Considered in public hearing
+- **2025-02-13** Testimony taken in committee
+- **2025-02-13** Left pending in committee
+- **2025-03-12** Scheduled for public hearing on . . .
+- **2025-03-12** Considered in public hearing
+- **2025-03-12** Testimony taken in committee
+- **2025-03-12** Left pending in committee
+- **2025-03-19** Considered in public hearing
+- **2025-03-19** Vote taken in committee
+- **2025-03-19** Printing rule suspended
+- **2025-03-19** Ordered not printed
+- **2025-03-19** Reported favorably as substituted `committee-passage-favorable`
+- **2025-03-20** Placed on intent calendar
+- **2025-03-25** Co-author authorized
+- **2025-03-25** Rules suspended-Regular order of business
+- **2025-03-25** Record vote
+- **2025-03-25** Read 2nd time `reading-2`
+- **2025-03-25** Amendment(s) offered `amendment-introduction`
+- **2025-03-25** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-03-25** Passed to engrossment
+- **2025-03-25** Record vote
+- **2025-03-25** Three day rule suspended
+- **2025-03-25** Record vote
+- **2025-03-25** Read 3rd time `reading-3`
+- **2025-03-25** Passed `passage`
+- **2025-03-25** Record vote
+- **2025-03-25** Reported engrossed
+- **2025-03-26** Received from the Senate `introduction`
+- **2025-03-26** Read first time `introduction, reading-1`
+- **2025-03-26** Referred to Appropriations `referral-committee`
+- **2025-03-31** Considered in public hearing
+- **2025-03-31** Committee substitute considered in committee `substitution`
+- **2025-03-31** Testimony taken/registration(s) recorded in committee
+- **2025-03-31** Reported favorably as substituted `committee-passage-favorable`
+- **2025-03-31** Comte report filed with Committee Coordinator `filing`
+- **2025-03-31** Committee report distributed
+- **2025-04-01** Committee report sent to Calendars
+- **2025-04-01** Considered in Calendars
+- **2025-04-10** Placed on Emergency Calendar
+- **2025-04-02** Calendars Committee rule adopted
+- **2025-04-02** Record vote
+- **2025-04-02** Statement(s) of vote recorded in Journal
+- **2025-04-10** Read 2nd time `reading-2`
+- **2025-04-10** Postponed
+- **2025-04-10** Laid out as postponed business
+- **2025-04-10** Motion to adopt amendments on Speaker's desk
+- **2025-04-10** Motion prevails
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order sustained (amendment)
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Amendment fails of adoption `amendment-failure`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment fails of adoption `amendment-failure`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Point of order overruled
+- **2025-04-10** Amendment fails of adoption `amendment-failure`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Point of order sustained
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment fails of adoption `amendment-failure`
+- **2025-04-10** Record vote
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Point of order sustained
+- **2025-04-10** Point of order overruled
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment to amendment withdrawn `withdrawal`
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-04-10** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-04-10** Amendment fails of adoption `amendment-failure`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Point of order withdrawn (amendment) `withdrawal`
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment fails of adoption `amendment-failure`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Record vote
+- **2025-04-10** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-11** Amendment as amended fails of adoption
+- **2025-04-11** Record vote
+- **2025-04-11** Point of order sustained
+- **2025-04-11** Amendment(s) offered `amendment-introduction`
+- **2025-04-11** Amendment amended `amendment-amendment`
+- **2025-04-11** Amendment adopted as amended `amendment-passage`
+- **2025-04-11** Record vote
+- **2025-04-11** Statement(s) of vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Record vote
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Record vote
+- **2025-04-11** Amendment(s) offered `amendment-introduction`
+- **2025-04-11** Point of order overruled (amendment)
+- **2025-04-11** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2025-04-11** Point of order sustained
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Record vote
+- **2025-04-11** Statement(s) of vote recorded in Journal
+- **2025-04-11** Amendment fails of adoption `amendment-failure`
+- **2025-04-11** Record vote
+- **2025-04-11** Statement(s) of vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Record vote
+- **2025-04-11** Statement(s) of vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment to amendment withdrawn `withdrawal`
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment(s) offered `amendment-introduction`
+- **2025-04-10** Amendment amended `amendment-amendment`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amendment adopted as amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-10** Amended `amendment-passage`
+- **2025-04-10** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment(s) offered `amendment-introduction`
+- **2025-04-11** Amendment amended `amendment-amendment`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment adopted as amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment(s) offered `amendment-introduction`
+- **2025-04-11** Amendment amended `amendment-amendment`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment adopted as amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment(s) offered `amendment-introduction`
+- **2025-04-11** Amendment amended `amendment-amendment`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment adopted as amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment(s) offered `amendment-introduction`
+- **2025-04-11** Amendment amended `amendment-amendment`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment amended `amendment-amendment`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amendment adopted as amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Amended `amendment-passage`
+- **2025-04-11** Nonrecord vote recorded in Journal
+- **2025-04-11** Passed to 3rd reading as amended `amendment-passage`
+- **2025-04-11** Record vote
+- **2025-04-11** Statement(s) of vote recorded in Journal
+- **2025-04-11** Constitutional three day rule suspended
+- **2025-04-11** Record vote
+- **2025-04-11** Statement(s) of vote recorded in Journal
+- **2025-04-11** Read 3rd time `reading-3`
+- **2025-04-11** Passed `passage`
+- **2025-04-11** Record vote
+- **2025-04-11** Statement(s) of vote recorded in Journal
+- **2025-04-11** Reason for vote recorded in Journal
+- **2025-04-11** Subject to Art.III Sec.49a Tx. Constitution
+- **2025-04-14** House passage as amended reported `amendment-passage`
+- **2025-04-14** House amendment(s) laid before the Senate
+- **2025-04-14** Read
+- **2025-04-14** Senate refuses to concur
+- **2025-04-14** Senate requests conference committee
+- **2025-04-14** Senate appoints conferees
+- **2025-04-14** Senate refuses to concur-reported
+- **2025-04-14** Senate requests conference committee-reported
+- **2025-04-14** Senate appoints conferees-reported
+- **2025-04-15** House grants request for conference committee
+- **2025-04-15** Motion to instruct conferees
+- **2025-04-15** Motion prevails
+- **2025-04-15** Record vote
+- **2025-04-15** Statement(s) of vote recorded in Journal
+- **2025-04-15** Motion to instruct conferees
+- **2025-04-15** Motion to instruct conferees
+- **2025-04-15** Point of order withdrawn `withdrawal`
+- **2025-04-15** Motion fails
+- **2025-04-15** Record vote
+- **2025-04-15** Point of order overruled
+- **2025-04-15** Motion prevails
+- **2025-04-15** Record vote
+- **2025-04-15** Motion to instruct conferees
+- **2025-04-15** Motion prevails
+- **2025-04-15** Record vote
+- **2025-04-15** Motion to instruct conferees
+- **2025-04-15** Motion prevails
+- **2025-04-15** Record vote
+- **2025-04-15** Statement(s) of vote recorded in Journal
+- **2025-04-15** Motion to instruct conferees
+- **2025-04-15** Motion prevails
+- **2025-04-15** Record vote
+- **2025-04-15** Statement(s) of vote recorded in Journal
+- **2025-04-15** House appoints conferees with instructions
+- **2025-04-15** House grants request for conf comm-reported
+- **2025-04-15** House appoints conferees w/inst-reported
+- **2025-05-28** Conference committee report filed `filing`
+- **2025-05-28** Conf. Comm. Report distributed
+- **2025-05-31** Senate adopts resolution to go outside bounds
+- **2025-05-31** Senate adopts conference committee report `committee-passage-favorable`
+- **2025-05-31** Record vote
+- **2025-05-31** Remarks ordered printed
+- **2025-05-31** Senate adopts conf. comm. report-reported
+- **2025-05-31** House adopts conference committee report `committee-passage-favorable`
+- **2025-05-31** Record vote
+- **2025-05-31** Statement(s) of vote recorded in Journal
+- **2025-05-31** Subject to Art.III Sec.49a Tx. Constitution
+- **2025-05-31** House adopts resolution for tech. correction
+- **2025-06-01** House adopts conf. comm. report-reported
+- **2025-06-01** Reported enrolled `enrolled`
+- **2025-06-01** Signed in Senate-Art III Sec 49a Tx. Const.
+- **2025-06-02** Signed in the House `passage`
+- **2025-06-02** Sent to the Comptroller
+- **2025-06-10** Sent to the Governor `executive-receipt`
+- **2025-06-22** Signed by the Governor/line item veto `executive-signature`
+- **2025-06-22** Effective on 9/1/25 `became-law`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/c34629c6-d357-43d3-880a-b408b2b29f3a`. Confidence: reported (aggregated from official Texas legislature records).
+

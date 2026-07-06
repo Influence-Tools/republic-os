@@ -1,0 +1,817 @@
+---
+type: "Bill"
+title: "General Appropriations Bill."
+description: "General Appropriations Bill."
+jurisdiction: "us/states/tx"
+legislature: "Texas Legislature"
+session: "88"
+identifier: "HB 1"
+citation: "Texas HB 1 (88)"
+classification: ["bill"]
+subjects: ["State Finances--Appropriations (I0746)"]
+status: "enacted"
+primary_sponsors: ["Bonnen", "Huffman"]
+version_count: 4
+action_count: 752
+vote_count: 7
+first_action: "2023-01-18"
+last_action: "2023-06-18"
+source: "openstates"
+source_identifier: "ocd-bill/4af14877-0dcb-45ec-84e7-f59e40cde135"
+source_url: "ftp://ftp.legis.state.tx.us/bills/88R/billhistory/house_bills/HB00001_HB00099/HB 1.xml"
+source_hash: "41a41b5a9e0f8a2f54ff5dfcb0b076c84cedd430f8b543c8e875b3d053990c47"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-tx"]
+---
+
+# Texas HB 1 (88) — General Appropriations Bill.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](http://capitol.texas.gov/tlodocs/88R/billtext/html/HB00001I.HTM)
+2. **House Committee Report** (committee substitute) — [source](http://capitol.texas.gov/tlodocs/88R/billtext/html/HB00001H.HTM)
+3. **Senate Committee Report** (committee substitute) — [source](http://capitol.texas.gov/tlodocs/88R/billtext/html/HB00001S.HTM)
+4. **Enrolled** (enrolled) — [source](http://capitol.texas.gov/tlodocs/88R/billtext/html/HB00001F.HTM)
+
+## Votes
+
+- passage — **0–0** (pass) · upper
+- passage — **124–22** (pass) · upper
+- passage — **29–2** (pass) · upper
+- passage — **124–22** (pass) · lower
+- passage — **136–10** (pass) · lower
+- Senate Rule 7.18 and the Constitutional Rule requiring bills to be read on three several days be suspended and that CSHB 1 be placed on its third reading and final passage. — **31–0** (pass) · upper
+- passage — **19–12** (pass) · upper
+
+## Sponsors
+
+- Bonnen — primary (person)
+- Huffman — primary (person)
+- West — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2023-01-18** Filed `filing`
+- **2023-02-23** Read first time `introduction, reading-1`
+- **2023-02-23** Referred to Appropriations `referral-committee`
+- **2023-03-23** Considered in public hearing
+- **2023-03-23** Committee substitute considered in committee `substitution`
+- **2023-03-23** Testimony taken/registration(s) recorded in committee
+- **2023-03-23** Reported favorably as substituted `committee-passage-favorable`
+- **2023-03-24** Comte report filed with Committee Coordinator `filing`
+- **2023-03-24** Committee report distributed
+- **2023-03-27** Committee report sent to Calendars
+- **2023-03-29** Considered in Calendars
+- **2023-03-30** Calendars Committee rule adopted
+- **2023-04-06** Placed on Emergency Calendar
+- **2023-04-06** Read 2nd time `reading-2`
+- **2023-04-06** Point of order overruled
+- **2023-04-06** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Point of order withdrawn (amendment) `withdrawal`
+- **2023-04-06** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Point of order withdrawn (amendment) `withdrawal`
+- **2023-04-06** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Point of order sustained (amendment)
+- **2023-04-06** Amendment fails of adoption `amendment-failure`
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment as amended fails of adoption
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2023-04-06** Amendment fails of adoption `amendment-failure`
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Amendment fails of adoption `amendment-failure`
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Motion to table fails
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Reason for vote recorded in Journal
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Point of order withdrawn (amendment) `withdrawal`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Point of order withdrawn (amendment) `withdrawal`
+- **2023-04-06** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2023-04-06** Amendment withdrawn `amendment-withdrawal, withdrawal`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Point of order withdrawn (amendment) `withdrawal`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment fails of adoption `amendment-failure`
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Point of order sustained (amendment)
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amendment(s) offered `amendment-introduction`
+- **2023-04-06** Amendment amended `amendment-amendment`
+- **2023-04-06** Amendment adopted as amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Passed to engrossment as amended `amendment-passage`
+- **2023-04-06** Nonrecord vote recorded in Journal
+- **2023-04-06** Constitutional three day rule suspended
+- **2023-04-06** Record vote
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-06** Read 3rd time `reading-3`
+- **2023-04-06** Passed `passage`
+- **2023-04-06** Record vote
+- **2023-04-06** Subject to Art.III Sec.49a Tx. Constitution
+- **2023-04-06** Statement(s) of vote recorded in Journal
+- **2023-04-10** Reported engrossed
+- **2023-04-11** Received from the House `introduction`
+- **2023-04-11** Read first time `introduction, reading-1`
+- **2023-04-11** Referred to Finance `referral-committee`
+- **2023-04-11** Posting rule suspended
+- **2023-04-12** Scheduled for public hearing on . . .
+- **2023-04-12** Considered in public hearing
+- **2023-04-12** Vote taken in committee
+- **2023-04-12** Printing rule suspended
+- **2023-04-12** Ordered not printed
+- **2023-04-12** Reported favorably as substituted `committee-passage-favorable`
+- **2023-04-13** Placed on intent calendar
+- **2023-04-17** Rules suspended-Regular order of business
+- **2023-04-17** Read 2nd time `reading-2`
+- **2023-04-17** Amendment(s) offered `amendment-introduction`
+- **2023-04-17** Amendment tabled `deferral`
+- **2023-04-17** Record vote
+- **2023-04-17** Passed to 3rd reading
+- **2023-04-17** Vote recorded in Journal
+- **2023-04-17** Three day rule suspended
+- **2023-04-17** Record vote
+- **2023-04-17** Read 3rd time `reading-3`
+- **2023-04-17** Passed `passage`
+- **2023-04-17** Record vote
+- **2023-04-18** Senate passage as amended reported `amendment-passage`
+- **2023-04-18** Senate Amendments distributed
+- **2023-04-20** House refuses to concur in Senate amendments
+- **2023-04-20** House requests conference committee
+- **2023-04-20** House appoints conferees
+- **2023-04-20** House refuses to concur-reported
+- **2023-04-20** House requests conference committee-reported
+- **2023-04-20** House appoints conferees-reported
+- **2023-04-20** Senate grants request for conference comm.
+- **2023-04-20** Senate appoints conferees
+- **2023-04-21** Senate grants request for conf comm-reported
+- **2023-04-21** Senate appoints conferees-reported
+- **2023-05-16** Rules suspended
+- **2023-05-24** Conference committee report filed `filing`
+- **2023-05-25** Conf. Comm. Report distributed
+- **2023-05-26** Co-sponsor authorized
+- **2023-05-26** Senate adopts resolution to go outside bounds
+- **2023-05-26** Senate adopts conference committee report `committee-passage-favorable`
+- **2023-05-26** Record vote
+- **2023-05-26** Remarks ordered printed
+- **2023-05-26** Senate adopts conf. comm. report-reported
+- **2023-05-27** House adopts resolution to go outside bounds
+- **2023-05-27** House adopts conference committee report `committee-passage-favorable`
+- **2023-05-27** Subject to Art.III Sec.49a Tx. Constitution
+- **2023-05-27** Record vote
+- **2023-05-27** Statement(s) of vote recorded in Journal
+- **2023-05-27** Reason for vote recorded in Journal
+- **2023-05-28** House adopts conf. comm. report-reported
+- **2023-05-28** Reported enrolled `enrolled`
+- **2023-05-28** Signed in the House `passage`
+- **2023-05-29** Signed in Senate-Art III Sec 49a Tx. Const.
+- **2023-05-30** Sent to the Comptroller
+- **2023-06-07** Sent to the Governor `executive-receipt`
+- **2023-06-18** Signed by the Governor/line item veto `executive-signature`
+- **2023-06-18** Effective on 9/1/23 `became-law`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/4af14877-0dcb-45ec-84e7-f59e40cde135`. Confidence: reported (aggregated from official Texas legislature records).
+

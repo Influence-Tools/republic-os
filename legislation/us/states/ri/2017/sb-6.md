@@ -1,0 +1,75 @@
+---
+type: "Bill"
+title: "AN ACT RELATING TO CRIMINAL PROCEDURE - CORRECTIONS - BATTERERS INTERVENTION PROGRAMS AND PROBATION SUPERVISION (Creates a batterers intervention program fund and also adopts evidence-based probation and parole supervision systems.)"
+description: "AN ACT RELATING TO CRIMINAL PROCEDURE - CORRECTIONS - BATTERERS INTERVENTION PROGRAMS AND PROBATION SUPERVISION (Creates a batterers intervention program fund and also adopts evidence-based probation and parole supervision systems.)"
+jurisdiction: "us/states/ri"
+legislature: "Rhode Island General Assembly"
+session: "2017"
+identifier: "SB 6"
+citation: "Rhode Island SB 6 (2017)"
+classification: ["bill"]
+subjects: ["Victims of Crime", "Correctional Institutions", "Parole", "Criminal Procedure"]
+status: "enacted"
+primary_sponsors: ["Coyne", "Goodwin", "McCaffrey", "Metts", "Nesselbush"]
+version_count: 1
+action_count: 16
+vote_count: 2
+first_action: "2017-01-11"
+last_action: "2017-09-28"
+source: "openstates"
+source_identifier: "ocd-bill/79dfc63a-aa0d-4008-8cfd-3996c91f168a"
+source_url: "http://status.rilin.state.ri.us/"
+source_hash: "4dee6d6d29334eba08704da27358076d3a24c110d1bb9bc6b6f845c32ccabd3b"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-ri"]
+---
+
+# Rhode Island SB 6 (2017) — AN ACT RELATING TO CRIMINAL PROCEDURE - CORRECTIONS - BATTERERS INTERVENTION PROGRAMS AND PROBATION SUPERVISION (Creates a batterers intervention program fund and also adopts evidence-based probation and parole supervision systems.)
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **6 SUB A** (committee substitute) — [source](http://webserver.rilin.state.ri.us/BillText/BillText17/SenateText17/S0006A.pdf)
+
+## Votes
+
+- Passage — **37–0** (pass) · legislature
+- RELATING TO CRIMINAL PROCEDURE - — **63–0** (pass) · legislature
+
+## Sponsors
+
+- Coyne — primary (person)
+- Goodwin — primary (person)
+- McCaffrey — primary (person)
+- Metts — primary (person)
+- Nesselbush — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2017-01-11** 01/11/2017 Introduced, referred to Senate Judiciary `referral-committee, introduction`
+- **2017-01-13** 01/13/2017 Scheduled for hearing and/or consideration (01/19/2017)
+- **2017-01-19** 01/19/2017 Committee recommended measure be held for further study
+- **2017-01-27** 01/27/2017 Scheduled for consideration (01/31/2017)
+- **2017-01-31** 01/31/2017 Committee recommends passage `committee-passage-favorable`
+- **2017-01-31** 01/31/2017 Placed on Senate Calendar (02/02/2017)
+- **2017-02-02** 02/02/2017 Senate read and passed `passage`
+- **2017-02-03** 02/03/2017 Referred to House Judiciary `referral-committee`
+- **2017-06-30** 06/30/2017 Scheduled for consideration (06/30/2017)
+- **2017-06-30** 06/30/2017 Committee recommends passage of Sub A `committee-passage-favorable`
+- **2017-09-15** 09/15/2017 Placed on the House Consent Calendar (09/19/2017)
+- **2017-09-19** 09/19/2017 House passed Sub A `passage`
+- **2017-09-19** 09/19/2017 Placed on the Senate Consent Calendar (09/19/2017)
+- **2017-09-19** 09/19/2017 Senate passed Sub A in concurrence `passage`
+- **2017-09-25** 09/25/2017 Transmitted to Governor `executive-receipt`
+- **2017-09-28** 09/28/2017 Signed by Governor `executive-signature`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/79dfc63a-aa0d-4008-8cfd-3996c91f168a`. Confidence: reported (aggregated from official Rhode Island legislature records).
+

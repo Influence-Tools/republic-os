@@ -1,0 +1,83 @@
+---
+type: "Bill"
+title: "Higher Education Base Budget"
+description: "Higher Education Base Budget"
+jurisdiction: "us/states/ut"
+legislature: "Utah Legislature"
+session: "2025"
+identifier: "HB 1"
+citation: "Utah HB 1 (2025)"
+classification: ["bill"]
+subjects: ["Education", "Higher Education", "School Finance"]
+status: "enacted"
+primary_sponsors: ["Peterson, Karen M."]
+version_count: 4
+action_count: 29
+vote_count: 0
+first_action: "2025-01-20T22:49:00+00:00"
+last_action: "2025-02-14T20:41:00+00:00"
+source: "openstates"
+source_identifier: "ocd-bill/0d8fc067-0d09-47e0-8dfe-f07f38407db3"
+source_url: "https://le.utah.gov/~2025/bills/static/HB0001.html"
+source_hash: "6714a3203bd1bd5eb99966a636d25143dbc4edfa8e1be80f842045cc9ccd6f7d"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-ut"]
+---
+
+# Utah HB 1 (2025) — Higher Education Base Budget
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](https://le.utah.gov/Session/2025/bills/introduced/HB0001.xml)
+2. **House Transmittal Letter 1** (committee substitute) — [source](https://le.utah.gov/Session/2025/transmit/HB001H10.pdf)
+3. **Senate Transmittal Letter 1** (committee substitute) — [source](https://le.utah.gov/Session/2025/transmit/HB001S10.pdf)
+4. **Enrolled** (enrolled) — [source](https://le.utah.gov/Session/2025/bills/enrolled/HB0001.xml)
+
+## Sponsors
+
+- Peterson, Karen M. — primary (person)
+- Millner, Ann — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2025-01-20T22:49:00+00:00** Bill Numbered but not Distributed
+- **2025-01-20T22:49:00+00:00** Numbered Bill Publicly Distributed
+- **2025-01-21T15:49:00+00:00** House/ received bill from Legislative Research `receipt`
+- **2025-01-21T19:04:00+00:00** House/ received fiscal note from Fiscal Analyst `receipt`
+- **2025-01-21T22:27:00+00:00** House/ 1st reading (Introduced)
+- **2025-01-28T18:18:00+00:00** House/ Rules to 3rd Reading Calendar
+- **2025-01-28T18:18:00+00:00** House/ 2nd reading
+- **2025-01-28T18:19:00+00:00** House/ 3rd reading
+- **2025-01-28T18:20:00+00:00** House/ circled
+- **2025-01-29T18:25:00+00:00** House/ uncircled
+- **2025-01-29T18:27:00+00:00** House/ passed 3rd reading `passage`
+- **2025-01-29T18:27:00+00:00** House/ to Senate
+- **2025-01-29T19:26:00+00:00** Senate/ received from House `receipt`
+- **2025-01-30T18:08:00+00:00** Senate/ 1st reading (Introduced)
+- **2025-01-30T18:21:00+00:00** Senate/ 2nd & 3rd readings/ suspension
+- **2025-01-30T18:21:00+00:00** Senate/ circled
+- **2025-01-30T18:26:00+00:00** Senate/ uncircled
+- **2025-01-30T18:29:00+00:00** Senate/ passed 2nd & 3rd readings/ suspension
+- **2025-01-30T18:29:00+00:00** Senate/ signed by President/ returned to House `passage`
+- **2025-01-30T18:29:00+00:00** Senate/ to House
+- **2025-01-31T18:08:00+00:00** House/ received from Senate `receipt`
+- **2025-01-31T18:08:00+00:00** House/ signed by Speaker/ sent for enrolling `passage`
+- **2025-02-03T17:57:00+00:00** Bill Received from House for Enrolling
+- **2025-02-03T23:58:00+00:00** Draft of Enrolled Bill Prepared
+- **2025-02-12T17:52:00+00:00** Enrolled Bill Returned to House or Senate `enrolled`
+- **2025-02-12T17:52:00+00:00** House/ enrolled bill to Printing
+- **2025-02-14T15:58:00+00:00** House/ received enrolled bill from Printing `receipt`
+- **2025-02-14T15:58:00+00:00** House/ to Governor `executive-receipt`
+- **2025-02-14T20:41:00+00:00** Governor Signed `executive-signature`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/0d8fc067-0d09-47e0-8dfe-f07f38407db3`. Confidence: reported (aggregated from official Utah legislature records).
+

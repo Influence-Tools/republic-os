@@ -1,0 +1,87 @@
+---
+type: "Bill"
+title: "Natural Resources, Agriculture, and Environmental Quality Base Budget"
+description: "Natural Resources, Agriculture, and Environmental Quality Base Budget"
+jurisdiction: "us/states/ut"
+legislature: "Utah Legislature"
+session: "2022"
+identifier: "HB 5"
+citation: "Utah HB 5 (2022)"
+classification: ["bill"]
+subjects: ["Appropriations", "Department of Natural Resources", "Government Operations (State Issues)", "Natural Resources", "Public Budgeting"]
+status: "enacted"
+primary_sponsors: ["Barlow, Stewart E."]
+version_count: 2
+action_count: 30
+vote_count: 2
+first_action: "2022-01-17"
+last_action: "2022-02-02"
+source: "openstates"
+source_identifier: "ocd-bill/b50c3c52-b8f2-4828-926f-258e675fd99d"
+source_url: "https://le.utah.gov/~2022/bills/static/HB0005.html"
+source_hash: "a0f06ceda680e59264e9ef91cd7ba70e0ad9802db0d8dd427df6d83ef533f198"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-ut"]
+---
+
+# Utah HB 5 (2022) — Natural Resources, Agriculture, and Environmental Quality Base Budget
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Introduced** (filed) — [source](https://le.utah.gov/~2022/bills/hbillint/HB0005.pdf)
+2. **Enrolled** (enrolled) — [source](https://le.utah.gov/~2022/bills/hbillenr/HB0005.pdf)
+
+## Votes
+
+- passed 2nd & 3rd readings/suspension — **27–0** (pass) · upper
+- passed 3rd reading — **70–0** (pass) · lower
+
+## Sponsors
+
+- Barlow, Stewart E. — primary (person)
+- Hinkins, David P. — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2022-01-17** Bill Numbered but not Distributed
+- **2022-01-17** Numbered Bill Publicly Distributed
+- **2022-01-17** bill sent to agencies for fiscal input
+- **2022-01-17** fiscal note sent to sponsor
+- **2022-01-18** fiscal note publicly available
+- **2022-01-18** received bill from Legislative Research
+- **2022-01-18** received fiscal note from Fiscal Analyst
+- **2022-01-18** 1st reading (Introduced) `introduction, reading-1`
+- **2022-01-25** Rules to 3rd Reading Calendar
+- **2022-01-25** 2nd reading `reading-2`
+- **2022-01-25** 3rd reading `reading-3`
+- **2022-01-25** circled
+- **2022-01-26** uncircled
+- **2022-01-26** passed 3rd reading `passage`
+- **2022-01-26** to Senate
+- **2022-01-27** received from House
+- **2022-01-27** 1st reading (Introduced) `introduction, reading-1`
+- **2022-01-27** Rules to 2nd Reading Calendar
+- **2022-01-27** 2nd & 3rd readings/suspension `reading-2, reading-3`
+- **2022-01-27** passed 2nd & 3rd readings/suspension `passage`
+- **2022-01-27** signed by President/returned to House
+- **2022-01-27** to House
+- **2022-01-28** received from Senate
+- **2022-01-28** signed by Speaker/sent for enrolling
+- **2022-01-31** Bill Received from House for Enrolling
+- **2022-01-31** Draft of Enrolled Bill Prepared
+- **2022-01-31** enrolled bill to Printing
+- **2022-01-31** Enrolled Bill Returned to House or Senate
+- **2022-02-01** to Governor `executive-receipt`
+- **2022-02-02** Governor Signed `executive-signature`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/b50c3c52-b8f2-4828-926f-258e675fd99d`. Confidence: reported (aggregated from official Utah legislature records).
+
