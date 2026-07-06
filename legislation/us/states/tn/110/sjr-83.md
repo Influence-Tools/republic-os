@@ -1,0 +1,83 @@
+---
+type: "Bill"
+title: "General Assembly, Statement of Intent or Position - Expresses support for the Tennessee Energy Efficient Schools Council. -"
+description: "General Assembly, Statement of Intent or Position - Expresses support for the Tennessee Energy Efficient Schools Council. -"
+jurisdiction: "us/states/tn"
+legislature: "Tennessee General Assembly"
+session: "110"
+identifier: "SJR 83"
+citation: "Tennessee SJR 83 (110)"
+classification: ["joint resolution"]
+subjects: ["General Assembly", "Statement of Intent or Position"]
+status: "enacted"
+primary_sponsors: ["Ketron"]
+version_count: 1
+action_count: 24
+vote_count: 6
+first_action: "2017-02-07"
+last_action: "2017-04-24"
+source: "openstates"
+source_identifier: "ocd-bill/92033ca4-5de5-49bd-b925-247a2549cf0c"
+source_url: "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SJR0083&GA=110"
+source_hash: "e5d00ca637e52ebfea1d56c608a27c182ac0c9b687a60b58166b0d9ce406d769"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-tn"]
+---
+
+# Tennessee SJR 83 (110) — General Assembly, Statement of Intent or Position - Expresses support for the Tennessee Energy Efficient Schools Council. -
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Current Version** (committee substitute) — [source](http://www.capitol.tn.gov/Bills/110/Bill/SJR0083.pdf)
+
+## Votes
+
+- EDUCATION ADMINISTRATION & PLANNING: Rec. for pass; ref to Calendar & Rules Committee 4/11/2017 — **0–0** (pass) · lower
+- FLOOR VOTE: MOTION TO ADOPT 3/6/2017 Passed (1) — **32–0** (pass) · upper
+- EDUCATION ADMINISTRATION & PLANNING SUBCOMMITTEE: Rec. for pass by s/c ref. to Education Administration & Planning 3/28/2017 — **0–0** (pass) · lower
+- CALENDAR & RULES COMMITTEE: H. Placed on Consent Calendar for 4/17/2017 4/13/2017 (2) — **0–0** (fail) · lower
+- FLOOR VOTE: PASSAGE ON THIRD CONSIDERATION 4/17/2017 Passed (1) — **89–0** (pass) · lower
+- SENATE EDUCATION COMMITTEE: Recommended for adoption by Senate Education Committee, refer Senate Calendar Committee 3/1/2017 Passed — **8–0** (pass) · upper
+
+## Sponsors
+
+- Ketron — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2017-02-07** Filed for introduction `introduction, reading-1`
+- **2017-02-08** Introduced, Passed on First Consideration `introduction`
+- **2017-02-09** Passed on Second Consideration, refer to Senate Education Committee
+- **2017-02-22** Placed on Senate Education Committee calendar for 3/1/2017
+- **2017-03-01** Recommended for adoption by Senate Education Committee, refer Senate Calendar Committee
+- **2017-03-03** Placed on Senate Consent Calendar 2 calendar for 3/6/2017
+- **2017-03-06** Engrossed; ready for transmission to House
+- **2017-03-06** Adopted, Ayes 32, Nays 0 `passage`
+- **2017-03-09** Assigned to s/c Education Administration & Planning Subcommittee `referral-committee`
+- **2017-03-09** Ref. to Education Administration & Planning `referral-committee`
+- **2017-03-22** Placed on s/c cal Education Administration & Planning Subcommittee for 3/28/2017
+- **2017-03-28** Rec. for pass by s/c ref. to Education Administration & Planning `committee-passage-favorable`
+- **2017-03-29** Placed on cal. Education Administration & Planning for 4/4/2017
+- **2017-04-04** Action def. in Education Administration & Planning to 4/11/2017
+- **2017-04-05** Placed on cal. Education Administration & Planning for 4/11/2017
+- **2017-04-11** Rec. for pass; ref to Calendar & Rules Committee `committee-passage-favorable`
+- **2017-04-12** Placed on cal. Calendar & Rules Committee for 4/13/2017
+- **2017-04-13** H. Placed on Consent Calendar for 4/17/2017
+- **2017-04-17** Concurred, Ayes 89, Nays 0, PNV 1 `passage`
+- **2017-04-18** Signed by Senate Speaker
+- **2017-04-18** Enrolled and ready for signatures
+- **2017-04-19** Transmitted to Governor for action.
+- **2017-04-19** Signed by H. Speaker
+- **2017-04-24** Signed by Governor. `executive-signature`
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/92033ca4-5de5-49bd-b925-247a2549cf0c`. Confidence: reported (aggregated from official Tennessee legislature records).
+

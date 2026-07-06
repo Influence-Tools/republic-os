@@ -1,0 +1,118 @@
+---
+type: "Bill"
+title: "Local Education Agencies - As enacted, requires that a student's gender for purposes of participation in a public middle school or high school interscholastic athletic activity or event be determined by the student's sex at the time of the student's birth, as indicated on the student's original birth certificate. - Amends TCA Title 49."
+description: "Local Education Agencies - As enacted, requires that a student's gender for purposes of participation in a public middle school or high school interscholastic athletic activity or event be determined by the student's sex at the time of the student's birth, as indicated on the student's original birth certificate. - Amends TCA Title 49."
+jurisdiction: "us/states/tn"
+legislature: "Tennessee General Assembly"
+session: "112"
+identifier: "HB 3"
+citation: "Tennessee HB 3 (112)"
+classification: ["bill"]
+subjects: ["Local Education Agencies"]
+status: "enacted"
+primary_sponsors: ["Cepicky", "Hensley"]
+version_count: 4
+action_count: 54
+vote_count: 7
+first_action: "2020-11-09"
+last_action: "2021-04-06"
+source: "openstates"
+source_identifier: "ocd-bill/6275c40b-df83-44d2-9750-ae93e50cfe0d"
+source_url: "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0003&GA=112"
+source_hash: "260125e55bc630f66540a2f1b02de0a3a4521c5df4df5e0076ec233f2213e970"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-tn"]
+---
+
+# Tennessee HB 3 (112) — Local Education Agencies - As enacted, requires that a student's gender for purposes of participation in a public middle school or high school interscholastic athletic activity or event be determined by the student's sex at the time of the student's birth, as indicated on the student's original birth certificate. - Amends TCA Title 49.
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **Amendment HA0002** (committee substitute) — [source](https://www.capitol.tn.gov/Bills/112/Amend/HA0002.pdf)
+2. **Amendment HA0071** (committee substitute) — [source](https://www.capitol.tn.gov/Bills/112/Amend/HA0071.pdf)
+3. **Amendment SA0020** (committee substitute) — [source](https://www.capitol.tn.gov/Bills/112/Amend/SA0020.pdf)
+4. **Current Version** (committee substitute) — [source](https://www.capitol.tn.gov/Bills/112/Bill/HB0003.pdf)
+
+## Votes
+
+- FLOOR VOTE: as Amended Third Consideration 3/1/2021 Passed (1) — **27–6** (pass) · upper
+- FLOOR VOTE: REGULAR CALENDAR LAY ON THE TABLE MOTION TO ADOPT AMENDMENT # 2 BY CLEMMONS PASSAGE ON THIRD CONSIDERATION 3/22/2021 Passed (2) — **71–23** (pass) · lower
+- HOUSE EDUCATION ADMINISTRATION COMMITTEE: Rec. for pass. if am., ref. to Calendar & Rules Committee 2/24/2021 (4) — **0–0** (pass) · lower
+- FLOOR VOTE: REGULAR CALENDAR PASSAGE ON THIRD CONSIDERATION 3/22/2021 Passed (1) — **71–16** (pass) · lower
+- SENATE EDUCATION COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 0 2/24/2021 Passed (2) — **8–1** (pass) · upper
+- K-12 SUBCOMMITTEE: Rec for pass if am by s/c ref. to Education Administration 2/9/2021 (5) — **0–0** (fail) · lower
+- HOUSE CALENDAR & RULES COMMITTEE: H. Placed on Regular Calendar for 3/18/2021 3/11/2021 (3) — **0–0** (fail) · lower
+
+## Sponsors
+
+- Cepicky — primary (person)
+- Hensley — primary (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2020-11-09** Filed for introduction `introduction, reading-1`
+- **2020-12-07** Sponsor(s) Added.
+- **2021-01-12** Intro., P1C. `introduction`
+- **2021-01-13** Ref. to Education Administration `referral-committee`
+- **2021-01-13** P2C held on desk.
+- **2021-01-19** Filed for introduction `introduction, reading-1`
+- **2021-01-27** Assigned to s/c K-12 Subcommittee `referral-committee`
+- **2021-02-03** Placed on s/c cal K-12 Subcommittee for 2/9/2021
+- **2021-02-03** Sponsor(s) Added.
+- **2021-02-04** Sponsor(s) Added.
+- **2021-02-08** Sponsor(s) Added.
+- **2021-02-08** Introduced, Passed on First Consideration `introduction`
+- **2021-02-09** Rec for pass if am by s/c ref. to Education Administration `referral-committee`
+- **2021-02-09** Sponsor(s) Added.
+- **2021-02-10** Placed on cal. Education Administration for 2/17/2021
+- **2021-02-10** Sponsor(s) Added.
+- **2021-02-10** Placed on Senate Education Committee calendar for 2/17/2021
+- **2021-02-10** Passed on Second Consideration, refer to Senate Education Committee
+- **2021-02-11** Sponsor(s) Added.
+- **2021-02-17** Placed on cal. Education Administration for 2/24/2021
+- **2021-02-17** Meeting Canceled
+- **2021-02-17** Placed on Senate Education Committee calendar for 2/24/2021
+- **2021-02-22** Sponsor(s) Added.
+- **2021-02-23** Sponsor(s) Added.
+- **2021-02-24** Rec. for pass. if am., ref. to Calendar & Rules Committee `committee-passage-favorable`
+- **2021-02-24** Sponsor(s) Added.
+- **2021-02-24** Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 0
+- **2021-02-25** Sponsor(s) Added.
+- **2021-02-25** Placed on Senate Regular Calendar for 3/1/2021
+- **2021-03-01** Sponsor(s) Added.
+- **2021-03-01** Engrossed; ready for transmission to House
+- **2021-03-01** Passed Senate as amended, Ayes 27, Nays 6 `passage`
+- **2021-03-01** Senate adopted Amendment (Amendment 1 - SA0020)
+- **2021-03-02** Sponsor(s) Added.
+- **2021-03-10** Placed on cal. Calendar & Rules Committee for 3/11/2021
+- **2021-03-11** Sponsor(s) Added.
+- **2021-03-11** H. Placed on Regular Calendar for 3/18/2021
+- **2021-03-18** Sponsor(s) Added.
+- **2021-03-18** Reset on cal. for 3/22/2021
+- **2021-03-22** Comp. SB subst.
+- **2021-03-22** Sponsor(s) Added.
+- **2021-03-22** Passed H., Ayes 71, Nays 16, PNV 5 `passage`
+- **2021-03-22** Am. withdrawn. (Amendment 1 - HA0002) `amendment-withdrawal`
+- **2021-03-22** Am. tabled. (Amendment 2 - HA0071) `amendment-deferral`
+- **2021-03-22** Subst. for comp. HB.
+- **2021-03-22** Rcvd. from S., held on H. desk.
+- **2021-03-23** Signed by Senate Speaker
+- **2021-03-23** Enrolled and ready for signatures
+- **2021-03-26** Signed by Governor. `executive-signature`
+- **2021-03-26** Transmitted to Governor for action.
+- **2021-03-26** Signed by H. Speaker
+- **2021-04-06** Comp. became Pub. Ch. 40
+- **2021-04-06** Effective date(s) 03/26/2021
+- **2021-04-06** Pub. Ch. 40
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/6275c40b-df83-44d2-9750-ae93e50cfe0d`. Confidence: reported (aggregated from official Tennessee legislature records).
+
