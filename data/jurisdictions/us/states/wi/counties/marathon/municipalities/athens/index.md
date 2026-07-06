@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Athens, WI"
+classification: village
+geoid: "5503550"
+state: "WI"
+counties: ["Marathon"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, village, wi]
+timestamp: "2026-07-03"
+---
+
+# Athens, WI
+
+Village — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

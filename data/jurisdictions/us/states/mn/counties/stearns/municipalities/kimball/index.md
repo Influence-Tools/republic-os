@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Kimball, MN"
+classification: city
+geoid: "2733164"
+state: "MN"
+counties: ["Stearns"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, city, mn]
+timestamp: "2026-07-03"
+---
+
+# Kimball, MN
+
+City — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

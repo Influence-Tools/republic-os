@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Halstad, MN"
+classification: city
+geoid: "2726630"
+state: "MN"
+counties: ["Norman"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, city, mn]
+timestamp: "2026-07-03"
+---
+
+# Halstad, MN
+
+City — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

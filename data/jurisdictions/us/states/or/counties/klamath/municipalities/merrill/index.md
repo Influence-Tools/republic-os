@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Merrill, OR"
+classification: city
+geoid: "4147700"
+state: "OR"
+counties: ["Klamath"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, city, or]
+timestamp: "2026-07-03"
+---
+
+# Merrill, OR
+
+City — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

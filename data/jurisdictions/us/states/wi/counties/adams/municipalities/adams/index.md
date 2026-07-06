@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Adams, WI"
+classification: city
+geoid: "5500275"
+state: "WI"
+counties: ["Adams"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, city, wi]
+timestamp: "2026-07-03"
+---
+
+# Adams, WI
+
+City — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

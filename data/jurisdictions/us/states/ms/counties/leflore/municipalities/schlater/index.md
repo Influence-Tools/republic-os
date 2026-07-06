@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Schlater, MS"
+classification: town
+geoid: "2866080"
+state: "MS"
+counties: ["Leflore"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, town, ms]
+timestamp: "2026-07-03"
+---
+
+# Schlater, MS
+
+Town — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)

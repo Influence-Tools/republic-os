@@ -1,0 +1,22 @@
+---
+type: Jurisdiction
+title: "Rochester, WI"
+classification: village
+geoid: "5568550"
+state: "WI"
+counties: ["Racine"]
+sources:
+  - field: identity
+    source: "Census place GEOID (place_county_crosswalk)"
+confidence: official
+tags: [jurisdiction, village, wi]
+timestamp: "2026-07-03"
+---
+
+# Rochester, WI
+
+Village — no officeholders mirrored yet.
+
+## Source
+
+- identity: Census place GEOID (place_county_crosswalk)
