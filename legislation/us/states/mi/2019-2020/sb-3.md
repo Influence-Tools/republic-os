@@ -1,0 +1,85 @@
+---
+type: "Bill"
+title: "Civil procedure: evictions; writ of restitution; allow to be executed by a court officer, bailiff, or deputy sheriff, and provide for the removal of personal property. Amends sec. 5744 of 1961 PA 236 (MCL 600.5744)."
+description: "Civil procedure: evictions; writ of restitution; allow to be executed by a court officer, bailiff, or deputy sheriff, and provide for the removal of personal property. Amends sec. 5744 of 1961 PA 236 (MCL 600.5744)."
+jurisdiction: "us/states/mi"
+legislature: "Michigan Legislature"
+session: "2019-2020"
+identifier: "SB 3"
+citation: "Michigan SB 3 (2019-2020)"
+classification: ["bill"]
+subjects: ["Civil procedure: evictions"]
+status: "enacted"
+primary_sponsors: []
+version_count: 4
+action_count: 27
+vote_count: 2
+first_action: "2019-01-15T05:00:00+00:00"
+last_action: "2019-04-09T04:00:00+00:00"
+source: "openstates"
+source_identifier: "ocd-bill/7cb3a14a-9567-4225-9c95-91ac26880e25"
+source_url: "http://legislature.mi.gov/doc.aspx?2019-SB-0003"
+source_hash: "d32afe5e92e0ba7900a4e9694ef0cf1bce5cdaaec02d2e6a6efe0b09d993cf80"
+vintage: "2026-07-01"
+source_snapshot: "https://data.openstates.org/daily/2026-07-01/public.pgdump"
+retrieved_at: "2026-07-06"
+confidence: "reported"
+tags: ["legislation", "bill", "us-mi"]
+---
+
+# Michigan SB 3 (2019-2020) — Civil procedure: evictions; writ of restitution; allow to be executed by a court officer, bailiff, or deputy sheriff, and provide for the removal of personal property. Amends sec. 5744 of 1961 PA 236 (MCL 600.5744).
+
+## Version chain
+
+The bill's text revisions, in order — the diff chain from filing to enrollment.
+
+1. **As Passed by the House** (committee substitute) — [source](http://legislature.mi.gov/documents/2019-2020/billengrossed/Senate/htm/2019-SEBH-0003.htm)
+2. **As Passed by the Senate** (committee substitute) — [source](http://legislature.mi.gov/documents/2019-2020/billengrossed/Senate/htm/2019-SEBS-0003.htm)
+3. **Public Act** (committee substitute) — [source](http://legislature.mi.gov/documents/2019-2020/publicact/htm/2019-PA-0002.htm)
+4. **Senate Introduced Bill** (committee substitute) — [source](http://legislature.mi.gov/documents/2019-2020/billintroduced/Senate/htm/2019-SIB-0003.htm)
+
+## Votes
+
+- passed; given immediate effect Roll Call # 31 Yeas 106 Nays 1 Excused 0 Not Voting 3 — **106–1** (pass) · lower
+- PASSED ROLL CALL # 9 YEAS 38 NAYS 0 EXCUSED 0 NOT VOTING 0 — **38–0** (pass) · upper
+
+## Sponsors
+
+- Peter Lucido — cosponsor (person)
+
+## Timeline
+
+The legislative action history — every referral, reading, and vote.
+
+- **2019-01-15T05:00:00+00:00** INTRODUCED BY SENATOR PETER LUCIDO `introduction`
+- **2019-01-15T05:00:00+00:00** REFERRED TO COMMITTEE ON JUDICIARY AND PUBLIC SAFETY `referral-committee`
+- **2019-02-14T05:00:00+00:00** REPORTED FAVORABLY WITH SUBSTITUTE (S-1) `committee-passage`
+- **2019-02-14T05:00:00+00:00** COMMITTEE RECOMMENDED IMMEDIATE EFFECT
+- **2019-02-14T05:00:00+00:00** REFERRED TO COMMITTEE OF THE WHOLE WITH SUBSTITUTE (S-1) `referral-committee`
+- **2019-02-21T05:00:00+00:00** REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITH SUBSTITUTE (S-1) `committee-passage`
+- **2019-02-21T05:00:00+00:00** SUBSTITUTE (S-1) CONCURRED IN
+- **2019-02-26T05:00:00+00:00** PASSED ROLL CALL # 9 YEAS 38 NAYS 0 EXCUSED 0 NOT VOTING 0 `passage`
+- **2019-02-21T05:00:00+00:00** PLACED ON ORDER OF THIRD READING WITH SUBSTITUTE (S-1)
+- **2019-02-26T05:00:00+00:00** received on 02/26/2019 `introduction`
+- **2019-02-26T05:00:00+00:00** read a first time `reading-1`
+- **2019-02-26T05:00:00+00:00** referred to Committee on Judiciary `referral-committee`
+- **2019-03-12T04:00:00+00:00** reported with recommendation without amendment `committee-passage`
+- **2019-03-12T04:00:00+00:00** referred to second reading
+- **2019-03-14T04:00:00+00:00** read a second time `reading-2`
+- **2019-03-14T04:00:00+00:00** placed on third reading
+- **2019-03-19T04:00:00+00:00** read a third time `reading-3`
+- **2019-03-19T04:00:00+00:00** passed; given immediate effect Roll Call # 31 Yeas 106 Nays 1 Excused 0 Not Voting 3 `passage`
+- **2019-03-19T04:00:00+00:00** returned to Senate
+- **2019-03-19T04:00:00+00:00** inserted full title
+- **2019-03-20T04:00:00+00:00** GIVEN IMMEDIATE EFFECT
+- **2019-03-20T04:00:00+00:00** FULL TITLE AGREED TO
+- **2019-03-20T04:00:00+00:00** ORDERED ENROLLED
+- **2019-04-09T04:00:00+00:00** PRESENTED TO GOVERNOR 03/22/2019 01:12 PM `executive-receipt`
+- **2019-04-09T04:00:00+00:00** APPROVED BY GOVERNOR 04/03/2019 10:01 AM `executive-signature`
+- **2019-04-09T04:00:00+00:00** FILED WITH SECRETARY OF STATE 04/03/2019 10:44 AM
+- **2019-04-09T04:00:00+00:00** ASSIGNED PA 2 WITH IMMEDIATE EFFECT
+
+## Source
+
+OpenStates / OpenCivicData bulk snapshot [2026-07-01](https://data.openstates.org/daily/2026-07-01/public.pgdump); origin `ocd-bill/7cb3a14a-9567-4225-9c95-91ac26880e25`. Confidence: reported (aggregated from official Michigan legislature records).
+
