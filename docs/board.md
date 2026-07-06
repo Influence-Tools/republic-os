@@ -1,8 +1,13 @@
 # The Board
 
 `viz/board.html` is the Board — a rebuilt *view* of the canonical tree, never a
-source. It is a nationwide county choropleth (income / population / poverty
-lenses) where any county opens a drill-down of its officeholders and demographics.
+source. It is a nationwide county choropleth with four lenses — **income,
+population, poverty, and partisan lean** (the head-count D/R balance of each
+county's covering state + federal representatives) — that is **zoomable and
+pannable** (scroll to zoom 1×–16× toward the cursor, drag to pan, double-click to
+reset). Any county opens a drill-down of its officeholders, its demographics, and
+the **districts + representatives** that cover it (congressional, state senate,
+and state house, each with the share of the county it covers).
 
 ## Pipeline
 

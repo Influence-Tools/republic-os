@@ -5,7 +5,7 @@ An honest account of what exists, what's next, and what's further out. This repo
 ## Done
 
 - **The substrate** — repo-canonical, OKF markdown + YAML frontmatter, JSON-Schema validated, deterministic build (byte-identical on rerun).
-- **Five entity types, 105,746 files** — Person (13,329), Body (275), Candidate (2,494), Jurisdiction (29,908), LegalText (59,740).
+- **Five entity types, 105,743 files** — Person (13,329), Body (275), Candidate (2,494), Jurisdiction (29,905), LegalText (59,740).
 - **The federal government, structurally** — every member of Congress, the chambers, 49 committees and 181 subcommittees with their leadership, and every member's committee seats.
 - **The nationwide county skeleton** — all 3,131 U.S. counties as demographic nodes, plus all 435 congressional districts (Census ACS demographics on 363).
 - **The authority layer** — every state legislative district (4,927 house, 1,897 senate) linked county↔district↔legislator, nationwide.

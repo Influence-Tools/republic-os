@@ -6,14 +6,22 @@ The pipeline is **repo-canonical**: raw source exports land in `data/*.jsonl` un
 
 ## Active sources
 
-| Source | Feeds | Raw file | Authority |
+| Source | Feeds | Raw file(s) | Authority |
 |---|---|---|---|
-| **Atlas / influence.tools** | Officeholders — federal, all state legislatures, FL county + municipal | `officeholders-v2.jsonl` (11,285) | Aggregator |
+| **Atlas / influence.tools** | Officeholders — federal, all state legislatures, FL county + municipal | `officeholders-v3.jsonl` (13,329) | Aggregator |
+| **Atlas / PostGIS** | Exact Census place GEOID per municipal officeholder | `officeholders-municipal-geoid.jsonl` (3,979) | Derived (Census places) |
 | **congress-legislators** ([unitedstates project](https://github.com/unitedstates/congress-legislators)) | Bodies, leadership roles, committee memberships | `bodies.jsonl` (233), `leadership.jsonl` (28), `committee_memberships.jsonl` (3,879) | Community, authoritative |
 | **FEC** (Federal Election Commission) | 2026 federal candidate filings | `fec_candidates.jsonl` (2,494) | Official |
 | **Census ACS 2023** | County & congressional-district demographics | `acs_county.jsonl` (3,231), `acs_cd.jsonl` (363) | Official |
+| **Census places + PostGIS** (via Atlas) | Place → county crosswalk behind the 19,513 municipal nodes | `place_county_crosswalk.jsonl` (32,041) | Official (Census) |
+| **Census TIGER 2024 + PostGIS** (via Atlas) | County → congressional/state-leg district area-overlap edges | `county_district_edges.jsonl` (16,328) | Official (Census) |
+| **U.S. Code** — OLRC USLM XML, release point 119-100 | The complete legal corpus: every section of all 53 populated titles | `legal/us/code/**` (59,740) | Official (Office of the Law Revision Counsel) |
+| **U.S. Code, Title 5** (§§ 101, 5312) | The executive-branch node layer — 15 departments + 21 Level I offices | `executive_offices.jsonl` (21) | Derived from official statute |
+| **U.S. Code** (all titles) | The authority axis — § → executive office it empowers | `section_authority_edges.jsonl` (27,804) | Extracted from official statute |
 
 Atlas itself draws from official upstreams — House Clerk XML, Senate.gov XML, OpenStates, Census TIGER/Line geometry, and the Florida Cities partner API — and records the specific upstream in each record's `sources` block. So a Person file's provenance names not just "Atlas" but the document behind the field (e.g. `tenure: House Clerk XML 2026-06-10`).
+
+The **legal corpus** is mirrored directly from the official OLRC USLM XML (no aggregator), pinned at release point 119-100 with per-title manifests and SHA-256 checksums. Pre-v1, the raw `.zip`/`.xml` snapshots live off-repo on the depot (only manifests + checksums are committed); the "raw-first, in-repo" discipline turns on at v1.0 — see the [README](../README.md#the-disciplines--the-v10-target). The **executive nodes and authority edges** are derived deterministically from the Code itself (Title 5's own enumerations, and named-reference extraction across every section) — the mirror mints part of its own structure from the law it holds.
 
 ## Provenance in every record
 

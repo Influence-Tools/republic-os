@@ -48,7 +48,7 @@ The format conforms to the [Open Knowledge Format (OKF)](https://github.com/Goog
 | **Person** | 13,329 | `us/people/`, `us/states/<st>/…/people/` | [person.schema.json](../schemas/person.schema.json) |
 | **Body** | 275 | `us/bodies/…`, `us/executive/…` | [body.schema.json](../schemas/body.schema.json) |
 | **Candidate** | 2,494 | `us/states/<st>/candidates/` | [candidate.schema.json](../schemas/candidate.schema.json) |
-| **Jurisdiction** | 29,908 | county / city `index.md`, `us/states/<st>/districts/` | [jurisdiction.schema.json](../schemas/jurisdiction.schema.json) |
+| **Jurisdiction** | 29,905 | county / city `index.md`, `us/states/<st>/districts/` | [jurisdiction.schema.json](../schemas/jurisdiction.schema.json) |
 | **LegalText** | 11,221 | `legal/us/code/title-<nn>/…` | [legal_text.schema.json](../schemas/legal_text.schema.json) |
 
 - **Person** — an officeholder, filed by the jurisdiction they serve. Federal members are enriched with their bioguide ID, leadership roles, and committee seats.
@@ -99,7 +99,7 @@ The build is deterministic by construction: sorted iteration, a fixed key order,
 
 ## Validation
 
-[`scripts/validate.py`](../scripts/validate.py) checks all 17,506 files with no third-party dependencies:
+[`scripts/validate.py`](../scripts/validate.py) checks all 105,743 files with no third-party dependencies:
 
 1. **OKF conformance** — every file has frontmatter with a non-empty `type`.
 2. **Schema conformance** — required fields, property types, and enums per entity type.

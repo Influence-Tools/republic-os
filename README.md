@@ -8,14 +8,14 @@ Government is already software: statutes are code, agencies are processes, elect
 
 ## What's in here today
 
-105,746 markdown records, every one schema-validated:
+105,743 markdown records, every one schema-validated:
 
 | Entity | Count | What it is |
 |---|---:|---|
 | **Person** | 13,329 | Current officeholders — federal, all 50 state legislatures, and Florida down to the municipal level. Federal members carry their bioguide ID, leadership roles, and committee seats. |
 | **Body** | 275 | The institutions themselves — the U.S. House, the Senate, 49 committees, 181 subcommittees, and now the **executive branch**: the 15 Cabinet departments and the 21 Executive-Schedule Level I offices, minted from the Code's own enumerations (5 U.S.C. §§ 101, 5312). |
 | **Candidate** | 2,494 | Everyone running for federal office in 2026, from FEC filings. |
-| **Jurisdiction** | 29,908 | Every U.S. county (3,131), all 435 congressional districts (Census demographics on 363), every state legislative district (4,927 house, 1,897 senate), and **every incorporated municipality in the country — 19,513 cities, towns, villages, and boroughs** — keyed by Census place GEOID, with officeholders attached where the mirror has them. |
+| **Jurisdiction** | 29,905 | Every U.S. county (3,131), all 435 congressional districts (Census demographics on 363), every state legislative district (4,927 house, 1,897 senate), and **every incorporated municipality in the country — 19,513 cities, towns, villages, and boroughs** — keyed by Census place GEOID, with officeholders attached where the mirror has them. |
 | **LegalText** | 59,740 | **The complete United States Code** — every section of all 53 titles that carry content (Title 53 is reserved), from General Provisions to Wildlife, mirrored section-by-section from the official OLRC USLM XML at release point 119-100 (current through Public Law 119-100). |
 
 And the axes now cross: **27,804 authority edges** link 17,031 U.S. Code sections to the executive offices they empower, so the Attorney General's node lists every one of the 2,386 sections that vests authority in it. Law and power are no longer separate piles.
