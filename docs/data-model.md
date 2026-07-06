@@ -46,13 +46,13 @@ The format conforms to the [Open Knowledge Format (OKF)](https://github.com/Goog
 | `type` | Count | Home | Schema |
 |---|---:|---|---|
 | **Person** | 13,329 | `us/people/`, `us/states/<st>/…/people/` | [person.schema.json](../schemas/person.schema.json) |
-| **Body** | 233 | `us/bodies/…` | [body.schema.json](../schemas/body.schema.json) |
+| **Body** | 275 | `us/bodies/…`, `us/executive/…` | [body.schema.json](../schemas/body.schema.json) |
 | **Candidate** | 2,494 | `us/states/<st>/candidates/` | [candidate.schema.json](../schemas/candidate.schema.json) |
 | **Jurisdiction** | 29,908 | county / city `index.md`, `us/states/<st>/districts/` | [jurisdiction.schema.json](../schemas/jurisdiction.schema.json) |
 | **LegalText** | 11,221 | `legal/us/code/title-<nn>/…` | [legal_text.schema.json](../schemas/legal_text.schema.json) |
 
 - **Person** — an officeholder, filed by the jurisdiction they serve. Federal members are enriched with their bioguide ID, leadership roles, and committee seats.
-- **Body** — an institution: a chamber, committee, or subcommittee. The "repos" of the government-as-code model. Each lists its leadership; subcommittees name their parent.
+- **Body** — an institution: a chamber, committee, subcommittee, or an executive department/agency/office. The "repos" of the government-as-code model. Executive Bodies under `us/executive/` are minted from the Code's own enumerations (5 U.S.C. §§ 101, 5312) and carry the **authority axis** — reciprocal links to the U.S. Code sections that empower them, from `data/section_authority_edges.jsonl`.
 - **Candidate** — someone running for office, distinct from a current officeholder. Sourced from FEC filings.
 - **Jurisdiction** — a place with a government, carrying Census demographics and/or district edges. A county's node is its directory `index.md`; a **city's** is likewise an `index.md` under `municipalities/`, keyed by Census place GEOID and modelled exactly like a county (place + government fused, officeholders nested beneath); a district's is a file under `districts/`.
 - **LegalText** — a single section of statute, filed under its title and chapter. See the [legal corpus](legal-corpus.md).
