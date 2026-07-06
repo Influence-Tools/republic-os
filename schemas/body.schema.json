@@ -7,7 +7,7 @@
   "properties": {
     "type": { "type": "string", "enum": ["Body"] },
     "title": { "type": "string" },
-    "classification": { "type": "string", "enum": ["house", "senate", "executive", "committee", "subcommittee"] },
+    "classification": { "type": "string", "enum": ["house", "senate", "executive", "executive-department", "executive-agency", "executive-office", "committee", "subcommittee"] },
     "chamber": { "type": "string", "enum": ["house", "senate", "joint", "executive"] },
     "code": { "type": "string" },
     "parent": { "type": "string" },

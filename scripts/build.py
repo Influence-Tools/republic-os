@@ -757,6 +757,43 @@ def city_arrays(counties):
 
 
 # --------------------------------------------------------------------------- #
+# Executive branch nodes + the authority axis (§ -> office)
+#
+# The Code empowers the executive branch, but the mirror only had legislative
+# Bodies. These nodes are minted from the Code's own enumerations — 5 U.S.C.
+# §101 (the departments) and §5312 (Executive Schedule Level I, the cabinet-rank
+# officers) — and the section_authority_edges (a committed input from
+# scripts/extract_authority.py) render as reciprocal "empowered by" links here.
+# The 59,740 section files are never touched; the edge lives on the office node.
+# --------------------------------------------------------------------------- #
+
+def exec_body_file(title, classification, code, extra_fm, sources, intro,
+                   auth_header, auth_verb, edges, cap=25):
+    lines = ["type: Body", f"title: {yval(title)}",
+             f"classification: {yval(classification)}",
+             'chamber: "executive"', f"code: {yval(code)}"]
+    lines += extra_fm
+    lines.append("sources:")
+    for field, src in sources:
+        lines += [f"  - field: {field}", f"    source: {yval(src)}"]
+    lines += ["confidence: official",
+              f"tags: [body, executive, {classification}]",
+              f"timestamp: {yval(CONGRESS_DATE)}"]
+    body = [f"# {title}", "", intro, ""]
+    if edges:
+        sample = " A sample:" if len(edges) > cap else ""
+        body += [f"## {auth_header}", "",
+                 f"{len(edges):,} sections of the U.S. Code {auth_verb}.{sample}", ""]
+        for e in edges[:cap]:
+            body.append(f"- [{e['citation']}](/{e['path']})")
+        if len(edges) > cap:
+            body.append(f"- …and {len(edges) - cap:,} more (full set in "
+                        "data/section_authority_edges.jsonl)")
+        body.append("")
+    return "---\n" + "\n".join(lines) + "\n---\n\n" + "\n".join(body).rstrip() + "\n"
+
+
+# --------------------------------------------------------------------------- #
 # main
 # --------------------------------------------------------------------------- #
 
@@ -1011,11 +1048,69 @@ def main():
         n_city += 1
         n_skel += 1
 
+    # ---- executive branch nodes + authority axis (§ -> office) ----
+    exec_offices = load("executive_offices.jsonl")
+    authority = load("section_authority_edges.jsonl")
+    edges_by_target = {}
+    for e in authority:
+        edges_by_target.setdefault(e["target"], []).append(e)
+    for lst in edges_by_target.values():
+        lst.sort(key=lambda e: (e["title"] or 0, e["section"]))
+
+    EXEC = OUT / "us" / "executive"
+    n_exec = 0
+    for r in sorted(exec_offices, key=lambda x: x["slug"]):
+        dept_id = f"us/executive/{r['slug']}"
+        head = r["head"]
+        office_id = f"{dept_id}/{head['slug']}"
+        is_dept = r["kind"] == "department"
+        estab = ("5 U.S.C. § 101 (Executive departments)" if is_dept
+                 else "5 U.S.C. § 5312 (Executive Schedule, Level I)")
+
+        # department / agency node
+        dept_extra = [f"head: {yval(office_id)}"]
+        if r.get("parent"):
+            dept_extra.append(f"parent: {yval(r['parent'])}")
+        if is_dept:
+            intro = (f"Executive department, established by 5 U.S.C. § 101. "
+                     f"Headed by the [{head['name']}](/{office_id}.md).")
+        else:
+            par = (f" It sits within the [Executive Office of the President]"
+                   f"(/{r['parent']}.md)." if r.get("parent") else "")
+            intro = (f"Executive agency. Its head, the [{head['name']}](/{office_id}.md), "
+                     f"is a Level I position in the Executive Schedule (5 U.S.C. § 5312).{par}")
+        (EXEC / r["slug"]).mkdir(parents=True, exist_ok=True)
+        (EXEC / r["slug"] / "index.md").write_text(exec_body_file(
+            title=r["name"], classification="executive-department" if is_dept else "executive-agency",
+            code=f"EXEC-{r['slug'].upper()}", extra_fm=dept_extra,
+            sources=[("definition", estab)], intro=intro,
+            auth_header="Referenced by the U.S. Code",
+            auth_verb=f"reference this {'department' if is_dept else 'agency'}",
+            edges=edges_by_target.get(dept_id, [])), encoding="utf-8")
+
+        # head office node (the position the law empowers)
+        seat = "department" if is_dept else "agency"
+        office_intro = (f"Cabinet-rank office (Executive Schedule Level I, 5 U.S.C. § 5312), "
+                        f"head of the [{r['name']}](/{dept_id}/index.md).")
+        (EXEC / r["slug"] / f"{head['slug']}.md").write_text(exec_body_file(
+            title=head["name"], classification="executive-office",
+            code=f"EXEC-{r['slug'].upper()}-{head['slug'].upper()}",
+            extra_fm=[f"parent: {yval(dept_id)}", 'schedule_level: "I"'],
+            sources=[("definition", "5 U.S.C. § 5312 (Executive Schedule, Level I)")],
+            intro=office_intro,
+            auth_header="Empowered by the U.S. Code",
+            auth_verb="vest authority in this office",
+            edges=edges_by_target.get(office_id, [])), encoding="utf-8")
+        n_exec += 2
+
     print(f"candidate files: {n_cand}   county jurisdictions: {n_county}   "
           f"CD nodes: {n_cd}   state-leg district nodes: {n_sld}   "
           f"county->district edges: {len(county_district_edges)}")
     print(f"city jurisdictions: {n_city}  (filled {n_filled}: {n_resolved} GEOID-resolved; "
           f"skeleton {n_skel}; skipped {n_skipped})")
+    print(f"executive nodes: {n_exec}  (departments/agencies + offices)   "
+          f"authority edges: {len(authority)} across "
+          f"{len({e['section'] for e in authority})} sections")
     print(f"person files: {len(person_files)}  "
           f"(federal enriched: {matched}/{sum(1 for r in officeholders if r['level']=='federal')})")
     print(f"body files: {len(bodies)}  "

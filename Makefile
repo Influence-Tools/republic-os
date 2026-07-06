@@ -1,7 +1,7 @@
 # Republic OS — repeatable pipeline commands.
 # The build is deterministic: `make build` twice yields a byte-identical tree.
 
-.PHONY: build validate board legal-us-code check
+.PHONY: build validate board legal-us-code authority check
 
 build:        ## Regenerate the entity tree from raw exports in data/
 	python3 scripts/build.py
@@ -23,5 +23,8 @@ TITLES ?= 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 2
 
 legal-us-code: ## Ingest the pinned U.S. Code titles (override with TITLES="…")
 	@for t in $(TITLES); do python3 scripts/ingest_us_code.py --title $$t; done
+
+authority: ## Extract the § -> executive-office authority edges (a committed input)
+	python3 scripts/extract_authority.py
 
 check: build validate  ## Build, then validate — the full gate
