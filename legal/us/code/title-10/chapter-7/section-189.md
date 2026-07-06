@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 189"
+description: "Communications Security Review and Advisory Board"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "7"
+chapter_name: "BOARDS, COUNCILS, AND COMMITTEES"
+section: "189"
+citation: "10 U.S.C. § 189"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s189"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "b70b2c9d256b7d831b00910082a9fe4e3dd0318137b37852e50a898385b707c7"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e35f5b9d5e77f993d198312e40cca7db7a79b9d1ea1454bf4d44cadcda91bee7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 189 - Communications Security Review and Advisory Board
+
+## Text
+
+(a) Establishment.— There shall be in the Department of Defense a Communications Security Review and Advisory Board (in this section referred to as the “Board”) to review and assess the communications security, cryptographic modernization, and related key management activities of the Department and provide advice to the Secretary with respect to such activities.
+
+(b) Members.— (1) The Secretary shall determine the number of members of the Board.
+
+(2) The Chief Information Officer of the Department of Defense shall serve as chairman of the Board.
+
+(3) The Secretary shall appoint officers in the grade of general or admiral and civilian employees of the Department of Defense in the Senior Executive Service to serve as members of the Board.
+
+(c) Responsibilities.— The Board shall—
+
+(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 4201 of this title), by—
+
+(A) requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
+
+(B) tracking compliance of each military department with respect to communications security modernization efforts;
+
+(C) validating lifecycle communications security modernization plans for major defense acquisition programs;
+
+(2) validate the need to replace cryptographic equipment based on the expiration dates of the equipment and evaluate the risks of continuing to use cryptographic equipment after such expiration dates;
+
+(3) convene in-depth program reviews for specific cryptographic modernization developments with respect to validating requirements and identifying programmatic risks;
+
+(4) develop a long-term roadmap for communications security to identify potential issues and ensure synchronization with major planning documents; and
+
+(5) advise the Secretary on the cryptographic posture of the Department, including budgetary recommendations.
+
+(d) Exclusion of Certain Programs.— The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 (50 U.S.C. 3003(6))) in carrying out this section.
+
+(Added Pub. L. 113–66, div. A, title II, § 261(a), Dec. 26, 2013, 127 Stat. 724; amended Pub. L. 113–291, div. A, title X, § 1071(f)(4), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 116–283, div. A, title XVIII, § 1846(i)(2), Jan. 1, 2021, 134 Stat. 4252.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Subsec. (c)(1). Pub. L. 116–283 substituted “section 4201” for “section 2430(a)”. 2014—Subsec. (c)(1). Pub. L. 113–291 substituted “2430(a)” for “139c” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

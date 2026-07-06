@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 3319"
+description: "Competitive service; selection using category rating"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "33"
+chapter_name: "EXAMINATION, SELECTION, AND PLACEMENT"
+section: "3319"
+citation: "5 U.S.C. § 3319"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s3319"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "2ce87f9d56e3bfb237b46436e40389ad8930f6b38899fc63269c7c677da29480"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "cef739683027041be8a87128db236b39c3fa286180638731834fe3d55b81081f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 3319 - Competitive service; selection using category rating
+
+## Text
+
+(a) The Office, in exercising its authority under section 3304, or an agency to which the Office has delegated examining authority under section 1104(a)(2), may establish category rating systems for evaluating applicants for positions in the competitive service, under 2 or more quality categories based on merit consistent with regulations prescribed by the Office of Personnel Management, rather than assigned individual numerical ratings.
+
+(b) Within each quality category established under subsection (a), preference-eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at GS–9 of the General Schedule (equivalent or higher), qualified preference-eligibles who have a compensable service-connected disability of 10 percent or more shall be listed in the highest quality category.
+
+(c) Selection.— (1) In general.— An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories.
+
+(2) Use by other appointing officials.— Under regulations prescribed by the Office of Personnel Management, appointing officials other than the appointing official described in paragraph (1) (in this subsection referred to as the “other appointing official”) may select an applicant for an appointment to a position that is—
+
+(A) in the same occupational series as the position for which the certification of eligibles was issued (in this subsection referred to as the “original position”); and
+
+(B) at a similar grade level as the original position.
+
+(3) Applicability.— An appointing authority requesting a certificate of eligibles may share the certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
+
+(4) Requirements.— The selection of an individual under paragraph (2)—
+
+(A) shall be made in accordance with this subsection; and
+
+(B) subject to paragraph (5), may be made without any additional posting under section 3327.
+
+(5) Internal notice.— Before selecting an individual under paragraph (2), and subject to the requirements of any collective bargaining obligation of the other appointing authority (within the meaning given that term in section 3318(b)(1)), the other appointing official shall—
+
+(A) provide notice of the available position to employees of the appointing authority employing the other appointing official;
+
+(B) provide up to 10 business days for employees of the other appointing authority to apply for the position; and
+
+(C) review the qualifications of employees submitting an application.
+
+(6) Preference eligibles.— (A) Satisfaction of certain requirements.— Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of sections 3317(b) and 3318(c), as applicable, are satisfied.
+
+(B) Further consideration not required.— When a preference eligible, for reasons considered sufficient by the Director, or in the case of a preference eligible described in section 3318(c)(1), by the head of an agency, has been passed over in accordance with section 3318(c) for the same position, the appointing authority is not required to give further consideration to that preference eligible while selecting from the same list for a subsequent appointment to such position.
+
+(C) List of eligibles issued from a standing register; discontinuation of certification.— In the case of lists of eligibles issued from a standing register, when an appointing authority, for reasons considered sufficient by the Director or the head of an agency, has three times considered and passed over a preference eligible who was certified from a register, certification of the preference eligible for appointment may be discontinued. However, the preference eligible is entitled to advance notice of discontinuance of certification in accordance with regulations prescribed by the Director.
+
+(d) Each agency that establishes a category rating system under this section shall submit in each of the 3 years following that establishment, a report to Congress on that system including information on—
+
+(1) the number of employees hired under that system;
+
+(2) the impact that system has had on the hiring of veterans and minorities, including those who are American Indian or Alaska Natives, Asian, Black or African American, and native Hawaiian or other Pacific Islanders; and
+
+(3) the way in which managers were trained in the administration of that system.
+
+(e) The Office of Personnel Management may prescribe such regulations as it considers necessary to carry out the provisions of this section.
+
+(Added Pub. L. 107–296, title XIII, § 1312(a)(2), Nov. 25, 2002, 116 Stat. 2290; amended Pub. L. 114–137, § 2(b), Mar. 18, 2016, 130 Stat. 311; Pub. L. 115–232, div. A, title XI, § 1107(b)(1), Aug. 13, 2018, 132 Stat. 2005.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe General Schedule, referred to in subsec. (b), is set out under section 5332 of this title.
+
+Prior ProvisionsA prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to prohibitions on employment of members of same family in the competitive service, prior to repeal by Pub. L. 95–454, title III, § 307(h)(1), title IX, § 907, Oct. 13, 1978, 92 Stat. 1149, 1227, effective 90 days after Oct. 13, 1978.
+
+Amendments2018—Pub. L. 115–232, § 1107(b)(1)(A), substituted “Competitive service; selection using category rating” for “Alternative ranking and selection procedures” in section catchline. Subsec. (c)(6). Pub. L. 115–232, § 1107(b)(1)(B), redesignated par. (7) as (6) and amended it generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied.” Pub. L. 115–232, § 1107(b)(1)(B), struck out par. (6). Text read as follows: “Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.” Subsec. (c)(7). Pub. L. 115–232, § 1107(b)(1)(B), redesignated par. (7) as (6). 2016—Subsec. (c). Pub. L. 114–137 added subsec. (c) and struck out former subsec. (c) which read as follows: “(1) An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories. “(2) Notwithstanding paragraph (1), the appointing official may not pass over a preference-eligible in the same category from which selection is made, unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective on the date, not later than one year after Aug. 13, 2018, on which the Director of the Office of Personnel Management issues final regulations for implementation, see section 1107(d) of Pub. L. 115–232, set out as an Effective Date note under section 3317 of this title.
+
+Effective DateSection effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.

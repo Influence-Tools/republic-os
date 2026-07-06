@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "8 U.S.C. § 1428"
+description: "Temporary absence of persons performing religious duties"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 8
+title_name: "ALIENS AND NATIONALITY"
+chapter_number: "12"
+chapter_name: "IMMIGRATION AND NATIONALITY"
+section: "1428"
+citation: "8 U.S.C. § 1428"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc08@119-100.zip"
+source_identifier: "/us/usc/t8/s1428"
+source_file: "data/legal/raw/us/code/title-08/usc08.xml"
+source_hash: "36778f8cb2712e81f5da37dbb1e6d41a4abf6f9d231072aae11152c065bd67e0"
+raw_snapshot_hash: "18cbd9dd4172ad0473c6dc52e038b813f80124d17167f025c00b9dfa60060a0c"
+text_hash: "ce8defd07d2384e9767437a7f3d9af40ff6567ae7e53e6e739772f6fb386ae74"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 8 U.S.C. § 1428 - Temporary absence of persons performing religious duties
+
+## Text
+
+Any person who is authorized to perform the ministerial or priestly functions of a religious denomination having a bona fide organization within the United States, or any person who is engaged solely by a religious denomination or by an interdenominational mission organization having a bona fide organization within the United States as a missionary, brother, nun, or sister, who (1) has been lawfully admitted to the United States for permanent residence, (2) has at any time thereafter and before filing an application for naturalization been physically present and residing within the United States for an uninterrupted period of at least one year, and (3) has heretofore been or may hereafter be absent temporarily from the United States in connection with or for the purpose of performing the ministerial or priestly functions of such religious denomination, or serving as a missionary, brother, nun, or sister, shall be considered as being physically present and residing in the United States for the purpose of naturalization within the meaning of section 1427(a) of this title, notwithstanding any such absence from the United States, if he shall in all other respects comply with the requirements of the naturalization law. Such person shall prove to the satisfaction of the Attorney General that his absence from the United States has been solely for the purpose of performing the ministerial or priestly functions of such religious denomination, or of serving as a missionary, brother, nun, or sister.
+
+(June 27, 1952, ch. 477, title III, ch. 2, § 317, 66 Stat. 243; Pub. L. 101–649, title IV, § 407(c)(3), (d)(2), Nov. 29, 1990, 104 Stat. 5041.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1990—Pub. L. 101–649, § 407(d)(2), struck out “and the naturalization court” after “Attorney General”. Pub. L. 101–649, § 407(c)(3), substituted “application” for “petition”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
+
+Abolition of Immigration and Naturalization Service and Transfer of Functions For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.

@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 8311"
+description: "Reimbursable agreements"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "109"
+chapter_name: "ANIMAL HEALTH PROTECTION"
+section: "8311"
+citation: "7 U.S.C. § 8311"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s8311"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "5f15f8bdd4a311f7e7251df4a58a6dbd0191234f2f4a61a341b14782c55c49dc"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "efb3b0e308aaf42902433654a1abc930fc59ec8429e014a19295d77fb51f46c1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 8311 - Reimbursable agreements
+
+## Text
+
+(a) Authority to enter into agreements The Secretary may enter into reimbursable fee agreements with persons for preclearance of animals or articles at locations outside the United States for movement into the United States.
+
+(b) Funds collected for preclearance Funds collected for preclearance activities—
+
+(1) may be collected in advance of the provision of such activities;
+
+(2) shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection;
+
+(3) shall remain available until expended;
+
+(4) shall be available for the purposes for which such appropriation, account, or fund is authorized to be used; and
+
+(5) may be collected and shall be available only to the extent provided in appropriations Acts.
+
+(c) Payment of employees (1) In general Notwithstanding any other law, the Secretary may pay an officer or employee of the Department of Agriculture performing services under this chapter relating to imports into and exports from the United States for all overtime, night, or holiday work performed by the officer or employee at a rate of pay determined by the Secretary.
+
+(2) Reimbursement (A) In general The Secretary may require a person for whom the services are performed to reimburse the Secretary for any expenses paid by the Secretary for the services under this subsection.
+
+(B) Use of funds All funds collected under this subsection shall—
+
+(i) be credited to the account that incurs the costs; and
+
+(ii) remain available until expended, without fiscal year limitation.
+
+(d) Late payment penalties (1) Collection On failure by a person to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty against the person, including interest on overdue funds, as required by section 3717 of title 31.
+
+(2) Use of funds Any late payment penalty and any accrued interest shall—
+
+(A) be credited to the account that incurs the costs; and
+
+(B) remain available until expended, without fiscal year limitation.
+
+(Pub. L. 107–171, title X, § 10412, May 13, 2002, 116 Stat. 503; Pub. L. 114–125, title VIII, § 818(b), Feb. 24, 2016, 130 Stat. 222.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (c)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
+Amendments2016—Subsec. (b). Pub. L. 114–125 amended subsec. (b) generally. Prior to amendment, text read as follows: “Funds collected for preclearance activities shall— “(1) be credited to accounts that may be established by the Secretary for carrying out this section; and “(2) remain available until expended for the preclearance activities, without fiscal year limitation.”
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.

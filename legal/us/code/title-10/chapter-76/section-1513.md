@@ -1,0 +1,95 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1513"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "76"
+chapter_name: "MISSING PERSONS"
+section: "1513"
+citation: "10 U.S.C. § 1513"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1513"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "72c341afc899a1364158f42bf2ce1285e6c2bd10f84cc0f124116ee7971e73b0"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "19938e4926a5523191d2bbfb9971ca165e69abf3a57dc6812d2ef147e51b9751"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1513 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) The term “missing person” means—
+
+(A) a member of the armed forces on active duty who is in a missing status; or
+
+(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves in direct support of, or accompanies, the armed forces in the field under orders and who is in a missing status.
+
+Such term includes an unaccounted for person described in subsection (a) of section 1509 of this title who is required by subsection (c) of such section to be considered a missing person.
+
+(2) The term “missing status” means the status of a missing person who is determined to be absent in a category of any of the following:
+
+(A) Missing.
+
+(B) Missing in action.
+
+(C) Interned in a foreign country.
+
+(D) Captured.
+
+(E) Beleaguered.
+
+(F) Besieged.
+
+(G) Detained in a foreign country against that person’s will.
+
+(3) The term “accounted for”, with respect to a person in a missing status, means that—
+
+(A) the person is returned to United States control alive;
+
+(B) the remains of the person are recovered to the extent practicable and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
+
+(C) credible evidence exists to support another determination of the person’s status.
+
+(4) The term “primary next of kin”, in the case of a missing person, means the individual authorized to direct disposition of the remains of the person under section 1482(c) of this title.
+
+(5) The term “member of the immediate family”, in the case of a missing person, means the following:
+
+(A) The spouse of the person.
+
+(B) A natural child, adopted child, stepchild, or illegitimate child (if acknowledged by the person or parenthood has been established by a court of competent jurisdiction) of the person, except that if such child has not attained the age of 18 years, the term means a surviving parent or legal guardian of such child.
+
+(C) A biological parent of the person, unless legal custody of the person by the parent has been previously terminated by reason of a court decree or otherwise under law and not restored.
+
+(D) A brother or sister of the person, if such brother or sister has attained the age of 18 years.
+
+(E) Any other blood relative or adoptive relative of the person, if such relative was given sole legal custody of the person by a court decree or otherwise under law before the person attained the age of 18 years and such custody was not subsequently terminated before that time.
+
+(6) The term “previously designated person”, in the case of a missing person, means an individual designated by the person under section 655 of this title for purposes of this chapter.
+
+(7) The term “classified information” means any information the unauthorized disclosure of which (as determined under applicable law and regulations) could reasonably be expected to damage the national security.
+
+(8) The term “theater component commander” means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.
+
+(9) The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in section 1501(c) of this title who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.
+
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 350; amended Pub. L. 104–201, div. A, title V, § 578(a)(4), (b)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(4), (b)(2), Nov. 18, 1997, 111 Stat. 1768; Pub. L. 106–65, div. A, title X, § 1066(a)(15), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, § 541(c), Oct. 28, 2009, 123 Stat. 2298; Pub. L. 113–66, div. A, title V, § 582(b), Dec. 26, 2013, 127 Stat. 776; Pub. L. 113–291, div. A, title X, § 1071(f)(15), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–328, div. A, title IX, § 953(c), Dec. 23, 2016, 130 Stat. 2376.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2016—Par. (3)(B). Pub. L. 114–328 inserted “to the extent practicable” after “are recovered”. 2014—Par. (1). Pub. L. 113–291 substituted “subsection (c)” for “subsection (b)” in concluding provisions. 2013—Par. (9). Pub. L. 113–66 added par. (9). 2009—Par. (1). Pub. L. 111–84 substituted “subsection (a) of section 1509 of this title who is required by subsection (b) of such section” for “section 1509(b) of this title who is required by section 1509(a)(1) of this title” in concluding provisions. 1999—Par. (1). Pub. L. 106–65 substituted “who is required by section 1509(a)(1) of this title to be considered a missing person” for “, under the circumstances specified in the last sentence of section 1509(a) of this title” in concluding provisions. 1997—Par. (1). Pub. L. 105–85, § 599(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘missing person’ means a member of the armed forces on active duty who is in a missing status.” Par. (8). Pub. L. 105–85, § 599(b)(2), added par. (8). 1996—Par. (1). Pub. L. 104–201, § 578(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘missing person’ means— “(A) a member of the Armed Forces on active duty who is in a missing status; or “(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves with or accompanies the Armed Forces in the field under orders and who is in a missing status.” Par. (8). Pub. L. 104–201, § 578(b)(3), struck out par. (8) which read as follows: “The term ‘theater component commander’ means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.”

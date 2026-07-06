@@ -1,0 +1,73 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3322"
+description: "Cost contracts"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "242"
+chapter_name: "SPECIFIC TYPES OF CONTRACTS"
+section: "3322"
+citation: "10 U.S.C. § 3322"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3322"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "6fdbcdec5f36ece63821300a6da9eff576708205e7d56b3e691d4bb1aa909fdb"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "577721e98730631d19436c3e8e1d3410e63a97b6b01aa505dad3264629bb8a44"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3322 - Cost contracts
+
+## Text
+
+(a) Cost-plus-a-percentage-of-cost System of Contracting Prohibited.— The cost-plus-a-percentage-of-cost system of contracting may not be used.
+
+(b) Cost-plus-a-fixed-fee Contracts.— The fee for performing a cost-plus-a-fixed-fee contract for experimental, developmental, or research work may not be more than 15 percent of the estimated cost of the contract, not including the fee. The fee for performing a cost-plus-a-fixed-fee contract for architectural or engineering services for a public work or utility plus the cost of those services to the contractor may not be more than 6 percent of the estimated cost of that work or project, not including fees. The fee for performing any other cost-plus-a-fixed-fee contract may not be more than 10 percent of the estimated cost of the contract, not including the fee. Determinations under this subsection of the estimated costs of a contract or project shall be made by the head of the agency at the time the contract is made.
+
+(c) Advance Notice of Certain Subcontracts.— (1) In general.— Except as provided in paragraph (2), each cost contract and each cost-plus-a-fixed-fee contract shall provide for notice to the agency by the contractor before the making, under the prime contract, of—
+
+(A) a cost-plus-a-fixed-fee subcontract; or
+
+(B) a fixed-price subcontract or purchase order involving more than the greater of (i) the simplified acquisition threshold, or (ii) 5 percent of the estimated cost of the prime contract.
+
+(2) Exception.— Paragraph (1) shall not apply to a prime contract with a contractor that maintains a purchasing system approved by the contracting officer for the contract.
+
+(d) Limitation on Certain Options.— (1) In general.— Except as provided by paragraph (2), a covered contract shall limit the number of low-rate production lots for any production quantities procured using fixed-priced options under such covered contract to not more than one.
+
+(2) Waiver.— (A) In general.— The service acquisition executive of the military department concerned or, in the case of program that is a joint program, the Secretary of Defense may waive the limit required under paragraph (1) with respect to the number of low-rate production lots for a production quantity under a covered contract if such service acquisition executive or the Secretary of Defense, as applicable, determines that such waiver is in the best interest of the Department of Defense.
+
+(B) Delegation limit.— Neither a service acquisition executive nor the Secretary of Defense may delegate the authority under subparagraph (A) to waive the limit required under paragraph (1) below the level of a service acquisition executive.
+
+(3) Definitions.— In this subsection:
+
+(A) The term “covered contract” means a cost reimbursement contract for the development of a major system.
+
+(B) The term “low-rate initial production” has the same meaning as in section 4231 of this title.
+
+(C) The term “major system” has the meaning given such term in section 3041 of this title.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1817(a), (c), (e), (f), Jan. 1, 2021, 134 Stat. 4186, 4187; Pub. L. 118–159, div. A, title VIII, § 802(a), Dec. 23, 2024, 138 Stat. 1965.)
+
+## Notes
+
+Editorial Notes
+
+Codification For derivation of subsec. (a) of this section, see Codification note related to subsec. (a) of section 2306 of this title set out under section 3321 of this title. The text of subsec. (d) of section 2306 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1817(e), (f)(2), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131. The text of subsec. (e) of section 2306 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1817(e), (f)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 98–369, div. B, title VII, § 2724, July 18, 1984, 98 Stat. 1193; Pub. L. 102–25, title VII, § 701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title IV, 4401(c), Oct. 13, 1994, 108 Stat. 3348; Pub. L. 108–136, div. A, title VIII, § 842, Nov. 24, 2003, 117 Stat. 1552.
+
+Amendments2024—Subsec. (d). Pub. L. 118–159 added subsec. (d). 2021—Subsec. (a). Pub. L. 116–283, § 1817(c), (f)(1), transferred first sentence of subsec. (a) of section 3321 of this title to this section, designated it as subsec. (a), and inserted heading. Subsec. (b). Pub. L. 116–283, § 1817(e), (f)(2), redesignated subsec. (d) of section 2306 of this title as subsec. (b) of this section and inserted heading. Subsec. (c). Pub. L. 116–283, § 1817(e), (f)(3), redesignated subsec. (e) of section 2306 of this title as subsec. (c) of this section, inserted subsec. and par. headings, and realigned margin of par. (2).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+Conforming RegulationsPub. L. 118–159, div. A, title VIII, § 802(b), Dec. 23, 2024, 138 Stat. 1965, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to implement subsection (d) of section 3322 of title 10, United States Code, as added by subsection (a) of this section.”

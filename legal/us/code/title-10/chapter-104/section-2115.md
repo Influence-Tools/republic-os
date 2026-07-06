@@ -1,0 +1,41 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2115"
+description: "Graduates: limitation on number permitted to perform civilian Federal service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "104"
+chapter_name: "UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCIENCES"
+section: "2115"
+citation: "10 U.S.C. § 2115"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2115"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "f5feb312f08fa45b97bfea22a1cfaa87c9e4c9d4e9fe521b408daee364c16b76"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "a44981e45e512f91e3dd857571cf9fca200b062eb305156cfbba44d0275e474e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2115 - Graduates: limitation on number permitted to perform civilian Federal service
+
+## Text
+
+The Secretary of Defense may allow not more than 20 percent of the graduates of each class at the University to perform civilian Federal service for not less than seven years following the completion of their professional education in lieu of active duty in a uniformed service if the needs of the uniformed services do not require that such graduates perform active duty in a uniformed service and as long as the Secretary of Defense does not recall such persons to active duty in the uniformed services. Such persons who execute an agreement in writing to perform such civilian Federal service may be released from active duty following the completion of their professional education. The location and type of their duty shall be determined by the Secretary of Defense after consultation with the heads of Federal agencies concerned.
+
+(Added Pub. L. 92–426, § 2(a), Sept. 21, 1972, 86 Stat. 716; amended Pub. L. 96–107, title VIII, § 803(c)(1), (2), Nov. 9, 1979, 93 Stat. 812.)
+
+## Notes
+
+Editorial Notes
+
+Amendments1979—Pub. L. 96–107, § 803(c)(2), substituted “permitted” for “electing” and “service” for “duty” in section catchline. Pub. L. 96–107, § 803(c)(1), substituted provisions respecting authority of the Secretary of Defense to allow graduates to perform civilian Federal service and the execution of agreements for such service as prerequisites for release from active duty following completion of education, for provisions relating to limitations on the number of graduates electing to perform civilian Federal duty, agreements respecting such service, and release from active duty upon completion of their education.

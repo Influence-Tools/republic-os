@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1095f"
+description: "TRICARE program: referrals and preauthorizations under TRICARE Prime"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "55"
+chapter_name: "MEDICAL AND DENTAL CARE"
+section: "1095f"
+citation: "10 U.S.C. § 1095f"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1095f"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "9321c020d02ccd98e3a52d11eb7fe799a16cb1de3f4797ad010d572937ff2504"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "b3ea7d7bdf200ae2387018aaae60a93f016d325c396c995286ab6668e6295c15"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1095f - TRICARE program: referrals and preauthorizations under TRICARE Prime
+
+## Text
+
+(a) Referrals.— (1) Except as provided by paragraph (2), a beneficiary enrolled in TRICARE Prime shall be required to obtain a referral for care through a designated primary care manager (or other care coordinator) prior to obtaining care under the TRICARE program.
+
+(2) (A) The Secretary may waive the referral requirement in paragraph (1) in such circumstances as the Secretary may establish for purposes of this subsection.
+
+(B) The Secretary shall waive the referral requirement in paragraph (1) in the case of a member of the armed forces serving on active duty who seeks to obtain any of the following kinds of care in a military medical treatment facility:
+
+(i) Physical therapy.
+
+(ii) Nutritional.
+
+(iii) Audiological.
+
+(iv) Optometric.
+
+(v) Podiatric.
+
+(3) The cost-sharing amounts for a beneficiary enrolled in TRICARE Prime who does not obtain a referral for care under paragraph (1) (or a waiver pursuant to paragraph (2) for such care) shall be determined under section 1075a(c) of this title.
+
+(b) Preauthorization.— A beneficiary enrolled in TRICARE Prime shall be required to obtain preauthorization only with respect to a referral for the following:
+
+(1) Inpatient hospitalization.
+
+(2) Inpatient care at a skilled nursing facility.
+
+(3) Inpatient care at a rehabilitation facility.
+
+(4) Inpatient care at a residential treatment center.
+
+(c) Prohibition Regarding Prior Authorization for Certain Referrals.— The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.
+
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 728(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–189; amended Pub. L. 114–328, div. A, title VII, § 701(c), Dec. 23, 2016, 130 Stat. 2186; Pub. L. 115–91, div. A, title VII, § 739(e)(1), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 118–159, div. A, title VII, § 703, Dec. 23, 2024, 138 Stat. 1942.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a)(2). Pub. L. 118–159 designated existing provisions as subpar. (A) and added subpar. (B). 2017—Subsec. (b)(4). Pub. L. 115–91 added par. (4). 2016—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows: “The Secretary of Defense shall ensure that no contract for managed care support under the TRICARE program includes any requirement that a managed care support contractor require a primary care or specialty care provider to obtain prior authorization before referring a patient to a specialty care provider that is part of the network of health care providers or institutions of the contractor.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentAmendment by Pub. L. 114–328 applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, see section 701(k) of Pub. L. 114–328, set out as a note under section 1072 of this title.
+
+Effective DatePub. L. 106–398, § 1 [[div. A], title VII, § 728(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–189, provided that: “Section 1095f of title 10, United States Code, as added by subsection (a), shall apply with respect to a TRICARE managed care support contract entered into by the Department of Defense after the date of the enactment of this Act [Oct. 30, 2000].”
+
+Streamlining of TRICARE Prime Beneficiary Referral ProcessPub. L. 115–232, div. A, title VII, § 714, Aug. 13, 2018, 132 Stat. 1812, as amended by Pub. L. 117–263, div. A, title VII, § 703(a), Dec. 23, 2022, 136 Stat. 2647, provided that: “(a) In General.—The Secretary of Defense shall streamline the process under section 1095f of title 10, United States Code, by which beneficiaries enrolled in TRICARE Prime are referred to the civilian provider network for inpatient or outpatient care under the TRICARE program. “(b) Objectives.—In carrying out the requirement in subsection (a), the Secretary shall meet the following objectives:“(1) The referral process shall model best industry practices for referrals from primary care managers to specialty care providers. “(2) The process shall limit administrative requirements for enrolled beneficiaries. “(3) Beneficiary preferences for communications relating to appointment referrals using state-of-the-art information technology shall be used to expedite the process. “(4) There shall be effective and efficient processes to determine the availability of appointments at military medical treatment facilities and, when unavailable, to make prompt referrals to network providers under the TRICARE program. “(c) Deadline for Implementation.—The requirement in subsection (a) shall be implemented for referrals under TRICARE Prime in calendar year 2019. “(d) Evaluation and Improvement.—After 2019, the Secretary shall—“(1) evaluate the referral process described in subsection (a) not less often than annually; and “(2) make appropriate improvements to the process in light of such evaluations. “(e) Improvement of Specialty Care Referrals During Permanent Changes of Station.—In conducting evaluations and improvements under subsection (d) to the referral process described in subsection (a), the Secretary shall ensure beneficiaries enrolled in TRICARE Prime who are undergoing a permanent change of station receive referrals from their primary care manager to such specialty care providers in the new location as the beneficiary may need before undergoing the permanent change of station. “(f) Definitions.—In this section, the terms ‘TRICARE program’ and ‘TRICARE Prime’ have the meaning given such terms in section 1072 of title 10, United States Code.”

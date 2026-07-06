@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 8525"
+description: "Effect on other statutes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "85"
+chapter_name: "UNEMPLOYMENT COMPENSATION"
+section: "8525"
+citation: "5 U.S.C. § 8525"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s8525"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "0439345fd9020764fbb13e372d603cb20bc8dfdaa165d5bd8f41509b71357840"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "727955d58798e4f6239bb5ba36fd1201e3364e54f2c36c2b6146f8afe4c5584a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 8525 - Effect on other statutes
+
+## Text
+
+(a) Subsection (b)(2) does not apply to an individual who—
+
+(1) is otherwise entitled to compensation under this subchapter;
+
+(2) is described in section 3311(b) of title 38;
+
+(3) is not receiving retired pay under title 10; and
+
+(4) was discharged or released from service in the Armed Forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration (including through a reduction in force) under honorable conditions, but did not voluntarily separate from such service.
+
+(b) An individual is not entitled to compensation under this subchapter for any period with respect to which the individual receives—
+
+(1) a subsistence allowance under chapter 31 of title 38 or under part VIII of Veterans Regulation Numbered 1(a);
+
+(2) except in the case of an individual described in subsection (a), an educational assistance allowance under chapter 33 of title 38; or
+
+(3) an educational assistance allowance under chapter 35 of title 38.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 90–83, § 1(90), Sept. 11, 1967, 81 Stat. 219; Pub. L. 114–92, div. A, title V, § 560, Nov. 25, 2015, 129 Stat. 828.)
+
+## Notes
+
+Historical and Revision Notes 1966 Act DerivationU.S. CodeRevised Statutes andStatutes at Large  42 U.S.C. 1371(g)–(i).Aug. 28, 1958, Pub. L. 85–848, § 3 “Sec. 1511 (g)–(i)”, 72 Stat. 1089.Sept. 2, 1958, Pub. L. 85–857, § 13(i)(3), 72 Stat. 1265. In subsection (b), the words “an education and training allowance under subsection (a), (b), (c), or (d) of section 1632 of title 38” are omitted as obsolete. The authority to pay an education and training allowance under section 1632 of title 38 terminated on January 31, 1965, pursuant to section 1613(a) of title 38. Section 1371(i) of title 42, providing that certain individuals are not entitled to unemployment compensation under the provisions of subchapter I of chapter 41 of title 38, is omitted as obsolete. Subchapter I of chapter 41 of title 38, which related to unemployment compensation for Korean conflict veterans, was repealed by the Act of Sept. 19, 1962, Pub. L. 87–675, 76 Stat. 558. Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+1967 ActThis section deletes subsection (a) of 5 U.S.C. 8525. That subsection is now obsolete in view of the repeal, effective July 1, 1966, of chapter 43 of title 38, U.S.C., by Public Law 89–50, section 1(a) (79 Stat. 173).
+
+Editorial Notes
+
+Amendments2015—Subsec. (a). Pub. L. 114–92, § 560(b), added subsec. (a). Subsec. (b). Pub. L. 114–92, § 560(a)(1), substituted “the individual receives” for “he receives” in introductory provisions. Subsec. (b)(2), (3). Pub. L. 114–92, § 560(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3).

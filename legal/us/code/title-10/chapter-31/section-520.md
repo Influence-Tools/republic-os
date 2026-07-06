@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 520"
+description: "Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "31"
+chapter_name: "ENLISTMENTS"
+section: "520"
+citation: "10 U.S.C. § 520"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s520"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "84d2bf2f1b5c6f7c8e368214826342263d1c5ed6258115eb578844b44392bdcc"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e03a0dc53bc5dbb30b174f224bf0fd487d24c9bc2b172ca0232324b92037c721"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 520 - Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level
+
+## Text
+
+(a) (1) The number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in any armed force during any fiscal year whose score on the Armed Forces Qualification Test is at or above the tenth percentile and below the thirty-first percentile may not exceed 4 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year.
+
+(2) Upon the request of the Secretary concerned, the Secretary of Defense may authorize an armed force to increase the limitation specified in paragraph (1) to not exceed 20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year. The Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives not later than 30 days after using such authority.
+
+(b) A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
+
+(Added Pub. L. 96–342, title III, § 302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, § 9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, § 402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, § 1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, § 1(a)(1), July 19, 1988, 102 Stat. 840; Pub. L. 118–31, div. A, title V, § 542, Dec. 22, 2023, 137 Stat. 264; Pub. L. 118–159, div. A, title XVII, § 1701(a)(12), Dec. 23, 2024, 138 Stat. 2203.)
+
+## Notes
+
+Historical and Revision Notes
+
+1988 ActAmendment of subsection (b) is based on Pub. L. 93–307, title IV, § 401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, § 705, Aug. 5, 1974, 88 Stat. 406.
+
+Editorial Notes
+
+Amendments2024—Subsec. (a)(2). Pub. L. 118–159 substituted “armed force” for “armed forced”. 2023—Subsec. (a). Pub. L. 118–31 designated existing provisions as par. (1), substituted “may not exceed 4 percent” for “may not exceed 20 percent”, and added par. (2). 1988—Subsec. (b). Pub. L. 100–370 inserted before period at end “; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements”. 1983—Subsec. (a). Pub. L. 98–94 struck out provisions under which, for fiscal years beginning on October 1, 1980, and October 1, 1981, the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in the armed forces during such fiscal years whose score on the Armed Forces Qualification Test was at or above the tenth percentile and below the thirty-first percentile could not exceed 25 percent of the number of such persons enlisted or inducted into the armed forces during such fiscal years, and, in the provisions remaining applicable to fiscal years beginning after Sept. 30, 1982, substituted “20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force” for “20 percent of the number of such persons enlisted or inducted into such armed force”. 1981—Pub. L. 97–86 designated existing provisions as subsec. (a) and added subsec. (b). 1980—Pub. L. 96–579 struck out subsec. (a) designation and subsec. (b) authorizing the Secretary of Defense for national security reasons to waive the enlistment and induction limitation based on percentile limits conditioned upon notification of the Congress and a concurrent resolution of approval.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1981 AmendmentPub. L. 97–86, title IV, § 402(b)(2), Dec. 1, 1981, 95 Stat. 1105, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 1, 1981].”
+
+Future Servicemember Preparatory CoursePub. L. 118–31, div. A, title V, § 546, Dec. 22, 2023, 137 Stat. 266, as amended by Pub. L. 118–159, div. A, title V, § 531, Dec. 23, 2024, 138 Stat. 1886; Pub. L. 119–60, div. A, title V, § 534, Dec. 18, 2025, 139 Stat. 870, provided that: “(a) Requirement.—If the number of nonprior service enlisted personnel covered under section 520 of title 10, United States Code, exceeds 10 percent of the total number of persons originally enlisted in an Armed Force during a fiscal year, the Secretary concerned shall establish a future servicemember preparatory course within the Armed Force concerned. “(b) Purpose.—The course established under subsection (a) shall be designed to improve the physical and aptitude qualifications of military recruits. “(c) Criteria.—Each course established under this section shall comply with the following requirements:“(1) Enrollment.—All nonprior service enlisted persons whose score on the Armed Forces Qualification Test is below the thirty-first percentile must be enrolled in the course prior to attending initial basic training. “(2) Graduation requirement.—Prior to attending initial basic training, all enlisted persons attending the course established under this section must achieve a score on the Armed Forces Qualification Test that is—“(A) at least 10 points higher than the individual’s most recent score taken prior to the individual’s date of enlistment; or “(B) no longer subject to the restrictions of section 520 of title 10, United States Code. “(3) Effect of course failure.—Any enlisted person who fails to achieve meaningful progress, as determined by the Secretary concerned, within 90 days of enlistment shall be separated under regulations prescribed by the Secretary concerned. “(4) Effect of course graduation.—The Secretary concerned may exclude from the population to be considered for purposes of determining the percentage limitations imposed by section 520(a) of title 10, United States Code, any enlisted person who has graduated from a future servicemember preparatory course established pursuant to this section with a score on the Armed Forces Qualification Test that is at or above the thirty-first percentile, provided that—“(A) the Armed Forces Qualifications Test score that is at or above the thirty-first percentile is obtained within the same fiscal year in which the individual was originally enlisted to serve on active duty; and “(B) such score is obtained during the period the individual was originally enlisted to serve on active duty, as determined by the Secretary concerned. “(d) Report.—If a preparatory course under this section is established by the Secretary concerned, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the structure and results of the course for the preceding fiscal year by December 1st of the subsequent fiscal year. The report shall include the following elements:“(1) The percentage of nonprior service enlisted persons who scored below the thirty-first percentile on the Armed Forces Qualification Test upon original enlistment. “(2) The percentage of nonprior service enlisted persons who scored below the thirty-first percentile on the Armed Forces Qualification Test following graduation from the preparatory course or subsequent reclassification, as applicable. “(3) The number of individuals who attended the preparatory course. “(4) The number of individuals who graduated the preparatory course. “(5) The average improvement in the Armed Forces Qualification Test score for individuals who graduated from the preparatory course. “(6) The determination of the Secretary regarding the effectiveness of the preparatory course. “(7) Recommendations of the Secretary regarding—“(A) how to improve the preparatory course; “(B) whether to expand the preparatory course. “(8) Any other matter the Secretary determines relevant. “(e) Sunset.—The requirements of this section shall expire on September 30th, 2028.”
+
+Pilot Program for Treating GED and Home School Diploma Recipients as High School Graduates for Determinations of Eligibility for Enlistment in Armed ForcesPub. L. 105–261, div. A, title V, § 571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to establish a pilot program during the period Oct. 1, 1998, to Sept. 30, 2003, to assess whether the Armed Forces could better meet recruiting requirements by treating GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining eligibility of those persons to enlist in the Armed Forces, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004.
+
+Maximum Number of Army Enlistees and Inductees Who Are Not High School GraduatesPub. L. 96–342, title III, § 302(a), Sept. 8, 1980, 94 Stat. 1082, as amended by Pub. L. 97–86, title IV, § 402(a), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 97–252, title IV, § 403, Sept. 8, 1982, 96 Stat. 725; Pub. L. 98–94, title IV, § 402, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title IV, § 402, Oct. 19, 1984, 98 Stat. 2516; Pub. L. 99–145, title IV, § 402, Nov. 8, 1985, 99 Stat. 618, provided that the number of male individuals enlisted or inducted into the Army during the fiscal year beginning on Oct. 1, 1985, who were not high school graduates could not exceed, as of Sept. 30, 1986, 35 percent of all male individuals enlisted or inducted into the Army during such fiscal year.
+
+Denial of Enlistment for Lack of High School Diploma ProhibitedPub. L. 93–307, title IV, § 401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, § 705, Aug. 5, 1974, 88 Stat. 406, which provided that no volunteer for enlistment into the Armed Forces shall be denied enlistment solely because of his not having a high school diploma when his enlistment is needed to meet established strength requirements, was repealed and restated in sections 520(b) and 3262 of this title by Pub. L. 100–370, § 1(a), July 19, 1988, 102 Stat. 840.

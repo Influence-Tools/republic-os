@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3222"
+description: "Independent cost estimate required before approval"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "222"
+chapter_name: "INDEPENDENT COST ESTIMATION AND COST ANALYSIS"
+section: "3222"
+citation: "10 U.S.C. § 3222"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3222"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "b25b4227a1c4a7ae4d5c7c397c20ec1551183aaa1fc56b0c0c05a7db0ccb039d"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "2a93f5ca9b57768efaf5bcf05c5cf0e9268560cccf0aa2519d12f5e13cf7e737"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3222 - Independent cost estimate required before approval
+
+## Text
+
+(a) Requirement.— A milestone decision authority may not approve entering the engineering and manufacturing development phase, or production and deployment phase, of a major defense acquisition program or major subprogram unless an independent cost estimate has been conducted or approved by the Director of Cost Assessment and Program Evaluation and considered by the milestone decision authority that includes a cost estimate of the full life-cycle cost of the program or subprogram.
+
+(b) Regulations.— The regulations governing the content and submission of independent cost estimates required by section 3221 of this title shall require that the independent cost estimate of the full life-cycle cost of a program or subprogram include—
+
+(1) all costs of development, procurement, military construction, operations and support, and trained manpower to operate, maintain, and support the program or subprogram upon full operational deployment, without regard to funding source or management control; and
+
+(2) an analysis to support decisionmaking that identifies and evaluates alternative courses of action that may reduce cost and risk, and result in more affordable programs and less costly systems.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (c), Jan. 1, 2021, 134 Stat. 4174, 4175; Pub. L. 118–159, div. A, title VIII, § 806(b)(3), Dec. 23, 2024, 138 Stat. 1974.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of subsec. (b) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(c), was based on Pub. L. 114–328, div. A, title VIII, § 842(a)(4), Dec. 23, 2016, 130 Stat. 2288.
+
+Prior ProvisionsA prior section 3222, act Aug. 10, 1956, ch. 1041, 70A Stat. 176; Pub. L. 96–513, title V, § 502(7), Dec. 12, 1980, 94 Stat. 2909, related to authorized strength of Army Reserve, exclusive of members on active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12002(a) of this title.
+
+Amendments2024—Subsec. (a). Pub. L. 118–159, § 806(b)(3)(B), which directed substitution of “authority that includes a cost estimate” for “authority that—” in introductory provisions, par. (1), and “(2) for the for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, was executed by making the substitution for “authority that—” in introductory provisions, par. (1), and “(2) for the engineering and manufacturing development phase, or production and deployment phase, includes a cost estimate”, to reflect the probable intent of Congress. Pub. L. 118–159, § 806(b)(3)(A), substituted “the engineering and manufacturing development phase, or production and deployment phase,” for “a milestone phase” in introductory provisions. 2021—Subsec. (a). Pub. L. 116–283, § 1812(c)(1), (2)(A), (D), redesignated subsec. (b) of section 2334 of this title as subsec. (a) of this section, substituted “Requirement” for “Independent Cost Estimate Required Before Approval” in heading, struck out par. (1) designation before “A milestone”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Subsec. (b). Pub. L. 116–283, § 1812(c)(2)(B)–(D), redesignated subsec. (a)(2) as (b), inserted heading, substituted “section 3221 of this title” for “subsection (a)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

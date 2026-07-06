@@ -1,0 +1,99 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 829"
+description: "Art. 29. Assembly and impaneling of members; detail of new members and military judges"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "47"
+chapter_name: "UNIFORM CODE OF MILITARY JUSTICE"
+section: "829"
+citation: "10 U.S.C. § 829"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s829"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "f3ead654f9bffc49dda0f48fad5868fc7c7c2db26b9212ba2f214892da23117a"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "2adc56ba6cdcadae3ca0cba65fced1675b2507ae1ac0cf109eacdc39a71e010b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 829 - Art. 29. Assembly and impaneling of members; detail of new members and military judges
+
+## Text
+
+(a) Assembly.— The military judge shall announce the assembly of a general or special court-martial with members. After such a court-martial is assembled, no member may be absent, unless the member is excused—
+
+(1) as a result of a challenge;
+
+(2) under subsection (b)(1)(B); or
+
+(3) by order of the military judge or the convening authority for disability or other good cause.
+
+(b) Impaneling.— (1) Under rules prescribed by the President, the military judge of a general or special court-martial with members shall—
+
+(A) after determination of challenges, impanel the court-martial; and
+
+(B) excuse the members who, having been assembled, are not impaneled.
+
+(2) In a general court-martial, the military judge shall impanel—
+
+(A) 12 members in a capital case; and
+
+(B) eight members in a noncapital case.
+
+(3) In a special court-martial, the military judge shall impanel four members.
+
+(c) Alternate Members.— In addition to members under subsection (b), the military judge shall impanel alternate members, if the convening authority authorizes alternate members.
+
+(d) Detail of New Members.— (1) If, after members are impaneled, the membership of the court-martial is reduced to—
+
+(A) fewer than 12 members with respect to a general court-martial in a capital case;
+
+(B) fewer than six members with respect to a general court-martial in a noncapital case; or
+
+(C) fewer than four members with respect to a special court-martial;
+
+the trial may not proceed unless the convening authority details new members and, from among the members so detailed, the military judge impanels new members sufficient in number to provide the membership specified in paragraph (2).
+
+(2) The membership referred to in paragraph (1) is as follows:
+
+(A) 12 members with respect to a general court-martial in a capital case.
+
+(B) At least six but not more than eight members with respect to a general court-martial in a noncapital case.
+
+(C) Four members with respect to a special court-martial.
+
+(e) Detail of New Military Judge.— If the military judge is unable to proceed with the trial because of disability or otherwise, a new military judge shall be detailed to the court-martial.
+
+(f) Evidence.— (1) In the case of new members under subsection (d), the trial may proceed with the new members present after the evidence previously introduced is read or, in the case of audiotape, videotape, or similar recording, is played, in the presence of the new members, the military judge, the accused, and counsel for both sides.
+
+(2) In the case of a new military judge under subsection (e), the trial shall proceed as if no evidence had been introduced, unless the evidence previously introduced is read or, in the case of audiotape, videotape, or similar recording, is played, in the presence of the new military judge, the accused, and counsel for both sides.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 47; Pub. L. 90–632, § 2(11), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 98–209, § 3(d), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 107–107, div. A, title V, § 582(c), Dec. 28, 2001, 115 Stat. 1124; Pub. L. 114–328, div. E, title LV, § 5187, Dec. 23, 2016, 130 Stat. 2902.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 829(a)829(b)50:593(a).50:593(b).May 5, 1950, ch. 169, § 1 (Art. 29), 64 Stat. 117. 829(c)50:593(c). In subsections (a), (b), and (c), the word “may” is substituted for the word “shall”. In subsections (b) and (c), the word “details” is substituted for the word “appoints”, since the filling of the position involved is not appointment to an office in the constitutional sense.
+
+Editorial Notes
+
+Amendments2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to absent and additional members of a general or special court-martial. 2001—Subsec. (b). Pub. L. 107–107 designated existing provisions as par. (1), substituted “the applicable minimum number of members” for “five members” in two places, and added par. (2). 1983—Subsec. (a). Pub. L. 98–209 substituted “unless excused as a result of a challenge, excused by the military judge for physical disability or other good cause, or excused by order of the convening authority for good cause” for “except for physical disability or as a result of a challenge or by order of the convening authority for good cause”. 1968—Subsec. (a). Pub. L. 90–632, § 2(11)(A), substituted “court has been assembled for the trial of the accused” for “accused has been arraigned”. Subsec. (b). Pub. L. 90–632, § 2(11)(B), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and inserted provisions requiring that only the evidence which has been introduced before members of the court be read to the court and that all evidence, not merely testimony, be included. Subsec. (c). Pub. L. 90–632, § 2(11)(C), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and substituted evidence previously introduced for testimony of previously examined witnesses as the body of evidence which the verbatim record must cover. Subsec. (d) Pub. L. 90–632, § 2(11)(D), added subsec. (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentAmendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
+
+Effective Date of 2001 AmendmentAmendment by Pub. L. 107–107 applicable with respect to offenses committed after Dec. 31, 2002, see section 582(d) of Pub. L. 107–107, set out as a note under section 816 of this title.
+
+Effective Date of 1983 AmendmentAmendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as a note under section 801 of this title.
+
+Effective Date of 1968 AmendmentAmendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.

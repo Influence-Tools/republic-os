@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 5502"
+description: "Missile Defense Agency"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "551"
+chapter_name: "MISSILE DEFENSE"
+section: "5502"
+citation: "10 U.S.C. § 5502"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s5502"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "3e8a0ffa8db6c0cc9ced9c0a83a772ecbcd4f602faf31ba9d8e6372b98677d6e"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "ab6593eb5890db09378c0e09c6893806920f9dc18664d34d0a48c898d7d22d66"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 5502 - Missile Defense Agency
+
+## Text
+
+(a) Appointment of Director.— The Director of the Missile Defense Agency shall be a general or flag officer appointed for a six-year term.
+
+(b) Deputy Director.— (1) There is a Deputy Director of the Missile Defense Agency, who shall be appointed by the Secretary of Defense from among the general officers on active duty in the Army, Air Force, Marine Corps, or Space Force, or from among the flag officers on active duty in the Navy. In selecting an individual to serve as the Deputy Director, the Secretary of Defense shall select an individual who serves in a different armed force than the armed force in which the Director serves.
+
+(2) The Deputy Director shall be appointed for a term of not fewer than two, and not more than four years.
+
+(3) The Deputy Director shall be under the authority, direction, and control of the Director of the Missile Defense Agency.
+
+(4) The Deputy Director shall—
+
+(A) carry out such responsibilities as may be assigned by the Director; and
+
+(B) serve as acting director during periods of absence by the Director, or at such times as the office of the Director is vacant.
+
+(c) Notification of Changes to Non-standard Acquisition and Requirements Processes and Responsibilities.— (1) The Secretary of Defense may not make any changes to the missile defense non-standard acquisition and requirements processes and responsibilities unless, with respect to those proposed changes—
+
+(A) the Secretary, without delegation, has taken each of the actions specified in paragraph (2); and
+
+(B) a period of 120 days has elapsed following the date on which the Secretary submits the report under subparagraph (C) of such paragraph.
+
+(2) If the Secretary proposes to make changes to the missile defense non-standard acquisition and requirements processes and responsibilities, the Secretary shall—
+
+(A) consult with the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Policy, the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, the Commander of the United States Strategic Command, the Commander of the United States Northern Command, and the Director of the Missile Defense Agency, regarding the changes;
+
+(B) certify to the congressional defense committees that the Secretary has coordinated the changes with, and received the views of, the individuals referred to in subparagraph (A);
+
+(C) submit to the congressional defense committees a report that contains—
+
+(i) a description of the changes, the rationale for the changes, and the views of the individuals referred to in subparagraph (A) with respect to the changes;
+
+(ii) a certification that the changes will not impair the missile defense capabilities of the United States nor degrade the unique special acquisition authorities of the Missile Defense Agency; and
+
+(iii) with respect to any such changes to Department of Defense Directive 5134.09, or successor directive issued in accordance with this subsection, a final draft of the proposed modified directive, both in an electronic format and in a hard copy format; and
+
+(D) with respect to any such changes to Department of Defense Directive 5134.09, or successor directive issued in accordance with this subsection, provide to such committees a briefing on the proposed modified directive described in subparagraph (C)(iii).
+
+(3) In this subsection, the term “non-standard acquisition and requirements processes and responsibilities” means the processes and responsibilities described in—
+
+(A) the memorandum of the Secretary of Defense titled “Missile Defense Program Direction” signed on January 2, 2002, as in effect on the date of the enactment of this subsection or as modified in accordance with this subsection, or any successor memorandum issued in accordance with this subsection;
+
+(B) Department of Defense Directive 5134.09, as in effect on the date of the enactment of this subsection (without regard to any modifications described in Directive-type Memorandum 20–002 of the Deputy Secretary of Defense, or any amendments or extensions thereto made before the date of such enactment), or as modified in accordance with this subsection, or any successor directive issued in accordance with this subsection; and
+
+(C) United States Strategic Command Instruction 538–3 titled “MD Warfighter Involvement Process”, as in effect on the date of the enactment of this subsection or as modified in accordance with this subsection, or any successor instruction issued in accordance with this subsection.
+
+(Added Pub. L. 118–159, div. A, title XVI, § 1649(a), Dec. 23, 2024, 138 Stat. 2187; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(32), Dec. 18, 2025, 139 Stat. 1209.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of the enactment of this subsection, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+Prior ProvisionsA prior section 5502 was renumbered section 8112 of this title. Provisions similar to those in this section were contained in section 205 of this title prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199. A prior section 5503 was renumbered section 8113 of this title. Prior sections 5504 and 5505 were repealed by Pub. L. 96–513, title III, § 314, Dec. 12, 1980, 94 Stat. 2892, effective Sept. 15, 1981. Section 5504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 314; Oct. 13, 1964, Pub. L. 88–647, title III, § 301(13), 78 Stat. 1072; Sept. 19, 1978, Pub. L. 95–377, § 5, 92 Stat. 721, related to maintenance of lineal lists of officers in line of Navy. Section 5505, acts Aug. 10, 1956, ch. 1041, 70A Stat. 316; June 30, 1960, Pub. L. 86–559, § 1(40), 74 Stat. 273; Sept. 7, 1962, Pub. L. 87–649, § 14c(25), 76 Stat. 501, related to changes of position on lineal list of reserve officers of Naval Reserve and Marine Corps Reserve. A prior section 5506, added Pub. L. 85–861, § 1(114)(A), Sept. 2, 1958, 72 Stat. 1492, and amended Pub. L. 96–513, title V, § 503(26), Dec. 12, 1980, 94 Stat. 2913, related to ranking of officers in active status in Naval Reserve and Marine Corps Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1673(d)(1), Oct. 5, 1994, 108 Stat. 3016, effective Dec. 1, 1994. A prior section 5507, act Aug. 10, 1956, ch. 1041, 70A Stat. 316, related to pay and allowances of rear admirals. See section 202 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(26), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962. A prior section 5508 was renumbered section 8118 of this title.
+
+Amendments2025—Pub. L. 119–60 substituted “Defense Agency” for “defense agency” in section catchline.
+
+Statutory Notes and Related Subsidiaries
+
+Rescission of Memorandum on Missile Defense GovernancePub. L. 118–31, div. A, title XVI, § 1667, Dec. 22, 2023, 137 Stat. 607, provided that: “Not later than May 31, 2024, the Secretary of Defense shall— “(1) rescind Directive-type Memorandum 20-002 relating to ‘Missile Defense System Policies and Governance’; and “(2) in accordance with [former] section 205(b) of title 10, United States Code, replace such memorandum with governance documents, policies, and procedures, that balance—“(A) providing the Missile Defense Agency with greater flexibility and agility, particularly with regards to milestone a [probably should be “Milestone A”] (or equivalent) acquisition decisions to rapidly meet warfighter needs; and “(B) the need for continued oversight to ensure integration into joint-force air and missile defense capabilities.”
+
+Directed Energy Programs for Ballistic and Hypersonic Missile DefensePub. L. 117–81, div. A, title XVI, § 1664, Dec. 27, 2021, 135 Stat. 2104, provided that: “(a) Authority of the Missile Defense Agency.—The Secretary of Defense shall delegate to the Director of the Missile Defense Agency the authority to budget for, direct, and manage directed energy programs applicable for ballistic and hypersonic missile defense missions, in coordination with other directed energy efforts of the Department of Defense. “(b) Prioritization.—In budgeting for and directing directed energy programs applicable for ballistic and hypersonic defensive missions pursuant to subsection (a), the Director of the Missile Defense Agency shall—“(1) prioritize the early research and development of technologies; and “(2) address the transition of such technologies to industry to support future operationally relevant capabilities.”

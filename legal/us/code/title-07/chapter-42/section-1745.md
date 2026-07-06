@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 1745"
+description: "Computation of carryover"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "42"
+chapter_name: "AGRICULTURAL COMMODITY SET-ASIDE"
+section: "1745"
+citation: "7 U.S.C. § 1745"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s1745"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "0bf9c451d592aece3f2ef002ef84f2b85634b57cf939865cd4850e04a091d09b"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "32fd0723ef548006ce085ef7869066597f8b226f5cdbafa7ae10b3152b5b583a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 1745 - Computation of carryover
+
+## Text
+
+The quantity of any commodity in the commodity set-aside or transferred from the set-aside to the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.) shall be excluded from the computation of “carryover” for the purpose of determining the price support level for such commodity under the Agricultural Act of 1949, as amended [7 U.S.C. 1421 et seq.], and related legislation, but shall be included in the computation of total supplies for purposes of acreage allotments and marketing quotas under the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1281 et seq.], and related legislation. Until such time as the commodity set-aside has been completed, such quantity of the commodity as the Secretary shall determine between the maximum and minimum quantities specified in section 1741 of this title shall be excluded from the computations of “carryover” for the purpose of determining the price support level, but shall be included in the computation of total supplies for purposes of acreage allotments and marketing quotas, for the 1955 crop of the commodity, notwithstanding that the quantity so excluded may not have been acquired by the Corporation and included in the commodity set-aside.
+
+(Aug. 28, 1954, ch. 1041, title I, § 105, 68 Stat. 898; Pub. L. 96–41, § 3(a)(2), July 30, 1979, 93 Stat. 324.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Strategic and Critical Materials Stock Piling Act, referred to in text, is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables. The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 1421 of this title and Tables. The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+
+Amendments1979—Pub. L. 96–41 substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)” for “the national stockpile established pursuant to the act of June 7, 1939, as amended”.

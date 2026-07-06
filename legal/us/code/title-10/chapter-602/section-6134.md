@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 6134"
+description: "Incorporation of integrated surety architecture"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "602"
+chapter_name: "NUCLEAR WEAPONS STOCKPILE MATTERS"
+section: "6134"
+citation: "10 U.S.C. § 6134"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s6134"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "90d1d81ac0c52a5170a790fd6050c86df8164c1a9228800c69b87847ba8bc54e"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "286bb8908387f23578a39c37af87b18f59d0464f7a8eff703902b3fc72438ab8"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 6134 - Incorporation of integrated surety architecture
+
+## Text
+
+(a) Shipments.— (1) The Administrator shall ensure that shipments described in paragraph (2) incorporate surety technologies relating to transportation and shipping developed by the Integrated Surety Architecture program of the Administration.
+
+(2) A shipment described in this paragraph is an over-the-road shipment of the Administration that involves any nuclear weapon planned to be in the active stockpile after 2025.
+
+(b) Certain Programs.— (1) The Administrator, in coordination with the Chairman of the Nuclear Weapons Council, shall ensure that each program described in paragraph (2) incorporates integrated designs compatible with the Integrated Surety Architecture program.
+
+(2) A program described in this subsection is a program of the Administration that is a warhead development program, a life extension program, or a warhead major alteration program.
+
+(c) Determination.— (1) If, on a case-by-case basis, the Administrator determines that a shipment under subsection (a) will not incorporate some or all of the surety technologies described in such subsection, or that a program under subsection (b) will not incorporate some or all of the integrated designs described in such subsection, the Administrator shall submit such determination to the congressional defense committees, including the results of an analysis conducted pursuant to paragraph (2).
+
+(2) Each determination made under paragraph (1) shall be based on a documented, system risk analysis that considers security risk reduction, operational impacts, and technical risk.
+
+(d) Termination.— The requirements of subsections (a) and (b) shall terminate on December 31, 2029.
+
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1369, 1462.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 2538d of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+
+Amendments2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.

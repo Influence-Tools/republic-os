@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4067"
+description: "Technology protection features activities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "303"
+chapter_name: "RESEARCH AND ENGINEERING ACTIVITIES"
+section: "4067"
+citation: "10 U.S.C. § 4067"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4067"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "2cfce2a463ea013f09e843c3241bd794eefddb439ed5a79c87c8e07bac1c91cc"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "d26f0e5fb5201c20139d23baec3f65dc894af4cad92965b4bc6f92ea38ed7857"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4067 - Technology protection features activities
+
+## Text
+
+(a) Activities.— The Secretary of Defense shall carry out activities to develop and incorporate technology protection features in a designated system to increase ally and partner military capability or improve coalition interoperability.
+
+(b) Cost-sharing.— (1) Any contract for the design or development of a system resulting from activities under subsection (a) for the purpose of enhancing or enabling the exportability of the system, either for the development of program protection strategies for the system or the design and incorporation of exportability features into the system, shall include a cost-sharing provision that requires the contractor to bear half of the cost of such activities, or such other portion of such cost as the Secretary considers appropriate upon showing of good cause.
+
+(2) Any contract for the design or development of an exportability feature of a system resulting from activities under subsection (a) for the purpose of enhancing or enabling the exportability of the system shall include a cost-sharing provision that requires the contractor to bear half of the cost of such activities, or such other portion of such cost as the Secretary considers appropriate upon showing of good cause.
+
+(3) The Secretary may deem the portion of the costs of the contractor described in paragraph (1) or (2) with respect to a designated system or exportability feature as allowable independent research and development costs under the regulations issued under section 3762 of this title if—
+
+(A) in the case of a designated system, the designated system receives Milestone B approval; and
+
+(B) the Secretary determines that doing so would further the purposes of this section.
+
+(c) Definitions.— In this section:
+
+(1) The term “designated system” means any system (including a major system, as defined in section 3041 of title 10, United States Code) that the Under Secretary of Defense for Acquisition and Sustainment designates for purposes of this section.
+
+(2) The term “independent research and development costs” has the meaning given the term in section 31.205-18 of title 48, Code of Federal Regulations.
+
+(3) The term “Milestone B approval” has the meaning given the term in section 4172(e)(7) of this title.
+
+(4) The term “technology protection features” means the technical modifications necessary to protect critical program information, including anti-tamper technologies and other systems engineering activities intended to prevent or delay exploitation of critical technologies in a designated system.
+
+(Added Pub. L. 115–232, div. A, title II, § 223(a), Aug. 13, 2018, 132 Stat. 1682, § 2357; renumbered § 4067 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1841(c), 1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4244, 4294; Pub. L. 117–81, div. A, title VIII, § 831(a), title XVII, § 1701(u)(2)(D), (3)(B), Dec. 27, 2021, 135 Stat. 1832, 2151, 2152; Pub. L. 118–159, div. A, title II, § 215, Dec. 23, 2024, 138 Stat. 1824.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a). Pub. L. 118–159, § 215(a), substituted “to increase ally and partner military capability or improve coalition interoperability” for “during the research and development phase of such system”. Subsec. (b)(2). Pub. L. 118–159, § 215(b)(2), added par. (2). Former par. (2) redesignated (3). Subsec. (b)(3). Pub. L. 118–159, § 215(b)(1), (3)(A), (B), redesignated par. (2) as (3) and inserted “or (2)” after “paragraph (1)” and “or exportability feature” after “with respect to a designated system” in introductory provisions. Subsec. (b)(3)(A). Pub. L. 118–159, § 215(b)(3)(C), inserted “in the case of a designated system,” before “the”. 2021—Pub. L. 116–283, § 1842(b), as amended by Pub. L. 117–81, § 1701(u)(3)(B), renumbered section 2357 of this title as this section. Pub. L. 116–283, § 1841(c), which directed the renumbering of section 2357 of this title as section 4009 instead of this section, was amended generally by Pub. L. 117–81, § 1701(u)(2)(D), effective as if included therein, so that such transfer was no longer directed. Subsec. (b). Pub. L. 117–81, § 831(a)(1), designated existing provisions as par. (1) and added par. (2). Subsec. (b)(2). Pub. L. 116–283, § 1883(b)(2), substituted “section 3762” for “section 2372” in introductory provisions. Subsec. (c)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 3041” for “section 2302(5)”. Subsec. (c)(2). Pub. L. 117–81, § 831(a)(2)(B), added par. (2). Former par. (2) redesignated (4). Subsec. (c)(3). Pub. L. 116–283, § 1883(b)(2), substituted “section 4172(e)(7)” for “section 2366(e)(7)”. Pub. L. 117–81, § 831(a)(2)(B), added par. (3). Subsec. (c)(4). Pub. L. 117–81, § 831(a)(2)(A), redesignated par. (2) as (4).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below. Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Conforming RegulationsPub. L. 117–81, div. A, title VIII, § 831(b), Dec. 27, 2021, 135 Stat. 1832, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to conform with section 2357 of title 10, United States Code [now 10 U.S.C. 4067], as amended by subsection (a).”
+
+Updated Guidance on Planning for Exportability Features for Future ProgramsPub. L. 118–31, div. A, title VIII, § 810, Dec. 22, 2023, 137 Stat. 321, as amended by Pub. L. 118–159, div. A, title VIII, § 804(c)(5), Dec. 23, 2024, 138 Stat. 1969, provided that: “(a) Program Guidance on Planning for Exportability Features.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Under Secretary of Defense for Acquisition and Sustainment shall ensure that the program guidance for major defense acquisition programs (as defined in section 4201 of title 10, United States Code) and for acquisition programs and projects that are carried out using the rapid fielding or rapid prototyping acquisition pathway under section 3602 of title 10, United States Code[,] is revised to integrate planning for exportability features under section 4067 of title 10, United States Code, including—“(1) for major defense acquisition programs, an assessment of such programs to identify potential exportability needs; and “(2) for technologies under an acquisition program or project carried out using the rapid fielding or rapid prototyping acquisition pathway that are transitioned to a major capability acquisition program, an assessment of potential exportability needs of such technologies not later than one year after the date of such transition. “(b) Revision of Guidance for Program Protection Plans.—Not later than three years after the date of the enactment of this Act, the Under Secretary shall revise guidance for program protection plans to integrate a requirement to determine exportability for the programs covered by such plans.”

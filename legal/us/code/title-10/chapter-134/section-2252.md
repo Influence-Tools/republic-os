@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2252"
+description: "Rewards: missing property"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "134"
+chapter_name: "MISCELLANEOUS ADMINISTRATIVE PROVISIONS"
+section: "2252"
+citation: "10 U.S.C. § 2252"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2252"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "313d5e627b9158064b7d96c7469dcdfb1581ee26bc18789b8b93b38b1f706fa3"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "501b6734d94955474f9c3c15d5db3e0eafbe32dfd42fe034d7d57b34203aeeeb"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2252 - Rewards: missing property
+
+## Text
+
+The Secretary of Defense and the Secretary of each military department may pay a reward of not more than $500 in any case for information leading to the discovery of missing property under the jurisdiction of that Secretary or leading to the recovery of such property.
+
+(Added Pub. L. 100–370, § 1(e)(1), July 19, 1988, 102 Stat. 845.)
+
+## Notes
+
+Historical and Revision NotesSection is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(b)], Dec. 19, 1985, 99 Stat. 1185, 1202.
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 7209 of this title prior to repeal by Pub. L. 100–370, § 1(e)(3)(A).

@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1735"
+description: "Education, training, and experience requirements for critical acquisition positions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "87"
+chapter_name: "DEFENSE ACQUISITION WORKFORCE"
+section: "1735"
+citation: "10 U.S.C. § 1735"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1735"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "2c59755df17228947aa98651f1382c9236c1978499e4ca00660e22f26a2a4e5d"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "eb4fc8ec7876993dbfba926d75704477c944fcce0db1a63dace6f6aea009bab7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1735 - Education, training, and experience requirements for critical acquisition positions
+
+## Text
+
+(a) Qualification Requirements.— In establishing the education, training, and experience requirements under section 1723 of this title for critical acquisition positions, the Secretary of Defense shall, at a minimum, include the requirements set forth in subsections (b) through (e).
+
+(b) Program Managers and Deputy Program Managers.— Before being assigned to a position as a program manager or deputy program manager of a major defense acquisition program or a significant nonmajor defense acquisition program, a person—
+
+(1) must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution determined to be comparable by the Secretary of Defense;
+
+(2) must have executed a written agreement as required in section 1734(b)(2); and
+
+(3) in the case of—
+
+(A) a program manager of a major defense acquisition program, must have at least eight years of experience in acquisition, at least two years of which were performed in a systems program office or similar organization;
+
+(B) a program manager of a significant nonmajor defense acquisition program, must have at least six years of experience in acquisition;
+
+(C) a deputy program manager of a major defense acquisition program, must have at least six years of experience in acquisition, at least two years of which were performed in a systems program office or similar organization; and
+
+(D) a deputy program manager of a significant nonmajor defense acquisition program, must have at least four years of experience in acquisition.
+
+(c) Product Support Manager.— Before being assigned to a position as product support manager, a person—
+
+(1) shall have completed all life-cycle logistics certification and training requirements prescribed by the Secretary of Defense;
+
+(2) shall have executed a written agreement as required in section 1734(b)(2) of this title; and
+
+(3) in the case of—
+
+(A) a product support manager of a major defense acquisition program, shall have at least eight years of experience in life-cycle logistics, at least two years of which were performed in a systems program office or similar organization;
+
+(B) a product support manager of a significant nonmajor defense acquisition program, shall have at least six years of experience in life-cycle logistics; and
+
+(C) a product support manager for a covered system (as defined in section 4324 of this title), shall be designated as a key leadership position.
+
+(d) Portfolio Acquisition Executives.1— Before being assigned to a position as a portfolio acquisition executive, a person—
+
+(1) must have completed the program management course at the Defense Systems Management College or a management program at an accredited educational institution in the private sector determined to be comparable by the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment;
+
+(2) must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position; and
+
+(3) must have held a position as a program manager or a deputy program manager.
+
+(e) General and Flag Officers and Civilians in Equivalent Positions.— Before a general or flag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.
+
+(f) Senior Contracting Officials.— Before a person may be assigned to a critical acquisition position as a senior contracting official, the person must have at least four years experience in contracting.
+
+(Added Pub. L. 101–510, div. A, title XII, § 1202(a), Nov. 5, 1990, 104 Stat. 1648; amended Pub. L. 102–484, div. A, title VIII, § 812(d), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(20), Dec. 20, 2019, 133 Stat. 1545; Pub. L. 119–60, div. A, title XVIII, §§ 1802(b)(1)(A), (D), 1803(a)(2), Dec. 18, 2025, 139 Stat. 1227, 1228.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (c). Pub. L. 119–60, § 1803(a)(2), added subsec. (c). Former subsec. (c) redesignated (d). Pub. L. 119–60, § 1802(b)(1)(D), which directed the substitution of “Portfolio acquisition executives” for “Program executive officers” in heading, was executed by making the substitution for “Program Executive Officers”, to reflect the probable intent of Congress. Pub. L. 119–60, § 1802(b)(1)(A), substituted “portfolio acquisition executive” for “program executive officer” in introductory provisions. Subsecs. (d) to (f). Pub. L. 119–60, § 1803(a)(2), redesignated subsecs. (c) to (e) as (d) to (f), respectively. 2019—Subsec. (c)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”. 2001—Subsec. (c)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”. 1993—Subsec. (c)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”. 1992—Subsec. (b)(3). Pub. L. 102–484 struck out “or deputy program manager” after “program manager” in subpars. (A) and (B), struck out “and” at end of subpar. (A), substituted semicolon for period at end of subpar. (B), and added subpars. (C) and (D).
+
+Statutory Notes and Related Subsidiaries
+
+Fulfillment Standards for Mandatory TrainingFor provisions relating to development of fulfillment standards for purposes of the training requirements of this section, see section 812(c) of Pub. L. 102–484, set out as a note under section 1723 of this title.

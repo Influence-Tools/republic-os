@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 6288"
+description: "Unfunded priorities of the Administration"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "607"
+chapter_name: "BUDGET AND FINANCIAL MANAGEMENT MATTERS"
+section: "6288"
+citation: "10 U.S.C. § 6288"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s6288"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "ea26469640c93cb6d2222790a7c08ca17e35d98ff0d4d9b4f5e72708060eac2c"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "aac2d597e73d2f0af623768f2cc38d5a12f870d2535bad3742559d2bb74b1b81"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 6288 - Unfunded priorities of the Administration
+
+## Text
+
+(a) Annual Report or Certification.— Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, the Administrator shall submit to the Secretary of Energy and the congressional defense committees either—
+
+(1) a report on the unfunded priorities of the Administration; or
+
+(2) if the Administrator determines that there are no unfunded priorities to include in such a report, a certification and explanation by the Administrator, without delegation, of the determination.
+
+(b) Elements.— (1) Each report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
+
+(A) A summary description of that priority, including the objectives to be achieved or the risk to be mitigated if that priority is funded (whether in whole or in part).
+
+(B) The additional amount of funds recommended in connection with the objectives or risk mitigation under subparagraph (A).
+
+(C) Account information with respect to that priority.
+
+(2) Each report under subsection (a)(1) shall present the unfunded priorities covered by the report in order of urgency of priority.
+
+(c) Unfunded Priority Defined.— In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
+
+(1) is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to section 1105(a) of title 31;
+
+(2) is necessary to address a requirement associated with the mission of the Administration; and
+
+(3) would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—
+
+(A) if additional resources were available for the budget to fund the program, activity, or mission requirement; or
+
+(B) in the case of a program, activity, or mission requirement that emerged after the budget was formulated, if the program, activity, or mission requirement had emerged before the budget was formulated.
+
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1435, 1462.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 2756 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+
+Amendments2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins. Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Prioritization of priorities”, respectively.

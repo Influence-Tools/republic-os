@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4272"
+description: "Independent technical risk assessments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "322"
+chapter_name: "MAJOR SYSTEMS AND MAJOR DEFENSE ACQUISITION PROGRAMS GENERALLY"
+section: "4272"
+citation: "10 U.S.C. § 4272"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4272"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "bc27fff826c7a7b34717aaa0a2ad0d3f810ba4fa70065452a01edd8dd9921b46"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "ef2375ad3389e18ef14978f6a5fb1ce3e544e2162a2966f0142c673dfb422b1e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4272 - Independent technical risk assessments
+
+## Text
+
+(a) In General.— With respect to a major defense acquisition program, the Secretary of Defense shall conduct or approve independent technical risk assessments before any decision to grant Milestone B approval for the program pursuant to section 4252 of this title, any decision to enter into low-rate initial production or full-rate production, or at any other time considered appropriate by the Secretary, that includes the identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
+
+(b) Guidance.— The Secretary shall issue guidance and a framework for the conduct, execution, and approval of independent technical risk assessments.
+
+(Added Pub. L. 114–328, div. A, title VIII, § 807(a)(1), Dec. 23, 2016, 130 Stat. 2261, § 2448b; amended Pub. L. 116–92, div. A, title IX, § 902(73), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4272 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(2), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 118–159, div. A, title VIII, § 806(b)(1), Dec. 23, 2024, 138 Stat. 1974.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a). Pub. L. 118–159 struck out dash after “risk assessments” and par. (2) designation before “before any decision” and struck out par. (1) which read as follows: “before any decision to grant Milestone A approval for the program pursuant to section 4251 of this title, that identifies critical technologies and manufacturing processes that need to be matured; and”. 2021—Pub. L. 116–283, § 1847(e)(2), renumbered section 2448b of this title as this section. Subsec. (a)(1). Pub. L. 116–283, § 1847(e)(2)(A), substituted “section 4251” for “section 2366a”. Subsec. (a)(2). Pub. L. 116–283, § 1847(e)(2)(B), substituted “section 4252” for “section 2366b”. 2019—Pub. L. 116–92 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows: “(a) In General.—With respect to a major defense acquisition program, the Secretary of Defense shall ensure that an independent technical risk assessment is conducted— “(1) before any decision to grant Milestone A approval for the program pursuant to section 2366a of this title, that identifies critical technologies and manufacturing processes that need to be matured; and “(2) before any decision to grant Milestone B approval for the program pursuant to section 2366b of this title, any decision to enter into low-rate initial production or full-rate production, or at any other time considered appropriate by the Secretary, that includes the identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment. “(b) Categorization of Technical Risk Levels.—The Secretary shall issue guidance and a framework for categorizing the degree of technical and manufacturing risk in a major defense acquisition program.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DateSection applicable with respect to major defense acquisition programs that reach Milestone A after Oct. 1, 2017, see section 807(a)(2) of Pub. L. 114–328, set out as a note under section 4271 of this title.

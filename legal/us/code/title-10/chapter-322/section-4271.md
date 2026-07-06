@@ -1,0 +1,71 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4271"
+description: "Program cost, fielding, and performance goals in planning major defense acquisition programs"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "322"
+chapter_name: "MAJOR SYSTEMS AND MAJOR DEFENSE ACQUISITION PROGRAMS GENERALLY"
+section: "4271"
+citation: "10 U.S.C. § 4271"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4271"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "fd69e3123fdcb8c099093149a84fe09cf9178949788b7843697a73a8bec3abc0"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "5518d54a6aa2157de63d67f2bf94691d3f5e33f5ebbfdf4bd865f676575990b1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4271 - Program cost, fielding, and performance goals in planning major defense acquisition programs
+
+## Text
+
+(a) Program Cost and Fielding Targets.— (1) Before funds are obligated for technology development, systems development, or production of a major defense acquisition program, the designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program will—
+
+(A) be affordable;
+
+(B) incorporate program planning that anticipates the evolution of capabilities to meet changing threats, technology insertion, and interoperability; and
+
+(C) be fielded when needed.
+
+(2) The goals described in this paragraph are goals for—
+
+(A) the procurement unit cost and sustainment cost (referred to in this section as the “program cost targets”);
+
+(B) the date for initial operational capability (referred to in this section as the “fielding target”); and
+
+(C) technology maturation, prototyping, and a modular open system approach to evolve system capabilities and improve interoperability.
+
+(b) Definitions.— In this section:
+
+(1) The term “procurement unit cost” has the meaning provided in section 4351(a)(2) of this title.
+
+(2) The term “initial capabilities document” has the meaning provided in section 4251(d)(1) of this title.
+
+(Added Pub. L. 114–328, div. A, title VIII, § 807(a)(1), Dec. 23, 2016, 130 Stat. 2260, § 2448a; amended Pub. L. 115–232, div. A, title VIII, § 831(a), Aug. 13, 2018, 132 Stat. 1857; renumbered § 4271 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(1), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 117–81, div. A, title XVII, § 1701(o)(6)(C)(iv), Dec. 27, 2021, 135 Stat. 2147.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283, § 1847(e)(1), renumbered section 2448a of this title as the section. Subsec. (b)(1). Pub. L. 116–283, § 1847(e)(1)(A), as amended by Pub. L. 117–81, § 1701(o)(6)(C)(iv), substituted “section 4351(a)(2)” for “section 2432(a)(2)”. Subsec. (b)(2). Pub. L. 116–283, § 1847(e)(1)(B), substituted “section 4251(d)(1)” for “section 2366a(d)(2)”. 2018—Subsec. (a)(1). Pub. L. 115–232, § 831(a)(1), (2), in introductory provisions, substituted “designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program” for “Secretary of Defense shall ensure, by establishing the goals described in paragraph (2), that the milestone decision authority for the major defense acquisition program approves a program that”. Subsecs. (b), (c). Pub. L. 115–232, § 831(a)(3), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below. Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DatePub. L. 114–328, div. A, title VIII, § 807(a)(2), Dec. 23, 2016, 130 Stat. 2261, provided that: “[Former] Subchapter III of chapter 144B of title 10, United States Code [see 10 U.S.C. 4271, 4272], as added by paragraph (1), shall apply with respect to major defense acquisition programs that reach Milestone A after October 1, 2017.”
+
+Program Cost and Field TargetsPub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, as amended by Pub. L. 115–232, div. A, title VIII, § 831(b)(4), Aug. 13, 2018, 132 Stat. 1857, which required the establishment of a process to develop program cost and fielding targets pursuant to section 4271 of this title, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(7), Dec. 18, 2025, 139 Stat. 948.
+
+Configuration Steering Boards for Cost Control Under Major Defense Acquisition ProgramsPub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528, as amended by Pub. L. 114–92, div. A, title VIII, § 830, Nov. 25, 2015, 129 Stat. 912; Pub. L. 115–91, div. A, title VIII, § 826, Dec. 12, 2017, 131 Stat. 1467; Pub. L. 116–92, div. A, title IX, § 902(67), Dec. 20, 2019, 133 Stat. 1550, which required each Secretary of a military department to establish one or more Configuration Steering Boards for the major defense acquisition programs of such department, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(14)(D), Dec. 18, 2025, 139 Stat. 949.

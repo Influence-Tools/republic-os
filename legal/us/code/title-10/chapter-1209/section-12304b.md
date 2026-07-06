@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 12304b"
+description: "Selected Reserve: order to active duty for preplanned missions in support of the combatant commands"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "1209"
+chapter_name: "ACTIVE DUTY"
+section: "12304b"
+citation: "10 U.S.C. § 12304b"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s12304b"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "2196e2f9cf2dd9c4cc29db8096957f473fdd9baecb0af97bfbddec39206da5b5"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "a5c3327e32f2661f8d547d277c071ca171c0a73384fdddf73c05587b0e05f510"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 12304b - Selected Reserve: order to active duty for preplanned missions in support of the combatant commands
+
+## Text
+
+(a) Authority.— When the Secretary of a military department determines that it is necessary to augment the active forces for a preplanned mission in support of a combatant command, the Secretary may, subject to subsection (b), order any unit of the Selected Reserve (as defined in section 10143(a) of this title), without the consent of the members, to active duty for not more than 365 consecutive days.
+
+(b) Limitations.— (1) (A) Except as provided under subparagraph (B), units may be ordered to active duty under this section only if—
+
+(i) the manpower and associated costs of such active duty are specifically included and identified in the defense budget materials for the fiscal year or years in which such units are anticipated to be ordered to active duty; and
+
+(ii) the budget information on such costs includes a description of the mission for which such units are anticipated to be ordered to active duty and the anticipated length of time of the order of such units to active duty on an involuntary basis.
+
+(B) In the event the President’s budget is delivered later than April 1st in the year prior to the year of the mobilization of one or more units under this section, the Secretary concerned may submit to Congress the information required under subparagraph (A) in a separate notice.
+
+(2) Not more than 60,000 members of the reserve components of the armed forces may be on active duty under this section at any one time.
+
+(c) Exclusion From Strength Limitations.— Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or total number of members in grade under this title or any other law.
+
+(d) Notice to Congress.— Whenever the Secretary of a military department orders any unit of the Selected Reserve to active duty under subsection (a), such Secretary shall submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of such unit.
+
+(e) Termination of Duty.— Whenever any unit of the Selected Reserve is ordered to active duty under subsection (a), the service of all units so ordered to active duty may be terminated—
+
+(1) by order of the Secretary of the military department concerned; or
+
+(2) by law.
+
+(f) Relationship to War Powers Resolution.— Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
+
+(g) Considerations for Involuntary Order to Active Duty.— In determining which units of the Selected Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
+
+(1) the length and nature of previous service, to assure such sharing of exposure to hazards as national security and military requirements will reasonably allow;
+
+(2) the frequency of assignments during service career;
+
+(3) family responsibilities; and
+
+(4) employment necessary to maintain the national health, safety, or interest.
+
+(h) Policies and Procedures.— The Secretaries of the military departments shall prescribe policies and procedures to carry out this section, including on determinations with respect to orders to active duty under subsection (g). Such policies and procedures shall not go into effect until approved by the Secretary of Defense.
+
+(i) Defense Budget Materials Defined.— In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) 11 See References in Text note below. of this title.
+
+(Added Pub. L. 112–81, div. A, title V, § 516(a)(1), Dec. 31, 2011, 125 Stat. 1395; amended Pub. L. 112–239, div. A, title X, § 1014(b), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 118–31, div. A, title V, § 513, Dec. 22, 2023, 137 Stat. 245.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables. Section 231(f)(2) of this title, referred to in subsec. (i), was redesignated as section 231(g)(2) of this title by Pub. L. 117–263, div. A, title III, § 352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and subsequently was redesignated as section 231(h)(2) of this title by Pub. L. 118–159, div. A, title X, § 1021(1), Dec. 23, 2024, 138 Stat. 2052.
+
+Amendments2023—Subsec. (b)(1). Pub. L. 118–31 substituted “(A) Except as provided under subparagraph (B), units” for “Units”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B). 2013—Subsec. (i). Pub. L. 112–239 substituted “section 231(f)(2)” for “section 231(g)(2)”.

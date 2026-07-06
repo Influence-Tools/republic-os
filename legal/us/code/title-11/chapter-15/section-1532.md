@@ -1,0 +1,45 @@
+---
+type: "LegalText"
+title: "11 U.S.C. § 1532"
+description: "Rule of payment in concurrent proceedings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 11
+title_name: "BANKRUPTCY"
+chapter_number: "15"
+chapter_name: "ANCILLARY AND OTHER CROSS-BORDER CASES"
+section: "1532"
+citation: "11 U.S.C. § 1532"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc11@119-100.zip"
+source_identifier: "/us/usc/t11/s1532"
+source_file: "data/legal/raw/us/code/title-11/usc11.xml"
+source_hash: "b57e8be9edf9876ed0c057073d06c414441d3f2e580538681f52df6ffd4cd9cc"
+raw_snapshot_hash: "49b32bf784de01de21874d64b5d1d78d1d245352824a03caa6d6b941a4a2c9a2"
+text_hash: "fffcacf200ffec3fe04afa892ac0ae6375e225063bf6580b9d5781d5434a4a88"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 11 U.S.C. § 1532 - Rule of payment in concurrent proceedings
+
+## Text
+
+Without prejudice to secured claims or rights in rem, a creditor who has received payment with respect to its claim in a foreign proceeding pursuant to a law relating to insolvency may not receive a payment for the same claim in a case under any other chapter of this title regarding the debtor, so long as the payment to other creditors of the same class is proportionately less than the payment the creditor has already received.
+
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 145.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsSections 15101 to 151326 of prior chapter 15 were repealed by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103. Section 15101, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to definitions. Section 15102, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to a rule of construction. Section 15103, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652; Pub. L. 98–353, title III, §§ 311(b)(3), 318(b), July 10, 1984, 98 Stat. 355, 357, related to applicability of subchapters and sections. Section 15303, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to involuntary cases. Section 15321, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to eligibility to serve as trustee. Section 15322, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to qualification of trustee. Section 15324, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to removal of trustee or examiner. Section 15326, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to limitation on compensation of trustee. Section 15330, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to compensation of officers. Section 15343, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to examination of debtor. Section 15345, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654; Pub. L. 97–258, § 3(c), Sept. 13, 1982, 96 Stat. 1064, related to money of estates. Section 15701, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654, related to interim trustee. Section 15703, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654, related to successor trustee. Section 15704, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to duties of trustee. Section 15727, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to discharge. Section 151102, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to creditors’ and equity security holders’ committees. Section 151104, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to appointment of trustee or examiner. Section 151105, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656, related to termination of trustee’s appointment. Section 151163, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656, related to appointment of trustee. Section 151302, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656; Pub. L. 98–353, title III, §§ 311(b)(4), 534, July 10, 1984, 98 Stat. 355, 390, related to trustees. Section 151326, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2657, related to payments.
+
+Statutory Notes and Related SubsidiariesEffective date and applicability of repeal by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of Title 28, Judiciary and Judicial Procedure. Pub. L. 95–598, title IV, § 408(c), Nov. 6, 1978, 92 Stat. 2687, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, provided for the repeal of prior chapter 15 at a prospective date, prior to repeal by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
+
+Effective DateSection effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.

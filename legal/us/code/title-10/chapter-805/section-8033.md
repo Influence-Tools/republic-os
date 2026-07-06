@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8033"
+description: "Chief of Naval Operations"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "805"
+chapter_name: "OFFICE OF THE CHIEF OF NAVAL OPERATIONS"
+section: "8033"
+citation: "10 U.S.C. § 8033"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8033"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "cb760ce4de22e6e8ee4d9029cb39595855ad08b242da36de52240e2dd6ce2a2c"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "1874183076d52995a6e1876976e83236ce8ab7bbab5b9a1075e7f4faf7c55c93"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8033 - Chief of Naval Operations
+
+## Text
+
+(a) (1) There is a Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate. The Chief of Naval Operations shall be appointed for a term of four years, from the flag officers of the Navy. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+
+(2) The President may appoint an officer as the Chief of Naval Operations only if—
+
+(A) the officer has had significant experience in joint duty assignments; and
+
+(B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 11 See References in Text note below. of this title) as a flag officer.
+
+(3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
+
+(b) The Chief of Naval Operations, while so serving, has the grade of admiral without vacating his permanent grade. In the performance of his duties within the Department of the Navy, the Chief of Naval Operations takes precedence above all other officers of the naval service.
+
+(c) Except as otherwise prescribed by law and subject to section 8013(f) of this title, the Chief of Naval Operations performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
+
+(d) Subject to the authority, direction, and control of the Secretary of the Navy, the Chief of Naval Operations shall—
+
+(1) preside over the Office of the Chief of Naval Operations;
+
+(2) transmit the plans and recommendations of the Office of the Chief of Naval Operations to the Secretary and advise the Secretary with regard to such plans and recommendations;
+
+(3) after approval of the plans or recommendations of the Office of the Chief of Naval Operations by the Secretary, act as the agent of the Secretary in carrying them into effect;
+
+(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Navy and the Marine Corps as the Secretary determines;
+
+(5) perform the duties prescribed for him by sections 171 and 3104 of this title and other provisions of law; and
+
+(6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Navy.
+
+(e) (1) The Chief of Naval Operations shall also perform the duties prescribed for him as a member of the Joint Chiefs of Staff under section 151 of this title.
+
+(2) To the extent that such action does not impair the independence of the Chief of Naval Operations in the performance of his duties as a member of the Joint Chiefs of Staff, the Chief of Naval Operations shall inform the Secretary regarding military advice rendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Navy.
+
+(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Naval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
+
+(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1049, § 5033; amended Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, § 501(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(B), Nov. 25, 2015, 129 Stat. 880; renumbered § 8033 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
+Prior ProvisionsProvisions similar to those in this section were contained in sections 5081 and 5082 of this title prior to enactment of Pub. L. 99–433. A prior section 8033 was renumbered section 9033 of this title. Another prior section 8033 was renumbered section 10305 of this title. A prior section 8034 was renumbered section 9034 of this title. Another prior section 8034 was renumbered section 8033 of this title.
+
+Amendments2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B). Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”. 2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5033 of this title as this section. Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for “section 5013(f)”. 2015—Subsec. (d)(5). Pub. L. 114–92 substituted “sections 171 and 2547” for “section 171”. 2003—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”. 1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below. Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Reappointment of Incumbent Chief of Naval OperationsPub. L. 108–136, div. A, title V, § 508, Nov. 24, 2003, 117 Stat. 1458, provided that: “Notwithstanding the provisions of section 5033(a)(1) [now 8033(a)(1)] of title 10, United States Code, the President, by and with the advice and consent of the Senate, may reappoint the officer serving as Chief of Naval Operations on October 1, 2003, for an additional term as Chief of Naval Operations. Such a reappointment shall be for a term of not more than two years.”
+
+Waiver of Qualifications for Appointment as Service ChiefFor provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, title V, Oct. 1, 1986, 100 Stat. 1063, which was formerly set out as a note under section 3033 of this title.

@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "2 U.S.C. § 1942"
+description: "Uniform to display United States flag or colors"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 2
+title_name: "THE CONGRESS"
+chapter_number: "29"
+chapter_name: "CAPITOL POLICE"
+section: "1942"
+citation: "2 U.S.C. § 1942"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc02@119-100.zip"
+source_identifier: "/us/usc/t2/s1942"
+source_file: "data/legal/raw/us/code/title-02/usc02.xml"
+source_hash: "8ef9d9793e4e189a704ee5b23903afbbb0e02d1c989ed1831f15866538400ce5"
+raw_snapshot_hash: "ec6910a011de0a97d11b263bbcd649766188311e429ae6bdb5fc2cf5e6ebbb9e"
+text_hash: "ff56870f6458d1466dc50d25a73405108d4230db348fba5b3925ff8acd0ab7ff"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 2 U.S.C. § 1942 - Uniform to display United States flag or colors
+
+## Text
+
+(a) The uniform of officers and members of the United States Park Police force, the United States Secret Service Uniformed Division, the Capitol Police, and the Metropolitan Police force of the District of Columbia shall bear a distinctive patch, pin, or other emblem depicting the flag of the United States or the colors thereof.
+
+(b) The Secretary of the Interior in the case of the United States Park Police force, the Secretary of the Treasury in the case of the United States Secret Service Uniformed Division, the Capitol Police Board in the case of the Capitol Police, and the Mayor of the District of Columbia in the case of the Metropolitan Police force shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+
+(Pub. L. 91–297, title II, § 201(a), (b), June 30, 1970, 84 Stat. 357; Pub. L. 93–198, title IV, § 421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was classified to section 210a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+Amendments1977—Pub. L. 95–179 substituted “United States Secret Service Uniformed Division” for “Executive Protective Service” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in text for “commissioner”.

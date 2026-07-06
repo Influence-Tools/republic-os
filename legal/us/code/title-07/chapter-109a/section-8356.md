@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 8356"
+description: "Depredation permits for black vultures and common ravens; black vulture livestock protection program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "109A"
+chapter_name: "CONTROL OF WILD ANIMALS"
+section: "8356"
+citation: "7 U.S.C. § 8356"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s8356"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "79b345cf586df7d07f08085bf07605225b32b0f503d4a0624d855b9041b4c160"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "71f3e4395e3dc3d887ba17bdc63fe78b573e84510e4f3810e191f946524db83e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 8356 - Depredation permits for black vultures and common ravens; black vulture livestock protection program
+
+## Text
+
+(a) Depredation permits for black vultures and common ravens (1) In general The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service (referred to in this section as the “Secretary”), may issue depredation permits to livestock producers authorizing takings of black vultures or common ravens otherwise prohibited by Federal law to prevent those vultures or common ravens from taking livestock during the calving season or lambing season.
+
+(2) Limited to affected States or regions The Secretary may issue permits under paragraph (1) only to livestock producers in States and regions in which livestock producers are affected or have been affected in the previous year by black vultures or common ravens, as determined by Secretary.
+
+(3) Reporting The Secretary shall require, as a condition of a permit under paragraph (1), that the permit holder shall report to the appropriate enforcement agencies the takings of black vultures or common ravens pursuant to the permit.
+
+(b) Black vulture livestock protection program (1) In general The Secretary, in coordination with States, shall carry out, through fiscal year 2030, a black vulture livestock protection program (referred to in this subsection as the “program”) that allows 1 public entity or Farm Bureau organization per State to hold a statewide depredation permit to protect commercial agriculture livestock from black vulture predation.
+
+(2) Requirements Each public entity or Farm Bureau organization that holds a depredation permit under the program—
+
+(A) shall—
+
+(i) demonstrate sufficient experience and capacity to provide government regulated services to the public, as determined by the Secretary;
+
+(ii) submit a complete depredation permit application, as determined by the Secretary, for review and approval according to procedures of the United States Fish and Wildlife Service;
+
+(iii) be responsible for complying with, and ensuring subpermittee compliance with, as applicable, all permit conditions; and
+
+(iv) be responsible for collecting, managing, and reporting required information under the permit; and
+
+(B) may subpermit to livestock producers to take black vultures for the purposes of livestock protection.
+
+(3) Study The Secretary, in consultation with the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall carry out a study on whether prescribed take levels of black vultures may be increased for subpermittees within a biologically sustainable take level for the population.
+
+(4) Report Not later than 1 year after December 23, 2024, the Secretary, in consultation with the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall submit to the Chair and Ranking Member of the Committee on Environment and Public Works of the Senate and the Chair and Ranking Member of the Committee on Natural Resources of the House of Representatives a report on the status of the program, including the results of the study required under paragraph (3).
+
+(Pub. L. 116–188, title I, § 103, Oct. 30, 2020, 134 Stat. 911; Pub. L. 118–198, title I, § 102, Dec. 23, 2024, 138 Stat. 2678.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Pub. L. 118–198, § 102(2), (4), (5), designated existing provisions as subsec. (a) and inserted heading, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a) and realigned margins, and added subsec. (b). Pub. L. 118–198, § 102(1), inserted “; black vulture livestock protection program” after “common ravens” in section catchline. Subsec. (a)(2), (3). Pub. L. 118–198, § 102(3), substituted “paragraph (1)” for “subsection (a)”. Subsecs. (b), (c). Pub. L. 118–198, § 102(2), (5), added subsec. (b) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).

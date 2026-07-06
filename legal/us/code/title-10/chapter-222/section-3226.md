@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3226"
+description: "Estimates for program baseline and analyses and targets for contract negotiation purposes"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "222"
+chapter_name: "INDEPENDENT COST ESTIMATION AND COST ANALYSIS"
+section: "3226"
+citation: "10 U.S.C. § 3226"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3226"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "3e02842de766356565c3ff723e841cbcb943f0a4de8d71f348bb85bcaa698ed5"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "7546e5db0288f6ae67bed5cc371a3a90aa564e049ca36d2f5fab4339a9c4f535"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3226 - Estimates for program baseline and analyses and targets for contract negotiation purposes
+
+## Text
+
+(a) Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds.— The policies, procedures, and guidance issued by the Director of Cost Assessment and Program Evaluation in accordance with the requirements of section 3221 of this title shall provide that cost estimates developed for baseline descriptions and other program purposes conducted pursuant to subsection (b)(6) of such section are not to be used for the purpose of contract negotiations or the obligation of funds.
+
+(b) Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds.— The Under Secretary of Defense for Acquisition and Sustainment shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government’s reasonable expectation of successful contractor performance in accordance with the contractor’s proposal and previous experience.
+
+(c) Program Manager and Contracting Officer.— The program manager and contracting officer for each major defense acquisition program and major subprogram shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of subsection (a) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition and Sustainment under subsection (b).
+
+(d) Availability of Excess Funds.— (1) Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to section 3221(b)(6) of this title, but are excess to a cost analysis or target developed pursuant to subsection (b), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
+
+(2) Funds described in paragraph (1) may be used—
+
+(A) to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b);
+
+(B) to acquire additional end items in accordance with section 3069 of this title; or
+
+(C) to cover the cost of risk reduction and process improvements.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1812(a), (g), Jan. 1, 2021, 134 Stat. 4174, 4176; Pub. L. 119–60, div. A, title VIII, § 812(a)(5), Dec. 18, 2025, 139 Stat. 951.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of subsec. (f) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1812(g), was based on Pub. L. 111–383, div. A, title VIII, § 811(3), Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, § 833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 114–328, div. A, title VIII, § 842(a)(3), (b)(3), (6), Dec. 23, 2016, 130 Stat. 2288–2290; Pub. L. 116–92, div. A, title IX, § 902(53), Dec. 20, 2019, 133 Stat. 1549.
+
+Amendments2025—Subsec. (d)(2). Pub. L. 119–60 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Funds described in paragraph (1)— “(A) may be used— “(i) to cover any increased program costs identified by a revised cost analysis or target developed pursuant to subsection (b); “(ii) to acquire additional end items in accordance with the requirements of section 3069 of this title; or “(iii) to cover the cost of risk reduction and process improvements; and “(B) may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.” 2021—Subsec. (a). Pub. L. 116–283, § 1812(g)(1), (2)(A), (B), redesignated subsec. (f) of section 2334 of this title as subsec. (a) of this section, substituted “Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Negotiations or Obligation of Funds” for “Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes” in heading, struck out par. (1) designation before “The policies,”, and substituted “section 3221 of this title” for “subsection (a)” and “subsection (b)(6) of such section” for “subsection (a)(6)”. Pars. (2), (3), (4), and (5) of subsec. (a) redesignated subsecs. (b), (c), (d)(1), and (d)(2), respectively. Subsec. (b). Pub. L. 116–283, § 1812(g)(2)(C), redesignated subsec. (a)(2) as (b) and inserted heading. Subsec. (c). Pub. L. 116–283, § 1812(g)(2)(D), redesignated subsec. (a)(3) as (c), inserted heading, and substituted “The program manager” for “The Program Manager”, “subsection (a)” for “paragraph (1)”, and “subsection (b)” for “paragraph (2)”. Subsec. (d). Pub. L. 116–283, § 1812(g)(2)(E)(i), (iii), redesignated subsec. (a)(4) and (5) as (d)(1) and (2), respectively, inserted subsec. heading, and realigned margin of par. (2). Subsec. (d)(1). Pub. L. 116–283, § 1812(g)(2)(E)(ii), substituted “section 3221(b)(6) of this title” for “subsection (a)(6)” and “subsection (b)” for “paragraph (2)”. Subsec. (d)(2). Pub. L. 116–283, § 1812(g)(2)(E)(iv), substituted “paragraph (1)” for “paragraph (4)” in introductory provisions, “subsection (b)” for “paragraph (2)” in subpar. (A)(i), and “section 3069” for “section 2308” in subpar. (A)(ii).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

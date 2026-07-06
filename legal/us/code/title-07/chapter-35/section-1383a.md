@@ -1,0 +1,47 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 1383a"
+description: "Written consent for reconcentration of cotton"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "35"
+chapter_name: "AGRICULTURAL ADJUSTMENT ACT OF 1938"
+section: "1383a"
+citation: "7 U.S.C. § 1383a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s1383a"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "f3a36fbb1fc5e9251fab69b0c9ce50ac9c93635ad4c4ccd34c814f5d8d641036"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "aa4ffdc822ef0e6cb877ab367cf171c1bc8bbc69003a11e896255546d457e0e1"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 1383a - Written consent for reconcentration of cotton
+
+## Text
+
+In the administration of section 1383(b) of this title the written consent of the producer or borrower to the reconcentration of any cotton held as security for any loan heretofore or hereafter made or arranged for by the Commodity Credit Corporation shall not be deemed to have been given unless such consent shall have been given in an instrument made solely for that purpose. Notwithstanding any provision of any loan agreement heretofore made, no cotton held under any such agreement as security for any such loan shall be moved from one warehouse to another unless the written consent of the producer or borrower shall have been obtained in a separate instrument given solely for that purpose, as required by this section. The giving of written consent for the reconcentration of cotton shall not be made a condition upon the making of any loan hereafter made or arranged for by the Commodity Credit Corporation: Provided, however, That in cases where there is congestion and lack of storage facilities, and the local warehouse certifies such fact and requests the Commodity Credit Corporation to move the cotton for reconcentration to some other point, or when the Commodity Credit Corporation determines such loan cotton is improperly warehoused and subject to damage, or if uninsured, or if any of the terms of the loan agreement are violated, or if carrying charges are substantially in excess of the average of carrying charges available elsewhere, and the local warehouse, after notice, declines to reduce such charges, such written consent as provided in this section need not be obtained; and consent to movement under any of the conditions of this proviso may be required in future loan agreements.
+
+(June 16, 1938, ch. 480, 52 Stat. 762.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was not enacted as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
+
+Executive Documents
+
+Transfer of Functions Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Exceptions From Transfer of Functions Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.

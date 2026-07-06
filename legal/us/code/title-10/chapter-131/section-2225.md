@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2225"
+description: "Insider threat detection"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "131"
+chapter_name: "PLANNING AND COORDINATION"
+section: "2225"
+citation: "10 U.S.C. § 2225"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2225"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "04bded6f7285eb00a2d46561da18702a4aace91e14e024d910ad888575df3b40"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "86e7987416a34b6d43743e14029b0700ef7df3c43dbeeda753945ba74279f6ad"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2225 - Insider threat detection
+
+## Text
+
+(a) Program Required.— The Secretary of Defense shall establish a program for information sharing protection and insider threat mitigation for the information systems of the Department of Defense to detect unauthorized access to, use of, or transmission of classified or controlled unclassified information.
+
+(b) Elements.— The program established under subsection (a) shall include the following:
+
+(1) Technology solutions for deployment within the Department of Defense that allow for centralized monitoring and detection of unauthorized activities, including—
+
+(A) monitoring the use of external ports and read and write capability controls;
+
+(B) disabling the removable media ports of computers physically or electronically;
+
+(C) electronic auditing and reporting of unusual and unauthorized user activities;
+
+(D) using data-loss prevention and data-rights management technology to prevent the unauthorized export of information from a network or to render such information unusable in the event of the unauthorized export of such information;
+
+(E) a roles-based access certification system;
+
+(F) cross-domain guards for transfers of information between different networks; and
+
+(G) patch management for software and security updates.
+
+(2) Policies and procedures to support such program, including special consideration for policies and procedures related to international and interagency partners and activities in support of ongoing operations in areas of hostilities.
+
+(3) A governance structure and process that integrates information security and sharing technologies with the policies and procedures referred to in paragraph (2). Such structure and process shall include—
+
+(A) coordination with the existing security clearance and suitability review process;
+
+(B) coordination of existing anomaly detection techniques, including those used in counterintelligence investigation or personnel screening activities; and
+
+(C) updating and expediting of the classification review and marking process.
+
+(4) A continuing analysis of—
+
+(A) gaps in security measures under the program; and
+
+(B) technology, policies, and processes needed to increase the capability of the program beyond the initially established full operating capability to address such gaps.
+
+(5) A baseline analysis framework that includes measures of performance and effectiveness.
+
+(6) A plan for how to ensure related security measures are put in place for other departments or agencies with access to Department of Defense networks.
+
+(7) A plan for enforcement to ensure that the program is being applied and implemented on a uniform and consistent basis.
+
+(Added Pub. L. 119–60, div. A, title XVI, § 1623(a), Dec. 18, 2025, 139 Stat. 1183.)
+
+## Notes
+
+Editorial Notes
+
+Codification Text of section, as added by Pub. L. 119–60, is based on text of subsecs. (a) and (b) of section 922 of Pub. L. 112–81, div. A, title IX, Dec. 31, 2011, 125 Stat. 1537, which was formerly set out in a note under section 2224 of this title, prior to repeal by Pub. L. 119–60, div. A, title XVI, § 1623(b), Dec. 18, 2025, 139 Stat. 1183.
+
+Prior ProvisionsA prior section 2225, added Pub. L. 106–398, § 1 [[div. A], title VIII, § 812(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, § 4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, § 1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, § 5(b)(6), Jan. 4, 2011, 124 Stat. 3842, related to tracking and management of information technology purchases, prior to repeal by Pub. L. 114–328, div. A, title VIII, § 833(b)(2)(A), Dec. 23, 2016, 130 Stat. 2284.

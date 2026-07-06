@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8669a"
+description: "Construction of combatant and escort vessels and assignment of vessel projects"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "863"
+chapter_name: "NAVAL VESSELS"
+section: "8669a"
+citation: "10 U.S.C. § 8669a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8669a"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "70a83a359220fb691e9a2a7c2b294a0d536ef79d55be897decbe895389174802"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "58578bb8a4e6c67b5c1b14dcfd42b5c39f3df594c0867ab57188793d203b9037"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8669a - Construction of combatant and escort vessels and assignment of vessel projects
+
+## Text
+
+(a) The assignment of naval vessel conversion, alteration, and repair projects shall be based on economic and military considerations and may not be restricted by a requirement that certain parts of naval shipwork be assigned to a particular type of shipyard or geographical area or by a similar requirement.
+
+(b) In evaluating bids or proposals for a contract for the overhaul, repair, or maintenance of a naval vessel, the Secretary of the Navy shall, in determining the cost or price of work to be performed in an area outside the area of the homeport of the vessel, consider foreseeable costs of moving the vessel and its crew from the homeport to the outside area and from the outside area back to the homeport at the completion of the contract.
+
+(c) (1) Before issuing a solicitation for a contract for short-term work for the overhaul, repair, or maintenance of a naval vessel, the Secretary of the Navy shall determine if there is adequate competition available among firms able to perform the work at the homeport of the vessel. If the Secretary determines that there is adequate competition among such firms, the Secretary—
+
+(A) shall issue such a solicitation only to firms able to perform the work at the homeport of the vessel; and
+
+(B) may not award such contract to a firm other than a firm that will perform the work at the homeport of the vessel.
+
+(2) Paragraph (1) applies notwithstanding subsection (a) or any other provision of law.
+
+(3) Paragraph (1) does not apply in the case of voyage repairs.
+
+(4) In this subsection, the term “short-term work” means work that will be for a period of 18 months or less.
+
+(Added Pub. L. 97–295, § 1(48)(A), Oct. 12, 1982, 96 Stat. 1298, § 7299a; amended Pub. L. 99–661, div. A, title XII, § 1201(a), Nov. 14, 1986, 100 Stat. 3967; Pub. L. 100–180, div. A, title XI, § 1101, Dec. 4, 1987, 101 Stat. 1145; Pub. L. 101–510, div. A, title XIV, § 1422, Nov. 5, 1990, 104 Stat. 1682; Pub. L. 102–484, div. A, title X, § 1016, Oct. 23, 1992, 106 Stat. 2485; Pub. L. 114–328, div. A, title X, § 1021, Dec. 23, 2016, 130 Stat. 2388; renumbered § 8669a, Pub. L. 115–232, div. A, title VIII, § 807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 118–159, div. A, title X, § 1023(a), Dec. 23, 2024, 138 Stat. 2052; Pub. L. 119–60, div. A, title X, § 1012, Dec. 18, 2025, 139 Stat. 1030.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 7299a10:7291 (note).June 11, 1965, Pub. L. 89–37, §§ 302, 303, 79 Stat. 128. In subsection (a), the words “combatant vessels” are substituted for “warships” for consistency in title 10 and because of 1:3. The words “for which appropriations are authorized by this Act and hereafter” are omitted as unnecessary.
+
+Editorial Notes
+
+Amendments2025—Subsec. (c)(4). Pub. L. 119–60 substituted “18 months” for “12 months”. 2024—Subsec. (c)(4). Pub. L. 118–159 substituted “12 months” for “10 months”. 2018—Pub. L. 115–232 renumbered section 7299a of this title as this section. 2016—Subsec. (c)(4). Pub. L. 114–328 substituted “10 months” for “six months”. 1992—Subsec. (a). Pub. L. 102–484, § 1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that the first and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.” Subsec. (b). Pub. L. 102–484, § 1016(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a). Subsecs. (c), (d). Pub. L. 102–484, § 1016(b), redesignated subsec. (d) as (c) and substituted “subsection (a)” for “subsection (b)” in par. (2). Former subsec. (c) redesignated (b). 1990—Subsec. (d)(3). Pub. L. 101–510 substituted “apply in the case of voyage repairs.” for “apply— “(A) in the case of voyage repairs; or “(B) in the case of a vessel that is assigned to the Naval Reserve force and homeported on the West Coast of the United States.” 1987—Subsec. (d). Pub. L. 100–180 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “(1) Notwithstanding subsections (b) and (c), the Secretary may award a contract for short-term work for the overhaul, repair, or maintenance of a naval vessel only to a contractor that is able to perform the work at the homeport of the vessel, if the Secretary determines that adequate competition is available among firms able to perform the work at the homeport of the vessel. “(2) In this subsection, the term ‘short-term work’ means work that will be for a period of six months or less.” 1986—Subsecs. (c), (d). Pub. L. 99–661 added subsecs. (c) and (d).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Executive Documents
+
+Delegation of Authority For delegation of authority of President under subsec. (a) of this section, see section 2 of Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, set out as a note under section 113 of this title.

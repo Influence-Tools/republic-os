@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3863"
+description: "Retention of amounts collected from contractor during the pendency of contract dispute"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "281"
+chapter_name: "CLAIMS AND DISPUTES"
+section: "3863"
+citation: "10 U.S.C. § 3863"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3863"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "a2ae2d864bf92251e641823140e8a0fcb0cbb9d592647cf42283dd0906c09136"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "49875bfb550f623cacb3877524ac839c6048f81b819f1c137730f5197217d4b6"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3863 - Retention of amounts collected from contractor during the pendency of contract dispute
+
+## Text
+
+(a) Retention of Funds.— Notwithstanding sections 1552(a) and 3302(b) of title 31, any amount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under chapter 71 of title 41, shall remain available in accordance with this section to pay—
+
+(1) any settlement of the claim by the parties;
+
+(2) any judgment rendered in the contractor’s favor on an appeal of the decision on that claim to the Armed Services Board of Contract Appeals under section 7104(a) of title 41; or
+
+(3) any judgment rendered in the contractor’s favor in an action on that claim in a court of the United States.
+
+(b) Period of Availability.— (1) The period of availability of an amount under subsection (a), in connection with a claim—
+
+(A) expires 180 days after the expiration of the period for bringing an action on that claim in the United States Court of Federal Claims under section 7104(b) of title 41 if, within that 180-day period—
+
+(i) no appeal on the claim is commenced at the Armed Services Board of Contract Appeals under section 7104(a) of such title; and
+
+(ii) no action on the claim is commenced in a court of the United States; or
+
+(B) if not expiring under subparagraph (A), expires—
+
+(i) in the case of a settlement of the claim, 180 days after the date of the settlement; or
+
+(ii) in the case of a judgment rendered on the claim in an appeal to the Armed Services Board of Contract Appeals under section 7104(a) of title 41 or an action in a court of the United States, 180 days after the date on which the judgment becomes final and not appealable.
+
+(2) While available under this section, an amount may be obligated or expended only for a purpose described in subsection (a).
+
+(3) Upon the expiration of the period of availability of an amount under paragraph (1), the amount shall be covered into the Treasury as miscellaneous receipts.
+
+(Added Pub. L. 105–85, div. A, title VIII, § 831(a), Nov. 18, 1997, 111 Stat. 1841, § 2410m; amended Pub. L. 108–136, div. A, title X, § 1031(a)(21), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 111–350, § 5(b)(32), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, § 1061(15), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 113–291, div. A, title X, § 1071(a)(8), Dec. 19, 2014, 128 Stat. 3504; renumbered § 3863, Pub. L. 116–283, div. A, title XVIII, § 1836(b), Jan. 1, 2021, 134 Stat. 4241.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283 renumbered section 2410m of this title as this section. 2014—Subsec. (b)(1)(A)(i). Pub. L. 113–291, § 1071(a)(8)(A), substituted “section 7104(a) of such title” for “section 7 of such Act”. Subsec. (b)(1)(B)(ii). Pub. L. 113–291, § 1071(a)(8)(B), substituted “section 7104(a) of title 41” for “section 7 of the Contract Disputes Act of 1978”. 2011—Subsec. (a). Pub. L. 111–350, § 5(b)(32)(A), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)” in introductory provisions. Subsec. (a)(2). Pub. L. 111–350, § 5(b)(32)(B), substituted “section 7104(a) of title 41” for “section 7 of such Act (41 U.S.C. 606)”. Subsec. (b)(1)(A). Pub. L. 111–350, § 5(b)(32)(C), substituted “section 7104(b) of title 41” for “section 10(a) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a))” in introductory provisions. Subsec. (c). Pub. L. 112–81 struck out subsec. (c), which required submission of annual report on amounts available for obligation. 2003—Subsec. (c). Pub. L. 108–136, § 1031(a)(21)(A), substituted “Annual Report” for “Reporting Requirement” in heading and “Not later than 60 days after the end of each fiscal year” for “Each year” in introductory provisions. Subsec. (c)(1). Pub. L. 108–136, § 1031(a)(21)(B), inserted “at the end of such fiscal year” before period at end. Subsec. (c)(2). Pub. L. 108–136, § 1031(a)(21)(C), substituted “under this section during that fiscal year” for “during the year preceding the year in which the report is submitted”. Subsec. (c)(3). Pub. L. 108–136, § 1031(a)(21)(D), substituted “under this section during that fiscal year” for “in such preceding year”. Subsec. (c)(4). Pub. L. 108–136, § 1031(a)(21)(E), substituted “under this section during that fiscal year” for “in such preceding year”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

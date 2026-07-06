@@ -1,0 +1,113 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2891c"
+description: "Transparency regarding finances and performance metrics"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "169"
+chapter_name: "MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING"
+section: "2891c"
+citation: "10 U.S.C. § 2891c"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2891c"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "0974a0cf969c754a461a03b4d2c97e57508f38ecfd01b8b2f8650f7b90a14713"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6b7bdd0338d908b413c0eeedb05be649a5a06ff7979633a10d4a5e438811e487"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2891c - Transparency regarding finances and performance metrics
+
+## Text
+
+(a) Submission of Landlord Financial Information.— (1) Not less frequently than annually, the Secretary of Defense shall require that each landlord submit to the Secretary a report providing information regarding all housing units provided by the landlord.
+
+(2) Information provided under paragraph (1) by a landlord shall include the following:
+
+(A) A comprehensive summary of the landlord’s financial performance.
+
+(B) The amount of base management fees relating to all housing units provided by the landlord.
+
+(C) The amount of asset management fees relating to such housing units.
+
+(D) The amount of preferred return fees relating to such housing units.
+
+(E) The residual cashflow distributions relating to such housing units.
+
+(F) The amount of deferred fees or other fees relating to such housing units.
+
+(G) Information with respect to each insurance policy maintained by the landlord for such housing units, including the—
+
+(i) scope of coverage;
+
+(ii) deductible;
+
+(iii) policy limit; and
+
+(iv) total premium amount.
+
+(H) The total amount of any payments made by the landlord to tenants of such housing units pursuant to a dispute resolution process.
+
+(3) In this subsection:
+
+(A) The term “base management fees” means the monthly management fees collected for services associated with accepting and processing rent payments, ensuring tenant rent payments, property inspections, maintenance management, and emergency maintenance calls.
+
+(B) the term “asset management fees” means fees paid to manage a housing unit for the purpose of ensuring the housing unit is maintained in good condition and making repairs over the lifecycle of the housing unit.
+
+(C) the term “preferred return fees” means fees associated with any claims on profits furnished to preferred investors with an interest in the housing unit.
+
+(D) the term “residual cashflow distribution” means the steps a specific housing project takes to restructure after it is determined that the project is in an unacceptable financial condition.
+
+(E) the term “deferred fee” means any fee that was not paid to a person in a calendar year in order to meet other financial obligations of the landlord.
+
+(b) Availability of Information on Performance Metrics and Use of Incentive Fees.— (1) Not less frequently than annually, the Secretary of Defense shall make available, upon request of a tenant, at the applicable installation housing office the following:
+
+(A) An assessment of the indicators underlying the performance metrics for each contract for the provision or management of housing units to ensure such indicators adequately measure the condition and quality of each housing unit covered by the contract.
+
+(B) Information regarding the use by the Secretary concerned of incentive fees to support contracts for the provision or management of housing units.
+
+(2) (A) For purposes of paragraph (1)(A), the indicators underlying the performance metrics for a contract for the provision or management of housing units shall measure at a minimum the following:
+
+(i) Tenant satisfaction.
+
+(ii) Maintenance management.
+
+(iii) Safety.
+
+(iv) Financial management.
+
+(B) An assessment required to be made available under paragraph (1)(A) shall include a detailed description of each indicator underlying the performance metrics, including the following information:
+
+(i) The limitations of available survey data.
+
+(ii) How tenant satisfaction and maintenance management is calculated.
+
+(iii) Whether any relevant data is missing.
+
+(3) The information provided under paragraph (1)(B) shall include, with respect to each contract for the provision or management of housing units, the following:
+
+(A) The applicable incentive fees.
+
+(B) The metrics used to determine the incentive fees.
+
+(C) Whether incentive fees were paid in full, or were withheld in part or in full, during the period covered by the release of information.
+
+(D) If any incentive fees were withheld, the reasons for such withholding.
+
+(Added Pub. L. 116–92, div. B, title XXX, § 3016(a), Dec. 20, 2019, 133 Stat. 1927; amended Pub. L. 116–283, div. B, title XXVIII, § 2814(a)–(d)(1), Jan. 1, 2021, 134 Stat. 4327, 4328; Pub. L. 119–60, div. B, title XXVIII, § 2825, Dec. 18, 2025, 139 Stat. 1308.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a)(2)(G), (H). Pub. L. 119–60 added subpars. (G) and (H). 2021—Pub. L. 116–283, § 2814(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Financial transparency”. Subsec. (b). Pub. L. 116–283, § 2814(a)(1), inserted “Performance Metrics and” before “Use of Incentive Fees” in heading. Subsec. (b)(1). Pub. L. 116–283, § 2814(a)(2), substituted “shall make available, upon request of a tenant, at the applicable installation housing office the following: (A) An assessment of the indicators underlying the performance metrics for each contract for the provision or management of housing units to ensure such indicators adequately measure the condition and quality of each housing unit covered by the contract. (B) Information” for “shall publish, on a publicly accessible website, information”. Subsec. (b)(2). Pub. L. 116–283, § 2814(b)(2), added par. (2). Former par. (2) redesignated (3). Subsec. (b)(3). Pub. L. 116–283, § 2814(b)(1), (c), redesignated par. (2) as (3) and substituted “paragraph (1)(B)” for “paragraph (1)” and “each contract for the provision or management of housing units” for “each contract” in introductory provisions.

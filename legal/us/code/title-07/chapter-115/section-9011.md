@@ -1,0 +1,177 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 9011"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "115"
+chapter_name: "AGRICULTURAL COMMODITY POLICY AND PROGRAMS"
+section: "9011"
+citation: "7 U.S.C. § 9011"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s9011"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "48d55efcf28e5a4453502c5c51b2cfa5ece5b5cedecfa463d2c79f5c89a04e7e"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "a30da68acb9c7e56363c79185f2874f8e7e3f6c9e8965f8192470da26498ac6e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 9011 - Definitions
+
+## Text
+
+In this subchapter and subchapter II:
+
+(1) Actual crop revenue The term “actual crop revenue”, with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(b) of this title.
+
+(2) Agriculture risk coverage The term “agriculture risk coverage” means coverage provided under section 9017 of this title.
+
+(3) Agriculture risk coverage guarantee The term “agriculture risk coverage guarantee”, with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(c) of this title.
+
+(4) Base acres (A) In general The term “base acres”, with respect to a covered commodity on a farm, means the number of acres in effect under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8718, and 8752 of this title, as in effect on September 30, 2013, subject to any reallocation, adjustment, or reduction under section 9012 of this title.
+
+(B) Inclusion of generic base acres The term “base acres” includes any generic base acres planted to a covered commodity as determined in section 9014(b) of this title.
+
+(5) County coverage The term “county coverage” means agriculture risk coverage selected under section 9015(b)(1) of this title to be obtained at the county level.
+
+(6) Covered commodity (A) In general The term “covered commodity” means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+
+(B) Inclusion Effective beginning with the 2018 crop year, the term “covered commodity” includes seed cotton.
+
+(7) Effective price The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 9016(b) of this title to determine whether price loss coverage payments are required to be provided for that crop year.
+
+(8) Effective reference price The term “effective reference price”, with respect to a covered commodity for a crop year, means the lesser of the following:
+
+(A) An amount equal to 115 percent of the reference price for such covered commodity.
+
+(B) An amount equal to the greater of—
+
+(i) the reference price for such covered commodity; or
+
+(ii) beginning with the crop year 2025, 88 percent of the average of the marketing year average price of the covered commodity for the most recent 5 crop years, excluding each of the crop years with the highest and lowest marketing year average price.
+
+(9) Extra long staple cotton The term “extra long staple cotton” means cotton that—
+
+(A) is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+
+(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
+
+(10) Generic base acres The term “generic base acres” means the number of base acres for cotton in effect under section 8702 of this title, as adjusted pursuant to section 8711 of this title, as in effect on September 30, 2013, subject to any adjustment or reduction under section 9012 of this title.
+
+(11) Individual coverage The term “individual coverage” means agriculture risk coverage selected under section 9015(b)(2) of this title to be obtained at the farm level.
+
+(12) Medium grain rice The term “medium grain rice” includes short grain rice and temperate japonica rice.
+
+(13) Other oilseed The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, crambe, sesame seed, or any oilseed designated by the Secretary.
+
+(14) Payment acres The term “payment acres”, with respect to the provision of price loss coverage payments and agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
+
+(15) Payment yield The term “payment yield”, for a farm for a covered commodity—
+
+(A) means the yield used to make payments pursuant to section 8714 or 8754 of this title, as in effect on September 30, 2013; or
+
+(B) means the yield established under section 9013 of this title.
+
+(16) Price loss coverage The term “price loss coverage” means coverage provided under section 9016 of this title.
+
+(17) Producer (A) In general The term “producer” means an owner, operator, landlord, tenant, or sharecropper that shares in the risk of producing a crop and is entitled to share in the crop available for marketing from the farm, or would have shared had the crop been produced.
+
+(B) Hybrid seed In determining whether a grower of hybrid seed is a producer, the Secretary shall—
+
+(i) not take into consideration the existence of a hybrid seed contract; and
+
+(ii) ensure that program requirements do not adversely affect the ability of the grower to receive a payment under this chapter.
+
+(18) Pulse crop The term “pulse crop” means dry peas, lentils, small chickpeas, and large chickpeas.
+
+(19) Reference price (A) In general Effective beginning with the 2025 crop year, subject to subparagraphs (B) and (C), the term “reference price”, with respect to a covered commodity for a crop year, means the following:
+
+(i) For wheat, $6.35 per bushel.
+
+(ii) For corn, $4.10 per bushel.
+
+(iii) For grain sorghum, $4.40 per bushel.
+
+(iv) For barley, $5.45 per bushel.
+
+(v) For oats, $2.65 per bushel.
+
+(vi) For long grain rice, $16.90 per hundredweight.
+
+(vii) For medium grain rice, $16.90 per hundredweight.
+
+(viii) For soybeans, $10.00 per bushel.
+
+(ix) For other oilseeds, $23.75 per hundredweight.
+
+(x) For peanuts, $630.00 per ton.
+
+(xi) For dry peas, $13.10 per hundredweight.
+
+(xii) For lentils, $23.75 per hundredweight.
+
+(xiii) For small chickpeas, $22.65 per hundredweight.
+
+(xiv) For large chickpeas, $25.65 per hundredweight.
+
+(xv) For seed cotton, $0.42 per pound.
+
+(B) Effectiveness Effective beginning with the 2031 crop year, the reference prices defined in subparagraph (A) with respect to a covered commodity shall equal the reference price in the previous crop year multiplied by 1.005.
+
+(C) Limitation In no case shall a reference price for a covered commodity exceed 113 percent of the reference price for such covered commodity listed in subparagraph (A).
+
+(20) Secretary The term “Secretary” means the Secretary of Agriculture.
+
+(21) Seed cotton The term “seed cotton” means unginned upland cotton that includes both lint and seed.
+
+(22) State The term “State” means—
+
+(A) a State;
+
+(B) the District of Columbia;
+
+(C) the Commonwealth of Puerto Rico; and
+
+(D) any other territory or possession of the United States.
+
+(23) Temperate japonica rice The term “temperate japonica rice” means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by the Secretary, for the purpose of—
+
+(A) the reallocation of base acres under section 9012 of this title;
+
+(B) the establishment of a reference price (as required under section 9016(g) of this title) and an effective price pursuant to section 9016 of this title; and
+
+(C) the determination of the actual crop revenue and agriculture risk coverage guarantee pursuant to section 9017 of this title.
+
+(24) Transitional yield The term “transitional yield” has the meaning given the term in section 1502(b) of this title.
+
+(25) United States The term “United States”, when used in a geographical sense, means all of the States.
+
+(26) United States Premium Factor The term “United States Premium Factor” means the percentage by which the difference in the United States loan schedule premiums for Strict Middling (SM) 1⅛-inch upland cotton and for Middling (M) 13⁄32-inch upland cotton exceeds the difference in the applicable premiums for comparable international qualities.
+
+(Pub. L. 113–79, title I, § 1111, Feb. 7, 2014, 128 Stat. 659; Pub. L. 115–123, div. F, § 60101(a)(1)–(3), Feb. 9, 2018, 132 Stat. 308; Pub. L. 115–334, title I, § 1101, Dec. 20, 2018, 132 Stat. 4500; Pub. L. 119–21, title I, § 10301, July 4, 2025, 139 Stat. 86.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 1101–1109) of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables. This chapter, referred to in par. (17)(B)(ii), was in the original “this title”, meaning title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
+Amendments2025—Par. (8)(B)(ii). Pub. L. 119–21, § 10301(a), substituted “beginning with the crop year 2025, 88” for “85”. Par. (19). Pub. L. 119–21, § 10301(b), added par. (19) and struck out former par. (19) which related to reference prices with respect to covered commodities for a crop year. 2018—Par. (6). Pub. L. 115–123, § 60101(a)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B). Pars. (8) to (18). Pub. L. 115–334, § 1101, added par. (8) and redesignated former pars. (8) to (17) as (9) to (18), respectively. Former par. (18) redesignated (19). Par. (18)(O). Pub. L. 115–123, § 60101(a)(2), added subpar. (O). Par. (19). Pub. L. 115–334, § 1101(1), redesignated par. (18) as (19). Former par. (19) redesignated (20). Pars. (20) to (25). Pub. L. 115–334, § 1101(1), redesignated pars. (19) to (24) as (20) to (25), respectively. Former par. (25) redesignated (26). Pub. L. 115–123, § 60101(a)(3), added par. (20) and redesignated former pars. (20) to (24) as (21) to (25), respectively. Par. (26). Pub. L. 115–334, § 1101(1), redesignated par. (25) as (26).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentPub. L. 115–123, div. F, § 60101(a)(13), Feb. 9, 2018, 132 Stat. 311, provided that: “Except as provided in paragraph (10) [amending section 1508b of this title], the amendments made by this subsection [amending this section and sections 1508b, 9013 to 9016, and 9032 of this title] shall apply beginning with the 2018 crop year.”
+
+AdministrationPub. L. 115–123, div. F, § 60101(a)(12), Feb. 9, 2018, 132 Stat. 311, provided that: “The Secretary of Agriculture shall carry out the amendments made by this subsection [amending this section and sections 1508b, 9013 to 9016, and 9032 of this title] in accordance with section 1601 of the Agricultural Act of 2014 (7 U.S.C. 9091).”
+
+Popcorn AcreagePub. L. 108–7, div. A, title VII, § 767, Feb. 20, 2003, 117 Stat. 48, as amended by Pub. L. 113–79, title I, § 1609(c), Feb. 7, 2014, 128 Stat. 709, provided that: “Notwithstanding any other provision of law, for purposes of administering subtitle A of title I of the Agricultural Act of 2014 [7 U.S.C. 9011 et seq.], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: Provided, That if a farm program payment yield for corn is otherwise established for a farm under such subtitle, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: Provided further, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area.”

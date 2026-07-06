@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 935"
+description: "Art. 135. Courts of inquiry"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "47"
+chapter_name: "UNIFORM CODE OF MILITARY JUSTICE"
+section: "935"
+citation: "10 U.S.C. § 935"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s935"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "e0f790d61737e1b2799c766c14827ef35f145a8fec18015e427f77db40c1d574"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "fe29e9fce453ddf8a313f8187e0c1ea6b2dc0de91983ac864f3f46f9640bb171"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 935 - Art. 135. Courts of inquiry
+
+## Text
+
+(a) Courts of inquiry to investigate any matter may be convened by any person authorized to convene a general court-martial or by any other person designated by the Secretary concerned for that purpose, whether or not the persons involved have requested such an inquiry.
+
+(b) A court of inquiry consists of three or more commissioned officers. For each court of inquiry the convening authority shall also appoint counsel for the court.
+
+(c) (1) Any person subject to this chapter whose conduct is subject to inquiry shall be designated as a party.
+
+(2) Any person who is (A) subject to this chapter, (B) employed by the Department of Defense, or (C) with respect to the Coast Guard, employed by the department in which the Coast Guard is operating when it is not operating as a service in the Navy, and who has a direct interest in the subject of inquiry has the right to be designated as a party upon request to the court.
+
+(3) Any person designated as a party shall be given due notice and has the right to be present, to be represented by counsel, to cross-examine witnesses, and to introduce evidence.
+
+(d) Members of a court of inquiry may be challenged by a party, but only for cause stated to the court.
+
+(e) The members, counsel, the reporter, and interpreters of courts of inquiry shall take an oath to faithfully perform their duties.
+
+(f) Witnesses may be summoned to appear and testify and be examined before courts of inquiry, as provided for courts-martial.
+
+(g) Courts of inquiry shall make findings of fact but may not express opinions or make recommendations unless required to do so by the convening authority.
+
+(h) Each court of inquiry shall keep a record of its proceedings, which shall be authenticated by the signatures of the president and counsel for the court and forwarded to the convening authority. If the record cannot be authenticated by the president, it shall be signed by a member in lieu of the president. If the record cannot be authenticated by the counsel for the court, it shall be signed by a member in lieu of the counsel.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 76; Pub. L. 114–328, div. E, title LXI, § 5501, Dec. 23, 2016, 130 Stat. 2960.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 935(a)935(b)935(c)50:731(a).50:731(b).50:731(c).May 5, 1950, ch. 169, § 1 (Art. 135), 64 Stat. 143. 935(d)50:731(d). 935(e)50:731(e). 935(f)50:731(f). 935(g)50:731(g). 935(h)50:731(h). In subsection (a), the words “Secretary concerned” are substituted for the words “Secretary of a Department”. In subsection (b), the word “commissioned” is inserted for clarity. The word “consists” is substituted for the words “shall consist”. In subsection (c), the word “has” is substituted for the words “shall have”. In subsection (e), the words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. In subsection (g), the word “may” is substituted for the word “shall”. In subsection (h), the word “If” is substituted for the words “In case”.
+
+Editorial Notes
+
+Amendments2016—Subsec. (c). Pub. L. 114–328 designated first through third sentences as pars. (1) to (3), respectively, and, in par. (2), substituted “who is (A) subject to this chapter, (B) employed by the Department of Defense, or (C) with respect to the Coast Guard, employed by the department in which the Coast Guard is operating when it is not operating as a service in the Navy, and” for “subject to this chapter or employed by the Department of Defense”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentAmendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.

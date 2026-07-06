@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 6501"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "65"
+chapter_name: "TELEWORK"
+section: "6501"
+citation: "5 U.S.C. § 6501"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s6501"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "94c81edd0d86f51f70d8ac5c3f220beaabc9c4fd37e2323f782e3b47c26660b7"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "9c03363a6f152254c475ebf56bd2e9bddea9ff91b1af9abf11834d1975fd9015"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 6501 - Definitions
+
+## Text
+
+In this chapter:
+
+(1) Employee.— The term “employee” has the meaning given that term under section 2105.
+
+(2) Executive agency.— Except as provided in section 6506, the term “executive agency” has the meaning given that term under section 105.
+
+(3) Telework.— The term “telework” or “teleworking” refers to a work flexibility arrangement under which an employee performs the duties and responsibilities of such employee’s position, and other authorized activities, from an approved worksite other than the location from which the employee would otherwise work.
+
+(Added Pub. L. 111–292, § 2(a), Dec. 9, 2010, 124 Stat. 3165.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Telework ResearchPub. L. 111–292, § 4, Dec. 9, 2010, 124 Stat. 3173, provided that: “(a) Research by OPM on Telework.—The Director of the Office of Personnel Management shall—“(1) research the utilization of telework by public and private sector entities that identify best practices and recommendations for the Federal Government; “(2) review the outcomes associated with an increase in telework, including the effects of telework on energy consumption, job creation and availability, urban transportation patterns, and the ability to anticipate the dispersal of work during periods of emergency; and “(3) make any studies or reviews performed under this subsection available to the public. “(b) Use of Contract To Carry Out Research.—The Director of the Office of Personnel Management may carry out subsection (a) under a contract entered into by the Director using competitive procedures under section 303 of the Federal Property and Administrative Services Act of 1949 ([former] 41 U.S.C. 253) [see 41 U.S.C. 3105, 3301, 3303 to 3305]. “(c) Use of Other Federal Agencies.—The heads of Federal agencies with relevant jurisdiction over the subject matters in subsection (a)(2) shall work cooperatively with the Director of the Office of Personnel Management to carry out that subsection, if the Director determines that coordination is necessary to fulfill obligations under that subsection.”
+
+Implementation of Telecommuting ProgramsPub. L. 108–7, div. B, title VI, § 623, Feb. 20, 2003, 117 Stat. 103, as amended by Pub. L. 111–292, § 2(b)(2)(A), Dec. 9, 2010, 124 Stat. 3170, provided that: “Of the funds appropriated in this Act [div. B of Pub. L. 108–7, see Tables for classification] for the Departments of Commerce, Justice, and State, the Judiciary, and the Small Business Administration, $100,000 shall be available to each Department or agency only to implement telecommuting programs: Provided, That, 6 months after the date of enactment of this Act [Feb. 20, 2003] and every 6 months thereafter, each Department or agency shall provide a report to the Committees on Appropriations on the status of telecommuting programs, including the number of Federal employees eligible for, and participating in, such programs: Provided further, That each Department or agency shall designate a Telework Managing Officer to be responsible for overseeing the implementation of telecommuting programs and serve as a point of contact on such programs for the Committees on Appropriations.” Similar provisions were contained in the following appropriation acts: Pub. L. 109–108, title VI, § 617, Nov. 22, 2005, 119 Stat. 2340, as amended by Pub. L. 111–292, § 2(b)(2)(D), Dec. 9, 2010, 124 Stat. 3171. Pub. L. 108–447, div. B, title VI, § 622, Dec. 8, 2004, 118 Stat. 2919, as amended by Pub. L. 111–292, § 2(b)(2)(C), Dec. 9, 2010, 124 Stat. 3171. Pub. L. 108–199, div. B, title VI, § 627, Jan. 23, 2004, 118 Stat. 99, as amended by Pub. L. 111–292, § 2(b)(2)(B), Dec. 9, 2010, 124 Stat. 3171.
+
+Telecommuting in Executive AgenciesPub. L. 106–346, § 101(a) [title III, § 359], Oct. 23, 2000, 114 Stat. 1356, 1356A–36, provided that: “Each executive agency shall establish a policy under which eligible employees of the agency may participate in telecommuting to the maximum extent possible without diminished employee performance. Not later than 6 months after the date of the enactment of this Act [Oct. 23, 2000], the Director of the Office of Personnel Management shall provide that the requirements of this section are applied to 25 percent of the Federal workforce, and to an additional 25 percent of such workforce each year thereafter.”
+
+Executive Documents
+
+Return to In-Person Work Memorandum of President of the United States, Jan. 20, 2025, 90 F.R. 8251, provided: Memorandum for the Heads of Executive Departments and Agencies Heads of all departments and agencies in the executive branch of Government shall, as soon as practicable, take all necessary steps to terminate remote work arrangements and require employees to return to work in-person at their respective duty stations on a full-time basis, provided that the department and agency heads shall make exemptions they deem necessary. This memorandum shall be implemented consistent with applicable law. Donald J. Trump.

@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3063"
+description: "Covered agencies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "203"
+chapter_name: "GENERAL MATTERS"
+section: "3063"
+citation: "10 U.S.C. § 3063"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3063"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "577d4ad42873070438029da6ab30182d20b6cbc77fb74f40a537c734c5d8e780"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "c9cf4eeb74d6d4d3f89c3f5e255d495ed11d2bec20c8fc40825415c132d0d994"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3063 - Covered agencies
+
+## Text
+
+For purposes of any provision of law referring to this section, the agencies named in this section are the following:
+
+(1) The Department of Defense.
+
+(2) The Department of the Army.
+
+(3) The Department of the Navy.
+
+(4) The Department of the Air Force.
+
+(5) The Coast Guard.
+
+(6) The National Aeronautics and Space Administration.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(c)(1), (2), Jan. 1, 2021, 134 Stat. 4157.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of pars. (1) to (6) of section 2303(a) of this title, which were transferred to this section by Pub. L. 116–283, § 1807(c)(2), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–568, title III, § 301(b), July 29, 1958, 72 Stat. 432; Pub. L. 98–369, div. B, title VII, § 2722(b)(1)(C), (D), July 18, 1984, 98 Stat. 1187.
+
+Prior ProvisionsA prior section 3063 was renumbered section 7063 of this title.
+
+Amendments2021—Pars. (1) to (6). Pub. L. 116–283, § 1807(c)(2), transferred pars. (1) to (6) of section 2303(a) of this title to this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

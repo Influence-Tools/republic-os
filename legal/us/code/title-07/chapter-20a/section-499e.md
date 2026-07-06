@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 499e"
+description: "Liability to persons injured"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "20A"
+chapter_name: "PERISHABLE AGRICULTURAL COMMODITIES"
+section: "499e"
+citation: "7 U.S.C. § 499e"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s499e"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "b6375667c6c6e9973a322d5aed1e0c9c8dd575c9f7f5dd2c29b8ffe14bfa46fa"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "aeaded1f231352ab1fedbc5cf381c391e4f2d4978886a0078245059c4802f6ba"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 499e - Liability to persons injured
+
+## Text
+
+(a) Amount of damages If any commission merchant, dealer, or broker violates any provision of section 499b of this title he shall be liable to the person or persons injured thereby for the full amount of damages (including any handling fee paid by the injured person or persons under section 499f(a)(2) of this title) sustained in consequence of such violation.
+
+(b) Remedies Such liability may be enforced either (1) by complaint to the Secretary as hereinafter provided, or (2) by suit in any court of competent jurisdiction; but this section shall not in any way abridge or alter the remedies now existing at common law or by statute, and the provisions of this chapter are in addition to such remedies.
+
+(c) Trust on commodities and sales proceeds for benefit of unpaid suppliers, sellers, or agents; preservation of trust; jurisdiction of courts (1) It is hereby found that a burden on commerce in perishable agricultural commodities is caused by financing arrangements under which commission merchants, dealers, or brokers, who have not made payment for perishable agricultural commodities purchased, contracted to be purchased, or otherwise handled by them on behalf of another person, encumber or give lenders a security interest in, such commodities, or on inventories of food or other products derived from such commodities, and any receivables or proceeds from the sale of such commodities or products, and that such arrangements are contrary to the public interest. This subsection is intended to remedy such burden on commerce in perishable agricultural commodities and to protect the public interest.
+
+(2) Perishable agricultural commodities received by a commission merchant, dealer, or broker in all transactions, and all inventories of food or other products derived from perishable agricultural commodities, and any receivables or proceeds from the sale of such commodities or products, shall be held by such commission merchant, dealer, or broker in trust for the benefit of all unpaid suppliers or sellers of such commodities or agents involved in the transaction, until full payment of the sums owing in connection with such transactions has been received by such unpaid suppliers, sellers, or agents. Payment shall not be considered to have been made if the supplier, seller, or agent receives a payment instrument which is dishonored. The provisions of this subsection shall not apply to transactions between a cooperative association, as defined in section 1141j(a) of title 12, and its members.
+
+(3) The unpaid supplier, seller, or agent shall lose the benefits of such trust unless such person has given written notice of intent to preserve the benefits of the trust to the commission merchant, dealer, or broker within thirty calendar days (i) after expiration of the time prescribed by which payment must be made, as set forth in regulations issued by the Secretary, (ii) after expiration of such other time by which payment must be made, as the parties have expressly agreed to in writing before entering into the transaction, or (iii) after the time the supplier, seller, or agent has received notice that the payment instrument promptly presented for payment has been dishonored. The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust. When the parties expressly agree to a payment time period different from that established by the Secretary, a copy of any such agreement shall be filed in the records of each party to the transaction and the terms of payment shall be disclosed on invoices, accountings, and other documents relating to the transaction.
+
+(4) In addition to the method of preserving the benefits of the trust specified in paragraph (3), a licensee may use ordinary and usual billing or invoice statements to provide notice of the licensee’s intent to preserve the trust. The bill or invoice statement must include the information required by the last sentence of paragraph (3) and contain on the face of the statement the following: “The perishable agricultural commodities listed on this invoice are sold subject to the statutory trust authorized by section 5(c) of the Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 499e(c)). The seller of these commodities retains a trust claim over these commodities, all inventories of food or other products derived from these commodities, and any receivables or proceeds from the sale of these commodities until full payment is received.”.
+
+(5) The several district courts of the United States are vested with jurisdiction specifically to entertain (i) actions by trust beneficiaries to enforce payment from the trust, and (ii) actions by the Secretary to prevent and restrain dissipation of the trust.
+
+(June 10, 1930, ch. 436, § 5, 46 Stat. 534; Aug. 20, 1937, ch. 719, § 7, 50 Stat. 728; Pub. L. 98–273, § 1, May 7, 1984, 98 Stat. 165; Pub. L. 102–237, title X, § 1011(3), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§ 6, 8(b), Nov. 15, 1995, 109 Stat. 427, 429.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 555 of this title.
+
+Amendments1995—Subsec. (a). Pub. L. 104–48, § 8(b), inserted “(including any handling fee paid by the injured person or persons under section 499f(a)(2) of this title)” after “damages”. Subsec. (c)(3). Pub. L. 104–48, § 6(a), (b), struck out “and has filed such notice with the Secretary” before “within thirty calendar days” in first sentence and inserted after first sentence “The written notice to the commission merchant, dealer, or broker shall set forth information in sufficient detail to identify the transaction subject to the trust.” Subsec. (c)(4), (5). Pub. L. 104–48, § 6(c), added par. (4) and redesignated former par. (4) as (5). 1991—Subsec. (c)(2). Pub. L. 102–237 substituted “, as” for “(as” before “defined”. 1984—Subsec. (c). Pub. L. 98–273 added subsec. (c). 1937—Subsec. (a). Act Aug. 20, 1937, struck out “paragraph (1), (2), (3), or (4) of” after “provisions of”.

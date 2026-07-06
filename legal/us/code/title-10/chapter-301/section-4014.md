@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4014"
+description: "Coordination and communication of defense research activities and technology domain awareness"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "301"
+chapter_name: "RESEARCH AND ENGINEERING GENERALLY"
+section: "4014"
+citation: "10 U.S.C. § 4014"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4014"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "c2c3df44f629f7987b8f4c5ff8fc6ac96356fcf7ebd95184287963600576b2c9"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "ecfef9bceeef274df7c6d469efa57aea5bf1ac8984b67d831b60a118dcf5ae21"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4014 - Coordination and communication of defense research activities and technology domain awareness
+
+## Text
+
+(a) Coordination of Department of Defense Research, Development, and Technological Data.— The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of research, development, and technological data—
+
+(1) among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces;
+
+(2) among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters;
+
+(3) among other research facilities and other departments or agencies of the Federal Government that are engaged in research, development, and technological matters;
+
+(4) among private commercial, research institution, and university entities engaged in research, development, and technological matters potentially relevant to defense on a voluntary basis;
+
+(5) to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it may occur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
+
+(6) through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that convey successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
+
+(b) Defense Research Facility Defined.— In this section, the term “Defense research facility” has the meaning given that term by section 4125(b) of this title.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1841(d), Jan. 1, 2021, 134 Stat. 4243; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(E), Dec. 27, 2021, 135 Stat. 2151; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(30), Dec. 22, 2023, 137 Stat. 685.)
+
+## Notes
+
+Editorial Notes
+
+Codification The section catchline and text of subsec. (a) of section 2364 of this title, which were transferred to this section by Pub. L. 116–283, § 1841(d)(1), were based on Pub. L. 99–661, div. A, title II, § 234(c)(1), Nov. 14, 1986, 100 Stat. 3848; Pub. L. 100–26, § 3(1)(A), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title XII, § 1231(10)(B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 114–92, div. A, title II, § 214(a)(1), (3), Nov. 25, 2015, 129 Stat. 767, 768; Pub. L. 115–91, div. A, title X, § 1081(a)(34), Dec. 12, 2017, 131 Stat. 1596.
+
+Amendments2023—Subsec. (b). Pub. L. 118–31 substituted “section 4125(b) of this title” for “section 4142(b) of this title”. 2021—Pub. L. 116–283, § 1841(d)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(E), transferred section catchline and subsec. (a) of section 2364 of this title to this section. Subsec. (b). Pub. L. 116–283, § 1841(d)(2), added subsec. (b).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+Collaboration Between Defense Laboratories, Industry, and Academia; Open Campus ProgramPub. L. 115–232, div. A, title II, § 222, Aug. 13, 2018, 132 Stat. 1682, which authorized activities to prioritize innovative collaboration between Department of Defense science and technology reinvention laboratories, industry, and academia and provided for an open campus program for such laboratories, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(5)(A), Dec. 18, 2025, 139 Stat. 948.

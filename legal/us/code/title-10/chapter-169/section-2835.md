@@ -1,0 +1,79 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2835"
+description: "Long-term leasing of military family housing to be constructed"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "169"
+chapter_name: "MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING"
+section: "2835"
+citation: "10 U.S.C. § 2835"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2835"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "f221fecb65631c087b4d18d13eeaa17ab26a9aa2dcf29d8fd3e6f94d80180bb8"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "05c8a2a3778b130df4f55784c6eca5458924166c92bd8284a50a97e2aa8963a5"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2835 - Long-term leasing of military family housing to be constructed
+
+## Text
+
+(a) Build and Lease Authorized.— Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may enter into a contract for the lease of family housing units to be constructed or rehabilitated to residential use near a military installation within the United States under the Secretary’s jurisdiction at which there is a shortage of family housing. Housing units leased under this section shall be assigned, without rental charge, as family housing to members of the armed forces who are eligible for assignment to military family housing.
+
+(b) Submission and Authorization of Proposed Lease Contracts.— (1) The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into a lease contract under subsection (a) for such military housing as is authorized by law for the purposes of this section.
+
+(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing projects for which lease contracts are proposed to be entered into under subsection (a) in such fiscal year.
+
+(c) Competitive Process.— Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 11 See References in Text note below. of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
+
+(d) Conditions on Obligation of Funds.— A lease contract entered into for a military housing project under subsection (a) shall include the following provisions:
+
+(1) A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that project.
+
+(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.
+
+(3) A statement that such a commitment entered into under the authority of this section does not constitute an obligation of the United States.
+
+(4) A requirement that housing units constructed pursuant to the contract shall be constructed—
+
+(A) to Department of Defense specifications, in the case of a Department of Defense contract; and
+
+(B) to Department of Homeland Security specifications, in the case of a contract for the Coast Guard.
+
+(e) Lease Term.— A contract under this section may be for any period not in excess of 20 years (excluding the period required for construction of the housing facilities).
+
+(f) Right of First Refusal to Acquire.— A contract under this section shall provide that, upon the termination of the lease period, the United States shall have the right of first refusal to acquire all right, title, and interest to the housing facilities constructed and leased under the contract.
+
+(g) Notice and Wait Requirements.— A contract may be entered into for the lease of housing facilities under this section only after the end of the 14-day period beginning on the date on which the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities.
+
+(h) Support Buildings.— A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
+
+(Added Pub. L. 102–190, div. B, title XXVIII, § 2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. B, title XXVIII, § 2803(e), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 112–239, div. A, title X, § 1076(f)(35), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 115–91, div. B, title XXVIII, § 2801(b)(5), Dec. 12, 2017, 131 Stat. 1843.)
+
+## Notes
+
+Editorial Notes
+
+References in TextChapter 137 of this title, referred to in subsec. (c), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+
+Prior ProvisionsProvisions similar to those in this section were contained in subsec. (g) of section 2828 of this title, prior to repeal by Pub. L. 102–190, § 2806(b)(1).
+
+Amendments2017—Subsec. (g). Pub. L. 115–91 added subsec. (g) and struck out former subsec. (g) which set out written notice and wait requirements. 2013—Subsec. (a), (g)(1). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard”. 2011—Subsec. (g)(2). Pub. L. 111–383 struck out “calendar” after “21” and inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to section 480 of this title”. 2002—Subsecs. (a) to (c), (d)(4)(B), (g)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2002 AmendmentAmendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
+Effective DateSection applicable with respect to contracts entered into under this section on or after Dec. 5, 1991, see section 2806(c) of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 2828 of this title.

@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3155"
+description: "Training for personnel outside acquisition workforce"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "209"
+chapter_name: "OPERATIONAL CONTRACT SUPPORT"
+section: "3155"
+citation: "10 U.S.C. § 3155"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3155"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "a77d27584374f30153caf201f7d7af0879c57e82e9e6a813b1025b3d46a9a6bb"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "454b3d3945af1c02ce8c8775d3222c27f4d97119b659c8af2698823b4bf4e0de"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3155 - Training for personnel outside acquisition workforce
+
+## Text
+
+(a) Required Training.— The joint policy for requirements definition, contingency program management, and contingency contracting required by section 3151 of this title shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
+
+(b) Scope of Training.— Training under subsection (a) shall be sufficient to ensure that the military personnel referred to in that subsection—
+
+(1) understand the scope and scale of contractor support they will experience in contingency operations; and
+
+(2) are prepared for their roles and responsibilities with regard to—
+
+(A) requirements definition;
+
+(B) program management (including contractor oversight); and
+
+(C) contingency contracting.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1810(a), (b)(5), Jan. 1, 2021, 134 Stat. 4162, 4163.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of subsec. (e)(1) and (2) of section 2333 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1810(b)(5), was based on Pub. L. 110–181, div. A, title VIII, § 849(a), Jan. 28, 2008, 122 Stat. 245.
+
+Amendments2021—Subsec. (a). Pub. L. 116–283, § 1810(b)(5)(A), (B), redesignated subsec. (e)(1) and (2) of section 2333 of this title as subsec. (a) of this section, in heading, substituted “Required Training” for “Training for Personnel Outside Acquisition Workforce”, and, in text, struck out par. (1) designation at beginning and substituted “section 3151 of this title” for “subsection (a)”. Par. (2) subsequently redesignated subsec. (b). Subsec. (b). Pub. L. 116–283, § 1810(b)(5)(C), redesignated subsec. (a)(2) as (b), inserted heading, and substituted “Training under subsection (a)” for “Training under paragraph (1)” and “referred to in that subsection—” and pars. (1) and (2) for “referred to in that paragraph understand the scope and scale of contractor support they will experience in contingency operations and are prepared for their roles and responsibilities with regard to requirements definition, program management (including contractor oversight), and contingency contracting.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

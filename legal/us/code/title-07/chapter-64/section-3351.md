@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 3351"
+description: "Special authorization for biosecurity planning and response"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "64"
+chapter_name: "AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING"
+section: "3351"
+citation: "7 U.S.C. § 3351"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s3351"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "68ca9a02ab8718ab5ce2d51cf810aa9bde3cefff0ffce2385c4c819870c040da"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "16e2013bd6b90fdea1afb6d1a54c36ba89898a802ddb4defdf8c88978d3fb57f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 3351 - Special authorization for biosecurity planning and response
+
+## Text
+
+(a) Authorization of appropriations In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriated for agricultural research, education, and extension activities for biosecurity planning and response—
+
+(1) such sums as are necessary for each of fiscal years 2002 through 2013;
+
+(2) $20,000,000 for each of fiscal years 2014 through 2018; and
+
+(3) $30,000,000 for each of fiscal years 2019 through 2023.
+
+(b) Use of funds Using any authority available to the Secretary, the Secretary shall use funds made available under this section to carry out agricultural research, education, and extension activities (including through competitive grants and cooperative agreements) for the following:
+
+(1) To reduce the vulnerability of the United States food and agricultural system to chemical or biological attack.
+
+(2) To continue partnerships with institutions of higher education and other institutions to help form stable, long-term programs to enhance the biosecurity of the United States, including the coordination of the development, implementation, and enhancement of diverse capabilities for addressing threats to the Nation’s agricultural economy and food supply with special emphasis on planning, training, outreach, and research activities related to vulnerability analyses, incident response, and detection and prevention technologies.
+
+(3) To award competitive grants and cooperative agreements to universities and qualified research institutions for research on counterbioterrorism.
+
+(4) To counter or otherwise respond to chemical or biological attack.
+
+(5) To coordinate the tactical science activities of the Research, Education, and Economics mission area of the Department that protect the integrity, reliability, sustainability, and profitability of the food and agricultural system of the United States against biosecurity threats from pests, diseases, contaminants, and disasters.
+
+(Pub. L. 95–113, title XIV, § 1484, as added Pub. L. 107–171, title VII, § 7221(a), May 13, 2002, 116 Stat. 452; amended Pub. L. 110–234, title VII, § 7142, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, § 4(a), title VII, § 7142, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, § 7126, Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, § 7135, Dec. 20, 2018, 132 Stat. 4802.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThis chapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under section 3102 of this title and Tables.
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Amendments2018—Subsec. (a)(3). Pub. L. 115–334, § 7135(1), added par. (3). Subsec. (b). Pub. L. 115–334, § 7135(2)(A), inserted “and cooperative agreements” after “competitive grants” in introductory provisions. Subsec. (b)(3). Pub. L. 115–334, § 7135(2)(B), substituted “award competitive grants and cooperative agreements” for “make competitive grants”. Subsec. (b)(5). Pub. L. 115–334, § 7135(2)(C), added par. (5). 2014—Subsec. (a). Pub. L. 113–79 substituted “response—” for “response such sums as are necessary for each of fiscal years 2002 through 2012.” and added pars. (1) and (2). 2008—Subsec. (a). Pub. L. 110–246, § 7142, substituted “2012” for “2007”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.

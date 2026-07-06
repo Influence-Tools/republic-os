@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 627"
+description: "Failure of selection for promotion"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "36"
+chapter_name: "PROMOTION, SEPARATION, AND INVOLUNTARY RETIREMENT OF OFFICERS ON THE ACTIVE-DUTY LIST"
+section: "627"
+citation: "10 U.S.C. § 627"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s627"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "443dc9cc0e4535ac3ef525e79576fb316fa54b02ed84c00241ec4518056e0715"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "a956101917b0ff84d90e99dee60a37daab5f0fa4fef54f3b2606fbcd7f508e41"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 627 - Failure of selection for promotion
+
+## Text
+
+An officer in a grade below the grade of colonel or, in the case of an officer of the Navy, captain who is in or above the promotion zone established for his grade and competitive category under section 623 of this title and is considered but not selected for promotion by a selection board convened under section 611(a) of this title shall be considered to have failed of selection for promotion.
+
+(Added Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2859.)
+
+## Notes
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+Transition Provisions Under Defense Officer Personnel Management ActFor provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.

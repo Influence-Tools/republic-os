@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 8117"
+description: "Time of accrual of right"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "81"
+chapter_name: "COMPENSATION FOR WORK INJURIES"
+section: "8117"
+citation: "5 U.S.C. § 8117"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s8117"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "b1d91fc6e0c6c9e5d06212188044460027679f52bd7e982aef32970e19c02315"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "5026c3d0dac1e33cdd396c1e8d255c59a24e59b103638edf2ac0ae05a93e947f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 8117 - Time of accrual of right
+
+## Text
+
+(a) An employee other than a Postal Service employee is not entitled to compensation for the first 3 days of temporary disability, except—
+
+(1) when the disability exceeds 14 days;
+
+(2) when the disability is followed by permanent disability; or
+
+(3) as provided by sections 8103 and 8104 of this title.
+
+(b) A Postal Service employee is not entitled to compensation or continuation of pay for the first 3 days of temporary disability, except as provided under paragraph (3) of subsection (a). A Postal Service employee may use annual leave, sick leave, or leave without pay during that 3-day period, except that if the disability exceeds 14 days or is followed by permanent disability, the employee may have their sick leave or annual leave reinstated or receive pay for the time spent on leave without pay under this section.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 543; Pub. L. 93–416, § 10, Sept. 7, 1974, 88 Stat. 1145; Pub. L. 109–435, title IX, § 901(a), Dec. 20, 2006, 120 Stat. 3253.)
+
+## Notes
+
+Historical and Revision Notes DerivationU.S. CodeRevised Statutes andStatutes at Large  5 U.S.C. 752.Sept. 7, 1916, ch. 458, § 2, 39 Stat. 743.   Oct. 14, 1949, ch. 691, § 101(a), 63 Stat. 854. Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+Editorial Notes
+
+Amendments2006—Pub. L. 109–435 designated existing provisions as subsec. (a), substituted “An employee other than a Postal Service employee” for “An employee”, and added subsec. (b). 1974—Pub. L. 93–416 substituted “14 days” for “21 days”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1974 AmendmentAmendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any injury or death occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.

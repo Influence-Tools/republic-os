@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8324"
+description: "Officers: creditable service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "841"
+chapter_name: "VOLUNTARY RETIREMENT"
+section: "8324"
+citation: "10 U.S.C. § 8324"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8324"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "f6fb683cddbfc4a7b0ec6d98e06fe04a874306784964b89915bc9440927ddecd"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e161829e5ead23a7c3221470fb914f9f6b5ac1e01f1255d153d2a03303ad1541"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8324 - Officers: creditable service
+
+## Text
+
+For the purpose of this chapter, service as a nurse in the armed forces before April 16, 1947, is considered as commissioned service.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 394, § 6324; Pub. L. 86–197, § 1(6), Aug. 25, 1959, 73 Stat. 426; Pub. L. 89–609, § 1(15), Sept. 30, 1966, 80 Stat. 853; Pub. L. 90–130, § 1(23)(A), Nov. 8, 1967, 81 Stat. 380; renumbered § 8324, Pub. L. 115–232, div. A, title VIII, § 807(b)(15), Aug. 13, 2018, 132 Stat. 1836.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 632434 U.S.C. 43g(h).Apr. 16, 1947, ch. 38, § 207(i), 61 Stat. 50; redesignated (h), Aug. 7, 1947, ch. 512, § 434(d), 61 Stat. 882. The words “or the reserve components thereof” are omitted because “Army”, “Navy”, and “Air Force”, as defined in this title, include the reserve components.
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–232 renumbered section 6324 of this title as this section. 1967—Pub. L. 90–130 substituted provision reciting simply that service as a nurse in the armed forces before April 16, 1947, is considered as commissioned service for purposes of this chapter for provisions making specific reference to service under an appointment or contract or as a commissioned officer in the Nurse Corps of the Army or the Navy or as a commissioned officer of the Air Force designated as an Air Force Nurse. 1966—Pub. L. 89–609 substituted “the person’s” for “her” in introductory text in two places. 1959—Pub. L. 86–197 substituted “a regular officer or a reserve officer” for “an officer”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Authority of Military Department Secretaries To Convene Boards To Recommend Deferment of Retirement or Separation of NursesSecretaries authorized until July 1, 1972, to convene boards of officers to consider and recommend deferment of separation or retirement of officers of the Army Nurse Corps, officers of the Navy Nurse Corps, and Air Force nurses, as needs of the service require, see section 4(f) of Pub. L. 90–130, set out as a note under section 7069 of this title.

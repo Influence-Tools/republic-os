@@ -1,0 +1,57 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4663"
+description: "Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "363"
+chapter_name: "PROHIBITION AND PENALTIES"
+section: "4663"
+citation: "10 U.S.C. § 4663"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4663"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "244f988a4936d31b518c99afb18e1573db453aaba3581f89e14117af2ae39f8b"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "89426b25ba998c1ee1af9763ba80933f253be84a12009ff8661885c38af1cd85"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4663 - Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies
+
+## Text
+
+(a) Prohibition on Entering Into Contracts With Covered Entities.— Except as provided in subsection (c), the Secretary of Defense may not enter into a contract with an entity, a parent company of such entity, or a subsidiary of such entity if such entity is a party to a contract with a covered lobbyist.
+
+(b) Exception.— The prohibition in subsection (a) shall not apply with respect to an entity that made reasonable inquires regarding the lobbying activities of another entity and determined such entity was not a covered lobbyist.
+
+(c) Waiver.— Upon notification to Congress, the Secretary of Defense may waive the requirements of this section.
+
+(d) Definitions.— In this section:
+
+(1) The term “covered lobbyist” means an entity that engages in lobbying activities for any entity determined to be a Chinese military company listed in accordance with section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note).
+
+(2) The term “lobbying activities” has the meaning given in section 1045(c) of the National Defense Authorization Act for Fiscal Year 2018 (10 U.S.C. 971 note prec.).
+
+(Added Pub. L. 118–159, div. A, title VIII, § 851(a), Dec. 23, 2024, 138 Stat. 1995; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(29), Dec. 18, 2025, 139 Stat. 1209.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (d)(1), is section 1260H of Pub. L. 116–283, which is set out as a note under section 113 of this title. Section 1045(c) of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (d)(2), is section 1045(c) of Pub. L. 115–91, which is set out in a note preceding section 971 of this title.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60 inserted “if such entity” before “is a party”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DatePub. L. 118–159, div. A, title VIII, § 851(b), Dec. 23, 2024, 138 Stat. 1995, provided that: “This section [enacting this section] and the amendments made by this section shall take effect on June 30, 2026.”

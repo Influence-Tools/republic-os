@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 16303"
+description: "Loan repayment program: chaplains serving in the Selected Reserve"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "1609"
+chapter_name: "EDUCATION LOAN REPAYMENT PROGRAMS"
+section: "16303"
+citation: "10 U.S.C. § 16303"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s16303"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "08c93f996c859a4bcfff6834afaaa6e5886b196423b10b28bbdfad2c7c561945"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6ad3d775150f1ab4e89c1a2cb98e3e52210e2526cff7476b8c2f38c8ea350e61"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 16303 - Loan repayment program: chaplains serving in the Selected Reserve
+
+## Text
+
+(a) Authority to Repay Education Loans.— For purposes of maintaining adequate numbers of chaplains in the Selected Reserve, the Secretary concerned may repay a loan that was obtained by a person who—
+
+(1) satisfies the requirements for accessioning and commissioning of chaplains, as prescribed in regulations;
+
+(2) holds, or is fully qualified for, an appointment as a chaplain in a reserve component of an armed force; and
+
+(3) signs a written agreement with the Secretary concerned to serve not less than three years in the Selected Reserve.
+
+(b) Exception for Chaplain Candidate Program.— A person accessioned into the Chaplain Candidate Program is not eligible for the repayment of a loan under subsection (a).
+
+(c) Loan Repayment Process; Maximum Amount.— (1) Subject to paragraph (2), the repayment of a loan under subsection (a) may consist of the payment of the principal, interest, and related expenses of the loan.
+
+(2) The amount of any repayment of a loan made under subsection (a) on behalf of a person may not exceed $20,000 for each three year period of obligated service that the person agrees to serve in an agreement described in subsection (a)(3). Of such amount, not more than an amount equal to 50 percent of such amount may be paid before the completion by the person of the first year of obligated service pursuant to the agreement. The balance of such amount shall be payable at such time or times as are prescribed in regulations.
+
+(d) Effect of Failure to Complete Obligation.— A person on whose behalf a loan is repaid under subsection (a) who fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3) shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+
+(e) Regulations.— The Secretary of Defense shall prescribe regulations to carry out this section.
+
+(Added and amended Pub. L. 109–163, div. A, title VI, §§ 684(a), 687(c)(14), Jan. 6, 2006, 119 Stat. 3324, 3335; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(Q), Dec. 12, 2017, 131 Stat. 1426.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Subsec. (d). Pub. L. 115–91 inserted “or 373” before “of title 37”. 2006—Subsec. (d). Pub. L. 109–163, § 687(c)(14), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a person on whose behalf a loan is repaid under subsection (a) fails to commence or complete the period of obligated service specified in the agreement described in subsection (a)(3), the Secretary concerned may require the person to pay the United States an amount equal to the amount of the loan repayments made on behalf of the person in connection with the agreement.”
+
+Statutory Notes and Related Subsidiaries
+
+Savings ProvisionFor savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.

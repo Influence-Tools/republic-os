@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "5 U.S.C. § 6329"
+description: "Disabled veteran leave"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 5
+title_name: "GOVERNMENT ORGANIZATION AND EMPLOYEES"
+chapter_number: "63"
+chapter_name: "LEAVE"
+section: "6329"
+citation: "5 U.S.C. § 6329"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc05@119-100.zip"
+source_identifier: "/us/usc/t5/s6329"
+source_file: "data/legal/raw/us/code/title-05/usc05.xml"
+source_hash: "09c48539e1a2599d99e3138532ccd0628911f7c7f1fe62fb49e1432479426769"
+raw_snapshot_hash: "719fdb18e7085aede50e1e97c1c129fa6058e2c5c12b3d77a9b9044b1769e540"
+text_hash: "4f2566ca185e098d082b905f0baad7a2a59cd76f7c3d0d6562d4d24132f4c2a4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 5 U.S.C. § 6329 - Disabled veteran leave
+
+## Text
+
+(a) During the 12-month period beginning on the first day of employment, any employee who is a veteran with a service-connected disability rated at 30 percent or more is entitled to leave, without loss or reduction in pay, for purposes of undergoing medical treatment for such disability for which sick leave could regularly be used.
+
+(b) (1) The leave credited to an employee under subsection (a) may not exceed 104 hours.
+
+(2) Any leave credited to an employee pursuant to subsection (a) that is not used during the 12-month period described in such subsection may not be carried over and shall be forfeited.
+
+(c) (1) In order to verify that leave credited to an employee pursuant to subsection (a) is used for treating a service-connected disability, such employee shall submit to the head of the employing agency certification, in such form and manner as the Director of the Office of Personnel Management may prescribe, that such employee used such leave for purposes of being furnished treatment for such disability by a health care provider.
+
+(2) In the case of an employee of an office of the legislative branch, the certification described in paragraph (1) shall be prescribed—
+
+(A) in the case of an employee of the House of Representatives, by the Committee on House Administration of the House of Representatives;
+
+(B) in the case of an employee of the Senate, by the Committee on Rules and Administration of the Senate; or
+
+(C) in the case of an employee of any other office of the legislative branch, by the head of the office.
+
+(d) In this section—
+
+(1) the term “employee” has the meaning given such term in section 2105, and includes—
+
+(A) an officer or employee of the United States Postal Service or the Postal Regulatory Commission; and
+
+(B) notwithstanding subsection (a) of section 7421 of title 38, an individual occupying a position listed in subsection (b) of such section;
+
+(2) the term “service-connected” has the meaning given such term in section 101(16) of title 38; and
+
+(3) the term “veteran” has the meaning given such term in section 101(2) of such title.
+
+(Added Pub. L. 114–75, § 2(a), Nov. 5, 2015, 129 Stat. 640; amended Pub. L. 115–238, § 2(a), Sept. 7, 2018, 132 Stat. 2450; Pub. L. 115–364, § 1(a), Dec. 21, 2018, 132 Stat. 5088.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2018—Subsec. (c). Pub. L. 115–364 designated existing provisions as par. (1) and added par. (2). Subsec. (d)(1). Pub. L. 115–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the term ‘employee’ has the meaning given such term in section 2105, and includes an officer or employee of the United States Postal Service or of the Postal Regulatory Commission;”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentPub. L. 115–238, § 2(b), Sept. 7, 2018, 132 Stat. 2450, provided that: “With respect to a position listed in section 7421(b) of title 38, United States Code, the amendment made by subsection (a) [amending this section] shall apply to any individual appointed to such a position on or after the date of enactment of this Act [Sept. 7, 2018].”
+
+Effective DatePub. L. 114–75, § 2(c), Nov. 5, 2015, 129 Stat. 641, provided that: “The amendments made by subsection (a) [enacting this section] shall apply with respect to any employee (as that term is defined in section 6329(d)(1) of title 5, United States Code, as added by subsection (a)) hired on or after the date that is 1 year after the date of enactment of this Act [Nov. 5, 2015].”
+
+RegulationsPub. L. 115–364, § 1(b), Dec. 21, 2018, 132 Stat. 5088, provided that: “Not later than 9 months after the date of the enactment of this Act [Dec. 21, 2018], the Committee on House Administration of the House of Representatives, the Committee on Rules and Administration of the Senate, and the head of each other office of the legislative branch shall prescribe regulations governing the application of section 6329 of title 5, United States Code, including the certification requirement under subsection (c) of such section, to employees of the House of Representatives, employees of the Senate, and employees of such office, respectively.” Pub. L. 114–75, § 2(d), Nov. 5, 2015, 129 Stat. 641, provided that: “Not later than 9 months after the date of enactment of this Act [Nov. 5, 2015]— “(1) the Director of the Office of Personnel Management shall prescribe regulations with respect to the leave provided by the amendment in subsection (a) [enacting this section] for employees, but not including employees of the United States Postal Service or the Postal Regulatory Commission; and “(2) the Postmaster General shall prescribe regulations for such leave with respect to officers and employees of the United States Postal Service and the Postal Regulatory Commission.”

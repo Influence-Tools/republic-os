@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 835"
+description: "Art. 35. Service of charges; commencement of trial"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "47"
+chapter_name: "UNIFORM CODE OF MILITARY JUSTICE"
+section: "835"
+citation: "10 U.S.C. § 835"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s835"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "ccc5fff0c43fb0105a944ad811d051958bc85e9b90e3e26fe599806c5980b114"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "04fb08d180b8be095354bc12eeb95b12cc619d3baf9e8787a8ae9126eb411a6f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 835 - Art. 35. Service of charges; commencement of trial
+
+## Text
+
+(a) In General.— Trial counsel detailed for a court-martial under section 827 of this title (article 27) shall cause to be served upon the accused a copy of the charges and specifications referred for trial.
+
+(b) Commencement of Trial.— (1) Subject to paragraphs (2) and (3), no trial or other proceeding of a general court-martial or a special court-martial (including any session under section 839(a) of this title (article 39(a)) may be held over the objection of the accused—
+
+(A) with respect to a general court-martial, from the time of service through the fifth day after the date of service; or
+
+(B) with respect to a special court-martial, from the time of service through the third day after the date of service.
+
+(2) An objection under paragraph (1) may be raised only at the first session of the trial or other proceeding and only if the first session occurs before the end of the applicable period under paragraph (1)(A) or (1)(B). If the first session occurs before the end of the applicable period, the military judge shall, at that session, inquire as to whether the defense objects under this subsection.
+
+(3) This subsection shall not apply in time of war.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 49; Pub. L. 90–632, § 2(12), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 114–328, div. E, title LVI, § 5206, Dec. 23, 2016, 130 Stat. 2908.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 83550:606.May 5, 1950, ch. 169, § 1 (Art. 35), 64 Stat. 119. The word “may” is substituted for the word “shall”. The word “after” is substituted for the words “subsequent to”.
+
+Editorial Notes
+
+Amendments2016—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows: “The trial counsel to whom court-martial charges are referred for trial shall cause to be served upon the accused a copy of the charges upon which trial is to be had. In time of peace no person may, against his objection, be brought to trial, or be required to participate by himself or counsel in a session called by the military judge under section 839(a) of this title (article 39(a)), in a general court-martial case within a period of five days after the service of charges upon him, or in a special court-martial case within a period of three days after the service of charges upon him.” 1968—Pub. L. 90–632 inserted reference to a session called by the military judge under section 839(a) of this title (article 39(a)).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentAmendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
+
+Effective Date of 1968 AmendmentAmendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.

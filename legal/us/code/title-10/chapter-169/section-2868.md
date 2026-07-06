@@ -1,0 +1,43 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2868"
+description: "Utility services: furnishing for certain buildings"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "169"
+chapter_name: "MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING"
+section: "2868"
+citation: "10 U.S.C. § 2868"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2868"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "bee2a8dc2877d907a32d19184102e31afe23e9d7cc5bf64d3cb637abab23c9f0"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "975e261d0132c6dd0fe8047f730a8291ecee5b66493d0fab28dfbe05aa959a47"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2868 - Utility services: furnishing for certain buildings
+
+## Text
+
+Appropriations for the Department of Defense may be used for utility services for buildings constructed at private cost, as authorized by law.
+
+(Added Pub. L. 100–370, § 1(j)(1), July 19, 1988, 102 Stat. 848, § 2490; renumbered § 2868, Pub. L. 105–85, div. A, title III, § 371(b)(2), Nov. 18, 1997, 111 Stat. 1705; amended Pub. L. 108–375, div. A, title VI, § 651(e)(2), Oct. 28, 2004, 118 Stat. 1972.)
+
+## Notes
+
+Historical and Revision NotesSection is based on Pub. L. 99–190, § 101(b) [title VIII, § 8006(b)], Dec. 19, 1985, 99 Stat. 1185. In two instances, the source section for provisions to be codified provides that defense appropriations may be used for “welfare and recreation” or “welfare and recreational” purposes. (Section 735 of Public Law 98–212 and section 8006(b) of Public Law 99–190, to be codified as 10 U.S.C. 2241(a)(1) and 2490(2), respectively). The committee added the term “morale” in both of these two instances to conform to the usual “MWR” usage for morale, welfare, and recreation activities.
+
+Editorial Notes
+
+Amendments2004—Pub. L. 108–375 substituted “for buildings constructed at private cost, as authorized by law.” for “for— “(1) buildings constructed at private cost, as authorized by law; and “(2) buildings on military reservations authorized by regulation to be used for morale, welfare, and recreational purposes.” 1997—Pub. L. 105–85 renumbered section 2490 of this title as this section.

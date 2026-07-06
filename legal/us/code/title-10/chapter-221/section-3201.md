@@ -1,0 +1,95 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3201"
+description: "Full and open competition"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "221"
+chapter_name: "PLANNING AND SOLICITATION GENERALLY"
+section: "3201"
+citation: "10 U.S.C. § 3201"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3201"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "3afaf7e3841aafc6c5e3a8c0114ab4b83ea4ff1b4bdaaa12708cefb7de981a30"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "67183e4a6506bf559296c07f054ba542f35e4f5dced60cf2d693b6150a309908"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3201 - Full and open competition
+
+## Text
+
+(a) In General.— Except as provided in sections 3203, 3204(a), and 3205 of this title and except in the case of procurement procedures otherwise expressly authorized by statute, the head of an agency in conducting a procurement for property or services—
+
+(1) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901, 4501, and 4502 of this title and the Federal Acquisition Regulation; and
+
+(2) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
+
+(b) Determination of Appropriate Competitive Procedures.— In determining the competitive procedure appropriate under the circumstances, the head of an agency—
+
+(1) shall solicit sealed bids if—
+
+(A) time permits the solicitation, submission, and evaluation of sealed bids;
+
+(B) the award will be made on the basis of price and other price-related factors;
+
+(C) it is not necessary to conduct discussions with the responding sources about their bids; and
+
+(D) there is a reasonable expectation of receiving more than one sealed bid; and
+
+(2) shall request competitive proposals if sealed bids are not appropriate under paragraph (1).
+
+(c) Efficient Fulfillment of Government Requirements.— The Federal Acquisition Regulation shall ensure that the requirement to obtain full and open competition is implemented in a manner that is consistent with the need to efficiently fulfill the Government’s requirements.
+
+(d) Certain Purchases or Contracts to Be Treated as if Made With Sealed-bid Procedures.— For the purposes of the following, purchases or contracts awarded after using procedures other than sealed-bid procedures shall be treated as if they were made with sealed-bid procedures:
+
+(1) Chapter 65 of title 41.
+
+(2) Sections 3141–3144, 3146, and 3147 of title 40.
+
+(e) New Contracts and Merit-based Selection Procedures.— (1) Congressional policy.— It is the policy of Congress that an agency named in section 3063 of this title should not be required by legislation to award a new contract to a specific non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be procured through merit-based selection procedures.
+
+(2) New contract described.— For purposes of this subsection, a contract is a new contract unless the work provided for in the contract is a continuation of the work performed by the specified entity under a preceding contract.
+
+(3) Provision of law described.— A provision of law may not be construed as requiring a new contract to be awarded to a specified non-Federal Government entity unless that provision of law—
+
+(A) specifically refers to this subsection;
+
+(B) specifically identifies the particular non-Federal Government entity involved; and
+
+(C) specifically states that the award to that entity is required by such provision of law in contravention of the policy set forth in paragraph (1).
+
+(4) Exception.— This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 3063 of this title and to report on such matters to the Congress or any agency of the Federal Government.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1811(c), Jan. 1, 2021, 134 Stat. 4165; Pub. L. 117–81, div. A, title XVII, § 1701(b)(4)(A), Dec. 27, 2021, 135 Stat. 2132.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of subsec. (a) of section 2304 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1811(c)(2), was based on Pub. L. 98–369, div. B, title VII, § 2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–145, title XIII, § 1303(a)(13), Nov. 8, 1985, 99 Stat. 739; Pub. L. 100–26, § 7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 103–355, title I, § 1001(1), Oct. 13, 1994, 108 Stat. 3249. The text of subsec. (j) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 1811(c)(3), was based on Pub. L. 104–106, div. D, title XLI, § 4101(a)(2), Feb. 10, 1996, 110 Stat. 642. The text of subsec. (h) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, § 1811(c)(4), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 96–513, title V, § 511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–295, § 1(24)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–369, div. B, title VII, §§ 2723(a)(1)(B), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, § 504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(5), Feb. 10, 1996, 110 Stat. 672; Pub. L. 107–217, § 3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 111–350, § 5(b)(12)(E), Jan. 4, 2011, 124 Stat. 3843. The text of subsec. (k) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, § 1811(c)(5), was based on Pub. L. 103–355, title VII, § 7203(a)(1)(B), Oct. 13, 1994, 108 Stat. 3379; Pub. L. 104–106, div. D, title XLI, § 4101(a)(1), Feb. 10, 1996, 110 Stat. 642.
+
+Prior ProvisionsA prior section 3201 was renumbered section 7101 of this title. Another prior section 3201, act Aug. 10, 1956, ch. 1041, 70A Stat. 172; Pub. L. 85–861, § 1(62), Sept. 2, 1958, 72 Stat. 1462; Pub. L. 88–647, title III, § 301(4), Oct. 13, 1964, 78 Stat. 1071, prescribed the authorized strength of the Army in members on active duty, exclusive of certain categories, and the authorized daily average strength of the Army in members on active duty during the fiscal year, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, § 202, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. A prior section 3202, act Aug. 10, 1956, ch. 1041, 70A Stat. 172; Pub. L. 85–861, § 1(63), Sept. 2, 1958, 72 Stat. 1463; Pub. L. 90–228, § 1(1), (2), Dec. 28, 1967, 81 Stat. 745; Pub. L. 96–513, title II, § 203(a), Dec. 12, 1980, 94 Stat. 2878, related to authorized strength of Army in general officers on active duty, prior to repeal by Pub. L. 101–510, div. A, title IV, § 403(b)(1)(A), Nov. 5, 1990, 104 Stat. 1545.
+
+Amendments2021—Subsec. (a). Pub. L. 116–283, § 1811(c)(2)(B), (C), as amended by Pub. L. 117–81, § 1701(b)(4)(A)(i), inserted heading, struck out par. (1) designation at beginning and substituted “Except as provided in sections 3203, 3204(a), and 3205 of this title” for “Except as provided in subsections (b), (c), and (g)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Par. (2) subsequently redesignated subsec. (b). Pub. L. 116–283, § 1811(c)(2), transferred subsec. (a) of section 2304 of this title to this section. Subsec. (a)(1). Pub. L. 116–283, § 1811(c)(2)(D), as amended by Pub. L. 117–81, § 1701(b)(4)(A)(ii), substituted “this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901, 4501, and 4502 of this title” for “this chapter”. Subsec. (b). Pub. L. 116–283, § 1811(c)(2)(A), (E), redesignated subsec. (a)(2) as (b) and inserted heading, redesignated subpar. (A) and cls. (i) to (iv) as par. (1) and subpars. (A) to (D), respectively, and redesignated subpar. (B) as par. (2) and substituted “paragraph (1)” for “clause (A)”. Subsec. (c). Pub. L. 116–283, § 1811(c)(3), redesignated subsec. (j) of section 2304 of this title as subsec. (c) of this section and inserted heading. Subsec. (d). Pub. L. 116–283, § 1811(c)(4), redesignated subsec. (h) of section 2304 of this title as subsec. (d) of this section and inserted heading. Subsec. (e). Pub. L. 116–283, § 1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) of this section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted “section 3063” for “section 2303(a)” in pars. (1) and (4).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+Competition for Procurement of Small Arms Supplied to Iraq and AfghanistanPub. L. 110–181, div. A, title VIII, § 892, Jan. 28, 2008, 122 Stat. 270, which required the Secretary of Defense to ensure, consistent with the provisions of former section 2304 of this title, full and open competition for procurement of small arms supplied to Iraq and Afghanistan, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(B), Dec. 23, 2024, 138 Stat. 1979.
+
+Competitive Award of Contracts for Reconstruction Activities in IraqPub. L. 108–136, div. A, title VIII, § 805(a), Nov. 24, 2003, 117 Stat. 1542, which required the Department of Defense to fully comply with former chapter 137 of this title for contracts awarded competitively for reconstruction activities of the Iraqi oil industry, was repealed by Pub. L. 118–159, div. A, title VIII, § 811(a)(1)(A), Dec. 23, 2024, 138 Stat. 1979.

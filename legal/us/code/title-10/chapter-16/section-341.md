@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 341"
+description: "Department of Defense State Partnership Program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "16"
+chapter_name: "SECURITY COOPERATION"
+section: "341"
+citation: "10 U.S.C. § 341"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s341"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "331ca017ec45e53909178128d0f03df51cc371cc68e0715b0b7191c10ed06056"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "5306fbe663537a8c5f44ee6049ca841230311c8b8a365ac91a1b712ba0eaa3ef"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 341 - Department of Defense State Partnership Program
+
+## Text
+
+(a) Authority.— (1) In general.— The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to establish a program of activities described in paragraph (2), to support the security cooperation objectives of the United States, between members of the National Guard of a State or territory and any of the following:
+
+(A) The military forces of a foreign country.
+
+(B) The security forces of a foreign country.
+
+(C) Governmental organizations of a foreign country whose primary functions include disaster response or emergency response.
+
+(2) State partnership.— Each program established under this subsection shall be known as a “State Partnership”.
+
+(b) Limitations.— (1) In general.— An activity with forces referred to in subsection (a)(1)(B) or organizations described in subsection (a)(1)(C) under a program established under subsection (a) may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
+
+(2) Prohibition on activities with units that have committed gross violations of human rights.— The conduct of any assistance activities under a program established under subsection (a) shall be subject to the provisions of section 362 of this title.
+
+(c) Coordination of Activities.— The Chief of the National Guard Bureau shall designate a director for each State and territory to be responsible for the coordination of activities under a program established under subsection (a) for such State or territory and reporting on activities under the program.
+
+(d) Regulations.— This section shall be carried out in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this section. Such regulations shall include accounting procedures to ensure that expenditures of funds to carry out this section are accounted for and appropriate.
+
+(e) Availability of Authorized Funds for Program.— (1) In general.— Funds authorized to be appropriated to the Department of Defense, including funds authorized to be appropriated for the Army National Guard and Air National Guard, are authorized to be available—
+
+(A) for payment of costs incurred by the National Guard of a State or territory to conduct activities under a program established under subsection (a); and
+
+(B) for payment of incremental expenses of a foreign country to conduct activities under a program established under subsection (a).
+
+(2) Limitations.— (A) Active duty requirement.— Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation.
+
+(B) Incremental expenses.— The total amount of payments for incremental expenses of foreign countries as authorized under paragraph (1)(B) for activities under programs established under subsection (a) in any fiscal year may not exceed $10,000,000.
+
+(f) Rule of Construction.— Nothing in this section shall be construed to supersede any authority under title 10 as in effect on December 26, 2013.
+
+(Added and amended Pub. L. 114–328, div. A, title XII, § 1246(a)–(c), (d)(1), (2)(B), Dec. 23, 2016, 130 Stat. 2520, 2521; Pub. L. 115–232, div. A, title XII, § 1210, Aug. 13, 2018, 132 Stat. 2023; Pub. L. 116–92, div. A, title XVII, § 1731(a)(16), Dec. 20, 2019, 133 Stat. 1813.)
+
+## Notes
+
+Editorial Notes
+
+Codification Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under section 107 of Title 32, National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2521.
+
+Amendments2019—Subsec. (e)(2)(A). Pub. L. 116–92 inserted period at end. 2018—Subsec. (b)(2). Pub. L. 115–232 inserted “assistance” after “any”. 2016—Subsec. (b). Pub. L. 114–328, § 1246(b), substituted “Limitations” for “Limitation” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2). Subsec. (d). Pub. L. 114–328, § 1246(c)(1), added subsec. (d) and struck out former subsec. (d) which required the Secretary of Defense to prescribe regulations to carry out this section and to notify Congress. Subsec. (f). Pub. L. 114–328, § 1246(d)(2)(B), redesignated subsec. (g) as (f) and struck out former subsec. (f) which required annual reports for fiscal years 2016, 2017, and 2018. Pub. L. 114–328, § 1246(d)(1)(A), substituted “Annual Reports” for “Reports and Notifications” in subsec. heading, added par. (1) and struck out former par. (1) which related to a review and report of programs under the State Partnership Program as in effect on Dec. 26, 2013, redesignated par. (2)(B) as par. (2), substituted “Matters to be included” for “Annual report” in par. (2) heading, and struck out former par. (2)(A) which required reports on activities under programs established under subsec. (a). Subsec. (f)(2). Pub. L. 114–328, § 1246(d)(1)(B)(i), redesignated cls. (i) to (vi) of former par. (2)(B) as subpars. (A) to (F), respectively, of par. (2) and realigned margins. Subsec. (f)(2)(F). Pub. L. 114–328, § 1246(d)(1)(B)(ii), substituted “subparagraph (E)” for “clause (v)”. Subsec. (g). Pub. L. 114–328, § 1246(d)(2)(B)(ii), redesignated subsec. (g) as (f). Pub. L. 114–328, § 1246(c)(2), substituted “under title 10 as in effect on December 26, 2013.” for “under title 10, United States Code, as in effect on the date of the enactment of this Act.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2016 AmendmentPub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(B) is effective as of Jan. 1, 2020.
+
+State Partnership Program Selection AnalysisPub. L. 119–60, div. A, title XII, § 1206, Dec. 18, 2025, 139 Stat. 1082, provided that: “The Secretary of Defense shall make such changes to Department of Defense Instruction 5111.20 (relating to the State Partnership Program), or a successor instruction, as may be necessary to ensure that, in performing selection analysis for the State Partnership Program under section 341 of title 10, United States Code, the Chief of the National Guard Bureau considers— “(1) the number of current partnerships assigned to the National Guard of a State; and “(2) the capacity of the National Guard of a State in relation to the number of assigned countries.”

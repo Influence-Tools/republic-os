@@ -1,0 +1,113 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4506"
+description: "Procurement of services: data analysis and requirements validation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "341"
+chapter_name: "ACQUISITION OF SERVICES GENERALLY"
+section: "4506"
+citation: "10 U.S.C. § 4506"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4506"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "6d82ba5705ab12837e8553ebcced7f6336b18b2ac7e8611bb76417684772008f"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "91485cbcbbccacf26f1de80a4e69b25881a595451f30a5448e7ad32de7d88601"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4506 - Procurement of services: data analysis and requirements validation
+
+## Text
+
+(a) In General.— The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall ensure that—
+
+(1) appropriate and sufficiently detailed data are collected and analyzed to support the validation of requirements for services contracts and inform the planning, programming, budgeting, and execution process of the Department of Defense;
+
+(2) requirements for services contracts are evaluated appropriately and in a timely manner to inform decisions regarding the procurement of services; and
+
+(3) decisions regarding the procurement of services consider available resources and total force management policies and procedures.
+
+(b) Specification of Amounts Requested in Budget.— Effective February 1, 2023, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall annually submit to Congress information on services contracts that clearly and separately identifies the amount requested for each category of services to be procured for each Defense Agency, Department of Defense Field Activity, command, or military installation. Such information shall—
+
+(1) be submitted at or before the time of the budget submission by the President under section 1105(a) of title 31 or on the date on which the future-years defense program is submitted to Congress under section 221 of this title;
+
+(2) cover the fiscal year covered by such budget submission by the President;
+
+(3) be consistent with total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Department of Defense included in such budget submission by the President for that fiscal year;
+
+(4) be informed by the review of the inventory required by section 4505(c) using standard guidelines developed under subsection (d); and
+
+(5) clearly and separately identify the amount requested and projected for the procurement of contract services for each Defense Agency, Department of Defense Field Activity, command, or military installation for the budget year and the subsequent four fiscal years in the future-years defense program submitted to Congress under section 221.
+
+(c) Data Analysis.— (1) Each Secretary of a military department shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services within such military department.
+
+(2) (A) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall regularly analyze past spending patterns and anticipated future requirements with respect to the procurement of services—
+
+(i) within each Defense Agency and Department of Defense Field Activity; and
+
+(ii) across military departments, Defense Agencies, and Department of Defense Field Activities.
+
+(B) The Secretaries of the military departments shall make data on services contracts available to the Secretary of Defense for purposes of conducting the analysis required under subparagraph (A).
+
+(3) The analyses conducted under this subsection shall—
+
+(A) identify contracts for similar services that are procured for three or more consecutive years at each Defense Agency, Department of Defense Field Activity, command, or military installation;
+
+(B) evaluate patterns in the procurement of services, to the extent practicable, at each Defense Agency, Department of Defense Field Activity, command, or military installation and by category of services procured;
+
+(C) be used to validate requirements for services contracts entered into after the date of the enactment of this subsection; and
+
+(D) be used to inform decisions on the award of and funding for such services contracts.
+
+(d) Requirements Evaluation.— (1) Each Services Requirements Review Board shall evaluate each requirement for a services contract, taking into consideration total force management policies and procedures, available resources, the analyses conducted under subsection (c), and contracting efficacy and efficiency. An evaluation of a services contract for compliance with contracting policies and procedures may not be considered to be an evaluation of a requirement for such services contract.
+
+(2) The Secretary of Defense shall establish and issue standard guidelines within the Department of Defense for the evaluation of requirements for services contracts. Any such guidelines issued—
+
+(A) shall be consistent with the “Handbook of Contract Function Checklists for Services Acquisition” issued by the Department of Defense in May 2018, or a successor or other appropriate policy; and
+
+(B) shall be updated as necessary to incorporate applicable statutory changes to total force management policies and procedures and any other guidelines or procedures relating to the use of Department of Defense civilian employees to perform new functions and functions that are performed by contractors.
+
+(3) The acquisition decision authority for each services contract shall certify—
+
+(A) that a task order or statement of work being submitted to a contracting office is in compliance with the standard guidelines;
+
+(B) that all appropriate statutory risk mitigation efforts have been made; and
+
+(C) that such task order or statement of work does not include requirements formerly performed by Department of Defense civilian employees.
+
+(4) The Inspector General of the Department of Defense may conduct annual audits to ensure compliance with this subsection.
+
+[(e) Repealed. Pub. L. 119–60, div. A, title VIII, § 815(1), Dec. 18, 2025, 139 Stat. 953.]
+
+(f) Definitions.— In this section:
+
+(1) The term “Services Requirements Review Board” has the meaning given in Department of Defense Instruction 5000.74, titled “Defense Acquisition of Services” and dated January 10, 2020, or a successor instruction.
+
+(2) The term “acquisition decision authority” means the designated decision authority for each designated special interest services acquisition category, described in such Department of Defense Instruction.
+
+(Added Pub. L. 115–91, div. A, title VIII, § 851(a)(1), Dec. 12, 2017, 131 Stat. 1489, § 2329; amended Pub. L. 115–232, div. A, title VIII, § 818(a), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title VIII, § 817(a), title XVII, § 1731(a)(42), Dec. 20, 2019, 133 Stat. 1488, 1814; renumbered § 4506 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1856(g), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title VIII, § 815(a), Dec. 27, 2021, 135 Stat. 1824; Pub. L. 119–60, div. A, title VIII, § 815, Dec. 18, 2025, 139 Stat. 953.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of the enactment of this subsection, referred to in subsec. (c)(3)(C), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+
+Prior ProvisionsA prior section 4506, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related to sale, loan, or gift of samples, drawings, and information to contractors, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
+
+Amendments2025—Subsec. (e). Pub. L. 119–60, § 815(1), struck out subsec. (e) which related to timely planning to avoid bridge contracts. Subsec. (f). Pub. L. 119–60, § 815(2), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which defined the terms “bridge contract” and “requirements owner”, respectively, for purposes of this section. 2021—Pub. L. 116–283, § 1856(g), renumbered section 2329 of this title as this section. Subsec. (b). Pub. L. 117–81, § 815(a)(1)(A), substituted “February 1, 2023” for “October 1, 2021” in introductory provisions. Subsec. (b)(4). Pub. L. 116–283, § 1883(b)(2), substituted “section 4505(c)” for “section 2330a(c)”. Pub. L. 117–81, § 815(a)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “be organized using a common enterprise data structure developed under section 2222 of this title; and”. Subsec. (b)(5). Pub. L. 117–81, § 815(a)(1)(B), added par. (5) and struck out former par. (5) which read as follows: “be included in the future-years defense program submitted to Congress under section 221 of this title.” Subsec. (d). Pub. L. 117–81, § 815(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each Services Requirements Review Board shall evaluate each requirement for a services contract, taking into consideration total force management policies and procedures, available resources, the analyses conducted under subsection (c), and contracting efficacy and efficiency. An evaluation of a services contract for compliance with contracting policies and procedures may not be considered to be an evaluation of a requirement for such services contract.” Subsec. (f). Pub. L. 117–81, § 815(a)(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Except with respect to the analyses required under subsection (c), this section shall not apply to— “(1) services contracts in support of contingency operations, humanitarian assistance, or disaster relief; “(2) services contracts in support of a national security emergency declared with respect to a named operation; or “(3) services contracts entered into pursuant to an international agreement.” Subsec. (f)(3). Pub. L. 117–81, § 815(a)(4)(A), substituted “January 10, 2020” for “January 5, 2016”. Subsec. (f)(4). Pub. L. 117–81, § 815(a)(4)(B), added par. (4). Subsec. (g). Pub. L. 117–81, § 815(a)(3), redesignated subsec. (g) as (f). 2019—Subsec. (a). Pub. L. 116–92, § 817(a)(1), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions. Subsec. (b). Pub. L. 116–92, § 817(a)(2), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions. Subsec. (c)(2)(A). Pub. L. 116–92, § 817(a)(3), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions. Subsec. (g)(1). Pub. L. 116–92, § 1731(a)(42), substituted “term ‘bridge contract’ ” for “term ‘bridge contact’ ” in introductory provisions. 2018—Subsec. (b). Pub. L. 115–232, § 818(a)(1), substituted “October 1, 2021” for “October 1, 2022” in introductory provisions. Subsec. (b)(1). Pub. L. 115–232, § 818(a)(2), substituted “at or before” for “at or about” and inserted “or on the date on which the future-years defense program is submitted to Congress under section 221 of this title” after “title 31”. Subsec. (b)(5). Pub. L. 115–232, § 818(a)(3)–(5), added par. (5).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

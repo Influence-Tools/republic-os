@@ -19,7 +19,9 @@ board:        ## Rebuild the Board (inlines fresh data into viz/board.html)
 changelog:    ## What changed in the government since the last commit (BASE/HEAD overridable)
 	python3 scripts/generate_changelog.py $(BASE) $(HEAD)
 
-legal-us-code: ## Ingest the pinned U.S. Code Title 52 seed corpus
-	python3 scripts/ingest_us_code.py --title 52
+TITLES ?= 1 2 3 4 5 6 7 8 9 10 11 52
+
+legal-us-code: ## Ingest the pinned U.S. Code titles (override with TITLES="…")
+	@for t in $(TITLES); do python3 scripts/ingest_us_code.py --title $$t; done
 
 check: build validate  ## Build, then validate — the full gate

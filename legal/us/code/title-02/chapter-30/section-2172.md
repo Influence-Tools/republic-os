@@ -1,0 +1,87 @@
+---
+type: "LegalText"
+title: "2 U.S.C. § 2172"
+description: "Office of Congressional Accessibility Services"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 2
+title_name: "THE CONGRESS"
+chapter_number: "30"
+chapter_name: "OPERATION AND MAINTENANCE OF CAPITOL COMPLEX"
+section: "2172"
+citation: "2 U.S.C. § 2172"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc02@119-100.zip"
+source_identifier: "/us/usc/t2/s2172"
+source_file: "data/legal/raw/us/code/title-02/usc02.xml"
+source_hash: "ff508c400e5af51a7df5a9f44887c37529fe4c0f6f86e362bb3ae4a7f94b29d7"
+raw_snapshot_hash: "ec6910a011de0a97d11b263bbcd649766188311e429ae6bdb5fc2cf5e6ebbb9e"
+text_hash: "56c49f113230553bcadd6dba13d0fadf07b408c103cf258eaa3ce81eaeec10cc"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 2 U.S.C. § 2172 - Office of Congressional Accessibility Services
+
+## Text
+
+(a) Establishment of Office of Congressional Accessibility Services (1) Establishment There is established in the legislative branch the Office of Congressional Accessibility Services, to be headed by the Director of Accessibility Services.
+
+(2) Congressional Accessibility Services Board (A) Establishment There is established the Congressional Accessibility Services Board, which shall be composed of—
+
+(i) the Sergeant at Arms and Doorkeeper of the Senate;
+
+(ii) the Secretary of the Senate;
+
+(iii) the Sergeant at Arms of the House of Representatives;
+
+(iv) the Clerk of the House of Representatives; and
+
+(v) the Architect of the Capitol.
+
+(B) Direction of Board The Office of Congressional Accessibility Services shall be subject to the direction of the Congressional Accessibility Services Board.
+
+(3) Mission and functions (A) In general The Office of Congressional Accessibility Services shall—
+
+(i) provide and coordinate accessibility services for individuals with disabilities, including Members of Congress, officers and employees of the House of Representatives and the Senate, and visitors, in the United States Capitol Complex; and
+
+(ii) provide information regarding accessibility for individuals with disabilities, as well as related training and staff development, to Members of Congress and employees of the Senate and the House of Representatives.
+
+(B) United States Capitol Complex defined In this paragraph, the term “United States Capitol Complex” means the Capitol buildings (as defined in section 5101 of title 40) and the United States Capitol Grounds (as described in section 5102 of such title).
+
+(b) Director of Accessibility Services (1) Appointment, pay, and removal (A) Appointment and pay The Director of Accessibility Services shall be appointed by the Congressional Accessibility Services Board and shall be paid at a rate of pay determined by the Congressional Accessibility Services Board.
+
+(B) Removal Upon removal of the Director of Accessibility Services, the Congressional Accessibility Services Board shall immediately provide notice of the removal to the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
+
+(2) Personnel and other administrative functions (A) Personnel, disbursements, and contracts In carrying out the functions of the Office of Congressional Accessibility Services under subsection (a), the Director of Accessibility Services shall have the authority to—
+
+(i) appoint, hire, and fix the compensation of such personnel as may be necessary for operations of the Office of Congressional Accessibility Services, except that no employee may be paid at an annual rate in excess of the annual rate of pay for the Director of Accessibility Services;
+
+(ii) take appropriate disciplinary action, including, when circumstances warrant, suspension from duty without pay, reduction in pay, demotion, or termination of employment with the Office of Congressional Accessibility Services, against any employee;
+
+(iii) disburse funds as may be necessary and available for the needs of the Office of Congressional Accessibility Services; and
+
+(iv) serve as contracting officer for the Office of Congressional Accessibility Services.
+
+(B) Agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with offices of the Senate and House of Representatives Subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Director of Accessibility Services may place orders and enter into agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with any office or other entity of the Senate or House of Representatives for procuring goods and providing financial and administrative services on behalf of the Office of Congressional Accessibility Services, or to otherwise assist the Director in the administration and management of the Office of Congressional Accessibility Services.
+
+(3) Semiannual reports The Director of Accessibility Services shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Director. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
+
+(Pub. L. 101–163, title III, § 310, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 104–53, title I, § 112, Nov. 19, 1995, 109 Stat. 525; Pub. L. 110–437, title IV, § 411(a), Oct. 20, 2008, 122 Stat. 4993.)
+
+## Notes
+
+Editorial Notes
+
+Codification Section was formerly classified to section 130e of this title prior to editorial reclassification and renumbering as this section. Section is from the Legislative Branch Appropriations Act, 1990.
+
+Amendments2008—Pub. L. 110–437 amended section generally, substituting provisions relating to Office of Congressional Accessibility Services for provisions relating to Special Services Office. 1995—Pub. L. 104–53 substituted “Sergeant at Arms” for “Clerk” after “comprised of the” and “Architect of the Capitol” for “Librarian of Congress”.
+
+Statutory Notes and Related Subsidiaries
+
+Transfer of Functions For transfer of contracts, liabilities, records, property, appropriations, other assets and interests, and employees of the Congressional Special Services Office of Capitol Guide Service to the Office of Congressional Accessibility Services, see section 2252 of this title.

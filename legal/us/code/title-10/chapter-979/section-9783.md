@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 9783"
+description: "Johnston Atoll: reimbursement for support provided to civil air carriers"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "979"
+chapter_name: "REAL PROPERTY"
+section: "9783"
+citation: "10 U.S.C. § 9783"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s9783"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "cd812df739c00e50aeef642360de7eae323171374f166c67a945064a892aae24"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "0dba74e13826d0f492236d0c441be04a1be69b899f57f2049e7a68c4099ccdde"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 9783 - Johnston Atoll: reimbursement for support provided to civil air carriers
+
+## Text
+
+(a) Authority of the Secretary.— The Secretary of the Air Force may, under regulations prescribed by the Secretary, require payment by a civil air carrier for support provided by the United States to the carrier at Johnston Atoll that is either—
+
+(1) requested by the civil air carrier; or
+
+(2) determined under the regulations as being necessary to accommodate the civil air carrier’s use of Johnston Atoll.
+
+(b) Amount of Charges.— Any amount charged an air carrier under subsection (a) for support shall be equal to the total amount of the actual costs to the United States of providing the support. The amount charged may not include any amount for an item of support that does not satisfy a condition described in paragraph (1) or (2) of subsection (a).
+
+(c) Relationship to Landing Fees.— No landing fee shall be charged an air carrier for a landing of an aircraft of the air carrier at Johnston Atoll if the air carrier is charged under subsection (a) for support provided to the air carrier.
+
+(d) Disposition of Payments.— (1) Amounts collected from an air carrier under this section shall be credited to appropriations available for the fiscal year in which collected, as follows:
+
+(A) For support provided by the Air Force, to appropriations available for the Air Force for operation and maintenance.
+
+(B) For support provided by the Army, to appropriations available for the Army for chemical demilitarization.
+
+(2) Amounts credited to an appropriation under paragraph (1) shall be merged with funds in that appropriation and shall be available, without further appropriation, for the purposes and period for which the appropriation is available.
+
+(e) Definitions.— In this section:
+
+(1) The term “civil air carrier” means an air carrier (as defined in section 40102(a)(2) of title 49) that is issued a certificate of public convenience and necessity under section 41102 of such title.
+
+(2) The term “support” includes fuel, fire rescue, use of facilities, improvements necessary to accommodate use by civil air carriers, police, safety, housing, food, air traffic control, suspension of military operations on the island (including operations at the Johnston Atoll Chemical Agent Demilitarization System), repairs, and any other construction, services, or supplies.
+
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 383(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–86; amended Pub. L. 107–107, div. A, title X, § 1048(a)(30), Dec. 28, 2001, 115 Stat. 1225.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2001—Subsec. (e)(1). Pub. L. 107–107 substituted “40102(a)(2)” for “40101(a)(2)”.

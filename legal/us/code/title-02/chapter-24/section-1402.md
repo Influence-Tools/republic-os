@@ -1,0 +1,75 @@
+---
+type: "LegalText"
+title: "2 U.S.C. § 1402"
+description: "Initiation of procedures"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 2
+title_name: "THE CONGRESS"
+chapter_number: "24"
+chapter_name: "CONGRESSIONAL ACCOUNTABILITY"
+section: "1402"
+citation: "2 U.S.C. § 1402"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc02@119-100.zip"
+source_identifier: "/us/usc/t2/s1402"
+source_file: "data/legal/raw/us/code/title-02/usc02.xml"
+source_hash: "ec4b9a09ebb9e8f3e7278d7afdb39a111e8f67c61aea9f7ce48e3a153816b3b0"
+raw_snapshot_hash: "ec6910a011de0a97d11b263bbcd649766188311e429ae6bdb5fc2cf5e6ebbb9e"
+text_hash: "096d0a810ebeff8c41d10ee9368c909aae069efa3b3bc31b2ab8f9f03d3e5c79"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 2 U.S.C. § 1402 - Initiation of procedures
+
+## Text
+
+(a) Claim (1) Filing of claim To commence a proceeding under this subchapter, a covered employee alleging a violation of law made applicable under part A of subchapter II shall file a claim with the Office. The Office shall not accept a claim which is filed after the deadline applicable under subsection (d).
+
+(2) Contents of claim The claim filed under this section shall be made in writing under oath or affirmation, shall describe the facts that form the basis of the claim and the violation that is being alleged, shall identify the employing office alleged to have committed the violation or in which the violation is alleged to have occurred, and shall be in such form as the Office requires.
+
+(3) No effect on ability of covered employee to seek information from office or pursue relief Nothing in paragraph (2), or subsection (b) or (c), may be construed to limit the ability of a covered employee—
+
+(A) to contact the Office or any other appropriate office prior to filing a claim under this section to seek information regarding the employee’s rights under this chapter and the procedures available under this chapter;
+
+(B) in the case of a covered employee of an employing office of the House of Representatives or Senate, to refer information regarding an alleged violation of part A of subchapter II to the Committee on Ethics of the House of Representatives or the Select Committee on Ethics of the Senate (as the case may be); or
+
+(C) to file a civil action in accordance with section 1401(b) of this title.
+
+(b) Initial processing of claim (1) Intake and recording; notification to employing office Upon the filing of a claim by a covered employee under subsection (a), the Office shall take such steps as may be necessary for the initial intake and recording of the claim, including providing each party with all relevant information with respect to the rights of the party under this chapter, and shall transmit immediately a copy of the claim to the head of the employing office and the designated representative of that office.
+
+(2) Special notification requirements for claims based on acts by members of Congress (A) In general In the case of a claim alleging a violation described in subparagraph (B) which consists of a violation described in section 1415(d)(1)(A) of this title by an individual, upon the filing of the claim under subsection (a), the Office shall notify immediately such individual of the claim, the possibility that the individual may be required to reimburse the account described in section 1415(a) of this title for the reimbursable portion of any award or settlement in connection with the claim, and the right of the individual under section 1415(d)(8) of this title to intervene in any mediation, hearing, or civil action under this subchapter with respect to the claim.
+
+(B) Violations described A violation described in this subparagraph is—
+
+(i) harassment that is unlawful under section 1311(a) or 1316(a) of this title; or
+
+(ii) intimidation, reprisal, or discrimination that is unlawful under section 1317 of this title and is taken against a covered employee because of a claim alleging a violation described in clause (i).
+
+(c) Use of secure electronic reporting and tracking system (1) Establishment and operation of secure system The Office shall establish and operate a secure electronic reporting system through which a covered employee may initiate a proceeding under this subchapter, and which will keep an electronic record of the date and time at which the proceeding is initiated and will track all subsequent actions or proceedings occurring with respect to the proceeding under this subchapter.
+
+(2) Accessibility to all parties The system shall be accessible to all parties to such actions or proceedings, but only until the completion of such actions or proceedings.
+
+(3) Assessment of effectiveness of procedures The Office shall use the information contained in the system to make regular assessments of the effectiveness of the procedures under this subchapter in providing for the timely resolution of claims, and shall submit semi-annual reports on such assessments each year to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+
+(d) Deadline A covered employee may not file a claim under this section with respect to an allegation of a violation of law after the expiration of the 180-day period which begins on the date of the alleged violation.
+
+(Pub. L. 104–1, title IV, § 402, Jan. 23, 1995, 109 Stat. 32; Pub. L. 115–397, title I, § 102(a), Dec. 21, 2018, 132 Stat. 5301.)
+
+## Notes
+
+Editorial Notes
+
+References in TextPart A of subchapter II, referred to in subsec. (a)(1), (3)(B), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables. This chapter, referred to in subsecs. (a)(3)(A) and (b)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+
+Amendments2018—Pub. L. 115–397 amended section generally. Prior to amendment, section related to counseling prior to commencing a proceeding.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2881a"
+description: "Temporary authority for acquisition or construction of privatized military unaccompanied housing"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "169"
+chapter_name: "MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING"
+section: "2881a"
+citation: "10 U.S.C. § 2881a"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2881a"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "6146621d54f57e1b1b24511c8f5ec30999e065390df08483d2b04c23ac7edb00"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "2a48622c48bcb1abdfaca8635363f554d8b90f5d7a1a74dbdd3ecb12ada3e010"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2881a - Temporary authority for acquisition or construction of privatized military unaccompanied housing
+
+## Text
+
+(a) In General.— The Secretary concerned may use the authority under this subchapter to enter into contracts with appropriate private sector entities for the acquisition or construction of military unaccompanied housing in the United States, including any territory or possession of the United States.
+
+(b) Treatment of Housing; Assignment of Members.— The Secretary concerned may assign members of the armed forces without dependents to housing units acquired or constructed pursuant to this section, and such housing units shall be considered as quarters of the United States or a housing facility under the jurisdiction of the Secretary for purposes of section 403 of title 37.
+
+(c) Basic Allowance for Housing.— (1) The Secretary of Defense may prescribe and, under section 403(o) of title 37, pay for members of the armed forces without dependents in privatized housing units acquired or constructed pursuant to this section higher rates of partial basic allowance for housing than the rates authorized under paragraph (2) of such section.
+
+(2) The partial basic allowance for housing paid for a member at a higher rate under this subsection may be paid directly to the private sector source of the housing to whom the member is obligated to pay rent or other charge for residing in such housing if the private sector source credits the amount so paid against the amount owed by the member for the rent or other charge.
+
+(d) Funding.— (1) The Secretary concerned shall use the Department of Defense Military Unaccompanied Housing Improvement Fund to carry out activities pursuant to this section.
+
+(2) Subject to 30 days prior notification to the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title, such additional amounts as the Secretary of Defense considers necessary may be transferred to the Department of Defense Military Unaccompanied Housing Improvement Fund from amounts appropriated for construction of military unaccompanied housing in military construction accounts. The amounts so transferred shall be merged with and be available for the same purposes and for the same period of time as amounts appropriated directly to the Fund.
+
+(e) Expiration.— The authority of the Secretary concerned to enter into a contract under this section shall expire September 30, 2029.
+
+(Added Pub. L. 107–314, div. B, title XXVIII, § 2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, § 1056(c)(10), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, § 2812, Oct. 17, 2006, 120 Stat. 2473; Pub. L. 111–383, div. B, title XXVIII, § 2803(f), Jan. 7, 2011, 124 Stat. 4459; Pub. L. 115–91, div. A, title X, § 1051(a)(25), div. B, title XXVIII, § 2801(d)(1), Dec. 12, 2017, 131 Stat. 1562, 1844; Pub. L. 117–263, div. A, title VI, § 613(b), Dec. 23, 2022, 136 Stat. 2623; Pub. L. 119–21, title II, § 20001(c), July 4, 2025, 139 Stat. 113.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Pub. L. 119–21, § 20001(c)(1), substituted “Temporary authority for acquisition or construction of privatized military unaccompanied housing” for “Pilot projects for acquisition or construction of military unaccompanied housing” in section catchline. Subsec. (a). Pub. L. 119–21, § 20001(c)(2), (4), substituted “In General” for “Pilot Projects Authorized” in heading, “Secretary concerned” for “Secretary of the Navy”, and “use the authority under this subchapter to enter into contracts with appropriate private sector entities” for “carry out not more than three pilot projects under the authority of this section or another provision of this subchapter to use the private sector”. Subsec. (b). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”. Subsec. (c)(1). Pub. L. 119–21, § 20001(c)(3), (5), substituted “privatized housing units” for “privatized housing” and “pursuant to this section” for “under the pilot projects”. Subsec. (d)(1). Pub. L. 119–21, § 20001(c)(2), (3), substituted “Secretary concerned” for “Secretary of the Navy” and “pursuant to this section” for “under the pilot projects”. Subsec. (e). Pub. L. 119–21, § 20001(c)(7), substituted “under this section” for “under the pilot programs” and “September 30, 2029” for “September 30, 2009”. Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e). Former subsec. (e) had been struck out by Pub. L. 115–91. See 2017 Amendment note below. Subsec. (f). Pub. L. 119–21, § 20001(c)(6), redesignated subsec. (f) as (e). Pub. L. 119–21, § 20001(c)(2), substituted “Secretary of the Navy” for “Secretary concerned”. 2022—Subsec. (c)(1). Pub. L. 117–263 substituted “section 403(o)” for “section 403(n)”. 2017—Subsec. (d)(2). Pub. L. 115–91, § 2801(d)(1), inserted “in an electronic medium pursuant to section 480 of this title” after “Congress”. Subsec. (e). Pub. L. 115–91, § 1051(a)(25), struck out subsec. (e) which required reports describing certain proposed contracts, conveyances, or leases. 2011—Subsec. (e)(2). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”. 2006—Subsecs. (d)(2), (e)(2). Pub. L. 109–364, § 2812(a), substituted “30 days” for “90 days”. Subsec. (f). Pub. L. 109–364, § 2812(b), substituted “2009” for “2007”. Pub. L. 109–163 substituted “The” for “Notwithstanding section 2885 of this title, the”.

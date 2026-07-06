@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2200g"
+description: "Establishment"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "113"
+chapter_name: "DEFENSE CIVILIAN TRAINING CORPS"
+section: "2200g"
+citation: "10 U.S.C. § 2200g"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2200g"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "6a80b3a2b0f9d8c16266f173795e79dd44ad564210e14234c5240118578ec4a6"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e14e433817e41cb02eb851176515758e452506b9ee5cd99c4007010c5cffe9e4"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2200g - Establishment
+
+## Text
+
+(a) In General.— The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish and maintain a Defense Civilian Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees.
+
+(b) Purpose.— The purpose of the Defense Civilian Training Corps is to target critical skills gaps necessary to achieve the objectives of the national defense strategies required by section 113(g) of this title and the national security strategies required by section 108 of the National Security Act of 1947 (50 U.S.C. 3043) by preparing students selected for the Defense Civilian Training Corps for Department of Defense careers relating to acquisition, digital technologies, critical technologies, science, engineering, finance, and other civilian occupations determined by the Secretary of Defense.
+
+(c) Use of Resources and Programs.— The Under Secretary of Defense for Acquisition and Sustainment may leverage the resources and programs of the acquisition research organization within a civilian college or university that is described under section 4142(a) of this title (commonly referred to as the “Acquisition Innovation Research Center”) to carry out the requirements of this chapter.
+
+(Added Pub. L. 116–92, div. A, title VIII, § 860(a), Dec. 20, 2019, 133 Stat. 1513; amended Pub. L. 116–283, div. A, title X, § 1081(a)(4)(A), Jan. 1, 2021, 134 Stat. 3870; Pub. L. 117–263, div. A, title VIII, § 833, Dec. 23, 2022, 136 Stat. 2713; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(18), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title XVII, § 1701(a)(26), Dec. 23, 2024, 138 Stat. 2204.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (a). Pub. L. 118–159 substituted “Under Secretary of Defense” for “Under Secretary for Defense”. 2023—Subsec. (a). Pub. L. 118–31 inserted heading. 2022—Pub. L. 117–263 designated existing provisions as subsec. (a), substituted “The Secretary of Defense, acting through the Under Secretary for Defense for Acquisition and Sustainment, shall establish and maintain” for “For the purposes of preparing selected students for public service in Department of Defense occupations relating to acquisition, science, engineering, or other civilian occupations determined by the Secretary of Defense, and to target critical skill gaps in the Department of Defense, the Secretary of Defense shall establish and maintain”, and added subsecs. (b) and (c). 2021—Pub. L. 116–283 substituted “§” for “SEC.” in section designation.
+
+Statutory Notes and Related Subsidiaries
+
+Implementation TimelinePub. L. 116–92, div. A, title VIII, § 860(b), Dec. 20, 2019, 133 Stat. 1514, provided that: “(1) Initial implementation.—Not later than February 15, 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan and schedule to implement the Defense Civilian Training Corps program established under chapter 113 of title 10, United States Code (as added by subsection (a)) at one accredited civilian educational institution authorized to grant baccalaureate degrees not later than August 1, 2021. The plan shall include a list of critical skills gaps the program will address and recommendations for any legislative changes required for effective implementation of the program. “(2) Expansion.—Not later than December 31, 2020, the Secretary of Defense shall submit to the congressional defense committees an expansion plan and schedule to expand the Defense Civilian Training Corps program to five accredited civilian educational institutions not later than August 1, 2022. “(3) Full implementation.—Not later than December 31, 2021, the Secretary of Defense shall submit to the congressional defense committees a full implementation plan and schedule to expand the Defense Civilian Training Corps program to at least 20 accredited civilian educational institutions with not fewer than 400 members enrolled in the program not later than August 1, 2023.”

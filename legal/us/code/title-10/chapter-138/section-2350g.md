@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2350g"
+description: "Authority to accept use of real property, services, and supplies from foreign countries in connection with mutual defense agreements and occupational arrangements"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "138"
+chapter_name: "COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES"
+section: "2350g"
+citation: "10 U.S.C. § 2350g"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2350g"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "446f77ece3500dd3c49a444e37cdb336cfd3a59f9d61a32662f29c1da2e7ca0d"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "9f4a6fa635d9ab8d6457a2bc929ade8e27e617abb30fa2bcf0cc72f27e04344e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2350g - Authority to accept use of real property, services, and supplies from foreign countries in connection with mutual defense agreements and occupational arrangements
+
+## Text
+
+(a) Authority To Accept.— The Secretary of Defense may accept from a foreign country, for the support of any element of the armed forces in an area of that country—
+
+(1) real property or the use of real property and services and supplies for the United States or for the use of the United States in accordance with a mutual defense agreement or occupational arrangement; and
+
+(2) services furnished as reciprocal international courtesies or as services customarily made available without charge.
+
+(b) Authority to Use Property, Services, and Supplies.— Property, services, or supplies referred to in subsection (a) may be used by the Secretary of Defense without specific authorization, except that such property, services, and supplies may not be used in connection with any program, project, or activity if the use of such property, services, or supplies would result in the violation of any prohibition or limitation otherwise applicable to that program, project, or activity.
+
+(c) Periodic Audits by GAO.— The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+
+(Added Pub. L. 101–510, div. A, title XIV, § 1451(b)(1), Nov. 5, 1990, 104 Stat. 1692; amended Pub. L. 103–160, div. A, title XI, § 1105(a), Nov. 30, 1993, 107 Stat. 1749; Pub. L. 106–65, div. A, title X, § 1032(a)(3), Oct. 5, 1999, 113 Stat. 751.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9008, Nov. 21, 1989, 103 Stat. 1130, which was set out as a note under section 2341 of this title, prior to repeal by Pub. L. 101–510, § 1451(c).
+
+Amendments1999—Subsecs. (b) to (d). Pub. L. 106–65 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “(1) Not later than 30 days after the end of each quarter of each fiscal year, the Secretary of Defense shall submit to Congress a report on property, services, and supplies accepted by the Secretary under this section during the preceding quarter. The Secretary shall include in each such report a description of all property, services, and supplies having a value of more than $1,000,000. “(2) In computing the value of any property, services, and supplies referred to in paragraph (1), the Secretary shall aggregate the value of— “(A) similar items of property, services, and supplies accepted by the Secretary during the quarter concerned; and “(B) components which, if assembled, would comprise all or a substantial part of an item of equipment or a facility.” 1993—Subsec. (d). Pub. L. 103–160 substituted “Periodic Audits” for “Annual Audit” in heading and amended text generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall conduct an annual audit of property, services, and supplies accepted by the Secretary of Defense under this section and shall submit a copy of the results of each such audit to Congress.”

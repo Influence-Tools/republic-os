@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3072"
+description: "Comptroller General assessment of acquisition programs and initiatives"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "203"
+chapter_name: "GENERAL MATTERS"
+section: "3072"
+citation: "10 U.S.C. § 3072"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3072"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "11adc3ebd75306f0e7ed9c41a26226eb7a7765454893455df6016af2d64e3fd6"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "5bbe76e658c2fbb253f35827693fe0336a80377079672569d961dd54e364f27a"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3072 - Comptroller General assessment of acquisition programs and initiatives
+
+## Text
+
+(a) Assessment Required.— The Comptroller General of the United States shall submit to the congressional defense committees an annual assessment of selected acquisition programs and initiatives of the Department of Defense by March 30th of each year from 2020 through 2029.
+
+(b) Analyses To Be Included.— The assessment required under subsection (a) shall include—
+
+(1) a macro analysis of how well acquisition programs and initiatives are performing and reasons for that performance;
+
+(2) specific analyses of individual acquisition programs and initiatives; and
+
+(3) other issues as determined appropriate by the Comptroller General.
+
+(c) Acquisition Programs and Initiatives to Be Considered.— The assessment required under subsection (a) shall consider the following programs and initiatives:
+
+(1) Selected weapon systems, as determined appropriate by the Comptroller General.
+
+(2) Selected information technology systems and initiatives, including defense business systems, networks, and software-intensive systems, as determined appropriate by the Comptroller General.
+
+(3) Selected prototyping and rapid fielding activities and initiatives, as determined appropriate by the Comptroller General.
+
+(Added Pub. L. 115–232, div. A, title VIII, § 833(a), Aug. 13, 2018, 132 Stat. 1858, § 2229b; renumbered § 3072 and amended Pub. L. 116–283, div. A, title VIII, § 813, title XVIII, § 1807(g)(1), Jan. 1, 2021, 134 Stat. 3749, 4159; Pub. L. 117–263, div. A, title VIII, § 812(a), Dec. 23, 2022, 136 Stat. 2706; Pub. L. 118–159, div. A, title VIII, § 813(a), Dec. 23, 2024, 138 Stat. 1980; Pub. L. 119–60, div. A, title XVII, § 1701(a)(22), Dec. 18, 2025, 139 Stat. 1209.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsPrior sections 3072 to 3075 were renumbered sections 7072 to 7075 of this title, respectively. Prior sections 3076 to 3080 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994, except as otherwise provided. Section 3076, act Aug. 10, 1956, ch. 1041, 70A Stat. 170, related to composition of Army Reserve. See section 10104 of this title. Section 3077, act Aug. 10, 1956, ch. 1041, 70A Stat. 170, related to composition of Army National Guard of United States. See section 10105 of this title. Section 3078, act Aug. 10, 1956, ch. 1041, 70A Stat. 171, provided that Army National Guard is a component of Army while in service of United States. See section 10106 of this title. Section 3079, act Aug. 10, 1956, ch. 1041, 70A Stat. 171, related to status of Army National Guard of United States when not in Federal service. See section 10107 of this title. Section 3080, added Pub. L. 86–603, § 1(2)(A), July 7, 1960, 74 Stat. 357, related to authority of officers of Army National Guard of United States with respect to Federal status. See section 10215 of this title. Prior sections 3081, 3082, 3083, and 3084 were renumbered sections 7081, 10542, 7083, and 7084 of this title, respectively.
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 substituted “Initiatives” for “Efforts” in heading. 2024—Pub. L. 118–159, § 813(a)(1), (2), substituted “initiatives” for “efforts” in section catchline and wherever appearing in text. Subsec. (a). Pub. L. 118–159, § 813(a)(3), substituted “2029” for “2026”. Subsec. (b)(2), (3). Pub. L. 118–159, § 813(a)(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and efforts; and”. 2022—Pub. L. 117–263, § 812(a)(1), (2), substituted “efforts” for “initiatives” in section catchline and wherever appearing in text. Subsec. (a). Pub. L. 117–263, § 812(a)(3), substituted “through 2026” for “through 2023”. Subsec. (c). Pub. L. 117–263, § 812(a)(4), substituted “Efforts” for “Initiatives” in heading. 2021—Pub. L. 116–283, § 1807(g)(1), renumbered section 2229b of this title as this section. Subsec. (b)(2). Pub. L. 116–283, § 813, substituted “a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential” for “a summary of organizational and legislative changes and emerging assessment methodologies since the last assessment, and a discussion of the”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by section 1807(g)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

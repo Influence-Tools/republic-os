@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 10204"
+description: "Personnel records"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "1007"
+chapter_name: "ADMINISTRATION OF RESERVE COMPONENTS"
+section: "10204"
+citation: "10 U.S.C. § 10204"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s10204"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "7b3bad42526ba33344433c3009a3107a66b09aea1214590225efd9f1c0b26094"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "4de7b35fe3956ba1cbb212f1cd60c4e9015484e9515e57704739dd2964fa10a3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 10204 - Personnel records
+
+## Text
+
+(a) The Secretary concerned shall maintain adequate and current personnel records of each member of the reserve components under the Secretary’s jurisdiction showing the following with respect to the member:
+
+(1) Physical condition.
+
+(2) Dependency status.
+
+(3) Military qualifications.
+
+(4) Civilian occupational skills.
+
+(5) Availability for service.
+
+(6) Such other information as the Secretary concerned may prescribe.
+
+(b) Under regulations to be prescribed by the Secretary of Defense, the Secretary of each military department shall maintain a record of the number of members of each class of each reserve component who, during each fiscal year, have participated satisfactorily in active duty for training and inactive duty training with pay.
+
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(a)(1), Oct. 5, 1994, 108 Stat. 2977.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsProvisions similar to those in this section were contained in section 275 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
+
+Records of Service for ReservesPub. L. 116–92, div. A, title V, § 570, Dec. 20, 2019, 133 Stat. 1397, provided that: “(a) Establishment.—Not later than September 30, 2020, the Secretary of Defense shall establish and implement a standard record of service for members of the reserve components of the Armed Forces, similar to DD Form 214, that summarizes the record of service of each such member, including dates of active duty service. “(b) Coordination.—In carrying out this section, the Secretary of Defense shall coordinate with the Secretary of Veterans Affairs to ensure that the record established under this section is acceptable as proof of service for former members of the reserve components of the Armed Forces who are eligible for benefits under laws administered by the Secretary of Veterans Affairs to receive such benefits.”

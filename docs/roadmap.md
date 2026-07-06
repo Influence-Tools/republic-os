@@ -5,9 +5,11 @@ An honest account of what exists, what's next, and what's further out. This repo
 ## Done
 
 - **The substrate** — repo-canonical, OKF markdown + YAML frontmatter, JSON-Schema validated, deterministic build (byte-identical on rerun).
-- **Four entity types, 17,506 files** — Person (11,285), Body (233), Candidate (2,494), Jurisdiction (3,494).
+- **Five entity types, 37,667 files** — Person (13,329), Body (233), Candidate (2,494), Jurisdiction (10,390), LegalText (11,221).
 - **The federal government, structurally** — every member of Congress, the chambers, 49 committees and 181 subcommittees with their leadership, and every member's committee seats.
-- **The nationwide county skeleton** — all 3,131 U.S. counties as demographic nodes, plus 363 congressional districts, from Census ACS.
+- **The nationwide county skeleton** — all 3,131 U.S. counties as demographic nodes, plus all 435 congressional districts (Census ACS demographics on 363).
+- **The authority layer** — every state legislative district (4,927 house, 1,897 senate) linked county↔district↔legislator, nationwide.
+- **The legal corpus, seeded wide** — U.S. Code Titles 1–11 and 52 as 11,221 per-section records, mirrored from pinned OLRC XML (release 119-100) with manifests and checksums. Titles 12–54 pending an OLRC XML retry (the GovInfo HTML fallback is not source-quality).
 - **The 2026 federal candidate field** — every FEC filing as a Candidate.
 - **Florida to the ground** — officeholders down to the municipal level across all 67 counties.
 - **The pipeline** — `make build` / `validate` / `changelog` / `check`, standard-library only.
@@ -16,7 +18,8 @@ An honest account of what exists, what's next, and what's further out. This repo
 
 ## Next
 
-- **Self-updating mirror** — a GitHub Action running `make check` on every push, then a scheduled job that pulls a fresh Atlas export, rebuilds, and commits the changelog automatically. This is the point where the mirror maintains itself and the daily civic changelog becomes real (the first *re-sync* diff, where only genuine government changes surface).
+- **Self-updating mirror** — the `make check` GitHub Action now guards every push; next is the scheduled job that pulls a fresh Atlas export, rebuilds, and commits the changelog automatically. That is the point where the mirror maintains itself and the daily civic changelog becomes real (the first *re-sync* diff, where only genuine government changes surface).
+- **The full U.S. Code** — titles 12–54 as OLRC USLM XML at the same release point (retry in progress on Atlas; the WAF-blocked titles currently exist only as GovInfo HTML, which stays a secondary snapshot).
 - **The demographic choropleth** — the Board already has ACS data for every county; shade the map by population, income, and poverty, turning it from a coverage indicator into an instrument.
 - **State and local bodies** — Bodies currently exist only at the federal level. Mint them for state legislatures and, following the Florida depth, county commissions and city councils.
 - **Graph export** — a loader that walks the tree and builds the relationship graph (Memgraph) as a materialized view, so the repo can rehydrate the graph rather than the reverse.

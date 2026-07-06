@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3069"
+description: "Buy-to-budget acquisition: end items"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "203"
+chapter_name: "GENERAL MATTERS"
+section: "3069"
+citation: "10 U.S.C. § 3069"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3069"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "6fab11440fc092302e0de84d9cda3fa55aa741a85c700d238a3bfe6c4b9f41ba"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "24da2719ddd2d7c609b2aa226d078eaa5a221cc437a67d3c1eb0e6cc5c803fe3"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3069 - Buy-to-budget acquisition: end items
+
+## Text
+
+(a) Authority To Acquire Additional End Items.— Using funds available to the Department of Defense for the acquisition of an end item, a contracting officer making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that contracting officer determines in writing that:
+
+(1) The agency has an established requirement for the end item that is expected to remain substantially unchanged throughout the period of the acquisition.
+
+(2) It is possible to acquire the higher quantity of the end item without additional funding because of production efficiencies or other cost reductions.
+
+(3) The amount of the funds used for the acquisition of the higher quantity of the end item will not exceed the amount provided under that law for the acquisition of the end item.
+
+(b) Regulations.— The Secretary of Defense shall prescribe regulations for the administration of this section.
+
+(c) Waiver by Other Law.— A provision of law may not be construed as prohibiting the acquisition of a higher quantity of an end item under this section unless that provision of law—
+
+(1) specifically refers to this section; and
+
+(2) specifically states that the acquisition of the higher quantity of the end item is prohibited notwithstanding the authority provided in this section.
+
+(d) Definitions.— (1) For the purposes of this section, a quantity of an end item shall be considered specified in a law if the quantity is specified either in a provision of that law or in any related representation that is set forth separately in a table, chart, or explanatory text included in a joint explanatory statement or governing committee report accompanying the law.
+
+(2) In this section, the term “end item” means a production product assembled, completed, and ready for issue or deployment.
+
+(Added Pub. L. 107–314, div. A, title VIII, § 801(a)(1), Dec. 2, 2002, 116 Stat. 2600, § 2308; amended Pub. L. 108–136, div. A, title X, § 1043(b)(11), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 114–328, div. A, title VIII, § 852, Dec. 23, 2016, 130 Stat. 2296; renumbered § 3069 and amended Pub. L. 116–283, div. A, title XVIII, § 1807(f), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title VIII, § 812(a)(4), Dec. 18, 2025, 139 Stat. 951.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 3069 was renumbered section 7069 of this title.
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 812(a)(4)(A)(i), in introductory provisions, substituted “a contracting officer making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that contracting officer determines in writing that:” for “the head of an agency making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that head of an agency makes each of the following findings:”. Subsec. (a)(4). Pub. L. 119–60, § 812(a)(4)(A)(ii), struck out par. (4) which read as follows: “The amount so provided is sufficient to ensure that each unit of the end item acquired within the higher quantity is fully funded as a complete end item.” Subsec. (b). Pub. L. 119–60, § 812(a)(4)(B), struck out “The regulations shall include, at a minimum, the following:” after “administration of this section.” in introductory provisions and struck out pars. (1) and (2) which read as follows: “(1) The level of approval within the Department of Defense that is required for a decision to acquire a higher quantity of an end item under subsection (a). “(2) Authority (subject to subsection (a)) to acquire up to 10 percent more than the quantity of an end item approved in a justification and approval of the use of procedures other than competitive procedures for the acquisition of the end item under sections 3201 through 3205 of this title.” Subsecs. (c), (d). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) related to notification of Congress regarding a decision to acquire a higher quantity of an end item than is specified in a law described in subsection (a). Subsec. (d)(2). Pub. L. 119–60, § 812(a)(4)(D), amended par. (2) generally. Prior to amendment, par. (2) defined terms “end item” and “head of an agency”. Subsec. (e). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsec. (e) as (d). 2021—Pub. L. 116–283 renumbered section 2308 of this title as this section. Subsec. (b)(2). Pub. L. 116–283 substituted “sections 3201 through 3205” for “section 2304”. 2016—Subsec. (c). Pub. L. 114–328 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “but”, and added par. (2). 2003—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means— “(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and “(ii) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 5534"
+description: "Integration and interoperability of air and missile defense capabilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "551"
+chapter_name: "MISSILE DEFENSE"
+section: "5534"
+citation: "10 U.S.C. § 5534"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s5534"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "221123494ac90ff7f2eca079317f9d946102b988b264270f55c5f23feddc7676"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "196b3a0a5bf97a83e4355f6d6a49d0f06002850c8257e8b23eb3663ebe6c9e14"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 5534 - Integration and interoperability of air and missile defense capabilities
+
+## Text
+
+(a) Interoperability of Missile Defense Systems.— The Vice Chairman of the Joint Chiefs of Staff and the chairman of the Missile Defense Executive Board (pursuant to section 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), acting through the Missile Defense Executive Board, shall ensure the interoperability and integration of the covered air and missile defense capabilities of the United States, including by carrying out operational testing.
+
+(b) Annual Demonstration.— (1) Except as provided by paragraph (2), the Director of the Missile Defense Agency and the Secretary of the Army shall jointly ensure that not less than one intercept or flight test is carried out each year that demonstrates interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+(2) The Director and the Secretary may waive the requirement in paragraph (1) with respect to an intercept or flight test carried out during the year covered by the waiver if the chairman of the Missile Defense Executive Board—
+
+(A) determines that such waiver is necessary for such year; and
+
+(B) submits to the congressional defense committees notification of such waiver, including an explanation for how such waiver will not negatively affect demonstrating the interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+(c) Definition of Covered Air and Missile Defense Capabilities.— In this section, the term “covered air and missile defense capabilities” means Patriot air and missile defense batteries and associated interceptors and systems, Aegis ships and associated ballistic missile interceptors (including Aegis Ashore capability), AN/TPY–2 radars, or terminal high altitude area defense batteries and interceptors.
+
+(Added Pub. L. 118–159, div. A, title XVI, § 1649(a), Dec. 23, 2024, 138 Stat. 2196.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (a), is section 1681(c) of Pub. L. 115–232, div. A, title XVI, Aug. 13, 2018, 132 Stat. 2161, which is not classified to the Code.
+
+Prior ProvisionsA prior section 5534, act Aug. 10, 1956, ch. 1041, 70A Stat. 318, set forth term of enlistments in Regular Navy or Regular Marine Corps and provided that Secretary of Navy could prescribe grades or ratings in which such enlistments could be made, prior to repeal by Pub. L. 90–235, § 2(a)(3), (b), Jan. 2, 1968, 81 Stat. 756. Provisions similar to those in this section were contained in Pub. L. 114–92, div. A, title XVI, § 1675, Nov. 25, 2015, 129 Stat. 1131, as amended by Pub. L. 116–92, div. A, title IX, § 902(69), Dec. 20, 2019, 133 Stat. 1551; Pub. L. 116–283, div. A, title X, § 1081(f)(3), Jan. 1, 2021, 134 Stat. 3875, which was set out in a note under section 4205 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1649(b)(7), Dec. 23, 2024, 138 Stat. 2199.

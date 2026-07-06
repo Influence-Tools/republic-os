@@ -1,0 +1,289 @@
+---
+type: "LegalText"
+title: "8 U.S.C. § 1812"
+description: "Fees relating to applications for adjustment of status"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 8
+title_name: "ALIENS AND NATIONALITY"
+chapter_number: "16"
+chapter_name: "IMMIGRATION FEES"
+section: "1812"
+citation: "8 U.S.C. § 1812"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc08@119-100.zip"
+source_identifier: "/us/usc/t8/s1812"
+source_file: "data/legal/raw/us/code/title-08/usc08.xml"
+source_hash: "1e31fe96126b015577aec1cbed520c81db822990e9d9756efa9d24dc5233a329"
+raw_snapshot_hash: "18cbd9dd4172ad0473c6dc52e038b813f80124d17167f025c00b9dfa60060a0c"
+text_hash: "19ecf2aa7cfcb170f1be9e43965ddfa80d40bfccc631df5f9e00e437aee34a62"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 8 U.S.C. § 1812 - Fees relating to applications for adjustment of status
+
+## Text
+
+(a) Fee for filing an application to adjust status to that of a lawful permanent resident (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien who files an application with an immigration court to adjust the alien’s status to that of a lawful permanent resident, or whose application to adjust his or her status to that of a lawful permanent resident is adjudicated in immigration court. Such fee shall be paid at the time such application is filed or before such application is adjudicated by the immigration court.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $1,500; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of adjustment of status application fees During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(b) Fee for filing application for waiver of grounds of inadmissibility (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court for a waiver of a ground of inadmissibility, or before such application is adjudicated by the immigration court.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $1,050; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of waiver of ground of admissibility application fees During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(c) Fee for filing an application for temporary protected status (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court for temporary protected status, or before such application is adjudicated by the immigration court.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $500; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of temporary protected status application fees During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(d) Fee for filing an appeal of a decision of an immigration judge (1) In general Except as provided in paragraph (3), the Attorney General shall require, in addition to any other fees authorized by law, the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an appeal from a decision of an immigration judge.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $900; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Exception The fee required under paragraph (1) shall not apply to the appeal of a bond decision.
+
+(4) Disposition of fees for appealing immigration judge decisions During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(e) Fee for filing an appeal from a decision of an officer of the Department of Homeland Security (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an appeal of a decision of an officer of the Department of Homeland Security.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $900; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of fees for appealing Department of Homeland Security officer decisions During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(f) Fee for filing an appeal from a decision of an adjudicating official in a practitioner disciplinary case (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any practitioner at the time such practitioner files an appeal from a decision of an adjudicating official in a practitioner disciplinary case.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $1,325; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of fees for appealing Department of Homeland Security officer decisions During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(g) Fee for filing a motion to reopen or a motion to reconsider (1) In general Except as provided in paragraph (3), in addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files a motion to reopen or motion to reconsider a decision of an immigration judge or the Board of Immigration Appeals.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $900; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Exceptions The fee required under paragraph (1) shall not apply to—
+
+(A) a motion to reopen a removal order entered in absentia if such motion is filed in accordance with section 1229a(b)(5)(C)(ii) of this title; or
+
+(B) a motion to reopen a deportation order entered in absentia if such motion is filed in accordance with section 1252b(c)(3)(B) of this title prior to April 1, 1997.
+
+(4) Disposition of fees for filing certain motions During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(h) Fee for filing application for suspension of deportation (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court for suspension of deportation.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $600; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of fees for filing application for suspension of deportation During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(i) Fee for filing application for cancellation of removal for certain permanent residents (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien at the time such alien files an application with an immigration court an application11 So in original. for cancellation of removal for an alien who is a lawful permanent resident.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $600; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of fees for filing application for cancellation of removal During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(j) Fee for filing an application for cancellation of removal and adjustment of status for certain nonpermanent residents (1) In general In addition to any other fees authorized by law, the Attorney General shall require the payment of a fee, equal to the amount specified in paragraph (2), by any alien who is not a lawful permanent resident at the time such alien files an application with an immigration court for cancellation of removal and adjustment of status for any alien.
+
+(2) Amount specified (A) Initial amount For fiscal year 2025, the amount specified in this paragraph shall be the greater of—
+
+(i) $1,500; or
+
+(ii) such amount as the Attorney General may establish, by rule.
+
+(B) Annual adjustments for inflation During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this paragraph shall be equal to the sum of—
+
+(i) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+
+(ii) the product resulting from the multiplication of the amount referred to in clause (i) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+
+(3) Disposition of fees for filing application for cancellation of removal During each fiscal year—
+
+(A) not more than 25 percent of the fees collected pursuant to this subsection—
+
+(i) shall be derived by transfer from the Immigration Examinations Fee Account under section 1356(n) of this title; and
+
+(ii) shall be credited to the Executive Office for Immigration Review to retain and spend without further appropriation; and
+
+(B) any amounts not derived by transfer and credited pursuant to subparagraph (A) shall be deposited into the general fund of the Treasury.
+
+(k) Limitation on use of funds No fees collected pursuant to this section may be expended by the Executive Office for Immigration Review for the Legal Orientation Program, or for any successor program.
+
+(Pub. L. 119–21, title X, § 100013, July 4, 2025, 139 Stat. 374.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1252b(c)(3)(B) of this title, referred to in subsec. (g)(3)(B), was repealed by Pub. L. 104–208, div. C, title III, § 308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615. See section 1229a(b)(5)(C)(ii) of this title.

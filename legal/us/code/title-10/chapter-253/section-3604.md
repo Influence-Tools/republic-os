@@ -1,0 +1,89 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3604"
+description: "Program to accelerate the procurement and fielding of innovative technologies"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "253"
+chapter_name: "RAPID ACQUISITION PROCEDURES"
+section: "3604"
+citation: "10 U.S.C. § 3604"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3604"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "28a55db149c6e41ccf065cc905a959fdb3fec54f0a2e8f8cbbb24a8786026f14"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "7871d900f8d3a7f11e5829f33ef69e7f17bc2d034743e92bfb6194343cdcb032"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3604 - Program to accelerate the procurement and fielding of innovative technologies
+
+## Text
+
+(a) Program.— Subject to availability of appropriations, the Secretary of Defense shall establish a competitive, merit-based program to accelerate the procurement and fielding of innovative technologies by, with respect to such technologies—
+
+(1) reducing acquisition or life-cycle costs;
+
+(2) addressing technical risks;
+
+(3) improving the timeliness and thoroughness of test and evaluation outcomes; and
+
+(4) rapidly implementing such technologies to directly support defense missions.
+
+(b) Guidelines.— (1) In general.— The Secretary shall issue guidelines for the operation of the program established under this section.
+
+(2) Contents.— At a minimum, the guidelines for the operation of the program established under this section required under paragraph (1) shall provide for the following:
+
+(A) The issuance of one or more solicitations for proposals by the Department of Defense in support of the program, with a priority established for technologies developed by small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)) or nontraditional defense contractors (as defined under section 3014 of this title).
+
+(B) The issuance of not more than two solicitations for proposals by the Department of Defense in support of the program each fiscal year for innovative technologies from entities that, during the one-year period preceding the issuance of the solicitation, have not performed on contracts and subcontracts for the Department under which the aggregate obligations of the Department to such entity for such period exceeds $400,000,000.
+
+(C) A process for—
+
+(i) the review of proposals received in response to a solicitation issued under subparagraph (A) by the Secretary of Defense and by each Secretary of a military department;
+
+(ii) the merit-based selection of the most promising cost-effective proposals; and
+
+(iii) the procurement of goods or services offered by such a proposal through contracts, cooperative agreements, other transaction authority, or by another appropriate process.
+
+(c) Amount.— The total amount of funding provided for any proposal selected for an award under the program established under this section shall be greater than or equal to $10,000,000 and shall not exceed $50,000,000, unless the Secretary (or designee of the Secretary) approves a greater amount of funding.
+
+(d) Data Collection.— (1) Plan required before implementation.— The Secretary of Defense may not provide funding under this section until the date on which the Secretary—
+
+(A) completes a plan for carrying out the data collection required under paragraph (2); and
+
+(B) submits the plan to the congressional defense committees.
+
+(2) Data collection required.— The Secretary of Defense shall collect and analyze data on the program established under this section for the purposes of—
+
+(A) developing and sharing best practices for achieving the objectives of the program;
+
+(B) providing information on the implementation of the program and related policy issues; and
+
+(C) reporting to the congressional defense committees as required under subsection (e).
+
+(e) Biannual Report.— Not later than March 1 and September 1 of each year beginning after the date of the enactment of this section, the Secretary of Defense shall submit to the congressional defense committees a report on the program established under this section.
+
+(f) Congressional Notification.— The Secretary of Defense shall notify the congressional defense committees within 30 days after funding has been provided for a proposal selected for an award under the program established under this section.
+
+(Added Pub. L. 118–159, div. A, title VIII, § 861(a), Dec. 23, 2024, 138 Stat. 1999; amended Pub. L. 119–60, div. A, title VIII, § 813, Dec. 18, 2025, 139 Stat. 952.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 118–159, which was approved Dec. 23, 2024.
+
+Prior ProvisionsProvisions similar to those in this section were contained in Pub. L. 117–81, div. A, title VIII, § 834, Dec. 27, 2021, 135 Stat. 1835, as amended by Pub. L. 117–263, div. A, title VIII, § 845, Dec. 23, 2022, 136 Stat. 2720, which was set out in a note under section 4061 of this title, prior to repeal by Pub. L. 118–159, div. A, title VIII, § 861(b), Dec. 23, 2024, 138 Stat. 2000.
+
+Amendments2025—Subsec. (c). Pub. L. 119–60 struck out “Maximum” before “Amount” in heading and inserted “shall be greater than or equal to $10,000,000 and” before “shall not exceed”.

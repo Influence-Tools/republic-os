@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 6942"
+description: "Rural Utilities Service"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "98"
+chapter_name: "DEPARTMENT OF AGRICULTURE REORGANIZATION"
+section: "6942"
+citation: "7 U.S.C. § 6942"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s6942"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "4a0aa0ecc85879a5b05ee7f223cc6e4ba7f5288758a263bff364beecae9fe054"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "51742dd1025dfbb1b2bb0089bc24b3c612027379d16b800605ae8555db90b676"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 6942 - Rural Utilities Service
+
+## Text
+
+(a) Establishment required The Secretary shall establish and maintain within the Department the Rural Utilities Service and assign to the Service such functions as the Secretary considers appropriate.
+
+(b) Administrator (1) Appointment The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.
+
+(2) Compensation The Administrator of the Rural Utilities Service shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of the Senior Executive Service under subsection (b) of section 5382 of title 5.
+
+(c) Functions The Secretary shall carry out through the Rural Utilities Service the following functions that are under the jurisdiction of the Department:
+
+(1) Electric and telephone loan programs and water and waste facility activities authorized by law, including—
+
+(A) the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.); and
+
+(B) section 1926–1 11 See References in Text note below. of this title; and
+
+(2) Water and waste facility programs and activities authorized by law, including—
+
+(A) sections 1926, 1926a, 1926b,1 and 1926c of this title, the provisions of sections 1929 and 1929a of this title relating to assets, terms, and conditions of water and sewer programs, section 1932(b) of this title, and section 1013a of this title; and
+
+(B) section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990 1 (7 U.S.C. 1926 note).
+
+(Pub. L. 103–354, title II, § 232, Oct. 13, 1994, 108 Stat. 3219; Pub. L. 104–127, title VII, § 747(b)(2), Apr. 4, 1996, 110 Stat. 1128; Pub. L. 112–166, § 2(a)(2), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 115–334, title XII, § 12408(a)(1), Dec. 20, 2018, 132 Stat. 4976.)
+
+## Notes
+
+Editorial Notes
+
+References in TextThe Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables. Section 1926–1 of this title, referred to in subsec. (c)(1)(B), was repealed by Pub. L. 104–127, title VII, § 702, Apr. 4, 1996, 110 Stat. 1108. Section 1926b of this title, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 104–127, title VII, § 743, Apr. 4, 1996, 110 Stat. 1125. Section 2324 of the Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2)(B), is section 2324 of Pub. L. 101–624, which was set out as a note under section 1926 of this title prior to repeal by Pub. L. 104–127, title VII, § 703, Apr. 4, 1996, 110 Stat. 1108.
+
+Codification Section is comprised of section 232 of Pub. L. 103–354. Prior to amendment of this section by Pub. L. 115–334, subsec. (b)(2), formerly (b)(3), of section 232 of Pub. L. 103–354 amended section 5315 of Title 5, Government Organization and Employees. See 2018 Amendment note below.
+
+Amendments2018—Subsec. (b). Pub. L. 115–334 amended subsec. (b) generally. Prior to amendment, par. (2) amended section 5315 of Title 5, Government Organization and Employees, and text of par. (1) read as follows: “The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.” 2012—Subsec. (b)(1). Pub. L. 112–166, § 2(a)(2)(A), struck out “, by and with the advice and consent of the Senate” before period at end. Subsec. (b)(2). Pub. L. 112–166, § 2(a)(2)(B), (C), which directed that subsec. (b)(1) of this section be amended by striking out par. (2) and redesignating par. (3) as (2), was executed by making the amendment to subsec. (b) of this section, to reflect the probable intent of Congress. See Codification note above. Prior to amendment, text of par. (2) read as follows: “Any official who is serving as Administrator of the Rural Electrification Administration on October 13, 1994, and who was appointed by the President, by and with the advice and consent of the Senate— “(A) may be considered to be serving in the successor position established under paragraph (1); and “(B) shall not be required to be reappointed to that position by reason of the enactment of this Act.” 1996—Subsec. (c)(2)(A). Pub. L. 104–127 substituted “section 1932(b)” for “section 1932(b)(2)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2012 AmendmentAmendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.

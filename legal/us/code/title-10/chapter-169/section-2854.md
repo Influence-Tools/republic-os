@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2854"
+description: "Restoration or replacement of damaged or destroyed facilities"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "169"
+chapter_name: "MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING"
+section: "2854"
+citation: "10 U.S.C. § 2854"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2854"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "02a439710b8179d8f6dda9b29977ecf8e92aa973962f11ffc7fc24491bd00540"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "e691acae7e5609266cd2b25e45b42b7b9c1fc3671e912d30ec25e790f7fbcf70"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2854 - Restoration or replacement of damaged or destroyed facilities
+
+## Text
+
+(a) Subject to subsection (b), the Secretary concerned may repair, restore, or replace a facility under his jurisdiction, including a family housing facility, that has been damaged or destroyed.
+
+(b) When a decision is made to carry out construction under subsection (a) and the cost of the repair, restoration, or replacement is greater than the maximum amount for a minor construction project, the Secretary concerned shall notify the appropriate committees of Congress of that decision, of the justification for the project, of the current estimate of the cost of the project, of the source of funds for the project, and of the justification for carrying out the project under this section. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
+
+(c) (1) In using the authority described in subsection (a) to carry out a military construction project to replace a facility, including a family housing facility, that has been damaged or destroyed, the Secretary concerned may use appropriations available for operation and maintenance if—
+
+(A) the damage or destruction to the facility was the result of a natural disaster or a terrorism incident; and
+
+(B) the Secretary submits a notification to the appropriate committees of Congress of the decision to carry out the replacement project, and includes in the notification—
+
+(i) the current estimate of the cost of the replacement project;
+
+(ii) the source of funds for the replacement project;
+
+(iii) in the case of damage to a facility rather than destruction, a certification that the replacement project is more cost-effective than repair or restoration; and
+
+(iv) a certification that deferral of the replacement project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
+
+(2) A replacement project under this subsection may be carried out only after the end of the 7-day period beginning on the date on which a copy of the notification described in paragraph (1) is provided in an electronic medium pursuant to section 480 of this title.
+
+(3) The maximum aggregate amount that the Secretary concerned may obligate from appropriations available for operation and maintenance in any fiscal year for replacement projects under the authority of this subsection is $300,000,000.
+
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 165; amended Pub. L. 102–190, div. B, title XXVIII, § 2870(7), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 108–136, div. A, title X, § 1031(a)(45), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(c)(2), 2805, Dec. 12, 2017, 131 Stat. 1843, 1846; Pub. L. 116–92, div. B, title XXVIII, § 2803, Dec. 20, 2019, 133 Stat. 1882; Pub. L. 119–60, div. B, title XXVIII, § 2813, Dec. 18, 2025, 139 Stat. 1302.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (c)(3). Pub. L. 119–60 substituted “$300,000,000” for “$100,000,000”. 2019—Subsec. (c)(3). Pub. L. 116–92 substituted “$100,000,000” for “$50,000,000”. 2017—Subsec. (b). Pub. L. 115–91, § 2805(b), substituted “under subsection (a)” for “under this section”. Pub. L. 115–91, § 2801(c)(2), struck out “in writing” after “shall notify” and “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”. Subsec. (c). Pub. L. 115–91, § 2805(a), added subsec. (c). 2003—Subsec. (b). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”. 1991—Subsec. (b). Pub. L. 102–190 struck out “(1)” after “carried out only” and “, or (2) after each such committee has approved the project, if the committees approve the project before the end of that period” before period at end.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateFor effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.

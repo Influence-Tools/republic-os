@@ -1,0 +1,83 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 321"
+description: "Training and exercises with friendly foreign countries: payment of training and exercise expenses"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "16"
+chapter_name: "SECURITY COOPERATION"
+section: "321"
+citation: "10 U.S.C. § 321"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s321"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "5c0cf66d630871684be88ab8a34d6f2b0bb6b8a2662bcf04bc60697fe22e2754"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "6bf62324d350e86b5ddf0fd49d5ee1c9f8d3e61956ef736dc6f1d09d5a77c0ed"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 321 - Training and exercises with friendly foreign countries: payment of training and exercise expenses
+
+## Text
+
+(a) Training Authorized.— (1) Training with foreign forces generally.— The armed forces under the jurisdiction of the Secretary of Defense may train with the military forces, or other national security forces that perform a similar function, of a friendly foreign country if the Secretary determines that it is in the national security interest of the United States to do so.
+
+(2) Training to support mission essential tasks.— Any training conducted pursuant to paragraph (1) shall, to the maximum extent practicable, support the mission essential tasks for which the unit of the United States armed forces participating in such training is responsible.
+
+(3) Elements of training.— Any training conducted pursuant to paragraph (1) shall, to the maximum extent practicable, include elements that promote—
+
+(A) observance of and respect for human rights and fundamental freedoms; and
+
+(B) respect for legitimate civilian authority within the foreign country concerned.
+
+(b) Authority To Pay Training and Exercise Expenses.— Under regulations prescribed pursuant to subsection (f), the Secretary of a military department or the commander of a combatant command may pay, or authorize payment for, any of the following expenses:
+
+(1) Expenses of forces assigned or allocated to that command in conjunction with training and exercises conducted pursuant to this section.
+
+(2) The incremental expenses of a friendly foreign country as the direct result of participating in training and exercises conducted pursuant to this section.
+
+(3) Small-scale construction that is directly related to the effective accomplishment of the training and exercises conducted pursuant to this section.
+
+(c) Purpose of Training and Exercises.— (1) In general.— The primary purpose of the training and exercises for which payment may be made under subsection (b) shall be to train United States forces.
+
+(2) Selection of foreign partners.— Training and exercises with friendly foreign countries under subsection (a) should be planned and prioritized consistent with applicable guidance relating to the security cooperation programs and activities of the Department of Defense.
+
+(d) Availability of Funds for Activities That Cross Fiscal Years.— Amounts available for the authority to pay expenses in subsection (b) for a fiscal year may be used to pay expenses under that subsection for training and exercises that begin in such fiscal year but end in the next fiscal year.
+
+(e) Quarterly Report.— Not less frequently than quarterly, the Secretary of Defense shall submit to the appropriate committees of Congress a report on training and exercises conducted pursuant to this section during the preceding 90-day period.
+
+(f) Regulations.— (1) In general.— The Secretary of Defense shall prescribe regulations for the administration of this section. The Secretary shall submit the regulations to the Committees on Armed Services of the Senate and the House of Representatives.
+
+(2) Elements.— The regulations required under this section shall provide the following:
+
+(A) A requirement that training and exercise activities may be carried out under this section only with the prior approval of the Secretary.
+
+(B) Accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
+
+(C) Procedures to limit the payment of incremental expenses to friendly foreign countries only to developing countries, except in the case of exceptional circumstances as specified in the regulations.
+
+(Added Pub. L. 99–661, div. A, title XIII, § 1321(a)(1), Nov. 14, 1986, 100 Stat. 3988, § 2010; amended Pub. L. 105–85, div. A, title X, § 1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, [div. A], title XII, § 1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, § 1061(12), Dec. 31, 2011, 125 Stat. 1583; renumbered § 321 and amended Pub. L. 114–328, div. A, title XII, § 1244(a), Dec. 23, 2016, 130 Stat. 2516; Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(B), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 119–60, div. A, title XII, § 1201(a)(1)–(4)(A), Dec. 18, 2025, 139 Stat. 1080, 1081.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Pub. L. 119–60, § 1201(a)(4)(A), inserted “and exercises” after “Training” in section catchline. Subsec. (a)(1). Pub. L. 119–60, § 1201(a)(1)(A), substituted “, or other national security forces that perform a similar function,” for “or other security forces”. Subsec. (a)(2) to (4). Pub. L. 119–60, § 1201(a)(1)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The general purpose forces of the United States armed forces may train only with the military forces of a friendly foreign country.” Subsec. (b). Pub. L. 119–60, § 1201(a)(2)(A), substituted “subsection (f)” for “subsection (e)” in introductory provisions. Subsec. (b)(1). Pub. L. 119–60, § 1201(a)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Expenses of training forces assigned or allocated to that command in conjunction with training, and training with, the military forces or other security forces of a friendly foreign country under subsection (a).” Subsec. (b)(2). Pub. L. 119–60, § 1201(a)(2)(E), substituted “training and exercises conducted pursuant to this section” for “such training, as specified in the regulations”. Pub. L. 119–60, § 1201(a)(2)(C), (D), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: “Expenses of deploying such forces for that training.” Subsec. (b)(3). Pub. L. 119–60, § 1201(a)(2)(D), (F), redesignated par. (5) as (3) and substituted “training and exercises conducted pursuant to this section” for “training described in paragraph (1) or an exercise described in paragraph (4)”. Former par. (3) redesignated (2). Subsec. (b)(4). Pub. L. 119–60, § 1201(a)(2)(C), struck out par. (4) which read as follows: “The incremental expenses of a friendly foreign country as the direct result of participating in an exercise with the armed forces under the jurisdiction of the Secretary of Defense.” Subsec. (b)(5). Pub. L. 119–60, § 1201(a)(2)(D), redesignated par. (5) as (3). Subsec. (e). Pub. L. 119–60, § 1201(a)(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “Not later than the end of the first calendar quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calendar quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.” 2018—Subsec. (e). Pub. L. 115–232 substituted “the first calendar quarter” for “the first calender quarter” and “every calendar quarter” for “every calender quarter”. 2016—Pub. L. 114–328 renumbered section 2010 of this title as this section and amended it generally. Prior to amendment, section related to payment of incremental expenses for participation of developing countries in combined exercises. 2011—Subsecs. (b) to (e). Pub. L. 112–81 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit to Congress a report each year, not later than March 1, containing— “(1) a list of the developing countries for which expenses have been paid by the United States under this section during the preceding year; and “(2) the amounts expended on behalf of each government.” 2008—Subsecs. (d), (e). Pub. L. 110–417 added subsec. (d) and redesignated former subsec. (d) as (e). 1997—Subsec. (e). Pub. L. 105–85 struck out subsec. (e) which read as follows: “Not more than $13,400,000 may be obligated or expended for the purposes of this section during fiscal years 1987 through 1991.”
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentPub. L. 110–417, [div. A], title XII, § 1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in section 2010 [now 321] of title 10, United States Code, as so amended, that begin on or after that date.”
+
+Temporary Authority To Provide Training to Military Forces or National Security Forces of Costa Rica and PanamaPub. L. 118–159, div. A, title XII, § 1209, Dec. 23, 2024, 138 Stat. 2097, provided that: “In conducting training with friendly foreign countries under section 321 of title 10, United States Code, notwithstanding subsection (a)(2) of that section, beginning on the date of the enactment of this Act [Dec. 23, 2024] and ending on December 31, 2030, the general purpose forces of the United States Armed Forces may train with the military forces or national security forces of the following countries: “(1) Costa Rica. “(2) Panama.”
+
+Prohibition on Participation of the People’s Republic of China in Rim of the Pacific (RIMPAC) Naval ExercisesPub. L. 115–232, div. A, title XII, § 1259, Aug. 13, 2018, 132 Stat. 2058, as amended by Pub. L. 117–263, div. A, title XII, § 1253, Dec. 23, 2022, 136 Stat. 2850, provided that: “(a) Conditions for Future Participation in RIMPAC.—“(1) In general.—The Secretary of Defense shall not enable or facilitate the participation of the People’s Republic of China in any Rim of the Pacific (RIMPAC) naval exercise unless the Secretary certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that China has—“(A) ceased all land reclamation activities in the South China Sea; “(B) removed all weapons from its land reclamation sites; “(C) established a consistent four-year track record of taking actions toward stabilizing the region; and “(D) ceased committing genocide in China, as articulated in the Department of State’s Country Report on Human Rights Practices released on April 12, 2022, and engaged in a credible justice and accountability process for all victims of such genocide. “(2) Form.—The certification under paragraph (1) shall be in unclassified form but may contain a classified annex as necessary. “(b) National Security Waiver.—“(1) In general.—The Secretary of Defense may waive the certification requirement under subsection (a) if the Secretary determines the waiver is in the national security interest of the United States and submits to the congressional defense committees a detailed justification for the waiver. “(2) Form.—The justification required under paragraph (1) shall be in unclassified form but may contain a classified annex as necessary.”

@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 3007"
+description: "Seniors farmers’ market nutrition program"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "63"
+chapter_name: "FARMER–TO–CONSUMER DIRECT MARKETING"
+section: "3007"
+citation: "7 U.S.C. § 3007"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s3007"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "3e14b6dc0a7e520a9004acdaa232641b203e9a5f1c96b24f09efba64fe1c4d12"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "5eaa3603508bcf1da760c14d9606dac2fabfb6e1ea6967595b3943b9eceb4d43"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 3007 - Seniors farmers’ market nutrition program
+
+## Text
+
+(a) Funding Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall use to carry out and expand the seniors farmers’ market nutrition program $20,600,000 for each of fiscal years 2008 through 2023.
+
+(b) Program purposes The purposes of the seniors farmers’ market nutrition program are—
+
+(1) to provide resources in the form of fresh, nutritious, unprepared, locally grown fruits, vegetables, honey, and herbs from farmers’ markets, roadside stands, and community supported agriculture programs to low-income seniors;
+
+(2) to increase the domestic consumption of agricultural commodities by expanding or aiding in the expansion of domestic farmers’ markets, roadside stands, and community supported agriculture programs; and
+
+(3) to develop or aid in the development of new and additional farmers’ markets, roadside stands, and community supported agriculture programs.
+
+(c) Exclusion of benefits in determining eligibility for other programs The value of any benefit provided to any eligible seniors farmers’ market nutrition program recipient under this section shall not be considered to be income or resources for any purposes under any Federal, State, or local law.
+
+(d) Prohibition on collection of sales tax Each State shall ensure that no State or local tax is collected within the State on a purchase of food with a benefit distributed under the seniors farmers’ market nutrition program.
+
+(e) Regulations The Secretary may promulgate such regulations as the Secretary considers to be necessary to carry out the seniors farmers’ market nutrition program.
+
+(f) Federal law not applicable Section 1693o–2 of title 15 shall not apply to electronic benefit transfer systems established under this section.
+
+(Pub. L. 107–171, title IV, § 4402, May 13, 2002, 116 Stat. 334; Pub. L. 110–234, title IV, §§ 4231, 4406(c)(1), May 22, 2008, 122 Stat. 1124, 1142; Pub. L. 110–246, § 4(a), title IV, §§ 4231, 4406(c)(1), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 111–203, title X, § 1075(c), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, § 4203(a), Feb. 7, 2014, 128 Stat. 822; Pub. L. 115–334, title IV, § 4201, Dec. 20, 2018, 132 Stat. 4655.)
+
+## Notes
+
+Editorial Notes
+
+Codification Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246. Section was enacted as part of the Food Stamp Reauthorization Act of 2002 and also as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Farmer-to-Consumer Direct Marketing Act of 1976 which comprises this chapter.
+
+Amendments2018—Subsec. (a). Pub. L. 115–334 substituted “2023” for “2018”. 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”. 2010—Subsec. (f). Pub. L. 111–203 added subsec. (f). 2008—Subsec. (a). Pub. L. 110–246, § 4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers’ market nutrition program.” Subsec. (b)(1). Pub. L. 110–246, § 4231(1), inserted “honey,” after “vegetables,”. Subsec. (c). Pub. L. 110–246, § 4231(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary may issue such regulations as the Secretary considers necessary to carry out the seniors farmers’ market nutrition program.” Subsecs. (d), (e). Pub. L. 110–246, § 4231(3), added subsecs. (d) and (e).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2014 AmendmentPub. L. 113–79, title IV, § 4203(b), Feb. 7, 2014, 128 Stat. 822, provided that: “The amendment made by subsection (a) [amending this section] takes effect on October 1, 2013.”
+
+Effective Date of 2010 AmendmentAmendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+Effective Date of 2008 AmendmentAmendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title. Amendment by sections 4231 and 4406(c)(1) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+
+Effective DateSection effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as a note under section 1161 of Title 2, The Congress.

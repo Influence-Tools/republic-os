@@ -1,0 +1,97 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2680"
+description: "Minimum capital investment for facilities sustainment, restoration, and modernization for military departments"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "159"
+chapter_name: "REAL PROPERTY; RELATED PERSONAL PROPERTY; AND LEASE OF NON-EXCESS PROPERTY"
+section: "2680"
+citation: "10 U.S.C. § 2680"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2680"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "b903eb2eaa2600da22af0b8bdba1e812f6dcfce0073cf1df713b48ed880bddca"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "ba7d8f15602e074d7fb7a97d018bf937496b7764d60df21649aa2c6a76dedb00"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2680 - Minimum capital investment for facilities sustainment, restoration, and modernization for military departments
+
+## Text
+
+(a) Minimum Investment.— Beginning in fiscal year 2027, and each fiscal year thereafter, each Secretary of a military department shall—
+
+(1) calculate (in accordance with subsection (b)) the cumulative plant replacement value of the total inventory of covered facilities on each military installation under the jurisdiction of the Secretary concerned; and
+
+(2) invest in the budget for facilities sustainment, restoration, and modernization of that military department, a total amount equal to not less than the percentage specified in subsection (c) of the cumulative plant replacement value described in paragraph (1).
+
+(b) Exclusion.— In making any calculation pursuant to paragraph (1) of subsection (a), each Secretary of a military department shall exclude any covered facility under the jurisdiction of such Secretary that is scheduled for demolition during the two-year period beginning after the date of such calculation.
+
+(c) Percentage Specified.— The percentage of the specified in this subsection is—
+
+(1) for fiscal year 2027, 1.75 percent;
+
+(2) for fiscal year 2028, 2.5 percent;
+
+(3) for fiscal year 2029, 3.25 percent; and
+
+(4) for fiscal year 2030 and each subsequent fiscal year, 4 percent.
+
+(d) Certification.— As part of the annual budget submission of the President under section 1105(a) of title 31, each Secretary of each military department shall include—
+
+(1) a certification to the congressional defense committees that the military department is in compliance with this section; and
+
+(2) a list of covered facilities under the jurisdiction of that Secretary, disaggregated by military installation and location, that are scheduled for demolition during the two-year period beginning after the date of the submission of such budget, which shall include cost and schedule estimates.
+
+(e) Definitions.— In this section:
+
+(1) The term “covered facility” means a facility (as defined in section 2801 of this title), except that such term does not include—
+
+(A) a facility identified as closed, disposed of, or scheduled for divestment from the inventory of the Department of Defense;
+
+(B) a facility in which the Department does not have a total ownership interest, including—
+
+(i) a facility leased by the Department; and
+
+(ii) a facility in which the Department has a lesser property interest under a governing legal instrument; or
+
+(C) a facility for which the Department uses—
+
+(i) nonappropriated funds; or
+
+(ii) amounts appropriated or otherwise made available for military family housing.
+
+(2) The term “plant replacement value” means, with respect to a covered facility, the cost to replace the covered facility using amounts appropriated for facilities sustainment, restoration, and modernization from the following accounts:
+
+(A) Operation and maintenance.
+
+(B) Military construction.
+
+(C) Research, development, test, and evaluation.
+
+(D) Working capital funds.
+
+(Added Pub. L. 118–159, div. B, title XXVIII, § 2841(a), Dec. 23, 2024, 138 Stat. 2262; amended Pub. L. 119–60, div. B, title XXVIII, § 2841, Dec. 18, 2025, 139 Stat. 1316.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 2680, added Pub. L. 102–190, div. B, title XXVIII, § 2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, § 2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, § 2820(a), (b), Feb. 10, 1996, 110 Stat. 556; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2811, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 107–314, div. A, title X, § 1062(a)(13), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1031(a)(31), Nov. 24, 2003, 117 Stat. 1600, related to leases of land for special operations activities, prior to repeal by Pub. L. 111–383, div. B, title XXVIII, § 2814(a), Jan. 7, 2011, 124 Stat. 4464. Another prior section 2680, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 89–718, § 20, Nov. 2, 1966, 80 Stat. 1118, authorized reimbursement of moving expenses to owners of property acquired for public works projects, prior to repeal by Pub. L. 91–646, title II, § 220(a)(3), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare.
+
+Amendments2025—Subsec. (a)(1). Pub. L. 119–60, § 2841(1), substituted “total inventory of covered facilities” for “total inventory of facilities”. Subsec. (b). Pub. L. 119–60, § 2841(2), substituted “covered facility” for “facility”. Subsec. (d)(2). Pub. L. 119–60, § 2841(3), substituted “covered facilities” for “facilities”. Subsec. (e). Pub. L. 119–60, § 2841(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘plant replacement value’ means, with respect to a facility, the cost to replace such facility using construction costs (including labor and materials) and standards (including methodologies and codes) in effect as of the date such cost is calculated.”
+
+Statutory Notes and Related Subsidiaries
+
+Effect of RepealPub. L. 111–383, div. B, title XXVIII, § 2814(b), Jan. 7, 2011, 124 Stat. 4464, provided that: “The amendment made by subsection (a) [repealing former section 2680 of this title] shall not affect the validity of any contract entered into under section 2680 of title 10, United States Code, on or before September 30, 2005.”

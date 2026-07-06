@@ -1,0 +1,61 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4403"
+description: "Requirements relating to availability of major system interfaces and support for modular open system approach"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "327"
+chapter_name: "WEAPON SYSTEMS DEVELOPMENT AND RELATED MATTERS"
+section: "4403"
+citation: "10 U.S.C. § 4403"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4403"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "83b07ec910f06aca84974707df8c988d19fb0cca64e4f9b6a2b894157d4c2bc4"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "efcf8c48f1b3ad190be0bfc05630e59820fa129c374210958251869ccaca4cf2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4403 - Requirements relating to availability of major system interfaces and support for modular open system approach
+
+## Text
+
+The Secretary of each military department shall—
+
+(1) coordinate with the other military departments, the defense agencies, defense and other private sector entities, national standards-setting organizations, and, when appropriate, with elements of the intelligence community with respect to the specification, identification, development, and maintenance of major system interfaces and standards for use in major system platforms, where practicable;
+
+(2) ensure major system interfaces are adequately designated and defined to achieve a modular open system approach and are delivered with supporting documentation necessary to enable the integration of components or modules provided by a third party into the modular system;
+
+(3) ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;
+
+(4) ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability;
+
+(5) ensure that adequate training in the use of a modular open system approach is provided to members of the requirements and acquisition workforce; and
+
+(6) issue guidance to implement the requirements of this section.
+
+(Added Pub. L. 114–328, div. A, title VIII, § 805(a)(1), Dec. 23, 2016, 130 Stat. 2255, § 2446c; amended Pub. L. 116–92, div. A, title VIII, § 840(b), Dec. 20, 2019, 133 Stat. 1499; renumbered § 4403, Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1), Jan. 1, 2021, 134 Stat. 4272; Pub. L. 119–60, div. A, title XVIII, § 1832(b), Dec. 18, 2025, 139 Stat. 1253.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsPrior sections 4411 to 4414 were renumbered sections 7481 to 7484 of this title, respectively. A prior section 4415, added Pub. L. 100–180, div. A, title III, § 319(a)(1), Dec. 4, 1987, 101 Stat. 1077; amended Pub. L. 100–526, title I, § 106(c), Oct. 24, 1988, 102 Stat. 2625, related to United States Army School of the Americas, prior to repeal by Pub. L. 106–398, § 1 [[div. A], title IX, § 911(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A-228. Prior sections 4416 and 4417 were renumbered sections 7486 and 7487 of this title, respectively.
+
+Amendments2025—Par. (2). Pub. L. 119–60 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;”. 2021—Pub. L. 116–283 renumbered section 2446c of this title as this section. 2019—Par. (6). Pub. L. 116–92 added par. (6).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective DateSection effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under section 4401 of this title.

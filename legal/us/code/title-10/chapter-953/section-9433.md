@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 9433"
+description: "Superintendent; faculty: appointment and detail"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "953"
+chapter_name: "UNITED STATES AIR FORCE ACADEMY"
+section: "9433"
+citation: "10 U.S.C. § 9433"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s9433"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "11072b4df78c427ac3ab410f4af797e9f5a924478d05c5b49edf49a3761fb6de"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "ff30d1e669805795f018de66408277b46dc22bffc09b3b6d4cc4a6f484236d05"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 9433 - Superintendent; faculty: appointment and detail
+
+## Text
+
+(a) The Superintendent and the Commandant of Cadets of the Academy shall be detailed to those positions by the President from the officers of the Air Force or the Space Force.
+
+(b) The permanent professors of the Academy shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(c) The director of admissions of the Academy shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Air Force.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562, § 9333; Pub. L. 85–600, § 1(20), Aug. 6, 1958, 72 Stat. 523; Pub. L. 101–189, div. A, title V, § 515(a)(2), Nov. 29, 1989, 103 Stat. 1441; renumbered § 9433, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, § 923(d)(8), Jan. 1, 2021, 134 Stat. 3814.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 9333(a)10:1062.R.S. 1313. 9333(b)10:1063.R.S. 1314 (words before semicolon). In subsection (a), the word “detailed” is substituted for the word “selected”, since historically the offices of superintendent and commandant of cadets have been filled by detail. The words “the officers of the Air Force” are substituted for the words “any arm of the service”, since the Air Force does not have statutory arms or corps. 10:1063 (1st sentence and 1st 26 words of last sentence) is omitted as covered by section 8012 of this title. In subsection (b), the words “by and with the advice and consent of the Senate” are inserted, since many of the statutes establishing particular permanent professorships from time to time have so provided, and historically it has been the uniform practice to make these appointments in this manner. 10:1063 (last 14 words) is omitted as obsolete and as covered by section 9349(b) of this title.
+
+Editorial Notes
+
+Amendments2021—Subsec. (a). Pub. L. 116–283 inserted “or the Space Force” after “Air Force”. 2018—Pub. L. 115–232 renumbered section 9333 of this title as this section. 1989—Subsec. (c). Pub. L. 101–189 substituted “director of admissions” for “registrar”. 1958—Subsec. (c). Pub. L. 85–600 added subsec. (c).
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.

@@ -1,0 +1,93 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1766"
+description: "Joint reserve detachment of the Defense Innovation Unit"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "87"
+chapter_name: "DEFENSE ACQUISITION WORKFORCE"
+section: "1766"
+citation: "10 U.S.C. § 1766"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1766"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "149bb0acb24d6b1d6e4990f81301b4c9416a1c641bc671c78afd104d752ff08e"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "b1171583653b2a3d6689002670ad2137f24cafb3912b82d191639846293afdd9"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1766 - Joint reserve detachment of the Defense Innovation Unit
+
+## Text
+
+(a) Establishment.— The Secretary of Defense, in consultation with the Secretaries of the military departments, may establish a joint reserve detachment (referred to in this section as the “Detachment”) composed of members of the reserve components described in subsection (b) to be assigned to each office of the Defense Innovation Unit to—
+
+(1) support engagement and collaboration with private-sector industry and the community surrounding the location of such office; and
+
+(2) accelerate the use and adoption of commercially-developed technologies for national security purposes.
+
+(b) Members.— Each Secretary of a military department shall select for the Detachment, and make efforts to retain, members of the reserve components who possess relevant private-sector experience in the fields of business, acquisition, intelligence, engineering, technology transfer, science, mathematics, program management, logistics, cybersecurity, or such other fields as determined by the Secretary of Defense.
+
+(c) Duties.— The Detachment shall have the following duties:
+
+(1) Providing the Department of Defense with—
+
+(A) expertise on and analysis of commercially-developed technologies;
+
+(B) commercially-developed technologies to be used as alternatives for technologies in use by the Department; and
+
+(C) opportunities for greater engagement and collaboration between the Department and private-sector industry on innovative technologies.
+
+(2) On an ongoing basis—
+
+(A) partnering with the military departments, the combatant commands, and other Department of Defense organizations to—
+
+(i) identify and rapidly prototype commercially-developed technologies; and
+
+(ii) use alternative contracting mechanisms to procure such technologies;
+
+(B) increasing awareness of—
+
+(i) the work of the Defense Innovation Unit; and
+
+(ii) the technology requirements of the Department of Defense, as identified in the most recent—
+
+(I) National Defense Strategy;
+
+(II) National Defense Science and Technology Strategy as directed under section 218 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1679); and
+
+(III) relevant policy and guidance from the Secretary of Defense; and
+
+(C) using the investment in research and development made by private-sector industry in assessing and developing dual-use technologies.
+
+(3) Carrying out other activities as directed by the Secretary of Defense.
+
+(d) Joint Duty.— Assignment to a Detachment shall not qualify as a joint duty assignment, as defined in section 668(b)(1) of title 10, United States Code, unless approved by the Secretary of Defense.
+
+(Added Pub. L. 116–92, div. A, title II, § 213(a)(1), Dec. 20, 2019, 133 Stat. 1256, § 2358b; amended Pub. L. 116–283, div. A, title X, § 1081(a)(37), title XVIII, § 1842(b), Jan. 1, 2021, 134 Stat. 3872, 4244; renumbered § 1766, Pub. L. 116–283, div. A, title XVIII, § 1878A(a), as added Pub. L. 117–81, div. A, title XVII, § 1701(q)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 117–81, div. A, title II, §§ 211(d), 213(a), title XVII, § 1701(q)(1), (u)(3)(B), Dec. 27, 2021, 135 Stat. 1587, 1588, 2148, 2152; Pub. L. 118–31, div. A, title IX, § 913(a)(4), Dec. 22, 2023, 137 Stat. 368.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 218 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (c)(2)(B)(ii)(II), is section 218 of Pub. L. 115–232, div. A, title II, Aug. 13, 2018, 132 Stat. 1679, which was repealed and restated as section 118c of this title by Pub. L. 117–81, div. A, title II, § 211(a), (c), Dec. 27, 2021, 135 Stat. 1585, 1587. Amendment striking reference to repealed section 218 of Pub. L. 115–232 and inserting reference to section 118c of this title was undone by subsequent general amendment, which reinstated the prior reference. See 2021 Amendment notes below.
+
+Amendments2023—Subsec. (b). Pub. L. 118–31, § 913(a)(4)(A), substituted “as determined by the Secretary of Defense” for “as determined by the Under Secretary of Defense for Research and Engineering”. Subsec. (c)(3). Pub. L. 118–31, § 913(a)(4)(B), substituted “as directed by the Secretary of Defense” for “as directed by the Under Secretary of Defense for Research and Engineering”. 2021—Pub. L. 116–283, § 1878A(a), as added by Pub. L. 117–81, § 1701(q)(2), renumbered section 2358b of this title as this section. Pub. L. 116–283, § 1842(b), which directed the renumbering of section 2358b of this title as section 4064 instead of this section, was amended by Pub. L. 117–81, § 1701(q)(1), (u)(3)(B), effective as if included therein, so that such renumbering was no longer directed. Subsec. (a)(2). Pub. L. 116–283, § 1081(a)(37), substituted “accelerate” for “to accelerate”. Subsec. (c)(2)(B)(ii). Pub. L. 117–81, § 213(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the technology requirements of the Department of Defense as identified in the National Defense Science and Technology Strategy developed under section 118c of this title; and”. Pub. L. 117–81, § 211(d), substituted “section 118c of this title” for “section 218 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1679)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2023 AmendmentPub. L. 118–31, div. A, title IX, § 913(b)(1), Dec. 22, 2023, 137 Stat. 368, provided that: “The amendments made by subsection (a) [enacting section 4127 of this title and amending this section and sections 4021 and 4022 of this title] shall take effect 180 days after the date of the enactment of this Act [Dec. 22, 2023].”
+
+Effective Date of 2021 AmendmentAmendment by section 1701(q), (u)(3)(B) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below. Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Implementation of 2023 AmendmentPub. L. 118–31, div. A, title IX, § 913(b)(2), Dec. 22, 2023, 137 Stat. 368, provided that: “Not later than the effective date specified in paragraph (1) [set out as an Effective Date of 2023 Amendment note above], the Secretary of Defense shall issue or modify any rules, regulations, policies, or other guidance necessary to implement the amendments made by subsection (a) [enacting section 4127 of this title and amending this section and sections 4021 and 4022 of this title].”

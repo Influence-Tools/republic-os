@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 931"
+description: "Rural Electrification and Telephone Revolving Fund"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "31"
+chapter_name: "RURAL ELECTRIFICATION AND TELEPHONE SERVICE"
+section: "931"
+citation: "7 U.S.C. § 931"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s931"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "901d8e8777eedd7996ce9ba3bb65e0e8b13042094fe35f3e4c80864e1733f467"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "6812cbc6e7dd5dfd80bfdec9be90e8119ce65f23d466ca51732818ffff6bb9db"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 931 - Rural Electrification and Telephone Revolving Fund
+
+## Text
+
+There is hereby established in the Treasury of the United States a fund, to be known as the Rural Electrification and Telephone Revolving Fund (hereinafter referred to as the “fund”), consisting of:
+
+(1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905,11 See References in Text note below. and 922 of this title and under this subchapter, as of May 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
+
+(2) undisbursed balances of electric and telephone loans made under sections 904, 905,1 and 922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
+
+(3) all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, which shall be paid into and be assets of the fund;
+
+(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts; or
+
+(5) moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title.
+
+(May 20, 1936, ch. 432, title III, § 301, as added Pub. L. 92–12, § 2, May 7, 1971, 85 Stat. 29; amended Pub. L. 93–32, § 2, May 11, 1973, 87 Stat. 66; Pub. L. 94–570, § 2, Oct. 20, 1976, 90 Stat. 2701; Pub. L. 103–354, title II, § 235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, § 772(b)(1), Apr. 4, 1996, 110 Stat. 1149; Pub. L. 115–334, title VI, § 6602(b)(7), Dec. 20, 2018, 132 Stat. 4776.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 905 of this title, referred to in pars. (1) and (2), was repealed by Pub. L. 104–127, title VII, § 774(a), Apr. 4, 1996, 110 Stat. 1150.
+
+Amendments2018—Par. (3). Pub. L. 115–334, § 6602(b)(7)(A), struck out “except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank,” after “under this subchapter,”. Par. (6). Pub. L. 115–334, § 6602(b)(7)(B)–(D), struck out par. (6) which read as follows: “shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this title and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund.” 1996—Pub. L. 104–127 struck out “(a)” before “There is hereby” in introductory provisions and struck out “notwithstanding section 903(a) of this title,” before “all collections” in par. (3). 1994—Subsec. (a)(1). Pub. L. 103–354 substituted “Secretary” for “Administrator”. 1976—Subsec. (a)(4). Pub. L. 94–570 provided for inclusion in the fund the unobligated balances of any funds made available for loans under item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriation Acts. 1973—Pub. L. 93–32 substituted provisions establishing the Rural Electrification and Telephone Revolving Fund and enumerating its constituent parts, for provisions establishing a rural telephone account in the United States Treasury.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1976 AmendmentAmendment by Pub. L. 94–570 effective Oct. 20, 1976, see section 4 of Pub. L. 94–570, set out as a note under section 935 of this title.
+
+Effective Date of 1973 AmendmentAmendment by Pub. L. 93–32 effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as an Effective Date note under section 930 of this title.
+
+Effective DatePub. L. 92–12, § 7, May 14, 1971, 85 Stat. 37, provided that: “This Act [enacting this section and sections 921a, 932, and 941 to 950b of this title, amending sections 903 and 922 of this title and sections 856 and 868 of former Title 31, and enacting provisions set out as notes under sections 856 and 868 of former Title 31] shall take effect upon enactment [May 7, 1971].”
+
+Reservation of Right To Repeal, Alter, or Amend Pub. L. 92–12Pub. L. 92–12, § 6, May 14, 1971, 85 Stat. 37, provided that: “The right to repeal, alter, or amend this Act [enacting this section and sections 921a, 932, and 941 to 950b of this title, amending sections 903 and 922 of this title and sections 856 and 868 of former Title 31, and enacting provisions set out as notes under sections 856 and 868 of former Title 31] is expressly reserved.”

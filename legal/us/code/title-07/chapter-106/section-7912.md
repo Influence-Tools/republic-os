@@ -1,0 +1,77 @@
+---
+type: "LegalText"
+title: "7 U.S.C. § 7912"
+description: "Establishment of payment yield"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 7
+title_name: "AGRICULTURE"
+chapter_number: "106"
+chapter_name: "COMMODITY PROGRAMS"
+section: "7912"
+citation: "7 U.S.C. § 7912"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc07@119-100.zip"
+source_identifier: "/us/usc/t7/s7912"
+source_file: "data/legal/raw/us/code/title-07/usc07.xml"
+source_hash: "e623f5c7cba6b480ace164937da005426f7ad54637374c9ae7a628ab44166374"
+raw_snapshot_hash: "50edab1679a711653797362c0aeb8f2273303fe473fb7fa16df1ee76bdd6e984"
+text_hash: "96e11da3226b2b653f3ee3797d87d5bd6f39c6a7a50a40e4d0d5b9e2f3b66a7c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 7 U.S.C. § 7912 - Establishment of payment yield
+
+## Text
+
+(a) Establishment and purpose For the purpose of making direct payments and counter-cyclical payments under this subchapter, the Secretary shall provide for the establishment of a payment yield for each farm for each covered commodity in accordance with this section.
+
+(b) Use of farm program payment yield Except as otherwise provided in this section, the payment yield for each of the 2002 through 2007 crops of a covered commodity for a farm shall be the farm program payment yield established for the 1995 crop of the covered commodity under section 1465 of this title, as adjusted by the Secretary to account for any additional yield payments made with respect to that crop under section 1465(b)(2) of this title.
+
+(c) Farms without farm program payment yield In the case of a farm for which a farm program payment yield is unavailable for a covered commodity (other than soybeans or other oilseeds), the Secretary shall establish an appropriate payment yield for the covered commodity on the farm taking into consideration the farm program payment yields applicable to the commodity under subsection (b) for similar farms, but before the yields for the similar farms are updated as provided in subsection (e).
+
+(d) Payment yields for oilseeds (1) Determination of average yield In the case of soybeans and each other oilseed, the Secretary shall determine the average yield per planted acre for the oilseed on a farm for the 1998 through 2001 crop years, excluding any crop year in which the acreage planted to the oilseed was zero.
+
+(2) Adjustment for payment yield The payment yield for a farm for an oilseed shall be equal to the product of the following:
+
+(A) The average yield for the oilseed determined under paragraph (1).
+
+(B) The ratio resulting from dividing the national average yield for the oilseed for the 1981 through 1985 crops by the national average yield for the oilseed for the 1998 through 2001 crops.
+
+(3) Use of partial county average yield If the yield per planted acre for a crop of an oilseed for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that oilseed, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
+
+(e) Opportunity to partially update yields used to determine counter-cyclical payments (1) Election to update If the owner of a farm elects to use the base acres calculation method described in section 7911(a)(1)(A) of this title, the owner shall also have a 1-time opportunity to elect to use 1 of the methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
+
+(2) Time for election The election under paragraph (1) shall be made at the same time and in the same manner as the Secretary prescribes for the election required under section 7911 of this title.
+
+(3) Methods of updating yields If the owner of a farm elects to update yields under this subsection, the payment yield for a covered commodity on the farm, for the purpose of calculating counter-cyclical payments only, shall be equal to the yield determined using either of the following:
+
+(A) The sum of the following:
+
+(i) The payment yield applicable for direct payments for the covered commodity on the farm.
+
+(ii) 70 percent of the difference between—
+
+(I) the average yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero; and
+
+(II) the payment yield applicable for direct payments for the covered commodity on the farm.
+
+(B) 93.5 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero.
+
+(4) Use of partial county average yield If the yield per planted acre for a crop of the covered commodity for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that commodity, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average yield under paragraph (3).
+
+(5) Application of election and method to all covered commodities The owner of a farm may not elect the method described in paragraph (3)(A) for 1 covered commodity on the farm and the method described in paragraph (3)(B) for other covered commodities on the farm.
+
+(Pub. L. 107–171, title I, § 1102, May 13, 2002, 116 Stat. 147.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 1465 of this title, referred to in subsec. (b), was omitted from the Code.

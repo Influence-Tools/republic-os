@@ -1,0 +1,53 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2803"
+description: "Emergency construction"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "169"
+chapter_name: "MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING"
+section: "2803"
+citation: "10 U.S.C. § 2803"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2803"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "548bce9266a9014418922a662e01952b4bd5a8b1b288a60c4c6cd993fa3bfe58"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "67d9603081a5b027225df003a05e5860f26ecac414cf33d00671e6c451c961ad"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2803 - Emergency construction
+
+## Text
+
+(a) Subject to subsections (b) and (c), the Secretary concerned may carry out a military construction project not otherwise authorized by law if the Secretary determines (1) that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and (2) that the requirement for the project is so urgent that deferral of the project for inclusion in the next Military Construction Authorization Act would be inconsistent with national security or the protection of health, safety, or environmental quality, as the case may be.
+
+(b) When a decision is made to carry out a military construction project under this section, the Secretary concerned shall submit a report to the appropriate committees of Congress on that decision. Each such report shall include (1) the justification for the project and the current estimate of the cost of the project, (2) the justification for carrying out the project under this section, and (3) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the five-day period beginning on the date the notification is received by such committees in an electronic medium pursuant to section 480 of this title.
+
+(c) (1) The maximum amount that the Secretary concerned may obligate in any fiscal year under this section is $50,000,000.
+
+(2) A project carried out under this section shall be carried out within the total amount of funds appropriated for military construction that have not been obligated.
+
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 102–190, div. B, title XXVIII, §§ 2803, 2870(2), Dec. 5, 1991, 105 Stat. 1537, 1562; Pub. L. 102–484, div. A, title X, § 1053(9), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 108–136, div. A, title X, § 1031(a)(34), div. B, title XXVIII, § 2802, Nov. 24, 2003, 117 Stat. 1600, 1719; Pub. L. 109–364, div. B, title XXVIII, § 2801, Oct. 17, 2006, 120 Stat. 2466; Pub. L. 112–81, div. A, title X, § 1064(9), Dec. 31, 2011, 125 Stat. 1587; Pub. L. 115–91, div. B, title XXVIII, § 2801(a)(1), Dec. 12, 2017, 131 Stat. 1840.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2017—Subsec. (b). Pub. L. 115–91 struck out “in writing” after “submit a report” and “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided” after “such committees” and substituted “five-day period” for “seven-day period”. 2011—Subsec. (b). Pub. L. 112–81 substituted “after the end of the seven-day period” for “after the end of the 21-day period”. 2006—Subsec. (c)(1). Pub. L. 109–364 substituted “$50,000,000” for “$45,000,000”. 2003—Subsec. (b). Pub. L. 108–136, § 1031(a)(34), inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”. Subsec. (c)(1). Pub. L. 108–136, § 2802, substituted “$45,000,000” for “$30,000,000”. 1992—Subsec. (b). Pub. L. 102–484 made technical amendment to directory language of Pub. L. 102–190, § 2870(2). See 1991 Amendment note below. 1991—Subsec. (a). Pub. L. 102–190, § 2803, substituted “or to the protection of health, safety, or the quality of the environment, and” for “, and” in cl. (1) and inserted “or the protection of health, safety, or environmental quality, as the case may be” before period at end of cl. (2). Subsec. (b). Pub. L. 102–190, § 2870(2), as amended by Pub. L. 102–484, struck out “, or after each such committee has approved the project, if the committee approves the project before the end of that period” after “by such committees”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 1992 AmendmentPub. L. 102–484, div. A, title X, § 1053, Oct. 23, 1992, 106 Stat. 2501, provided that the amendment made by that section is effective Dec. 5, 1991.
+
+Effective DateFor effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.

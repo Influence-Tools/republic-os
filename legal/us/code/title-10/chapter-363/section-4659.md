@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4659"
+description: "Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "363"
+chapter_name: "PROHIBITION AND PENALTIES"
+section: "4659"
+citation: "10 U.S.C. § 4659"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4659"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "d5e90cd78b657a697d4dad16d5fc0af44cae4a8c9abee3e7f90109cd3936fe2a"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "4b5929ed623f6e2fc6cbb05dcb030e46001db4d434203cbff32e1cc5e1eef67b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4659 - Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
+
+## Text
+
+(a) Policy.— Under section 3(5)(A) 11 See References in Text note below. of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
+
+(b) Prohibition.— (1) Consistent with the policy referred to in subsection (a), the Department of Defense may not award a contract for an amount in excess of the simplified acquisition threshold (as defined in section 134 of title 41) to a foreign entity unless that entity certifies to the Secretary of Defense that it does not comply with the secondary Arab boycott of Israel.
+
+(2) In paragraph (1), the term “foreign entity” means a foreign person, a foreign company, or any other foreign entity.
+
+(c) Waiver Authority.— The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States.
+
+(d) Exceptions.— Subsection (b) does not apply—
+
+(1) to contracts for consumable supplies, provisions, or services that are intended to be used for the support of United States forces or of allied forces in a foreign country; or
+
+(2) to contracts pertaining to the use of any equipment, technology, data, or services for intelligence or classified purposes by the United States Government in the interests of national security or to the acquisition or lease of any such equipment, technology, data, or services by the United States Government in the interests of national security.
+
+(Added Pub. L. 102–484, div. A, title XIII, § 1332(a), Oct. 23, 1992, 106 Stat. 2555, § 2410i; amended Pub. L. 111–350, §§ 4, 5(b)(31), Jan. 4, 2011, 124 Stat. 3841, 3845; Pub. L. 114–328, div. A, title X, § 1081(b)(3)(D), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, § 1051(a)(16), Dec. 12, 2017, 131 Stat. 1561; renumbered § 4659, Pub. L. 116–283, div. A, title XVIII, § 1862(b), Jan. 1, 2021, 134 Stat. 4277.)
+
+## Notes
+
+Editorial Notes
+
+References in TextSection 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. 4602(5)(A)), referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+Amendments2021—Pub. L. 116–283 renumbered section 2410i of this title as this section. 2017—Subsec. (c). Pub. L. 115–91 struck out at end “Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.” 2016—Subsec. (a). Pub. L. 114–328 substituted “(50 U.S.C. 4602(5)(A))” for “(50 U.S.C. App. 2402(5)(A))”. 2011—Subsec. (b)(1). Pub. L. 111–350 substituted “simplified acquisition threshold (as defined in section 134 of title 41)” for “small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

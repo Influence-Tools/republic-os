@@ -1,0 +1,81 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4603"
+description: "Advance notification of contract performance outside the United States"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "361"
+chapter_name: "CONTRACT ADMINISTRATION"
+section: "4603"
+citation: "10 U.S.C. § 4603"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4603"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "fad5680d17ff4b24b0137e0d21f01bc9b503916e3e2867a64eeba6e1e029c56b"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "25c3c777875b7196c2e39a31bc6e33bdde4bb187a628ac1a1295a26288e34cb7"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4603 - Advance notification of contract performance outside the United States
+
+## Text
+
+(a) Notification.— (1) A firm that is performing a Department of Defense contract for an amount exceeding $10,000,000, or is submitting a bid or proposal for such a contract, shall notify the Department of Defense in advance of any intention of the firm or any first-tier subcontractor of the firm to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States or Canada.
+
+(2) If a firm submitting a bid or proposal for a Department of Defense contract is required to submit a notification under this subsection, and the firm is aware, at the time it submits its bid or proposal, that the firm intends to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States or Canada, the firm shall include the notification in its bid or proposal.
+
+(3) The notification by a firm under paragraph (1) with respect to a first-tier subcontractor shall be made, to the maximum extent practicable, at least 30 days before award of the subcontract.
+
+(b) Recipient of Notification.— The firm shall transmit the notification—
+
+(1) in the case of a contract of a military department, to such officer or employee of that military department as the Secretary of the military department may direct; and
+
+(2) in the case of any other Department of Defense contract, to such officer or employee of the Department of Defense as the Secretary of Defense may direct.
+
+(c) Availability of Notifications.— The Secretary of Defense shall ensure that the notifications (or copies) are maintained in compiled form for a period of 5 years after the date of submission and are available for use in the preparation of the national defense technology and industrial base assessment carried out under section 4816 of this title.
+
+(d) Inapplicability to Certain Contracts.— This section shall not apply to contracts for any of the following:
+
+(1) Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41).
+
+(2) Military construction.
+
+(3) Ores.
+
+(4) Natural gas.
+
+(5) Utilities.
+
+(6) Petroleum products and crudes.
+
+(7) Timber.
+
+(8) Subsistence.
+
+(Added Pub. L. 102–484, div. A, title VIII, § 840(a)(1), Oct. 23, 1992, 106 Stat. 2466, § 2410g; amended Pub. L. 104–106, div. D, title XLIII, § 4321(b)(16), Feb. 10, 1996, 110 Stat. 673; Pub. L. 111–350, § 5(b)(30), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 115–232, div. A, title VIII, § 836(e)(7), Aug. 13, 2018, 132 Stat. 1870; renumbered § 4603 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1861(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4277, 4294.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2021—Pub. L. 116–283, § 1861(b), renumbered section 2410g of this title as this section. Subsec. (c). Pub. L. 116–283, § 1883(b)(2), substituted “section 4816” for “section 2505”. 2018—Subsec. (d)(1). Pub. L. 115–232 substituted “Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)” for “Commercial items (as defined in section 103 of title 41)”. 2011—Subsec. (d)(1). Pub. L. 111–350 substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”. 1996—Subsec. (d)(1). Pub. L. 104–106 inserted “(as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))” before period at end.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+Effective Date of 1996 AmendmentFor effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of this title.
+
+Effective DatePub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: “Section 2410g of title 10, United States Code [now 10 U.S.C. 4603] (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”

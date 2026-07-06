@@ -1,0 +1,65 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1074i"
+description: "Reimbursement for certain travel expenses"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "55"
+chapter_name: "MEDICAL AND DENTAL CARE"
+section: "1074i"
+citation: "10 U.S.C. § 1074i"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1074i"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "18c8d3c773666df66bd8ff3026fe6edd3ec910604e71e8a76423204c0fe16c1b"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "f4517f74d62ee6420d521774e7cbd280a487ceccf4a89bd36948f19b396c41e2"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1074i - Reimbursement for certain travel expenses
+
+## Text
+
+(a) In General.— Except as provided by subsection (b), in any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary of Defense shall provide travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age.
+
+(b) Special Rules for Certain Members and Dependents.— (1) The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for travel of members of the armed forces on active duty and their dependents, and accompaniment, to a specialty care provider not otherwise authorized by subsection (a) under such exceptional circumstances as the Secretary considers appropriate for purposes of this section.
+
+(2) With respect to members of the armed forces on active duty and their dependents, the Secretary shall administer subsection (a) by substituting “75 miles” for “100 miles”.
+
+(c) Outreach Program and Travel Reimbursement for Follow-on Specialty Care and Related Services.— The Secretary concerned shall ensure that an outreach program is implemented for each member of the uniformed services who incurred a combat-related disability and is entitled to retired or retainer pay, or equivalent pay, so that—
+
+(1) the progress of the member is closely monitored; and
+
+(2) the member receives the travel reimbursement authorized by subsection (a) whenever the member requires follow-on specialty care, services, or supplies.
+
+(d) Definitions.— In this section:
+
+(1) The term “specialty care provider” includes a dental specialist.
+
+(2) The term “dental specialist” means an oral surgeon, orthodontist, prosthodontist, periodontist, endodontist, or pediatric dentist, and includes such other providers of dental care and services as determined appropriate by the Secretary of Defense.
+
+(3) The term “combat-related disability” has the meaning given that term in section 1413a of this title.
+
+(Added Pub. L. 106–398, § 1 [[div. A], title VII, § 758(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, § 706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, § 712, Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title XVI, § 1632(a), (b), Jan. 28, 2008, 122 Stat. 458, 459; Pub. L. 111–84, div. A, title VI, § 634, Oct. 28, 2009, 123 Stat. 2363; Pub. L. 113–66, div. A, title VI, § 621(d), Dec. 26, 2013, 127 Stat. 784; Pub. L. 119–60, div. A, title VII, § 701(a), Dec. 18, 2025, 139 Stat. 918.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Subsec. (a). Pub. L. 119–60, § 701(a)(1), substituted “Except as provided by subsection (b), in any case” for “In any case”. Subsec. (b). Pub. L. 119–60, § 701(a)(2), substituted “Special Rules for Certain Members and Dependents” for “Allowable Travel and Transportation Under Exceptional Circumstances” in heading, designated existing provisions as par. (1), and added par. (2). 2013—Subsec. (a). Pub. L. 113–66, § 621(d)(1), substituted “travel and transportation allowances as specified in regulations prescribed under section 464 of title 37” for “reimbursement for reasonable travel expenses”. Subsec. (b). Pub. L. 113–66, § 621(d)(2), substituted “Allowable Travel and Transportation Under Exceptional Circumstances.—The Secretary of Defense may provide travel and transportation allowances as specified in the regulations referred to in subsection (a) for” for “Reimbursement for Travel Under Exceptional Circumstances.—The Secretary of Defense may provide reimbursement for reasonable travel expenses of”. 2009—Subsec. (a). Pub. L. 111–84, § 634(b), inserted “of Defense” after “the Secretary”. Subsecs. (b) to (d). Pub. L. 111–84, § 634(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively. 2008—Subsecs. (b), (c). Pub. L. 110–181, § 1632(a), added subsec. (b) and redesignated former subsec. (b) as (c). Subsec. (c)(3). Pub. L. 110–181, § 1632(b), added par. (3). 2003—Pub. L. 108–136 inserted “(a) In General.—” before “In any case” and added subsec. (b). 2001—Pub. L. 107–107 inserted before period at end “and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2008 AmendmentPub. L. 110–181, div. A, title XVI, § 1632(c), Jan. 28, 2008, 122 Stat. 459, provided that: “Subsection (b) of section 1074i of title 10, United States Code, as added by subsection (a)(2), shall apply with respect to travel described in subsection (a) of such section that occurs on or after January 1, 2008, for follow-on specialty care, services, or supplies.”
+
+Guidance on Authority To Provide Travel and Transportation Allowances for Specialty Care Under Exceptional CircumstancesPub. L. 118–159, div. A, title VII, § 706, Dec. 23, 2024, 138 Stat. 1944, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue guidance with respect to the authority of the Secretary under section 1074i(b) of title 10, United States Code.”

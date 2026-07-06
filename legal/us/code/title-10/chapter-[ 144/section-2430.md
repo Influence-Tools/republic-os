@@ -1,0 +1,37 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 2430"
+description: "Repealed. Pub. L. 116–283, div. A, title XVIII, § 1846(f)(8), Jan. 1, 2021, 134 Stat. 4251]"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "[ 144"
+chapter_name: "REPEALED]"
+section: "2430"
+citation: "10 U.S.C. § 2430"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s2430"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "579863957ea8906ea247490c2ac5ba0ac41a7e3d679fbc43ac40697bb609aeca"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "28ecab4fac56bb889653dbd90c5fba09be068929b7285577c197815ab90cca6b"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 2430 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1846(f)(8), Jan. 1, 2021, 134 Stat. 4251]
+
+## Notes
+
+Section, added Pub. L. 100–26, § 7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, § 817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, § 206(b), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, § 1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–92, div. A, title VIII, § 825(a), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§ 807(b), 847(a), Dec. 23, 2016, 130 Stat. 2261, 2292; Pub. L. 115–91, div. A, title VIII, § 831, title X, § 1081(a)(38), Dec. 12, 2017, 131 Stat. 1467, 1596; Pub. L. 116–283, div. A, title XVIII, § 1846(c)(1), (d)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4248–4250, defined major defense acquisition program. See sections 4201, 4202(a), and 4204 of this title.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of RepealRepeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

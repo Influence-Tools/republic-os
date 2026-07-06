@@ -1,0 +1,55 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 4704"
+description: "Defense contractors: listing of suitable employment openings with local employment service office"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "365"
+chapter_name: "CONTRACTOR WORKFORCE"
+section: "4704"
+citation: "10 U.S.C. § 4704"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s4704"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "5ad7716d90b154f8225fe1894e474e80b6c5af25caddb2734dd8ef457ee61a1f"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "1a0d4751c8461f2a7f7a4d08856c05385f5f1e7896b571c3e8be1c695911f125"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 4704 - Defense contractors: listing of suitable employment openings with local employment service office
+
+## Text
+
+(a) Regulations.— The Secretary of Defense shall promulgate regulations containing the requirement described in subsection (b) and such other provisions as the Secretary considers necessary to administer such requirement. Such regulations shall require that each contract described in subsection (c) shall contain a clause requiring the contractor to comply with such regulations.
+
+(b) Requirement.— The regulations promulgated under this section shall require each contractor carrying out a contract described in subsection (c) to list immediately with the appropriate local employment service office, and where appropriate the Interstate Job Bank (established by the United States Employment Service), all of its suitable employment openings under such contract.
+
+(c) Covered Contracts.— The regulations promulgated under this section shall apply to any contract entered into with the Department of Defense in an amount of $500,000 or more.
+
+(Added Pub. L. 102–484, div. D, title XLIV, § 4470(a)(1), Oct. 23, 1992, 106 Stat. 2753, § 2410d; renumbered § 2410k and amended Pub. L. 103–35, title II, §§ 201(b)(1)(A), 202(a)(18)(A), May 31, 1993, 107 Stat. 97, 102; renumbered § 4704, Pub. L. 116–283, div. A, title XVIII, § 1863(b), Jan. 1, 2021, 134 Stat. 4278.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 4711, act Aug. 10, 1956, ch. 1041, 70A Stat. 263, related to inquests, prior to repeal by Pub. L. 106–65, div. A, title VII, § 721(b), Oct. 5, 1999, 113 Stat. 694. A prior section 4712 was renumbered section 7712 of this title. A prior section 4713, acts Aug. 10, 1956, ch. 1041, 70A Stat. 265; Dec. 12, 1980, Pub. L. 96–513, title V, § 512(21)(A), (B), 94 Stat. 2930; Nov. 8, 1985, Pub. L. 99–145, title XIII, § 1301(b)(4)(B), 99 Stat. 736; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), 103 Stat. 1602, related to disposition of effects of deceased persons by Soldiers’ and Airmen’s Home, prior to repeal by Pub. L. 101–510, div. A, title XV, §§ 1533(a)(7)(A), 1541, Nov. 5, 1990, 104 Stat. 1734, 1736, effective one year after Nov. 5, 1990. Prior sections 4714 and 4721 to 4727 were renumbered sections 7714 and 7721 to 7727 of this title, respectively. A prior section 4741, act Aug. 10, 1956, ch. 1041, 70A Stat. 266, related to control and supervision of transportation of members, munitions of war, equipment, military property, and stores of the Army throughout the United States, prior to repeal by Pub. L. 108–375, div. A, title X, § 1072(c), Oct. 28, 2004, 118 Stat. 2058. A prior section 4742 was renumbered section 2644 of this title. A prior section 4743, act Aug. 10, 1956, ch. 1041, 70A Stat. 266, related to use of transportation by officers of the Army, prior to repeal by Pub. L. 108–375, div. A, title X, § 1072(c), Oct. 28, 2004, 118 Stat. 2058. Prior sections 4744 to 4747 were renumbered sections 2648 to 2651 of this title, respectively. A prior section 4748, act Aug. 10, 1956, ch. 1041, 70A Stat. 268, related to transportation of motor vehicles for members on permanent change of station, prior to repeal by Pub. L. 87–651, title I, § 119(1), Sept. 7, 1962, 76 Stat. 513. A prior section 4749 was renumbered section 7749 of this title.
+
+Amendments2021—Pub. L. 116–283 renumbered section 2410k of this title as this section. 1993—Pub. L. 103–35, § 201(b)(1)(A), renumbered section 2410d of this title as section 2410k. Pub. L. 103–35, § 202(a)(18)(A), made technical amendment to directory language of Pub. L. 102–484, which enacted this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Effective Date of 1993 AmendmentAmendment by section 202(a)(18)(A) of Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
+
+Effective DatePub. L. 102–484, div. D, title XLIV, § 4470(b), Oct. 23, 1992, 106 Stat. 2753, provided that: “Section 2410d of title 10, United States Code [now 10 U.S.C. 4704], as added by subsection (a), shall apply with respect to contracts entered into beginning 120 days after the date of the enactment of this Act [Oct. 23, 1992].”

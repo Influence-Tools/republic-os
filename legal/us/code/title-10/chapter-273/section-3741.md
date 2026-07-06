@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3741"
+description: "Definitions"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "273"
+chapter_name: "ALLOWABLE COSTS"
+section: "3741"
+citation: "10 U.S.C. § 3741"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3741"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "3d8fca2ae17747aefe2f0d3e87af171d13e306f1084afe4afcba2fe38c70d538"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "cf3bb202adb3f48e6dc7ee7740bff5aba952215201686fb62b766fe5ba521c7e"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3741 - Definitions
+
+## Text
+
+In this subchapter:
+
+(1) Compensation.— The term “compensation”, for a year, means the total amount of wages, salary, bonuses and deferred compensation for the year, whether paid, earned, or otherwise accruing, as recorded in an employer’s cost accounting records for the year.
+
+(2) Covered contract.— The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial products or commercial services.
+
+(3) Fiscal year.— The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
+
+(4) Head of the agency.— The term “head of the agency” or “agency head” does not include the Secretary of a military department.
+
+(5) Agency.— The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1832(a), (b)(1)–(3), Jan. 1, 2021, 134 Stat. 4218.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of pars. (1)(A), (2)–(4), and (6) of subsec. (l) of section 2324 of this title, which were transferred to this section and amended by Pub. L. 116–283, § 1832(b)(1)–(3), was based on Pub. L. 103–355, title II, § 2101(d), Oct. 13, 1994, 108 Stat. 3308; Pub. L. 105–85, div. A, title VIII, § 808(a)(2), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 115–232, div. A, title VIII, § 836(c)(9), Aug. 13, 2018, 132 Stat. 1866.
+
+Prior ProvisionsA prior section 3741 was renumbered section 7271 of this title.
+
+Amendments2021—Pub. L. 116–283, § 1832(b)(1)–(3), redesignated pars. (4), (1)(A), (6), (2), and (3) of section 2324(l) of this title as pars. (1) to (5), respectively, of this section and inserted headings.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

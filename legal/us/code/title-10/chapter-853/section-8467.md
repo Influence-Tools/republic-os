@@ -1,0 +1,49 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8467"
+description: "Degree on graduation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "853"
+chapter_name: "UNITED STATES NAVAL ACADEMY"
+section: "8467"
+citation: "10 U.S.C. § 8467"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8467"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "0c0ce7f723c2031c3e2a087ccd880285ba7b86475b8bdb2f27b4772fec439b54"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "d3897d3d15ce0d3405473bbd6956eb8947a7e672402d77777ebec770ea5ad990"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8467 - Degree on graduation
+
+## Text
+
+Under regulations prescribed by the Secretary of the Navy, the Superintendent of the Naval Academy may confer the degree of bachelor of science upon graduates of the Academy.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 434, § 6967; renumbered § 8467, Pub. L. 115–232, div. A, title VIII, § 807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 696734 U.S.C. 1057a (less last sentence).May 25, 1933, ch. 37, 48 Stat. 73 (less last sentence); Aug. 9, 1946, ch. 932, 60 Stat. 968; Aug. 4, 1949, ch. 393, § 13, 63 Stat. 559; Aug. 18, 1949, ch. 476, 63 Stat. 614. The word “regulations” is substituted for the words “such rules and regulations”. Since the Naval Academy is now accredited, the words “from and after the date of accrediting of said Academy” are omitted as executed.
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–232 renumbered section 6967 of this title as this section.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Degrees for Persons Who Graduated Before Accrediting of Naval AcademyAct Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under conditions prescribed by the Secretary of the Navy, the Superintendent of the United States Naval Academy “may confer the degree of bachelor of science upon living graduates of [the] Academy who were graduated before the date of accrediting of [the] Academy and who have met the requirements of [the] Academy for that degree.”

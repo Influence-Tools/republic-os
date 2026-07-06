@@ -1,0 +1,63 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3102"
+description: "Objectives of the defense acquisition system"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "205"
+chapter_name: "DEFENSE ACQUISITION SYSTEM"
+section: "3102"
+citation: "10 U.S.C. § 3102"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3102"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "e63dbbbbfb548e7d1452616a1856c886ba96afea7e250dfcd4f79f50e46837dc"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "3c1ffe7495ad392feb6260c9e83d8885877a4e858fbec721d361e80a1b94547f"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3102 - Objectives of the defense acquisition system
+
+## Text
+
+(a) In General.— The Secretary of Defense shall ensure that the defense acquisition system expeditiously provides the armed forces with the capabilities necessary to operate effectively, to address evolving threats, and to sustain the military advantage of the United States in the most cost-effective manner practicable.
+
+(b) Guidance.— The Secretary of Defense shall issue guidance to carry out subsection (a) and shall ensure that the defense acquisition system prioritizes the needs of end users and is validated by direct engagement, experimentation, and iteration. Such guidance shall require the following:
+
+(1) All activities of the defense acquisition system contribute to the expeditious delivery of capabilities to enhance the operational readiness of the armed forces and enable the missions of the Department of Defense.
+
+(2) A leadership culture and organizational structure that empowers individuals in the management of the defense acquisition system and encourages appropriate delegation authority, collaboration, and mission-focused risk-taking.
+
+(3) Sufficient numbers of members of the acquisition workforce to support the defense acquisition system, and that such members are properly trained and assigned.
+
+(4) Resource decisions for the defense acquisition system to prioritize best value and seek to balance life-cycle costs, schedule, performance, and quantity through continuous trade-off analysis informed by prototyping and direct feedback from end users.
+
+(5) Adoption and integration in the defense acquisition system of advanced approaches in digital engineering, model-based engineering, and simulation environments to enable rapid, iterative designs and technology insertion to maximize mission outcomes.
+
+(6) Active pursuit of innovative solutions to enhance effectiveness of the armed forces and responsiveness to emerging threats, including the acquisition and integration of commercial products and commercial services.
+
+(7) Approaches to workforce training and development that equally balance emphasis on functional and technical skills with skills in cross-functional integration, critical thinking, and innovative approaches that best deliver solutions to operational problems.
+
+(Added Pub. L. 114–92, div. A, title VIII, § 802(a)(1), Nov. 25, 2015, 129 Stat. 878, § 2546a; renumbered § 3102 and amended Pub. L. 116–283, div. A, title XVIII, § 1808(a)(2), (3)(A), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title XVIII, § 1801(a)(1), Dec. 18, 2025, 139 Stat. 1221.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2025—Pub. L. 119–60 amended section generally. Prior to amendment, text related to the objective of the defense acquisition system, the customer of the defense acquisition system, and the role of the customer of a major defense acquisition program. 2021—Pub. L. 116–283 renumbered section 2546a of this title as this section and transferred it so as to appear after section 3101 of this title. Directory language transferring this section “within such section” was executed as if it had read “within such chapter”, meaning chapter 205 of this title, to reflect the probable intent of Congress.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2021 AmendmentAmendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+Consideration of Trade-Offs Among Cost, Schedule, and Performance Objectives in Department of Defense Acquisition ProgramsPub. L. 111–23, title II, § 201(a), May 22, 2009, 123 Stat. 1719, which related to consideration of trade-offs among cost, schedule, and performance objectives in Department of Defense acquisition programs, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.

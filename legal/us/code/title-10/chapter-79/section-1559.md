@@ -1,0 +1,59 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 1559"
+description: "Personnel limitation"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "79"
+chapter_name: "CORRECTION OF MILITARY RECORDS"
+section: "1559"
+citation: "10 U.S.C. § 1559"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s1559"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "097c381b1a0762fc74792e9f2f65bbd0b37873624ab82bce009608705a253aa2"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "0e02604a5bb58f5e82fda7ca60acb65dfa7f98d474ec51e25c6ffc7d6850a08c"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 1559 - Personnel limitation
+
+## Text
+
+(a) Limitation.— Before December 31, 2025, the Secretary of a military department may not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency.
+
+(b) Baseline Number.— The baseline number for a service review agency under this section is—
+
+(1) for purposes of the first report with respect to a service review agency under this section, the number of military and civilian personnel assigned to duty with that agency as of January 1, 2002; and
+
+(2) for purposes of any subsequent report with respect to a service review agency under this section, the number of such personnel specified in the most recent report with respect to that agency under this section.
+
+(c) Service Review Agency Defined.— In this section, the term “service review agency” means—
+
+(1) with respect to the Department of the Army, the Army Review Boards Agency;
+
+(2) with respect to the Department of the Navy, the Board for Correction of Naval Records; and
+
+(3) with respect to the Department of the Air Force, the Department of the Air Force Review Boards Agency.
+
+(Added Pub. L. 107–314, div. A, title V, § 552(a), Dec. 2, 2002, 116 Stat. 2552; amended Pub. L. 108–375, div. A, title V, § 581, Oct. 28, 2004, 118 Stat. 1928; Pub. L. 110–417, [div. A], title V, § 593, Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–383, div. A, title V, § 533(b), Jan. 7, 2011, 124 Stat. 4216; Pub. L. 112–239, div. A, title V, § 520, title X, § 1076(b)(2), Jan. 2, 2013, 126 Stat. 1722, 1949; Pub. L. 114–328, div. A, title V, § 592, Dec. 23, 2016, 130 Stat. 2152; Pub. L. 116–92, div. A, title V, § 524(a), Dec. 20, 2019, 133 Stat. 1355; Pub. L. 118–31, div. A, title XVII, § 1722(j)(2)(C), Dec. 22, 2023, 137 Stat. 673; Pub. L. 118–159, div. A, title XVII, § 1701(a)(24), Dec. 23, 2024, 138 Stat. 2204.)
+
+## Notes
+
+Editorial Notes
+
+Amendments2024—Subsec. (c)(3). Pub. L. 118–159 substituted “the Air Force Review” for “the the Air Force Review”. 2023—Subsec. (c)(3). Pub. L. 118–31 inserted “the Department of the” after “Air Force,”. 2019—Subsec. (a). Pub. L. 116–92 substituted “December 31, 2025” for “December 31, 2019” and “that agency.” for “that agency until—” and struck out pars. (1) and (2) which read as follows: “(1) the Secretary submits to Congress a report that— “(A) describes the reduction proposed to be made; “(B) provides the Secretary’s rationale for that reduction; and “(C) specifies the number of such personnel that would be assigned to duty with that agency after the reduction; and “(2) a period of 90 days has elapsed after the date on which the report is submitted.” 2016—Subsec. (a). Pub. L. 114–328 substituted “December 31, 2019” for “December 31, 2016” in introductory provisions. 2013—Subsec. (a). Pub. L. 112–239, § 1076(b)(2), made technical amendment to directory language of Pub. L. 111–383. See 2011 Amendment note below. Pub. L. 112–239, § 520, substituted “December 31, 2016” for “December 31, 2013” in introductory provisions. 2011—Subsec. (a). Pub. L. 111–383, as amended by Pub. L. 112–239, § 1076(b)(2), substituted “December 31, 2013” for “December 31, 2010” in introductory provisions. 2008—Subsec. (a). Pub. L. 110–417 substituted “December 31, 2010” for “October 1, 2008” in introductory provisions. 2004—Subsec. (a). Pub. L. 108–375 substituted “Before October 1, 2008,” for “During fiscal years 2003, 2004, and 2005,” in introductory provisions.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2013 AmendmentPub. L. 112–239, div. A, title X, § 1076(b), Jan. 2, 2013, 126 Stat. 1949, provided that the amendment made by section 1076(b)(2) is effective Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.

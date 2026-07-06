@@ -1,0 +1,349 @@
+{
+  "corpus": "united_states_code",
+  "files": [
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 1",
+      "file_hash": "7b5125637e0c7145ebb0f2e59ba7110863a403579be5e4886a14ced1b8784c37",
+      "path": "legal/us/code/title-09/chapter-1/section-1.md",
+      "section": "1",
+      "source_hash": "b2a1a7114ba62c255f23bc702762d0569b136d296f497001a07a95ee75be1651",
+      "source_identifier": "/us/usc/t9/s1",
+      "text_hash": "4515d11acf8ccadabdb6b1253167c3e92499070b355978d472927026755f1fc5"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 10",
+      "file_hash": "3c19d64b5cbb8761d637f1237ad5a10280d2c895afd5552de1ea27ac0eaba4da",
+      "path": "legal/us/code/title-09/chapter-1/section-10.md",
+      "section": "10",
+      "source_hash": "80254eabe6ce0035232943ba6afe30a26d39faf0f258a7e6e9370eea18799de8",
+      "source_identifier": "/us/usc/t9/s10",
+      "text_hash": "a887509d6f974b58d1119676fa5356b375926edfa0b7bae2f46adaf942100b11"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 11",
+      "file_hash": "6542d7ca73614393e5d70bc99c31d8c8dd226a998df1d0c3831c5e9f12fbe63f",
+      "path": "legal/us/code/title-09/chapter-1/section-11.md",
+      "section": "11",
+      "source_hash": "5fa8232d4457977fb44985a84e25ee61d7d038e1bd1b59a8252b476e8c5225e4",
+      "source_identifier": "/us/usc/t9/s11",
+      "text_hash": "dd7f6d6d3279d40294d02359cdd050e5b622954cc8cf7f2446e347f34e06b227"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 12",
+      "file_hash": "3eb96c521650ca3073022721a4c0f2a73c7ac78818c3c880d10856b1564a5466",
+      "path": "legal/us/code/title-09/chapter-1/section-12.md",
+      "section": "12",
+      "source_hash": "d46f471a5473e3b70a429bc0a1b76cf043dc7ca4b1b3cb1c8d9015265860db83",
+      "source_identifier": "/us/usc/t9/s12",
+      "text_hash": "ae0a0ef138a088c431dd4187e6fbffcf3a6d11b2e94555fc177535de47b23de2"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 13",
+      "file_hash": "319cd7c169be742088d542fbc2fb3530229c8f80a95be84612246bcc8060f862",
+      "path": "legal/us/code/title-09/chapter-1/section-13.md",
+      "section": "13",
+      "source_hash": "24236178aae305141066245793ffd71ee7066cbfe3fb43c3322ab86a10f10612",
+      "source_identifier": "/us/usc/t9/s13",
+      "text_hash": "c93a43b69b90eddf7bc9e3a8296ac472b23bf695c4da59073a0c28d3cb5b5165"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 14",
+      "file_hash": "e1b062965c64ce56d8a72e1d3ed7a5e0d49f75fac2020618044f0d63c56189f2",
+      "path": "legal/us/code/title-09/chapter-1/section-14.md",
+      "section": "14",
+      "source_hash": "d91109293d4aef21ec3ef755950a349c7bd169045792d61379d528ce14e3ae11",
+      "source_identifier": "/us/usc/t9/s14",
+      "text_hash": "15dec569674d48c89d5b1a6901076fe20753ebf28cab4877b0e32ff97268cb97"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 15",
+      "file_hash": "a36a675c07c39c8897deefc3c6141a61375a42b2a7db4ff1013d6b0fede1ca1c",
+      "path": "legal/us/code/title-09/chapter-1/section-15.md",
+      "section": "15",
+      "source_hash": "28799fc8b5c7036b8d5d34fe3cfed9c2994152ebd5a56a617ce1fb087b7a69f9",
+      "source_identifier": "/us/usc/t9/s15",
+      "text_hash": "10623575e33fd613d26231430b6ab3be1b267f06571bfd340169dcc1881794a5"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 16",
+      "file_hash": "9a69a95cc9a4f132541740c96c258c827786896ded97f8f6422c2fa5392ba943",
+      "path": "legal/us/code/title-09/chapter-1/section-16.md",
+      "section": "16",
+      "source_hash": "268df0b6c127c8e33d8f0716d0e667979ecdf448f3148bafb8499a1ac6987a33",
+      "source_identifier": "/us/usc/t9/s16",
+      "text_hash": "7a91d8f8ebe31c09f459c6ba6fb814cada85385bcaa3a251cea51ca3dfcc8d78"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 2",
+      "file_hash": "8e395ee14217c0e2fbc9a7fc71f330a16969b0c47f47dc48079b2e92711bf1e5",
+      "path": "legal/us/code/title-09/chapter-1/section-2.md",
+      "section": "2",
+      "source_hash": "42eb4e29993537b900d6f9aa8ba4fe906593e292db5420b513636b66b78858b9",
+      "source_identifier": "/us/usc/t9/s2",
+      "text_hash": "5a823b652401248396bfedc72435ac0e07d7f60ef6dcd683fd3d9f7dab7a7be5"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 201",
+      "file_hash": "b28436189f083be950e3813ac976cd27b0b811b8bce4d9fa56a30096cf19bb4f",
+      "path": "legal/us/code/title-09/chapter-2/section-201.md",
+      "section": "201",
+      "source_hash": "0b68591206dee507ca90a1c6a4dcb697ad41a1aca258eb375dc1329344ce15e4",
+      "source_identifier": "/us/usc/t9/s201",
+      "text_hash": "9f933c4aa8d53aa7c32494178a1c02221934aaed8aa61ad1e9edc3b1adaf1329"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 202",
+      "file_hash": "eac0f5a230c71f3ca5902fc90c393266837fc9671ec3138535c38f68c14da316",
+      "path": "legal/us/code/title-09/chapter-2/section-202.md",
+      "section": "202",
+      "source_hash": "b409c42ed683bdeca64dffb3f52e68b9e45524d0aca0e4a06887bc5cbb81c7a4",
+      "source_identifier": "/us/usc/t9/s202",
+      "text_hash": "3ae0be6034cf8f0724ddeed42e9066605c62e72c12a4866c1504655aa7e7a56d"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 203",
+      "file_hash": "b17421e87ad84a54874c9dfced9f9f153b007c8702c61d0070def8a65ef7a1ff",
+      "path": "legal/us/code/title-09/chapter-2/section-203.md",
+      "section": "203",
+      "source_hash": "cf984459c7d66be47e71a2538a33117fc3b7a14dc7e0098182d7592516561e89",
+      "source_identifier": "/us/usc/t9/s203",
+      "text_hash": "e497817f5440fd4f3d73f4cffdfbd23864eeb25812333375bbb42797f3398e58"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 204",
+      "file_hash": "57bca0225ea04e20363d44cfe5d9d66016592f7a70ee62357bbc7a3c522d77f0",
+      "path": "legal/us/code/title-09/chapter-2/section-204.md",
+      "section": "204",
+      "source_hash": "08e5b02f5e12e5a4a6d6cd4f0439615744f3fcd71fd503adc86137074753e5d4",
+      "source_identifier": "/us/usc/t9/s204",
+      "text_hash": "6eae0d187e741983442da72848fea5c47831265db4519ce95e32c26d8fea9013"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 205",
+      "file_hash": "16f8108b0ba59bf190affae9d8c41e6196c671be01e31dec63710f918a129a27",
+      "path": "legal/us/code/title-09/chapter-2/section-205.md",
+      "section": "205",
+      "source_hash": "c444802c9fc037bc718c0e271d4532eca5a682fc7e65c53111791d5798ff204f",
+      "source_identifier": "/us/usc/t9/s205",
+      "text_hash": "365e93f9b0ce56d83d8eca2cff7c7d1a8b1957489a0bd3c3334b66aa6c7f5ed9"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 206",
+      "file_hash": "5332d4aefa8256e99a09ade8b45863d3ce5e3ccb166b6c1e70687adbb52df670",
+      "path": "legal/us/code/title-09/chapter-2/section-206.md",
+      "section": "206",
+      "source_hash": "0bc50a7f4335c04e13ec82bcd38dc8d33ca84f90fd68ac1aadbd2cda8a79c496",
+      "source_identifier": "/us/usc/t9/s206",
+      "text_hash": "94e49bd58dc7190caefd22f833416f94c0167391a9d9f16e336d2fb5d709ec2b"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 207",
+      "file_hash": "e3645540f43991c0ba96ae8bfab619bdd6a92f03fc365cfef13190c49daed79f",
+      "path": "legal/us/code/title-09/chapter-2/section-207.md",
+      "section": "207",
+      "source_hash": "1b64416b281ac7007ec35fe0e7c0fc349b07efd5b4ff8437a3ed831bf4ed0638",
+      "source_identifier": "/us/usc/t9/s207",
+      "text_hash": "96f040563aa6d7e7ff11e409d3b7745d08a1f454849af4b6317b82401d87f00b"
+    },
+    {
+      "chapter": "2",
+      "citation": "9 U.S.C. § 208",
+      "file_hash": "04140e791ab2e0979d6f4fe0c62264d9284b7c0082aacdd2c7efecec129229a4",
+      "path": "legal/us/code/title-09/chapter-2/section-208.md",
+      "section": "208",
+      "source_hash": "071b0acf78bbf46106d7070e31fdcf4e80689731cb64d881ab1a2c238f08b09a",
+      "source_identifier": "/us/usc/t9/s208",
+      "text_hash": "2f3ff1ab27b91cccb40ea9d4db17d69b98f339af051794d88bac02a750ab6aa4"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 3",
+      "file_hash": "17f043203cde1f21d2b6eed9df92ec7f22ecef28d4b713f57b4866244b0afe9c",
+      "path": "legal/us/code/title-09/chapter-1/section-3.md",
+      "section": "3",
+      "source_hash": "85857a6b3135dd0be61cbce5fc2677b0a30b9758398ac0b9481490f2033ff723",
+      "source_identifier": "/us/usc/t9/s3",
+      "text_hash": "b87fd3a98568ed93b77d1ef2a25459f9fe49239bcc81662c41cc6d7914bd7c59"
+    },
+    {
+      "chapter": "3",
+      "citation": "9 U.S.C. § 301",
+      "file_hash": "8e7d9e353757e8849274d6c4d50a452e2b6e456983e8caf2a5f8b5c08fab64f5",
+      "path": "legal/us/code/title-09/chapter-3/section-301.md",
+      "section": "301",
+      "source_hash": "b852219cf60c34cd154d8a4dead31603effcdb0a32853191070bd2ce243e1a4f",
+      "source_identifier": "/us/usc/t9/s301",
+      "text_hash": "67486e6d05ebc7a2b47595a3a542ed1767953944e8701b602ff91938d6b35395"
+    },
+    {
+      "chapter": "3",
+      "citation": "9 U.S.C. § 302",
+      "file_hash": "a2760adbbc37ffba81002b68b73a9107f09036749cd53c86e39733ce6dc742b6",
+      "path": "legal/us/code/title-09/chapter-3/section-302.md",
+      "section": "302",
+      "source_hash": "fa37a0ebf559cc64e976e97925f5f8327c397332ffc5d8d6b69172e0e770a90b",
+      "source_identifier": "/us/usc/t9/s302",
+      "text_hash": "8eb0b97c6411e4f79a9c73f9ae981e2392bf10cf1a3bac526702d028c6de273d"
+    },
+    {
+      "chapter": "3",
+      "citation": "9 U.S.C. § 303",
+      "file_hash": "10dbc657d43bcbcb3cd9ea4de3a26f3d6bff1703e33459263af0b80344dacee3",
+      "path": "legal/us/code/title-09/chapter-3/section-303.md",
+      "section": "303",
+      "source_hash": "3e23671af546e09bbc1ebe4737fbe43d4e88e134998638182b38efa8b0f48cca",
+      "source_identifier": "/us/usc/t9/s303",
+      "text_hash": "bbf28dded439d0c45b1e5c4e8150fd96f7d7c4cd09c240a689908acde9e47e58"
+    },
+    {
+      "chapter": "3",
+      "citation": "9 U.S.C. § 304",
+      "file_hash": "e97b680038a9f6a269d18af690133d8ccb3ecdfcbbe7e4379deb133976038bef",
+      "path": "legal/us/code/title-09/chapter-3/section-304.md",
+      "section": "304",
+      "source_hash": "6d6d8125b7d8a5e93752c605216ce145268687c1fb7e14fa3705cef5def0a21b",
+      "source_identifier": "/us/usc/t9/s304",
+      "text_hash": "d7d9f6f58360113a651b2635edd1bed5a0e0c275b1461de01ab0868dbe0b6448"
+    },
+    {
+      "chapter": "3",
+      "citation": "9 U.S.C. § 305",
+      "file_hash": "91728372f48a0236796d3986df91bb86fa74b38f68709a79abb2cb9442cee14f",
+      "path": "legal/us/code/title-09/chapter-3/section-305.md",
+      "section": "305",
+      "source_hash": "db40e908cbb115f70fb660203e7e8886d0fa45c606c1cdd1d4f37bcbab9fbcc2",
+      "source_identifier": "/us/usc/t9/s305",
+      "text_hash": "b3ea474bf4dd8c83eaa8507ee81e29dad9e0a9768b67fe85508b758a2a68becf"
+    },
+    {
+      "chapter": "3",
+      "citation": "9 U.S.C. § 306",
+      "file_hash": "2398816e00a2c9ed267e675c382e27bdd467afbca111594ec724484186508d45",
+      "path": "legal/us/code/title-09/chapter-3/section-306.md",
+      "section": "306",
+      "source_hash": "280bc8d1813bef55e04b4c829d7cc1f600a9c3c6724c34abce34d1ecfd74220c",
+      "source_identifier": "/us/usc/t9/s306",
+      "text_hash": "9cb520cb20e2f318c57584ec16a02808cde1614b234fc72151c08d32d64e4e21"
+    },
+    {
+      "chapter": "3",
+      "citation": "9 U.S.C. § 307",
+      "file_hash": "279220f7e3bcca4a042b20d07ab3262de840e81241e64033f4472aa438b24789",
+      "path": "legal/us/code/title-09/chapter-3/section-307.md",
+      "section": "307",
+      "source_hash": "8de0f2f6854c0d4cdae89cc5d688137755e23774afc65326a6cc7461082e808e",
+      "source_identifier": "/us/usc/t9/s307",
+      "text_hash": "dcd5f58cf40dfdcd6598b21497d26b961dbfe73d0bcd00e02ae9fc270afcfb39"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 4",
+      "file_hash": "d659a2945d2d343c4187c3b2f1e82f29907cfee04ebbd864efe59c5d24b258f5",
+      "path": "legal/us/code/title-09/chapter-1/section-4.md",
+      "section": "4",
+      "source_hash": "8fbb35e515ecd5fb5265098ddd864c2a5591837d62ab15acfeccd3e4b1bb68dc",
+      "source_identifier": "/us/usc/t9/s4",
+      "text_hash": "0823622e57d39c06a992606c3905c47f1fef8df76e148ad1024d411c07745f71"
+    },
+    {
+      "chapter": "4",
+      "citation": "9 U.S.C. § 401",
+      "file_hash": "ed4fae1f0dc7b6733b88b578155bfa26b63661fa5d2798efd30349ada03f2e1b",
+      "path": "legal/us/code/title-09/chapter-4/section-401.md",
+      "section": "401",
+      "source_hash": "d9c058486d4b2c2ddfc76e2b05e86937208ef9cf7741738f3a904cf717fe2be4",
+      "source_identifier": "/us/usc/t9/s401",
+      "text_hash": "1d764170f783c4570ff271ebc0151fb8ce6cf5defd46bcf667d59cbc791a0c5e"
+    },
+    {
+      "chapter": "4",
+      "citation": "9 U.S.C. § 402",
+      "file_hash": "d77d889628fc216ed63cde3efdf5ffbb9e0513d4d791a78b7417abc8faed8fa3",
+      "path": "legal/us/code/title-09/chapter-4/section-402.md",
+      "section": "402",
+      "source_hash": "7c9f1714ea59656c2f8d7418f82312a72840bd86a3d6aa5fca80e1490cd27cc3",
+      "source_identifier": "/us/usc/t9/s402",
+      "text_hash": "ed8c6e5aca7635de5b4c7026b89c86a81429092f10ce5b3f482b447fb0bb3add"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 5",
+      "file_hash": "deb86cb3e21322f875a619b6ad4f47f0c7e90e0fb88f29877a0421aaae37fe75",
+      "path": "legal/us/code/title-09/chapter-1/section-5.md",
+      "section": "5",
+      "source_hash": "484a00e4942b512630ed5b045b5fe07008d637c66382f6c149fa8cbad420ffcb",
+      "source_identifier": "/us/usc/t9/s5",
+      "text_hash": "f29f720eb1369a2628e3664676377df405204835cfcfb480cd50c953f6298857"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 6",
+      "file_hash": "7149cd7589d63452d75a3d1a09dd9d5c59dff74edc7f59551e4c7a5bf7138980",
+      "path": "legal/us/code/title-09/chapter-1/section-6.md",
+      "section": "6",
+      "source_hash": "a2969123dad84350ab6d0a7035f3ef246e82d590be279a246121e75e144afd5f",
+      "source_identifier": "/us/usc/t9/s6",
+      "text_hash": "3d0e54d25c4dac5189d04b3d35d41f7516c0d0b7ac46c2fcbefd859f8a3ed173"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 7",
+      "file_hash": "a48b982800197b013cf748f1f7995360ff6f038d9e227592cf9b5e59649cee9e",
+      "path": "legal/us/code/title-09/chapter-1/section-7.md",
+      "section": "7",
+      "source_hash": "6634245e42dafc1772bdae342d573e189e54a02d3fe63eeafd28effcb7fd320c",
+      "source_identifier": "/us/usc/t9/s7",
+      "text_hash": "bf4b78e63b29b6b18be378e816182048058b952a5ac5c2c2fc2a067691161946"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 8",
+      "file_hash": "677864e3b80d3f579a2618e18892c1964845ad858ff07f86fadae1e2bc8ddb55",
+      "path": "legal/us/code/title-09/chapter-1/section-8.md",
+      "section": "8",
+      "source_hash": "0507cef6a02f78b432be57d61965aa62f2795cb51f23e7580741f65351a628ae",
+      "source_identifier": "/us/usc/t9/s8",
+      "text_hash": "461e81602170b919c98fb512f55cc6465aa72c79ad8c4d716cadd68cc7e7da93"
+    },
+    {
+      "chapter": "1",
+      "citation": "9 U.S.C. § 9",
+      "file_hash": "f50dfbcb16424a68e2dbf37e75679df9f8c0849e0b6f14657240a9b523d1b485",
+      "path": "legal/us/code/title-09/chapter-1/section-9.md",
+      "section": "9",
+      "source_hash": "1cd9b884fb8a4311d448e28e9744915268139a0657e637f12fc242fca49996c2",
+      "source_identifier": "/us/usc/t9/s9",
+      "text_hash": "fb3d340260599bc560ba0fa9b1b773ef66b7f58d7dd911cbab531eb03e1d3c24"
+    }
+  ],
+  "jurisdiction": "us",
+  "release_date": "2026-06-26",
+  "release_point": "119-100",
+  "retrieved_at": "2026-07-04",
+  "section_count": 33,
+  "source": "official",
+  "source_file": "data/legal/raw/us/code/title-09/xml_usc09@119-100.zip",
+  "source_file_sha256": "2769b4a64cc395f176a6e802747859e933a2e12cb957f17140550f8b278a9108",
+  "source_url": "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc09@119-100.zip",
+  "title_name": "ARBITRATION",
+  "title_number": 9,
+  "type": "LegalManifest",
+  "xml_file": "data/legal/raw/us/code/title-09/usc09.xml",
+  "xml_file_sha256": "97fab486a462f7427ae9edd74d97661bb425a232626b6c28b7089361c160e489"
+}

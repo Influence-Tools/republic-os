@@ -1,0 +1,67 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 8458"
+description: "Midshipmen: qualifications for admission"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "853"
+chapter_name: "UNITED STATES NAVAL ACADEMY"
+section: "8458"
+citation: "10 U.S.C. § 8458"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s8458"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "465ff91d5463c2e81adf193df2cd9a70e342d0e85467a0b72eeb4cb1a6988778"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "73f75cce17cf357a18e2e5ffec76c0ace4f4ae0b3c9f96fe428c69189e52fd73"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 8458 - Midshipmen: qualifications for admission
+
+## Text
+
+(a) Each candidate for admission to the Naval Academy—
+
+(1) must be at least 17 years of age and must not have passed his twenty-third birthday on July 1 of the calendar year in which he enters the Academy; and
+
+(2) shall be examined according to such regulations as the Secretary of the Navy prescribes, and if rejected at one examination may not be examined again for admission to the same class unless recommended by the Academic Board.
+
+(b) Each candidate for admission nominated under clauses (3) through (9) of section 8454(a) of this title must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
+
+(c) Each candidate nominated under clause (2) or (3) of section 8454(b) of this title—
+
+(1) must be a citizen of the United States;
+
+(2) must have passed the required physical examination; and
+
+(3) shall be appointed in the order of merit from candidates who have, in competition with each other, passed the required mental examination.
+
+(d) To be admitted to the Naval Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Navy. If a candidate for admission refuses to take and subscribe to the prescribed oath, the candidate’s appointment is terminated.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431, § 6958; Pub. L. 87–663, § 1(4), Sept. 14, 1962, 76 Stat. 547; Pub. L. 93–171, § 2(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 101–510, div. A, title V, § 532(b)(3), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 102–190, div. A, title V, § 512, Dec. 5, 1991, 105 Stat. 1360; Pub. L. 104–201, div. A, title V, § 555(c), Sept. 23, 1996, 110 Stat. 2527; Pub. L. 105–85, div. A, title V, § 541(a), Nov. 18, 1997, 111 Stat. 1740; renumbered § 8458 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+
+## Notes
+
+Historical and Revision Notes Revised sectionSource (U.S. Code)Source (Statutes at Large) 6958(a)(1)34 U.S.C. 1047 (less 1st proviso).June 30, 1950, ch. 421, § 2 (less 1st proviso), 64 Stat. 304. 6958(a)(2)34 U.S.C. 1043.R.S. 1515. 6958(b)34 U.S.C. 1047 (2d proviso).June 30, 1950, ch. 421, § 2 (2d proviso), 64 Stat. 304. 6958(c)34 U.S.C. 1042.Mar. 4, 1917, ch. 180, 39 Stat. 1182 (1st par.).  34 U.S.C. 1032 (less 1st 70 words).Dec. 20, 1917, ch. 5, § 1 (less 1st 70 words), 40 Stat. 430; Aug. 13, 1946, ch. 962, § 16, 60 Stat. 1061; May 16, 1947, ch. 77, § 1(o), 61 Stat. 100. In subsection (a) the effective date is omitted as executed. The words “at least 17 years of age and must not have passed his twenty-second birthday” are substituted for the words “not less than seventeen years of age and not more than twenty-two years of age” to remove ambiguity, and for uniformity of treatment of provisions of this type. The reference to time of examination is omitted as being included within the Secretary’s authority to prescribe regulations, which is stated in the subsection. The words “Academic Board” are substituted for the words “board of examiners”. In subsection (b) the words “domiciled in” are substituted for the words “actual resident of” since this term has been so interpreted.
+
+Editorial Notes
+
+Amendments2018—Pub. L. 115–232, § 807(c)(1), renumbered section 6958 of this title as this section. Subsec. (b). Pub. L. 115–232, § 809(a), substituted “clauses (3) through (9) of section 8454(a)” for “clauses (3) through (9) of section 6954(a)”. Subsec. (c). Pub. L. 115–232, § 809(a), substituted “clause (2) or (3) of section 8454(b)” for “clause (2) or (3) of section 6954(b)” in introductory provisions. 1997—Subsec. (d). Pub. L. 105–85 added subsec. (d). 1996—Subsec. (a)(1). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”. 1991—Subsec. (c)(2) to (4). Pub. L. 102–190 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which required candidates to have served at least one year as enlisted members on date of entrance. 1990—Subsec. (b). Pub. L. 101–510 substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”. 1973—Subsec. (b). Pub. L. 93–171 substituted “, (9) and (10) of section 6954(a)” for “and (9) of section 6954(a)” and struck out “or Territory”. 1962—Subsec. (b). Pub. L. 87–663 inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “clauses (3)–(7) and (9)” for “clauses (3)–(7)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective Date of 2018 AmendmentAmendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+Effective Date of 1973 AmendmentFor effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93–171, set out as a note under section 7442 of this title.
+
+Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf WarFor authority to waive maximum age limitation in subsec. (a)(1) of this section on basis of service on active duty in connection with Operation Desert Storm, see section 514 of Pub. L. 102–190, set out as a note under section 7446 of this title.

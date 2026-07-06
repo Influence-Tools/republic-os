@@ -1,0 +1,69 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 3805"
+description: "Payments for commercial products and commercial services"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "277"
+chapter_name: "CONTRACT FINANCING"
+section: "3805"
+citation: "10 U.S.C. § 3805"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s3805"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "bebd9b6e8360d858da7e489791a3ee0073d0063ec9269500410399ffab61ac36"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "13df208c42aba871bb1aca3b79baefebfedcdb2264301a8be29c9ecc4b786868"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 3805 - Payments for commercial products and commercial services
+
+## Text
+
+(a) Terms and Conditions for Payments.— Payments under section 3801 of this title for commercial products and commercial services may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States.
+
+(b) Security for Payments.— The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
+
+(c) Limitation on Advance Payments.— Advance payments made under section 3801 of this title for commercial products and commercial services may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
+
+(d) Nonapplication of Certain Conditions.— (1) The conditions of sections 3803 and 3804 of this title need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to this section.
+
+(2) For the purposes of section 3803 of this title, a payment for covered services acquired through a commercially utilized acquisition strategy shall not be considered an advance payment made under section 3801 of this title.
+
+(e) Definitions.— In this section:
+
+(1) The term “commercially utilized acquisition strategy” means an acquisition of a service by the head of an agency under terms and conditions that—
+
+(A) are similar to the terms and conditions under which such service is available to the public; and
+
+(B) provide such service—
+
+(i) as a consumption-based solution (as defined in section 3605 of this title); or
+
+(ii) under a technology subscription model or other model based on predetermined pricing for access to such service.
+
+(2) The term “covered service” means a commercial service that includes access to or use of any combination of hardware, equipment, software, labor, or services, including access to commercial satellite data and associated services, that is integrated to provide a capability.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1834(a), (f), Jan. 1, 2021, 134 Stat. 4234, 4236; Pub. L. 119–60, div. A, title XVIII, § 1827, Dec. 18, 2025, 139 Stat. 1250.)
+
+## Notes
+
+Editorial Notes
+
+Codification The text of subsec. (f) of section 2307 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1834(f), was based on Pub. L. 103–355, title II, § 2001(f), Oct. 13, 1994, 108 Stat. 3302; Pub. L. 115–232, div. A, title VIII, § 836(c)(6), Aug. 13, 2018, 132 Stat. 1866.
+
+Amendments2025—Subsec. (d). Pub. L. 119–60, § 1827(1), designated existing provisions as par. (1) and added par. (2). Subsec. (e). Pub. L. 119–60, § 1827(2), added subsec. (e). 2021—Pub. L. 116–283, § 1834(f)(1)(A), transferred subsec. (f) of section 2307 of this title to this section and struck out subsec. (f) designation and heading “Conditions for Payments for Commercial Products and Commercial Services” at beginning. Subsec. (a). Pub. L. 116–283, § 1834(f)(1)(B), (4), after transfer of section 2307(f) of this title to this section, redesignated par. (1) as subsec. (a), inserted heading, and substituted “section 3801 of this title” for “subsection (a)”. Subsec. (b). Pub. L. 116–283, § 1834(f)(4), inserted heading. Pub. L. 116–283, § 1834(f)(2), which directed the designation of “the second sentence of subsection (a) as subsection (b)”, was executed by designating the second and third sentences of subsec. (a) as (b), to reflect the probable intent of Congress. Subsec. (c). Pub. L. 116–283, § 1834(f)(1)(B), (5), after transfer of section 2307(f) of this title to this section, redesignated par. (2) as subsec. (c), inserted heading, and substituted “section 3801 of this title” for “subsection (a)”. Subsec. (d). Pub. L. 116–283, § 1834(f)(1)(B), (6), after transfer of section 2307(f) of this title to this section, redesignated par. (3) as subsec. (d), inserted heading, and substituted “sections 3803 and 3804 of this title” for “subsections (d) and (e)” and “this section” for “paragraphs (1) and (2)”.
+
+Statutory Notes and Related Subsidiaries
+
+Effective DateSection and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

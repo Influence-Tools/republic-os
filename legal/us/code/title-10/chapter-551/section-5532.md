@@ -1,0 +1,51 @@
+---
+type: "LegalText"
+title: "10 U.S.C. § 5532"
+description: "Hypersonic defense capability development"
+jurisdiction: "us"
+corpus: "united_states_code"
+kind: "code_section"
+title_number: 10
+title_name: "ARMED FORCES"
+chapter_number: "551"
+chapter_name: "MISSILE DEFENSE"
+section: "5532"
+citation: "10 U.S.C. § 5532"
+status: "current"
+release_point: "119-100"
+release_date: "2026-06-26"
+source: "official"
+source_url: "https://uscode.house.gov/download/releasepoints/us/pl/119/100/xml_usc10@119-100.zip"
+source_identifier: "/us/usc/t10/s5532"
+source_file: "data/legal/raw/us/code/title-10/usc10.xml"
+source_hash: "a7d2f842e8cfa8287893be7db897c24455d619940c845939f258784ba6421179"
+raw_snapshot_hash: "06a2679d38355c44f4219c983fdad34009233205d6ba271593a4c1b17a739ec1"
+text_hash: "26d09e862b830169d0b095b187bd7810dc830b173b1e467614e2fbc0a5615c10"
+retrieved_at: "2026-07-04"
+confidence: "official"
+tags: ["legal", "us-code"]
+---
+
+# 10 U.S.C. § 5532 - Hypersonic defense capability development
+
+## Text
+
+(a) Executive Agent.— The Director of the Missile Defense Agency shall serve as the executive agent for the Department of Defense for the development of a capability by the United States to counter hypersonic boost-glide vehicle capabilities and conventional prompt strike capabilities that may be employed against the United States, the allies of the United States, and the deployed forces of the United States.
+
+(b) Duties.— In carrying out subsection (a), the Director shall—
+
+(1) develop architectures for a hypersonic defense capability, from detecting threats to intercepting such threats, that—
+
+(A) involves systems of the military departments and the Defense Agencies; and
+
+(B) includes both kinetic and nonkinetic options for such interception; and
+
+(2) not later than September 30, 2017, establish a program of record to develop a hypersonic defense capability.
+
+(Added Pub. L. 118–159, div. A, title XVI, § 1649(a), Dec. 23, 2024, 138 Stat. 2194.)
+
+## Notes
+
+Editorial Notes
+
+Prior ProvisionsA prior section 5532, act Aug. 10, 1956, ch. 1041, 70A Stat. 318, set forth classes of persons prohibited from enlisting in the naval service, prior to repeal by Pub. L. 90–235, § 2(a)(3), (b), Jan. 2, 1968, 81 Stat. 756. Provisions similar to those in this section were contained in Pub. L. 114–328, div. A, title XVI, § 1687, Dec. 23, 2016, 130 Stat. 2629, which was set out in a note under section 4205 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1649(b)(5), Dec. 23, 2024, 138 Stat. 2199.
