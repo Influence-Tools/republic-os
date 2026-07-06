@@ -27,6 +27,9 @@ LEGAL_ROOT = REPO / "legal" / "us" / "code"
 USLM_NS = "http://xml.house.gov/schemas/uslm/1.0"
 NS = {"u": USLM_NS, "dc": "http://purl.org/dc/elements/1.1/"}
 
+# Topic tags beyond the base ["legal", "us-code"], per title.
+EXTRA_TAGS = {52: ["elections"]}
+
 DEFAULT_RELEASE = "119-100"
 DEFAULT_PUBLIC_LAW_CONGRESS = "119"
 DEFAULT_PUBLIC_LAW_NUMBER = "100"
@@ -224,7 +227,7 @@ def iter_code_sections(root):
             yield section
 
 
-def write_section(section, parents, meta, args, archive_hash, xml_path):
+def write_section(section, parents, meta, args, archive_hash, xml_path, used_paths):
     number = section_number(section)
     heading = child_text(section, "heading")
     chapter = nearest_ancestor(section, parents, "chapter")
@@ -265,7 +268,7 @@ def write_section(section, parents, meta, args, archive_hash, xml_path):
         "text_hash": text_hash,
         "retrieved_at": args.retrieved_at,
         "confidence": "official",
-        "tags": ["legal", "us-code", "elections"],
+        "tags": ["legal", "us-code"] + EXTRA_TAGS.get(meta["title_number"], []),
     }
 
     yaml = ["---"]
@@ -283,6 +286,13 @@ def write_section(section, parents, meta, args, archive_hash, xml_path):
 
     chapter_slug = f"chapter-{chapter_number.lower()}" if chapter_number else "chapter-unknown"
     out = LEGAL_ROOT / f"title-{meta['title_number']:02d}" / chapter_slug / f"section-{slugify(number)}.md"
+    # The Code genuinely contains duplicate section numbers (e.g. two 5 U.S.C.
+    # 5757 enacted by different laws). Keep every one: the first occurrence in
+    # document order gets the plain path, later ones a deterministic -N suffix.
+    occurrence = used_paths.get(out, 0) + 1
+    used_paths[out] = occurrence
+    if occurrence > 1:
+        out = out.with_name(f"section-{slugify(number)}-{occurrence}.md")
     out.parent.mkdir(parents=True, exist_ok=True)
     content = "\n".join(yaml)
     out.write_text(content, encoding="utf-8")
@@ -337,8 +347,9 @@ def main():
         shutil.rmtree(out_title)
 
     files = []
+    used_paths = {}
     for section in sorted(iter_code_sections(root), key=lambda s: section_number(s)):
-        files.append(write_section(section, parents, meta, args, archive_hash, raw_xml))
+        files.append(write_section(section, parents, meta, args, archive_hash, raw_xml, used_paths))
 
     manifest = {
         "type": "LegalManifest",
