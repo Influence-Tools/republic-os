@@ -104,22 +104,46 @@ def main():
 
     # ---- district representation per county (fips -> {cd, ss, sh}) ----
     rep_by_node = defaultdict(list)               # district node id -> current rep name(s)
+    rep_party_by_node = defaultdict(list)         # district node id -> current rep party code(s)
     for rec in officeholders:
         if not rec.get("is_current"):
             continue
         nid = build.person_district_node(rec)
         if nid:
             rep_by_node[nid].append(rec.get("full_name") or "?")
+            rep_party_by_node[nid].append(rec.get("party"))
     KEYMAP = {"CD": "cd", "SS": "ss", "SH": "sh"}
     districts_by_fips = defaultdict(lambda: {"cd": [], "ss": [], "sh": []})
+    party_ct = defaultdict(lambda: {"D": 0, "R": 0})       # fips -> rep head-count by party (>=5% of county)
     for e in sorted(build.load("county_district_edges.jsonl"),
                     key=lambda x: (x["county_geoid"], build.DTYPE_RANK[x["type"]], -x["area_weight"])):
         dt = e["type"]
         ident = build.cd_ident(e["district_label"]) if dt == "CD" else build.leg_ident(e["district_label"])
-        reps = sorted(set(rep_by_node.get(build.edge_node_id(e), [])))
-        districts_by_fips[build.canonical_fips(e["county_geoid"])][KEYMAP[dt]].append(
+        node = build.edge_node_id(e)
+        reps = sorted(set(rep_by_node.get(node, [])))
+        cf = build.canonical_fips(e["county_geoid"])
+        w = e["area_weight"]
+        dparties = set()
+        for p in rep_party_by_node.get(node, []):
+            if p in ("D", "R"):
+                dparties.add(p)
+                if w >= 0.05:                 # ignore sliver overlaps in the county tally
+                    party_ct[cf][p] += 1
+        districts_by_fips[cf][KEYMAP[dt]].append(
             {"d": build.district_title(dt, e["district_state"], ident),
-             "w": round(e["area_weight"], 3), "rep": ", ".join(reps) or None})
+             "w": round(e["area_weight"], 3), "rep": ", ".join(reps) or None,
+             "p": (next(iter(dparties)) if len(dparties) == 1 else None)})
+
+    # ---- partisan representation lean per county (from state + federal reps) ----
+    # lean = (R - D) / (R + D) by rep head-count; -1 all-D .. +1 all-R. Head-count (not
+    # area) so it matches the "N D · M R" readout and isn't skewed by large rural
+    # districts; districts covering <5% of the county are treated as slivers, excluded.
+    for cf, entry in county_data.items():
+        ct = party_ct.get(cf, {"D": 0, "R": 0})
+        tot = ct["D"] + ct["R"]
+        entry["lean"] = round((ct["R"] - ct["D"]) / tot, 3) if tot > 0 else None
+        entry["repD"] = ct["D"]
+        entry["repR"] = ct["R"]
 
     # ---- county_detail.json (any county with officials OR districts) ----
     fips_to_key = {cf: key for key, cf in slug_to_fips.items()}
@@ -165,6 +189,8 @@ def main():
           f"({len(districts_by_fips)} with district representation)")
     print(f"officials mapped: {total_oh - unresolved}/{total_oh}  "
           f"(county-unresolvable, tree-only: {unresolved})")
+    leaned = sum(1 for v in county_data.values() if v.get("lean") is not None)
+    print(f"partisan lean:      {leaned}/{len(county_data)} counties have D/R representation")
     print(f"board.html injected: totals={totals}")
 
 
