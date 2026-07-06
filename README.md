@@ -8,7 +8,7 @@ Government is already software: statutes are code, agencies are processes, elect
 
 ## What's in here today
 
-105,743 markdown records, every one schema-validated:
+302,874 markdown records, every one schema-validated:
 
 | Entity | Count | What it is |
 |---|---:|---|
@@ -17,6 +17,7 @@ Government is already software: statutes are code, agencies are processes, elect
 | **Candidate** | 2,494 | Everyone running for federal office in 2026, from FEC filings. |
 | **Jurisdiction** | 29,905 | Every U.S. county (3,131), all 435 congressional districts (Census demographics on 363), every state legislative district (4,927 house, 1,897 senate), and **every incorporated municipality in the country — 19,513 cities, towns, villages, and boroughs** — keyed by Census place GEOID, with officeholders attached where the mirror has them. |
 | **LegalText** | 59,740 | **The complete United States Code** — every section of all 53 titles that carry content (Title 53 is reserved), from General Provisions to Wildlife, mirrored section-by-section from the official OLRC USLM XML at release point 119-100 (current through Public Law 119-100). |
+| **Bill** | 197,131 | **Enacted legislation from all 50 states** — every bill and resolution the states enacted, each with its version chain (the diff), action timeline (the PR events), sponsors (the authors), and roll-call votes (the merge decisions), from the OpenStates bulk snapshot vintage 2026-07-01. If the U.S. Code is the deployed branch, these are the merged pull requests. |
 
 And the axes now cross: **27,804 authority edges** link 17,031 U.S. Code sections to the executive offices they empower, so the Attorney General's node lists every one of the 2,386 sections that vests authority in it. Law and power are no longer separate piles.
 
@@ -28,6 +29,7 @@ The mirror answers, with receipts: *who holds power, who runs the institution, w
 raw source exports         deterministic build          validated tree
 data/*.jsonl        ──►    scripts/build.py      ──►    data/jurisdictions/**
 data/legal/raw      ──►    scripts/ingest_*.py   ──►    legal/**
+depot: legislation  ──►    ingest_legislation.py ──►    legislation/**
 (committed as-is)          (one pass)                   (OKF markdown + YAML)
 ```
 
@@ -41,6 +43,7 @@ data/legal/raw      ──►    scripts/ingest_*.py   ──►    legal/**
 ```bash
 make build         # regenerate the entity tree from the raw exports
 make legal-us-code # regenerate the U.S. Code legal corpus (TITLES="1 2 ..." overridable)
+make legislation   # ingest enacted state legislation from the depot export (LEG_STATES="fl ca" overridable)
 make validate      # OKF + schema + link-integrity checks on all records
 make changelog     # what changed in the government since the last commit
 make board         # rebuild the Board's inlined data from the tree
@@ -55,6 +58,7 @@ Everything runs on the Python standard library. No dependencies to install.
 - [Data Model](docs/data-model.md) — entity types, IDs, the file format, the jurisdiction tree
 - [Sources](docs/sources.md) — where every fact comes from, and how current it is
 - [Legal Corpus](docs/legal-corpus.md) — deterministic legal text mirroring, raw snapshots, manifests, and checksums
+- [Legislation Corpus](docs/legislation.md) — enacted state law across all 50 states, bill-as-pull-request, raw off-repo on the depot
 - [The Board](docs/board.md) — the county map view, how its data is rebuilt, and how to redeploy the Artifact
 - [Roadmap](docs/roadmap.md) — what exists, what's next
 - [Contributing](docs/contributing.md) — the disciplines, and how to add a source

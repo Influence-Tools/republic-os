@@ -5,13 +5,14 @@ An honest account of what exists, what's next, and what's further out. This repo
 ## Done
 
 - **The substrate** — repo-canonical, OKF markdown + YAML frontmatter, JSON-Schema validated, deterministic build (byte-identical on rerun).
-- **Five entity types, 105,743 files** — Person (13,329), Body (275), Candidate (2,494), Jurisdiction (29,905), LegalText (59,740).
+- **Six entity types, 302,874 files** — Person (13,329), Body (275), Candidate (2,494), Jurisdiction (29,905), LegalText (59,740), Bill (197,131).
 - **The federal government, structurally** — every member of Congress, the chambers, 49 committees and 181 subcommittees with their leadership, and every member's committee seats.
 - **The nationwide county skeleton** — all 3,131 U.S. counties as demographic nodes, plus all 435 congressional districts (Census ACS demographics on 363).
 - **The authority layer** — every state legislative district (4,927 house, 1,897 senate) linked county↔district↔legislator, nationwide.
 - **The municipal layer** — every incorporated place in the country (19,513 cities, towns, villages, boroughs) as a first-class Jurisdiction node keyed by Census place GEOID, modelled like a county (place + government fused). 2,229 are filled with their officeholders today (2,217 GEOID-resolved off a 98.8% name→GEOID join); the rest are truthful skeleton stubs — "governed, not yet mirrored" — waiting for depth, the same discipline as the county skeleton.
 - **The complete U.S. Code** — every section of all 53 populated titles (Title 53 is reserved), 59,740 per-section records, mirrored from the official OLRC USLM XML at release point 119-100, uniform edition end to end, with manifests and checksums.
 - **The authority axis (v1)** — the executive branch minted as nodes from the Code's own enumerations (15 Cabinet departments from 5 U.S.C. § 101, 21 Level I offices from § 5312), and **27,804 edges** linking 17,031 sections to the offices they empower. `scripts/extract_authority.py` → `data/section_authority_edges.jsonl` (a committed input, like the district edges); reciprocal "empowered by" links render on each office node. Named references only for now (cabinet-level); relative refs ("the Secretary") and the agency long tail are next.
+- **The legislation corpus** — 197,131 enacted bills and resolutions from all 50 states (OpenStates vintage 2026-07-01) as `Bill` records with version chains, sponsors, votes, and action timelines. Raw JSONL off-repo on the depot; the per-state SHA-256 manifest committed as the provenance anchor. The state-law "merged PRs" beside the U.S. Code's "deployed branch"; the next vintage's diff is the changelog of American state law.
 - **The 2026 federal candidate field** — every FEC filing as a Candidate.
 - **Florida to the ground** — officeholders down to the municipal level across all 67 counties.
 - **The pipeline** — `make build` / `validate` / `changelog` / `check`, standard-library only.
