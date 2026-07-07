@@ -49,13 +49,15 @@ The format conforms to the [Open Knowledge Format (OKF)](https://github.com/Goog
 | **Body** | 275 | `us/bodies/…`, `us/executive/…` | [body.schema.json](../schemas/body.schema.json) |
 | **Candidate** | 2,494 | `us/states/<st>/candidates/` | [candidate.schema.json](../schemas/candidate.schema.json) |
 | **Jurisdiction** | 29,905 | county / city `index.md`, `us/states/<st>/districts/` | [jurisdiction.schema.json](../schemas/jurisdiction.schema.json) |
-| **LegalText** | 11,221 | `legal/us/code/title-<nn>/…` | [legal_text.schema.json](../schemas/legal_text.schema.json) |
+| **LegalText** | 59,740 | `legal/us/code/title-<nn>/…` | [legal_text.schema.json](../schemas/legal_text.schema.json) |
+| **Bill** | 197,131 | `legislation/us/states/<st>/<session>/` | [bill.schema.json](../schemas/bill.schema.json) |
 
 - **Person** — an officeholder, filed by the jurisdiction they serve. Federal members are enriched with their bioguide ID, leadership roles, and committee seats.
 - **Body** — an institution: a chamber, committee, subcommittee, or an executive department/agency/office. The "repos" of the government-as-code model. Executive Bodies under `us/executive/` are minted from the Code's own enumerations (5 U.S.C. §§ 101, 5312) and carry the **authority axis** — reciprocal links to the U.S. Code sections that empower them, from `data/section_authority_edges.jsonl`.
 - **Candidate** — someone running for office, distinct from a current officeholder. Sourced from FEC filings.
 - **Jurisdiction** — a place with a government, carrying Census demographics and/or district edges. A county's node is its directory `index.md`; a **city's** is likewise an `index.md` under `municipalities/`, keyed by Census place GEOID and modelled exactly like a county (place + government fused, officeholders nested beneath); a district's is a file under `districts/`.
 - **LegalText** — a single section of statute, filed under its title and chapter. See the [legal corpus](legal-corpus.md).
+- **Bill** — a piece of enacted state legislation, a bill or resolution, carrying its version chain (the diff), sponsors (the authors), votes (the merge decisions), and action timeline. A bill is a merged pull request against the law. Filed under its state and session across all 50 states, from the OpenStates snapshot. See the [legislation corpus](legislation.md).
 
 ## The jurisdiction tree
 
@@ -85,6 +87,8 @@ data/jurisdictions/
 
 The tree is **complete on the map, uneven on the ground**: every U.S. county *and* every incorporated municipality (19,513 of them) exists as a node, but officeholder depth is deepest in Florida and thins out elsewhere. A city node with no `people/` yet is a truthful skeleton stub — "governed, not yet mirrored." An empty directory is not a failure — it is the frontier.
 
+Beside the jurisdiction tree sit two parallel top-level corpus trees, under the same OKF discipline and validated together: `legal/` (the complete U.S. Code) and `legislation/` (enacted state law, all 50 states). The U.S. Code is the deployed branch; the state legislation is the merged pull requests.
+
 A second axis — cross-cutting **issues** that link entities across the tree — is designed but not yet built. See the [roadmap](roadmap.md).
 
 ## Identifiers
@@ -99,7 +103,7 @@ The build is deterministic by construction: sorted iteration, a fixed key order,
 
 ## Validation
 
-[`scripts/validate.py`](../scripts/validate.py) checks all 105,743 files with no third-party dependencies:
+[`scripts/validate.py`](../scripts/validate.py) checks all 302,874 files with no third-party dependencies:
 
 1. **OKF conformance** — every file has frontmatter with a non-empty `type`.
 2. **Schema conformance** — required fields, property types, and enums per entity type.
